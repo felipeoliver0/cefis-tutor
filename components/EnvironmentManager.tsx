@@ -34,19 +34,19 @@ export default function EnvironmentManager({ onSelect }: { onSelect: (env: Learn
             </div>
             
             <div className="flex items-center justify-between mt-6">
-              {/* Botão ABRIR com cara de botão mesmo */}
+              {/* Botão ABRIR com cursor-pointer e efeito de clique (active:scale-95) */}
               <button 
                 onClick={() => onSelect(env)} 
-                className="px-6 py-2.5 bg-blue-600/10 text-blue-400 border border-blue-500/30 hover:bg-blue-600 hover:text-white rounded-xl font-bold transition-all flex items-center gap-2"
+                className="cursor-pointer px-6 py-2.5 bg-blue-600/10 text-blue-400 border border-blue-500/30 hover:bg-blue-600 hover:text-white rounded-xl font-bold transition-all flex items-center gap-2 hover:scale-105 active:scale-95"
               >
                 <span>Abrir Ambiente</span>
                 <span>→</span>
               </button>
               
-              {/* Botão EXCLUIR com ícone sutil */}
+              {/* Botão EXCLUIR com cursor-pointer e efeito de clique */}
               <button 
                 onClick={() => deleteEnv(env.id)} 
-                className="p-2.5 text-slate-500 hover:text-red-400 hover:bg-red-500/10 rounded-xl transition-all" 
+                className="cursor-pointer p-2.5 text-slate-500 hover:text-red-400 hover:bg-red-500/10 rounded-xl transition-all hover:scale-110 active:scale-90" 
                 title="Excluir ambiente"
               >
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -59,12 +59,12 @@ export default function EnvironmentManager({ onSelect }: { onSelect: (env: Learn
           </div>
         ))}
         
-        {/* Card de NOVO AMBIENTE mais convidativo */}
+        {/* Card de NOVO AMBIENTE com cursor-pointer explícito */}
         <button 
           onClick={() => onSelect({ id: 'new', name: '', profile: {} as any })} 
-          className="group p-6 border-2 border-dashed border-slate-700 rounded-2xl min-h-[160px] flex flex-col items-center justify-center gap-3 text-slate-400 hover:border-blue-500 hover:text-blue-400 hover:bg-slate-900/50 transition-all cursor-pointer"
+          className="cursor-pointer group p-6 border-2 border-dashed border-slate-700 rounded-2xl min-h-[160px] flex flex-col items-center justify-center gap-3 text-slate-400 hover:border-blue-500 hover:text-blue-400 hover:bg-slate-900/50 transition-all active:scale-[0.98]"
         >
-          <div className="w-12 h-12 rounded-full bg-slate-800 group-hover:bg-blue-600/20 flex items-center justify-center transition-all">
+          <div className="w-12 h-12 rounded-full bg-slate-800 group-hover:bg-blue-600/20 flex items-center justify-center transition-all group-active:scale-90">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <path d="M12 5v14"></path>
               <path d="M5 12h14"></path>
