@@ -7,10 +7,13 @@ export async function POST(req: NextRequest) {
     const apiKey = process.env.GEMINI_API_KEY || "";
     const genAI = new GoogleGenerativeAI(apiKey);
 
-    // Tentativa direta com o modelo base. O SDK vai injetar o 'v1' automaticamente.
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    // Forçamos a API para a versão 'v1', que é a estável e garantida no nível gratuito
+    const model = genAI.getGenerativeModel(
+      { model: "gemini-1.5-flash" }, 
+      { apiVersion: 'v1' } 
+    );
 
-    const result = await model.generateContent("Diga 'Olá mundo'");
+    const result = await model.generateContent("Olá, teste de conexão.");
     const response = await result.response;
     
     return NextResponse.json({ 
@@ -19,10 +22,10 @@ export async function POST(req: NextRequest) {
     });
 
   } catch (error: any) {
-    // Isso vai capturar o erro REAL e retornar para a tela para nós
+    // Retorna o erro detalhado para a tela para confirmarmos se o 404 sumiu
     return NextResponse.json({ 
       error: error.message,
-      stack: error.stack 
+      // Se ainda houver 404, o console da Vercel terá o log da tentativa de URL completa
     }, { status: 500 });
   }
 }
