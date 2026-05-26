@@ -24,17 +24,34 @@ export async function GET() {
               const parsed = JSON.parse(fileData);
               const courseData = parsed.data || parsed;
               
-              // Verifica se tem aula disponível para habilitar o botão
               const lessonsDir = path.join(coursePath, 'lessons');
-              if (fs.existsSync(lessonsDir) && fs.readdirSync(lessonsDir).length > 0) {
-                courseData.hasLessons = true;
-              } else {
-                courseData.hasLessons = false;
+              if (fs.existsSync(lessonsDir)) {
+                const lessonFolders = fs.readdirSync(lessonsDir);
+                if (lessonFolders.length > 0) {
+                  courseData.hasLessons = true;
+                  const lessonPath = path.join(lessonsDir, lessonFolders[0]);
+                  
+                  // Pega o vídeo HD
+                  const lessonDetailPath = path.join(lessonPath, 'details.json');
+                  if (fs.existsSync(lessonDetailPath)) {
+                    const lessonData = JSON.parse(fs.readFileSync(lessonDetailPath, 'utf-8'));
+                    const sources = lessonData.stream_sources || [];
+                    const hdSource = sources.find((s: any) => s.quality === "hd") || sources[0];
+                    if (hdSource) courseData.firstLessonVideo = hdSource.link_secure;
+                  }
+
+                  // Pega a legenda VTT
+                  const filesInLesson = fs.readdirSync(lessonPath);
+                  const vttFile = filesInLesson.find(f => f.endsWith('.vtt'));
+                  if (vttFile) courseData.subtitlePath = path.join(lessonPath, vttFile);
+                } else {
+                  courseData.hasLessons = false;
+                }
               }
 
               allCourses.push(courseData);
             } catch (e) {
-              console.error(`Erro ao ler o curso na pasta ${folderId}`, e);
+              console.error(`Erro ao ler curso na pasta ${folderId}`, e);
             }
           }
         }
@@ -42,7 +59,6 @@ export async function GET() {
     }
 
     return NextResponse.json({ courses: allCourses });
-
   } catch (error: any) {
     return NextResponse.json({ error: `Erro no servidor: ${error.message}` }, { status: 500 });
   }
