@@ -152,11 +152,26 @@ export default function Home() {
               <h1 className="text-lg font-bold text-white">Configurar Novo Tutor</h1>
             ) : null}
           </div>
-          <div className="px-3 py-1.5 rounded-md bg-blue-900/20 border border-blue-800/50 text-blue-400 text-[10px] tracking-widest font-bold">
-            SYSTEM_ONLINE
+          {/* Rodapé da Sidebar: Usuário */}
+        <div className="p-4 border-t border-slate-800/50 bg-[#080c17]">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3 overflow-hidden">
+              {/* O círculo azul agora usa a inicial do userName */}
+              <div className="w-8 h-8 rounded-full bg-blue-600/20 text-blue-500 flex items-center justify-center font-bold border border-blue-500/30 flex-shrink-0">
+                {userName.charAt(0).toUpperCase()}
+              </div>
+              {/* Exibe o userName, não o email */}
+              <span className="text-xs text-slate-300 truncate font-semibold">
+                {userName}
+              </span>
+            </div>
+            <button onClick={handleLogout} className="text-slate-500 hover:text-red-400 transition-colors p-2 cursor-pointer" title="Sair">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
+            </button>
           </div>
+        </div>
         </header>
-
+        
         <div className="flex-1 overflow-y-auto p-8 scrollbar-thin scrollbar-thumb-slate-800">
           <div className="max-w-6xl mx-auto h-full">
             
