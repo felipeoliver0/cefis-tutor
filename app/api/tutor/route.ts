@@ -13,7 +13,8 @@ export async function POST(req: NextRequest) {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: "llama3-8b-8192",
+        // Atualizado para um modelo ativo e recomendado
+        model: "llama-3.3-70b-versatile",
         messages: [
           { role: "system", content: "Você é um tutor da plataforma CEFIS. Responda de forma curta e profissional." },
           { role: "user", content: `Crie um plano de estudos para: ${goal}` }
