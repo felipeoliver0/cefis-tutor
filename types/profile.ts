@@ -1,7 +1,14 @@
+// types/profile.ts
 export interface UserProfile {
   age: string;
-  learningStyle: string; // Ex: Prático, Teórico, Visual
-  studyTime: string;     // Ex: 30 min, 1 hora
-  studyPeriod: string;   // Ex: Manhã, Tarde, Noite
-  subject: string;       // O que quer estudar (Objetivo)
+  learningStyle: string;
+  studyTime: string;
+  studyPeriod: string;
+  subject: string;
+}
+
+export interface LearningEnvironment {
+  id: string; // ID único (ex: timestamp ou crypto.randomUUID())
+  name: string; // Ex: "SQL Mastery"
+  profile: UserProfile;
 }
