@@ -49,8 +49,10 @@ export default function Home() {
     setView("dashboard");
   };
 
-  const handleLogout = () => {
-    localStorage.clear();
+ const handleLogout = () => {
+    // Apaga apenas as chaves de sessão, mantendo os ambientes salvos!
+    localStorage.removeItem("cefis_token");
+    localStorage.removeItem("cefis_user_email"); 
     router.push("/login");
   };
 
