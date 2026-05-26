@@ -44,9 +44,10 @@ DIRETRIZES OBRIGATÓRIAS PARA SUA RESPOSTA:
 
     const data = await response.json();
 
-    // 4. Retorna a resposta da IA para o frontend
-    if (data.choices && data.choices.length > 0) {
-      return NextResponse.json({ tutorResponse: data.choices[0].message.content });
+    // ADICIONE ESTA LINHA PARA VER O ERRO NO TERMINAL:
+    if (!response.ok) {
+        console.error("Erro da API Groq:", JSON.stringify(data));
+        return NextResponse.json({ tutorResponse: `Erro da API Groq: ${JSON.stringify(data.error?.message)}` });
     } else {
       return NextResponse.json({ tutorResponse: "Erro: Não foi possível gerar o plano." });
     }
