@@ -1,7 +1,8 @@
 "use client";
 import { useEffect, useState } from "react";
-import OnboardingForm from "@/components/OnboardingForm";
-import { UserProfile } from "@/types/profile";
+// Subindo um nível (..) para sair da pasta 'app' e entrar na pasta 'components'
+import OnboardingForm from "../components/OnboardingForm";
+import { UserProfile } from "../types/profile";
 
 export default function Home() {
   const [profile, setProfile] = useState<UserProfile | null>(null);
