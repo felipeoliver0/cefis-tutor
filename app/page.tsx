@@ -14,6 +14,7 @@ export default function Home() {
   const [envs, setEnvs] = useState<LearningEnvironment[]>([]);
   const [activeEnv, setActiveEnv] = useState<LearningEnvironment | null>(null);
   const [userEmail, setUserEmail] = useState("");
+  const [userName, setUserName] = useState("Usuário");
   const [isReady, setIsReady] = useState(false);
   const [watchedCourses, setWatchedCourses] = useState<any[]>([]);
 
@@ -23,6 +24,7 @@ export default function Home() {
       router.push("/login");
     } else {
       setUserEmail(localStorage.getItem("cefis_user_email") || "Usuário");
+      setUserName(localStorage.getItem("cefis_user_name") || "Usuário");
       const savedEnvs = localStorage.getItem("cefis_environments");
       if (savedEnvs) setEnvs(JSON.parse(savedEnvs));
       setIsReady(true);
@@ -51,7 +53,6 @@ export default function Home() {
       const updated = envs.filter(env => env.id !== id);
       setEnvs(updated);
       localStorage.setItem("cefis_environments", JSON.stringify(updated));
-      // LIMPEZA: Apaga também as mensagens salvas desse chat específico
       localStorage.removeItem(`cefis_chat_${id}`); 
       
       if (activeEnv?.id === id) { setActiveEnv(null); setView("catalog"); }
@@ -61,6 +62,7 @@ export default function Home() {
   const handleLogout = () => {
     localStorage.removeItem("cefis_token");
     localStorage.removeItem("cefis_user_email");
+    localStorage.removeItem("cefis_user_name");
     router.push("/login");
   };
 
@@ -117,13 +119,16 @@ export default function Home() {
           </div>
         </div>
 
+        {/* RODAPÉ COM NOME DO USUÁRIO */}
         <div className="p-4 border-t border-slate-800/50 bg-[#080c17]">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3 overflow-hidden">
               <div className="w-8 h-8 rounded-full bg-blue-600/20 text-blue-500 flex items-center justify-center font-bold border border-blue-500/30 flex-shrink-0">
-                {userEmail.charAt(0).toUpperCase()}
+                {userName.charAt(0).toUpperCase()}
               </div>
-              <span className="text-xs text-slate-300 truncate">{userEmail}</span>
+              <span className="text-xs text-slate-300 truncate font-semibold">
+                {userName}
+              </span>
             </div>
             <button onClick={handleLogout} className="text-slate-500 hover:text-red-400 transition-colors p-2 cursor-pointer" title="Sair">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
@@ -152,26 +157,11 @@ export default function Home() {
               <h1 className="text-lg font-bold text-white">Configurar Novo Tutor</h1>
             ) : null}
           </div>
-          {/* Rodapé da Sidebar: Usuário */}
-        <div className="p-4 border-t border-slate-800/50 bg-[#080c17]">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-3 overflow-hidden">
-              {/* O círculo azul agora usa a inicial do userName */}
-              <div className="w-8 h-8 rounded-full bg-blue-600/20 text-blue-500 flex items-center justify-center font-bold border border-blue-500/30 flex-shrink-0">
-                {userName.charAt(0).toUpperCase()}
-              </div>
-              {/* Exibe o userName, não o email */}
-              <span className="text-xs text-slate-300 truncate font-semibold">
-                {userName}
-              </span>
-            </div>
-            <button onClick={handleLogout} className="text-slate-500 hover:text-red-400 transition-colors p-2 cursor-pointer" title="Sair">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
-            </button>
+          <div className="px-3 py-1.5 rounded-md bg-blue-900/20 border border-blue-800/50 text-blue-400 text-[10px] tracking-widest font-bold">
+            SYSTEM_ONLINE
           </div>
-        </div>
         </header>
-        
+
         <div className="flex-1 overflow-y-auto p-8 scrollbar-thin scrollbar-thumb-slate-800">
           <div className="max-w-6xl mx-auto h-full">
             
@@ -186,8 +176,8 @@ export default function Home() {
             {view === "dashboard" && activeEnv && (
               <div className="animate-fade-in h-full">
                 <TutorDashboard 
-                  key={activeEnv.id} /* A mágica do React: reseta o componente ao trocar de chat */
-                  envId={activeEnv.id} /* Passa a ID para salvar as mensagens certas */
+                  key={activeEnv.id}
+                  envId={activeEnv.id}
                   profile={activeEnv.profile} 
                 />
               </div>
