@@ -19,12 +19,7 @@ export async function POST(req: NextRequest) {
     const cefisContext = getRelevantCEFISContext(goal);
 
     // Adicione isso antes de instanciar o modelo
-const genAI = new GoogleGenerativeAI(apiKey);
-
-// Força o uso da v1 em vez da v1beta
-const model = genAI.getGenerativeModel({ 
-  model: "gemini-1.5-flash" 
-}, { apiVersion: 'v1' });
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
 
     const prompt = `
       Você é um tutor de aprendizado de inteligência artificial da plataforma CEFIS.
