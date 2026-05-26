@@ -11,21 +11,23 @@ export default function LoginPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setLoading(true);
+// ... dentro da sua função de login, onde você recebe a resposta da API:
 
-    const res = await fetch("/api/auth/login", {
-      method: "POST",
-      body: JSON.stringify(formData),
-    });
+  const response = await fetch("https://api.cefis.email/customers/identify", { 
+      method: "POST", 
+      // ... seus headers e body
+  });
 
-    if (res.ok) {
-      const data = await res.json();
-      localStorage.setItem("cefis_token", "logado"); // Token genérico para a sessão
-      router.push("/");
-    } else {
-      alert("Falha na autenticação. Verifique seu CPF e Senha.");
-    }
-    setLoading(false);
-  };
+  const data = await response.json();
+
+  if (data) {
+      // ESTAS SÃO AS LINHAS QUE VOCÊ PRECISA ADICIONAR:
+      localStorage.setItem("cefis_user_name", data.name); // Salva o "Felipe de Oliveira"
+      localStorage.setItem("cefis_user_email", data.email || ""); // Salva o email
+      
+      // E depois o seu redirecionamento normal:
+      router.push("/"); 
+  }
 
   return (
     <div className="flex min-h-screen items-center justify-center bg-slate-950 p-6">
