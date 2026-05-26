@@ -18,7 +18,13 @@ export async function POST(req: NextRequest) {
     // Busca no acervo local os dados reais do acervo CEFIS via RAG
     const cefisContext = getRelevantCEFISContext(goal);
 
-    const model = genAI.getGenerativeModel({ model: "models/gemini-1.5-flash-8b" });
+    // Adicione isso antes de instanciar o modelo
+const genAI = new GoogleGenerativeAI(apiKey);
+
+// Força o uso da v1 em vez da v1beta
+const model = genAI.getGenerativeModel({ 
+  model: "gemini-1.5-flash" 
+}, { apiVersion: 'v1' });
 
     const prompt = `
       Você é um tutor de aprendizado de inteligência artificial da plataforma CEFIS.
