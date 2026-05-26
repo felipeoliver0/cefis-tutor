@@ -2,9 +2,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { getRelevantCEFISContext } from "../../utils/readCourses";
-import { PrismaClient } from "@prisma/client";
 
-const prisma = new PrismaClient();
 const apiKey = process.env.GEMINI_API_KEY || "";
 const genAI = new GoogleGenerativeAI(apiKey);
 
@@ -17,7 +15,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Objetivo e experiência são obrigatórios." }, { status: 400 });
     }
 
-    // Busca no sistema local os dados reais do acervo CEFIS via RAG
+    // Busca no acervo local os dados reais do acervo CEFIS via RAG
     const cefisContext = getRelevantCEFISContext(goal);
 
     const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
@@ -33,57 +31,44 @@ export async function POST(req: NextRequest) {
       ACERVO DISPONÍVEL DA CEFIS:
       ${cefisContext}
 
-      Regra estrita: Escreva o plano direto em formato de texto Markdown fluido, recomendando explicitamente as aulas e cursos retornados no ACERVO DA CEFIS acima.
+      Regra estrita: Escreva o plano direto em formato de texto Markdown fluido, recomendando explicitamente as aulas e cursos retornados no ACERVO DA CEFIS acima. Indique os IDs das aulas para que ele estude o material oficial.
     `;
 
     const result = await model.generateContent(prompt);
     const response = await result.response;
     const text = response.text();
 
-    // Mapeamento dinâmico para simular ou vincular o card na vitrine
+    // Mapeia dinamicamente os cards para a vitrine com base no objetivo digitado
     const isComms = goal.toLowerCase().includes("comunica") || goal.toLowerCase().includes("corporativ");
-    
-    // Salva o histórico completo da Trilha gerada no Banco de Dados Postgres (Usando cast 'as any' para ignorar o TS local enquanto o npx roda)
-    const savedPlan = await (prisma as any).studyPlan.create({
-      data: {
-        goal,
-        experience,
-        timeAvailable,
-        learningStyle,
-        diagnostic: text,
-        modules: {
-          create: isComms ? [
-            {
-              title: "Comunicação Corporativa Eficaz",
-              duration: "2h 45min",
-              lessonTitle: "Apresentação e Introdução",
-              lessonId: 488225,
-              badge: "Conteúdo Oficial CEFIS"
-            }
-          ] : [
-            {
-              title: "Desenvolvimento de Soft Skills",
-              duration: "4h 20min",
-              lessonTitle: "Comunicação e Alinhamento",
-              lessonId: 101,
-              badge: "Recomendado"
-            }
-          ]
-        }
-      },
-      include: { modules: true }
-    });
+    const simulatedCourses = isComms ? [
+      {
+        id: "mod-1",
+        title: "Comunicação Corporativa Eficaz",
+        duration: "2h 45min",
+        lessonTitle: "Apresentação e Introdução",
+        lessonId: 488225,
+        badge: "Conteúdo Oficial CEFIS"
+      }
+    ] : [
+      {
+        id: "mod-2",
+        title: "Desenvolvimento de Soft Skills",
+        duration: "4h 20min",
+        lessonTitle: "Comunicação e Alinhamento",
+        lessonId: 101,
+        badge: "Recomendado"
+      }
+    ];
 
     return NextResponse.json({ 
       success: true, 
-      tutorResponse: savedPlan.diagnostic,
-      courses: savedPlan.modules,
-      planId: savedPlan.id
+      tutorResponse: text,
+      courses: simulatedCourses
     });
 
   } catch (error: unknown) {
     const errorMessage = error instanceof Error ? error.message : "Erro desconhecido";
     console.error("Erro na API do Tutor:", errorMessage);
-    return NextResponse.json({ error: "Falha ao gerar e salvar o plano de estudos." }, { status: 500 });
+    return NextResponse.json({ error: "Falha ao gerar o plano de estudos com a IA." }, { status: 500 });
   }
 }

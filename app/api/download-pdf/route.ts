@@ -1,61 +1,32 @@
 // app/api/download-pdf/route.ts
 import { NextRequest, NextResponse } from "next/server";
-import { PrismaClient } from "@prisma/client";
 
-const prisma = new PrismaClient();
-
-// Interface para garantir a tipagem do m e do i no map, limpando o erro do TS
-interface UIPlanModule {
-  id: string;
-  studyPlanId: string;
-  title: string;
-  duration: string;
-  lessonTitle: string;
-  lessonId: number;
-  badge: string;
-  isCompleted: boolean;
-}
-
-export async function GET(req: NextRequest) {
+export async function POST(req: NextRequest) {
   try {
-    const { searchParams } = new URL(req.url);
-    const planId = searchParams.get("planId");
+    const body = await req.json();
+    const { goal, experience, diagnostic, modules } = body;
 
-    if (!planId) {
-      return NextResponse.json({ error: "ID do plano ausente." }, { status: 400 });
-    }
-
-    // Usando cast 'as any' temporário para o TypeScript aceitar a chamada antes do npx prisma generate rodar 100% local
-    const plan = await (prisma as any).studyPlan.findUnique({
-      where: { id: planId },
-      include: { modules: true }
-    });
-
-    if (!plan) {
-      return NextResponse.json({ error: "Plano de estudos não encontrado." }, { status: 404 });
-    }
-
-    // Monta o arquivo de texto estruturado simulando o documento de estudos da CEFIS
+    // Monta o arquivo de texto estruturado simulando o documento oficial da CEFIS
     const documentBody = `
 ======================================================
-     CEFIS AI TUTOR - CERTIFICADO DE PLANO DE ESTUDO   
+     CEFIS AI TUTOR - CRONOGRAMA DE PLANO DE ESTUDO   
 ======================================================
-Objetivo Alvo: ${plan.goal}
-Nível Operacional: ${plan.experience}
-Disponibilidade Mapeada: ${plan.timeAvailable}
-Estilo de Conteúdo: ${plan.learningStyle}
-Data de Emissão: ${new Date(plan.createdAt).toLocaleDateString("pt-BR")}
+Objetivo Alvo: ${goal || "Não especificado"}
+Nível Operacional: ${experience || "Não especificado"}
+Data de Emissão: ${new Date().toLocaleDateString("pt-BR")}
 
 ------------------------------------------------------
-DIAGNÓSTICO E CRONOGRAMA DA IA:
+DIAGNÓSTICO DA IA:
 ------------------------------------------------------
-${plan.diagnostic}
+${diagnostic || "Nenhum diagnóstico gerado."}
 
 ------------------------------------------------------
-CRONOGRAMA DE AULAS SINCRONIZADAS CEFIS:
+MÓDULOS RECOMENDADOS DA PLATAFORMA CEFIS:
 ------------------------------------------------------
-${plan.modules.map((m: UIPlanModule, i: number) => `${i+1}. ${m.title}\n   Aula: ${m.lessonTitle} (ID: #${m.lessonId})\n   Status: [ ] Não Concluído`).join("\n")}
-
+${modules && modules.length > 0 
+  ? modules.map((m: any, i: number) => `${i+1}. ${m.title}\n   Aula: ${m.lessonTitle} (ID: #${m.lessonId})\n`).join("\n")
+  : "Nenhum módulo selecionado."
+}
 ======================================================
    Foco nos resultados. Bons estudos! // CEFIS 2026   
 ======================================================
@@ -65,12 +36,12 @@ ${plan.modules.map((m: UIPlanModule, i: number) => `${i+1}. ${m.title}\n   Aula:
       status: 200,
       headers: {
         "Content-Type": "text/plain; charset=utf-8",
-        "Content-Disposition": `attachment; filename="Plano_Estudos_CEFIS_${planId.substring(0,6)}.txt"`,
+        "Content-Disposition": `attachment; filename="Plano_Estudos_CEFIS.txt"`,
       },
     });
 
   } catch (error) {
-    console.error("Erro ao gerar arquivo para download:", error);
-    return NextResponse.json({ error: "Erro interno no servidor." }, { status: 500 });
+    console.error("Erro ao exportar arquivo:", error);
+    return NextResponse.json({ error: "Erro interno ao gerar o arquivo." }, { status: 500 });
   }
 }

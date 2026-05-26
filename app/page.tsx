@@ -25,7 +25,7 @@ export default function Home() {
   const [result, setResult] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [modules, setModules] = useState<PlanModule[]>([]);
-  const [currentPlanId, setCurrentPlanId] = useState<string | null>(null);
+  const [downloading, setDownloading] = useState(false);
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
@@ -38,13 +38,44 @@ export default function Home() {
     );
   };
 
+  const handleDownload = async () => {
+    if (!result) return;
+    setDownloading(true);
+    try {
+      const response = await fetch("/api/download-pdf", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          goal: formData.goal,
+          experience: formData.experience,
+          diagnostic: result,
+          modules: modules
+        })
+      });
+      
+      if (!response.ok) throw new Error("Erro ao baixar");
+
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "Plano_Estudos_CEFIS.txt";
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+    } catch (err) {
+      console.error(err);
+    } finally {
+      setDownloading(false);
+    }
+  };
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setLoading(true);
     setError(null);
     setResult(null);
     setModules([]);
-    setCurrentPlanId(null);
 
     try {
       const response = await fetch("/api/tutor", {
@@ -61,7 +92,6 @@ export default function Home() {
 
       setResult(data.tutorResponse);
       setModules(data.courses || []);
-      setCurrentPlanId(data.planId || null);
 
     } catch (err: any) {
       setError(err.message);
@@ -74,11 +104,10 @@ export default function Home() {
     <div className="flex flex-col gap-10 py-4">
       
       {/* Banner Superior */}
-      <div className="relative bg-gradient-to-r from-slate-900 via-indigo-950 to-purple-950 p-8 md:p-12 rounded-3xl border border-indigo-500/20 shadow-2xl overflow-hidden">
-        <div className="absolute top-0 right-0 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl pointer-events-none"></div>
+      <div className="relative bg-gradient-to-r from-slate-900 via-indigo-950 to-purple-950 p-8 md:p-12 rounded-3xl border border-indigo-500/20 shadow-2xl">
         <div className="relative z-10 max-w-3xl space-y-4">
           <span className="text-xs font-mono font-bold tracking-widest text-blue-400 bg-blue-500/10 px-3 py-1 rounded-full border border-blue-500/20 uppercase">
-            Plataforma AI Tutor V3
+            Plataforma AI Tutor V3 // Online
           </span>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white">
             Aprenda exatamente o que importa.
@@ -107,7 +136,7 @@ export default function Home() {
                 value={formData.goal}
                 onChange={handleInputChange}
                 placeholder="Ex: Preciso entender comunicação corporativa para liderar reuniões..."
-                className="w-full p-4 border border-slate-800 rounded-xl focus:ring-1 focus:ring-blue-500 outline-none transition-all bg-slate-950 text-slate-200 text-sm h-24 resize-none"
+                className="w-full p-4 border border-slate-700 rounded-xl focus:ring-1 focus:ring-blue-500 outline-none transition-all bg-slate-950 text-slate-200 text-sm h-24 resize-none"
               />
             </div>
 
@@ -117,7 +146,7 @@ export default function Home() {
                 name="experience"
                 value={formData.experience}
                 onChange={handleInputChange}
-                className="w-full p-4 border border-slate-800 rounded-xl focus:ring-1 focus:ring-blue-500 outline-none bg-slate-950 text-slate-200 text-sm cursor-pointer"
+                className="w-full p-4 border border-slate-700 rounded-xl focus:ring-1 focus:ring-blue-500 outline-none bg-slate-950 text-slate-200 text-sm"
               >
                 <option value="Iniciante">Iniciante</option>
                 <option value="Intermediário">Intermediário</option>
@@ -171,13 +200,14 @@ export default function Home() {
             <h2 className="text-lg font-bold tracking-wide text-slate-200 flex items-center gap-3">
               <span className="w-2 h-4 bg-indigo-500 rounded-full"></span> Diagnóstico Neural
             </h2>
-            {currentPlanId && (
-              <a 
-                href={`/api/download-pdf?planId=${currentPlanId}`}
+            {result && (
+              <button 
+                onClick={handleDownload}
+                disabled={downloading}
                 className="text-xs font-mono bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-400 px-3 py-1.5 rounded-lg border border-emerald-500/20 transition-all shadow-sm"
               >
-                📥 Baixar Plano Oficial
-              </a>
+                {downloading ? "Baixando..." : "📥 Baixar Plano Oficial"}
+              </button>
             )}
           </div>
 
@@ -208,7 +238,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Vitrine de Cursos */}
+      {/* Vitrine Sincronizada */}
       {result && !loading && modules.length > 0 && (
         <div className="border-t border-slate-800/80 pt-10 space-y-6">
           <h2 className="text-2xl font-bold text-white flex items-center gap-2">
