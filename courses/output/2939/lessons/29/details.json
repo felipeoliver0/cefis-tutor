@@ -1,0 +1,33 @@
+{
+  "id": 471871,
+  "title": "Revisão de Cargos",
+  "position": 29,
+  "duration": 71,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8654f270-0f3b-48e1-8c85-c7d89d33211d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8654f270-0f3b-48e1-8c85-c7d89d33211d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8654f270-0f3b-48e1-8c85-c7d89d33211d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8654f270-0f3b-48e1-8c85-c7d89d33211d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8654f270-0f3b-48e1-8c85-c7d89d33211d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

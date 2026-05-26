@@ -1,0 +1,127 @@
+WEBVTT
+
+00:00:01.346 --> 00:00:09.352
+- Recentemente abordamos a instrução normativa 2110, trazendo o artigo 27, falando sobre a legislação
+
+00:00:09.352 --> 00:00:17.128
+- que dá amparo para a elaboração de uma folha de pagamento. Agora, do artigo 27, a gente vai pular
+
+00:00:17.128 --> 00:00:25.057
+- para o artigo 43. A mesma instrução normativa 2110, só que agora o artigo 43. E qual a importância
+
+00:00:25.057 --> 00:00:29.214
+- desse artigo 43? De maneira bem objetiva, ele diz que
+
+00:00:29.762 --> 00:00:37.079
+- O KINAI preponderante para a folha de pagamento é aquele que reúne a maior quantidade de empregados
+
+00:00:37.079 --> 00:00:44.611
+- na empresa. Vamos simular o seguinte cenário. A empresa possui o CNPJ, o KINAI principal e alguns KINAI
+
+00:00:44.611 --> 00:00:52.430
+- secundários. Você tem grupo de trabalhadores atendendo o KINAI principal, você tem grupo de trabalhadores
+
+00:00:52.430 --> 00:00:54.654
+- atendendo o KINAI secundário.
+
+00:00:56.130 --> 00:01:02.879
+- folha de pagamento para apuração previdenciária muito ligado aos riscos ambientais do trabalho, você
+
+00:01:02.879 --> 00:01:09.564
+- vai identificar o CNAE preponderante através daquele que possui o maior número de empregados. É isto
+
+00:01:09.564 --> 00:01:16.120
+- que esse artigo 43 vem dizendo. Por isso que eu estou falando para você, assinante CFIS, para você,
+
+00:01:16.120 --> 00:01:22.676
+- nosso aluno, que a gente precisa conhecer da legislação, interpretá-la bem para amarrar no sistema
+
+00:01:22.676 --> 00:01:24.990
+- e não ter problemas lá na frente.
+
+00:01:25.378 --> 00:01:31.963
+- Então aqui o item B vem dizendo que com base em estabelecimento único e mais de uma atividade econômica,
+
+00:01:31.963 --> 00:01:38.243
+- simulará o enquadramento em cada atividade e prevalecerá como preponderante aquele com maior número
+
+00:01:38.243 --> 00:01:44.585
+- de segurados e empregados. Foi o que eu acabei de demonstrar para vocês. E nós podemos ver exatamente
+
+00:01:44.585 --> 00:01:50.865
+- nesta imagem que a empresa pode ter um quinaio principal e vários outros quinais. O que vai facilitar
+
+00:01:50.865 --> 00:01:53.182
+- a sua gestão? Vai facilitar se você
+
+00:01:53.954 --> 00:01:59.324
+- tiver tudo isso parametrizado no seu software da folha de pagamento, para ele poder identificar,
+
+00:01:59.324 --> 00:02:04.970
+- por exemplo, que esse terceiro KINAI aqui da empresa, o secundário, ele reúne a maior quantidade de
+
+00:02:04.970 --> 00:02:10.782
+- empregados. Então, é ele que vai ser usado como referência para KINAI principal da empresa. Portanto,
+
+00:02:10.782 --> 00:02:16.705
+- este aqui já é o primeiro indicador que a gente cita no cadastro do seu sistema de folha para apuração
+
+00:02:16.705 --> 00:02:18.366
+- da folha de pagamento mensal.
+
+00:02:18.882 --> 00:02:27.592
+- Identificado o KINAI preponderante para a folha de pagamento, o próximo passo é identificar a alíquota
+
+00:02:27.592 --> 00:02:36.220
+- HAT, que significa riscos ambientais do trabalho. E essa alíquota, pessoal, ela varia de 1 a 3%. Então
+
+00:02:36.220 --> 00:02:41.150
+- pode ser risco 1, risco 2 ou risco 3%, dependendo do KINAI.
+
+00:02:41.698 --> 00:02:49.242
+- Essa Alicotarrat, ela serve, tem o objetivo para ser cobrada a contribuição para financiar os benefícios
+
+00:02:49.242 --> 00:02:56.506
+- previdenciários decorrente do grau de incidência de incapacidade laborativa. As empresas ativas hoje,
+
+00:02:56.506 --> 00:03:03.561
+- elas contribuem com a Alicotarrat para manter os trabalhadores que estão afastados na condição de
+
+00:03:03.561 --> 00:03:11.664
+- auxílio-doença. Portanto, esse indicador é importantíssimo e consta exatamente na legislação previdenciária.
+
+00:03:11.664 --> 00:03:19.162
+- nós vamos identificar que este indicador da Alicotarrat, ele varia em relação a atividades de risco.
+
+00:03:19.162 --> 00:03:26.300
+- Então, onde a gente consegue examinar exatamente o que é feito de percentual para cada atividade
+
+00:03:26.300 --> 00:03:33.438
+- econômica? Lá na instrução normativa 2110, anexo 1. Você vai lá nessa instrução normativa,
+
+00:03:33.858 --> 00:03:40.223
+- Desce até o finalzinho, baixa o anexo 1 e vocês vão identificar que existe a relação do KINAI e
+
+00:03:40.223 --> 00:03:46.650
+- logo em seguida o código, que pode ser 1, 2 ou 3, proporcional ao percentual de apuração referente
+
+00:03:46.650 --> 00:03:53.078
+- aos riscos da empresa. Então, para a gente poder ter aqui um exemplo, vejam que legal, eu tenho aqui
+
+00:03:53.078 --> 00:03:59.379
+- o KINAI da empresa, que eu já sei que o preponderante vai ser aquele que reúne a maior quantidade
+
+00:03:59.379 --> 00:04:02.782
+- de empregados, a descrição dele e logo em seguida o
+
+00:04:02.882 --> 00:04:10.570
+- percentual da liquotarrate. Então, para ser bem direto, a liquotarrate é apurado. Total de remuneração
+
+00:04:10.570 --> 00:04:17.826
+- dos trabalhadores vezes o percentual que está estipulado. Por exemplo, pode ser de 2%. Então, essa
+
+00:04:17.826 --> 00:04:25.299
+- apuração acontecerá no resumo geral da folha após o seu processamento. E aí nós saberemos efetuar
+
+00:04:25.299 --> 00:04:27.454
+- esse cálculo mais à frente.

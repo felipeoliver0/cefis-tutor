@@ -1,0 +1,33 @@
+{
+  "id": 453463,
+  "title": "Oitos \"P\"s | Propriedade",
+  "position": 17,
+  "duration": 114,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/59e91589-d63f-4733-a5e0-dcea83a910db/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59e91589-d63f-4733-a5e0-dcea83a910db/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59e91589-d63f-4733-a5e0-dcea83a910db/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59e91589-d63f-4733-a5e0-dcea83a910db/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59e91589-d63f-4733-a5e0-dcea83a910db/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

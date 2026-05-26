@@ -1,0 +1,33 @@
+{
+  "id": 472404,
+  "title": "Porque aderir ao SOX?",
+  "position": 19,
+  "duration": 343,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/25938c62-978a-402c-828b-34ad1b28314b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25938c62-978a-402c-828b-34ad1b28314b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25938c62-978a-402c-828b-34ad1b28314b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25938c62-978a-402c-828b-34ad1b28314b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25938c62-978a-402c-828b-34ad1b28314b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2564,
+    "title": "Importação: ICMS e IPI",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de regras e aplicações relacionadas ao ICMS e IPI na importação você aprenderá desde os aspectos legais, bem como a identificar corretamente o fato gerador e compreender as obrigações dos contribuintes. Entenderá procedimentos detalhados para operações de importação direta, incluindo emissão de notas fiscais de entrada, cálculo e prazo de recolhimento do ICMS, incluindo as alíquotas aplicadas em operações interestaduais. Compreenderá ainda a obrigatoriedade de preenchimento da FCI e a geração de crédito acumulado do ICMS para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/f0ffc6d861641a3e69b60c81475b41911728385842.jpg",
+    "goals": [
+      "Demonstrar desde os aspectos legais, bem como a identificar corretamente o fato gerador e compreender as obrigações dos contribuintes. Entenderá procedimentos detalhados para operações de importação direta, incluindo emissão de notas fiscais de entrada, cálculo e prazo de recolhimento do ICMS, incluindo as alíquotas aplicadas em operações interestaduais. Compreenderá ainda a obrigatoriedade de preenchimento da FCI e a geração de crédito acumulado do ICMS para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 571255,
+      "name": "Sandra Cabral",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1660050985.jpeg"
+    },
+    "duration": 10431,
+    "keywords": "importação;icms;ipi",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 30,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 551,
+    "averageRating": 9.4,
+    "practiceAverage": 9.37,
+    "trailer": {
+      "id": "36ee8b0f-2685-42fc-9c6c-477dac5b4320",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/36ee8b0f-2685-42fc-9c6c-477dac5b4320/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/36ee8b0f-2685-42fc-9c6c-477dac5b4320/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/36ee8b0f-2685-42fc-9c6c-477dac5b4320/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/36ee8b0f-2685-42fc-9c6c-477dac5b4320/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-05-29T04:46:02.000Z",
+      "updatedAt": "2023-05-29T04:46:02.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 6,
+    "launchDate": "2023-06-01T14:25:24.000Z",
+    "recordedAt": "2023-05-11T00:00:00.000Z",
+    "createdAt": "2023-05-16T14:38:23.000Z"
+  }
+}

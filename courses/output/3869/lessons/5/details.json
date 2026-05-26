@@ -1,0 +1,33 @@
+{
+  "id": 479011,
+  "title": "Patrimônio de Afetação",
+  "position": 5,
+  "duration": 542,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/91d621d0-96b1-466d-a844-aeb989f57a15/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d621d0-96b1-466d-a844-aeb989f57a15/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d621d0-96b1-466d-a844-aeb989f57a15/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d621d0-96b1-466d-a844-aeb989f57a15/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d621d0-96b1-466d-a844-aeb989f57a15/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

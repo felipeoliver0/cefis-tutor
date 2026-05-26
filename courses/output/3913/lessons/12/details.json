@@ -1,0 +1,33 @@
+{
+  "id": 479503,
+  "title": "Princípios da contabilidade - parte 3",
+  "position": 12,
+  "duration": 238,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f2bbe00f-1760-4fc9-8e5c-a32c5305549c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2bbe00f-1760-4fc9-8e5c-a32c5305549c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2bbe00f-1760-4fc9-8e5c-a32c5305549c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2bbe00f-1760-4fc9-8e5c-a32c5305549c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2bbe00f-1760-4fc9-8e5c-a32c5305549c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

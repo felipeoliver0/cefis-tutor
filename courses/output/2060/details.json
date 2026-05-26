@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2060,
+    "title": "Contabilidade para Igrejas",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de contabilidade para igrejas, você aprenderá regras e aplicações relativas à contabilidade de Pessoas Jurídicas de Direito Privado, dentre as quais se enquadram as igrejas, conforme a Lei nº 10.825/2003. Você entenderá desde os conceitos básicos de Contabilidade Societária, até as obrigações a serem cumpridas pelos templos religiosos como: Declaração de débitos e créditos tributários federais (DCTF); Escrituração Contábil Fiscal Digital (ECF); Escrituração Contábil Digital (ECD); Declaração do Imposto de Renda Retido na Fonte (DIRF); Declaração de Operações Liquidadas com Moeda em Espécie (DME); bem como a estrutura de um Plano de Contas, lançamentos, Fluxo de Caixa; Livro de caixa, e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/1b5ac84965d247530431b9fd08bce21a1728384365.jpg",
+    "goals": [
+      "Demonstrar regras e procedimentos adotados na prática da contabilidade para Igrejas e templos religiosos."
+    ],
+    "teacher": {
+      "id": 539061,
+      "name": "DAYANE DA SILVA AMARO ROSA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/bf7e258c-2a32-4b58-929c-cf883a14c3cf-croppedImage.jpeg"
+    },
+    "duration": 4743,
+    "keywords": "contbilidade;igreja;contabilidade paga igrejas",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 4,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1626,
+    "averageRating": 9.32,
+    "practiceAverage": 9.17,
+    "trailer": {
+      "id": "3368c3e4-e9b0-4e85-839f-4c3353b7ee0d",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3368c3e4-e9b0-4e85-839f-4c3353b7ee0d/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3368c3e4-e9b0-4e85-839f-4c3353b7ee0d/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3368c3e4-e9b0-4e85-839f-4c3353b7ee0d/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3368c3e4-e9b0-4e85-839f-4c3353b7ee0d/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-05-20T13:37:52.000Z",
+      "updatedAt": "2022-05-20T13:37:51.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2022-05-20T17:18:31.000Z",
+    "recordedAt": "2022-05-12T00:00:00.000Z",
+    "createdAt": "2022-05-13T11:49:21.000Z"
+  }
+}

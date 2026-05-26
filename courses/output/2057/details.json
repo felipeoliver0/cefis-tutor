@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2057,
+    "title": "Contratos Civis",
+    "subtitle": "Locaçăo, doação, corretagem, compra e venda e outros",
+    "summary": "Nesse curso você aprenderá sobre a teoria geral dos contratos entre particulares incluindo formação dos contratos, garantias contratuais e principais contratos em espécie como a locação de móveis e imóveis, mandato/procuração, compra e venda dentre outros para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/27a8193352b756405f1c69fe471c6cc71728384370.jpg",
+    "goals": [
+      "Apresentar estudo sobre a teoria geral dos contratos entre particulares incluindo formação dos contratos, garantias contratuais e principais contratos em espécie como a locação de móveis e imóveis, mandato/procuração, compra e venda etc."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 13734,
+    "keywords": "contrato;compra;venda;locação;direito",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 42,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 140,
+    "averageRating": 8.88,
+    "practiceAverage": 8.59,
+    "trailer": {
+      "id": "bfa79a11-6a81-4848-9846-c9b804bb344e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bfa79a11-6a81-4848-9846-c9b804bb344e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bfa79a11-6a81-4848-9846-c9b804bb344e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bfa79a11-6a81-4848-9846-c9b804bb344e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bfa79a11-6a81-4848-9846-c9b804bb344e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-05-27T13:23:30.000Z",
+      "updatedAt": "2022-05-27T13:23:30.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-05-30T15:27:39.000Z",
+    "recordedAt": "2022-05-10T00:00:00.000Z",
+    "createdAt": "2022-05-10T18:34:07.000Z"
+  }
+}

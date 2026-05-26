@@ -1,0 +1,425 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.000
+Dando continuidade, meus caros, classificação e análise por atividade.
+
+3
+00:00:07.000 --> 00:00:09.000
+Classificação e análise. Então, vamos lá.
+
+4
+00:00:09.000 --> 00:00:15.000
+As atividades operacionais, como já comentamos, são as atividades essenciais do negócio da empresa.
+
+5
+00:00:15.000 --> 00:00:20.000
+Principal. Tais como compra, venda de produtos, serviços.
+
+6
+00:00:20.000 --> 00:00:27.000
+Portanto, o caixa recebido com venda de mercadorias é uma entrada de caixa operacional.
+
+7
+00:00:27.000 --> 00:00:33.000
+O caixa pago pela compra de mercadorias é uma saída de caixa operacional.
+
+8
+00:00:33.000 --> 00:00:37.000
+E eu disse a vocês que nos fluxos nós vamos ter entrada e saída.
+
+9
+00:00:37.000 --> 00:00:44.000
+O pagamento em dinheiro por despesas gerais administrativas também são saídas de caixa operacional.
+
+10
+00:00:44.000 --> 00:00:46.000
+Especificamente as despesas, né?
+
+11
+00:00:46.000 --> 00:00:53.000
+A entidade pode manter títulos e empréstimos para fins de negociação imediato ou futura.
+
+12
+00:00:53.000 --> 00:00:55.000
+Temos aí o termo em inglês, né?
+
+13
+00:00:55.000 --> 00:00:57.000
+Os quais, no caso, são semelhantes.
+
+14
+00:00:57.000 --> 00:01:01.000
+O estoque adquirido especificamente para revenda.
+
+15
+00:01:01.000 --> 00:01:10.000
+Dessa forma, os fluxos de caixa advindo da compra e venda desses títulos são classificados como atividade operacional.
+
+16
+00:01:10.000 --> 00:01:12.000
+São casos mais específicos.
+
+17
+00:01:12.000 --> 00:01:19.000
+Mas é importante eu trazer isso para vocês para não limitar só aquelas coisinhas simples dos pequenos empresários de vocês aí.
+
+18
+00:01:19.000 --> 00:01:21.000
+Vamos botar uma amplitudezinha maior.
+
+19
+00:01:21.000 --> 00:01:24.000
+Porque amanhã e depois você pode ser contador de uma grande empresa.
+
+20
+00:01:24.000 --> 00:01:26.000
+Pode trabalhar na auditoria.
+
+21
+00:01:26.000 --> 00:01:28.000
+Pode conhecer esse detalhe, né?
+
+22
+00:01:28.000 --> 00:01:29.000
+Bacana?
+
+23
+00:01:29.000 --> 00:01:30.000
+Super importante.
+
+24
+00:01:30.000 --> 00:01:34.000
+Então, nós temos aqui atividades operacionais.
+
+25
+00:01:34.000 --> 00:01:41.000
+Do mesmo modo, as antecipações de caixa e os empréstimos feitos por instituições financeiras
+
+26
+00:01:41.000 --> 00:01:45.000
+são comumente classificados como atividades operacionais.
+
+27
+00:01:45.000 --> 00:01:50.000
+Uma vez que se refere à principal atividade geradora de receita dessas empresas.
+
+28
+00:01:50.000 --> 00:01:55.000
+Esses conceitos, meus caros, são importantes para a gente elaborar,
+
+29
+00:01:55.000 --> 00:01:57.000
+para a gente parametrizar.
+
+30
+00:01:57.000 --> 00:02:04.000
+Inclusive, é muito útil para o pessoal de sistema, de TI, do software de gestão de vocês.
+
+31
+00:02:04.000 --> 00:02:08.000
+Nós sabemos que nós temos empresas parceiras, que eles muito assistem as minhas aulas.
+
+32
+00:02:08.000 --> 00:02:10.000
+Isso é bacana para ele saber onde parametrizar.
+
+33
+00:02:10.000 --> 00:02:12.000
+Pegar o plano de contas.
+
+34
+00:02:12.000 --> 00:02:17.000
+Quando o contador estiver conversando com ele, ele já tem um pré-entendimento do que é operacional,
+
+35
+00:02:17.000 --> 00:02:19.000
+do que é investimento, do que é financiamento.
+
+36
+00:02:19.000 --> 00:02:23.000
+Aonde estão situadas essas contas no plano de contas.
+
+37
+00:02:23.000 --> 00:02:26.000
+Para que ele faça a parametrização do sistema.
+
+38
+00:02:26.000 --> 00:02:29.000
+Mas, muitas vezes, você mesmo, contador, pode fazer a parametrização.
+
+39
+00:02:29.000 --> 00:02:36.000
+Para gerar automático o balanço, gerar automático a DRE, gerar automático o fluxo de caixa,
+
+40
+00:02:36.000 --> 00:02:39.000
+gerar automático as mutações do patrimônio.
+
+41
+00:02:39.000 --> 00:02:44.000
+Se eu tiver as contas certinhas, é só dizer para o sistema o que eu quero.
+
+42
+00:02:44.000 --> 00:02:47.000
+Pega esta conta, soma com essa, divide por dois, joga ali.
+
+43
+00:02:47.000 --> 00:02:50.000
+Pega essa, some com essa, diminui essa, joga lá.
+
+44
+00:02:50.000 --> 00:02:51.000
+Entendeu? Vai montando.
+
+45
+00:02:51.000 --> 00:02:55.000
+O importante é que, quando eu faço essa parametrização,
+
+46
+00:02:55.000 --> 00:02:58.000
+eu não posso ficar mexendo no sistema, encerrando conta, abrindo conta.
+
+47
+00:02:58.000 --> 00:03:02.000
+E nós sabemos que o departamento pessoal adora abrir conta.
+
+48
+00:03:02.000 --> 00:03:05.000
+Verbas de folha, onde Deus nos acuda.
+
+49
+00:03:05.000 --> 00:03:09.000
+Eles adoram abrir verbas de folha, muitas vezes, por obrigação do sindicato.
+
+50
+00:03:09.000 --> 00:03:13.000
+Quando eu abro uma nova verba, eu preciso ir lá na parametrização e mudar, alterar.
+
+51
+00:03:13.000 --> 00:03:15.000
+Porque, senão, a folha não vai bater.
+
+52
+00:03:15.000 --> 00:03:19.000
+Do mesmo jeito aqui, com relação à parametrização dos nossos sistemas.
+
+53
+00:03:19.000 --> 00:03:20.000
+E aí, fica uma coisa bacana.
+
+54
+00:03:20.000 --> 00:03:23.000
+Fica uma coisa bacana porque fica uniforme.
+
+55
+00:03:23.000 --> 00:03:27.000
+Quando você monta o balanço, você vai fazer uma junção de determinadas contas do ativo
+
+56
+00:03:27.000 --> 00:03:29.000
+para jogar em uma determinada conta.
+
+57
+00:03:29.000 --> 00:03:30.000
+É assim que funciona.
+
+58
+00:03:30.000 --> 00:03:36.000
+Então, se você tem lá no plano de contas, contas corrente do Banco do Brasil, do Itaú,
+
+59
+00:03:36.000 --> 00:03:39.000
+do Santander, na Caixa Econômica, por exemplo,
+
+60
+00:03:39.000 --> 00:03:43.000
+você não vai publicar no balanço saldo do Itaú, saldo da Caixa Econômica, saldo do Banco.
+
+61
+00:03:43.000 --> 00:03:44.000
+Não vai.
+
+62
+00:03:44.000 --> 00:03:46.000
+Você vai publicar bancos conta-movimento.
+
+63
+00:03:46.000 --> 00:03:48.000
+Como é que você vai dizer isso para o sistema?
+
+64
+00:03:48.000 --> 00:03:51.000
+Pega a conta A, conta B, conta C, conta D.
+
+65
+00:03:51.000 --> 00:03:54.000
+Soma e joga aqui como bancos conta-movimento.
+
+66
+00:03:54.000 --> 00:03:56.000
+É assim que a gente faz a parametrização.
+
+67
+00:03:56.000 --> 00:04:01.000
+Então, o pessoal de TI também é muito bem-vindo para entender a lógica.
+
+68
+00:04:01.000 --> 00:04:03.000
+Não precisa saber débito e crédito.
+
+69
+00:04:03.000 --> 00:04:06.000
+Não é obrigatoriedade formá-los contador.
+
+70
+00:04:06.000 --> 00:04:07.000
+Mas é a lógica.
+
+71
+00:04:07.000 --> 00:04:10.000
+Isso ajuda vocês em desenvolver o sistema de vocês.
+
+72
+00:04:10.000 --> 00:04:11.000
+Bacana, gente?
+
+73
+00:04:11.000 --> 00:04:13.000
+Então, isso é muito importante.
+
+74
+00:04:13.000 --> 00:04:17.000
+Automatizar processos para sobrar tempo para o contador fazer as análises
+
+75
+00:04:17.000 --> 00:04:18.000
+e tomar a decisão.
+
+76
+00:04:18.000 --> 00:04:20.000
+Entregar algo mais para o seu cliente.
+
+77
+00:04:20.000 --> 00:04:22.000
+Isso é fundamental.
+
+78
+00:04:22.000 --> 00:04:27.000
+As atividades de investimento são aquelas relacionadas com a compra e venda de ativos de longo prazo.
+
+79
+00:04:27.000 --> 00:04:28.000
+Então, fica fácil aqui.
+
+80
+00:04:28.000 --> 00:04:31.000
+Tais como propriedade e equipamentos.
+
+81
+00:04:31.000 --> 00:04:38.000
+Essas atividades são chamadas porque a empresa está alterando seus investimentos em ativos.
+
+82
+00:04:38.000 --> 00:04:40.000
+Não é uma despesa, é um investimento.
+
+83
+00:04:40.000 --> 00:04:43.000
+Quando uma empresa compra uma máquina,
+
+84
+00:04:43.000 --> 00:04:46.000
+a saída de caixa se relaciona com essa compra classificada
+
+85
+00:04:46.000 --> 00:04:48.000
+como atividade de investimento.
+
+86
+00:04:48.000 --> 00:04:49.000
+Comprou a máquina.
+
+87
+00:04:49.000 --> 00:04:56.000
+Ora, se ela vende, é uma entrada de caixa advindo da atividade de investimento.
+
+88
+00:04:56.000 --> 00:04:57.000
+Perfeito?
+
+89
+00:04:57.000 --> 00:04:58.000
+Está lá.
+
+90
+00:04:58.000 --> 00:04:59.000
+Quando a empresa vende um terreno,
+
+91
+00:04:59.000 --> 00:05:03.000
+a entrada de caixa também é classificada como atividade de investimento.
+
+92
+00:05:03.000 --> 00:05:04.000
+Perfeito?
+
+93
+00:05:04.000 --> 00:05:09.000
+As atividades de financiamento são aquelas relacionadas à aquisição de capital.
+
+94
+00:05:09.000 --> 00:05:11.000
+Quem está financiando é a empresa.
+
+95
+00:05:11.000 --> 00:05:16.000
+O pagamento de empréstimo aos titulares das dívidas e o pagamento aos investidores.
+
+96
+00:05:16.000 --> 00:05:21.000
+Portanto, os procedimentos relacionados com a venda de títulos
+
+97
+00:05:21.000 --> 00:05:25.000
+seriam uma entrada de caixa pertinente a financiamento.
+
+98
+00:05:25.000 --> 00:05:27.000
+Porque alguém está financiando a empresa.
+
+99
+00:05:27.000 --> 00:05:29.000
+Quem está comprando os títulos.
+
+100
+00:05:29.000 --> 00:05:34.000
+O pagamento em dinheiro relativos a dividendos seria uma saída de caixa
+
+101
+00:05:34.000 --> 00:05:36.000
+classificada como atividade de financiamento.
+
+102
+00:05:36.000 --> 00:05:37.000
+Por quê?
+
+103
+00:05:37.000 --> 00:05:40.000
+Porque os sócios, os acionistas estão me financiando.
+
+104
+00:05:40.000 --> 00:05:44.000
+Quando eles adquiriram as minhas ações, eles estão financiando a operação.
+
+105
+00:05:44.000 --> 00:05:50.000
+Portanto, se eu pago dividendos a eles, é uma saída de financiamento.
+
+106
+00:05:50.000 --> 00:05:52.000
+Entenderam? Essa é a lógica.
+
+107
+00:05:52.000 --> 00:05:54.000
+E aí eu vou manter padrão.

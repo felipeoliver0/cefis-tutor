@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4120,
+    "title": "Tomada de decisões",
+    "subtitle": "curso prático",
+    "summary": "Neste curso 'Tomada de decisões - Curso prático' você irá aprender na prática tudo o que precisa saber sobre tomada de decisões. Aprenderá os fundamentos e a prática de estratégia, liderança e gestão, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre tomada de decisões.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/bc95d63b-b494-427c-ade8-940a232c23cd-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Tomada de decisões, curso prático é a capacitação para a aplicação prática de desenvolver habilidades eficazes para tomar decisões informadas e estratégicas, superando obstáculos e vieses comuns."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 7014,
+    "keywords": "tomada;decisões",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 32,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 143,
+    "averageRating": 9.36,
+    "practiceAverage": 9.24,
+    "trailer": {
+      "id": "b4e9258f-258e-4476-b572-9c988caaf520",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b4e9258f-258e-4476-b572-9c988caaf520/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b4e9258f-258e-4476-b572-9c988caaf520/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b4e9258f-258e-4476-b572-9c988caaf520/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b4e9258f-258e-4476-b572-9c988caaf520/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-05T11:24:37.000Z",
+      "updatedAt": "2025-11-05T11:24:36.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-13T14:34:36.000Z",
+    "recordedAt": "2025-10-01T00:00:00.000Z",
+    "createdAt": "2025-11-05T08:49:32.000Z"
+  }
+}

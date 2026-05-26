@@ -1,0 +1,21 @@
+{
+  "id": 461921,
+  "title": "Extinção contratual - Parte 2",
+  "position": 18,
+  "duration": 223,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/de530251-ff9c-43a5-8925-1161910a3001/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de530251-ff9c-43a5-8925-1161910a3001/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de530251-ff9c-43a5-8925-1161910a3001/480.mp4",
+      "height": 480
+    }
+  ]
+}

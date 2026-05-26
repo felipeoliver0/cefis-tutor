@@ -1,0 +1,33 @@
+{
+  "id": 456641,
+  "title": "Propaganda x publicidade",
+  "position": 20,
+  "duration": 90,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/547fc0e4-6189-468a-87e3-a21338af48ea/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/547fc0e4-6189-468a-87e3-a21338af48ea/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/547fc0e4-6189-468a-87e3-a21338af48ea/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/547fc0e4-6189-468a-87e3-a21338af48ea/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/547fc0e4-6189-468a-87e3-a21338af48ea/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

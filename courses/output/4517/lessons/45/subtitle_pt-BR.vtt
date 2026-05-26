@@ -1,0 +1,605 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.039
+Então, para explicar bem isso para vocês e a dor de cabeça que se dá fazendo um lançamento X,
+
+3
+00:00:08.039 --> 00:00:12.119
+eu montei um exemplo didático para que todos vocês entendam.
+
+4
+00:00:12.119 --> 00:00:20.879
+Toda vez que eu fizer um lançamento extemporâneo, ou seja, eu não preciso substituir a minha ECD,
+
+5
+00:00:20.879 --> 00:00:24.460
+porque eu consigo fazer um lançamento extemporâneo.
+
+6
+00:00:24.460 --> 00:00:28.920
+E nós sabemos que lançamento extemporâneo é diretamente no patrimônio líquido
+
+7
+00:00:28.920 --> 00:00:34.299
+e que me obriga, teoricamente, a elaborar a DRA, demonstrando resultado abrangente.
+
+8
+00:00:34.299 --> 00:00:37.460
+Então, a Receita Federal, acompanhando isso ao longo dos anos,
+
+9
+00:00:37.460 --> 00:00:41.500
+porque não tinha um lançamento X, eu jogava no N, no normal,
+
+10
+00:00:41.500 --> 00:00:50.280
+mas muitos contribuintes acabavam sonegando tributos quando deixava de contabilizar alguma receita.
+
+11
+00:00:50.280 --> 00:00:56.179
+E aí descobria no ano anterior, aí fazia o ajuste dentro do patrimônio líquido, mas e os impostos?
+
+12
+00:00:56.179 --> 00:00:58.420
+PIS, COFINS, ICMS, Imposto de Renda,
+
+13
+00:00:58.420 --> 00:01:00.679
+contribuição social e etc.
+
+14
+00:01:00.679 --> 00:01:02.259
+Passava batido, né?
+
+15
+00:01:02.259 --> 00:01:04.420
+A Receita não enxergava isso.
+
+16
+00:01:04.420 --> 00:01:09.840
+Aí ela pegou e falou, ah, não, então de agora em diante eu preciso enxergar isso.
+
+17
+00:01:09.840 --> 00:01:13.260
+Então, você vai colocar no lançamento X.
+
+18
+00:01:13.260 --> 00:01:14.500
+Perfeito?
+
+19
+00:01:14.500 --> 00:01:19.640
+Pois bem, pessoal, então vamos agora, vamos trazer aqui o exemplo prático
+
+20
+00:01:19.640 --> 00:01:26.219
+sobre o lançamento X para vocês entenderem realmente a dificuldade que nós temos
+
+21
+00:01:26.219 --> 00:01:28.420
+caso nós tenhamos que fazer uma corretiva.
+
+22
+00:01:28.420 --> 00:01:30.420
+Nós temos que fazer uma correção de anos anteriores.
+
+23
+00:01:30.420 --> 00:01:32.420
+Eu trago aqui o exemplo, olha lá.
+
+24
+00:01:32.420 --> 00:01:38.420
+A empresa Alfa, comércio de equipamentos limitada, tributada pelo lucro real,
+
+25
+00:01:38.420 --> 00:01:44.799
+durante o procedimento interno de revisão fiscal realizado em outubro de 2025,
+
+26
+00:01:44.799 --> 00:01:49.799
+identificou uma omissão de receita no valor de R$ 150 mil,
+
+27
+00:01:49.799 --> 00:01:55.219
+referente a vendas efetuadas no mês de maio de 2024,
+
+28
+00:01:55.219 --> 00:01:58.219
+que não havia sido devidamente reconhecido
+
+29
+00:01:58.219 --> 00:02:02.219
+na escrituração contábil fiscal naquela época.
+
+30
+00:02:02.219 --> 00:02:04.219
+Então, olha só, esse é um exemplo.
+
+31
+00:02:04.219 --> 00:02:12.219
+Diante da situação identificada, efetue o lançamento contábil no exercício de 2025,
+
+32
+00:02:12.219 --> 00:02:22.219
+que é isso que diz a lei contábil, a norma ITG-2000, correspondente ao reconhecimento dessa omissão,
+
+33
+00:02:22.219 --> 00:02:27.219
+indicando também a forma de registro da ECD em 2025,
+
+34
+00:02:27.219 --> 00:02:31.219
+por meio do registro I-200, que nós falamos agora há pouco,
+
+35
+00:02:31.219 --> 00:02:35.219
+com sugestões de histórico contábil do X.
+
+36
+00:02:35.219 --> 00:02:43.219
+E, em seguida, analise os reflexos tributários decorrente da regularização na ECF,
+
+37
+00:02:43.219 --> 00:02:48.219
+Imposto de Renda e Contribuição Social, referente ao ano-calendário de 2024,
+
+38
+00:02:48.219 --> 00:02:55.219
+bem como os impactos na DCTF, hoje DCTF Web, era DCTF PGD,
+
+39
+00:02:55.219 --> 00:02:57.219
+e a EFD, Contribuição de Pis e Cofins.
+
+40
+00:02:57.219 --> 00:03:03.219
+Então, olha o trabalho que dá nós fazermos um lançamento extemporâneo
+
+41
+00:03:03.219 --> 00:03:07.219
+para evitar uma substituição da ECD.
+
+42
+00:03:07.219 --> 00:03:14.219
+Ou seja, a norma contábil nos diz, só será passivo de substituição
+
+43
+00:03:14.219 --> 00:03:18.219
+quando nós não conseguirmos realizar lançamento extemporâneo,
+
+44
+00:03:18.219 --> 00:03:23.219
+ou seja, lançamento fora do prazo, de acordo com as normas contábeis.
+
+45
+00:03:23.219 --> 00:03:25.219
+E a norma contábil nos diz isso,
+
+46
+00:03:25.219 --> 00:03:30.219
+que quando eu descobrir um erro do passado, no mesmo mês que eu descobri,
+
+47
+00:03:30.219 --> 00:03:33.219
+eu já sou obrigado a fazer o lançamento contábil
+
+48
+00:03:33.219 --> 00:03:38.219
+diretamente dentro do patrimônio líquido, sem transitar para o resultado.
+
+49
+00:03:38.219 --> 00:03:43.219
+E, obviamente, para ficar uma contabilidade cristalina, transparente e objetiva,
+
+50
+00:03:43.219 --> 00:03:48.219
+seria necessário eu fazer menção em notas explicativas desse valor.
+
+51
+00:03:48.219 --> 00:03:51.219
+Seja para mais, seja para menos.
+
+52
+00:03:51.219 --> 00:03:55.219
+Então, nós já sabemos que toda vez que formos fazer um lançamento,
+
+53
+00:03:55.219 --> 00:04:02.219
+diretamente no PL, obrigatoriamente tem que ser no lançamento X, tá?
+
+54
+00:04:02.219 --> 00:04:04.219
+Foi isso a regra da Receita Federal.
+
+55
+00:04:04.219 --> 00:04:09.219
+Então, olha lá, eu dividi ele em seis respostas.
+
+56
+00:04:09.219 --> 00:04:15.219
+Primeiro, o lançamento contábil em 2025, foi quando nós descobrimos o erro, perfeito?
+
+57
+00:04:15.219 --> 00:04:17.220
+Ano da descoberta, olha lá.
+
+58
+00:04:17.220 --> 00:04:23.220
+Como a Receita pertence a 2024, mas não foi identificada,
+
+59
+00:04:23.220 --> 00:04:25.220
+ou melhor, mas foi identificada somente em 2025,
+
+60
+00:04:25.220 --> 00:04:31.220
+o ajuste deve ser tratado como ajuste de exercícios anteriores,
+
+61
+00:04:31.220 --> 00:04:37.220
+conforme o CPC 23, NBCTG 23, diretamente dentro do PL.
+
+62
+00:04:37.220 --> 00:04:39.220
+É lá que se encontra essa conta.
+
+63
+00:04:39.220 --> 00:04:47.220
+Olha o lançamento contábil, eu vou debitar clientes, caixa ou uma conta transitória de R$ 150 mil,
+
+64
+00:04:47.220 --> 00:04:49.220
+porque eu deixei de contabilizar.
+
+65
+00:04:49.220 --> 00:04:53.220
+Significa, obviamente, que a minha conciliação não foi das melhores, perfeito?
+
+66
+00:04:53.220 --> 00:04:54.220
+Vou creditar o quê?
+
+67
+00:04:54.220 --> 00:04:58.220
+Ajuste de exercício anterior diretamente no PL, um crédito.
+
+68
+00:04:58.220 --> 00:05:03.220
+Portanto, eu aumento o meu PL em R$ 150 mil, perfeito?
+
+69
+00:05:03.220 --> 00:05:09.220
+Se eu aumentei o meu PL, é como se eu tivesse aumentado a minha Receita,
+
+70
+00:05:09.220 --> 00:05:14.220
+mas eu não tributei, então eu tenho que calcular imposto de renda, contribuição social,
+
+71
+00:05:14.220 --> 00:05:18.220
+PIS, COFINS, ICMS, IP, tudo sobre R$ 150 mil,
+
+72
+00:05:18.220 --> 00:05:22.220
+que alguns contribuintes não vinham fazendo isso.
+
+73
+00:05:22.220 --> 00:05:24.220
+Por isso que a Receita falou, não.
+
+74
+00:05:24.220 --> 00:05:27.220
+Eu quero enxergar o lançamento X agora, entendeu?
+
+75
+00:05:27.220 --> 00:05:32.220
+Porque se ele contabiliza diretamente no resultado, não é o que diz a norma contábil,
+
+76
+00:05:32.220 --> 00:05:36.220
+mas se ele contabilizasse, obrigatoriamente ele teria que tributar isso.
+
+77
+00:05:36.220 --> 00:05:39.220
+Atrasado, obviamente, mas teria que tributar,
+
+78
+00:05:39.220 --> 00:05:43.220
+porque senão, através de cruzamento de dados, a Receita Federal ia descobrir, perfeito?
+
+79
+00:05:43.220 --> 00:05:47.220
+Contabilizando dentro do PL, meio que encobre,
+
+80
+00:05:47.220 --> 00:05:52.220
+mas com o lançamento X, traz à tona a obrigatoriedade
+
+81
+00:05:52.220 --> 00:05:59.220
+de calcular os tributos incidentes sobre R$ 50 mil e recolher, constituir um passivo,
+
+82
+00:05:59.220 --> 00:06:04.220
+aí eu vou debitar o PL para constituir um passivo circulante chamado PIS a recolher,
+
+83
+00:06:04.220 --> 00:06:10.220
+COFINS a recolher, imposto de renda a recolher, contribuição social a recolher, perfeito?
+
+84
+00:06:10.220 --> 00:06:14.220
+Daí eu debito o passivo, o ajuste de exercício anterior e credito,
+
+85
+00:06:14.220 --> 00:06:20.220
+eu debito o PL, ajuste de exercício anterior e credito o passivo circulante, perfeito?
+
+86
+00:06:20.220 --> 00:06:22.220
+Esse é o objetivo da Receita Federal.
+
+87
+00:06:22.220 --> 00:06:24.220
+Muito bem, fizemos aqui o lançamento.
+
+88
+00:06:24.220 --> 00:06:32.220
+Nota 1. Caso a empresa já tenha recebido esses R$ 150 mil, poderá utilizar caixa e banco, perfeito?
+
+89
+00:06:32.220 --> 00:06:34.220
+Para conciliar, para bater caixa e banco.
+
+90
+00:06:34.220 --> 00:06:38.220
+Caso ainda tenha direito a receber, pode utilizar a conta clientes, tá?
+
+91
+00:06:38.220 --> 00:06:41.220
+Clientes, caixa, transitório, perfeito, tá?
+
+92
+00:06:41.220 --> 00:06:44.220
+Então é assim que nós deveríamos contabilizar.
+
+93
+00:06:44.220 --> 00:06:49.220
+Número 2. O registro da ECD lá no I-200 em 2025.
+
+94
+00:06:49.220 --> 00:06:52.220
+Sugestão de histórico, campo de descrição.
+
+95
+00:06:52.220 --> 00:06:57.220
+Reconhecimento de omissão de receita referente ao período de maio de 2024,
+
+96
+00:06:57.220 --> 00:07:01.220
+identificada em auditoria interna, realizada em outubro de 2025,
+
+97
+00:07:01.220 --> 00:07:05.220
+contabilizado como ajuste de exercícios anteriores, conforme CPC 23.
+
+98
+00:07:05.220 --> 00:07:10.220
+Olha que boa redação para se levar para as notas aplicativas.
+
+99
+00:07:10.220 --> 00:07:14.220
+Então, nas notas aplicativas, o contador poderia dizer,
+
+100
+00:07:14.220 --> 00:07:17.220
+apesar do nosso resultado ter sido 1 milhão,
+
+101
+00:07:17.220 --> 00:07:20.220
+na realidade tivemos mais 150 mil,
+
+102
+00:07:20.220 --> 00:07:24.220
+contabilizado diretamente do patrimônio líquido,
+
+103
+00:07:24.220 --> 00:07:28.220
+em função de omissão de receita do período de maio...
+
+104
+00:07:28.220 --> 00:07:30.220
+Entendeu?
+
+105
+00:07:30.220 --> 00:07:33.220
+Fica claro para o contribuinte,
+
+106
+00:07:33.220 --> 00:07:37.220
+para a pessoa que vai utilizar a demonstração contábil.
+
+107
+00:07:37.220 --> 00:07:38.220
+Eu não tenho nada a esconder.
+
+108
+00:07:38.220 --> 00:07:41.220
+Foi um lápis, foi um erro, passou.
+
+109
+00:07:41.220 --> 00:07:42.220
+Vamos corrigir.
+
+110
+00:07:42.220 --> 00:07:43.220
+De que maneira?
+
+111
+00:07:43.220 --> 00:07:45.220
+Através da norma contábil
+
+112
+00:07:45.220 --> 00:07:48.220
+e através das notas aplicativas.
+
+113
+00:07:48.220 --> 00:07:51.220
+E, consequentemente, tudo isso é retratado dentro da ECD.
+
+114
+00:07:51.220 --> 00:07:53.220
+Entenderam a importância da ECD?
+
+115
+00:07:53.220 --> 00:07:56.220
+Ela abarca toda a nossa contabilidade.
+
+116
+00:07:56.220 --> 00:08:02.220
+E aí nós temos aqui o terceiro reflexo na ECF do imposto de renda.
+
+117
+00:08:02.220 --> 00:08:04.220
+Então está tudo errado.
+
+118
+00:08:04.220 --> 00:08:06.220
+O nosso imposto de renda foi calculado errado,
+
+119
+00:08:06.220 --> 00:08:07.220
+o PIS foi calculado errado,
+
+120
+00:08:07.220 --> 00:08:08.220
+o COFIS foi calculado errado,
+
+121
+00:08:08.220 --> 00:08:10.220
+o ICMS foi calculado errado.
+
+122
+00:08:10.220 --> 00:08:14.220
+Consequentemente, todas as obrigações que eu entreguei com essas informações estão erradas.
+
+123
+00:08:14.220 --> 00:08:16.220
+Olha o trabalho que dá.
+
+124
+00:08:16.220 --> 00:08:20.220
+Então eu vou ter aqui reflexo da ECF.
+
+125
+00:08:20.220 --> 00:08:23.220
+Como a receita pertence a maio de 2024,
+
+126
+00:08:23.220 --> 00:08:26.220
+a tributação deve ser ajustada para o período correto.
+
+127
+00:08:26.220 --> 00:08:29.220
+Significa que eu vou ter multa, juros, selic, etc.
+
+128
+00:08:29.220 --> 00:08:31.220
+Portanto, providências.
+
+129
+00:08:31.220 --> 00:08:34.220
+Retificar a ECF do ano 2024.
+
+130
+00:08:34.220 --> 00:08:35.220
+Está errada.
+
+131
+00:08:35.220 --> 00:08:36.220
+Tenho que retificar.
+
+132
+00:08:36.220 --> 00:08:39.220
+Se eu estou fazendo lançamento extemporâneo,
+
+133
+00:08:39.220 --> 00:08:43.220
+majorar a base de cálculo do imposto de renda e contribuição social.
+
+134
+00:08:43.220 --> 00:08:44.220
+Né?
+
+135
+00:08:44.220 --> 00:08:47.220
+Depois, reprocessar LALUR,
+
+136
+00:08:47.220 --> 00:08:50.220
+LAX, que é o livro da contribuição social,
+
+137
+00:08:50.220 --> 00:08:52.220
+parte A e parte B, quando aplicável.
+
+138
+00:08:52.220 --> 00:08:55.220
+Olha só o trabalho que dá, gente.
+
+139
+00:08:55.220 --> 00:08:57.220
+A gente deixar de conciliar.
+
+140
+00:08:57.220 --> 00:08:59.220
+Porque a conciliação é a alma do negócio.
+
+141
+00:08:59.220 --> 00:09:02.220
+Ela pega toda e qualquer diferença.
+
+142
+00:09:02.220 --> 00:09:05.220
+Uma conciliação bem feita retrata a verdade.
+
+143
+00:09:05.220 --> 00:09:08.220
+Nesse exemplo aqui, proposital, que eu montei,
+
+144
+00:09:08.220 --> 00:09:10.220
+foi falta de conciliação, sem sombra de dúvida.
+
+145
+00:09:10.220 --> 00:09:11.220
+Muito bem.
+
+146
+00:09:11.220 --> 00:09:13.220
+Aí nós temos aqui.
+
+147
+00:09:13.220 --> 00:09:17.220
+Como a receita pertencente à MAE,
+
+148
+00:09:17.220 --> 00:09:19.220
+a tributação deve ser ajustada para o período.
+
+149
+00:09:19.220 --> 00:09:21.220
+Possíveis reflexos.
+
+150
+00:09:21.220 --> 00:09:24.220
+Complementação do imposto de renda e contribuição social,
+
+151
+00:09:24.220 --> 00:09:28.220
+incidência de multas e de juros selic.
+
+152
+00:09:28.220 --> 00:09:30.220
+Perfeito? Olha só como a coisa ficou.

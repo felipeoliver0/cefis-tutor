@@ -1,0 +1,701 @@
+WEBVTT
+
+1
+00:00:00.330 --> 00:00:02.490
+orientação específica por evento.
+
+2
+00:00:02.769 --> 00:00:04.329
+Todos os eventos que nós comentamos,
+
+3
+00:00:04.409 --> 00:00:04.679
+né?
+
+4
+00:00:04.809 --> 00:00:05.800
+Vou passar aqui
+
+5
+00:00:06.090 --> 00:00:07.599
+dar os principais dicas
+
+6
+00:00:08.130 --> 00:00:12.000
+Começamos com o Carl Rrias informações do RM do Contribuinte.
+
+7
+00:00:12.930 --> 00:00:15.289
+Quando da implantação da da FD Rinf.
+
+8
+00:00:15.369 --> 00:00:17.729
+Esse deve ser o primeiro evento a ser
+
+9
+00:00:17.969 --> 00:00:19.690
+transmitido pelo contribuintes.
+
+10
+00:00:20.090 --> 00:00:20.729
+Antes dele,
+
+11
+00:00:20.850 --> 00:00:24.000
+nenhum outro evento poderá ser enviado
+
+12
+00:00:24.290 --> 00:00:25.440
+e nesse evento
+
+13
+00:00:25.610 --> 00:00:27.579
+que integra os eventos de tabela,
+
+14
+00:00:28.129 --> 00:00:32.080
+os quais otimizam e validam a escrituração das informações.
+
+15
+00:00:32.549 --> 00:00:33.500
+que podem
+
+16
+00:00:33.750 --> 00:00:36.349
+influenciar os cálculos dos tributos e contribuições,
+
+17
+00:00:36.990 --> 00:00:37.200
+né?
+
+18
+00:00:37.529 --> 00:00:39.979
+São fornecidos os dados de identificação,
+
+19
+00:00:40.389 --> 00:00:43.919
+bem como os dados básicos de classificação fiscal do contribuinte.
+
+20
+00:00:44.459 --> 00:00:46.389
+Então é como se fosse os dados cadastrais,
+
+21
+00:00:46.490 --> 00:00:47.599
+os dados iniciais.
+
+22
+00:00:47.930 --> 00:00:49.349
+Então esse é o RI,
+
+23
+00:00:49.430 --> 00:00:50.630
+a primeira CNIA.
+
+24
+00:00:50.830 --> 00:00:52.700
+As informações prestadas
+
+25
+00:00:53.430 --> 00:00:55.729
+eh podem sofrer alterações no decorrer do tempo,
+
+26
+00:00:56.349 --> 00:00:59.069
+desde que não ultrapasse o dia 15 do mês subsequente,
+
+27
+00:00:59.110 --> 00:01:00.860
+as faturadores que se refiram.
+
+28
+00:01:01.479 --> 00:01:02.680
+Nessa hipótese
+
+29
+00:01:02.880 --> 00:01:04.319
+deverá ser enviado aí,
+
+30
+00:01:04.360 --> 00:01:04.480
+né?
+
+31
+00:01:04.559 --> 00:01:05.790
+Esse mesmo evento
+
+32
+00:01:06.040 --> 00:01:06.959
+com as informações,
+
+33
+00:01:07.040 --> 00:01:09.589
+com as alterações que porventura tem ocorrido,
+
+34
+00:01:10.040 --> 00:01:10.239
+né?
+
+35
+00:01:10.440 --> 00:01:10.599
+Então,
+
+36
+00:01:10.680 --> 00:01:12.680
+eu só vou enviá-lo novamente,
+
+37
+00:01:13.000 --> 00:01:14.919
+caso ocorra alterações.
+
+38
+00:01:15.000 --> 00:01:17.480
+Se não alterarem nada os nossos cadastros,
+
+39
+00:01:17.760 --> 00:01:18.639
+os nossos códigos,
+
+40
+00:01:18.680 --> 00:01:19.639
+as nossas classificações.
+
+41
+00:01:20.160 --> 00:01:21.489
+Não vou enviar mais o é 10.
+
+42
+00:01:21.800 --> 00:01:22.690
+Já enviei que eu vou.
+
+43
+00:01:23.040 --> 00:01:25.029
+Então isso foi bem acertado nessa,
+
+44
+00:01:25.360 --> 00:01:25.589
+né?
+
+45
+00:01:25.800 --> 00:01:26.629
+Como se fosse,
+
+46
+00:01:26.839 --> 00:01:26.940
+né?
+
+47
+00:01:26.959 --> 00:01:27.879
+O cabeçalho,
+
+48
+00:01:27.959 --> 00:01:28.040
+né?
+
+49
+00:01:28.160 --> 00:01:29.319
+Então enviei uma vez só,
+
+50
+00:01:29.680 --> 00:01:30.040
+né?
+
+51
+00:01:31.139 --> 00:01:32.730
+O conceito desse evento,
+
+52
+00:01:32.739 --> 00:01:33.349
+então é
+
+53
+00:01:33.500 --> 00:01:35.419
+é aquele pelo qual são fornecida,
+
+54
+00:01:35.940 --> 00:01:39.019
+tendo sujeito passivo suas informações de identificação,
+
+55
+00:01:41.650 --> 00:01:44.419
+o enquadramento para fins tributários necessário ao preenchimento de validação
+
+56
+00:01:44.419 --> 00:01:47.220
+dos demais eventos da Reifter E tá amarrando com tudo,
+
+57
+00:01:47.300 --> 00:01:47.500
+né?
+
+58
+00:01:48.029 --> 00:01:50.180
+Inclusive para apuração de retenções das
+
+59
+00:01:50.180 --> 00:01:52.470
+contribuições sociais e previdenciárias devido.
+
+60
+00:01:53.769 --> 00:01:56.449
+Então Esse é o primeiro evento que deve ser transmitido
+
+61
+00:01:56.660 --> 00:01:57.980
+pelo sujeito pacífico.
+
+62
+00:01:58.540 --> 00:01:59.650
+Quem é que tá obrigado.
+
+63
+00:02:00.139 --> 00:02:03.220
+Todo sujeito passe que tiveram obrigado a a.ar o REI,
+
+64
+00:02:03.540 --> 00:02:03.849
+né?
+
+65
+00:02:04.260 --> 00:02:07.059
+Quando iniciar a sua escrituração e toda vez que
+
+66
+00:02:07.059 --> 00:02:12.279
+ocorra alguma alterações nas informações relacionados a esses cadastros.
+
+67
+00:02:12.699 --> 00:02:13.779
+Se não tiver alteração,
+
+68
+00:02:13.860 --> 00:02:15.289
+não precisa enviar novamente
+
+69
+00:02:15.600 --> 00:02:16.119
+perfeito.
+
+70
+00:02:16.539 --> 00:02:16.970
+Então
+
+71
+00:02:17.139 --> 00:02:21.710
+informação a ser prestada deve ser enviada antes de qualquer evento é o primeiro.
+
+72
+00:02:22.160 --> 00:02:24.449
+que pode ser alterada no decorrer do tempo,
+
+73
+00:02:25.100 --> 00:02:25.110
+né?
+
+74
+00:02:25.119 --> 00:02:26.509
+Desde que não ultrapasse o
+
+75
+00:02:27.419 --> 00:02:27.600
+dia,
+
+76
+00:02:27.610 --> 00:02:29.820
+que é exatamente o prazo final de entrega do próximo,
+
+77
+00:02:29.880 --> 00:02:30.000
+né?
+
+78
+00:02:30.639 --> 00:02:34.050
+A classificação tributária puxando agora pela memória.
+
+79
+00:02:34.440 --> 00:02:37.639
+Nós informamos isso das tabelas que nós mostramos agora há pouco,
+
+80
+00:02:37.779 --> 00:02:37.839
+né?
+
+81
+00:02:38.399 --> 00:02:40.320
+Então os código de classificação tributária.
+
+82
+00:02:40.539 --> 00:02:41.729
+que permite saber
+
+83
+00:02:42.020 --> 00:02:46.009
+quais espécies de contribuições sociais previdenciárias são devidas
+
+84
+00:02:46.259 --> 00:02:48.380
+para cada tipo de sujeito passivo.
+
+85
+00:02:48.820 --> 00:02:51.449
+São discriminados na tabela oito do anexo I,
+
+86
+00:02:51.699 --> 00:02:53.699
+que nós mostramos agora há pouco pra vocês
+
+87
+00:02:54.139 --> 00:02:54.470
+perfeito,
+
+88
+00:02:54.539 --> 00:02:55.619
+as tabelas servem para isso.
+
+89
+00:02:55.979 --> 00:02:58.490
+Tudo isso está parametrizado no sistema de vocês,
+
+90
+00:03:00.100 --> 00:03:02.500
+mas isso não quer dizer que eu não deva conferir.
+
+91
+00:03:03.339 --> 00:03:05.539
+Não é que eu puxei os dados e tá tudo certo.
+
+92
+00:03:05.580 --> 00:03:06.619
+Eu preciso conferir.
+
+93
+00:03:07.110 --> 00:03:08.820
+pra ver se foi parametrizado correto para
+
+94
+00:03:08.830 --> 00:03:10.800
+para verificar se ocorreu alguma alteração.
+
+95
+00:03:11.649 --> 00:03:12.850
+Então essa é a nossa função
+
+96
+00:03:13.270 --> 00:03:17.429
+para qualquer obrigação acessória que eu importo dados do meu RP,
+
+97
+00:03:17.869 --> 00:03:19.339
+há que se ter uma conferência
+
+98
+00:03:19.589 --> 00:03:20.220
+perfeito
+
+99
+00:03:20.470 --> 00:03:22.350
+e depois fechar a porta conferir,
+
+100
+00:03:22.429 --> 00:03:23.110
+está tudo certo.
+
+101
+00:03:23.419 --> 00:03:25.110
+Toda vez que eu me gravo vai está correto,
+
+102
+00:03:25.190 --> 00:03:25.389
+né?
+
+103
+00:03:26.110 --> 00:03:26.679
+Perfeito
+
+104
+00:03:26.970 --> 00:03:28.500
+opção pela CPRB
+
+105
+00:03:28.789 --> 00:03:29.500
+também
+
+106
+00:03:29.949 --> 00:03:30.910
+sujeito passivo,
+
+107
+00:03:30.949 --> 00:03:33.350
+cuja classificação seja igual a 2.
+
+108
+00:03:33.779 --> 00:03:34.970
+empresa enquadrada
+
+109
+00:03:35.220 --> 00:03:38.889
+no Simples Nacional Con tributação previdenciária não substituída
+
+110
+00:03:39.270 --> 00:03:40.250
+e a 3.
+
+111
+00:03:40.740 --> 00:03:43.059
+enquadrada no simples com tributação
+
+112
+00:03:43.059 --> 00:03:45.750
+previdenciária substituída e não s- substituída
+
+113
+00:03:46.210 --> 00:03:48.350
+99 pessoas jurídicas em geral,
+
+114
+00:03:48.460 --> 00:03:48.690
+né?
+
+115
+00:03:48.979 --> 00:03:49.399
+Então
+
+116
+00:03:49.740 --> 00:03:52.619
+Quem optou você vai encaixar de acordo com os códigos,
+
+117
+00:03:52.660 --> 00:03:52.839
+né?
+
+118
+00:03:52.979 --> 00:03:53.779
+Da CPRB
+
+119
+00:03:54.100 --> 00:03:56.660
+deve informar se optou pela CPRB ou não,
+
+120
+00:03:56.979 --> 00:03:57.139
+né?
+
+121
+00:03:57.220 --> 00:03:58.169
+Então tem que ir lá
+
+122
+00:03:58.380 --> 00:04:00.600
+lá no campo técnico lá botar lá um,
+
+123
+00:04:00.740 --> 00:04:01.009
+né?
+
+124
+00:04:01.529 --> 00:04:02.179
+Sonderação
+
+125
+00:04:02.660 --> 00:04:04.779
+vai informar também se entregou,
+
+126
+00:04:05.179 --> 00:04:07.550
+se está obrigado a entrega e a ECD,
+
+127
+00:04:07.740 --> 00:04:08.029
+né?
+
+128
+00:04:08.500 --> 00:04:12.800
+Então empresa pode informar se adota a estruturação contábil na forma da ECD
+
+129
+00:04:13.440 --> 00:04:14.699
+Então para vocês vocês terem uma ideia,
+
+130
+00:04:14.740 --> 00:04:14.929
+né?
+
+131
+00:04:15.220 --> 00:04:18.250
+Aqui Nós estamos falando de retenções de fontes.
+
+132
+00:04:19.100 --> 00:04:21.010
+Mas ele está pedindo a esse CD,
+
+133
+00:04:21.100 --> 00:04:22.820
+então o CD que tem cruzamentos,
+
+134
+00:04:22.899 --> 00:04:23.070
+né?
+
+135
+00:04:23.540 --> 00:04:24.660
+Contabilizações,
+
+136
+00:04:24.859 --> 00:04:24.980
+né?
+
+137
+00:04:25.140 --> 00:04:27.380
+Posso recuperar postos fetidos et cetera,
+
+138
+00:04:27.459 --> 00:04:27.630
+né?
+
+139
+00:04:28.100 --> 00:04:30.890
+E também temos aí envio pelos órgãos públicos.
+
+140
+00:04:31.140 --> 00:04:35.579
+Nós temos até preparei alguns slides também mais no final sobre órgãos públicos,
+
+141
+00:04:36.019 --> 00:04:36.410
+né?
+
+142
+00:04:36.540 --> 00:04:40.579
+Porque muitas vezes temos alunos também de órgãos públicos aqui na CEFIS temos,
+
+143
+00:04:41.309 --> 00:04:41.399
+né?
+
+144
+00:04:41.660 --> 00:04:44.059
+O nosso quadro de alunada bem amplo.
+
+145
+00:04:44.440 --> 00:04:45.859
+Então também abordei aí,
+
+146
+00:04:46.140 --> 00:04:46.329
+né?
+
+147
+00:04:46.339 --> 00:04:47.489
+Órgãos públicos.
+
+148
+00:04:48.230 --> 00:04:50.350
+Quando o contribuinte for um órgão público.
+
+149
+00:04:50.750 --> 00:04:54.480
+A forma de envio do R1000 deve seguir as regras previstos
+
+150
+00:04:54.829 --> 00:04:55.820
+lá no item
+
+151
+00:04:55.920 --> 00:04:58.700
+14 do capítulo um do manual
+
+152
+00:04:59.029 --> 00:04:59.640
+da Reif,
+
+153
+00:04:59.829 --> 00:05:00.459
+ou seja,
+
+154
+00:05:00.989 --> 00:05:03.600
+vem lá a especifi- especificações,
+
+155
+00:05:03.670 --> 00:05:03.940
+né?
+
+156
+00:05:04.149 --> 00:05:05.059
+Pra órgão público.
+
+157
+00:05:05.799 --> 00:05:05.989
+Então.
+
+158
+00:05:06.119 --> 00:05:08.839
+Os órgãos da administração pública direta
+
+159
+00:05:09.320 --> 00:05:11.880
+podem enviar as suas informações da Reife
+
+160
+00:05:12.119 --> 00:05:16.589
+desde que se constituem a unidade gestora de orçamento que a gente conhece por
+
+161
+00:05:16.720 --> 00:05:17.160
+o G,
+
+162
+00:05:17.279 --> 00:05:17.480
+né?
+
+163
+00:05:17.600 --> 00:05:18.440
+Unidade de
+
+164
+00:05:18.760 --> 00:05:19.880
+de orçamento,
+
+165
+00:05:20.359 --> 00:05:20.369
+né?
+
+166
+00:05:20.380 --> 00:05:22.290
+Gestora de orçamento Unidade gestora.
+
+167
+00:05:23.320 --> 00:05:25.519
+Se for na espera estadual municipal,
+
+168
+00:05:25.920 --> 00:05:27.029
+é necessário
+
+169
+00:05:27.320 --> 00:05:28.549
+que a
+
+170
+00:05:28.720 --> 00:05:32.130
+da unidade gestora tenha seu próprio número de inscrição no CNPJ
+
+171
+00:05:32.720 --> 00:05:35.350
+como estabelecimento matriz e com isso,
+
+172
+00:05:35.959 --> 00:05:37.230
+ter a facilidade
+
+173
+00:05:37.480 --> 00:05:41.559
+do controle do envio da FDRI e a consequente integração
+
+174
+00:05:41.559 --> 00:05:46.119
+com a DCTFE perfeito órgãos públicos também tem essa obrigatoriedade,
+
+175
+00:05:46.200 --> 00:05:46.480
+né?

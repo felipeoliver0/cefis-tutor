@@ -1,0 +1,33 @@
+{
+  "id": 458101,
+  "title": "Cpc 44 - Demonstrações combinadas",
+  "position": 175,
+  "duration": 287,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/160848aa-6051-4e18-a509-98a5f8585601/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/160848aa-6051-4e18-a509-98a5f8585601/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/160848aa-6051-4e18-a509-98a5f8585601/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/160848aa-6051-4e18-a509-98a5f8585601/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/160848aa-6051-4e18-a509-98a5f8585601/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 459436,
+  "title": "Exame CFC | Prática",
+  "position": 13,
+  "duration": 510,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/65bf7642-6fd2-4ad2-9f05-6598b4fb0899/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65bf7642-6fd2-4ad2-9f05-6598b4fb0899/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65bf7642-6fd2-4ad2-9f05-6598b4fb0899/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65bf7642-6fd2-4ad2-9f05-6598b4fb0899/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65bf7642-6fd2-4ad2-9f05-6598b4fb0899/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

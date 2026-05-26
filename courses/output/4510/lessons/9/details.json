@@ -1,0 +1,33 @@
+{
+  "id": 488125,
+  "title": "Abrindo seu Escritório",
+  "position": 9,
+  "duration": 428,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/ed584ed5-4c70-4b04-ba70-168873d1574d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed584ed5-4c70-4b04-ba70-168873d1574d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed584ed5-4c70-4b04-ba70-168873d1574d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed584ed5-4c70-4b04-ba70-168873d1574d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed584ed5-4c70-4b04-ba70-168873d1574d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

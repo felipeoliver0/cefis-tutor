@@ -1,0 +1,249 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.320
+Como que acontecerá a base de cálculo do IBS e da CBS?
+
+2
+00:00:08.320 --> 00:00:15.519
+Conforme o artigo 12 da LC 214, o Fisco trata algumas questões para então vocês criarem
+
+3
+00:00:15.519 --> 00:00:17.179
+essa base de cálculo.
+
+4
+00:00:17.179 --> 00:00:20.359
+E por que eu coloquei isso no material de vocês, pessoal?
+
+5
+00:00:20.359 --> 00:00:27.079
+Porque isso é muito importante, porque a base de cálculo do IBS e CBS, ela é diferente do valor total da nota,
+
+6
+00:00:27.079 --> 00:00:29.879
+que é diferente da base de cálculo do ICMS.
+
+7
+00:00:29.879 --> 00:00:38.380
+A formação da base de cálculo do IBS e da CBS está ligado ao valor oneroso da operação.
+
+8
+00:00:41.380 --> 00:00:49.179
+O que é o valor da operação? O que é essa onerosidade? É tudo aquilo que foi tratado
+
+9
+00:00:49.179 --> 00:00:55.000
+comercialmente e que será pago por um outro, porque a onerosidade fala então sobre o âmbito
+
+10
+00:00:55.000 --> 00:01:36.459
+comercial. Então se eu, adquirente, fiquei responsável pelo frete, eu vou precisar pagar CEFIS E os descontos incondicionais. Ou seja, a base de cálculo, ela é distinta, diferente do que vocês fazem para formar
+
+11
+00:01:36.459 --> 00:01:40.079
+a base de cálculo do ICMS.
+
+12
+00:01:40.079 --> 00:01:43.780
+O que a lei considera valor da operação?
+
+13
+00:01:43.780 --> 00:01:46.799
+O artigo 12 nos relata isso.
+
+14
+00:01:46.799 --> 00:01:52.599
+Ele diz o seguinte, a base de cálculo do IBS e do ECBS é o valor da operação.
+
+15
+00:01:52.599 --> 00:01:54.439
+E o que é o valor da operação?
+
+16
+00:01:54.439 --> 00:02:01.099
+Entendido como valor integral, o valor integral cobrado pelo fornecedor.
+
+17
+00:02:01.099 --> 00:02:06.040
+Como eu disse, se eu sou adquirente, eu sou responsável por pagar todas essas informações
+
+18
+00:02:06.040 --> 00:02:08.340
+e isso faz parte do valor da operação.
+
+19
+00:02:08.340 --> 00:02:09.539
+E o que é?
+
+20
+00:02:09.539 --> 00:02:11.680
+O que são essas coisas?
+
+21
+00:02:11.680 --> 00:02:21.080
+Ajustes de preço, juros, multas e encargos, descontos condicionais, frete cobrado pelo
+
+22
+00:02:21.080 --> 00:02:28.099
+próprio fornecedor ou por conta em ordem, tributos e preços públicos suportados pelo COBRADO PELO PRÓPRIO FORNECEDOR, OU POR CONTA EM ORDEM, TRIBUTOS E PREÇOS PÚBLICOS SUPORTADOS
+
+23
+00:02:28.099 --> 00:02:40.780
+PELO FORNECEDOR, DEMAIS VALORES COBRADOS COMO PARTE DA OPERAÇÃO, SEGURO, TAIXAS, ETC.
+
+24
+00:02:40.780 --> 00:02:47.080
+TUDO AQUILO QUE FORMAR O VALOR INTEGRAL QUE SERÁ COBRADO EM CONTRAPRESTAÇÃO PELO FORNECEDOR Tudo aquilo que formar o valor integral que será cobrado em contraprestação pelo fornecedor
+
+25
+00:02:47.080 --> 00:02:49.439
+entra como valor da operação.
+
+26
+00:02:49.439 --> 00:02:58.960
+Isso muda a forma de como nós vamos então preencher no sistema os parâmetros para compor essa base.
+
+27
+00:03:01.360 --> 00:03:09.960
+Uma regra chave, a lei parte do valor cheio da operação e só depois autoriza as exclusões.
+
+28
+00:03:09.960 --> 00:03:18.599
+Então primeiro a gente precisa achar o valor integral que será cobrado para então nós fazermos
+
+29
+00:03:18.599 --> 00:03:29.759
+as exclusões. E quais são as exclusões? O que que não integra a base de cálculo? Base fundamentada para vocês, artigo 12, parágrafo 2º.
+
+30
+00:03:29.759 --> 00:03:33.460
+O que não integra a base de cálculo do IBS e CBS?
+
+31
+00:03:33.460 --> 00:03:41.199
+O próprio IBS e a própria CBS, porque não faz parte da sua composição, o IPI, os descontos
+
+32
+00:03:41.199 --> 00:03:49.000
+incondicionais, valores pagos por conta em ordem de terceiros, com documentação em nome do terceiro,
+
+33
+00:03:49.000 --> 00:04:00.000
+e durante a transição de 2026 até 2032, ICMS, ISS, PIS e COFINS.
+
+34
+00:04:00.000 --> 00:04:10.759
+Qual que é o impacto prático? A base do IBS e CBS nem sempre será igual ao valor do item do documento fiscal.
+
+35
+00:04:10.759 --> 00:04:12.000
+Por que?
+
+36
+00:04:12.000 --> 00:04:17.560
+Existe uma composição diferente, existem exclusões diferentes.
+
+37
+00:04:17.560 --> 00:04:23.759
+Então, nesse sistema que nós estamos, nós temos uma sistemática de cálculo
+
+38
+00:04:23.759 --> 00:04:58.000
+e no novo sistema tributário as coisas mudam. E nesse momento, vocês já estão emitindo os documentos em momento teste para algumas empresas testarem aquilo que foi desenhado dentro do grupo UBI.
+
+39
+00:04:58.000 --> 00:05:45.879
+As empresas do Simples Nacional, as empresas do MEI não entraram no momento teste, mas as empresas do Lucro Real for o valor do item, nós estamos trazendo uma margem de valor. CEFIS Então é um valor devido, mesmo que seja um percentual pequeno.
+
+40
+00:05:45.879 --> 00:05:50.860
+O parágrafo primeiro do artigo 348 diz o seguinte,
+
+41
+00:05:50.860 --> 00:05:54.660
+que serão dispensados do recolhimento do valor devido,
+
+42
+00:05:54.660 --> 00:06:00.279
+se o seu contribuinte efetuar a entrega de todas as obrigações acessórias.
+
+43
+00:06:00.279 --> 00:06:03.040
+Só que não diz qual.
+
+44
+00:06:06.680 --> 00:06:09.480
+Hoje nós temos diversas obrigações acessórias.
+
+45
+00:06:09.480 --> 00:06:14.519
+Por meio de um ato conjunto do Comitê Gestor e da Receita Federal,
+
+46
+00:06:14.519 --> 00:06:21.060
+o Fisco relata o que é essa obrigação acessória e diz que são as obrigações acessórias sobre os
+
+47
+00:06:21.060 --> 00:06:25.639
+documentos fiscais eletrônicos e sobre as obrigações que ele vier a instituir,
+
+48
+00:06:25.639 --> 00:06:27.279
+como por exemplo a DERI,
+
+49
+00:06:27.279 --> 00:06:35.279
+que até o momento nós não temos instrução normativa para o preenchimento,
+
+50
+00:06:36.279 --> 00:06:39.839
+mas existe uma lacuna.
+
+51
+00:06:41.360 --> 00:06:43.500
+E aí o Fisco cria um outro ato,
+
+52
+00:06:43.879 --> 00:06:46.699
+em um outro comunicado com o Comitê de Gestão e Receita Federal,
+
+53
+00:06:46.699 --> 00:06:58.120
+dizendo o seguinte, olha, não haverá penalidade caso o seu contribuinte não emita as notas fiscais com IBS e CBS em janeiro.
+
+54
+00:06:59.120 --> 00:07:00.339
+Foi prorrogado para abril.
+
+55
+00:07:02.279 --> 00:07:12.879
+Esse comunicado, ele traz então uma prorrogação de prazo sobre a penalidade e não sobre a obrigação de informar.
+
+56
+00:07:13.779 --> 00:07:25.279
+Então, o artigo 348 da nossa LC 214 mantém o critério de que as empresas do lucro real e lucro presumido ainda estão na obrigatoriedade.
+
+57
+00:07:25.279 --> 00:07:33.000
+Quais são as regras de validação que eu considero mais importante para vocês?
+
+58
+00:07:33.000 --> 00:07:39.759
+CST exige base e valor. Inconsistências geram rejeições.
+
+59
+00:07:39.759 --> 00:07:50.480
+As rejeições que nós temos já antes das, antes das notas técnicas incluir e BSCBS, elas se mantêm.
+
+60
+00:07:51.959 --> 00:07:59.660
+Então, nós precisamos analisar quais são as outras rejeições e isso, obviamente, ao longo do tempo que vocês vierem a emitir o documento,
+
+61
+00:07:59.660 --> 00:08:05.500
+vocês vão passar a conhecer e até mesmo atualizar os sistemas de vocês,
+
+62
+00:08:05.500 --> 00:08:10.000
+mas nas notas técnicas nós já temos todas as rejeições.

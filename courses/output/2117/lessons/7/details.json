@@ -1,0 +1,33 @@
+{
+  "id": 462421,
+  "title": "Eixo Ética",
+  "position": 7,
+  "duration": 806,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/00bfeeb5-f2e4-4008-b7a4-95960a66ff76/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00bfeeb5-f2e4-4008-b7a4-95960a66ff76/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00bfeeb5-f2e4-4008-b7a4-95960a66ff76/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00bfeeb5-f2e4-4008-b7a4-95960a66ff76/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00bfeeb5-f2e4-4008-b7a4-95960a66ff76/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

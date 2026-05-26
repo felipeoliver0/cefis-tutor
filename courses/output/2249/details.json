@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2249,
+    "title": "Lei de Execução Fiscal",
+    "subtitle": "Fundamentos e Aplicação",
+    "summary": "Neste curso sobre a Lei de Execução Fiscal (Lei nº 6.830/80) você vai aprender todas as características deste instrumento que visa a busca do Estado pela satisfação de seus créditos (tributários e não tributários). Entenderá sobre o que é a execução fiscal bem como todas as etapas de seu processo para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/8077799af042328936aee2b0a976dd531728385871.jpg",
+    "goals": [
+      "Apresentar todas as características do processo relativo à Lei de Execução Fiscal (Lei nº 6.830/80)."
+    ],
+    "teacher": {
+      "id": 356853,
+      "name": "Richard Paes Lyra Junior",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/0bea74b424e8071b32e0d0a6a15a0fb81630763265.jpeg"
+    },
+    "duration": 8440,
+    "keywords": "lei de execução fiscal;execução fiscal",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 342,
+    "averageRating": 9.45,
+    "practiceAverage": 9.29,
+    "trailer": {
+      "id": "c3935e42-9b01-455c-9cba-072ebc5a8e2f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c3935e42-9b01-455c-9cba-072ebc5a8e2f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c3935e42-9b01-455c-9cba-072ebc5a8e2f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c3935e42-9b01-455c-9cba-072ebc5a8e2f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c3935e42-9b01-455c-9cba-072ebc5a8e2f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-09-22T13:38:13.000Z",
+      "updatedAt": "2022-09-22T13:38:13.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 5,
+    "launchDate": "2022-10-05T15:40:49.000Z",
+    "recordedAt": "2022-09-03T00:00:00.000Z",
+    "createdAt": "2022-09-19T09:12:39.000Z"
+  }
+}

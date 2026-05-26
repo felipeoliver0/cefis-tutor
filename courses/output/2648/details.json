@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2648,
+    "title": "Nota do milhão",
+    "subtitle": "DES, NFTS e outros dados",
+    "summary": "Neste curso prático sobre a nota do milhão, você vai aprender desde aspectos relativos à extinção da DES, que foi substituída pela Nota Fiscal do Tomador de Serviços (NFTS), CPOM, Retenção do ISS em São Paulo e muitos outros pontos para colocar em prática os conhecimentos adquiridos sobre o tema.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/54e32fdd4888b8f59ade2e70179236191727451459.jpg",
+    "goals": [
+      "Apresentar desde aspectos relativos à extinção da DES, que foi substituída pela Nota Fiscal do Tomador de Serviços (NFTS), CPOM, Retenção do ISS em São Paulo e muitos outros pontos para colocar em prática os conhecimentos adquiridos sobre o tema"
+    ],
+    "teacher": {
+      "id": 218426,
+      "name": "Davi Gobatto",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKjK6eGgSqUFZwr8FsXx3UjZtAs6qOERxVFoRbznngRUrSW9iQIFg=s96-c"
+    },
+    "duration": 1995,
+    "keywords": "nota do milhão;des",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 8,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 418,
+    "averageRating": 9.4,
+    "practiceAverage": 9.27,
+    "trailer": {
+      "id": "afc0ae8e-6220-418b-8e73-458899a48aea",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/afc0ae8e-6220-418b-8e73-458899a48aea/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/afc0ae8e-6220-418b-8e73-458899a48aea/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/afc0ae8e-6220-418b-8e73-458899a48aea/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/afc0ae8e-6220-418b-8e73-458899a48aea/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-08-09T12:03:24.000Z",
+      "updatedAt": "2023-08-09T12:03:23.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-08-09T09:07:10.000Z",
+    "recordedAt": "2023-07-15T00:00:00.000Z",
+    "createdAt": "2023-07-19T09:26:10.000Z"
+  }
+}

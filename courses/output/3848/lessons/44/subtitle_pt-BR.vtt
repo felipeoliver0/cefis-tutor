@@ -1,0 +1,1017 @@
+WEBVTT
+
+1
+00:00:03.049 --> 00:00:03.900
+Muito bem pessoal.
+
+2
+00:00:04.010 --> 00:00:04.130
+Então,
+
+3
+00:00:04.210 --> 00:00:05.099
+como nós vimos,
+
+4
+00:00:05.210 --> 00:00:05.449
+né?
+
+5
+00:00:05.960 --> 00:00:06.210
+Aqui,
+
+6
+00:00:06.289 --> 00:00:08.039
+nós fizemos todos os cálculos,
+
+7
+00:00:08.689 --> 00:00:08.930
+né?
+
+8
+00:00:09.159 --> 00:00:10.229
+Do do dos impostos.
+
+9
+00:00:10.359 --> 00:00:13.279
+Agora vamos jogar isso para dentro da ECF.
+
+10
+00:00:13.970 --> 00:00:15.489
+Como nós comentamos
+
+11
+00:00:15.810 --> 00:00:18.250
+se nós fizemos tudo isso corretamente,
+
+12
+00:00:18.370 --> 00:00:19.250
+está parametrizado.
+
+13
+00:00:19.290 --> 00:00:20.329
+Isso vem automático.
+
+14
+00:00:20.709 --> 00:00:22.520
+Nós só vamos conferir
+
+15
+00:00:22.909 --> 00:00:23.489
+perfeito.
+
+16
+00:00:23.899 --> 00:00:26.290
+Se tiver diferente dessa nossa base de cálculo,
+
+17
+00:00:26.370 --> 00:00:27.760
+a gente tem que verificar onde está o erro.
+
+18
+00:00:28.139 --> 00:00:28.930
+e aí ajustar,
+
+19
+00:00:29.299 --> 00:00:32.310
+mas tem que estar exatamente tem que representar
+
+20
+00:00:32.540 --> 00:00:33.779
+exatamente isso,
+
+21
+00:00:33.900 --> 00:00:34.180
+né?
+
+22
+00:00:34.540 --> 00:00:36.180
+Vale para lucro real do mesmo jeito.
+
+23
+00:00:36.259 --> 00:00:36.959
+Aqui fica mais
+
+24
+00:00:37.299 --> 00:00:38.569
+tranquilo a gente explicar.
+
+25
+00:00:38.580 --> 00:00:39.729
+Vamos ver Olha só
+
+26
+00:00:40.259 --> 00:00:44.500
+eu vou lá no P200 apuração da base de cálculo do imposto de R do lucro presumido
+
+27
+00:00:45.020 --> 00:00:45.639
+Nós temos aqui,
+
+28
+00:00:45.979 --> 00:00:47.630
+como eu expliquei a vocês o primeiro,
+
+29
+00:00:47.709 --> 00:00:48.060
+o segundo,
+
+30
+00:00:48.099 --> 00:00:48.619
+o terceiro e
+
+31
+00:00:49.060 --> 00:00:49.779
+trimestre.
+
+32
+00:00:50.500 --> 00:00:51.340
+Nesse caso,
+
+33
+00:00:51.419 --> 00:00:52.220
+no nosso exemplo,
+
+34
+00:00:52.259 --> 00:00:54.849
+estamos nos referindo ao primeiro trimestre.
+
+35
+00:00:55.310 --> 00:00:59.290
+Então nós temos lá receita sujeita a percentual de 1,6
+
+36
+00:00:59.819 --> 00:01:01.340
+Aqui são receitas
+
+37
+00:01:01.549 --> 00:01:02.669
+sobre combustíveis,
+
+38
+00:01:02.750 --> 00:01:03.630
+lubrificantes,
+
+39
+00:01:03.750 --> 00:01:05.819
+óleos e derivados é 1,6
+
+40
+00:01:06.349 --> 00:01:10.309
+No caso do comércio e indústria vai ser oito por cento para o Imposto de Renda.
+
+41
+00:01:10.809 --> 00:01:14.209
+prestação exclusiva de serviço 16%
+
+42
+00:01:14.500 --> 00:01:17.650
+e as demais prestação de serviço 3432,
+
+43
+00:01:17.769 --> 00:01:18.040
+né?
+
+44
+00:01:18.410 --> 00:01:19.639
+E receita bruta
+
+45
+00:01:19.849 --> 00:01:23.309
+de instituições financeiras 38 Então já tem aqui os cálculos
+
+46
+00:01:23.529 --> 00:01:25.639
+e aqui ele vai fazer os cálculos
+
+47
+00:01:26.069 --> 00:01:27.730
+Então Se eu digitar ali o valor,
+
+48
+00:01:27.809 --> 00:01:28.839
+ele vai calcular
+
+49
+00:01:29.449 --> 00:01:31.959
+perfeito de acordo com o percentual de presunção
+
+50
+00:01:32.449 --> 00:01:36.010
+Então eu tenho aqui o bloco P dos Eos apuração da base de cálculo,
+
+51
+00:01:36.089 --> 00:01:36.349
+né?
+
+52
+00:01:37.940 --> 00:01:39.589
+Nós temos aí no nosso exemplo.
+
+53
+00:01:39.599 --> 00:01:40.080
+Olha lá,
+
+54
+00:01:40.290 --> 00:01:40.580
+né?
+
+55
+00:01:41.150 --> 00:01:46.279
+O P200 Então ele já puxou para mim os 500000 Ah lá os 500 está vendo
+
+56
+00:01:46.750 --> 00:01:49.889
+Por isso que eu tenho separado lá os 500 menos os 50 do IPI
+
+57
+00:01:50.389 --> 00:01:52.029
+Ele já vai me fazer o cálculo.
+
+58
+00:01:52.069 --> 00:01:53.550
+Aí botei lá os 100000,
+
+59
+00:01:54.029 --> 00:01:54.339
+né?
+
+60
+00:01:54.709 --> 00:01:57.059
+Que foi a receita de se- de serviço.
+
+61
+00:01:57.620 --> 00:02:00.139
+Ele já fez os cálculos e já me deu
+
+62
+00:02:00.550 --> 00:02:02.529
+72000 ajustado.
+
+63
+00:02:02.830 --> 00:02:04.970
+Ele já fez o percentual de presunção.
+
+64
+00:02:05.589 --> 00:02:09.029
+É o mesmo percentual que nós calculamos lá no nosso exemplo.
+
+65
+00:02:09.429 --> 00:02:10.309
+Se eu chegar lá,
+
+66
+00:02:10.389 --> 00:02:10.750
+olha,
+
+67
+00:02:11.309 --> 00:02:12.410
+se eu voltar aqui,
+
+68
+00:02:12.910 --> 00:02:13.979
+vocês vão ver
+
+69
+00:02:14.550 --> 00:02:17.350
+que é exatamente 72000 está aqui ó,
+
+70
+00:02:17.589 --> 00:02:17.949
+né?
+
+71
+00:02:18.220 --> 00:02:21.169
+72000 Então o sistema faz o cálculo.
+
+72
+00:02:21.270 --> 00:02:22.500
+Se vocês digitar
+
+73
+00:02:22.630 --> 00:02:23.050
+manual,
+
+74
+00:02:23.110 --> 00:02:25.429
+ele vai fazer os cálculos 72
+
+75
+00:02:25.750 --> 00:02:26.750
+Aí eu tenho o quê?
+
+76
+00:02:27.210 --> 00:02:27.410
+eh,
+
+77
+00:02:27.690 --> 00:02:30.259
+eu tenho lá +2000 de renda variável
+
+78
+00:02:30.610 --> 00:02:33.929
+e depois eu tenho +6000 aqui na linha 20,
+
+79
+00:02:34.369 --> 00:02:34.580
+né?
+
+80
+00:02:34.589 --> 00:02:35.690
+Na na linha 19
+
+81
+00:02:36.009 --> 00:02:36.539
+de
+
+82
+00:02:36.809 --> 00:02:37.720
+ganhos de capital,
+
+83
+00:02:37.889 --> 00:02:38.240
+não é?
+
+84
+00:02:39.210 --> 00:02:40.199
+na linha
+
+85
+00:02:40.490 --> 00:02:43.600
+é isso aqui na na linha 20 demais efeitos e ganho de capital
+
+86
+00:02:43.759 --> 00:02:44.520
+6000
+
+87
+00:02:44.690 --> 00:02:47.479
+a base de cálculo 80000 está lá.
+
+88
+00:02:48.449 --> 00:02:54.449
+Continuando ainda aqui no Imposto de Renda ele já transporta para cá para o P300
+
+89
+00:02:54.729 --> 00:02:57.399
+os 80 calcula os 15%
+
+90
+00:02:57.649 --> 00:02:59.320
+calcula o adicional.
+
+91
+00:03:00.009 --> 00:03:03.539
+vai deduzir o imposto de renda que foi retido,
+
+92
+00:03:04.020 --> 00:03:06.570
+que nós contabilizamos numa única conta vem pra cá
+
+93
+00:03:07.009 --> 00:03:09.990
+e ele já vai me dar o que o Imposto de renda pagado
+
+94
+00:03:10.240 --> 00:03:16.699
+É esta linha que vai dar cruzamento 13610 é o mesmo valor que está lá no exemplo,
+
+95
+00:03:17.059 --> 00:03:18.009
+entendeu Pra não ficar
+
+96
+00:03:18.179 --> 00:03:19.100
+voltando os slides.
+
+97
+00:03:19.139 --> 00:03:20.190
+É o mesmo exemplo,
+
+98
+00:03:20.259 --> 00:03:21.229
+o mesmo valor que está lá.
+
+99
+00:03:21.559 --> 00:03:23.020
+é isso que vai importar,
+
+100
+00:03:23.509 --> 00:03:24.110
+ou seja,
+
+101
+00:03:24.470 --> 00:03:28.350
+ele vai checar se isso tá na minha contabilidade lá no meu passivo circulante,
+
+102
+00:03:28.789 --> 00:03:31.380
+ele vai verificar se eu fiz os lançamentos de
+
+103
+00:03:31.550 --> 00:03:33.789
+de transferência dos impostos retidos.
+
+104
+00:03:34.429 --> 00:03:36.429
+Ele vai checar o meu Darf.
+
+105
+00:03:36.830 --> 00:03:38.539
+Ele vai checar a minha DCTF.
+
+106
+00:03:38.630 --> 00:03:38.830
+Ele vai.
+
+107
+00:03:39.000 --> 00:03:39.789
+checar o banco
+
+108
+00:03:40.240 --> 00:03:42.100
+para ver se realmente eu trouxe essas ideias.
+
+109
+00:03:42.130 --> 00:03:42.960
+Se tiver tudo OK,
+
+110
+00:03:43.119 --> 00:03:43.839
+show de bola
+
+111
+00:03:44.119 --> 00:03:44.669
+Se não
+
+112
+00:03:44.800 --> 00:03:45.789
+notificação
+
+113
+00:03:46.139 --> 00:03:48.029
+para o contribuinte perfeito
+
+114
+00:03:48.440 --> 00:03:49.580
+É isso que ele vai fazer.
+
+115
+00:03:49.839 --> 00:03:52.199
+Então você vê que cai nas linhas automáticas.
+
+116
+00:03:52.240 --> 00:03:54.509
+Eu tenho que conferir com a minha memória de cálculo
+
+117
+00:03:54.759 --> 00:03:56.300
+Vale mesmo para o lucro real.
+
+118
+00:03:57.070 --> 00:03:57.470
+Bacana,
+
+119
+00:03:57.589 --> 00:03:58.300
+então o lucro presumido era bem
+
+120
+00:03:58.910 --> 00:04:00.080
+mais tranquilo porque
+
+121
+00:04:00.369 --> 00:04:02.580
+tributa-se receitas
+
+122
+00:04:02.750 --> 00:04:03.779
+e não resultado.
+
+123
+00:04:04.110 --> 00:04:05.389
+Resultado é muito mais abrangente.
+
+124
+00:04:06.029 --> 00:04:07.869
+E eu tenho aí tudo que eu posso compensar,
+
+125
+00:04:08.089 --> 00:04:08.259
+né?
+
+126
+00:04:08.449 --> 00:04:10.789
+E o próprio sistema calcula os os tributos
+
+127
+00:04:10.990 --> 00:04:12.389
+trimestre a trimestre,
+
+128
+00:04:12.710 --> 00:04:14.869
+Então eu tenho que conferir os quatro trimestres.
+
+129
+00:04:15.229 --> 00:04:16.170
+Não é simplesmente
+
+130
+00:04:16.630 --> 00:04:17.738
+importar os dados,
+
+131
+00:04:17.750 --> 00:04:18.269
+não deu erro,
+
+132
+00:04:18.350 --> 00:04:19.230
+não deu mandado,
+
+133
+00:04:19.269 --> 00:04:20.100
+não tenho que checar,
+
+134
+00:04:20.428 --> 00:04:23.209
+verificar exatamente isso com a minha memória de cálculo.
+
+135
+00:04:23.579 --> 00:04:24.480
+Entenderam pessoal
+
+136
+00:04:24.779 --> 00:04:25.739
+É assim que funciona,
+
+137
+00:04:25.820 --> 00:04:26.049
+né?
+
+138
+00:04:26.500 --> 00:04:27.010
+Tá.
+
+139
+00:04:28.059 --> 00:04:30.570
+Você viu que aqui nós jogamos numa única linha
+
+140
+00:04:30.899 --> 00:04:33.250
+Imposto de renda retido na fonte
+
+141
+00:04:33.700 --> 00:04:35.899
+Pode ser que na minha contabilidade esteja aberto.
+
+142
+00:04:36.299 --> 00:04:38.179
+Eu tenho o Imposto de Renda retido na fonte
+
+143
+00:04:38.179 --> 00:04:41.929
+sobre aplicações financeiras e Imposto de Renda retido na fonte
+
+144
+00:04:42.260 --> 00:04:44.000
+sobre notas fiscais emitidas,
+
+145
+00:04:44.179 --> 00:04:44.820
+que é o correto.
+
+146
+00:04:44.899 --> 00:04:47.019
+A gente tem analítico lá no nosso plano de contas,
+
+147
+00:04:48.410 --> 00:04:48.820
+Entenderam perfeito,
+
+148
+00:04:49.179 --> 00:04:50.730
+Então é isso vem para ICF.
+
+149
+00:04:50.820 --> 00:04:52.109
+Isso é a ICF
+
+150
+00:04:52.940 --> 00:04:54.230
+A Receita Federal quer saber.
+
+151
+00:04:54.690 --> 00:04:56.290
+Se eu fiz os cálculos corretos,
+
+152
+00:04:56.410 --> 00:04:58.359
+eu informei tudo o que deveria ser tributado
+
+153
+00:04:58.730 --> 00:05:01.399
+e se o tributo que eu infor- que eu apurei aqui
+
+154
+00:05:01.570 --> 00:05:04.799
+é o mesmo que eu confessei na DCTF que eu devo
+
+155
+00:05:05.100 --> 00:05:06.649
+e se é o mesmo que eu paguei,
+
+156
+00:05:07.049 --> 00:05:07.690
+se eu não paguei,
+
+157
+00:05:07.890 --> 00:05:08.450
+tá em aberto.
+
+158
+00:05:08.529 --> 00:05:09.220
+Tô devendo
+
+159
+00:05:09.369 --> 00:05:09.850
+perfeito,
+
+160
+00:05:10.209 --> 00:05:11.450
+Então esse é o objetivo.
+
+161
+00:05:11.529 --> 00:05:11.809
+Tá.
+
+162
+00:05:13.690 --> 00:05:18.850
+Aí no cálculo da contribuição social é o P400 o raciocínio é o mesmo.
+
+163
+00:05:19.130 --> 00:05:20.980
+Ele traz os 500000,
+
+164
+00:05:21.170 --> 00:05:22.519
+traz os 100000 do serviço.
+
+165
+00:05:22.570 --> 00:05:25.010
+E você vê que as alíquotas de presunção
+
+166
+00:05:25.010 --> 00:05:27.200
+já alterou porque aqui é contribuição social,
+
+167
+00:05:27.649 --> 00:05:28.029
+né?
+
+168
+00:05:28.410 --> 00:05:29.929
+E Ele me dá já
+
+169
+00:05:30.089 --> 00:05:30.329
+ah,
+
+170
+00:05:30.529 --> 00:05:32.690
+as demais receitas e aí me dá,
+
+171
+00:05:33.049 --> 00:05:33.290
+né?
+
+172
+00:05:33.649 --> 00:05:34.679
+O ganho de capital
+
+173
+00:05:34.809 --> 00:05:37.600
+a base 100000 está aí na linha 21
+
+174
+00:05:38.329 --> 00:05:40.640
+base de cálculo da CSL 100000
+
+175
+00:05:40.970 --> 00:05:41.450
+perfeito.
+
+176
+00:05:41.665 --> 00:05:42.476
+lá no exemplo
+
+177
+00:05:42.705 --> 00:05:44.585
+mesma coisa nosso nosso exemplo,
+
+178
+00:05:44.645 --> 00:05:44.765
+né?
+
+179
+00:05:45.126 --> 00:05:47.696
+Aí Ele já transporta por P 500,
+
+180
+00:05:48.006 --> 00:05:50.485
+calculando a contribuição social,
+
+181
+00:05:50.526 --> 00:05:52.446
+os nove por cento sobre os 100000
+
+182
+00:05:52.716 --> 00:05:55.235
+e também já deduzindo o que foi
+
+183
+00:05:55.526 --> 00:05:57.455
+retido 60000
+
+184
+00:05:57.925 --> 00:06:01.635
+da contribuição social retido sobre a nota 60 BRL,
+
+185
+00:06:02.205 --> 00:06:02.795
+ou seja,
+
+186
+00:06:03.085 --> 00:06:07.446
+a linha 13 contribuição social a pagar 8940
+
+187
+00:06:07.885 --> 00:06:09.365
+que vai bater com a nossa memória.
+
+188
+00:06:09.601 --> 00:06:10.101
+cálculo
+
+189
+00:06:10.282 --> 00:06:13.661
+que vai bater com o Darf que vai bater com a com a ECD
+
+190
+00:06:13.661 --> 00:06:16.992
+que vai bater com o recolhimento do banco e a DC e a DCTF
+
+191
+00:06:17.261 --> 00:06:17.712
+entendeu
+
+192
+00:06:17.962 --> 00:06:19.011
+Tudo isso dá cruzamento,
+
+193
+00:06:19.082 --> 00:06:21.182
+então tá aí cada um nas suas linhas.
+
+194
+00:06:21.282 --> 00:06:22.712
+Isto é a ECF.
+
+195
+00:06:23.261 --> 00:06:24.182
+Então no lucro presumido,
+
+196
+00:06:24.201 --> 00:06:27.321
+fica muito mais simples em demonstrar porque no lucro real entra
+
+197
+00:06:27.321 --> 00:06:29.641
+muita coisa para a gente tá lançando linha a linha,
+
+198
+00:06:29.812 --> 00:06:30.191
+né?
+
+199
+00:06:30.552 --> 00:06:31.372
+Aqui não aqui
+
+200
+00:06:32.842 --> 00:06:33.962
+comentamos poucas
+
+201
+00:06:34.201 --> 00:06:36.971
+e aí vai depender do tipo de de empresa que vocês são,
+
+202
+00:06:37.041 --> 00:06:37.272
+né?
+
+203
+00:06:38.760 --> 00:06:41.910
+Aí nós temos aqui no lucro presumido aqui o L,
+
+204
+00:06:42.399 --> 00:06:43.399
+que é o livro Caixa.
+
+205
+00:06:44.269 --> 00:06:47.209
+Se eu botar o L lá na no no início que nós comentamos,
+
+206
+00:06:47.309 --> 00:06:47.480
+né?
+
+207
+00:06:48.670 --> 00:06:51.339
+Eu vou apresentar esses essas informações
+
+208
+00:06:51.750 --> 00:06:52.989
+Ele vai pedir para a gente,
+
+209
+00:06:53.109 --> 00:06:53.269
+né?
+
+210
+00:06:53.670 --> 00:06:56.589
+Pelo livro Caixa Qual é o capital registrado?
+
+211
+00:06:56.670 --> 00:06:57.980
+Qual é o valor do estoque?
+
+212
+00:06:58.029 --> 00:06:59.760
+Qual é o saldo em caixa e banco
+
+213
+00:06:59.989 --> 00:07:01.549
+Saldo de aplicações financeiras.
+
+214
+00:07:01.829 --> 00:07:03.309
+Ele só vai pedir isso para mim.
+
+215
+00:07:03.790 --> 00:07:04.980
+Se eu for livro caixa,
+
+216
+00:07:05.299 --> 00:07:08.019
+porque senão todas essas informações estão lá no balanço,
+
+217
+00:07:08.100 --> 00:07:08.660
+estão lá na
+
+218
+00:07:08.890 --> 00:07:09.769
+na nossa DRE
+
+219
+00:07:10.019 --> 00:07:10.510
+Entenderam
+
+220
+00:07:10.779 --> 00:07:13.940
+Aí você vai ter que preencher esses dados discriminação,
+
+221
+00:07:14.100 --> 00:07:14.769
+tudo certinho,
+
+222
+00:07:14.779 --> 00:07:15.450
+ano a ano
+
+223
+00:07:15.839 --> 00:07:17.940
+e não menospreze essas informações.
+
+224
+00:07:18.299 --> 00:07:20.799
+Isso vai servir de base para a Receita Federal
+
+225
+00:07:21.019 --> 00:07:22.600
+checar se tá tudo correto,
+
+226
+00:07:23.190 --> 00:07:23.589
+não é
+
+227
+00:07:24.450 --> 00:07:25.290
+Lembrem aqui tem
+
+228
+00:07:25.579 --> 00:07:28.970
+contas a pagar contas a receber saldo do estoque
+
+229
+00:07:29.500 --> 00:07:30.980
+lembra a fórmula do CMV.
+
+230
+00:07:31.549 --> 00:07:34.980
+estoque inicial mais compra menos estoque final dá o custo.
+
+231
+00:07:35.589 --> 00:07:38.059
+Se ele tem essas informações e ele tem o total da,
+
+232
+00:07:38.510 --> 00:07:41.140
+ele vai checar se está correto os seus cálculos
+
+233
+00:07:41.670 --> 00:07:43.859
+Tá Então não menospreste as informações.
+
+234
+00:07:44.350 --> 00:07:45.709
+Peguem os dados do balanço,
+
+235
+00:07:45.750 --> 00:07:47.739
+mesmo você sendo optado pelo livro caixa
+
+236
+00:07:48.070 --> 00:07:49.359
+que normalmente eu não aconselho.
+
+237
+00:07:49.420 --> 00:07:51.029
+Aconselho fazer a contabilidade certinha,
+
+238
+00:07:51.109 --> 00:07:51.649
+recolher
+
+239
+00:07:52.019 --> 00:07:54.149
+e informar a contabilidade perfeito.
+
+240
+00:07:55.720 --> 00:07:58.350
+demais fichas idênticas ao lucro real,
+
+241
+00:07:58.359 --> 00:07:59.609
+todos os X e Y.
+
+242
+00:07:59.959 --> 00:08:01.040
+Se eu botei sim lá,
+
+243
+00:08:01.079 --> 00:08:02.429
+eu vou ter que preencher
+
+244
+00:08:03.000 --> 00:08:03.079
+Então.
+
+245
+00:08:03.119 --> 00:08:04.000
+Vocês perceberam
+
+246
+00:08:04.200 --> 00:08:06.450
+que nós demandamos muito tempo no lucro real,
+
+247
+00:08:06.519 --> 00:08:10.290
+porque é o mais o- o lucro presumido em meia hora nós explicamos o lucro presumido.
+
+248
+00:08:10.359 --> 00:08:11.519
+Vocês e como é bem tranquilo,
+
+249
+00:08:12.279 --> 00:08:12.720
+É assim,
+
+250
+00:08:12.799 --> 00:08:13.359
+infelizmente,
+
+251
+00:08:13.480 --> 00:08:13.630
+né?
+
+252
+00:08:14.450 --> 00:08:17.440
+Então nos dá a impressão que a IF foi muito mais elaborada
+
+253
+00:08:17.440 --> 00:08:19.209
+para as empresas do lucro real do que para as demais,
+
+254
+00:08:19.320 --> 00:08:19.450
+né?

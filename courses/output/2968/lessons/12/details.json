@@ -1,0 +1,33 @@
+{
+  "id": 472003,
+  "title": "Situações tributárias",
+  "position": 12,
+  "duration": 450,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/20eae387-cdca-4415-9439-d9300dc4113f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/20eae387-cdca-4415-9439-d9300dc4113f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/20eae387-cdca-4415-9439-d9300dc4113f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/20eae387-cdca-4415-9439-d9300dc4113f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/20eae387-cdca-4415-9439-d9300dc4113f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

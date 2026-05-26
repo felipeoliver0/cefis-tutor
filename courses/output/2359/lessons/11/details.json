@@ -1,0 +1,33 @@
+{
+  "id": 465498,
+  "title": "Teoria Econômica da Responsabilidade em Acidentes",
+  "position": 11,
+  "duration": 233,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c7d8f5bf-ca6f-47ae-9a69-f9ff979fe544/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c7d8f5bf-ca6f-47ae-9a69-f9ff979fe544/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c7d8f5bf-ca6f-47ae-9a69-f9ff979fe544/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c7d8f5bf-ca6f-47ae-9a69-f9ff979fe544/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c7d8f5bf-ca6f-47ae-9a69-f9ff979fe544/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

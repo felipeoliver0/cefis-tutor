@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4121,
+    "title": "Design organizacional",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Design organizacional, curso prático, você irá aprender na prática tudo o que precisa saber sobre frameworks organizacionais. Aprenderá os fundamentos e a prática de organogramas, métodos gerenciais e ferramentas de inovação e processos para você que deseja se atualizar ou aprender tudo sobre frameworks organizacionais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/c354b12b-bd52-4574-a2c7-6a7eb78afdec-thumbnail.png",
+    "goals": [
+      "O objetivo do curso é a capacitação para a aplicação prática de estruturas e modelos organizacionais eficazes, visando melhorar a gestão e o desempenho das organizações."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 3476,
+    "keywords": "frasmeworks;organizacionais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 42,
+    "averageRating": 9,
+    "practiceAverage": 9.14,
+    "trailer": {
+      "id": "33cccc56-0872-49c1-98da-70bf0861fa43",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/33cccc56-0872-49c1-98da-70bf0861fa43/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/33cccc56-0872-49c1-98da-70bf0861fa43/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/33cccc56-0872-49c1-98da-70bf0861fa43/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/33cccc56-0872-49c1-98da-70bf0861fa43/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-05T11:21:01.000Z",
+      "updatedAt": "2025-11-05T11:21:01.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-13T14:30:17.000Z",
+    "recordedAt": "2025-10-01T00:00:00.000Z",
+    "createdAt": "2025-11-05T08:50:02.000Z"
+  }
+}

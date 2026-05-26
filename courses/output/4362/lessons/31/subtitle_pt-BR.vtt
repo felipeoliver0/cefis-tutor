@@ -1,0 +1,565 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.480
+E depois a gente tem uma outra planilha aqui, que é uma tabela chamada de C-Class Trib,
+
+3
+00:00:06.480 --> 00:00:15.039
+que são os CSTs, os códigos de situação tributária, e o código C-Class Trib,
+
+4
+00:00:15.160 --> 00:00:17.879
+que tem que ser analisado por toda e qualquer operação.
+
+5
+00:00:18.519 --> 00:00:25.219
+Aqui ainda tem uma data, eu baixei direto do site do governo,
+
+6
+00:00:25.219 --> 00:00:34.799
+mas perceba que a planilha tem uma data chamada de 3 de 10 de 2025, ou seja, de outubro de 2025.
+
+7
+00:00:35.320 --> 00:00:42.439
+A gente sempre tem que tentar se certificar no portal da reforma, no portal do governo,
+
+8
+00:00:43.039 --> 00:00:49.060
+se existem planilhas mais recentes, que já foram testadas e que já foram atualizadas.
+
+9
+00:00:49.380 --> 00:00:51.359
+Então é sempre importante ver a data.
+
+10
+00:00:51.359 --> 00:00:54.060
+O que a gente tem aqui então na planilha?
+
+11
+00:00:54.600 --> 00:00:55.200
+Aqui.
+
+12
+00:00:55.219 --> 00:00:59.920
+Aqui na linha, vamos subir, né, que ela é bem grande.
+
+13
+00:01:00.560 --> 00:01:06.079
+Então eu começo na linha 2, coluna A.
+
+14
+00:01:06.620 --> 00:01:11.420
+Tem aqui o CST de IBS e CBS, né, CST 000.
+
+15
+00:01:12.439 --> 00:01:16.760
+Qual que é a descrição desse CST para o código 000?
+
+16
+00:01:16.760 --> 00:01:18.840
+É uma tributação integral.
+
+17
+00:01:19.500 --> 00:01:24.760
+Então CST 000 e o C-Class Trib 0000.
+
+18
+00:01:25.219 --> 00:01:33.260
+Que é situações tributadas integralmente pelo IBS e CBS, né.
+
+19
+00:01:33.819 --> 00:01:36.640
+Então aqui está a descrição do C-Class Trib.
+
+20
+00:01:37.239 --> 00:01:40.239
+O tipo de alíquota vai ser o alíquota padrão.
+
+21
+00:01:40.680 --> 00:01:43.900
+Aqui ele tem um redutor de IBS e redutor de CBS.
+
+22
+00:01:44.060 --> 00:01:46.060
+Quando é alíquota padrão, não tem redutor.
+
+23
+00:01:46.840 --> 00:01:51.200
+Então tem todas as regrinhas a serem colocadas aqui.
+
+24
+00:01:51.200 --> 00:01:55.120
+A data de início, né, por exemplo aqui, janeiro de 26,
+
+25
+00:01:55.219 --> 00:01:58.420
+e a data que tinha sido atualizado aqui, ó.
+
+26
+00:01:58.939 --> 00:02:04.640
+E diversos campinhos aqui que vêm, são campos que vão no XML.
+
+27
+00:02:05.799 --> 00:02:11.099
+Então super importante aqui para saber até mesmo de popular os campos dentro do XML.
+
+28
+00:02:11.840 --> 00:02:12.780
+E tem um link.
+
+29
+00:02:13.599 --> 00:02:19.280
+Então é interessante porque para cada linha de CST,
+
+30
+00:02:19.860 --> 00:02:21.500
+de Código de Situação Tributária,
+
+31
+00:02:21.500 --> 00:02:24.719
+a gente tem todas as informações e um link aqui,
+
+32
+00:02:24.719 --> 00:02:29.159
+que é onde você clica e vai até onde está previsto na norma, né.
+
+33
+00:02:29.860 --> 00:02:33.639
+Aí a gente olha aqui, CST, IBS e CBS.
+
+34
+00:02:34.240 --> 00:02:35.240
+Olha quantos, ó.
+
+35
+00:02:35.819 --> 00:02:41.000
+200, 210, 220, 400, 410, tem diversos aqui.
+
+36
+00:02:41.300 --> 00:02:44.800
+O C-Class Trib, ó, também temos vários.
+
+37
+00:02:45.479 --> 00:02:48.939
+Então a gente tem que olhar a tabela, né, entender.
+
+38
+00:02:48.939 --> 00:02:52.159
+Ó, existe algum só para o regime automotivo,
+
+39
+00:02:52.879 --> 00:02:53.939
+operações com FGTS,
+
+40
+00:02:54.719 --> 00:02:59.180
+operações de serviço financeiro, assistência à saúde.
+
+41
+00:02:59.360 --> 00:03:03.439
+Então tem alguns bem específicos e outros mais abrangentes.
+
+42
+00:03:04.099 --> 00:03:07.219
+Dispositivos médicos com redução, né.
+
+43
+00:03:07.340 --> 00:03:11.139
+Aí diz qual é o anexo onde está a redução, né.
+
+44
+00:03:11.719 --> 00:03:15.599
+Tem que entender, conhecer os diversos tipos de operações,
+
+45
+00:03:15.960 --> 00:03:17.219
+olhando na planilha,
+
+46
+00:03:17.800 --> 00:03:22.259
+para poder determinar aqui tanto o CST, IBS e CBS,
+
+47
+00:03:22.500 --> 00:03:24.400
+quanto o C-Class Trib, né.
+
+48
+00:03:24.719 --> 00:03:28.659
+Então aproveita 2026, que ainda é teste,
+
+49
+00:03:29.219 --> 00:03:33.340
+porque precisa de tempo para olhar, se enquadrar
+
+50
+00:03:33.340 --> 00:03:36.020
+e trazer para a realidade da empresa
+
+51
+00:03:36.020 --> 00:03:41.520
+todos esses testes que, todas essas configurações, né,
+
+52
+00:03:42.039 --> 00:03:46.639
+numerações que precisam ser utilizadas e tratadas dentro de qualquer empresa.
+
+53
+00:03:46.639 --> 00:03:47.560
+Tudo bem?
+
+54
+00:03:48.280 --> 00:03:52.400
+Então super importante mais essa planilha aqui também,
+
+55
+00:03:53.120 --> 00:03:54.639
+chamada aqui CST.
+
+56
+00:03:54.719 --> 00:03:56.439
+CST, C-Class Trib, né.
+
+57
+00:03:56.919 --> 00:03:59.219
+E tentem sempre ver as datas
+
+58
+00:03:59.219 --> 00:04:03.180
+para verificar se tem alguma data mais recente, né,
+
+59
+00:04:03.379 --> 00:04:04.860
+que precisa de atualização.
+
+60
+00:04:05.520 --> 00:04:09.699
+Está mais uma planilha aí para vocês estudarem, analisarem, né,
+
+61
+00:04:10.080 --> 00:04:11.039
+e se adaptarem.
+
+62
+00:04:11.699 --> 00:04:14.960
+E aqui tem uma outra planilha, que são três, né,
+
+63
+00:04:15.419 --> 00:04:18.139
+onde está os municípios aderentes.
+
+64
+00:04:18.560 --> 00:04:22.920
+E aqui tem uma data de 21 de janeiro de 2026.
+
+65
+00:04:22.920 --> 00:04:24.620
+É bem recente.
+
+66
+00:04:24.980 --> 00:04:28.540
+Essa data é uma data disponibilizada pelo governo, né.
+
+67
+00:04:29.100 --> 00:04:34.600
+Então repara que aqui a planilha, ela tem várias linhas, né.
+
+68
+00:04:35.240 --> 00:04:36.079
+Você tem a região.
+
+69
+00:04:36.740 --> 00:04:42.160
+Então se você quiser olhar só centro-oeste, só nordeste, norte, sudeste ou sul,
+
+70
+00:04:42.819 --> 00:04:44.720
+você filtra e olha por região.
+
+71
+00:04:45.720 --> 00:04:47.720
+Ou você filtra e olha por estado.
+
+72
+00:04:47.720 --> 00:04:54.000
+E aí dentro de estado você tem o nome de todos os municípios, né, por estado.
+
+73
+00:04:54.720 --> 00:04:58.819
+O CNPJ, aqui é o CNPJ do município, né,
+
+74
+00:04:59.279 --> 00:05:01.279
+que o município também é um ente,
+
+75
+00:05:01.899 --> 00:05:05.860
+acaba sendo um contribuinte, ele também tem que ter o seu CNPJ.
+
+76
+00:05:06.620 --> 00:05:09.420
+E o status de convênio com a CEFIM.
+
+77
+00:05:10.220 --> 00:05:14.100
+Então se ele é um conveniado não ativo,
+
+78
+00:05:14.259 --> 00:05:16.939
+um conveniado ativo ou um não conveniado.
+
+79
+00:05:17.639 --> 00:05:18.839
+Com a Secretaria de...
+
+80
+00:05:18.839 --> 00:05:21.220
+CEFIM é a Secretaria de Finanças, né,
+
+81
+00:05:22.040 --> 00:05:24.639
+entre os municípios e entre a União,
+
+82
+00:05:24.720 --> 00:05:25.259
+e o estado.
+
+83
+00:05:25.939 --> 00:05:28.779
+Aí aqui tem uma informação aqui na coluna F, ó,
+
+84
+00:05:28.839 --> 00:05:32.360
+se o município ele é aderente ao ambiente nacional.
+
+85
+00:05:33.279 --> 00:05:35.079
+Então você tem não e sim.
+
+86
+00:05:35.939 --> 00:05:38.500
+Claro que a grande maioria aqui já está com o sim,
+
+87
+00:05:39.040 --> 00:05:40.500
+mas se a gente colocar aqui não,
+
+88
+00:05:41.060 --> 00:05:45.160
+vai aparecer vários aqui que ainda não estavam aderentes,
+
+89
+00:05:45.899 --> 00:05:49.120
+ainda em 21 de janeiro de 2026.
+
+90
+00:05:49.819 --> 00:05:51.660
+E olha aqui, não são poucos.
+
+91
+00:05:52.339 --> 00:05:53.379
+Ainda tem bastante.
+
+92
+00:05:54.240 --> 00:05:54.279
+Diversos.
+
+93
+00:05:54.720 --> 00:05:55.720
+Diversos estados, né.
+
+94
+00:05:56.379 --> 00:06:01.139
+Veja aqui, Santa Catarina, alguns, poucos em Santa Catarina,
+
+95
+00:06:01.779 --> 00:06:06.139
+Rio Grande do Sul, Paraná, São Paulo, Minas Gerais,
+
+96
+00:06:06.759 --> 00:06:12.220
+Tocantins, Pará, Amazonas, Sergipe, Rio Grande do Norte, poucos também,
+
+97
+00:06:12.980 --> 00:06:18.600
+Piauí, Pernambuco, Maranhão, Ceará, Bahia, Lagoas,
+
+98
+00:06:18.839 --> 00:06:20.939
+Mato Grosso, Mato Grosso do Sul, né.
+
+99
+00:06:20.939 --> 00:06:22.639
+Isso é preocupante.
+
+100
+00:06:22.779 --> 00:06:23.939
+São municípios que ainda não...
+
+101
+00:06:24.720 --> 00:06:29.379
+Aderiram ao ambiente nacional e é obrigatório em 2026, né.
+
+102
+00:06:29.980 --> 00:06:34.240
+Já a grande maioria já aderiu, mas ainda tem bastante que não aderiu.
+
+103
+00:06:35.100 --> 00:06:38.240
+E aqui está aderente ou emissor nacional, né,
+
+104
+00:06:38.360 --> 00:06:41.220
+que é o emissor para emitir sim ou não.
+
+105
+00:06:41.980 --> 00:06:47.100
+A gente tem muitos que não, porque ele aderiu ao ambiente nacional,
+
+106
+00:06:47.319 --> 00:06:49.420
+mas ele tem o próprio emissor, né.
+
+107
+00:06:50.420 --> 00:06:54.079
+Tem aqui aderente imã, ativos na base, né.
+
+108
+00:06:54.720 --> 00:06:56.079
+E assim sucessivamente.
+
+109
+00:06:56.259 --> 00:07:01.879
+Aqui tem a população, que é o número da população de cada município,
+
+110
+00:07:01.879 --> 00:07:07.879
+para outras regras, né, a data de publicação e o início da vigência
+
+111
+00:07:07.879 --> 00:07:10.259
+de cada um desses municípios.
+
+112
+00:07:10.899 --> 00:07:13.339
+Então, por que essa planilha é importante?
+
+113
+00:07:13.839 --> 00:07:18.540
+Cada empresa que tem os seus fornecedores, tem os seus clientes,
+
+114
+00:07:18.660 --> 00:07:23.759
+ou num município que você está localizado, você precisa ter certeza
+
+115
+00:07:23.759 --> 00:07:27.939
+qual o status da prefeitura, né, daquele município,
+
+116
+00:07:28.160 --> 00:07:32.980
+ou dos diversos municípios que a empresa tem relacionamento, né.
+
+117
+00:07:32.980 --> 00:07:39.100
+Ou seja, se esses municípios aderiram ou não aderiram ao modelo nacional,
+
+118
+00:07:40.120 --> 00:07:45.879
+se eles aderiram, se está sendo usado diretamente o emissor do modelo nacional,
+
+119
+00:07:46.740 --> 00:07:50.699
+ou se eles aderiram, mas estão usando o próprio emissor,
+
+120
+00:07:51.220 --> 00:07:53.740
+que vai fazer um depara, uma interação.
+
+121
+00:07:53.759 --> 00:08:00.220
+Então, é uma interface do XML do próprio emissor para o XML do emissor nacional.
+
+122
+00:08:00.860 --> 00:08:05.480
+E aí você precisa saber disso para tratar corretamente, adequadamente,
+
+123
+00:08:05.860 --> 00:08:08.360
+no seu RP, no seu sistema.
+
+124
+00:08:09.180 --> 00:08:12.540
+Então, não se assuste, né, é muita coisa de fato,
+
+125
+00:08:12.759 --> 00:08:17.480
+mas o projeto da reforma tributária não é um projeto longe de ser
+
+126
+00:08:17.480 --> 00:08:22.100
+de um projeto de uma pessoa só, né, nas empresas.
+
+127
+00:08:22.199 --> 00:08:23.100
+É um trabalho...
+
+128
+00:08:23.759 --> 00:08:25.720
+É um trabalho multidisciplinar,
+
+129
+00:08:26.220 --> 00:08:30.899
+onde a gente tem pessoas da área fiscal, da área contábil,
+
+130
+00:08:31.399 --> 00:08:39.440
+recebimento fiscal, financeiro, jurídico, TI, tecnologia da informação, né.
+
+131
+00:08:39.440 --> 00:08:46.299
+Às vezes até mesmo terceiros, se o sistema emissor da nota da empresa é terceirizada, né.
+
+132
+00:08:46.779 --> 00:08:52.740
+Tudo isso envolvido para trazer para dentro de casa e dentro dos sistemas
+
+133
+00:08:52.740 --> 00:08:56.720
+todas essas bases de dados de informações, né.
+
+134
+00:08:57.299 --> 00:09:03.879
+Códigos de serviços, as regras fiscais, C-Class Trib, CST, né.
+
+135
+00:09:03.879 --> 00:09:10.600
+Os municípios, quais notas e altos eles têm, entendendo isso ao longo do tempo, né.
+
+136
+00:09:11.000 --> 00:09:19.360
+Tudo isso faz parte do compliance, de ter os controles e regras dentro da empresa
+
+137
+00:09:19.360 --> 00:09:20.879
+para que tudo corra bem durante o período de...
+
+138
+00:09:22.740 --> 00:09:26.460
+de transição e principalmente quando se tornar obrigatório mesmo, né.
+
+139
+00:09:26.940 --> 00:09:33.220
+Ali em maio ou junho de 2026 e principalmente a partir de janeiro de 2027,
+
+140
+00:09:33.220 --> 00:09:39.799
+quando efetivamente inicia a CBS com a sua cobrança de alíquota cheia,
+
+141
+00:09:40.000 --> 00:09:46.360
+que ainda vai ser publicada, e o IBS inicia cobrando com 0,1%.
+
+142
+00:09:46.360 --> 00:09:51.460
+Depois, ao longo dos próximos anos, vai tendo as mudanças.

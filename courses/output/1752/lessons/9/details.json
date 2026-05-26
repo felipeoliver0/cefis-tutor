@@ -1,0 +1,33 @@
+{
+  "id": 456630,
+  "title": "Funções da organizações",
+  "position": 9,
+  "duration": 398,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2322dff4-31ee-4673-905a-1f93b8b37793/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2322dff4-31ee-4673-905a-1f93b8b37793/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2322dff4-31ee-4673-905a-1f93b8b37793/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2322dff4-31ee-4673-905a-1f93b8b37793/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2322dff4-31ee-4673-905a-1f93b8b37793/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

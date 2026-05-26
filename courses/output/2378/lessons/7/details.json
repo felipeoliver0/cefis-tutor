@@ -1,0 +1,33 @@
+{
+  "id": 465051,
+  "title": "EVA – Economic Value Aded - Parte 2",
+  "position": 7,
+  "duration": 508,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/954d9002-0b89-4a01-8634-5537df4750cb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/954d9002-0b89-4a01-8634-5537df4750cb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/954d9002-0b89-4a01-8634-5537df4750cb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/954d9002-0b89-4a01-8634-5537df4750cb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/954d9002-0b89-4a01-8634-5537df4750cb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.440
+Portanto, agora eu trago um cálculo para vocês entenderem o que é isso, o valor presente, na prática.
+
+3
+00:00:05.440 --> 00:00:11.119
+Para a gente consolidar o que eu trouxe na teoria para vocês até agora de ajuste ao valor presente.
+
+4
+00:00:11.119 --> 00:00:16.960
+Do mesmo jeito dos outros CPCs, primeiro nós damos a roupagem, a explicação, aí eu entro com a prática.
+
+5
+00:00:16.960 --> 00:00:19.519
+Para a gente selar o entendimento.
+
+6
+00:00:19.519 --> 00:00:23.760
+No cálculo do ajuste ao valor presente, pode ser utilizada a seguinte taxa.
+
+7
+00:00:23.760 --> 00:00:26.239
+Contratual, mundo ideal.
+
+8
+00:00:26.239 --> 00:00:30.079
+Implícita, para casos de fluxo de caixas não contratuais.
+
+9
+00:00:30.079 --> 00:00:34.240
+Melhor dos mundos, explícita de mercado pior dos mundos.
+
+10
+00:00:34.240 --> 00:00:38.320
+Então nós temos que utilizar essas três, temos que ir atrás da taxa.
+
+11
+00:00:38.320 --> 00:00:41.439
+Então vamos ver um exemplo prático aí, olha lá.
+
+12
+00:00:41.439 --> 00:00:47.200
+Venda em 01 de 01 de 2025 de mercadoria a longo prazo.
+
+13
+00:00:47.200 --> 00:00:54.799
+O desconto relativo ao valor presente deverá ser registrado no mesmo momento que for reconhecido a receita de venda, na emissão da nota.
+
+14
+00:00:54.799 --> 00:00:56.000
+Venda.
+
+15
+00:00:56.000 --> 00:01:00.039
+Venda da negociação pré-fixada, R$ 385 mil.
+
+16
+00:01:00.640 --> 00:01:04.719
+O recebimento será em uma única parcela ao final de 15 meses.
+
+17
+00:01:05.500 --> 00:01:10.019
+A taxa de juros acordada entre os participantes é R$ 2,85 ao mês.
+
+18
+00:01:10.719 --> 00:01:11.959
+Show de bola, gente.
+
+19
+00:01:12.700 --> 00:01:14.780
+Esse é o mundo perfeito, o mundo ideal.
+
+20
+00:01:15.439 --> 00:01:18.500
+Eu tenho valor, prazo e taxa.
+
+21
+00:01:18.620 --> 00:01:18.859
+Acabou.
+
+22
+00:01:19.260 --> 00:01:19.900
+É o que eu preciso.
+
+23
+00:01:20.620 --> 00:01:21.760
+Vocês vão ver como é fácil calcular.
+
+24
+00:01:22.040 --> 00:01:23.140
+E contabilizar também.
+
+25
+00:01:23.879 --> 00:01:24.939
+Então, olha lá.
+
+26
+00:01:24.939 --> 00:01:27.180
+Vou aplicar a fórmula, o cálculo.
+
+27
+00:01:27.760 --> 00:01:28.099
+Está aqui.
+
+28
+00:01:29.099 --> 00:01:32.840
+R$ 385 mil dividido por 1 mais i elevado a n.
+
+29
+00:01:33.180 --> 00:01:34.599
+Faltou o n aqui.
+
+30
+00:01:35.079 --> 00:01:36.140
+Mais i elevado a n.
+
+31
+00:01:36.519 --> 00:01:38.819
+Onde a taxa e o n é o período.
+
+32
+00:01:39.200 --> 00:01:41.680
+Dividido pelos meses, 15 meses.
+
+33
+00:01:42.599 --> 00:01:50.439
+Fazendo todos os cálculos, eu vou chegar num valor presente de R$ 252.578,45.
+
+34
+00:01:51.239 --> 00:01:53.019
+O que eu quero dizer com isso, pessoal?
+
+35
+00:01:53.019 --> 00:01:54.920
+Se eu fosse vender à vista.
+
+36
+00:01:54.939 --> 00:01:56.599
+Ele ia me pagar R$ 252.
+
+37
+00:01:56.819 --> 00:01:59.859
+Mas como ele vai me pagar daqui 15 meses, que ele não tem grana?
+
+38
+00:02:00.400 --> 00:02:02.400
+Ele vai me pagar R$ 385.
+
+39
+00:02:02.879 --> 00:02:05.280
+Então, nós acordamos uma taxa de R$ 285.
+
+40
+00:02:05.439 --> 00:02:06.640
+Que eu pesquisei no mercado.
+
+41
+00:02:06.760 --> 00:02:09.419
+Se eu fosse tomar o dinheiro emprestado, o banco ia me cobrar isso.
+
+42
+00:02:10.379 --> 00:02:11.340
+Taxa de mercado.
+
+43
+00:02:11.879 --> 00:02:12.900
+Que está no meu contrato.
+
+44
+00:02:13.759 --> 00:02:14.919
+Esse é o mundo perfeito.
+
+45
+00:02:15.460 --> 00:02:15.819
+Entenderam?
+
+46
+00:02:16.460 --> 00:02:16.939
+Então, está aí.
+
+47
+00:02:17.419 --> 00:02:20.439
+Ou seja, e o que é esse R$ 7,32?
+
+48
+00:02:21.259 --> 00:02:21.659
+Juros.
+
+49
+00:02:21.659 --> 00:02:23.360
+Não é operação.
+
+50
+00:02:24.120 --> 00:02:24.860
+Vamos supor que eu venha...
+
+51
+00:02:24.939 --> 00:02:26.360
+Eu vendi para ele aqui um veículo.
+
+52
+00:02:26.960 --> 00:02:30.740
+Ou seja, a minha receita operacional não é R$ 385.
+
+53
+00:02:30.840 --> 00:02:33.319
+Minha receita operacional é R$ 252.
+
+54
+00:02:33.819 --> 00:02:36.039
+E o R$ 132 é juros que eu ganhei?
+
+55
+00:02:36.199 --> 00:02:38.639
+Não, vou ganhar ao longo de 15 meses.
+
+56
+00:02:39.620 --> 00:02:43.960
+Então, eu vou apropriando pelo princípio da competência como receita financeira.
+
+57
+00:02:44.639 --> 00:02:45.800
+É assim que nós temos que fazer.
+
+58
+00:02:46.400 --> 00:02:46.620
+Entendeu?
+
+59
+00:02:46.979 --> 00:02:50.139
+Depois eu vou olhar o tratamento fiscal na hora de calcular o valor.
+
+60
+00:02:50.659 --> 00:02:51.120
+Lucro real.
+
+61
+00:02:51.639 --> 00:02:52.939
+Porque os outros não impactam.
+
+62
+00:02:54.120 --> 00:02:54.759
+Tributável.
+
+63
+00:02:54.939 --> 00:02:55.620
+R$ 385.
+
+64
+00:02:55.699 --> 00:02:56.139
+Ponto.
+
+65
+00:02:56.759 --> 00:02:58.300
+Vou pagar PIS, COFINS, CME.
+
+66
+00:02:58.460 --> 00:02:59.860
+Tudo sobre R$ 385.
+
+67
+00:03:00.319 --> 00:03:02.300
+Inclusive, imposto de renda e contribuição social.
+
+68
+00:03:02.860 --> 00:03:03.180
+Tudo.
+
+69
+00:03:03.840 --> 00:03:07.580
+Mas, societariamente, R$ 385 não é receita na minha DRE.
+
+70
+00:03:07.840 --> 00:03:10.240
+Eu não posso distribuir lucro sobre R$ 385.
+
+71
+00:03:10.319 --> 00:03:10.539
+Não.
+
+72
+00:03:10.900 --> 00:03:12.240
+É sobre R$ 252.
+
+73
+00:03:12.400 --> 00:03:15.400
+Porque os outros R$ 132 eu vou ganhar ainda.
+
+74
+00:03:15.659 --> 00:03:16.439
+Eu estou financiando.
+
+75
+00:03:16.960 --> 00:03:18.159
+Vocês viram a lógica do CPC?
+
+76
+00:03:18.900 --> 00:03:19.879
+Essa é a lógica dele.
+
+77
+00:03:20.379 --> 00:03:21.139
+Olha lá, pessoal.
+
+78
+00:03:21.139 --> 00:03:23.879
+Para quem não tem o plano de domínio, na HP.
+
+79
+00:03:24.939 --> 00:03:26.539
+Eu trouxe aqui o cálculo.
+
+80
+00:03:26.659 --> 00:03:26.759
+Olha lá.
+
+81
+00:03:27.439 --> 00:03:28.460
+R$ 385.
+
+82
+00:03:28.479 --> 00:03:31.360
+Aperto o N e aperto o FV, que é o valor futuro.
+
+83
+00:03:31.979 --> 00:03:34.699
+R$ 2,85, que é o I, que é a taxa.
+
+84
+00:03:35.180 --> 00:03:37.400
+R$ 15 é o N, que é o prazo.
+
+85
+00:03:37.719 --> 00:03:38.620
+Aperto é o PV.
+
+86
+00:03:39.159 --> 00:03:40.919
+Present Value, ou valor presente.
+
+87
+00:03:41.780 --> 00:03:44.439
+E aí, aperto o PV e vai dar R$ 252.
+
+88
+00:03:44.819 --> 00:03:45.479
+Simples assim.
+
+89
+00:03:45.759 --> 00:03:49.560
+Se você fizer na sua calculadora agora, na sua HP, é exatamente isso.
+
+90
+00:03:50.219 --> 00:03:53.860
+Eu trago a forma certinho, como se nós estivéssemos na HP para facilitar.
+
+91
+00:03:53.860 --> 00:03:54.060
+Olha aí.
+
+92
+00:03:54.939 --> 00:03:56.560
+Tem o domínio ainda financeiro.
+
+93
+00:03:57.139 --> 00:03:57.560
+Perfeito?
+
+94
+00:03:57.939 --> 00:04:04.719
+Então, conforme o artigo 4 da Lei 12.973 de 2014, que eu indiquei leitura para vocês dela,
+
+95
+00:04:05.199 --> 00:04:10.599
+o ajuste ao valor presente deve ser registrado contabilmente em conta separada do ativo e com destaque.
+
+96
+00:04:11.099 --> 00:04:14.639
+E a lei societária diz o mesmo, porque elas já estão em comum acordo.
+
+97
+00:04:15.099 --> 00:04:15.500
+Perfeito?
+
+98
+00:04:16.100 --> 00:04:17.220
+É exatamente isso.
+
+99
+00:04:17.720 --> 00:04:18.259
+Na prática.
+
+100
+00:04:18.920 --> 00:04:20.480
+Tudo aquilo que nós falamos na teoria.
+
+101
+00:04:21.100 --> 00:04:22.860
+Como é que eu vou contabilizar isso?
+
+102
+00:04:22.860 --> 00:04:24.040
+Vamos trazer a contabilização.
+
+103
+00:04:24.339 --> 00:04:24.519
+Olha lá.
+
+104
+00:04:24.939 --> 00:04:30.079
+Pela minha venda, debito clientes ou contas a receber no ativo não circulante, porque
+
+105
+00:04:30.079 --> 00:04:31.060
+é para 15 meses.
+
+106
+00:04:31.500 --> 00:04:31.899
+Perfeito?
+
+107
+00:04:32.399 --> 00:04:36.120
+E credito receita bruta de vendas, R$ 385 mil.
+
+108
+00:04:36.639 --> 00:04:37.079
+Fechou.
+
+109
+00:04:37.620 --> 00:04:37.959
+E aí?
+
+110
+00:04:38.639 --> 00:04:39.660
+Vamos contabilizar.
+
+111
+00:04:40.339 --> 00:04:47.740
+Debito, ajuste ao valor presente, redutora de vendas, lá na DRE, os R$ 132 que nós calculamos
+
+112
+00:04:47.740 --> 00:04:47.959
+lá.
+
+113
+00:04:48.480 --> 00:04:49.980
+E vou creditar o quê?
+
+114
+00:04:50.600 --> 00:04:53.980
+Ajuste ao valor presente, juros a transcorrer.
+
+115
+00:04:54.939 --> 00:04:58.199
+Juros a vencer, juros a apropriar.
+
+116
+00:04:58.519 --> 00:05:01.879
+Utilize um nome que melhore e agrade aí no seu plano de contas.
+
+117
+00:05:02.220 --> 00:05:02.439
+Entendeu?
+
+118
+00:05:03.000 --> 00:05:06.399
+Juros a apropriar, juros a vencer, juros a transcorrer.
+
+119
+00:05:06.819 --> 00:05:08.819
+Lá no ativo não circulante.
+
+120
+00:05:08.980 --> 00:05:09.379
+Quanto?
+
+121
+00:05:09.500 --> 00:05:11.100
+R$ 132,421.
+
+122
+00:05:11.939 --> 00:05:12.220
+Entendeu?
+
+123
+00:05:12.839 --> 00:05:13.379
+Pois bem.
+
+124
+00:05:14.259 --> 00:05:16.040
+Como é que isso vai aparecer no meu balanço?
+
+125
+00:05:16.100 --> 00:05:16.839
+Assim, olha.
+
+126
+00:05:17.019 --> 00:05:20.519
+Ativo não circulante, clientes, R$ 385 mil.
+
+127
+00:05:20.519 --> 00:05:23.800
+Uma subconta menos ajuste ao valor presente.
+
+128
+00:05:24.060 --> 00:05:24.779
+Juros a transcorrer.
+
+129
+00:05:24.779 --> 00:05:26.839
+Juros a apropriar.
+
+130
+00:05:27.399 --> 00:05:29.439
+Uma conta credora lá no meu ativo.
+
+131
+00:05:30.040 --> 00:05:35.000
+Portanto, é igual ao valor presente de cliente, R$ 252,578.
+
+132
+00:05:35.360 --> 00:05:39.980
+Ficou uma contabilidade limpa, transparente, cristalina.
+
+133
+00:05:40.319 --> 00:05:41.360
+Qualquer um vai entender.
+
+134
+00:05:42.100 --> 00:05:45.600
+Eu tenho R$ 385, mas tem juros lá dentro para um determinado prazo.
+
+135
+00:05:45.699 --> 00:05:46.360
+Quanto é o juros?
+
+136
+00:05:46.839 --> 00:05:47.779
+R$ 132.
+
+137
+00:05:47.860 --> 00:05:49.519
+Eu vou receber isso ao longo do tempo.
+
+138
+00:05:50.220 --> 00:05:50.540
+Entendeu?
+
+139
+00:05:51.220 --> 00:05:53.740
+Então, ele, R$ 132, não é receita agora.
+
+140
+00:05:53.740 --> 00:05:54.560
+Será receita?
+
+141
+00:05:54.560 --> 00:05:58.899
+É receita futura, porém receita financeira e não operacional.
+
+142
+00:05:59.459 --> 00:06:01.120
+Então, olha como muda a análise.
+
+143
+00:06:02.019 --> 00:06:05.399
+Isso impacta, inclusive, o EBITDA, as suas margens.
+
+144
+00:06:05.519 --> 00:06:06.259
+Impacta tudo.
+
+145
+00:06:07.160 --> 00:06:07.339
+Entendeu?
+
+146
+00:06:07.920 --> 00:06:09.259
+Na DRE, como é que fica?
+
+147
+00:06:09.439 --> 00:06:09.540
+Olha lá.
+
+148
+00:06:09.699 --> 00:06:16.100
+Receita bruta de vendas, R$ 385, menos ajuste ao valor presente, R$ 132.
+
+149
+00:06:16.540 --> 00:06:23.480
+Portanto, minha receita de vendas societária, econômica, R$ 252,578,45.
+
+150
+00:06:23.680 --> 00:06:24.480
+Ficou claro?
+
+151
+00:06:24.480 --> 00:06:25.560
+Claro para vocês, pessoal.
+
+152
+00:06:25.779 --> 00:06:26.620
+O que é valor presente?
+
+153
+00:06:26.759 --> 00:06:27.779
+Isso aí não é difícil.
+
+154
+00:06:28.220 --> 00:06:28.680
+Vocês estão vendo?
+
+155
+00:06:29.300 --> 00:06:30.199
+Não é complicado.
+
+156
+00:06:31.019 --> 00:06:32.879
+Basta a gente entender e fazer, né?
+
+157
+00:06:33.420 --> 00:06:33.899
+Muito bem.
+
+158
+00:06:34.000 --> 00:06:37.519
+O valor dos juros a transcorrer será apropriado como receita financeira,
+
+159
+00:06:37.860 --> 00:06:39.560
+obedecendo o regime de competência.
+
+160
+00:06:39.660 --> 00:06:42.300
+Está lá no artigo 2º e 5º da Lei 12.973.
+
+161
+00:06:43.019 --> 00:06:45.879
+Porque eu vou ganhar um quinzeavos por mês.
+
+162
+00:06:46.660 --> 00:06:48.420
+Prazo de financiamento, 15 meses.
+
+163
+00:06:48.420 --> 00:06:54.300
+Juros a transcorrer, R$ 132, dividido por 15, R$ 8.828 por mês.
+
+164
+00:06:54.480 --> 00:06:59.500
+Que eu vou contabilizar pelo princípio da competência, né?
+
+165
+00:07:00.139 --> 00:07:01.300
+É um princípio que nós temos.
+
+166
+00:07:01.579 --> 00:07:02.959
+Como é que eu vou contabilizar isso?
+
+167
+00:07:03.639 --> 00:07:08.819
+Debito juros a transcorrer de ajuste ao valor presente de clientes,
+
+168
+00:07:08.899 --> 00:07:12.500
+que é a redutora do ativo, ela está credora, estou debitando para diminuí-la
+
+169
+00:07:12.500 --> 00:07:15.819
+e credito receita financeira contra de resultado.
+
+170
+00:07:16.379 --> 00:07:20.240
+Cuidado, porque nós temos que ter um controle fiscal muito rigoroso.
+
+171
+00:07:20.240 --> 00:07:24.459
+Eu não posso tributar essa minha receita financeira que eu joguei nesse mês.
+
+172
+00:07:24.480 --> 00:07:25.480
+Por quê?
+
+173
+00:07:25.480 --> 00:07:30.300
+Porque eu já paguei sobre o valor fechado, os R$ 385,00.
+
+174
+00:07:30.300 --> 00:07:34.600
+Então vou ter que dar um tratamento dela no valor, no lucro real.
+
+175
+00:07:34.600 --> 00:07:35.639
+Cuidado para não tributar.
+
+176
+00:07:35.639 --> 00:07:39.319
+Do mesmo jeito no lucro presumido, também não vou tributar essa receita, porque eu já
+
+177
+00:07:39.319 --> 00:07:43.360
+tributei a nota cheia, a minha venda do R$ 385,00 do veículo.
+
+178
+00:07:43.360 --> 00:07:45.839
+Ela é base para todos os tributos, como nós comentamos.
+
+179
+00:07:45.839 --> 00:07:50.279
+Então eu tenho que tomar cuidado para não pagar o imposto dobrado.
+
+180
+00:07:50.279 --> 00:07:53.920
+Apesar de ser uma receita, ela é uma receita econômica.
+
+181
+00:07:53.920 --> 00:07:56.600
+Ela não entra para a base de cálculo dos tributos.
+
+182
+00:07:56.600 --> 00:07:58.040
+Entenderam?
+
+183
+00:07:58.040 --> 00:08:03.939
+Pois bem, esta receita financeira não deverá ser tributada, ou seja, deverá ser excluída
+
+184
+00:08:03.939 --> 00:08:05.939
+no LALUR.
+
+185
+00:08:05.939 --> 00:08:07.920
+Então vamos ver o LALUR como é que fica?
+
+186
+00:08:07.920 --> 00:08:13.279
+Parte A do LALUR, resultado antes do Imposto de Renda e Contribuição Social, R$ 252,00,
+
+187
+00:08:13.279 --> 00:08:14.800
+que é o resultado da DRE.
+
+188
+00:08:14.800 --> 00:08:16.360
+E aí eu ajusto o quê?
+
+189
+00:08:16.360 --> 00:08:23.759
+Mais adição, ajusto ao valor presente, R$ 132,00, justamente para tributar os R$ 385,00.
+
+190
+00:08:23.759 --> 00:08:31.620
+E aí eu já apropriei um R$ 15,00 de janeiro, o R$ 8.828,00, esse é dedutível, portanto
+
+191
+00:08:31.620 --> 00:08:37.399
+R$ 3,76 é o meu saldo para tributar em janeiro.
+
+192
+00:08:37.399 --> 00:08:43.000
+Seria os R$ 3,85, mas eu já apropriei o R$ 8,00, então perfeito, vou tributar R$ 3,75,00.
+
+193
+00:08:43.000 --> 00:08:46.159
+E aí vou controlar essa diferença onde?
+
+194
+00:08:46.159 --> 00:08:53.580
+Na parte B do LALUR, parte B, ajuste ao valor presente R$ 132,00, já fiz a primeira realização
+
+195
+00:08:53.580 --> 00:09:00.460
+em janeiro, então eu ainda tenho R$ 123,00 que eu vou diminuindo até zerar daqui 15
+
+196
+00:09:00.460 --> 00:09:01.460
+meses.
+
+197
+00:09:01.460 --> 00:09:02.460
+Entenderam?
+
+198
+00:09:02.460 --> 00:09:03.460
+Show, né?
+
+199
+00:09:03.460 --> 00:09:10.659
+Com isso nós aprendemos o que é, para quê que serve e como é espaço, todos entenderam?
+
+200
+00:09:10.659 --> 00:09:14.080
+Então esse é o objetivo aqui do ajuste ao valor presente.

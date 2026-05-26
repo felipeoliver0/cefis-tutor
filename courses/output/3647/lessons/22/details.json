@@ -1,0 +1,33 @@
+{
+  "id": 478115,
+  "title": "IVA dual",
+  "position": 22,
+  "duration": 517,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2783c43b-0e6d-4d4e-bcf6-8eb957bc4f3d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2783c43b-0e6d-4d4e-bcf6-8eb957bc4f3d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2783c43b-0e6d-4d4e-bcf6-8eb957bc4f3d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2783c43b-0e6d-4d4e-bcf6-8eb957bc4f3d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2783c43b-0e6d-4d4e-bcf6-8eb957bc4f3d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

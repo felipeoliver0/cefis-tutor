@@ -1,0 +1,33 @@
+{
+  "id": 487450,
+  "title": "Distribuição de lucros no Lucro Presumido",
+  "position": 36,
+  "duration": 417,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/05db10ff-f3c8-4146-8754-422c5ba65158/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/05db10ff-f3c8-4146-8754-422c5ba65158/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/05db10ff-f3c8-4146-8754-422c5ba65158/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/05db10ff-f3c8-4146-8754-422c5ba65158/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/05db10ff-f3c8-4146-8754-422c5ba65158/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

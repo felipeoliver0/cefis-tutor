@@ -1,0 +1,33 @@
+{
+  "id": 480864,
+  "title": "Série uniforme de pagamentos Parte 4",
+  "position": 41,
+  "duration": 202,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4141d299-e656-4f28-b14e-162896777bc4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4141d299-e656-4f28-b14e-162896777bc4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4141d299-e656-4f28-b14e-162896777bc4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4141d299-e656-4f28-b14e-162896777bc4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4141d299-e656-4f28-b14e-162896777bc4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

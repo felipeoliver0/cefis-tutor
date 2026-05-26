@@ -1,0 +1,33 @@
+{
+  "id": 467948,
+  "title": "Princípios consumeristas - Parte 4",
+  "position": 15,
+  "duration": 192,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6f512e80-d543-49d3-9462-af5f92328974/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6f512e80-d543-49d3-9462-af5f92328974/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6f512e80-d543-49d3-9462-af5f92328974/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6f512e80-d543-49d3-9462-af5f92328974/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6f512e80-d543-49d3-9462-af5f92328974/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 460718,
+  "title": "Definição do Problema",
+  "position": 5,
+  "duration": 177,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1a813155-2ee8-454e-aaba-d6c883c32dad/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1a813155-2ee8-454e-aaba-d6c883c32dad/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1a813155-2ee8-454e-aaba-d6c883c32dad/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1a813155-2ee8-454e-aaba-d6c883c32dad/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1a813155-2ee8-454e-aaba-d6c883c32dad/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

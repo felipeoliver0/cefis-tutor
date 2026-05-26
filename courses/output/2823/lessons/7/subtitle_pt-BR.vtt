@@ -1,0 +1,453 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.019
+uma semelhança muito interessante na prática pra
+
+2
+00:00:03.029 --> 00:00:06.840
+vocês pegarem aí a visão Imagine que eu
+
+3
+00:00:06.849 --> 00:00:09.100
+compro mercadoria ou aquele meu exemplo que
+
+4
+00:00:09.109 --> 00:00:11.460
+nós compramos mercadorias de uso e consumo,
+
+5
+00:00:11.470 --> 00:00:13.279
+compramos material de escritório,
+
+6
+00:00:13.289 --> 00:00:16.180
+compramos eh material pro meu ativo imobilizado.
+
+7
+00:00:16.190 --> 00:00:18.059
+Comprei um computador, um celular.
+
+8
+00:00:18.069 --> 00:00:21.719
+Imagina que eu comprei um computador pra minha empresa pela internet
+
+9
+00:00:22.030 --> 00:00:27.620
+e entrei lá no Market Place, comprei um computador e, como eu comprei pela internet,
+
+10
+00:00:27.629 --> 00:00:30.319
+eu não sabia de onde que viria essa mercadoria.
+
+11
+00:00:30.329 --> 00:00:33.000
+Se era interna, se era interestadual interestadual,
+
+12
+00:00:33.009 --> 00:00:34.990
+eu só comprei pela internet porque era mais barato.
+
+13
+00:00:35.000 --> 00:00:38.419
+Eu entrei lá no Market Place, comprei o meu computador.
+
+14
+00:00:39.069 --> 00:00:43.799
+Esse computador deu lá o prazo de entrega de alguns dias úteis, chegou no prazo.
+
+15
+00:00:43.810 --> 00:00:47.159
+Recebi o meu computador, peguei a nota fiscal.
+
+16
+00:00:47.169 --> 00:00:48.959
+Quando eu pego a nota fiscal,
+
+17
+00:00:48.970 --> 00:00:52.479
+visualizo que esse computador ele veio de fora do estado.
+
+18
+00:00:52.490 --> 00:00:54.959
+Ele veio de um estado diferente do meu.
+
+19
+00:00:54.970 --> 00:00:58.299
+Imagina que eu esteja em São Paulo e esse computador veio do Rio de Janeiro.
+
+20
+00:00:58.709 --> 00:01:02.240
+Essa nota fiscal virá do meu fornecedor.
+
+21
+00:01:02.250 --> 00:01:04.800
+O meu fornecedor emitiu uma nota de venda certo.
+
+22
+00:01:04.809 --> 00:01:09.519
+Se ele emitiu uma nota de venda pra ele foi uma saída. O primeiro dígito do c F.
+
+23
+00:01:09.529 --> 00:01:14.199
+O p dele será o seis porque ele está realizando uma operação
+
+24
+00:01:14.209 --> 00:01:17.584
+de saída pra outro estado do Rio de Janeiro pra São Paulo.
+
+25
+00:01:17.595 --> 00:01:20.504
+O primeiro dígito dele será o seis.
+
+26
+00:01:20.514 --> 00:01:23.364
+Eu recebi essa mercadoria agora aqui em São Paulo,
+
+27
+00:01:23.375 --> 00:01:27.184
+peguei essa nota fiscal do meu fornecedor iniciando em seis e
+
+28
+00:01:27.194 --> 00:01:30.385
+eu preciso agora registrar isso no meu livro de entradas.
+
+29
+00:01:30.394 --> 00:01:32.925
+Por quê? Porque eu comprei esse computador,
+
+30
+00:01:33.169 --> 00:01:37.800
+como eu estou me referindo à entrada. O que que eu vou fazer?
+
+31
+00:01:37.809 --> 00:01:42.459
+Eu não posso dar entrada com dígito seis no início,
+
+32
+00:01:42.470 --> 00:01:46.529
+porque se trata pra mim de uma entrada pra ele.
+
+33
+00:01:46.540 --> 00:01:49.860
+Era uma saída, Então ele colocou seis pra mim, é uma entrada,
+
+34
+00:01:49.870 --> 00:01:52.250
+então eu vou classificar com dois.
+
+35
+00:01:52.260 --> 00:01:54.580
+O início dois Por quê?
+
+36
+00:01:54.589 --> 00:02:00.199
+Porque significa uma entrada referente a uma operação com outro estado.
+
+37
+00:02:00.650 --> 00:02:02.220
+Então, a partir de agora,
+
+38
+00:02:02.230 --> 00:02:08.100
+toda vez que você pegar um documento fiscal e você for dar entrada
+
+39
+00:02:08.110 --> 00:02:12.539
+de alguma compra que a sua empresa fez sempre analise o primeiro dígito.
+
+40
+00:02:12.550 --> 00:02:17.669
+Se no seu fornecedor veio com cinco a sua entrada será com um.
+
+41
+00:02:17.679 --> 00:02:22.100
+Se o seu fornecedor veio com seis, a sua entrada será com dois.
+
+42
+00:02:22.110 --> 00:02:26.906
+Isso eu estou falando apenas do primeiro dia dígito mais pra frente,
+
+43
+00:02:26.916 --> 00:02:29.085
+vou deixar você curioso e curiosa.
+
+44
+00:02:29.095 --> 00:02:33.186
+Nós teremos uma situação aqui prática que eu vou dar um exemplo
+
+45
+00:02:33.195 --> 00:02:37.425
+pra vocês pra nos referirmos aos próximos dígitos do c f o
+
+46
+00:02:37.436 --> 00:02:40.985
+P Porque ele tem quatro e até agora nós estamos falando apenas
+
+47
+00:02:40.996 --> 00:02:44.826
+do primeiro dígito porque ele vai classificar se é entrada ou saída.
+
+48
+00:02:44.835 --> 00:02:48.985
+Se é uma operação interna ou interestadual aqui na estrutura do c
+
+49
+00:02:48.996 --> 00:02:52.671
+f o p uma coisa que as pessoas cometem muito erro,
+
+50
+00:02:52.682 --> 00:02:57.861
+muito erro é dizer que o se f a p de entrada é pra compra.
+
+51
+00:02:57.871 --> 00:03:01.731
+E o se a p de saída é pra venda. Isso não é verdade.
+
+52
+00:03:01.742 --> 00:03:05.651
+Quando nós falamos de se a p de entrada olha, só oh!
+
+53
+00:03:05.662 --> 00:03:09.591
+Nós temos inúmeras possibilidades de entrada e quando falamos
+
+54
+00:03:09.602 --> 00:03:14.171
+de saída também temos inúmeras possibilidades de saída nós
+
+55
+00:03:14.520 --> 00:03:20.729
+jamais dizer que na área fiscal, quando eu falo do c F a p de entrada é pra compra.
+
+56
+00:03:20.740 --> 00:03:25.169
+E quando eu falo do C F a p de saída é pra venda e isso não é uma verdade.
+
+57
+00:03:25.179 --> 00:03:32.130
+Lembra que nós falamos no começo da aula que o c F o p pra identificar a operação.
+
+58
+00:03:32.139 --> 00:03:37.149
+A operação não necessariamente será uma compra,
+
+59
+00:03:37.580 --> 00:03:40.009
+não necessariamente será uma venda.
+
+60
+00:03:40.020 --> 00:03:44.350
+No caso das entradas, eu posso ter, por exemplo, uma devolução de venda.
+
+61
+00:03:44.360 --> 00:03:47.949
+Então imagine que eu vendi um produto para o meu cliente.
+
+62
+00:03:47.960 --> 00:03:53.500
+Fiz uma venda, vendi lá pro cliente a mercadoria por algum ele recebeu.
+
+63
+00:03:53.509 --> 00:03:54.990
+Deu entrada lá, Okay.
+
+64
+00:03:55.000 --> 00:03:57.630
+Mas por algum motivo ele verificou que
+
+65
+00:03:57.639 --> 00:04:00.210
+tinha algum erro na mercadoria algum problema,
+
+66
+00:04:00.220 --> 00:04:00.949
+algum defeito.
+
+67
+00:04:00.960 --> 00:04:03.869
+E ele me devolveu quando ele me devolve.
+
+68
+00:04:03.880 --> 00:04:07.210
+Eu tenho que dar entrada, mas isso é uma compra?
+
+69
+00:04:08.339 --> 00:04:12.330
+Não, não é uma compra, isso é uma devolução de venda.
+
+70
+00:04:12.339 --> 00:04:15.869
+Então dentro do C F a PG entrada nós não
+
+71
+00:04:15.880 --> 00:04:19.130
+temos só compra nós podemos ter devolução de venda.
+
+72
+00:04:19.140 --> 00:04:21.350
+Nós podemos ter nota de anulação.
+
+73
+00:04:21.358 --> 00:04:25.190
+Alguns estados permite a emissão de nota de anulação,
+
+74
+00:04:25.200 --> 00:04:27.750
+sabe quando passa o prazo de fazer cancelamento?
+
+75
+00:04:27.760 --> 00:04:29.029
+Não dá mais pra cancelar.
+
+76
+00:04:29.040 --> 00:04:35.089
+Alguns estados permitem a emissão de nota de entrada pra anular essa operação.
+
+77
+00:04:35.450 --> 00:04:40.779
+Nós podemos ter também notas de retorno. Nós podemos ter notas de transferências.
+
+78
+00:04:40.790 --> 00:04:43.540
+Então toda vez que falarmos sobre se o p
+
+79
+00:04:43.549 --> 00:04:47.619
+de entrada nunca vincule única e exclusivamente a compras,
+
+80
+00:04:47.630 --> 00:04:50.339
+nós temos outras operações de entrada que podem
+
+81
+00:04:50.350 --> 00:04:53.579
+ocorrer dentro do dia-a-dia de uma organização,
+
+82
+00:04:53.589 --> 00:04:55.070
+E isso é comum.
+
+83
+00:04:55.079 --> 00:04:56.359
+Então, aqui fica
+
+84
+00:04:56.679 --> 00:04:58.250
+questão técnica, né?
+
+85
+00:04:58.260 --> 00:05:01.970
+Pra arrumarmos dentro das nossas terminologias, sempre dar o nome certo,
+
+86
+00:05:01.980 --> 00:05:02.649
+as coisas.
+
+87
+00:05:02.660 --> 00:05:07.010
+Então, nota de com o c f a p de entrada não é necessariamente só compra,
+
+88
+00:05:07.019 --> 00:05:08.890
+Pode ser outra coisa também.
+
+89
+00:05:08.899 --> 00:05:13.250
+Então aí o que que a gente vai falar a partir de agora, que são tratados no C, F A,
+
+90
+00:05:13.260 --> 00:05:16.769
+P de entrada Operações fiscais de entrada E
+
+91
+00:05:16.779 --> 00:05:19.109
+se você quiser arrasar na sua explicação,
+
+92
+00:05:19.119 --> 00:05:20.809
+já cita logo exemplos, né?
+
+93
+00:05:20.820 --> 00:05:25.072
+Pode ser compra, pode ser devolução de venda, Pode ser transferência,
+
+94
+00:05:25.083 --> 00:05:26.433
+pode ser retorno.
+
+95
+00:05:26.442 --> 00:05:29.113
+Porque aí você enriquece cada vez mais o seu vocabulário.
+
+96
+00:05:29.122 --> 00:05:32.972
+E o mesmo se aplica nas operações de saída.
+
+97
+00:05:32.983 --> 00:05:36.273
+Quando falamos de operações de saída,
+
+98
+00:05:36.282 --> 00:05:41.833
+nós não vamos nunca mais nos referir apenas a questão de vendas.
+
+99
+00:05:41.842 --> 00:05:46.233
+Quando falamos de operação de saída, pode ser devolução de compra.
+
+100
+00:05:46.243 --> 00:05:50.216
+Pode ser também uma transferência. Pode ser uma remessa.
+
+101
+00:05:50.226 --> 00:05:55.015
+Pode ser também uma prestação de serviço, um serviço de transporte, por exemplo.
+
+102
+00:05:55.026 --> 00:06:00.376
+Então nunca mais vincule essa história ali de entrada a compra e saída.
+
+103
+00:06:00.385 --> 00:06:05.295
+Vendas porque nós temos outras operações que vão ser classificadas
+
+104
+00:06:05.305 --> 00:06:09.895
+dentro dessa característica ali de entrada e de saída combinado.
+
+105
+00:06:09.906 --> 00:06:12.635
+Então, a partir de agora muda essa mentalidade.
+
+106
+00:06:13.190 --> 00:06:18.600
+Aqui eu trouxe pra vocês um resumo prático e a partir de agora, inclusive,
+
+107
+00:06:18.609 --> 00:06:21.480
+se você quiser imprimir esse quadro que tá no material,
+
+108
+00:06:21.489 --> 00:06:25.799
+é muito legal pra você deixar com o material suporte pra utilização no seu dia-a-dia
+
+109
+00:06:25.809 --> 00:06:27.799
+Porque aqui nós temos o primeiro dígito
+
+110
+00:06:27.809 --> 00:06:30.809
+indicando essa é uma operação interna interestadual,
+
+111
+00:06:30.820 --> 00:06:34.809
+entrada ou saída e os exemplos que você tem de
+
+112
+00:06:34.820 --> 00:06:38.209
+acordo com as operações que irá realizar no dia-a-dia pra
+
+113
+00:06:38.220 --> 00:06:43.149
+saber se será C F a p de entrada ou se será um c F a p de saída.

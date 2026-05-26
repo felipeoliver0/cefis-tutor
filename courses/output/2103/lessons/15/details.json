@@ -1,0 +1,33 @@
+{
+  "id": 462272,
+  "title": "Derivado decorrente",
+  "position": 15,
+  "duration": 311,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4834c4c2-a2e7-43e2-981b-6d0fd21faddf/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4834c4c2-a2e7-43e2-981b-6d0fd21faddf/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4834c4c2-a2e7-43e2-981b-6d0fd21faddf/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4834c4c2-a2e7-43e2-981b-6d0fd21faddf/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4834c4c2-a2e7-43e2-981b-6d0fd21faddf/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

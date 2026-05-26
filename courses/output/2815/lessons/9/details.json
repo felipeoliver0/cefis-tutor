@@ -1,0 +1,33 @@
+{
+  "id": 470132,
+  "title": "Política de compliance",
+  "position": 9,
+  "duration": 102,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ce93773c-fe13-4bec-9005-386c97882cfb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ce93773c-fe13-4bec-9005-386c97882cfb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ce93773c-fe13-4bec-9005-386c97882cfb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ce93773c-fe13-4bec-9005-386c97882cfb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ce93773c-fe13-4bec-9005-386c97882cfb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

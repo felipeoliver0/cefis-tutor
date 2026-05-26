@@ -1,0 +1,97 @@
+WEBVTT
+
+00:00:00.290 --> 00:00:06.498
+- Eu sei que quando a gente passa por uma transição e uma substituição ou até mesmo uma dispensa,
+
+00:00:06.498 --> 00:00:13.012
+- a gente passa por um momento de estresse, porque na verdade a gente começa a encontrar diversos desafios
+
+00:00:13.012 --> 00:00:18.974
+- e também o físico ao longo do caminho, agora a gente já tem algumas respostas do físico, mas
+
+00:00:19.106 --> 00:00:25.829
+- Inicialmente, como foi de uma hora para outra, nós ficamos, na verdade, vendidos, porque não tinha
+
+00:00:25.829 --> 00:00:32.484
+- muitas informações. Então, o Fisco, quando a gente olha a plataforma da DCTF Web e até mesmo da
+
+00:00:32.484 --> 00:00:39.806
+- função nova do MIT, o Fisco veio respondendo perguntas frequentes, ele veio respondendo os questionamentos,
+
+00:00:39.906 --> 00:00:46.420
+- ao longo do caminho. Então, ele criou a função e, ao longo do caminho, ele veio trazendo os aspectos
+
+00:00:46.420 --> 00:00:53.246
+- que ele não tinha ainda analisado e que ele teria uma atualização estrutural para que a gente conseguisse
+
+00:00:53.246 --> 00:00:56.190
+- emitir, por exemplo, as cotas do IRPJ do CCLL.
+
+00:00:57.378 --> 00:01:03.211
+- Então, qual a funcionalidade desse ETF Web? Reúne automaticamente as informações do E-Social,
+
+00:01:03.211 --> 00:01:09.400
+- do FD Reinf, eliminando a necessidade de um lançamento manual em uma outra obrigação acessória para
+
+00:01:09.400 --> 00:01:15.352
+- trazer a confissão dos débitos. Cálculo automático, ou seja, ela calcula automaticamente aquilo
+
+00:01:15.352 --> 00:01:21.601
+- que foi demonstrado no FD Reinf e no E-Social. No MIT ela também pode fazer isso, porém, o seu sistema
+
+00:01:21.601 --> 00:01:25.470
+- precisa ter o layout compatível para você fazer a integração
+
+00:01:25.634 --> 00:01:33.435
+- desse layout para dentro do MIT para que a DCTF-WEB seja calculada automaticamente. Então, não existe
+
+00:01:33.435 --> 00:01:41.161
+- um FD Contribuições ou uma ECF-WEB para que ela busque essa integração de forma automática. O que
+
+00:01:41.161 --> 00:01:48.886
+- nós temos é a possibilidade de utilizarmos um layout estabelecido pela Receita Federal para que haja
+
+00:01:48.886 --> 00:01:55.262
+- esse cruzamento de informação. E a geração do DARF, ou seja, nós temos que hoje
+
+00:01:55.522 --> 00:02:03.085
+- trazer a informação da integração para que haja a emissão do DARF. Antes a gente fazia a apuração,
+
+00:02:03.085 --> 00:02:10.576
+- emitia o DARF para depois gerar a obrigação acessória. E agora a gente passa a seguir uma obrigação
+
+00:02:10.576 --> 00:02:17.710
+- acessória para a emissão dos DARFs. Então os processos, principalmente o processo de apuração,
+
+00:02:17.710 --> 00:02:24.702
+- precisou ser revisitado porque a operação mudou. Eu só conseguiria emitir o DARF após o envio
+
+00:02:24.802 --> 00:02:33.901
+- da DCTF Web. Existem alguns tributos que o físico até permitiu o DARF ser emitido antes da entrega
+
+00:02:33.901 --> 00:02:37.054
+- da DCTF Web, por conta dos prazos.
+
+00:02:37.154 --> 00:02:43.501
+- Existem prazos distintos quando a gente pensa no piso e cofins, quando a gente pensa nas contribuições
+
+00:02:43.501 --> 00:02:49.787
+- sociais, quando a gente pensa na prática dos retidos. Então o fisco também precisou rever o processo
+
+00:02:49.787 --> 00:02:55.166
+- estrutural dentro da DSTF WEB porque antes a gente falava sobre a DSTF WEB ser entregue.
+
+00:02:55.490 --> 00:03:02.820
+- E aí, sim, ter a opção de emitir os DARFs. Mas, ao longo do caminho, a gente percebeu, eu fiz juntamente
+
+00:03:02.820 --> 00:03:09.607
+- com os contribuintes, percebemos que a estrutura deveria ser diferente, porque existem tributos com
+
+00:03:09.607 --> 00:03:16.394
+- datas distintas. E, além disso, foi revisto a data de entrega da DCTF Web, para que, de fato, haja
+
+00:03:16.394 --> 00:03:22.910
+- um compromisso e uma conformidade com os contribuintes, porque as apurações precisam existir,
+
+00:03:23.394 --> 00:03:28.300
+- A integração também, para que haja a emissão do DARF para o recolhimento.

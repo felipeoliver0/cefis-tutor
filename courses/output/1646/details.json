@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1646,
+    "title": "Exportação e Importação",
+    "subtitle": "Custo Tributário da Exportação e da Importação",
+    "summary": "Neste curso prático de Exportação e Importação, você aprenderá sobre a importância, bem como formas de trabalhar com a área internacional, independentemente do porte de sua empresa. Dentre os assuntos abordados, você conhecerá os benefícios fiscais, imunidade, isenção, ISS da exportação, linhas de crédito, garantia da operação, exportação direta e indireta, Drawback, tributação, restrição de produtos, custos, classificação fiscal, NCM, cálculo do ICMS, Goss up, SISCOSERV, contabilização back to back e muitos outros pontos muito importantes para colocar em prática o conhecimento adquirido.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/1baaf9f81039b68df2356ec60d48bccf1728384932.jpg",
+    "goals": [
+      "Apresentar aos alunos os principais sistemas e formas de controle relacionados à importação e exportação de mercadorias."
+    ],
+    "teacher": {
+      "id": 109368,
+      "name": "RENATO S ZOUAIN",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629066.jpeg"
+    },
+    "duration": 9377,
+    "keywords": "importação;exportação;radar;siscomex;siscoserv",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 36,
+    "materialCount": 4,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1602,
+    "averageRating": 9.28,
+    "practiceAverage": 9.19,
+    "trailer": {
+      "id": "91f48895-2137-4250-868a-ec1e7cb33eda",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/91f48895-2137-4250-868a-ec1e7cb33eda/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/91f48895-2137-4250-868a-ec1e7cb33eda/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/91f48895-2137-4250-868a-ec1e7cb33eda/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/91f48895-2137-4250-868a-ec1e7cb33eda/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-09-13T23:05:42.000Z",
+      "updatedAt": "2021-09-13T23:05:42.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 6,
+    "launchDate": "2021-08-27T18:35:39.000Z",
+    "recordedAt": "2021-09-02T00:00:00.000Z",
+    "createdAt": "2021-08-27T18:32:52.000Z"
+  }
+}

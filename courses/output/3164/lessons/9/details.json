@@ -1,0 +1,33 @@
+{
+  "id": 475348,
+  "title": "Situações excepcionais EFD - ICMS - IPI",
+  "position": 9,
+  "duration": 349,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e584bde3-8fda-46c8-8e66-0247f228004e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e584bde3-8fda-46c8-8e66-0247f228004e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e584bde3-8fda-46c8-8e66-0247f228004e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e584bde3-8fda-46c8-8e66-0247f228004e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e584bde3-8fda-46c8-8e66-0247f228004e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

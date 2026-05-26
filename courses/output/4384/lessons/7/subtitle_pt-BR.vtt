@@ -1,0 +1,45 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.000
+Qual que é a nova estrutura de um documento fiscal eletrônico para vocês terem consciência?
+
+3
+00:00:05.000 --> 00:00:13.000
+Dentro das notas técnicas foram criados novos grupos e dentro desses grupos foi criado o Grupo UBI.
+
+4
+00:00:13.000 --> 00:00:19.000
+O Grupo UBI, então, trata a informação do IBS e da CBS. O que eles fizeram?
+
+5
+00:00:19.000 --> 00:00:33.000
+Olharam a LC 214 de 2025, a Emenda Constitucional 132 de 2003 e trouxe para dentro da estrutura do XML as características do IBS, da CBS e do IES.
+
+6
+00:00:33.000 --> 00:00:38.000
+E para isso eles criaram um grupo chamado Grupo UBI.
+
+7
+00:00:38.000 --> 00:00:48.000
+Esse Grupo UBI trouxe nada mais, nada menos do que a CST do IBS e da CBS, que é o Código de Situação Tributária, que define a sua incidência.
+
+8
+00:00:48.000 --> 00:00:49.000
+E a CST do IBS e da CBS, que é o Código de Situação Tributária, que define a sua incidência.
+
+9
+00:00:49.000 --> 00:00:51.000
+E a CST do IBS e da CBS, que é o Código de Situação Tributária, que define a sua incidência.
+
+10
+00:00:51.000 --> 00:00:57.000
+Baseado, então, na interpretação legislativa, a fundamentação base.
+
+11
+00:00:57.000 --> 00:01:07.000
+Para cada CST existe uma CClassTrib, que representa um dispositivo legal.
+
+12
+00:01:07.000 --> 00:01:08.000
+Para cada CST existe uma CClassTrib, que representa um dispositivo legal.

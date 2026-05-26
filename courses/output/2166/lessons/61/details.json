@@ -1,0 +1,33 @@
+{
+  "id": 463581,
+  "title": "Meio ambiente de trabalho",
+  "position": 61,
+  "duration": 342,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/88b79943-2e52-47b5-b25e-883652352e97/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88b79943-2e52-47b5-b25e-883652352e97/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88b79943-2e52-47b5-b25e-883652352e97/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88b79943-2e52-47b5-b25e-883652352e97/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88b79943-2e52-47b5-b25e-883652352e97/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

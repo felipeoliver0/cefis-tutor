@@ -1,0 +1,33 @@
+{
+  "id": 463644,
+  "title": "Exemplo de DANFE",
+  "position": 12,
+  "duration": 236,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0585890e-2ac7-4380-86d5-6e22b2abbdd3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0585890e-2ac7-4380-86d5-6e22b2abbdd3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0585890e-2ac7-4380-86d5-6e22b2abbdd3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0585890e-2ac7-4380-86d5-6e22b2abbdd3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0585890e-2ac7-4380-86d5-6e22b2abbdd3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

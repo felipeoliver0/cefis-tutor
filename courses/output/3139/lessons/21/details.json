@@ -1,0 +1,33 @@
+{
+  "id": 476121,
+  "title": "Convenção coletiva",
+  "position": 22,
+  "duration": 595,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/133f6bc9-680d-4f38-be19-aef3386dfa94/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/133f6bc9-680d-4f38-be19-aef3386dfa94/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/133f6bc9-680d-4f38-be19-aef3386dfa94/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/133f6bc9-680d-4f38-be19-aef3386dfa94/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/133f6bc9-680d-4f38-be19-aef3386dfa94/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

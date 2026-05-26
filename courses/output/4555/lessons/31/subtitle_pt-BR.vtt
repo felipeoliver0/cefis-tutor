@@ -1,0 +1,273 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:09.000
+Ferramentas de monitoramento interno, então a gente está falando de tornar a defesa, o compliance aduaneiro,
+
+3
+00:00:09.000 --> 00:00:17.000
+para que ele deixe de ser reativo, mas que ele se torne proativo, eu diria que toda essa parte quando a gente fala da prevenção
+
+4
+00:00:17.000 --> 00:00:28.000
+é trazer a proatividade para a equipe de compliance aduaneiro, tornando ela menos reativa e mais proativa.
+
+5
+00:00:28.000 --> 00:00:36.000
+Então, as principais ferramentas obviamente são os sistemas integrados, que você consegue ter módulos específicos
+
+6
+00:00:36.000 --> 00:00:48.000
+voltados para a aduana e que conversam diretamente com o PUCOMEX, então você tem por processo cada um dos seus documentos disponíveis
+
+7
+00:00:48.000 --> 00:00:57.000
+e aí você consegue elaborar dashboard, você consegue elaborar KPIs, taxa de erro de NCM, percentual de drawback quitado,
+
+8
+00:00:57.000 --> 00:00:58.000
+tempo médio de pagamento.
+
+9
+00:00:58.000 --> 00:01:09.000
+Então, isso não apenas ajuda você a se defender, mas também para você tornar a sua operação cada vez mais sólida, mais verificável
+
+10
+00:01:09.000 --> 00:01:16.000
+para você gerir os teus prestadores de serviços, o teu despachante aduaneiro através de KPIs, por exemplo.
+
+11
+00:01:16.000 --> 00:01:22.000
+Alertas automáticos com prazos críticos, então se você tem um autoconcessório de drawback que vai expirar
+
+12
+00:01:22.000 --> 00:01:27.000
+em um período de dois anos, então você tem um alerta vinculado a esse sistema aduaneiro,
+
+13
+00:01:27.000 --> 00:01:36.000
+esse sistema integrado que manda um e-mail dizendo, olha, vai expirar, então precisa ser cumprido, então esse tipo de alerta é importante.
+
+14
+00:01:36.000 --> 00:01:44.000
+Ferramentas que gerem Power BI, que você consiga fazer análises críticas da tua base de dados, da tua curiosidade,
+
+15
+00:01:44.000 --> 00:01:54.000
+se tem quantos de erros de classificação fiscal aconteceu, qual é o prazo, quanto tempo, se você tem mais canal verde, canal amarelo, canal vermelho,
+
+16
+00:01:54.000 --> 00:01:56.000
+quanto tempo está levando para você fazer o desembaraço comum.
+
+17
+00:01:56.000 --> 00:02:00.000
+Pode fazer o desembaraço completo até a chegada no teu armazém.
+
+18
+00:02:00.000 --> 00:02:12.000
+Então são todas métricas que te apoiam a avaliar de forma muito preditiva potenciais riscos que você venha a ter na tua operação de comércio exterior.
+
+19
+00:02:12.000 --> 00:02:20.000
+E aí sistemas de rastreadibilidade de mercadoria por lote número de série, porque como o processo ele é aplicado,
+
+20
+00:02:20.000 --> 00:02:24.000
+ele pode ser retroativo, uma fiscalização pode ser retroativa,
+
+21
+00:02:24.000 --> 00:02:26.000
+você ter as informações de lote,
+
+22
+00:02:26.000 --> 00:02:34.000
+te ajuda você, por exemplo, buscar uma mercadoria tempos depois, se tiver no teu estoque, se for um ativo fixo,
+
+23
+00:02:34.000 --> 00:02:43.000
+você ter acesso a essa mercadoria para fazer alguma comprovação técnica que seja potencialmente exigida pela Receita Federal.
+
+24
+00:02:43.000 --> 00:02:55.000
+E aí só a gente pensar em alguns QPIs, que são esses indicadores de monitoramento que podem ser importantes para você avaliar continuamente,
+
+25
+00:02:55.000 --> 00:03:05.000
+fazer um monitoramento contínuo de aprimorar a tua operação ao mesmo tempo que você se prepara para as auditorias.
+
+26
+00:03:05.000 --> 00:03:14.000
+Então você tem taxa de erro em classificação fiscal, então uma meta ideal ali de 2% no ano no máximo,
+
+27
+00:03:14.000 --> 00:03:21.000
+percentual de drawback quitado, então você tem porcentagem das operações drawbacks finalizadas dentro do prazo,
+
+28
+00:03:21.000 --> 00:03:24.000
+tempo médio de desembaraço, aquilo que a gente conversou,
+
+29
+00:03:24.000 --> 00:03:33.000
+e taxa de autuação por operação, então você tem ali quantos autos de infração você tem por tempo, por ano, vamos dizer assim.
+
+30
+00:03:33.000 --> 00:03:41.000
+Percentual de declaração com revisão dupla, então se conseguiu ali que uma declaração tenha sido revisada duas vezes,
+
+31
+00:03:41.000 --> 00:03:48.000
+dentro da tua política de conformidade aduaneira, índice de conformidade documental,
+
+32
+00:03:48.000 --> 00:03:52.000
+então você ter essa auditoria, ou se não auditoria interna,
+
+33
+00:03:52.000 --> 00:04:00.000
+conseguir pegar uma auditoria terceirizada para fazer revisões periódicas e mensais.
+
+34
+00:04:00.000 --> 00:04:05.000
+Taxa de divergência de valor aduaneiro, então importante também.
+
+35
+00:04:05.000 --> 00:04:10.000
+Percentual de operação com anuências em dia, caso você tenha uma operação com licenças,
+
+36
+00:04:10.000 --> 00:04:18.000
+se as anuências, se as licenças elas foram implementadas previamente,
+
+37
+00:04:18.000 --> 00:04:21.000
+a saída da mercadoria,
+
+38
+00:04:21.000 --> 00:04:24.000
+a saída da mercadoria do local de origem,
+
+39
+00:04:24.000 --> 00:04:27.000
+então esses todos são QPIs que devem ser acompanhados aí mensalmente,
+
+40
+00:04:27.000 --> 00:04:34.000
+você pode desenvolver dashboards e realmente tornar a tua operação de uma forma,
+
+41
+00:04:34.000 --> 00:04:39.000
+você conseguir quantificar a tua operação de uma forma didática,
+
+42
+00:04:39.000 --> 00:04:42.000
+fácil de interpretação, ali interpretativa,
+
+43
+00:04:42.000 --> 00:04:49.000
+que te ajude a gerir, a olhar para o negócio de uma forma tangível e ao mesmo tempo holística,
+
+44
+00:04:49.000 --> 00:04:53.000
+para que ali você consiga utilizar esses dashboards, essas ferramentas
+
+45
+00:04:53.000 --> 00:05:01.000
+e todas essas formas de monitoramento como realmente uma ferramenta preditiva de gestão de risco
+
+46
+00:05:01.000 --> 00:05:05.000
+e de preparação ali para uma potencial auditoria,
+
+47
+00:05:05.000 --> 00:05:07.000
+que quer ou não ela virar.
+
+48
+00:05:07.000 --> 00:05:10.000
+E aí a importância desse plano de compliance,
+
+49
+00:05:10.000 --> 00:05:17.000
+que a gente vem aí dizendo que ele deve ter ali esse diagnóstico completo dos riscos da empresa
+
+50
+00:05:17.000 --> 00:05:18.000
+e esse dashboard que a gente acabou de falar,
+
+51
+00:05:18.000 --> 00:05:22.000
+vai te trazer muito apoio, trazer uma matriz de risco,
+
+52
+00:05:22.000 --> 00:05:24.000
+então quando você tem um dashboard dessa natureza,
+
+53
+00:05:24.000 --> 00:05:26.000
+você consegue identificar os seus riscos,
+
+54
+00:05:26.000 --> 00:05:28.000
+lembrando que toda operação vai ter risco,
+
+55
+00:05:28.000 --> 00:05:32.000
+e aí você consegue classificar entre risco alto, médio,
+
+56
+00:05:32.000 --> 00:05:36.000
+qual é o grau de impacto daquele risco,
+
+57
+00:05:36.000 --> 00:05:41.000
+qual que é a gravidade, qual a probabilidade de um determinado risco acontecer,
+
+58
+00:05:41.000 --> 00:05:44.000
+então você consegue fazer todo esse mapeamento,
+
+59
+00:05:44.000 --> 00:05:47.000
+isso vai te apoiar nas capacitações,
+
+60
+00:05:47.000 --> 00:05:50.000
+e lembrando que os temas relacionados à compliance
+
+61
+00:05:50.000 --> 00:05:55.000
+é muito importante que você tenha apoio da alta liderança da empresa,
+
+62
+00:05:55.000 --> 00:06:01.000
+porque, de novo, por ser voluntário, por ser presentivo,
+
+63
+00:06:01.000 --> 00:06:05.000
+muitas vezes os departamentos, as corporações,
+
+64
+00:06:05.000 --> 00:06:08.000
+elas têm uma certa ali, uma reação,
+
+65
+00:06:08.000 --> 00:06:13.000
+elas ficam um pouco reativas em fazer coisas voluntariamente,
+
+66
+00:06:13.000 --> 00:06:16.000
+a não ser quando elas estão realmente sob fiscalização.
+
+67
+00:06:16.000 --> 00:06:22.000
+Mas tomar esse passo antes, ter esse plano bem estruturado,
+
+68
+00:06:22.000 --> 00:06:25.000
+ele não apenas reduz o risco de autuação,
+
+69
+00:06:25.000 --> 00:06:29.000
+como também demonstra boa fé, de novo, junto à Receita Federal.

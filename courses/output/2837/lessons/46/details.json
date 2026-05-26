@@ -1,0 +1,33 @@
+{
+  "id": 470879,
+  "title": "Despesas antecipadas",
+  "position": 46,
+  "duration": 177,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b5b75c70-4ce9-49ee-be41-fec5331ad983/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5b75c70-4ce9-49ee-be41-fec5331ad983/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5b75c70-4ce9-49ee-be41-fec5331ad983/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5b75c70-4ce9-49ee-be41-fec5331ad983/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5b75c70-4ce9-49ee-be41-fec5331ad983/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

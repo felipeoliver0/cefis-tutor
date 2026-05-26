@@ -1,0 +1,33 @@
+{
+  "id": 463923,
+  "title": "Inovação",
+  "position": 4,
+  "duration": 496,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7275811d-7e16-4d27-aa57-16ff97fa7513/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7275811d-7e16-4d27-aa57-16ff97fa7513/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7275811d-7e16-4d27-aa57-16ff97fa7513/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7275811d-7e16-4d27-aa57-16ff97fa7513/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7275811d-7e16-4d27-aa57-16ff97fa7513/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

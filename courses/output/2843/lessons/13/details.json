@@ -1,0 +1,33 @@
+{
+  "id": 471212,
+  "title": "Casos de Sucesso parte 1",
+  "position": 13,
+  "duration": 461,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/410854f5-c52e-4b1a-9ef1-206fb221ab2c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/410854f5-c52e-4b1a-9ef1-206fb221ab2c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/410854f5-c52e-4b1a-9ef1-206fb221ab2c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/410854f5-c52e-4b1a-9ef1-206fb221ab2c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/410854f5-c52e-4b1a-9ef1-206fb221ab2c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

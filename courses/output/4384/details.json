@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4384,
+    "title": "Reforma Tributária: Como identificar a classificação tributária",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Reforma Tributária: Como identificar a classificação tributária, você irá aprender na prática tudo o que precisa saber sobre a Reforma Tributária. Aprenderá os fundamentos e a prática de identificar a classificação tributária, entender a Lei nº 12.973/2014 e a Lei nº 13.465/2017, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre a Reforma Tributária.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/c89f497b-ed2e-4953-8e2f-1496d62322ba-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Reforma Tributária: Como identificar a classificação tributária, curso prático é a capacitação para a aplicação prática da reforma tributária, compreendendo a classificação tributária."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 3643,
+    "keywords": "reforma;tributária",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 399,
+    "averageRating": 9.49,
+    "practiceAverage": 9.45,
+    "trailer": {
+      "id": "ac233bc3-999c-4c14-8ead-0d2de91a34f8",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ac233bc3-999c-4c14-8ead-0d2de91a34f8/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ac233bc3-999c-4c14-8ead-0d2de91a34f8/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ac233bc3-999c-4c14-8ead-0d2de91a34f8/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ac233bc3-999c-4c14-8ead-0d2de91a34f8/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-02-28T13:28:20.000Z",
+      "updatedAt": "2026-02-28T13:28:19.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-02-28T15:11:19.000Z",
+    "recordedAt": "2026-01-13T00:00:00.000Z",
+    "createdAt": "2026-01-27T15:58:56.000Z"
+  }
+}

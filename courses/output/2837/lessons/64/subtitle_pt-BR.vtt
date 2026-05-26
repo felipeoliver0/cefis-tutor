@@ -1,0 +1,309 @@
+WEBVTT
+
+1
+00:00:00.340 --> 00:00:03.069
+provisões de férias e encargos.
+
+2
+00:00:03.079 --> 00:00:09.109
+Tá, eh o o que a gente tem que entender pessoal, provisão de férias?
+
+3
+00:00:09.119 --> 00:00:10.210
+Muita gente pensa assim.
+
+4
+00:00:12.100 --> 00:00:16.850
+Thiago Eu só vou lançar as férias quando gerar o valor a pagar. Tá bom?
+
+5
+00:00:16.860 --> 00:00:21.610
+Não, Não é por aí, porque o colaborador ele entra, vamos pensar!
+
+6
+00:00:22.530 --> 00:00:25.760
+Ele começou aqui no dia um dele, né?
+
+7
+00:00:25.770 --> 00:00:30.159
+E quando ele dá trezentos e sessenta e cinco dias ele adquiriu o direito de férias,
+
+8
+00:00:33.009 --> 00:00:35.479
+O que são as férias do colaborador?
+
+9
+00:00:36.369 --> 00:00:37.560
+É um mês,
+
+10
+00:00:39.779 --> 00:00:41.689
+mais um terço.
+
+11
+00:00:43.020 --> 00:00:45.250
+Então, a cada mês
+
+12
+00:00:46.419 --> 00:00:51.250
+que ele foi a trabalhando, ele foi ele foi acumulando o quê?
+
+13
+00:00:52.069 --> 00:00:54.459
+Um direito de receber essas férias
+
+14
+00:00:55.669 --> 00:00:58.840
+automaticamente automaticamente.
+
+15
+00:00:58.849 --> 00:01:03.639
+A partir de cada mês que ele trabalha eu estou constituindo um passivo,
+
+16
+00:01:03.650 --> 00:01:06.059
+uma obrigação presente da entidade.
+
+17
+00:01:06.879 --> 00:01:11.230
+Então, eu tenho que registrar, mês a mês,
+
+18
+00:01:12.250 --> 00:01:14.199
+esse acúmulo de direito.
+
+19
+00:01:15.370 --> 00:01:19.879
+E aí a gente tem um relatório que chama provisão de férias
+
+20
+00:01:22.169 --> 00:01:23.760
+que ele vai refletir
+
+21
+00:01:24.500 --> 00:01:25.809
+as férias,
+
+22
+00:01:27.750 --> 00:01:35.699
+ele vai rece refletir um terço. Ele vai refletir o INSS sobre as férias e o f GTS.
+
+23
+00:01:38.379 --> 00:01:40.949
+Quer dizer, o que gente quer dizer, o que que?
+
+24
+00:01:40.959 --> 00:01:45.470
+Que eu tô explicando Isso que mês a mês ele vai passar o saldo acumulado
+
+25
+00:01:45.480 --> 00:01:49.989
+de férias que todo mundo já adquiriu menos o quem já tirou as férias,
+
+26
+00:01:50.000 --> 00:01:55.610
+um terço, o INSS e o f GTS Na mesma forma, só que contabilmente eu não vou ficar.
+
+27
+00:01:55.620 --> 00:01:57.669
+Ah, agora esse cara eu tô de férias, pagou.
+
+28
+00:01:57.680 --> 00:02:01.889
+Eu vou pago o valor que pagou e baixo aqui não, eu não faço isso
+
+29
+00:02:02.959 --> 00:02:06.510
+o relatório de provisão de férias, basicamente a contabilização,
+
+30
+00:02:06.519 --> 00:02:11.529
+eu zero o saldo que eu tinha e constitui um novo eu zero o que eu tinha eu constitu um
+
+31
+00:02:11.539 --> 00:02:14.830
+novo e no momento que eu faço a integração da
+
+32
+00:02:14.839 --> 00:02:18.559
+folha de pagamento a importação da folha de pagamento,
+
+33
+00:02:18.570 --> 00:02:21.020
+ele vai constituir de nesse exemplo nosso dentro da
+
+34
+00:02:21.029 --> 00:02:23.789
+da conta de salários a pagar as férias.
+
+35
+00:02:24.710 --> 00:02:27.679
+Aí cê falou ai Thiago, mas aí tá constituindo duas vezes não,
+
+36
+00:02:27.690 --> 00:02:30.779
+porque na hora que eu liquido isso aqui pro meu resultado
+
+37
+00:02:30.789 --> 00:02:33.919
+eu estou jogando todo aquele cara pro resultado e na hora
+
+38
+00:02:33.929 --> 00:02:38.960
+que eu gero o i e o f f g D s total as férias total a pagar eu volto ela.
+
+39
+00:02:38.970 --> 00:02:41.259
+Então eu faço uma anulação no meu resultado.
+
+40
+00:02:42.220 --> 00:02:46.830
+Então toda vez que eu falar de provisão, de férias em regra pessoal,
+
+41
+00:02:46.839 --> 00:02:51.929
+pega o que tá de saldo baixa, zerando contra resultado e constitui um novo.
+
+42
+00:02:51.940 --> 00:02:55.770
+Vai ficar lançando diferença de diferença daquilo Tá bom,
+
+43
+00:02:56.410 --> 00:02:56.759
+E aí?
+
+44
+00:02:56.770 --> 00:03:00.820
+Contabilmente a gente já faz pros nossos sistemas fazer dessa forma,
+
+45
+00:03:00.830 --> 00:03:03.020
+zero e constitui zero e constitui.
+
+46
+00:03:03.029 --> 00:03:04.979
+Então ele passa com um saldo de provisão de férias.
+
+47
+00:03:04.990 --> 00:03:07.369
+Quando chega lá, no último dia do mês que você importa a Folha,
+
+48
+00:03:07.380 --> 00:03:09.399
+ele zera aquele e constitui o novo.
+
+49
+00:03:09.410 --> 00:03:15.839
+Tem sistemas que o próprio sistema só faz a variação das rubricas específicas.
+
+50
+00:03:16.429 --> 00:03:20.279
+Então, beleza pra gente conferir dá um trabalho danado.
+
+51
+00:03:20.289 --> 00:03:23.479
+Tem jeito, tem jeito sim, a gente pode conferir,
+
+52
+00:03:23.490 --> 00:03:28.500
+mas o que vai importar efetivamente é o saldo final contábil.
+
+53
+00:03:29.220 --> 00:03:31.770
+O saldo da contabilidade
+
+54
+00:03:32.460 --> 00:03:35.050
+é igual. O que a gente tem nesse relatório?
+
+55
+00:03:35.910 --> 00:03:42.080
+Okay Beleza Não opa! Aí a gente precisa conciliar! Tá bom.
+
+56
+00:03:42.089 --> 00:03:43.820
+Então vamos entender um pouquinho aqui.
+
+57
+00:03:44.490 --> 00:03:47.419
+Relatório do sistema de folha de pagamento com as provisões
+
+58
+00:03:47.429 --> 00:03:51.100
+de férias confirma o saldo contábil com o resumo de provisão
+
+59
+00:03:51.110 --> 00:03:55.399
+de férias testa o saldo acumulado das férias dos encargos incidentes
+
+60
+00:03:55.410 --> 00:03:59.339
+n ss ss f G TSE Verifica as contabiliza mensais.
+
+61
+00:03:59.350 --> 00:04:03.020
+Vamos dar uma olhada no nosso modelo aqui sobre provisão
+
+62
+00:04:03.029 --> 00:04:05.919
+de férias que que a gente faz aqui pessoal,
+
+63
+00:04:06.360 --> 00:04:10.929
+a gente pega efetivamente todas as rubricas que tão lá no resumo de provisão de
+
+64
+00:04:10.940 --> 00:04:14.770
+férias soma elas que eu falei que é férias ou adicionar um terço de férias,
+
+65
+00:04:14.779 --> 00:04:15.110
+né?
+
+66
+00:04:15.860 --> 00:04:18.380
+INSS e o f GTS a gente chega no
+
+67
+00:04:18.390 --> 00:04:21.190
+montante setecentos e catorze saldo contabil setecentos e catorze,
+
+68
+00:04:21.200 --> 00:04:25.470
+então a contabilização foi feita em todos os movimentos aqui,
+
+69
+00:04:25.480 --> 00:04:29.910
+todas as situações de constituição e baixa de provisão de férias,
+
+70
+00:04:29.920 --> 00:04:31.570
+então a gente pega aqui, por exemplo, Olha só
+
+71
+00:04:32.170 --> 00:04:34.179
+provisão da filial o zero um.
+
+72
+00:04:34.190 --> 00:04:38.109
+Ele fez os lançamentos de provisão e fez também as baixas de provisão.
+
+73
+00:04:38.119 --> 00:04:41.100
+Então ele faz tudo no dia trinta aqui então ele
+
+74
+00:04:41.109 --> 00:04:43.660
+zera o que tinha e constitui o novo zero,
+
+75
+00:04:43.670 --> 00:04:47.339
+o que tinha constitui novo, É isso pra todas as unidades, então uma,
+
+76
+00:04:47.350 --> 00:04:52.420
+três filiais e por aí vai, Tá, então o sistema já fez isso pra nós.
+
+77
+00:04:52.429 --> 00:04:56.079
+Eu tenho que ter a segurança que o que que bateu que fechou? Que tá tudo okay

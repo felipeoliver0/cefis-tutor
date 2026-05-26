@@ -1,0 +1,33 @@
+{
+  "id": 475294,
+  "title": "Importação de arquivos - parte 2",
+  "position": 4,
+  "duration": 332,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/55145fd2-76f9-4860-8da8-bca115691e59/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/55145fd2-76f9-4860-8da8-bca115691e59/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/55145fd2-76f9-4860-8da8-bca115691e59/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/55145fd2-76f9-4860-8da8-bca115691e59/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/55145fd2-76f9-4860-8da8-bca115691e59/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

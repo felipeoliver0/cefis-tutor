@@ -1,0 +1,85 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.400
+Agora, pessoal, eu trago para vocês o fluxo de integração das informações.
+
+3
+00:00:05.400 --> 00:00:12.900
+Então, nós neste curso abordamos os eventos de cadastro, não periódicos e periódicos.
+
+4
+00:00:12.900 --> 00:00:17.399
+Avancei com vocês também com os eventos de retorno, vocês viram isso.
+
+5
+00:00:17.399 --> 00:00:22.899
+E essas informações são transmitidas via o seu sistema para o portal do E-Social.
+
+6
+00:00:22.899 --> 00:00:26.699
+Automaticamente o E-Social recepciona a informação,
+
+7
+00:00:26.699 --> 00:00:31.000
+faz a integração com a DCTF Web e com o FGTS Digital,
+
+8
+00:00:31.000 --> 00:00:35.000
+mas tudo fica aqui no ambiente nacional do próprio governo.
+
+9
+00:00:35.000 --> 00:00:37.500
+Então, esse é o fluxo das informações.
+
+10
+00:00:37.500 --> 00:00:41.500
+E aqui eu trago para vocês a dinâmica,
+
+11
+00:00:41.500 --> 00:00:46.299
+porque o E-Social é apenas uma célula de integração com a DCTF Web.
+
+12
+00:00:46.299 --> 00:00:48.899
+Ele tem prazo? Sim, o prazo da folha.
+
+13
+00:00:48.899 --> 00:00:53.600
+Lembra o evento S1200, 1210? É até o dia 15.
+
+14
+00:00:53.600 --> 00:00:55.700
+Eu transmito a informação,
+
+15
+00:00:55.700 --> 00:00:56.600
+tem o prazo para emitir,
+
+16
+00:00:56.600 --> 00:00:58.000
+e a DCTF até o dia 30.
+
+17
+00:00:58.000 --> 00:01:04.900
+Mas aí, pessoal, esse prazo aqui envolve outras obrigações que não é só da folha de pagamento.
+
+18
+00:01:04.900 --> 00:01:10.099
+Como o DARF da folha com as informações previdenciárias e imposto de renda vence no dia 20,
+
+19
+00:01:10.099 --> 00:01:11.900
+não vou deixar chegar até o dia 30, né?
+
+20
+00:01:11.900 --> 00:01:15.599
+Então, antes de chegar o dia 30, eu vou gerar as informações do DARF,
+
+21
+00:01:15.599 --> 00:01:19.599
+e vou gerar lá e vou transmitir para o cliente. Isso é importantíssimo.
+
+22
+00:01:19.599 --> 00:01:24.099
+E aqui as outras integrações, né? FD Reinfo, PRD Comp e por aí vai.

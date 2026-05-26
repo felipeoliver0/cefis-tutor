@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4062,
+    "title": "Impactos na Precificação",
+    "subtitle": "Reforma Tributária",
+    "summary": "Neste curso Impactos na Precificação com a Reforma Tributária, você irá aprender na prática tudo o que precisa saber sobre a reforma tributária e seus impactos na precificação. Aprenderá os fundamentos e a prática de entender a formação de preços (aula 9), aplicar a prática da precificação (aulas 12, 13, 14 e 15) e identificar a nova estrutura tributária (aula 5) e vários outros temas para você que deseja se atualizar ou aprender tudo sobre a reforma tributária e seus impactos na precificação.}",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/36e14c7c-d797-4588-a22f-2d701e15ea2c-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Impactos na Precificação: Reforma Tributária é a capacitação para a aplicação prática da compreensão da reforma tributária e seus impactos na precificação, permitindo aos participantes entender os fundamentos e a prática de precificação e identificar a nova estrutura tributária."
+    ],
+    "teacher": {
+      "id": 678564,
+      "name": "Joy",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1695757367.jpeg"
+    },
+    "duration": 5593,
+    "keywords": "Impactos;precificação;reforma;tributária",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 393,
+    "averageRating": 9.59,
+    "practiceAverage": 9.54,
+    "trailer": {
+      "id": "aa48d24a-145f-44dd-9c39-191f62ba22be",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/aa48d24a-145f-44dd-9c39-191f62ba22be/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/aa48d24a-145f-44dd-9c39-191f62ba22be/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/aa48d24a-145f-44dd-9c39-191f62ba22be/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/aa48d24a-145f-44dd-9c39-191f62ba22be/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-18T16:40:42.000Z",
+      "updatedAt": "2025-12-18T16:40:41.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-18T16:48:32.000Z",
+    "recordedAt": "2025-10-23T00:00:00.000Z",
+    "createdAt": "2025-10-22T20:18:08.000Z"
+  }
+}

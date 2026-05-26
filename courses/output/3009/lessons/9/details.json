@@ -1,0 +1,33 @@
+{
+  "id": 473243,
+  "title": "Resposta Quiz-Time 02",
+  "position": 9,
+  "duration": 46,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a827f31a-fab4-429b-b4ee-536a41fe7aa4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a827f31a-fab4-429b-b4ee-536a41fe7aa4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a827f31a-fab4-429b-b4ee-536a41fe7aa4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a827f31a-fab4-429b-b4ee-536a41fe7aa4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a827f31a-fab4-429b-b4ee-536a41fe7aa4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

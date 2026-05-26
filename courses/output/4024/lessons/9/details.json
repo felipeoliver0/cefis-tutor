@@ -1,0 +1,33 @@
+{
+  "id": 480588,
+  "title": "Passos da Comunicação",
+  "position": 9,
+  "duration": 340,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fd466676-bf40-4a55-bda0-7b990db10029/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fd466676-bf40-4a55-bda0-7b990db10029/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fd466676-bf40-4a55-bda0-7b990db10029/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fd466676-bf40-4a55-bda0-7b990db10029/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fd466676-bf40-4a55-bda0-7b990db10029/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

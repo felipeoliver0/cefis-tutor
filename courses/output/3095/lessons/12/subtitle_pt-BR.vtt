@@ -1,0 +1,249 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.420
+o cadastro do participante,
+
+2
+00:00:02.430 --> 00:00:09.619
+então ele não é validado pela Receita Federal consultando o perguntas e respostas
+
+3
+00:00:09.630 --> 00:00:14.119
+da F d SMS p i Se você olhar lá tá escrito assim,
+
+4
+00:00:14.130 --> 00:00:18.000
+é possível o P V a validar os dados cadastrais do participante
+
+5
+00:00:18.319 --> 00:00:20.209
+e a resposta é não.
+
+6
+00:00:20.219 --> 00:00:21.969
+Isso está no perguntas e respostas,
+
+7
+00:00:21.979 --> 00:00:26.729
+inclusive esse arquivo em P d f tá disponível pra vocês aqui, nos materiais,
+
+8
+00:00:26.739 --> 00:00:31.170
+lá tem perguntas frequentes muito interessantes pra vocês utilizarem
+
+9
+00:00:31.180 --> 00:00:34.509
+aí no dia-a-dia Sabe aquela dúvida que surge?
+
+10
+00:00:34.520 --> 00:00:38.209
+Sempre tem alguém que já teve aquela essa dúvida em um outro momento?
+
+11
+00:00:38.220 --> 00:00:39.970
+E aí a Receita Federal?
+
+12
+00:00:39.979 --> 00:00:44.290
+Ela costuma criar esses arquivos de perguntas frequentes pra ajudar
+
+13
+00:00:44.299 --> 00:00:48.095
+os contribuintes nas dúvidas aí que são mais comuns.
+
+14
+00:00:48.104 --> 00:00:52.455
+Então nunca pode ser utilizado no mesmo arquivo, um cara,
+
+15
+00:00:52.465 --> 00:00:58.255
+um participante que não está relacionado lá embaixo referido nas notas.
+
+16
+00:00:58.264 --> 00:01:02.615
+E ele não pode ser identificado, né?
+
+17
+00:01:02.625 --> 00:01:06.455
+Com o mesmo código pra identificar um participante diferente?
+
+18
+00:01:06.464 --> 00:01:14.675
+Então imagina que tem a cliente Joice, a cliente Maria e a cliente Joana
+
+19
+00:01:14.970 --> 00:01:18.419
+A cliente Joice tem que ter um código pode ser o código um.
+
+20
+00:01:18.430 --> 00:01:21.500
+A cliente Maria tem que ter um outro código.
+
+21
+00:01:21.510 --> 00:01:24.739
+Código dois A cliente Joana tem que ter outro código
+
+22
+00:01:24.750 --> 00:01:28.699
+Código três não pode ser o código um pra todas.
+
+23
+00:01:28.709 --> 00:01:33.819
+Mas ji Mesmo que o nome seja diferente, mesmo que o nome seja diferente,
+
+24
+00:01:33.830 --> 00:01:41.305
+o código não pode ser usado de forma igual pra representar, participar diferentes.
+
+25
+00:01:41.316 --> 00:01:44.846
+Quando houver mudança de inscrição estadual,
+
+26
+00:01:44.856 --> 00:01:52.606
+deve ser informado um novo participante Tá certo E aí o antigo não deve ser alterado.
+
+27
+00:01:52.615 --> 00:01:53.405
+Mas,
+
+28
+00:01:53.416 --> 00:01:56.816
+se a mudança no participante for uma mudança que não se
+
+29
+00:01:56.825 --> 00:02:00.486
+relaciona com a inscrição estadual for uma mudança de endereço,
+
+30
+00:02:00.496 --> 00:02:06.092
+por exemplo, for uma mudança de nome, mas não mudou a inscrição estadual,
+
+31
+00:02:06.101 --> 00:02:09.390
+essa mudança, ela tem que constar no registro filho,
+
+32
+00:02:09.401 --> 00:02:12.511
+que é o zero cento e setenta e cinco, Então,
+
+33
+00:02:12.522 --> 00:02:17.231
+fiquem atentos porque eu vejo muitas pessoas cometendo Sabe aquele oh?
+
+34
+00:02:17.242 --> 00:02:22.412
+Vou, vou contar pra vocês Uma fofoca tributária aqui sabe quando muda o endereço,
+
+35
+00:02:22.421 --> 00:02:24.302
+aí Que que o que que o cliente faz?
+
+36
+00:02:24.311 --> 00:02:26.852
+Vai lá? No cadastro? Altera o endereço
+
+37
+00:02:27.699 --> 00:02:30.289
+aí quando roda o arquivo do F D ICMS P I
+
+38
+00:02:30.300 --> 00:02:34.770
+O zero cento e cinquenta já vem com o endereço atual?
+
+39
+00:02:34.779 --> 00:02:41.949
+Está errado? O cliente mudou fornecedor mudou o nome da razão social.
+
+40
+00:02:41.960 --> 00:02:47.309
+Aí o teu cliente contribuinte vai lá no cadastro altera direto e aí,
+
+41
+00:02:47.320 --> 00:02:52.410
+quando gera o arquivo do F d ICMS P i já traz um nome novo, errado,
+
+42
+00:02:52.809 --> 00:02:57.380
+Pre em um campo existe um campo que precisa ser preenchido.
+
+43
+00:02:57.389 --> 00:03:01.899
+Isso deve ser configurado parametrizado dentro do sistema do do contribuinte,
+
+44
+00:03:01.910 --> 00:03:04.800
+que é o zero, cento e setenta e cinco.
+
+45
+00:03:04.809 --> 00:03:08.899
+E aí quando tem essa mudança de endereço ali, tem que colocar no zero,
+
+46
+00:03:08.910 --> 00:03:15.020
+cento e setenta e cinco a mudança e aí tem que ser informado isso só quando houver
+
+47
+00:03:15.029 --> 00:03:17.733
+a emissão ou recebimento de um documento fiscal no
+
+48
+00:03:17.742 --> 00:03:20.652
+mesmo mês de duas ou mais notas distintas,
+
+49
+00:03:20.662 --> 00:03:23.852
+então no comecinho do mês era o endereço, depois mudou,
+
+50
+00:03:23.863 --> 00:03:27.093
+Então tem que ter o zero cento e setenta e cinco preenchido.
+
+51
+00:03:27.102 --> 00:03:28.692
+Então é um caso de errinho
+
+52
+00:03:28.703 --> 00:03:32.052
+tributário que acontece muito porque simplesmente altera
+
+53
+00:03:32.063 --> 00:03:37.813
+o cadastro lá e manda ver hum hum se teve mudança de endereço,
+
+54
+00:03:37.822 --> 00:03:39.832
+aconteceu isso no no no meio.
+
+55
+00:03:39.916 --> 00:03:43.266
+Ali, no meio do mês algumas notas saíram com um endereço.
+
+56
+00:03:43.276 --> 00:03:46.886
+Outras notas saíram com o outro Tem que preencher o zero, setenta e cinco,
+
+57
+00:03:46.895 --> 00:03:52.126
+que é o registro filho para identificar essa mudança do endereço Tá certo e,
+
+58
+00:03:52.136 --> 00:03:53.345
+reforçando, hein!
+
+59
+00:03:53.356 --> 00:03:55.925
+Se essa mudança do endereço tiver a
+
+60
+00:03:55.936 --> 00:03:58.565
+alteração de inscrição estadual mudou de Estado,
+
+61
+00:03:58.576 --> 00:04:01.606
+por exemplo, aí tem que criar um novo cadastro.
+
+62
+00:04:01.615 --> 00:04:03.386
+É um novo zero cento e cinquenta.

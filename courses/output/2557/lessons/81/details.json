@@ -1,0 +1,33 @@
+{
+  "id": 468399,
+  "title": "Nota básica de venda de mercadoria",
+  "position": 81,
+  "duration": 502,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/62a0fe2c-4e23-4d6b-bbe7-f91f64677ffd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62a0fe2c-4e23-4d6b-bbe7-f91f64677ffd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62a0fe2c-4e23-4d6b-bbe7-f91f64677ffd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62a0fe2c-4e23-4d6b-bbe7-f91f64677ffd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62a0fe2c-4e23-4d6b-bbe7-f91f64677ffd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

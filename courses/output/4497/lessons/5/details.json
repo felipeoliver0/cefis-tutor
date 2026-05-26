@@ -1,0 +1,33 @@
+{
+  "id": 487505,
+  "title": "Contextualização",
+  "position": 5,
+  "duration": 439,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/03501688-7772-4b55-a4fa-b24d1e6a51e9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/03501688-7772-4b55-a4fa-b24d1e6a51e9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/03501688-7772-4b55-a4fa-b24d1e6a51e9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/03501688-7772-4b55-a4fa-b24d1e6a51e9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/03501688-7772-4b55-a4fa-b24d1e6a51e9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

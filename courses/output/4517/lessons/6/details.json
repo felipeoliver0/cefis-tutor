@@ -1,0 +1,33 @@
+{
+  "id": 487915,
+  "title": "A era do conhecimento",
+  "position": 6,
+  "duration": 352,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/eed5200a-840a-43fe-854a-f250bcc0bc2f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eed5200a-840a-43fe-854a-f250bcc0bc2f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eed5200a-840a-43fe-854a-f250bcc0bc2f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eed5200a-840a-43fe-854a-f250bcc0bc2f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eed5200a-840a-43fe-854a-f250bcc0bc2f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

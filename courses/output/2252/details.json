@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2252,
+    "title": "Recof e Recof-Sped",
+    "subtitle": "Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado",
+    "summary": "Neste curso pratico de Recof e Recof-Sped você vai aprender desde s conceitos fundamentais relacionados à estes regimes, até o mapeamento das diferenças entre Recof, Recof-Sped e Drawback, bem como entenderá o detalhamento de condições, requisitos e manutenção do regime, além do reconhecimento de métodos e benefícios resultantes da utilização deste, para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/7ebe7fbebf322540298cb2efaef024421728385940.jpg",
+    "goals": [
+      "Promover uma análise técnica quanto aos fundamentos, principais conceitos, critérios, e pontos de atenção quanto ao Regime Aduaneiro Especial de Entreposto Industrial sob Controle Aduaneiro Informatizado (Recof) e o Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado do Sistema Público de Escrituração Digital (Recof-Sped)."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 3388,
+    "keywords": "recof;recof-sped;drawback;Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatiz",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 17,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 123,
+    "averageRating": 9.03,
+    "practiceAverage": 8.73,
+    "trailer": {
+      "id": "00e88a98-9f2f-4731-b5c8-3ff1f03d70f9",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/00e88a98-9f2f-4731-b5c8-3ff1f03d70f9/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/00e88a98-9f2f-4731-b5c8-3ff1f03d70f9/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/00e88a98-9f2f-4731-b5c8-3ff1f03d70f9/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/00e88a98-9f2f-4731-b5c8-3ff1f03d70f9/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-10-01T11:02:52.000Z",
+      "updatedAt": "2022-10-01T11:02:52.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-10-06T07:55:46.000Z",
+    "recordedAt": "2022-09-17T00:00:00.000Z",
+    "createdAt": "2022-09-19T09:55:40.000Z"
+  }
+}

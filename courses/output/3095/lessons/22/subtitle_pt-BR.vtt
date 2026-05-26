@@ -1,0 +1,597 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:00.939
+Então vamos lá.
+
+2
+00:00:00.949 --> 00:00:05.219
+A primeira coisa que nós vamos validar aqui verificar na prática um
+
+3
+00:00:05.230 --> 00:00:10.100
+um ponto de cruzamento de conferência com relação ao DIFAL contribuinte,
+
+4
+00:00:10.109 --> 00:00:13.939
+para verificar como que isso deve ser lançado no F d SMS,
+
+5
+00:00:13.949 --> 00:00:19.659
+p i eu preciso ver validar se o Estado em questão do estado do contribuinte, né,
+
+6
+00:00:19.670 --> 00:00:20.840
+que declarante aqui.
+
+7
+00:00:20.909 --> 00:00:25.219
+Ele exige que isso seja informado através da tabela
+
+8
+00:00:25.229 --> 00:00:28.799
+cinco ponto três e então se for dessa forma,
+
+9
+00:00:28.809 --> 00:00:33.279
+vamos ter que informar isso no registro da nota no c cento e noventa e cinco,
+
+10
+00:00:33.290 --> 00:00:36.189
+que é o registro filho e o c cento e noventa e sete,
+
+11
+00:00:36.200 --> 00:00:41.240
+que também é um registro filho ou se o estado não for adequado ali.
+
+12
+00:00:41.250 --> 00:00:45.200
+A tabela cinco ponto três Vamos informar tudo isso no bloco e
+
+13
+00:00:45.209 --> 00:00:47.130
+no e cento e onze e no e cento e treze.
+
+14
+00:00:47.139 --> 00:00:50.919
+Então, como que eu faço pra descobrir se o estado está ou não na tabela?
+
+15
+00:00:50.930 --> 00:00:56.340
+Cinco ponto três pra eu saber se eu coloco ou não no registro cento e noventa e cinco
+
+16
+00:00:56.349 --> 00:00:59.740
+cento e noventa e sete ou no e cento e onze e cento e treze vou ensinar.
+
+17
+00:00:59.750 --> 00:01:02.639
+Vocês entrou no Portal do SPED.
+
+18
+00:01:03.360 --> 00:01:11.169
+Vocês vão acessar no menu Lateral-esquerdo vai escolher lá a opção do F
+
+19
+00:01:11.180 --> 00:01:15.389
+D i SMS P i Após escolher f d ICMS p i,
+
+20
+00:01:15.400 --> 00:01:20.709
+você vai acessar o menu downloads tabelas de códigos
+
+21
+00:01:21.129 --> 00:01:26.000
+tabelas utilizadas na elaboração da F D Ele vai abrir um novo,
+
+22
+00:01:26.010 --> 00:01:29.660
+uma nova aba e aí você vai escolher o pacote.
+
+23
+00:01:29.669 --> 00:01:31.779
+Tá vendo que aqui tá por estado!
+
+24
+00:01:31.790 --> 00:01:35.739
+Eu vou escolher o estado de São Paulo, o Estado de São Paulo.
+
+25
+00:01:35.750 --> 00:01:38.580
+Ele usa a tabela cinco por ponto três,
+
+26
+00:01:38.589 --> 00:01:42.819
+uma vez que o estado usa a tabela cinco ponto três,
+
+27
+00:01:42.830 --> 00:01:47.660
+significa que o DIFAL contribuinte que é o DIFAL das entradas
+
+28
+00:01:47.669 --> 00:01:51.620
+deve ser informado no registro c cento e noventa e cinco
+
+29
+00:01:51.629 --> 00:01:55.459
+e c cento e noventa e sete da nota Vou pegar
+
+30
+00:01:55.470 --> 00:01:59.760
+um estado que não usa a tabela cinco ponto três Bahia
+
+31
+00:02:00.050 --> 00:02:04.059
+Veja que na Bahia oh não tem a tabela cinco ponto três,
+
+32
+00:02:04.069 --> 00:02:06.779
+então significa que para estados da Bahia,
+
+33
+00:02:06.790 --> 00:02:11.100
+as notas do DIFAL contribuinte das entradas destinadas para uso,
+
+34
+00:02:11.110 --> 00:02:15.199
+consumo ou ativo devem ser informados direto lá no bloco e
+
+35
+00:02:15.210 --> 00:02:17.539
+no e cento e onze e no e cento e treze.
+
+36
+00:02:17.550 --> 00:02:21.580
+Vamos ver isso dentro do programa. Agora entrei no programa.
+
+37
+00:02:21.589 --> 00:02:26.339
+Eu vou consultar uma nota pra mostrar pra vocês de entrada interestadual
+
+38
+00:02:26.350 --> 00:02:29.264
+e que eu sei que teve o diferencial de ali alíquotas.
+
+39
+00:02:29.274 --> 00:02:34.005
+Vou consultar uma nota aqui pra nossa simulação essa nota fiscal.
+
+40
+00:02:34.014 --> 00:02:37.524
+Como essa escrituração é de uma empresa de São Paulo
+
+41
+00:02:37.535 --> 00:02:40.404
+e São Paulo USA a tabela cinco ponto três.
+
+42
+00:02:40.414 --> 00:02:44.244
+Então significa que nessa nota fiscal de entrada,
+
+43
+00:02:44.255 --> 00:02:51.625
+ve vejam que é uma entrada interestadual, né, Ela é de fora É, inclusive, é uma uma!
+
+44
+00:02:51.634 --> 00:02:55.485
+Uma entrada de quem entrou no próprio mês, né? Olha, uma nota do próprio mês!
+
+45
+00:02:55.494 --> 00:02:57.065
+Tudo certinho,
+
+46
+00:02:57.880 --> 00:03:03.449
+é o que é um monitor, Então, realmente é um produto pra uso, consumo ou ativo né?
+
+47
+00:03:03.460 --> 00:03:07.050
+C f A p dois cinco cinco meia não deu crédito de
+
+48
+00:03:07.059 --> 00:03:12.490
+ICMS e mais aí eu tenho que pagar o DIFAL onde que
+
+49
+00:03:12.500 --> 00:03:16.250
+eu vou visualizar esse DIFAL Já que a empresa é de São
+
+50
+00:03:16.259 --> 00:03:19.710
+Paulo e a e São Paulo usa a tabela cinco ponto três
+
+51
+00:03:19.929 --> 00:03:23.839
+no C cento e noventa e cinco E quando eu cliquei no c,
+
+52
+00:03:23.850 --> 00:03:27.539
+cento e noventa e cinco ele já aparece como que tem que tá o lançamento,
+
+53
+00:03:27.550 --> 00:03:29.460
+veja só e quando eu clico,
+
+54
+00:03:29.470 --> 00:03:35.820
+ele abre o C cento e noventa e sete calculando de fal tá vendo oh outros débitos,
+
+55
+00:03:35.830 --> 00:03:41.759
+outros créditos no final das contas isso vai somar lá no meu,
+
+56
+00:03:41.770 --> 00:03:45.779
+na minha apuração a recolher aqui no bloco e quando eu puxar
+
+57
+00:03:45.789 --> 00:03:48.679
+aqui o quanto que eu tenho que pagar de SMS próprio,
+
+58
+00:03:49.100 --> 00:03:51.130
+veja que ele vai aparecer aqui oh,
+
+59
+00:03:51.139 --> 00:03:54.190
+vou entrar aqui ajustes a débito no documento
+
+60
+00:03:54.199 --> 00:03:57.710
+fiscal oh exatamente o valor exatamente a ajustes a
+
+61
+00:03:57.720 --> 00:04:00.750
+crédito exatamente o valor que estava na nossa
+
+62
+00:04:00.759 --> 00:04:04.809
+nota fiscal aqui consultada que foi a nota fiscal
+
+63
+00:04:05.889 --> 00:04:11.559
+que era de fora do estado de compra para uso, consumo ou ativo.
+
+64
+00:04:12.259 --> 00:04:13.369
+Olha ela aqui
+
+65
+00:04:14.449 --> 00:04:19.700
+entrei na nota c cento e noventa e cinco oh outros débitos quatro oito
+
+66
+00:04:19.709 --> 00:04:25.380
+dois nove sete Outros créditos três dois um nove oito Vou na apuração,
+
+67
+00:04:25.390 --> 00:04:28.130
+visualizo esses mesmos valores aqui oh,
+
+68
+00:04:28.140 --> 00:04:32.140
+é exatamente o valor que vai dar o diferencial de alíquotas das compras
+
+69
+00:04:32.149 --> 00:04:36.399
+e vai somar no valor a recolher no final aqui da minha guia.
+
+70
+00:04:37.130 --> 00:04:42.500
+Agora, imaginando que essa empresa não fosse de São Paulo,
+
+71
+00:04:42.510 --> 00:04:46.160
+fosse lá a empresa da Bahia, onde que estaria esse valor?
+
+72
+00:04:46.170 --> 00:04:50.880
+Ele não estaria lá na nota fiscal e estaria simplesmente aqui. Oh!
+
+73
+00:04:50.890 --> 00:04:56.059
+No e cento e dez iria sair desse campo aqui,
+
+74
+00:04:56.070 --> 00:05:01.000
+porque não é um ajuste vinculado a um documento fiscal, porque o Estado não usa
+
+75
+00:05:01.640 --> 00:05:06.970
+esse a tabela cinco ponto três e viria aqui oh, no ajuste geral.
+
+76
+00:05:06.980 --> 00:05:09.670
+E esse aqui é a mesma coisa, sairia daqui
+
+77
+00:05:10.309 --> 00:05:12.100
+e passaria pra linha de baixo.
+
+78
+00:05:12.679 --> 00:05:14.029
+Ajuste geral
+
+79
+00:05:15.459 --> 00:05:19.269
+era o que aconteceria e não vou salvar,
+
+80
+00:05:19.279 --> 00:05:25.369
+que é só pra simular o que que eu teria que fazer incluir esse ajuste aqui embaixo.
+
+81
+00:05:26.420 --> 00:05:33.609
+Vou incluir aqui fazer uma uma simulação só pra vocês terem.
+
+82
+00:05:35.350 --> 00:05:37.820
+Tá aí uma ideia aqui.
+
+83
+00:05:38.519 --> 00:05:43.570
+E quando eu preencho esse ajuste aqui ele abre mais um registro filho,
+
+84
+00:05:43.579 --> 00:05:48.250
+que é o e cento e treze que eu comentei com vocês e no e cento e treze aqui,
+
+85
+00:05:48.260 --> 00:05:51.290
+eu teria que referenciar os dados da nota fiscal.
+
+86
+00:05:51.299 --> 00:05:55.730
+Então vejam que o Estado que não tem a tabela cinco ponto três,
+
+87
+00:05:55.739 --> 00:05:58.825
+eu visualizo que ele é um pouco mais trabalhoso, né?
+
+88
+00:05:58.834 --> 00:06:05.785
+Tem que preencher o ajuste aqui em cima, no e cento e dez depois,
+
+89
+00:06:05.795 --> 00:06:08.575
+tem que preencher o ajuste aqui embaixo,
+
+90
+00:06:08.584 --> 00:06:12.785
+no e cento e onze e depois tem que preencher nota a
+
+91
+00:06:12.795 --> 00:06:15.765
+nota aqui no E cento e treze que teve o DIFAL,
+
+92
+00:06:16.380 --> 00:06:19.149
+quando a o Estado tem a tabela cinco ponto três.
+
+93
+00:06:19.160 --> 00:06:23.250
+Tudo fica muito mais fácil porque vai direto no documento fiscal
+
+94
+00:06:23.690 --> 00:06:27.299
+e agora vou mostrar uma estratégia pra vocês pra
+
+95
+00:06:27.309 --> 00:06:30.390
+validar quais foram as notas que tem o DIFAL.
+
+96
+00:06:30.399 --> 00:06:33.500
+Se for utilizada a tabela cinco ponto três,
+
+97
+00:06:33.510 --> 00:06:36.940
+olha só que legal clica aqui em relatórios,
+
+98
+00:06:36.950 --> 00:06:43.260
+Vai gerar aqui o relatório da operação própria do ICMS pra ver o final, né?
+
+99
+00:06:43.269 --> 00:06:48.519
+Da apuração do ICMS e clica nesse campo aqui oh exibir sub relatórios,
+
+100
+00:06:48.615 --> 00:06:54.566
+quando você clica nesse exibir sub relatórios olha, ele mostra qual é a nota fiscal,
+
+101
+00:06:54.575 --> 00:07:00.295
+Qual é a data da nota e o ajuste que teve que vai ser relacionado ao DIFAL?
+
+102
+00:07:00.305 --> 00:07:05.186
+Oh, Esse foi oh entrada de mercadoria oriunda de outro estado destinada ao uso,
+
+103
+00:07:05.196 --> 00:07:06.635
+consumo ou ativo.
+
+104
+00:07:06.645 --> 00:07:12.786
+Então veja que o próprio sistem sistema traz pra nós aqui o detalhamento Quando
+
+105
+00:07:12.795 --> 00:07:16.631
+é a tabela ponto três Quando não é a tabela cinco ponto três,
+
+106
+00:07:16.641 --> 00:07:19.791
+ele exi, Ele exibe esse resumo aqui exibe,
+
+107
+00:07:19.802 --> 00:07:22.832
+mas não traz esse detalhamento de nota fiscal.
+
+108
+00:07:22.842 --> 00:07:24.351
+Tudo aberto aqui,
+
+109
+00:07:24.361 --> 00:07:27.872
+bem detalhado pra nós do jeito que é quando
+
+110
+00:07:27.881 --> 00:07:31.111
+o Estado adere a tabela cinco ponto três maravilha.
+
+111
+00:07:31.122 --> 00:07:35.391
+Então fica mais esse ponto de cruzamento e confirmação e
+
+112
+00:07:35.402 --> 00:07:38.411
+é um ponto importante que eu preciso sinalizar pra vocês
+
+113
+00:07:39.000 --> 00:07:42.970
+o Estado, o que adere a tabela. Cinco ponto três.
+
+114
+00:07:42.980 --> 00:07:47.929
+Se caso você não estiver fazendo da forma correta, que é lá,
+
+115
+00:07:47.940 --> 00:07:50.230
+no detalhamento da nota fiscal,
+
+116
+00:07:50.519 --> 00:07:54.950
+o programa não vai apontar como erro,
+
+117
+00:07:54.959 --> 00:07:58.690
+que justamente pelo fato de que temos estados
+
+118
+00:07:58.700 --> 00:08:00.970
+que atuam com a tabela cinco ponto três.
+
+119
+00:08:00.980 --> 00:08:04.440
+E eu tenho que informar o DIFAL no detalhamento da nota.
+
+120
+00:08:04.450 --> 00:08:08.290
+Mas tem estados que não atuam com a tabela cinco ponto três,
+
+121
+00:08:08.299 --> 00:08:11.089
+e eu não tenho que informar isso no detalhamento da nota.
+
+122
+00:08:11.100 --> 00:08:12.350
+Logo
+
+123
+00:08:12.589 --> 00:08:17.239
+ele não vai fazer a validação, se é um estado ou outro,
+
+124
+00:08:17.250 --> 00:08:21.679
+Cabe a nós analisarmos se por acaso o Estado adere
+
+125
+00:08:21.690 --> 00:08:25.100
+a tabela cinco ponto três Se o Estado estiver aqui,
+
+126
+00:08:25.109 --> 00:08:25.239
+oh!
+
+127
+00:08:25.250 --> 00:08:28.100
+Que nem são Paulo, né? Com
+
+128
+00:08:29.119 --> 00:08:34.890
+a tabela cinco ponto três São Paulo com a tabela
+
+129
+00:08:34.900 --> 00:08:37.950
+cinco ponto três e você estiver fazendo na no,
+
+130
+00:08:37.960 --> 00:08:40.849
+no outro formato, sem colocar aqui,
+
+131
+00:08:40.859 --> 00:08:43.849
+Nesse detalhamento o programa não vai apontar como erro.
+
+132
+00:08:43.859 --> 00:08:47.140
+Então é um cruzamento que vocês precisam validar.
+
+133
+00:08:47.150 --> 00:08:50.450
+Se no cliente de vocês está acontecendo da forma correta,
+
+134
+00:08:50.460 --> 00:08:53.919
+porque o físico estadual paulista vou dar o exemplo,
+
+135
+00:08:53.929 --> 00:08:57.403
+continuando aqui com São Paulo tem notificado
+
+136
+00:08:57.413 --> 00:09:00.802
+os contribuintes pra se autorregularizar pelo fato
+
+137
+00:09:00.812 --> 00:09:04.482
+de estar informando de fauna no lugar errado na F d ICMS P i.
+
+138
+00:09:04.492 --> 00:09:08.182
+Então fica esse alerta porque o sistema não vai dar erro,
+
+139
+00:09:08.192 --> 00:09:11.403
+não vai dar arquivo com problema,
+
+140
+00:09:11.413 --> 00:09:14.723
+ele vai validar com sucesso e passar a bola pra
+
+141
+00:09:14.732 --> 00:09:17.283
+frente porque o sistema vai aceitar os dois jeitos.
+
+142
+00:09:17.293 --> 00:09:20.515
+Então cabe a nós que somos ali profissionais da área,
+
+143
+00:09:20.526 --> 00:09:23.755
+analisar se o estado coloca de um jeito ou de outro.
+
+144
+00:09:23.765 --> 00:09:27.325
+Se tiver a tabela cinco ponto três tem que pôr o detalhamento na nota.
+
+145
+00:09:27.335 --> 00:09:29.476
+Se não tiver a tabela cinco ponto três,
+
+146
+00:09:29.486 --> 00:09:33.036
+tem que colocar aqui embaixo no registro e cento e
+
+147
+00:09:33.046 --> 00:09:36.556
+onze e no E cento e treze o detalhamento da
+
+148
+00:09:36.565 --> 00:09:41.156
+nota fiscal combinado Vamos então para o nosso próximo e
+
+149
+00:09:41.166 --> 00:09:45.335
+último tópico de cruzamento da F D SMS P I

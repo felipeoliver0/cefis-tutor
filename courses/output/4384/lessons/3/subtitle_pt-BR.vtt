@@ -1,0 +1,545 @@
+WEBVTT
+
+2
+00:00:00.270 --> 00:00:04.269
+A reforma tributária mudou o jogo da classificação tributária.
+
+3
+00:00:04.269 --> 00:00:06.269
+E por que ela mudou o jogo, pessoal?
+
+4
+00:00:06.269 --> 00:00:08.269
+Porque pensa assim comigo.
+
+5
+00:00:08.269 --> 00:00:13.269
+A estrutura do XML, ela já está em nossas vidas desde 2007.
+
+6
+00:00:13.269 --> 00:00:17.269
+Foi o decreto que instituiu o SPED fiscal e o XML.
+
+7
+00:00:17.269 --> 00:00:26.269
+Pessoal, esse ano completa 19 anos que nós estamos trabalhando o SPED fiscal e o XML dos nossos clientes.
+
+8
+00:00:26.269 --> 00:00:33.270
+Claro que o decreto veio em 2007 e depois até 2009, 2010 foi feito por faseamento, né?
+
+9
+00:00:33.270 --> 00:00:36.270
+A obrigatoriedade do SPED fiscal e do XML.
+
+10
+00:00:36.270 --> 00:00:46.270
+Mas ele veio em 2007, ou seja, a estrutura, as notas técnicas que vem sendo trabalhada desde 2007.
+
+11
+00:00:46.270 --> 00:00:52.270
+E existem tags que talvez você nunca tenha percebido a inconsistência até o momento.
+
+12
+00:00:52.270 --> 00:00:56.270
+E isso muda o jogo de como nós olhamos o XML.
+
+13
+00:00:56.270 --> 00:01:03.270
+Existem tags específicas para dentro do documento fiscal eletrônico que você precisa se atentar
+
+14
+00:01:03.270 --> 00:01:06.269
+e que precisa trazer rastabilidade de informação.
+
+15
+00:01:06.269 --> 00:01:17.269
+Uma das tags, uma das informações que tem dentro desse XML é um campo que talvez você nunca tenha percebido.
+
+16
+00:01:17.269 --> 00:01:20.269
+Ou tenha pensado o seguinte.
+
+17
+00:01:20.269 --> 00:01:23.269
+Ah, mas só é um dado adicional.
+
+18
+00:01:23.269 --> 00:01:25.269
+O que vale é a CST.
+
+19
+00:01:25.269 --> 00:01:26.269
+Dados adicionais.
+
+20
+00:01:26.269 --> 00:01:29.269
+Dados adicionais do documento fiscal eletrônico.
+
+21
+00:01:29.269 --> 00:01:31.269
+Informações complementares.
+
+22
+00:01:31.269 --> 00:01:33.269
+Quem nunca, né?
+
+23
+00:01:33.269 --> 00:01:35.269
+Quem nunca deixou de informar?
+
+24
+00:01:35.269 --> 00:01:41.269
+Ou quem nunca verificou de fato porque que estava tendo uma redução de alíquota?
+
+25
+00:01:41.269 --> 00:01:45.269
+Quais são as fundamentações legais desses dados adicionais?
+
+26
+00:01:45.269 --> 00:01:52.269
+Os dados adicionais, as informações complementares do XML, vem para então trazer a fundamentação legal.
+
+27
+00:01:52.269 --> 00:01:55.269
+A base para o fisco e para todos que estão envolvidos na operação.
+
+28
+00:01:55.269 --> 00:01:59.269
+O porquê que existe uma substituição tributária.
+
+29
+00:01:59.269 --> 00:02:02.269
+O porquê que foi reduzido uma base de cálculo.
+
+30
+00:02:02.269 --> 00:02:07.269
+É ali onde a gente coloca as fundamentações legais.
+
+31
+00:02:07.269 --> 00:02:12.270
+Para o fisco, para ele trazer uma rastabilidade de informação e cruzar as informações,
+
+32
+00:02:12.270 --> 00:02:15.270
+é muito mais fácil ele criar códigos.
+
+33
+00:02:15.270 --> 00:02:23.270
+Por isso que nós temos a CST, Ciclastrib, NCM, NBS, código de serviço, natureza de rendimento.
+
+34
+00:02:23.270 --> 00:02:24.270
+Porque fica mais fácil.
+
+35
+00:02:24.270 --> 00:02:26.270
+Porque fica mais fácil de cruzar.
+
+36
+00:02:26.270 --> 00:02:30.270
+É como se a gente estivesse utilizando um PROC V no Excel.
+
+37
+00:02:30.270 --> 00:02:34.270
+É que hoje nós temos inteligência artificial e que isso nos ajuda muito mais, né?
+
+38
+00:02:34.270 --> 00:02:40.270
+Mas é importante vocês pensarem dessa forma porque quando o fisco cria um Ciclastrib,
+
+39
+00:02:40.270 --> 00:02:44.270
+que é o código que vai demonstrar a classificação tributária,
+
+40
+00:02:44.270 --> 00:02:48.270
+a informação particular da lei complementar,
+
+41
+00:02:48.270 --> 00:02:51.270
+de fato a fundamentação legal daquela operação,
+
+42
+00:02:51.270 --> 00:02:54.270
+ele trouxe por meio de um código.
+
+43
+00:02:54.270 --> 00:02:55.270
+Por quê?
+
+44
+00:02:55.270 --> 00:02:58.270
+Porque fica mais fácil dele cruzar a informação.
+
+45
+00:02:58.270 --> 00:03:06.270
+Seria também importante para eles criarem uma CST e do lado a fundamentação legal?
+
+46
+00:03:06.270 --> 00:03:07.270
+Poderia.
+
+47
+00:03:07.270 --> 00:03:12.270
+Só que é muito mais fácil de cruzar quando a gente fala de código para código.
+
+48
+00:03:12.270 --> 00:03:15.270
+Então aqui eu já deixo para vocês um spoiler.
+
+49
+00:03:15.270 --> 00:03:18.270
+Porque para cada CST existe uma Ciclastrib.
+
+50
+00:03:18.270 --> 00:03:23.270
+E vocês vão perceber ao longo do caminho dessa aula que na verdade nós temos uma CST,
+
+51
+00:03:23.270 --> 00:03:28.270
+e diversas Ciclastrib para classificar.
+
+52
+00:03:28.270 --> 00:03:36.270
+Isso quer dizer que existem então particularidades para cada incidência dentro da LC 214 de 2025.
+
+53
+00:03:36.270 --> 00:03:40.270
+Da mesma forma, pensando no que vocês vivem hoje,
+
+54
+00:03:40.270 --> 00:03:45.270
+é a natureza de rendimento dentro do FD Reinfe.
+
+55
+00:03:45.270 --> 00:03:48.270
+Dentro do FD Reinfe, o que acontece?
+
+56
+00:03:48.270 --> 00:03:52.270
+Nós temos a lei complementar 116 com o código de serviço.
+
+57
+00:03:52.270 --> 00:03:56.270
+Quando o FD Reinfe veio e criou então a família R4000,
+
+58
+00:03:56.270 --> 00:04:02.270
+o Fisco criou um novo código chamado natureza de rendimento.
+
+59
+00:04:02.270 --> 00:04:07.270
+O Fisco só criou esse código porque na verdade a gente não tem um documento comprobatório padrão,
+
+60
+00:04:07.270 --> 00:04:08.270
+à época.
+
+61
+00:04:08.270 --> 00:04:12.270
+E nós temos dentro da nota dos códigos de serviço,
+
+62
+00:04:12.270 --> 00:04:16.269
+tributos que são administrados pela União.
+
+63
+00:04:16.269 --> 00:04:18.269
+Não só o município que é o ISS.
+
+64
+00:04:18.269 --> 00:04:21.269
+INSS, IR, CSRF.
+
+65
+00:04:21.269 --> 00:04:23.269
+Então o que o Fisco fez?
+
+66
+00:04:23.269 --> 00:04:28.269
+Ele criou códigos em que nós contadores e tributaristas,
+
+67
+00:04:28.269 --> 00:04:34.269
+ou o nosso contribuinte cliente, informe para ele o que aconteceu naquela operação.
+
+68
+00:04:34.269 --> 00:04:38.269
+Então ao invés de colocar uma descrição, foi um conserto.
+
+69
+00:04:38.269 --> 00:04:42.269
+Ele criou então uma natureza de rendimento em código.
+
+70
+00:04:42.269 --> 00:04:50.269
+E nós passamos a ter a responsabilidade então de trazer isso para dentro dos parâmetros.
+
+71
+00:04:50.269 --> 00:04:53.269
+Para cada código da Lei Complementar 116,
+
+72
+00:04:53.269 --> 00:04:56.269
+nós temos uma natureza de rendimento.
+
+73
+00:04:56.269 --> 00:04:58.269
+E não só uma natureza de rendimento.
+
+74
+00:04:58.269 --> 00:05:00.269
+Nós temos várias.
+
+75
+00:05:00.269 --> 00:05:03.269
+Porque pode ser que você esteja dentro de um código de serviço,
+
+76
+00:05:03.269 --> 00:05:06.269
+porém uma natureza de rendimento distinta.
+
+77
+00:05:06.269 --> 00:05:09.269
+Voltando para a nova era tributária,
+
+78
+00:05:09.269 --> 00:05:12.269
+é a mesma sistemática.
+
+79
+00:05:12.269 --> 00:05:16.269
+Para uma CST existe algumas C Class Trails.
+
+80
+00:05:16.269 --> 00:05:19.269
+Pode ser que tenha uma CST que representa
+
+81
+00:05:19.269 --> 00:05:21.269
+apenas uma C Class Trib.
+
+82
+00:05:21.269 --> 00:05:24.269
+Porque não existe particularidade.
+
+83
+00:05:24.269 --> 00:05:29.269
+O Fisco não precisa saber da particularidade dentro da operação.
+
+84
+00:05:29.269 --> 00:05:31.269
+Mas vocês precisam saber da dinâmica.
+
+85
+00:05:31.269 --> 00:05:36.269
+E isso muda a forma como nós classificamos as operações.
+
+86
+00:05:36.269 --> 00:05:41.269
+E como nós enxergamos de fato o que está acontecendo ali.
+
+87
+00:05:41.269 --> 00:05:47.269
+E começamos a pensar até mesmo no objetivo que a CPAP vai ter na nova era tributária.
+
+88
+00:05:47.269 --> 00:05:49.269
+Já parou para pensar comigo?
+
+89
+00:05:49.269 --> 00:05:52.269
+A CPAP então, ela tem como principal objetivo
+
+90
+00:05:52.269 --> 00:05:55.269
+trazer o que é uma operação.
+
+91
+00:05:55.269 --> 00:05:58.269
+Se hoje nós temos uma C Class Trib,
+
+92
+00:05:58.269 --> 00:06:02.269
+que então além de mostrar o que está acontecendo,
+
+93
+00:06:02.269 --> 00:06:05.269
+ela também dá a base fundamentada,
+
+94
+00:06:05.269 --> 00:06:08.269
+a CPAP pode cair em desuso.
+
+95
+00:06:08.269 --> 00:06:11.269
+Então são coisas que a gente começa a refletir
+
+96
+00:06:11.269 --> 00:06:14.269
+e entender que a nova era tributária vai mudar
+
+97
+00:06:14.269 --> 00:06:18.269
+a forma como nós escrituramos os documentos fiscais eletrônicos.
+
+98
+00:06:19.269 --> 00:06:22.269
+Pessoal, sempre.
+
+99
+00:06:22.269 --> 00:06:24.269
+Sou professora há mais de 6 anos.
+
+100
+00:06:24.269 --> 00:06:28.269
+E sempre eu falei para vocês e eu volto a falar.
+
+101
+00:06:28.269 --> 00:06:32.269
+Dentro dos pilares do departamento fiscal, departamento contábil,
+
+102
+00:06:32.269 --> 00:06:36.269
+a principal operação é a escrituração fiscal.
+
+103
+00:06:36.269 --> 00:06:39.269
+E quando a gente passa pela escrituração fiscal,
+
+104
+00:06:39.269 --> 00:06:41.269
+talvez você tenha sido um auxiliar.
+
+105
+00:06:41.269 --> 00:06:46.269
+E aí você foi um assistente e aí você se transformou em um analista fiscal.
+
+106
+00:06:46.269 --> 00:06:48.269
+Quando a gente passa para o analista fiscal,
+
+107
+00:06:48.269 --> 00:06:51.269
+a gente não pode perder o viés da operação.
+
+108
+00:06:51.269 --> 00:06:54.269
+Porque é ali que está o erro.
+
+109
+00:06:54.269 --> 00:06:58.269
+E talvez quando você passe por essa demanda de auxiliar,
+
+110
+00:06:58.269 --> 00:07:00.269
+de assistente para analista,
+
+111
+00:07:00.269 --> 00:07:03.269
+se você perder essa consciência da escrituração fiscal,
+
+112
+00:07:03.269 --> 00:07:05.269
+você pode estar assinando erros.
+
+113
+00:07:05.269 --> 00:07:08.269
+Porque você está responsável por analisar.
+
+114
+00:07:08.269 --> 00:07:11.269
+Inspete fiscal, FD Contribuições, ICF e ECD.
+
+115
+00:07:11.269 --> 00:07:13.269
+Eu estou dando um exemplo do fiscal,
+
+116
+00:07:13.269 --> 00:07:16.269
+mas isso pode acontecer na área contábil também.
+
+117
+00:07:16.269 --> 00:07:17.269
+Então atenção.
+
+118
+00:07:17.269 --> 00:07:19.269
+A gente quer muito, principalmente agora,
+
+119
+00:07:19.269 --> 00:07:21.269
+a gente quer muito sair da operação.
+
+120
+00:07:21.269 --> 00:07:24.269
+Na verdade, a gente nunca pode sair da operação.
+
+121
+00:07:24.269 --> 00:07:26.269
+Porque é na operação que existe o erro,
+
+122
+00:07:26.269 --> 00:07:29.269
+que existe então para você mitigar o risco e crescer.
+
+123
+00:07:29.269 --> 00:07:33.269
+Você pode obviamente delegar se existe uma quantidade grande,
+
+124
+00:07:33.269 --> 00:07:35.269
+mas você nunca pode sair.
+
+125
+00:07:35.269 --> 00:07:39.269
+Porque a escrituração fiscal é quem manda em toda a apuração.
+
+126
+00:07:39.269 --> 00:07:44.269
+Que manda se de fato o seu contribuinte está arrecadando de forma devida.
+
+127
+00:07:44.269 --> 00:07:45.269
+Então na nova era tributária,
+
+128
+00:07:45.269 --> 00:07:48.269
+isso faz sentido e se mantém.
+
+129
+00:07:48.269 --> 00:07:53.269
+A classificação tributária determina a base do cálculo, a incidência.
+
+130
+00:07:53.269 --> 00:07:59.269
+O como o contribuinte vai trazer essa não-cumulatividade que nós estamos tratando.
+
+131
+00:07:59.269 --> 00:08:01.269
+Quais são as particularidades?
+
+132
+00:08:01.269 --> 00:08:03.269
+As reduções.
+
+133
+00:08:03.269 --> 00:08:08.269
+Até pouco tempo, errar a CST era visto como um erro operacional, simplesmente.
+
+134
+00:08:08.269 --> 00:08:12.269
+Porém, com a reforma tributária mostra a classificação tributária
+
+135
+00:08:12.269 --> 00:08:15.269
+de uma forma estrutural totalmente distinta.
+
+136
+00:08:15.269 --> 00:08:19.269
+Porque ela trata a base de cálculo, incidência,
+
+137
+00:08:19.269 --> 00:08:23.269
+mostra para o Fisco o que está acontecendo naquela operação e não só a CFOP.

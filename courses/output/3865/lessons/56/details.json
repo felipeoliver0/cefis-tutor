@@ -1,0 +1,33 @@
+{
+  "id": 478908,
+  "title": "Reconhecimento das receitas e despesas",
+  "position": 57,
+  "duration": 35,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/eae524f0-827c-4301-95ab-ba8a28a5d979/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eae524f0-827c-4301-95ab-ba8a28a5d979/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eae524f0-827c-4301-95ab-ba8a28a5d979/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eae524f0-827c-4301-95ab-ba8a28a5d979/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eae524f0-827c-4301-95ab-ba8a28a5d979/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

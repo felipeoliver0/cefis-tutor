@@ -1,0 +1,33 @@
+{
+  "id": 480838,
+  "title": "Escuta Ativa",
+  "position": 8,
+  "duration": 661,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8b10d684-d289-4be4-bb29-6f4bad428ad5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8b10d684-d289-4be4-bb29-6f4bad428ad5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8b10d684-d289-4be4-bb29-6f4bad428ad5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8b10d684-d289-4be4-bb29-6f4bad428ad5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8b10d684-d289-4be4-bb29-6f4bad428ad5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

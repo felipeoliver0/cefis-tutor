@@ -1,0 +1,112 @@
+WEBVTT
+
+00:00:00.482 --> 00:00:07.563
+- Qual é a diferença entre a DCTF convencional e a DCTF web? Quais são as principais diferenças? A
+
+00:00:07.563 --> 00:00:14.714
+- origem dos dados, quando a gente pensava na DCTF tradicional, a gente pensava no cálculo automático
+
+00:00:14.714 --> 00:00:19.902
+- e manual. Existem alguns sistemas que até traziam isso dentro dos fluxos
+
+00:00:20.162 --> 00:00:27.104
+- de parâmetros financeiros, então seguia um layout para validar a DCTF convencional, mas em regra fazia
+
+00:00:27.104 --> 00:00:33.781
+- tudo manualmente, não tinha uma integração com outra obrigação acessória. Já a DCTF Web é de
+
+00:00:33.781 --> 00:00:40.458
+- forma automática, tudo aquilo que está na DCTF Web veio do FD Reinfe ou veio do Eixo Social ou foi
+
+00:00:40.458 --> 00:00:47.135
+- lançado no MIT. Tributos declarados. Quando a gente pensava na DCTF convencional, todos os tributos
+
+00:00:47.135 --> 00:00:50.110
+- que não estavam relacionados ao Eixo Social
+
+00:00:50.242 --> 00:00:57.671
+- E na DCTF Web agora a integração de todos os tribus que tem a administração da Receita Federal e
+
+00:00:57.671 --> 00:01:05.395
+- da União. Periodicidade, ambos eram mensais. O prazo de entrega a gente teve uma particularidade porque
+
+00:01:05.395 --> 00:01:13.339
+- a DCTF convencional a gente só entregava no segundo mês subsequente e a DCTF Web a gente passa a calcular
+
+00:01:13.339 --> 00:01:14.590
+- também de forma
+
+00:01:14.754 --> 00:01:21.367
+- mensal. Então, o último dia do mês subsequente. Então, de forma mensal, nós tivemos um problema
+
+00:01:21.367 --> 00:01:28.306
+- aqui operacional também, porque a gente pensava na DCTF convencional apenas no segundo mês subsequente.
+
+00:01:28.306 --> 00:01:34.984
+- E a DCTF Web, ela sempre foi mensal, porque ela precisa ser calculada, né? Então, a gente entregava
+
+00:01:34.984 --> 00:01:40.222
+- o FDRI em free social e precisava da DCTF Web para emitir os DARFs. O ambiente.
+
+00:01:40.386 --> 00:01:49.418
+- era um programa offline e agora passa a ser um programa online via ECAC. Compensações e suspensões
+
+00:01:49.418 --> 00:01:59.070
+- a declarações era na própria DCTF, já na DCTF Web as suspensões são no MIT e as compensações são na
+
+00:01:59.170 --> 00:02:05.505
+- Então, a ideia do MIT não é trazer as compensações, até porque a gente tem a PerdiCompWeb. Então,
+
+00:02:05.505 --> 00:02:11.719
+- a PerdiCompWeb, ela já lida com as compensações. Então, o físico não trouxe essas compensações
+
+00:02:11.719 --> 00:02:12.926
+- para dentro do MIT.
+
+00:02:13.506 --> 00:02:22.103
+- No MIT, a gente fala apenas sobre suspensões e não compensações. Em resumo, a integração da DCTF
+
+00:02:22.103 --> 00:02:30.450
+- Web é exatamente isso daqui. Uma escrituração acontecendo, a DCTF Web sendo validada e integrada
+
+00:02:30.450 --> 00:02:39.966
+- com as informações. Nós escolhemos aí se essas informações estão corretas e coerentes para enviar ou não.
+
+00:02:40.066 --> 00:02:47.220
+- Ok? Então, a DCTF Web não é um validador se está correto ou não. Na verdade, ela é uma fonte que
+
+00:02:47.220 --> 00:02:54.582
+- é enriquecida com outras obrigações acessórias. Então, atenção! Tudo que está na DCTF Web precisa
+
+00:02:54.582 --> 00:03:02.014
+- ser validado. A forma de lançamento, se os ajustes foram lançados, se os ajustes vieram na integração,
+
+00:03:02.146 --> 00:03:09.502
+- Então, a DCTF-WEB, ela precisa, sim, ser identificada antes do envio uma inconsistência. Se existe
+
+00:03:09.502 --> 00:03:16.931
+- uma inconsistência, faz edição e aí sim envia. Pode ser que seja um erro de integração conforme
+
+00:03:16.931 --> 00:03:24.579
+- os ajustes lançados no fdre-inf ou no e-social, ou até mesmo no MIT, mas pode ser que haja um problema
+
+00:03:24.579 --> 00:03:29.022
+- de lançamento lá no e-social e lá no fdre-inf que precisa
+
+00:03:29.154 --> 00:03:36.430
+- a alterar a escrituração digital. Então, percebam que a gente precisa ter clareza do que é a DCTF
+
+00:03:36.430 --> 00:03:43.706
+- Web para que a gente consiga defender e entender o MIT. A DCTF Web, ela vai trazer a integração das
+
+00:03:43.706 --> 00:03:51.481
+- informações e nós precisamos validar se de fato essa integração foi feita correta. Se a inconsistência
+
+00:03:51.481 --> 00:03:58.686
+- é apresentada, a gente precisa voltar na Mãe Social, na FDRI e no MIT para validar a informação.
+
+00:03:58.850 --> 00:04:05.880
+- Ou pode ser mesmo um erro de integração e a gente tem que fazer uma edição na DCTF Web para fazer
+
+00:04:05.880 --> 00:04:07.500
+- os ajustes devidos, ok?

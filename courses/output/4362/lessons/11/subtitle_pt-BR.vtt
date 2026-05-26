@@ -1,0 +1,425 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.960
+Tanto é que agora, em janeiro, no início do ano,
+
+3
+00:00:03.960 --> 00:00:08.839
+alguns municípios e algumas empresas tiveram até mesmo dificuldades
+
+4
+00:00:08.839 --> 00:00:12.640
+de emitir as notas fiscais de serviço que sempre vinham emitindo
+
+5
+00:00:12.640 --> 00:00:16.760
+porque as prefeituras estavam adaptando e adequando o sistema.
+
+6
+00:00:16.760 --> 00:00:23.839
+O fato é que existe um modelo nacional de nota fiscal de serviço eletrônico
+
+7
+00:00:23.839 --> 00:00:31.179
+e ocorreu para que todos esses municípios aderissem a esse modelo de nota fiscal
+
+8
+00:00:31.179 --> 00:00:32.679
+de serviço nacional.
+
+9
+00:00:32.679 --> 00:00:36.280
+Ao final da aula de hoje, tem uma planilha,
+
+10
+00:00:36.280 --> 00:00:40.539
+que ela está sendo atualizada periodicamente pelo próprio governo,
+
+11
+00:00:40.539 --> 00:00:48.200
+onde consta o nome de todos os municípios que já fizeram adesão
+
+12
+00:00:48.200 --> 00:00:51.140
+ao modelo nacional de nota fiscal de serviço eletrônico
+
+13
+00:00:51.140 --> 00:00:52.740
+e nós vamos mostrar,
+
+14
+00:00:52.740 --> 00:00:53.840
+e essa planilha vai ficar aqui,
+
+15
+00:00:53.840 --> 00:00:56.780
+vai ficar com todos vocês juntamente com os slides,
+
+16
+00:00:56.780 --> 00:00:59.179
+porque isso é compliance.
+
+17
+00:00:59.179 --> 00:01:03.179
+Uma das grandes dificuldades das empresas nos últimos anos
+
+18
+00:01:03.179 --> 00:01:06.180
+era justamente capturar,
+
+19
+00:01:06.180 --> 00:01:09.939
+porque em relação à NFE,
+
+20
+00:01:09.939 --> 00:01:14.239
+que é um padrão nacional já há muitos anos no Brasil todo,
+
+21
+00:01:14.239 --> 00:01:18.980
+foram desenvolvidos robôs de captura de automação,
+
+22
+00:01:18.980 --> 00:01:23.099
+vamos chamar de robozinhos, mas automações,
+
+23
+00:01:23.099 --> 00:01:23.799
+onde
+
+24
+00:01:23.840 --> 00:01:30.099
+essas automações já buscam na base da Secretaria de Fazenda
+
+25
+00:01:30.099 --> 00:01:34.000
+todas as NFEs de produtos e mercadorias
+
+26
+00:01:34.000 --> 00:01:38.980
+que foram emitidas pelos fornecedores para aquele CNPJ.
+
+27
+00:01:38.980 --> 00:01:41.840
+Então o próprio sistema
+
+28
+00:01:41.840 --> 00:01:46.640
+busca o XML dessas NFEs
+
+29
+00:01:46.640 --> 00:01:52.340
+e já traz para a empresa saber que tudo o que foi emitido contra ela,
+
+30
+00:01:52.340 --> 00:01:53.799
+para fazer a sua operação,
+
+31
+00:01:53.799 --> 00:01:56.140
+contabilização e por aí vai.
+
+32
+00:01:56.140 --> 00:01:59.060
+A grande dificuldade em relação a notas de serviços
+
+33
+00:01:59.060 --> 00:02:02.659
+é que cada prefeitura tinha o seu próprio modelo,
+
+34
+00:02:02.659 --> 00:02:07.439
+não se tinha um único modelo de nota fiscal de serviço.
+
+35
+00:02:07.439 --> 00:02:12.639
+Então sempre foi difícil do ponto de vista de compliance
+
+36
+00:02:12.639 --> 00:02:17.099
+de colocar dentro das empresas um mesmo robô de captura
+
+37
+00:02:17.099 --> 00:02:19.460
+para trazer as notas de serviço.
+
+38
+00:02:19.460 --> 00:02:21.099
+Ao longo dos anos,
+
+39
+00:02:21.099 --> 00:02:23.300
+muitos sistemas foram se adequando,
+
+40
+00:02:23.300 --> 00:02:24.400
+adaptando,
+
+41
+00:02:24.400 --> 00:02:28.539
+e pelo menos em relação às principais prefeituras,
+
+42
+00:02:28.539 --> 00:02:33.900
+estavam tendo ali robôs de captura de prefeituras.
+
+43
+00:02:33.900 --> 00:02:36.439
+Mas agora, com esse modelo nacional,
+
+44
+00:02:36.439 --> 00:02:38.599
+se tornaria mais fácil.
+
+45
+00:02:38.599 --> 00:02:40.960
+Só que por mais que muitas prefeituras
+
+46
+00:02:40.960 --> 00:02:45.759
+aderiram ao modelo de nota fiscal eletrônico nacional,
+
+47
+00:02:45.759 --> 00:02:50.139
+elas continuam usando o seu próprio emissor da prefeitura
+
+48
+00:02:50.139 --> 00:02:51.759
+para emitir a nota.
+
+49
+00:02:51.759 --> 00:02:53.300
+E aí eles estão querendo fazer
+
+50
+00:02:53.300 --> 00:02:54.900
+um API,
+
+51
+00:02:54.900 --> 00:03:02.099
+apenas uma adequação e adaptação do XML do seu próprio emissor
+
+52
+00:03:02.099 --> 00:03:05.939
+para o XML do emissor nacional.
+
+53
+00:03:05.939 --> 00:03:08.259
+Então isso é importante a gente saber
+
+54
+00:03:08.259 --> 00:03:10.659
+do ponto de vista de compliance
+
+55
+00:03:10.659 --> 00:03:13.599
+e acompanhar em cada empresa,
+
+56
+00:03:13.599 --> 00:03:15.500
+em cada município,
+
+57
+00:03:15.500 --> 00:03:19.240
+como é que está essa questão de adequação e adaptação.
+
+58
+00:03:19.240 --> 00:03:20.939
+De toda forma,
+
+59
+00:03:20.939 --> 00:03:22.400
+ainda tem após...
+
+60
+00:03:22.400 --> 00:03:26.300
+a publicação dos regulamentos para as prefeituras
+
+61
+00:03:26.300 --> 00:03:29.060
+que ainda estão atrasadas,
+
+62
+00:03:29.060 --> 00:03:31.699
+mas essa sobrevida,
+
+63
+00:03:31.699 --> 00:03:33.599
+mas esse período aí
+
+64
+00:03:33.599 --> 00:03:35.860
+que vai ser quatro meses
+
+65
+00:03:35.860 --> 00:03:38.159
+de adaptação e adequação também
+
+66
+00:03:38.159 --> 00:03:41.800
+para ter o layout uma vez definido
+
+67
+00:03:41.800 --> 00:03:44.000
+e a nota fiscal emitida corretamente,
+
+68
+00:03:44.000 --> 00:03:46.460
+todas de serviços e por aí vai.
+
+69
+00:03:46.460 --> 00:03:48.860
+Então, isto é compliance.
+
+70
+00:03:48.860 --> 00:03:51.300
+E é o que já está acontecendo
+
+71
+00:03:51.300 --> 00:03:52.000
+nesse período de transição,
+
+72
+00:03:52.000 --> 00:03:56.300
+que já começou nesse primeiro ano de testes,
+
+73
+00:03:56.300 --> 00:03:58.539
+no ano de 2026.
+
+74
+00:03:58.539 --> 00:04:00.659
+Então, assim que for publicado os regulamentos,
+
+75
+00:04:00.659 --> 00:04:03.099
+as empresas do lucro presumido em real,
+
+76
+00:04:03.099 --> 00:04:05.000
+todas, todas,
+
+77
+00:04:05.000 --> 00:04:11.199
+têm que destacar na nota 0,9 de CBS e 0,1 de IBS.
+
+78
+00:04:11.199 --> 00:04:13.159
+Esse valor de destaque na nota
+
+79
+00:04:13.159 --> 00:04:15.240
+não vai no total da nota fiscal,
+
+80
+00:04:15.240 --> 00:04:17.300
+é só para estar destacado
+
+81
+00:04:17.300 --> 00:04:19.699
+e não vai ser recolhido também.
+
+82
+00:04:19.699 --> 00:04:21.800
+O governo quer apenas testar,
+
+83
+00:04:22.000 --> 00:04:28.000
+e verificar no XML dos documentos eletrônicos emitidos,
+
+84
+00:04:28.000 --> 00:04:30.600
+o destaque de IBS e CBS,
+
+85
+00:04:30.600 --> 00:04:33.199
+testar ao longo de 2026.
+
+86
+00:04:33.199 --> 00:04:37.300
+Então, destaque em nota fiscal obrigatório,
+
+87
+00:04:37.300 --> 00:04:41.500
+informativo de IBS e CBS,
+
+88
+00:04:41.500 --> 00:04:43.500
+mesmo sem o recolhimento,
+
+89
+00:04:43.500 --> 00:04:44.800
+mas obrigatório,
+
+90
+00:04:44.800 --> 00:04:47.800
+com essa questão de que eu já falei para vocês,
+
+91
+00:04:47.800 --> 00:04:50.600
+que é um ano de teste em 2026.
+
+92
+00:04:50.600 --> 00:04:51.100
+2027 já é um ano de teste em 2026.
+
+93
+00:04:51.100 --> 00:04:51.699
+2027 já é um ano de teste em 2026.
+
+94
+00:04:51.699 --> 00:04:51.899
+2027 já é um ano de teste em 2026.
+
+95
+00:04:52.000 --> 00:04:52.500
+2027 já é um ano de teste em 2026.
+
+96
+00:04:52.500 --> 00:04:53.000
+2027 já é um ano de teste em 2026.
+
+97
+00:04:53.000 --> 00:04:53.500
+2027 já é um ano de teste em 2026.
+
+98
+00:04:53.500 --> 00:04:55.699
+2027 já vai estar em vigor.
+
+99
+00:04:55.699 --> 00:04:58.699
+E tivemos a dispensa de penalidades,
+
+100
+00:04:58.699 --> 00:05:00.699
+como é um ano de transição,
+
+101
+00:05:00.699 --> 00:05:04.399
+mas com essa questão aí de 4 meses
+
+102
+00:05:04.399 --> 00:05:10.000
+após a emissão dos regulamentos de IBS e CBS.
+
+103
+00:05:10.000 --> 00:05:13.000
+Então, é bom saber que o compliance
+
+104
+00:05:13.000 --> 00:05:15.000
+precisa saber dessas coisas,
+
+105
+00:05:15.000 --> 00:05:18.600
+mas que a empresa precisa se adaptar,
+
+106
+00:05:18.600 --> 00:05:21.699
+se adequar e ajustar os seus sistemas,
+
+107
+00:05:21.699 --> 00:05:28.160
+para justamente, estando em compliance, conseguir cumprir as normas e os procedimentos.

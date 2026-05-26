@@ -1,0 +1,545 @@
+WEBVTT
+
+1
+00:00:00.319 --> 00:00:02.250
+então legal introdução é uma virtualização.
+
+2
+00:00:02.259 --> 00:00:05.210
+Vamos entender o que que é esse negócio, né? O que que é a virtualização?
+
+3
+00:00:05.219 --> 00:00:12.970
+Alguém tem uma ideia boa, legal, legal.
+
+4
+00:00:12.979 --> 00:00:17.250
+Alguém mais tem alguma não tranquilo isso aí, Então? Beleza? Então vamos lá.
+
+5
+00:00:17.260 --> 00:00:18.989
+O que que é uma? O que que é a virtualização?
+
+6
+00:00:19.700 --> 00:00:22.549
+Tecnologia que permite a criação e execução
+
+7
+00:00:22.559 --> 00:00:25.190
+de ambientes virtuais em ambientes físicos?
+
+8
+00:00:25.200 --> 00:00:28.219
+Exatamente, o Renato falou ou outros ambientes virtuais.
+
+9
+00:00:28.229 --> 00:00:31.250
+Você pode ter virtualização dentro da virtualização.
+
+10
+00:00:31.959 --> 00:00:35.569
+É perfeitamente possível, mas é exatamente isso que o Renato falou.
+
+11
+00:00:35.580 --> 00:00:38.509
+Eu quero ter um ambiente virtual dentro de um ambiente físico.
+
+12
+00:00:38.520 --> 00:00:41.250
+Eu sempre vou ter um ambiente físico no final, com certeza,
+
+13
+00:00:41.259 --> 00:00:42.849
+mas não tem como rodar em nada.
+
+14
+00:00:42.860 --> 00:00:46.310
+Mas o meu objetivo aqui é ter um ambiente virtual
+
+15
+00:00:47.060 --> 00:00:52.290
+no dia a dia.
+
+16
+00:00:52.299 --> 00:00:54.990
+É virtualização exatamente,
+
+17
+00:00:55.000 --> 00:00:58.669
+a gente vai falar sobre os tipos de virtualização também que existem,
+
+18
+00:00:58.680 --> 00:01:00.909
+eh e os tipos de virtualizado.
+
+19
+00:01:00.919 --> 00:01:05.489
+E aí a gente vai ver uma diferençazinha entre o que você usa e o que um data center usa.
+
+20
+00:01:06.519 --> 00:01:08.970
+Mas aqui falando sobre os tipos de virtualização,
+
+21
+00:01:08.980 --> 00:01:13.129
+o tipo de virtualização que a gente pensa de cara é uma virtualização de servidor.
+
+22
+00:01:13.139 --> 00:01:17.370
+Ou seja, de recurso computacional que seria isso aí que o Renato falou.
+
+23
+00:01:17.379 --> 00:01:22.010
+O emulador dele aí é uma virtualização de um recurso computacional.
+
+24
+00:01:22.019 --> 00:01:23.290
+Ele se encaixa nessa categoria.
+
+25
+00:01:23.300 --> 00:01:26.610
+Virtualização do servidor Então, quando eu falo virtualização do servidor,
+
+26
+00:01:26.620 --> 00:01:28.309
+tô falando das máquinas virtuais.
+
+27
+00:01:28.669 --> 00:01:32.199
+Tô falando do da instância que tá rodando lá na W s.
+
+28
+00:01:32.209 --> 00:01:34.519
+Tô falando lá do Google Cloud Gene,
+
+29
+00:01:34.529 --> 00:01:38.160
+a máquina virtual do Google Cloud e de todas as outras.
+
+30
+00:01:38.169 --> 00:01:39.940
+Tudo isso é virtualização do servidor.
+
+31
+00:01:40.790 --> 00:01:43.599
+Eu tenho um outro tipo de virtualização do servidor que hoje em dia a gente
+
+32
+00:01:43.610 --> 00:01:48.319
+tá usando também a rodo que é contêineres containeres é um tipo de virtualização.
+
+33
+00:01:48.330 --> 00:01:51.839
+Existe algumas brigas. O pessoal Ah, não, não é tanto assim?
+
+34
+00:01:51.849 --> 00:01:54.519
+Mas teoricamente, assim,
+
+35
+00:01:54.529 --> 00:01:59.290
+se a gente olhar ab- abstratamente aquela definição de virtualização,
+
+36
+00:01:59.300 --> 00:02:03.519
+ambiente virtual em cima de um ambiente físico ou outro ambiente virtual,
+
+37
+00:02:03.529 --> 00:02:04.639
+o container pode se encaixar.
+
+38
+00:02:04.650 --> 00:02:08.038
+Ele é um ambiente virtual em cima de outro, outro ambiente virtual.
+
+39
+00:02:08.050 --> 00:02:09.139
+Na maioria das vezes,
+
+40
+00:02:09.570 --> 00:02:18.300
+então ele pode. A gente pode colocar ele nessa caixinha também não, não, não.
+
+41
+00:02:18.309 --> 00:02:22.539
+Agora aí a gente vai chegar Quem que faz essa tal virtualização?
+
+42
+00:02:22.550 --> 00:02:24.720
+Aí eu respondo essa pergunta pra você entender. Então
+
+43
+00:02:25.520 --> 00:02:29.729
+virtualização do servidor é o que a gente tá interessado na maioria das vezes.
+
+44
+00:02:29.740 --> 00:02:32.210
+Só que eu tenho outros tipos de virtualização que quando
+
+45
+00:02:32.220 --> 00:02:34.929
+eu tô falando de data center é muito importante.
+
+46
+00:02:34.940 --> 00:02:37.910
+A primeira é a virtualização de armazenamento,
+
+47
+00:02:37.919 --> 00:02:40.330
+o que que é a virtualização do armazenamento?
+
+48
+00:02:40.339 --> 00:02:47.710
+É eu conseguir ter um armazenamento virtual em cima de armazenamento físico real.
+
+49
+00:02:48.440 --> 00:02:51.770
+Que que eu tô querendo dizer isso com armazenamento virtual.
+
+50
+00:02:51.779 --> 00:02:54.339
+É armazenamento que a gente chama de definido por software.
+
+51
+00:02:54.350 --> 00:03:00.179
+Ou seja, eu tenho uma camada de software que tá em cima dos meus,
+
+52
+00:03:00.190 --> 00:03:02.770
+dos meus equipamentos físicos, dos meus discos,
+
+53
+00:03:02.779 --> 00:03:05.970
+dos meus servidores de storage e eu não
+
+54
+00:03:05.979 --> 00:03:08.649
+interajo mais com o disco físico diretamente.
+
+55
+00:03:08.660 --> 00:03:10.270
+É o software que interage.
+
+56
+00:03:10.639 --> 00:03:11.130
+Ou seja,
+
+57
+00:03:11.139 --> 00:03:14.940
+eu tô virtual realizando o disco físico e agora eu só
+
+58
+00:03:14.949 --> 00:03:21.089
+uso um ambiente virtual que é criado por esse software.
+
+59
+00:03:21.100 --> 00:03:21.710
+Não,
+
+60
+00:03:22.509 --> 00:03:28.289
+não por por esse mesmo motivo que eu vou falar. Acho que é o próximo slide, já vai.
+
+61
+00:03:28.300 --> 00:03:29.710
+Vai ficar claro essa diferença.
+
+62
+00:03:29.720 --> 00:03:33.210
+Mas então, virtualização de armazenamento pra data center é muito importante,
+
+63
+00:03:33.220 --> 00:03:33.830
+porque
+
+64
+00:03:34.380 --> 00:03:37.990
+pensa um data center de grande escala, que atende milhares de clientes.
+
+65
+00:03:38.000 --> 00:03:40.589
+Tem ali gente criando máquina virtual, o tempo todo.
+
+66
+00:03:40.600 --> 00:03:43.509
+Toda máquina virtual precisa de disco, então precisa de ar de espaço,
+
+67
+00:03:43.520 --> 00:03:44.830
+de armazenamento.
+
+68
+00:03:44.839 --> 00:03:48.789
+É impossível você ter um único equipamento, um único servidor,
+
+69
+00:03:48.800 --> 00:03:51.210
+que é o ato de todo mundo,
+
+70
+00:03:51.220 --> 00:03:53.460
+primeiro em questão de tamanho mesmo seria
+
+71
+00:03:53.470 --> 00:03:56.070
+gigantesco e segundo por questões de redundância,
+
+72
+00:03:56.080 --> 00:03:56.350
+né?
+
+73
+00:03:56.360 --> 00:03:58.550
+Se você, se você só tem um, você não tem nenhum.
+
+74
+00:03:58.559 --> 00:04:03.169
+Então virtualização de armazenamento. Data Center não vive sem isso.
+
+75
+00:04:03.970 --> 00:04:08.779
+Virtualização de rede Isso aqui é um, digamos assim o do do Data Center,
+
+76
+00:04:08.789 --> 00:04:10.320
+que que é a virtualização de rede
+
+77
+00:04:10.970 --> 00:04:12.899
+dentro do contexto de data center.
+
+78
+00:04:12.910 --> 00:04:15.139
+A rede de um data center é uma coisa
+
+79
+00:04:15.149 --> 00:04:20.238
+muito importante e ela se torna muito complexa porque
+
+80
+00:04:20.940 --> 00:04:23.230
+eu tô trabalhando com várias redes.
+
+81
+00:04:23.239 --> 00:04:26.109
+Na verdade que que é a rede do Data Center é a rede
+
+82
+00:04:26.119 --> 00:04:30.350
+interna que o data Center usa pra gerenciar os próprios equipamentos delas.
+
+83
+00:04:30.359 --> 00:04:33.630
+Mas eu tenho também a rede de cada cliente.
+
+84
+00:04:33.640 --> 00:04:38.149
+Cada cliente que vai lá e tem uma conta no meu, ele tem uma rede separada.
+
+85
+00:04:38.160 --> 00:04:42.049
+Eu não posso jamais misturar essas redes porque
+
+86
+00:04:42.059 --> 00:04:44.260
+senão vai que esse cara deixa uma porta ou
+
+87
+00:04:44.269 --> 00:04:48.170
+alguma coisa aberta lá no servidor dele e entra um Ware lá na V m dele.
+
+88
+00:04:49.019 --> 00:04:52.549
+Já pensou se eu deixo isso espalhar pros outros clientes,
+
+89
+00:04:52.559 --> 00:04:55.230
+que foi o que aconteceu com a CDE Nord?
+
+90
+00:04:55.239 --> 00:04:57.690
+Essa semana? Essa semana vocês ouviram essa notícia,
+
+91
+00:04:58.279 --> 00:04:59.619
+então a CD norte que é,
+
+92
+00:04:59.630 --> 00:05:02.329
+acho que era um dos maiores servidores dos maiores data
+
+93
+00:05:02.339 --> 00:05:05.869
+centers e Cloud lá do do Norte da Europa,
+
+94
+00:05:06.589 --> 00:05:09.859
+teve um Hanson que invadiu um
+
+95
+00:05:10.850 --> 00:05:13.980
+no caso deles lá não foi exatamente isso invasão pelo cliente,
+
+96
+00:05:13.989 --> 00:05:16.920
+mas eles conseguiram invadir a rede interna do Data Center.
+
+97
+00:05:17.570 --> 00:05:23.540
+Uma vez que eles invadiram a rede interna, eles escalaram e eh eles codificam tudo,
+
+98
+00:05:23.549 --> 00:05:23.940
+ou seja,
+
+99
+00:05:23.950 --> 00:05:27.059
+todos os clientes que tinham lá na Cloud perdeu tudo tipo assim
+
+100
+00:05:27.070 --> 00:05:29.299
+e eles já falaram que eles não conseguem pagar o negócio lá.
+
+101
+00:05:29.309 --> 00:05:32.320
+Então fisicamente perdeu morreu tudo prejuízo enorme
+
+102
+00:05:32.329 --> 00:05:34.600
+que que a virtualização de rede serve.
+
+103
+00:05:35.329 --> 00:05:38.019
+Quando a gente fala em rede a gente tá a primeira coisa que vem
+
+104
+00:05:38.029 --> 00:05:40.899
+na na cabeça é um monte de Cabo azul passando pra todo lado,
+
+105
+00:05:40.910 --> 00:05:41.540
+né?
+
+106
+00:05:41.549 --> 00:05:43.859
+Não tem como você ligar esse tanto de Cabo Azul.
+
+107
+00:05:43.869 --> 00:05:47.059
+Se você tiver, sei lá dez mil clientes no seu data Center.
+
+108
+00:05:47.070 --> 00:05:50.600
+Então, o que existe nas redes de data center é
+
+109
+00:05:51.190 --> 00:05:54.959
+a estrutura física da rede que é cabos mesmo,
+
+110
+00:05:54.970 --> 00:05:57.559
+então tipo assim vai ter os cabos passando Todo equipamento
+
+111
+00:05:57.570 --> 00:06:01.079
+vai ter um cabo ligando ele só que em cima
+
+112
+00:06:01.089 --> 00:06:05.809
+dessa camada física eu coloco novamente um software em cima
+
+113
+00:06:05.820 --> 00:06:09.519
+e é esse software que gerencia absolutamente tudo nessa rede,
+
+114
+00:06:09.529 --> 00:06:13.779
+então eu posso ter um cabo que liga um computador no outro,
+
+115
+00:06:14.140 --> 00:06:17.329
+mas nessa virtualização de rede eu falo não e isso aqui não é um cabo,
+
+116
+00:06:17.339 --> 00:06:32.769
+isso aqui é cinco mil cabos, cada um tá em uma vã diferente, cada um tem suas regras seu
+
+117
+00:06:33.529 --> 00:06:42.920
+exatamente exatamente existe a A a W S tem um sistema de rede virtual onde quando você
+
+118
+00:06:43.929 --> 00:06:45.339
+você cria o seu v PC,
+
+119
+00:06:45.350 --> 00:06:48.500
+vocês já ouviram isso lá dentro da W S existe um negócio que chama v
+
+120
+00:06:48.510 --> 00:06:53.459
+PC que é como se fosse a sua rede privada é a sua rede local.
+
+121
+00:06:53.470 --> 00:07:01.559
+Tudo isso é gerenciado por chama SD SD n lá hum esqueci o ter, mas SD n alguma coisa lá.
+
+122
+00:07:02.190 --> 00:07:06.079
+Tudo isso é criado por esse tipo de virtualização de rede,
+
+123
+00:07:06.089 --> 00:07:08.540
+então não vai ter um monte de cabo diferente só porque
+
+124
+00:07:08.549 --> 00:07:11.040
+o Tiago criou um v PC novo é os mesmo cabo,
+
+125
+00:07:11.049 --> 00:07:14.260
+mas é esse software que gerencia absolutamente tudo.
+
+126
+00:07:14.269 --> 00:07:17.760
+É ele que fala que quando um pacote da rede do Tiago tiver transitando,
+
+127
+00:07:17.769 --> 00:07:21.079
+ele nunca vai saber que existem outras redes, porque enfim,
+
+128
+00:07:21.089 --> 00:07:22.459
+faz basicamente tudo isso.
+
+129
+00:07:22.470 --> 00:07:22.980
+Então,
+
+130
+00:07:23.589 --> 00:07:27.119
+três tipos de virtualização a gente vai, tá focado aqui,
+
+131
+00:07:27.130 --> 00:07:29.920
+mais na virtualização dos servidores, que vai ser a mais importante pra gente,
+
+132
+00:07:29.929 --> 00:07:31.790
+as outras aqui, como a gente viu,
+
+133
+00:07:31.799 --> 00:07:34.959
+elas estão mais ligadas à infraestrutura de data center,
+
+134
+00:07:34.970 --> 00:07:36.320
+que não é o nosso objetivo aqui.
+
+135
+00:07:36.329 --> 00:07:42.440
+Hoje, o nosso objetivo é mais um, quase um casos de uso clientes de data center.
+
+136
+00:07:42.450 --> 00:07:46.700
+Nós vamos nos posicionar nesse momento aqui, entender um pouco como funciona.

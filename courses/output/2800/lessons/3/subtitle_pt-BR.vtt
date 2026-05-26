@@ -1,0 +1,253 @@
+WEBVTT
+
+1
+00:00:00.259 --> 00:00:03.750
+legal. Agora a gente vai entrar bastante nas duas perguntas ali que o André fez.
+
+2
+00:00:03.759 --> 00:00:07.389
+Então, como que funciona A virtualização do servidor,
+
+3
+00:00:07.400 --> 00:00:09.949
+A virtualização do servidor usa um software.
+
+4
+00:00:09.960 --> 00:00:13.069
+A gente viu que toda virtualização usa um software, né?
+
+5
+00:00:13.079 --> 00:00:14.810
+A virtualização do servidor é igual.
+
+6
+00:00:14.819 --> 00:00:18.629
+Esse software se chama zer, que inclusive parece que tá errado ali, né?
+
+7
+00:00:18.639 --> 00:00:24.530
+Eu acho, tá faltando y não lembro é, não é um y eu guardei beleza. Vizer.
+
+8
+00:00:24.540 --> 00:00:29.510
+O zer é o cara que interage com
+
+9
+00:00:30.139 --> 00:00:36.950
+a camada de baixo, que pode ser física ou virtual pra prover a virtualização.
+
+10
+00:00:36.959 --> 00:00:42.110
+Por isso que um sistema operacional por si só não é um sistema de virtualização,
+
+11
+00:00:42.119 --> 00:00:45.090
+porque o objetivo dele não é esse não
+
+12
+00:00:45.099 --> 00:00:48.250
+é fornecer virtualização usando a camada de baixo,
+
+13
+00:00:48.860 --> 00:00:51.310
+ele interage com o hardware. Lógico, né?
+
+14
+00:00:51.319 --> 00:00:55.590
+Não faz sentido se ele não fizer isso, mas ele não se encaixa como virtualizado,
+
+15
+00:00:55.599 --> 00:00:57.389
+porque o objetivo dele não é esse.
+
+16
+00:00:57.400 --> 00:00:58.110
+Então,
+
+17
+00:00:58.119 --> 00:01:00.860
+todas as virtualização usam software e o software que
+
+18
+00:01:00.869 --> 00:01:03.729
+faz virtualização do servidor se chama hiper vizer.
+
+19
+00:01:03.740 --> 00:01:06.529
+Todo mundo conhece pelo menos um dessa lista aqui, né?
+
+20
+00:01:06.819 --> 00:01:07.309
+Virtual?
+
+21
+00:01:07.319 --> 00:01:10.709
+Box Todo mundo já usou Virtual box pra criar uma maquininha ali,
+
+22
+00:01:10.720 --> 00:01:16.339
+um negocinho isso exatamente vem station lógico,
+
+23
+00:01:16.349 --> 00:01:19.830
+queimou o Renato acabou de falar que a maioria dos emuladores
+
+24
+00:01:19.839 --> 00:01:22.930
+de celular que roda nos computadores é esse cara aqui,
+
+25
+00:01:22.940 --> 00:01:26.459
+oh, queimou, parece, olha aí.
+
+26
+00:01:26.470 --> 00:01:30.940
+Então é essa virtualização que tá sendo usada pra gerar esse esse negócio.
+
+27
+00:01:30.949 --> 00:01:35.970
+Aí o R T é um virtualizado também pra criar ali suas máquinas virtuais. Então
+
+28
+00:01:36.470 --> 00:01:43.580
+esses aqui são esses caras aqui, Virtual, box são
+
+29
+00:01:44.970 --> 00:01:46.819
+caseiros, digamos assim,
+
+30
+00:01:46.830 --> 00:01:52.250
+Eles são feitos pra você usar na sua máquina pessoal pra fazer um trabalho ali,
+
+31
+00:01:52.260 --> 00:01:54.000
+uma coisa mais artesanal.
+
+32
+00:01:54.910 --> 00:01:59.989
+A gente usa hiper v, data center. Lógico que o da center precisa de virtualização.
+
+33
+00:02:00.000 --> 00:02:01.959
+Só que a gente não usa esses caras aqui que
+
+34
+00:02:01.970 --> 00:02:04.540
+eles não cumprem o objetivo que o data center precisa.
+
+35
+00:02:06.730 --> 00:02:10.679
+Ah, agora sim, a gente tá falando de uma coisa mais alto nível.
+
+36
+00:02:11.889 --> 00:02:13.589
+Alguém já conhecia algum desses
+
+37
+00:02:14.039 --> 00:02:17.440
+aqui? Lógico, né,
+
+38
+00:02:18.210 --> 00:02:22.910
+Ware. De novo como assim? Oh Ware também trabalha com data center.
+
+39
+00:02:22.919 --> 00:02:31.710
+Eu, se eu te contar quem que usou isso aqui durante muitos anos?
+
+40
+00:02:31.720 --> 00:02:35.880
+Você nem acredita a W S construída em cima do.
+
+41
+00:02:36.960 --> 00:02:42.089
+É lógico que eles têm uma versão customizada por eles, né? Mas cara a W S.
+
+42
+00:02:42.100 --> 00:02:44.029
+Uso, chance se Vizer
+
+43
+00:02:45.050 --> 00:02:46.940
+Wu, líder
+
+44
+00:02:47.080 --> 00:02:51.740
+do mercado da Center Disparado Ninguém bate a vemo falando de data center
+
+45
+00:02:51.750 --> 00:02:55.839
+todos os data center x três que cê vê aí na vida?
+
+46
+00:02:55.850 --> 00:02:57.119
+A maioria usa WMO
+
+47
+00:02:59.399 --> 00:03:01.470
+libera a grana é caríssimo?
+
+48
+00:03:01.479 --> 00:03:07.710
+Licenças pra você rodar os hiper da da da V em data center
+
+49
+00:03:07.720 --> 00:03:14.389
+no TN é uma empresa privada também eh um pouco menos conhecida hpe.
+
+50
+00:03:14.399 --> 00:03:18.509
+Todo mundo já ouviu falar lógico pela Microsoft A O HR VI tá lá dentro do Windows,
+
+51
+00:03:18.520 --> 00:03:20.949
+Então o vi ele tá aqui também.
+
+52
+00:03:20.960 --> 00:03:27.130
+Olha que engraçado que você usa o na sua máquina pessoal com Windows.
+
+53
+00:03:27.789 --> 00:03:33.259
+Dependendo do software que você tá usando aqui, ele pode interagir com o hiper.
+
+54
+00:03:33.880 --> 00:03:38.449
+Isso é uma coisa que ele pode até te falar assim,
+
+55
+00:03:38.460 --> 00:03:41.009
+se você tentar criar uma máquina virtual opa, não achei o Hyper.
+
+56
+00:03:41.020 --> 00:03:50.119
+Vi aqui ainda, né? Então a G exatamente a gente vai falar disso, acho que é o próximo
+
+57
+00:03:50.289 --> 00:03:50.589
+slide também
+
+58
+00:03:52.320 --> 00:03:56.309
+exatamente boa boa. Acho que é isso mesmo
+
+59
+00:03:57.520 --> 00:03:58.389
+beleza,
+
+60
+00:03:59.610 --> 00:04:02.779
+Data center com uso pessoal.
+
+61
+00:04:02.789 --> 00:04:04.820
+Então quando a gente tá falando de data center a gente usa esses
+
+62
+00:04:04.830 --> 00:04:09.350
+caras aqui K V M o super usado também no mundo inteiro,
+
+63
+00:04:09.360 --> 00:04:14.320
+comunidade super gigante ativa desenvolvendo, corrigindo bug e tal.

@@ -1,0 +1,33 @@
+{
+  "id": 488032,
+  "title": "Encerrando Deveres",
+  "position": 13,
+  "duration": 418,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/25ee877f-2326-40f7-aac6-f1e8981dd8e5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25ee877f-2326-40f7-aac6-f1e8981dd8e5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25ee877f-2326-40f7-aac6-f1e8981dd8e5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25ee877f-2326-40f7-aac6-f1e8981dd8e5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25ee877f-2326-40f7-aac6-f1e8981dd8e5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

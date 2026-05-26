@@ -1,0 +1,128 @@
+{
+  "data": {
+    "id": 2990,
+    "title": "OKR's - Objective Key Results",
+    "subtitle": "Objetivos e resultados chave",
+    "summary": "Neste curso prático de OKR's você aprenderá caarcterísticas e aplicações deste modelo de gestão por OKRs busca estabelecer direções claras para alcançar os números que indicam o crescimento de um negócio.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/a3cfb9bbe0d06d3f2f0bf64257207e931728073859.jpg",
+    "goals": [
+      "Apresentar características e aplicações deste modelo de gestão por OKRs busca estabelecer direções claras para alcançar os números que indicam o crescimento de um negócio."
+    ],
+    "teacher": {
+      "id": 268532,
+      "name": "SÉRGIO LOPES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1633790201.jpeg"
+    },
+    "duration": 7134,
+    "keywords": "okrs;okr",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 5,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1242,
+    "averageRating": 9.06,
+    "practiceAverage": 9.02,
+    "trailer": {
+      "id": "798e3999-764d-4cd0-99af-9d05c6e2f80c",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/798e3999-764d-4cd0-99af-9d05c6e2f80c/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/798e3999-764d-4cd0-99af-9d05c6e2f80c/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/798e3999-764d-4cd0-99af-9d05c6e2f80c/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/798e3999-764d-4cd0-99af-9d05c6e2f80c/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-08T14:38:17.000Z",
+      "updatedAt": "2024-01-08T14:38:17.000Z"
+    },
+    "crcActive": true,
+    "crcCreditHours": 4,
+    "crcScore": {
+      "id": 298,
+      "courseId": 2990,
+      "crcCode": "SP-35388",
+      "data": [
+        {
+          "name": "AUD",
+          "values": [
+            4
+          ]
+        },
+        {
+          "name": "PERITO",
+          "values": [
+            4
+          ]
+        },
+        {
+          "name": "CMN",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "SUSEP",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "PREVICAUD",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "PROGP",
+          "values": [
+            4
+          ]
+        },
+        {
+          "name": "PRORT",
+          "values": [
+            4
+          ]
+        },
+        {
+          "name": "PREVIC",
+          "values": [
+            0
+          ]
+        }
+      ],
+      "year": 2026,
+      "createdAt": "2026-01-09T19:01:38.000Z",
+      "updatedAt": "2026-01-09T19:01:38.000Z"
+    },
+    "launchDate": "2024-01-24T14:34:00.000Z",
+    "recordedAt": "2023-12-28T00:00:00.000Z",
+    "createdAt": "2023-12-30T23:07:03.000Z"
+  }
+}

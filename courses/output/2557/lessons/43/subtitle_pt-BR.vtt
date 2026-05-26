@@ -1,0 +1,293 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:00.500
+pessoal.
+
+2
+00:00:00.509 --> 00:00:02.779
+O próximo conjunto de eventos que nós vamos tratar
+
+3
+00:00:02.789 --> 00:00:06.179
+aqui são os eventos da manifestação do destinatário.
+
+4
+00:00:06.190 --> 00:00:08.260
+São eventos muito importantes que impedem
+
+5
+00:00:08.270 --> 00:00:10.340
+inclusive o cancelamento de documento fiscal.
+
+6
+00:00:10.350 --> 00:00:13.579
+Então é necessário que a gente saiba tudo sobre esses eventos,
+
+7
+00:00:13.590 --> 00:00:15.239
+conforme nós vamos ver agora
+
+8
+00:00:16.780 --> 00:00:22.270
+primeiro pessoal, a gente vai fazer aqui uma desagua, né? O que que é a manifestação?
+
+9
+00:00:22.280 --> 00:00:26.030
+A manifestação é a visão do destinatário sobre a operação
+
+10
+00:00:26.040 --> 00:00:29.190
+declarada na emissão d n f n é o destinatário,
+
+11
+00:00:29.200 --> 00:00:34.229
+dizendo se aquela operação de fato ocorreu ou se aquela operação não ocorreu,
+
+12
+00:00:34.240 --> 00:00:36.009
+tá bom, isso é a manifestação.
+
+13
+00:00:36.020 --> 00:00:40.930
+Nós temos também um manifesto manifesto eletrônico de documentos fiscais, o MD F.
+
+14
+00:00:40.939 --> 00:00:43.255
+E que um documento de transporte que
+
+15
+00:00:43.264 --> 00:00:47.014
+reúne informações sobre o transporte de mercadoria de
+
+16
+00:00:47.025 --> 00:00:52.735
+emissão obrigatória no transporte que sai de uma cidade e vai para outra cidade.
+
+17
+00:00:52.744 --> 00:00:56.814
+Esse é o manifesto e a manifestação é a visão do destinatário
+
+18
+00:00:56.825 --> 00:00:59.534
+sobre aquela operação declarada pelo emitente
+
+19
+00:00:59.544 --> 00:01:01.665
+na emissão da nota fiscal eletrônica.
+
+20
+00:01:01.674 --> 00:01:02.154
+Tá bom,
+
+21
+00:01:02.439 --> 00:01:03.650
+então a manifestação!
+
+22
+00:01:03.659 --> 00:01:08.010
+Ela traz um conjunto de eventos que são relacionados a nota fiscal eletrônica
+
+23
+00:01:08.019 --> 00:01:13.449
+modelo quinze e cinto e permite o destinatário declarar como a operação ocorreu.
+
+24
+00:01:13.459 --> 00:01:18.389
+Se ela ocorreu ou se ela não ocorreu. Tá tudo isso com um conjunto de eventos,
+
+25
+00:01:19.319 --> 00:01:23.489
+É uma forma de avisar o fisco como as operações ocorreram e também
+
+26
+00:01:23.500 --> 00:01:25.910
+notificar o emitente do documento sobre a
+
+27
+00:01:25.919 --> 00:01:29.610
+visão do destinatário sobre aquela operação.
+
+28
+00:01:29.620 --> 00:01:33.470
+Tá vendo? Esses são os eventos de manifestação do destinatário.
+
+29
+00:01:34.930 --> 00:01:39.220
+A manifestação dos destinatários tem os seguintes dispositivos legais ela
+
+30
+00:01:39.230 --> 00:01:41.500
+está definida lá na Aju C n f número sete,
+
+31
+00:01:41.510 --> 00:01:42.559
+dois mil e cinco.
+
+32
+00:01:42.569 --> 00:01:46.739
+Isso aqui é muito importante também, que ele traz a obrigatoriedade nacional,
+
+33
+00:01:46.750 --> 00:01:47.940
+ou seja, uma obrigatoriedade que é,
+
+34
+00:01:47.949 --> 00:01:52.580
+vá em todo o Brasil pras operações que tenham manifestação do destinatário.
+
+35
+00:01:52.589 --> 00:01:55.819
+Tá de um conjunto menor de operações, não são todas as operações.
+
+36
+00:01:55.830 --> 00:02:00.160
+Nós podemos consultar aqui nesses dispositivos legais, tá bom.
+
+37
+00:02:00.410 --> 00:02:03.419
+E pra quem vai fazer a implementação de sistema,
+
+38
+00:02:03.430 --> 00:02:05.459
+precisa conhecer os documentos técnicos?
+
+39
+00:02:05.470 --> 00:02:07.080
+Tá, Nós temos a nota fiscal,
+
+40
+00:02:07.089 --> 00:02:11.419
+é a Nota técnica dois mil e doze dois treze um dezoito
+
+41
+00:02:11.429 --> 00:02:14.580
+um e nota técnica dois mil e vinte zero zero um.
+
+42
+00:02:14.589 --> 00:02:15.020
+Tá bom.
+
+43
+00:02:15.029 --> 00:02:18.820
+Esse é o conjunto de documentos técnicos que tem os
+
+44
+00:02:18.830 --> 00:02:22.380
+detalhes ali pra fazer a implementação da manifestação do destinatário.
+
+45
+00:02:22.389 --> 00:02:24.160
+Nós vamos focar mais aqui, é claro
+
+46
+00:02:24.570 --> 00:02:30.220
+nos dispositivos legais tá que estabelecem tanto a manifestação do destinatário,
+
+47
+00:02:30.229 --> 00:02:33.660
+como citam também a obrigatoriedade de emissão
+
+48
+00:02:33.669 --> 00:02:36.240
+da manifestação do destinatário Tá bom?
+
+49
+00:02:37.259 --> 00:02:38.669
+Primeiramente pessoal,
+
+50
+00:02:38.679 --> 00:02:41.149
+o destinatário confirma sua participação na
+
+51
+00:02:41.160 --> 00:02:44.289
+operação através de uma mensagem eletrônica,
+
+52
+00:02:44.300 --> 00:02:44.570
+né?
+
+53
+00:02:45.720 --> 00:02:49.490
+A manifestação do destinatário também disponibiliza as notas emitidas
+
+54
+00:02:49.500 --> 00:02:52.570
+para aquele C n PJ nos últimos quinze dias,
+
+55
+00:02:52.580 --> 00:02:52.649
+né?
+
+56
+00:02:52.660 --> 00:02:55.610
+Então através do serviço de manifestação do destinatário, né?
+
+57
+00:02:55.619 --> 00:02:57.490
+Você pode baixar as notas,
+
+58
+00:02:57.500 --> 00:03:00.050
+ter conhecimento das notas que foram emitidas pro
+
+59
+00:03:00.059 --> 00:03:02.529
+seu C n PJ emitidas pra sua empresa,
+
+60
+00:03:02.539 --> 00:03:03.229
+né?
+
+61
+00:03:04.080 --> 00:03:04.850
+E por fim,
+
+62
+00:03:04.860 --> 00:03:07.610
+ela também habilita o download do Arquivo X ML
+
+63
+00:03:07.619 --> 00:03:11.250
+quando você faz eh a manifestação do destinatário!
+
+64
+00:03:11.259 --> 00:03:14.809
+Você como destinatário consegue fazer o download desse
+
+65
+00:03:14.820 --> 00:03:16.910
+arquivo x ML da nota fiscal eletrônico?
+
+66
+00:03:16.919 --> 00:03:18.850
+Prass Notas que você confirmar tá,
+
+67
+00:03:18.860 --> 00:03:22.029
+Então ela é uma ferramenta muito poderosa também pra que você
+
+68
+00:03:22.104 --> 00:03:25.994
+possa obter dados das notas que foram emitidas para suas empresas.
+
+69
+00:03:26.005 --> 00:03:29.434
+Tá bom! Esse é o serviço da manifestação do destinatário.
+
+70
+00:03:29.445 --> 00:03:32.035
+Agora nós vamos falar com mais detalhes sobre
+
+71
+00:03:32.044 --> 00:03:34.755
+a manifestação do destinatário e ver como a gente
+
+72
+00:03:34.764 --> 00:03:36.934
+vai poder fazer esse documento e até vai
+
+73
+00:03:36.945 --> 00:03:40.054
+mostrar na prática a manifestação em algumas notas.

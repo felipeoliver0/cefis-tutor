@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4196,
+    "title": "CIPA 2026",
+    "subtitle": "curso prático",
+    "summary": "Neste curso CIPA 2026, curso prático você irá aprender na prática tudo o que precisa saber sobre CIPA. Aprenderá os fundamentos e a prática de legislação específica, atribuições e responsabilidades, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre CIPA.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/182f2e04-0c66-4c69-ae56-11826926a260-thumbnail.png",
+    "goals": [
+      "O objetivo do curso CIPA 2026 - curso prático é a capacitação para a aplicação prática da legislação e das atribuições da CIPA, bem como a compreensão das responsabilidades de empresa e presidente da CIPA, da constituição e estruturação da CIPA, do funcionamento e das garantias dos membros da CIPA, e da realização de eleições e inscrições para as mesmas."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 2931,
+    "keywords": "cipa;2026",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 22,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 108,
+    "averageRating": 9.43,
+    "practiceAverage": 9.42,
+    "trailer": {
+      "id": "3abd2429-da80-4241-b139-34304927a07b",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3abd2429-da80-4241-b139-34304927a07b/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3abd2429-da80-4241-b139-34304927a07b/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3abd2429-da80-4241-b139-34304927a07b/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3abd2429-da80-4241-b139-34304927a07b/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-20T13:00:35.000Z",
+      "updatedAt": "2025-12-20T13:00:35.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-26T14:18:28.000Z",
+    "recordedAt": "2025-11-28T00:00:00.000Z",
+    "createdAt": "2025-12-18T11:00:32.000Z"
+  }
+}

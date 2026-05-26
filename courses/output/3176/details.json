@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3176,
+    "title": "Novos processos de exportação e importação",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso você vai aprender: Sistema integrado de comércio exterior; Portal único de comércio exterior;  Novo processo de exportação (NPE); Declaração única de exportação (DU-E); Novo processo de importação (NPI); Declaração única de importação (DUIMP); Catálogo de produtos e muitos outros pontos para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/d0cd7cdcbceb36f43f18cf057116d8461728385901.jpg",
+    "goals": [
+      "Apresentar de forma prática os novos processos de exportação e importação"
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 11037,
+    "keywords": "siscomex;NPE;DU-E;EXPORTAÇÃO;IMPORTAÇÃO",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 54,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 661,
+    "averageRating": 9.28,
+    "practiceAverage": 9.24,
+    "trailer": {
+      "id": "e607066b-eb2c-4873-a773-6b5d9b3ce66e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e607066b-eb2c-4873-a773-6b5d9b3ce66e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e607066b-eb2c-4873-a773-6b5d9b3ce66e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e607066b-eb2c-4873-a773-6b5d9b3ce66e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e607066b-eb2c-4873-a773-6b5d9b3ce66e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-07-10T08:32:27.000Z",
+      "updatedAt": "2024-07-10T08:32:27.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-07-10T09:27:45.000Z",
+    "recordedAt": "2024-06-07T00:00:00.000Z",
+    "createdAt": "2024-06-06T17:03:25.000Z"
+  }
+}

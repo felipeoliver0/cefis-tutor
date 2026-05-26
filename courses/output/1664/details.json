@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1664,
+    "title": "Gestão de Projetos",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de gestão de projetos, você aprenderá como gerir bem seus projetos. Aprenderá desde a conceituação do assunto, até ferramentas, como apoio do sponsor, reunião de kick off, relacionamento com a equipe, Canvas, PM visual, matriz de responsabilidades, planejamento das comunicações, gerenciamento dos riscos e das aquisições, dentre muitos outros pontos que te ajudarão a gerenciar projetos de forma eficiente e simplificada.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/3d54df91-69fe-441c-bf5c-95882af731a4-thumbnail.png",
+    "goals": [
+      "Apresentar aos alunos métodos práticos de gerenciar projetos."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 4306,
+    "keywords": "gestão;projetos;gestão de projetos",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 26,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 233,
+    "averageRating": 9.05,
+    "practiceAverage": 8.83,
+    "trailer": {
+      "id": "92545f1e-c3bc-41f5-b0eb-1e7de1e6982c",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92545f1e-c3bc-41f5-b0eb-1e7de1e6982c/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92545f1e-c3bc-41f5-b0eb-1e7de1e6982c/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92545f1e-c3bc-41f5-b0eb-1e7de1e6982c/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92545f1e-c3bc-41f5-b0eb-1e7de1e6982c/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-09-18T11:15:50.000Z",
+      "updatedAt": "2021-09-18T11:15:50.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-09-21T11:23:02.000Z",
+    "recordedAt": "2021-09-05T00:00:00.000Z",
+    "createdAt": "2021-09-08T19:05:13.000Z"
+  }
+}

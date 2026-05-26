@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4234,
+    "title": "Comitê Gestor do Imposto sobre Bens e Serviços",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Comitê Gestor do Imposto sobre Bens e Serviços - curso prático você irá aprender na prática tudo o que precisa saber sobre a gestão do IBS. Aprenderá os fundamentos e a prática de conceitos jurídicos, competências e finalidades do Comitê, natureza jurídica do IBS e como foi criado o Pré-Comitê gestor do IBS em duas partes, além de entender os eixos, comunicado conjunto, orientações e destaque relevante para você que deseja se atualizar ou aprender tudo sobre a gestão do IBS.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/a4da5c6d-61ce-48e7-9756-68db34cfe61a-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Comitê Gestor do Imposto sobre Bens e Serviços, curso prático, é a capacitação para a aplicação prática da compreensão do conceito, competências e finalidades, natureza jurídica, pré-comitê gestor do IBS, eixos, comunicado conjunto, orientações, destaque relevante e conclusão do Comitê Gestor do Imposto sobre Bens e Serviços."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 2651,
+    "keywords": "comitê gestor;bens;serviços",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 92,
+    "averageRating": 9.43,
+    "practiceAverage": 9.45,
+    "trailer": {
+      "id": "01f0dad7-0600-4d84-af70-7ad95b529c65",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/01f0dad7-0600-4d84-af70-7ad95b529c65/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/01f0dad7-0600-4d84-af70-7ad95b529c65/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/01f0dad7-0600-4d84-af70-7ad95b529c65/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/01f0dad7-0600-4d84-af70-7ad95b529c65/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-02-20T12:13:42.000Z",
+      "updatedAt": "2026-02-20T12:13:41.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-02-24T14:06:45.000Z",
+    "recordedAt": "2025-12-01T00:00:00.000Z",
+    "createdAt": "2025-12-26T16:11:40.000Z"
+  }
+}

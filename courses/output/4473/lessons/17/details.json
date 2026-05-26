@@ -1,0 +1,33 @@
+{
+  "id": 486997,
+  "title": "Código de terceiros",
+  "position": 17,
+  "duration": 126,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/b222e9c7-f7c1-426b-9aff-6161734e4702/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b222e9c7-f7c1-426b-9aff-6161734e4702/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b222e9c7-f7c1-426b-9aff-6161734e4702/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b222e9c7-f7c1-426b-9aff-6161734e4702/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b222e9c7-f7c1-426b-9aff-6161734e4702/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

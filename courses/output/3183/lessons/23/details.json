@@ -1,0 +1,33 @@
+{
+  "id": 476344,
+  "title": "Pronon",
+  "position": 23,
+  "duration": 368,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b8d72e5b-747a-482e-bc72-2c4adf08377b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b8d72e5b-747a-482e-bc72-2c4adf08377b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b8d72e5b-747a-482e-bc72-2c4adf08377b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b8d72e5b-747a-482e-bc72-2c4adf08377b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b8d72e5b-747a-482e-bc72-2c4adf08377b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

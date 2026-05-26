@@ -1,0 +1,33 @@
+{
+  "id": 476025,
+  "title": "Pergunta",
+  "position": 110,
+  "duration": 101,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/076d6505-a739-4991-a46b-3842f963dbef/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/076d6505-a739-4991-a46b-3842f963dbef/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/076d6505-a739-4991-a46b-3842f963dbef/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/076d6505-a739-4991-a46b-3842f963dbef/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/076d6505-a739-4991-a46b-3842f963dbef/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

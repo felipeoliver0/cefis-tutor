@@ -1,0 +1,33 @@
+{
+  "id": 475097,
+  "title": "Estoque Mensal",
+  "position": 24,
+  "duration": 519,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c5458945-15fa-4e07-bb62-5f1a9138274c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5458945-15fa-4e07-bb62-5f1a9138274c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5458945-15fa-4e07-bb62-5f1a9138274c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5458945-15fa-4e07-bb62-5f1a9138274c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5458945-15fa-4e07-bb62-5f1a9138274c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

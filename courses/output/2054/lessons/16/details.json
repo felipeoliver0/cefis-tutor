@@ -1,0 +1,33 @@
+{
+  "id": 461885,
+  "title": "Estágios da receita e da pessoa publica - parte 2",
+  "position": 16,
+  "duration": 579,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ad7fe6d4-1614-4fa4-bb03-b99fcc67eeba/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad7fe6d4-1614-4fa4-bb03-b99fcc67eeba/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad7fe6d4-1614-4fa4-bb03-b99fcc67eeba/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad7fe6d4-1614-4fa4-bb03-b99fcc67eeba/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad7fe6d4-1614-4fa4-bb03-b99fcc67eeba/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

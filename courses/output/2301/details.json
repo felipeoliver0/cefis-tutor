@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2301,
+    "title": "Teses tributárias",
+    "subtitle": "Análises e aplicações",
+    "summary": "Neste curso de teses tributárias você vai aprender a tomar decisões em matéria tributária. Entenderá esta aplicação relacionada à temas como o Programa de Alimentação ao Trabalhador – PAT, a não tributação de IRPJ/CSLL sobre Subvenção para Investimento e IRPJ/CSLL sobre juros SELIC e mora por inadimplência, para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b191e1d3d85efc0dea895f03e9801a1a1727451495.jpg",
+    "goals": [
+      "Apresentar como tomar decisões em matéria tributária. Entenderá esta aplicação relacionada à temas como o Programa de Alimentação ao Trabalhador – PAT, a não tributação de IRPJ/CSLL sobre Subvenção para Investimento e IRPJ/CSLL sobre juros SELIC e mora por inadimplência, para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 595518,
+      "name": "Alberto Lopes",
+      "avatar": "https://cefis.com.br/assets/images/site/svg/user-icon.svg"
+    },
+    "duration": 6767,
+    "keywords": "tese;teses tributárias",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 17,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 112,
+    "averageRating": 9.43,
+    "practiceAverage": 9.32,
+    "trailer": {
+      "id": "6c3da271-48d2-4fde-b81b-2b156dcadd76",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6c3da271-48d2-4fde-b81b-2b156dcadd76/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6c3da271-48d2-4fde-b81b-2b156dcadd76/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6c3da271-48d2-4fde-b81b-2b156dcadd76/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6c3da271-48d2-4fde-b81b-2b156dcadd76/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-11-07T22:48:21.000Z",
+      "updatedAt": "2022-11-07T22:48:21.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-11-29T09:30:41.000Z",
+    "recordedAt": "2022-10-13T00:00:00.000Z",
+    "createdAt": "2022-10-14T15:42:29.000Z"
+  }
+}

@@ -1,0 +1,341 @@
+WEBVTT
+
+1
+00:00:00.720 --> 00:00:01.720
+então eh,
+
+2
+00:00:01.730 --> 00:00:03.700
+a gente parou exatamente no ponto de eu vou
+
+3
+00:00:03.710 --> 00:00:08.289
+cessar um desses pra gente criar uma máquina virtual,
+
+4
+00:00:08.300 --> 00:00:11.050
+como que eu sei qual que é o i p desse cara aqui?
+
+5
+00:00:11.060 --> 00:00:16.530
+Como que eu vou adivinhar isso exatamente é assim Será que lá
+
+6
+00:00:16.540 --> 00:00:22.899
+na quando os cara manutenção data center exatamente é um Excel?
+
+7
+00:00:22.909 --> 00:00:27.809
+É já foi um excel na C C S. Hoje não é mais. Hoje a gente tem
+
+8
+00:00:28.180 --> 00:00:33.979
+existe um tipo de software chamado The sim de DC i
+
+9
+00:00:33.990 --> 00:00:39.740
+m The Sims também é bom DC i m Data center,
+
+10
+00:00:39.750 --> 00:00:43.909
+ou seja, é um software pra você gerenciar a infraestrutura do data center.
+
+11
+00:00:43.919 --> 00:00:47.069
+Olha só que coisa maravilhosa é isso que a gente quer gerenciar um
+
+12
+00:00:47.080 --> 00:00:52.029
+servidor então exatamente ele tá instalado e você acessa ele via web,
+
+13
+00:00:52.040 --> 00:00:56.610
+que é o que a gente vai fazer aqui Agora olha só tá lá,
+
+14
+00:00:57.409 --> 00:01:00.200
+eu só preciso achar meu mouse Ah,
+
+15
+00:01:00.209 --> 00:01:04.629
+achei que inclusive ele fica aqui nos meus atalhos porque eu uso ele muito oh
+
+16
+00:01:04.638 --> 00:01:08.980
+C C S maj Olha aí o esse aí é acesso de qualquer lugar.
+
+17
+00:01:08.989 --> 00:01:15.000
+Essa ferramenta se chama não não isso aqui a qualquer lugar cê ace
+
+18
+00:01:15.400 --> 00:01:27.730
+aí cê tem que fazer login tá lá no não, não só de segurança a todos os dados internos.
+
+19
+00:01:27.739 --> 00:01:30.480
+Tá aberto, Então essa ferramenta chama Nebo X.
+
+20
+00:01:30.489 --> 00:01:34.565
+É uma das mais usadas pelo mundo aí para gerenciar a coisa de data center e a
+
+21
+00:01:34.574 --> 00:01:38.785
+gente tem a nossa própria instalação exatamente tem
+
+22
+00:01:38.794 --> 00:01:40.824
+uma v m que tá rodando essa aplicação.
+
+23
+00:01:40.834 --> 00:01:43.904
+Então aqui a gente já tá acessando um recurso de data center, né?
+
+24
+00:01:43.915 --> 00:01:49.635
+Meio sem querer Então vou entrar
+
+25
+00:01:50.154 --> 00:01:56.925
+aqui também
+
+26
+00:01:58.160 --> 00:02:03.569
+exatamente é o O, é isso mesmo? Você acessa um R l?
+
+27
+00:02:03.580 --> 00:02:06.330
+Tá lá já Mas eu entendi o que você falou cê é aberto, né?
+
+28
+00:02:06.339 --> 00:02:10.110
+Sim, sim com o cd aí a gente vai mais nesse caminho
+
+29
+00:02:10.758 --> 00:02:14.789
+sem cê tem que conectar no VPN com com a gente.
+
+30
+00:02:15.580 --> 00:02:18.610
+Acho que esse aqui é da rede da
+
+31
+00:02:19.490 --> 00:02:24.839
+da do da, do cofre da C C S, mas aí eu vou adicionar vocês lá e vocês vão ter acesso?
+
+32
+00:02:27.500 --> 00:02:32.509
+O Tiago tem tudo aí oh então, beleza o que que esse cara faz?
+
+33
+00:02:32.520 --> 00:02:35.539
+Ele gerencia literalmente tudo tipo assim tudo tudo
+
+34
+00:02:35.550 --> 00:02:38.789
+que cê pensar ele gerencia todos os cabos.
+
+35
+00:02:38.800 --> 00:02:42.949
+Cê sabe onde exatamente um cabo sai e onde ele entra, onde ele se conecta?
+
+36
+00:02:42.960 --> 00:02:46.869
+gerencia literalmente tudo, então, por exemplo, aqui no nosso caso,
+
+37
+00:02:46.880 --> 00:02:48.350
+o que que a gente tá querendo aqui?
+
+38
+00:02:48.360 --> 00:02:49.809
+A gente quer saber
+
+39
+00:02:51.119 --> 00:02:54.750
+qual que é o servidor pro XX, a gente vai acessar a gente precisa do I p dele,
+
+40
+00:02:54.759 --> 00:02:57.020
+então eu vou vim aqui.
+
+41
+00:02:57.029 --> 00:03:01.630
+O servidor é um eu tenho aqui a minha lista de
+
+42
+00:03:02.910 --> 00:03:05.419
+eu cliquei cliquei que carrega
+
+43
+00:03:06.250 --> 00:03:07.580
+tá
+
+44
+00:03:09.580 --> 00:03:11.449
+horário
+
+45
+00:03:13.270 --> 00:03:15.500
+beleza
+
+46
+00:03:16.649 --> 00:03:24.020
+sério nunca nunca nunca. Nem reparei nem eu, nem eu.
+
+47
+00:03:24.029 --> 00:03:27.100
+Então beleza Olha o que que a gente tem aqui dados de
+
+48
+00:03:27.110 --> 00:03:29.800
+todos os servidores que estão rodando ali no C C S.
+
+49
+00:03:30.419 --> 00:03:33.750
+Então tenho tudo, tenho os nomes deles.
+
+50
+00:03:33.759 --> 00:03:37.910
+Eu tenho aqui qual que é a sala que eles estão, que no nosso caso é só uma? Por que é R?
+
+51
+00:03:37.919 --> 00:03:38.889
+O um?
+
+52
+00:03:39.669 --> 00:03:44.240
+Eu tenho a categoria dele, que tudo aqui é de eh infraestrutura, né?
+
+53
+00:03:44.250 --> 00:03:47.679
+De gerenciamento, ou seja isso aqui não é um servidor de um cliente.
+
+54
+00:03:47.690 --> 00:03:48.600
+Se fosse aí,
+
+55
+00:03:48.610 --> 00:03:52.339
+estaria outra coisa aqui eu tenho qual que é
+
+56
+00:03:52.350 --> 00:03:54.600
+a marca qual que é o modelo do equipamento?
+
+57
+00:03:54.610 --> 00:03:58.380
+Eu tenho aqui oh tudo, bonitinho o i p do equipamento,
+
+58
+00:03:59.509 --> 00:04:08.199
+o que que eu tô rodando nele Olha aqui a gente tem dois tipos de tem o backup E o quando?
+
+59
+00:04:08.210 --> 00:04:10.500
+A gente tá falando de virtualização, a gente só vai usar esse cara aqui.
+
+60
+00:04:10.509 --> 00:04:15.660
+O o backup é só pra fazer backup. Lógico, então por isso que eu nem falei nele,
+
+61
+00:04:16.248 --> 00:04:25.319
+mas é um servidor normal isso backup das máquinas virtuais exatamente
+
+62
+00:04:26.230 --> 00:04:28.339
+eh a gente vai falar mais de baca no final também.
+
+63
+00:04:28.970 --> 00:04:30.290
+Então beleza, o que que eu vou fazer? Agora?
+
+64
+00:04:30.299 --> 00:04:33.899
+Eu vou escolher um desses caras aqui pro XX ba Server,
+
+65
+00:04:33.910 --> 00:04:37.760
+que vai ser o meu que eu vou usar pra criar essa máquina virtual
+
+66
+00:04:37.769 --> 00:04:43.320
+E a gente vai acessar o I P dele exatamente quando você acessa ele.
+
+67
+00:04:43.329 --> 00:04:48.380
+Você tem um sumário do uso de recursos do servidor, não pela interface web é?
+
+68
+00:04:50.070 --> 00:04:53.579
+Pode falar vinte e quatro
+
+69
+00:04:54.790 --> 00:04:57.119
+eu lembro, uma vez que você me explicou lá na W S,
+
+70
+00:04:57.130 --> 00:05:00.500
+mas eu lembro que você me explicou Sim, sim.
+
+71
+00:05:00.510 --> 00:05:07.019
+Isso aqui é o bom. Isso aqui é um assunto de de de gerenciamento de redes,
+
+72
+00:05:07.609 --> 00:05:13.799
+as redes. Elas são blocos, a gente chama tudo de bloco de rede.
+
+73
+00:05:15.260 --> 00:05:19.730
+Você pode tratar uma rede como um bloco gigante ou como um bloco pequeno,
+
+74
+00:05:20.410 --> 00:05:25.260
+o A rede com um todo. Ela é como se fossem itens.
+
+75
+00:05:25.269 --> 00:05:27.559
+Ou seja, eu tenho vários i PS dentro da minha rede,
+
+76
+00:05:27.570 --> 00:05:31.779
+mas eu vamos supor que eu tenho ali quatro i e PS Eu posso ter uma rede de quatro i
+
+77
+00:05:31.790 --> 00:05:34.700
+PS Eu posso ter duas redes de dois i PS
+
+78
+00:05:34.709 --> 00:05:38.399
+entendeu eu que decido como que eu vou dividir ela?
+
+79
+00:05:39.100 --> 00:05:41.750
+Ah, mas você pergunta assim por que que eu vou dividir uma rede?
+
+80
+00:05:41.760 --> 00:05:43.529
+Vai ficar tudo na mesma rede e pronto?
+
+81
+00:05:44.209 --> 00:05:49.320
+É porque quando você divide a rede, elas se tornam caixinhas isoladas,
+
+82
+00:05:50.480 --> 00:05:53.529
+um computador ou um telefone ou qualquer coisa
+
+83
+00:05:53.540 --> 00:05:56.970
+que está em uma rede não conversa com outra
+
+84
+00:05:56.980 --> 00:06:03.769
+rede se não for única e exclusivamente através de um roteador ou de um sla três.
+
+85
+00:06:03.779 --> 00:06:05.989
+Mas o sitt três é quase um roteador.

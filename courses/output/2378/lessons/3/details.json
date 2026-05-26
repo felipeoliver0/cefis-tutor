@@ -1,0 +1,33 @@
+{
+  "id": 465047,
+  "title": "EBITDA Parte 2",
+  "position": 3,
+  "duration": 298,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dc319f8c-e994-4669-beea-62770d95ac0c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc319f8c-e994-4669-beea-62770d95ac0c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc319f8c-e994-4669-beea-62770d95ac0c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc319f8c-e994-4669-beea-62770d95ac0c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc319f8c-e994-4669-beea-62770d95ac0c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

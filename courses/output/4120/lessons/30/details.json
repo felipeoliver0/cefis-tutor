@@ -1,0 +1,33 @@
+{
+  "id": 482611,
+  "title": "Decisões boas e más",
+  "position": 30,
+  "duration": 177,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c392b25d-5837-4367-9268-7bdc4c502f61/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c392b25d-5837-4367-9268-7bdc4c502f61/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c392b25d-5837-4367-9268-7bdc4c502f61/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c392b25d-5837-4367-9268-7bdc4c502f61/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c392b25d-5837-4367-9268-7bdc4c502f61/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 459919,
+  "title": "Legislação",
+  "position": 3,
+  "duration": 427,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/40e95ea3-c4d9-4f4b-90dc-2c53a65fc384/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40e95ea3-c4d9-4f4b-90dc-2c53a65fc384/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40e95ea3-c4d9-4f4b-90dc-2c53a65fc384/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40e95ea3-c4d9-4f4b-90dc-2c53a65fc384/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40e95ea3-c4d9-4f4b-90dc-2c53a65fc384/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

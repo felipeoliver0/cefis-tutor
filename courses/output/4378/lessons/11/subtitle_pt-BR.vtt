@@ -1,0 +1,369 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:15.900
+Bom, agora a gente vai analisar um caso prático, ou seja, um caso real de um XML atual, ou seja, já está com as tags do IBS e da CBS, tudo bem?
+
+2
+00:00:16.399 --> 00:00:25.920
+Então, dentro desse contexto, nós temos uma estrutura de um XML, nós temos as tags que foram preenchidas dentro desse documento. Esse documento foi
+
+3
+00:00:25.920 --> 00:00:28.399
+autorizado, validado,
+
+4
+00:00:28.480 --> 00:00:30.280
+então ele já está com todas as informações.
+
+5
+00:00:31.280 --> 00:00:32.340
+Esse documento,
+
+6
+00:00:32.340 --> 00:00:34.579
+ele veio de um caso real,
+
+7
+00:00:35.259 --> 00:00:36.340
+uma CFOP 5405,
+
+8
+00:00:37.600 --> 00:00:38.359
+uma operação com
+
+9
+00:00:38.359 --> 00:00:40.579
+substituição tributária para consumidor
+
+10
+00:00:40.579 --> 00:00:42.359
+final. Temos
+
+11
+00:00:42.359 --> 00:00:44.200
+a NCM dentro desse
+
+12
+00:00:44.200 --> 00:01:08.200
+produto, que é um kit mochila com a NCM específica. O valor unitário, o valor tributado dessa operação, foi de R$ 179,91, quanto no valor da unidade sobre comercial, que é 179,91.
+
+13
+00:01:08.480 --> 00:01:10.659
+Então são esses valores que vocês estão vendo.
+
+14
+00:01:11.140 --> 00:01:16.659
+É uma operação com substituição tributária, numa remessa de venda fora do estabelecimento,
+
+15
+00:01:16.819 --> 00:01:19.819
+então foi uma venda mesmo que interna, mas foi fora do estabelecimento,
+
+16
+00:01:20.799 --> 00:01:25.299
+e tem uma substituição tributária envolvida porque esse item está na relação
+
+17
+00:01:25.299 --> 00:01:28.640
+e foi também uma venda para um consumidor final.
+
+18
+00:01:29.200 --> 00:01:30.200
+Qual que é o ponto de atenção?
+
+19
+00:01:30.640 --> 00:01:33.579
+O valor da operação bruta, que é o valor do produto,
+
+20
+00:01:34.420 --> 00:01:37.140
+corresponde corretamente ao valor unitário,
+
+21
+00:01:37.579 --> 00:01:42.480
+ou seja, esse valor aqui de 179,91, ele é o valor unitário,
+
+22
+00:01:42.599 --> 00:01:45.200
+ele é o valor tributado dessa operação, né?
+
+23
+00:01:45.239 --> 00:01:47.000
+Então, são iguais, são equivalentes.
+
+24
+00:01:47.400 --> 00:01:52.719
+Por isso que vocês veem aqui dentro do XML, essas duas tags com o mesmo valor.
+
+25
+00:01:54.500 --> 00:01:56.859
+A estrutura do XML, ela é gigantesca, né?
+
+26
+00:01:56.920 --> 00:01:59.939
+Então, eu fui printando para demonstrar para vocês os pontos-chave,
+
+27
+00:02:00.280 --> 00:02:05.900
+para que vocês vejam a prática de preenchimento do documento, tá?
+
+28
+00:02:10.520 --> 00:02:10.659
+Dentro desse documento, eu enxerguei, então, as informações do grupo UBI,
+
+29
+00:02:20.719 --> 00:02:21.319
+ou seja, CST, C Class Trib, informações do CBS, informações do IBS, UF, certo?
+
+30
+00:02:48.800 --> 00:02:49.080
+Dentro dessa perspectiva, o primeiro ponto que eu quero que vocês observem, primeiro pessoal, dentro da iniciativa do ano de 2026, nós temos a vocês estão vendo a tag IBS 1.0.0.
+
+31
+00:02:50.599 --> 00:02:50.759
+Por que que é esse um ponto importante?
+
+32
+00:02:55.199 --> 00:02:57.879
+O IBS, ele será administrado e a sua arrecadação será dividida pelos municípios e pelos estados.
+
+33
+00:02:58.240 --> 00:03:00.400
+Por isso que nós temos o comitê gestor.
+
+34
+00:03:00.759 --> 00:03:13.759
+Por isso que a LC 227 cria, então, e institui o comitê gestor, porque nós vamos ter dois níveis de governo trazendo o contexto de administração do IBS.
+
+35
+00:03:14.280 --> 00:03:23.439
+Para esse ano de 2026, o IBS IMO não entra nessa obrigatoriedade, por isso que ele está como 00.
+
+36
+00:03:24.060 --> 00:03:31.060
+Tudo bem? Esse é o primeiro ponto. Então, vocês estão vendo dentro desse documento fiscal eletrônico, o IBS, o F, que
+
+37
+00:03:31.060 --> 00:03:56.340
+representam os estados e o CBS, tudo bem? O segundo passo é nós analisarmos a base de cálculo do IBS e da CBS. Vejam que estamos falando no valor de 173,34. É diferente do valor unitário de 179,91 que vimos no slide anterior.
+
+38
+00:03:56.599 --> 00:04:07.139
+Quando falamos do valor unitário, quando falamos do valor tributado. E por que, professor, esse valor de base está diferente do valor unitário do documento?
+
+39
+00:04:07.139 --> 00:04:16.420
+Porque a incidência do IBS e da CBS, ela é diferente. É o valor da operação. É o valor de fato que está
+
+40
+00:04:16.420 --> 00:04:28.360
+sendo cobrado, menos as exclusões previstas no artigo 12. Ou seja, para o IBS-CBS o XML calculado usa uma base específica,
+
+41
+00:04:28.500 --> 00:04:35.040
+usa uma incidência específica no valor de 133 e 34.
+
+42
+00:04:35.540 --> 00:04:52.920
+O artigo 12, ele fala sobre o valor da operação e fala que poderá ser excluído o PIS e COFINS. E o PIS e COFINS desse documento fiscal eletrônico é PIS de 1,17, COFINS 5,40.
+
+43
+00:04:53.319 --> 00:05:02.000
+Se a gente pegar o 179,91 menos PIS e COFINS, nós chegamos ao valor da base de cálculo do IBS e da CBS.
+
+44
+00:05:03.160 --> 00:05:08.300
+Atenção, pode ser que o seu sistema esteja levando 179,91
+
+45
+00:05:08.300 --> 00:05:12.899
+e nós vamos estar onerando o nosso contribuinte de forma indevida.
+
+46
+00:05:13.819 --> 00:05:17.600
+Mesmo que ele não esteja arrecadando, tirando dinheiro do bolso,
+
+47
+00:05:17.680 --> 00:05:21.839
+nós estamos falando de uma forma de compensação, de um valor devido.
+
+48
+00:05:21.839 --> 00:05:26.319
+O que o XML está mostrando está correto.
+
+49
+00:05:27.220 --> 00:05:30.939
+O valor da operação menos aquilo que o artigo 12 nos representa.
+
+50
+00:05:31.480 --> 00:05:35.139
+Então, o valor da produção é o valor da operação bruta,
+
+51
+00:05:36.079 --> 00:05:38.500
+o valor da base de cálculo do ICMS,
+
+52
+00:05:38.500 --> 00:05:50.420
+o valor da base de cálculo do IBS e da CBS é o valor oneroso, já depurado dos tributos excluídos que estão dentro do artigo 12.
+
+53
+00:05:51.160 --> 00:05:57.019
+O valor do CBS e o valor do IBS já são calculados em cima da base correta.
+
+54
+00:05:58.420 --> 00:06:07.000
+É a aplicação prática do artigo 12 da formação então da base de cálculo e do preenchimento do documento fiscal eletrônico.
+
+55
+00:06:08.720 --> 00:06:13.180
+As informações do PIS e COFINS estão dentro desse XML, olha lá.
+
+56
+00:06:15.319 --> 00:06:21.120
+CST 01, base de cálculo do PIS e COFINS 179,91.
+
+57
+00:06:22.040 --> 00:06:25.920
+Qual o valor do COFINS? A alíquota, 3%.
+
+58
+00:06:25.920 --> 00:06:30.240
+Ou seja, isso me remete que essa empresa é do lucro presumido.
+
+59
+00:06:30.879 --> 00:06:33.040
+Olha lá, CST do PIS.
+
+60
+00:06:34.300 --> 00:06:36.480
+O valor da base é 179,91.
+
+61
+00:06:37.620 --> 00:06:38.740
+0,65.
+
+62
+00:06:39.740 --> 00:06:41.220
+É uma empresa do lucro presumido.
+
+63
+00:06:41.720 --> 00:06:47.019
+Segundo ponto, ele está considerando o valor tributado de 179,91,
+
+64
+00:06:47.319 --> 00:06:53.579
+porque a fundamentação do PIS e da COFINS não fala para retirar ele da sua própria base,
+
+65
+00:06:53.939 --> 00:06:56.939
+até porque o PIS e COFINS faz parte da base de cálculo dele,
+
+66
+00:06:57.040 --> 00:06:58.839
+porque é calculado por dentro.
+
+67
+00:06:58.839 --> 00:07:05.939
+A gente só vai ter essa perspectiva se a gente souber do nosso sistema tributário atual,
+
+68
+00:07:06.420 --> 00:07:10.459
+senão a gente vai errar aqui nas informações do IBS e da CBS.
+
+69
+00:07:11.660 --> 00:07:22.459
+Ou seja, pessoal, o valor do item é 179,91, a base de cálculo do PIS é 179,91, assim como a COFINS.
+
+70
+00:07:22.899 --> 00:07:26.720
+No modelo atual, o PIS e a COFINS integram a sua própria base.
+
+71
+00:07:26.839 --> 00:07:29.540
+Por isso que nós vemos o 179,91.
+
+72
+00:07:29.879 --> 00:07:32.079
+Porque ele é um cálculo por dentro.
+
+73
+00:07:32.839 --> 00:07:35.600
+A base é exatamente o valor total da operação.
+
+74
+00:07:36.519 --> 00:07:42.839
+Só que, nessa nova sistemática, nós estamos dizendo que não.
+
+75
+00:07:43.139 --> 00:07:45.639
+Nós temos particularidades diferentes.
+
+76
+00:07:51.019 --> 00:07:53.500
+O artigo 12 nos representa muito sobre a integração e a não integração da base de cálculo do IBS e da CBS.
+
+77
+00:07:54.300 --> 00:07:58.040
+E atenção pessoal, pode ser que a gente não esteja levando tão a sério
+
+78
+00:07:58.040 --> 00:08:00.740
+porque nós temos uma alíquota pequena em 2026,
+
+79
+00:08:01.379 --> 00:08:04.519
+mas 2026 é o momento de adaptação e teste,
+
+80
+00:08:04.519 --> 00:08:06.420
+ou seja, não dá
+
+81
+00:08:06.420 --> 00:08:08.120
+para levar esse problema para
+
+82
+00:08:08.120 --> 00:08:10.660
+2027. 2027
+
+83
+00:08:10.660 --> 00:08:12.259
+o jogo já vai estar valendo,
+
+84
+00:08:12.360 --> 00:08:14.139
+já vai ter débito e crédito.
+
+85
+00:08:14.620 --> 00:08:16.439
+Então agora é o momento da gente avaliar
+
+86
+00:08:16.439 --> 00:08:18.319
+os processos, agora é o momento
+
+87
+00:08:18.319 --> 00:08:19.879
+da gente rever os procedimentos.
+
+88
+00:08:22.959 --> 00:08:24.160
+PIS e COFINS continuam
+
+89
+00:08:24.160 --> 00:08:26.019
+calculados sobre o valor unitário
+
+90
+00:08:26.019 --> 00:08:30.540
+o resultado do XML exige uma diferença de base
+
+91
+00:08:30.540 --> 00:08:34.899
+porque estamos falando de uma base de cálculo diferente
+
+92
+00:08:34.899 --> 00:08:37.820
+a formação dela é diferente

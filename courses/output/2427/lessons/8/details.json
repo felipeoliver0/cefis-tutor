@@ -1,0 +1,33 @@
+{
+  "id": 465634,
+  "title": "Passo a passo",
+  "position": 8,
+  "duration": 377,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/82bf7255-916d-4ffe-95d2-18b31d78a24c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/82bf7255-916d-4ffe-95d2-18b31d78a24c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/82bf7255-916d-4ffe-95d2-18b31d78a24c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/82bf7255-916d-4ffe-95d2-18b31d78a24c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/82bf7255-916d-4ffe-95d2-18b31d78a24c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

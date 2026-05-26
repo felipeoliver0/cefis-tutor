@@ -1,0 +1,33 @@
+{
+  "id": 488014,
+  "title": "Quiz - Parte 15",
+  "position": 39,
+  "duration": 36,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/c699ce57-b7e4-4663-ac41-adf2ef43a64c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c699ce57-b7e4-4663-ac41-adf2ef43a64c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c699ce57-b7e4-4663-ac41-adf2ef43a64c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c699ce57-b7e4-4663-ac41-adf2ef43a64c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c699ce57-b7e4-4663-ac41-adf2ef43a64c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

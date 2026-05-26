@@ -1,0 +1,33 @@
+{
+  "id": 487159,
+  "title": "Motor de cálculo",
+  "position": 9,
+  "duration": 203,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/52a99193-28e1-43a2-941b-f4f2f14fd81d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52a99193-28e1-43a2-941b-f4f2f14fd81d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52a99193-28e1-43a2-941b-f4f2f14fd81d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52a99193-28e1-43a2-941b-f4f2f14fd81d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52a99193-28e1-43a2-941b-f4f2f14fd81d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 488234,
+  "title": "Intenção X Percepção",
+  "position": 10,
+  "duration": 121,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/d76929d4-da5d-4a6c-926f-792d343d8014/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d76929d4-da5d-4a6c-926f-792d343d8014/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d76929d4-da5d-4a6c-926f-792d343d8014/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d76929d4-da5d-4a6c-926f-792d343d8014/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d76929d4-da5d-4a6c-926f-792d343d8014/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

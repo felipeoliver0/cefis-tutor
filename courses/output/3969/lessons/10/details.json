@@ -1,0 +1,33 @@
+{
+  "id": 480607,
+  "title": "Início do Século XX Parte 1",
+  "position": 10,
+  "duration": 377,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/989a04f8-21bf-4bac-b720-4951a3ea0645/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/989a04f8-21bf-4bac-b720-4951a3ea0645/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/989a04f8-21bf-4bac-b720-4951a3ea0645/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/989a04f8-21bf-4bac-b720-4951a3ea0645/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/989a04f8-21bf-4bac-b720-4951a3ea0645/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

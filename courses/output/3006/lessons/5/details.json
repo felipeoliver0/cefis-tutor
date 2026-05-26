@@ -1,0 +1,33 @@
+{
+  "id": 472861,
+  "title": "Como aplicar seus conhecimentos?",
+  "position": 5,
+  "duration": 87,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d27ad1d4-6039-4f2e-bfbc-95aafbc9d023/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d27ad1d4-6039-4f2e-bfbc-95aafbc9d023/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d27ad1d4-6039-4f2e-bfbc-95aafbc9d023/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d27ad1d4-6039-4f2e-bfbc-95aafbc9d023/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d27ad1d4-6039-4f2e-bfbc-95aafbc9d023/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

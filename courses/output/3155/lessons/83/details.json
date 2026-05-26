@@ -1,0 +1,33 @@
+{
+  "id": 475998,
+  "title": "Fluxo de caixa direto e indireto 2",
+  "position": 83,
+  "duration": 220,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bb352c6b-9ab2-41ec-a912-d4f938404217/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb352c6b-9ab2-41ec-a912-d4f938404217/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb352c6b-9ab2-41ec-a912-d4f938404217/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb352c6b-9ab2-41ec-a912-d4f938404217/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb352c6b-9ab2-41ec-a912-d4f938404217/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

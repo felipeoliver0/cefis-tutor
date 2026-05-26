@@ -1,0 +1,233 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.780
+começar aqui é a parte dos passivos fornecedores nacionais.
+
+2
+00:00:04.789 --> 00:00:08.659
+Quando a gente pensa em fornecedores, oh,
+
+3
+00:00:09.350 --> 00:00:13.000
+quando a gente olhou lá a parte do confronto, com o fiscal,
+
+4
+00:00:13.010 --> 00:00:16.780
+toda a movimentação de notas fiscais de compra, a gente validou,
+
+5
+00:00:17.389 --> 00:00:21.500
+olhando especificamente a entrada no estoque, olhando as contas de resultado.
+
+6
+00:00:21.510 --> 00:00:23.479
+Beleza, opa, beleza!
+
+7
+00:00:23.489 --> 00:00:29.319
+Thiago em regra, com contrapartida dessas contas, cai, aonde no nosso fornecedor,
+
+8
+00:00:29.329 --> 00:00:30.459
+lá, no passivo
+
+9
+00:00:31.680 --> 00:00:32.209
+beleza.
+
+10
+00:00:32.220 --> 00:00:36.930
+Então, se a contabilização aconteceu correta lá, em regra pra acontecer, em regra,
+
+11
+00:00:36.939 --> 00:00:38.930
+pra acontecer correta, aqui tá bom.
+
+12
+00:00:38.939 --> 00:00:44.090
+Quando eu fiz avaliação, validação dos bancos, eu validei tudo que saiu de recurso,
+
+13
+00:00:44.099 --> 00:00:44.849
+que parte pode?
+
+14
+00:00:44.860 --> 00:00:46.659
+Tá liquidando o quê? Fornecedor.
+
+15
+00:00:46.669 --> 00:00:47.930
+Então, em regra,
+
+16
+00:00:47.939 --> 00:00:51.209
+as movimentações de aumento e redução
+
+17
+00:00:51.220 --> 00:00:54.430
+de fornecedores indiretamente eu já validei.
+
+18
+00:00:55.069 --> 00:00:58.779
+Então eu preciso fazer um refino agora nesse momento,
+
+19
+00:00:59.580 --> 00:01:01.470
+através do que pegar o REMA,
+
+20
+00:01:01.479 --> 00:01:05.970
+o demonstrativo de contas a pagar gerado pelo setor responsável,
+
+21
+00:01:05.980 --> 00:01:08.129
+um problema que pode acontecer,
+
+22
+00:01:08.779 --> 00:01:11.300
+o departamento de Contas a pagar.
+
+23
+00:01:11.309 --> 00:01:16.190
+Ele controla fornecedor, contas a pagar, empréstimos, financiamentos,
+
+24
+00:01:16.199 --> 00:01:18.290
+impostos, tudo no mesmo documento.
+
+25
+00:01:19.250 --> 00:01:22.260
+Então, muitas das vezes pode vir um relatório que tem várias coisas.
+
+26
+00:01:22.269 --> 00:01:27.379
+Nós vamos ter que mapear o que é que é pra cada um pra que eu possa segregar e falar opa,
+
+27
+00:01:27.389 --> 00:01:29.660
+estou falando especificamente de fornecedores.
+
+28
+00:01:29.669 --> 00:01:32.300
+Então tá aqui Relação de trezentos itens.
+
+29
+00:01:32.309 --> 00:01:35.040
+Opa Desses trezentos duzentos e oitenta é fornecedor.
+
+30
+00:01:35.050 --> 00:01:41.699
+Os outros vinte em folha, empréstimo, financiamento, pá, beleza, okay!
+
+31
+00:01:41.709 --> 00:01:43.400
+Faça o teste, né?
+
+32
+00:01:44.510 --> 00:01:45.680
+Verifico ele,
+
+33
+00:01:45.690 --> 00:01:48.160
+outra coisa que a gente pode utilizar pra testar
+
+34
+00:01:48.169 --> 00:01:50.839
+notas fiscais de terceiros de quem eu comprei,
+
+35
+00:01:50.849 --> 00:01:53.879
+um produto que eu vou pagar dum serviço que eu contratei
+
+36
+00:01:53.889 --> 00:01:58.099
+tá bom e os comprovantes de pagamento pra liquidar a liquidação,
+
+37
+00:01:58.110 --> 00:02:02.919
+pra fazer pra validar a liquidação, liquidar a liquidação não dá, né gente!
+
+38
+00:02:02.930 --> 00:02:04.180
+Validar a liquidação
+
+39
+00:02:04.690 --> 00:02:09.080
+que tipo de teste que a gente sempre faz confirma o saldo contábil.
+
+40
+00:02:09.089 --> 00:02:14.139
+Peguei o relatório refin porque ele pode vir em coisas que não são fornecedores.
+
+41
+00:02:14.149 --> 00:02:18.399
+Bati com o saldo contábil, fechou beleza? Oh! Que coisa boa
+
+42
+00:02:19.089 --> 00:02:24.100
+testar as provisões das notas fiscais com o que tá registrado na contabilidade.
+
+43
+00:02:24.110 --> 00:02:28.179
+Bom, se eu já validei uma boa parte lá no confronto contabil fiscal eu vou.
+
+44
+00:02:28.190 --> 00:02:30.839
+Tá muito seguro pra validar isso aqui, né?
+
+45
+00:02:32.000 --> 00:02:34.990
+Testa as baixas com os comprovantes de pagamento. Opa!
+
+46
+00:02:35.000 --> 00:02:37.100
+No momento que eu validei o meu banco lá,
+
+47
+00:02:37.110 --> 00:02:41.529
+que saiu de recurso automaticamente já vai tá validando uma parte disso.
+
+48
+00:02:41.539 --> 00:02:44.250
+No momento que eu pego que é efetivamente,
+
+49
+00:02:44.259 --> 00:02:47.229
+é fornecedor que tá no meu financeiro e confronto com a contabilidade.
+
+50
+00:02:47.240 --> 00:02:52.710
+Deu divergência gente ou é um problema de provisão? É um problema de baixa.
+
+51
+00:02:53.690 --> 00:02:58.179
+Outro item, muito importante, a empresa não tem histórico de atrasar a conta.
+
+52
+00:02:58.190 --> 00:03:01.960
+Deixar de pagar tá lá com um fornecedor antigo em aberto.
+
+53
+00:03:02.710 --> 00:03:04.100
+Tem que dar uma olhada nisso aí
+
+54
+00:03:04.740 --> 00:03:07.190
+aí, lembra das a adiantamento a fornecedores.
+
+55
+00:03:07.199 --> 00:03:10.669
+É onde a gente pode também fazer uma referência cruzada.
+
+56
+00:03:10.679 --> 00:03:13.070
+Quando a gente concilia, lá a gente acaba conciliando aqui.
+
+57
+00:03:13.080 --> 00:03:14.949
+Então, o adiantamento é fornecedor fornecedor.
+
+58
+00:03:14.960 --> 00:03:18.809
+A gente concilia, meio que no mesmo momento não é fazer um. Depois o outro.

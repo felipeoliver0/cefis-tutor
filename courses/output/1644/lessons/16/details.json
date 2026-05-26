@@ -1,0 +1,33 @@
+{
+  "id": 454422,
+  "title": "Aula 16 - Limitações Constitucionais ao Poder de Tributar",
+  "position": 16,
+  "duration": 266,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/40929e64-33bc-4c9a-8b20-0c012e44694f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40929e64-33bc-4c9a-8b20-0c012e44694f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40929e64-33bc-4c9a-8b20-0c012e44694f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40929e64-33bc-4c9a-8b20-0c012e44694f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40929e64-33bc-4c9a-8b20-0c012e44694f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

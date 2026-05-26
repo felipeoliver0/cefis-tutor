@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4498,
+    "title": "Reforma tributaria - Regimes específicos",
+    "subtitle": "Setor imobiliário",
+    "summary": "Neste curso \"Reforma tributaria - Regimes específicos\" você irá aprender na prática tudo o que precisa saber sobre Reforma tributaria - Regimes específicos. Aprenderá os fundamentos e a prática de regimes específicos de tributação, particularidades do setor imobiliário e novos modelos de incidência tributária e vários outros temas para você que deseja se atualizar ou aprender tudo sobre Reforma tributaria - Regimes específicos.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/1d89f709-bab5-46c6-9856-57ba88b08f94-thumbnail.png",
+    "goals": [
+      "O objetivo do curso \"Reforma tributaria - Regimes específicos: Setor imobiliário\" é a capacitação para a aplicação prática de regimes tributários específicos aplicados ao setor imobiliário no contexto da reforma tributária."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 3078,
+    "keywords": "imobiliario;reforma",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 79,
+    "averageRating": 9.29,
+    "practiceAverage": 9.24,
+    "trailer": {
+      "id": "448435e8-5100-468d-ac06-ce5afc2f9085",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/448435e8-5100-468d-ac06-ce5afc2f9085/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/448435e8-5100-468d-ac06-ce5afc2f9085/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/448435e8-5100-468d-ac06-ce5afc2f9085/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/448435e8-5100-468d-ac06-ce5afc2f9085/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-04-30T17:36:20.000Z",
+      "updatedAt": "2026-04-30T17:36:20.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-04-30T17:39:07.000Z",
+    "recordedAt": "2026-04-20T00:00:00.000Z",
+    "createdAt": "2026-04-21T21:53:38.000Z"
+  }
+}

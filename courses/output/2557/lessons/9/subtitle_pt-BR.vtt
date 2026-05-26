@@ -1,0 +1,425 @@
+WEBVTT
+
+1
+00:00:00.129 --> 00:00:02.819
+pessoal. E quais são os portais de informação, né?
+
+2
+00:00:02.829 --> 00:00:05.739
+Onde nós podemos obter informação de qualidade?
+
+3
+00:00:05.750 --> 00:00:09.319
+Informação sobre esses documentos fiscais, eletrônicos.
+
+4
+00:00:09.630 --> 00:00:10.840
+Essas informações estão,
+
+5
+00:00:10.850 --> 00:00:14.770
+principalmente no portal nacional da Nota Fiscal Eletrônica.
+
+6
+00:00:14.779 --> 00:00:18.600
+É o Portal Nacional. Ele tem todas as informações da nota fiscal eletrônica.
+
+7
+00:00:18.610 --> 00:00:22.040
+Você pode consultar a documentação técnica, né?
+
+8
+00:00:22.049 --> 00:00:25.000
+Aquelas documentações que os programadores,
+
+9
+00:00:25.010 --> 00:00:28.280
+analistas de sistemas precisam pra fazer as adequações
+
+10
+00:00:28.290 --> 00:00:31.299
+nos sistemas emissores de documentos fiscais eletrônicos.
+
+11
+00:00:31.559 --> 00:00:34.810
+Nós temos toda a legislação aplicável, a nota fiscal eletrônica.
+
+12
+00:00:34.819 --> 00:00:38.610
+Neste portal atualizada, nós temos informações,
+
+13
+00:00:38.619 --> 00:00:42.810
+dúvidas e informações gerais a respeito dos documentos fiscais eletrônicas,
+
+14
+00:00:42.819 --> 00:00:44.250
+tabelas, auxiliares.
+
+15
+00:00:44.259 --> 00:00:47.869
+Nós temos vários documentos lá que podem ser consultados.
+
+16
+00:00:47.880 --> 00:00:51.169
+Nós temos o monitoramento do site de autorização, de uso,
+
+17
+00:00:51.180 --> 00:00:54.889
+onde a gente pode ver se a Secretaria da Fazenda do meu Estado está ativa ou inativa,
+
+18
+00:00:54.900 --> 00:00:57.819
+se é o caso de eu acionar uma alternativa de contingência,
+
+19
+00:00:57.830 --> 00:01:00.069
+conforme nós vamos ver mais pra frente, aqui no curso
+
+20
+00:01:00.409 --> 00:01:02.779
+e também nós podemos fazer consultas.
+
+21
+00:01:02.790 --> 00:01:03.720
+Todos os documentos,
+
+22
+00:01:03.729 --> 00:01:06.760
+Nota Fiscal Eletrônica Modelo cinquenta e cinco emitidos no Brasil.
+
+23
+00:01:06.949 --> 00:01:11.389
+Esses documentos, todos estão no Portal Nacional da Nota Fiscal Eletrônica.
+
+24
+00:01:11.400 --> 00:01:11.870
+Então,
+
+25
+00:01:11.879 --> 00:01:16.190
+é um portal bastante interessante da gente conhecer o endereço É WWW
+
+26
+00:01:16.199 --> 00:01:20.199
+ponto n f e ponto fazenda ponto gov ponto BR Tá bom?
+
+27
+00:01:20.209 --> 00:01:24.040
+Esse é o endereço do Portal Nacional da Nota Fiscal Eletrônica Tá bom,
+
+28
+00:01:24.050 --> 00:01:26.319
+mas não é tudo tá bom.
+
+29
+00:01:26.330 --> 00:01:31.419
+Nós temos também os portais da nota fiscal eletrônica de cada estado, né?
+
+30
+00:01:31.900 --> 00:01:35.230
+Cada estado também tem ali o seu portal de informação.
+
+31
+00:01:35.239 --> 00:01:39.389
+Própria, né Onde nós temos legislação específica do Estado?
+
+32
+00:01:39.400 --> 00:01:44.230
+A gente sabe que o I C M S é o imposto, que ele é muito divergente de um Estado pro outro.
+
+33
+00:01:44.239 --> 00:01:46.870
+Embora o documento tenha um padrão técnico único,
+
+34
+00:01:46.879 --> 00:01:50.269
+Às vezes tem algum detalhe que pode precisa ser stado de um estado pro outro,
+
+35
+00:01:50.279 --> 00:01:52.430
+conforme nós vamos ver aqui mais pra frente no curso?
+
+36
+00:01:52.440 --> 00:01:53.849
+Tá. Nós temos também
+
+37
+00:01:54.169 --> 00:01:58.339
+comunicados como Ah, olha, vai ter uma manutenção técnica no dia,
+
+38
+00:01:58.349 --> 00:02:01.160
+tal vai ficar fora do ar por tantos minutos e tal.
+
+39
+00:02:01.169 --> 00:02:04.540
+Esses comunicados, essas comunicações, comunicados, técnicos,
+
+40
+00:02:04.550 --> 00:02:08.500
+paradas e tudo mais estão disponíveis no portal do seu estado.
+
+41
+00:02:08.508 --> 00:02:09.080
+Tá bom!
+
+42
+00:02:09.750 --> 00:02:13.279
+Nós temos também a consulta parecido com o Portal Nacional.
+
+43
+00:02:13.289 --> 00:02:17.240
+Nós temos também a consulta no Estado tá mais uma ferramenta,
+
+44
+00:02:17.250 --> 00:02:19.440
+mais uma ferramenta que tem na sua mão pra você utilizar,
+
+45
+00:02:19.449 --> 00:02:24.160
+que o Estado disponibiliza pra você estar utilizando Tá, nós temos, é claro,
+
+46
+00:02:24.169 --> 00:02:26.440
+o sistema de autorização de uso e, é claro,
+
+47
+00:02:26.449 --> 00:02:29.880
+os o credenciamento pros estados que assim exigem, né?
+
+48
+00:02:29.889 --> 00:02:33.800
+A gente sabe que tem estado que tem o que chamamos de credenciamento de ofício, né?
+
+49
+00:02:33.809 --> 00:02:36.039
+O contribuinte não precisa se credenciar,
+
+50
+00:02:36.050 --> 00:02:38.460
+ele já está automaticamente credenciado.
+
+51
+00:02:38.720 --> 00:02:41.770
+Mas temos outros estados também que o contribuinte precisa entrar e
+
+52
+00:02:41.779 --> 00:02:44.570
+fazer lá a opção por emitir a nota fiscal eletrônica,
+
+53
+00:02:44.580 --> 00:02:44.729
+né?
+
+54
+00:02:44.740 --> 00:02:47.690
+Então, isso é no portal do seu estado, tá bom,
+
+55
+00:02:47.699 --> 00:02:53.570
+A gente trouxe uma série de exemplos aqui do Sefaz do Acre, Goiás, São Paulo,
+
+56
+00:02:53.580 --> 00:02:56.470
+Rio Grande do Sul, Bahia, Amazonas, mas
+
+57
+00:02:56.789 --> 00:03:00.960
+vários outros estados também tem. Isso aqui é apenas a título de informação.
+
+58
+00:03:00.970 --> 00:03:03.600
+Fica aí pra vocês consultarem que vocês vão ver que
+
+59
+00:03:03.610 --> 00:03:05.960
+a carinha de cada estado é diferente do outro?
+
+60
+00:03:05.970 --> 00:03:08.119
+Isso também é bem bacana da gente observar, né?
+
+61
+00:03:08.130 --> 00:03:11.759
+Mas o conteúdo deles é muito similar,
+
+62
+00:03:11.770 --> 00:03:14.720
+embora a apresentação seja um pouquinho diferente, tá bom,
+
+63
+00:03:14.729 --> 00:03:17.240
+Esses são os portais de informação,
+
+64
+00:03:17.250 --> 00:03:20.320
+onde a gente pode obter informação sobre o documento.
+
+65
+00:03:20.330 --> 00:03:24.059
+E, é claro, uma coisa que é muito importante a consulta pública do documento também
+
+66
+00:03:24.350 --> 00:03:28.160
+nesses portais de informação. Nós Temos também pessoal mais criado.
+
+67
+00:03:28.169 --> 00:03:29.539
+Mais recentemente,
+
+68
+00:03:29.550 --> 00:03:36.000
+o Portal dos Documentos Fiscais Eletrônicos da Sefaz Virtual do Rio Grande do Sul Tá
+
+69
+00:03:36.009 --> 00:03:39.839
+CFA Fase virtual é um nome que a gente dá pra Secretaria da Fazenda,
+
+70
+00:03:39.850 --> 00:03:43.520
+que autoriza documentos pra outros estados, né?
+
+71
+00:03:43.529 --> 00:03:44.449
+Então, por exemplo,
+
+72
+00:03:44.460 --> 00:03:47.860
+o estado do Rio de Janeiro não autoriza documentos
+
+73
+00:03:47.869 --> 00:03:49.690
+na Sefaz do Estado do Rio de Janeiro.
+
+74
+00:03:49.699 --> 00:03:53.750
+Ele usam a fase virtual, que é que fica lá no Rio Grande do Sul,
+
+75
+00:03:53.759 --> 00:03:57.750
+que recebe documento e autoriza como se fosse o Rio de Janeiro,
+
+76
+00:03:57.759 --> 00:03:58.820
+em nome do Rio de Janeiro.
+
+77
+00:03:58.830 --> 00:04:00.619
+Isso que é uma se fase virtual? Tá?
+
+78
+00:04:00.630 --> 00:04:05.339
+É uma Sefaz que presta o serviço de autorização de uso pra outro estado, né?
+
+79
+00:04:05.350 --> 00:04:10.500
+E trabalha como se fosse Tem a mesma validade. É como se fosse a Sefaz daquele Estado.
+
+80
+00:04:10.509 --> 00:04:12.380
+Eu dei o exemplo aqui do Rio de Janeiro,
+
+81
+00:04:12.389 --> 00:04:16.678
+que autoriza nota fiscal eletrônica e nota fiscal do consumidor eletrônico.
+
+82
+00:04:16.690 --> 00:04:18.798
+Na se fase virtual do Rio Grande do Sul.
+
+83
+00:04:19.260 --> 00:04:19.950
+Então pessoal,
+
+84
+00:04:19.959 --> 00:04:23.190
+a essa fase virtual criou o Portal dos Documentos Fiscais Eletrônicos,
+
+85
+00:04:23.200 --> 00:04:27.589
+que é uma grande sacada por que é um portal único que ele foi
+
+86
+00:04:27.600 --> 00:04:32.690
+criado e mantido pela Secretaria da Fazenda Virtual do Rio Grande do Sul.
+
+87
+00:04:32.700 --> 00:04:35.750
+Ele é um canal de comunicação com a sociedade. Por quê?
+
+88
+00:04:35.760 --> 00:04:40.670
+Porque ele contempla a informação de todos os documentos fiscais eletrônicos.
+
+89
+00:04:40.679 --> 00:04:43.070
+É um portal único que você, a partir dele,
+
+90
+00:04:43.079 --> 00:04:47.010
+você tem acesso a todos os documentos fiscais, eletrônicos, né?
+
+91
+00:04:47.200 --> 00:04:51.730
+Então, você não precisa ficar entrando no portal de cada documento, né?
+
+92
+00:04:51.739 --> 00:04:54.510
+A gente, por exemplo, tem o Portal Nacional da Nota Fiscal Eletrônica.
+
+93
+00:04:54.519 --> 00:04:57.470
+Temos o Portal Nacional do Conhecimento de Transporte Eletrônico.
+
+94
+00:04:57.730 --> 00:04:58.980
+São dois portais distintos.
+
+95
+00:04:58.989 --> 00:05:03.059
+Aqui não todos os documentos fiscais, eletrônicos, bilhete de passagem,
+
+96
+00:05:03.070 --> 00:05:06.899
+manifesto eletrônico de documentos fiscais, nota fiscal eletrônica,
+
+97
+00:05:06.910 --> 00:05:12.179
+nota do consumidor eletrônico, documentos de transporte C T e né Nota Fiscal Fácil,
+
+98
+00:05:12.190 --> 00:05:15.420
+que é o produto novo aí que o fisco estadual tá lançando.
+
+99
+00:05:15.429 --> 00:05:18.940
+Todos esses documentos eletrônicos estão no portal de documentos fiscais
+
+100
+00:05:18.950 --> 00:05:21.029
+eletrônicos da Sefaz Viral do Rio Grande do Sul.
+
+101
+00:05:21.040 --> 00:05:22.839
+Por que que isso é especialmente bom?
+
+102
+00:05:23.209 --> 00:05:26.700
+Isso é especialmente bom porque consegue em um canal único
+
+103
+00:05:26.709 --> 00:05:31.619
+de comunicação entregar pro contribuinte uma grande quantidade de informação.
+
+104
+00:05:31.630 --> 00:05:32.079
+Tá?
+
+105
+00:05:32.089 --> 00:05:37.660
+Então fica aí a dica do portal de documentos Fiscais Eletrônicos da Sefaz,
+
+106
+00:05:37.670 --> 00:05:39.920
+Virtual Rio Grande do Sul Tá

@@ -1,0 +1,33 @@
+{
+  "id": 462142,
+  "title": "Praticando",
+  "position": 48,
+  "duration": 718,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fa0eddf3-7002-4290-bc7d-620f0b601317/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fa0eddf3-7002-4290-bc7d-620f0b601317/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fa0eddf3-7002-4290-bc7d-620f0b601317/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fa0eddf3-7002-4290-bc7d-620f0b601317/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fa0eddf3-7002-4290-bc7d-620f0b601317/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

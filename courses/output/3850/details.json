@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3850,
+    "title": "EFD REINF 2025",
+    "subtitle": "Escrituração Fiscal Substituta da DIRF",
+    "summary": "Este curso é projetado para contadores e gestores fiscais que precisam se atualizar com as mudanças impostas pela introdução da EFD-REINF em 2025, que substituirá a DIRF. Com módulos divididos entre aspectos teóricos e práticos, o curso abrange desde a introdução à EFD-REINF, detalhamento de suas novas regras, até exemplos práticos e o futuro da escrituração digital. Os participantes aprenderão sobre a importância da EFD-REINF no cenário fiscal brasileiro, as mudanças nos procedimentos de declaração e retenção de impostos, e como configurar sistemas para cumprir com as novas exigências legais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/80bc2691-abe5-4a56-81ed-a34b10c5adc1-thumbnail.png",
+    "goals": [
+      "Capacitar os participantes para entenderem e aplicarem as novas regras da EFD-REINF, garantindo a conformidade fiscal e otimização dos processos de escrituração, substituindo com êxito a antiga DIRF."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 17975,
+    "keywords": "EFD-REINF;DIRF;SPED;tributação;escrituração",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 66,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 789,
+    "averageRating": 9.34,
+    "practiceAverage": 9.23,
+    "trailer": {
+      "id": "a11a89fe-b081-4f48-89c0-cd4051f5513d",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a11a89fe-b081-4f48-89c0-cd4051f5513d/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a11a89fe-b081-4f48-89c0-cd4051f5513d/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a11a89fe-b081-4f48-89c0-cd4051f5513d/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a11a89fe-b081-4f48-89c0-cd4051f5513d/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-08T14:29:28.000Z",
+      "updatedAt": "2025-07-08T14:29:28.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-07-14T11:54:20.000Z",
+    "recordedAt": "2025-07-01T00:00:00.000Z",
+    "createdAt": "2025-07-01T08:58:30.000Z"
+  }
+}

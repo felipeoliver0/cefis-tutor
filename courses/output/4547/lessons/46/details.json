@@ -1,0 +1,33 @@
+{
+  "id": 488095,
+  "title": "ECF no Lucro Presumido",
+  "position": 46,
+  "duration": 421,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/5537b515-f7f8-49eb-8849-32dbc4b190e8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5537b515-f7f8-49eb-8849-32dbc4b190e8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5537b515-f7f8-49eb-8849-32dbc4b190e8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5537b515-f7f8-49eb-8849-32dbc4b190e8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5537b515-f7f8-49eb-8849-32dbc4b190e8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

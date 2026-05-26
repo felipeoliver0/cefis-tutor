@@ -1,0 +1,33 @@
+{
+  "id": 464067,
+  "title": "Súmula 392 - STJ",
+  "position": 6,
+  "duration": 291,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5114e957-cdf0-438d-845c-549f3ba17c82/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5114e957-cdf0-438d-845c-549f3ba17c82/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5114e957-cdf0-438d-845c-549f3ba17c82/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5114e957-cdf0-438d-845c-549f3ba17c82/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5114e957-cdf0-438d-845c-549f3ba17c82/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

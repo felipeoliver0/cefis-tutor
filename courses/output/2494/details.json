@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2494,
+    "title": "DIMOB",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de DIMOB, você vai aprender como realizar a Declaração de Informações sobre atividades Imobiliárias. para isso, conhecerá obrigações, prazos, impactos referentes ao atraso na entrega, IRR em aluguéis e outros tópicos importantes, para que você domine a forma correta de elaborar e entregar essa declaração.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/21a707cd2eae3a4ca91d5c673bf080d41727451380.jpg",
+    "goals": [
+      "Demonstrar, de forma prática, aos profissionais como se deve declarar a DIMOB."
+    ],
+    "teacher": {
+      "id": 222676,
+      "name": "WALLAN AFONSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1647975454.jpeg"
+    },
+    "duration": 5280,
+    "keywords": "dimob",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 17,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 609,
+    "averageRating": 9.42,
+    "practiceAverage": 9.33,
+    "trailer": {
+      "id": "d8f11b9b-2b72-48d9-829f-53697b0c4a79",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d8f11b9b-2b72-48d9-829f-53697b0c4a79/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d8f11b9b-2b72-48d9-829f-53697b0c4a79/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d8f11b9b-2b72-48d9-829f-53697b0c4a79/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d8f11b9b-2b72-48d9-829f-53697b0c4a79/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-03-15T13:18:12.000Z",
+      "updatedAt": "2023-03-15T13:18:11.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2023-04-05T14:07:00.000Z",
+    "recordedAt": "2023-03-11T00:00:00.000Z",
+    "createdAt": "2023-03-11T13:36:20.000Z"
+  }
+}

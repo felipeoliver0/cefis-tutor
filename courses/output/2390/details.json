@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2390,
+    "title": "Conversão das demonstrações contábeis",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de conversão das demonstrações contábeis, você aprenderá desde o conceito para conversão de balanço até aspectos relacionados ao CPC 02 R2, FAS 02, métodos de Conversão de Balanços, taxa de conversão, ganhos e perdas na conversão; roteiro para elaboração conversão das DFs, exemplos e muito mais, para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/4a5b182b2b78850820bad0539572f6cf1728427961.jpg",
+    "goals": [
+      "Demonstrar desde o conceito para conversão de balanço até aspectos relacionados ao CPC 02 R2, FAS 02, métodos de Conversão de Balanços, taxa de conversão, ganhos e perdas na conversão; roteiro para elaboração conversão das DFs, exemplos e muito mais, para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 539395,
+      "name": "MAURI JOSÉ ALBERTI",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1634085836.jpeg"
+    },
+    "duration": 6972,
+    "keywords": "conversão de balanço;conversão;balanço;balanço patrimonial;demonstrações financeiras",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 289,
+    "averageRating": 9.38,
+    "practiceAverage": 9.43,
+    "trailer": {
+      "id": "51f198f0-8d2f-440a-b49a-f701ef6308dc",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/51f198f0-8d2f-440a-b49a-f701ef6308dc/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/51f198f0-8d2f-440a-b49a-f701ef6308dc/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/51f198f0-8d2f-440a-b49a-f701ef6308dc/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/51f198f0-8d2f-440a-b49a-f701ef6308dc/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-15T08:01:07.000Z",
+      "updatedAt": "2022-12-15T08:01:06.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 4,
+    "launchDate": "2023-01-03T18:14:31.000Z",
+    "recordedAt": "2022-11-26T00:00:00.000Z",
+    "createdAt": "2022-12-05T11:54:48.000Z"
+  }
+}

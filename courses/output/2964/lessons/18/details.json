@@ -1,0 +1,33 @@
+{
+  "id": 472633,
+  "title": "QUAL A CFOP- 5",
+  "position": 18,
+  "duration": 38,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f97596dd-e40e-4505-a669-2c6fac0f8825/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f97596dd-e40e-4505-a669-2c6fac0f8825/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f97596dd-e40e-4505-a669-2c6fac0f8825/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f97596dd-e40e-4505-a669-2c6fac0f8825/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f97596dd-e40e-4505-a669-2c6fac0f8825/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

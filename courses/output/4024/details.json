@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4024,
+    "title": "Comunicação Verbal e Não verbal",
+    "subtitle": "O poder de falar e ouvir com excelência",
+    "summary": "Este curso aborda as principais formas de comunicação utilizadas no cotidiano, explorando tanto a linguagem verbal (oral e escrita) quanto a não verbal (gestos, expressões faciais, postura, entonação, proximidade e contato visual). O aluno aprenderá a reconhecer a importância da comunicação além das palavras, entendendo como transmitir mensagens de forma clara, eficaz e coerente. Por meio de exemplos práticos e atividades dinâmicas, será possível compreender como interpretar sinais, expressar-se com confiança e aprimorar a interação em diferentes contextos pessoais e profissionais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/c97d3e2a-a3bc-428d-81cc-afc04eda4145-thumbnail.png",
+    "goals": [
+      "Capacitar os participantes a desenvolverem competências comunicativas, compreendendo e aplicando os recursos verbais e não verbais na construção de mensagens eficazes. O curso tem como meta aprimorar a habilidade de transmitir ideias com clareza, interpretar melhor a comunicação dos outros e fortalecer a expressão interpessoal em situações sociais, acadêmicas e profissionais."
+    ],
+    "teacher": {
+      "id": 545447,
+      "name": "GISELE ALVES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1666807674.jpeg"
+    },
+    "duration": 4719,
+    "keywords": "FALAR;COMUNICAÇÃO;VERBAL;COMUNICAR;ESCUTAR",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 12,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 858,
+    "averageRating": 9.4,
+    "practiceAverage": 9.36,
+    "trailer": {
+      "id": "62cbe3d1-586d-49f2-b936-b7cdeef973d9",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/62cbe3d1-586d-49f2-b936-b7cdeef973d9/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/62cbe3d1-586d-49f2-b936-b7cdeef973d9/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/62cbe3d1-586d-49f2-b936-b7cdeef973d9/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/62cbe3d1-586d-49f2-b936-b7cdeef973d9/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-01T20:45:23.000Z",
+      "updatedAt": "2025-10-01T20:45:23.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-01T20:46:38.000Z",
+    "recordedAt": "2025-09-02T00:00:00.000Z",
+    "createdAt": "2025-10-01T20:42:00.000Z"
+  }
+}

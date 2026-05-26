@@ -1,0 +1,33 @@
+{
+  "id": 458035,
+  "title": "Exercícios Cpc 18 - 6",
+  "position": 166,
+  "duration": 381,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3ff37f0b-5afc-47fc-893a-9fbc518e973f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ff37f0b-5afc-47fc-893a-9fbc518e973f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ff37f0b-5afc-47fc-893a-9fbc518e973f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ff37f0b-5afc-47fc-893a-9fbc518e973f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ff37f0b-5afc-47fc-893a-9fbc518e973f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

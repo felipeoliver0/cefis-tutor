@@ -1,0 +1,115 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.600
+-  Qual é o sistema? É um programa validador onde o físico trata todas as informações de entrada
+
+00:00:06.600 --> 00:00:09.280
+-  e saída por blocos e registros.
+
+00:00:09.280 --> 00:00:15.480
+-  Onde você consegue identificar toda a escrituração do seu contribuinte.
+
+00:00:15.480 --> 00:00:22.400
+-  Ele é um programa validador offline, mas que há uma transmissão de forma online.
+
+00:00:22.400 --> 00:00:28.900
+-  Então, você pode fazer todos os lançamentos utilizando o próprio programa validador e fazer os
+
+00:00:28.900 --> 00:00:33.000
+-  lançamentos usando as utilidades desse programa validador.
+
+00:00:33.000 --> 00:00:38.970
+-  Então, dentro do programa validador, a gente tem alguns aspectos de ferramentas que vocês podem
+
+00:00:38.970 --> 00:00:39.840
+-  utilizar.
+
+00:00:39.840 --> 00:00:46.900
+-  Você pode buscar o próprio TXT do seu sistema operacional ou sistema contábil, ou vocês podem
+
+00:00:46.900 --> 00:00:50.600
+-  criar um arquivo zerado nesse programa.
+
+00:00:50.600 --> 00:00:56.900
+-  Tem a opção de criar nova, tem a importação da escrituração, que geralmente vem do sistema
+
+00:00:56.900 --> 00:01:00.400
+-  operacional, abrir a escrituração, verificar pendências.
+
+00:01:00.400 --> 00:01:06.470
+-  Então, o programa validador tem várias ferramentas, onde eu vou demonstrar para vocês no final
+
+00:01:06.470 --> 00:01:08.400
+-  da nossa aula um caso prático,
+
+00:01:08.400 --> 00:01:14.000
+-  onde a gente consegue identificar esses arquivos e como a gente consegue também vincular esse TXT
+
+00:01:14.000 --> 00:01:15.720
+-  para dentro do programa.
+
+00:01:15.720 --> 00:01:22.440
+-  Mas o que eu quero que vocês saibam é que dentro do layout do SPAD existem blocos, registros e
+
+00:01:22.440 --> 00:01:24.720
+-  algumas ferramentas que vocês podem utilizar
+
+00:01:24.720 --> 00:01:33.160
+-  para que, de fato, haja uma validação da estrutura. A validação não tem referência à auditoria.
+
+00:01:33.160 --> 00:01:40.040
+-  Eu vou demonstrar para vocês agora como vocês podem analisar o que tem de escrituração fiscal
+
+00:01:40.040 --> 00:01:43.480
+-  dentro dos blocos específicos do SPAD fiscal.
+
+00:01:43.480 --> 00:01:49.580
+-  Então, o que é prático, aonde é o manual que vai trazer para vocês a orientação do que lançar
+
+00:01:49.580 --> 00:01:50.840
+-  no SPAD fiscal,
+
+00:01:50.840 --> 00:01:56.060
+-  ele está separado por meio de blocos. Quais são os blocos? A gente está falando do bloco 0, de
+
+00:01:56.060 --> 00:01:57.920
+-  abertura e escrituração.
+
+00:01:57.920 --> 00:02:05.400
+-  O bloco C e D, sobre documentações fiscais. O bloco E, da apuração de fato do ICMS e do IPI.
+
+00:02:05.400 --> 00:02:11.600
+-  O bloco G, onde ele analisa o controle do CIAP sobre o ativo imobilizado.
+
+00:02:11.600 --> 00:02:19.240
+-  O bloco H e o K, é sobre o inventário e o estoque. E o bloco 1, sobre as informações gerais.
+
+00:02:19.240 --> 00:02:25.880
+-  O bloco B, ele existia por conta da obrigatoriedade do Distrito Federal sobre o ISS.
+
+00:02:25.880 --> 00:02:30.280
+-  Então, ele passa a existir por conta dessa obrigatoriedade.
+
+00:02:30.280 --> 00:02:38.020
+-  Porém, a partir do ano de 2023, o Distrito Federal tirou essa obrigatoriedade também dentro do SPAD
+
+00:02:38.020 --> 00:02:39.520
+-  fiscal.
+
+00:02:39.520 --> 00:02:45.360
+-  Eu vou demonstrar para vocês, dentro de uma planilha, como vocês podem observar o que, de fato,
+
+00:02:45.360 --> 00:02:46.680
+-  é lançado em cada bloco.
+
+00:02:46.680 --> 00:02:52.740
+-  Então, ao invés de a gente olhar o guia prático por completo, a gente vai analisar quais são as
+
+00:02:52.740 --> 00:02:53.840
+-  informações.
+
+00:02:53.840 --> 00:03:01.200
+-  Sobre esse conjunto de informações, o que vocês precisam entender, de olhar sua escrituração e
+
+00:03:01.200 --> 00:03:05.000
+-  identificar em qual bloco essa informação vai estar.

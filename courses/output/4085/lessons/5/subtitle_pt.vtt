@@ -1,0 +1,106 @@
+WEBVTT
+
+00:00:00.194 --> 00:00:08.579
+- evento de aceite de débito na apuração por emissão de nota de crédito. O que eu vou precisar fazer,
+
+00:00:08.579 --> 00:00:16.566
+- pessoal? Lembra as nossas manifestações? Que até então a gente tem manifestações ali que são
+
+00:00:16.566 --> 00:00:25.111
+- poucas, né? De conhecimento, desconhecimento, operação não realizada. A partir da reforma tributária,
+
+00:00:25.111 --> 00:00:30.142
+- lembra que nós falamos, o XML passa a ter um papel ainda mais
+
+00:00:30.306 --> 00:00:39.235
+- fundamental, ainda mais crucial dentro das apurações do complice tributário. Então a gente tem aqui
+
+00:00:39.235 --> 00:00:48.766
+- a observação do aceite. Qual que é a função deste aceite? Permitir ao destinatário informar que concorda
+
+00:00:48.866 --> 00:00:57.012
+- com os valores constantes em nota de crédito emitida pelo fornecedor ou pelo adquirente, que serão
+
+00:00:57.012 --> 00:01:05.077
+- lançadas a débito na apuração assistida do IBS e da CBS. Ou seja, fiz uma emissão de uma nota,
+
+00:01:05.077 --> 00:01:13.303
+- o outro que faz parte da negociação, nós temos aqui sempre, no mínimo, duas pessoas fazendo parte
+
+00:01:13.303 --> 00:01:16.126
+- das operações. Ali o adquirente,
+
+00:01:17.026 --> 00:01:25.009
+- e o que vai fazer ali a emissão da nota, o emissor. Quando eu emito uma nota fiscal de crédito, essa
+
+00:01:25.009 --> 00:01:32.836
+- nota fiscal, ela vai gerar um impacto na apuração do outro. Concorda comigo? O outro precisa dar o
+
+00:01:32.836 --> 00:01:40.896
+- aceite para que este valor faça ali a soma dentro da sua própria operação. Então, o que eu preciso
+
+00:01:40.896 --> 00:01:43.454
+- observar? Emite uma nota fiscal.
+
+00:01:43.842 --> 00:01:51.498
+- essa nota fiscal de ajuste, o outro que faz parte dessa negociação, o adquirente, ele precisa oferecer
+
+00:01:51.498 --> 00:01:58.862
+- o aceite. E aqui nós temos quem é o autor do evento, é o destinatário, qual é o código do tipo
+
+00:01:58.862 --> 00:02:06.226
+- de evento, neste caso aqui é o 21, 11 e 28, e a gente tem o aceite pelo aquele que vai receber esta
+
+00:02:06.226 --> 00:02:12.350
+- alteração na apuração dele. Porque, pessoal, aquilo que é um débito para mim,
+
+00:02:12.802 --> 00:02:19.317
+- Vai ser um crédito para o outro e o outro precisa aceitar e vice-versa. Então, aqui vai precisar o
+
+00:02:19.317 --> 00:02:25.768
+- quê? A gente, a partir da situação, que isso vai ser analisada conforme acontecer aquele ajuste,
+
+00:02:25.768 --> 00:02:32.219
+- conforme nós fazemos hoje, né? Hoje o pessoal chega pra nós, o pessoal de contratos, às vezes o
+
+00:02:32.219 --> 00:02:36.734
+- pessoal de contencioso, enfim, o pessoal de compras, chega com valor.
+
+00:02:37.314 --> 00:02:43.608
+- Olha, temos esse valor, por exemplo, a tomar de crédito. O que nós fazemos na área fiscal? Nós validamos
+
+00:02:43.608 --> 00:02:49.555
+- essa informação. Mas qual é o estado que eu estou falando? Ele aceita esse tipo de operação, esse
+
+00:02:49.555 --> 00:02:55.502
+- tipo de crédito, esse tipo de lançamento? Qual é o código correto para este lançamento? Aqui nós
+
+00:02:55.502 --> 00:03:01.449
+- vamos precisar fazer essas avaliações, porém também precisamos do aceite pelaquele que vai receber
+
+00:03:01.449 --> 00:03:04.798
+- o impacto na sua operação. E aqui quero fazer um adendo
+
+00:03:05.570 --> 00:03:12.641
+- para as nossas análises. Vejam que cada vez mais, dentro da reforma tributária, as nossas operações
+
+00:03:12.641 --> 00:03:19.915
+- estarão o que? Assistidas. Por quê? Eu não tenho mais, dentro da reforma tributária, quando da reforma
+
+00:03:19.915 --> 00:03:26.918
+- tributária, a possibilidade de entrar lá na minha apuração e eu fazer um ajuste, que é o que nós
+
+00:03:26.918 --> 00:03:27.870
+- fazemos hoje.
+
+00:03:28.482 --> 00:03:35.339
+- Nós entramos dentro do nosso sistema ou dentro do PVA, verificamos qual é o código de ajuste que
+
+00:03:35.339 --> 00:03:42.401
+- aquele estado permite, se tem limitação de valor, se não tem limitação de valor. Agora nós vamos
+
+00:03:42.401 --> 00:03:49.463
+- precisar emitir um XML. Por quê? Porque a nossa apuração passa a ser assistida e somente alimentada
+
+00:03:49.463 --> 00:03:54.400
+- por XML. Isso vai ser uma mudança muito importante no nosso dia a dia.

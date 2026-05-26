@@ -1,0 +1,313 @@
+WEBVTT
+
+1
+00:00:00.349 --> 00:00:03.980
+suponhamos que mandamos pro Fisco. Estamos alegre!
+
+2
+00:00:03.990 --> 00:00:08.479
+Tiramos uma férias, estamos lá na praia curtindo as nossas férias,
+
+3
+00:00:08.489 --> 00:00:13.020
+mas do outro lado eis que surge o fiscal,
+
+4
+00:00:14.369 --> 00:00:18.219
+o fiscal recebe o seu arquivo e aqui tem uma
+
+5
+00:00:18.229 --> 00:00:21.780
+planilha que eu simulei de uma auditoria deste arquivo.
+
+6
+00:00:21.790 --> 00:00:29.100
+Nosso auditoria funciona da seguinte forma Amigo Se você mandou o estoque inicial,
+
+7
+00:00:29.110 --> 00:00:32.229
+eu vou pegar o estoque inicial lá no h zero dez.
+
+8
+00:00:32.240 --> 00:00:35.779
+Oh, eu vou olhar quanto que você comprou também?
+
+9
+00:00:35.790 --> 00:00:38.290
+Vou ver se teve desmontagem no bloco K.
+
+10
+00:00:38.299 --> 00:00:43.400
+Vou ver também se teve produção, então essa parte verde
+
+11
+00:00:43.639 --> 00:00:48.669
+eu vou de de denominar ela de a parte da entrada. E é verdade.
+
+12
+00:00:48.680 --> 00:00:52.849
+Estoque inicial mais compra, mais o que você produziu.
+
+13
+00:00:52.860 --> 00:00:56.939
+Se você desmontou mais peça que você desmontou mais industrialização que
+
+14
+00:00:56.950 --> 00:01:00.529
+foi feita em terceiro e isso vai gerar um estoque total,
+
+15
+00:01:00.540 --> 00:01:04.150
+mas aí vem a parte vermelha que é a saída,
+
+16
+00:01:04.160 --> 00:01:08.629
+porém você vendeu o produto você também ou desmontar?
+
+17
+00:01:08.709 --> 00:01:12.800
+E aí eh Você deu saída num produto pra
+
+18
+00:01:12.809 --> 00:01:18.400
+desmontar E você também utilizou insumo na produção,
+
+19
+00:01:18.410 --> 00:01:21.400
+então ele tá percorrendo tudo tudo tudo.
+
+20
+00:01:21.410 --> 00:01:25.919
+Lembrando que isso aqui tá preparado lá esperando só o seu arquivo e
+
+21
+00:01:25.930 --> 00:01:30.660
+vamos supor que o seu arquivo tá chegando enquanto você está lá curtindo,
+
+22
+00:01:30.669 --> 00:01:31.000
+né?
+
+23
+00:01:31.010 --> 00:01:37.180
+As suas férias ele vai pegar aqui e o que que eu vou buscar? Vou buscar exatamente
+
+24
+00:01:37.750 --> 00:01:45.400
+o arquivo que eu acabei de subir. Eu acabei de validar e disse que está sem erro.
+
+25
+00:01:45.410 --> 00:01:50.519
+Vamos ver na verdade eu apenas tô transformando aqui aquele t
+
+26
+00:01:50.529 --> 00:01:56.919
+x t Estou transformando ele em uma tabela Excel Pra quê?
+
+27
+00:01:56.930 --> 00:02:04.860
+Professor que eu quero auditar esse amigo aqui tá quero auditar joguei aqui
+
+28
+00:02:05.349 --> 00:02:08.460
+eh joguei ele em Excel tá
+
+29
+00:02:09.210 --> 00:02:09.559
+e eu?
+
+30
+00:02:09.570 --> 00:02:18.559
+Apenas vou copiar ele e jogar naquela área da base de dados aqui Oh é como se o o o Fisco
+
+31
+00:02:19.440 --> 00:02:26.029
+tivesse eh auditando, então deixa eu copiar aqui con Ah, tem que habilitar aqui
+
+32
+00:02:28.580 --> 00:02:35.929
+eh. É como se o fisco tivesse auditando o meu arquivo
+
+33
+00:02:37.250 --> 00:02:42.119
+e aí o que acontece amigo acontece o inesperado.
+
+34
+00:02:42.130 --> 00:02:46.139
+Ele agora viu que você entregou ao bloco K Completo estoque
+
+35
+00:02:46.149 --> 00:02:50.380
+Eu vou até aumentar aqui pra você entender tá estoque inicial,
+
+36
+00:02:50.389 --> 00:02:55.220
+mais compra se houve desmontagem tal tal tal total do estoque.
+
+37
+00:02:55.229 --> 00:03:02.380
+Se houve vendas tá e lembra do nosso HD Oh, o HD eu produzi cem,
+
+38
+00:03:02.389 --> 00:03:06.559
+vendi cinquenta desmontei, um tá bom
+
+39
+00:03:06.750 --> 00:03:11.020
+e as mercadorias são matéria-prima, foi tudo utilizado?
+
+40
+00:03:11.029 --> 00:03:15.619
+Okay Até aqui ele mapeou, trouxe pra cá.
+
+41
+00:03:15.630 --> 00:03:22.179
+O problema é que quando ele vai conferir o meu estoque depois de tudo isso,
+
+42
+00:03:22.190 --> 00:03:27.020
+você sabe que o K duzentos é o estoque final.
+
+43
+00:03:27.029 --> 00:03:29.800
+Eu entrego um estoque final pra ele quando
+
+44
+00:03:29.809 --> 00:03:33.500
+ele calcula qual seria o meu estoque final.
+
+45
+00:03:34.110 --> 00:03:39.779
+Tomara que o cálculo dele bata exatamente com o estoque final que eu entreguei.
+
+46
+00:03:40.529 --> 00:03:43.199
+Mas a vida nem sempre é assim.
+
+47
+00:03:43.820 --> 00:03:50.309
+Aqui deveria ter cento e dezenove tem cento e dezoito. E aí tá faltando uma.
+
+48
+00:03:50.320 --> 00:03:53.050
+Se faltou uma, ele fala venda sem nota.
+
+49
+00:03:53.509 --> 00:03:58.839
+Aqui você poderia falar José Mas pelo amor de Deus, isso aqui é uma chapa,
+
+50
+00:03:58.850 --> 00:04:01.199
+pois é relevância materialidade.
+
+51
+00:04:01.210 --> 00:04:07.279
+Pode ser que passa no crivo do fisco uma chapa, um parafuso, mas tudo que é diferença.
+
+52
+00:04:07.289 --> 00:04:09.529
+Um Você precisa ver a relevância.
+
+53
+00:04:09.539 --> 00:04:14.479
+Se eu sou um distribuidor de carros importados, uma Ferrari, uma poche,
+
+54
+00:04:14.490 --> 00:04:17.500
+uma diferença faz a diferença.
+
+55
+00:04:17.940 --> 00:04:23.309
+Agora pode ser que ele passa batido, porém não dá pra passar batido,
+
+56
+00:04:23.320 --> 00:04:27.989
+por exemplo mil setecentos e quarenta peças aqui, com erro,
+
+57
+00:04:28.000 --> 00:04:30.070
+compra sem nota característica.
+
+58
+00:04:30.079 --> 00:04:36.010
+Por quê? Porque está sobrando, não pode sobrar. E aqui? HD, né?
+
+59
+00:04:36.019 --> 00:04:37.440
+Não, isso aqui não é HD não,
+
+60
+00:04:37.450 --> 00:04:43.070
+isso aqui é chapa cinquenta Venda sem nota então perceba
+
+61
+00:04:43.079 --> 00:04:47.769
+que aqui cento e onze compra sem nota Senhor!
+
+62
+00:04:47.779 --> 00:04:53.290
+Por que esse oitocentos e onze compra sem nota fácil de explicar pra você?
+
+63
+00:04:53.299 --> 00:04:57.970
+Oh, meia meia meia tinha cento e dez comprou cem.
+
+64
+00:04:57.980 --> 00:05:03.730
+Dá duzentos e dez duzentos e dez entrou mais cinco,
+
+65
+00:05:03.739 --> 00:05:07.809
+então dá duzentos e quinze verdade,
+
+66
+00:05:07.820 --> 00:05:14.670
+porém na produção ele usou quinhentos e cinco uma empresa que tem duzentos e quinze
+
+67
+00:05:14.679 --> 00:05:21.109
+de estoque da peça e vai usar quinhentos e cinco não tem como não estourar.
+
+68
+00:05:21.119 --> 00:05:25.269
+Estourou o estoque duzentos e noventa e um.
+
+69
+00:05:25.279 --> 00:05:32.109
+Para isso ainda pior ele vai e entregue a um estoque totalmente diferente,
+
+70
+00:05:32.119 --> 00:05:35.690
+dizendo que tem quinhentos e vinte peça, ou seja,
+
+71
+00:05:36.549 --> 00:05:39.160
+ele não tinha nem peça pra produzir,
+
+72
+00:05:39.170 --> 00:05:43.290
+produziu sem ter peça e ainda me fala que no estoque
+
+73
+00:05:43.299 --> 00:05:46.399
+final ele tem muito mais do que a gente imaginava.
+
+74
+00:05:46.410 --> 00:05:51.019
+Por esta razão oitocentos e onze peça O fisco
+
+75
+00:05:51.029 --> 00:05:57.579
+caracterizou isso como o quê Como compra sem nota
+
+76
+00:05:58.410 --> 00:06:02.760
+Okay? Então veja quanto isso é sério.
+
+77
+00:06:02.769 --> 00:06:08.299
+Este é o nosso arquivo digital trabalhado cem por cento
+
+78
+00:06:08.309 --> 00:06:14.880
+de uma produção de HD e é ele que foi auditado

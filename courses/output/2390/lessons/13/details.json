@@ -1,0 +1,33 @@
+{
+  "id": 465425,
+  "title": "Atividade- Método Monetário - Capital Social - Parte 1",
+  "position": 13,
+  "duration": 179,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/808b7da0-cccb-4063-b9df-4f139eb1f240/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/808b7da0-cccb-4063-b9df-4f139eb1f240/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/808b7da0-cccb-4063-b9df-4f139eb1f240/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/808b7da0-cccb-4063-b9df-4f139eb1f240/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/808b7da0-cccb-4063-b9df-4f139eb1f240/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

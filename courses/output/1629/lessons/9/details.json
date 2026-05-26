@@ -1,0 +1,33 @@
+{
+  "id": 454158,
+  "title": "Aplicação subsidiária do CPC",
+  "position": 11,
+  "duration": 51,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/90b18974-9ea9-478a-81a1-471391c71432/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/90b18974-9ea9-478a-81a1-471391c71432/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/90b18974-9ea9-478a-81a1-471391c71432/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/90b18974-9ea9-478a-81a1-471391c71432/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/90b18974-9ea9-478a-81a1-471391c71432/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

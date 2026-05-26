@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1874,
+    "title": "Contabilidade para cooperativas médicas e de trabalho",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático você aprenderá sobre a gestão contábil aplicada a este setor, com práticas de grande importância estratégica. Dentre os pontos abordados, você entenderá aspectos relacionados à legislação, ato cooperativo e não cooperativo, nomenclaturas contábeis, reservas, demonstrações contábeis, patrimônio líquido, prestação de contas, destinação dos resultados, aprovação das contas, noções sobre tributação e muitos outros tópicos importantes.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/4887bb0c6fce4cc7c0dfd336c09bca021522931020.jpg",
+    "goals": [
+      "Apresentar aos alunos as características da contabilidade aplicada à cooperativas médicas e de trabalho"
+    ],
+    "teacher": {
+      "id": 275103,
+      "name": "LUCIANO MERLIN",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1638367754.jpeg"
+    },
+    "duration": 5610,
+    "keywords": "cooperativas médicas;cooperativas;cooperativa;medica;medicas",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 28,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 262,
+    "averageRating": 9.32,
+    "practiceAverage": 9.27,
+    "trailer": {
+      "id": "6a7c84d5-a732-4e91-bbbf-dc350fc5be33",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6a7c84d5-a732-4e91-bbbf-dc350fc5be33/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6a7c84d5-a732-4e91-bbbf-dc350fc5be33/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6a7c84d5-a732-4e91-bbbf-dc350fc5be33/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6a7c84d5-a732-4e91-bbbf-dc350fc5be33/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-12-14T16:13:00.000Z",
+      "updatedAt": "2021-12-14T17:13:00.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2021-12-21T15:41:45.000Z",
+    "recordedAt": "2021-11-23T00:00:00.000Z",
+    "createdAt": "2021-11-24T10:23:17.000Z"
+  }
+}

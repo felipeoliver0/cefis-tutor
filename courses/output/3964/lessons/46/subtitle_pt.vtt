@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:00.418 --> 00:00:08.306
+- Em resumo, em gráfico, uma visão mais gráfica, o que a gente tem? A gente tem essa questão que é
+
+00:00:08.306 --> 00:00:16.195
+- importante lembrar que quando eu, a princípio, tenho um valor de saída aqui, que pode ser saída ou
+
+00:00:16.195 --> 00:00:24.161
+- entrada, nesse caso uma saída, e eu pensar numa aplicação, eu estou falando na capitalização para
+
+00:00:24.161 --> 00:00:27.486
+- chegar num montante futuro, ou se eu tiver
+
+00:00:27.618 --> 00:00:35.023
+- um valor futuro para um determinado período eu tenho que descapitalizar para trazer um valor presente.
+
+00:00:35.023 --> 00:00:42.143
+- Então sempre que nós tivermos um montante inicial que eu queira calcular um valor futuro eu faço
+
+00:00:42.143 --> 00:00:44.350
+- o cálculo de capitalização.
+
+00:00:44.482 --> 00:00:53.383
+- de juros e quando eu tenho que trazer a valor presente eu também faço uma descapitalização, isso
+
+00:00:53.383 --> 00:00:59.200
+- ambos no conceito exponencial juros composto como é a regra, ok?

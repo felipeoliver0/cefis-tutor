@@ -1,0 +1,393 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.000
+pessoal. Agora eu vou falar pra vocês de outro tipo de código, de barras, tá bom?
+
+2
+00:00:04.010 --> 00:00:08.380
+Então existem outros tipos de código de barras. Não tem só o jeitinho, tá bom.
+
+3
+00:00:08.390 --> 00:00:12.350
+Existem outras empresas que fornecem o Código de barra pro varejo, tá,
+
+4
+00:00:12.359 --> 00:00:15.899
+mas esses códigos são fornecidos por outra empresa e não conta com
+
+5
+00:00:15.909 --> 00:00:19.719
+as características e benefícios de integração global que a G um tem.
+
+6
+00:00:19.940 --> 00:00:23.030
+Embora essas empresas elas conseguem fazer uma sistemática que os
+
+7
+00:00:23.040 --> 00:00:25.309
+códigos dela não entram em choque com os GTIN,
+
+8
+00:00:25.319 --> 00:00:25.469
+né?
+
+9
+00:00:25.479 --> 00:00:27.159
+Não, não tem a mesma numeração.
+
+10
+00:00:27.170 --> 00:00:30.670
+Eles pegaram uma o o material lá do do GTIN lá,
+
+11
+00:00:30.680 --> 00:00:35.029
+que especifica os padrões mundiais e encaixaram mais ou menos ali naquele padrão
+
+12
+00:00:35.040 --> 00:00:38.069
+pra criar um código diferente pra não chocar com o código do GTIN.
+
+13
+00:00:38.080 --> 00:00:41.229
+Tá, mas ele é um código ali criado por aquela empresa?
+
+14
+00:00:41.240 --> 00:00:43.069
+Tem muitas empresas dessas que a gente encontra
+
+15
+00:00:43.080 --> 00:00:45.509
+no mercado que eles vendem de maneira individualizada,
+
+16
+00:00:45.520 --> 00:00:45.810
+né?
+
+17
+00:00:46.069 --> 00:00:48.799
+Digamos que uma empresa ela não quer se associar a g s um, né?
+
+18
+00:00:48.810 --> 00:00:50.860
+Não, não é obrigado a associar quem quer, né?
+
+19
+00:00:50.869 --> 00:00:51.240
+Então,
+
+20
+00:00:51.250 --> 00:00:53.840
+ela não quer associar e ela produz apenas um ou
+
+21
+00:00:53.849 --> 00:00:55.799
+dois produtos e quer botar o código de barras,
+
+22
+00:00:55.810 --> 00:00:58.430
+naqueles produtos ali se associar com a Agência Brasil,
+
+23
+00:00:58.439 --> 00:01:01.020
+ela pode adquirir um código de barras do mercado, né?
+
+24
+00:01:01.029 --> 00:01:04.699
+Dessas empresas, elas vendem apenas individualizados,
+
+25
+00:01:04.763 --> 00:01:05.893
+que vendem individualizado.
+
+26
+00:01:05.903 --> 00:01:10.134
+Ela compra dois códigos de barra, bota no seu produto, né? E se pra empresa tá bom, né?
+
+27
+00:01:10.143 --> 00:01:13.594
+Se se ela consegue inserir seu produto no mercado dessa maneira, tá, Tá tudo certo?
+
+28
+00:01:13.603 --> 00:01:18.774
+Tá bom esses códigos, eles não devem ser informados na n, n f e nos campos de GTIN, né?
+
+29
+00:01:18.783 --> 00:01:21.454
+Então se eu comprar um código de barras de terceiro, não d g s um,
+
+30
+00:01:21.463 --> 00:01:23.393
+eu não vou informar ele onde eu informo o GTIN.
+
+31
+00:01:23.599 --> 00:01:26.610
+Mas tem outro lugar lá pra informar esse outro código de barras, né?
+
+32
+00:01:26.620 --> 00:01:30.139
+Então, a informação vai no documento fiscal, vai na nota fiscal, Tá?
+
+33
+00:01:30.150 --> 00:01:33.669
+Isso facilita a integração do fornecedor com o cliente.
+
+34
+00:01:33.680 --> 00:01:36.529
+É uma informação que tem no documento fiscal,
+
+35
+00:01:36.540 --> 00:01:41.370
+tem no arquivo x ML tá tudo certo com ela tá, só não pode colocar lá no lugar do GTIN.
+
+36
+00:01:41.379 --> 00:01:43.750
+Por quê? Porque a hora que o fisco for validar o GTIN
+
+37
+00:01:44.000 --> 00:01:48.089
+vai ver que o padrão tá diferente do padrão da G S um e vai rejeitar o documento né,
+
+38
+00:01:48.099 --> 00:01:51.650
+Acreditando muitas vezes que o contribuinte informou errado Tá, então,
+
+39
+00:01:51.660 --> 00:01:53.680
+se utilizar esse código, que não é da G S?
+
+40
+00:01:53.690 --> 00:01:59.349
+Um, colocar ele no campo p lá de códigos de barras, né, que não são o e a, né?
+
+41
+00:01:59.360 --> 00:02:02.830
+Conforme tá lá no layout do arquivo X ML da nossa escola eletrônico,
+
+42
+00:02:02.839 --> 00:02:04.809
+tá esses códigos também.
+
+43
+00:02:04.819 --> 00:02:07.470
+Eles não integram o cadastro centralizado? GTIN, né?
+
+44
+00:02:07.480 --> 00:02:07.830
+Claro,
+
+45
+00:02:07.839 --> 00:02:09.690
+eles não tão no banco de dados do Fisco que o
+
+46
+00:02:09.699 --> 00:02:11.770
+Fisco tem pra tratar o GTIN Porque eles não são.
+
+47
+00:02:11.779 --> 00:02:12.550
+O GTIN tá
+
+48
+00:02:12.839 --> 00:02:14.610
+e por consequência disso, né?
+
+49
+00:02:14.619 --> 00:02:19.110
+Esses tipos de códigos de barras, eles não sofrem qualquer validação no físico. Tá?
+
+50
+00:02:19.119 --> 00:02:22.809
+Então você vai informar. Não tem nenhuma validação do fisco.
+
+51
+00:02:22.820 --> 00:02:24.130
+Esses códigos de barra tá,
+
+52
+00:02:24.139 --> 00:02:26.750
+Você não vai tomar uma rejeição no documento por usar
+
+53
+00:02:26.759 --> 00:02:28.830
+esse código de barras ou até por não usar.
+
+54
+00:02:28.839 --> 00:02:29.300
+Tá bom?
+
+55
+00:02:29.309 --> 00:02:34.429
+São, eh códigos autônomos, aí tá que podem ser utilizados sem maiores problemas.
+
+56
+00:02:34.440 --> 00:02:38.570
+E com a empresa aí decide se vai usar o jeitinho ou se vai usar algum outro Tá bom!
+
+57
+00:02:38.580 --> 00:02:43.529
+Outro tipo de código, de barras que tem muito no mercado é o s k u né, né
+
+58
+00:02:43.940 --> 00:02:47.029
+que que é isso? Tá, é a unidade de manutenção de estoque.
+
+59
+00:02:47.039 --> 00:02:50.169
+Então cada empresa cria o seu código S K
+
+60
+00:02:50.179 --> 00:02:53.460
+pra utilizar eh no âmbito interno ali da empresa,
+
+61
+00:02:53.470 --> 00:02:53.589
+né?
+
+62
+00:02:53.600 --> 00:02:56.929
+O padrão da G s um é um padrão engessado que a G s um pega,
+
+63
+00:02:56.940 --> 00:03:00.190
+cria e determina que seus associados usem aquele padrão.
+
+64
+00:03:00.199 --> 00:03:04.509
+Mas a empresa pode querer ter um padrão diferente, com controle próprio,
+
+65
+00:03:04.520 --> 00:03:06.910
+que só vai servir pra empresa, não vai servir pra ninguém mais, né?
+
+66
+00:03:06.919 --> 00:03:08.929
+Então ela pode criar um padrão de número, falar Ah,
+
+67
+00:03:08.940 --> 00:03:13.070
+isso aqui foi produzido na planta tal foi produzido no dia tal esse
+
+68
+00:03:13.080 --> 00:03:16.889
+E esse essa mercadoria pra ser estocada no galpão tal da empresa,
+
+69
+00:03:16.899 --> 00:03:17.110
+né?
+
+70
+00:03:17.119 --> 00:03:20.169
+Pode botar todas essas informações ali no s k u, né?
+
+71
+00:03:20.179 --> 00:03:23.119
+Então é um código que a empresa tem liberdade pra criar
+
+72
+00:03:23.130 --> 00:03:25.460
+o seu padrão cria de acordo com a sua conveniência.
+
+73
+00:03:25.470 --> 00:03:29.210
+Tá? Não é amarrado em nenhuma organização como a G s um, por exemplo,
+
+74
+00:03:29.589 --> 00:03:34.460
+e usa no âmbito interno da empresa, né? O bom da G S O é o que que é um padrão?
+
+75
+00:03:34.470 --> 00:03:37.839
+Nacion EH internacional conhecido por todas as empresas e
+
+76
+00:03:37.850 --> 00:03:40.380
+todo mundo sabe utilizar por ser esse padrão.
+
+77
+00:03:40.389 --> 00:03:43.589
+Já esse s k, como ele é só utilizado dentro da empresa,
+
+78
+00:03:43.600 --> 00:03:46.199
+ele não tem muita serventia fora da empresa, né,
+
+79
+00:03:46.210 --> 00:03:48.580
+pra terceiros pra clientes e tudo mais, né?
+
+80
+00:03:48.589 --> 00:03:51.080
+Mas ele é muito importante, às vezes, dentro da empresa,
+
+81
+00:03:51.089 --> 00:03:54.880
+que precisa criar um padrão pra organizar melhor os processos produtivos.
+
+82
+00:03:54.889 --> 00:03:57.860
+Os processos logísticos ali dentro da empresa tá bom.
+
+83
+00:03:58.270 --> 00:04:01.559
+Então o S K. Ele é exclusivo de cada empresa, né?
+
+84
+00:04:01.570 --> 00:04:03.779
+Ele é um fundo numérico de tamanho variado, como fo,
+
+85
+00:04:03.789 --> 00:04:07.520
+conforme eu falei pra vocês a empresa cria de acordo com as conveniências, Tá,
+
+86
+00:04:07.529 --> 00:04:09.839
+ele pode coincidir com o s K de outra empresa.
+
+87
+00:04:09.850 --> 00:04:13.419
+Não tem problema porque ele é feito mesmo pra usar dentro da empresa? Tá.
+
+88
+00:04:13.979 --> 00:04:17.589
+E ele tem essas características de ser interno da empresa,
+
+89
+00:04:17.600 --> 00:04:21.309
+não é um código aí pra ser divulgado e difundido no mercado.
+
+90
+00:04:21.320 --> 00:04:24.109
+Mais pra empresa, organizar seu processo produtivo Tá bom?
+
+91
+00:04:24.119 --> 00:04:25.760
+Esse é o esse K que tá aqui.
+
+92
+00:04:25.769 --> 00:04:28.429
+É um outro código também de classificação dos
+
+93
+00:04:28.440 --> 00:04:30.600
+produtos pra ser utilizado na empresa Tá bom!
+
+94
+00:04:30.609 --> 00:04:32.510
+Eu trouxe isso pra vocês pra vocês verem,
+
+95
+00:04:32.519 --> 00:04:36.029
+aí eh a utilização de cada um Qual que você vai botar no documento fiscal,
+
+96
+00:04:36.040 --> 00:04:39.089
+qual que você vai informar pro seu cliente e tudo mais Tá bom,
+
+97
+00:04:39.480 --> 00:04:41.290
+então já falamos do código de barras,
+
+98
+00:04:41.299 --> 00:04:44.829
+outros códigos de barra de mercado falamos também do S K U Tá bom!

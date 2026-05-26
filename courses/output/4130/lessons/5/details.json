@@ -1,0 +1,33 @@
+{
+  "id": 482989,
+  "title": "Estratégia - Parte 2",
+  "position": 6,
+  "duration": 577,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/033eeb32-c670-428c-83cd-c3429d3dc943/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/033eeb32-c670-428c-83cd-c3429d3dc943/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/033eeb32-c670-428c-83cd-c3429d3dc943/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/033eeb32-c670-428c-83cd-c3429d3dc943/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/033eeb32-c670-428c-83cd-c3429d3dc943/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

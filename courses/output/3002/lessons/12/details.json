@@ -1,0 +1,33 @@
+{
+  "id": 473335,
+  "title": "Faturamento",
+  "position": 12,
+  "duration": 292,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/87383acb-a89b-4716-b817-521eef6acacc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/87383acb-a89b-4716-b817-521eef6acacc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/87383acb-a89b-4716-b817-521eef6acacc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/87383acb-a89b-4716-b817-521eef6acacc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/87383acb-a89b-4716-b817-521eef6acacc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

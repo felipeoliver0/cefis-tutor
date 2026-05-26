@@ -1,0 +1,33 @@
+{
+  "id": 480624,
+  "title": "Conceitos Parte 1",
+  "position": 25,
+  "duration": 320,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/99b32655-05c0-4c43-9778-f0a14bd621a2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/99b32655-05c0-4c43-9778-f0a14bd621a2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/99b32655-05c0-4c43-9778-f0a14bd621a2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/99b32655-05c0-4c43-9778-f0a14bd621a2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/99b32655-05c0-4c43-9778-f0a14bd621a2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

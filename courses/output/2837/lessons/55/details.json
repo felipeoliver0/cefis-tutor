@@ -1,0 +1,33 @@
+{
+  "id": 470886,
+  "title": "Diferença entre fornecedor nacional e fornecedor internacional",
+  "position": 55,
+  "duration": 50,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ad5d5677-24c8-45da-99af-9c14721a0199/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad5d5677-24c8-45da-99af-9c14721a0199/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad5d5677-24c8-45da-99af-9c14721a0199/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad5d5677-24c8-45da-99af-9c14721a0199/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad5d5677-24c8-45da-99af-9c14721a0199/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

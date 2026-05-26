@@ -1,0 +1,33 @@
+{
+  "id": 467564,
+  "title": "ARTIGO 75C – Alterado pelo LEI 14.442 de 2022",
+  "position": 3,
+  "duration": 192,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f2e208b8-123a-487b-a001-d07852c83c25/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2e208b8-123a-487b-a001-d07852c83c25/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2e208b8-123a-487b-a001-d07852c83c25/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2e208b8-123a-487b-a001-d07852c83c25/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2e208b8-123a-487b-a001-d07852c83c25/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2837,
+    "title": "Análise e conciliação contábil",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso Análise e conciliação contábil: Curso Prático, você irá aprender na prática tudo o que precisa saber sobre análise e conciliação contábil. Além disso, você aprenderá sobre a documentação de suporte, confronto contábil x fiscal, demonstrativo de confrointos de informações fiscais e contábeis, divergência de demonstrativo, aquisição de combustíveis e lubrificantes, caixa, verificações de caixa, saldo devedor de caixa, conta caixa, bancos, conciliação bancária, aplicações financeiras, modelo de conciliação de aplicações financeiras, contas a receber, provisões para perdas no recebimento de créditos, recebimentos não identificados, contas a receber: exportações, variação cambial, além de outros temas para você que deseja se atualizar ou aprender tudo sobre análise e conciliação contábil.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b46a81988db6ffcd67d5567c9ffd4b511728384294.jpg",
+    "goals": [
+      "O objetivo do curso Análise e conciliação contábil: Curso Prático é a capacitação para a aplicação prática da análise e conciliação contábil, possibilitando a validação das informações pelas ações de conciliações e análises das contas, resultando assim a esperada qualidade nas demonstrações contábeis."
+    ],
+    "teacher": {
+      "id": 8,
+      "name": "THIAGO ARANTES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1679621062.jpeg"
+    },
+    "duration": 17434,
+    "keywords": "análise;análise e conciliação;conciliação;conciliação contábil",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 66,
+    "materialCount": 53,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 4838,
+    "averageRating": 9.33,
+    "practiceAverage": 9.29,
+    "trailer": {
+      "id": "a117953e-fa2e-4fbd-8a56-138fb8921e9d",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a117953e-fa2e-4fbd-8a56-138fb8921e9d/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a117953e-fa2e-4fbd-8a56-138fb8921e9d/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a117953e-fa2e-4fbd-8a56-138fb8921e9d/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a117953e-fa2e-4fbd-8a56-138fb8921e9d/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-11-05T21:20:17.000Z",
+      "updatedAt": "2023-11-05T21:20:17.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 6,
+    "launchDate": "2023-11-03T17:56:24.000Z",
+    "recordedAt": "2023-09-23T00:00:00.000Z",
+    "createdAt": "2023-09-26T16:33:18.000Z"
+  }
+}

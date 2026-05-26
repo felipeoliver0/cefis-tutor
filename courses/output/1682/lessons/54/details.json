@@ -1,0 +1,33 @@
+{
+  "id": 455627,
+  "title": "Cadeia de Valor de Porter",
+  "position": 54,
+  "duration": 118,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5c4e504d-7827-48c5-9cc8-e5784ed9928b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c4e504d-7827-48c5-9cc8-e5784ed9928b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c4e504d-7827-48c5-9cc8-e5784ed9928b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c4e504d-7827-48c5-9cc8-e5784ed9928b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c4e504d-7827-48c5-9cc8-e5784ed9928b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

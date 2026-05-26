@@ -1,0 +1,785 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.799
+Vamos adentrar dentro do CPC00, nas suas especificações.
+
+3
+00:00:04.799 --> 00:00:10.000
+O CPC00 tem oito capítulos, está no material de apoio de vocês também.
+
+4
+00:00:10.000 --> 00:00:17.760
+Ele em PDF, ele é formado por oito capítulos, ele tem em média 62 a 64 páginas.
+
+5
+00:00:17.760 --> 00:00:22.760
+Mas antes da gente entrar dentro de cada um dos capítulos,
+
+6
+00:00:22.760 --> 00:00:29.160
+eu quero aqui trazer para você anteriormente um conceito importante da contabilidade.
+
+7
+00:00:29.160 --> 00:00:34.159
+Nós passamos pela convergência internacional da contabilidade.
+
+8
+00:00:34.159 --> 00:00:38.359
+Antes de termos o Comitê de Pronunciamento Contábil,
+
+9
+00:00:38.359 --> 00:00:48.920
+onde o primeiro CPC é o CPC00, nós tínhamos uma contabilidade pautada em princípios contábeis somente.
+
+10
+00:00:48.920 --> 00:00:54.159
+Os princípios contábeis geralmente aceitos são princípios norteadores,
+
+11
+00:00:54.159 --> 00:00:57.960
+mas não tinha ali pronunciamentos contábeis.
+
+12
+00:00:57.960 --> 00:00:59.159
+Com a convergência,
+
+13
+00:00:59.159 --> 00:01:04.159
+a convergência da contabilidade, isso tudo passou a ser feito,
+
+14
+00:01:04.159 --> 00:01:07.159
+a ser formatado em moldes internacionais.
+
+15
+00:01:07.159 --> 00:01:11.159
+Imagine você, antes de termos essa convergência internacional,
+
+16
+00:01:11.159 --> 00:01:17.159
+imagine que você tem uma empresa aqui no Brasil, mas que a sede dela é na Alemanha,
+
+17
+00:01:17.159 --> 00:01:19.159
+ou que a sede dela é nos Estados Unidos.
+
+18
+00:01:19.159 --> 00:01:23.159
+Como que seria complicado, como foi na verdade, né?
+
+19
+00:01:23.159 --> 00:01:27.159
+Complicado, oneroso, problemático, né?
+
+20
+00:01:29.159 --> 00:01:35.159
+Cada país fazendo, usando os princípios do seu país.
+
+21
+00:01:35.159 --> 00:01:38.159
+Imagina, uma linguagem contábil por cada país.
+
+22
+00:01:38.159 --> 00:01:43.159
+Então isso trazia uma dificuldade muito grande para nós profissionais de contabilidade
+
+23
+00:01:43.159 --> 00:01:47.159
+e para os usuários, para os interessados na informação contábil.
+
+24
+00:01:47.159 --> 00:01:49.159
+Como que você pode fazer a leitura de um ADF?
+
+25
+00:01:49.159 --> 00:01:53.159
+Como que você vai fazer um reporte de um ADF se o nosso país tem uma linguagem,
+
+26
+00:01:53.159 --> 00:01:55.159
+outro país tem outra linguagem?
+
+27
+00:01:55.159 --> 00:01:57.159
+Então foi uma necessidade do mundo,
+
+28
+00:01:57.159 --> 00:02:01.159
+ter a convergência internacional de contabilidade.
+
+29
+00:02:01.159 --> 00:02:07.159
+E quem é responsável por isso aqui no Brasil é o Comitê de Pronunciamento Contábil.
+
+30
+00:02:07.159 --> 00:02:13.159
+Ele é o responsável por pegar essas normas internacionais, os EFRS,
+
+31
+00:02:13.159 --> 00:02:18.159
+e traduzir para aqui a nossa rotina contábil brasileira.
+
+32
+00:02:18.159 --> 00:02:22.159
+Nós sabemos que nem aqui e nem em outro lugar do mundo
+
+33
+00:02:22.159 --> 00:02:27.159
+existe um pronunciamento para cada situação contábil que nós temos.
+
+34
+00:02:27.159 --> 00:02:30.159
+Nós temos hoje 51 CPCs.
+
+35
+00:02:30.159 --> 00:02:34.159
+A gente tem o 51 que vai ser obrigatório a utilização a partir de 27
+
+36
+00:02:34.159 --> 00:02:36.159
+e dois CPCs sem número.
+
+37
+00:02:36.159 --> 00:02:41.159
+Então veja que não são todas as situações contábeis,
+
+38
+00:02:41.159 --> 00:02:44.159
+todos os lançamentos contábeis que tem um CPC propriamente dito.
+
+39
+00:02:44.159 --> 00:02:48.159
+Mas o Comitê de Pronunciamento Contábil,
+
+40
+00:02:48.159 --> 00:02:52.159
+além de emitir os pronunciamentos contábeis,
+
+41
+00:02:52.159 --> 00:02:55.159
+ele também emite orientações, interpretações.
+
+42
+00:02:55.159 --> 00:02:57.159
+Então eu deixo aqui para vocês,
+
+43
+00:02:57.159 --> 00:03:03.159
+a dica, acesse o site do Comitê de Pronunciamento Contábil,
+
+44
+00:03:03.159 --> 00:03:06.159
+analise cada CPC de acordo com a sua situação.
+
+45
+00:03:06.159 --> 00:03:09.159
+Nós temos CPCs que tratam de diversos temas,
+
+46
+00:03:09.159 --> 00:03:11.159
+são 51 CPCs.
+
+47
+00:03:11.159 --> 00:03:15.159
+Se você vai fazer, por exemplo, tributação sobre o lucro,
+
+48
+00:03:15.159 --> 00:03:17.159
+é um CPC que eu gosto muito, CPC 32.
+
+49
+00:03:17.159 --> 00:03:22.159
+Faça a leitura do CPC 32 se você apura imposto de renda,
+
+50
+00:03:22.159 --> 00:03:24.159
+se você apura contribuição social,
+
+51
+00:03:24.159 --> 00:03:26.159
+se você faz o controle do seu imobilizado,
+
+52
+00:03:26.159 --> 00:03:29.159
+leia o CPC do imobilizado,
+
+53
+00:03:29.159 --> 00:03:32.159
+o CPC que vai trazer os estoques para a gente.
+
+54
+00:03:32.159 --> 00:03:38.159
+Professor, eu tenho operações com empresas que são controladas e controladoras,
+
+55
+00:03:38.159 --> 00:03:41.159
+nós temos CPCs de demonstrações consolidadas,
+
+56
+00:03:41.159 --> 00:03:45.159
+nós temos CPCs que vai tratar de ativo intangível,
+
+57
+00:03:45.159 --> 00:03:51.159
+de contratos, de receita para você que trabalha mexendo com contratos.
+
+58
+00:03:51.159 --> 00:03:54.159
+Leia o CPC 47, por exemplo, que é a receita de clientes com contratos,
+
+59
+00:03:54.159 --> 00:03:59.159
+como que nós vamos fazer o reconhecimento dessa receita?
+
+60
+00:03:59.159 --> 00:04:03.159
+Então, nós temos diversos CPCs, acessa aí o site,
+
+61
+00:04:03.159 --> 00:04:07.159
+vou deixar para vocês também alguns CPCs, outros também,
+
+62
+00:04:07.159 --> 00:04:13.159
+CPC 16 é bacana, nós temos diversos CPCs que são interessantíssimos,
+
+63
+00:04:13.159 --> 00:04:19.160
+temos CPCs específicos, por exemplo, CPC 29 do ativo biológico.
+
+64
+00:04:19.160 --> 00:04:23.160
+Então, nós temos CPCs que vão nos orientar nas rotinas,
+
+65
+00:04:23.160 --> 00:04:32.160
+específicas contábeis e o CPC 00 que vem trazer para nós a estrutura conceitual,
+
+66
+00:04:32.160 --> 00:04:38.160
+como que nós construímos as nossas DFs, demonstração financeira,
+
+67
+00:04:38.160 --> 00:04:42.160
+demonstração contábil, relatório financeiro, são sinônimos.
+
+68
+00:04:42.160 --> 00:04:44.160
+Mas como que eu construo esse relatório?
+
+69
+00:04:44.160 --> 00:04:48.160
+Como que uma pessoa vai fazer a leitura desse relatório?
+
+70
+00:04:48.160 --> 00:04:49.160
+O que ele precisa conter?
+
+71
+00:04:49.160 --> 00:04:52.160
+Quais são as premissas básicas da informação contábil?
+
+72
+00:04:52.160 --> 00:04:57.160
+O que eu devo considerar ou não considerar para fazer esse relatório?
+
+73
+00:04:57.160 --> 00:05:03.160
+CPC 00 é um norteador, mas é importante a gente ter esse contexto
+
+74
+00:05:03.160 --> 00:05:08.160
+da necessidade da convergência internacional, os moldes,
+
+75
+00:05:08.160 --> 00:05:12.160
+cada tipo de empresa vai ter a sua especificidade,
+
+76
+00:05:12.160 --> 00:05:15.160
+cada país vai ter a sua especificidade,
+
+77
+00:05:15.160 --> 00:05:21.160
+mas a convergência internacional da contabilidade trouxe essa padronização.
+
+78
+00:05:21.160 --> 00:05:24.160
+E o Brasil está dentro dessa padronização.
+
+79
+00:05:24.160 --> 00:05:28.160
+Logo, quando nós escrituramos uma informação contábil,
+
+80
+00:05:28.160 --> 00:05:32.160
+quando nós elaboramos uma DF, essa DF, essa informação,
+
+81
+00:05:32.160 --> 00:05:37.160
+está nos moldes internacionais, através dessa convergência,
+
+82
+00:05:37.160 --> 00:05:42.160
+desse depara do IFRS contra o nosso CPC.
+
+83
+00:05:42.160 --> 00:05:47.160
+Então, esse contexto para a gente iniciar o nosso CPC 00,
+
+84
+00:05:47.160 --> 00:05:49.160
+que é o 00, o início de tudo.
+
+85
+00:05:49.160 --> 00:05:50.160
+É como nós construímos.
+
+86
+00:05:50.160 --> 00:05:52.160
+É como nós construímos as informações.
+
+87
+00:05:52.160 --> 00:05:54.160
+Então, vamos iniciar.
+
+88
+00:05:54.160 --> 00:05:55.160
+São oito capítulos.
+
+89
+00:05:55.160 --> 00:05:56.160
+Então, vem com a gente.
+
+90
+00:05:56.160 --> 00:06:01.160
+Nossa aula vai ser longa, mas você pode ter essa primeira introdução.
+
+91
+00:06:01.160 --> 00:06:04.160
+Por que houve a necessidade do CPC 00?
+
+92
+00:06:04.160 --> 00:06:08.160
+O que foi essa convergência internacional que nós tivemos?
+
+93
+00:06:08.160 --> 00:06:11.160
+E a partir daí, cada capítulo vai ter a sua especificidade.
+
+94
+00:06:11.160 --> 00:06:12.160
+Certo?
+
+95
+00:06:12.160 --> 00:06:14.160
+Então, vamos começar pelo capítulo 1.
+
+96
+00:06:14.160 --> 00:06:19.160
+Claro, que traz os objetivos do relatório contábil,
+
+97
+00:06:19.160 --> 00:06:21.160
+do relatório financeiro.
+
+98
+00:06:21.160 --> 00:06:23.160
+O que eu preciso ter?
+
+99
+00:06:23.160 --> 00:06:25.160
+Para que ele serve?
+
+100
+00:06:25.160 --> 00:06:30.160
+O objetivo, claro, é de trazer ali as informações,
+
+101
+00:06:30.160 --> 00:06:33.160
+fornecer informações aos stakeholders,
+
+102
+00:06:33.160 --> 00:06:37.160
+àqueles interessados na informação.
+
+103
+00:06:37.160 --> 00:06:41.160
+Pode ser os credores, pode ser o governo, pode ser os acionistas,
+
+104
+00:06:41.160 --> 00:06:43.160
+pode ser os colaboradores.
+
+105
+00:06:43.160 --> 00:06:47.160
+E é importante este fornecimento de informações
+
+106
+00:06:47.160 --> 00:06:50.160
+para as tomadas de decisão.
+
+107
+00:06:50.160 --> 00:06:53.160
+Os investidores, os credores, por exemplo,
+
+108
+00:06:53.160 --> 00:06:56.160
+necessitam dessas informações para auxiliar
+
+109
+00:06:56.160 --> 00:06:59.160
+na avaliação das entradas e saídas,
+
+110
+00:06:59.160 --> 00:07:01.160
+dos fluxos futuros daquela empresa.
+
+111
+00:07:01.160 --> 00:07:05.160
+Poxa, será que eu posso emprestar dinheiro para essa empresa?
+
+112
+00:07:05.160 --> 00:07:08.160
+Quando nós temos, por exemplo,
+
+113
+00:07:08.160 --> 00:07:10.160
+ali vamos fazer um investimento na bolsa de valores,
+
+114
+00:07:10.160 --> 00:07:12.160
+me conta se você já fez isso.
+
+115
+00:07:12.160 --> 00:07:14.160
+Vou decidir para fazer um investimento.
+
+116
+00:07:14.160 --> 00:07:15.160
+O que a gente faz?
+
+117
+00:07:15.160 --> 00:07:17.160
+A gente entra no Google,
+
+118
+00:07:17.160 --> 00:07:20.160
+entra no RI, que são Relações com Investidores,
+
+119
+00:07:20.160 --> 00:07:23.160
+e ali vai sair o nome, você coloca o nome da sua empresa,
+
+120
+00:07:23.160 --> 00:07:27.160
+e ali vai sair as demonstrações daquela empresa.
+
+121
+00:07:27.160 --> 00:07:29.160
+E ali você vai ter uma noção.
+
+122
+00:07:29.160 --> 00:07:31.160
+Essa convergência internacional,
+
+123
+00:07:31.160 --> 00:07:35.160
+através dos CPCs sendo configurados,
+
+124
+00:07:35.160 --> 00:07:38.160
+interpretados pelo comitê de pronunciamento,
+
+125
+00:07:38.160 --> 00:07:39.160
+a partir do IFRS,
+
+126
+00:07:39.160 --> 00:07:44.160
+nos traz essa visão da informação ser lida
+
+127
+00:07:44.160 --> 00:07:46.160
+por qualquer um que precise dela.
+
+128
+00:07:46.160 --> 00:07:47.160
+Isso é muito interessante.
+
+129
+00:07:47.160 --> 00:07:49.160
+Aqui alguns exemplos.
+
+130
+00:07:49.160 --> 00:07:55.160
+Compras, vendas, manutenção de itens patrimoniais para dívida,
+
+131
+00:07:55.160 --> 00:07:57.160
+retorno de investimento, dividendos.
+
+132
+00:07:57.160 --> 00:08:01.160
+Os investidores, os credores, os sócios, os acionistas,
+
+133
+00:08:01.160 --> 00:08:04.160
+cada um vai ter o objeto,
+
+134
+00:08:04.160 --> 00:08:08.160
+o objetivo da utilização daquela informação.
+
+135
+00:08:08.160 --> 00:08:10.160
+Então, esses interessados,
+
+136
+00:08:10.160 --> 00:08:14.160
+cada um deles vai ter a sua necessidade
+
+137
+00:08:14.160 --> 00:08:16.160
+pela qual ele precisa de ter
+
+138
+00:08:16.160 --> 00:08:17.160
+aquela informação.
+
+139
+00:08:17.160 --> 00:08:18.160
+Por exemplo,
+
+140
+00:08:18.160 --> 00:08:21.160
+aqui os interessados, os credores e investidores,
+
+141
+00:08:21.160 --> 00:08:24.160
+analisam também as informações sobre os recursos eventuais
+
+142
+00:08:24.160 --> 00:08:27.160
+e reclamações contra essa empresa.
+
+143
+00:08:27.160 --> 00:08:29.160
+Necessitam saber sobre a eficiência,
+
+144
+00:08:29.160 --> 00:08:32.159
+a eficácia do cumprimento, por exemplo,
+
+145
+00:08:32.159 --> 00:08:34.159
+do conselho de administração.
+
+146
+00:08:34.159 --> 00:08:36.159
+Precisamos, cada um de nós,
+
+147
+00:08:36.159 --> 00:08:38.159
+de entender o momento daquela empresa.
+
+148
+00:08:38.159 --> 00:08:40.159
+Então, é importante que a gente observe
+
+149
+00:08:40.159 --> 00:08:43.159
+cada um dos stakeholders pode buscar
+
+150
+00:08:43.159 --> 00:08:45.159
+essa informação contábil
+
+151
+00:08:45.159 --> 00:08:47.159
+por determinado motivo.
+
+152
+00:08:47.159 --> 00:08:49.159
+Eu vou investir nessa empresa,
+
+153
+00:08:49.159 --> 00:08:51.159
+eu vou comprar dessa empresa,
+
+154
+00:08:51.159 --> 00:08:53.159
+eu vou liquidar essa empresa.
+
+155
+00:08:53.159 --> 00:08:55.159
+Então, cada uma dessas pessoas
+
+156
+00:08:55.159 --> 00:08:58.159
+vai ter as suas necessidades sanadas
+
+157
+00:08:58.159 --> 00:09:02.159
+a partir das informações recebidas
+
+158
+00:09:02.159 --> 00:09:05.159
+a partir das demonstrações.
+
+159
+00:09:05.159 --> 00:09:07.159
+Capítulo 2.
+
+160
+00:09:07.159 --> 00:09:09.159
+Quais são as características
+
+161
+00:09:09.159 --> 00:09:11.159
+que essa informação tem?
+
+162
+00:09:11.159 --> 00:09:13.159
+Então, o capítulo 1 traz para a gente aqui
+
+163
+00:09:13.159 --> 00:09:16.159
+qual que é o objetivo do demonstrativo,
+
+164
+00:09:16.159 --> 00:09:19.159
+que é de fornecer informações aos interessados,
+
+165
+00:09:19.159 --> 00:09:21.159
+aos stakeholders.
+
+166
+00:09:21.159 --> 00:09:24.159
+O 2 é de trazer ali as características
+
+167
+00:09:24.159 --> 00:09:28.159
+qualitativas da informação contábil.
+
+168
+00:09:28.159 --> 00:09:31.159
+Vocês concordam comigo que se cada um,
+
+169
+00:09:31.159 --> 00:09:34.159
+cada empresa, cada país decidisse
+
+170
+00:09:34.159 --> 00:09:37.159
+como que a escritura, a forma que a escritura,
+
+171
+00:09:37.159 --> 00:09:39.159
+a gente teria grandes dificuldades
+
+172
+00:09:39.159 --> 00:09:43.159
+de fazer a leitura dessa informação contábil?
+
+173
+00:09:43.159 --> 00:09:46.159
+Logo, o CPC 00 nos orienta
+
+174
+00:09:46.159 --> 00:09:48.159
+de quais são as características
+
+175
+00:09:48.159 --> 00:09:52.159
+que as informações contábeis devem ter.
+
+176
+00:09:52.159 --> 00:09:55.159
+Essas características, elas vão permitir
+
+177
+00:09:55.159 --> 00:09:57.159
+aos usuários da informação
+
+178
+00:09:57.159 --> 00:10:01.159
+que tenham as informações claras, transparentes,
+
+179
+00:10:01.159 --> 00:10:04.159
+para que eles possam tomar as decisões.
+
+180
+00:10:04.159 --> 00:10:07.159
+Então, no momento que você pega um relatório
+
+181
+00:10:07.159 --> 00:10:09.159
+de uma demonstração contábil,
+
+182
+00:10:09.159 --> 00:10:10.159
+demonstração financeira,
+
+183
+00:10:10.159 --> 00:10:12.159
+você precisa ter clareza.
+
+184
+00:10:12.159 --> 00:10:15.159
+Então, os relatórios, eles podem ter,
+
+185
+00:10:15.159 --> 00:10:17.159
+inclusive, as explicações,
+
+186
+00:10:17.159 --> 00:10:20.159
+que é o que nós chamamos de notas explicativas.
+
+187
+00:10:20.159 --> 00:10:23.159
+E para que essa leitura, essa informação
+
+188
+00:10:23.159 --> 00:10:26.159
+seja considerada útil,
+
+189
+00:10:26.159 --> 00:10:28.159
+lembre-se, nós vamos tomar decisões.
+
+190
+00:10:28.159 --> 00:10:30.159
+Quais são as características fundamentais
+
+191
+00:10:30.159 --> 00:10:32.159
+dessa informação?
+
+192
+00:10:32.159 --> 00:10:37.159
+Olha só, relevância e representação fidedigna.
+
+193
+00:10:37.159 --> 00:10:41.159
+Logo, essas duas características são fundamentais.
+
+194
+00:10:41.159 --> 00:10:45.159
+Olha só, características de qualidade
+
+195
+00:10:45.159 --> 00:10:48.159
+que são fundamentais para informação contábil.
+
+196
+00:10:48.159 --> 00:10:51.159
+Relevância e representação fidedigna.
+
+197
+00:10:51.159 --> 00:10:54.159
+O que é a relevância?

@@ -1,0 +1,33 @@
+{
+  "id": 470944,
+  "title": "Períodicidade",
+  "position": 31,
+  "duration": 439,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9a3b4803-d7ec-4a47-b253-7c5cd8b9ab42/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a3b4803-d7ec-4a47-b253-7c5cd8b9ab42/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a3b4803-d7ec-4a47-b253-7c5cd8b9ab42/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a3b4803-d7ec-4a47-b253-7c5cd8b9ab42/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a3b4803-d7ec-4a47-b253-7c5cd8b9ab42/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

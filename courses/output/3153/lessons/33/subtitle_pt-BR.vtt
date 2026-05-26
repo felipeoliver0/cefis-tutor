@@ -1,0 +1,369 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:04.989
+vamos lá, Pessoal, eu trouxe aqui pra gente agora um exercício de fixação.
+
+2
+00:00:05.000 --> 00:00:06.469
+Então vamos entender na prática,
+
+3
+00:00:06.480 --> 00:00:08.148
+porque às vezes aquela questão lá que a gente
+
+4
+00:00:08.159 --> 00:00:11.109
+estudou um pouquinho da definição de cotas de aprendizagem,
+
+5
+00:00:11.119 --> 00:00:14.350
+ela é um pouco complexa pra análise do C, B o, e tudo mais.
+
+6
+00:00:14.359 --> 00:00:18.870
+Então eu trouxe um exercicio aqui pra gente fazer fazermos juntos, né?
+
+7
+00:00:18.879 --> 00:00:20.049
+Então, olha só
+
+8
+00:00:20.889 --> 00:00:26.579
+qual o número mínimo e o número máximo de aprendizes que poderá ter um
+
+9
+00:00:26.590 --> 00:00:29.020
+estabelecimento que possui cento e noventa e
+
+10
+00:00:29.030 --> 00:00:34.270
+quatro empregados sendo registrados nas seguintes funções
+
+11
+00:00:34.279 --> 00:00:38.840
+pessoal então vamos lá eu já sei que o mínimo e o máximo eu
+
+12
+00:00:38.849 --> 00:00:43.360
+tenho cinco por cento de cota mínima e máximo de quinze por cento,
+
+13
+00:00:44.409 --> 00:00:48.919
+sendo registrados nas seguintes funções Então, vamos lá de pessoal.
+
+14
+00:00:48.930 --> 00:00:51.439
+Obviamente, a gente não vai entrar aqui nas tabelas de C B O,
+
+15
+00:00:51.450 --> 00:00:55.020
+mas a gente consegue ter nitidamente uma percepção de
+
+16
+00:00:55.029 --> 00:00:58.299
+quem demanda aprendizagem profissional e e técnica aqui,
+
+17
+00:00:58.310 --> 00:01:00.099
+nesse caso dezessete.
+
+18
+00:01:00.110 --> 00:01:02.259
+Vendedores varejistas pessoal.
+
+19
+00:01:02.270 --> 00:01:05.660
+Pra ser vendedor eu vou precisar ter nível universitário.
+
+20
+00:01:05.669 --> 00:01:08.019
+Vou precisar de conhecimento técnico? Não.
+
+21
+00:01:08.029 --> 00:01:14.120
+Então os dezessete vendedores pessoal entra na conta de definição de cota.
+
+22
+00:01:14.580 --> 00:01:20.360
+Quatro arquitetos, OPA, arquitetos não entra na cota. Por quê?
+
+23
+00:01:20.370 --> 00:01:26.300
+Porque eu preciso de formação superior. Então x nele x nele não uso arquiteto.
+
+24
+00:01:26.309 --> 00:01:29.790
+Nove Estoquista entra na cota, entra na cota.
+
+25
+00:01:29.800 --> 00:01:34.230
+Então vamos somando aí pessoal, vamos fazendo aqui junto com vocês,
+
+26
+00:01:34.239 --> 00:01:37.650
+Então vamos compor a definição aqui da cota,
+
+27
+00:01:39.040 --> 00:01:45.470
+Então vamos lá! Os estoquistas entram então aqui oh, vou colocar aqui definição
+
+28
+00:01:48.709 --> 00:01:50.139
+de cota
+
+29
+00:01:53.459 --> 00:01:54.569
+para
+
+30
+00:01:56.199 --> 00:01:57.589
+aprendizes,
+
+31
+00:02:01.790 --> 00:02:06.239
+Então vamos lá pessoal os os vendedores não demanda a
+
+32
+00:02:06.250 --> 00:02:09.360
+formação profissio Formação superior então
+
+33
+00:02:09.369 --> 00:02:14.539
+os vendedores entra dezessete vendedores,
+
+34
+00:02:15.649 --> 00:02:23.020
+então aqui vamos lá Arquitetos entram, não entra, corta o arquiteto Estoquistas,
+
+35
+00:02:23.029 --> 00:02:24.440
+entra estoquista?
+
+36
+00:02:24.449 --> 00:02:25.699
+Entra, né pessoal? Por quê?
+
+37
+00:02:25.710 --> 00:02:29.300
+Porque eu não preciso ter curso universitário pra ser um estoquista,
+
+38
+00:02:29.309 --> 00:02:33.059
+Então nessa e também não é um cargo de confiança.
+
+39
+00:02:33.070 --> 00:02:40.580
+Então nesse caso, ele entra na cota cinco diretores Opa diretor, não entra por quê?
+
+40
+00:02:40.589 --> 00:02:44.559
+Porque o diretor ele é um cargo de confiança, Então eu posso excluí lo da minha cota.
+
+41
+00:02:45.009 --> 00:02:49.399
+Motorista, pessoal, motorista, entra ou não entra aqui na cota.
+
+42
+00:02:51.500 --> 00:02:55.929
+Teoricamente, eu não preciso de um nível superior pra poder.
+
+43
+00:02:56.539 --> 00:03:00.630
+Eh ser um motorista, mas eu preciso de uma qualificação específica,
+
+44
+00:03:00.639 --> 00:03:02.160
+que é a carteira de habilitação.
+
+45
+00:03:02.169 --> 00:03:03.589
+Então tem que tomar um cuidado.
+
+46
+00:03:03.600 --> 00:03:07.410
+Aqui a gente precisa vasculhar esse C B o que antes da gente colocar aqui?
+
+47
+00:03:07.419 --> 00:03:12.550
+Cinquenta e oito auxiliares de produção, auxiliares de produção pessoal.
+
+48
+00:03:12.559 --> 00:03:18.149
+Nesse caso aqui, os auxiliares de produção, ele entra na cota?
+
+49
+00:03:18.160 --> 00:03:23.330
+Não preciso nenhuma qualificação. Ah! Técnica, né? Aqui nessa condição?
+
+50
+00:03:23.779 --> 00:03:29.490
+Ah, pra poder ter a contagem de aprendiz. Dois psicólogos OPA!
+
+51
+00:03:29.500 --> 00:03:32.089
+Psicólogo sai porque eu preciso de faculdade.
+
+52
+00:03:32.619 --> 00:03:36.470
+Catorze gerentes entra na conta. Também não entra Por quê?
+
+53
+00:03:36.479 --> 00:03:42.610
+Porque são cargos de confiança? Sai da conta sete engenheiros entra na conta Opa!
+
+54
+00:03:42.619 --> 00:03:47.869
+O engenheiro sai da conta. Também não entra porque eu preciso de formação superior.
+
+55
+00:03:47.880 --> 00:03:48.630
+Quatro.
+
+56
+00:03:48.639 --> 00:03:54.169
+Conferentes O conferente entra pessoal porque o conferente eu não preciso,
+
+57
+00:03:54.570 --> 00:03:59.039
+ah, de formação superior, não é cargo de confiança.
+
+58
+00:03:59.050 --> 00:04:04.520
+Nesse caso, ele entra na cota um auxiliar de manutenção predial.
+
+59
+00:04:04.529 --> 00:04:06.839
+Esse daqui também não preciso
+
+60
+00:04:07.529 --> 00:04:11.399
+eh de formação superior também não é?
+
+61
+00:04:12.070 --> 00:04:18.660
+Não é cargo de confiança, entra OPA de manutenção. Aqui é de manutenção.
+
+62
+00:04:19.579 --> 00:04:25.450
+E aqui eu tenho os vinte e seis auxiliares e assistentes da área administrativa.
+
+63
+00:04:25.459 --> 00:04:27.350
+Ele é auxiliar né? Pessoal!
+
+64
+00:04:27.359 --> 00:04:31.589
+Se ele é auxiliar e assistente eh ele também não
+
+65
+00:04:31.600 --> 00:04:35.950
+precisa de formação superior e não é cargo de confiança,
+
+66
+00:04:35.959 --> 00:04:37.269
+então ele entra na cota.
+
+67
+00:04:37.279 --> 00:04:42.470
+Então desses cento e noventa e quatro. Eu já tirei as classificações aqui.
+
+68
+00:04:42.480 --> 00:04:45.010
+Eu vou compor a minha base
+
+69
+00:04:45.700 --> 00:04:46.450
+aqui,
+
+70
+00:04:47.089 --> 00:04:50.339
+então vamos lá. Vou pegar a calculadora, né pessoal?
+
+71
+00:04:50.350 --> 00:04:54.519
+Porque eu não vou fazer aqui na na na cabeça isso
+
+72
+00:04:54.529 --> 00:04:58.779
+aqui só pra gente ter aqui a questão da contratação.
+
+73
+00:04:58.790 --> 00:05:00.100
+Então vamos lá. Vamos lá.
+
+74
+00:05:00.109 --> 00:05:04.100
+Eu vou ter aqui dezessete mais nove estoquistas
+
+75
+00:05:04.109 --> 00:05:08.299
+mais cinquenta e oito auxiliares de produção,
+
+76
+00:05:08.309 --> 00:05:14.200
+mais quarenta e quatro conferentes mais um auxiliar de manutenção.
+
+77
+00:05:14.279 --> 00:05:17.970
+São mais vinte e seis auxiliares administrativos.
+
+78
+00:05:17.980 --> 00:05:19.459
+Então aqui, pessoal,
+
+79
+00:05:19.470 --> 00:05:24.589
+a minha base de definição de cota vai ser cento e cinquenta e cinco,
+
+80
+00:05:24.600 --> 00:05:32.369
+onde eu posso contratar no mínimo cinco por cento e no máximo quinze por cento.
+
+81
+00:05:32.380 --> 00:05:35.750
+Então cento e cinquenta e cinco
+
+82
+00:05:36.179 --> 00:05:42.089
+vezes cinco por cento pessoal. Eu tenho sete vírgula setenta e cinco.
+
+83
+00:05:42.100 --> 00:05:45.950
+Nesse caso, quantos aprendizes eu vou ter que contratar oito,
+
+84
+00:05:45.959 --> 00:05:48.190
+porque sempre passou da vírgula um.
+
+85
+00:05:48.200 --> 00:05:49.630
+Eu tenho que contratar um a mais.
+
+86
+00:05:49.640 --> 00:05:54.190
+Então, eu vou contratar oito aprendizes na cota mínima.
+
+87
+00:05:54.200 --> 00:05:56.690
+E se eu tiver que fazer aqui cento e cinquenta e
+
+88
+00:05:56.700 --> 00:06:00.709
+cinco vezes quinze por cento que seria a minha cota máxima,
+
+89
+00:06:00.720 --> 00:06:05.290
+eu poderia contratar até vinte e três aprendizes
+
+90
+00:06:06.450 --> 00:06:10.619
+ficou claro pessoal aprenderam a fazer a definição de cota aqui de aprendiz.
+
+91
+00:06:10.630 --> 00:06:12.500
+Qualquer dúvida manda pra gente,
+
+92
+00:06:12.510 --> 00:06:15.799
+aí nos comentários a gente vai ter o maior prazer em responder pra vocês.

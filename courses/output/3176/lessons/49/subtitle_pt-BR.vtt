@@ -1,0 +1,313 @@
+WEBVTT
+
+1
+00:00:02.059 --> 00:00:04.889
+bom, Então falar um pouquinho agora, né?
+
+2
+00:00:04.900 --> 00:00:08.229
+Eh pra Sobre a integração do catálogo de produtos com a do Inpe?
+
+3
+00:00:08.239 --> 00:00:13.470
+A gente já tá concluindo antes da gente partir aqui pra pra uma simulação,
+
+4
+00:00:13.479 --> 00:00:16.430
+dentro do ambiente do Portal Único que eu vou mostrar pra vocês, né?
+
+5
+00:00:16.440 --> 00:00:19.950
+Então, a gente tem eh de novo! Será obrigatório, né?
+
+6
+00:00:19.959 --> 00:00:22.829
+O importador ele pode cadastrar os produtos manualmente.
+
+7
+00:00:22.840 --> 00:00:27.209
+Então cê vai lá Eu vou mostrar como é que faz o cadastro? Manual, né? Mas
+
+8
+00:00:27.579 --> 00:00:30.389
+pessoal é praticamente impossível, né?
+
+9
+00:00:30.399 --> 00:00:36.549
+Você fazer manual eh, enfim, não é impossível, mas realmente requer um um esforço,
+
+10
+00:00:36.560 --> 00:00:39.349
+uma dedicação muito exclusiva pra você fazer isso manualmente.
+
+11
+00:00:39.360 --> 00:00:44.060
+Então hoje existem soluções e a Receita federal ela per omitiu, né,
+
+12
+00:00:44.069 --> 00:00:49.419
+que seja feito um um carregamento de todas a base de dados através de um arquivo X ML.
+
+13
+00:00:49.430 --> 00:00:54.099
+Então tem muitas empresas no mercado. Eh com soluções, né?
+
+14
+00:00:54.110 --> 00:00:57.189
+Pra preenchimento pra elaboração de catalogo de produtos, né?
+
+15
+00:00:57.200 --> 00:01:00.240
+Então eh então eh, eh,
+
+16
+00:01:00.250 --> 00:01:03.979
+usando esse recurso chamado importar a inclusão de vários
+
+17
+00:01:03.990 --> 00:01:06.739
+produtos de uma vez a parte de um padrão,
+
+18
+00:01:06.750 --> 00:01:06.900
+né?
+
+19
+00:01:06.910 --> 00:01:08.279
+Com software próprio,
+
+20
+00:01:08.559 --> 00:01:08.580
+né?
+
+21
+00:01:08.589 --> 00:01:14.010
+Então eh como eu comentei Um ponto muito importante
+
+22
+00:01:14.019 --> 00:01:16.690
+tá como eu disse o capítulo de produtos,
+
+23
+00:01:16.699 --> 00:01:19.129
+ele será vinculado ao operadora estrangeira.
+
+24
+00:01:19.139 --> 00:01:24.790
+O operador estrangeiro nada mais é do que o fabricante e o exportador, né?
+
+25
+00:01:24.800 --> 00:01:28.089
+E o TIM que é essa identificação essa
+
+26
+00:01:28.099 --> 00:01:30.730
+aí criada pela Organização mundial das Aduanas,
+
+27
+00:01:30.739 --> 00:01:31.510
+né?
+
+28
+00:01:31.605 --> 00:01:36.334
+Ela? Ela vai servir para identificar o exportador.
+
+29
+00:01:36.345 --> 00:01:36.574
+Então,
+
+30
+00:01:36.584 --> 00:01:40.574
+tem um campo específico nesse módulo acessório
+
+31
+00:01:40.584 --> 00:01:42.775
+que é o módulo Operador estrangeiro,
+
+32
+00:01:42.785 --> 00:01:44.735
+onde consta ali A Tina.
+
+33
+00:01:44.745 --> 00:01:48.254
+Então é garantir a aplicação eficiente dos benefícios de facilitação.
+
+34
+00:01:48.264 --> 00:01:50.415
+Então essa tim ela também ajuda.
+
+35
+00:01:50.425 --> 00:01:56.514
+Por exemplo se você tá trazendo, fazer uma importação eh de um
+
+36
+00:01:57.279 --> 00:02:04.849
+exportador que é certificado e a a TIM vai ajudar essa identificação, né?
+
+37
+00:02:04.860 --> 00:02:10.649
+Aqui, junto à Receita Federal e já garantir ali algum tipo de facilitação, né?
+
+38
+00:02:10.660 --> 00:02:17.309
+Então eh é importante, né? E aí saber que é obrigatório pra o catálogo de produtos,
+
+39
+00:02:18.309 --> 00:02:23.199
+né? Eh um ponto importante o o por único eh!
+
+40
+00:02:23.210 --> 00:02:25.960
+Ele oferece essa funcionalidade de simulação!
+
+41
+00:02:25.970 --> 00:02:27.779
+A gente vai ver daqui a pouco as simulações.
+
+42
+00:02:27.789 --> 00:02:31.320
+Elas permitem pré visualizações Eu acho que existem limitações.
+
+43
+00:02:31.330 --> 00:02:34.880
+A não ser que você seja um despachante aduaneiro, você tem ali, né?
+
+44
+00:02:34.889 --> 00:02:36.990
+O efetiva representando alguma empresa?
+
+45
+00:02:37.000 --> 00:02:39.330
+Você não vai conseguir passar por todos os modos.
+
+46
+00:02:39.339 --> 00:02:45.389
+Mas se você entra cê Cê já vai ter uma grande de uma de um acesso ali,
+
+47
+00:02:45.399 --> 00:02:49.389
+de forma muito intuitiva a ferramenta né?
+
+48
+00:02:49.399 --> 00:02:53.330
+E também existem simuladores do próprio do próprio
+
+49
+00:02:53.860 --> 00:02:55.429
+EH Portal Único E aí,
+
+50
+00:02:55.440 --> 00:02:58.750
+onde você pode exercitar como se você tivesse fazendo uma uma do Inpe
+
+51
+00:02:58.759 --> 00:03:02.029
+ou ou ou tivesse fazendo um doe dentro do ambiente do portal?
+
+52
+00:03:02.039 --> 00:03:07.710
+Único, né? EH E aí você pode utilizar dados reais fictícios, né?
+
+53
+00:03:07.720 --> 00:03:13.110
+É muito importante pra treinar equipes, otimizar processos e a conformidade?
+
+54
+00:03:13.119 --> 00:03:15.270
+Eu indico. Inclusive eh, né?
+
+55
+00:03:15.279 --> 00:03:20.820
+Eu acho que os alunos de de Comércio Exterior eu sei que eh o os alunos, eles?
+
+56
+00:03:20.830 --> 00:03:22.860
+Que que que assistem às aulas de comércio exterior.
+
+57
+00:03:22.869 --> 00:03:25.160
+Por vezes, eles estão, às vezes, na aula,
+
+58
+00:03:25.169 --> 00:03:28.940
+eles e eles são de um departamento tributário.
+
+59
+00:03:28.949 --> 00:03:33.179
+De contábil, né? Eles não estão efetivamente ali. Eh.
+
+60
+00:03:33.190 --> 00:03:37.619
+Vamos dizer no dia-a-dia do manejo do Portal Único de Comércio Exterior,
+
+61
+00:03:37.630 --> 00:03:38.100
+com exceção.
+
+62
+00:03:38.110 --> 00:03:40.559
+Se você for um despachante aduaneiro, né?
+
+63
+00:03:41.050 --> 00:03:44.919
+Mas é muito importante a compreensão desse
+
+64
+00:03:44.929 --> 00:03:47.839
+sistema e desse ambiente do portal Único!
+
+65
+00:03:47.850 --> 00:03:50.800
+EH pra que você compreenda eh
+
+66
+00:03:51.100 --> 00:03:55.789
+as solicitações pra que você questione. Inclusive pra que você discuta, né?
+
+67
+00:03:55.800 --> 00:03:58.110
+Co com o seu despachante. Aduaneiro, né?
+
+68
+00:03:58.119 --> 00:03:59.630
+Um ponto importante, às vezes,
+
+69
+00:03:59.639 --> 00:04:03.190
+você já verificou com o despachante aduaneiro
+
+70
+00:04:03.199 --> 00:04:04.910
+a montagem do seu catálogo de produtos.
+
+71
+00:04:04.919 --> 00:04:08.330
+Você já sabe quais são os atributos vinculados, né?
+
+72
+00:04:08.339 --> 00:04:11.350
+Então, é muito importante que as equipes,
+
+73
+00:04:11.360 --> 00:04:16.108
+mesmo aquelas que não estão diretamente vinculadas, né,
+
+74
+00:04:16.119 --> 00:04:20.649
+A ao dia-a-dia da atividade dentro do portal único que ela tem que ela simule,
+
+75
+00:04:21.178 --> 00:04:21.428
+né?
+
+76
+00:04:21.440 --> 00:04:25.190
+Então, as simulações ajudando na tomada decisão estratégica,
+
+77
+00:04:25.200 --> 00:04:26.649
+oferecendo em sites, né?
+
+78
+00:04:27.290 --> 00:04:31.480
+Então, novamente essa é a carinha do portal único.

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2484,
+    "title": "Direito do Consumidor: fundamentos e aplicações",
+    "subtitle": "Noções gerais",
+    "summary": "Neste curso prático de direito do consumidor você aprenderá noções gerais que irão da teoria à prática. Entenderá desde conceitos iniciais relativos às relações de consumo,  como a caracterização do consumidor e do fornecedor, bem como de produtos e serviços, até pontos relacionados à responsabilidade, publicidade, oferta, práticas abusivas, cobrança de dívidas e muitos outros pontos importantes para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/c8b1e9a458984443c56288647c8a76cc1728427989.jpg",
+    "goals": [
+      "O presente curso dirige-se a empresários, empreendedores, contadores e outros profissionais interessados em aprender as noções básicas sobre Direito do Consumidor para poder aplicá-las no seu cotidiano."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 10627,
+    "keywords": "direito do consumidor;consumo",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 32,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 61,
+    "averageRating": 9.34,
+    "practiceAverage": 9.39,
+    "trailer": {
+      "id": "94f75887-8f10-41bc-bd87-631b70f08fce",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/94f75887-8f10-41bc-bd87-631b70f08fce/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/94f75887-8f10-41bc-bd87-631b70f08fce/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/94f75887-8f10-41bc-bd87-631b70f08fce/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/94f75887-8f10-41bc-bd87-631b70f08fce/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-06-15T19:14:59.000Z",
+      "updatedAt": "2023-06-15T19:14:58.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-04-01T14:07:50.000Z",
+    "recordedAt": "2023-03-24T00:00:00.000Z",
+    "createdAt": "2023-03-06T13:13:56.000Z"
+  }
+}

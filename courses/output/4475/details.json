@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4475,
+    "title": "Indicadores do Departamento Pessoal",
+    "subtitle": "curso prático",
+    "summary": "Neste curso 'Indicadores do Departamento Pessoal - curso prático' você irá aprender na prática tudo o que precisa saber sobre indicadores de desempenho no departamento pessoal. Aprenderá os fundamentos e a prática de indicadores de absenteísmo, índice de entrada e indicador de rotatividade e cota, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre indicadores de desempenho no departamento pessoal.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/1dcf3b03-8aab-498e-8bbf-2ade15339e81-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Indicadores do Departamento Pessoal: curso prático é a capacitação para a aplicação prática da gestão de indicadores do departamento pessoal, incluindo conceitos, exemplos práticos e análise de dados para tomada de decisões informadas."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 1767,
+    "keywords": "indicadores;departamento;pessoal",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 125,
+    "averageRating": 9.29,
+    "practiceAverage": 9.28,
+    "trailer": {
+      "id": "95188f5a-0e2b-4c73-a47e-6e2aad94335f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/95188f5a-0e2b-4c73-a47e-6e2aad94335f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/95188f5a-0e2b-4c73-a47e-6e2aad94335f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/95188f5a-0e2b-4c73-a47e-6e2aad94335f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/95188f5a-0e2b-4c73-a47e-6e2aad94335f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-30T18:41:30.000Z",
+      "updatedAt": "2026-03-30T18:41:30.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-30T21:10:26.000Z",
+    "recordedAt": "2026-03-20T00:00:00.000Z",
+    "createdAt": "2026-03-30T18:21:06.000Z"
+  }
+}

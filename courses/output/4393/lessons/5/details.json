@@ -1,0 +1,33 @@
+{
+  "id": 486361,
+  "title": "Tipos",
+  "position": 5,
+  "duration": 199,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f30d65e7-d5b3-4f50-ae56-e42e21b9e983/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f30d65e7-d5b3-4f50-ae56-e42e21b9e983/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f30d65e7-d5b3-4f50-ae56-e42e21b9e983/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f30d65e7-d5b3-4f50-ae56-e42e21b9e983/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f30d65e7-d5b3-4f50-ae56-e42e21b9e983/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

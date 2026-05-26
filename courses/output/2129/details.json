@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2129,
+    "title": "Trânsito Aduaneiro",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Trânsito Aduaneiro, você vai aprender os principais aspectos do regime de Reintegra com base na jurisprudência e nas principais legislações vigentes concernente ao tema:  INSTRUÇÃO NORMATIVA SRF Nº 248, DE 25 DE NOVEMBRO DE 2002 e o Regulamento Aduaneiro Arts. 315 – 352.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/3a928e9dce5928f7615a75133b5603d01657035274.jpg",
+    "goals": [
+      "Promover uma análise técnica quanto aos fundamentos, principais ritos e critérios a cerca do Regime Especial de Trânsito Aduaneiro, com base na legislação aduaneira vigente, bem como na jurisprudência."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 2183,
+    "keywords": "regime especial;trânsito aduaneiro",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 13,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 124,
+    "averageRating": 8.87,
+    "practiceAverage": 8.73,
+    "trailer": {
+      "id": "a73cb01d-74f3-4179-8a65-a34614b89e22",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a73cb01d-74f3-4179-8a65-a34614b89e22/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a73cb01d-74f3-4179-8a65-a34614b89e22/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a73cb01d-74f3-4179-8a65-a34614b89e22/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a73cb01d-74f3-4179-8a65-a34614b89e22/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-07-20T17:48:44.000Z",
+      "updatedAt": "2022-07-20T17:48:44.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-07-25T17:28:29.000Z",
+    "recordedAt": "2022-07-02T00:00:00.000Z",
+    "createdAt": "2022-07-05T12:26:55.000Z"
+  }
+}

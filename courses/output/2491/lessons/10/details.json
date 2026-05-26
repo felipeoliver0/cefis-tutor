@@ -1,0 +1,33 @@
+{
+  "id": 466386,
+  "title": "Enfoque do informante",
+  "position": 10,
+  "duration": 386,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ace377a2-b3e7-4d1f-b174-ac5dee031a84/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ace377a2-b3e7-4d1f-b174-ac5dee031a84/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ace377a2-b3e7-4d1f-b174-ac5dee031a84/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ace377a2-b3e7-4d1f-b174-ac5dee031a84/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ace377a2-b3e7-4d1f-b174-ac5dee031a84/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

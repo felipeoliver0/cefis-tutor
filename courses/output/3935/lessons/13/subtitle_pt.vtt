@@ -1,0 +1,244 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.880
+-  E eu trouxe para vocês então, depois já que a gente conversou todo esse contexto,
+
+00:00:06.880 --> 00:00:12.520
+-  uma forma prática de vocês entenderem para que de fato vocês consigam perceber se tudo
+
+00:00:12.520 --> 00:00:17.720
+-  isso que a gente comentou até agora faz sentido e se você conseguiu de fato entender esse
+
+00:00:17.720 --> 00:00:18.720
+-  fluxo.
+
+00:00:18.720 --> 00:00:25.120
+-  Então imagine o seguinte, o CNPJ de um contribuinte presta um serviço, realiza uma venda, ele
+
+00:00:25.120 --> 00:00:31.720
+-  realizou uma venda, foi feito um login, esse login simulado é do gov.br, exibindo ainda
+
+00:00:31.720 --> 00:00:36.560
+-  o CNPJ, sem qualquer dado pessoal vinculado, porque eu vou demonstrar para vocês o print,
+
+00:00:36.560 --> 00:00:38.720
+-  para vocês conseguirem observar.
+
+00:00:38.720 --> 00:00:42.280
+-  Este contribuinte ainda não possui nenhuma operação, então vocês vão perceber que
+
+00:00:42.280 --> 00:00:47.200
+-  eu fiz um único lançamento e esse único lançamento vai aparecer dentro da apuração
+
+00:00:47.200 --> 00:00:48.200
+-  assistida.
+
+00:00:48.200 --> 00:00:54.040
+-  Da mesma forma, foi incluído um adquirente, então vai ter um lançamento do débito e
+
+00:00:54.040 --> 00:00:59.280
+-  um adquirente, para que vocês consigam ver de forma prática essa apuração assistida
+
+00:00:59.280 --> 00:01:00.280
+-  acontecendo.
+
+00:01:00.280 --> 00:01:05.380
+-  Ambos os participantes estão começando do zero, ou seja, a gente não tem nenhum tipo
+
+00:01:05.380 --> 00:01:10.160
+-  de saldos dentro dessa apuração assistida, tá?
+
+00:01:10.160 --> 00:01:16.600
+-  Então essa simulação ela é de forma prática, dentro da apuração assistida, para que vocês
+
+00:01:16.600 --> 00:01:20.440
+-  consigam observar como que de fato vai acontecer.
+
+00:01:20.440 --> 00:01:26.040
+-  Eu coloquei aí um CNPJ distinto, as operações não existem, porque como eu disse, estamos
+
+00:01:26.040 --> 00:01:32.800
+-  iniciando do zero, para que vocês consigam observar o fluxo que nós comentamos aqui.
+
+00:01:32.800 --> 00:01:37.540
+-  Dentro desse contexto, lembre-se do ROC, onde ele vai buscar todos os documentos fiscais
+
+00:01:37.540 --> 00:01:44.060
+-  eletrônicos emitidos e vai fazer a interpretação para levar para a apuração assistida.
+
+00:01:44.060 --> 00:01:50.980
+-  Então lembre-se, ROC, ele é o intérprete, busca todos os documentos fiscais eletrônicos,
+
+00:01:50.980 --> 00:01:56.220
+-  lista os eventos para ir para a plataforma assistida.
+
+00:01:56.220 --> 00:02:00.180
+-  Então ele vai trazer um enriquecimento cadastral, ele busca documento fiscal eletrônico não
+
+00:02:00.180 --> 00:02:06.220
+-  só sobre os valores, mas também cadastros, vai levar para o motor de regra e aí sim
+
+00:02:06.220 --> 00:02:08.860
+-  teremos o cálculo, tá?
+
+00:02:08.860 --> 00:02:14.260
+-  Então o resultado do ROC, ele é enriquecido, porque ele trata informações cadastrais
+
+00:02:14.260 --> 00:02:15.260
+-  e valores.
+
+00:02:15.260 --> 00:02:22.420
+-  A apuração assistida, ela avalia a transação, ou seja, ele vai identificar, tudo bem, emitiu
+
+00:02:22.420 --> 00:02:27.980
+-  uma nota fiscal eletrônica, o ROC já entendeu, e aí a plataforma vai entender quem foi que
+
+00:02:27.980 --> 00:02:28.980
+-  vendeu.
+
+00:02:28.980 --> 00:02:34.540
+-  Ele vai buscar as informações cadastrais que o ROC trouxe, quem comprou, qual é o
+
+00:02:34.540 --> 00:02:40.420
+-  valor do débito, qual será o crédito depois do pagamento, tudo isso em menos de um segundo,
+
+00:02:40.420 --> 00:02:44.060
+-  esse fluxo ele é automático, tá?
+
+00:02:44.060 --> 00:02:51.180
+-  Então vamos fazer a visualização do fornecedor, de quem está vendendo, dentro da plataforma
+
+00:02:51.180 --> 00:02:52.260
+-  assistida.
+
+00:02:52.260 --> 00:02:57.260
+-  No período de janeiro, por exemplo, ele tem uma operação registrada, ele não tinha
+
+00:02:57.260 --> 00:03:03.100
+-  nenhuma operação e agora ele tem uma operação registrada, e já consta um débito no valor
+
+00:03:03.100 --> 00:03:09.700
+-  de 30 reais a ser pago, como ele não comprou nada pessoal, vocês não estão vendo o crédito
+
+00:03:09.700 --> 00:03:15.300
+-  de aproveitamento aqui, só está vendo lá o débito, por isso que existe uma nota fiscal
+
+00:03:15.300 --> 00:03:21.420
+-  de débito aqui, porque o ROC entendeu uma emissão, fez a identificação, informações
+
+00:03:21.420 --> 00:03:25.060
+-  cadastrais e levou para a calculadora, e o que vocês estão vendo?
+
+00:03:25.060 --> 00:03:31.980
+-  Débito, ou seja, ele tem o valor a recolher, se buscarmos aí a competência dessa apuração
+
+00:03:31.980 --> 00:03:38.260
+-  vai estar em andamento, sem nenhum tipo de valor, porque ele não fez o recolhimento.
+
+00:03:38.260 --> 00:03:44.220
+-  Quando a gente olha para o comprador, olha lá o valor, e por que o valor está zero
+
+00:03:44.220 --> 00:03:45.220
+-  pessoal?
+
+00:03:45.220 --> 00:03:50.260
+-  Porque lá o débito não foi recolhido, mesmo que a emissão da nota fiscal eletrônica
+
+00:03:50.260 --> 00:03:55.700
+-  já tinha dados cadastrais do adquirente, não existe o crédito, porque não houve
+
+00:03:55.700 --> 00:03:58.140
+-  o pagamento.
+
+00:03:58.140 --> 00:04:05.620
+-  Voltando lá para o pagamento do fornecedor, considerando esse exemplo, eu coloquei o seguinte
+
+00:04:05.620 --> 00:04:15.060
+-  critério, passou o prazo, então isso quer dizer que naquela apuração, o fornecedor
+
+00:04:15.060 --> 00:04:21.140
+-  ele não fez o recolhimento do débito, isso quer dizer que na apuração do adquirente
+
+00:04:21.140 --> 00:04:27.140
+-  não houve o crédito, mesmo que tenha tido uma emissão de documento fiscal eletrônico,
+
+00:04:27.140 --> 00:04:34.940
+-  e aí ele fez o recolhimento, mas ele fez o recolhimento considerando datas diferentes
+
+00:04:34.940 --> 00:04:41.340
+-  do que já trazia a particularidade, então trazendo um paralelo, porque a gente disse
+
+00:04:41.340 --> 00:04:47.140
+-  que a gente não tem ainda prazos, então aqui é só uma simulação, entendendo que
+
+00:04:47.140 --> 00:04:52.780
+-  seu contribuinte não fez o recolhimento na data prevista na regulamentação, o que vai
+
+00:04:52.780 --> 00:04:57.620
+-  precisar fazer, ele vai precisar arrecadar, ele vai considerar o valor principal, a correção
+
+00:04:57.620 --> 00:05:03.780
+-  monetária, o saldo total a pagar e a data de vencimento nova pra ele fazer o recolhimento.
+
+00:05:03.780 --> 00:05:10.980
+-  Hoje nós não temos ainda o layout dessa guia, a guia que nós temos hoje são os DARFs,
+
+00:05:10.980 --> 00:05:18.420
+-  quando a gente pensa no Psicofins por exemplo, então hoje é desenhado uma informação de
+
+00:05:18.420 --> 00:05:23.380
+-  guia chamada DARF, só que a gente ainda não tem o layout, então o que eu fiz aqui pra
+
+00:05:23.380 --> 00:05:25.260
+-  deixar mais prático pra vocês?
+
+00:05:25.260 --> 00:05:30.260
+-  Eu trouxe todas essas informações dentro do nosso DARF, pra que vocês consigam pelo
+
+00:05:30.260 --> 00:05:37.900
+-  menos observar as informações acontecendo com as datas de vencimento, os encargos envolvidos.
+
+00:05:37.900 --> 00:05:43.940
+-  Lembrando que como é uma conta corrente, quando o contribuinte colocar a data de vencimento
+
+00:05:43.940 --> 00:05:50.580
+-  nova ele já vai calcular os encargos monetários, então eu fiz a mesma coisa, a gente não
+
+00:05:50.580 --> 00:05:57.260
+-  tinha o valor a pagar aqui de 30 reais, passou o prazo de recolhimento, a conta corrente
+
+00:05:57.260 --> 00:06:04.560
+-  vai atualizar e ele vai fazer o recolhimento, lembrando aqui estamos falando de um DARF,
+
+00:06:04.560 --> 00:06:10.620
+-  o que está sendo desenhado e conversado é que teremos uma nova guia chamada DARF, mas
+
+00:06:10.620 --> 00:06:15.060
+-  a gente ainda não tem o layout, a ideia aqui dentro dessa aula é trazer pra vocês a ideia
+
+00:06:15.060 --> 00:06:22.060
+-  de que ele pagou 34,63 reais após o prazo, então ele não pagou naquele momento e aqui
+
+00:06:22.060 --> 00:06:26.740
+-  tem os encargos todos envolvidos pra trazer um pouco mais de simulação em prática pra
+
+00:06:26.740 --> 00:06:35.580
+-  vocês, então aí no dia 14 de abril de 2025 houve o pagamento de 34,63 reais considerando
+
+00:06:35.580 --> 00:06:44.120
+-  os encargos, vamos olhar então a conta corrente do fornecedor, de quem vendeu, se teve o pagamento
+
+00:06:44.120 --> 00:06:49.900
+-  não há mais o valor total a pagar, tem o débito, mas ele pagou, então não tem mais
+
+00:06:49.900 --> 00:06:56.180
+-  total de débito, e o comprador depois que ele pagou, vamos lá, vamos na apuração
+
+00:06:56.180 --> 00:07:03.020
+-  em andamento, o valor de 30 reais aparece como crédito, porque houve o pagamento, então
+
+00:07:03.020 --> 00:07:12.620
+-  aí apareceu o crédito de aproveitamento, porque a apuração assistida entendeu, fez
+
+00:07:12.620 --> 00:07:18.180
+-  o recolhimento, então agora você tem a opção crédito, ok?

@@ -1,0 +1,337 @@
+WEBVTT
+
+1
+00:00:00.129 --> 00:00:05.039
+eu gosto bastante desse modelo aqui Modelo que dia da semana, inclusive
+
+2
+00:00:05.849 --> 00:00:09.060
+os fluxos de caixa o qual eu tenho planejado,
+
+3
+00:00:09.069 --> 00:00:13.720
+eu utilizo o modelo de dia da semana e não apenas de segunda a sexta,
+
+4
+00:00:13.729 --> 00:00:17.399
+mas dia da semana do dia um ao dia trinta, né?
+
+5
+00:00:17.409 --> 00:00:21.319
+O qual eu sei que dia trinta eu tenho folha de pagamento,
+
+6
+00:00:23.850 --> 00:00:27.319
+o qual eu sei que dia trinta eu tenho folha de pagamento.
+
+7
+00:00:27.329 --> 00:00:30.100
+Eu tenho um determinado dia que eu pago ali.
+
+8
+00:00:30.110 --> 00:00:34.939
+O f GTS que eu pago o INSS, eu consigo analisar.
+
+9
+00:00:34.950 --> 00:00:40.659
+Eh Quando que eu vou pagar o meu PIS COFINS, o meu IPI, o meu ICMS,
+
+10
+00:00:40.669 --> 00:00:46.369
+o meu ISS com base nas vendas do do mês anterior, né?
+
+11
+00:00:46.380 --> 00:00:50.470
+E eu vendi no mês anterior eu pago os impostos no mês subsequente e
+
+12
+00:00:50.479 --> 00:00:56.590
+tem as datas fixas e eu consigo estimar a saída de caixa com precisão,
+
+13
+00:00:56.599 --> 00:00:57.389
+né?
+
+14
+00:00:57.400 --> 00:01:00.610
+E por outro lado, eu tenho ali
+
+15
+00:01:01.279 --> 00:01:02.330
+ah,
+
+16
+00:01:02.340 --> 00:01:06.389
+as notas fiscais de custos e despesas já imputada
+
+17
+00:01:06.400 --> 00:01:10.690
+no sistema com dados concretos das datas de pagamento,
+
+18
+00:01:10.699 --> 00:01:13.910
+que são as datas de vencimento o que que acaba me registrando
+
+19
+00:01:14.629 --> 00:01:16.019
+as datas de entrada?
+
+20
+00:01:16.029 --> 00:01:19.239
+As datas de recebimento eu tenho ali um
+
+21
+00:01:19.250 --> 00:01:23.760
+dos meus contas a receber e pela sensibilidade.
+
+22
+00:01:23.769 --> 00:01:27.069
+Eu tenho ali o histórico dos clientes que atrasam,
+
+23
+00:01:27.080 --> 00:01:33.480
+e eu acabo planejando as entradas de caixa as saídas de caixa pelos dias da semana.
+
+24
+00:01:33.489 --> 00:01:37.819
+Mas do dia um ao dia trinta de todos os meses
+
+25
+00:01:38.389 --> 00:01:42.300
+Ah, professor, mas, como é que você gestiona
+
+26
+00:01:42.870 --> 00:01:46.120
+o contas, a receber meu contas a receber?
+
+27
+00:01:46.129 --> 00:01:49.480
+Eu tenho o histórico dos clientes que pagam em dia.
+
+28
+00:01:49.489 --> 00:01:55.559
+E tenho o histórico dos clientes que atrasam, né? Eh o que que eu tenho feito?
+
+29
+00:01:55.569 --> 00:01:56.779
+Que tem dado muito certo?
+
+30
+00:01:58.879 --> 00:02:01.290
+Lembrando aí mensagens automáticas?
+
+31
+00:02:01.300 --> 00:02:01.569
+Olha,
+
+32
+00:02:01.580 --> 00:02:03.809
+o seu título vence em tal dia e depois
+
+33
+00:02:03.819 --> 00:02:07.830
+que venceu uma gestão eficiente de cobrança de Oh,
+
+34
+00:02:07.839 --> 00:02:09.550
+está vencido!
+
+35
+00:02:10.710 --> 00:02:15.139
+Tem a equipe do contas a receber que liga pros clientes que manda,
+
+36
+00:02:15.149 --> 00:02:19.119
+e-mail que liga quando não está tendo efetividade.
+
+37
+00:02:19.130 --> 00:02:23.880
+Eu procuro o time comercial pra gestionária os meus recebíveis, né?
+
+38
+00:02:23.889 --> 00:02:27.539
+Mas vamos lá Modelo de dia da Semana capta
+
+39
+00:02:28.229 --> 00:02:30.339
+a variação sazonal.
+
+40
+00:02:31.600 --> 00:02:34.970
+Exemplo indústria do lazer instalam-se, Loja Shopping.
+
+41
+00:02:34.979 --> 00:02:40.509
+UTIs normal, que nos meses de férias dezembro janeiro, Julho
+
+42
+00:02:41.419 --> 00:02:41.770
+é
+
+43
+00:02:43.470 --> 00:02:48.039
+locais, negócios que tem indústria de lazer. Existe uma demanda maior, né?
+
+44
+00:02:48.050 --> 00:02:52.080
+Como indústria de chocolate? Páscoa, Dia das mães! Dia dos Namorados, né?
+
+45
+00:02:52.089 --> 00:02:56.559
+uma demanda é me é maior também olha aqui oh regressão múltipla pra
+
+46
+00:02:56.570 --> 00:03:01.419
+prever o comportamento de caixa tomar a decisão ao menor nível possível,
+
+47
+00:03:01.429 --> 00:03:02.339
+conforme eu já comente.
+
+48
+00:03:02.350 --> 00:03:09.380
+Folha de pagamento c n s Empréstimos INSS pessoal são apenas alguns exemplos,
+
+49
+00:03:09.389 --> 00:03:14.020
+mas que você listando os seus pagamentos mensais,
+
+50
+00:03:14.029 --> 00:03:21.740
+certamente vocês vão perceber que a a tendência dos pagamentos por dias serem prós,
+
+51
+00:03:21.750 --> 00:03:22.160
+né?
+
+52
+00:03:23.199 --> 00:03:25.130
+No MO, no mundo real,
+
+53
+00:03:25.139 --> 00:03:29.990
+o fluxo de caixa não é totalmente determina nem totalmente aleatório, né?
+
+54
+00:03:30.779 --> 00:03:34.710
+Modelos não levarem em consideração características da empresa e do gestor.
+
+55
+00:03:34.720 --> 00:03:37.919
+As empresas se utilizam de algum modelo específico
+
+56
+00:03:37.929 --> 00:03:40.470
+da determinação do nível que disponível no dia-a-dia.
+
+57
+00:03:40.479 --> 00:03:45.250
+Aí eu pergunto como que vocês fazem a gestão de custos? Encaixe na sua empresa?
+
+58
+00:03:45.990 --> 00:03:48.240
+Compartilhe com a gente, Compartilhe com o grupo!
+
+59
+00:03:48.250 --> 00:03:51.559
+Eu tenho certeza que ah, será muito bem-vindo!
+
+60
+00:03:51.570 --> 00:03:57.360
+Aí você irá trazer novas ideias também pra que outros colegas consigam. Aí?
+
+61
+00:03:57.369 --> 00:04:01.300
+Ah, aperfeiçoar os respectivos modelos! Tá bem
+
+62
+00:04:02.029 --> 00:04:02.940
+bem!
+
+63
+00:04:02.949 --> 00:04:06.240
+Pesquisas pessoal por exemplo Artigo Identificação
+
+64
+00:04:06.250 --> 00:04:08.210
+dos padrões em picos para o disponível
+
+65
+00:04:08.220 --> 00:04:12.600
+das empresas do semi AT Autores Roy e Matte Lang Professor Matt Lange,
+
+66
+00:04:12.610 --> 00:04:16.480
+o Coline Almir Ferreira Conclusão Empresas não têm
+
+67
+00:04:16.488 --> 00:04:22.368
+valores disponíveis relacionados um suporte representando o A,
+
+68
+00:04:22.378 --> 00:04:26.959
+representado pelas suas receitas líquidas e pelo seu ativo permanente,
+
+69
+00:04:26.968 --> 00:04:27.998
+quarenta por cento.
+
+70
+00:04:28.009 --> 00:04:33.838
+Outros fatores possíveis, históricos e planos estratégicos da empresa, né?
+
+71
+00:04:33.848 --> 00:04:36.898
+Aqui, pessoal! Eh
+
+72
+00:04:38.350 --> 00:04:40.859
+por categoria de empresa
+
+73
+00:04:41.959 --> 00:04:49.570
+eh uma tabela de caixa dividida pelo Ativo Total Caixa pelo valor caixa ativo total.
+
+74
+00:04:49.579 --> 00:04:54.390
+Aí tem aqui Oh, varejo, água, farmácia, supermercado,
+
+75
+00:04:55.600 --> 00:04:56.529
+varejo aqui.
+
+76
+00:04:56.540 --> 00:05:00.899
+Material de construção, carvão, energia pobre, transporte, automóveis,
+
+77
+00:05:00.910 --> 00:05:03.790
+ácido integrado, importante pessoal.
+
+78
+00:05:05.109 --> 00:05:07.540
+Um segmento é diferente do outro
+
+79
+00:05:09.980 --> 00:05:13.529
+E qual? Que é o modelo ideal pra sua empresa? Depende do seu segmento.
+
+80
+00:05:14.720 --> 00:05:22.869
+Eu vou ler não apenas segmento, mas principalmente o tamanho, né? Tamanho acaba
+
+81
+00:05:24.470 --> 00:05:30.619
+in influenciando a o seu volume financeiro em relação ao seu caixa.
+
+82
+00:05:30.630 --> 00:05:33.619
+Em relação ao seu ativo, por exemplo, tá?
+
+83
+00:05:33.630 --> 00:05:37.160
+Mas são aí algumas ideias que podem ajudar
+
+84
+00:05:37.170 --> 00:05:41.779
+vocês a melhor administrar o seu caixa também.

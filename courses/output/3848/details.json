@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3848,
+    "title": "ECF 2025",
+    "subtitle": "Escrituração Contábil Fiscal",
+    "summary": "Este curso é projetado para capacitar profissionais da contabilidade e área fiscal no domínio completo da Escrituração Contábil Fiscal (ECF). Com foco em preenchimento, geração e transmissão conforme o Sistema Público de Escrituração Digital (SPED), abordaremos a introdução à ECF, a legislação atual para 2025, preparação dos documentos fiscais e contábeis, apresentação dos diferentes regimes tributários, e o processo de transmissão e retificação de dados. Incluímos ainda tópicos avançados e novidades para o ano de 2025, preparando você para as exigências futuras do mercado.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/7798069d-469d-4e34-a96e-c5d27476fae0-thumbnail.png",
+    "goals": [
+      "Capacitar profissionais para o correto preenchimento, geração e transmissão da Escrituração Contábil Fiscal, garantindo conformidade com as normas e exigências do SPED para 2025."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 21417,
+    "keywords": "ECF;SPED;contabilidade;fiscal;2025",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 48,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 473,
+    "averageRating": 9.36,
+    "practiceAverage": 9.22,
+    "trailer": {
+      "id": "03f49d07-92e5-4e82-99d1-1a9e8e3c5037",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/03f49d07-92e5-4e82-99d1-1a9e8e3c5037/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/03f49d07-92e5-4e82-99d1-1a9e8e3c5037/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/03f49d07-92e5-4e82-99d1-1a9e8e3c5037/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/03f49d07-92e5-4e82-99d1-1a9e8e3c5037/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-06T00:34:58.000Z",
+      "updatedAt": "2025-07-06T00:34:57.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-07-07T20:53:10.000Z",
+    "recordedAt": "2025-06-30T00:00:00.000Z",
+    "createdAt": "2025-06-27T16:57:10.000Z"
+  }
+}

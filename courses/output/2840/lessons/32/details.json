@@ -1,0 +1,33 @@
+{
+  "id": 471414,
+  "title": "ISS",
+  "position": 32,
+  "duration": 447,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/354c54b8-4a2b-48a1-a17d-92fc545b213f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/354c54b8-4a2b-48a1-a17d-92fc545b213f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/354c54b8-4a2b-48a1-a17d-92fc545b213f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/354c54b8-4a2b-48a1-a17d-92fc545b213f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/354c54b8-4a2b-48a1-a17d-92fc545b213f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

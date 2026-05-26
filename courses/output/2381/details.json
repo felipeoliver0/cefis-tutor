@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2381,
+    "title": "Recuperação de Créditos no Simples Nacional",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de recuperação de créditos no Simples Nacional você aprenderá desde a composição dos anexos, até pontos relacionados ao cálculo do Simples Nacional, alíquota efetiva, segregação das receitas, ISS fixo, ISS retido, monofasia, ICMS ST, materiais aplicados em obra, salão parceiro, fator R, retificação e muitos outros pontos importantes para reduzir tributos na forma da lei, recuperar possíveis tributos pagos indevidamente e aplicar adequadamente medidas de compliance na prática.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/f2b9cfb7d4aa714eeb9d8c1fb4cce28a1728428667.jpg",
+    "goals": [
+      "Apresentar desde a composição dos anexos, até pontos relacionados ao cálculo do Simples Nacional, alíquota efetiva, segregação das receitas, ISS fixo, ISS retido, monofasia, ICMS ST, materiais aplicados em obra, salão parceiro, fator R, retificação e muitos outros pontos importantes para reduzir tributos na forma da lei, recuperar possíveis tributos pagos indevidamente e aplicar adequadamente medidas de compliance na prática."
+    ],
+    "teacher": {
+      "id": 618416,
+      "name": "Mônica Porto",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1668862616.jpeg"
+    },
+    "duration": 5843,
+    "keywords": "recuperação de créditos;recuperação;simples nacional",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 777,
+    "averageRating": 9.43,
+    "practiceAverage": 9.31,
+    "trailer": {
+      "id": "1006f0ee-6ea3-4314-b6f6-7a68ff4b9ff7",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1006f0ee-6ea3-4314-b6f6-7a68ff4b9ff7/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1006f0ee-6ea3-4314-b6f6-7a68ff4b9ff7/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1006f0ee-6ea3-4314-b6f6-7a68ff4b9ff7/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1006f0ee-6ea3-4314-b6f6-7a68ff4b9ff7/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-06T02:27:30.000Z",
+      "updatedAt": "2022-12-06T02:27:30.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-14T08:31:51.000Z",
+    "recordedAt": "2022-11-22T00:00:00.000Z",
+    "createdAt": "2022-11-24T19:59:30.000Z"
+  }
+}

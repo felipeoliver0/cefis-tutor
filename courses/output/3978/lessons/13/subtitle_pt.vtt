@@ -1,0 +1,223 @@
+WEBVTT
+
+00:00:02.370 --> 00:00:10.089
+- Próximo, nós temos aqui a folha de pagamento de maio sendo paga no mês de junho. Aí já é uma mudança
+
+00:00:10.089 --> 00:00:17.880
+- significativa. Ou seja, a empresa fez a folha de maio e pagou até o quinto dia útil. Se a gente considerar
+
+00:00:17.880 --> 00:00:24.670
+- as apurações dos IRs 0561 para funcionários, para sócios e o código 0588 para autônomos,
+
+00:00:24.834 --> 00:00:32.858
+- Esse da Arfi vai vencer no dia 20 de julho. Por quê, Jefferson? Por quê? O pagamento foi no mês 6.
+
+00:00:32.858 --> 00:00:40.724
+- Dia 20 do mês subsequente é 20 de julho. E, por fim, a grande dúvida que surge na área da folha
+
+00:00:40.724 --> 00:00:48.590
+- de pagamento para aqueles que têm adiantamento de salário. Suponhamos que em maio a empresa fez a
+
+00:00:48.590 --> 00:00:51.422
+- folha, mas pagou no dia 6 de junho.
+
+00:00:52.706 --> 00:01:00.722
+- No dia 15 de junho, ela efetuou o pagamento do adiantamento de salário. Ou seja, no mês 6, existiram
+
+00:01:00.722 --> 00:01:08.738
+- dois pagamentos, ok? O último foi no dia 15, certo? Que é o adiantamento. Consequentemente, pessoal,
+
+00:01:08.738 --> 00:01:16.598
+- eu somo essas bases de cálculo, faço a apuração e o DARF vai vencer no dia 20 do sete. Sempre no
+
+00:01:16.598 --> 00:01:22.046
+- mês subsequente na data do dia 20. A apuração do IR acontece aqui.
+
+00:01:22.530 --> 00:01:29.763
+- no adiantamento, por quê? Porque foi o último recibo processado, o último pagamento realizado, ok?
+
+00:01:29.763 --> 00:01:37.491
+- Essa dinâmica facilita o seu entendimento na hora de conferir o imposto de renda na sua folha de pagamento.
+
+00:01:37.491 --> 00:01:45.079
+- Agora, pessoal, vamos recordar essa legislação à tabela do imposto de renda, que trata alternativamente
+
+00:01:45.079 --> 00:01:52.382
+- as deduções a serem aplicadas correspondente a 25% do valor máximo da faixa de alíquota da tabela.
+
+00:01:52.514 --> 00:01:59.487
+- Ou seja, olha que legal, é instituído o desconto simplificado. Então, hoje, se a gente considerar
+
+00:01:59.487 --> 00:02:06.253
+- a faixa 1, nós vamos aplicar 25%, a gente vai achar os 607,20, que é classificado como desconto
+
+00:02:06.253 --> 00:02:13.640
+- simplificado. Vamos ver as diferenças? Isso é bacana para essa aula de cálculo. Vamos fazer um cálculo
+
+00:02:13.640 --> 00:02:20.958
+- aqui com base na dedução legal. Então, na apuração do imposto de renda, o que seria dedução legal?
+
+00:02:21.634 --> 00:02:30.510
+- Nós temos o salário do trabalhador, o INSS. Então, nós temos salário menos INSS, eu vou achar a
+
+00:02:30.510 --> 00:02:39.299
+- base de cálculo do IR, R$ 2.746,69. Automaticamente, eu aplico a tabela de impôs de renda, 7,5% e
+
+00:02:39.299 --> 00:02:49.054
+- dedução 1,82, parcela deduzir 1,82. Compador do IR, R$ 23,83. Olha que legal, R$ 23,83 sendo descontado para
+
+00:02:49.922 --> 00:02:58.451
+- ou empregado a título de imposto de renda. Se considerarmos o desconto legal agora, a dedução legal,
+
+00:02:58.451 --> 00:03:06.980
+- é salário menos R$ 607,20. Consequentemente, esse valor cai para R$ 2.392,80. Este valor, se aplicado
+
+00:03:06.980 --> 00:03:15.427
+- e comparado com a tabela do imposto de renda, fica classificado como isento. Então, o mais benéfico,
+
+00:03:15.427 --> 00:03:19.774
+- nós acabamos de resolver uma problemática no quiz,
+
+00:03:20.322 --> 00:03:26.698
+- é o trabalhador não ser descontado. O mais benéfico é ele não ter apuração do impôr de renda.
+
+00:03:26.698 --> 00:03:33.198
+- Então, o seu sistema automaticamente vai escolher essa apuração para fechamento da folha, tá? Você
+
+00:03:33.198 --> 00:03:39.699
+- precisa amarrar o seu sistema para esse tipo de cálculo, tá bom, pessoal? O que é importante a gente
+
+00:03:39.699 --> 00:03:46.075
+- identificar? A parte do impôr de renda, ela vai muito além. Nós temos aí agora a DIF, sendo feita
+
+00:03:46.075 --> 00:03:49.950
+- a apuração de modo mensal, e toda a sua estrutura vai ficar
+
+00:03:50.658 --> 00:03:57.163
+- direcionada à ficha financeira do empregado. Então, estou dando um exemplo aqui para vocês de uma
+
+00:03:57.163 --> 00:04:04.119
+- ficha financeira de um software. Vocês vão ter aqui na parte do rendimento tributável a base de cálculo
+
+00:04:04.119 --> 00:04:10.560
+- do imposto de renda. Isso é importante identificar se o seu sistema está acumulando corretamente.
+
+00:04:10.560 --> 00:04:15.262
+- E só acumula corretamente se ele trabalhar com a tabela 21 do E-Social,
+
+00:04:15.778 --> 00:04:23.835
+- dizendo todas as incidências, se incide o impôr de renda, se é considerado ou não rendimento tributável,
+
+00:04:23.835 --> 00:04:31.233
+- tudo isso tem código específico, código 11, código 12, código 13, remuneração mensal de 13º,
+
+00:04:31.233 --> 00:04:38.558
+- de férias, tudo isso amarrado nas rúbricas. Automaticamente essa tabela, quando a gente consulta,
+
+00:04:38.722 --> 00:04:44.856
+- Você pode fazer aí uma consulta na internet, tabelas do e-social e busca lá a tabela 21, vocês vão
+
+00:04:44.856 --> 00:04:50.991
+- ver que é a referência para apuração do impor de renda de cada rúbrica. Consequentemente, pessoal,
+
+00:04:50.991 --> 00:04:57.184
+- como você tem o e-social já com a informação toda ela integrada, você vê lá na tabela de rúbrica
+
+00:04:57.184 --> 00:05:01.726
+- a incidência. Olha ali o código que você amarrou no seu sistema de folha.
+
+00:05:01.826 --> 00:05:07.786
+- Lá está a incidência do imposto de renda. Isso tem que estar muito condizente. Ah, Jefferson, será
+
+00:05:07.786 --> 00:05:13.687
+- que o meu sistema já fez essa amarração de modo automático? Sim, mas é sempre bom você conferir
+
+00:05:13.687 --> 00:05:19.473
+- para saber se tem alguma coisa inconsistente ou não. Ou criou alguma outra rúbrica e parametrizou
+
+00:05:19.473 --> 00:05:25.259
+- corretamente ou não. Você tem que fazer essa conferência tanto no seu software de fúria como no
+
+00:05:25.259 --> 00:05:26.590
+- e-social. Ok, pessoal?
+
+00:05:27.106 --> 00:05:32.823
+- Professor, existe a possibilidade de eu consultar a parte do impor de renda do empregado direto na plataforma
+
+00:05:32.823 --> 00:05:33.758
+- do E-Social? Sim.
+
+00:05:34.082 --> 00:05:40.393
+- Nós sabemos que esse recurso também fica disponível no software, mas quem desejar acessar o e-social,
+
+00:05:40.393 --> 00:05:46.523
+- só seguir esse caminho, Gestão da Folha, Trabalhador, Impor de Renda por Trabalhador, você informa
+
+00:05:46.523 --> 00:05:52.713
+- automaticamente o CPF do contribuinte que você quer consultar nessa tela e, consequentemente, ele vai
+
+00:05:52.713 --> 00:05:58.783
+- dar a apuração aqui embaixo. O rendimento do trabalho do empregado, o desconto previdenciário e o
+
+00:05:58.783 --> 00:06:02.750
+- valor do impor de renda. Todas essas rubricas sendo indicada aqui
+
+00:06:03.362 --> 00:06:09.754
+- no rodapé dessa tela. Isso é importante, pessoal, porque vai fazer integração exatamente com as
+
+00:06:09.754 --> 00:06:16.274
+- amarrações que a gente acabou de consultar da tabela 21. Vocês podem ver que esse é o treinamento
+
+00:06:16.274 --> 00:06:22.730
+- mais objetivo possível, tudo o que envolve apuração de IR. Jefferson, o sistema vai fazer somente
+
+00:06:22.730 --> 00:06:29.250
+- apuração do código 0561 com base no recibo da folha de pagamento de funcionários e sócios? Não.
+
+00:06:29.250 --> 00:06:32.446
+- Existem todos esses códigos de imposto de renda,
+
+00:06:33.058 --> 00:06:41.302
+- 0588 para o trabalhador sem vínculo, como autônomos e estagiários e por aí vai. Tudo isso integrado
+
+00:06:41.302 --> 00:06:49.229
+- e social DCTF Web, tá? Todos esses códigos vão ser finalizados, a sua totalização na DCTF Web,
+
+00:06:49.229 --> 00:06:57.869
+- condensados ali na parte do DARF para pagamento. Vocês vão poder olhar a apuração da empresa, dependendo
+
+00:06:57.869 --> 00:06:59.454
+- de cada situação.
+
+00:06:59.842 --> 00:07:05.565
+- Dê atenção em como fica esse cenário na DCTF Web. Você pode abrir a DCTF Web através do link direto
+
+00:07:05.565 --> 00:07:11.343
+- do seu software da Folha e vocês vão ver que toda a relação do imposto de renda vai estar aqui dentro.
+
+00:07:11.343 --> 00:07:15.230
+- Vai ter a parte previdenciária, que nesse momento a gente não precisa
+
+00:07:16.354 --> 00:07:23.055
+- conferir, porque a gente não chegou nessa parte do nosso treinamento, você só vai ver aqui o que
+
+00:07:23.055 --> 00:07:30.023
+- foi apurado de impor de renda e identificar com base no seu resumo geral da folha de pagamento. A gente
+
+00:07:30.023 --> 00:07:36.724
+- já vai ver aqui um modelo de resumo geral logo em seguida. Chegamos à etapa do DARF. DARF da DCTF
+
+00:07:36.724 --> 00:07:39.806
+- Web. E olha que bacana, ele todo estruturado,
+
+00:07:39.970 --> 00:07:46.638
+- com os códigos do imposto de renda. Claro que ele não vem só com esses códigos, tá, pessoal? Aqui
+
+00:07:46.638 --> 00:07:53.176
+- ele tem um exemplo, é um DARF, né, para cursos e palestras, mas vocês vão ver que no seu cliente
+
+00:07:53.176 --> 00:07:59.779
+- vai estar lá a parte previdenciária e a parte do imposto de renda, tá bom? E aí você solicita ao
+
+00:07:59.779 --> 00:08:02.110
+- seu cliente o pagamento dessa guia.

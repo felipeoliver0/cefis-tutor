@@ -1,0 +1,445 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.099
+E sabe por que existe uma padronização nos documentos?
+
+2
+00:00:05.320 --> 00:00:09.419
+Existe um instrumento legislativo chamado ajuste CNF.
+
+3
+00:00:10.160 --> 00:00:20.140
+E o ajuste CNF 24 de 2024, ele nos dá, então, a padronização nos nossos documentos fiscais eletrônicos.
+
+4
+00:00:21.039 --> 00:00:27.679
+Foi por meio do ajuste CNF 24 de 2024 que o F o Fisco então começou a tratar as notas técnicas.
+
+5
+00:00:28.920 --> 00:00:33.299
+Nós temos hoje mais de 100 tipos de documentos fiscais.
+
+6
+00:00:34.640 --> 00:00:50.479
+Então por isso que o Ajuste CNF precisou existir, para que então tivéssemos uma padronização para a emissão do IBS, CBS e o IS dentro dos documentos fiscais eletrônicos existentes.
+
+7
+00:00:54.119 --> 00:01:02.259
+Hoje, o meu dever aqui com vocês é falar sobre o preenchimento pensando no modelo 55 e na NFA.
+
+8
+00:01:03.320 --> 00:01:06.120
+Mas, obviamente, eu vou trazer para vocês algumas reflexões
+
+9
+00:01:06.120 --> 00:01:08.200
+quando pensamos na nota fiscal
+
+10
+00:01:08.200 --> 00:01:08.920
+de serviço,
+
+11
+00:01:09.500 --> 00:01:12.480
+que é um mundo em paralelo,
+
+12
+00:01:13.019 --> 00:01:14.599
+porque existem municípios
+
+13
+00:01:14.599 --> 00:01:16.340
+que não aderiram à padronização
+
+14
+00:01:16.340 --> 00:01:18.400
+e que nós
+
+15
+00:01:18.400 --> 00:01:19.599
+precisamos se atentar
+
+16
+00:01:19.599 --> 00:01:22.480
+qual é o município que nós estamos
+
+17
+00:01:22.480 --> 00:01:24.680
+com o nosso contribuinte, o nosso cliente.
+
+18
+00:01:27.260 --> 00:01:33.180
+Então, pessoal, é pensar que a escrituração fiscal, a emissão do documento fiscal,
+
+19
+00:01:33.780 --> 00:01:37.480
+é a base para qualquer tipo de entrega de obrigações acessórias.
+
+20
+00:01:37.480 --> 00:01:43.739
+E no final do dia, nós que somos responsáveis por esse preenchimento.
+
+21
+00:01:45.099 --> 00:01:49.859
+Mesmo que você não faça parte hoje da emissão do documento fiscal do seu cliente,
+
+22
+00:01:50.340 --> 00:01:55.719
+no final do dia, é você que apura, é você que entrega as obrigações acessórias
+
+23
+00:01:55.719 --> 00:01:58.379
+às obrigações principais do seu contribuinte.
+
+24
+00:01:59.819 --> 00:02:05.060
+Então, o que muda na nota fiscal eletrônica com a nova era tributária?
+
+25
+00:02:05.540 --> 00:02:08.219
+Com esse novo conceito, com esse novo sistema tributário?
+
+26
+00:02:09.319 --> 00:02:18.139
+Foi criado grupos para gerar as tags, para então informarmos o IBS e a CBS,
+
+27
+00:02:18.740 --> 00:02:27.860
+novos campos obrigatórios, novos eventos, novas formas de validação e novas rejeições.
+
+28
+00:02:29.419 --> 00:02:31.659
+Validações automáticas.
+
+29
+00:02:32.699 --> 00:02:36.979
+O fisco criou algumas validações para então ajudar na conformidade.
+
+30
+00:02:38.560 --> 00:02:40.340
+Olha o que eu falei para vocês.
+
+31
+00:02:41.080 --> 00:02:43.900
+Ajudar na conformidade nos parâmetros.
+
+32
+00:02:44.659 --> 00:02:47.740
+Porque o objetivo do XML, a emissão do documento,
+
+33
+00:02:47.740 --> 00:02:55.060
+na estrutura dele, esses grupos não estão trazendo conformidade para vocês. Nós precisamos ainda
+
+34
+00:02:55.060 --> 00:03:04.180
+analisar. Analisar se faz sentido a CST, se faz sentido a CclassTrib. O seu documento ser emitido
+
+35
+00:03:04.180 --> 00:03:07.039
+não quer dizer que o seu contribuinte está na conformidade 100%,
+
+36
+00:03:07.039 --> 00:03:09.900
+porque existe uma estrutura a ser definida.
+
+37
+00:03:10.479 --> 00:03:15.020
+E se o sistema está, pelo menos, descrevendo aqueles campos,
+
+38
+00:03:15.099 --> 00:03:19.719
+o documento vai ser emitido mesmo que estiver errado.
+
+39
+00:03:21.280 --> 00:03:45.639
+E quando eu falo que o fisco vai ajudar nessa conformidade, quer dizer que ele está criando algumas validações, ou seja, vocês não vão conseguir colocar uma C-Class Trib diferente dorem uma CST e, consequentemente,
+
+40
+00:03:45.879 --> 00:03:49.539
+colocar uma Ciclestrib totalmente diferente, totalmente distinta.
+
+41
+00:03:50.939 --> 00:03:54.080
+Mas o ajudar não é conformidade fiscal.
+
+42
+00:03:54.939 --> 00:04:00.360
+Então, nós devemos trabalhar a conformidade fiscal para as emissões dos documentos fiscais.
+
+43
+00:04:00.360 --> 00:04:11.500
+Porque preencher os documentos fiscais eletrônicos tem a ver com a fundamentação legal e a operação que a LC 214 de 2025 nos fala.
+
+44
+00:04:13.099 --> 00:04:31.019
+Preencher um documento fiscal eletrônico com as informações do IBS e da CBS tem a ver, por exemplo, com a base de cálculo do IBS e da CBS é totalmente diferente do que nós estamos fazendo no PIS e COFINS e no ICMS,
+
+45
+00:04:31.480 --> 00:04:40.759
+porque eles são calculados por fora e a composição dessa base de cálculo, conforme o artigo 12 da LC 214, é diferente.
+
+46
+00:04:43.819 --> 00:04:46.600
+Alíquota, valor do tributo.
+
+47
+00:04:47.100 --> 00:04:51.420
+Nós não temos ainda uma alíquota padrão ou de referência,
+
+48
+00:04:52.279 --> 00:04:56.339
+mas a gente já consegue identificar aquilo que está sendo discutido.
+
+49
+00:04:57.100 --> 00:05:01.540
+A carga tributária do IBEX da CVS tende a ser de 27,5% a 30%,
+
+50
+00:05:01.540 --> 00:05:06.600
+mas a gente só vai conseguir preencher o grupo UBI,
+
+51
+00:05:06.600 --> 00:05:12.240
+que representa então as tags específicas de preenchimento do IBS e da CBS de forma certa,
+
+52
+00:05:12.879 --> 00:05:20.100
+se nós tivermos o conhecimento base da LC 214 de 2025.
+
+53
+00:05:21.160 --> 00:05:28.620
+O grupo UBI, ele representa todas as informações dos tributos do IBS, da CBS e do Imposto Seletivo.
+
+54
+00:05:29.480 --> 00:05:32.560
+O grupo UBI relata todas as tags.
+
+55
+00:05:33.759 --> 00:05:39.579
+Obviamente, pessoal, as notas técnicas possuem uma sistemática sistêmica.
+
+56
+00:05:40.740 --> 00:05:47.560
+Fala para nós a quantidade de grupos, a quantidade de caracteres que precisa ter naquele documento, naquela operação.
+
+57
+00:05:48.860 --> 00:05:54.060
+E pode ser que você seja da área fiscal, pode ser que você seja da área contábil ou faturamento,
+
+58
+00:05:54.180 --> 00:05:58.420
+e que talvez você não seja um instrumento legislativo tão claro assim.
+
+59
+00:05:59.360 --> 00:06:10.060
+Só que o que eu quero trazer para vocês, que na verdade, se você não faz parte da parte sistêmica, identifique então os campos que vai fazer sentido para vocês saber.
+
+60
+00:06:10.060 --> 00:06:26.860
+Por exemplo, o campo da tag representa a descrição. Então, se a gente olha aqui, VBCIS, isso quer dizer que é o valor da base de cálculo do imposto seletivo.
+
+61
+00:06:27.680 --> 00:06:32.839
+Quando eu falo tag para preenchimento de documento, são esses campos aqui.
+
+62
+00:06:34.300 --> 00:06:38.040
+E olha que interessante, é importante vocês lerem as notas técnicas.
+
+63
+00:06:38.600 --> 00:06:39.120
+Sabe por quê?
+
+64
+00:06:39.660 --> 00:06:46.920
+Porque se você hoje sabe já que o seu contribuinte está na excedência do imposto seletivo,
+
+65
+00:06:47.220 --> 00:06:49.139
+que não são todos os segmentos que estão.
+
+66
+00:06:50.920 --> 00:06:55.540
+Ao olhar o grupo UBI, nós temos uma particularidade importante aqui.
+
+67
+00:06:56.040 --> 00:06:56.420
+Por quê?
+
+68
+00:06:57.759 --> 00:07:01.819
+Nós temos a CST do IES já disponível para nós.
+
+69
+00:07:01.819 --> 00:07:04.639
+Se a gente olhar no portal da nota fiscal eletrônica,
+
+70
+00:07:04.800 --> 00:07:08.079
+nós conseguimos fazer o download de uma planilha
+
+71
+00:07:08.079 --> 00:07:13.480
+onde o fisco já relaciona quais são as CSTs do imposto seletivo.
+
+72
+00:07:13.939 --> 00:07:17.759
+Nós já temos o código de situação tributária do imposto seletivo.
+
+73
+00:07:18.720 --> 00:07:20.540
+Mas, olha que interessante,
+
+74
+00:07:20.540 --> 00:07:25.379
+a nota técnica, ela fala sobre C, Class, Trib e S.
+
+75
+00:07:26.199 --> 00:07:29.759
+Ué, até o momento nós não temos essa planilha.
+
+76
+00:07:30.139 --> 00:07:33.660
+Nós temos a C, Class, Trib do IBS e da CBS.
+
+77
+00:07:34.180 --> 00:07:36.759
+Não temos a C, Class, Trib do IS.
+
+78
+00:07:37.560 --> 00:07:50.540
+Então isso faz com que eu da operação, eu, área fiscal, que não sou do sistema, já tem a perspectiva de que o fisco vai lançar uma tabela
+
+79
+00:07:50.540 --> 00:07:54.779
+que determina o código de classificação tributária do imposto seletivo.
+
+80
+00:07:56.860 --> 00:08:06.420
+Então, mesmo não sendo um documento comprobatório de legislação, já nos ajuda a ter uma reflexão do que vai acontecer.
+
+81
+00:08:07.240 --> 00:08:10.279
+Então, por isso que eu oriento vocês a sempre darem uma olhada
+
+82
+00:08:10.279 --> 00:08:14.379
+nas notas técnicas, olhar elas de forma prática.
+
+83
+00:08:15.519 --> 00:08:19.019
+Não se atentar a coisas que talvez você não tenha expertise,
+
+84
+00:08:19.680 --> 00:08:21.860
+mas se atentar a coisas que você tem.
+
+85
+00:08:23.560 --> 00:08:27.899
+Quando a gente fala sobre alguém que esteja olhando a nota técnica de forma sistêmica,
+
+86
+00:08:27.899 --> 00:08:30.699
+ele obviamente olha a descrição e a tag,
+
+87
+00:08:31.339 --> 00:08:36.299
+mas ele vai olhar, se atentar às informações, aos caracteres,
+
+88
+00:08:36.740 --> 00:08:38.320
+porque cada um tem a sua expertise.
+
+89
+00:08:38.960 --> 00:08:41.519
+E a reforma tributária não é só sobre a área fiscal.
+
+90
+00:08:42.379 --> 00:08:45.500
+A reforma tributária envolve departamentos correlatos,
+
+91
+00:08:46.279 --> 00:08:54.399
+compras, contratos, faturamento, sistema fiscal, contábil, financeiro.
+
+92
+00:08:55.120 --> 00:08:58.500
+Então, a reforma tributária envolve diversos departamentos correlatos
+
+93
+00:08:58.500 --> 00:09:03.419
+e que precisam andar juntos e que cada um vai ter a sua expertise.
+
+94
+00:09:04.440 --> 00:09:10.940
+Quando analisamos o imposto seletivo, por exemplo, nós não temos ainda uma alíquota também definida,
+
+95
+00:09:11.820 --> 00:09:17.100
+só que já é descrito como que será formada essa alíquota.
+
+96
+00:09:19.019 --> 00:09:27.620
+E olha que interessante, a nota técnica, ela está vindo de acordo com o que está na LC 214.
+
+97
+00:09:28.440 --> 00:09:34.299
+A gente não tem alíquota ainda, mas lá na LC, quando o fisco começa a falar sobre imposto seletivo,
+
+98
+00:09:34.919 --> 00:09:42.379
+ele fala que a alíquota poderá ser de forma percentual ou por unidade de medida.
+
+99
+00:09:42.379 --> 00:09:45.419
+E olha o que o fisco fez aqui na nota técnica.
+
+100
+00:09:47.059 --> 00:09:52.840
+PIS, alíquota do imposto seletivo em percentual.
+
+101
+00:09:55.539 --> 00:10:06.240
+PIS-ESPEC, alíquota específica por unidade de medida apropriada, ou seja, ele está lendo o LC-2014
+
+102
+00:10:06.240 --> 00:10:11.039
+e trazendo essa visão sistêmica para dentro dos documentos fiscais eletrônicos.
+
+103
+00:10:14.019 --> 00:10:18.860
+Então, a base para a gente saber do que preencher o documento fiscal eletrônico
+
+104
+00:10:18.860 --> 00:10:27.500
+está em ler os principais artigos que definem o IBS e a CBS e o IS.
+
+105
+00:10:28.879 --> 00:10:33.080
+Eu não estou dizendo aqui para vocês em ler a LC por completo,
+
+106
+00:10:33.179 --> 00:10:34.860
+até porque a gente lê por demanda.
+
+107
+00:10:35.620 --> 00:10:37.700
+Pode ser que você nem atue com a Zona África de Manaus,
+
+108
+00:10:37.799 --> 00:10:41.620
+então existe um anexo referente apenas a eles.
+
+109
+00:10:42.720 --> 00:10:46.539
+Mas que vocês leiam as principais fundamentações,
+
+110
+00:10:46.539 --> 00:10:54.519
+as incidências, a formação da base de cálculo, as alíquotas, a quem está envolvido na operação.
+
+111
+00:10:54.519 --> 00:11:05.120
+E olhe as notas técnicas com mais atenção nas descrições, olhando e analisando o nosso segmento.

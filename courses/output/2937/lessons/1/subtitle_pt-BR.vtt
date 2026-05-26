@@ -1,0 +1,153 @@
+WEBVTT
+
+1
+00:00:00.319 --> 00:00:05.050
+Olá, pessoal! Sejam bem-vindos a esse fisco para o nosso curso de nota fiscal fácil.
+
+2
+00:00:05.059 --> 00:00:08.630
+Esse curso traz pra gente uma ferramenta muito bacana, muito interessante,
+
+3
+00:00:08.640 --> 00:00:12.579
+que foi recém-lançado pelo Fisco e que muito pode ajudar os contribuintes.
+
+4
+00:00:12.590 --> 00:00:15.869
+E nesse curso você vai descobrir como vamos lá, pessoal!
+
+5
+00:00:15.880 --> 00:00:19.209
+Primeiro eu vou me apresentar pra vocês eu sou Antonio Godoy.
+
+6
+00:00:19.219 --> 00:00:21.069
+Eu sou cientista da computação, de formação,
+
+7
+00:00:21.170 --> 00:00:25.979
+mas eu entrei no Fisco pra fazer a gestão dos documentos fiscais eletrônicos.
+
+8
+00:00:25.989 --> 00:00:29.700
+Eu estou trabalhando no Fisco desde o começo dos documentos fiscais eletrônicos
+
+9
+00:00:29.709 --> 00:00:33.200
+e como eu tinha pós graduação em Administração de Sistemas de Informação,
+
+10
+00:00:33.209 --> 00:00:35.139
+eu encaixei nessa área de atuação do setor
+
+11
+00:00:35.150 --> 00:00:38.340
+público E tô lá desde então participando disso,
+
+12
+00:00:38.349 --> 00:00:40.060
+eu participo também dos encontros
+
+13
+00:00:40.069 --> 00:00:42.540
+nacionais de coordenadores administradores tributários,
+
+14
+00:00:42.549 --> 00:00:44.599
+onde a gente faz a gestão nacional desses documentos.
+
+15
+00:00:44.610 --> 00:00:46.720
+É um processo bem bacana, bem dinâmico,
+
+16
+00:00:47.169 --> 00:00:51.580
+e esse produto é fruto desse encontro nacional que a gente projetou,
+
+17
+00:00:51.590 --> 00:00:52.479
+a nível nacional,
+
+18
+00:00:52.490 --> 00:00:55.819
+o sistema de emissão simplificado de documentos fiscais eletrônicos
+
+19
+00:00:55.830 --> 00:00:58.919
+que nós vamos apresentar pra vocês nosso curso hoje,
+
+20
+00:00:58.930 --> 00:01:01.500
+nós vamos fazer aqui essa introdução que a gente tá fazendo.
+
+21
+00:01:01.509 --> 00:01:07.180
+Agora vamos ver o que que motivou o fisco a construir um software emissor, né,
+
+22
+00:01:07.190 --> 00:01:10.239
+especialmente focado ali, no contribuinte, de menor capacidade.
+
+23
+00:01:10.819 --> 00:01:12.389
+Depois a gente vai ver a base legal, né,
+
+24
+00:01:12.400 --> 00:01:15.230
+Pra gente ficar sempre sabendo aí a fundamentação legal
+
+25
+00:01:15.239 --> 00:01:17.209
+do que a gente fala que traz pra vocês,
+
+26
+00:01:17.220 --> 00:01:17.720
+tá.
+
+27
+00:01:17.730 --> 00:01:21.550
+Vamos ver também o que que é de fato. A nota fiscal fácil. Vamos fazer a conceituação.
+
+28
+00:01:21.559 --> 00:01:22.410
+Completa disso,
+
+29
+00:01:22.419 --> 00:01:26.430
+ver os modelos de documentos fiscais eletrônicos que são emitidos no nota fiscal.
+
+30
+00:01:26.440 --> 00:01:30.410
+Fácil conhecer os módulos implantados e ver o fluxo de missão
+
+31
+00:01:30.949 --> 00:01:33.300
+aí nós vamos partir pra uma parte totalmente prática,
+
+32
+00:01:33.309 --> 00:01:35.040
+onde a gente vai trazer pra vocês.
+
+33
+00:01:35.050 --> 00:01:39.629
+Eh a parte do operacional mesmo, de como vai fazer a emissão desse documento, né?
+
+34
+00:01:39.639 --> 00:01:42.559
+De baixar o aplicativo da loja de aplicativos e vou
+
+35
+00:01:42.569 --> 00:01:44.480
+fazer a emissão do documento de cada módulo aqui,
+
+36
+00:01:44.489 --> 00:01:44.559
+né?
+
+37
+00:01:44.569 --> 00:01:48.519
+No módulo do transportador autônomo do produtor rural, do varejo, então vamos lá.
+
+38
+00:01:48.529 --> 00:01:49.260
+Vamos começar

@@ -1,0 +1,181 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:02.560
+Como que está acontecendo este cronograma?
+
+3
+00:00:02.560 --> 00:00:06.040
+Nós temos 18 meses para o desenvolvimento.
+
+4
+00:00:06.040 --> 00:00:08.439
+Quando que foi emitida a nota orientativa?
+
+5
+00:00:08.439 --> 00:00:10.419
+Em 2024.
+
+6
+00:00:10.419 --> 00:00:14.480
+Em 2020, nós tivemos o acompanhamento, a manutenção
+
+7
+00:00:14.480 --> 00:00:19.559
+e agora, em 2026, o início da produção plena.
+
+8
+00:00:19.559 --> 00:00:22.219
+Ou seja, a partir de então,
+
+9
+00:00:22.219 --> 00:00:26.620
+nós temos a necessidade da emissão alfanumérica.
+
+10
+00:00:26.620 --> 00:00:31.800
+Quando cessar, nem nós falamos, não tem um dia esteticístico.
+
+11
+00:00:31.800 --> 00:00:33.700
+Qual que é a minha orientação para você?
+
+12
+00:00:33.700 --> 00:00:35.219
+Quais são os próximos passos?
+
+13
+00:00:35.219 --> 00:00:37.500
+Aqui ó, chamar o time de TI.
+
+14
+00:00:37.500 --> 00:00:42.140
+Verificar, garantir que os campos, que o banco de dados
+
+15
+00:00:42.140 --> 00:00:45.179
+esteja preparado para receber essa informação.
+
+16
+00:00:45.179 --> 00:00:48.439
+Tanto na entrada da nota, no imposto de documento,
+
+17
+00:00:48.439 --> 00:00:51.380
+seja digitando, seja importando.
+
+18
+00:00:51.380 --> 00:00:55.179
+E para você que abrir a sua empresa, abrir uma nova filial,
+
+19
+00:00:55.179 --> 00:00:56.619
+abrir um novo CNPJ,
+
+20
+00:00:56.619 --> 00:01:02.619
+abrir uma S&P, abrir uma empresa dentro de um grupo econômico já existente,
+
+21
+00:01:02.619 --> 00:01:04.120
+opa, pode ter diferença.
+
+22
+00:01:04.120 --> 00:01:05.859
+Então, isso é importante.
+
+23
+00:01:05.859 --> 00:01:09.000
+A atualização de regras de validação.
+
+24
+00:01:09.000 --> 00:01:12.340
+Sabe aquela empresa que, isso é ótimo, né?
+
+25
+00:01:12.340 --> 00:01:16.599
+Que vai consultar o CNPJ na Receita, no Simples Nacional?
+
+26
+00:01:16.599 --> 00:01:19.939
+A gente dá graças a Deus quando o sistema faz essa atualização, não é mesmo?
+
+27
+00:01:19.939 --> 00:01:23.019
+Que a gente não precisa entrar no site do Simples e verificar,
+
+28
+00:01:23.019 --> 00:01:26.219
+entrar no site da Receita para validar, citar ativos, se está apto.
+
+29
+00:01:26.219 --> 00:01:26.620
+Pois é.
+
+30
+00:01:26.620 --> 00:01:32.620
+Aqui a gente precisa trazer também esta inovação para essa validação.
+
+31
+00:01:32.620 --> 00:01:37.000
+Olha, nós vamos ter dois tipos de CNPJ.
+
+32
+00:01:37.000 --> 00:01:39.400
+Aí, é claro, você pode colocar uma data-corte, né?
+
+33
+00:01:39.400 --> 00:01:44.780
+Olha, a partir daqui para frente, pode ter CNPJ alfanumérico.
+
+34
+00:01:44.780 --> 00:01:48.180
+Daqui para trás, somente CNPJ numérico.
+
+35
+00:01:48.180 --> 00:01:49.780
+Teste de interface.
+
+36
+00:01:49.780 --> 00:01:54.379
+Verifique os seus relatórios, os seus inputs.
+
+37
+00:01:54.379 --> 00:01:55.379
+Isso aqui é importante.
+
+38
+00:01:55.379 --> 00:01:56.620
+Você tira uma extração,
+
+39
+00:01:56.620 --> 00:01:59.120
+do seu SPED para fazer suas auditorias,
+
+40
+00:01:59.120 --> 00:02:05.060
+é preciso trazer também esta nova configuração de CNPJ.
+
+41
+00:02:05.060 --> 00:02:09.240
+Diz também, se você já tinha aberto o chamado aí no seu departamento de TI,
+
+42
+00:02:09.240 --> 00:02:13.139
+se você já tinha chamado o departamento de compras e de resseguimento fiscal
+
+43
+00:02:13.139 --> 00:02:17.979
+para trazer essa novidade que não impacta diretamente na escrita fiscal,
+
+44
+00:02:17.979 --> 00:02:23.280
+mas a base cadastral dentro do contexto da reforma tributária,
+
+45
+00:02:23.280 --> 00:02:26.620
+nós já vimos que está mudando e nós precisamos nos atender.
+
+46
+00:02:26.620 --> 00:02:28.379
+Vamos tentar saber o que está acontecendo.

@@ -1,0 +1,33 @@
+{
+  "id": 474222,
+  "title": "Art. 3º - Lei Complementar 116 - 2003",
+  "position": 10,
+  "duration": 189,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3e9d77c4-4c80-4d3b-aa20-3f878f867a71/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e9d77c4-4c80-4d3b-aa20-3f878f867a71/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e9d77c4-4c80-4d3b-aa20-3f878f867a71/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e9d77c4-4c80-4d3b-aa20-3f878f867a71/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e9d77c4-4c80-4d3b-aa20-3f878f867a71/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3915,
+    "title": "Defesa e Guerras Comerciais: Estratégias Internacionais",
+    "subtitle": "Navegando nos Desafios Econômicos Globais",
+    "summary": "Este curso explora as complexidades das guerras comerciais e as estratégias internacionais para enfrentá-las, proporcionando uma compreensão abrangente das dinâmicas do comércio global. Através de estudos de caso e teorias econômicas, os participantes aprenderão sobre a natureza das guerras comerciais, estratégias de defesa e ofensivas, e as consequências para empresas e economias globais. Além disso, o curso aborda o papel de organizações internacionais como a OMC e examina o futuro das disputas comerciais até 2025.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/35f1cc1a-30d7-4c0d-bc88-01ef60dfb674-thumbnail.png",
+    "goals": [
+      "O objetivo deste curso é capacitar os participantes a compreenderem as guerras comerciais, desenvolverem estratégias eficazes para proteção e ataque no comércio global, e prepararem-se para as tendências futuras no cenário comercial internacional."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 11514,
+    "keywords": "comércio internacional;guerras comerciais;estratégias comerciais;protecionismo;OMC",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 38,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 35,
+    "averageRating": 9.83,
+    "practiceAverage": 9.83,
+    "trailer": {
+      "id": "6121f0b0-29b8-4d2c-8aad-d58890f21ab7",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6121f0b0-29b8-4d2c-8aad-d58890f21ab7/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6121f0b0-29b8-4d2c-8aad-d58890f21ab7/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6121f0b0-29b8-4d2c-8aad-d58890f21ab7/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6121f0b0-29b8-4d2c-8aad-d58890f21ab7/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-08-28T20:46:28.000Z",
+      "updatedAt": "2025-08-28T20:46:27.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-08-28T21:02:33.000Z",
+    "recordedAt": "2025-08-12T00:00:00.000Z",
+    "createdAt": "2025-08-12T06:10:23.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 487270,
+  "title": "Os 3 erros mais comuns",
+  "position": 16,
+  "duration": 130,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/7cb14f63-2d06-44e2-863f-0c7a33e45f73/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7cb14f63-2d06-44e2-863f-0c7a33e45f73/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7cb14f63-2d06-44e2-863f-0c7a33e45f73/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7cb14f63-2d06-44e2-863f-0c7a33e45f73/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7cb14f63-2d06-44e2-863f-0c7a33e45f73/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

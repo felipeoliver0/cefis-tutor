@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 3947,
+    "title": "Formação Completa em Departamento Pessoal",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Formação Completa em Departamento Pessoal, você irá aprender na prática tudo o que precisa saber sobre Departamento Pessoal. Aprenderá os fundamentos e a prática de Legislação Trabalhista, Cálculos Trabalhistas e Segurança e Saúde no Trabalho (SST) e vários outros temas para você que deseja se atualizar ou aprender tudo sobre Departamento Pessoal.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/0746ae10-d9f9-4cd1-b702-01ef0d2fe8a8-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Formação Completa em Departamento Pessoal, curso prático, é a capacitação para a aplicação prática de conhecimentos em assédio moral, cálculos trabalhistas essenciais, legislação trabalhista e segurança e saúde no trabalho (SST) para formar analistas de Departamento Pessoal."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 13126,
+    "keywords": "assédio moral;cálculos trabalhistas;SST;Departamento Pessoal;DP",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 48,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1217,
+    "averageRating": 9.32,
+    "practiceAverage": 9.27,
+    "trailer": {
+      "id": "26c5235b-5e18-4851-8c29-ba1e5fece8eb",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/26c5235b-5e18-4851-8c29-ba1e5fece8eb/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/26c5235b-5e18-4851-8c29-ba1e5fece8eb/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/26c5235b-5e18-4851-8c29-ba1e5fece8eb/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/26c5235b-5e18-4851-8c29-ba1e5fece8eb/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-09-23T11:02:52.000Z",
+      "updatedAt": "2025-09-23T11:02:52.000Z"
+    },
+    "crcActive": true,
+    "crcCreditHours": 4,
+    "crcScore": {
+      "id": 303,
+      "courseId": 3947,
+      "crcCode": "SP-36467",
+      "data": [
+        {
+          "name": "AUD",
+          "values": [
+            4
+          ]
+        },
+        {
+          "name": "PERITO",
+          "values": [
+            4
+          ]
+        },
+        {
+          "name": "CMN",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "SUSEP",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "PREVICAUD",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "PROGP",
+          "values": [
+            4
+          ]
+        },
+        {
+          "name": "PRORT",
+          "values": [
+            4
+          ]
+        },
+        {
+          "name": "PREVIC",
+          "values": [
+            0
+          ]
+        }
+      ],
+      "year": 2026,
+      "createdAt": "2026-04-20T18:53:43.000Z",
+      "updatedAt": "2026-04-20T18:53:43.000Z"
+    },
+    "launchDate": "2025-09-23T11:05:04.000Z",
+    "recordedAt": "2025-08-28T00:00:00.000Z",
+    "createdAt": "2025-08-27T23:44:06.000Z"
+  }
+}

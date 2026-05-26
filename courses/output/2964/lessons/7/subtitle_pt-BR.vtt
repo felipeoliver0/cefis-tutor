@@ -1,0 +1,265 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.259
+pessoal. Vamos trazer aqui pra vocês agora.
+
+2
+00:00:02.269 --> 00:00:05.719
+A tabela CFOP na nota fiscal eletrônica Tá,
+
+3
+00:00:05.730 --> 00:00:09.859
+então a gente tem uma tabela do C F a p na nota fiscal eletrônica.
+
+4
+00:00:09.869 --> 00:00:15.579
+Essa tabela de CFOP ela é casada com a finalidade da nota fiscal eletrônica,
+
+5
+00:00:15.590 --> 00:00:19.104
+então a gente precisa saber do C K P pra finalidade adequado.
+
+6
+00:00:19.114 --> 00:00:20.924
+Vamos dar uma olhadinha na tabela.
+
+7
+00:00:20.934 --> 00:00:25.725
+Eu trouxe aqui pra vocês o que que significa cada campo da tabela?
+
+8
+00:00:25.735 --> 00:00:32.505
+Vamos ver primeiro onde a gente vai obter essa tabela i f e fazenda gov ponto BR Tá,
+
+9
+00:00:32.514 --> 00:00:36.764
+a gente vai entrar aqui no portal da nota fiscal eletrônica
+
+10
+00:00:37.569 --> 00:00:42.099
+aqui em documentos ficamos em diversos e em diversos.
+
+11
+00:00:42.110 --> 00:00:46.639
+Vamos procurar aqui nossa tabelinha CPP que está aqui oh! Tabela CP p
+
+12
+00:00:47.540 --> 00:00:48.169
+Tá
+
+13
+00:00:48.840 --> 00:00:55.069
+uma vez concluído da loja, a gente pode abrir essa CFOP tá a aquele formato
+
+14
+00:00:55.369 --> 00:00:59.779
+onde a gente vai ter a tabela B primeiro essa essa,
+
+15
+00:00:59.790 --> 00:01:03.099
+essa tabela ela não tem a descrição do C F a P,
+
+16
+00:01:03.110 --> 00:01:06.220
+Então a gente já vai ter que vir pra cá com o código pronto.
+
+17
+00:01:06.230 --> 00:01:08.300
+A gente já tem que saber qual que é o código aqui.
+
+18
+00:01:08.309 --> 00:01:12.940
+A gente não vai usar pra fazer classificação no CFOP tá então primeiramente,
+
+19
+00:01:12.949 --> 00:01:14.339
+a gente já tá sabendo.
+
+20
+00:01:14.349 --> 00:01:18.500
+Vamos pegar, por exemplo, CFOP, que a gente acabou de ver aquele cinco um zero um um,
+
+21
+00:01:18.510 --> 00:01:20.300
+cinco, um zero dois, né?
+
+22
+00:01:20.309 --> 00:01:24.440
+Então a gente vamos procurar, a gente vai procurar aqui cinco um
+
+23
+00:01:24.650 --> 00:01:27.080
+zero, um, cinco, um zero dois.
+
+24
+00:01:27.699 --> 00:01:31.349
+Eles estão aqui vigentes desde dois mil e seis Tá essa tabela,
+
+25
+00:01:31.360 --> 00:01:33.849
+que é o seguinte campus, início da vigência, né?
+
+26
+00:01:33.860 --> 00:01:36.760
+Quando foi possível começar a usar esse C,
+
+27
+00:01:36.769 --> 00:01:41.889
+o p fim da vigência a gente usa SPO C P é descontinuado, a gente coloca a data,
+
+28
+00:01:41.900 --> 00:01:42.790
+fim da vigência.
+
+29
+00:01:42.800 --> 00:01:45.930
+Você pode saber até que dia que foi possível usar aqui c o p
+
+30
+00:01:46.330 --> 00:01:48.040
+aqui a gente tem o d d f l.
+
+31
+00:01:48.050 --> 00:01:51.290
+Esse d n f é um indicador de nota fiscal eletrônico, ou seja,
+
+32
+00:01:51.300 --> 00:01:54.580
+esse f o p pode ou não ser usado na nota fiscal eletrônica.
+
+33
+00:01:54.589 --> 00:01:59.169
+Tá então o d, d, f e igual a um significa que sim, podemos usar esse f,
+
+34
+00:01:59.180 --> 00:02:00.800
+o p a nota fiscal eletrônica
+
+35
+00:02:01.669 --> 00:02:04.139
+e daí vamos seguindo aqui na tabela,
+
+36
+00:02:04.150 --> 00:02:09.500
+a gente comunica esse CFOP é o C B de serviço de comunicação.
+
+37
+00:02:09.508 --> 00:02:11.910
+Tá, quando tá marcado o zero é dizer que Não.
+
+38
+00:02:11.919 --> 00:02:14.320
+Então, esse CFOP cinco ponto zero dois, por exemplo,
+
+39
+00:02:14.330 --> 00:02:17.360
+ele não é o C P de comunicação como a gente acabou de ver, né?
+
+40
+00:02:17.369 --> 00:02:23.389
+A venda de mercadoria recebida ou a de equilíbrio? Terceiros na operação ESTÁ, né?
+
+41
+00:02:23.399 --> 00:02:26.880
+Indi É o indicador de C PA de transporte, né?
+
+42
+00:02:26.889 --> 00:02:31.705
+Então a gente pode saber que se o C F u P é ou não de transporte tá bom,
+
+43
+00:02:31.714 --> 00:02:34.735
+né saber se esse CFOP é de devolução, né?
+
+44
+00:02:34.744 --> 00:02:39.095
+Então a gente tem que saber que isso de C f p é o nome de devolução,
+
+45
+00:02:39.104 --> 00:02:41.964
+se é de retorno de mercadoria, tá a gente.
+
+46
+00:02:41.975 --> 00:02:42.975
+Tá nota fiscal eletrônico.
+
+47
+00:02:42.985 --> 00:02:45.804
+Então, o negócio é o finalidade da volta, tem nota normal,
+
+48
+00:02:45.815 --> 00:02:47.764
+finalidade complementar, né?
+
+49
+00:02:47.774 --> 00:02:49.804
+E tem a finalidade, por exemplo, de devolução.
+
+50
+00:02:49.815 --> 00:02:51.565
+Então, pra uma nota de devolução,
+
+51
+00:02:51.574 --> 00:02:54.104
+a gente precisa estar com o índice de devolve igual.
+
+52
+00:02:54.115 --> 00:02:58.304
+Ou a gente tem que usar o CFOP que tá com aqui indicado, tá.
+
+53
+00:02:58.315 --> 00:03:01.384
+Isso pode causar, inclusive, a rejeição da nota fiscal eletrônica
+
+54
+00:03:02.199 --> 00:03:06.690
+em de retor, né? Pra saber se o CFOP é de índia anula né?
+
+55
+00:03:06.699 --> 00:03:10.149
+Se é uma anulação de valor do serviço de transporte, por exemplo,
+
+56
+00:03:10.160 --> 00:03:13.169
+tá isso Estaria um indo de remessa, né?
+
+57
+00:03:13.179 --> 00:03:15.429
+Se é o c f l p de remessa,
+
+58
+00:03:15.720 --> 00:03:21.490
+indicou o CEP de combustível, né? O C F é o preço de combustível, eles têm.
+
+59
+00:03:21.500 --> 00:03:26.210
+Eles têm uma característica de que exige se informação do grupo ali,
+
+60
+00:03:26.220 --> 00:03:29.679
+de combustíveis e da r, p né, ou temperatura do combustível.
+
+61
+00:03:29.690 --> 00:03:33.875
+E tudo mais é o código do combustível, da da A N P e ali,
+
+62
+00:03:33.884 --> 00:03:37.914
+que a gente vai saber se esse pé de combustível pra exigir lá, né?
+
+63
+00:03:37.925 --> 00:03:40.675
+Os dados dos combustíveis tá bom,
+
+64
+00:03:40.684 --> 00:03:46.054
+então pessoal aqui Essa é a nossa tabela de da nós buscar o eletrônico Tá,
+
+65
+00:03:46.065 --> 00:03:48.835
+a gente trouxe aqui pro por essa legenda dos
+
+66
+00:03:48.845 --> 00:03:51.615
+carro pra ficar mais fácil da gente saber tá

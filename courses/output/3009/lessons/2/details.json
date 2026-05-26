@@ -1,0 +1,33 @@
+{
+  "id": 473237,
+  "title": "Introdução Legislação",
+  "position": 2,
+  "duration": 252,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/59807f78-2234-4464-bbbe-7486a40c451c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59807f78-2234-4464-bbbe-7486a40c451c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59807f78-2234-4464-bbbe-7486a40c451c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59807f78-2234-4464-bbbe-7486a40c451c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59807f78-2234-4464-bbbe-7486a40c451c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

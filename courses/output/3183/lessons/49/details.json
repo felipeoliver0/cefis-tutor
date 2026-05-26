@@ -1,0 +1,33 @@
+{
+  "id": 476362,
+  "title": "Encerramento",
+  "position": 49,
+  "duration": 32,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5d5513ff-a958-4829-8dcc-84b67a0f8685/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d5513ff-a958-4829-8dcc-84b67a0f8685/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d5513ff-a958-4829-8dcc-84b67a0f8685/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d5513ff-a958-4829-8dcc-84b67a0f8685/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d5513ff-a958-4829-8dcc-84b67a0f8685/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

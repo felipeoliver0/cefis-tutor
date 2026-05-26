@@ -1,0 +1,117 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.480
+Para trazer mais clareza para vocês, eu trouxe dois exemplos,
+
+2
+00:00:07.679 --> 00:00:11.679
+para que vocês consigam entender a base de cálculo do IBS da CBS.
+
+3
+00:00:11.679 --> 00:00:18.500
+O primeiro exemplo é uma venda no valor de 10 mil reais.
+
+4
+00:00:18.820 --> 00:00:21.199
+Então, houve uma venda no valor de 10 mil reais.
+
+5
+00:00:21.760 --> 00:00:23.679
+Se houve uma venda, houve uma onerosidade.
+
+6
+00:00:24.899 --> 00:00:28.160
+Se houve uma venda, existe uma contraprestação.
+
+7
+00:00:28.940 --> 00:00:33.460
+Então, nesse caso, estamos falando de uma incidência do IBS e da CBS.
+
+8
+00:00:34.880 --> 00:00:39.679
+Nessa operação, houve um frete incluso dentro da operação.
+
+9
+00:00:39.679 --> 00:00:48.179
+Houve uma venda e um frete incluso para o destinatário recolher.
+
+10
+00:00:52.079 --> 00:00:58.659
+Houve um frete aonde será conduzido o valor da operação com ele.
+
+11
+00:01:00.200 --> 00:01:02.719
+Esse frete compõe a base?
+
+12
+00:01:05.219 --> 00:01:09.859
+Conseguem refletir por aí com tudo aquilo que a gente analisou
+
+13
+00:01:09.859 --> 00:01:13.040
+e com tudo que o artigo 12 nos representa?
+
+14
+00:01:13.760 --> 00:01:19.799
+Que diz que então que o valor da operação é o valor total integral daquilo que será cobrado?
+
+15
+00:01:22.099 --> 00:01:24.599
+Sim, o frete compõe a base.
+
+16
+00:01:28.879 --> 00:01:30.379
+Porque no final do dia ele compõe o valor da operação.
+
+17
+00:01:39.739 --> 00:01:45.719
+No segundo exemplo, eu trouxe aqui para vocês o seguinte, uma CST tributada, por exemplo, uma CST com 000, tributada integralmente, só que lá na tag onde tem as informações da base de cálculo da alíquota,
+
+18
+00:01:46.140 --> 00:01:51.219
+por conta de um parâmetro incorreto, a tag IBS saiu zerada.
+
+19
+00:01:53.239 --> 00:01:54.900
+Onde está o erro?
+
+20
+00:01:56.159 --> 00:02:01.640
+Onde vai ter a validação de conformidade mínima?
+
+21
+00:02:02.659 --> 00:02:06.239
+Se nós incluirmos a CST de tributar integralmente,
+
+22
+00:02:06.700 --> 00:02:10.099
+a estrutura do XML vai exigir uma informação,
+
+23
+00:02:10.599 --> 00:02:12.639
+porque é uma exigência mínima.
+
+24
+00:02:12.639 --> 00:02:17.620
+Ou seja, nesse erro aqui, nós não vamos conseguir emitir,
+
+25
+00:02:17.879 --> 00:02:20.819
+porque eu coloquei uma CST tributada integralmente
+
+26
+00:02:20.819 --> 00:02:24.419
+e a estrutura do XML já vai estar exigindo a base,
+
+27
+00:02:24.719 --> 00:02:26.419
+a alíquota e o valor.
+
+28
+00:02:29.780 --> 00:02:38.300
+Não vamos conseguir se tiver com o IBS zerado. Então perceba que são esses detalhes que faz com que a
+
+29
+00:02:38.300 --> 00:02:44.840
+gente comece a analisar os preenchimentos e os parâmetros dos sistemas operacionais do nosso contribuinte.

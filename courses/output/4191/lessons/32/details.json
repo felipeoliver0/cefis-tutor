@@ -1,0 +1,33 @@
+{
+  "id": 482867,
+  "title": "Câmbio flutuante",
+  "position": 32,
+  "duration": 79,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2c3a0c16-dbfe-4155-9588-ee460a77fd28/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2c3a0c16-dbfe-4155-9588-ee460a77fd28/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2c3a0c16-dbfe-4155-9588-ee460a77fd28/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2c3a0c16-dbfe-4155-9588-ee460a77fd28/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2c3a0c16-dbfe-4155-9588-ee460a77fd28/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

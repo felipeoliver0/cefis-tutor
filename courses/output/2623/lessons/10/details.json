@@ -1,0 +1,33 @@
+{
+  "id": 468608,
+  "title": "Network",
+  "position": 10,
+  "duration": 642,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/77339027-cda4-4ac6-89b5-8390498cae6f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/77339027-cda4-4ac6-89b5-8390498cae6f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/77339027-cda4-4ac6-89b5-8390498cae6f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/77339027-cda4-4ac6-89b5-8390498cae6f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/77339027-cda4-4ac6-89b5-8390498cae6f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

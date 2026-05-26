@@ -1,0 +1,33 @@
+{
+  "id": 487456,
+  "title": "JCP no lucro real trimestral e anual",
+  "position": 42,
+  "duration": 203,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/7a102373-41e0-42cd-81f4-b072d62d7304/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7a102373-41e0-42cd-81f4-b072d62d7304/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7a102373-41e0-42cd-81f4-b072d62d7304/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7a102373-41e0-42cd-81f4-b072d62d7304/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7a102373-41e0-42cd-81f4-b072d62d7304/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

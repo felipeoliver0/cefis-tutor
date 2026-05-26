@@ -1,0 +1,33 @@
+{
+  "id": 486511,
+  "title": "Projeto de lei nº 68",
+  "position": 18,
+  "duration": 118,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/936434f6-f813-4bb8-acd1-d10c5919d03e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/936434f6-f813-4bb8-acd1-d10c5919d03e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/936434f6-f813-4bb8-acd1-d10c5919d03e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/936434f6-f813-4bb8-acd1-d10c5919d03e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/936434f6-f813-4bb8-acd1-d10c5919d03e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

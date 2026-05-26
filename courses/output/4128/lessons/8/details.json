@@ -1,0 +1,33 @@
+{
+  "id": 482069,
+  "title": "Sedif - SN",
+  "position": 8,
+  "duration": 243,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0cc1b01f-2260-4cac-982d-30dbd4f1f0dc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0cc1b01f-2260-4cac-982d-30dbd4f1f0dc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0cc1b01f-2260-4cac-982d-30dbd4f1f0dc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0cc1b01f-2260-4cac-982d-30dbd4f1f0dc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0cc1b01f-2260-4cac-982d-30dbd4f1f0dc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 478919,
+  "title": "Compensação de saldo negativo",
+  "position": 68,
+  "duration": 361,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/37391be5-5cff-46fc-9118-4cf6056e76a9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37391be5-5cff-46fc-9118-4cf6056e76a9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37391be5-5cff-46fc-9118-4cf6056e76a9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37391be5-5cff-46fc-9118-4cf6056e76a9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37391be5-5cff-46fc-9118-4cf6056e76a9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

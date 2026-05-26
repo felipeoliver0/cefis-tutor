@@ -1,0 +1,33 @@
+{
+  "id": 487454,
+  "title": "Pagamento dos juros sobre o capital próprio",
+  "position": 40,
+  "duration": 586,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/744e1426-ed1b-4404-a763-5189425a8c06/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/744e1426-ed1b-4404-a763-5189425a8c06/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/744e1426-ed1b-4404-a763-5189425a8c06/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/744e1426-ed1b-4404-a763-5189425a8c06/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/744e1426-ed1b-4404-a763-5189425a8c06/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

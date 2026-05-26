@@ -1,0 +1,33 @@
+{
+  "id": 480475,
+  "title": "Responsabilidade da incorporadora - parte 2",
+  "position": 30,
+  "duration": 363,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4cce0da4-4a74-4994-8be4-f52766661de8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cce0da4-4a74-4994-8be4-f52766661de8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cce0da4-4a74-4994-8be4-f52766661de8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cce0da4-4a74-4994-8be4-f52766661de8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cce0da4-4a74-4994-8be4-f52766661de8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

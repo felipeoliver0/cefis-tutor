@@ -1,0 +1,305 @@
+WEBVTT
+
+1
+00:00:00.230 --> 00:00:02.140
+então, beleza, Vamos startar ela de novo.
+
+2
+00:00:08.680 --> 00:00:09.430
+Okay
+
+3
+00:00:10.470 --> 00:00:14.859
+agora eu quero instalar o ponto. Então vamos lá. A mesma coisa
+
+4
+00:00:17.049 --> 00:00:26.350
+é Não, Não faz sentido, né?
+
+5
+00:00:32.219 --> 00:00:40.188
+Ah, sim,
+
+6
+00:00:40.930 --> 00:00:43.740
+É verdade Vixe! Maria.
+
+7
+00:00:43.750 --> 00:00:46.360
+Antes que ele ver que a gente parou de olhar ai meu Deus, pera, aí
+
+8
+00:00:51.569 --> 00:01:02.720
+tem como eh antes, antes de instalar o tá cento e seis por cento, ele tá,
+
+9
+00:01:03.330 --> 00:01:10.220
+Ele passou é porque ali é um né?
+
+10
+00:01:10.230 --> 00:01:14.279
+Então ele tá missura O quanto de recurso ele precisaria
+
+11
+00:01:15.110 --> 00:01:18.300
+ele precisaria de mais c, p u pra rodar tudo beleza.
+
+12
+00:01:18.309 --> 00:01:27.459
+Estou usando cento e seis por cento de recursos, como sem
+
+13
+00:01:29.169 --> 00:01:31.800
+esse sistema operacional, aí é necessário por aqui
+
+14
+00:01:32.709 --> 00:01:34.660
+o sistema operacional
+
+15
+00:01:36.860 --> 00:01:37.930
+instalavam.
+
+16
+00:01:38.819 --> 00:01:41.150
+Ah, o que que a gente tá instalando o sistema operacional?
+
+17
+00:01:41.160 --> 00:01:45.370
+É porque eu quero usar esse servidor pra alguma coisa. Essa máquina virtual,
+
+18
+00:01:46.029 --> 00:01:49.779
+se não tem um sistema operacional instalado, não tem nem como eu usar.
+
+19
+00:01:49.790 --> 00:01:53.599
+Ela não serve pra
+
+20
+00:01:53.709 --> 00:01:58.589
+nada,
+
+21
+00:01:59.250 --> 00:01:59.279
+É
+
+22
+00:02:00.480 --> 00:02:06.680
+exatamente não. Porque o C C h nem existe aqui.
+
+23
+00:02:06.690 --> 00:02:11.539
+O S C C H é um software, é um serviço rodando dentro do sistema operacional.
+
+24
+00:02:12.179 --> 00:02:14.369
+A gente nem tem o sistema operacional ainda.
+
+25
+00:02:18.130 --> 00:02:26.860
+Isso já tudo prontinho isso exatamente e e e o negócio.
+
+26
+00:02:27.860 --> 00:02:30.369
+O negócio que eles usam,
+
+27
+00:02:32.740 --> 00:02:39.729
+o negócio que eles usam pra fazer e isso é o peso, chama claudinete, é um projeto
+
+28
+00:02:40.429 --> 00:02:43.360
+pra já iniciar a máquina com ela,
+
+29
+00:02:43.369 --> 00:02:50.059
+configurada instalada e com a sua chave rodando lá dentro.
+
+30
+00:02:50.710 --> 00:02:52.289
+A base é uma ISO,
+
+31
+00:02:52.300 --> 00:02:56.639
+mas a ISO não te deixa configurar várias coisas que são específicas pra cada pessoa.
+
+32
+00:02:56.649 --> 00:03:04.360
+E aí usa esse cara aqui, oh, claudinete, Inclusive se você olhar direitinho os logs,
+
+33
+00:03:04.369 --> 00:03:08.039
+quando você cria uma máquina virtual na W s, cê vai ver esse nome lá, claudinete.
+
+34
+00:03:08.050 --> 00:03:09.399
+Se você olhar lá na pasta,
+
+35
+00:03:09.410 --> 00:03:14.199
+se eu não me engano Barra e TC tem uma pasta chamada claudinete lá dentro Tá,
+
+36
+00:03:14.210 --> 00:03:17.779
+vamos ver se a gente consegue avançar aqui.
+
+37
+00:03:18.490 --> 00:03:19.000
+Isso
+
+38
+00:03:19.860 --> 00:03:23.630
+o claudinete não, não, não, não, não é ele.
+
+39
+00:03:23.639 --> 00:03:26.029
+Ele é um cara que personaliza uma s
+
+40
+00:03:26.039 --> 00:03:29.070
+que você vai instalar no sistema operacional personalizar.
+
+41
+00:03:29.080 --> 00:03:33.350
+Pode ser assim Cê quer que o sistema comece? Vamos supor que é um Windows.
+
+42
+00:03:33.360 --> 00:03:34.869
+Aqui a gente tá usando alguns, né?
+
+43
+00:03:34.880 --> 00:03:38.470
+Mas você quer que o Windows já venha com o Word instalado?
+
+44
+00:03:38.479 --> 00:03:40.649
+Você pode usar o claudinete pra instalar o Word.
+
+45
+00:03:41.399 --> 00:03:48.300
+Ele faz, deixa você executar comandos em uma imagem isso basicamente isso
+
+46
+00:03:48.660 --> 00:03:50.110
+exatamente
+
+47
+00:03:50.850 --> 00:03:52.979
+bom, deixa eu tentar alguma coisa aqui, né?
+
+48
+00:03:52.990 --> 00:03:56.419
+Porque não parece que tá tendo muito progresso não falar a verdade.
+
+49
+00:03:56.839 --> 00:04:01.919
+Ah, mas já era pra ter coisa, viu falar a verdade,
+
+50
+00:04:03.210 --> 00:04:08.279
+dá um aqui é
+
+51
+00:04:09.570 --> 00:04:13.539
+sabe que essa imagem que eu selecionei do é do ponto vinte e dois.
+
+52
+00:04:13.550 --> 00:04:16.559
+Eu não sei se eu já tinha usado o ponto vinte e dois pra falar a verdade,
+
+53
+00:04:20.940 --> 00:04:23.010
+deixa eu ver aqui no Aqui,
+
+54
+00:04:23.739 --> 00:04:27.049
+se bem que aqui eu não vou conseguir ver qual imagem eu usei no começo
+
+55
+00:04:29.380 --> 00:04:31.279
+ainda
+
+56
+00:04:32.390 --> 00:04:37.739
+a imagem que cê usou não, porque, uma vez que ela instalou, ele tira a mídia, né? E aí
+
+57
+00:04:41.750 --> 00:04:44.459
+pra cá de teste eu já vou começar, já vou fazer o seguinte oh,
+
+58
+00:04:45.079 --> 00:04:47.769
+pra gente não perder tanto tempo também, eu vou,
+
+59
+00:04:47.779 --> 00:04:52.130
+vim aqui nas s que estão salvas aqui e vou adicionar o ponto vinte.
+
+60
+00:04:52.140 --> 00:04:53.630
+E a gente pode tentar com o ponto vinte, né?
+
+61
+00:04:53.640 --> 00:04:55.829
+Porque às vezes a gente vai ficar perdendo muito tempo aqui.
+
+62
+00:05:00.399 --> 00:05:06.709
+Hum o vinte e um não é L? T S, né? Não, não é estável, não
+
+63
+00:05:11.690 --> 00:05:14.600
+não, não espera aí espera aí, espera, aí não esse aqui não server
+
+64
+00:05:16.459 --> 00:05:20.250
+e o desktop
+
+65
+00:05:22.290 --> 00:05:24.130
+é
+
+66
+00:05:24.730 --> 00:05:28.179
+exatamente eh
+
+67
+00:05:30.970 --> 00:05:34.119
+o bot vinte e três Bora, não, isso aqui não
+
+68
+00:05:35.230 --> 00:05:38.660
+cadê? Vinte Eu tô vendo aqui
+
+69
+00:05:41.670 --> 00:05:44.140
+um dois vinte zero quatro
+
+70
+00:05:45.149 --> 00:05:49.220
+Vou copiar essa u R L aqui, copiar o endereço.
+
+71
+00:05:50.739 --> 00:05:52.630
+Ah, não, eu vou iniciar o download pera aí!
+
+72
+00:05:52.640 --> 00:05:54.589
+Não, aqui não, eu não vou baixar bem a marca.
+
+73
+00:05:54.600 --> 00:05:57.529
+Eu já vou baixar aqui dentro download pra um R L.
+
+74
+00:05:58.549 --> 00:06:07.420
+Olha que maravilha Q R L pronto! Ele já sabe onde é quase metade
+
+75
+00:06:08.350 --> 00:06:11.820
+né três gigas treze né?
+
+76
+00:06:12.980 --> 00:06:14.890
+Não deixa ele baixar aí.

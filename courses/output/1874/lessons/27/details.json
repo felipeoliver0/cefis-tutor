@@ -1,0 +1,33 @@
+{
+  "id": 458698,
+  "title": "Tributação",
+  "position": 27,
+  "duration": 338,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5e849e84-7953-40b3-aa07-cc690ab4c78a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e849e84-7953-40b3-aa07-cc690ab4c78a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e849e84-7953-40b3-aa07-cc690ab4c78a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e849e84-7953-40b3-aa07-cc690ab4c78a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e849e84-7953-40b3-aa07-cc690ab4c78a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.960
+Quanto que ele recebeu repare-se então ao valor exato da operação realizada correspondente ao
+
+3
+00:00:08.960 --> 00:00:15.679
+montante financeiro processado sem margem para aproximação ou estimativa. O Fisco quer saber o
+
+4
+00:00:15.679 --> 00:00:23.039
+valor exato. O valor bruto é o valor total da transação antes de qualquer tipo de descontos,
+
+5
+00:00:23.039 --> 00:00:29.359
+taxas. As taxas das instituições financeiras não são computadas dentro da GINP. O Fisco quer saber
+
+6
+00:00:29.359 --> 00:00:35.600
+o valor total e por que ele quer saber o valor total porque dentro do documento fiscal é relatado
+
+7
+00:00:35.600 --> 00:00:43.520
+o valor da operação. Quando existe uma instituição financeira e que existe taxas alí ser cobradas ou
+
+8
+00:00:43.520 --> 00:00:48.939
+até mesmo intermediador também cobra né por essa parte comercial o Fisco não conseguiria trazer
+
+9
+00:00:48.939 --> 00:00:56.119
+essa recebida de informação tão fácil. Por isso que ele lida nem com a estimativa, ele lida com
+
+10
+00:00:56.119 --> 00:00:58.700
+valor total. Porque o valor total ele banha.
+
+11
+00:00:58.700 --> 00:00:59.200
+dfm
+
+12
+00:00:59.200 --> 00:01:02.299
+Ele busca o documento fiscal e consegue cruzar a informação.
+
+13
+00:01:02.960 --> 00:01:05.859
+O fisco cruza até os centavos da operação.
+
+14
+00:01:06.579 --> 00:01:11.319
+Então, por isso que ele não considera as taxas dentro do layout da DIMP.
+
+15
+00:01:11.939 --> 00:01:20.340
+Não confunda valor líquido, ou seja, recebido na conta, com valor bruto, ou seja, a transação que aconteceu.
+
+16
+00:01:20.439 --> 00:01:23.340
+A DIMP, ela reporta o valor da venda.
+
+17
+00:01:24.079 --> 00:01:25.719
+E por que ela reporta o valor da venda?
+
+18
+00:01:25.719 --> 00:01:32.540
+Porque é mais fácil de cruzar a informação, porque existe um documento fiscal eletrônico atrelado.
+
+19
+00:01:33.459 --> 00:01:37.480
+A identificação precisa vir por meio do pagamento utilizado.
+
+20
+00:01:38.000 --> 00:01:42.000
+Qual foi a forma desse recebimento, dessa transação?
+
+21
+00:01:42.780 --> 00:01:45.900
+E é fundamental para o fisco cruzar as informações.
+
+22
+00:01:46.680 --> 00:01:52.540
+No cartão de crédito e no débito, existem as transações via adquirente e subadquirentes.
+
+23
+00:01:52.540 --> 00:01:55.540
+Então, por isso que aqui as informações declaradas,
+
+24
+00:01:56.239 --> 00:02:02.540
+precisam vir sem as taxas, porque ele cruza as informações das informações que estão dentro do documento.
+
+25
+00:02:03.359 --> 00:02:09.300
+E documentos, pessoal, nota fiscal eletrônica, NFCE, qualquer tipo de documento fiscal eletrônico,
+
+26
+00:02:09.360 --> 00:02:10.979
+existem, então, essas informações.
+
+27
+00:02:12.180 --> 00:02:18.879
+Carteiras digitais e outros meios eletrônicos, PIX, inclusive no escopo da obrigatoriedade da DIMP,
+
+28
+00:02:19.400 --> 00:02:24.159
+cartões de loja também entram dentro da composição e a sua obrigatoriedade.
+
+29
+00:02:24.159 --> 00:02:29.719
+Então, o meio de pagamento informado dentro do XML corresponde, então,
+
+30
+00:02:30.240 --> 00:02:33.639
+exatamente o que vai constar dentro da DIMP.
+
+31
+00:02:34.240 --> 00:02:38.599
+Então, é uma obrigação assessória importante, e se você parou aqui nessa aula,
+
+32
+00:02:38.900 --> 00:02:45.139
+eu trago essa reflexão para vocês, porque às vezes a gente passa a estudar aquilo que a gente faz.
+
+33
+00:02:45.560 --> 00:02:52.159
+Então, o SPAD fiscal, a FIDE Contribuições, a ECD, CEF, que são obrigações assessoras mais comuns.
+
+34
+00:02:52.159 --> 00:02:53.159
+Se você parou aqui...
+
+35
+00:02:53.159 --> 00:02:53.719
+Se você parou aqui...
+
+36
+00:02:53.719 --> 00:02:56.719
+Se você parou aqui, talvez você seja uma pessoa curiosa.
+
+37
+00:02:57.659 --> 00:03:01.180
+E é importante, porque mesmo que você não lide com esses intermediadores,
+
+38
+00:03:01.539 --> 00:03:05.219
+e mesmo que você não lide com as instituições financeiras,
+
+39
+00:03:06.020 --> 00:03:10.939
+perceba que essa obrigação assessória, todos nós, os nossos contribuintes,
+
+40
+00:03:11.039 --> 00:03:17.280
+os prestadores de serviço, o comércio, a indústria, deveriam ter a consciência da existência.
+
+41
+00:03:18.080 --> 00:03:23.699
+Deveriam conhecer quais são as informações que eles, intermediadores e instituições financeiras,
+
+42
+00:03:23.719 --> 00:03:27.460
+estão enviando das nossas operações.
+
+43
+00:03:28.000 --> 00:03:33.199
+Porque a gente pode não ser o responsável, mas tudo aquilo que está dentro do meu XML,
+
+44
+00:03:33.919 --> 00:03:37.219
+eles estão informando mensalmente.
+
+45
+00:03:38.199 --> 00:03:42.219
+E pode ser que você receba uma autuação e talvez você pense,
+
+46
+00:03:42.699 --> 00:03:47.560
+essa autuação veio por conta do SPAD, essa autuação veio por conta do XML.
+
+47
+00:03:47.560 --> 00:03:53.560
+E na verdade, ela veio porque alguém enviou uma obrigação assessória,
+
+48
+00:03:53.719 --> 00:03:58.860
+que foi diferente do que você informou no SPAD fiscal e dentro do documento fiscal.

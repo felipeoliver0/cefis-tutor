@@ -1,0 +1,33 @@
+{
+  "id": 475525,
+  "title": "Estrutura",
+  "position": 27,
+  "duration": 372,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f0d9f00e-8b8f-4cc5-844e-56402ea03998/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f0d9f00e-8b8f-4cc5-844e-56402ea03998/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f0d9f00e-8b8f-4cc5-844e-56402ea03998/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f0d9f00e-8b8f-4cc5-844e-56402ea03998/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f0d9f00e-8b8f-4cc5-844e-56402ea03998/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

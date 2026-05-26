@@ -1,0 +1,33 @@
+{
+  "id": 462417,
+  "title": "Surgimento",
+  "position": 3,
+  "duration": 368,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d8876810-4d3e-4eda-814a-3de9bcfcb714/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8876810-4d3e-4eda-814a-3de9bcfcb714/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8876810-4d3e-4eda-814a-3de9bcfcb714/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8876810-4d3e-4eda-814a-3de9bcfcb714/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8876810-4d3e-4eda-814a-3de9bcfcb714/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

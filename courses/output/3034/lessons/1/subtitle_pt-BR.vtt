@@ -1,0 +1,793 @@
+WEBVTT
+
+1
+00:00:00.629 --> 00:00:05.460
+olá, sejam bem-vindos ao nosso podcast café com SMS da CFIS,
+
+2
+00:00:05.469 --> 00:00:10.079
+onde semanalmente trazemos até vocês temas do IC M, S e de documentos fiscais,
+
+3
+00:00:10.090 --> 00:00:13.119
+eletrônicos e também temas aí da área fiscal.
+
+4
+00:00:13.130 --> 00:00:16.719
+Eu sou o Antônio Godoi, sou professor aqui da CFI S e tenho vários cursos publicados,
+
+5
+00:00:16.729 --> 00:00:17.280
+né?
+
+6
+00:00:17.290 --> 00:00:17.680
+E hoje,
+
+7
+00:00:17.690 --> 00:00:21.520
+vamos falar sobre as alterações na tabela I C M que passam a valer
+
+8
+00:00:21.530 --> 00:00:24.280
+a partir de agora de janeiro de dois mil e vinte e quatro.
+
+9
+00:00:24.290 --> 00:00:24.899
+Vamos lá.
+
+10
+00:00:25.780 --> 00:00:29.670
+A tabela n cem vai sofrer algumas pequenas alterações agora,
+
+11
+00:00:29.680 --> 00:00:34.270
+em janeiro de dois mil e vinte e quatro, e vamos falar dessas alterações agora?
+
+12
+00:00:34.279 --> 00:00:39.029
+Primeiramente, vamos dar uma lembra, né? No que que é esse tal de NCM?
+
+13
+00:00:39.040 --> 00:00:43.229
+NCM significa nomenclatura comum do Mercosul.
+
+14
+00:00:43.240 --> 00:00:45.869
+É um sistema de classificação de mercadorias muito
+
+15
+00:00:45.880 --> 00:00:48.790
+importante pro Brasil e também pros países,
+
+16
+00:00:48.799 --> 00:00:50.090
+né, que compõem o Mercosul
+
+17
+00:00:50.569 --> 00:00:52.650
+esse sistema de classificação no Brasil.
+
+18
+00:00:52.659 --> 00:00:57.240
+Ele é utilizado para definir a alíquota dos produtos industrializados, o IPI,
+
+19
+00:00:58.090 --> 00:01:03.009
+a tabela tip, né? A tabela do IPI ela é feita com base na tabela? NCM, né?
+
+20
+00:01:03.020 --> 00:01:06.839
+Então já aí já é um uso extremamente importante, né?
+
+21
+00:01:06.849 --> 00:01:10.860
+Também é base pra no Brasil, pra tec tarifa externa comum,
+
+22
+00:01:10.870 --> 00:01:13.400
+que é uma tabela que define as alíquotas
+
+23
+00:01:13.410 --> 00:01:16.319
+de comércio exterior entre os países do Mercosul,
+
+24
+00:01:16.330 --> 00:01:19.769
+né Esses países do Mercosul, pela proximidade aqui do Brasil,
+
+25
+00:01:19.779 --> 00:01:21.959
+são grandes parceiros comerciais do Brasil, né?
+
+26
+00:01:22.550 --> 00:01:26.019
+Claro que depois de outros países, como China e Estados Unidos, mas eh.
+
+27
+00:01:26.029 --> 00:01:29.760
+São países muito relevantes aqui, pro comércio do Brasil.
+
+28
+00:01:29.769 --> 00:01:32.000
+E essa tabela aí é utilizada para regular o
+
+29
+00:01:32.010 --> 00:01:35.239
+comércio do Brasil com esses países aqui do Mercosul.
+
+30
+00:01:35.250 --> 00:01:38.080
+Tá bom, Então pra operacionalizar isso, né?
+
+31
+00:01:38.089 --> 00:01:42.839
+É exigida a classificação do NCM na hora de fazer a NFE,
+
+32
+00:01:42.849 --> 00:01:46.379
+nota Fiscal Eletrônica e também a NFC e tá?
+
+33
+00:01:46.860 --> 00:01:51.190
+E ainda, né? Ah, o classificação no NCM é utilizada também, né?
+
+34
+00:01:51.199 --> 00:01:53.510
+Na F D, na escrituração fiscal Digital, né?
+
+35
+00:01:53.519 --> 00:01:56.029
+Porque o contribuinte tem que lançar lá sua tabela de
+
+36
+00:01:56.040 --> 00:01:58.529
+produtos E tudo mais também vai o NCM lá.
+
+37
+00:01:58.540 --> 00:02:02.510
+Então vocês puderam ver que o NCM é de muita importância no mundo fiscal,
+
+38
+00:02:02.519 --> 00:02:05.389
+porque vai pros documentos, vai pra escrituração,
+
+39
+00:02:05.400 --> 00:02:07.790
+serve pra definir a alíquota de imposto, né?
+
+40
+00:02:07.800 --> 00:02:11.610
+Então é uma classificação muito muito importante Tá!
+
+41
+00:02:12.130 --> 00:02:16.339
+E saber sobre NCM é importantíssimo pra emissão da nota também.
+
+42
+00:02:16.350 --> 00:02:20.220
+Porque você veja só em todas as rejeições
+
+43
+00:02:20.229 --> 00:02:22.850
+que acontecem de nota fiscal eletrônica no Brasil,
+
+44
+00:02:22.860 --> 00:02:24.100
+a top dois, ou seja,
+
+45
+00:02:24.110 --> 00:02:29.270
+a segunda rejeição que mais acontece é a rejeição por causa de NCM.
+
+46
+00:02:29.279 --> 00:02:33.059
+Incorreto, né? Então quem emite? Nota fiscal eletrônica?
+
+47
+00:02:33.070 --> 00:02:34.860
+A nota fiscal do consumidor eletrônica muito
+
+48
+00:02:34.869 --> 00:02:36.710
+provavelmente já se deparou com a rejeição.
+
+49
+00:02:36.720 --> 00:02:40.600
+Sete sete oito NCM Formado inexistente, né?
+
+50
+00:02:41.039 --> 00:02:42.729
+E também o pessoal do comércio exterior,
+
+51
+00:02:42.740 --> 00:02:45.570
+com certeza já se deparou com a rejeição Oitocentos e dezessete,
+
+52
+00:02:45.580 --> 00:02:50.029
+que é a unidade tributável incompatível com o NCM formado, né?
+
+53
+00:02:50.039 --> 00:02:53.169
+Então essas duas rejeições acontecem bastante,
+
+54
+00:02:53.179 --> 00:02:56.089
+como eu disse pra vocês que é a segunda rejeição que mais ocorre.
+
+55
+00:02:56.100 --> 00:02:59.779
+Por isso que é importantíssimo a gente saber o NCM, Tá,
+
+56
+00:02:59.789 --> 00:03:02.169
+então se o contribuinte informa o i c m errado, né?
+
+57
+00:03:02.179 --> 00:03:03.830
+Se a unidade de medidas tá errada,
+
+58
+00:03:04.110 --> 00:03:06.639
+isso acaba tendo uma rejeição de documento, né?
+
+59
+00:03:06.649 --> 00:03:11.279
+E o contribuinte tem que parar tudo pra ir atrás do NCM correto. E aí corrige a nota?
+
+60
+00:03:11.289 --> 00:03:13.000
+Envie de novo pra destravar.
+
+61
+00:03:13.009 --> 00:03:17.910
+Essa operação é uma das causas de rejeições que mais ocorre tá bom.
+
+62
+00:03:17.919 --> 00:03:20.539
+E um dos motivos de socorrer bastante também é porque a
+
+63
+00:03:20.550 --> 00:03:24.880
+tabela NCM normalmente duas vezes por ano ela sofre alterações,
+
+64
+00:03:24.889 --> 00:03:26.279
+né Essas alterações?
+
+65
+00:03:26.289 --> 00:03:30.580
+Alguns códigos de classificação são extintos. Outros códigos são criados, né?
+
+66
+00:03:30.869 --> 00:03:33.839
+E isso é claro que gera uma rejeição
+
+67
+00:03:33.850 --> 00:03:35.919
+de documento que esse contribuinte tá usando ali,
+
+68
+00:03:35.929 --> 00:03:37.960
+aquele código que foi extinto, né?
+
+69
+00:03:37.970 --> 00:03:41.320
+Isso vai dar a rejeição daquele documento. Tá?
+
+70
+00:03:41.330 --> 00:03:43.699
+Então, agora, em janeiro de dois mil e vinte e quatro
+
+71
+00:03:43.940 --> 00:03:47.110
+tem um código extinto e três códigos criados, né?
+
+72
+00:03:47.119 --> 00:03:51.070
+Então, essa tabela foi alterada com a criação de três códigos extinção de outro.
+
+73
+00:03:51.080 --> 00:03:53.389
+Ao analisar essa alteração,
+
+74
+00:03:53.399 --> 00:03:56.339
+a gente percebeu que o pessoal que faz a gestão dessa tabela,
+
+75
+00:03:56.350 --> 00:03:58.949
+D NCM quis especializar ainda mais.
+
+76
+00:03:58.960 --> 00:04:02.210
+Ou seja, quis aprimorar a classificação de um item, né?
+
+77
+00:04:02.220 --> 00:04:05.000
+Por isso que ela excluiu aquela classificação genérica
+
+78
+00:04:05.009 --> 00:04:07.149
+do item e criou três novos itens,
+
+79
+00:04:07.160 --> 00:04:08.369
+especializando
+
+80
+00:04:08.639 --> 00:04:10.229
+a classificação desse item?
+
+81
+00:04:10.240 --> 00:04:14.649
+Tá Então agora eh A partir de janeiro tem essa nova tabela
+
+82
+00:04:14.660 --> 00:04:17.769
+NCM tá com as seguintes alterações Eu vou falar pra vocês agora?
+
+83
+00:04:17.779 --> 00:04:19.369
+Quais são as alterações?
+
+84
+00:04:19.380 --> 00:04:24.690
+A primeira alteração é o encerramento de um NCM em trinta e um de dezembro de dois
+
+85
+00:04:24.700 --> 00:04:31.369
+mil e vinte e três o NCM dezenove zero um vinte zero zero Tá esse NCM!
+
+86
+00:04:31.380 --> 00:04:37.709
+Ele é o NCM de mistura e pasta pra pastelaria, indústria de bolachas e biscoitos tá?
+
+87
+00:04:37.959 --> 00:04:44.489
+Então eh só uma vez que mais recapitulando mistura e pasta pra
+
+88
+00:04:44.500 --> 00:04:47.109
+preparação de produtos de padaria ou se não é o pão,
+
+89
+00:04:47.119 --> 00:04:51.809
+é o a mistura e pasta que vai ser usado pra preparar o produto da padaria, né?
+
+90
+00:04:51.820 --> 00:04:55.209
+O produto da pastelaria a massa e misture que é usada
+
+91
+00:04:55.220 --> 00:04:58.529
+pra preparação de bolachas na indústria de bolachas e biscoitos.
+
+92
+00:04:58.540 --> 00:05:02.510
+Tá então esse NCM, que foi extinto? Então se você trabalha aí
+
+93
+00:05:02.739 --> 00:05:06.989
+no ramo de indústria de padaria, indústria de pastelaria,
+
+94
+00:05:07.000 --> 00:05:08.950
+indústria de bolacha e biscoito,
+
+95
+00:05:08.959 --> 00:05:12.670
+isso aí pode afetar a emissão dos seus documentos fiscais.
+
+96
+00:05:12.679 --> 00:05:17.950
+Tá aí a sua escrituração fiscal também? Então esse NCM foi extinto!
+
+97
+00:05:17.959 --> 00:05:21.350
+Tá bom, Então eh eh, ele foi extinto!
+
+98
+00:05:21.359 --> 00:05:24.209
+Tá como eu falei pra vocês pra fazer uma especialização!
+
+99
+00:05:24.220 --> 00:05:28.929
+E nessa especialização foram criados três Novos NCM.
+
+100
+00:05:29.320 --> 00:05:33.329
+O primeiro é o dezenove zero um, vinte e dez Tá esse NCM?
+
+101
+00:05:33.339 --> 00:05:35.690
+Ele é mistura pra preparação de pão?
+
+102
+00:05:35.700 --> 00:05:36.190
+Tá, não,
+
+103
+00:05:36.200 --> 00:05:39.769
+aí vocês já viram que não entrou bolacha não entrou pastelaria
+
+104
+00:05:39.779 --> 00:05:45.089
+de pão sem edição de grãos ou sementes integrais congelada.
+
+105
+00:05:45.100 --> 00:05:45.529
+Tá?
+
+106
+00:05:45.540 --> 00:05:47.950
+Veja bem que aqui tem o tema congelada tá,
+
+107
+00:05:47.959 --> 00:05:50.609
+então cê mistura pra preparação de pão
+
+108
+00:05:50.619 --> 00:05:53.950
+sem ingredientes integrais não for congelada,
+
+109
+00:05:53.959 --> 00:05:54.929
+não entra aqui.
+
+110
+00:05:54.940 --> 00:05:55.309
+Tá!
+
+111
+00:05:55.720 --> 00:05:59.290
+Também foi criado o n cem m dezenove zero um, vinte, vinte,
+
+112
+00:05:59.299 --> 00:06:00.950
+que é quase a mesma coisa do anterior, né.
+
+113
+00:06:00.959 --> 00:06:05.839
+Que é a mistura pra preparação de pão com adição de grãos e sementes integrais,
+
+114
+00:06:05.850 --> 00:06:06.890
+também congelado?
+
+115
+00:06:06.899 --> 00:06:07.989
+Tá então,
+
+116
+00:06:08.000 --> 00:06:11.410
+o que foi criado agora é uma mistura para preparação de pão
+
+117
+00:06:11.420 --> 00:06:17.130
+com adição de grãos integrais e sem edição de grãos integrais congelado.
+
+118
+00:06:17.140 --> 00:06:20.230
+Tá, Então essa foi a especialização criada! Tá!
+
+119
+00:06:21.089 --> 00:06:23.660
+Veja que a diferença pra um caso do outro, né?
+
+120
+00:06:23.670 --> 00:06:24.660
+Pro NCM primeiro,
+
+121
+00:06:24.670 --> 00:06:29.140
+que eu falei pro segundo é com ou sem adição de grãos ou sementes integrais.
+
+122
+00:06:29.149 --> 00:06:32.980
+Tá, A diferença é somente essa, vocês viram que se especializou.
+
+123
+00:06:32.989 --> 00:06:36.480
+Sim, né, Porque antes entrava tudo ali. Agora, né?
+
+124
+00:06:36.489 --> 00:06:40.799
+Tem esses dois aí mistura preparação de pão com e sem semente integral
+
+125
+00:06:41.359 --> 00:06:42.170
+e né?
+
+126
+00:06:42.179 --> 00:06:44.529
+Pra classificação de todos os demais itens,
+
+127
+00:06:44.540 --> 00:06:48.369
+ou seja aqueles produtos que não são congelados,
+
+128
+00:06:48.380 --> 00:06:52.929
+os produtos que são pra preparação de pastéis, preparação de bolachas e biscoitos,
+
+129
+00:06:52.940 --> 00:06:57.730
+todos os outros que estavam naquele c n, c antigo que foi extinto, né?
+
+130
+00:06:57.739 --> 00:07:00.089
+Eles vão ser classificados agora no NCM.
+
+131
+00:07:00.100 --> 00:07:05.109
+Dezenove zero um vinte noventa Tá eu vou ler pra vocês aqui a descrição dele
+
+132
+00:07:05.579 --> 00:07:12.309
+ele é um NCM pra mistura para preparação de produtos de padaria e de indústria de
+
+133
+00:07:12.320 --> 00:07:17.450
+bolachas e biscoitos que não se enquadram no final dez que é a mistura aquele pra pão
+
+134
+00:07:17.459 --> 00:07:20.510
+com semente integral congelada e no vinte é
+
+135
+00:07:20.519 --> 00:07:25.119
+mistura pra pão cem grãos integrais congelado também tá
+
+136
+00:07:25.130 --> 00:07:28.804
+bom Tudo que não enquadrar nessas mistura para
+
+137
+00:07:28.815 --> 00:07:31.644
+pão congelado vai entrar nesse dezenove zero um,
+
+138
+00:07:31.654 --> 00:07:32.165
+vinte e dez,
+
+139
+00:07:32.174 --> 00:07:36.165
+Então a grande maioria dos itens classificados naquele NCM que
+
+140
+00:07:36.174 --> 00:07:40.644
+foi extinto vai cair agora nesse outro NCM tá bom,
+
+141
+00:07:40.654 --> 00:07:42.804
+Então vamos pra um caso prático aqui só
+
+142
+00:07:42.815 --> 00:07:46.184
+pra gente reforçar aqui o nosso entendimento Tá,
+
+143
+00:07:47.000 --> 00:07:51.089
+se eu tenho uma massa pra preparação de produtos de pastelaria,
+
+144
+00:07:51.100 --> 00:07:53.010
+tá qual vai ser o NCM dele.
+
+145
+00:07:53.019 --> 00:07:58.390
+Vai ser o dezenove zero um vinte noventa né? Ou outros aí dessa sessão, né?
+
+146
+00:07:59.769 --> 00:08:04.739
+Vamos dar o exemplo dois Agora, massa pra preparação de pão com grãos integrais,
+
+147
+00:08:04.750 --> 00:08:09.820
+congelada, Tá, Então se essa massa é congelada, a gente viu que tem um MC m próprio.
+
+148
+00:08:09.829 --> 00:08:13.920
+A gente vai ver se é com ou sem grãos integrais. A gente viu que é com
+
+149
+00:08:14.269 --> 00:08:18.040
+então ela vai no n cem m dezenove zero um vinte vinte Tá,
+
+150
+00:08:18.049 --> 00:08:19.730
+Vamos dar mais um exemplo aqui pessoal.
+
+151
+00:08:19.739 --> 00:08:24.260
+O exemplo três Massa pra preparação de produtos de indústria de bolachas.
+
+152
+00:08:24.269 --> 00:08:28.799
+Isso aí né. Vai pra aquele n cem m dezenove zero um vinte e noventa né?
+
+153
+00:08:28.809 --> 00:08:33.940
+O que é o outros aí dessa sessão, né? O que não é aí? Preparação pra pão congelado, Okay
+
+154
+00:08:34.630 --> 00:08:37.960
+Então, pessoal, na prática, a gente vai fazer o seguinte tá,
+
+155
+00:08:37.969 --> 00:08:40.359
+a gente vai procurar nos nossos registros,
+
+156
+00:08:40.369 --> 00:08:44.099
+nos nossos bancos de dados aquele NCM que foi extinto, né!
+
+157
+00:08:44.109 --> 00:08:48.799
+O dezenove zero um vinte zero zero Quando a gente achar esse NCM lá,
+
+158
+00:08:48.809 --> 00:08:50.320
+nos nossos bancos de dados,
+
+159
+00:08:50.330 --> 00:08:53.479
+a gente vai ver se é uma mistura pra preparação de pão congelado.
+
+160
+00:08:53.489 --> 00:08:55.200
+A gente vai ver isso na descrição do produto, né?
+
+161
+00:08:55.210 --> 00:08:58.119
+Na utilização dele ali na no processo industrial e tudo mais.
+
+162
+00:08:58.130 --> 00:09:00.979
+Se for esse produto pra preparação
+
+163
+00:09:03.049 --> 00:09:06.299
+depois, então se tem ou não grão de sementes integrais, né?
+
+164
+00:09:06.309 --> 00:09:09.219
+Então aí, se tiver, fica no NCM. Vinte e dez.
+
+165
+00:09:09.229 --> 00:09:10.580
+Se não tiver, fica no vinte,
+
+166
+00:09:10.590 --> 00:09:15.580
+vinte tá e aí classificou a massa pra preparação de pão congelada.
+
+167
+00:09:15.590 --> 00:09:17.460
+Se não for esse produto,
+
+168
+00:09:17.469 --> 00:09:21.340
+todos os outros produtos vai pro dezenove zero um vinte e noventa, né?
+
+169
+00:09:21.349 --> 00:09:25.099
+Que ficou sendo o outros aí que acaba que substituiu aquele
+
+170
+00:09:25.109 --> 00:09:28.440
+NCM que foi extinto pra grande maioria dos casos Tá bom,
+
+171
+00:09:29.059 --> 00:09:29.750
+então pessoal.
+
+172
+00:09:29.760 --> 00:09:34.229
+Sobre a alteração nessa tabela de NCM pra janeiro, agora de dois mil e vinte e quatro,
+
+173
+00:09:34.239 --> 00:09:35.429
+é isso que temos pra falar.
+
+174
+00:09:35.440 --> 00:09:38.710
+Vamos aqui seguir monitorando esse assunto e trazer novidades pra vocês.
+
+175
+00:09:38.719 --> 00:09:43.169
+Como eu disse pra vocês o A N M ele sofre mais ou menos duas alterações por a por ano,
+
+176
+00:09:43.419 --> 00:09:46.250
+mas vamos ficar aqui monitorando assim que sair a próxima alteração,
+
+177
+00:09:46.260 --> 00:09:48.750
+voltamos pra vocês e vamos contar pra vocês
+
+178
+00:09:48.760 --> 00:09:51.250
+em detalhes como que foi feita essa alteração?
+
+179
+00:09:51.260 --> 00:09:53.549
+O que que a gente precisa fazer pra adequar aí
+
+180
+00:09:53.559 --> 00:09:56.710
+os nossos sistemas a emissão de notas fiscais eletrônicas,
+
+181
+00:09:56.719 --> 00:09:58.669
+escrituração fiscal, digital e tudo mais.
+
+182
+00:09:58.679 --> 00:09:59.210
+Tá bom!
+
+183
+00:10:00.010 --> 00:10:05.500
+Então pessoal! Chegamos ao fim aqui de mais um podcast café com ICMS aqui da CFI s.
+
+184
+00:10:05.510 --> 00:10:07.659
+Espero que tenham gostado desse assunto.
+
+185
+00:10:07.669 --> 00:10:12.260
+Se você quiser ver algum assunto especial, faça sua sugestão uma vez por mês.
+
+186
+00:10:12.270 --> 00:10:16.099
+Nosso podcast vai falar sobre um tema sugerido por um aluno da CFI.
+
+187
+00:10:16.109 --> 00:10:18.869
+Nós vemos também uma live mensal onde vamos comentar,
+
+188
+00:10:18.880 --> 00:10:23.090
+debater e responder as dúvidas dos alunos sobre os temas apresentados
+
+189
+00:10:23.099 --> 00:10:26.380
+os podcasts do mês tá me despeço de vocês Agora.
+
+190
+00:10:26.390 --> 00:10:29.039
+Obrigado e até breve! Tchau! Tchau!
+
+191
+00:10:29.900 --> 00:10:31.270
+Seja um assinante,
+
+192
+00:10:31.280 --> 00:10:36.130
+a CFIS e a Solução de atualização e capacitação corporativa pra você!
+
+193
+00:10:36.140 --> 00:10:37.849
+Baixe as aulas no seu celular,
+
+194
+00:10:37.859 --> 00:10:40.330
+pra você estudar offline e assista quando e
+
+195
+00:10:40.340 --> 00:10:43.669
+onde você quiser São milhares de aulas disponíveis,
+
+196
+00:10:43.679 --> 00:10:46.669
+além de novas aulas toda semana e ainda assim,
+
+197
+00:10:46.679 --> 00:10:49.039
+se você decidir não continuar com a sua assinatura,
+
+198
+00:10:49.049 --> 00:10:53.809
+tudo bem você pode cancelar online quando e onde você quiser, sem fidelidade.

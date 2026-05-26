@@ -1,0 +1,33 @@
+{
+  "id": 465954,
+  "title": "Obrigações da RFB",
+  "position": 10,
+  "duration": 151,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c4fc84c1-92de-4b61-8a0e-9b3ec1002cda/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c4fc84c1-92de-4b61-8a0e-9b3ec1002cda/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c4fc84c1-92de-4b61-8a0e-9b3ec1002cda/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c4fc84c1-92de-4b61-8a0e-9b3ec1002cda/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c4fc84c1-92de-4b61-8a0e-9b3ec1002cda/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

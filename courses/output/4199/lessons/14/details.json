@@ -1,0 +1,33 @@
+{
+  "id": 486005,
+  "title": "Plano de trabalho interinstitucional",
+  "position": 14,
+  "duration": 100,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c270bb34-3d0a-476a-aba6-523cd0c321d2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c270bb34-3d0a-476a-aba6-523cd0c321d2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c270bb34-3d0a-476a-aba6-523cd0c321d2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c270bb34-3d0a-476a-aba6-523cd0c321d2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c270bb34-3d0a-476a-aba6-523cd0c321d2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

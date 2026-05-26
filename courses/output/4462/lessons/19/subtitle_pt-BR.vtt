@@ -1,0 +1,153 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.200
+Dentro desse contexto, nós estamos vivendo esse condeno, esse termo de adesão entre os municípios.
+
+3
+00:00:07.200 --> 00:00:14.519
+Então, o passo 1 é vocês identificarem como que o seu município está trazendo essa integridade, qual que é a aderência dele.
+
+4
+00:00:14.519 --> 00:00:18.519
+Se o seu município for aderir, o que ele precisa fazer?
+
+5
+00:00:18.519 --> 00:00:26.320
+Preencher o preenchimento da assinatura, a publicação oficial, o envio via formulário e a validação do cadastro.
+
+6
+00:00:26.320 --> 00:00:32.500
+Esse é o primeiro passo para um município fazer a adesão do portal nacional.
+
+7
+00:00:32.500 --> 00:00:35.159
+O passo 2 é o cadastro e o primeiro acesso.
+
+8
+00:00:35.159 --> 00:00:43.899
+Então, acesso inicial exclusivo com certificado digital, aqui já visando a configuração no ambiente nacional para o contribuinte.
+
+9
+00:00:43.899 --> 00:00:54.579
+Cadastro de perfis administrativos e usuários e definição de opção pelo cenário da integração via emissor próprio ou nacional.
+
+10
+00:00:54.579 --> 00:00:56.320
+O passo 3 é a parametrização.
+
+11
+00:00:56.320 --> 00:01:02.159
+A parametrização tributária, ou seja, uma configuração essencial para que o funcionamento aconteça de forma devida.
+
+12
+00:01:02.159 --> 00:01:05.060
+O que a gente precisa estabelecer nesse parâmetro?
+
+13
+00:01:05.060 --> 00:01:06.700
+Primeiro, a alíquota.
+
+14
+00:01:06.700 --> 00:01:11.560
+A alíquota do ISS seguindo as regras do regulamento municipal.
+
+15
+00:01:11.560 --> 00:01:20.879
+Se o seu município dá alguma imunidade ou alguma isenção, esse cadastro no portal nacional também precisa ser registrado.
+
+16
+00:01:20.879 --> 00:01:25.719
+Retenções na fonte, as definições também precisam ser registradas.
+
+17
+00:01:25.719 --> 00:01:31.260
+E a nota técnica 07 já trouxe algumas particularidades sobre as retenções na fonte.
+
+18
+00:01:31.859 --> 00:01:36.180
+Regimes especiais também precisam trazer os parâmetros dentro do portal nacional.
+
+19
+00:01:36.859 --> 00:01:42.739
+Esses parâmetros que já existem no município não vão vir essas informações via API.
+
+20
+00:01:42.900 --> 00:01:45.420
+Então, por isso que vocês precisam cadastrar novamente.
+
+21
+00:01:46.200 --> 00:01:47.260
+Serviços e regras de homologação.
+
+22
+00:01:48.659 --> 00:01:51.299
+Lista de serviços versus NBS.
+
+23
+00:01:51.920 --> 00:01:55.659
+Regras locais específicas, ou seja, inclusão de particularidades.
+
+24
+00:01:55.719 --> 00:01:59.019
+Ambiente de produção restrita.
+
+25
+00:01:59.219 --> 00:02:02.900
+Então, a gente trata uma realização de obrigatoriedade de testes de emissão.
+
+26
+00:02:03.540 --> 00:02:10.400
+E validação de todos os cenários, trazendo simulação das emissões de diferentes municípios.
+
+27
+00:02:10.919 --> 00:02:21.060
+Ou seja, são parametrizações tributárias que precisam acontecer porque você não vai buscar as informações onde o seu cliente já está emitindo.
+
+28
+00:02:21.060 --> 00:02:24.860
+Então, se o seu cliente veio do cenário 2, ou seja,
+
+29
+00:02:25.719 --> 00:02:26.860
+veio para o portal nacional,
+
+30
+00:02:27.860 --> 00:02:32.560
+a ideia é que o portal nacional integre as informações para ele.
+
+31
+00:02:32.900 --> 00:02:37.180
+Por isso que precisa de um parâmetro novamente do seu prestador de serviço.
+
+32
+00:02:38.180 --> 00:02:39.800
+Ativação e início das emissões.
+
+33
+00:02:39.960 --> 00:02:41.719
+Então, existe uma homologação técnica.
+
+34
+00:02:42.300 --> 00:02:44.080
+Uma comunicação para os contribuintes.
+
+35
+00:02:44.219 --> 00:02:49.419
+Então, se o seu município ainda não comunicou, ele precisa comunicar os contribuintes sobre a emissão.
+
+36
+00:02:50.520 --> 00:02:52.580
+Monitoramento do acompanhamento em tempo real.
+
+37
+00:02:52.879 --> 00:02:55.479
+E a migração será faseada.
+
+38
+00:02:55.719 --> 00:03:01.139
+O objetivo era começar em janeiro de 2026, mas não foi isso que aconteceu.
+
+39
+00:03:01.620 --> 00:03:08.280
+Por isso que a gente está vendo o faseamento dessa obrigatoriedade das notas fiscais de serviço.

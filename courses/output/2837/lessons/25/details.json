@@ -1,0 +1,33 @@
+{
+  "id": 470860,
+  "title": "Recebimentos não Identificados",
+  "position": 25,
+  "duration": 182,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5601006f-0a92-4d8f-bd6e-43b5a8c9dfb9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5601006f-0a92-4d8f-bd6e-43b5a8c9dfb9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5601006f-0a92-4d8f-bd6e-43b5a8c9dfb9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5601006f-0a92-4d8f-bd6e-43b5a8c9dfb9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5601006f-0a92-4d8f-bd6e-43b5a8c9dfb9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

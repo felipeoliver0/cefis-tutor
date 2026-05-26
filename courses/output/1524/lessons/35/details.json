@@ -1,0 +1,33 @@
+{
+  "id": 452792,
+  "title": "32 Carta anual- Black Rock",
+  "position": 35,
+  "duration": 201,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/00c37a50-ec97-4b58-8008-e91b051a69a1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00c37a50-ec97-4b58-8008-e91b051a69a1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00c37a50-ec97-4b58-8008-e91b051a69a1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00c37a50-ec97-4b58-8008-e91b051a69a1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00c37a50-ec97-4b58-8008-e91b051a69a1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

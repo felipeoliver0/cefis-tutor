@@ -1,0 +1,353 @@
+WEBVTT
+
+1
+00:00:00.409 --> 00:00:02.240
+então como regra,
+
+2
+00:00:03.650 --> 00:00:06.699
+pra gente poder fixar aqui o conceito.
+
+3
+00:00:06.710 --> 00:00:11.199
+Se a operação anterior não tá sujeita ao pagamento do PIS COFINS
+
+4
+00:00:12.770 --> 00:00:15.100
+na operação posterior, eu não tenho crédito.
+
+5
+00:00:15.109 --> 00:00:19.590
+Então aqui eu tô trazendo um outro exemplo clássico pra vocês.
+
+6
+00:00:19.600 --> 00:00:22.479
+Uma empresa que compra farinha de trigo
+
+7
+00:00:23.600 --> 00:00:26.469
+pra fabricar o pão pra comercializar o pão
+
+8
+00:00:28.000 --> 00:00:33.790
+ou um bolo ou qualquer produto derivado da farinha de trigo farinha de trigo
+
+9
+00:00:33.799 --> 00:00:37.909
+ela é líquida zero Lei dez mil novecentos e vinte e cinco artigo primeiro
+
+10
+00:00:38.569 --> 00:00:42.740
+dentro daquela lista daquela tabela que eu dei uma dica
+
+11
+00:00:42.750 --> 00:00:45.659
+pra vocês pra gente pesquisar lá no site do SPED,
+
+12
+00:00:45.669 --> 00:00:51.080
+temos lá os produtos Alíquota zero Farinha de trigo está ali destacada.
+
+13
+00:00:51.090 --> 00:00:56.740
+Eu não posso apropriar crédito porque o meu fornecedor não recolheu o PIS COFINS.
+
+14
+00:00:56.750 --> 00:01:00.159
+Então eu tenho que olhar a aquisição por aquisição
+
+15
+00:01:01.110 --> 00:01:06.540
+pra poder ter a segurança de que eu estou aproveitando o crédito de forma segura,
+
+16
+00:01:06.550 --> 00:01:09.879
+correta o a sua responsabilidade.
+
+17
+00:01:09.889 --> 00:01:13.839
+Então, além de conhecer a atividade do seu cliente,
+
+18
+00:01:13.849 --> 00:01:18.940
+você vai ter que saber a tributação dos dos itens que o seu fornecedor lhe encaminha,
+
+19
+00:01:19.819 --> 00:01:24.430
+porque se você não souber a tributação e apropriar um
+
+20
+00:01:24.440 --> 00:01:28.669
+crédito sobre uma operação como essa que nós estamos discutindo,
+
+21
+00:01:28.680 --> 00:01:31.309
+a Receita Federal vai cobrar o crédito,
+
+22
+00:01:31.319 --> 00:01:34.970
+mas setenta e cinco por cento de multa além dos juros.
+
+23
+00:01:35.339 --> 00:01:35.790
+Então,
+
+24
+00:01:35.800 --> 00:01:41.230
+eu tenho que tá muito atento conhecer com muito detalhe a legislação pra
+
+25
+00:01:41.239 --> 00:01:44.559
+saber se eu estou adquirindo um produto que está sujeito ao PS C.
+
+26
+00:01:44.569 --> 00:01:44.830
+Cofes.
+
+27
+00:01:44.839 --> 00:01:45.620
+Então,
+
+28
+00:01:45.629 --> 00:01:50.569
+como eu vou identificar se o produto lá no meu fornecedor tá sujeito ao PS c COFINS,
+
+29
+00:01:50.580 --> 00:01:56.410
+Basta que eu adote aqui os dados do arquivo X ML da nota fiscal.
+
+30
+00:01:57.199 --> 00:02:02.129
+Se o meu fornecedor destacou ali incorretamente PIS e COFINS no arquivo x ML,
+
+31
+00:02:02.139 --> 00:02:07.430
+eu posso utilizar essa informação como parâmetro pra poder apropriar o crédito.
+
+32
+00:02:08.339 --> 00:02:11.910
+Essas são preocupações que eu trago pra você porque, por vezes,
+
+33
+00:02:11.919 --> 00:02:14.830
+nós queremos parametrizado os sistemas.
+
+34
+00:02:14.839 --> 00:02:20.690
+Pra que isso tudo seja feito de forma automática. Isso é um excelente precedente.
+
+35
+00:02:21.080 --> 00:02:26.130
+Mas eu tenho que tomar os cuidados pra saber se aquele item,
+
+36
+00:02:26.139 --> 00:02:29.270
+se aquela operação está sujeito ao pagamento do PIS COFINS,
+
+37
+00:02:29.279 --> 00:02:31.880
+eu não posso simplesmente parametrizado.
+
+38
+00:02:31.889 --> 00:02:35.330
+Busco o documento fiscal, identifica se tem PS COFINS,
+
+39
+00:02:35.339 --> 00:02:37.860
+se tem PS COFINS apropria o crédito porque eu
+
+40
+00:02:37.869 --> 00:02:41.130
+posso ter uma situação inversa o meu fornecedor,
+
+41
+00:02:41.139 --> 00:02:43.830
+ele teve problemas na emissão do documento fiscal e
+
+42
+00:02:43.839 --> 00:02:46.229
+não destacou o PIS e COFINS no campo próprio.
+
+43
+00:02:47.089 --> 00:02:48.279
+E eu não vou tomar crédito.
+
+44
+00:02:49.649 --> 00:02:55.699
+Então, fiquem atentos aqui, que a gente tem que ter uma segurança muito grande.
+
+45
+00:02:55.710 --> 00:02:58.520
+Eu tenho que ter um mapeamento
+
+46
+00:02:59.089 --> 00:03:03.179
+de todas as operações que eu vou apropriar o crédito pra saber
+
+47
+00:03:03.190 --> 00:03:07.100
+se eu estou apropriando de forma correta ou não E aqui pessoal,
+
+48
+00:03:07.110 --> 00:03:07.690
+qual?
+
+49
+00:03:07.699 --> 00:03:13.039
+Que é o maior índice de erros? A ausência de aproveitamento de crédito?
+
+50
+00:03:14.479 --> 00:03:18.429
+Por que por desconhecimento da etapa do negócio,
+
+51
+00:03:18.440 --> 00:03:21.449
+por aquela situação que eu trouxe a vocês, da transportadora?
+
+52
+00:03:21.460 --> 00:03:22.190
+Há pouco
+
+53
+00:03:22.880 --> 00:03:26.210
+que é produto de limpeza, é produto de limpeza, eu sou uma transportadora.
+
+54
+00:03:26.220 --> 00:03:27.889
+Por que que eu vou apropriar crédito?
+
+55
+00:03:27.899 --> 00:03:31.309
+Porque se eu não fizer a limpeza do caminhão, eu não consigo transportar
+
+56
+00:03:32.210 --> 00:03:33.600
+os produtos perecíveis.
+
+57
+00:03:34.850 --> 00:03:35.759
+Se você
+
+58
+00:03:36.399 --> 00:03:40.289
+ingressa na área fiscal e não conhece a atividade de transporte da sua empresa,
+
+59
+00:03:40.300 --> 00:03:41.330
+ali você vai.
+
+60
+00:03:41.339 --> 00:03:44.070
+Tá classificando aquele material como uma despesa de consumo,
+
+61
+00:03:44.080 --> 00:03:48.369
+material de uso e consumo e não vai apropriar crédito aumentando a carga
+
+62
+00:03:48.380 --> 00:03:52.429
+tributária da empresa na qual você presta serviço ou você tá trabalhando.
+
+63
+00:03:53.570 --> 00:03:58.059
+Então, se o objetivo aqui nós temos uma redução lícita de carga tributária,
+
+64
+00:03:58.070 --> 00:04:02.839
+é necessário que eu conheça profundamente a minha atividade.
+
+65
+00:04:03.550 --> 00:04:07.899
+Então eu tenho que conhecer todos os itens. Imprescindível, pessoal,
+
+66
+00:04:08.710 --> 00:04:10.880
+como é que eu faço isso? Professor?
+
+67
+00:04:10.889 --> 00:04:11.610
+Eu,
+
+68
+00:04:11.619 --> 00:04:14.679
+que costumo trazer algumas dicas pra poder ter
+
+69
+00:04:14.690 --> 00:04:17.820
+um comp mais adequado dentro das empresas é?
+
+70
+00:04:17.829 --> 00:04:19.798
+É impossível.
+
+71
+00:04:19.809 --> 00:04:22.500
+Nós checarmos todas as aquisições todos os mezes,
+
+72
+00:04:22.510 --> 00:04:25.500
+mas como é que você pode criar um plano de acção para isso?
+
+73
+00:04:26.149 --> 00:04:28.209
+Mês a mês? Você estabelece um
+
+74
+00:04:28.529 --> 00:04:30.640
+de produtos que você vai fazer análise
+
+75
+00:04:30.649 --> 00:04:33.190
+dos mais importantes para os menos importantes.
+
+76
+00:04:33.200 --> 00:04:35.480
+E você vai fazendo acompanhamentos?
+
+77
+00:04:35.489 --> 00:04:39.440
+Olha, está tomando crédito, está correta, a tributação tá adequada.
+
+78
+00:04:39.450 --> 00:04:44.399
+Você vai fazendo prévias auditorias nas suas informações,
+
+79
+00:04:44.410 --> 00:04:47.619
+não simplesmente apertando o botão do sistema pra gerar o
+
+80
+00:04:47.630 --> 00:04:50.239
+relatório e falar a apuração do PIS e COFINS.
+
+81
+00:04:50.250 --> 00:04:53.179
+Está pronta alguém parametrizado,
+
+82
+00:04:53.619 --> 00:04:56.589
+mas será que daquela parametrização inicial alguém
+
+83
+00:04:56.600 --> 00:05:01.369
+vem acompanhando até hoje as mudanças adaptando?
+
+84
+00:05:02.750 --> 00:05:05.839
+Vejam quanto isso é importante e a Receita
+
+85
+00:05:05.850 --> 00:05:09.500
+Federal faz uma série de cruzamentos e hoje vocês
+
+86
+00:05:10.279 --> 00:05:14.010
+eh são surpreendidos com inúmeros cruzamentos
+
+87
+00:05:14.019 --> 00:05:16.750
+eletrônicos feitos pela própria Receita Federal.
+
+88
+00:05:16.760 --> 00:05:20.390
+Então isso é uma situação que vocês têm que tomar com muito cuidado

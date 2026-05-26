@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4345,
+    "title": "Alterações no Cálculo do Lucro Presumido",
+    "subtitle": "LC 224/2025 e Decreto 12.808/2025",
+    "summary": "Neste curso Alterações no Cálculo do Lucro Presumido você irá aprender na prática tudo o que precisa saber sobre alterações no cálculo do lucro presumido. Aprenderá os fundamentos e a prática de LC 224/2025, Decreto 12.808/2025 e IN RFB 2.305, além de entender o marco legal e as percentuais de presunção, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre alterações no cálculo do lucro presumido.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/e5464f65-b276-4d45-8edd-f117165baf1a-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Alterações no Cálculo do Lucro Presumido é a capacitação para a aplicação prática da compreensão das alterações introduzidas pelo LC 224/2025 e Decreto 12.808/2025 na determinação do lucro presumido."
+    ],
+    "teacher": {
+      "id": 483386,
+      "name": "RICARDO PRADO",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIBiWZEcL31dEGm4fQDN4Cq3TGt-BsNCOj91c6SwTQj58qlWO76=s96-c"
+    },
+    "duration": 9049,
+    "keywords": "lucro;presumido",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 22,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 543,
+    "averageRating": 9.54,
+    "practiceAverage": 9.47,
+    "trailer": {
+      "id": "4e4cb328-5d69-47d6-9571-18f0d93b681f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4e4cb328-5d69-47d6-9571-18f0d93b681f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4e4cb328-5d69-47d6-9571-18f0d93b681f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4e4cb328-5d69-47d6-9571-18f0d93b681f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4e4cb328-5d69-47d6-9571-18f0d93b681f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-02-08T23:01:39.000Z",
+      "updatedAt": "2026-02-08T23:01:39.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-02-08T23:05:11.000Z",
+    "recordedAt": "2025-12-30T00:00:00.000Z",
+    "createdAt": "2025-12-30T09:14:11.000Z"
+  }
+}

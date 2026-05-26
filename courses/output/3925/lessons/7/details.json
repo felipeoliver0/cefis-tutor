@@ -1,0 +1,33 @@
+{
+  "id": 480038,
+  "title": "Demonstrações contábeis-",
+  "position": 7,
+  "duration": 488,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dc49b56e-d92c-407c-bdbb-fb096aca2be6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc49b56e-d92c-407c-bdbb-fb096aca2be6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc49b56e-d92c-407c-bdbb-fb096aca2be6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc49b56e-d92c-407c-bdbb-fb096aca2be6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc49b56e-d92c-407c-bdbb-fb096aca2be6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

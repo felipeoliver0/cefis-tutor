@@ -1,0 +1,33 @@
+{
+  "id": 473623,
+  "title": "Critérios para aplicação do valor justo",
+  "position": 9,
+  "duration": 334,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f7a36dcb-a5a9-4396-8458-a00a829d0963/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7a36dcb-a5a9-4396-8458-a00a829d0963/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7a36dcb-a5a9-4396-8458-a00a829d0963/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7a36dcb-a5a9-4396-8458-a00a829d0963/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7a36dcb-a5a9-4396-8458-a00a829d0963/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

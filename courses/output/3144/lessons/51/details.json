@@ -1,0 +1,33 @@
+{
+  "id": 475558,
+  "title": "Principais contas retificadoras do ativo",
+  "position": 51,
+  "duration": 531,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/24a983e9-5f15-461a-a291-a38b4b2d5410/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24a983e9-5f15-461a-a291-a38b4b2d5410/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24a983e9-5f15-461a-a291-a38b4b2d5410/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24a983e9-5f15-461a-a291-a38b4b2d5410/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24a983e9-5f15-461a-a291-a38b4b2d5410/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

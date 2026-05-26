@@ -1,0 +1,33 @@
+{
+  "id": 466861,
+  "title": "Exemplo de Recolhimento - Carnê Leão",
+  "position": 11,
+  "duration": 355,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/147e52b2-dfc7-4d7b-92a7-622fa67a8393/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/147e52b2-dfc7-4d7b-92a7-622fa67a8393/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/147e52b2-dfc7-4d7b-92a7-622fa67a8393/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/147e52b2-dfc7-4d7b-92a7-622fa67a8393/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/147e52b2-dfc7-4d7b-92a7-622fa67a8393/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.240
+-  Como que ele é validado dentro do modelo, né?
+
+00:00:03.240 --> 00:00:10.120
+-  A Receita Federal lançou o piloto para teste e dentro desse teste ela buscou 500 empresas,
+
+00:00:10.120 --> 00:00:14.280
+-  convidou 500 empresas para participar desses testes integrados para a preparação desse
+
+00:00:14.280 --> 00:00:18.840
+-  ambiente, dessa conta corrente e de todas as informações.
+
+00:00:18.840 --> 00:00:22.040
+-  Como que vai acontecer essa apuração?
+
+00:00:22.040 --> 00:00:28.680
+-  Vai ter três grandes pilares, tudo automatizado e não vai ser rápido, tá, esse processo,
+
+00:00:28.680 --> 00:00:32.440
+-  mas é importante vocês entenderem essas três etapas.
+
+00:00:32.440 --> 00:00:38.880
+-  Emitiu o documento fiscal eletrônico, o físico criou um registro de operação comercial
+
+00:00:38.880 --> 00:00:41.080
+-  chamado como ROC.
+
+00:00:41.080 --> 00:00:46.640
+-  Esse registro de operação comercial, ele é o intérprete, ele não é um documento
+
+00:00:46.640 --> 00:00:52.640
+-  fiscal eletrônico, ele vai interpretar o que está dentro do XML do seu contribuinte.
+
+00:00:52.640 --> 00:00:55.680
+-  E sabe por que foi necessário criar o ROC?
+
+00:00:55.680 --> 00:01:01.160
+-  Porque hoje nós temos diversos documentos fiscais eletrônicos e esses documentos fiscais
+
+00:01:01.160 --> 00:01:05.760
+-  eletrônicos possuem estruturas de XML distintas.
+
+00:01:05.760 --> 00:01:11.280
+-  Então por isso que o físico criou um intérprete chamado registro de operação, aonde ele
+
+00:01:11.280 --> 00:01:17.640
+-  vai ler toda a estrutura de todos os documentos fiscais eletrônicos e levar para a apuração
+
+00:01:17.640 --> 00:01:25.160
+-  assistida de uma única maneira, de um único modo, conforme a todas as estruturas.
+
+00:01:25.160 --> 00:01:31.500
+-  Então ele é uma inteligência artificial onde ele vai olhar todo o contexto para levar
+
+00:01:31.500 --> 00:01:33.120
+-  para a apuração assistida.
+
+00:01:33.120 --> 00:01:39.840
+-  A segunda etapa dentro da plataforma assistida, ela terá um motor de regras, aonde o físico
+
+00:01:39.840 --> 00:01:46.240
+-  olhou e está olhando a lei complementar 214 e buscando essa referência operacional para
+
+00:01:46.240 --> 00:01:49.560
+-  colocar dentro desse motor de regra.
+
+00:01:49.560 --> 00:01:55.920
+-  Após o motor de regra teremos a calculadora tributária, aonde nós vamos observar o que
+
+00:01:55.920 --> 00:02:01.840
+-  tem de débito e o que tem de crédito e até saldos e ajustes dentro da apuração do nosso
+
+00:02:01.840 --> 00:02:03.640
+-  contribuinte.
+
+00:02:03.640 --> 00:02:11.760
+-  Todo esse ecossistema ele vai funcionar dentro da plataforma de apuração assistida desenhada
+
+00:02:11.760 --> 00:02:13.520
+-  pela Receita Federal.
+
+00:02:13.520 --> 00:02:20.760
+-  Lembre-se, o ROC ele é um ecossistema, aonde ele olha todas as informações, a estrutura
+
+00:02:20.760 --> 00:02:27.360
+-  do documento fiscal eletrônico e leva de uma única maneira para dentro dessa plataforma.
+
+00:02:27.360 --> 00:02:33.120
+-  Ele não é um documento fiscal eletrônico, ele é apenas um tradutor inteligente, porque
+
+00:02:33.120 --> 00:02:38.440
+-  na verdade é necessário, se a gente pensar numa estrutura de um XML de nota fiscal eletrônica
+
+00:02:38.440 --> 00:02:45.560
+-  e uma estrutura de uma CTE, que é um conhecimento de transporte eletrônico, eles são distintos.
+
+00:02:45.560 --> 00:02:51.840
+-  Então, se estamos falando de uma única plataforma em gerenciar esse aproveitamento de crédito,
+
+00:02:51.840 --> 00:02:58.960
+-  nós precisamos então de algo igual, ou seja, algo que haja um padrão.
+
+00:02:58.960 --> 00:03:03.880
+-  Então, por isso que foi criado esse tradutor inteligente.
+
+00:03:03.880 --> 00:03:08.960
+-  O ROC não é um documento fiscal, é um documento digital que vai ler e interpretar todos os
+
+00:03:08.960 --> 00:03:11.720
+-  documentos fiscais eletrônicos.
+
+00:03:11.720 --> 00:03:15.840
+-  Informações cadastrais, é isso que ele vai buscar dentro do documento fiscal eletrônico,
+
+00:03:15.840 --> 00:03:21.640
+-  regras tributárias, resultado do cálculo e a alimentação da apuração assistida.
+
+00:03:21.640 --> 00:03:27.200
+-  Então, ele vai analisar todos os documentos fiscais eletrônicos, todas as outras informações
+
+00:03:27.200 --> 00:03:33.320
+-  que estão sendo descrita e trabalhada perante a operação do IBS e da CBS nesse novo regime
+
+00:03:33.320 --> 00:03:40.120
+-  tributário, nesse regime regular, na verdade, nesse novo sistema tributário, onde se diz
+
+00:03:40.120 --> 00:03:46.240
+-  até mesmo de criações de obrigações acessórias como a DERI para contabilizar as operações
+
+00:03:46.240 --> 00:03:47.720
+-  que não têm documento comprobatório.
+
+00:03:47.720 --> 00:03:53.920
+-  Então, instituições financeiras, locação de bens imóveis, a gente hoje está falando
+
+00:03:53.920 --> 00:04:00.640
+-  de recibos, então não são documentos fiscais comprobatórios e aí está sendo discutido
+
+00:04:00.640 --> 00:04:06.040
+-  uma criação de uma obrigação acessória para que seja, de fato, desenhado essas informações.
+
+00:04:06.040 --> 00:04:09.280
+-  E quem vai interpretar esse arquivo?
+
+00:04:09.280 --> 00:04:10.280
+-  O ROC.
+
+00:04:10.280 --> 00:04:14.840
+-  Então, ele vai olhar todos os documentos fiscais eletrônicos, todas as obrigações
+
+00:04:14.840 --> 00:04:20.880
+-  acessórias que nós tivermos e vai levar para dentro da apuração assistida do seu
+
+00:04:20.880 --> 00:04:22.240
+-  contribuinte.

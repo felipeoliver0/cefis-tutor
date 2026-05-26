@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.066 --> 00:00:06.824
+- Um outro exemplo pessoal aqui, um pouquinho mais fácil porque toda vez que nós tivermos que descobrir
+
+00:00:06.824 --> 00:00:13.582
+- o I, se eu fosse fazer aqui manualmente o cálculo, eu tenho que isolar daquela forma, eu preciso tirar
+
+00:00:13.582 --> 00:00:20.470
+- dentro desse contexto, eu tenho um número que está elevado a um número, um expoente, então eu preciso
+
+00:00:20.470 --> 00:00:27.293
+- retirá-lo, eu tenho que sempre tirar pela raiz quadrada, mas se eu tiver que fazer o cálculo de outros
+
+00:00:27.293 --> 00:00:29.502
+- itens fica um pouco mais simples.
+
+00:00:29.954 --> 00:00:37.392
+- Então aqui, qual o valor de resgate de uma aplicação de 12 mil pelo prazo de oito meses? A taxa de
+
+00:00:37.392 --> 00:00:44.902
+- juros composta de 3,5% ao mês. Então aqui, na verdade, tem um valor inicial diferente daquele outro,
+
+00:00:44.902 --> 00:00:52.267
+- tem um valor inicial a uma taxa de juros que está estipulada em um prazo. Qual o valor futuro? Qual
+
+00:00:52.267 --> 00:00:59.486
+- o valor final? O que é o valor futuro? O montante final. Aqui, o valor inicial, ou present value,
+
+00:00:59.682 --> 00:01:07.710
+- O valor presente é R$ 12 mil, prazo por oito meses, a taxa R$ 3,5 ao mês. Veja que tudo tá...
+
+00:01:08.418 --> 00:01:14.839
+- na mesma unidade mês a taxa e o período em meses. Qual que é o valor futuro? Muito fácil. A gente
+
+00:01:14.839 --> 00:01:21.323
+- só tem que fazer isso aqui. Valor presente vezes a taxa. 1 mais a taxa elevada ao prazo que eu quero.
+
+00:01:21.323 --> 00:01:27.933
+- Na hora que eu faço essa continha eu vou ter esse 1,31%. Significa o que pessoal? Que se eu tirar menos
+
+00:01:27.933 --> 00:01:31.710
+- 1 vezes 100. Aprendam a ler o número índice. 1 menos 100.
+
+00:01:31.842 --> 00:01:39.750
+- multiplicando por 1,31 menos 1, multiplicando por 100, vai dar 31,68%, que é a remuneração dessa
+
+00:01:39.750 --> 00:01:47.817
+- aplicação aqui nesse período. É uma taxa de 3,5 ao mês, mas é taxa composta que num período de
+
+00:01:47.817 --> 00:01:55.646
+- 8 meses vai dar 1,3168. Um pouco acima, se a gente pegasse esse 3,5 ao mês e multiplicasse por 8,
+
+00:01:56.290 --> 00:02:03.386
+- que seria juros simples, porque não estaria trazendo, ia dar um percentual menor do que 31,68%,
+
+00:02:03.386 --> 00:02:10.921
+- tá legal? Então isso, na verdade, é a taxa, é o número índice que representa a rentabilidade que
+
+00:02:10.921 --> 00:02:16.700
+- nós vamos aplicar o valor inicial, por isso deu um valor futuro de 15,801,71.

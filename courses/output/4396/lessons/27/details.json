@@ -1,0 +1,33 @@
+{
+  "id": 486520,
+  "title": "Créditos",
+  "position": 27,
+  "duration": 286,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1c4a2b88-a30a-4d3a-8396-ebabdc400bd6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1c4a2b88-a30a-4d3a-8396-ebabdc400bd6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1c4a2b88-a30a-4d3a-8396-ebabdc400bd6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1c4a2b88-a30a-4d3a-8396-ebabdc400bd6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1c4a2b88-a30a-4d3a-8396-ebabdc400bd6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

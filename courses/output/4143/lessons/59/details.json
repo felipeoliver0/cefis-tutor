@@ -1,0 +1,33 @@
+{
+  "id": 482641,
+  "title": "Revisão",
+  "position": 59,
+  "duration": 195,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cc93825c-595d-4d77-a4a0-7ced43ff1ad8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc93825c-595d-4d77-a4a0-7ced43ff1ad8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc93825c-595d-4d77-a4a0-7ced43ff1ad8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc93825c-595d-4d77-a4a0-7ced43ff1ad8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc93825c-595d-4d77-a4a0-7ced43ff1ad8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 456640,
+  "title": "Publicidade",
+  "position": 19,
+  "duration": 417,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3ab5347e-3120-4427-a0ee-3a44ba625d05/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ab5347e-3120-4427-a0ee-3a44ba625d05/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ab5347e-3120-4427-a0ee-3a44ba625d05/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ab5347e-3120-4427-a0ee-3a44ba625d05/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ab5347e-3120-4427-a0ee-3a44ba625d05/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

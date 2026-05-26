@@ -1,0 +1,33 @@
+{
+  "id": 452776,
+  "title": "18 Fórum econômico mundial",
+  "position": 19,
+  "duration": 120,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0bd3d8c4-5407-4a04-87f4-9bab61a56c87/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0bd3d8c4-5407-4a04-87f4-9bab61a56c87/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0bd3d8c4-5407-4a04-87f4-9bab61a56c87/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0bd3d8c4-5407-4a04-87f4-9bab61a56c87/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0bd3d8c4-5407-4a04-87f4-9bab61a56c87/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

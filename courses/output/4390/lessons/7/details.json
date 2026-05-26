@@ -1,0 +1,33 @@
+{
+  "id": 485336,
+  "title": "Conceitos de contabilidade",
+  "position": 7,
+  "duration": 197,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6df832bf-2bba-4e95-aa83-4638e4732c80/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6df832bf-2bba-4e95-aa83-4638e4732c80/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6df832bf-2bba-4e95-aa83-4638e4732c80/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6df832bf-2bba-4e95-aa83-4638e4732c80/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6df832bf-2bba-4e95-aa83-4638e4732c80/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

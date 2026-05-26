@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3853,
+    "title": "Riscos Psicossociais no Ambiente de Trabalho: Adaptações à NR-01",
+    "subtitle": "Guia Completo para Identificação, Avaliação e Prevenção Eficaz",
+    "summary": "Este curso detalha as principais alterações na Norma Regulamentadora NR-01, orientando as empresas sobre ações de prevenção necessárias frente aos riscos psicossociais. Exploramos os conceitos fundamentais e a importância da NR-01, as ferramentas de identificação e avaliação dos riscos, além de diretrizes de prevenção e as novas exigências para 2025. Ao longo de quatro módulos, os participantes adquirirão conhecimentos práticos para implementar políticas de saúde no trabalho, levando em consideração as recentes reformas na legislação brasileira.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/a8d76027-5354-4e52-ba88-e00246b73631-thumbnail.png",
+    "goals": [
+      "Capacitar os participantes para identificar, avaliar e mitigar riscos psicossociais nas empresas, conforme as novas diretrizes da NR-01, promovendo um ambiente de trabalho saudável e seguro."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 6380,
+    "keywords": "NR-01;gestão de riscos;saúde mental;riscos psicossociais;prevenção",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 22,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 722,
+    "averageRating": 9.4,
+    "practiceAverage": 9.34,
+    "trailer": {
+      "id": "0e30f5c0-af1e-46f8-8387-a0557997f8e7",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0e30f5c0-af1e-46f8-8387-a0557997f8e7/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0e30f5c0-af1e-46f8-8387-a0557997f8e7/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0e30f5c0-af1e-46f8-8387-a0557997f8e7/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0e30f5c0-af1e-46f8-8387-a0557997f8e7/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-15T10:41:49.000Z",
+      "updatedAt": "2025-07-15T10:41:48.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-07-15T09:03:45.000Z",
+    "recordedAt": "2025-07-03T00:00:00.000Z",
+    "createdAt": "2025-07-03T11:14:33.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 465330,
+  "title": "Rotinas para melhor aproveitamento do benefício",
+  "position": 16,
+  "duration": 232,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/764be60c-db18-40fe-b8e1-29c34b579cf5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/764be60c-db18-40fe-b8e1-29c34b579cf5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/764be60c-db18-40fe-b8e1-29c34b579cf5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/764be60c-db18-40fe-b8e1-29c34b579cf5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/764be60c-db18-40fe-b8e1-29c34b579cf5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

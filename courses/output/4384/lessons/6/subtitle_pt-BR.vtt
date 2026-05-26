@@ -1,0 +1,149 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.599
+Código de Classificação Tributária, criado para o IBS e a CBS, obrigatório por item, para cada item.
+
+3
+00:00:07.599 --> 00:00:12.080
+Ou seja, você vai precisar fazer parte do cadastro do produto da sua empresa.
+
+4
+00:00:12.080 --> 00:00:15.439
+O CClassTrib traduz a operação para o sistema da receita.
+
+5
+00:00:15.439 --> 00:00:20.079
+Ele diz como aquela operação deve ser tratada no IBS e na CBS.
+
+6
+00:00:20.079 --> 00:00:25.660
+Se existe uma particularidade, se existe uma exceção, se ela é reduzida, se a alíquota é zero.
+
+7
+00:00:25.660 --> 00:00:28.160
+Esse é o principal objetivo.
+
+8
+00:00:28.160 --> 00:00:34.159
+E, além disso, como eu disse para vocês, o Fisco vai validar todos os códigos que existem dentro da operação.
+
+9
+00:00:34.159 --> 00:00:35.359
+Quais?
+
+10
+00:00:35.359 --> 00:00:38.539
+CClassTrib, NCM, NBS.
+
+11
+00:00:38.539 --> 00:00:41.000
+NCM classifica o produto.
+
+12
+00:00:41.000 --> 00:00:48.140
+Quem tem expertise de colocar uma NCM dentro de um determinado produto é a parte técnica.
+
+13
+00:00:48.140 --> 00:00:55.320
+Porém, quem tem a responsabilidade e a expertise de lidar com a tributação são vocês.
+
+14
+00:00:55.320 --> 00:00:57.820
+Então, a NCM é criada em
+
+15
+00:00:57.820 --> 00:00:58.159
+conjunto.
+
+16
+00:00:58.159 --> 00:01:08.159
+NBS classifica o serviço, que é o Código de Serviço Nacional, que agora vocês vão começar a ver muito mais frequente.
+
+17
+00:01:08.159 --> 00:01:13.159
+Porque a LC-114-2025, nos seus anexos, já utiliza a NBS.
+
+18
+00:01:13.159 --> 00:01:22.159
+No Portal Nacional de Serviço, vocês também vão utilizar a NBS, além do Código de Serviço Municipal de vocês.
+
+19
+00:01:22.159 --> 00:01:25.159
+A CClassTrib classifica o tratamento tributário.
+
+20
+00:01:25.159 --> 00:01:28.159
+Tudo isso vai trazer uma rastreadibilidade de informação.
+
+21
+00:01:28.159 --> 00:01:38.159
+O produto pode ser o mesmo, mas a classificação tributária muda conforme a operação, a matriz de incidência.
+
+22
+00:01:38.159 --> 00:01:40.159
+Então, por isso que não é um depara.
+
+23
+00:01:40.159 --> 00:01:45.159
+E a CClassTrib, ela só foi criada para o IBS e CBS.
+
+24
+00:01:45.159 --> 00:01:49.159
+Não estamos falando de uma CClassTrib de CMS, do IPI, do PIS e COFINS.
+
+25
+00:01:49.159 --> 00:01:54.159
+Onde a CClassTrib impacta no documento fiscal eletrônico de vocês?
+
+26
+00:01:54.159 --> 00:01:56.159
+Na base de cálculo, porque ela trata uma fundamentação, uma exceção.
+
+27
+00:01:56.159 --> 00:01:57.159
+Na base de cálculo, porque ela trata uma fundamentação, uma exceção.
+
+28
+00:01:57.159 --> 00:01:58.159
+Na base de cálculo, porque ela trata uma fundamentação, uma exceção.
+
+29
+00:01:58.159 --> 00:02:04.159
+No crédito, até mesmo no Split Payment, validação do documento fiscal.
+
+30
+00:02:04.159 --> 00:02:08.159
+Pode ser NFE, NFC, SE, enfim.
+
+31
+00:02:08.159 --> 00:02:13.159
+Errar uma CClassTrib não é só rejeição de documento fiscal.
+
+32
+00:02:13.159 --> 00:02:19.159
+Mas isso traz uma relação de impacto na apuração final do seu cliente.
+
+33
+00:02:19.159 --> 00:02:23.159
+Naquilo que ele está de fato recolhendo.
+
+34
+00:02:23.159 --> 00:02:27.159
+Naquilo que ele está de fato levando para o crédito do destino.
+
+35
+00:02:27.159 --> 00:02:29.159
+Naquilo que ele está de fato levando para o crédito do destino.
+
+36
+00:02:29.159 --> 00:02:33.159
+Então, ela não determina só a incidência daquela operação.
+
+37
+00:02:33.159 --> 00:02:35.159
+Ela tem consequências de uma má classificação.
+
+38
+00:02:35.159 --> 00:02:37.159
+Ela tem consequências de uma má classificação.

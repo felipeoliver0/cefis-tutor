@@ -1,0 +1,33 @@
+{
+  "id": 469487,
+  "title": "Podcast: Reforma Tributária",
+  "position": 1,
+  "duration": 874,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/78ce26b3-d1fd-436b-bada-0396f40f93b7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78ce26b3-d1fd-436b-bada-0396f40f93b7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78ce26b3-d1fd-436b-bada-0396f40f93b7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78ce26b3-d1fd-436b-bada-0396f40f93b7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78ce26b3-d1fd-436b-bada-0396f40f93b7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 487893,
+  "title": "Legislação municipal",
+  "position": 19,
+  "duration": 126,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/b24d6738-19ad-47db-8bc1-56c4b6990a27/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b24d6738-19ad-47db-8bc1-56c4b6990a27/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b24d6738-19ad-47db-8bc1-56c4b6990a27/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b24d6738-19ad-47db-8bc1-56c4b6990a27/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b24d6738-19ad-47db-8bc1-56c4b6990a27/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4053,
+    "title": "Feedback",
+    "subtitle": "Estratégias de líderes",
+    "summary": "Neste curso Feedback, você irá aprender na prática tudo o que precisa saber sobre dar feedback de forma eficaz. Aprenderá os fundamentos e a prática de criar um ambiente de confiança, escolher o momento certo para dar retorno, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre feedback. Além disso, você aprenderá a comunicar-se com empatia e a alinhar o feedback com os objetivos da equipe e da organização. Com base nos títulos das aulas, você aprenderá sobre a cultura de feedback, os tipos de feedback, como estruturar um feedback, e muitas outras habilidades importantes para oferecer retornos construtivos, claros e motivadores.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/05ea577a-1efd-4a13-86f8-610269842db0-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Feedback é a capacitação para a aplicação prática de oferecer retornos construtivos, claros e motivadores, transformando o feedback em uma ferramenta estratégica de crescimento individual e coletivo."
+    ],
+    "teacher": {
+      "id": 545447,
+      "name": "GISELE ALVES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1666807674.jpeg"
+    },
+    "duration": 4671,
+    "keywords": "Feedback;Capacitar;Fala;Reconhecimento",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 296,
+    "averageRating": 9.43,
+    "practiceAverage": 9.39,
+    "trailer": {
+      "id": "37a8b174-3ca1-4273-b41b-164af1b5df4b",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/37a8b174-3ca1-4273-b41b-164af1b5df4b/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/37a8b174-3ca1-4273-b41b-164af1b5df4b/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/37a8b174-3ca1-4273-b41b-164af1b5df4b/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/37a8b174-3ca1-4273-b41b-164af1b5df4b/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-16T09:33:36.000Z",
+      "updatedAt": "2025-10-16T09:33:35.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-16T17:26:43.000Z",
+    "recordedAt": "2025-10-01T00:00:00.000Z",
+    "createdAt": "2025-10-15T10:25:22.000Z"
+  }
+}

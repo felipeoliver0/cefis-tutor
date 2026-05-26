@@ -1,0 +1,33 @@
+{
+  "id": 480124,
+  "title": "Operações com Alíquotas Zero",
+  "position": 19,
+  "duration": 55,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6cfc1fa4-b093-4c13-a00e-c0e80abd3d48/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6cfc1fa4-b093-4c13-a00e-c0e80abd3d48/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6cfc1fa4-b093-4c13-a00e-c0e80abd3d48/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6cfc1fa4-b093-4c13-a00e-c0e80abd3d48/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6cfc1fa4-b093-4c13-a00e-c0e80abd3d48/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

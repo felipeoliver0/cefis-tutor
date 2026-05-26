@@ -1,0 +1,33 @@
+{
+  "id": 457835,
+  "title": "AFAC - Adiantamento para futuro aumento de capital - parte 2",
+  "position": 16,
+  "duration": 249,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8b1b55e3-44e2-40e3-8194-8d18089863d6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8b1b55e3-44e2-40e3-8194-8d18089863d6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8b1b55e3-44e2-40e3-8194-8d18089863d6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8b1b55e3-44e2-40e3-8194-8d18089863d6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8b1b55e3-44e2-40e3-8194-8d18089863d6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4476,
+    "title": "Gestão de Benefícios da Área Trabalhista",
+    "subtitle": "curso prático",
+    "summary": "Neste curso 'Gestão de Benefícios da Área Trabalhista - curso prático' você irá aprender na prática tudo o que precisa saber sobre gestão de benefícios trabalhistas. Aprenderá os fundamentos e a prática de apuração de benefícios, tipos de rúbricas e legislação trabalhista e vários outros temas para você que deseja se atualizar ou aprender tudo sobre gestão de benefícios da área trabalhista.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/1effddb8-5536-45c2-89ad-c272cb064c97-thumbnail.png",
+    "goals": [
+      "O objetivo do curso 'Gestão de Benefícios da Área Trabalhista: curso prático' é a capacitação para a aplicação prática da gestão eficaz de benefícios na área trabalhista, considerando conceitos, legislação e práticas atualizadas."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 1558,
+    "keywords": "gestao;beneficios;trabalhistas",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 15,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 79,
+    "averageRating": 9.41,
+    "practiceAverage": 9.39,
+    "trailer": {
+      "id": "1a434bcd-f724-4223-a4ba-33538f418004",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1a434bcd-f724-4223-a4ba-33538f418004/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1a434bcd-f724-4223-a4ba-33538f418004/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1a434bcd-f724-4223-a4ba-33538f418004/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1a434bcd-f724-4223-a4ba-33538f418004/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-30T18:45:41.000Z",
+      "updatedAt": "2026-03-30T18:45:40.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-30T20:57:47.000Z",
+    "recordedAt": "2026-03-20T00:00:00.000Z",
+    "createdAt": "2026-03-30T18:22:28.000Z"
+  }
+}

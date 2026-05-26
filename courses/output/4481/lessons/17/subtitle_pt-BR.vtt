@@ -1,0 +1,117 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.700
+As duas camadas de operação, o que foi documentado, então o registro oficial da venda ou da prestação de serviço,
+
+3
+00:00:06.700 --> 00:00:12.980
+a base para apuração dos tributos e envia do fisco que expede obrigações principais.
+
+4
+00:00:12.980 --> 00:00:17.879
+Essa é a camada documental quando falamos de rastreadibilidade de informação.
+
+5
+00:00:17.879 --> 00:00:25.519
+O que efetivamente entrou, aí o fisco utiliza o meio de pagamento para identificar se houve uma omissão ou não.
+
+6
+00:00:25.519 --> 00:00:31.260
+Ele trata um rastro financeiro real do que aconteceu, do que de fato recebeu,
+
+7
+00:00:31.260 --> 00:00:39.299
+audita a DINP versus os tipos de pagamento e envia os bancos as informações.
+
+8
+00:00:39.299 --> 00:00:45.640
+Vindo do E-Financeiro, a gente também tem uma camada muito grande, porque os bancos acabam enviando as informações também.
+
+9
+00:00:45.640 --> 00:00:52.479
+Então, se existe uma divergência entre essas duas camadas, provavelmente vai ter uma intimação,
+
+10
+00:00:52.479 --> 00:00:55.520
+provavelmente o seu cliente vai sofrer uma intimação.
+
+11
+00:00:55.520 --> 00:00:59.520
+Então, qual é o alerta crítico que eu deixo aqui para vocês?
+
+12
+00:00:59.520 --> 00:01:09.540
+Se o seu time não olha para o tipo de pagamento dentro do XML e ele só olha o SPED fiscal,
+
+13
+00:01:09.540 --> 00:01:15.540
+então ele ignora o tipo de pagamento, ele pode estar cometendo um belo problema.
+
+14
+00:01:15.540 --> 00:01:23.540
+Porque a DINP já é uma obrigação acessória que está sendo entregue mensalmente.
+
+15
+00:01:23.540 --> 00:01:25.519
+Nós, como contribuintes,
+
+16
+00:01:25.519 --> 00:01:29.519
+que não estamos obrigados à entrega, mas informamos o conjunto de dados,
+
+17
+00:01:29.519 --> 00:01:34.519
+estamos enviando XML e SPED fiscal todos os meses também.
+
+18
+00:01:34.519 --> 00:01:37.540
+Então, o que a gente tem que fazer?
+
+19
+00:01:37.540 --> 00:01:42.540
+Não ter uma visão simplesmente parcial de olhar o XML versus o SPED fiscal.
+
+20
+00:01:42.540 --> 00:01:49.540
+Isso a gente já deve fazer por conta das tributações, por conta das incidências, por conta das classificações,
+
+21
+00:01:49.540 --> 00:01:52.540
+por conta de uma má classificação tributária.
+
+22
+00:01:52.540 --> 00:01:54.540
+Isso daqui é uma visão parcial.
+
+23
+00:01:54.540 --> 00:02:00.540
+Quando estamos falando de instituições financeiras versus o que a gente está recebendo.
+
+24
+00:02:00.540 --> 00:02:05.560
+A visão completa é entender que a DINP também faz parte desse contexto.
+
+25
+00:02:05.560 --> 00:02:11.560
+Ou seja, o certo é nota, SPED, DINP.
+
+26
+00:02:11.560 --> 00:02:15.560
+Mesmo que o seu contribuinte não seja o final da entrega,
+
+27
+00:02:15.560 --> 00:02:19.560
+o fisco está olhando essas três grandes camadas.
+
+28
+00:02:19.560 --> 00:02:20.560
+Por que isso importa?
+
+29
+00:02:20.560 --> 00:02:23.560
+Se existe divergência dentro dessas camadas,
+
+30
+00:02:23.560 --> 00:02:28.560
+existe uma intimação e existe um risco tributário grande de fiscalização.

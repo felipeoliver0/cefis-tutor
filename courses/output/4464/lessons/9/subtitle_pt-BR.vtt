@@ -1,0 +1,209 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.059
+Pessoal, chegamos à etapa dos eventos periódicos, esses eventos periódicos que são na verdade
+
+3
+00:00:07.059 --> 00:00:09.519
+a rotina da folha de pagamento.
+
+4
+00:00:09.519 --> 00:00:16.260
+Lembra aí o conceito do E-Social que é transformar aquele relatório físico ou em PDF da folha
+
+5
+00:00:16.260 --> 00:00:22.839
+em folha de pagamento escriturada, a gente falou isso aqui nos primeiros módulos do
+
+6
+00:00:22.839 --> 00:00:29.679
+nosso treinamento, automaticamente pessoal, eventos periódicos são as folhas de pagamento
+
+7
+00:00:29.679 --> 00:00:34.299
+que eu vou transmitir mensalmente, então isso não vai deixar de existir, tá?
+
+8
+00:00:34.299 --> 00:00:39.079
+É utilizado para prestar informações da remuneração de cada trabalhador no mês
+
+9
+00:00:39.079 --> 00:00:41.439
+de referência, que evento é esse?
+
+10
+00:00:41.439 --> 00:00:42.439
+Em 1200.
+
+11
+00:00:42.439 --> 00:00:48.320
+É como se fosse o recibo de pagamento do empregado, constando todas as rubricas que
+
+12
+00:00:48.320 --> 00:00:56.560
+ele tem direito, salário, INSS, vale transporte, todas as informações vão no S1200, empregado
+
+13
+00:00:56.560 --> 00:00:59.560
+por empregado, categoria por categoria.
+
+14
+00:00:59.560 --> 00:01:04.900
+Então se você faz uma folha de pagamento e essa folha de pagamento você tem 8 trabalhadores,
+
+15
+00:01:04.900 --> 00:01:10.379
+você vai ter 8 eventos de S1200, ok?
+
+16
+00:01:10.379 --> 00:01:17.959
+Você vai ter também o evento S1210, pagamento do trabalhador, aqui tem uma informação
+
+17
+00:01:17.959 --> 00:01:22.959
+importante de apuração que é do imposto de renda, mas também tem a data de pagamento,
+
+18
+00:01:22.959 --> 00:01:29.560
+é o que dá nome ao evento, então toda empresa tem que inserir, no momento que vai fazer
+
+19
+00:01:29.560 --> 00:01:34.340
+a sua folha, a data que ele vai creditar salário para o empregado.
+
+20
+00:01:34.340 --> 00:01:35.579
+Por que isso, professor?
+
+21
+00:01:35.579 --> 00:01:38.219
+Por que com tantos detalhes?
+
+22
+00:01:38.219 --> 00:01:42.219
+Porque é a partir daquela data que a gente tem a referência de fazer a apuração do
+
+23
+00:01:42.219 --> 00:01:45.180
+imposto de renda retido na fonte, né?
+
+24
+00:01:45.180 --> 00:01:50.959
+Tem empresas que efetuam o pagamento no último dia do mês, como 30, 31, tem empresas que
+
+25
+00:01:50.959 --> 00:01:56.500
+efetuam o pagamento de salário no quinto dia útil do mês seguinte, e aí essa informação
+
+26
+00:01:56.500 --> 00:01:58.799
+tem que estar integrada.
+
+27
+00:01:59.560 --> 00:02:03.799
+Na folha de pagamento, porque vai constar nesse evento aqui.
+
+28
+00:02:03.799 --> 00:02:08.319
+Então, aquela mesma dinâmica do cadastro do empregador, né, que vem a informação
+
+29
+00:02:08.319 --> 00:02:16.039
+do S1000, 1005, 1020, vem todo o cadastro do empregador para o ISOCIAL, é uma transmissão
+
+30
+00:02:16.039 --> 00:02:22.280
+composta, né, com vários eventos, aqui também vai acontecer para a folha.
+
+31
+00:02:22.280 --> 00:02:25.939
+Sempre vai ter o 1200 e 1210, tá?
+
+32
+00:02:25.939 --> 00:02:27.599
+Isso é a nossa referência.
+
+33
+00:02:27.599 --> 00:02:28.620
+Como também?
+
+34
+00:02:28.620 --> 00:02:36.240
+Teremos informações do S1210, trazendo os dados do dependente do imposto de renda,
+
+35
+00:02:36.240 --> 00:02:40.300
+tá, desse empregado, e o prazo para o envio.
+
+36
+00:02:40.300 --> 00:02:46.020
+Lembra os eventos não periódicos que estabelecem prazos de acordo com a legislação?
+
+37
+00:02:46.020 --> 00:02:50.599
+Pois bem, o evento periódico, que é o da folha, você tem um prazo até o dia 15 do
+
+38
+00:02:50.599 --> 00:02:53.659
+mês seguinte, gente, dá muito tempo para fazer.
+
+39
+00:02:53.659 --> 00:02:57.659
+Então, você está fechando a folha, por exemplo, do mês de março, ok?
+
+40
+00:02:57.659 --> 00:03:02.340
+Você vai entregar lá para o seu cliente no dia 28 de março, aquela já prévia, tudo
+
+41
+00:03:02.340 --> 00:03:05.539
+direitinho, tudo aprovado, pô, você tem até o dia 15 de abril para transmitir esses
+
+42
+00:03:05.539 --> 00:03:06.539
+dados.
+
+43
+00:03:06.539 --> 00:03:09.340
+Dá muito bem tempo de conferir essas informações.
+
+44
+00:03:09.340 --> 00:03:18.219
+E aqui, pessoal, para consolidar o fechamento das informações mensais, nós temos o evento
+
+45
+00:03:18.219 --> 00:03:24.659
+S1299, que trata do fechamento dos eventos periódicos, né?
+
+46
+00:03:24.659 --> 00:03:27.280
+Então, ele conclui a totalização das bases de calculação.
+
+47
+00:03:27.280 --> 00:03:31.379
+A base de cálculo relativa à remuneração dos trabalhadores e possibilita a integração
+
+48
+00:03:31.379 --> 00:03:34.400
+com a respectiva DCTF Web.
+
+49
+00:03:34.400 --> 00:03:36.159
+Qual é a missão deste evento?
+
+50
+00:03:36.159 --> 00:03:39.780
+É como se fosse o resumo geral da folha de pagamento.
+
+51
+00:03:39.780 --> 00:03:44.479
+Ele vai trazer dados da base de cálculo de fundo garantido, posto de renda, da parte
+
+52
+00:03:44.479 --> 00:03:51.159
+previdenciária e vai fazer a integração com os demais sistemas, como DCTF Web, FGTS
+
+53
+00:03:51.159 --> 00:03:56.039
+Digital, possibilitando assim a emissão das guias da área trabalhista.

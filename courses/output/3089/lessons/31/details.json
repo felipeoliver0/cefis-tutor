@@ -1,0 +1,33 @@
+{
+  "id": 474459,
+  "title": "Custos Gerais",
+  "position": 31,
+  "duration": 595,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0c69428d-2a50-4ac3-8de5-2f0af03856cf/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c69428d-2a50-4ac3-8de5-2f0af03856cf/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c69428d-2a50-4ac3-8de5-2f0af03856cf/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c69428d-2a50-4ac3-8de5-2f0af03856cf/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c69428d-2a50-4ac3-8de5-2f0af03856cf/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

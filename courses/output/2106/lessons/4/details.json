@@ -1,0 +1,33 @@
+{
+  "id": 462218,
+  "title": "Programa de integridade",
+  "position": 4,
+  "duration": 211,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cfe7bfa1-660e-4c25-9a65-7a7c0937e958/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cfe7bfa1-660e-4c25-9a65-7a7c0937e958/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cfe7bfa1-660e-4c25-9a65-7a7c0937e958/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cfe7bfa1-660e-4c25-9a65-7a7c0937e958/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cfe7bfa1-660e-4c25-9a65-7a7c0937e958/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

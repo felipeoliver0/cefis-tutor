@@ -1,0 +1,33 @@
+{
+  "id": 462535,
+  "title": "Normas gerais de segurança",
+  "position": 13,
+  "duration": 317,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6d355a63-f084-45b1-9bfe-2b6a4fe97dfe/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d355a63-f084-45b1-9bfe-2b6a4fe97dfe/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d355a63-f084-45b1-9bfe-2b6a4fe97dfe/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d355a63-f084-45b1-9bfe-2b6a4fe97dfe/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d355a63-f084-45b1-9bfe-2b6a4fe97dfe/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

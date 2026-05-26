@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 2937,
+    "title": "Nota Fiscal Fácil - NFF",
+    "subtitle": "Simplificação na palma da mão",
+    "summary": "Neste curso prático de Nota Fiscal Fácil - NFF,  você vai aprender desde a base legal até aspectos relacionados aos modelos, fluxo de emissão, aplicativo, módulo TAC, módulo Produtor Primário, módulo varejo, vantagens, funcionalidades para emitir a NFF corretamente no dia-a-dia.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/6e396373e2009863d894e9f644d3acc61728385897.jpg",
+    "goals": [
+      "Apresentar desde a base legal até aspectos relacionados aos modelos, fluxo de emissão, aplicativo, módulo TAC, módulo Produtor Primário, módulo varejo, vantagens, funcionalidades para emitir a NFF corretamente no dia-a-dia."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 4911,
+    "keywords": "nota fiscal;fácil;nota fiscal fácil",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 26,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 816,
+    "averageRating": 9.06,
+    "practiceAverage": 9,
+    "trailer": {
+      "id": "5cb0101c-19d5-4efb-b848-f0a8e55d073f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5cb0101c-19d5-4efb-b848-f0a8e55d073f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5cb0101c-19d5-4efb-b848-f0a8e55d073f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5cb0101c-19d5-4efb-b848-f0a8e55d073f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5cb0101c-19d5-4efb-b848-f0a8e55d073f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-11-27T16:54:23.000Z",
+      "updatedAt": "2023-11-27T16:54:22.000Z"
+    },
+    "crcActive": true,
+    "crcCreditHours": 3,
+    "crcScore": {
+      "id": 290,
+      "courseId": 2937,
+      "crcCode": "SP-35365",
+      "data": [
+        {
+          "name": "AUD",
+          "values": [
+            3
+          ]
+        },
+        {
+          "name": "PERITO",
+          "values": [
+            3
+          ]
+        },
+        {
+          "name": "CMN",
+          "values": [
+            3
+          ]
+        },
+        {
+          "name": "SUSEP",
+          "values": [
+            3
+          ]
+        },
+        {
+          "name": "PREVICAUD",
+          "values": [
+            3
+          ]
+        },
+        {
+          "name": "PROGP",
+          "values": [
+            3
+          ]
+        },
+        {
+          "name": "PRORT",
+          "values": [
+            3
+          ]
+        },
+        {
+          "name": "PREVIC",
+          "values": [
+            3
+          ]
+        }
+      ],
+      "year": 2026,
+      "createdAt": "2026-01-09T18:25:24.000Z",
+      "updatedAt": "2026-01-09T18:25:24.000Z"
+    },
+    "launchDate": "2023-12-06T12:35:33.000Z",
+    "recordedAt": "2023-11-17T00:00:00.000Z",
+    "createdAt": "2023-11-17T14:37:07.000Z"
+  }
+}

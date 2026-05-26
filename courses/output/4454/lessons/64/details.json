@@ -1,0 +1,33 @@
+{
+  "id": 487760,
+  "title": "Comparação",
+  "position": 64,
+  "duration": 281,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/e7fb2653-b1c1-4980-b06a-4f48b1d2d1b2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e7fb2653-b1c1-4980-b06a-4f48b1d2d1b2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e7fb2653-b1c1-4980-b06a-4f48b1d2d1b2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e7fb2653-b1c1-4980-b06a-4f48b1d2d1b2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e7fb2653-b1c1-4980-b06a-4f48b1d2d1b2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 471391,
+  "title": "Competências tributárias",
+  "position": 11,
+  "duration": 441,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/be789951-9f5b-416a-8fa1-5b6e5116cacd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be789951-9f5b-416a-8fa1-5b6e5116cacd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be789951-9f5b-416a-8fa1-5b6e5116cacd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be789951-9f5b-416a-8fa1-5b6e5116cacd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be789951-9f5b-416a-8fa1-5b6e5116cacd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

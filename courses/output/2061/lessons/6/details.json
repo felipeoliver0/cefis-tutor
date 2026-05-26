@@ -1,0 +1,33 @@
+{
+  "id": 461849,
+  "title": "Atividades auxiliares",
+  "position": 6,
+  "duration": 405,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0f07bf23-fc1a-42f6-9cfa-4e64e6731461/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0f07bf23-fc1a-42f6-9cfa-4e64e6731461/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0f07bf23-fc1a-42f6-9cfa-4e64e6731461/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0f07bf23-fc1a-42f6-9cfa-4e64e6731461/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0f07bf23-fc1a-42f6-9cfa-4e64e6731461/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

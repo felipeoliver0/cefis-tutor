@@ -1,0 +1,33 @@
+{
+  "id": 460397,
+  "title": "Obrigatoriedade",
+  "position": 4,
+  "duration": 129,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e957c507-bff0-4ba5-823b-997c54598c60/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e957c507-bff0-4ba5-823b-997c54598c60/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e957c507-bff0-4ba5-823b-997c54598c60/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e957c507-bff0-4ba5-823b-997c54598c60/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e957c507-bff0-4ba5-823b-997c54598c60/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

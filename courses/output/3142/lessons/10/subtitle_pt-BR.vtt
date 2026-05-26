@@ -1,0 +1,605 @@
+WEBVTT
+
+1
+00:00:01.570 --> 00:00:07.239
+então pessoal vamos fazer esse exemplo que eu falei aqui venda conforme n f zero zero
+
+2
+00:00:07.250 --> 00:00:13.220
+dezessete x b y ali no excel pra gente entender um pouquinho tá vamos lá,
+
+3
+00:00:13.229 --> 00:00:15.920
+eh pegar aqui o nosso Excel.
+
+4
+00:00:17.389 --> 00:00:18.260
+Vá
+
+5
+00:00:19.040 --> 00:00:28.829
+oh venda opa fa maiúsculo Venda conforme n f zero zero dezessete opa zero zero
+
+6
+00:00:28.840 --> 00:00:37.169
+dezessete traço x d y bom eu contei ali que tinha vinte e dois caracteres.
+
+7
+00:00:37.180 --> 00:00:39.590
+Existe uma forma que chama num carácter
+
+8
+00:00:40.250 --> 00:00:45.340
+toda vez que eu vou chamar uma fórmula específica de de texto,
+
+9
+00:00:45.349 --> 00:00:48.979
+eu sempre com o México igual qualquer forma de uma forma geral,
+
+10
+00:00:48.990 --> 00:00:52.259
+então eu coloco igual num carácter que que essa um carácter faz.
+
+11
+00:00:52.270 --> 00:00:57.419
+Ela conta quantos caracteres tem especificamente essa célula então vinte
+
+12
+00:00:57.430 --> 00:01:00.229
+e dois caracteres Bom lembra que eu falei assim?
+
+13
+00:01:00.240 --> 00:01:04.440
+Ah primeiro eu testei lá o venda eu coloco assim oh igual
+
+14
+00:01:05.260 --> 00:01:12.389
+igual esquerda abro parênteses clico aqui ponto vírgula cinco
+
+15
+00:01:12.400 --> 00:01:15.849
+Eu quero o que os cinco caracteres da esquerda
+
+16
+00:01:16.680 --> 00:01:22.709
+Beleza bom perfeito eu fui e depois pra poder extrair o quê o número
+
+17
+00:01:22.720 --> 00:01:26.610
+zero dezessete que que eu precisei fazer lembra que eu fui lá e contei,
+
+18
+00:01:26.620 --> 00:01:33.489
+oh um dois, três, quatro, cinco, seis, sete, oito Bom,
+
+19
+00:01:33.500 --> 00:01:39.510
+agora eu tenho os dígitos da direita então coloca igual direita direita
+
+20
+00:01:40.260 --> 00:01:43.610
+abre parentes ponto Vírgula oito
+
+21
+00:01:44.559 --> 00:01:48.269
+entre bom Aperta a pausa e faz aí
+
+22
+00:01:49.480 --> 00:01:50.919
+beleza feito.
+
+23
+00:01:50.930 --> 00:01:53.550
+Deu certo que que eu falei assim eu falei pessoal
+
+24
+00:01:53.559 --> 00:01:58.089
+agora que eu tenho uns oito dígitos da direita eu
+
+25
+00:01:58.099 --> 00:02:00.370
+sei que o número da nota tá nos quatro da
+
+26
+00:02:00.379 --> 00:02:05.790
+esquerda disso aqui eu venho e coloco igual esquerda oh
+
+27
+00:02:07.169 --> 00:02:08.520
+ponto vírgula
+
+28
+00:02:09.238 --> 00:02:10.627
+ponto vírgula
+
+29
+00:02:11.940 --> 00:02:13.169
+um quatro
+
+30
+00:02:15.500 --> 00:02:20.410
+Poxa, vida, achei o zero deze zero zero dezessete Só que tem um detalhe
+
+31
+00:02:21.429 --> 00:02:26.539
+isso não é um número. Se eu der dois cliques aqui Oh é uma fórmula.
+
+32
+00:02:27.169 --> 00:02:31.779
+Quando eu tenho uma fórmula eu preciso pra fazer um teste.
+
+33
+00:02:31.789 --> 00:02:34.940
+Eu preciso converter esse número porque na hora que
+
+34
+00:02:34.949 --> 00:02:40.059
+eu importo um determinado relatório ele vai converter,
+
+35
+00:02:40.070 --> 00:02:40.979
+especificamente Ah,
+
+36
+00:02:40.990 --> 00:02:44.910
+eu preciso cruzar o número da nota aqui do razão contábil que eu
+
+37
+00:02:44.919 --> 00:02:47.699
+achei do histórico com o número da nota do livro de entrada.
+
+38
+00:02:47.710 --> 00:02:50.279
+Na hora que eu importar o livro de entrada ou do SPED,
+
+39
+00:02:50.830 --> 00:02:54.399
+ele vai converter em número ele vai ignorar os dois dígitos da direita.
+
+40
+00:02:54.410 --> 00:02:57.339
+Então o que a gente faz a gente vem oh c,
+
+41
+00:02:58.020 --> 00:02:59.470
+que é o copiar, copiar?
+
+42
+00:02:59.479 --> 00:03:04.089
+Aí cê vem aqui oh, clica com o botão direito e clica em cima desse aqui oh
+
+43
+00:03:04.699 --> 00:03:11.009
+colar especial ou só em cima desse desenhe colar especial valores
+
+44
+00:03:11.720 --> 00:03:15.300
+Não precisa dar okay ele vai colar aqui Oh!
+
+45
+00:03:15.309 --> 00:03:19.369
+Se eu clicar aqui e der dois cliques tá vendo que ele aparece aqui Oh na barra de
+
+46
+00:03:19.380 --> 00:03:23.490
+fórmula zero zero dezessete Bom zero zero dezessete O
+
+47
+00:03:23.500 --> 00:03:26.270
+zero zero dezessete ainda não é o número,
+
+48
+00:03:26.279 --> 00:03:30.539
+ele tá como texto, por isso que ele aparece esse risquinho isso aqui oh,
+
+49
+00:03:30.550 --> 00:03:36.360
+aí você coloca converter em número dezessete bom beleza,
+
+50
+00:03:36.369 --> 00:03:38.789
+então gente que que a gente fez
+
+51
+00:03:39.059 --> 00:03:42.419
+a gente pegou um histórico, Simulamos um histórico,
+
+52
+00:03:42.429 --> 00:03:43.949
+lembrando que é um histórico padrão.
+
+53
+00:03:43.960 --> 00:03:47.970
+Então vamos imaginar aqui oh! E o próximo histórico é
+
+54
+00:03:49.149 --> 00:03:50.380
+dezoito
+
+55
+00:03:53.080 --> 00:03:54.710
+dezenove,
+
+56
+00:03:56.619 --> 00:03:57.570
+depois
+
+57
+00:03:59.039 --> 00:03:59.949
+vinte
+
+58
+00:04:01.089 --> 00:04:05.729
+Oh, Se eu pegar, por exemplo, eu arrastei a fórmula pra baixo,
+
+59
+00:04:05.740 --> 00:04:08.940
+então todos eles continuam com vinte e dois caracteres.
+
+60
+00:04:08.949 --> 00:04:12.860
+Vamos imaginar que a venda foi feita pra todos mesmo lembrando que a coluna
+
+61
+00:04:12.869 --> 00:04:17.320
+tem que ter a mesma quantidade de caracteres pra esse teste nosso funcionar Ah,
+
+62
+00:04:17.329 --> 00:04:19.320
+beleza Bom,
+
+63
+00:04:19.700 --> 00:04:22.679
+se eu vim aqui e pegar a fórmula da direita
+
+64
+00:04:22.690 --> 00:04:25.470
+oito Arrastar pra baixo o que que ele vai fazer?
+
+65
+00:04:25.480 --> 00:04:29.149
+Zero zero dezoito zero zero dezenove zero zero vinte E
+
+66
+00:04:29.160 --> 00:04:32.950
+se eu arrastar a fórmula que eu fiz da esquerda,
+
+67
+00:04:32.959 --> 00:04:34.329
+os quatro dígitos
+
+68
+00:04:35.279 --> 00:04:39.390
+trouxe os números bom Thiago, então se eu pegar contra C,
+
+69
+00:04:39.980 --> 00:04:45.769
+vim aqui colar especial valores de okay que que ele vai trazer pra mim os
+
+70
+00:04:45.779 --> 00:04:49.250
+números eu venho na hora que eu clico aqui vou até dar um sk aqui
+
+71
+00:04:50.160 --> 00:04:55.410
+na hora que eu seleciono e venho aqui oh converter em número ele trouxe dezessete,
+
+72
+00:04:55.420 --> 00:04:59.109
+dezoito, dezenove vinte Então eu consegui extrair bom
+
+73
+00:04:59.829 --> 00:05:00.920
+cenário perfeito.
+
+74
+00:05:00.929 --> 00:05:07.000
+Coluna do mesmo tamanho, beleza, beleza bom, agora pessoal,
+
+75
+00:05:07.010 --> 00:05:08.920
+vamos fazer um pouquinho diferente.
+
+76
+00:05:08.929 --> 00:05:13.540
+Vamos pegar esse mesmo exemplo aqui E aí nós vamos mudar o nome dos fornecedores.
+
+77
+00:05:14.820 --> 00:05:23.929
+Esse aqui é o x b, y z x b, y x, x x b y a d x c E
+
+78
+00:05:24.820 --> 00:05:25.529
+bom
+
+79
+00:05:26.230 --> 00:05:27.899
+no que eu pego aqui oh,
+
+80
+00:05:28.600 --> 00:05:31.329
+faz pessoal a mesma coisa que eu fiz aí aperta a
+
+81
+00:05:31.339 --> 00:05:34.649
+pausa e digita do jeitinho que eu digitei pra vocês testarem,
+
+82
+00:05:34.660 --> 00:05:40.519
+porque a prática é que você vai fazer vocês aprenderem bom, se eu pegar aqui,
+
+83
+00:05:40.529 --> 00:05:44.130
+oh as fórmulas padrão lá, vamos tentar fazer a fórmula padrão.
+
+84
+00:05:44.140 --> 00:05:44.149
+Oh!
+
+85
+00:05:44.989 --> 00:05:47.459
+A primeira deu certo e dali pra baixo
+
+86
+00:05:48.100 --> 00:05:49.970
+eu não consegui trazer o número da nota
+
+87
+00:05:51.059 --> 00:05:53.309
+bom, por que que eu não consegui trazer o número da nota,
+
+88
+00:05:53.320 --> 00:05:55.549
+porque aqui tem vinte e dois aqui tem vinte e três
+
+89
+00:05:55.559 --> 00:05:57.790
+aqui tem vinte e quatro aqui tem vinte e sete.
+
+90
+00:05:57.799 --> 00:06:02.450
+Então eu teria que ter pego oito caracteres aqui? Eu teria que ter pego.
+
+91
+00:06:02.459 --> 00:06:09.170
+Deixa eu ver oito aqui Eu teria que ter pego nove aqui. Eu teria que ter pego dez.
+
+92
+00:06:09.179 --> 00:06:11.489
+E aqui eu teria que ter pego
+
+93
+00:06:12.519 --> 00:06:19.459
+mais cinco treze. Isso opa e daria certo! Mas isso fica impraticável.
+
+94
+00:06:19.470 --> 00:06:21.470
+Cada hora eu tenho que fazer, traçar um,
+
+95
+00:06:22.200 --> 00:06:24.029
+que que a gente pode fazer? Pessoal
+
+96
+00:06:24.839 --> 00:06:29.589
+tem uma fórmula que chama localizar, o que que acontece.
+
+97
+00:06:30.250 --> 00:06:36.119
+Se vocês observarem, se a gente observar direitinho, eu tenho aqui oh
+
+98
+00:06:36.700 --> 00:06:40.850
+qual que é o carácter que é diferente de tudo e que quebra o meu número
+
+99
+00:06:41.570 --> 00:06:44.000
+no caso? É o traço.
+
+100
+00:06:44.579 --> 00:06:47.570
+Se eu colocar aqui, oh igual localizar
+
+101
+00:06:50.130 --> 00:06:55.920
+texto procurado eu quero o hífen, digamos assim, né? Neste texto
+
+102
+00:06:57.089 --> 00:06:57.679
+bom,
+
+103
+00:06:59.589 --> 00:07:03.739
+o que que aconteceu? Ele sempre está aparecendo
+
+104
+00:07:04.440 --> 00:07:05.470
+no dezenove.
+
+105
+00:07:06.410 --> 00:07:09.880
+Então se eu pegar e colocar igual direita
+
+106
+00:07:12.200 --> 00:07:14.510
+ponto vírgula dezenove,
+
+107
+00:07:15.769 --> 00:07:18.019
+eu vou chegar até onde OPA.
+
+108
+00:07:18.029 --> 00:07:18.899
+Desculpa não,
+
+109
+00:07:18.910 --> 00:07:22.980
+não direita igual esquerda que eu vou começar da
+
+110
+00:07:22.989 --> 00:07:27.559
+esquerda pra direita igual esquerda ponto Vírgula dezenove,
+
+111
+00:07:28.390 --> 00:07:30.420
+que que ele me deu o retorno aqui Pessoal
+
+112
+00:07:31.230 --> 00:07:34.820
+venda conforme nota fiscal vamos arrastar pra baixo aqui oh,
+
+113
+00:07:35.730 --> 00:07:40.399
+Thiago, mas ele ainda trouxe o tracinho, então cê vai fazer aqui oh
+
+114
+00:07:41.910 --> 00:07:44.260
+aí nós vamos evoluir a fórmula
+
+115
+00:07:45.190 --> 00:07:46.299
+igual
+
+116
+00:07:46.880 --> 00:07:48.190
+esquerda
+
+117
+00:07:49.420 --> 00:07:54.809
+eu quero este texto ponto Vírgula o dezenove menos um
+
+118
+00:07:56.809 --> 00:08:00.079
+O que que eu fiz? Pessoal? Oh, vamos de novo
+
+119
+00:08:00.899 --> 00:08:05.149
+e eu sei que o tracinho tá na dezenove o número da
+
+120
+00:08:05.160 --> 00:08:10.230
+nota acaba ao pessoal no camping dezoito na sequência oh um,
+
+121
+00:08:10.239 --> 00:08:17.149
+dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze,
+
+122
+00:08:17.160 --> 00:08:20.850
+quatorze, quinze, dezesseis, dezessete e dezoito
+
+123
+00:08:21.880 --> 00:08:26.429
+Bom, então eu posso colocar igual esquerda?
+
+124
+00:08:26.440 --> 00:08:29.910
+Clico no texto que eu quero ponto vírgula O quê?
+
+125
+00:08:30.630 --> 00:08:36.739
+O que eu selecionei? O que eu selecionei para localizar que era o hífen menos um
+
+126
+00:08:37.710 --> 00:08:42.739
+E se eu pegar aqui oh aí vamos, Deixa eu diminuir um pouco! Vamos aumentar aqui oh!
+
+127
+00:08:42.750 --> 00:08:49.580
+Se eu pegar aqui oh igual direita o ponto vírgula quatro
+
+128
+00:08:50.669 --> 00:08:54.500
+oh o meu número da nota aparecendo, vamos arrastar tudo pra baixo pra gente ver
+
+129
+00:08:55.150 --> 00:08:57.539
+se eu pegar aqui, oh contra você
+
+130
+00:08:58.409 --> 00:09:01.440
+escola especial valores
+
+131
+00:09:02.150 --> 00:09:07.679
+converter em número Tá lá o número da nota Opa, então o histórico era maior,
+
+132
+00:09:07.690 --> 00:09:10.140
+eu consegui achar beleza bom.
+
+133
+00:09:11.049 --> 00:09:14.340
+Agora pessoal, a gente usou quantas colunas, uma,
+
+134
+00:09:14.349 --> 00:09:17.359
+duas três colunas pra trazer o número da nota.
+
+135
+00:09:18.000 --> 00:09:21.070
+Eu poderia muito bem. Vou fazer aqui embaixo,
+
+136
+00:09:23.429 --> 00:09:24.580
+Bom o
+
+137
+00:09:26.719 --> 00:09:27.669
+igual!
+
+138
+00:09:28.549 --> 00:09:33.260
+Vamos na sequência é um direito, é um esquerda é um localizar
+
+139
+00:09:34.440 --> 00:09:35.309
+igual.
+
+140
+00:09:36.130 --> 00:09:37.679
+Localizar
+
+141
+00:09:38.280 --> 00:09:42.830
+localiza opa localizar abre paredes
+
+142
+00:09:44.770 --> 00:09:47.159
+ponto Vírgula dezenove.
+
+143
+00:09:47.950 --> 00:09:49.299
+Mas eu quero
+
+144
+00:09:50.010 --> 00:09:58.440
+esquerda abre parentes esse número ponto vírgula localizar menos um
+
+145
+00:10:00.080 --> 00:10:01.590
+trouxe isso aqui
+
+146
+00:10:02.289 --> 00:10:03.159
+bom.
+
+147
+00:10:03.169 --> 00:10:04.900
+E se eu colocar isso tudo dentro
+
+148
+00:10:04.909 --> 00:10:10.919
+da forma direita direita abre parênteses ponto Vírgula
+
+149
+00:10:12.320 --> 00:10:12.950
+quatro
+
+150
+00:10:13.710 --> 00:10:14.659
+de parentes
+
+151
+00:10:16.530 --> 00:10:18.400
+arrasta pra baixo. Tá aqui a forma

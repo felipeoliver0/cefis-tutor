@@ -1,0 +1,178 @@
+WEBVTT
+
+00:00:00.482 --> 00:00:07.233
+- Então, vamos pensar no seguinte. Estamos falando de uma escrituração fiscal digital. E dentro dessa
+
+00:00:07.233 --> 00:00:13.985
+- escrituração fiscal digital, ela refere-se a um conjunto de informações sobre a sua escrituração
+
+00:00:13.985 --> 00:00:20.539
+- fiscal. Então, podemos separar em quatro grandes pilares esse conjunto de informações. Dentro da
+
+00:00:20.539 --> 00:00:27.094
+- planilha está separado, então, por cadastro, movimentação, relatório e configurações. Quando
+
+00:00:27.094 --> 00:00:28.798
+- você pensa em cadastros,
+
+00:00:29.026 --> 00:00:36.729
+- Quais são os cadastros dentro da sua estruturação fiscal que você lembra? Por exemplo, o cadastro
+
+00:00:36.729 --> 00:00:44.658
+- da empresa, do seu contribuinte, o cadastro do fornecedor, o cadastro do produto, o cadastro do cliente,
+
+00:00:44.658 --> 00:00:52.436
+- o cadastro da unidade de medida, o fator de conversão. Tudo que for cadastro está incluído no bloco
+
+00:00:52.436 --> 00:00:53.342
+- zero do seu
+
+00:00:53.570 --> 00:00:59.802
+- cliente lá no SPED Fiscal, ou seja, vou deixar até vermelho aqui para ficar mais fácil para vocês.
+
+00:00:59.802 --> 00:01:05.913
+- Então, se a gente olhar o guia prático, vai ter o bloco 0, que vocês observaram no material que o
+
+00:01:05.913 --> 00:01:12.327
+- bloco 0 é a abertura do SPED Fiscal, ele tem relação com o cadastro, todo e qualquer tipo de cadastro.
+
+00:01:12.327 --> 00:01:18.619
+- Então, se eu tiver dúvidas sobre qualquer tipo de cadastro, a gente vai olhar o bloco 0. E aí dentro
+
+00:01:18.619 --> 00:01:21.342
+- do bloco 0 existem vários outros registros.
+
+00:01:21.858 --> 00:01:28.258
+- Agora, se a gente estiver falando sobre o pilar 2, que é a movimentação, é todos os documentos
+
+00:01:28.258 --> 00:01:35.111
+- comprobatórios que estão na obrigatoriedade de lançamento do espécie fiscal. Nota fiscal eletrônica,
+
+00:01:35.111 --> 00:01:41.575
+- nota de comunicação, CTE, todas as operações que estão na incidência, tanto do ICMS quanto do
+
+00:01:41.575 --> 00:01:48.169
+- IPI. Nós, dentro do guia prático, onde a gente precisa analisar essas informações. Quando a gente
+
+00:01:48.169 --> 00:01:50.238
+- pensa no guia prático, existem
+
+00:01:50.466 --> 00:01:57.209
+- três blocos que vão trazer essa movimentação. O bloco B, o C e o D. O B refere-se a questão que
+
+00:01:57.209 --> 00:02:04.219
+- eu falei para vocês do Distrito Federal, onde existia obrigatoriedade da empresa que esteja no Distrito
+
+00:02:04.219 --> 00:02:10.963
+- Federal lançar o bloco B. O bloco C refere-se ao documento fiscal eletrônico mais utilizado dentro
+
+00:02:10.963 --> 00:02:15.102
+- das operações comerciais, que é a nota fiscal eletrônica.
+
+00:02:15.522 --> 00:02:21.312
+- E o bloco D trata sobre os serviços que estão na incidência do ICMS, como a comunicação e como
+
+00:02:21.312 --> 00:02:27.160
+- o transporte também. Então, todo e qualquer tipo de movimentação, ou seja, de escrituração, de
+
+00:02:27.160 --> 00:02:33.124
+- lançamento de nota, vocês vão estar vendo dentro do bloco B, o C e o D. O B, obviamente, existe uma
+
+00:02:33.124 --> 00:02:38.915
+- particularidade, porém, foi tratada a extinção dessa informação também no Distrito Federal. O
+
+00:02:38.915 --> 00:02:44.126
+- terceiro pilar, quando a gente pensa nos conjuntos de informações, são os relatórios.
+
+00:02:44.226 --> 00:02:49.774
+- Então, a gente tem dentro do espécie fiscal alguns relatórios. Quais são os relatórios? Relatórios
+
+00:02:49.774 --> 00:02:55.322
+- fiscais de apuração de CMS, relatório fiscal de entrada, relatório fiscal de saída, ou seja, aquele
+
+00:02:55.322 --> 00:02:59.390
+- que a gente identificou no material onde tinha a CST, a CFOP, o valor total.
+
+00:02:59.618 --> 00:03:07.058
+- Esses são os registros de entrada e saída. A gente consegue ver um registro total de documentos fiscais
+
+00:03:07.058 --> 00:03:14.709
+- lançados e sua escrituração. As apurações, apuração do CMS, apuração da substituição tributária,
+
+00:03:14.709 --> 00:03:22.149
+- apuração do diferencial de alíquota, apuração do IPI. Então, dentro do SPAD fiscal existem diversas
+
+00:03:22.149 --> 00:03:28.606
+- apurações. E onde estão essas apurações dentro do SPAD fiscal? No bloco E, no bloco G,
+
+00:03:28.706 --> 00:03:35.537
+- no H e no K. O bloco E trata-se por ação do ICMS, da substituição tributária, do diferencial de
+
+00:03:35.537 --> 00:03:42.639
+- alíquota e do IPI. O bloco G, ele fala de um livro sobre o controle do CIAP, que é o controle do ativo
+
+00:03:42.639 --> 00:03:49.673
+- imobilizado. Então, se a sua empresa tem um controle do ativo imobilizado, ela precisa estar lançando
+
+00:03:49.673 --> 00:03:52.446
+- as informações também lá no bloco G.
+
+00:03:53.218 --> 00:04:00.963
+- O H, ele trata o controle de inventário, e o K, o controle de estoque. Então, todos os registros aqui,
+
+00:04:00.963 --> 00:04:08.340
+- que é o E, o G, o H e o K, tem relação com livros fiscais e apurações. O último pilar sobre o
+
+00:04:08.340 --> 00:04:15.274
+- conjunto de informações do SPD está relacionado a configurações. E por que eu relacionei
+
+00:04:15.274 --> 00:04:21.470
+- como configuração? Porque dentro de configurações, a gente tem controles extras
+
+00:04:21.570 --> 00:04:30.398
+- temos encerramento do arquivo e planos de conta. Professora, planos de conta não seriam cadastro? Sim, mas
+
+00:04:30.498 --> 00:04:36.130
+- O plano de contas refere-se a uma configuração do seu sistema. Então, por isso que eu deixei
+
+00:04:36.130 --> 00:04:42.291
+- em configurações. Mas, obviamente, ele também pode entrar no bloco zero, porque estamos referenciando
+
+00:04:42.291 --> 00:04:48.451
+- um cadastro, mas que precisa de configuração. Não que os demais não precisem, mas esse daqui precisa
+
+00:04:48.451 --> 00:04:54.318
+- de um plano de contas para determinadas empresas, são distintas e são diferentes. Por isso que eu
+
+00:04:54.318 --> 00:04:55.902
+- deixei em configurações.
+
+00:04:56.162 --> 00:05:03.103
+- Os encerramentos dos arquivos, vocês não conseguem validar isso, mas no TXT vocês conseguem, porque
+
+00:05:03.103 --> 00:05:10.313
+- existe uma validação que tem um bloco 9 vinculado a todas as totalizações de registros. E os controles
+
+00:05:10.313 --> 00:05:17.726
+- extras, eu falo que é um registro silencioso, porque alguns estados tratam obrigatoriedade, mas outros não.
+
+00:05:17.890 --> 00:05:24.906
+- Então, existem dentro do Bloco 1 vários registros silenciosos, como, por exemplo, o registro de transação
+
+00:05:24.906 --> 00:05:30.774
+- de instituições financeiras sobre o tipo de pagamento do seu contribuinte. Alguns estados
+
+00:05:30.774 --> 00:05:37.279
+- têm a obrigatoriedade, que é o registro 1601, e outras não. Se você não informa o registro 1601,
+
+00:05:37.279 --> 00:05:43.721
+- o programa validador vai validar, porque é uma configuração, não são todos os contribuintes que
+
+00:05:43.721 --> 00:05:46.910
+- estão na obrigatoriedade. Então, se faltar essa
+
+00:05:47.298 --> 00:05:53.862
+- esse parâmetro, isso quer dizer que você pode estar enviando ao Espalho Fiscal sem a informação,
+
+00:05:53.862 --> 00:05:57.566
+- porque você não vinculou a regulamentação do Estado.

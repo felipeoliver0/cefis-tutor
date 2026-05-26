@@ -1,0 +1,773 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.960
+Entendendo o marcap, marcap, um ponto de marcação.
+
+3
+00:00:04.960 --> 00:00:07.759
+Então olha lá, vamos verificar como é que isso funciona.
+
+4
+00:00:07.759 --> 00:00:10.160
+Formação do percentual do preço de venda.
+
+5
+00:00:10.160 --> 00:00:17.679
+Hipoteticamente, o ICMS de 18%, um PIS de 1,65, um COFIS de 7,6 e um lucro de 15% desejado.
+
+6
+00:00:17.679 --> 00:00:20.640
+O preço de venda vai ser 100%.
+
+7
+00:00:20.640 --> 00:00:28.039
+Somando 18 mais 9,25 mais 15, nós vamos ter aqui 57,75.
+
+8
+00:00:28.039 --> 00:00:32.600
+57,75 menos 100% vai nos dar os 42,25.
+
+9
+00:00:32.600 --> 00:00:39.399
+Então eu vou ter o marcap de divisor ou o marcap de multiplicador, tanto faz, um ou outro.
+
+10
+00:00:39.399 --> 00:00:41.359
+Normalmente utilizamos o divisor.
+
+11
+00:00:41.359 --> 00:00:48.960
+Então eu vou pegar os 100 menos os 42,25, que é a diferença de 57,75 menos 100.
+
+12
+00:00:48.960 --> 00:00:51.679
+100 menos 57, coisa de 2,25.
+
+13
+00:00:51.679 --> 00:00:53.159
+Tudo isso dividido por 100.
+
+14
+00:00:53.159 --> 00:00:58.000
+Então eu vou ter o marcap de divisor de 0,5775.
+
+15
+00:00:58.000 --> 00:00:58.020
+Então eu vou ter o marcap de divisor de 0,5775.
+
+16
+00:00:58.020 --> 00:01:01.979
+Se eu quiser o multiplicador, eu vou pegar esse mesmo resultado,
+
+17
+00:01:02.640 --> 00:01:06.939
+um dividido por ele vai me dar 1,7360 multiplicador.
+
+18
+00:01:07.079 --> 00:01:08.579
+É a mesma coisa, um ou outro, tá?
+
+19
+00:01:09.299 --> 00:01:11.939
+Então é assim que nós encontramos o marcap.
+
+20
+00:01:12.019 --> 00:01:13.579
+Ele é perfeito? Não.
+
+21
+00:01:13.840 --> 00:01:14.799
+Ele é bom? É.
+
+22
+00:01:15.120 --> 00:01:17.760
+É um mecanismo interessante de se calcular o preço? É.
+
+23
+00:01:18.140 --> 00:01:20.180
+Não é o único, temos tantos outros.
+
+24
+00:01:20.480 --> 00:01:22.019
+Mas esse aqui funciona bem.
+
+25
+00:01:22.019 --> 00:01:27.819
+Aí eu pergunto, será que os clientes de vocês sabem calcular o preço de venda?
+
+26
+00:01:28.019 --> 00:01:30.019
+Será que nós estamos acompanhando esses clientes?
+
+27
+00:01:30.019 --> 00:01:32.019
+Porque ele pode estar vendendo com prejuízo.
+
+28
+00:01:32.019 --> 00:01:34.019
+Esse é o problema.
+
+29
+00:01:34.019 --> 00:01:40.019
+Então, é esse o tipo de serviço que nós temos que prestar a ele, orientá-lo.
+
+30
+00:01:40.019 --> 00:01:46.019
+É que a gente está tão preocupado em preencher a obrigação acessória, que isso aqui se torna secundário.
+
+31
+00:01:46.019 --> 00:01:50.019
+Vocês estão vendo a importância de eu ter um balancete, de eu ter contabilidade, de eu ter o controle de estoque,
+
+32
+00:01:50.019 --> 00:01:55.019
+que é um dos pontos mais complexos para um escritório de contabilidade monitorar, é o controle de estoque.
+
+33
+00:01:55.019 --> 00:01:56.640
+Ou seja, quanto simples é isso?
+
+34
+00:01:56.640 --> 00:02:00.640
+Ou seja, quanto simples nacional, quantos MEI não vende vento?
+
+35
+00:02:00.640 --> 00:02:03.640
+Como é que vende vento? Vende aquilo que não comprou.
+
+36
+00:02:03.640 --> 00:02:08.639
+Comprar ele comprou, mas não registrou na contabilidade, não registrou oficial.
+
+37
+00:02:08.639 --> 00:02:11.639
+Então, quando ele vende, ele vende com nota e está vendendo vento.
+
+38
+00:02:11.639 --> 00:02:13.639
+Está vendendo o que não comprou, entendeu?
+
+39
+00:02:13.639 --> 00:02:14.639
+Tem muito.
+
+40
+00:02:14.639 --> 00:02:17.639
+A tendência com a reforma é isso se ajustar.
+
+41
+00:02:17.639 --> 00:02:19.639
+Então, olha só.
+
+42
+00:02:19.639 --> 00:02:26.639
+O comerciante adquiriu uma máquina para revenda no custo líquido de R$4.500.
+
+43
+00:02:26.639 --> 00:02:35.639
+Foram incorporados a esse produto mão de obra no valor de R$2,5 e os encargos sociais que correspondem a R$36,25.
+
+44
+00:02:35.639 --> 00:02:38.639
+Quer os R$28 de folha, mais R$8 de fundo de garantia e tal?
+
+45
+00:02:38.639 --> 00:02:39.639
+Perfeito.
+
+46
+00:02:39.639 --> 00:02:48.639
+O proprietário precisa da sua ajuda para saber qual preço deverá vender essa máquina para obter um lucro bruto de 20% sobre o faturamento.
+
+47
+00:02:48.639 --> 00:02:53.639
+Os impostos dissidentes sobre o valor agregado são ICMS, PIS e COFINS.
+
+48
+00:02:53.639 --> 00:02:54.639
+Perfeito?
+
+49
+00:02:54.639 --> 00:02:55.639
+Perfeito.
+
+50
+00:02:55.639 --> 00:02:58.639
+Para definir o preço de venda sem comprometer a lucratividade.
+
+51
+00:02:58.639 --> 00:03:05.639
+Ou seja, se eu quero um lucro de 20%, a primeira coisa que nós temos que saber é quanto custou.
+
+52
+00:03:05.639 --> 00:03:10.639
+Se eu não souber o meu custo, ou se o meu custo estiver errado, está tudo errado.
+
+53
+00:03:10.639 --> 00:03:12.639
+Minha margem está errada, meus impostos estão errados.
+
+54
+00:03:12.639 --> 00:03:14.639
+Então, olha a importância do custo.
+
+55
+00:03:14.639 --> 00:03:21.639
+Lembrando, quando eu sou um comércio ou indústria, todos os impostos que eu não me recupero vão para o custo.
+
+56
+00:03:21.639 --> 00:03:24.639
+E todas as despesas inerentes a esse produto.
+
+57
+00:03:24.639 --> 00:03:26.639
+Esse produto também vai para o custo.
+
+58
+00:03:26.639 --> 00:03:32.639
+Frete, capatazia, imposto de importação, seguro.
+
+59
+00:03:32.639 --> 00:03:37.639
+Tudo isso que eu estou pagando para trazer a mercadoria para revenda ou produto para fabricação vai para o custo.
+
+60
+00:03:37.639 --> 00:03:39.639
+Será que eu estou levando tudo isso para o custo?
+
+61
+00:03:39.639 --> 00:03:40.639
+Correto?
+
+62
+00:03:40.639 --> 00:03:41.639
+É custo isso.
+
+63
+00:03:41.639 --> 00:03:43.639
+Então, eu preciso saber quanto custou.
+
+64
+00:03:43.639 --> 00:03:45.639
+Aí nós vemos para cá.
+
+65
+00:03:45.639 --> 00:03:46.639
+Olha lá.
+
+66
+00:03:46.639 --> 00:03:50.639
+O preço da máquina é R$4.500.
+
+67
+00:03:50.639 --> 00:03:53.639
+Eu tenho mão de obra de R$2.500.
+
+68
+00:03:53.639 --> 00:03:58.639
+Os encargos R$36.200 sobre os R$2.500.
+
+69
+00:03:58.639 --> 00:04:01.639
+Então, eu tenho R$905.
+
+70
+00:04:01.639 --> 00:04:04.639
+Ou seja, eu tenho meu custo fundamental.
+
+71
+00:04:04.639 --> 00:04:06.639
+Eu sei que o meu custo é R$7.905.
+
+72
+00:04:06.639 --> 00:04:10.639
+É o primeiro ponto para formar o preço de venda, é saber quanto custou.
+
+73
+00:04:10.639 --> 00:04:13.639
+Se eu sei quanto custou, eu sei elaborar meu preço de venda.
+
+74
+00:04:13.639 --> 00:04:14.639
+Perfeito.
+
+75
+00:04:14.639 --> 00:04:15.639
+Aí nós vemos para cá.
+
+76
+00:04:15.639 --> 00:04:16.639
+Qual é o preço de venda?
+
+77
+00:04:16.639 --> 00:04:17.639
+100%.
+
+78
+00:04:17.639 --> 00:04:19.639
+Eu tenho uma alíquota de CMS de R$18.
+
+79
+00:04:19.639 --> 00:04:21.639
+Eu tenho um PIS de R$1.65.
+
+80
+00:04:21.639 --> 00:04:22.639
+Eu tenho um COFIN de R$7.6.
+
+81
+00:04:22.639 --> 00:04:26.639
+Eu tenho um lucro desejado de R$20.
+
+82
+00:04:26.639 --> 00:04:28.639
+Então, isso a gente obtém de qualquer empresário.
+
+83
+00:04:28.639 --> 00:04:30.639
+Essas informações.
+
+84
+00:04:30.639 --> 00:04:33.639
+O meu total R$47.25.
+
+85
+00:04:33.639 --> 00:04:36.639
+R$18 mais R$1.65 mais R$7.6 mais R$20.
+
+86
+00:04:36.639 --> 00:04:39.639
+E fica fácil da gente alterar o preço.
+
+87
+00:04:39.639 --> 00:04:41.639
+Se precisar fazer uma promoção.
+
+88
+00:04:41.639 --> 00:04:43.639
+Se precisar comparar com o do concorrente.
+
+89
+00:04:43.639 --> 00:04:45.639
+Aplicando o markup.
+
+90
+00:04:45.639 --> 00:04:47.639
+Qual é o markup?
+
+91
+00:04:47.639 --> 00:04:50.639
+100 menos R$47.25.
+
+92
+00:04:50.639 --> 00:04:54.639
+Eu vou ter um markup divisor de R$0,5275.
+
+93
+00:04:54.639 --> 00:04:55.639
+Sobre o quê?
+
+94
+00:04:55.639 --> 00:04:57.639
+Sobre o custo.
+
+95
+00:04:57.639 --> 00:05:01.639
+Então, o custo dividido pelo markup que vai me dar o meu preço de venda.
+
+96
+00:05:01.639 --> 00:05:02.639
+Olha lá.
+
+97
+00:05:02.639 --> 00:05:03.639
+Quanto me custou?
+
+98
+00:05:03.639 --> 00:05:05.639
+R$7,905.
+
+99
+00:05:05.639 --> 00:05:06.639
+Está lá.
+
+100
+00:05:06.639 --> 00:05:07.639
+Meu custo.
+
+101
+00:05:07.639 --> 00:05:11.639
+Markup divisor R$0,5275.
+
+102
+00:05:11.639 --> 00:05:18.639
+Portanto, o meu PV, o meu preço de venda será de R$14,985,78.
+
+103
+00:05:18.639 --> 00:05:19.639
+Olha que bacana.
+
+104
+00:05:19.639 --> 00:05:20.639
+Quem está pagando?
+
+105
+00:05:20.639 --> 00:05:21.639
+O consumidor.
+
+106
+00:05:21.639 --> 00:05:22.639
+Pagando o quê?
+
+107
+00:05:22.639 --> 00:05:24.639
+ICMS, PIS e COFINS.
+
+108
+00:05:24.639 --> 00:05:26.639
+E eu quero ter uma margem de lucro de R$20.
+
+109
+00:05:26.639 --> 00:05:30.639
+Então, uma máquina que me custou R$8, eu estou vendendo por quase R$15.
+
+110
+00:05:30.639 --> 00:05:32.639
+Quase o dobro, gente.
+
+111
+00:05:32.639 --> 00:05:35.639
+Joga isso no veículo de R$120 mil que a gente paga hoje.
+
+112
+00:05:35.639 --> 00:05:37.639
+O veículo mediano.
+
+113
+00:05:37.639 --> 00:05:39.639
+Você paga R$120 mil.
+
+114
+00:05:39.639 --> 00:05:41.639
+Ou seja, poderia custar R$60.
+
+115
+00:05:41.639 --> 00:05:42.639
+R$70.
+
+116
+00:05:42.639 --> 00:05:44.639
+No máximo, um bom veículo.
+
+117
+00:05:44.639 --> 00:05:46.639
+Hoje você paga R$120.
+
+118
+00:05:46.639 --> 00:05:47.639
+Perfeito.
+
+119
+00:05:47.639 --> 00:05:48.639
+Então, você tem esse markup.
+
+120
+00:05:48.639 --> 00:05:50.639
+Esse markup.
+
+121
+00:05:50.639 --> 00:05:52.639
+Aí nós temos a evidenciação do lucro.
+
+122
+00:05:52.639 --> 00:06:00.639
+Se o preço de venda é R$14,985,75, eu vou tirar o ICMS, que é 18%.
+
+123
+00:06:00.639 --> 00:06:05.639
+Vou tirar o meu PIS, vou tirar o meu COFINS, vou tirar o meu CMV, o meu custo.
+
+124
+00:06:05.639 --> 00:06:08.639
+Lucro R$3,245,67.
+
+125
+00:06:08.639 --> 00:06:10.639
+Está correto?
+
+126
+00:06:10.639 --> 00:06:12.639
+Estava no passado.
+
+127
+00:06:12.639 --> 00:06:13.639
+Hoje não mais.
+
+128
+00:06:13.639 --> 00:06:14.639
+Por quê?
+
+129
+00:06:14.639 --> 00:06:16.639
+Majoração do lucro.
+
+130
+00:06:16.639 --> 00:06:19.639
+Eu tenho que excluir o ICMS da base de cálculo do PIS e do COFINS.
+
+131
+00:06:19.639 --> 00:06:20.639
+Entendeu?
+
+132
+00:06:20.639 --> 00:06:22.639
+Antigamente era assim que nós fazíamos.
+
+133
+00:06:22.639 --> 00:06:27.639
+Depois da tese do século para cá, eu tenho que excluir o ICMS da base de cálculo do PIS e do COFINS.
+
+134
+00:06:27.639 --> 00:06:31.639
+Graças a Deus essa confusão acaba toda em 2032.
+
+135
+00:06:31.639 --> 00:06:32.639
+Muito bem.
+
+136
+00:06:32.639 --> 00:06:34.639
+Vamos tirar o preço de venda lá do ICMS.
+
+137
+00:06:34.639 --> 00:06:40.639
+Tenho lá o valor da máquina, a mão de obra, os encargos, o custo.
+
+138
+00:06:40.639 --> 00:06:42.639
+Preço de venda R$100.
+
+139
+00:06:42.639 --> 00:06:45.639
+Alíquota do ICMS, alíquota do PIS, alíquota da COFINS.
+
+140
+00:06:45.639 --> 00:06:47.639
+Lucro desejado.
+
+141
+00:06:47.639 --> 00:06:49.639
+Total R$47,25.
+
+142
+00:06:49.639 --> 00:06:51.639
+Markup de divisor.
+
+143
+00:06:51.639 --> 00:06:53.639
+Aplico sobre ele.
+
+144
+00:06:53.639 --> 00:07:01.639
+Vai me dar um preço de venda de R$14,985,78.
+
+145
+00:07:01.639 --> 00:07:05.639
+Embutido todos os tributos e mais a minha margem de lucro.
+
+146
+00:07:05.639 --> 00:07:07.639
+É assim que a gente trabalha.
+
+147
+00:07:07.639 --> 00:07:08.639
+No novo cálculo.
+
+148
+00:07:08.639 --> 00:07:11.639
+Preço de venda R$14,985.
+
+149
+00:07:11.639 --> 00:07:14.639
+Valor do ICMS R$2,615.
+
+150
+00:07:14.639 --> 00:07:18.639
+Aí sim o PIS, já tirando o ICMS e o COFINS.
+
+151
+00:07:18.639 --> 00:07:23.639
+O custo R$7,905 e o lucro R$2,906.
+
+152
+00:07:23.639 --> 00:07:25.639
+Ou seja, olha lá o PIS.
+
+153
+00:07:25.639 --> 00:07:28.639
+100% menos 18, 0,82.
+
+154
+00:07:28.639 --> 00:07:31.639
+1,65 vezes 0,82.
+
+155
+00:07:31.639 --> 00:07:32.639
+Calculo.
+
+156
+00:07:32.639 --> 00:07:34.639
+Encontrei lá o PIS e o COFINS.
+
+157
+00:07:34.639 --> 00:07:36.639
+Foi assim que nós encontramos.
+
+158
+00:07:36.639 --> 00:07:41.639
+Tirando o ICMS da base de cálculo do PIS e COFINS.
+
+159
+00:07:41.639 --> 00:07:43.639
+Então meu lucro bruto R$2,900.
+
+160
+00:07:44.639 --> 00:07:46.639
+R$2,906.
+
+161
+00:07:46.639 --> 00:07:47.639
+Perfeito?
+
+162
+00:07:47.639 --> 00:07:48.639
+Fazendo um cheque.
+
+163
+00:07:48.639 --> 00:07:51.639
+R$14,528,58 que é o meu preço de venda.
+
+164
+00:07:51.639 --> 00:07:53.639
+Vezes 20% que é a margem que eu queria.
+
+165
+00:07:53.639 --> 00:07:55.639
+R$2,905,72.
+
+166
+00:07:55.639 --> 00:07:57.639
+Deu uma diferencinha de centavos.
+
+167
+00:07:57.639 --> 00:07:59.639
+Que é arredondamento.
+
+168
+00:07:59.639 --> 00:08:00.639
+Entendeu?
+
+169
+00:08:00.639 --> 00:08:03.639
+Então esse é meu lucro por máquina.
+
+170
+00:08:03.639 --> 00:08:07.639
+Tendo uma mão de obra de R$2,5 e encargo de R$36,20.
+
+171
+00:08:07.639 --> 00:08:10.639
+É isso que nós temos que cuidar do nosso cliente, né?
+
+172
+00:08:10.639 --> 00:08:11.639
+Perfeito?
+
+173
+00:08:11.639 --> 00:08:13.639
+Agora com a reforma tributária.
+
+174
+00:08:13.639 --> 00:08:15.639
+Nós não vamos ter mais PIS.
+
+175
+00:08:15.639 --> 00:08:16.639
+Não vamos ter mais COFINS.
+
+176
+00:08:16.639 --> 00:08:18.639
+Não vamos ter mais ICMS.
+
+177
+00:08:18.639 --> 00:08:25.639
+Significa que eu não posso aplicar o IVA os 28% em cima do meu PV.
+
+178
+00:08:25.639 --> 00:08:28.639
+R$14,985 do meu preço de venda.
+
+179
+00:08:28.639 --> 00:08:29.639
+Não.
+
+180
+00:08:29.639 --> 00:08:31.639
+Se eu fizer isso eu estou duplicando.
+
+181
+00:08:31.639 --> 00:08:33.639
+Não serei competitivo.
+
+182
+00:08:33.639 --> 00:08:37.639
+E vai ter muitos empresários que vão pensar dessa maneira.
+
+183
+00:08:37.639 --> 00:08:39.639
+E vão chegar a vocês e vão pedir.
+
+184
+00:08:39.639 --> 00:08:42.639
+Não, então eu vou vender por R$14 e vai ter mais R$28 de IVA.
+
+185
+00:08:43.639 --> 00:08:44.639
+Vai dar quanto?
+
+186
+00:08:44.639 --> 00:08:46.639
+Vai dar R$16, R$17, R$18?
+
+187
+00:08:46.639 --> 00:08:48.639
+Não vai vender.
+
+188
+00:08:48.639 --> 00:08:51.639
+Portanto eu vou ter que expurgar esses tributos.
+
+189
+00:08:51.639 --> 00:08:55.639
+Então se eu não calcular, eu vou ter que calcular para poder tomar a decisão.
+
+190
+00:08:55.639 --> 00:08:57.639
+Eu preciso saber quanto custou.
+
+191
+00:08:57.639 --> 00:08:58.639
+Qual é a minha margem de lucro.
+
+192
+00:08:58.639 --> 00:08:59.639
+Ponto.
+
+193
+00:08:59.639 --> 00:09:02.639
+Se eu não tiver essas informações eu estou no escuro.
+
+194
+00:09:02.639 --> 00:09:03.639
+Entenderam?

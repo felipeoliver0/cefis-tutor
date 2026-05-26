@@ -1,0 +1,277 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.919
+Marketing e território diferente um outro caso para vocês então quando a operação cruza fronteiras
+
+3
+00:00:07.919 --> 00:00:13.560
+estaduais nós temos uma dificuldade porque a informação pode ter se perdido o ponto de
+
+4
+00:00:13.560 --> 00:00:20.440
+atenção é o cenário do Marketplace pode acontecer esse tipo de problema simplesmente por uma
+
+5
+00:00:20.440 --> 00:00:26.800
+plataforma ter classificado cadastrado o adquirente de forma errada a gente pode estar enviando na
+
+6
+00:00:26.800 --> 00:00:32.799
+DIMP uma informação diferente então pensa o seguinte uma plataforma digital sediada no estado
+
+7
+00:00:32.799 --> 00:00:40.359
+de São Paulo que intermedia então serviços para prestadores localizados em três estados diferentes
+
+8
+00:00:40.359 --> 00:00:48.579
+olha a complexidade o cliente final faz o pagamento único na plataforma e aí como que a gente envia a
+
+9
+00:00:48.579 --> 00:00:54.759
+DIMP né quais são os pontos críticos qual que é o desafio da DIMP a DIMP ela respeita a parte
+
+10
+00:00:54.759 --> 00:00:56.759
+territorial então ela é especializada em serviços de serviços de serviços de serviços de serviços de
+
+11
+00:00:56.759 --> 00:01:03.840
+DIMP ela espalha as informações por unidade federativa cada estado deve receber apenas os
+
+12
+00:01:03.840 --> 00:01:11.879
+dados das transações do seu próprio território o erro comum é a plataforma consolidar tudo em
+
+13
+00:01:11.879 --> 00:01:20.819
+uma única unidade federativa da sede por exemplo no estado de São Paulo ou misturar os estados se
+
+14
+00:01:20.819 --> 00:01:25.560
+a plataforma não estiver com a conciliação e os dados corretos a gente pode ter uma diferença
+
+15
+00:01:25.560 --> 00:01:26.640
+muito grande
+
+16
+00:01:27.560 --> 00:01:31.859
+então para deixar mais claro para vocês o que pode acontecer numa autuação e uma
+
+17
+00:01:31.859 --> 00:01:40.459
+antiquação consolidação indevida do Market Place e múltiplas informações em estados é uma
+
+18
+00:01:40.459 --> 00:01:45.680
+usar de consolidação consolidação e centralização tá então quando a plataforma ela consolida as
+
+19
+00:01:45.680 --> 00:01:52.859
+vendas sem separar a unidade federativa isso pode gerar intimação para o seu cliente a plataforma
+
+20
+00:01:52.859 --> 00:01:55.379
+ela consolida em uma única UF
+
+21
+00:01:56.760 --> 00:02:02.739
+quando envia a DIMP, deveria ser separado, só que não foi, ela enviou só para São Paulo.
+
+22
+00:02:02.859 --> 00:02:09.360
+O que vai acontecer? Autuação, autuação e autuação. Promissão.
+
+23
+00:02:10.060 --> 00:02:12.960
+Então, existe um risco multiplicador, por quê?
+
+24
+00:02:13.919 --> 00:02:20.800
+Os três estados podem exigir a intimação e podem exigir que o seu contribuinte, então,
+
+25
+00:02:20.800 --> 00:02:27.860
+não trate quais foram as transações e valide as informações que foram enviadas na DIMP.
+
+26
+00:02:28.259 --> 00:02:34.180
+Então, isso pode acontecer por falta de cadastro, de cadastro errado nas plataformas digitais.
+
+27
+00:02:35.080 --> 00:02:40.219
+E qual é a tríade de conhecimento que você precisa ter para cruzar essas informações?
+
+28
+00:02:41.020 --> 00:02:43.780
+DIMP, XML e conciliação.
+
+29
+00:02:44.419 --> 00:02:50.780
+Essa é a tríade que vai, então, salvar o seu contribuinte de qualquer tipo de intimação e autuação.
+
+30
+00:02:50.800 --> 00:02:55.759
+Na DIMP, a gente já sabe que não é vocês que são responsáveis,
+
+31
+00:02:55.879 --> 00:02:59.639
+mas sim os intermediadores financeiros e as instituições financeiras.
+
+32
+00:03:00.259 --> 00:03:06.860
+Nesse caso, estou falando para você que é um contribuinte, um comércio, uma indústria e uma prestação de serviço.
+
+33
+00:03:07.439 --> 00:03:14.780
+Aqui, nós estamos tratando uma prova do pagamento efetivo, ou seja, dados enviados pelos bancos e os adquirentes.
+
+34
+00:03:15.259 --> 00:03:18.819
+A visão financeira da operação, o que de fato entrou.
+
+35
+00:03:18.819 --> 00:03:23.020
+No XML, é a fonte interna, entra dentro da área fiscal.
+
+36
+00:03:23.580 --> 00:03:26.039
+Prova da operação comercial.
+
+37
+00:03:26.879 --> 00:03:30.120
+Meio de pagamento declarado dentro do documento fiscal.
+
+38
+00:03:30.439 --> 00:03:32.280
+Tipo de pagamento dentro da TAG.
+
+39
+00:03:33.080 --> 00:03:35.819
+Nós vamos trazer uma autodeclaração do contribuinte.
+
+40
+00:03:37.080 --> 00:03:38.900
+Vira-se como se fosse uma confissão de débito.
+
+41
+00:03:39.000 --> 00:03:43.759
+Na verdade, o XML, agora ele passa a ser uma confissão de débito, mas na verdade ele sempre foi.
+
+42
+00:03:44.280 --> 00:03:48.759
+Como ele é a principal obrigação acessória, é a forma que você está demonstrando para o fiscal,
+
+43
+00:03:48.819 --> 00:03:50.599
+que existe uma incidência aqui.
+
+44
+00:03:51.180 --> 00:03:52.699
+Então, o que foi declarado?
+
+45
+00:03:53.360 --> 00:03:56.979
+Conciliação. Prova real. Aonde? Contabilidade.
+
+46
+00:03:57.539 --> 00:04:01.699
+Prova do caminho do dinheiro. O vínculo entre venda e recebimento.
+
+47
+00:04:02.439 --> 00:04:03.199
+Conciliação.
+
+48
+00:04:04.319 --> 00:04:07.099
+Justificativa de divergências temporais.
+
+49
+00:04:07.240 --> 00:04:10.360
+É ali que a gente vai encontrar qualquer tipo de problema.
+
+50
+00:04:10.979 --> 00:04:17.579
+Se as intimações estão acontecendo na sua empresa, é porque a triade não está acontecendo.
+
+51
+00:04:17.579 --> 00:04:17.660
+Por quê?
+
+52
+00:04:17.660 --> 00:04:22.819
+Porque a DIMP mais documento é igual a conciliação contábil.
+
+53
+00:04:23.040 --> 00:04:26.000
+Se a conciliação contábil, ela conseguiu chegar no valor,
+
+54
+00:04:26.139 --> 00:04:29.480
+isso quer dizer que a gente já tinha, então, como mitigar o risco.
+
+55
+00:04:30.399 --> 00:04:35.399
+E aqui entra-se, então, a matriz de gestão de risco,
+
+56
+00:04:35.720 --> 00:04:39.120
+aonde a gente levanta o problema e começa a trazer as prevenções.
+
+57
+00:04:39.879 --> 00:04:42.720
+Quem são as pessoas envolvidas, então, na entrega da DIMP?
+
+58
+00:04:42.720 --> 00:04:47.120
+O fiscal, que responde quando aparece qualquer tipo de divergência,
+
+59
+00:04:47.660 --> 00:04:49.399
+de omissão ou até mesmo de cruzamento.
+
+60
+00:04:50.360 --> 00:04:54.660
+A contabilidade, porque, na verdade, a gente passa uma conciliação de contas de receita
+
+61
+00:04:54.660 --> 00:04:56.959
+e ajuda a aprovar, de fato, o recebido.
+
+62
+00:04:57.500 --> 00:05:01.980
+O financeiro, que é o dono do ouro, é o dono do recebimento, de fato.
+
+63
+00:05:02.639 --> 00:05:06.279
+Então, ele também está envolvido, ele que lida com os extratos também bancários.
+
+64
+00:05:07.220 --> 00:05:11.160
+O TI e os sistemas e as integrações, que garantem, então, que as emissões,
+
+65
+00:05:11.160 --> 00:05:16.300
+as estruturas dos nossos documentos fiscais, a estrutura do envio do arquivo magnético da DIMP
+
+66
+00:05:16.300 --> 00:05:17.579
+esteja correta, seguindo.
+
+67
+00:05:17.660 --> 00:05:23.019
+E o comercial, que são as operações com marketplace, split, vouchers,
+
+68
+00:05:23.100 --> 00:05:25.939
+que estão também intermediando as operações.
+
+69
+00:05:26.560 --> 00:05:29.800
+Então, veja que são muitas pessoas envolvidas.
+
+70
+00:05:30.300 --> 00:05:36.300
+São vários braços trazendo, então, o contexto da entrega da obrigação acessória.

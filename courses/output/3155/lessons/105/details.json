@@ -1,0 +1,33 @@
+{
+  "id": 476020,
+  "title": "Administração de aplicações financeiras",
+  "position": 105,
+  "duration": 38,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cbaa8d13-234e-4eda-b3b9-f62e1d8ca2eb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbaa8d13-234e-4eda-b3b9-f62e1d8ca2eb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbaa8d13-234e-4eda-b3b9-f62e1d8ca2eb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbaa8d13-234e-4eda-b3b9-f62e1d8ca2eb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbaa8d13-234e-4eda-b3b9-f62e1d8ca2eb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

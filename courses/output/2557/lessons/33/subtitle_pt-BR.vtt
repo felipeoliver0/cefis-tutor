@@ -1,0 +1,369 @@
+WEBVTT
+
+1
+00:00:00.270 --> 00:00:03.640
+Vamos agora falar pessoal das situações do documento.
+
+2
+00:00:03.650 --> 00:00:07.400
+Vocês lembram que eu falei pra vocês que o documento pode ser autorizado,
+
+3
+00:00:07.409 --> 00:00:10.800
+pode ser denegado e pode ser também rejeitado, né?
+
+4
+00:00:10.810 --> 00:00:11.880
+O que que significa?
+
+5
+00:00:11.890 --> 00:00:15.899
+Sim, Na prática, cada situação dessa vamos ver com cuidado, Tá bom,
+
+6
+00:00:16.218 --> 00:00:20.149
+o documento autorizado é aquele documento que está tudo certo com ele.
+
+7
+00:00:20.159 --> 00:00:22.349
+Então ele tá salvo no banco de dados.
+
+8
+00:00:22.358 --> 00:00:24.708
+Você faz tanto que se você for fazer
+
+9
+00:00:24.718 --> 00:00:27.628
+uma consulta esse documento vai retornar pra você.
+
+10
+00:00:27.638 --> 00:00:31.749
+Tá bom. Então ele é plenamente válido para todas as operações. Tá bom?
+
+11
+00:00:31.759 --> 00:00:34.098
+Você pode fazer essa operação de mercadoria.
+
+12
+00:00:34.109 --> 00:00:37.889
+Aí tá bom essa validade, uma validade meramente formal.
+
+13
+00:00:37.900 --> 00:00:40.889
+Se o documento ele acobertar uma operação de fraude, um fisco,
+
+14
+00:00:40.900 --> 00:00:44.650
+no momento da autorização de uso, ele não homologa aquela operação.
+
+15
+00:00:44.659 --> 00:00:46.529
+Ele apenas autoriza o uso do documento, né?
+
+16
+00:00:46.540 --> 00:00:51.130
+Se o documento tiver sendo usado de má fé, né, ele pode sofrer todas as sanções.
+
+17
+00:00:51.139 --> 00:00:55.709
+Aí que o Fisco tem a sua disposição pra aplicar no contribuinte? Tá? Então,
+
+18
+00:00:56.090 --> 00:00:58.299
+é um documento válido para as operações.
+
+19
+00:00:58.310 --> 00:01:02.939
+O contribuinte pode imprimir o DANF no momento da autorização de uso.
+
+20
+00:01:02.950 --> 00:01:06.339
+Ele recebe o número do protocolo de autorização, né?
+
+21
+00:01:06.349 --> 00:01:10.260
+Esse número do protocolo de autorização é o número de autorização que a Sefaz
+
+22
+00:01:10.269 --> 00:01:11.760
+te entrega para comprovar que esse documento
+
+23
+00:01:11.845 --> 00:01:14.535
+está autorizado e esse número pessoal,
+
+24
+00:01:14.544 --> 00:01:16.214
+ele vai impresso no DANF, né?
+
+25
+00:01:16.224 --> 00:01:18.934
+Então o número do protocolo de autorização pode
+
+26
+00:01:18.944 --> 00:01:21.095
+imprimir o DANF e pode ser cancelado,
+
+27
+00:01:21.105 --> 00:01:21.214
+né?
+
+28
+00:01:21.224 --> 00:01:21.654
+O documento?
+
+29
+00:01:21.665 --> 00:01:23.974
+Uma vez autorizado, ele pode ser cancelado ali,
+
+30
+00:01:23.985 --> 00:01:25.495
+atendendo as regras de cancelamento.
+
+31
+00:01:25.504 --> 00:01:27.514
+Conforme nós vamos ver daqui a pouco tá bom.
+
+32
+00:01:28.959 --> 00:01:33.449
+Outra situação do documento é o documento denegado, tá o documento delegado.
+
+33
+00:01:33.459 --> 00:01:36.930
+Ele também é salvo no banco de dados da C, faz, ele entra pro banco de dados,
+
+34
+00:01:36.940 --> 00:01:38.449
+porque a C faz.
+
+35
+00:01:38.459 --> 00:01:42.529
+Tem conhecimento que essa operação eh foi solicitada pelo contribuinte,
+
+36
+00:01:42.540 --> 00:01:43.769
+mas não foi autorizado.
+
+37
+00:01:43.779 --> 00:01:46.129
+Tá bom, Então o delegado, ele é.
+
+38
+00:01:46.139 --> 00:01:49.010
+Ao contrário da autorização, ele o Fisco falou pra você Olha,
+
+39
+00:01:49.019 --> 00:01:53.769
+essa operação não pode ocorrer, Esse documento não está autorizado.
+
+40
+00:01:53.779 --> 00:01:57.750
+Então, isso é salvo do banco de dados da Sefaz E uma observação importante?
+
+41
+00:01:58.050 --> 00:02:00.319
+Esse erro não é passível de correção, né?
+
+42
+00:02:00.330 --> 00:02:03.699
+Porque já houve a tentativa e naquele momento tinha aquela
+
+43
+00:02:03.709 --> 00:02:07.629
+irregularidade E isso foi registrado com esse documento aqui.
+
+44
+00:02:07.639 --> 00:02:11.860
+Tá bom, então ele é inválido para operações. Tá?
+
+45
+00:02:11.869 --> 00:02:16.059
+Então, não vou não pode usar esse documento pra acobertar nenhuma operação.
+
+46
+00:02:16.070 --> 00:02:20.460
+Outra coisa não pode imprimir o DANF porque o documento ele não está autorizado. Tá?
+
+47
+00:02:20.470 --> 00:02:24.539
+Então não pode imprimir o DANF tá, mas outra coisa é uma curiosidade,
+
+48
+00:02:24.550 --> 00:02:26.399
+mas cê faz mesmo quando de nega
+
+49
+00:02:27.190 --> 00:02:29.679
+ela te entrega o número do protocolo de denegação?
+
+50
+00:02:29.690 --> 00:02:32.399
+Ela fala Olha, esse documento não está autorizado tá,
+
+51
+00:02:32.410 --> 00:02:36.520
+mas você tem o protocolo que você tentou autorização de uso desse documento?
+
+52
+00:02:36.529 --> 00:02:40.720
+Tá bom, esse é um documento denegado, tá importantíssimo.
+
+53
+00:02:40.729 --> 00:02:41.960
+A gente tem em mente É isso aqui,
+
+54
+00:02:41.970 --> 00:02:44.199
+oh inválido para operações você não pode
+
+55
+00:02:44.210 --> 00:02:46.440
+fazer nenhuma operação com esse documento.
+
+56
+00:02:46.449 --> 00:02:48.940
+Tá bom porque ele não foi autorizado, tá!
+
+57
+00:02:49.539 --> 00:02:53.470
+E a última situação é a situação de rejeitado, né?
+
+58
+00:02:53.479 --> 00:02:56.869
+O documento ele tinha algum erro formal.
+
+59
+00:02:56.880 --> 00:02:59.630
+Ele não satisfez alguma regra de validação,
+
+60
+00:02:59.639 --> 00:03:03.229
+esse documento ele está com a assinatura inválida?
+
+61
+00:03:03.240 --> 00:03:07.350
+Esse documento está com esquema x ML, ou seja, com layout inválido, né?
+
+62
+00:03:07.360 --> 00:03:10.850
+E isso causa uma rejeição é um erro formal no arquivo,
+
+63
+00:03:10.860 --> 00:03:13.830
+por isso ele não entra no banco de dados que cê faz Tá bom,
+
+64
+00:03:13.839 --> 00:03:17.649
+Então não tem no banco de dados que você faz mais uma diferença,
+
+65
+00:03:17.960 --> 00:03:21.770
+ele pode corrigir o erro enviar o arquivo novamente.
+
+66
+00:03:21.779 --> 00:03:23.809
+Lembra daquele exemplo que eu dei pra vocês de
+
+67
+00:03:23.820 --> 00:03:26.869
+que o preço unitário do produto é cinco?
+
+68
+00:03:26.880 --> 00:03:30.529
+E e o contribuinte tá vendendo duas unidades desse produto de cinco reais?
+
+69
+00:03:30.539 --> 00:03:33.050
+Então, o preço tem que ser dez reais, né?
+
+70
+00:03:33.059 --> 00:03:35.059
+Digamos que por um erro o contribuinte, pois,
+
+71
+00:03:35.070 --> 00:03:37.529
+que o preço desse produto era oito reais, né?
+
+72
+00:03:37.539 --> 00:03:41.669
+A conta do e cinco não dá oito. Então tá errado. Esse arquivo foi rejeitado,
+
+73
+00:03:41.970 --> 00:03:43.539
+mas pode ser corrigido.
+
+74
+00:03:43.550 --> 00:03:46.460
+Então eu posso entrar nesse mesmo arquivo constatar aí mesmo oh,
+
+75
+00:03:46.470 --> 00:03:47.740
+coloquei aqui o valor errado.
+
+76
+00:03:47.750 --> 00:03:49.339
+Eu vou trocar de oito pra dez,
+
+77
+00:03:49.350 --> 00:03:53.160
+aí bota ali no valor dez e envia o mesmo arquivo novamente.
+
+78
+00:03:53.169 --> 00:03:57.380
+Então, esse arquivo, aqui, ele tá passível de ser corrigido, tá bom.
+
+79
+00:03:57.389 --> 00:03:59.279
+Diferente das outras situações.
+
+80
+00:03:59.740 --> 00:04:02.990
+O documento rejeitado, ele é inválido para as operações, né?
+
+81
+00:04:03.000 --> 00:04:07.630
+Você não pode realizar nenhuma operação com o documento que foi rejeitado.
+
+82
+00:04:07.639 --> 00:04:12.029
+Por isso, ele não tem DANF, tá e não tem protocolo de autorização.
+
+83
+00:04:12.039 --> 00:04:14.460
+Você não recebe protocolo de autorização.
+
+84
+00:04:14.470 --> 00:04:19.260
+E você não pode imprimir Duff Nenhum de documento rejeitado Tá bom porque,
+
+85
+00:04:19.269 --> 00:04:23.070
+pra imprimir o Duff você precisa do quê do protocolo de autorização,
+
+86
+00:04:23.079 --> 00:04:25.989
+que você não vai obter nesse documento o documento rejeitado.
+
+87
+00:04:26.000 --> 00:04:27.730
+Ele é um documento inválido, tá bom.
+
+88
+00:04:28.140 --> 00:04:28.910
+Então, pessoal!
+
+89
+00:04:28.920 --> 00:04:32.570
+Essas são as situações do documento após o
+
+90
+00:04:32.579 --> 00:04:34.570
+envio do documento pra autorização de uso,
+
+91
+00:04:34.579 --> 00:04:34.790
+né?
+
+92
+00:04:34.799 --> 00:04:38.089
+E é importante a gente saber o que significa cada uma delas.

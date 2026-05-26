@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2952,
+    "title": "ROT-ST: Regime Optativo de Tributação - Substituição Tributária",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Regime Optativo de Tributação - Substituição Tributária (ROT- ST) você vai aprender desde a definição deste Regime, à conceituação da Substituição Tributária, modalidades da Substituição Tributária, complementação e ressarcimento do ICMS-ST, como aderir ao ROT-ST, descredenciamento/Renúncia, bem como as vantagens e desvantagens para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/daf595d6-b76b-4544-8cdf-d5048e9c4565-thumbnail.png",
+    "goals": [
+      "Apresentar desde a definição deste Regime, à conceituação da Substituição Tributária, modalidades da Substituição Tributária, complementação e ressarcimento do ICMS-ST, como aderir ao ROT-ST, descredenciamento/Renúncia, bem como as vantagens e desvantagens para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 88283,
+      "name": "Matheus Henrique Retamero Ferreira",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1691667060.jpeg"
+    },
+    "duration": 4675,
+    "keywords": "rot-st;ROT;Regime Optativo de Tributação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 25,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 483,
+    "averageRating": 9.28,
+    "practiceAverage": 9.22,
+    "trailer": {
+      "id": "2eda1287-9c6d-4b10-bb25-46a7d3f840ad",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2eda1287-9c6d-4b10-bb25-46a7d3f840ad/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2eda1287-9c6d-4b10-bb25-46a7d3f840ad/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2eda1287-9c6d-4b10-bb25-46a7d3f840ad/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2eda1287-9c6d-4b10-bb25-46a7d3f840ad/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-12-08T14:37:07.000Z",
+      "updatedAt": "2023-12-08T14:37:06.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-12-14T07:18:32.000Z",
+    "recordedAt": "2023-11-28T00:00:00.000Z",
+    "createdAt": "2023-12-01T18:30:53.000Z"
+  }
+}

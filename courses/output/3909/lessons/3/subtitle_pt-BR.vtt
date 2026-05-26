@@ -1,0 +1,461 @@
+WEBVTT
+
+1
+00:00:02.019 --> 00:00:04.289
+O ponto chave para vocês é o seguinte
+
+2
+00:00:05.469 --> 00:00:09.449
+então as notas técnicas elas servem para trazer instituir
+
+3
+00:00:09.779 --> 00:00:12.529
+as novas regras desses documentos fiscais eletrônicos.
+
+4
+00:00:13.199 --> 00:00:16.010
+dentro da perspectiva dos documentos fiscais eletrônicos,
+
+5
+00:00:16.079 --> 00:00:17.920
+porque hoje a gente tem uma constelação de
+
+6
+00:00:17.920 --> 00:00:21.049
+documentos fiscais eletrônicos por conta do projeto SPED
+
+7
+00:00:21.520 --> 00:00:22.639
+O projeto SPD.
+
+8
+00:00:22.819 --> 00:00:25.280
+Ele já está completando 19 anos,
+
+9
+00:00:25.440 --> 00:00:25.600
+né?
+
+10
+00:00:25.680 --> 00:00:30.750
+Então esse ano ele completa 19 anos porque ele foi perante a um decreto de 2007.
+
+11
+00:00:31.040 --> 00:00:32.720
+Então a nota fiscal eletrônica dentro da.
+
+12
+00:00:33.025 --> 00:00:35.904
+perspectiva da parte regulamentária,
+
+13
+00:00:36.025 --> 00:00:36.104
+né?
+
+14
+00:00:36.145 --> 00:00:36.974
+Do nosso sistema
+
+15
+00:00:37.305 --> 00:00:41.154
+da parte da regulamentação e movimentação comercial do nosso contribuinte
+
+16
+00:00:41.465 --> 00:00:42.575
+é a que mais opera,
+
+17
+00:00:42.944 --> 00:00:43.145
+né?
+
+18
+00:00:43.305 --> 00:00:45.825
+Então é a que trata de fato a incidência
+
+19
+00:00:45.825 --> 00:00:50.354
+dessas operações comerciais de indústria da incidência do ICMS,
+
+20
+00:00:50.625 --> 00:00:50.744
+né?
+
+21
+00:00:50.845 --> 00:00:52.534
+Então Quando a gente fala sobre consumo,
+
+22
+00:00:53.104 --> 00:00:57.014
+grande parte das operações estão relacionadas a nota fiscal eletrônica.
+
+23
+00:00:57.465 --> 00:00:57.544
+Então,
+
+24
+00:00:57.625 --> 00:01:01.055
+por isso que vocês vão observar diversas notas técnicas que
+
+25
+00:01:01.500 --> 00:01:04.300
+já foram publicadas e não estão mais vigentes.
+
+26
+00:01:04.540 --> 00:01:08.400
+E a última que foi publicada agora no ano de 2025
+
+27
+00:01:08.580 --> 00:01:08.889
+tá
+
+28
+00:01:10.029 --> 00:01:16.330
+Então te passamos por uma questão de notas técnicas aqui relacionadas desde 2024,
+
+29
+00:01:16.419 --> 00:01:17.769
+como eu comentei com vocês
+
+30
+00:01:18.360 --> 00:01:18.730
+Então
+
+31
+00:01:19.300 --> 00:01:21.849
+em 2024 lá em agosto de 2024,
+
+32
+00:01:21.860 --> 00:01:23.849
+a gente já tratava de notas técnicas
+
+33
+00:01:24.260 --> 00:01:25.769
+aonde a Serpro,
+
+34
+00:01:25.819 --> 00:01:27.610
+juntamente com a Receita Federal.
+
+35
+00:01:28.099 --> 00:01:31.239
+e os sistemas pensando em como iriam
+
+36
+00:01:31.239 --> 00:01:34.790
+instituir esses novos tributos para dentro das tags
+
+37
+00:01:35.099 --> 00:01:36.750
+que estão dentro do XML.
+
+38
+00:01:37.580 --> 00:01:40.610
+um outro ponto importante que eu quero também falar aqui pra vocês
+
+39
+00:01:40.739 --> 00:01:41.290
+é que
+
+40
+00:01:41.620 --> 00:01:42.830
+o XML é
+
+41
+00:01:43.580 --> 00:01:45.139
+o documento fiscal eletrônico.
+
+42
+00:01:45.699 --> 00:01:46.690
+Não é a DANF,
+
+43
+00:01:47.019 --> 00:01:50.029
+não é o DCT é o XML do seu cliente.
+
+44
+00:01:50.500 --> 00:01:51.819
+E porque que eu estou falando isso?
+
+45
+00:01:52.099 --> 00:01:53.510
+Porque na reforma tributária,
+
+46
+00:01:53.940 --> 00:01:56.529
+a principal obrigação acessória
+
+47
+00:01:56.699 --> 00:01:58.209
+do seu contribuinte
+
+48
+00:01:58.779 --> 00:01:59.860
+é o XML.
+
+49
+00:02:01.059 --> 00:02:04.870
+todo e qualquer tipo de obrigações acessórias que estão sendo
+
+50
+00:02:05.059 --> 00:02:05.930
+criadas
+
+51
+00:02:06.540 --> 00:02:08.139
+a plataforma assistida,
+
+52
+00:02:08.860 --> 00:02:10.250
+o Split paint.
+
+53
+00:02:10.979 --> 00:02:13.729
+Todas elas estão olhando o XML
+
+54
+00:02:14.339 --> 00:02:18.839
+e não o spad fiscal e não o Sad contribuições e não a CFSCD.
+
+55
+00:02:19.720 --> 00:02:21.550
+Até porque se a gente parar para pensar,
+
+56
+00:02:21.759 --> 00:02:23.229
+tudo se inicia
+
+57
+00:02:23.500 --> 00:02:23.869
+no
+
+58
+00:02:24.000 --> 00:02:24.729
+XML
+
+59
+00:02:25.229 --> 00:02:29.750
+e não no arquivo magnético que vocês geram depois de todas as informações.
+
+60
+00:02:30.800 --> 00:02:31.020
+Então.
+
+61
+00:02:31.240 --> 00:02:33.949
+É importante a gente rever os processos
+
+62
+00:02:34.479 --> 00:02:37.029
+de instituição de criação,
+
+63
+00:02:37.199 --> 00:02:38.740
+escrituração e emissão
+
+64
+00:02:39.240 --> 00:02:40.869
+dos documentos fiscais eletrônicos
+
+65
+00:02:41.440 --> 00:02:42.550
+Então o faturamento.
+
+66
+00:02:43.039 --> 00:02:46.679
+Quem recebe os documentos fiscais eletrônicos também precisam passar
+
+67
+00:02:47.000 --> 00:02:48.350
+por essas alterações
+
+68
+00:02:49.020 --> 00:02:50.710
+Então pessoal notas técnicas.
+
+69
+00:02:50.800 --> 00:02:54.789
+Elas têm como principal objetivo trazer a prática de estrutura.
+
+70
+00:02:55.830 --> 00:02:56.710
+A leitura dela.
+
+71
+00:02:56.789 --> 00:02:58.020
+Ela é mais estrutural,
+
+72
+00:02:58.750 --> 00:03:01.979
+é mais para quem está envolvido na criação dos sistemas.
+
+73
+00:03:02.550 --> 00:03:03.029
+Porém,
+
+74
+00:03:03.250 --> 00:03:05.190
+vocês que são da prática operacional,
+
+75
+00:03:05.470 --> 00:03:06.460
+vocês que são
+
+76
+00:03:06.910 --> 00:03:07.800
+fa- do faturamento,
+
+77
+00:03:07.949 --> 00:03:10.750
+recebimento da área fiscal da contabilidade.
+
+78
+00:03:10.990 --> 00:03:13.660
+É importante a gente entender quais são as movimentações,
+
+79
+00:03:14.070 --> 00:03:16.679
+porque isso impacta na prática operacional.
+
+80
+00:03:17.550 --> 00:03:18.580
+E vocês vão perceber
+
+81
+00:03:18.990 --> 00:03:23.350
+que as notas técnicas elas já trouxeram alterações nas nossas práticas.
+
+82
+00:03:24.289 --> 00:03:24.410
+Então,
+
+83
+00:03:24.490 --> 00:03:25.679
+por isso que é importante
+
+84
+00:03:25.889 --> 00:03:28.289
+a gente obviamente ler a legislação tributária,
+
+85
+00:03:28.690 --> 00:03:30.770
+entender os instrumentos legislativos
+
+86
+00:03:31.100 --> 00:03:32.039
+e também
+
+87
+00:03:32.270 --> 00:03:33.729
+começar a entender
+
+88
+00:03:34.410 --> 00:03:37.880
+essas essas notas técnicas e as suas movimentações.
+
+89
+00:03:38.839 --> 00:03:39.940
+porque as notas técnicas,
+
+90
+00:03:39.979 --> 00:03:41.710
+elas obviamente vão surgir
+
+91
+00:03:42.220 --> 00:03:44.250
+porque os testes começaram agora
+
+92
+00:03:44.419 --> 00:03:45.460
+em 2025,
+
+93
+00:03:45.539 --> 00:03:46.949
+agora em julho de 2025
+
+94
+00:03:47.339 --> 00:03:51.809
+essas empresas testes provavelmente vão passar também a atualizações
+
+95
+00:03:52.100 --> 00:03:54.850
+e provavelmente a gente vai ter novas notas técnicas
+
+96
+00:03:55.539 --> 00:03:58.020
+Então testes quer dizer então o projeto piloto,
+
+97
+00:03:58.059 --> 00:03:58.190
+né?
+
+98
+00:03:58.220 --> 00:04:01.729
+As empresas do do início dos testes é para de fato a gente
+
+99
+00:04:02.220 --> 00:04:02.750
+reaver,
+
+100
+00:04:02.860 --> 00:04:04.020
+ver as notas técnicas,
+
+101
+00:04:04.100 --> 00:04:05.449
+entender se de fato
+
+102
+00:04:05.860 --> 00:04:06.529
+elas
+
+103
+00:04:06.710 --> 00:04:08.050
+estão operacionais.
+
+104
+00:04:08.759 --> 00:04:12.029
+Então até lá até o ano de 2026 ano de 2017,
+
+105
+00:04:12.039 --> 00:04:12.710
+a gente vai
+
+106
+00:04:12.960 --> 00:04:14.910
+passar por diversas notas técnicas
+
+107
+00:04:15.419 --> 00:04:20.559
+A última nota técnica que a gente teve é essa daqui publicada no dia 09/06/2025
+
+108
+00:04:21.200 --> 00:04:25.320
+Pode ser que você esteja me vendo e tenha saído uma nova nota técnica
+
+109
+00:04:25.760 --> 00:04:26.239
+e tudo bem,
+
+110
+00:04:26.600 --> 00:04:26.809
+né?
+
+111
+00:04:26.880 --> 00:04:27.109
+Então.
+
+112
+00:04:27.119 --> 00:04:30.399
+A ideia aqui é trazer para vocês que estamos sim,
+
+113
+00:04:30.480 --> 00:04:31.670
+tendo diversas
+
+114
+00:04:32.040 --> 00:04:34.160
+movimentações ao longo do caminho,
+
+115
+00:04:34.239 --> 00:04:37.029
+porque estamos passando por esse momento de teste.

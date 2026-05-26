@@ -1,0 +1,33 @@
+{
+  "id": 456842,
+  "title": "Garantias de livre iniciativa | parte 2",
+  "position": 8,
+  "duration": 331,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/79aafab9-19ea-4d7f-bc9d-2594d7176288/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/79aafab9-19ea-4d7f-bc9d-2594d7176288/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/79aafab9-19ea-4d7f-bc9d-2594d7176288/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/79aafab9-19ea-4d7f-bc9d-2594d7176288/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/79aafab9-19ea-4d7f-bc9d-2594d7176288/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 480381,
+  "title": "O que é o Projeto Sped-",
+  "position": 21,
+  "duration": 102,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e2886eb1-63d4-4eb7-9de3-7875a76aa578/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2886eb1-63d4-4eb7-9de3-7875a76aa578/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2886eb1-63d4-4eb7-9de3-7875a76aa578/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2886eb1-63d4-4eb7-9de3-7875a76aa578/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2886eb1-63d4-4eb7-9de3-7875a76aa578/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

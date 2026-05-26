@@ -1,0 +1,349 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.559
+nota fiscal fácil, né?
+
+2
+00:00:01.570 --> 00:00:03.920
+Que nesse curso a gente vai ver que
+
+3
+00:00:03.930 --> 00:00:06.239
+como que a gente pode disponibilizar pro contribuinte.
+
+4
+00:00:06.250 --> 00:00:11.060
+É uma ferramenta fácil, ágil, descomplicada e com conformidade tributária.
+
+5
+00:00:11.069 --> 00:00:14.079
+Então, o contribuinte, ele vai emitir seus documentos, né?
+
+6
+00:00:14.090 --> 00:00:19.819
+Num nível de abstração, sem se preocupar muito com códigos fiscais de operação,
+
+7
+00:00:19.829 --> 00:00:24.360
+com CS T com código doc m, ele vai precisar saber nada disso, né.
+
+8
+00:00:24.659 --> 00:00:26.709
+E vai fazer a emissão do seu documento.
+
+9
+00:00:26.719 --> 00:00:29.170
+E esse documento tem conformidade tributária,
+
+10
+00:00:29.180 --> 00:00:31.350
+foi gerado no próprio software do Fisco, né?
+
+11
+00:00:31.360 --> 00:00:33.630
+A gente vai ver aqui como que isso acontece, tá.
+
+12
+00:00:33.639 --> 00:00:34.409
+Então,
+
+13
+00:00:34.419 --> 00:00:37.189
+é interessante a gente saber que os documentos gerados nessa
+
+14
+00:00:37.200 --> 00:00:40.069
+plataforma são os documentos que o Fisco já conhece,
+
+15
+00:00:40.080 --> 00:00:42.770
+que os clientes conhecem que os fornecedores o conhece, ou seja,
+
+16
+00:00:43.119 --> 00:00:45.849
+é só uma ferramenta pra emitir os mesmos documentos
+
+17
+00:00:45.860 --> 00:00:48.909
+fiscais eletrônicos que são emitidos pelos outros contribuintes.
+
+18
+00:00:48.919 --> 00:00:50.250
+Isso é uma grande vantagem, né?
+
+19
+00:00:50.259 --> 00:00:52.650
+Porque tudo que já se tinha lá no mundo
+
+20
+00:00:52.659 --> 00:00:55.189
+dos documentos fiscais eletrônicos a gente vai ter aqui,
+
+21
+00:00:55.200 --> 00:00:57.169
+no nota fiscal fácil.
+
+22
+00:00:57.180 --> 00:01:00.409
+A gente vai ver isso aqui mais pra frente Tá.
+
+23
+00:01:00.419 --> 00:01:04.330
+Mas o que é importante a gente saber é que a plataforma simplificada,
+
+24
+00:01:04.339 --> 00:01:06.080
+com conformidade tributária,
+
+25
+00:01:06.089 --> 00:01:09.010
+e emite os mesmos documentos que a gente já tá acostumado
+
+26
+00:01:09.019 --> 00:01:11.389
+a tratar aí no nosso dia a dia tá bom.
+
+27
+00:01:12.940 --> 00:01:17.269
+Então pessoal, vamos passar aqui pro problema e pra solução, né?
+
+28
+00:01:17.279 --> 00:01:21.449
+A gente tinha um problema, que é a complexidade tributária, né?
+
+29
+00:01:21.459 --> 00:01:25.269
+E a complexidade do sistema Legislativo Tributário do
+
+30
+00:01:25.279 --> 00:01:27.989
+Brasil ela acaba se refletindo nos documentos fiscais,
+
+31
+00:01:28.000 --> 00:01:28.550
+eletrônicos, né?
+
+32
+00:01:28.559 --> 00:01:32.230
+Os documentos Eles são ali a base final de emissão,
+
+33
+00:01:32.239 --> 00:01:35.769
+de que que precisa pra fazer acontecer, a implementação da legislação.
+
+34
+00:01:35.860 --> 00:01:39.129
+Então quando a legislação manda olha agora você tem que colocar um código,
+
+35
+00:01:39.139 --> 00:01:42.010
+que chama se a gente tem que levar isso pro documento fiscal eletrônico.
+
+36
+00:01:42.019 --> 00:01:45.110
+Oh, Agora tem um negócio que chama de FAO, a gente tem que levar isso lá,
+
+37
+00:01:45.120 --> 00:01:48.050
+pro documento fiscal eletrônico e o documento vai ficando complexo, né?
+
+38
+00:01:48.059 --> 00:01:51.629
+Claro, reflexo da legislação tributária que é complexa, né?
+
+39
+00:01:51.639 --> 00:01:54.769
+E a gente tinha por contribuinte de menor capacidade, né?
+
+40
+00:01:55.349 --> 00:01:59.319
+Um contribuinte do MEI um serviço nacional que tem um faturamento mais baixo?
+
+41
+00:01:59.330 --> 00:02:02.760
+Os produtores rurais transportador autônomo de cargas,
+
+42
+00:02:02.769 --> 00:02:05.279
+Esse pessoal eles pra fazer a emissão do documento.
+
+43
+00:02:05.290 --> 00:02:10.179
+Veja só o contribuinte do MEI precisaria saber do Código SEST do Código NCM C F O P
+
+44
+00:02:10.377 --> 00:02:11.548
+e o C S T,
+
+45
+00:02:11.559 --> 00:02:14.708
+da operação precisava saber se um monte de dados
+
+46
+00:02:14.718 --> 00:02:17.529
+fiscais pra fazer a missão no documento Isso acabava
+
+47
+00:02:17.539 --> 00:02:21.149
+levando ele pra um mundo mais de conhecimento fiscal
+
+48
+00:02:21.158 --> 00:02:23.798
+do que tirava ele do foco da operação dele,
+
+49
+00:02:23.809 --> 00:02:26.188
+que era fazer seu produto, vender, fazer publicidade,
+
+50
+00:02:26.199 --> 00:02:29.949
+comercializar aquela aquela, aquele produto dele e, claro,
+
+51
+00:02:29.958 --> 00:02:32.688
+obter seu seu sua renda, seu lucro e tudo mais, né.
+
+52
+00:02:33.039 --> 00:02:35.649
+Então essa complexidade ela vinha afastando
+
+53
+00:02:35.660 --> 00:02:37.490
+parte dos contribuintes da formalidade,
+
+54
+00:02:37.500 --> 00:02:37.520
+né?
+
+55
+00:02:37.529 --> 00:02:38.250
+O contribuinte às vezes,
+
+56
+00:02:38.259 --> 00:02:41.410
+ficava da formalidade ou gastava muito tempo pra
+
+57
+00:02:41.419 --> 00:02:44.119
+fazer a emissão de um documento fiscal eletrônico,
+
+58
+00:02:44.130 --> 00:02:44.429
+né?
+
+59
+00:02:45.300 --> 00:02:47.429
+Então, esse era o nosso maior problema,
+
+60
+00:02:47.440 --> 00:02:52.789
+o problema que a gente tava enfrentando e a gente partiu pra pra solucionar, né?
+
+61
+00:02:52.800 --> 00:02:54.330
+Então, a gente teve como objetivo,
+
+62
+00:02:54.339 --> 00:02:56.610
+primeiramente o quê simplificar a vida do contribuinte, né?
+
+63
+00:02:56.619 --> 00:03:00.389
+A gente quis tirar do contribuinte essa complexidade tributária,
+
+64
+00:03:00.399 --> 00:03:02.990
+fazendo a ferramenta que fosse mais fácil pra ele utilizar.
+
+65
+00:03:03.000 --> 00:03:03.490
+Tá
+
+66
+00:03:04.139 --> 00:03:06.789
+ao mesmo lado. A gente não podia abrir mão das informações, né.
+
+67
+00:03:06.800 --> 00:03:10.869
+A gente não não podia fazer um novo modelo de documento fiscal que a gente
+
+68
+00:03:10.880 --> 00:03:13.029
+entendeu que traria mais complexidade ainda pro
+
+69
+00:03:13.039 --> 00:03:15.289
+sistema de emissão de documentos do Brasil.
+
+70
+00:03:15.300 --> 00:03:18.750
+inteiro, né? E assim as informações tinham que ser prestado.
+
+71
+00:03:18.759 --> 00:03:20.589
+O Fisco precisa das informações, né?
+
+72
+00:03:20.600 --> 00:03:24.009
+Então a gente conseguiu simplificar a vida do contribuinte,
+
+73
+00:03:24.020 --> 00:03:26.070
+sem abrir mão das informações, né?
+
+74
+00:03:26.080 --> 00:03:30.559
+Isso, claro, gerando um menor impacto possível, né, na vida do contribuinte,
+
+75
+00:03:30.570 --> 00:03:33.309
+menor esforço pra gente implementar e fazer manutenção disso.
+
+76
+00:03:33.320 --> 00:03:33.729
+Tá
+
+77
+00:03:34.369 --> 00:03:34.869
+Então,
+
+78
+00:03:34.880 --> 00:03:36.979
+a solução que a gente encontrou é uma solução
+
+79
+00:03:36.990 --> 00:03:39.440
+que o contribuinte ele entra com os dados comerciais.
+
+80
+00:03:40.149 --> 00:03:41.960
+A partir desses dados comerciais,
+
+81
+00:03:41.970 --> 00:03:48.589
+o Fisco gera os dados fiscais daquela operação e disponibiliza esse documento
+
+82
+00:03:48.600 --> 00:03:53.080
+para ser emitido e o contribuinte cumprir sua obrigação tributária acessória,
+
+83
+00:03:53.089 --> 00:03:57.300
+de emissão de documentos fiscais, de uma maneira simples, fácil,
+
+84
+00:03:57.309 --> 00:04:01.100
+descomplicada e com conformidade tributária, que é muito importante, tá bom.
+
+85
+00:04:01.110 --> 00:04:03.830
+Então foi assim que nós tratamos esse problema.
+
+86
+00:04:03.839 --> 00:04:09.070
+E essa foi a motivação do Fisco criar essa nova plataforma de emissão,
+
+87
+00:04:09.080 --> 00:04:10.210
+que é a nota fiscal fácil.

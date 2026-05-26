@@ -1,0 +1,33 @@
+{
+  "id": 474239,
+  "title": "Tabela de Serviços",
+  "position": 27,
+  "duration": 215,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ee64d8c6-5d28-4bc8-8a74-6213050d0a78/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ee64d8c6-5d28-4bc8-8a74-6213050d0a78/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ee64d8c6-5d28-4bc8-8a74-6213050d0a78/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ee64d8c6-5d28-4bc8-8a74-6213050d0a78/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ee64d8c6-5d28-4bc8-8a74-6213050d0a78/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

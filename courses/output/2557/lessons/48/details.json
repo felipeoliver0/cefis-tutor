@@ -1,0 +1,33 @@
+{
+  "id": 468366,
+  "title": "Código de beneficio fiscal",
+  "position": 48,
+  "duration": 410,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0f7c735b-e27d-4857-a36a-981e2c5a732e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0f7c735b-e27d-4857-a36a-981e2c5a732e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0f7c735b-e27d-4857-a36a-981e2c5a732e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0f7c735b-e27d-4857-a36a-981e2c5a732e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0f7c735b-e27d-4857-a36a-981e2c5a732e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

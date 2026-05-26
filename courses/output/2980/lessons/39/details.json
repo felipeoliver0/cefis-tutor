@@ -1,0 +1,33 @@
+{
+  "id": 472422,
+  "title": "Custos da SOX",
+  "position": 39,
+  "duration": 309,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/64a0bed8-8fd1-4367-80f7-d93b3712273f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/64a0bed8-8fd1-4367-80f7-d93b3712273f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/64a0bed8-8fd1-4367-80f7-d93b3712273f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/64a0bed8-8fd1-4367-80f7-d93b3712273f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/64a0bed8-8fd1-4367-80f7-d93b3712273f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

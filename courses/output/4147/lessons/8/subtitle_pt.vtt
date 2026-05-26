@@ -1,0 +1,381 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.580
+Qual que é o conceito quando a gente pensa na carta de correção?
+
+2
+00:00:04.179 --> 00:00:08.259
+Correspondência eletrônica destinada então a corrigir dados formais
+
+3
+00:00:08.259 --> 00:00:12.300
+dentro de um documento fiscal sem impacto tributário.
+
+4
+00:00:12.660 --> 00:00:15.960
+Elementos que não têm impacto tributário podem ser corrigidos
+
+5
+00:00:15.960 --> 00:00:18.120
+por meio de cartas de correção eletrônica.
+
+6
+00:00:18.899 --> 00:00:22.519
+O layout é um padrão técnico desenvolvido.
+
+7
+00:00:22.519 --> 00:00:28.899
+Temos notas técnicas e manual de orientação do contribuinte, chamado MOC, para atribuir esse layout.
+
+8
+00:00:29.280 --> 00:00:45.399
+É feito por meio de uma assinatura digital, então existe uma obrigatoriedade de ter uma assinatura digital para vincular esse evento de carta de correção dentro do XML oficial, prova de entrega. Então, existe um protocolo e uma recepção sobre esse evento,
+
+9
+00:00:45.700 --> 00:00:48.899
+assim como a gente também tem um protocolo de concessão de uso
+
+10
+00:00:48.899 --> 00:00:50.340
+de um documento fiscal eletrônico,
+
+11
+00:00:50.840 --> 00:00:53.420
+e existe uma validação sobre esse protocolo
+
+12
+00:00:53.420 --> 00:00:58.439
+para que, de fato, a carta de correção seja correta e vinculada ao XML.
+
+13
+00:00:59.500 --> 00:01:03.780
+Então, quando que a gente pode utilizar a carta de correção
+
+14
+00:01:03.780 --> 00:01:06.180
+avaliando uma inconsistência?
+
+15
+00:01:06.560 --> 00:01:14.400
+Se houve um erro de digitação, como por exemplo, campos descritivos que não alterem a essência da operação,
+
+16
+00:01:15.219 --> 00:01:20.579
+a incidência tributária, nós podemos então corrigir por meio de carta de correção.
+
+17
+00:01:21.239 --> 00:01:25.799
+Endereço incompleto, ou seja, complementação ou correção do endereço,
+
+18
+00:01:26.260 --> 00:01:30.319
+desde que não implique na alteração do CNPJ do destinatário,
+
+19
+00:01:30.959 --> 00:01:33.079
+pode ser corrigido por meio de uma carta de correção.
+
+20
+00:01:33.079 --> 00:01:39.000
+O que isso não se pode é alterar o campo total do endereço,
+
+21
+00:01:39.680 --> 00:01:41.439
+de um estado para o outro.
+
+22
+00:01:41.900 --> 00:01:45.599
+Porque se a gente muda a operação de um estado para o outro,
+
+23
+00:01:46.060 --> 00:01:48.459
+pode ser que a gente interfira no impacto tributário.
+
+24
+00:01:48.799 --> 00:01:53.280
+E a carta de correção não pode alterar a parte tributária da operação.
+
+25
+00:01:53.819 --> 00:01:56.859
+E pode ser que quando a gente fala sobre uma mudança de endereço,
+
+26
+00:01:57.040 --> 00:01:58.719
+eu mude a alíquota.
+
+27
+00:01:59.739 --> 00:02:01.019
+Eu mude a tributação.
+
+28
+00:02:01.519 --> 00:02:04.579
+Então, aqui existe uma particularidade.
+
+29
+00:02:05.140 --> 00:02:08.460
+Para complementar o endereço, a carta de correção serve.
+
+30
+00:02:08.939 --> 00:02:10.840
+Para alterar o todo, não.
+
+31
+00:02:11.280 --> 00:02:12.400
+CFP incorreto.
+
+32
+00:02:12.659 --> 00:02:16.080
+Alteração do CFP quando o erro for meramente descritivo
+
+33
+00:02:16.080 --> 00:02:19.080
+e sem impacto na carga tributária da operação.
+
+34
+00:02:19.860 --> 00:02:21.360
+Aqui a gente tem uma discussão.
+
+35
+00:02:21.780 --> 00:02:23.699
+Muitos estados, como o estado de São Paulo,
+
+36
+00:02:24.180 --> 00:02:34.719
+vêm trazendo por meio das suas respostas a consulta o entendimento de que é preciso entender a operação para utilizar a carta de correção para alterar a CFOP.
+
+37
+00:02:34.719 --> 00:02:49.599
+Por quê? O fisco entende que alterar a natureza da operação de um determinado documento alteraa sim a incidência dessa tributação, tem impacto tributário.
+
+38
+00:02:50.419 --> 00:02:56.120
+E vale lembrar que a gente precisa entender qual é a finalidade do CFOP e qual é a finalidade da CCT.
+
+39
+00:02:56.879 --> 00:03:01.099
+A finalidade do CFOP é demonstrar a natureza da operação para o fisco.
+
+40
+00:03:01.099 --> 00:03:06.060
+Nós temos um campinho de natureza de operação na Danf, mas o Fisco
+
+41
+00:03:06.060 --> 00:03:08.120
+cruza a informação por meio da
+
+42
+00:03:08.120 --> 00:03:10.139
+CFOP. Então,
+
+43
+00:03:10.259 --> 00:03:11.840
+a CFOP é um código que
+
+44
+00:03:11.840 --> 00:03:13.939
+representa a operação,
+
+45
+00:03:14.560 --> 00:03:15.800
+o que está acontecendo ali.
+
+46
+00:03:16.199 --> 00:03:18.199
+A CST representa a incidência,
+
+47
+00:03:18.639 --> 00:03:19.900
+é a classificação
+
+48
+00:03:19.900 --> 00:03:21.919
+sobre a incidência daquela tributação.
+
+49
+00:03:22.379 --> 00:03:23.960
+Então, isso quer dizer que
+
+50
+00:03:23.960 --> 00:03:27.939
+realmente não se pode alterar todas as CFOPs
+
+51
+00:03:27.939 --> 00:03:29.520
+de um documento fiscal eletrônico,
+
+52
+00:03:30.139 --> 00:03:33.259
+porque interfere e tem impacto tributário.
+
+53
+00:03:34.039 --> 00:03:37.240
+Por exemplo, vamos pensar numa operação interestadual
+
+54
+00:03:37.240 --> 00:03:43.240
+e que o seu emissor emitiu com uma CFOP 502,
+
+55
+00:03:43.979 --> 00:04:05.039
+considerando então uma operação interna. Considerando os parâmetros sobre essa operação interna, FIS A CFLP deveria ser 602 e não 5.
+
+56
+00:04:05.400 --> 00:04:07.039
+Pode ser alterado por meio de carta de correção?
+
+57
+00:04:07.539 --> 00:04:09.000
+Essa CFLP? Não.
+
+58
+00:04:09.460 --> 00:04:15.539
+Por quê? Interfere tanto no endereço quanto na tributação dessa operação.
+
+59
+00:04:16.120 --> 00:04:19.079
+Então, a CFLP depende.
+
+60
+00:04:19.500 --> 00:04:26.139
+Eu posso utilizar a carta de correção? Depende. Depende da operação e depende
+
+61
+00:04:26.139 --> 00:04:28.079
+de como o Fisco Estadual está
+
+62
+00:04:28.079 --> 00:04:30.399
+trazendo o seu entendimento.
+
+63
+00:04:30.939 --> 00:04:32.019
+O Estado de São Paulo,
+
+64
+00:04:32.060 --> 00:04:34.300
+ele vem trazendo um posicionamento muito firme
+
+65
+00:04:34.300 --> 00:04:36.100
+de que a carta de correção não
+
+66
+00:04:36.100 --> 00:04:38.040
+pode ser alterada a CFLP.
+
+67
+00:04:38.540 --> 00:04:40.300
+Porque ele entende que
+
+68
+00:04:40.300 --> 00:04:41.740
+altera-se sim
+
+69
+00:04:41.740 --> 00:04:44.100
+a CFLP com impacto
+
+70
+00:04:44.100 --> 00:04:45.180
+tributário.
+
+71
+00:04:46.180 --> 00:04:47.100
+E faz sentido.
+
+72
+00:04:51.279 --> 00:04:52.079
+Existem operações que têm incidência e existem operações que têm suspensão.
+
+73
+00:04:57.019 --> 00:04:58.199
+Existem operações que têm uma alíquota X e existem operações que têm outra alíquota.
+
+74
+00:05:01.439 --> 00:05:01.720
+Então, o entendimento do Fisco é uma jurisprudência,
+
+75
+00:05:03.540 --> 00:05:07.939
+caso você não atue com o Estado de São Paulo, em fazer com que o seu contribuinte entenda que não pode ser utilizado
+
+76
+00:05:07.939 --> 00:05:10.079
+carta de correção para alterar essa FAP.
+
+77
+00:05:10.720 --> 00:05:16.620
+Mas isso em cima de tomadas de decisão e identificação da operação.
+
+78
+00:05:17.079 --> 00:05:19.139
+Informações complementares, como, por exemplo,
+
+79
+00:05:19.259 --> 00:05:23.439
+inclusão de dados adicionais, observações, informações complementares
+
+80
+00:05:23.439 --> 00:05:27.240
+sobre a operação, pode ser utilizado a carta de correção.
+
+81
+00:05:27.839 --> 00:05:32.279
+A carta de correção é um instrumento adequado para correções formais.
+
+82
+00:05:33.420 --> 00:05:36.480
+Então, quando eu posso utilizar a carta de correção?
+
+83
+00:05:37.160 --> 00:05:40.000
+Que não alterem a natureza tributária da operação,
+
+84
+00:05:40.000 --> 00:05:45.000
+ou seja, digitação, transmissão e autorização.
+
+85
+00:05:50.399 --> 00:05:51.399
+Aqui são os passos que temos sobre a emissão do documento fiscal eletrônico.
+
+86
+00:05:55.120 --> 00:05:55.980
+Depois da autorização, a gente pode entender que existe uma correção.
+
+87
+00:05:57.639 --> 00:05:58.759
+O que precisa ser visto?
+
+88
+00:06:01.699 --> 00:06:02.180
+Qual é a inconsistência dessa operação para definição?
+
+89
+00:06:33.819 --> 00:06:34.339
+Se vai ser cancelamento, se vai ser carta de correção ou se vai ser um documento complementar. FIS A transmissão da carta de correção acontece assim que realizado o evento.
+
+90
+00:06:42.000 --> 00:06:47.120
+Assim como o cancelamento, a transmissão de uma carta de correção é objetiva e trata um registro específico do documento fiscal oficial. O autor do evento é o emitente, ou seja, o emissor da nota de escola eletrônica.
+
+91
+00:06:47.759 --> 00:06:53.279
+A mensagem do XML do evento será assinada com o certificado digital do emitente
+
+92
+00:06:53.279 --> 00:06:58.459
+e não do destinatário, como acontece, por exemplo, na manifestação do destinatário.
+
+93
+00:06:59.240 --> 00:07:02.220
+A manifestação do destinatário, propriamente o nome dela já diz,
+
+94
+00:07:02.220 --> 00:07:07.259
+que quem é responsável por esse evento é o destinatário e não o emitente.
+
+95
+00:07:07.779 --> 00:07:13.819
+Agora, o cancelamento e a carta de correção precisa ser feito e realizado pelo emitente.

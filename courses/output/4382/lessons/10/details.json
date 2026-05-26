@@ -1,0 +1,33 @@
+{
+  "id": 484257,
+  "title": "Substituição tributária",
+  "position": 10,
+  "duration": 317,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d2b8dca9-b5a9-444a-8006-8c8a851e63ee/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2b8dca9-b5a9-444a-8006-8c8a851e63ee/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2b8dca9-b5a9-444a-8006-8c8a851e63ee/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2b8dca9-b5a9-444a-8006-8c8a851e63ee/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2b8dca9-b5a9-444a-8006-8c8a851e63ee/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

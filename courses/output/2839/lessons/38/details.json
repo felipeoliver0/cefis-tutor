@@ -1,0 +1,33 @@
+{
+  "id": 470603,
+  "title": "Critérios de valorização dos estoques - parte 2",
+  "position": 38,
+  "duration": 407,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/36e8add9-e49f-42d4-845e-acb4b50a3773/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/36e8add9-e49f-42d4-845e-acb4b50a3773/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/36e8add9-e49f-42d4-845e-acb4b50a3773/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/36e8add9-e49f-42d4-845e-acb4b50a3773/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/36e8add9-e49f-42d4-845e-acb4b50a3773/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

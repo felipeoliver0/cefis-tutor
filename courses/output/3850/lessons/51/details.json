@@ -1,0 +1,33 @@
+{
+  "id": 478420,
+  "title": "Registros - 4020 - parte 2",
+  "position": 51,
+  "duration": 267,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c5aaf71a-0a19-4d6e-9b9f-31d458d04256/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5aaf71a-0a19-4d6e-9b9f-31d458d04256/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5aaf71a-0a19-4d6e-9b9f-31d458d04256/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5aaf71a-0a19-4d6e-9b9f-31d458d04256/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5aaf71a-0a19-4d6e-9b9f-31d458d04256/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

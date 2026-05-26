@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2964,
+    "title": "CFOP nas operações fiscais",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de CFOP (Código Fiscal de Operações e Prestações), você aprenderá a utilizar corretamente os códigos que têm grande importância na definição das operações. Dentre os tópicos apresentados, você conhecerá desde a base legal e o objetivo dessa codificação, até a obrigatoriedade, composição do código CFOP, CFOPs agrupadores de entrada e de saída, tabela CFOP na NF-e, na EFD contribuições, no CT-e, formas de uso e muitos outros exemplos práticos de classificação, para que você saiba lidar com as operações fiscais e domine a forma correta de utilizar os Códigos Fiscais de Operações e Prestações.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/f07b9b1cc81477f3ece66b764adba6b91728384322.jpg",
+    "goals": [
+      "Contribuir para o dia a dia dos profissionais que lidam com operações fiscais e que precisam conhecer como utilizar corretamente os Códigos Fiscais de Operações e Prestações ."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 3365,
+    "keywords": "cfop;Código Fiscal de Operações e Prestações;operações fiscais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 22,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 3299,
+    "averageRating": 9.27,
+    "practiceAverage": 9.25,
+    "trailer": {
+      "id": "98d51546-21d4-4c89-bf24-1b936d3c623a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/98d51546-21d4-4c89-bf24-1b936d3c623a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/98d51546-21d4-4c89-bf24-1b936d3c623a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/98d51546-21d4-4c89-bf24-1b936d3c623a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/98d51546-21d4-4c89-bf24-1b936d3c623a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-16T23:04:02.000Z",
+      "updatedAt": "2024-01-16T23:04:01.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-12-29T09:35:08.000Z",
+    "recordedAt": "2023-11-29T00:00:00.000Z",
+    "createdAt": "2023-12-08T09:08:36.000Z"
+  }
+}

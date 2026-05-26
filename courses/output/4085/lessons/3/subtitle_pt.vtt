@@ -1,0 +1,172 @@
+WEBVTT
+
+00:00:00.162 --> 00:00:08.511
+- O que isso significa dizer na prática? Que agora, para que nós possamos fazer ajustes, nós precisaremos
+
+00:00:08.511 --> 00:00:12.958
+- emitir documentos fiscais. O que vai acontecer, pessoal?
+
+00:00:13.154 --> 00:00:20.853
+- O XML, ele passa a tomar um papel muito mais importante. Não que ele não tinha um papel importante,
+
+00:00:20.853 --> 00:00:28.930
+- ele já tinha um papel extremamente importante nas nossas apurações, nas fiscalizações, nas auditorias
+
+00:00:28.930 --> 00:00:36.478
+- digitais fiscais, mas agora ainda mais. Tanto que nós veremos ao longo dos nossos próximos cursos
+
+00:00:36.478 --> 00:00:43.120
+- aqui na CFIS, que o XML traz agora novos eventos, ele traz novas finalidades, tudo isso
+
+00:00:43.120 --> 00:00:50.064
+- Isso é importante para que a gente comece a observar o XML com ainda mais critério, com ainda mais
+
+00:00:50.064 --> 00:00:57.352
+- cuidado. Aqui vem uma reflexão que eu quero trazer para você, nosso aluno. Você já está acompanhando
+
+00:00:57.352 --> 00:01:00.446
+- todas as atualizações das notas técnicas?
+
+00:01:00.930 --> 00:01:07.643
+- Departamento de TI já está junto com vocês na área fiscal trazendo essas modificações dentro do
+
+00:01:07.643 --> 00:01:14.224
+- sistema para quando da reforma tributária a gente já ingressar nesse período de teste de forma a
+
+00:01:14.224 --> 00:01:19.358
+- atender às especificações. Fica aqui a reflexão pra gente levar pra casa.
+
+00:01:20.546 --> 00:01:27.500
+- finalidades de emissão nota de ajuste e nota complementar, elas já existem. E são casos especiais
+
+00:01:27.500 --> 00:01:34.937
+- de nota de débito, emitido uma nota de entrada para documentar, por exemplo, uma devolução de mercadoria
+
+00:01:34.937 --> 00:01:41.822
+- que havia sido vendida a um consumidor final, por exemplo, é um caso especial de nota de crédito.
+
+00:01:42.210 --> 00:01:49.170
+- Esse exemplo, o que eu quero trazer para vocês, que até então nós tínhamos a emissão de notas
+
+00:01:49.170 --> 00:01:56.825
+- fiscais de ajuste e nota fiscal complementar. Nas situações de notas fiscais, nós temos essas situações,
+
+00:01:56.825 --> 00:02:03.646
+- nota cancelada, inutilizada, nota fiscal ativa, nota fiscal de ajuste e nota fiscal complementar.
+
+00:02:03.810 --> 00:02:11.475
+- Agora, nós teremos também as notas fiscais de débito e decrédito para realizarmos os nossos ajustes.
+
+00:02:11.475 --> 00:02:15.198
+- Nós vamos entender um pouco mais, mais à frente.
+
+00:02:15.426 --> 00:02:23.667
+- A regulamentação do IBS disporá sobre a utilização de nota de débitos e notas de créditos para
+
+00:02:23.667 --> 00:02:31.826
+- lançamento de ajustes com a finalidade de instrumentalizar a preparação da declaração assistida
+
+00:02:31.826 --> 00:02:39.986
+- a ser oferecida para os contribuintes de maneira automatizada a partir dos documentos fiscais. Vamos
+
+00:02:39.986 --> 00:02:42.814
+- interpretar aqui essa colocação.
+
+00:02:42.914 --> 00:02:50.416
+- O contribuinte poderá emitir notas fiscais de débito e de crédito para realizar os ajustes que ele
+
+00:02:50.416 --> 00:02:58.138
+- tem dentro da apuração assistida. O que vai acontecer, pessoal? Hoje, quando nós vamos realizar algum
+
+00:02:58.138 --> 00:03:05.566
+- tipo de ajuste no nosso SPED ICMS e no nosso SPED Contribuições, o que nós fazemos? Nós emitimos
+
+00:03:06.370 --> 00:03:13.128
+- Se for necessário uma nota fiscal, nem sempre é necessário a emissão de nota fiscal. Nós temos
+
+00:03:13.128 --> 00:03:20.157
+- os ajustes de apuração, lá dentro, por exemplo, no ESPEDICMS, no E-111, onde nós podemos fazer este
+
+00:03:20.157 --> 00:03:26.983
+- lançamento e especificar se esse lançamento, por exemplo, exigiu detalhamento da nota fiscal. Nós
+
+00:03:26.983 --> 00:03:32.254
+- vamos fazer o lançamento, a abertura desse ajuste lá no E-113, por exemplo.
+
+00:03:32.386 --> 00:03:39.884
+- Quando nós vamos ajustar um valor, nos pede contribuições, nós também lançamos um ajuste ali no
+
+00:03:39.884 --> 00:03:47.528
+- M600 ou M200. A partir da reforma tributária, por exemplo, quando a gente fala do CBS, que já em 2027
+
+00:03:47.528 --> 00:03:55.614
+- já entra pra nós, o que nós vamos ter? Ajustes a partir da emissão de nota de ajuste débito de crédito.
+
+00:03:56.034 --> 00:04:03.382
+- Então, antes eu tinha essa facilidade de ajustar as minhas operações conforme eu entendesse, fazendo
+
+00:04:03.382 --> 00:04:10.800
+- um lançamento, muitas vezes até mesmo dentro do PVA, não é verdade? Você que acompanha aqui a nossa
+
+00:04:10.800 --> 00:04:18.007
+- aula, você fazia ajustes, faz ainda ajustes direto no PVA? Não indico, sempre faça no sistema para
+
+00:04:18.007 --> 00:04:23.518
+- carregar para o PVA a partir da geração do arquivo digital, do arquivo TXT.
+
+00:04:23.810 --> 00:04:31.616
+- Mas nós sabemos que é possível, inclusive, criar ajuste dentro do próprio PVA. A partir da reforma
+
+00:04:31.616 --> 00:04:39.725
+- tributária, nós teremos o quê? A apuração assistida. Com a apuração assistida, somente ingressarão
+
+00:04:39.725 --> 00:04:47.380
+- na apuração assistida os documentos fiscais emitidos via XML. Por isso, a necessidade de construir
+
+00:04:47.380 --> 00:04:52.382
+- uma nota que venha trazendo esse ajuste de débito e de crédito.
+
+00:04:52.578 --> 00:05:00.907
+- É exatamente isso que vai acontecer. Notas de ajuste. A menos que ocorra uma alteração na regulamentação
+
+00:05:00.907 --> 00:05:08.705
+- do ICMS e do IPI, as notas de débito e as notas de crédito não poderão ser utilizadas para ajustes
+
+00:05:08.705 --> 00:05:16.959
+- relativos a estes tributos. As novas finalidades, notas fiscais de débito e de crédito, serão pertinentes
+
+00:05:16.959 --> 00:05:19.230
+- ao ajuste dos novos tributos.
+
+00:05:19.490 --> 00:05:26.498
+- As notas fiscais complementares que nós já temos, elas vão ser utilizadas somente para os impostos
+
+00:05:26.498 --> 00:05:33.575
+- que nós já temos hoje. A menos, aí volto aqui àquela questão que nós falamos no começo da nossa
+
+00:05:33.575 --> 00:05:38.110
+- aula. A legislação, ela está muito orgânica, né? Ela já é.
+
+00:05:38.242 --> 00:05:44.651
+- A gente tem que se atualizar constantemente, mas quando se trata da reforma tributária, mais ainda.
+
+00:05:44.651 --> 00:05:49.982
+- Então, convido a você a sempre acompanhar essas mudanças que estão acontecendo.
+
+00:05:50.114 --> 00:05:57.453
+- Então, para reforçar esse tópico, se a gente está falando de ajustes de CMS e de IPI, nós vamos
+
+00:05:57.453 --> 00:06:05.446
+- continuar fazendo os ajustes que nós realizamos, seja com documento fiscal, seja com lançamento diretamente
+
+00:06:05.446 --> 00:06:12.058
+- ali dentro do E-111, a partir de notas fiscais complementares, a partir de ajustes que tem
+
+00:06:12.058 --> 00:06:17.726
+- ou não especificações em documentos fiscais com abertura ou não do E-113.
+
+00:06:17.858 --> 00:06:26.855
+- Isso fica para o nosso ICMS, para o nosso IPI, conforme nós já fazemos. As novas finalidades servirão
+
+00:06:26.855 --> 00:06:32.510
+- somente para criar ajustes para os novos tributos, CBS e BSS, ok?

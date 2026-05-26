@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4199,
+    "title": "Cadastro imobiliário brasileiro",
+    "subtitle": "CIB",
+    "summary": "Neste curso Cadastro imobiliário brasileiro (CIB), você irá aprender na prática tudo o que precisa saber sobre o cadastro imobiliário no Brasil. Aprenderá os fundamentos e a prática do novo sistema tributário, tecnologias de georreferenciamento e base legal, além de outros temas para você que deseja se atualizar ou aprender tudo sobre o CIB.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/1257aa95-db0e-46e8-84eb-0d8fee63c5c8-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Cadastro imobiliário brasileiro (CIB) é a capacitação para a aplicação prática de um sistema tributário eficiente e de georreferenciamento, bem como a compreensão das disposições legais e técnicas necessárias para o compartilhamento de informações via SINTER, o uso do sistema eletrônico e a adoção do código CIB, visando a integração de dados e a localização georreferenciada de imóveis no Brasil."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 3061,
+    "keywords": "cib;cadastro;imovel;brasileiro",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 21,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 133,
+    "averageRating": 9.29,
+    "practiceAverage": 9.2,
+    "trailer": {
+      "id": "3a6f8760-2342-4173-bb64-30b827e96dda",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3a6f8760-2342-4173-bb64-30b827e96dda/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3a6f8760-2342-4173-bb64-30b827e96dda/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3a6f8760-2342-4173-bb64-30b827e96dda/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3a6f8760-2342-4173-bb64-30b827e96dda/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-02-19T20:48:20.000Z",
+      "updatedAt": "2026-02-19T20:48:19.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-02-24T14:07:11.000Z",
+    "recordedAt": "2025-12-20T00:00:00.000Z",
+    "createdAt": "2025-12-19T17:35:41.000Z"
+  }
+}

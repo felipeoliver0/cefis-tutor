@@ -1,0 +1,27 @@
+{
+  "id": 456717,
+  "title": "Gerenciador de equipe: relatórios e organograma",
+  "position": 11,
+  "duration": 720,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1cbfc7b5-024b-4fab-80fa-e64df925afb6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1cbfc7b5-024b-4fab-80fa-e64df925afb6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1cbfc7b5-024b-4fab-80fa-e64df925afb6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1cbfc7b5-024b-4fab-80fa-e64df925afb6/720.mp4",
+      "height": 720
+    }
+  ]
+}

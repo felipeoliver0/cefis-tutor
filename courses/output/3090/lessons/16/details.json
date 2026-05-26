@@ -1,0 +1,33 @@
+{
+  "id": 474355,
+  "title": "Como funciona?",
+  "position": 16,
+  "duration": 401,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5cb98b4f-40f5-40a5-b9f9-6eb7ab34efd7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5cb98b4f-40f5-40a5-b9f9-6eb7ab34efd7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5cb98b4f-40f5-40a5-b9f9-6eb7ab34efd7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5cb98b4f-40f5-40a5-b9f9-6eb7ab34efd7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5cb98b4f-40f5-40a5-b9f9-6eb7ab34efd7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

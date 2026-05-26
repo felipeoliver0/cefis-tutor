@@ -1,0 +1,33 @@
+{
+  "id": 487922,
+  "title": "Registro eletrônico dos dados - Parte 2",
+  "position": 13,
+  "duration": 387,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/3f91a825-ed97-4cfb-a166-df64f033f305/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3f91a825-ed97-4cfb-a166-df64f033f305/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3f91a825-ed97-4cfb-a166-df64f033f305/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3f91a825-ed97-4cfb-a166-df64f033f305/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3f91a825-ed97-4cfb-a166-df64f033f305/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1877,
+    "title": "Matemática Financeira com uso da HP 12C",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Matemática financeira com uso da HP 12C, você vai aprender tudo sobre matemática financeira para conquistar a tão sonhada aprovação no exame de suficiência do CRC. Dentre os tópicos apresentados, você entenderá sobre cálculos de juros simples, juros compostos, aplicação de taxas e descontos, séries de pagamentos, correção monetária, sistema de amortização, análise de investimentos e muitos outros pontos importantes para garantir sua aprovação e aplicar no dia-a-dia os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/a91807ef969a243db7107e8349aac27d1510003738.jpg",
+    "goals": [
+      "Proporcionar entendimento de matemática financeira com o uso da HP 12C."
+    ],
+    "teacher": {
+      "id": 543189,
+      "name": "TALITA KURODA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1639234803.jpeg"
+    },
+    "duration": 9520,
+    "keywords": "matematica financeira;HP;HP 12C",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 28,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 260,
+    "averageRating": 9.08,
+    "practiceAverage": 8.79,
+    "trailer": {
+      "id": "bda01c38-24f9-49e6-816f-4ac2cca62849",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bda01c38-24f9-49e6-816f-4ac2cca62849/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bda01c38-24f9-49e6-816f-4ac2cca62849/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bda01c38-24f9-49e6-816f-4ac2cca62849/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bda01c38-24f9-49e6-816f-4ac2cca62849/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-01-19T14:43:22.000Z",
+      "updatedAt": "2022-01-19T15:43:22.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 5,
+    "launchDate": "2022-01-24T07:42:14.000Z",
+    "recordedAt": "2022-01-20T00:00:00.000Z",
+    "createdAt": "2021-11-26T10:13:46.000Z"
+  }
+}

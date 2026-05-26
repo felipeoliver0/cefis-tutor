@@ -1,0 +1,33 @@
+{
+  "id": 459311,
+  "title": "Necessidades e expectativas das partes interessadas",
+  "position": 15,
+  "duration": 64,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/aee28730-474f-4ddd-ac93-eeecbd86a8f0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aee28730-474f-4ddd-ac93-eeecbd86a8f0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aee28730-474f-4ddd-ac93-eeecbd86a8f0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aee28730-474f-4ddd-ac93-eeecbd86a8f0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aee28730-474f-4ddd-ac93-eeecbd86a8f0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

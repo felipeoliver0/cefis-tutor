@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4396,
+    "title": "Reforma Tributária – Uma abordagem sobre os principais tópicos",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Reforma Tributária – Uma abordagem sobre os principais tópicos, curso prático você irá aprender na prática tudo o que precisa saber sobre a reforma tributária. Aprenderá os fundamentos e a prática de avaliar a evolução legislativa, entender a estrutura normativa da reforma e identificar as hipóteses de incidência, além de vários outros temas para você que deseja se atualizar ou aprender tudo sobre a reforma tributária.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/8d0dbb77-b249-43ff-ad06-4018284a7f35-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Reforma Tributária – Uma abordagem sobre os principais tópicos é a capacitação para a aplicação prática de uma compreensão profunda dos principais tópicos da reforma tributária brasileira."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 18992,
+    "keywords": "reforma;tributária",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 63,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 359,
+    "averageRating": 9.4,
+    "practiceAverage": 9.29,
+    "trailer": {
+      "id": "bb9345fc-f61a-4d66-94fe-825c33b7521a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bb9345fc-f61a-4d66-94fe-825c33b7521a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bb9345fc-f61a-4d66-94fe-825c33b7521a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bb9345fc-f61a-4d66-94fe-825c33b7521a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bb9345fc-f61a-4d66-94fe-825c33b7521a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-06T00:56:03.000Z",
+      "updatedAt": "2026-03-06T00:56:03.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-09T17:50:15.000Z",
+    "recordedAt": "2026-02-02T00:00:00.000Z",
+    "createdAt": "2026-01-31T20:45:59.000Z"
+  }
+}

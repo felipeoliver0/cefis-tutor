@@ -1,0 +1,149 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.660
+Então estou aqui com o trabalhador e esse trabalhador ele tinha um
+
+2
+00:00:03.670 --> 00:00:06.900
+número de telefone e eu vou ter esse número de telefone.
+
+3
+00:00:06.909 --> 00:00:10.279
+Eu vou, eu vou mudar o último dígito dele
+
+4
+00:00:11.479 --> 00:00:14.649
+e agora pessoal, o que que eu vou fazer?
+
+5
+00:00:14.659 --> 00:00:18.250
+Eu vou clicar em gravar porque com esse evento eu quero mostrar
+
+6
+00:00:18.260 --> 00:00:23.170
+pra vocês o quanto que o sistema ele vai ser automatizado.
+
+7
+00:00:23.180 --> 00:00:26.409
+Então eu alterei o dado do telefone do trabalhador
+
+8
+00:00:26.420 --> 00:00:29.370
+e eu vou clicar em gravar e observem o que
+
+9
+00:00:29.379 --> 00:00:32.299
+que o sistema vai me dizer E eu ia falar
+
+10
+00:00:32.310 --> 00:00:35.470
+o seguinte olha para os campos alterados nesse cadastro,
+
+11
+00:00:35.729 --> 00:00:41.180
+você deseja retificar os dados atuais ou incluir o histórico de alteração.
+
+12
+00:00:41.189 --> 00:00:45.740
+Então olha só que interessante, se eu for clicar em retificação,
+
+13
+00:00:45.750 --> 00:00:51.560
+significa que eu tinha errado na forma de de quando eu cadastrei ele, né?
+
+14
+00:00:51.950 --> 00:01:00.240
+E que com isso, o que que vai acontecer? Ele vai enviar o evento vinte e dois zero zero.
+
+15
+00:01:00.250 --> 00:01:05.080
+Ele vai enviar o evento s vinte e dois zero zero, que é o evento de admissão.
+
+16
+00:01:05.089 --> 00:01:11.019
+Ele vai enviar esse evento retificador vai enviar esse evento e retificador
+
+17
+00:01:11.349 --> 00:01:14.400
+Agora, se eu for clicar em alteração,
+
+18
+00:01:14.410 --> 00:01:18.440
+significa que quando ele foi admitido era de uma forma e a G está de outra forma,
+
+19
+00:01:18.449 --> 00:01:20.919
+Então aí ele vai enviar esse evento s vinte e
+
+20
+00:01:20.930 --> 00:01:24.129
+dois zero cinco que é o evento de alteração.
+
+21
+00:01:24.139 --> 00:01:28.959
+Olha só que interessante vou clicar aqui em alteração e vai me pedir a data.
+
+22
+00:01:28.970 --> 00:01:32.879
+E eu vou falar que a partir dessa data e vou clicar em gravar!
+
+23
+00:01:32.889 --> 00:01:34.699
+E olha só o que que vai subir?
+
+24
+00:01:38.209 --> 00:01:39.559
+Olha só pessoal
+
+25
+00:01:41.709 --> 00:01:43.419
+e eu vou clicar aqui em atualizar,
+
+26
+00:01:49.040 --> 00:01:50.209
+estou aplicando Oh,
+
+27
+00:01:50.220 --> 00:01:57.529
+subiu aqui evento esse vinte e dois zero cinco Alteração cadastral
+
+28
+00:01:57.540 --> 00:02:00.730
+que que eu quero mostrar com com isso pra vocês pessoal?
+
+29
+00:02:00.739 --> 00:02:04.489
+Ah, nossa eu vou ter que ficar lembrando vou ter que fazer uma admissão,
+
+30
+00:02:04.500 --> 00:02:06.970
+então eu tenho que enviar o vinte e dois zero cinco,
+
+31
+00:02:06.980 --> 00:02:11.130
+mas se eu tiver errado aí eu tenho que enviar o esse vinte e
+
+32
+00:02:11.139 --> 00:02:16.024
+dois zero zero hum pessoal o próprio sistema e já vai fazer isso automaticamente.
+
+33
+00:02:16.035 --> 00:02:19.184
+A gente só perguntou pra você se era um erro e consequentemente
+
+34
+00:02:19.195 --> 00:02:22.664
+uma retificação ou se era uma alteração você falou uma alteração,
+
+35
+00:02:22.675 --> 00:02:25.544
+então acabou, não tem mais nada do próprio sistema.
+
+36
+00:02:25.554 --> 00:02:28.744
+Já fez Se eu tivesse apertado retificação ia subir
+
+37
+00:02:28.755 --> 00:02:33.365
+aqui oh S vinte e dois zero zero Retificação beleza

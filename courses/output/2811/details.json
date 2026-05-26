@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2811,
+    "title": "Cancelamento de nota fiscal",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de cancelamento de notas fiscais, você irá aprender na prática tudo o que precisa saber sobre cancelamento de notas fiscais. Aprenderá os fundamentos e a prática de cancelamento de notas fiscais, prazos de cada estado e encerramento, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre cancelamento de notas fiscais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/97bb80bee7e38cdd5ae72c806b3ec78b1728384334.jpg",
+    "goals": [
+      "O objetivo do curso Cancelamento de nota fiscal: Curso Prático é a capacitação para a aplicação prática da gestão eficiente de cancelamentos de notas fiscais, garantindo conformidade com as regras e prazos estabelecidos pela legislação fiscal brasileira."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 1596,
+    "keywords": "cancelar;cancelamento;nota fiscal",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 784,
+    "averageRating": 9.4,
+    "practiceAverage": 9.39,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-10-24T15:37:06.000Z",
+    "recordedAt": "2023-08-31T00:00:00.000Z",
+    "createdAt": "2023-09-06T19:25:40.000Z"
+  }
+}

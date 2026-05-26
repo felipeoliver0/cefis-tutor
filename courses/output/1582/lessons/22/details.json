@@ -1,0 +1,33 @@
+{
+  "id": 453468,
+  "title": "Oitos \"P\"s | Perenidade",
+  "position": 22,
+  "duration": 193,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/214b444e-121d-458a-8a9b-1306d59995c1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/214b444e-121d-458a-8a9b-1306d59995c1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/214b444e-121d-458a-8a9b-1306d59995c1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/214b444e-121d-458a-8a9b-1306d59995c1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/214b444e-121d-458a-8a9b-1306d59995c1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

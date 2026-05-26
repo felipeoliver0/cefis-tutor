@@ -1,0 +1,33 @@
+{
+  "id": 457661,
+  "title": "Processo de mudanças das práticas contábeis Brasileiras",
+  "position": 6,
+  "duration": 133,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5300c1dd-adcc-482f-9ebc-8c52d509e40e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5300c1dd-adcc-482f-9ebc-8c52d509e40e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5300c1dd-adcc-482f-9ebc-8c52d509e40e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5300c1dd-adcc-482f-9ebc-8c52d509e40e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5300c1dd-adcc-482f-9ebc-8c52d509e40e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

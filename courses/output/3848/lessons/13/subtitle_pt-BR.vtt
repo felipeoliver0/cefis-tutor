@@ -1,0 +1,1093 @@
+WEBVTT
+
+1
+00:00:02.410 --> 00:00:03.170
+Aqui meus Carlos,
+
+2
+00:00:03.250 --> 00:00:04.570
+nós vamos falar dos blocos,
+
+3
+00:00:04.690 --> 00:00:04.809
+né?
+
+4
+00:00:04.889 --> 00:00:06.159
+Dos registros
+
+5
+00:00:06.570 --> 00:00:11.149
+são muitos blocos e vai aqui as dicas importantes para vocês são muitos blocos,
+
+6
+00:00:11.170 --> 00:00:12.170
+dentro da SF.
+
+7
+00:00:12.930 --> 00:00:14.810
+Mas nem todos nós vamos preencher.
+
+8
+00:00:15.750 --> 00:00:18.299
+nós vamos preencher aqueles que são inerente.
+
+9
+00:00:19.309 --> 00:00:20.629
+a nossa atividade,
+
+10
+00:00:21.229 --> 00:00:22.530
+a nossa tributação
+
+11
+00:00:23.069 --> 00:00:23.670
+perfeito.
+
+12
+00:00:24.510 --> 00:00:25.069
+Portanto,
+
+13
+00:00:25.579 --> 00:00:29.579
+é importante que a pessoa que esteja preenchendo
+
+14
+00:00:29.909 --> 00:00:33.220
+os dados iniciais ou os dados cadastrais dentro do RP
+
+15
+00:00:33.509 --> 00:00:35.340
+ou mesmo aqui dentro da ECF,
+
+16
+00:00:35.990 --> 00:00:38.569
+que tenha pleno conhecimento do cliente
+
+17
+00:00:39.110 --> 00:00:41.400
+que tenha pleno conhecimento do seu empregador.
+
+18
+00:00:42.090 --> 00:00:45.919
+porque haverá muitas perguntas como eu vou mostrar para vocês
+
+19
+00:00:46.330 --> 00:00:47.970
+que nós vamos ter que botar sim ou não,
+
+20
+00:00:48.169 --> 00:00:48.840
+sim ou não
+
+21
+00:00:49.450 --> 00:00:51.569
+Cada sim que eu colocar lá dentro.
+
+22
+00:00:52.009 --> 00:00:52.959
+Ele vai me abrir
+
+23
+00:00:53.209 --> 00:00:54.889
+um bloco lá da frente para me preencher.
+
+24
+00:00:56.680 --> 00:00:58.759
+Se eu não botar o sim e tiver o sim,
+
+25
+00:00:58.880 --> 00:01:00.029
+eu estou emitindo informação,
+
+26
+00:01:00.720 --> 00:01:01.229
+entendeu.
+
+27
+00:01:02.049 --> 00:01:02.279
+Então,
+
+28
+00:01:02.360 --> 00:01:03.880
+além dos dados cadastrais,
+
+29
+00:01:03.919 --> 00:01:04.760
+que é importantíssimo,
+
+30
+00:01:04.839 --> 00:01:07.519
+são várias perguntas que eu tenho que tá correto.
+
+31
+00:01:07.919 --> 00:01:10.279
+Tudo depende o que eu responder ou que ele vai me abrir.
+
+32
+00:01:10.360 --> 00:01:11.669
+Tá Nós vamos ver os blocos
+
+33
+00:01:12.120 --> 00:01:13.279
+Diferentemente da ECD,
+
+34
+00:01:13.290 --> 00:01:13.430
+né?
+
+35
+00:01:13.440 --> 00:01:15.160
+Que a SCD são meia dúzia de blocos.
+
+36
+00:01:15.279 --> 00:01:16.000
+Nós comentamos,
+
+37
+00:01:16.080 --> 00:01:16.309
+né?
+
+38
+00:01:16.910 --> 00:01:18.319
+Aqui não são vários
+
+39
+00:01:18.599 --> 00:01:21.480
+O bloco zero vai ser a abertura e identificação.
+
+40
+00:01:22.040 --> 00:01:23.319
+Ele abre o arquivo,
+
+41
+00:01:23.400 --> 00:01:26.550
+identifica a pessoa jurídica e referencia,
+
+42
+00:01:27.000 --> 00:01:27.250
+né?
+
+43
+00:01:27.639 --> 00:01:28.989
+O período da SF.
+
+44
+00:01:30.010 --> 00:01:31.480
+Tá Então teoricamente
+
+45
+00:01:31.830 --> 00:01:34.309
+todos esses dados está lá no TRP regis-,
+
+46
+00:01:34.389 --> 00:01:34.629
+né?
+
+47
+00:01:34.800 --> 00:01:35.750
+No Cadastro
+
+48
+00:01:36.269 --> 00:01:38.010
+Eu preciso verificar se está correto ou não.
+
+49
+00:01:38.389 --> 00:01:38.949
+Tem que checar,
+
+50
+00:01:39.269 --> 00:01:39.540
+né?
+
+51
+00:01:40.389 --> 00:01:42.919
+Então entre o registro inicial e o registro final.
+
+52
+00:01:43.269 --> 00:01:45.699
+O arquivo digital é constituído de blocos,
+
+53
+00:01:46.230 --> 00:01:49.309
+referindo-se cada um deles a um agrupamento de informações.
+
+54
+00:01:49.430 --> 00:01:50.430
+Então no globo do bloco
+
+55
+00:01:51.110 --> 00:01:53.180
+eu tenho a abertura e identificação.
+
+56
+00:01:54.160 --> 00:01:55.830
+Depois eu vou ter aqui
+
+57
+00:01:56.000 --> 00:01:57.050
+o bloco C.
+
+58
+00:01:58.620 --> 00:01:58.830
+né?
+
+59
+00:01:58.860 --> 00:02:03.209
+O Bloco C informações recuperadas da ECD e nós já vimos
+
+60
+00:02:03.419 --> 00:02:07.680
+que quem é obrigado a entregar ECD é obrigado a recuperar a ECD aqui dentro.
+
+61
+00:02:08.139 --> 00:02:10.190
+Bloco recuperado pelo sistema
+
+62
+00:02:10.660 --> 00:02:13.710
+não é importado e não é editado no programa.
+
+63
+00:02:13.779 --> 00:02:15.500
+Eu não posso mexer no que eu já entreguei,
+
+64
+00:02:15.580 --> 00:02:17.929
+entendeu em termos de contabilidade.
+
+65
+00:02:19.759 --> 00:02:22.949
+Ele armazena as informações do plano de contas
+
+66
+00:02:23.339 --> 00:02:26.759
+do plano de contas e dos saldos mensais da ECD recuperada,
+
+67
+00:02:27.000 --> 00:02:27.320
+ou seja,
+
+68
+00:02:27.360 --> 00:02:28.479
+o plano de contas contábil,
+
+69
+00:02:28.559 --> 00:02:28.850
+né?
+
+70
+00:02:29.479 --> 00:02:33.630
+As ECDs recuperadas devem corresponder ao mesmo período da ECF
+
+71
+00:02:34.000 --> 00:02:35.110
+não pode ser diferente.
+
+72
+00:02:35.889 --> 00:02:40.789
+E os seguintes que existe da ECD são recuperado aqui nesse época nós vamos ter o quê
+
+73
+00:02:41.080 --> 00:02:42.240
+O I050,
+
+74
+00:02:42.279 --> 00:02:44.270
+que é o plano de contas da empresa
+
+75
+00:02:44.679 --> 00:02:49.259
+O I051 é o mapeamento para o plano de contas referencial.
+
+76
+00:02:50.179 --> 00:02:53.360
+Se eu fiz esse referenciamento lá na ECD,
+
+77
+00:02:53.679 --> 00:02:55.080
+ele já vem automático para cá.
+
+78
+00:02:55.160 --> 00:02:56.080
+Não preciso fazer aqui
+
+79
+00:02:56.440 --> 00:02:59.119
+São aqui eu vou ter esse trabalho que não é aconselhável.
+
+80
+00:02:59.440 --> 00:03:02.050
+É aconselhável que você faça lá na ECD
+
+81
+00:03:02.600 --> 00:03:05.479
+perfeito e muitas vezes o software de vocês,
+
+82
+00:03:05.559 --> 00:03:06.750
+o software de gestão
+
+83
+00:03:07.240 --> 00:03:09.350
+já tem essa parametrização pronta
+
+84
+00:03:09.839 --> 00:03:12.399
+e muitos deles nem permite que você abra uma
+
+85
+00:03:12.399 --> 00:03:15.550
+nova conta contábil se você não referenciar primeiro.
+
+86
+00:03:16.149 --> 00:03:16.539
+que eu
+
+87
+00:03:16.710 --> 00:03:17.770
+achei legal isso,
+
+88
+00:03:17.990 --> 00:03:18.339
+né?
+
+89
+00:03:18.509 --> 00:03:19.800
+Porque muitas vezes você esquece,
+
+90
+00:03:19.869 --> 00:03:20.589
+então ele não.
+
+91
+00:03:20.789 --> 00:03:23.509
+Você só consegue abrir a conta se você fazer referenciamento,
+
+92
+00:03:24.070 --> 00:03:24.589
+ou seja,
+
+93
+00:03:24.910 --> 00:03:28.720
+do seu plano de contas da empresa para o plano de contas da Receita Federal,
+
+94
+00:03:29.050 --> 00:03:30.580
+chamado de plano referencial
+
+95
+00:03:31.110 --> 00:03:31.809
+perfeito.
+
+96
+00:03:31.929 --> 00:03:33.029
+Essa é a função deles.
+
+97
+00:03:33.190 --> 00:03:36.029
+Então o I051 é o referencial
+
+98
+00:03:36.229 --> 00:03:41.350
+o I053 subcontas correlata que veio lá a constituição normativa 1700
+
+99
+00:03:41.630 --> 00:03:42.059
+não é
+
+100
+00:03:42.789 --> 00:03:44.110
+a Lei 12973,
+
+101
+00:03:44.229 --> 00:03:44.479
+né?
+
+102
+00:03:44.779 --> 00:03:46.449
+Depois o seto de custo,
+
+103
+00:03:46.820 --> 00:03:47.860
+datas de saldo,
+
+104
+00:03:47.940 --> 00:03:48.940
+saldos periódicos,
+
+105
+00:03:49.059 --> 00:03:49.899
+transferência,
+
+106
+00:03:49.979 --> 00:03:51.009
+data de apuração,
+
+107
+00:03:51.539 --> 00:03:54.270
+saldos contábeis de resultado antes do encerramento,
+
+108
+00:03:54.419 --> 00:03:54.610
+né?
+
+109
+00:03:54.860 --> 00:03:56.539
+Então Tudo isso vem lá no bloco C,
+
+110
+00:03:56.779 --> 00:03:58.139
+que é um batimento de saldos
+
+111
+00:03:59.020 --> 00:04:01.789
+Estão obrigadas a efetuar a recuperação da ECD.
+
+112
+00:04:01.860 --> 00:04:04.710
+Todas as pessoas jurídicas obrigada a entregar a ECD
+
+113
+00:04:05.259 --> 00:04:08.770
+conforme instrução normativa 2003 suas alterações.
+
+114
+00:04:09.360 --> 00:04:10.720
+Bacana a gente entendeu Co-
+
+115
+00:04:11.000 --> 00:04:12.720
+Como ficou a coisa Então ficou bem tranquilo,
+
+116
+00:04:12.800 --> 00:04:12.919
+né?
+
+117
+00:04:13.000 --> 00:04:14.559
+Pra gente entender os blocos,
+
+118
+00:04:14.690 --> 00:04:16.850
+Então isso vai ser automático quando eu recuperar
+
+119
+00:04:17.279 --> 00:04:18.329
+o bloco E.
+
+120
+00:04:19.100 --> 00:04:21.548
+São informações recuperadas da ECCF.
+
+121
+00:04:22.350 --> 00:04:26.480
+que nós comentamos eu recupero o AECD e recupero AEF
+
+122
+00:04:26.709 --> 00:04:27.350
+Os dois não é
+
+123
+00:04:28.070 --> 00:04:30.540
+Então Olha anterior ao coco fiscal dos dados,
+
+124
+00:04:31.109 --> 00:04:31.380
+né?
+
+125
+00:04:31.950 --> 00:04:36.329
+Bloco recuperado pelo sistema não é importado e não é editado no programa.
+
+126
+00:04:38.059 --> 00:04:39.750
+Aí Vocês podem me perguntar professor,
+
+127
+00:04:39.820 --> 00:04:41.190
+é a primeira que eu estou entregando.
+
+128
+00:04:41.519 --> 00:04:42.140
+Se é a primeira,
+
+129
+00:04:42.220 --> 00:04:43.529
+não tem que recuperar nada
+
+130
+00:04:43.630 --> 00:04:44.179
+perfeito.
+
+131
+00:04:44.989 --> 00:04:45.940
+Bacana gente
+
+132
+00:04:46.390 --> 00:04:46.739
+Então
+
+133
+00:04:47.230 --> 00:04:49.230
+o bloco C e é recuperado,
+
+134
+00:04:49.309 --> 00:04:49.540
+né?
+
+135
+00:04:50.029 --> 00:04:51.290
+Ele armazena
+
+136
+00:04:51.529 --> 00:04:54.269
+da ECF recuperado no período imediatamente anterior
+
+137
+00:04:54.269 --> 00:04:56.510
+os saldos finais das contas referenciais,
+
+138
+00:04:56.589 --> 00:04:58.279
+que é o plano de contas referencial
+
+139
+00:04:58.570 --> 00:05:01.600
+e a parte B do ELLLUR e do Elax
+
+140
+00:05:02.109 --> 00:05:05.220
+Porque na parte A do LALUR e do Elax
+
+141
+00:05:05.630 --> 00:05:07.459
+é onde você tem as adições,
+
+142
+00:05:07.670 --> 00:05:10.579
+exclusões e compensações prescritas e leis
+
+143
+00:05:10.790 --> 00:05:11.500
+perfeito
+
+144
+00:05:11.730 --> 00:05:13.609
+E na parte B a parte de controle.
+
+145
+00:05:14.440 --> 00:05:14.910
+entendeu
+
+146
+00:05:15.079 --> 00:05:15.190
+É,
+
+147
+00:05:15.200 --> 00:05:16.709
+onde você controla os saldos
+
+148
+00:05:17.160 --> 00:05:20.029
+que você vai adicionar ou excluir no futuro.
+
+149
+00:05:21.059 --> 00:05:22.220
+Essa é a função da parte B.
+
+150
+00:05:23.149 --> 00:05:27.269
+Tanto é pessoal quando foi criado o LLUR lá em 1977
+
+151
+00:05:27.470 --> 00:05:29.100
+com o decreto 1598.
+
+152
+00:05:30.160 --> 00:05:32.119
+Nós comprávamos o livro sem Folha,
+
+153
+00:05:32.160 --> 00:05:32.640
+por exemplo,
+
+154
+00:05:33.000 --> 00:05:38.309
+eu era obrigado a dividir o livro no meio 50 Folha para parte A50 Folha para parte B
+
+155
+00:05:40.109 --> 00:05:41.000
+A parte A parte de adições,
+
+156
+00:05:41.149 --> 00:05:41.660
+exclusões,
+
+157
+00:05:41.760 --> 00:05:43.769
+compensações e a parte B de controle
+
+158
+00:05:44.359 --> 00:05:47.279
+Quando nós preenchêssemos qualquer uma das partes,
+
+159
+00:05:47.920 --> 00:05:50.440
+o livro era considerado plenamente preenchido.
+
+160
+00:05:50.600 --> 00:05:51.640
+Eu tinha que comprar outro,
+
+161
+00:05:51.720 --> 00:05:53.029
+fazer o termo de abertura
+
+162
+00:05:53.239 --> 00:05:55.109
+e continuar a escrituração entendeu.
+
+163
+00:05:55.790 --> 00:05:56.709
+E na parte B,
+
+164
+00:05:56.950 --> 00:05:58.750
+cada folha era um evento.
+
+165
+00:06:00.420 --> 00:06:00.779
+Perfeito,
+
+166
+00:06:00.859 --> 00:06:01.179
+ou seja,
+
+167
+00:06:01.299 --> 00:06:03.329
+se se eu tivesse um prejuízo fiscal
+
+168
+00:06:03.679 --> 00:06:05.299
+do ano de 2020,
+
+169
+00:06:05.380 --> 00:06:07.239
+eu tinha que abrir uma folha prejuízo fiscal
+
+170
+00:06:07.619 --> 00:06:10.959
+2021 teve um prejuízo outra folha 2021
+
+171
+00:06:11.220 --> 00:06:12.059
+entendeu Porque.
+
+172
+00:06:12.100 --> 00:06:14.209
+Depois eu vinha compensando cada um deles.
+
+173
+00:06:15.260 --> 00:06:16.929
+Hoje tudo de maneira eletrônica,
+
+174
+00:06:17.339 --> 00:06:19.600
+mas eu abro essas contas ainda aqui dentro da
+
+175
+00:06:19.779 --> 00:06:21.410
+dentro da SF perfeito
+
+176
+00:06:21.820 --> 00:06:24.369
+E Obviamente eu tenho os controles desse LALUR
+
+177
+00:06:25.100 --> 00:06:26.059
+lá nos meus,
+
+178
+00:06:26.420 --> 00:06:28.420
+nas minhas planilhas exc et cetera,
+
+179
+00:06:28.660 --> 00:06:32.250
+que é o que eu vou conferir com a minha ECF quando eu importar os dados.
+
+180
+00:06:33.239 --> 00:06:35.920
+É essas memórias de cálculo que nós temos que conferir,
+
+181
+00:06:36.000 --> 00:06:36.190
+né?
+
+182
+00:06:36.559 --> 00:06:37.309
+Então Olha só
+
+183
+00:06:38.670 --> 00:06:40.750
+E calcula os saldos contábeis.
+
+184
+00:06:40.790 --> 00:06:42.149
+De acordo com o período de apuração,
+
+185
+00:06:42.230 --> 00:06:43.299
+ele apresenta,
+
+186
+00:06:44.149 --> 00:06:45.109
+então esse é o bloco E,
+
+187
+00:06:45.160 --> 00:06:45.350
+né?
+
+188
+00:06:45.709 --> 00:06:47.750
+Ele calcula os saldos e ele traz lá
+
+189
+00:06:48.029 --> 00:06:50.170
+os saldos da parte B pra fazer os batimentos.
+
+190
+00:06:50.790 --> 00:06:51.100
+Então
+
+191
+00:06:51.630 --> 00:06:55.299
+não é importado e não é editado tanto a ECD quanto a ECF.
+
+192
+00:06:55.790 --> 00:06:59.059
+Já o bloco J é o plano de contas e mapeamento,
+
+193
+00:06:59.149 --> 00:06:59.859
+o bloco J.
+
+194
+00:07:00.420 --> 00:07:00.619
+Então.
+
+195
+00:07:00.700 --> 00:07:03.769
+Ele apresenta o mapeamento do plano de contas contábil
+
+196
+00:07:04.119 --> 00:07:06.260
+para o plano de contas referencial é o D
+
+197
+00:07:06.260 --> 00:07:08.540
+para onde você vai checar se está tudo correto,
+
+198
+00:07:08.899 --> 00:07:10.019
+perfeito O D para.
+
+199
+00:07:10.700 --> 00:07:12.040
+O que que é esse depara,
+
+200
+00:07:12.140 --> 00:07:12.329
+né?
+
+201
+00:07:12.739 --> 00:07:15.850
+Muitos alunos estão começando o que que é esse depara pessoal
+
+202
+00:07:16.179 --> 00:07:19.470
+Então é um exemplo que eu sempre costumo comentar nos meus cursos.
+
+203
+00:07:19.579 --> 00:07:22.019
+Vamos supor na sua contabilidade você tem lá
+
+204
+00:07:22.380 --> 00:07:23.059
+plano de contas.
+
+205
+00:07:23.850 --> 00:07:25.750
+Você tem uma conta corrente do Banco Itaú
+
+206
+00:07:25.940 --> 00:07:27.149
+uma conta corrente do Bradesco,
+
+207
+00:07:27.220 --> 00:07:28.459
+uma conta corrente do Banco do Brasil,
+
+208
+00:07:28.619 --> 00:07:30.170
+uma conta corrente na Caixa Econômica
+
+209
+00:07:30.299 --> 00:07:31.100
+perfeito Você está lá,
+
+210
+00:07:31.579 --> 00:07:32.000
+ou seja,
+
+211
+00:07:32.260 --> 00:07:33.380
+na no seu plano de contas,
+
+212
+00:07:33.420 --> 00:07:34.529
+você tem uma conta para cada um,
+
+213
+00:07:34.540 --> 00:07:36.010
+uma conta contábel perfeito.
+
+214
+00:07:36.769 --> 00:07:38.209
+no plano da Receita Federal.
+
+215
+00:07:38.250 --> 00:07:40.529
+Ela não quer saber se você tem conta no Itaú,
+
+216
+00:07:40.609 --> 00:07:41.299
+no Bradesco,
+
+217
+00:07:41.329 --> 00:07:41.850
+na Caixa,
+
+218
+00:07:41.970 --> 00:07:42.760
+não quer saber disso.
+
+219
+00:07:43.630 --> 00:07:46.660
+Ela tem uma linha lá chamado Bancos conta no país
+
+220
+00:07:47.149 --> 00:07:49.269
+e bancos conta no exterior ponto
+
+221
+00:07:50.299 --> 00:07:51.790
+Então você vai pegar o Itaú,
+
+222
+00:07:51.910 --> 00:07:52.489
+o Bradesco,
+
+223
+00:07:52.549 --> 00:07:53.190
+a Caixa Econômica,
+
+224
+00:07:53.200 --> 00:07:53.899
+o Banco do Brasil
+
+225
+00:07:54.209 --> 00:07:56.660
+e vai referenciar tudo uma conta só
+
+226
+00:07:57.269 --> 00:08:00.600
+que é bancos conta no país ponto Isso é o referencial
+
+227
+00:08:00.829 --> 00:08:02.339
+Quem tem que fazer isso o contador.
+
+228
+00:08:03.890 --> 00:08:05.290
+Como o software de vocês,
+
+229
+00:08:05.410 --> 00:08:06.910
+principalmente quem é do escritório.
+
+230
+00:08:07.209 --> 00:08:09.399
+Eles já mandam os planos de contas padrão.
+
+231
+00:08:10.440 --> 00:08:11.399
+e muitas vezes três,
+
+232
+00:08:11.480 --> 00:08:11.559
+né?
+
+233
+00:08:11.600 --> 00:08:12.279
+Um para comércio,
+
+234
+00:08:12.320 --> 00:08:13.119
+um para a indústria,
+
+235
+00:08:13.399 --> 00:08:16.839
+um para prestador de serviço ou um planão gigante para tudo.
+
+236
+00:08:16.880 --> 00:08:17.119
+Enfim,
+
+237
+00:08:17.200 --> 00:08:18.429
+cada sistema tem o seu
+
+238
+00:08:18.600 --> 00:08:19.679
+sua metodologia.
+
+239
+00:08:19.920 --> 00:08:22.230
+Então eles já fizeram esse referenciamento
+
+240
+00:08:22.510 --> 00:08:24.380
+Compete a você contador,
+
+241
+00:08:24.440 --> 00:08:25.220
+contabilista
+
+242
+00:08:25.359 --> 00:08:26.799
+você checar se tá de acordo,
+
+243
+00:08:26.880 --> 00:08:28.130
+você precisa mudar alguma coisa,
+
+244
+00:08:28.640 --> 00:08:29.309
+entendeu
+
+245
+00:08:29.649 --> 00:08:30.700
+É o D para.
+
+246
+00:08:31.190 --> 00:08:35.070
+Nós temos que fazer isso lá na contabilidade lá na ECD Quando puxar para cá,
+
+247
+00:08:35.150 --> 00:08:35.750
+já vem correto,
+
+248
+00:08:36.030 --> 00:08:36.940
+Entenderam pessoal
+
+249
+00:08:37.159 --> 00:08:38.549
+Então para quem está começando aí na
+
+250
+00:08:38.669 --> 00:08:39.190
+na profissão.
+
+251
+00:08:39.340 --> 00:08:41.950
+Essa é uma dica importante você checar para verificar se está tudo correto,
+
+252
+00:08:42.030 --> 00:08:42.700
+se faz sentido
+
+253
+00:08:42.989 --> 00:08:44.150
+e se abrir uma nova conta,
+
+254
+00:08:44.229 --> 00:08:46.099
+obviamente tem que referenciar para onde vai.
+
+255
+00:08:46.869 --> 00:08:47.859
+ativo passivo
+
+256
+00:08:48.150 --> 00:08:49.590
+patrimônio líquido despesa receita,
+
+257
+00:08:49.630 --> 00:08:49.909
+enfim,
+
+258
+00:08:50.190 --> 00:08:50.510
+né?
+
+259
+00:08:51.130 --> 00:08:53.940
+Então é o deparo O Jota é o plano de contas mapeamento.
+
+260
+00:08:54.190 --> 00:08:56.640
+Ele apresenta o mapeamento do plano de contas contábil
+
+261
+00:08:56.640 --> 00:08:59.179
+para o plano de contas referencial da Receita Federal.
+
+262
+00:09:00.320 --> 00:09:05.270
+Caso a ECD recuperada possua o mapeamento no plano de contas referencial
+
+263
+00:09:05.520 --> 00:09:06.429
+válido da SCF.
+
+264
+00:09:06.479 --> 00:09:08.260
+O bloco J pode ser construído
+
+265
+00:09:08.559 --> 00:09:09.479
+automaticamente,
+
+266
+00:09:09.559 --> 00:09:10.719
+que é o que a gente aconselha,
+
+267
+00:09:11.320 --> 00:09:11.789
+né?
+
+268
+00:09:12.039 --> 00:09:12.640
+Ou seja,
+
+269
+00:09:12.760 --> 00:09:14.469
+e é permitida a sua
+
+270
+00:09:14.679 --> 00:09:15.239
+edição,
+
+271
+00:09:15.479 --> 00:09:15.690
+né?
+
+272
+00:09:16.039 --> 00:09:18.080
+Porque aí eu posso fazer as alterações,
+
+273
+00:09:18.200 --> 00:09:18.460
+né?

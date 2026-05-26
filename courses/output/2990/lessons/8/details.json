@@ -1,0 +1,33 @@
+{
+  "id": 472434,
+  "title": "Metodologia OKR",
+  "position": 8,
+  "duration": 316,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b03ca372-81b2-4e81-8baf-ae0d5a14a1fa/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b03ca372-81b2-4e81-8baf-ae0d5a14a1fa/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b03ca372-81b2-4e81-8baf-ae0d5a14a1fa/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b03ca372-81b2-4e81-8baf-ae0d5a14a1fa/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b03ca372-81b2-4e81-8baf-ae0d5a14a1fa/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.839
+A nossa introdução, com relação a esse tema extremamente importante,
+
+3
+00:00:03.839 --> 00:00:08.640
+ele visa exatamente isso, escrituração contábil digital.
+
+4
+00:00:08.640 --> 00:00:14.439
+Ela consolidou-se como uma das principais obrigações acessórias do SPED,
+
+5
+00:00:14.439 --> 00:00:18.320
+isso, Sistema Público de Escrituração Digital,
+
+6
+00:00:18.320 --> 00:00:23.120
+exigindo domínio técnico das normas contábeis.
+
+7
+00:00:23.120 --> 00:00:27.019
+Porque nós estamos falando da contabilidade, não é?
+
+8
+00:00:27.019 --> 00:00:34.899
+Além da precisão na geração, validação e transmissão das informações ao fisco,
+
+9
+00:00:34.899 --> 00:00:38.359
+especialmente a Receita Federal do Brasil.
+
+10
+00:00:38.359 --> 00:00:42.700
+É ela que nós informamos aí todas as informações.
+
+11
+00:00:42.700 --> 00:00:46.600
+Com a evolução constante do ambiente digital
+
+12
+00:00:46.600 --> 00:00:52.719
+e, obviamente, o aumento de nível de cruzamento dos dados, totalmente eletrônico,
+
+13
+00:00:52.719 --> 00:00:56.320
+a ECD passa a exigir uma postura
+
+14
+00:00:56.320 --> 00:00:57.020
+ainda mais,
+
+15
+00:00:57.020 --> 00:01:01.700
+mais estratégica por parte dos profissionais de contabilidade.
+
+16
+00:01:01.700 --> 00:01:05.120
+Olha a importância dessa demonstração.
+
+17
+00:01:05.120 --> 00:01:10.799
+A entrega deixou de ser um procedimento meramente operacional,
+
+18
+00:01:10.799 --> 00:01:14.439
+foi muito mais além disso e passou a demandar o quê?
+
+19
+00:01:14.439 --> 00:01:19.780
+A atenção, a consistência, a rastreabilidade
+
+20
+00:01:19.780 --> 00:01:23.780
+e a integridade das informações contábeis.
+
+21
+00:01:23.780 --> 00:01:26.319
+Que, obviamente, servirão de base
+
+22
+00:01:26.319 --> 00:01:29.060
+para outras declarações, principalmente
+
+23
+00:01:29.060 --> 00:01:32.900
+a escrituração contábil fiscal, a nossa ECF,
+
+24
+00:01:32.900 --> 00:01:36.400
+além de possíveis fiscalizações.
+
+25
+00:01:36.400 --> 00:01:37.060
+Por quê?
+
+26
+00:01:37.060 --> 00:01:40.659
+Porque toda nossa contabilidade está ali, não é?
+
+27
+00:01:40.659 --> 00:01:43.540
+O que nós fazíamos, antigamente,
+
+28
+00:01:43.540 --> 00:01:45.200
+de uma maneira manual,
+
+29
+00:01:45.200 --> 00:01:47.480
+de uma maneira de impressão de livros,
+
+30
+00:01:47.480 --> 00:01:50.340
+de uma maneira de encadernação de livros,
+
+31
+00:01:50.340 --> 00:01:52.540
+hoje, totalmente eletrônica.
+
+32
+00:01:52.540 --> 00:01:54.739
+Desde 2010.
+
+33
+00:01:54.739 --> 00:01:56.180
+Esse curso será conduzido,
+
+34
+00:01:56.180 --> 00:02:01.280
+com uma abordagem prática, como nós gostamos de estar passando as informações para vocês,
+
+35
+00:02:01.760 --> 00:02:08.680
+atualizada, compreendendo desde os fundamentos importantes, os fundamentos da ECD, até os
+
+36
+00:02:08.680 --> 00:02:13.439
+pontos críticos que geram inconsistências e riscos fiscais.
+
+37
+00:02:14.000 --> 00:02:20.560
+Nós vamos explorar aspectos como estrutura do arquivo, regras de validação, principais
+
+38
+00:02:20.560 --> 00:02:27.819
+erros, cruzamento com tantas outras obrigações que nós temos e boas práticas para entrega segura.
+
+39
+00:02:28.500 --> 00:02:32.120
+Por que nós trazemos desde o início, desde a estrutura?
+
+40
+00:02:32.219 --> 00:02:37.500
+Porque nós temos alunos que estão começando na profissão, muitos não conhecem, nunca
+
+41
+00:02:37.500 --> 00:02:40.639
+elaboraram uma ECD, então a gente traz desde os princípios.
+
+42
+00:02:41.199 --> 00:02:45.319
+Mas, obviamente, você que já é experiente, que já tem esse domínio, já tem esse conhecimento,
+
+43
+00:02:45.639 --> 00:02:47.360
+pule para as aulas seguintes.
+
+44
+00:02:47.460 --> 00:02:50.080
+Nós fazíamos ainda diversas aulas.
+
+45
+00:02:50.080 --> 00:02:53.400
+Exatamente para facilitar a escolha de vocês.
+
+46
+00:02:53.879 --> 00:02:57.939
+Quem realmente não tem essa experiência, assiste o curso todo completo.
+
+47
+00:02:58.319 --> 00:03:02.479
+Esse é o nosso objetivo, atender a todos os nossos alunos aqui da Cefis.
+
+48
+00:03:03.099 --> 00:03:09.979
+Esse curso foi estruturado para desenvolver sua atuação na ECD com segurança, eficiência
+
+49
+00:03:09.979 --> 00:03:12.620
+e, acima de tudo, senso crítico.
+
+50
+00:03:13.159 --> 00:03:16.080
+Se tudo que você está se transmissindo está correto.
+
+51
+00:03:17.139 --> 00:03:18.240
+Contribuindo para quê?
+
+52
+00:03:18.240 --> 00:03:19.819
+Para a melhoria da qualidade.
+
+53
+00:03:20.080 --> 00:03:25.479
+Para a melhoria da informação contábil e para o fortalecimento do posicionamento dos
+
+54
+00:03:25.479 --> 00:03:30.280
+profissionais em um cenário tributário cada vez mais exigente.
+
+55
+00:03:30.280 --> 00:03:34.780
+Particularmente é uma das demonstrações e uma das obrigações acessórias que eu
+
+56
+00:03:34.780 --> 00:03:41.840
+tenho muito gosto, porque ali é a nossa contabilidade na veia, contabilidade pura.
+
+57
+00:03:41.840 --> 00:03:47.719
+Tem que ser bem feita, tem que ser de acordo com as regras contábeis, com os pronunciamentos
+
+58
+00:03:47.719 --> 00:03:49.879
+do comitê de pronunciamentos contábeis.
+
+59
+00:03:49.879 --> 00:03:54.479
+Com as normas brasileiras de contabilidade, sem sombra de dúvida.
+
+60
+00:03:54.479 --> 00:03:56.580
+Então, essa é a nossa obrigação.
+
+61
+00:03:56.580 --> 00:04:04.379
+Transmitir uma contabilidade segura, cristalina, eficiente, sem nenhum viés.
+
+62
+00:04:04.379 --> 00:04:05.680
+Esse é o nosso objetivo aqui.

@@ -1,0 +1,325 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.799
+pessoal, vamos lá na parte de importação de arquivos.
+
+2
+00:00:03.450 --> 00:00:08.720
+O que que a gente precisa pensar e entender nessa parte de de arquivos?
+
+3
+00:00:09.939 --> 00:00:11.770
+Vamos abrir aqui o nosso Excel
+
+4
+00:00:12.380 --> 00:00:12.850
+Bom,
+
+5
+00:00:13.630 --> 00:00:16.180
+então pessoal, nós estamos aqui com o nosso Excel,
+
+6
+00:00:17.190 --> 00:00:21.569
+eh okay, que observando aqui pessoal,
+
+7
+00:00:21.579 --> 00:00:26.600
+lembra que eu falei especificamente que no caso do SPED, por exemplo,
+
+8
+00:00:26.610 --> 00:00:29.760
+você tem um spa de uma empresa específica, Taxa.
+
+9
+00:00:29.770 --> 00:00:34.020
+Uma empresa test tem lá um um arquivo, qualquer criado
+
+10
+00:00:34.639 --> 00:00:35.349
+bom,
+
+11
+00:00:35.919 --> 00:00:38.310
+a gente sabe que todo o arquivo do SPED,
+
+12
+00:00:38.319 --> 00:00:41.950
+ele é separado por uma barrinha vertical que chama pipe.
+
+13
+00:00:43.240 --> 00:00:47.990
+Na hora que eu pego aqui esse arquivo copio, vou lá.
+
+14
+00:00:48.000 --> 00:00:52.430
+Copio, dou controlar, né control, c Vou colar ele inteirinho no meu excel
+
+15
+00:00:53.639 --> 00:00:56.810
+Na hora que eu colo ele no meu excel que que
+
+16
+00:00:56.819 --> 00:01:00.909
+eu vejo toda a informação tá em uma única coluna,
+
+17
+00:01:02.009 --> 00:01:04.860
+ele tá em uma única coluna. Eu preciso fazer o que?
+
+18
+00:01:04.870 --> 00:01:07.180
+Eu preciso quebrar isso aqui em colunas.
+
+19
+00:01:07.190 --> 00:01:10.879
+Então na hora que eu clico aqui em cima do ar, eu venho dados
+
+20
+00:01:11.610 --> 00:01:13.519
+e cadê
+
+21
+00:01:15.069 --> 00:01:16.580
+texto para colunas?
+
+22
+00:01:16.589 --> 00:01:21.040
+Quando eu chamo o texto para colunas, eu tô fazendo o que eu tô contando,
+
+23
+00:01:21.050 --> 00:01:26.199
+que eu vou separar aquele texto que tá tudo numa única célula.
+
+24
+00:01:26.209 --> 00:01:27.180
+Se a gente pegar aqui oh,
+
+25
+00:01:27.190 --> 00:01:30.360
+vou até cancelar aqui pra gente explicar Oh se eu der
+
+26
+00:01:30.370 --> 00:01:33.980
+aqui pra ampliar o tamanho da célula A C fica gigante!
+
+27
+00:01:33.989 --> 00:01:37.940
+Por que que ela fica gigante porque toda essa informação tá dentro dela.
+
+28
+00:01:40.569 --> 00:01:44.500
+Então, diante disso a gente vai fazer o quê? Pessoal.
+
+29
+00:01:44.510 --> 00:01:46.059
+A gente tem uma uma,
+
+30
+00:01:46.069 --> 00:01:50.500
+uma ferramenta que a chama dados texto para colunas
+
+31
+00:01:50.510 --> 00:01:53.400
+que eu vou transformar os textos em colunas.
+
+32
+00:01:53.410 --> 00:01:55.160
+Ele pode ser de duas formas
+
+33
+00:01:55.849 --> 00:02:00.139
+largura fixa ou delimitado, que que é a largura fixa, Oh, pessoal,
+
+34
+00:02:00.150 --> 00:02:04.699
+no que eu clico aqui em largura fixa, ele vai falar assim onde eu quero quebrar.
+
+35
+00:02:04.709 --> 00:02:06.099
+Só que, por exemplo,
+
+36
+00:02:06.110 --> 00:02:10.179
+cada registro só os primeiros registros que que a gente consegue quebrar certinho.
+
+37
+00:02:10.190 --> 00:02:14.820
+Depois cada um vai tendo uma quantidade de dígitos diferente.
+
+38
+00:02:14.830 --> 00:02:18.880
+Então esse não é um recomendado pro SPED, Mas se fosse um extrato bancário,
+
+39
+00:02:19.169 --> 00:02:24.220
+aí o extrato bancário, em regra, a data, o número do documento, o histórico,
+
+40
+00:02:24.229 --> 00:02:29.679
+o total de entrada total de saída, o saldo e o tipo do saldo mo, tá tudo organizadinho.
+
+41
+00:02:29.690 --> 00:02:33.139
+Beleza Então, nesse sentido, o que que acontece? Pessoal nesse sentido?
+
+42
+00:02:33.149 --> 00:02:39.039
+É bem tranquilo. Agora No nosso caso, a gente tem o que a gente chama de delimitado,
+
+43
+00:02:39.800 --> 00:02:40.979
+que que é delimitado?
+
+44
+00:02:40.990 --> 00:02:42.649
+Ele é delimitado, ou seja,
+
+45
+00:02:42.660 --> 00:02:46.789
+caracteres como vírgulas ou tubulações separam para campos
+
+46
+00:02:47.380 --> 00:02:48.009
+Bom,
+
+47
+00:02:48.929 --> 00:02:51.979
+existem arquivos que já vem numa tabulação.
+
+48
+00:02:51.990 --> 00:02:57.820
+Existem arquivos que vêm ponto vírgula, vírgula espaço, no nosso caso são outros.
+
+49
+00:02:57.830 --> 00:02:59.699
+O que que é outros Eu vou pegar aqui a
+
+50
+00:02:59.710 --> 00:03:03.580
+barrinha vertical no que eu digitei a barra vertical.
+
+51
+00:03:03.589 --> 00:03:05.800
+Ele fez o que oh, ele já quebrou
+
+52
+00:03:06.919 --> 00:03:08.649
+opa, então ele já quebrou.
+
+53
+00:03:08.660 --> 00:03:11.570
+Tá dizendo pra mim o que toda vez que tem
+
+54
+00:03:11.580 --> 00:03:16.149
+a barra vertical eu vou separar em que pessoal em campos
+
+55
+00:03:17.080 --> 00:03:22.330
+ou separar em colunas, então cada um desses vai vim com uma coluna do Excel.
+
+56
+00:03:22.339 --> 00:03:26.070
+Vou dar um concluída aqui. Oh, no que eu dei concluir,
+
+57
+00:03:26.679 --> 00:03:27.369
+eu venho.
+
+58
+00:03:27.380 --> 00:03:31.619
+A primeira informação é o registro bom o registro zero zero zero zero O
+
+59
+00:03:31.630 --> 00:03:34.809
+Excell não sai carregando os quatro dígitos que ele converte isso em número.
+
+60
+00:03:34.820 --> 00:03:37.710
+Então ele chama de zero o zero zero zero um.
+
+61
+00:03:37.720 --> 00:03:43.009
+Ele chamou de um o zero, cento e dez ele chamou de cento e dez por aí vai.
+
+62
+00:03:43.020 --> 00:03:44.669
+Então se eu pegar lá embaixo!
+
+63
+00:03:44.679 --> 00:03:47.910
+Oh, só lembrando aí pra quem já tá familiarizado com esse com o Excel
+
+64
+00:03:48.729 --> 00:03:56.440
+Unidade de medida é o cento e noventa duzentos são os produtos quatrocentos.
+
+65
+00:03:56.449 --> 00:03:58.080
+É algum tipo de
+
+66
+00:03:58.729 --> 00:04:05.100
+operação certo? Quinhentos eh os itens do meu estoque.
+
+67
+00:04:05.110 --> 00:04:08.399
+O desculpa quinhentos é o meu plano de contas
+
+68
+00:04:09.800 --> 00:04:13.570
+e aí vem os registros a que é a abertura do bloco.
+
+69
+00:04:13.580 --> 00:04:18.890
+A expede contribuições a cem é a unidade é o serviço a
+
+70
+00:04:18.899 --> 00:04:22.010
+cento e setenta é a abertura do serviço e por aí vai.
+
+71
+00:04:22.019 --> 00:04:29.890
+Aí tem os registros do bloco C do bloco D bloco FM por aí vai, então o que que eu fiz aqui?
+
+72
+00:04:29.899 --> 00:04:30.350
+Pessoal,
+
+73
+00:04:30.600 --> 00:04:36.130
+Eu simplesmente peguei o Excel através do dados texto
+
+74
+00:04:36.140 --> 00:04:39.609
+para colunas que é uma ferramenta de importação.
+
+75
+00:04:39.619 --> 00:04:42.790
+Eu transformei. Eu transformei o quê
+
+76
+00:04:44.109 --> 00:04:49.059
+aquele t x t ali oh, trabalhoso pra caramba. Vamos voltar lá no começo dele, né?
+
+77
+00:04:49.690 --> 00:04:55.399
+Aquele arquivo t x t trabalhoso pra caramba e uma planilha
+
+78
+00:04:56.089 --> 00:04:57.529
+poxa, vida! Thiago!
+
+79
+00:04:57.540 --> 00:05:02.940
+Então beleza, entendi A gente pegou lá, trouxe lá um t x T no caso do Excel,
+
+80
+00:05:02.950 --> 00:05:05.709
+e conseguiu trazer pra dentro beleza, beleza.
+
+81
+00:05:05.720 --> 00:05:08.239
+Vamos fazer uma outra análise

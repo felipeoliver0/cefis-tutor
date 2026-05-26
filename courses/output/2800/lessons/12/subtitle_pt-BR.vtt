@@ -1,0 +1,441 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.039
+pra servidor não
+
+2
+00:00:02.829 --> 00:00:06.239
+eh pera, aí deixa eu ver se eu tenho que configurar um negócio aqui.
+
+3
+00:00:06.250 --> 00:00:09.619
+Ah, não, tá isso aqui. Na verdade eu tenho que configurar isso aqui.
+
+4
+00:00:09.630 --> 00:00:13.840
+Oh v m compatível por quê isso aqui Eu vou conseguir
+
+5
+00:00:13.850 --> 00:00:16.379
+acessar o console da máquina sem ser por s s.
+
+6
+00:00:16.389 --> 00:00:16.860
+H
+
+7
+00:00:17.870 --> 00:00:21.239
+depois que a máquina tá criada, tem um botão aqui console. Tá vendo?
+
+8
+00:00:21.250 --> 00:00:26.799
+Eu clico aqui em console e eu abro a máquina sem a C C h igual.
+
+9
+00:00:26.809 --> 00:00:29.540
+O terreno concorrente é a mesma coisa.
+
+10
+00:00:29.909 --> 00:00:34.720
+Por quê? Porque você, lógico, consegue acessar a máquina pelo virtualizado, né?
+
+11
+00:00:34.729 --> 00:00:36.900
+Esse caminho nunca falha, não tem como.
+
+12
+00:00:36.909 --> 00:00:44.500
+Eu não sei o que fazer, então olha aí, mas aí depois você configura o s h pra anda aqui.
+
+13
+00:00:44.509 --> 00:00:48.479
+Normal, né? Então beleza deixa aqui compatível. Posso colocar Abs diferente.
+
+14
+00:00:48.490 --> 00:00:51.439
+Se eu tiver alguma necessidade, o profissional,
+
+15
+00:00:51.450 --> 00:00:56.060
+se eu tiver que usar algum driver de disco específico,
+
+16
+00:00:56.069 --> 00:00:57.279
+posso configurar aqui também.
+
+17
+00:00:57.290 --> 00:00:59.700
+Mas geralmente a gente vai usar esse virtual. O aqui
+
+18
+00:01:00.189 --> 00:01:01.619
+é isso,
+
+19
+00:01:02.830 --> 00:01:06.519
+Diz que eu não faço a mínima ideia do que que é isso, Discos pronto.
+
+20
+00:01:06.529 --> 00:01:10.900
+Então, beleza Quais discos que vão existir nessa máquina virtual minha?
+
+21
+00:01:12.120 --> 00:01:15.290
+Todos os discos geralmente quando a gente tá falando de virtualização,
+
+22
+00:01:15.300 --> 00:01:20.690
+eles vão usar o protocolo pra se conectar, Então não vou entrar no mérito do scans,
+
+23
+00:01:20.699 --> 00:01:24.190
+mas aí que meio que é sucesso,
+
+24
+00:01:24.830 --> 00:01:27.980
+qual que é o storage que eu quero criar esse disco?
+
+25
+00:01:28.900 --> 00:01:32.360
+Eu não mostrei aqui, mas quando eu tô configurando pro Xbox,
+
+26
+00:01:32.370 --> 00:01:35.750
+eu crio storage na configuração dele.
+
+27
+00:01:35.760 --> 00:01:39.709
+O storage é um tantão de disco que eu juntei ali de alguma maneira.
+
+28
+00:01:39.720 --> 00:01:43.529
+Eu posso juntar usando um L V m um z f s que são sistemas de arquivo.
+
+29
+00:01:44.279 --> 00:01:46.690
+Eu confiro antes e aqui eu só seleciono, Não,
+
+30
+00:01:46.699 --> 00:01:50.110
+eu quero criar a minha máquina virtual nesse conjunto de disco
+
+31
+00:01:50.730 --> 00:01:53.959
+seleciono Como eu só tenho um aqui, então ele já já mostrou só um
+
+32
+00:01:55.419 --> 00:01:58.589
+isso aqui seria o caso do seguinte vamos supor que eu tenho dois HD s,
+
+33
+00:01:58.599 --> 00:02:04.309
+um disco rígido e um SSD lá no servidor pro XX eu posso criar dois Stories,
+
+34
+00:02:04.319 --> 00:02:07.269
+um Stories de SSD e um Stories de disco rígido?
+
+35
+00:02:07.279 --> 00:02:10.429
+E aí quando eu vou criar cada máquina virtual, eu seleciono Ah, não.
+
+36
+00:02:10.440 --> 00:02:14.250
+Essa máquina que eu quero no SS SD aí eu venho e seleciono o stories que tem o SSD,
+
+37
+00:02:14.259 --> 00:02:20.490
+então é pra isso
+
+38
+00:02:21.520 --> 00:02:27.529
+não. Ele vê tudo como um pra ele. É só um Nego Gigante e o SEF que cuida de tudo isso. Não.
+
+39
+00:02:27.539 --> 00:02:33.410
+Na verdade eu falei errado lá no se f eu crio classes de armazenamento,
+
+40
+00:02:33.419 --> 00:02:34.550
+ele vai aparecer essas classes.
+
+41
+00:02:34.559 --> 00:02:41.449
+Isso exatamente é isso. Tamanho do disco trinta e dois giga pra um só.
+
+42
+00:02:41.460 --> 00:02:44.050
+Se eu tiver alguma necessidade muito grande, vou por aqui.
+
+43
+00:02:44.059 --> 00:02:49.649
+Vinte gigas, É opa que eu fiz aqui.
+
+44
+00:02:50.610 --> 00:02:54.059
+Eh te diga isso,
+
+45
+00:02:54.949 --> 00:02:59.679
+Cash, não sei o que que é isso aqui. Ah, tá isso aqui? Não vou entrar nesse mérito.
+
+46
+00:02:59.690 --> 00:03:03.220
+Aqui não. Mas são configurações de acesso em disco Eh
+
+47
+00:03:04.860 --> 00:03:07.339
+back, são modos de acessar o disco.
+
+48
+00:03:07.350 --> 00:03:09.630
+Isso aqui é muito importante quando tem queda de energia
+
+49
+00:03:09.639 --> 00:03:11.039
+e você vai ter perda de dados ou não.
+
+50
+00:03:11.050 --> 00:03:11.399
+Mas
+
+51
+00:03:11.919 --> 00:03:13.059
+é o é o sucesso.
+
+52
+00:03:14.330 --> 00:03:15.940
+Olha isso aqui.
+
+53
+00:03:15.949 --> 00:03:18.330
+Eu posso falar que essa máquina virtual aqui só
+
+54
+00:03:18.339 --> 00:03:20.509
+vai ter uma rede de dez megabits por segundo,
+
+55
+00:03:20.520 --> 00:03:21.320
+se eu quiser,
+
+56
+00:03:22.089 --> 00:03:23.559
+então configura tudo aqui. Oh,
+
+57
+00:03:24.300 --> 00:03:29.250
+eu posso configurar também Isso aqui é só sobre disco, né? É a Band do disco
+
+58
+00:03:30.029 --> 00:03:30.440
+Ah, não,
+
+59
+00:03:30.449 --> 00:03:33.759
+eu quero travar o A I o PS dessa máquina virtual
+
+60
+00:03:33.770 --> 00:03:35.720
+é só eu colocar contas que eu quero aqui também,
+
+61
+00:03:35.729 --> 00:03:36.949
+então bem flexível aqui.
+
+62
+00:03:36.960 --> 00:03:40.059
+Mas geralmente a gente, não, a gente não tá usando essas confira
+
+63
+00:03:41.369 --> 00:03:45.800
+beleza vamos ter um d d de vinte giga c p u. Quanto c p u. A gente vai ter nesse negócio,
+
+64
+00:03:46.520 --> 00:03:48.369
+cara aqui é ilimitado, né?
+
+65
+00:03:48.380 --> 00:03:52.270
+O soquete aqui ele só vai deixar você por quatro se você quiser mais,
+
+66
+00:03:52.279 --> 00:03:53.949
+aí cê tem que pôr aqui os corpos
+
+67
+00:03:54.570 --> 00:04:01.160
+cada que representa quatro, quatro. Soquetes que que é esse negócio de cor.
+
+68
+00:04:02.880 --> 00:04:07.610
+Isso aqui é a mesma coisa do v C P U que apodrece lá na W S.
+
+69
+00:04:07.619 --> 00:04:11.110
+Então quatro aqui seria quatro V C P U S.
+
+70
+00:04:11.820 --> 00:04:13.729
+Na prática, na prática, mesmo
+
+71
+00:04:14.940 --> 00:04:18.750
+os servidores, eles são descritos lá na o servidor não processador, né?
+
+72
+00:04:18.760 --> 00:04:22.309
+A gente tá falando de C P u processador quando você vai lá na especificação dele,
+
+73
+00:04:22.320 --> 00:04:23.549
+ele tem falando lá.
+
+74
+00:04:23.559 --> 00:04:26.609
+Ah, esse processador aqui tem tantos tem dez,
+
+75
+00:04:27.279 --> 00:04:27.649
+seis
+
+76
+00:04:29.690 --> 00:04:31.250
+que todo mundo já ouviu falar esse negócio né?
+
+77
+00:04:31.910 --> 00:04:34.779
+Cada geralmente tem duas.
+
+78
+00:04:35.679 --> 00:04:37.570
+O que que é a D A D Sim,
+
+79
+00:04:37.579 --> 00:04:40.609
+é o V C P u lá da A D é
+
+80
+00:04:40.619 --> 00:04:44.410
+um isolamento virtual que consegue paralelamente
+
+81
+00:04:44.420 --> 00:04:46.390
+processar junto com outras Trad.
+
+82
+00:04:47.200 --> 00:04:51.410
+Tudo nas C é compartilhado. A menos que você compre o servidor super caro lá.
+
+83
+00:04:51.420 --> 00:04:55.609
+Pra ser só C U, o suas tá rodando com outras de outras pessoas.
+
+84
+00:04:55.619 --> 00:05:00.609
+É tudo isolado, mas é compartilhado exatamente Então, por exemplo,
+
+85
+00:05:00.619 --> 00:05:04.380
+que eu vou deixar só dois v C p u seria do duas aqui.
+
+86
+00:05:04.390 --> 00:05:07.190
+Nesse caso, é o suficiente.
+
+87
+00:05:08.390 --> 00:05:09.750
+Depende sim é um.
+
+88
+00:05:09.760 --> 00:05:13.940
+É bem pouco assim falar a verdade é é bem pouco
+
+89
+00:05:13.950 --> 00:05:17.200
+é porque você nunca vai rodar só o Java Script,
+
+90
+00:05:17.209 --> 00:05:21.190
+por exemplo, Java Script vai fazer, vai comunicar com outros livros do sistema,
+
+91
+00:05:21.200 --> 00:05:25.000
+vai fazer várias coisas e aí eles podem ter benefícios se tiver.
+
+92
+00:05:25.010 --> 00:05:27.089
+Mas assim, se você se o seu se, por exemplo,
+
+93
+00:05:27.100 --> 00:05:29.720
+você tem uma aplicação que vai rodar um servidor e
+
+94
+00:05:29.730 --> 00:05:32.339
+isso é noventa por cento do que esse servidor faz,
+
+95
+00:05:32.350 --> 00:05:35.820
+aí talvez não, Não compensa você ter outras, mas depende
+
+96
+00:05:37.179 --> 00:05:43.940
+eh legal, é pode ser dois, geralmente é um é um padrão. Bom
+
+97
+00:05:44.250 --> 00:05:49.970
+isso memória memória, aí depende do caso de uso, né?
+
+98
+00:05:49.980 --> 00:05:52.670
+Se eu for ter um banco de dados grande, quanto mais memória melhor,
+
+99
+00:05:52.679 --> 00:05:56.670
+porque eu deixo como cash, se eu não tenho um requisito muito grande,
+
+100
+00:05:56.679 --> 00:05:58.450
+eu posso deixar o mínimo possível,
+
+101
+00:05:59.109 --> 00:06:02.720
+Só que aí existe uma coisa interessante do XX do K V M em si.
+
+102
+00:06:02.730 --> 00:06:05.640
+Vamos supor que você colocou aqui dez giga pra essa máquina,
+
+103
+00:06:05.649 --> 00:06:07.220
+mas cê não tá usando dez giga,
+
+104
+00:06:08.100 --> 00:06:12.309
+ele não reserva esse dez giga pro cê, ele pega esses restantes e usa em outras coisas.
+
+105
+00:06:12.320 --> 00:06:15.829
+Entendeu que você não, não, não.
+
+106
+00:06:15.839 --> 00:06:20.410
+Ele é inteligente que é aí Eu acho que não deixaria
+
+107
+00:06:20.420 --> 00:06:22.529
+porque ele sabe que o CD tem sessenta e quatro só,
+
+108
+00:06:22.540 --> 00:06:22.630
+né?
+
+109
+00:06:22.640 --> 00:06:23.890
+Mas vamos deixar aqui
+
+110
+00:06:24.649 --> 00:06:28.839
+esses dois gigas máximo pra tudo e exatamente.

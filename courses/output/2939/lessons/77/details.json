@@ -1,0 +1,33 @@
+{
+  "id": 471944,
+  "title": "Quiz time 11",
+  "position": 77,
+  "duration": 20,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d8f277b5-ecb6-4ffd-a0ec-a4673c197bac/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8f277b5-ecb6-4ffd-a0ec-a4673c197bac/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8f277b5-ecb6-4ffd-a0ec-a4673c197bac/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8f277b5-ecb6-4ffd-a0ec-a4673c197bac/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8f277b5-ecb6-4ffd-a0ec-a4673c197bac/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

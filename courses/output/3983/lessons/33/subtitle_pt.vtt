@@ -1,0 +1,100 @@
+WEBVTT
+
+00:00:00.130 --> 00:00:08.447
+- O bloco E, ele trata as apurações. Quais são as apurações do bloco E? ICMS, a substituição
+
+00:00:08.447 --> 00:00:14.558
+- tributária, o IPI, o diferencial de alíquota. Lá no portal do ESPED,
+
+00:00:15.170 --> 00:00:22.698
+- Temos os ajustes, que são os pacotes de ajustes. Cada estado trata a sua tabela sobre os ajustes.
+
+00:00:22.698 --> 00:00:30.759
+- O ICMS, ele tem um critério de ajustes de estorno, ajustes de débito, ajustes de crédito e cada estado
+
+00:00:30.759 --> 00:00:38.971
+- tem a sua particularidade. Então, se você hoje tem uma apuração de ICMS e que terá um ajuste lançado,
+
+00:00:38.971 --> 00:00:43.838
+- ou seja, um diferencial de alíquota, um estorno, você precisa
+
+00:00:44.002 --> 00:00:50.815
+- entrar no portal, identificar qual é a categoria da tabela para que você faça o ajuste correto dentro
+
+00:00:50.815 --> 00:00:57.952
+- do bloco E. Porque o bloco E, ele vai demonstrar o ICMS próprio, a substituição tributária, o diferencial
+
+00:00:57.952 --> 00:01:04.569
+- de alíquota, o IPE e as outras apurações. O objetivo, ele é encarregado, na verdade, para apurar.
+
+00:01:04.569 --> 00:01:11.966
+- Ele vai validar o que tem no bloco 0, vai validar o que tem na movimentação e trazer aqui como a totalização.
+
+00:01:12.930 --> 00:01:20.903
+- O bloco E, ele tem todas as características de lançamento de apuração, seja débito, crédito, estornos,
+
+00:01:20.903 --> 00:01:28.217
+- saldos credores, e ele vai trazer as informações na validação. Tudo que o validador entender de
+
+00:01:28.217 --> 00:01:35.605
+- totalização de documentos fiscais, ele traz para o bloco E. O E-210, da mesma forma, mas ele trata
+
+00:01:35.605 --> 00:01:38.238
+- sobre a substituição tributária.
+
+00:01:38.594 --> 00:01:44.378
+- E a subscrição tributária, aqui, a gente atrela todas as GNREs pagas, se o seu contribuinte não
+
+00:01:44.378 --> 00:01:50.161
+- tiver o substituto, a inscrição substituta. Além disso, nós temos a diferencial de alíquota, o
+
+00:01:50.161 --> 00:01:56.118
+- diferencial de alíquota lançado no E310 é o diferencial de alíquota para não contribuinte, então
+
+00:01:56.118 --> 00:01:59.646
+- a gente também tem que atrelar os estados envolvidos à sua
+
+00:02:00.002 --> 00:02:07.084
+- totalização. Lembrando que quando a gente fala sobre diferencial de alíquota, a gente tem duas regrinhas.
+
+00:02:07.084 --> 00:02:13.712
+- Quando é o defal contribuinte, a gente precisa analisar o regulamento estadual, ou seja, se o estado
+
+00:02:13.712 --> 00:02:20.209
+- de vocês possuem alguns ajustes lá no portal da nota fiscal eletrônica, você vai analisar. Se o
+
+00:02:20.209 --> 00:02:26.707
+- seu estado estiver na tabela 5.3 do diferencial de alíquota para contribuinte, vocês vão lançar
+
+00:02:26.707 --> 00:02:29.566
+- no SPED Fiscal o defal no C-195 e no C-197.
+
+00:02:29.698 --> 00:02:37.740
+- Agora, se o seu contribuinte está no estado onde o ajuste do diferencial de alíquota está na tabela
+
+00:02:37.740 --> 00:02:45.781
+- 5.1.1, o lançamento desse diferencial de alíquota não é no C, ele é direto na apuração. Então,
+
+00:02:45.781 --> 00:02:53.901
+- lança no E111 e no E113. Então, em paralelo, nós temos o diferencial de alíquota no E310, onde fala
+
+00:02:53.901 --> 00:02:59.678
+- do diferencial de alíquota não contribuinte, o diferencial contribuinte
+
+00:03:00.450 --> 00:03:08.753
+- Temos duas frentes e isso determina os estados. E quando a gente fala de diferencial dielectra não
+
+00:03:08.753 --> 00:03:17.056
+- contribuinte, quando que a gente vai lançar? No C61, no valor de UFA, no D61, caso seja uma saída
+
+00:03:17.056 --> 00:03:25.774
+- que tenha serviço, no E310 e no E316, a totalização e qual estado estamos referenciando esse cálculo
+
+00:03:25.774 --> 00:03:27.102
+- do diferencial.
+
+00:03:27.234 --> 00:03:33.695
+- Além disso, nós temos também as apurações do IPI. Então, temos a CFOP, o valor do IPI, o valor
+
+00:03:33.695 --> 00:03:37.470
+- contábil, todas as totalizações que o fisco vai trazer.

@@ -1,0 +1,33 @@
+{
+  "id": 487927,
+  "title": "Pessoas jurídicas obrigadas a apresentação da ECD - Parte 1",
+  "position": 18,
+  "duration": 452,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/34f50247-2a3a-4c4e-82b5-316f48c9dfac/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34f50247-2a3a-4c4e-82b5-316f48c9dfac/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34f50247-2a3a-4c4e-82b5-316f48c9dfac/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34f50247-2a3a-4c4e-82b5-316f48c9dfac/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34f50247-2a3a-4c4e-82b5-316f48c9dfac/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

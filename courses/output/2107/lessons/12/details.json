@@ -1,0 +1,33 @@
+{
+  "id": 462356,
+  "title": "AS 3806/2006 | 4º principio",
+  "position": 12,
+  "duration": 200,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/048385ea-630c-4791-a3a2-b6de6aa4621b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/048385ea-630c-4791-a3a2-b6de6aa4621b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/048385ea-630c-4791-a3a2-b6de6aa4621b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/048385ea-630c-4791-a3a2-b6de6aa4621b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/048385ea-630c-4791-a3a2-b6de6aa4621b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

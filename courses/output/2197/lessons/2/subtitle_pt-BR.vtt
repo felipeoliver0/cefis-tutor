@@ -1,0 +1,441 @@
+WEBVTT
+
+1
+00:00:00.469 --> 00:00:05.539
+então, o que eu aconselho a você, que é um estudioso desse ambiente de C?
+
+2
+00:00:05.550 --> 00:00:06.340
+T f web,
+
+3
+00:00:06.349 --> 00:00:10.359
+Que você conheça todos esses ambientes Conheça o e social que
+
+4
+00:00:10.369 --> 00:00:16.540
+conheça retenções tributárias retenções de tributos federais de um modo geral,
+
+5
+00:00:16.610 --> 00:00:18.819
+com detalhes, né?
+
+6
+00:00:18.829 --> 00:00:22.579
+Então aqui envolve uma série de questões,
+
+7
+00:00:22.590 --> 00:00:26.440
+envolvem as retenções previdenciárias que elas são
+
+8
+00:00:26.450 --> 00:00:31.280
+basicamente informadas no destaque da nota fiscal.
+
+9
+00:00:31.290 --> 00:00:32.680
+Quando você
+
+10
+00:00:32.950 --> 00:00:37.799
+presta serviços com sessão de mão de obra resumindo muito Tá,
+
+11
+00:00:37.810 --> 00:00:44.680
+eu tô aqui fazendo um um um resumo eh bastante simplório, tá,
+
+12
+00:00:44.689 --> 00:00:47.360
+Então você fez sessão de mão de obra.
+
+13
+00:00:47.369 --> 00:00:50.400
+Imagine que você é uma empresa de serviços gerais.
+
+14
+00:00:50.409 --> 00:00:56.619
+Você segue de funcionários para trabalhar em um banco num supermercado?
+
+15
+00:00:56.630 --> 00:00:59.580
+Então quando você emite a nota fiscal,
+
+16
+00:00:59.590 --> 00:01:03.939
+você faz o destaque de once relativo às
+
+17
+00:01:03.950 --> 00:01:09.000
+contribuições previdenciárias que é devida pela sua empresa.
+
+18
+00:01:09.010 --> 00:01:09.879
+Quer dizer,
+
+19
+00:01:10.220 --> 00:01:13.470
+você tem uma folha de pagamento, você tem os seus funcionários.
+
+20
+00:01:13.480 --> 00:01:17.360
+Você precisa pagar INSS sobre essa remuneração.
+
+21
+00:01:17.370 --> 00:01:21.120
+Só que a legislação vai dizer o seguinte se você está
+
+22
+00:01:21.129 --> 00:01:27.190
+cedendo esses funcionários para prestar serviço no tomador no contratante,
+
+23
+00:01:27.199 --> 00:01:34.250
+é o contratante que vai fazer uma retenção para garantir esses valores
+
+24
+00:01:34.353 --> 00:01:40.403
+que você deveria pagar sobre a sua folha de salários aí, quer dizer,
+
+25
+00:01:40.414 --> 00:01:45.984
+o Fisco antecipa porque ele quer garantir o recolhimento.
+
+26
+00:01:45.994 --> 00:01:50.844
+Então, ele vai e diz o seguinte não é você que vai recolher? INSS?
+
+27
+00:01:50.853 --> 00:01:54.833
+Vai ser ele, mas sobre um adiantamento.
+
+28
+00:01:54.844 --> 00:01:58.384
+Então, você vai pegar esse adiantamento e vai utilizar pra
+
+29
+00:01:58.487 --> 00:02:02.197
+bater o teu INSS do mês. Quer dizer, eu vou calcular a minha.
+
+30
+00:02:02.208 --> 00:02:07.277
+Folha devo dez, mas fui retido de cinco. Então eu só vou pagar a diferença.
+
+31
+00:02:07.288 --> 00:02:10.217
+Então esse é um dos aspectos.
+
+32
+00:02:10.227 --> 00:02:16.457
+Aí eu tenho também a retenção do Imposto de Renda da pessoa Física, por exemplo.
+
+33
+00:02:16.468 --> 00:02:20.477
+Imagine que eu tenho um imóvel e eu estou alugando pra uma empresa.
+
+34
+00:02:20.488 --> 00:02:22.518
+Quando eu, pessoa física,
+
+35
+00:02:22.621 --> 00:02:25.451
+aluga o imóvel para uma pessoa jurídica,
+
+36
+00:02:25.462 --> 00:02:29.192
+essa pessoa jurídica vai fazer a retenção do Imposto
+
+37
+00:02:29.201 --> 00:02:32.992
+de Renda e eu sou o beneficiário dessa questão.
+
+38
+00:02:33.001 --> 00:02:36.072
+Então na FDR, enfim,
+
+39
+00:02:36.082 --> 00:02:42.852
+o contratante vai informar essa situação e vai fazer o pagamento dessa retenção.
+
+40
+00:02:42.861 --> 00:02:46.651
+Aonde aqui na DF web, então
+
+41
+00:02:46.755 --> 00:02:49.746
+veja que a coisa não é tão simples assim.
+
+42
+00:02:49.755 --> 00:02:53.186
+Então a DCTF web, que começou tímida,
+
+43
+00:02:53.195 --> 00:02:58.106
+começou lá só com as obrigações previdenciárias.
+
+44
+00:02:58.115 --> 00:03:06.126
+Agora ela avança, ela avança para as retenções de outros tributos federais. Okay?
+
+45
+00:03:06.136 --> 00:03:10.826
+Então, é como eu já afirmei aqui mesmo no CEFIS.
+
+46
+00:03:11.070 --> 00:03:14.500
+C T Web é o futuro a sua implementação.
+
+47
+00:03:14.509 --> 00:03:20.800
+Ela foi muito bem sucedida desde o início desde o primeiro dia que ela
+
+48
+00:03:20.809 --> 00:03:25.199
+entrou em vigor no dia quinze de setembro de dois mil e dezoito.
+
+49
+00:03:25.210 --> 00:03:28.899
+Eu me lembro bem, eu acompanhei toda essa implantação.
+
+50
+00:03:28.910 --> 00:03:33.000
+Ela sempre funcionou muito bem, muito redonda.
+
+51
+00:03:33.009 --> 00:03:38.100
+A DCTF Web realmente é um projeto, um projeto de sucesso da Receita Federal
+
+52
+00:03:38.350 --> 00:03:41.160
+interessa apenas a Receita Federal.
+
+53
+00:03:41.169 --> 00:03:48.639
+Ela na verdade é uma evolução da antiga DCTF, mas afinal de contas, o que é DCTF, né?
+
+54
+00:03:48.649 --> 00:03:59.100
+Então a DCTF ela é a declaração de débitos e créditos tributários federais e a
+
+55
+00:03:59.110 --> 00:04:06.940
+DCTF Web é é a declaração de débitos e créditos tributários federais na web.
+
+56
+00:04:06.949 --> 00:04:08.139
+Então
+
+57
+00:04:08.679 --> 00:04:12.550
+veja enquanto a DCTF normal ela faz a
+
+58
+00:04:12.559 --> 00:04:17.290
+confissão dos tributos fazendários no seu computador.
+
+59
+00:04:17.298 --> 00:04:23.619
+Quer dizer você baixa o programa faz a declaração, transmite via a receita na B X.
+
+60
+00:04:23.630 --> 00:04:32.309
+Então é algo que está oline, digamos, para fins de apuração de de elaboração.
+
+61
+00:04:32.404 --> 00:04:37.015
+Depois você faz a transmissão a DCTF Web, não, ela é mais sofisticada,
+
+62
+00:04:37.024 --> 00:04:40.815
+ela está no ambiente e ela só funciona no
+
+63
+00:04:40.825 --> 00:04:46.015
+ambiente e então só foi permitido só foi possível ter
+
+64
+00:04:46.024 --> 00:04:50.734
+uma DCTF web eh tão eficiente como eu Acabei
+
+65
+00:04:50.744 --> 00:04:53.904
+de falar porque hoje nós temos um ambiente web,
+
+66
+00:04:53.915 --> 00:04:56.714
+um ambiente internet muito estável, né?
+
+67
+00:04:56.725 --> 00:05:00.554
+Então eu sou antigo na área de informática.
+
+68
+00:05:01.329 --> 00:05:06.980
+Eu me lembro de em mil novecentos e setenta e três tá estudando eh,
+
+69
+00:05:06.989 --> 00:05:09.380
+eh fazendo programação COBOL.
+
+70
+00:05:09.390 --> 00:05:12.279
+Então eu eu acompanhei
+
+71
+00:05:12.859 --> 00:05:17.029
+a criação não é criação a evolução da internet.
+
+72
+00:05:17.040 --> 00:05:20.489
+E eu digo pra vocês de forma categórica,
+
+73
+00:05:20.500 --> 00:05:25.070
+nós estamos realmente num momento muito amadurecido
+
+74
+00:05:25.079 --> 00:05:29.309
+em termos de disponibilidade do sistema.
+
+75
+00:05:29.320 --> 00:05:35.700
+Então a a DCTF WEB ela esteve disponível quase
+
+76
+00:05:35.709 --> 00:05:39.670
+o tempo todo desde que ela foi inaugurada,
+
+77
+00:05:39.679 --> 00:05:40.450
+digamos assim.
+
+78
+00:05:40.880 --> 00:05:42.350
+Agora, em julho,
+
+79
+00:05:42.359 --> 00:05:46.089
+nós tivemos um probleminha tanto que entrou em vigor
+
+80
+00:05:46.100 --> 00:05:49.850
+a multa da DCTF WEB e a Receita Federal.
+
+81
+00:05:49.859 --> 00:05:55.910
+Andou cancelando aí as autuações do dia primeiro de julho de dois mil e vinte e dois.
+
+82
+00:05:55.920 --> 00:05:59.410
+Por quê? Porque houve uma instabilidade no sistema.
+
+83
+00:05:59.420 --> 00:06:04.309
+Então o sistema não é infalível, mas é muito bom.
+
+84
+00:06:04.320 --> 00:06:11.440
+E como ele é um ambiente de sucesso, ele está trazendo o ambiente web CT web.
+
+85
+00:06:11.450 --> 00:06:17.970
+Tende a trazer todos os tributos concentrados nesse ambiente para
+
+86
+00:06:17.980 --> 00:06:22.049
+fins de confissão de dívida e emissão do Darf.
+
+87
+00:06:22.059 --> 00:06:25.470
+É isso que nós vamos observar aqui.
+
+88
+00:06:25.480 --> 00:06:26.130
+Bom,
+
+89
+00:06:26.140 --> 00:06:35.649
+onde está a regulamentação desta obrigação acessória da DCTF e da DC TF Web na
+
+90
+00:06:35.660 --> 00:06:43.269
+instrução Normativa R F B veja instrução normativa R F B porque R F B.
+
+91
+00:06:43.279 --> 00:06:50.290
+Porque foi criada essa instrução normativa pela Receita Federal do Brasil
+
+92
+00:06:50.299 --> 00:06:55.429
+e que foi a receita porque interessa apenas à Receita Federal.
+
+93
+00:06:55.679 --> 00:07:03.630
+Eu não tenho ICMS aqui nós não vamos falar de ISS de ICMS de I P V a não.
+
+94
+00:07:03.640 --> 00:07:06.970
+Esses são tributos estaduais e municipais que
+
+95
+00:07:06.980 --> 00:07:12.049
+não estão incluídos aqui nessa instrução normativa,
+
+96
+00:07:12.059 --> 00:07:15.410
+porque ela trata de tributos federais,
+
+97
+00:07:15.420 --> 00:07:18.750
+tributos administrados pela Receita Federal,
+
+98
+00:07:19.220 --> 00:07:22.869
+Então uma única instrução normativa chama atenção pra isso.
+
+99
+00:07:22.880 --> 00:07:26.950
+Vai tratar tanto da DCTF como da DCTF web Por que
+
+100
+00:07:26.959 --> 00:07:29.500
+que eu chamo a atenção que é uma única instrução?
+
+101
+00:07:29.510 --> 00:07:33.829
+Porque antigamente, quando a a DCTF web foi criada,
+
+102
+00:07:33.839 --> 00:07:37.730
+ela foi criada através da instrução normativa I N R.
+
+103
+00:07:37.739 --> 00:07:42.170
+F B dezessete zero oito, dois mil e dezoito. Se eu não me engano
+
+104
+00:07:42.589 --> 00:07:48.660
+e era uma coisa assim exclusiva, ligada a questão previdenciária,
+
+105
+00:07:48.670 --> 00:07:58.420
+então não tinha ali a DCTF normal naquele normativo eram normativos distintos.
+
+106
+00:07:58.429 --> 00:08:02.799
+Então eu tinha uma legislação ou digamos,
+
+107
+00:08:02.809 --> 00:08:09.489
+uma regulamentação desta obrigação acessória um para DF outro para DF web.
+
+108
+00:08:09.500 --> 00:08:15.230
+Agora eles estão juntos. Por que? Porque eles estão convergindo?
+
+109
+00:08:15.239 --> 00:08:18.369
+A tendência é que a gente tenha realmente um único
+
+110
+00:08:18.380 --> 00:08:23.929
+normativo para regular essa questão dessas confissões de dívidas.

@@ -1,0 +1,250 @@
+WEBVTT
+
+00:00:00.066 --> 00:00:08.391
+- Falando com essa observação do valor do dinheiro no tempo e tudo mais, nós temos que então fazer
+
+00:00:08.391 --> 00:00:16.633
+- a análise do mesmo cálculo de payback, que é a recuperação do investimento, mas aí nós vamos
+
+00:00:16.633 --> 00:00:24.957
+- trazer a valor presente por uma determinada taxa, que é a taxa mínima de aceitação desse projeto
+
+00:00:24.957 --> 00:00:28.254
+- que o investidor gostaria de alcançar.
+
+00:00:28.418 --> 00:00:36.110
+- Nesse exemplo, a gente vai pegar aquelas parcelas e o mesmo projeto vai dizer assim, olha, eu gostaria
+
+00:00:36.110 --> 00:00:43.803
+- de fazer uma análise, quanto tempo eu vou recuperar o investimento, mas eu gostaria de ter implícito
+
+00:00:43.803 --> 00:00:51.421
+- aí o custo do dinheiro no tempo, que ele é equivalente a uma taxa de aceitação, ou seja, gostaria
+
+00:00:51.421 --> 00:00:57.246
+- de ter eu como investidor um retorno mínimo de 20% ao ano para esse projeto.
+
+00:00:57.602 --> 00:01:05.482
+- Vamos ver como é que fica? Mesmo fluxo simplista, que é importante nós entendermos o conceito, porque
+
+00:01:05.482 --> 00:01:12.986
+- os números podem ser pequenos, não importa, você tem que entender o conceito, nós vamos pegar o
+
+00:01:12.986 --> 00:01:20.941
+- mesmo fluxo, com as mesmas parcelinhas projetadas, só que agora, olha só, eu vou trazer cada uma dessas
+
+00:01:20.941 --> 00:01:26.494
+- parcelas que estão previstas no ano 1, 2, 3 e 4 para a data 0. Mas como?
+
+00:01:26.754 --> 00:01:34.045
+- adaptar, vou criar uma forma e vou trazer a valor presente, por exemplo, por essa taxa de 20% ao ano
+
+00:01:34.045 --> 00:01:41.263
+- no ano 1, ou seja, então o ano 1 vou trazer um período, esse fluxo de caixa que ao final do ano 1
+
+00:01:41.263 --> 00:01:48.481
+- está representado por 71. Quando eu faço essa conta que eu já falamos um pouquinho, vale a pena,
+
+00:01:48.481 --> 00:01:53.534
+- nossa parte 1, quando nós falamos sobre matemática financeira, são
+
+00:01:53.986 --> 00:02:00.152
+- das técnicas da matemática financeira quando nós fazemos esse tipo de análise, por isso que nós
+
+00:02:00.152 --> 00:02:06.441
+- demos ali uma introdução, falamos um pouco sobre mercado financeiro e matemática financeira. Então
+
+00:02:06.441 --> 00:02:12.668
+- trouxemos aqui a valor presente que consiste no quê? Pegar aquele valor futuro, que nós chamamos de
+
+00:02:12.668 --> 00:02:19.384
+- desagiar ou trazer a valor presente, no caso por um período, então nós temos que pegar o nosso percentual,
+
+00:02:19.384 --> 00:02:23.902
+- dividir por 100 e somar 1, nós temos que transformar em número índice,
+
+00:02:24.194 --> 00:02:32.575
+- se a técnica da matemática financeira, aí eu consigo trazer a 59,17. Então, ano 1, aquela parcela
+
+00:02:32.575 --> 00:02:41.039
+- de 71 trazida pela taxa mínima que o investidor definiu de 20% vale, no ano 0, 59,17. Ano 2, eu tinha
+
+00:02:41.039 --> 00:02:49.667
+- uma perspectiva de 74. Ano 2, nós vamos pegar a mesma taxa, vamos agora trazer a dois períodos, porque
+
+00:02:49.667 --> 00:02:53.118
+- aquele valor está previsto para o ano 2,
+
+00:02:53.698 --> 00:03:02.454
+- Fazendo isso, essa parcela de 74 no ano zero, trazida por esses dois períodos, vale 51,39. No ano três,
+
+00:03:02.454 --> 00:03:10.714
+- a parcela prevista de 80 vale, no ano zero, 46,30, porque temos três períodos para trazer a valor
+
+00:03:10.714 --> 00:03:19.470
+- presente pela taxa definida pelo investidor. 46. E o ano quatro, que tinha uma perspectiva de 50, trazida
+
+00:03:19.470 --> 00:03:23.518
+- aqui a valor presente por quatro períodos, vale
+
+00:03:23.810 --> 00:03:31.401
+- Desculpa, 24,11. Então vamos ver agora como fica a somatória desse fluxo no ano zero. Vejam só. Primeiro
+
+00:03:31.401 --> 00:03:38.570
+- a gente está analisando esse fluxo para falar do payback descontado, usando o descontado, a questão
+
+00:03:38.570 --> 00:03:46.302
+- dos valores de ano no tempo. Então vejam, trans coloquei aqui numa visão mais palatável para a gente olhar
+
+00:03:46.626 --> 00:03:54.046
+- a mesmo formato que nós olhamos no payback normal, no payback simples, trazendo aqui o acúmulo dos
+
+00:03:54.046 --> 00:04:01.539
+- saldos. Então vejam, olha como mudou um pouco. Lembrem que sem a taxa de desconto, esse investimento
+
+00:04:01.539 --> 00:04:09.326
+- seria recuperado em dois anos, se recordam? Dois slides atrás. Só que agora trouxemos a valor presente.
+
+00:04:09.326 --> 00:04:14.174
+- Então olha o que aconteceu. Primeiro ano, o investimento de 145,
+
+00:04:14.978 --> 00:04:23.251
+- Ano 1, os 71 trazido a valor presente vale 59,17. Eu diminuí um pouquinho já, eu recuperei um pouco
+
+00:04:23.251 --> 00:04:31.361
+- desse investimento feito no ano 1. No ano 2, os 74 trazido a valor presente é o quê? Os 59, o meu
+
+00:04:31.361 --> 00:04:39.472
+- saldo final no ano 2, incorporando esse fluxo no ano 2, mas com a data no ano 0. Incorporando esses
+
+00:04:39.472 --> 00:04:42.878
+- 51, ainda fica negativo 34, então vejam,
+
+00:04:43.330 --> 00:04:49.589
+- Trazendo a valor presente significa que existe o custo do dinheiro no tempo e, no caso, a expectativa
+
+00:04:49.589 --> 00:04:55.725
+- que o acionista queria, o investidor, para aquele projeto. Então, se ele quer aquele valor mínimo
+
+00:04:55.725 --> 00:05:02.106
+- de resultado, significa que ele vai ter que recuperar em um pouquinho mais de tempo. Então, veja, aqui
+
+00:05:02.106 --> 00:05:04.990
+- ainda ficou 34 negativo o seu saldo. No ano 3,
+
+00:05:05.890 --> 00:05:14.064
+- Os 80 que estavam previstos trazidos para a data 0 significa 46,30. Olha só, então ano 3. Gente, ele
+
+00:05:14.064 --> 00:05:22.477
+- recuperou ou não recuperou o saldo devedor que ele ficou no ano 3? Recuperou. E ainda sobrou um saldinho
+
+00:05:22.477 --> 00:05:30.810
+- aqui, vocês concordam? Muito bem, então vejam só. Eu posso dizer, ainda não olhando para essa tabela
+
+00:05:30.810 --> 00:05:32.318
+- ao lado, mas aqui,
+
+00:05:32.514 --> 00:05:39.635
+- que esse investidor, esse investimento, ele será recuperado em... É em dois anos? Não. Dois anos
+
+00:05:39.635 --> 00:05:46.898
+- está negativo. Mas é em dois anos e mais o quê? Mais alguns meses. Ele se recupera antes do ano 3,
+
+00:05:46.898 --> 00:05:54.304
+- do final do ano 3. É nesse intervalo aqui que ele vai ser recuperado, mas tá bom. Dois anos e quantos
+
+00:05:54.304 --> 00:06:00.926
+- meses? Aí a gente faz uma regrinha de três, muito simples, que está aqui ao lado. Eu pego
+
+00:06:01.026 --> 00:06:09.892
+- Na verdade, quanto falta para eu recuperar, quanto representa os 34,44 que falta para zerar o fluxo
+
+00:06:09.892 --> 00:06:18.936
+- dos 46 que foram gerados a valor presente e ele se representa 0,74, uma fração de anos, ou seja, é
+
+00:06:18.936 --> 00:06:27.803
+- menos que um ano, porque vejam, aqui nós estamos nesse intervalo que ainda não completou um ano e
+
+00:06:27.803 --> 00:06:29.310
+- ele se recupera.
+
+00:06:29.858 --> 00:06:37.851
+- ele representa 0,1 fração de 74 de um ano. E aí a gente faz a regrinha de 3. Um ano tem 12 meses,
+
+00:06:37.851 --> 00:06:46.240
+- 0,74, quantos meses equivalem? Então, nós chegamos à conclusão que o X, que é o que nós procuramos,
+
+00:06:46.240 --> 00:06:53.759
+- quantos meses estão aqui nesse intervalo, ele aproximadamente dá 9 meses, 8,9 meses, 9 meses
+
+00:06:53.759 --> 00:06:56.766
+- aproximadamente. Então, esse projeto
+
+00:06:57.634 --> 00:07:04.158
+- Trazendo a questão do dinheiro no tempo, da taxa que o investidor gostaria de ter como retorno, ele
+
+00:07:04.158 --> 00:07:11.004
+- vai trazer a recuperação desse investimento em dois anos e nove meses. Se nós não tivéssemos trazido
+
+00:07:11.004 --> 00:07:17.722
+- a visão do custo do dinheiro no tempo ou o valor, a taxa mínima que o investidor gostaria de receber,
+
+00:07:17.722 --> 00:07:24.310
+- seriam dois anos. Mas não é utilizado porque nós precisamos saber, então, desse valor do dinheiro
+
+00:07:24.310 --> 00:07:25.214
+- no tempo, ok?
+
+00:07:25.410 --> 00:07:32.712
+- Muito bem. Então, em termos de decisão de aceitar ou rejeitar determinado investimento, o período
+
+00:07:32.712 --> 00:07:40.375
+- de payback obtido deve ser confrontado com o padrão definido pela empresa. O que quer dizer isso? Apesar
+
+00:07:40.375 --> 00:07:48.255
+- que nós vamos seguir e nós vamos entender melhor que o payback é um dos instrumentos para fazer análise,
+
+00:07:48.255 --> 00:07:51.870
+- mas nunca se deve usar um dos indicadores e, sim,
+
+00:07:52.578 --> 00:07:59.151
+- VPL, valor presente líquido, taxa interna de retorno e payback, mas o que é o mandatório, que tem
+
+00:07:59.151 --> 00:08:06.179
+- maior poder e no ranking de melhor indicador é o VPL. Mas nessa questão ainda, analisando aqui o payback,
+
+00:08:06.179 --> 00:08:12.687
+- nós queremos dizer o seguinte, o que está significando aqui com um padrão definido pela empresa?
+
+00:08:12.687 --> 00:08:19.585
+- Então vamos dizer que a empresa, ela tenha falado assim, olha, eu estou disposta a fazer um investimento
+
+00:08:19.585 --> 00:08:21.342
+- em um determinado projeto,
+
+00:08:21.602 --> 00:08:31.079
+- eu quero ter uma taxa mínima de retorno desse projeto de 20% ao ano, mas é uma prioridade definida
+
+00:08:31.079 --> 00:08:40.743
+- pelo Board de que esse projeto tenha que ter um prazo de recuperação desse investimento em dois anos
+
+00:08:40.743 --> 00:08:48.062
+- e meio. Se isso tiver definido como um padrão efetivo para limitar a escolha
+
+00:08:48.226 --> 00:08:55.200
+- como aceitar ou não aceitar o projeto, se for dois anos e meio, o que vai acontecer? Esse projeto seria
+
+00:08:55.200 --> 00:09:02.042
+- rejeitado. Por quê? Porque a empresa ou o investidor definiu que quer um retorno em dois anos e meio,
+
+00:09:02.042 --> 00:09:08.684
+- ponto. Se passasse disso, deveria rejeitar o projeto. Então, obviamente, essa questão de tempo de
+
+00:09:08.684 --> 00:09:15.326
+- retorno, ele precisa ser confrontado com aquilo que está definido pela empresa ou pelo investidor.
+
+00:09:15.906 --> 00:09:21.925
+- Só que, conforme eu falei, é indispensável analisar outros métodos mais sofisticados, como o VPL,
+
+00:09:21.925 --> 00:09:24.286
+- para tomada de decisão mais assertiva.

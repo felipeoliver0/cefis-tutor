@@ -1,0 +1,85 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.000
+Observando por esse prisma, vamos adentrar, de fato, dentro do CIBE.
+
+3
+00:00:06.000 --> 00:00:10.000
+O que nós temos? Nós temos tecnologia de gerogerenciamento.
+
+4
+00:00:10.000 --> 00:00:13.000
+Por que, pessoal? Por que é importante isso?
+
+5
+00:00:13.000 --> 00:00:20.000
+Porque nós teremos a precisão de livre escolha das entidades para fazer os seus cadastros de origens,
+
+6
+00:00:20.000 --> 00:00:23.000
+que vai ser através do CINTER.
+
+7
+00:00:23.000 --> 00:00:26.000
+Não sei se você lembra, vamos recordar aqui um pouquinho atrás,
+
+8
+00:00:26.000 --> 00:00:32.000
+ainda que quando a gente fazia a nossa declaração do Imposto de Renda da Pessoa Física,
+
+9
+00:00:32.000 --> 00:00:40.000
+nós não tínhamos ali a necessidade, o campo obrigatório da gente informar, por exemplo,
+
+10
+00:00:40.000 --> 00:00:47.000
+o cartório, a matrícula, e de uns anos para cá, salvo engano três, quatro anos,
+
+11
+00:00:47.000 --> 00:00:56.000
+essas informações estão passando a ser solicitadas lá dentro do nosso Imposto de Renda da Pessoa Física.
+
+12
+00:00:56.000 --> 00:01:02.000
+Todas essas informações vêm alimentando o nosso CINTER, que é o banco de dados.
+
+13
+00:01:02.000 --> 00:01:07.000
+Então, o que nós temos? Nós temos o CIBE, que é o Cadastro Imobiliário,
+
+14
+00:01:07.000 --> 00:01:12.000
+e nós temos o CINTER, que é o banco de dados dessas informações.
+
+15
+00:01:12.000 --> 00:01:19.000
+E o CINTER vem sendo alimentado muito antes do CIBE existir.
+
+16
+00:01:19.000 --> 00:01:22.000
+Como que o CINTER era alimentado?
+
+17
+00:01:22.000 --> 00:01:26.000
+Ele era alimentado através das informações oriundas,
+
+18
+00:01:26.000 --> 00:01:32.000
+da DOE, por exemplo, que é a declaração ali dos cartórios, da AdMob,
+
+19
+00:01:32.000 --> 00:01:42.000
+da onde vem as informações dos imóveis, sejam eles urbanos ou sejam eles, de fato, rurais.
+
+20
+00:01:42.000 --> 00:01:47.000
+Então, nós temos uma integração do CINTER com o CIBE,
+
+21
+00:01:47.000 --> 00:01:55.000
+trazendo toda essa integração para trazer, de fato, a denominação deste imóvel,
+
+22
+00:01:55.000 --> 00:01:58.000
+caracterizar este imóvel.

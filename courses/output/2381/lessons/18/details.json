@@ -1,0 +1,33 @@
+{
+  "id": 465264,
+  "title": "Principais motivos para recuperação",
+  "position": 18,
+  "duration": 90,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/88553c73-2c1b-41ca-8f62-cb9ad42f32c0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88553c73-2c1b-41ca-8f62-cb9ad42f32c0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88553c73-2c1b-41ca-8f62-cb9ad42f32c0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88553c73-2c1b-41ca-8f62-cb9ad42f32c0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88553c73-2c1b-41ca-8f62-cb9ad42f32c0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

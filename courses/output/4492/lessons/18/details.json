@@ -1,0 +1,33 @@
+{
+  "id": 487359,
+  "title": "Pontos de atenção para a consulta e mapa legal",
+  "position": 18,
+  "duration": 90,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/8ad3c839-4c8f-4e26-bfaa-1495e25290b8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8ad3c839-4c8f-4e26-bfaa-1495e25290b8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8ad3c839-4c8f-4e26-bfaa-1495e25290b8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8ad3c839-4c8f-4e26-bfaa-1495e25290b8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8ad3c839-4c8f-4e26-bfaa-1495e25290b8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

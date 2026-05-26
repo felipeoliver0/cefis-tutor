@@ -1,0 +1,549 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:01.199
+Muito bem, pessoal.
+
+3
+00:00:01.199 --> 00:00:05.879
+Bom, feito o passo a passo lá na nossa página inicial,
+
+4
+00:00:05.879 --> 00:00:09.480
+vamos verificar aqui agora a recuperação dos dados.
+
+5
+00:00:09.480 --> 00:00:12.580
+Então, esse é o início, né?
+
+6
+00:00:12.580 --> 00:00:15.839
+Nós temos aqui o passo a passo,
+
+7
+00:00:15.839 --> 00:00:18.679
+ou seja, visualizar dados da ICF,
+
+8
+00:00:18.679 --> 00:00:21.059
+recuperar dados da ICD,
+
+9
+00:00:21.059 --> 00:00:24.199
+recuperar ICF anterior, não é?
+
+10
+00:00:24.199 --> 00:00:26.760
+Então, nós temos aqui todos os dados.
+
+11
+00:00:26.760 --> 00:00:30.559
+Quando eu falei para vocês de exemplo lá da ICD,
+
+12
+00:00:30.559 --> 00:00:33.039
+os cinco passos são esses, está vendo?
+
+13
+00:00:33.039 --> 00:00:35.500
+Nós temos aqui no fundo de tela, né?
+
+14
+00:00:35.500 --> 00:00:39.299
+Então, criar a ICD,
+
+15
+00:00:39.299 --> 00:00:43.179
+verificar tendências,
+
+16
+00:00:43.179 --> 00:00:46.640
+gerar arquivo para entrega,
+
+17
+00:00:46.640 --> 00:00:50.079
+assinar, mas não enviar,
+
+18
+00:00:50.079 --> 00:00:52.079
+que é o quinto passo, não enviar.
+
+19
+00:00:52.079 --> 00:00:54.359
+Vai lá, faz uma cópia de segurança,
+
+20
+00:00:54.359 --> 00:00:56.759
+vem aqui na ICF,
+
+21
+00:00:56.759 --> 00:00:59.859
+baixa a cópia e verifica se deu pau.
+
+22
+00:00:59.859 --> 00:01:01.500
+Se não deu nenhum problema,
+
+23
+00:01:01.500 --> 00:01:03.899
+vai lá e transmite, entendeu?
+
+24
+00:01:03.899 --> 00:01:08.400
+Se deu problema, vai lá, quebra a assinatura,
+
+25
+00:01:08.400 --> 00:01:10.480
+arruma onde tem que arrumar,
+
+26
+00:01:10.480 --> 00:01:13.579
+lá na contabilidade, no teu software de gestão,
+
+27
+00:01:13.579 --> 00:01:15.819
+faz todo o processo depois.
+
+28
+00:01:15.819 --> 00:01:20.079
+Ou seja, cria, importa a ICD,
+
+29
+00:01:20.079 --> 00:01:22.159
+verifica pendência,
+
+30
+00:01:22.159 --> 00:01:26.359
+gera o arquivo para entrega, assina,
+
+31
+00:01:26.359 --> 00:01:28.819
+eletronicamente e não transmite.
+
+32
+00:01:28.819 --> 00:01:31.239
+Cópia de segurança, vem aqui na ICF,
+
+33
+00:01:31.239 --> 00:01:32.739
+baixa de novo e tal.
+
+34
+00:01:32.739 --> 00:01:35.159
+Não deu nada, deu tudo certinho,
+
+35
+00:01:35.159 --> 00:01:37.680
+vai lá e transmite a ICD, entendeu?
+
+36
+00:01:37.680 --> 00:01:41.000
+Porque quando você recuperar aqui na ICF,
+
+37
+00:01:41.000 --> 00:01:42.579
+não tem erro.
+
+38
+00:01:42.579 --> 00:01:44.819
+E hoje eu vejo muitas pessoas com erro,
+
+39
+00:01:44.819 --> 00:01:47.420
+mandou a ICD, aí chega aqui e tem erro.
+
+40
+00:01:47.420 --> 00:01:47.980
+Erro aonde?
+
+41
+00:01:47.980 --> 00:01:50.659
+Lá na ICD, aí tem que substituir,
+
+42
+00:01:50.659 --> 00:01:52.560
+trabalho dobrado, entendeu?
+
+43
+00:01:52.560 --> 00:01:54.519
+Essa foi a dica de ouro aí.
+
+44
+00:01:54.519 --> 00:01:56.359
+Aqui, então, nós temos aqui,
+
+45
+00:01:56.359 --> 00:01:58.000
+ele vai te perguntar,
+
+46
+00:01:58.000 --> 00:01:59.700
+recuperar a ICD, sim ou não?
+
+47
+00:01:59.700 --> 00:02:01.000
+Se você falar não,
+
+48
+00:02:01.000 --> 00:02:02.959
+mesmo assim nós temos no menu
+
+49
+00:02:02.959 --> 00:02:05.099
+a possibilidade de recuperar depois.
+
+50
+00:02:05.099 --> 00:02:07.040
+Mas o objetivo é sim.
+
+51
+00:02:07.040 --> 00:02:08.780
+Aí ele vai te pedir, né?
+
+52
+00:02:08.780 --> 00:02:12.280
+Observação, a recuperação de dados da ICD
+
+53
+00:02:12.280 --> 00:02:14.580
+é obrigatória para empresas
+
+54
+00:02:14.580 --> 00:02:17.819
+que são obrigadas a entregar a ICD, perfeito?
+
+55
+00:02:17.819 --> 00:02:19.680
+Lá no curso da ICD eu elenco
+
+56
+00:02:19.680 --> 00:02:22.979
+quem está obrigado a entregar a ICD, perfeito?
+
+57
+00:02:22.979 --> 00:02:25.620
+Muito bem, aí ele vai te perguntar, né?
+
+58
+00:02:25.620 --> 00:02:27.620
+Recuperar dados da ICD.
+
+59
+00:02:27.620 --> 00:02:29.960
+Ele vai te pedir o período, né?
+
+60
+00:02:29.960 --> 00:02:33.000
+Lá da ICD, né?
+
+61
+00:02:33.000 --> 00:02:35.120
+Ele te pede lá o período, está vendo?
+
+62
+00:02:35.120 --> 00:02:37.039
+Aí você vai vir localizar onde está
+
+63
+00:02:37.039 --> 00:02:38.939
+para fazer a recuperação, tá?
+
+64
+00:02:38.939 --> 00:02:41.639
+Ou de um arquivo ou de vários artigos, tá?
+
+65
+00:02:41.639 --> 00:02:44.379
+Aí aqui nós vamos ter, né?
+
+66
+00:02:44.379 --> 00:02:45.699
+Já a empresa criada,
+
+67
+00:02:45.699 --> 00:02:48.379
+criei uma empresa teste para a gente verificar.
+
+68
+00:02:48.379 --> 00:02:49.719
+Está aqui os cinco passos, ó.
+
+69
+00:02:49.719 --> 00:02:52.780
+Um, dois, três, quatro, cinco, tá?
+
+70
+00:02:52.780 --> 00:02:54.520
+Aqui na ECF não tem como, né?
+
+71
+00:02:54.520 --> 00:02:55.120
+Você vai...
+
+72
+00:02:55.120 --> 00:02:56.879
+Você já recuperou os dados da ICD,
+
+73
+00:02:56.879 --> 00:02:58.819
+está tudo jóinha, manda bala.
+
+74
+00:02:58.819 --> 00:03:01.860
+Não deu erro, não deu problema, você transmite, tá?
+
+75
+00:03:01.860 --> 00:03:06.039
+Então, lá na ICD que eu comentei com vocês, ó.
+
+76
+00:03:06.039 --> 00:03:08.199
+Crio a ICD, confiro pendências,
+
+77
+00:03:08.199 --> 00:03:10.060
+gero o arquivo, assino,
+
+78
+00:03:10.060 --> 00:03:11.800
+mas não faço o quinto passo.
+
+79
+00:03:11.800 --> 00:03:13.439
+Aí vou lá na ECF.
+
+80
+00:03:13.439 --> 00:03:16.139
+Deu tudo jóia, volto aqui e transmito.
+
+81
+00:03:16.139 --> 00:03:17.039
+Sem problema.
+
+82
+00:03:17.039 --> 00:03:19.219
+Não deu, quebro a assinatura,
+
+83
+00:03:19.219 --> 00:03:22.379
+vou no meu software, ajusto e faço tudo de novo
+
+84
+00:03:22.379 --> 00:03:24.580
+até dar certo, perfeito?
+
+85
+00:03:25.120 --> 00:03:28.120
+Aqui nós temos aqui os dados da empresa, né?
+
+86
+00:03:28.120 --> 00:03:29.020
+O CNPJ.
+
+87
+00:03:29.020 --> 00:03:31.819
+E aqui vai aparecer quantos clientes você tiver,
+
+88
+00:03:31.819 --> 00:03:33.800
+sei que é escritório de contabilidade.
+
+89
+00:03:33.800 --> 00:03:36.500
+Ou a empresa, vai aparecer uma, duas, três,
+
+90
+00:03:36.500 --> 00:03:38.400
+todos aqui por CNPJ.
+
+91
+00:03:38.400 --> 00:03:40.699
+Aí você tem aqui a primeira coisa, né?
+
+92
+00:03:40.699 --> 00:03:44.240
+Você criou a empresa, está criando nos dados.
+
+93
+00:03:44.240 --> 00:03:47.699
+Você tem os dados aqui, você tem, olha lá, né?
+
+94
+00:03:47.699 --> 00:03:53.919
+Aqui você tem visualizar dados da ECF, tá vendo?
+
+95
+00:03:53.919 --> 00:03:55.379
+Visualizar dados da ECF.
+
+96
+00:03:55.379 --> 00:03:58.360
+Você já clicou aqui, ele vai te abrir, né?
+
+97
+00:03:58.360 --> 00:04:00.900
+Para você visualizar os dados.
+
+98
+00:04:00.900 --> 00:04:03.860
+Aí você tem lá as fichas, né?
+
+99
+00:04:03.860 --> 00:04:07.259
+O bloco zero que nós comentamos agora há pouco, olha lá.
+
+100
+00:04:07.259 --> 00:04:10.900
+Identificação da entidade, parâmetros de tributação,
+
+101
+00:04:10.900 --> 00:04:13.439
+parâmetros complementar, parâmetros de identificação
+
+102
+00:04:13.439 --> 00:04:16.779
+do tipo de programa, os dados cadastrais.
+
+103
+00:04:16.779 --> 00:04:18.740
+Aqui o signatário, nós não chegamos aí,
+
+104
+00:04:18.740 --> 00:04:21.720
+é quem assina a ECF, perfeito?
+
+105
+00:04:21.720 --> 00:04:23.920
+Mas você vê que tudo aquilo nós já preenchemos, né?
+
+106
+00:04:23.920 --> 00:04:27.819
+lá. Se tiver que alterar alguma coisa, eu vou clicar aqui. Alguns
+
+107
+00:04:27.819 --> 00:04:31.819
+campos ele deixa alterar, outros não, tá? Aí nós temos
+
+108
+00:04:31.819 --> 00:04:35.740
+aqui a recuperação dos dados, tá vendo? Então nós temos aqui
+
+109
+00:04:35.740 --> 00:04:39.980
+já no próprio programa, né? São dados que nós já preenchemos
+
+110
+00:04:39.980 --> 00:04:42.920
+lá no bloco zero. Aí eu tenho aqui
+
+111
+00:04:42.920 --> 00:04:47.560
+o cadastro, os dados iniciais, mapeamento da conta contábil
+
+112
+00:04:47.560 --> 00:04:51.519
+referencial, o cálculo do imposto de renda, declaração de país a país,
+
+113
+00:04:51.519 --> 00:04:55.720
+informações econômicas, informações gerais. Como exemplo é de lucro real,
+
+114
+00:04:56.100 --> 00:04:59.079
+por isso que ele tá trazendo o cálculo do imposto de renda.
+
+115
+00:04:59.560 --> 00:05:02.779
+Tamo lá no bloco identificação da entidade,
+
+116
+00:05:03.519 --> 00:05:07.540
+então nós temos aí como identificação os dados da empresa,
+
+117
+00:05:07.699 --> 00:05:11.500
+né? Então aqui é bem tranquilo que nós temos todos os
+
+118
+00:05:11.500 --> 00:05:14.579
+dados, né? Identificação aí, né?
+
+119
+00:05:15.240 --> 00:05:19.500
+Ou seja, extraído dos dados cadastrais automáticos, já vem
+
+120
+00:05:19.500 --> 00:05:21.379
+pra cá. Aqueles que nós
+
+121
+00:05:21.379 --> 00:05:25.240
+preenchemos lá no bloco zero, que eu expliquei um a um, automático ele já cai
+
+122
+00:05:25.240 --> 00:05:29.420
+aqui. Ele traz o CNPJ, né? Traz aqui o nome da empresa,
+
+123
+00:05:30.019 --> 00:05:33.439
+indicador do período, né? Início do ano, nós
+
+124
+00:05:33.439 --> 00:05:37.079
+comentamos lá. E um detalhe interessante, que
+
+125
+00:05:37.079 --> 00:05:41.500
+ele somente vai perguntar pra você qual é a data inicial
+
+126
+00:05:41.500 --> 00:05:45.040
+que nós preenchemos lá, que ele vai ficar chumbado. Você vê que tá
+
+127
+00:05:45.040 --> 00:05:49.279
+numa cor diferente, eu não consigo alterar mais. Por que ele
+
+128
+00:05:49.279 --> 00:05:51.319
+pede somente a data inicial?
+
+129
+00:05:51.379 --> 00:05:55.379
+Porque a data final é 31 de dezembro, esse é o nosso ano fiscal
+
+130
+00:05:55.379 --> 00:05:59.379
+de janeiro a dezembro, né? Então a data final ele já traz chumbado
+
+131
+00:05:59.379 --> 00:06:05.379
+31 do 12. Diferentemente da ECD. A ECD te pede a parte, a data
+
+132
+00:06:05.379 --> 00:06:09.379
+inicial e a data final. Porque não necessariamente eu fecho o balanço
+
+133
+00:06:09.379 --> 00:06:13.379
+em dezembro, posso fechar em qualquer mês do ano, perfeito? Aqui na
+
+134
+00:06:13.379 --> 00:06:17.379
+ECF não, tem que ser de janeiro a dezembro. E por que que ele pede a data
+
+135
+00:06:17.379 --> 00:06:21.379
+inicial? Porque a empresa pode ter sido aberta no meio do ano. Então eu vou colocar 1 de julho,
+
+136
+00:06:21.379 --> 00:06:25.379
+de 2025 a 31 de dezembro ele já tá chumbado.
+
+137
+00:06:25.379 --> 00:06:29.379
+Entendeu? E aí tem todos os dados, ECF original, tudo.
+
+138
+00:06:29.379 --> 00:06:33.379
+Trouxe aonde? Automático dos dados cadastrais.

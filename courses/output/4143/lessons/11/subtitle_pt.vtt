@@ -1,0 +1,357 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.940
+implementam as medidas de segurança, como, por exemplo, controle de acesso.
+
+2
+00:00:05.099 --> 00:00:09.000
+Então, uma empresa tem um estoque, então tem que ter um controle de acesso.
+
+3
+00:00:09.099 --> 00:00:10.640
+Quem é que tem acesso àquele espaço?
+
+4
+00:00:10.720 --> 00:00:13.759
+Quem é que tem acesso às dependências daquela empresa?
+
+5
+00:00:14.320 --> 00:00:21.059
+Seleção de pessoal, proteção física, selos de alta segurança, auditores.
+
+6
+00:00:21.059 --> 00:00:33.740
+Então, passou a haver um investimento maior, a segurança da cadeia logística, a segurança dos produtos que estão sendo importados e exportados.
+
+7
+00:00:33.740 --> 00:00:45.740
+Em troca, olha novamente, você implementa processos de compliance, você recebe benefícios. Então, em troca, haveriam
+
+8
+00:00:45.740 --> 00:00:48.119
+inspeções mínimas, menos de
+
+9
+00:00:48.119 --> 00:00:50.420
+1%. Desembarasse prioritário,
+
+10
+00:00:50.520 --> 00:00:52.299
+então as cargas iriam para canal verde
+
+11
+00:00:52.299 --> 00:00:54.039
+e liberação rápida.
+
+12
+00:00:54.700 --> 00:00:56.179
+Então, isso até
+
+13
+00:00:56.179 --> 00:00:58.240
+aqui, vamos dizer, relativamente parecido
+
+14
+00:00:58.240 --> 00:01:00.000
+com o OEA, então as bases
+
+15
+00:01:00.000 --> 00:01:02.240
+já são relativamente
+
+16
+00:01:02.240 --> 00:01:04.099
+as mesmas. Então, com mais de 11 mil
+
+17
+00:01:04.099 --> 00:01:06.159
+certificados é referência mundial e base
+
+18
+00:01:06.159 --> 00:01:08.219
+do OEA no Brasil e no mundo
+
+19
+00:01:08.219 --> 00:01:10.060
+a gente tem o CSI, Container
+
+20
+00:01:10.060 --> 00:01:12.200
+Security Initiative, que foi lançado
+
+21
+00:01:12.200 --> 00:01:14.079
+em 2002, então inspetores
+
+22
+00:01:14.079 --> 00:01:15.879
+americanos atuam em portos
+
+23
+00:01:15.879 --> 00:01:17.819
+estrangeiros, analisando
+
+24
+00:01:17.819 --> 00:01:19.799
+manifestos eletrônicos, usando
+
+25
+00:01:19.799 --> 00:01:22.159
+scanners, então na época o objetivo
+
+26
+00:01:22.159 --> 00:01:24.439
+era identificar ameaças terroristas
+
+27
+00:01:24.439 --> 00:01:25.719
+com bombas, armas.
+
+28
+00:01:25.879 --> 00:01:33.560
+Então, isso foi uma iniciativa muito forte imediatamente após o 11 de setembro.
+
+29
+00:01:33.700 --> 00:01:40.280
+Então, até hoje existe uma operação em mais de 60 portos que são identificados como riscos,
+
+30
+00:01:40.280 --> 00:01:49.040
+para portos que têm uma alta criticidade para os Estados Unidos.
+
+31
+00:01:49.400 --> 00:01:55.319
+Então, empresas que são certificadas como OEA, CTPAT têm prioridade.
+
+32
+00:01:55.579 --> 00:01:59.400
+Então, eles ganham novamente o benefício e o privilégio
+
+33
+00:01:59.400 --> 00:02:05.459
+de terem os seus embarques desembaraassados de forma mais celere
+
+34
+00:02:05.459 --> 00:02:08.280
+e é pilar da
+
+35
+00:02:08.280 --> 00:02:10.360
+segurança pré-embarque pós
+
+36
+00:02:10.360 --> 00:02:11.599
+11 de setembro
+
+37
+00:02:11.599 --> 00:02:13.919
+então um outro
+
+38
+00:02:13.919 --> 00:02:16.259
+conceito importante que eu
+
+39
+00:02:16.259 --> 00:02:18.439
+acho, como a gente vai falar
+
+40
+00:02:18.439 --> 00:02:19.860
+do safe
+
+41
+00:02:19.860 --> 00:02:22.280
+frameworks, eu quis antes
+
+42
+00:02:22.280 --> 00:02:23.300
+de mais nada
+
+43
+00:02:23.300 --> 00:02:27.639
+falar sobre a OMA, sobre a Organização Mundial das Aduanas,
+
+44
+00:02:27.800 --> 00:02:35.400
+porque, no fim, foi a partir da OMA que surgiu o Safe Frameworks, que é a base do programa OEA.
+
+45
+00:02:35.740 --> 00:02:41.979
+Então, antes da gente entrar no Safe, vamos relembrar aqui, que eu tenho certeza que vocês já conhecem,
+
+46
+00:02:41.979 --> 00:03:07.379
+já escutaram falar o que é a OMA. Então, a OMA é uma entidade intergovernamental, FIS Então ela é intergovernamental, ela faz parte, colabora ali entre vários governos
+
+47
+00:03:07.379 --> 00:03:25.520
+e tem como objetivo trazer várias administrações aduaneiras para, de forma conjunta, harmônnicas, colaborativas para promover o comércio global.
+
+48
+00:03:30.080 --> 00:03:30.280
+Não apenas seguro, mas também facilitado e justo.
+
+49
+00:03:34.199 --> 00:03:34.699
+Então, tem como objetivo desenvolver, por exemplo, padrões internacionais,
+
+50
+00:03:43.319 --> 00:03:43.780
+o sistema harmonizado de mercadorias, como são feitas as classificações fiscais,
+
+51
+00:03:46.300 --> 00:03:46.419
+ferramentas para facilitação do comércio,
+
+52
+00:03:50.039 --> 00:03:50.259
+proteção de receitas fiscais e capacitação da aduana.
+
+53
+00:03:53.719 --> 00:03:59.580
+Então, os nortes, os direcionamentos de como as aduanas devem ser capacitadas, parte da Organização Mundial das Aduanas,
+
+54
+00:04:00.120 --> 00:04:04.419
+atualmente conta com 184 membros,
+
+55
+00:04:04.419 --> 00:04:09.419
+então são 84 países e suas respectivas autoridades aduaneiras,
+
+56
+00:04:09.479 --> 00:04:16.720
+as respectivas aduanas, representando 99% do comércio mundial.
+
+57
+00:04:16.720 --> 00:04:26.040
+Então, enfim, o grande volume de comércio exterior, ele é representado pela Organização Mundial das Aduanas.
+
+58
+00:04:27.040 --> 00:04:31.740
+Então, tem como atividades principais a criação de instrumentos,
+
+59
+00:04:31.800 --> 00:04:34.339
+como o próprio Programa do Operador Econômico Autorizado,
+
+60
+00:04:34.500 --> 00:04:37.319
+ou as bases do Programa do Operador Econômico Autorizado.
+
+61
+00:04:38.060 --> 00:04:41.680
+A OMA desenvolve uma série de relatórios anuais,
+
+62
+00:04:42.560 --> 00:05:07.699
+iniciativas contra ilícitos, contrabando, terrorismo. A OMA lançou o chamado Safe Framework of Standards to Secure and Facilitate Global Trade,
+
+63
+00:05:07.819 --> 00:05:11.439
+que é o chamado quadro de normas SAFE.
+
+64
+00:05:11.439 --> 00:05:15.620
+Então, criado pela Organização Mundial das Aduanas,
+
+65
+00:05:15.740 --> 00:05:22.439
+é um conjunto de princípios de padrões globais para proteger a cadeia de suprimentos internacionais
+
+66
+00:05:22.959 --> 00:06:07.180
+contra terrorismo e crimes transnacionais, ao mesmo tempo que facilita o comércio legítimo. FIS tênue para as várias iniciativas que envolvem o comércio exterior, os vários temas que é.
+
+67
+00:06:07.180 --> 00:06:16.000
+Ao mesmo tempo que se garante o compliance, a segurança, o cumprimento, a arrecadação fiscal,
+
+68
+00:06:16.519 --> 00:06:26.540
+ao mesmo tempo que tudo isso diz ter nenhuma relevância e importância para uma cadeia de suprimentos não pode deixar
+
+69
+00:06:26.540 --> 00:06:28.439
+de lado, não é possível
+
+70
+00:06:28.439 --> 00:06:30.540
+negligenciar
+
+71
+00:06:31.439 --> 00:06:32.639
+a necessidade
+
+72
+00:06:32.639 --> 00:06:34.899
+de um comércio facilitado
+
+73
+00:06:34.899 --> 00:06:35.579
+então
+
+74
+00:06:35.579 --> 00:06:38.120
+o Safe Framework
+
+75
+00:06:38.120 --> 00:06:39.920
+ele olha também
+
+76
+00:06:39.920 --> 00:06:42.579
+para a facilitação daquilo que é
+
+77
+00:06:42.579 --> 00:06:44.620
+chamado comércio legítimo
+
+78
+00:06:44.620 --> 00:06:53.959
+então é dentro dessa linha tênue que existe entre os múltiplos interesses
+
+79
+00:06:53.959 --> 00:06:58.879
+que envolvem o comércio exterior que surgem os benefícios e os privilégios
+
+80
+00:06:58.879 --> 00:07:02.980
+concedidos às empresas que demonstram o compliance,
+
+81
+00:07:03.220 --> 00:07:25.600
+que demonstram a idoneidade das suas operações. FIS Esse programa, esse same framework, ele tem três pilares
+
+82
+00:07:25.600 --> 00:07:29.639
+e vocês vão ver que esses pilares, eles são, até hoje,
+
+83
+00:07:29.860 --> 00:07:33.939
+eles são os fundamentos do programa do Operador Econômico Autorizado
+
+84
+00:07:33.939 --> 00:07:38.879
+e digo mais, eles também são vistos, eles também são identificados
+
+85
+00:07:38.879 --> 00:07:52.779
+no portal único, na criação do portal único de comércio exterior, no Pucomex brasileiro e dentro do conceito da chamada single window, da janela única de comércio exterior.
+
+86
+00:07:53.319 --> 00:08:28.319
+Aliás, convido você, se você é aluno interessado nos temas do portal único de comércio exterior ou do catálogo de produtos, FIS Frameworks. Então, o primeiro pilar é a doana-a-doana. Seria a troca de informações prévias e inspeções de risco.
+
+87
+00:08:28.319 --> 00:08:32.360
+Então, seria uma integração entre as aduanas.
+
+88
+00:08:32.360 --> 00:08:36.679
+As aduanas do país importador com a doana do país exportador.
+
+89
+00:08:36.679 --> 00:08:43.000
+Então, essa integração vai promover uma troca eficiente de informação.

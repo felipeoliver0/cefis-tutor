@@ -1,0 +1,33 @@
+{
+  "id": 465876,
+  "title": "Gratificação por venda de produtos e serviços",
+  "position": 14,
+  "duration": 154,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/13c2548a-42d8-43c7-9bc1-0ff60fc2eef1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13c2548a-42d8-43c7-9bc1-0ff60fc2eef1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13c2548a-42d8-43c7-9bc1-0ff60fc2eef1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13c2548a-42d8-43c7-9bc1-0ff60fc2eef1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13c2548a-42d8-43c7-9bc1-0ff60fc2eef1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

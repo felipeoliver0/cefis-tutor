@@ -1,0 +1,33 @@
+{
+  "id": 488066,
+  "title": "Formas de preenchimento",
+  "position": 17,
+  "duration": 205,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/5d044710-d69f-46d8-8ed6-8e73846fbcae/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d044710-d69f-46d8-8ed6-8e73846fbcae/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d044710-d69f-46d8-8ed6-8e73846fbcae/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d044710-d69f-46d8-8ed6-8e73846fbcae/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d044710-d69f-46d8-8ed6-8e73846fbcae/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

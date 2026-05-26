@@ -1,0 +1,105 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:09.300
+Regras de manutenção. A alteração permite modificar dados de um evento já registrado no sistema.
+
+3
+00:00:09.300 --> 00:00:21.100
+A alteração se sobrepõe à informação enviada anteriormente. Podemos trazer manutenções para as informações que já foram prestadas?
+
+4
+00:00:21.100 --> 00:00:28.699
+Podemos. Essas alterações irão substituir a informação informada indevida anteriormente.
+
+5
+00:00:28.699 --> 00:00:38.299
+O contribuinte deve preencher todas as ocorrências e campos do evento da alteração, inclusive aqueles que não sofreram modificação.
+
+6
+00:00:38.299 --> 00:00:47.799
+Muito dia a dia nosso, quando nós vamos retificar um espédio, por exemplo, que nós alteramos a informação que está incompleta,
+
+7
+00:00:47.799 --> 00:00:53.600
+que está equivocada, que está errada, que está incorreta, mas nós temos que enviar todo o restante do arquivo.
+
+8
+00:00:53.600 --> 00:00:56.799
+A mesma coisa vai ser aqui na DERI.
+
+9
+00:00:56.799 --> 00:00:58.600
+é obrigatório.
+
+10
+00:00:58.600 --> 00:01:09.400
+Informar o número do recibo do evento original ou a chave do período exato para que o sistema identifique qual registro está sendo alterado.
+
+11
+00:01:09.400 --> 00:01:19.700
+Essa é aquela dinâmica onde nós verificamos o protocolo de envio, verificamos o hash code daquela transmissão para fazer uma retificação.
+
+12
+00:01:19.700 --> 00:01:28.500
+Processo padrão para identificar qual que é a operação, qual que é a declaração que nós estamos fazendo ali.
+
+13
+00:01:28.599 --> 00:01:31.000
+As alterações, a substituição.
+
+14
+00:01:31.000 --> 00:01:34.200
+Exclusão dos eventos.
+
+15
+00:01:34.200 --> 00:01:42.200
+Ela anula um evento, perdendo todos os seus efeitos jurídicos e o cumprimento da obrigação no prazo.
+
+16
+00:01:42.200 --> 00:01:44.200
+Super importante aqui, pessoal.
+
+17
+00:01:44.200 --> 00:01:58.400
+Se for excluir um evento, antes de fazer a exclusão, verifique se realmente é devida essa exclusão, se ele realmente foi enviado de forma indevida, de forma equivocada, foi enviado a mais. Por quê?
+
+18
+00:01:58.400 --> 00:02:03.000
+Você vai tirar os efeitos e vai tirar o cumprimento da obrigação acessória.
+
+19
+00:02:03.000 --> 00:02:10.000
+Se você excluir um evento que você era obrigado a entregar, você vai ficar ali desacobertado da transmissão.
+
+20
+00:02:10.000 --> 00:02:17.000
+Então, é super importante fazer essa validação antes de excluir qualquer tipo de evento.
+
+21
+00:02:17.000 --> 00:02:19.000
+Consequência.
+
+22
+00:02:19.000 --> 00:02:28.000
+A exclusão pode gerar pendências nas obrigações se realizada fora do prazo ou sem a sua substituição por outro evento válido.
+
+23
+00:02:28.400 --> 00:02:34.400
+Então, vejam que precisamos ter cautela na exclusão dos eventos.
+
+24
+00:02:34.400 --> 00:02:38.400
+Antes de você acessar o sistema e excluir o evento, verifique.
+
+25
+00:02:38.400 --> 00:02:49.400
+Veja se ele substituiu, se você substituiu ele, se ele realmente foi algo enviado a mais erroneamente ou se você precisa substituí-lo.
+
+26
+00:02:49.400 --> 00:02:57.400
+Para excluir um evento, é obrigatório informar o número do recibo do evento original ou também a chave exata.
+
+27
+00:02:57.400 --> 00:03:07.400
+Então, que o sistema identifique qual registro vai ser excluído, ou seja, trazer clareza para aquela informação que você está excluindo.

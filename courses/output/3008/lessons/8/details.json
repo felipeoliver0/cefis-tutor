@@ -1,0 +1,33 @@
+{
+  "id": 473224,
+  "title": "Empresas relacionadas no Anexo 2",
+  "position": 8,
+  "duration": 217,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/14f047df-9c4d-495b-aaa3-3692630991bf/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/14f047df-9c4d-495b-aaa3-3692630991bf/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/14f047df-9c4d-495b-aaa3-3692630991bf/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/14f047df-9c4d-495b-aaa3-3692630991bf/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/14f047df-9c4d-495b-aaa3-3692630991bf/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

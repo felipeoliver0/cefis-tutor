@@ -1,0 +1,33 @@
+{
+  "id": 461508,
+  "title": "A ética e as praticas empresariais",
+  "position": 7,
+  "duration": 293,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ebeece02-f59b-445c-b6c1-3c6d83312397/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebeece02-f59b-445c-b6c1-3c6d83312397/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebeece02-f59b-445c-b6c1-3c6d83312397/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebeece02-f59b-445c-b6c1-3c6d83312397/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebeece02-f59b-445c-b6c1-3c6d83312397/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

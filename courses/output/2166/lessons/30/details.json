@@ -1,0 +1,33 @@
+{
+  "id": 463550,
+  "title": "Retorno ao trabalho",
+  "position": 30,
+  "duration": 165,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b7e93052-84db-44ec-a543-d63dc5d41cc2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7e93052-84db-44ec-a543-d63dc5d41cc2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7e93052-84db-44ec-a543-d63dc5d41cc2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7e93052-84db-44ec-a543-d63dc5d41cc2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7e93052-84db-44ec-a543-d63dc5d41cc2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

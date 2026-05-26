@@ -1,0 +1,33 @@
+{
+  "id": 486540,
+  "title": "Split payment - Não sujeição",
+  "position": 47,
+  "duration": 207,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8573e8d7-305b-4ccc-9ddf-35be6e3fb142/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8573e8d7-305b-4ccc-9ddf-35be6e3fb142/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8573e8d7-305b-4ccc-9ddf-35be6e3fb142/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8573e8d7-305b-4ccc-9ddf-35be6e3fb142/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8573e8d7-305b-4ccc-9ddf-35be6e3fb142/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

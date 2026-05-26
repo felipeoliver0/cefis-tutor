@@ -1,0 +1,33 @@
+{
+  "id": 461171,
+  "title": "Ativo intangível",
+  "position": 29,
+  "duration": 153,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/62b889ec-3f36-4bd1-bf6a-cf921f14d3e7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62b889ec-3f36-4bd1-bf6a-cf921f14d3e7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62b889ec-3f36-4bd1-bf6a-cf921f14d3e7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62b889ec-3f36-4bd1-bf6a-cf921f14d3e7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62b889ec-3f36-4bd1-bf6a-cf921f14d3e7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

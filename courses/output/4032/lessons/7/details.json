@@ -1,0 +1,33 @@
+{
+  "id": 481273,
+  "title": "Novo cenário da contabilidade",
+  "position": 7,
+  "duration": 488,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1dce696b-8082-4ff3-9052-3ed9d71cb08e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1dce696b-8082-4ff3-9052-3ed9d71cb08e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1dce696b-8082-4ff3-9052-3ed9d71cb08e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1dce696b-8082-4ff3-9052-3ed9d71cb08e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1dce696b-8082-4ff3-9052-3ed9d71cb08e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

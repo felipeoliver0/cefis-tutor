@@ -1,0 +1,177 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.000
+Qual é a parte de arquitetura da Plataforma da Nota Fiscal de Serviço Padronizada?
+
+3
+00:00:06.000 --> 00:00:13.000
+O portal gov.br, ele é disponível, ele é central, de fato, da documentação.
+
+4
+00:00:13.000 --> 00:00:25.000
+Emissão Nacional é web simplificada, o MEI já utiliza, então é uma plataforma super simples de você manejar e colocar as informações.
+
+5
+00:00:25.000 --> 00:00:33.000
+APIs de emissão. Existe uma integração direta, existem sistemas que já estão com APIs para esse lançamento direto.
+
+6
+00:00:33.000 --> 00:00:42.000
+E isso gera uma produtividade para o departamento, porque hoje é muito difícil, algumas plataformas municipais não têm essas APIs.
+
+7
+00:00:42.000 --> 00:00:53.000
+E aí o que acontece? O fiscal precisa lançar no sistema operacional e contábil e lançar os mesmos documentos dentro da plataforma para apurar o ISS.
+
+8
+00:00:53.000 --> 00:00:55.000
+APIs compartilhadas e distribuídas.
+
+9
+00:00:55.000 --> 00:01:00.000
+Emissão, então existe uma sincronização para as informações dos municípios.
+
+10
+00:01:00.000 --> 00:01:07.000
+Existe uma ADN, que é o Ambiente de Dados Nacional, que tem um repositório único para trazer transparência sobre a informação.
+
+11
+00:01:07.000 --> 00:01:14.000
+Calculadoras de tributos, então o motor de cálculo integrado dentro do próprio portal para calcular o ISS.
+
+12
+00:01:14.000 --> 00:01:18.000
+E, futuramente, o IBS e a CBS também, na reforma tributária.
+
+13
+00:01:18.000 --> 00:01:23.000
+Cadastros integrados, existe uma sincronização de bases de dados perante a Receita Federal
+
+14
+00:01:23.000 --> 00:01:25.000
+para trazer, então, o CNPJ.
+
+15
+00:01:25.000 --> 00:01:27.000
+TSPFs e cadastros municipais.
+
+16
+00:01:27.000 --> 00:01:33.000
+E integração direta sobre a base da reforma tributária para apuração assistida.
+
+17
+00:01:33.000 --> 00:01:39.000
+Então, tudo isso me dá um pouco mais de segurança e de conformidade para o meu contribuinte.
+
+18
+00:01:39.000 --> 00:01:50.000
+E uma produtividade integrada com o meu profissional da área, tanto da área fiscal quanto o emissor também do documento.
+
+19
+00:01:50.000 --> 00:01:52.000
+Então, o que a gente precisa fazer?
+
+20
+00:01:52.000 --> 00:01:54.000
+Uma parametrização.
+
+21
+00:01:54.000 --> 00:01:58.000
+Uma integração para gerar a conformidade.
+
+22
+00:01:58.000 --> 00:01:59.000
+O que que rege?
+
+23
+00:01:59.000 --> 00:02:02.000
+O documento, ele nasce numa conformidade.
+
+24
+00:02:02.000 --> 00:02:05.000
+O que que você precisa para trazer essa conformidade?
+
+25
+00:02:05.000 --> 00:02:08.000
+As regras vigentes da Lei Cumprimentar de 2014.
+
+26
+00:02:08.000 --> 00:02:11.000
+Nós não temos ainda uma alíquota definida.
+
+27
+00:02:11.000 --> 00:02:17.000
+Nós temos, em 2026, a alíquota das bases para, então, iniciar os testes.
+
+28
+00:02:17.000 --> 00:02:22.000
+Só que a ALC, ela já determina, então, a base de cálculo, por exemplo.
+
+29
+00:02:22.000 --> 00:02:27.000
+Ela já determina o código de serviço chamado ENBS.
+
+30
+00:02:27.000 --> 00:02:29.000
+O que que a gente precisa fazer?
+
+31
+00:02:29.000 --> 00:02:33.000
+Os parâmetros para gerar uma conformidade na emissão do documento.
+
+32
+00:02:33.000 --> 00:02:37.000
+A ENBS precisa estar coerente com o código de serviço.
+
+33
+00:02:37.000 --> 00:02:45.000
+E a ENBS e o código de serviço precisam estar coerentes com a natureza de rendimento que você envia no FDINF.
+
+34
+00:02:45.000 --> 00:02:50.000
+O prestador, ele informa o mínimo necessário.
+
+35
+00:02:50.000 --> 00:02:53.000
+O lançamento do Portal Nacional é super simples, o lançamento.
+
+36
+00:02:53.000 --> 00:02:55.000
+Então, é simples mesmo.
+
+37
+00:02:55.000 --> 00:02:59.000
+O contribuinte, ele preenche apenas os dados específicos para apreciação de serviço.
+
+38
+00:02:59.000 --> 00:03:02.000
+E a plataforma, ela gera automaticamente.
+
+39
+00:03:02.000 --> 00:03:05.000
+E o motor de regras centralizado também.
+
+40
+00:03:05.000 --> 00:03:14.000
+A nota técnica, a última, a 07, ela já trouxe até uma simplificação da tag do CSRF, que é o 4.65.
+
+41
+00:03:14.000 --> 00:03:16.000
+E o porquê que ela fez isso?
+
+42
+00:03:16.000 --> 00:03:19.000
+Porque se o PIS e COFIN já tem data de extinção,
+
+43
+00:03:19.000 --> 00:03:26.000
+isso quer dizer que a retenção do CSLL continue e o PIS e COFIN não.
+
+44
+00:03:26.000 --> 00:03:32.000
+Ou seja, quais são as retenções que se mantém conforme o artigo 509 da L.614?
+
+45
+00:03:32.000 --> 00:03:40.000
+IR, CSLL, INSS e o ISS até que ele perdure.

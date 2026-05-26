@@ -1,0 +1,509 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.400
+Aí nós temos o CPC 26, que é a NBC-TG26, Norma Brasileira Contábil Técnica Geral 26.
+
+3
+00:00:08.400 --> 00:00:15.439
+Ela nos dá, lá no seu item 10, que eu sou obrigado ao balanço patrimonial, a demonstração
+
+4
+00:00:15.439 --> 00:00:22.480
+do resultado do período, demonstração do resultado abrangente, a famosa DRA, demonstração
+
+5
+00:00:22.480 --> 00:00:29.859
+das mutações do patrimônio líquido, demonstrações dos fluxos de caixa, notas explicativas,
+
+6
+00:00:29.859 --> 00:00:36.859
+compreendendo políticas contábeis significantes e outras informações elucidativas, como
+
+7
+00:00:36.859 --> 00:00:42.420
+também demonstração do valor adicionado do período conforme pronunciamento tecno
+
+8
+00:00:42.420 --> 00:00:50.920
+CPC 09, se exigido legalmente por órgãos reguladores, ANEEL, ANATEL, Banco Central,
+
+9
+00:00:50.920 --> 00:00:52.939
+CVM, etc, etc.
+
+10
+00:00:52.939 --> 00:00:58.420
+Então vocês perceberam que aqui eu tenho sete tipos de demonstrações, né?
+
+11
+00:00:58.420 --> 00:00:59.820
+Sete tipos de demonstrações.
+
+12
+00:00:59.820 --> 00:01:02.780
+Conforme o CPC 26.
+
+13
+00:01:02.780 --> 00:01:04.519
+Isto é contabilidade.
+
+14
+00:01:04.519 --> 00:01:08.040
+Se eu não estiver informando isso, eu não estou completo.
+
+15
+00:01:08.040 --> 00:01:15.060
+E aqui nós temos ainda, eu trouxe a PME, a NBC-TG1000, a entidade deve elaborar o quê?
+
+16
+00:01:15.060 --> 00:01:20.680
+Balanço patrimonial, demonstração do resultado do exercício, demonstração do resultado
+
+17
+00:01:20.680 --> 00:01:24.719
+abrangente, demonstração das mutações do patrimônio líquido, demonstração dos
+
+18
+00:01:24.719 --> 00:01:26.819
+fluxos de caixa e notas explicativas.
+
+19
+00:01:26.819 --> 00:01:28.319
+Então, meus caros.
+
+20
+00:01:28.319 --> 00:01:29.819
+O que eu quero afirmar com vocês?
+
+21
+00:01:29.819 --> 00:01:39.019
+Que na nossa ECD, eu tenho que ter, no mínimo, seis demonstrativos, no mínimo, seis, para
+
+22
+00:01:39.019 --> 00:01:42.319
+estar completa a minha contabilidade, porque a contabilidade é isso.
+
+23
+00:01:42.319 --> 00:01:44.060
+Quais são?
+
+24
+00:01:44.060 --> 00:01:50.439
+Balanço patrimonial, demonstração do resultado do exercício, demonstração de lucros ou
+
+25
+00:01:50.439 --> 00:01:57.340
+prejuízos acumulados ou demonstração das mutações do patrimônio líquido, ou uma
+
+26
+00:01:57.340 --> 00:01:58.659
+ou outra.
+
+27
+00:01:58.659 --> 00:02:03.719
+Eu prefiro a DMPL, que ela é muito mais completa, traz muito mais informações do
+
+28
+00:02:03.719 --> 00:02:04.719
+que a DLPA.
+
+29
+00:02:04.719 --> 00:02:11.780
+E se eu faço a DMPL, eu estou desobrigado de fazer a DLPA, porque a DLPA consta dentro
+
+30
+00:02:11.780 --> 00:02:12.780
+da DMPL.
+
+31
+00:02:12.780 --> 00:02:13.780
+Perfeito?
+
+32
+00:02:13.780 --> 00:02:14.780
+Muito bem.
+
+33
+00:02:14.780 --> 00:02:26.340
+Então, balanço, DRE, DMPL, fluxo de caixa, demonstração de fluxo de caixa, DRA, demonstração
+
+34
+00:02:26.340 --> 00:02:27.900
+de resultado abrangente.
+
+35
+00:02:27.900 --> 00:02:31.960
+Se houver, e notas explicativas.
+
+36
+00:02:31.960 --> 00:02:35.539
+Será que você está entregando essas seis demonstrações, no mínimo?
+
+37
+00:02:35.539 --> 00:02:36.539
+No mínimo.
+
+38
+00:02:36.539 --> 00:02:41.960
+Se eu entregar isso, minha contabilidade está completa, independe do porte da empresa.
+
+39
+00:02:41.960 --> 00:02:42.960
+Independe.
+
+40
+00:02:42.960 --> 00:02:44.560
+Isso tem que estar dentro da ECD.
+
+41
+00:02:44.560 --> 00:02:46.139
+O que acontece?
+
+42
+00:02:46.139 --> 00:02:53.300
+O programa gerador de escrituração PGE, ele nos traz três demonstrações apenas,
+
+43
+00:02:53.300 --> 00:02:56.460
+que está parametrizado no nosso sistema.
+
+44
+00:02:56.460 --> 00:02:57.460
+Quais são?
+
+45
+00:02:57.460 --> 00:03:04.840
+Balanço patrimonial, demonstração do resultado do exercício e demonstração de lucros ou
+
+46
+00:03:04.840 --> 00:03:11.900
+prejuízos acumulados, ou, por sua escolha, demonstração das mutações do patrimônio
+
+47
+00:03:11.900 --> 00:03:12.900
+líquido.
+
+48
+00:03:12.900 --> 00:03:18.219
+Então, quando você importa os seus dados, ele vai te perguntar, você quer a DMPL ou
+
+49
+00:03:18.219 --> 00:03:19.219
+a DLPA?
+
+50
+00:03:19.219 --> 00:03:24.159
+Normalmente, a maioria do software faz essa pergunta, aí você escolhe.
+
+51
+00:03:24.159 --> 00:03:26.319
+Porque todas as três já estão parametrizadas.
+
+52
+00:03:26.319 --> 00:03:29.520
+Elas estão parametrizadas dentro do teu software.
+
+53
+00:03:29.520 --> 00:03:36.699
+Que você mesmo fez essa parametrização e aglutinação dos códigos, montando o teu
+
+54
+00:03:36.699 --> 00:03:41.759
+balanço, montando a tua DRE, montando a tua DLPA ou DMPL.
+
+55
+00:03:41.759 --> 00:03:42.759
+Perfeito?
+
+56
+00:03:42.759 --> 00:03:50.360
+Agora, todas as outras, fluxo de caixa, demonstração do resultado abrangente, notas aplicativas,
+
+57
+00:03:50.360 --> 00:03:54.199
+você vai ter que gerar um arquivo em um Word.
+
+58
+00:03:54.199 --> 00:03:56.199
+Salvar esse arquivo na extensão R.
+
+59
+00:03:56.199 --> 00:04:03.460
+RTF, que é Read Text Format, formato de texto, e pendurar elas lá no bloco J800.
+
+60
+00:04:03.460 --> 00:04:08.099
+Por isso que eu comentei da importância do bloco J800, entendeu?
+
+61
+00:04:08.099 --> 00:04:11.400
+Muitos de vocês só informam essas três que estão dentro do sistema.
+
+62
+00:04:11.400 --> 00:04:12.400
+E o resto?
+
+63
+00:04:12.400 --> 00:04:13.400
+Dá erro?
+
+64
+00:04:13.400 --> 00:04:14.400
+Não.
+
+65
+00:04:14.400 --> 00:04:15.400
+Dá pau?
+
+66
+00:04:15.400 --> 00:04:16.399
+Não, não dá.
+
+67
+00:04:16.399 --> 00:04:17.399
+Mas está correto?
+
+68
+00:04:17.399 --> 00:04:18.399
+Não, não está correto.
+
+69
+00:04:18.399 --> 00:04:19.399
+Entendeu?
+
+70
+00:04:19.399 --> 00:04:20.399
+Pode ser que no futuro venham a exigir isso.
+
+71
+00:04:20.399 --> 00:04:24.399
+Porque aqui nós estamos falando em contabilidade, exceder a contabilidade.
+
+72
+00:04:24.399 --> 00:04:25.399
+Perfeito?
+
+73
+00:04:25.399 --> 00:04:29.560
+Então o correto é isso, pelo menos seis demonstrações, ou cinco se você não precisar
+
+74
+00:04:29.560 --> 00:04:30.560
+da DRA.
+
+75
+00:04:30.560 --> 00:04:33.240
+O que é a DRA?
+
+76
+00:04:33.240 --> 00:04:35.639
+Demonstração do Resultado Abrangente.
+
+77
+00:04:35.639 --> 00:04:38.639
+Inclusive eu comento isso no nosso curso que eu gravei aqui, análise de balanço.
+
+78
+00:04:38.639 --> 00:04:40.639
+Acho que deve ter lá.
+
+79
+00:04:40.639 --> 00:04:47.800
+DRA, Demonstração do Resultado Abrangente, é algo além da DRE, é abrangente.
+
+80
+00:04:47.800 --> 00:04:52.639
+Ou seja, a primeira linha da DRA é a última linha da DRE, entendeu?
+
+81
+00:04:52.639 --> 00:04:53.660
+Eu começo por ali.
+
+82
+00:04:53.660 --> 00:04:54.660
+Por quê?
+
+83
+00:04:54.660 --> 00:04:55.920
+Porque a DRA é abrangente.
+
+84
+00:04:55.920 --> 00:04:58.519
+O que eu vou mostrar nessa declaração?
+
+85
+00:04:58.519 --> 00:05:04.759
+Tudo aquilo que eu contabilizei durante o ano diretamente no patrimônio líquido, sem
+
+86
+00:05:04.759 --> 00:05:08.279
+transitar pela DRE, entendeu?
+
+87
+00:05:08.279 --> 00:05:12.839
+Por isso o nome, Demonstração do Resultado Abrangente, é algo a mais.
+
+88
+00:05:12.839 --> 00:05:17.259
+Pode ser a mais, pode ser a menos, depende do que você contabilizou dentro do PL.
+
+89
+00:05:17.259 --> 00:05:22.819
+Então por exemplo, se você fez uma contabilização de ajuste de exercício anterior dentro do
+
+90
+00:05:22.819 --> 00:05:23.819
+teu PL.
+
+91
+00:05:23.819 --> 00:05:27.199
+Já é obrigado a fazer uma DRA.
+
+92
+00:05:27.199 --> 00:05:34.220
+Porque o usuário não enxerga o porquê o teu PL variou, para mais ou para menos, diferente
+
+93
+00:05:34.220 --> 00:05:36.519
+do resultado do exercício.
+
+94
+00:05:36.519 --> 00:05:40.959
+Que teoricamente a variação do patrimônio líquido de um ano para o outro é o resultado
+
+95
+00:05:40.959 --> 00:05:43.899
+do exercício, seja positivo ou negativo.
+
+96
+00:05:43.899 --> 00:05:49.199
+Se ele variou além ou aquém, porque tem algo mais lá dentro.
+
+97
+00:05:49.199 --> 00:05:51.720
+Como é que eu vou enxergar isso através da DRA?
+
+98
+00:05:51.720 --> 00:05:52.720
+Perfeito?
+
+99
+00:05:52.720 --> 00:05:53.660
+Lá no meu curso de fechamento de DRA.
+
+100
+00:05:53.660 --> 00:05:58.839
+Acho que eu devo ter lá vários detalhes com relação a elaboração de todas elas,
+
+101
+00:05:58.839 --> 00:05:59.839
+inclusive a DRA.
+
+102
+00:05:59.839 --> 00:06:00.839
+Entenderam, gente?
+
+103
+00:06:00.839 --> 00:06:08.040
+Ah, professor, eu só entrego lá o balanço, a DRE e a DLPA, tá certo?
+
+104
+00:06:08.040 --> 00:06:09.040
+Não, tá errado.
+
+105
+00:06:09.040 --> 00:06:10.040
+Entendeu?
+
+106
+00:06:10.040 --> 00:06:11.040
+Tá errado.
+
+107
+00:06:11.040 --> 00:06:15.500
+E o interessante, quando você faz uma vez, fica fácil, gente, não é difícil, tá?
+
+108
+00:06:15.500 --> 00:06:20.980
+Então fica aí a dica com relação a elaboração destas demonstrações, tá?
+
+109
+00:06:20.980 --> 00:06:23.040
+Por isso que eu fiz questão de trazer as normas.
+
+110
+00:06:23.040 --> 00:06:28.500
+Como aqui é norma contábil, que eu estou informando para o físico, mas é contábil.
+
+111
+00:06:28.500 --> 00:06:31.839
+Todas as demonstrações fazem parte do contábil.
+
+112
+00:06:31.839 --> 00:06:34.519
+Cada usuário pode usar de diversas maneiras.
+
+113
+00:06:34.519 --> 00:06:39.220
+Se eu mandar só três, eu estou fazendo pela metade do meu trabalho, entendeu?
+
+114
+00:06:39.220 --> 00:06:40.220
+Legal?
+
+115
+00:06:40.220 --> 00:06:51.819
+Lembrando vocês que dentro da ECD virão diário, razão, 12 balancetes intercalados
+
+116
+00:06:51.819 --> 00:06:52.920
+e as demonstrações.
+
+117
+00:06:52.920 --> 00:06:57.399
+Então é toda a nossa contabilidade, está tudo lá dentro, perfeito?
+
+118
+00:06:57.399 --> 00:07:02.759
+Se as únicas alterações do patrimônio líquido forem distribuição de lucro, de correção
+
+119
+00:07:02.759 --> 00:07:09.639
+de erros de períodos anteriores e de mudança de políticas contábeis, a entidade pode apresentar
+
+120
+00:07:09.639 --> 00:07:15.399
+a demonstração de lucro e prejuízo acumulado no lugar da demonstração do resultado abrangente
+
+121
+00:07:15.399 --> 00:07:18.160
+e da DNPL, entenderam?
+
+122
+00:07:18.160 --> 00:07:20.920
+Então fica aí a dica para facilitar o entendimento de vocês.
+
+123
+00:07:20.920 --> 00:07:21.920
+Vocês viram o quê?
+
+124
+00:07:21.920 --> 00:07:22.920
+É excedente.
+
+125
+00:07:22.920 --> 00:07:28.199
+Não é simplesmente importar, não, a gente tem que entender o conceito, o que eu estou
+
+126
+00:07:28.199 --> 00:07:30.600
+enviando para a Receita Federal.
+
+127
+00:07:30.600 --> 00:07:36.040
+Nada mais é do que toda a nossa contabilidade completa, com todas as demonstrações de acordo
+
+128
+00:07:36.040 --> 00:07:36.399
+com a lei.

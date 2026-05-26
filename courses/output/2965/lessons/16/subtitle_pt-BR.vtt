@@ -1,0 +1,589 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.659
+bom pessoal. Agora que a gente já viu como é que preenche?
+
+2
+00:00:01.669 --> 00:00:03.859
+Vamos ver quais são as validações da nota fiscal
+
+3
+00:00:03.869 --> 00:00:06.179
+eletrônica e na nota fiscal do consumidor eletrônica.
+
+4
+00:00:06.190 --> 00:00:09.000
+É importante a gente saber das validações porque em
+
+5
+00:00:09.010 --> 00:00:11.939
+caso de rejeição a gente pode tomar uma ação,
+
+6
+00:00:11.949 --> 00:00:12.100
+né?
+
+7
+00:00:12.109 --> 00:00:15.899
+E corrigir esse problema e reenviar o documento pra que o documento
+
+8
+00:00:15.909 --> 00:00:19.059
+seja emitido e a empresa siga o fluxo aí no seu faturamento.
+
+9
+00:00:19.069 --> 00:00:19.559
+Tá bom?
+
+10
+00:00:20.659 --> 00:00:22.709
+Então hoje, o que que é validado na nossa escola eletrônica?
+
+11
+00:00:22.719 --> 00:00:25.909
+Na nossa escola do consumidor eletrônica? Se tá em branco, né?
+
+12
+00:00:25.920 --> 00:00:31.450
+Se o dígito descontrolo é válido ou não, se o prefixo do código, né? É válido, né?
+
+13
+00:00:31.459 --> 00:00:35.150
+Eu falei pra vocês que o sete, oito, nove, setecentos e noventa é do Brasil.
+
+14
+00:00:35.159 --> 00:00:38.930
+Se eu colocar tipo um dois, três lá não é do Brasil, não é de lugar nenhum.
+
+15
+00:00:38.939 --> 00:00:40.250
+Não vai passar, Tá bom?
+
+16
+00:00:40.259 --> 00:00:42.750
+Então se o prefixo é válido,
+
+17
+00:00:42.759 --> 00:00:45.790
+se se trata de um agrupamento de produtos homogêneos ou não,
+
+18
+00:00:45.799 --> 00:00:48.049
+né Que eu falei pra vocês o Código da Caixa, né?
+
+19
+00:00:48.060 --> 00:00:50.409
+Que é um código de quatorze posições tá?
+
+20
+00:00:51.540 --> 00:00:54.669
+E se existe no C, n, p no cadastro nacional de produtos, né? Claro.
+
+21
+00:00:54.680 --> 00:00:57.729
+que a gente verifica isso olhando lá no nosso c c g Tá bom,
+
+22
+00:00:57.740 --> 00:01:00.150
+se você quiser acompanhar com mais detalhes
+
+23
+00:01:00.159 --> 00:01:01.950
+as validações aí da nota fiscal eletrônica,
+
+24
+00:01:01.959 --> 00:01:06.099
+recomendo pra você ver a nota técnica número dois mil e dezessete zero zero um.
+
+25
+00:01:06.110 --> 00:01:10.110
+É lá que o fisco vem fazendo as atualizações ali das validações do GTIN.
+
+26
+00:01:10.120 --> 00:01:13.949
+Tá bom, mas eu trouxe pra vocês aqui a lista de rejeições.
+
+27
+00:01:13.959 --> 00:01:17.809
+Vamos passar aqui brevemente sobre cada uma dessas rejeições. Tá bom!
+
+28
+00:01:18.040 --> 00:01:21.989
+Primeira reeleição! Seiscentos e onze código é a um GTIN inválido, né?
+
+29
+00:01:22.000 --> 00:01:24.510
+Ou seja, eu digitei um código inválido com o que a gente verifica.
+
+30
+00:01:24.519 --> 00:01:27.959
+É isso com o dígito do verificador, né, Então se o dígito do verificador não bateu,
+
+31
+00:01:27.970 --> 00:01:29.250
+é um código inválido,
+
+32
+00:01:29.260 --> 00:01:33.650
+tá bom e a seiscentos e doze é a irmãzinha dela pro c trip tá então
+
+33
+00:01:33.660 --> 00:01:37.269
+todas as muitas das regras aqui tem pro c a C a trip tá bom,
+
+34
+00:01:38.860 --> 00:01:41.349
+eh, vamos em frente. Rejeição oito oito, dois.
+
+35
+00:01:41.360 --> 00:01:45.989
+Se com prefixo inválido eu falei pra vocês que a gente verifica os prefixos, né?
+
+36
+00:01:46.000 --> 00:01:48.910
+Sete oito, nove, setecentos e noventa são prefeitos do Brasil.
+
+37
+00:01:48.919 --> 00:01:51.230
+Não quer dizer que a mercadoria é feita no Brasil, né?
+
+38
+00:01:51.239 --> 00:01:54.349
+quer dizer que o detentor da marca registrou a marca no Brasil.
+
+39
+00:01:54.360 --> 00:01:56.550
+Ele pode trazer a mercadoria de fora, né?
+
+40
+00:01:56.559 --> 00:01:59.470
+E colocar o G s um que ele fez aqui no Brasil não tem problema nenhum.
+
+41
+00:01:59.480 --> 00:02:03.830
+Tá esse prefixo, não diz onde o produto foi fabricado, diz Aonde ele foi registrado?
+
+42
+00:02:03.839 --> 00:02:04.129
+Tá,
+
+43
+00:02:04.430 --> 00:02:06.199
+Então pode usar o prefixo pra
+
+44
+00:02:06.209 --> 00:02:08.399
+registrar produtos internacional pode sem problemas,
+
+45
+00:02:08.410 --> 00:02:10.320
+É o dono da marca que vai dizer se vai fazer isso?
+
+46
+00:02:10.330 --> 00:02:10.699
+Tá?
+
+47
+00:02:11.289 --> 00:02:14.460
+Ele pode também utilizar um jeitinho que ele já registrou.
+
+48
+00:02:14.470 --> 00:02:16.779
+Digamos que ele já registrou esse outro país, né?
+
+49
+00:02:16.789 --> 00:02:20.000
+A gente compra, sei lá, um, um vinho português,
+
+50
+00:02:20.009 --> 00:02:21.940
+esse vinho já tá registrado em Portugal.
+
+51
+00:02:21.949 --> 00:02:23.460
+Ele não precisa fazer um jeitinho no Brasil,
+
+52
+00:02:23.470 --> 00:02:26.339
+ele pode mandar com um jeitinho que ele tem lá em Portugal tá bom,
+
+53
+00:02:26.350 --> 00:02:30.220
+mas aí tem o A gente tem a tabela de todos os prefixos válidos, né?
+
+54
+00:02:30.229 --> 00:02:32.660
+Então a gente vai validar se aquele prefixo é válido ou não,
+
+55
+00:02:32.669 --> 00:02:36.419
+Tá por isso que aqueles códigos de barras fornecidos por empresas que não são a s
+
+56
+00:02:36.429 --> 00:02:39.820
+no Brasil não vão passar na validação porque vai dar que o prefixo é inválido.
+
+57
+00:02:39.830 --> 00:02:40.240
+Tá
+
+58
+00:02:41.880 --> 00:02:46.389
+GTIN sem informação. Rejeição oito oito três é aqui Tá sem informação do GTi
+
+59
+00:02:47.059 --> 00:02:51.149
+oito oito quatro GTIN da Unidade Tributável inválido Nei Igual
+
+60
+00:02:51.160 --> 00:02:55.009
+eu falei pra vocês do GTIN tem o tri também tá
+
+61
+00:02:55.679 --> 00:02:59.570
+GTIN informado, mas não informado o GTIN da unidade tributável,
+
+62
+00:02:59.580 --> 00:03:02.970
+então ele informou o C A e não informou o C e a tribo, né?
+
+63
+00:03:02.979 --> 00:03:04.070
+Tem que formar os dois,
+
+64
+00:03:04.720 --> 00:03:08.229
+oito oito meia GTi tributável, informado, mas não informado.
+
+65
+00:03:08.240 --> 00:03:11.009
+O GTIN tá, então ele informou o GTI da unidade tributável,
+
+66
+00:03:11.020 --> 00:03:13.190
+mas não informou o GTIN tá bom
+
+67
+00:03:14.089 --> 00:03:16.539
+oito oito sete Informado o GTIN de agrupamento
+
+68
+00:03:16.550 --> 00:03:19.300
+de produtos homogêneos no jeitinho da unidade tributável,
+
+69
+00:03:19.309 --> 00:03:19.539
+né?
+
+70
+00:03:19.550 --> 00:03:23.660
+Então na unidade tributável ele tem que ser menor unidade de venda ao varejo.
+
+71
+00:03:23.669 --> 00:03:28.100
+Então não pode lançar na unidade tributável o GTIN agrupado Tá,
+
+72
+00:03:28.110 --> 00:03:30.619
+Tem que lançar o jeitinho da menor unidade de venda.
+
+73
+00:03:30.630 --> 00:03:36.429
+Tá bom se informar o GTIN de cartões de exposições lá no C vai dar essa dije.
+
+74
+00:03:36.440 --> 00:03:37.800
+São oito, oito, sete, tá bom.
+
+75
+00:03:39.279 --> 00:03:42.529
+Oito oito oito. Jeitinho da unidade tributária, Sem informação, né?
+
+76
+00:03:42.539 --> 00:03:46.250
+É paizinho com aquela lá de cima que a gente com a oito oito três, né?
+
+77
+00:03:46.259 --> 00:03:49.649
+Oito oito, nove Obrigatório. A informação de jeitinho para o produto, né?
+
+78
+00:03:49.660 --> 00:03:54.529
+Então tem produtos que é obrigatório A informação do GTIN que tem produtos,
+
+79
+00:03:54.539 --> 00:03:55.050
+por exemplo,
+
+80
+00:03:55.059 --> 00:03:57.770
+cigarros que a a n v i s a fala que tem que ter J não é
+
+81
+00:03:57.779 --> 00:03:59.009
+O fisico fala que tem que ter é
+
+82
+00:03:59.020 --> 00:04:01.869
+norma regulatória lá da agência de vigilância unitária,
+
+83
+00:04:01.880 --> 00:04:02.169
+né?
+
+84
+00:04:02.179 --> 00:04:04.070
+Então pra esses produtos a gente pede
+
+85
+00:04:04.600 --> 00:04:08.210
+a gente, o Inmetro, ele obriga que os brinquedos tenham tim, né?
+
+86
+00:04:08.220 --> 00:04:11.210
+Porque o Inmetro faz ali suas verificações, suas validações, né?
+
+87
+00:04:11.220 --> 00:04:15.470
+E pra produzir pra vender brinquedo no Brasil O brinquedo tem que ter gti, né?
+
+88
+00:04:15.479 --> 00:04:21.730
+Então, eh esses órgãos eles exigem lá dos seus regulados,
+
+89
+00:04:21.738 --> 00:04:24.529
+dos seus parceiros que tenham GTIN, né?
+
+90
+00:04:24.540 --> 00:04:26.350
+Não é uma exigência do Fisco,
+
+91
+00:04:26.359 --> 00:04:31.829
+Mas o Fisco identificou que esses segmentos tem que ter GTIN por norma de regulação
+
+92
+00:04:32.059 --> 00:04:35.149
+ou sanitária ou de fiscalização do Inmetro, por exemplo.
+
+93
+00:04:35.160 --> 00:04:38.570
+Até então, o Fisco exige o GTIN, né? Cumprindo ali.
+
+94
+00:04:38.579 --> 00:04:41.649
+Ah, a norma sanitária, por exemplo, no caso do cigarro, tá bom.
+
+95
+00:04:41.660 --> 00:04:46.450
+Então, pra produtos que tem alguma obrigação legal de ter GTIN, tá,
+
+96
+00:04:46.459 --> 00:04:48.790
+a gente exige que o GTIN seja informado.
+
+97
+00:04:48.799 --> 00:04:49.529
+Tá bom,
+
+98
+00:04:50.559 --> 00:04:54.130
+Vamos em frente aqui essa rejeição oitocentos e noventa GTi,
+
+99
+00:04:54.140 --> 00:04:56.429
+inexistente no cadastro centralizado.
+
+100
+00:04:56.440 --> 00:04:59.290
+GTIN, né? Então não tem lá no C, C G. O GTIN, né?
+
+101
+00:04:59.299 --> 00:05:02.760
+Então o prefeito está certo, o di de verificador tá certo,
+
+102
+00:05:02.769 --> 00:05:06.910
+informou o o O O lá no C A informou no C n trip tá tudo certinho,
+
+103
+00:05:06.920 --> 00:05:10.890
+mas não tem No cadastro centralizado do GTIN, isso também ocasiona uma rejeição.
+
+104
+00:05:10.899 --> 00:05:11.510
+Tá bom?
+
+105
+00:05:12.140 --> 00:05:15.329
+Outra coisa GTIN incompatível com o n? C? M, né?
+
+106
+00:05:15.339 --> 00:05:20.109
+Oito nove um e oito nove dois GTIN incompatível com o Sest, né,
+
+107
+00:05:20.119 --> 00:05:24.750
+quando vai fazer o cadastro do produto lá no Cadastro Nacional de produtos,
+
+108
+00:05:24.760 --> 00:05:28.790
+o detentor da máquina informa lá oh o n c m e informa o Sest.
+
+109
+00:05:28.799 --> 00:05:32.750
+Então, se o lojista tá vendendo lá no supermercado,
+
+110
+00:05:32.760 --> 00:05:37.290
+né trocar o N C M não vai funcionar porque vai rejeitar porque o GTIN
+
+111
+00:05:37.730 --> 00:05:41.040
+tem um n C m cadastrado lá no cadastro nacional de produtos, né?
+
+112
+00:05:41.049 --> 00:05:42.279
+Lá, no cadastro centralizado,
+
+113
+00:05:42.290 --> 00:05:46.540
+jeitinho e o contribuinte trocou o n C m do cadastro e pôs um outro n c m.
+
+114
+00:05:46.549 --> 00:05:48.959
+Tá, então deve prevalecer o cadastro, né?
+
+115
+00:05:48.970 --> 00:05:54.600
+DO N C m informado pelo de dono da marca, Quem fez o cadastro lá no C n p tá bom
+
+116
+00:05:56.170 --> 00:05:57.000
+eh
+
+117
+00:05:57.880 --> 00:06:02.070
+o oito nove três GTIN da unidade tributável g difere do
+
+118
+00:06:02.079 --> 00:06:04.929
+jeitinho da unidade de nível inferior cadastrado no C C G,
+
+119
+00:06:04.940 --> 00:06:05.170
+né?
+
+120
+00:06:05.179 --> 00:06:07.609
+Então, como contribuinte de cadastro, lá no C C,
+
+121
+00:06:07.619 --> 00:06:13.320
+C n p Lá o GTIN agrupado e no cadastro do GTIN agrupado,
+
+122
+00:06:13.329 --> 00:06:16.089
+ele põe o cadastro da unidade de menor.
+
+123
+00:06:16.100 --> 00:06:19.290
+Eh a unidade menor é a unidade de venda lá no varejo, né?
+
+124
+00:06:19.299 --> 00:06:21.690
+Então, eh o Fisco sabe qual que é o agrupado? Ele sabe qual.
+
+125
+00:06:21.700 --> 00:06:23.190
+Que é o item que tá sendo agrupado, né?
+
+126
+00:06:23.690 --> 00:06:28.260
+E se for diferente disso, aí ele informar o agrupado,
+
+127
+00:06:28.269 --> 00:06:31.260
+um item e o item final lá de venda no varejo.
+
+128
+00:06:31.269 --> 00:06:34.190
+Outro item que não é o item agrupado por aquele agrupado,
+
+129
+00:06:34.200 --> 00:06:35.459
+varia também essa rejeição.
+
+130
+00:06:35.470 --> 00:06:40.619
+Tá bom GTIN da unidade tributária inexistente do cadastro atualizado. GTIN, né?
+
+131
+00:06:40.630 --> 00:06:42.399
+Esse aí a gente já viu lá, né?
+
+132
+00:06:42.410 --> 00:06:48.079
+Então a gente, aquela regra anterior era eh se existia o C A
+
+133
+00:06:48.350 --> 00:06:49.880
+no cadastro nacional de Tim.
+
+134
+00:06:49.890 --> 00:06:53.700
+Agora a gente tá vendo se o Centro Tribe existe no cadastro nacional de GTIN. Tá bom
+
+135
+00:06:54.940 --> 00:06:57.720
+GTIN da unidade tributária incompatível com o n C m Tinho,
+
+136
+00:06:57.730 --> 00:06:59.630
+da unidade tributária incompatível com o Sest.
+
+137
+00:06:59.640 --> 00:07:04.429
+É a mesma validação, né? Então eh tudo que valida pro código c A valida pro C.
+
+138
+00:07:04.440 --> 00:07:05.779
+A tribo também tá bom,
+
+139
+00:07:05.790 --> 00:07:10.109
+então tem que o n c M tem que prevalecer o N C M e
+
+140
+00:07:10.119 --> 00:07:14.799
+o Sest informados pelo dono da marca quando ele fez o cadastro lá no c,
+
+141
+00:07:14.809 --> 00:07:15.260
+n p, né?
+
+142
+00:07:15.269 --> 00:07:18.570
+O cadastro nacional de produtos da G S um Brasil tá bom,
+
+143
+00:07:18.579 --> 00:07:20.640
+Essas são as rejeições que podem ocorrer.
+
+144
+00:07:20.649 --> 00:07:24.480
+Se você enviar uma nota com o jeitinho incorreto, tá bom,
+
+145
+00:07:24.489 --> 00:07:28.200
+a gente trouxe aqui a lista de todas as rejeições que existem hoje Tá pode,
+
+146
+00:07:28.209 --> 00:07:30.959
+Pode ser que futuramente tenha outras, mas hoje trabalhamos com essas.
+
+147
+00:07:30.970 --> 00:07:31.540
+Tá bom?

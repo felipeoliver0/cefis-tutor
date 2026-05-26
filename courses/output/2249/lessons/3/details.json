@@ -1,0 +1,33 @@
+{
+  "id": 464051,
+  "title": "Objetivo da Execução fiscal",
+  "position": 3,
+  "duration": 259,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dfd8cc78-d150-41e6-b0f8-22eda0dd62e4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dfd8cc78-d150-41e6-b0f8-22eda0dd62e4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dfd8cc78-d150-41e6-b0f8-22eda0dd62e4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dfd8cc78-d150-41e6-b0f8-22eda0dd62e4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dfd8cc78-d150-41e6-b0f8-22eda0dd62e4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

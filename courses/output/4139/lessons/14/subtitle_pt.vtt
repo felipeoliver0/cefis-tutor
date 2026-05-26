@@ -1,0 +1,329 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.640
+Entrando no terceiro tópico, dados indicadores, a terceira fonte de inovação que está conectada intrinsecamente à terceira fase de maturidade, a fase de resultados.
+
+2
+00:00:10.060 --> 00:00:14.939
+Só para recapitular, pessoal, ela acontece a todo momento, não é que eu só nessa fase olhar para dados indicadores, não.
+
+3
+00:00:15.279 --> 00:00:23.980
+Só olhar para dados indicadores em todo momento aqui, porém nessa fase isso vai se destacar, vai ser a questão pulsante ali de onde vai brotar, nascer a sua inovação.
+
+4
+00:00:23.980 --> 00:00:28.059
+Então é nessa fase que isso vai ficar muito mais relevante.
+
+5
+00:00:28.480 --> 00:00:32.560
+E aí para a gente analisar essa terceira fase, eu queria trazer primeiro um problema aqui para vocês.
+
+6
+00:00:32.899 --> 00:00:36.240
+O engenheiro está usando um adesivo específico para colar duas partes
+
+7
+00:00:36.240 --> 00:00:41.219
+e existem outros dois adesivos alternativos para serem avaliados, que tem melhor preço.
+
+8
+00:00:41.659 --> 00:00:47.179
+E se um desses dois adesivos alternativos tiver uma força de arrancagem média de 20 unidades de força,
+
+9
+00:00:47.560 --> 00:00:50.479
+o engenheiro pode decidir se trocar o fornecedor.
+
+10
+00:00:51.119 --> 00:00:59.640
+Aí ele pegou o adesivo atual, os dois adesivos alternativos, e ele coletou algumas amostras, 5 amostras de cada um.
+
+11
+00:01:00.200 --> 00:01:06.439
+Baseado em uma amostragem de adesivo 1 e 1 alfa, isso aqui depois eu falo sobre esse alfa de 5%, é o nível de confiança
+
+12
+00:01:06.439 --> 00:01:08.159
+o nível de erro aceitável
+
+13
+00:01:08.159 --> 00:01:10.239
+foi selecionado o tamanho
+
+14
+00:01:10.239 --> 00:01:12.620
+da amostra, 5 para cada nível
+
+15
+00:01:12.620 --> 00:01:14.019
+o resultado é o seguinte
+
+16
+00:01:14.019 --> 00:01:15.659
+vamos usar a seguinte
+
+17
+00:01:15.659 --> 00:01:18.780
+não, isso aqui não, é porque era de uma outra planilha que eu ia usar
+
+18
+00:01:18.780 --> 00:01:20.579
+mas, olhando esses dados
+
+19
+00:01:20.579 --> 00:01:21.719
+ele fez uma análise
+
+20
+00:01:21.719 --> 00:01:24.620
+de variação dos dados
+
+21
+00:01:24.620 --> 00:01:25.980
+que ele conseguiu das amostras
+
+22
+00:01:25.980 --> 00:01:27.780
+do adesivo atual e dos outros dois.
+
+23
+00:01:28.180 --> 00:01:29.980
+E aí saiu esse gráfico. A gente colocou
+
+24
+00:01:29.980 --> 00:01:31.780
+cada medição do
+
+25
+00:01:31.780 --> 00:01:33.719
+adesivo atual, o adesivo
+
+26
+00:01:33.719 --> 00:01:35.659
+alternativo e o outro alternativo.
+
+27
+00:01:35.799 --> 00:01:38.040
+E uma linha aqui com as médias
+
+28
+00:01:38.040 --> 00:01:39.939
+dos dados. Olhando para esse
+
+29
+00:01:39.939 --> 00:01:41.280
+gráfico, qual
+
+30
+00:01:41.280 --> 00:01:43.780
+adesivo é o melhor? Os adesivos
+
+31
+00:01:43.780 --> 00:01:45.840
+são diferentes? Tem alguma diferença
+
+32
+00:01:45.840 --> 00:01:47.760
+entre eles? E algum deles tem uma
+
+33
+00:01:47.760 --> 00:01:49.680
+força maior do que 20? E aí
+
+34
+00:01:49.680 --> 00:01:51.680
+aparentemente, provavelmente você está pensando
+
+35
+00:01:51.680 --> 00:01:53.640
+no 3 ali. Mas antes de eu te dar a
+
+36
+00:01:53.640 --> 00:01:54.180
+resposta,
+
+37
+00:01:54.879 --> 00:01:57.659
+eu queria só passar para alguns outros
+
+38
+00:01:57.659 --> 00:01:59.560
+dados. Primeiro eu queria contar um negócio para vocês
+
+39
+00:01:59.560 --> 00:02:01.980
+que existe na estatística, que é o intervalo
+
+40
+00:02:01.980 --> 00:02:03.000
+de confiança da média.
+
+41
+00:02:03.579 --> 00:02:06.060
+O intervalo de confiança da média, ele significa que
+
+42
+00:02:06.060 --> 00:02:08.240
+eu sempre estou analisando o número de amostras.
+
+43
+00:02:09.139 --> 00:02:09.939
+Considerando que eu tivesse
+
+44
+00:02:09.939 --> 00:02:12.139
+feito uma medição de 100% do universo
+
+45
+00:02:12.139 --> 00:02:13.879
+amostral, ou seja, em vez de eu pegar
+
+46
+00:02:13.879 --> 00:02:15.759
+uma amostra de 5, eu tivesse pegado
+
+47
+00:02:15.759 --> 00:02:17.520
+todos os adesivos que tivesse na fábrica,
+
+48
+00:02:17.879 --> 00:02:20.039
+eu medisse, com certeza a média
+
+49
+00:02:20.039 --> 00:02:21.520
+ela poderia variar, porque eu
+
+50
+00:02:21.520 --> 00:02:24.319
+calculei a média com base numa amostra, é um pedacinho.
+
+51
+00:02:24.840 --> 00:02:45.460
+Aquele pedacinho não representa necessariamente o todo. Aí, existe um cálculo estatístico que fala que FIS entre esse range. Então, sabendo que essa média pode variar, vou contar uma historinha pra vocês.
+
+52
+00:02:45.979 --> 00:02:48.120
+A gente tinha uma arqueira e ela estava atirando
+
+53
+00:02:48.120 --> 00:02:50.219
+em um alvo. Ela acerta o centro
+
+54
+00:02:50.219 --> 00:02:51.879
+do alvo, que tem 10 centímetros
+
+55
+00:02:51.879 --> 00:02:53.259
+de tolerância,
+
+56
+00:02:54.060 --> 00:02:56.080
+ou seja, 10 centímetros de raio,
+
+57
+00:02:56.080 --> 00:02:58.460
+o alvo, bem o centrinho,
+
+58
+00:02:58.560 --> 00:03:00.740
+mas ele tinha um círculo de 10 centímetros.
+
+59
+00:03:01.180 --> 00:03:02.639
+Ela acerta esse círculo
+
+60
+00:03:02.639 --> 00:03:04.939
+com 10 centímetros de raio
+
+61
+00:03:04.939 --> 00:03:05.340
+em 95% das vezes que ela atira uma flecha. 10cm. Ela acerta esse círculo com 10cm de raio em
+
+62
+00:03:05.340 --> 00:03:08.080
+95% das vezes que ela tira uma flecha.
+
+63
+00:03:08.460 --> 00:03:09.620
+E aí eu coloquei
+
+64
+00:03:09.620 --> 00:03:10.699
+atrás do alvo
+
+65
+00:03:10.699 --> 00:03:13.900
+um detetive, que ele não sabe,
+
+66
+00:03:14.020 --> 00:03:15.840
+por trás ele não vê onde está a marca
+
+67
+00:03:15.840 --> 00:03:17.900
+do círculo lá do alvo. O alvo pode
+
+68
+00:03:17.900 --> 00:03:19.939
+estar mais embaixo, pode estar mais em cima. Ele não sabe
+
+69
+00:03:19.939 --> 00:03:21.860
+o lugar que eu coloquei. Se eu coloquei aqui, no
+
+70
+00:03:21.860 --> 00:03:23.800
+meio, em cima, então ele não tem essa
+
+71
+00:03:23.800 --> 00:06:45.519
+informação. Então ele não vê o centro do alvo. E aí, a única informação que ele sabe é que FIS FIS FIS FIS FIS Mas é o seu cliente que tem que dizer se ele aceita. Raramente ele vai aceitar. Então às vezes essa opção não é válida.
+
+72
+00:06:45.939 --> 00:06:47.779
+Eu preciso melhorar o processo.
+
+73
+00:06:47.920 --> 00:06:49.699
+Eu preciso fazer a arqueira ficar mais,
+
+74
+00:06:50.100 --> 00:06:51.699
+com a pontaria mais assertiva.
+
+75
+00:06:52.199 --> 00:06:53.079
+E é isso que a gente quer.
+
+76
+00:06:53.420 --> 00:06:55.899
+A gente quer reduzir o desvio padrão.
+
+77
+00:06:56.360 --> 00:06:57.540
+Em vez de ela estar acertando aqui,
+
+78
+00:06:57.819 --> 00:06:59.800
+ela começar a acertar mais certinha.
+
+79
+00:07:00.180 --> 00:07:02.879
+Então eu quero menos variação dos meus dados,
+
+80
+00:07:02.879 --> 00:07:04.379
+menos variação no meu resultado.
+
+81
+00:07:04.939 --> 00:07:07.319
+Eu quero que ela acerte com maior acurácia.
+
+82
+00:07:07.579 --> 00:07:10.220
+É isso que eu espero do meu processo na minha empresa, né?

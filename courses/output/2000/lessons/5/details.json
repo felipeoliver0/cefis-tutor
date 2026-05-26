@@ -1,0 +1,33 @@
+{
+  "id": 460940,
+  "title": "Por que devemos planejar",
+  "position": 5,
+  "duration": 213,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2f0809bb-641b-4895-bb43-c778fde34e5c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2f0809bb-641b-4895-bb43-c778fde34e5c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2f0809bb-641b-4895-bb43-c778fde34e5c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2f0809bb-641b-4895-bb43-c778fde34e5c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2f0809bb-641b-4895-bb43-c778fde34e5c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

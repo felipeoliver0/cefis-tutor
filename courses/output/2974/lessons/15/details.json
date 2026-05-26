@@ -1,0 +1,33 @@
+{
+  "id": 472747,
+  "title": "Transição - 2032",
+  "position": 15,
+  "duration": 253,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8dde47dc-7b45-41f8-9db9-675c092a3318/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8dde47dc-7b45-41f8-9db9-675c092a3318/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8dde47dc-7b45-41f8-9db9-675c092a3318/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8dde47dc-7b45-41f8-9db9-675c092a3318/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8dde47dc-7b45-41f8-9db9-675c092a3318/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

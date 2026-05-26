@@ -1,0 +1,33 @@
+{
+  "id": 461546,
+  "title": "ICMS ST : Operação interna",
+  "position": 17,
+  "duration": 282,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dd6af5e7-644c-433d-b09c-2d05702481bd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd6af5e7-644c-433d-b09c-2d05702481bd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd6af5e7-644c-433d-b09c-2d05702481bd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd6af5e7-644c-433d-b09c-2d05702481bd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd6af5e7-644c-433d-b09c-2d05702481bd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

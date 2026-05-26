@@ -1,0 +1,33 @@
+{
+  "id": 481907,
+  "title": "Determinação da base de cálculo do ICMS",
+  "position": 25,
+  "duration": 178,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/60e86c31-3d7e-469b-a7ec-0f6f5ed985dd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/60e86c31-3d7e-469b-a7ec-0f6f5ed985dd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/60e86c31-3d7e-469b-a7ec-0f6f5ed985dd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/60e86c31-3d7e-469b-a7ec-0f6f5ed985dd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/60e86c31-3d7e-469b-a7ec-0f6f5ed985dd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

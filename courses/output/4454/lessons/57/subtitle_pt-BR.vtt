@@ -1,0 +1,533 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.500
+Muito bem, pessoal, agora é hora da onça beber água, né?
+
+3
+00:00:04.500 --> 00:00:12.500
+Nós entramos agora exatamente nos cálculos da modalidade e apuração do lucro real
+
+4
+00:00:12.500 --> 00:00:14.500
+e o momento da opção.
+
+5
+00:00:14.500 --> 00:00:16.500
+É agora que nós vamos entrar nos cálculos.
+
+6
+00:00:16.500 --> 00:00:21.500
+Depois de todas essas informações, vocês já estão confortáveis
+
+7
+00:00:21.500 --> 00:00:26.000
+para entender todo o mecanismo de cálculo do lucro real, tá?
+
+8
+00:00:26.000 --> 00:00:27.500
+Agora, na prática.
+
+9
+00:00:27.500 --> 00:00:33.500
+Então, vamos a eles aqui, o momento da opção, o que é, como se faz, né?
+
+10
+00:00:33.500 --> 00:00:36.500
+Para que serve como se faz os cálculos.
+
+11
+00:00:36.500 --> 00:00:37.500
+Então, olha lá.
+
+12
+00:00:37.500 --> 00:00:40.500
+Modalidade de apuração do lucro real e momento da opção.
+
+13
+00:00:40.500 --> 00:00:45.500
+Então, nós temos aí o lucro real, ele tem duas modalidades.
+
+14
+00:00:45.500 --> 00:00:49.500
+Ele vai ter a modalidade trimestral e a modalidade anual, perfeito?
+
+15
+00:00:49.500 --> 00:00:50.500
+Duas modalidades.
+
+16
+00:00:50.500 --> 00:00:52.500
+Então, o que é o lucro real?
+
+17
+00:00:52.500 --> 00:00:54.500
+Já vimos ao longo de toda a aula.
+
+18
+00:00:54.500 --> 00:00:57.500
+No regime do lucro real,
+
+19
+00:00:57.500 --> 00:00:59.500
+tributa-se o lucro.
+
+20
+00:00:59.500 --> 00:01:06.500
+Receitas menos custos e despesas necessárias e comprovadas,
+
+21
+00:01:06.500 --> 00:01:14.500
+o qual é obtido pela contabilidade e ajustada de acordo com a legislação fiscal
+
+22
+00:01:14.500 --> 00:01:18.500
+via LALUR e LAX com adições e exclusões,
+
+23
+00:01:18.500 --> 00:01:22.500
+que vocês já dominam ao longo da aula, falamos várias delas.
+
+24
+00:01:22.500 --> 00:01:25.500
+Depois vai depender de cada atividade de vocês.
+
+25
+00:01:25.500 --> 00:01:27.500
+O que foi contabilizado?
+
+26
+00:01:27.500 --> 00:01:30.500
+Contabilizado por cada um de vocês, perfeito?
+
+27
+00:01:30.500 --> 00:01:34.500
+Então, temos duas modalidades, o anual ou o trimestral.
+
+28
+00:01:34.500 --> 00:01:39.500
+Qualquer um dos dois que nós optarmos será irretratável para todo o ano do calendário.
+
+29
+00:01:39.500 --> 00:01:40.500
+Eu não posso mudar.
+
+30
+00:01:40.500 --> 00:01:47.500
+Se eu optar pelo trimestral, nós vamos ver as vantagens e desvantagens do lucro real trimestral.
+
+31
+00:01:47.500 --> 00:01:52.500
+Se eu optar pelo lucro real anual, também nós vamos ver vantagem e desvantagem, perfeito?
+
+32
+00:01:52.500 --> 00:01:56.500
+Então, nós vamos ter as duas modalidades para decidir.
+
+33
+00:01:56.500 --> 00:02:01.500
+Volto a dizer, em que momento que eu tomo essa decisão na elaboração do orçamento?
+
+34
+00:02:01.500 --> 00:02:03.500
+É lá que eu vou tomar a decisão.
+
+35
+00:02:03.500 --> 00:02:08.500
+Porque eu vou ter os meus resultados simulados mensais, trimestrais, semestral, anual.
+
+36
+00:02:08.500 --> 00:02:12.500
+Então, é ali que eu vou tomar a decisão, perfeito?
+
+37
+00:02:12.500 --> 00:02:14.500
+E não quando eu recolher o primeiro tributo.
+
+38
+00:02:14.500 --> 00:02:18.500
+O recolhimento do primeiro tributo, essa é a opção fiscal.
+
+39
+00:02:18.500 --> 00:02:24.500
+É ali que eu oficialmente optei fiscalmente pelo modelo tributário.
+
+40
+00:02:24.500 --> 00:02:27.500
+Quando o pagamento do primeiro tributo do ano.
+
+41
+00:02:27.500 --> 00:02:30.500
+Agora, na prática, eu tenho que optar quando eu estou fazendo orçamento.
+
+42
+00:02:30.500 --> 00:02:34.500
+Eu não posso ser pego de surpresa quando eu estou pagando imposto, perfeito?
+
+43
+00:02:34.500 --> 00:02:35.500
+Então, vamos lá.
+
+44
+00:02:35.500 --> 00:02:42.500
+Sobre esta base ajustada, nós vamos calcular o imposto de renda e a contribuição social.
+
+45
+00:02:42.500 --> 00:02:50.500
+15% do imposto de renda, mais um adicional de 10% da parcela que ultrapassar 20 mil por mês,
+
+46
+00:02:50.500 --> 00:02:53.500
+60 mil no trimestre, 240 mil ano.
+
+47
+00:02:53.500 --> 00:02:57.500
+Nós vamos usar essas três informações para calcular os dois, perfeito?
+
+48
+00:02:57.500 --> 00:03:02.500
+Ou seja, 240 dividido por 12 dá 20 mil por mês, perfeito?
+
+49
+00:03:02.500 --> 00:03:04.500
+É assim que nós vamos fazer.
+
+50
+00:03:04.500 --> 00:03:05.500
+Muito bem.
+
+51
+00:03:05.500 --> 00:03:10.500
+No lucro real anual, nós vamos pagar os impostos antecipados mensalmente
+
+52
+00:03:10.500 --> 00:03:18.500
+com base ou no balancete ou pela receita bruta, que é o famoso estimativo, que nós vamos aprender.
+
+53
+00:03:18.500 --> 00:03:19.500
+Mediante o quê?
+
+54
+00:03:19.500 --> 00:03:22.500
+Pagamento do imposto de renda e da contribuição social,
+
+55
+00:03:22.500 --> 00:03:25.500
+até o último dia útil de fevereiro.
+
+56
+00:03:25.500 --> 00:03:29.500
+Porque estamos no anual, a empresa já existe, estou em janeiro, né?
+
+57
+00:03:29.500 --> 00:03:34.500
+Calculo janeiro, recolho até o dia 28 de fevereiro, perfeito?
+
+58
+00:03:34.500 --> 00:03:39.500
+Depois, estamos no lucro real trimestral, que é a outra opção, ou um ou outro.
+
+59
+00:03:39.500 --> 00:03:42.500
+Aqui será do mesmo jeito.
+
+60
+00:03:42.500 --> 00:03:47.500
+Eu vou calcular e recolher o tributo trimestralmente.
+
+61
+00:03:47.500 --> 00:03:51.500
+Que tributo? Imposto de renda e contribuição social.
+
+62
+00:03:51.500 --> 00:03:54.500
+Porque PIS e COFINS é mensal, em ambos.
+
+63
+00:03:54.500 --> 00:03:59.500
+ICMS é mensal, IPI é mensal, ISS é mensal, entendeu?
+
+64
+00:03:59.500 --> 00:04:04.500
+Somente o imposto de renda e a contribuição social que será trimestral nesse caso.
+
+65
+00:04:04.500 --> 00:04:08.500
+Então, eu posso optar trimestral e, optando pela trimestralidade,
+
+66
+00:04:08.500 --> 00:04:12.500
+o primeiro recolhimento do ano vai ocorrer em abril, perfeito?
+
+67
+00:04:12.500 --> 00:04:14.500
+Janeiro, fevereiro, março e abril.
+
+68
+00:04:14.500 --> 00:04:19.500
+O que, de uma certa forma, é benéfico, porque protege o fluxo de caixa.
+
+69
+00:04:19.500 --> 00:04:25.500
+Vou ficar quatro meses sem mexer no caixa para pagar imposto de renda e contribuição social,
+
+70
+00:04:25.500 --> 00:04:29.500
+que é algo bem substancial, dependendo dos valores envolvidos, tá?
+
+71
+00:04:29.500 --> 00:04:32.500
+Então, nós temos ou um ou outro.
+
+72
+00:04:32.500 --> 00:04:36.500
+Aqui nós temos uma DRE um pouco mais completa, para vocês terem uma noção.
+
+73
+00:04:36.500 --> 00:04:41.500
+Receita Bruta Operacional Bruta, que vai compreender vendas de produtos,
+
+74
+00:04:41.500 --> 00:04:44.500
+vendas de mercadoria ou vendas de serviços, depende do ramo da atividade.
+
+75
+00:04:44.500 --> 00:04:48.500
+Menos as deduções, devoluções de vendas, descontos de abatimentos,
+
+76
+00:04:48.500 --> 00:04:53.500
+imposto de contribuições sobre venda, PIS, COFINS, IPI, etc.
+
+77
+00:04:53.500 --> 00:04:57.500
+É igual a minha Receita Operacional Líquida, menos o custo,
+
+78
+00:04:57.500 --> 00:05:01.500
+que pode ser custo dos produtos, custo das mercadorias ou custo dos serviços.
+
+79
+00:05:01.500 --> 00:05:06.500
+Vai ser igual ao resultado operacional bruto, margem bruta, não é?
+
+80
+00:05:06.500 --> 00:05:09.500
+Aí nós vamos ter menos as despesas operacionais,
+
+81
+00:05:09.500 --> 00:05:12.500
+despesas com vendas, despesas administrativas.
+
+82
+00:05:12.500 --> 00:05:15.500
+A DRE é sintética, como nós já explicamos.
+
+83
+00:05:15.500 --> 00:05:18.500
+Financeiras Líquidas, eu tenho despesa financeira,
+
+84
+00:05:18.500 --> 00:05:22.500
+receita financeira, tenho variações monetárias e cambiais,
+
+85
+00:05:22.500 --> 00:05:25.500
+tenho variações monetárias e cambiais ativas e passivas,
+
+86
+00:05:25.500 --> 00:05:27.500
+receitas e despesas.
+
+87
+00:05:27.500 --> 00:05:31.500
+Outras receitas e despesas, resultado de equivalência patrimonial,
+
+88
+00:05:31.500 --> 00:05:35.500
+venda de bens de ativo imobilizado e o custo desses ativos.
+
+89
+00:05:35.500 --> 00:05:39.500
+Tudo isso vai me dar um resultado operacional
+
+90
+00:05:39.500 --> 00:05:42.500
+antes do imposto de renda e a contribuição social.
+
+91
+00:05:42.500 --> 00:05:46.500
+É daqui que nós vamos partir para o LALUR, como eu já comentei.
+
+92
+00:05:46.500 --> 00:05:47.500
+Perfeito?
+
+93
+00:05:47.500 --> 00:05:50.500
+E aí, se eu sou uma limitada,
+
+94
+00:05:50.500 --> 00:05:53.500
+eu vou ter o cálculo do imposto de renda e da contribuição social,
+
+95
+00:05:53.500 --> 00:05:59.500
+vou contabilizar a provisão do imposto de renda e da contribuição social
+
+96
+00:05:59.500 --> 00:06:02.500
+e vai me dar o lucro líquido do exercício,
+
+97
+00:06:02.500 --> 00:06:05.500
+que eu vou dividir pela quantidade de cotas dessa limitada
+
+98
+00:06:05.500 --> 00:06:08.500
+e vou encontrar o lucro ou prejuízo por cota, ponto.
+
+99
+00:06:08.500 --> 00:06:12.500
+Se eu sou uma sociedade anônima, a coisa vai mais além, não encerra aí.
+
+100
+00:06:12.500 --> 00:06:15.500
+Eu vou ter o lucro líquido antes das participações.
+
+101
+00:06:15.500 --> 00:06:19.500
+E aí eu tenho que tirar as participações se eu tiver.
+
+102
+00:06:19.500 --> 00:06:21.500
+E tem que ser nesta ordem.
+
+103
+00:06:21.500 --> 00:06:27.500
+Primeiro há debenturistas, empregados, participações de administradores,
+
+104
+00:06:27.500 --> 00:06:30.500
+partes beneficiárias, fundos assistenciais.
+
+105
+00:06:30.500 --> 00:06:35.500
+Aí sim eu chego no resultado líquido do exercício ou lucro líquido do exercício.
+
+106
+00:06:35.500 --> 00:06:38.500
+Coloquei resultado porque pode ser prejuízo.
+
+107
+00:06:38.500 --> 00:06:41.500
+Aí eu vou dividir pela quantidade de ações.
+
+108
+00:06:41.500 --> 00:06:43.500
+Eu vou ter o lucro por ação.
+
+109
+00:06:43.500 --> 00:06:44.500
+É assim que nós fazemos.
+
+110
+00:06:44.500 --> 00:06:46.500
+Por que essa ordem?
+
+111
+00:06:46.500 --> 00:06:48.500
+Debenturista, o que é o debenturista?
+
+112
+00:06:48.500 --> 00:06:52.500
+As debêntures são as empresas, as pessoas que compraram a debênture.
+
+113
+00:06:52.500 --> 00:06:58.500
+É um título de crédito que a empresa emite normalmente de médio e longo prazo
+
+114
+00:06:58.500 --> 00:07:00.500
+para se financiar.
+
+115
+00:07:00.500 --> 00:07:04.500
+Ao invés dela abrir o capital, vender ações na bolsa para captar recursos
+
+116
+00:07:04.500 --> 00:07:08.500
+para poder aumentar suas operações, ela emite uma debênture.
+
+117
+00:07:08.500 --> 00:07:12.500
+Para a emissão dessa debênture tem que ser autorizada pela CVM,
+
+118
+00:07:12.500 --> 00:07:13.500
+Comissão de Valores Imobiliários.
+
+119
+00:07:13.500 --> 00:07:14.500
+Perfeito?
+
+120
+00:07:14.500 --> 00:07:18.500
+Então se lucro houver, como eles acreditaram no negócio,
+
+121
+00:07:18.500 --> 00:07:23.500
+eles compraram essa debênture, eles são os primeiros a receber parte desse lucro.
+
+122
+00:07:23.500 --> 00:07:26.500
+Depois os empregados, aqui não é o PLR.
+
+123
+00:07:26.500 --> 00:07:29.500
+Aqui são taxas estatutárias.
+
+124
+00:07:29.500 --> 00:07:32.500
+O PLR está lá em despesa operacional.
+
+125
+00:07:32.500 --> 00:07:34.500
+Depois os administradores.
+
+126
+00:07:34.500 --> 00:07:37.500
+Tem que ser nessa ordem e um dedutivo do outro.
+
+127
+00:07:37.500 --> 00:07:39.500
+E aí chega o resultado.
+
+128
+00:07:39.500 --> 00:07:41.500
+Então essa é uma DR convencional.
+
+129
+00:07:41.500 --> 00:07:43.500
+O que nos interessa aqui?
+
+130
+00:07:43.500 --> 00:07:45.500
+O resultado antes do imposto de renda.
+
+131
+00:07:45.500 --> 00:07:47.500
+Tudo aqui tem que estar correto.
+
+132
+00:07:47.500 --> 00:07:51.500
+É esse resultado que vai ser transportado para a primeira linha do LALUR
+
+133
+00:07:51.500 --> 00:07:53.500
+como resultado do exercício.
+
+134
+00:07:53.500 --> 00:07:54.500
+Perfeito?

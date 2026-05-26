@@ -1,0 +1,33 @@
+{
+  "id": 487714,
+  "title": "Empresas obrigadas - parte 2",
+  "position": 20,
+  "duration": 312,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/7af18f12-a094-40d9-a9a9-2854b259efe8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7af18f12-a094-40d9-a9a9-2854b259efe8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7af18f12-a094-40d9-a9a9-2854b259efe8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7af18f12-a094-40d9-a9a9-2854b259efe8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7af18f12-a094-40d9-a9a9-2854b259efe8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

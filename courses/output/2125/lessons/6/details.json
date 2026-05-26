@@ -1,0 +1,33 @@
+{
+  "id": 462549,
+  "title": "Funcionário",
+  "position": 6,
+  "duration": 228,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2afd61ed-5982-4673-b84c-e74fa4800311/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2afd61ed-5982-4673-b84c-e74fa4800311/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2afd61ed-5982-4673-b84c-e74fa4800311/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2afd61ed-5982-4673-b84c-e74fa4800311/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2afd61ed-5982-4673-b84c-e74fa4800311/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

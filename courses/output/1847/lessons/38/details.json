@@ -1,0 +1,33 @@
+{
+  "id": 458305,
+  "title": "Cadastramento da fonte pagadora",
+  "position": 38,
+  "duration": 221,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/72bd4831-b07f-4d2a-acb6-8bc61f77a144/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/72bd4831-b07f-4d2a-acb6-8bc61f77a144/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/72bd4831-b07f-4d2a-acb6-8bc61f77a144/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/72bd4831-b07f-4d2a-acb6-8bc61f77a144/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/72bd4831-b07f-4d2a-acb6-8bc61f77a144/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

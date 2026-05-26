@@ -1,0 +1,33 @@
+{
+  "id": 482554,
+  "title": "Método de soluções",
+  "position": 12,
+  "duration": 142,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c42b1500-1c82-49dd-abcc-897342eb164d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c42b1500-1c82-49dd-abcc-897342eb164d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c42b1500-1c82-49dd-abcc-897342eb164d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c42b1500-1c82-49dd-abcc-897342eb164d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c42b1500-1c82-49dd-abcc-897342eb164d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

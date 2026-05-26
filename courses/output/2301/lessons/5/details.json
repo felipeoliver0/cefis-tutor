@@ -1,0 +1,33 @@
+{
+  "id": 464686,
+  "title": "Competências do CARF",
+  "position": 5,
+  "duration": 417,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b92c5887-9af3-4827-bbc6-983d8c94e32a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b92c5887-9af3-4827-bbc6-983d8c94e32a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b92c5887-9af3-4827-bbc6-983d8c94e32a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b92c5887-9af3-4827-bbc6-983d8c94e32a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b92c5887-9af3-4827-bbc6-983d8c94e32a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

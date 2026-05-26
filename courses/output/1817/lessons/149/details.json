@@ -1,0 +1,33 @@
+{
+  "id": 458019,
+  "title": "Alcance",
+  "position": 150,
+  "duration": 150,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9ed656c0-ff1a-4048-822f-1a166f8fde5e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ed656c0-ff1a-4048-822f-1a166f8fde5e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ed656c0-ff1a-4048-822f-1a166f8fde5e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ed656c0-ff1a-4048-822f-1a166f8fde5e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ed656c0-ff1a-4048-822f-1a166f8fde5e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 467883,
+  "title": "Livro de registro de entradas - parte 3",
+  "position": 8,
+  "duration": 306,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6f8d586b-1e6a-4513-bdb1-ceafa2118525/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6f8d586b-1e6a-4513-bdb1-ceafa2118525/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6f8d586b-1e6a-4513-bdb1-ceafa2118525/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6f8d586b-1e6a-4513-bdb1-ceafa2118525/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6f8d586b-1e6a-4513-bdb1-ceafa2118525/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

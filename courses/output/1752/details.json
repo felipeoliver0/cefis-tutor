@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 1752,
+    "title": "Comunicação empresarial estratégica",
+    "subtitle": "Fundamentos e aplicação",
+    "summary": "Neste curso prático de comunicação empresarial estratégica aprenderá desde os conceitos e práticas para uma comunicação empresarial efetiva. Entenderá sobre a comunicação organizacional como uma ferramenta integradora, bem como a associação com o ambiente interno e externo das organizações, atendendo a objetivos estratégicos da empresa. Saberá formas eficientes de se comunicar com o público que as organizações dialogam e sua importância para a imagem institucional, e entenderá a relevância estratégica da comunicação para a sustentabilidade dos negócios.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/3678814abd0e79a1c1b9d9c7efca5f711728427939.jpg",
+    "goals": [
+      "Apresentar conceitos, conhecimentos e práticas de comunicação empresarial, demonstrando a relevância estratégica da comunicação para a sustentabilidade dos negócios."
+    ],
+    "teacher": {
+      "id": 473660,
+      "name": "Alessandra Vasconcelos",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1606930369.jpeg"
+    },
+    "duration": 8380,
+    "keywords": "comunicação;comunicação empresarial;comunicação estatégica",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 32,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1144,
+    "averageRating": 8.97,
+    "practiceAverage": 8.84,
+    "trailer": {
+      "id": "4d5f5990-51c3-4db7-843e-29d54c244e86",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4d5f5990-51c3-4db7-843e-29d54c244e86/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4d5f5990-51c3-4db7-843e-29d54c244e86/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4d5f5990-51c3-4db7-843e-29d54c244e86/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4d5f5990-51c3-4db7-843e-29d54c244e86/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-10-23T00:26:21.000Z",
+      "updatedAt": "2021-10-23T00:26:21.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-10-25T18:28:28.000Z",
+    "recordedAt": "2021-10-07T00:00:00.000Z",
+    "createdAt": "2021-10-09T10:35:26.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 480353,
+  "title": "Protocolos da empresa",
+  "position": 10,
+  "duration": 554,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/eb74a1ad-0966-45e2-85ba-ce14b544c189/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eb74a1ad-0966-45e2-85ba-ce14b544c189/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eb74a1ad-0966-45e2-85ba-ce14b544c189/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eb74a1ad-0966-45e2-85ba-ce14b544c189/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eb74a1ad-0966-45e2-85ba-ce14b544c189/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

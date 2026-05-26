@@ -1,0 +1,33 @@
+{
+  "id": 457568,
+  "title": "Compliance Trabalhista- Pilares e Ferramentas",
+  "position": 19,
+  "duration": 191,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/720588cd-4264-489e-85e1-c2c03e426404/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/720588cd-4264-489e-85e1-c2c03e426404/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/720588cd-4264-489e-85e1-c2c03e426404/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/720588cd-4264-489e-85e1-c2c03e426404/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/720588cd-4264-489e-85e1-c2c03e426404/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

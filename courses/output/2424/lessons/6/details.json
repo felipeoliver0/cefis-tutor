@@ -1,0 +1,33 @@
+{
+  "id": 465463,
+  "title": "Tipos de averbação - Desmembramento",
+  "position": 6,
+  "duration": 302,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/31c47648-a3e4-435b-b509-f52e19be1556/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/31c47648-a3e4-435b-b509-f52e19be1556/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/31c47648-a3e4-435b-b509-f52e19be1556/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/31c47648-a3e4-435b-b509-f52e19be1556/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/31c47648-a3e4-435b-b509-f52e19be1556/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 474586,
+  "title": "Fluxograma de atuação do Perito Assistente Contábil",
+  "position": 52,
+  "duration": 92,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a1b6f90d-29c8-4c85-a06b-8216c9af6d47/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1b6f90d-29c8-4c85-a06b-8216c9af6d47/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1b6f90d-29c8-4c85-a06b-8216c9af6d47/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1b6f90d-29c8-4c85-a06b-8216c9af6d47/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1b6f90d-29c8-4c85-a06b-8216c9af6d47/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 453462,
+  "title": "Oitos \"P\"s |",
+  "position": 16,
+  "duration": 107,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9ff6617d-cd5a-4210-90cf-59e5e68e86ca/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ff6617d-cd5a-4210-90cf-59e5e68e86ca/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ff6617d-cd5a-4210-90cf-59e5e68e86ca/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ff6617d-cd5a-4210-90cf-59e5e68e86ca/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ff6617d-cd5a-4210-90cf-59e5e68e86ca/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

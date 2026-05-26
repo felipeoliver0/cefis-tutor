@@ -1,0 +1,33 @@
+{
+  "id": 487683,
+  "title": "Tipos de IA",
+  "position": 8,
+  "duration": 477,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/d3132767-710e-4bde-8a72-2f6eca3a4fbc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3132767-710e-4bde-8a72-2f6eca3a4fbc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3132767-710e-4bde-8a72-2f6eca3a4fbc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3132767-710e-4bde-8a72-2f6eca3a4fbc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3132767-710e-4bde-8a72-2f6eca3a4fbc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 463551,
+  "title": "Hipóteses de interrupção",
+  "position": 31,
+  "duration": 348,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a8874591-a895-4970-8de9-a15b94a6d37a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a8874591-a895-4970-8de9-a15b94a6d37a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a8874591-a895-4970-8de9-a15b94a6d37a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a8874591-a895-4970-8de9-a15b94a6d37a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a8874591-a895-4970-8de9-a15b94a6d37a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

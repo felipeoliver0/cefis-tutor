@@ -1,0 +1,33 @@
+{
+  "id": 462561,
+  "title": "Diretrizes e Procedimentos administrativos",
+  "position": 5,
+  "duration": 567,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/96d430c2-b9fb-4422-a3fc-56f25df7d39f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96d430c2-b9fb-4422-a3fc-56f25df7d39f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96d430c2-b9fb-4422-a3fc-56f25df7d39f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96d430c2-b9fb-4422-a3fc-56f25df7d39f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96d430c2-b9fb-4422-a3fc-56f25df7d39f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

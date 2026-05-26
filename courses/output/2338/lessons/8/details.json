@@ -1,0 +1,33 @@
+{
+  "id": 464672,
+  "title": "Simples nacional - Parte 1",
+  "position": 8,
+  "duration": 388,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a126af64-fbe7-4c92-beb0-0c6bb6b62d5b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a126af64-fbe7-4c92-beb0-0c6bb6b62d5b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a126af64-fbe7-4c92-beb0-0c6bb6b62d5b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a126af64-fbe7-4c92-beb0-0c6bb6b62d5b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a126af64-fbe7-4c92-beb0-0c6bb6b62d5b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 476355,
+  "title": "Benefício exclusão adicional - parte 2",
+  "position": 36,
+  "duration": 212,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/daad97a4-0ac4-45c0-8e01-bf3a46f65159/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/daad97a4-0ac4-45c0-8e01-bf3a46f65159/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/daad97a4-0ac4-45c0-8e01-bf3a46f65159/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/daad97a4-0ac4-45c0-8e01-bf3a46f65159/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/daad97a4-0ac4-45c0-8e01-bf3a46f65159/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

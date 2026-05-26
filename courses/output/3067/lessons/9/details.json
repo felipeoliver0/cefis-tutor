@@ -1,0 +1,33 @@
+{
+  "id": 474221,
+  "title": "Lei Complementar 116 - 2003",
+  "position": 9,
+  "duration": 514,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e6f8361f-b1c7-4308-bb4d-f3fdd4f7ad57/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e6f8361f-b1c7-4308-bb4d-f3fdd4f7ad57/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e6f8361f-b1c7-4308-bb4d-f3fdd4f7ad57/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e6f8361f-b1c7-4308-bb4d-f3fdd4f7ad57/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e6f8361f-b1c7-4308-bb4d-f3fdd4f7ad57/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

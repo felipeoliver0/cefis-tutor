@@ -1,0 +1,33 @@
+{
+  "id": 471205,
+  "title": "Como elaborar planos de ação?",
+  "position": 6,
+  "duration": 348,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/698c7ed1-3c19-41f5-bfbe-a5408e8d361d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/698c7ed1-3c19-41f5-bfbe-a5408e8d361d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/698c7ed1-3c19-41f5-bfbe-a5408e8d361d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/698c7ed1-3c19-41f5-bfbe-a5408e8d361d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/698c7ed1-3c19-41f5-bfbe-a5408e8d361d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

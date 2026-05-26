@@ -1,0 +1,33 @@
+{
+  "id": 463533,
+  "title": "Compensações",
+  "position": 14,
+  "duration": 551,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/58307bc1-e987-4b19-8bf0-b29908b94246/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/58307bc1-e987-4b19-8bf0-b29908b94246/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/58307bc1-e987-4b19-8bf0-b29908b94246/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/58307bc1-e987-4b19-8bf0-b29908b94246/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/58307bc1-e987-4b19-8bf0-b29908b94246/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

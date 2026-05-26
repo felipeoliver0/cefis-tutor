@@ -1,0 +1,773 @@
+WEBVTT
+
+1
+00:00:02.339 --> 00:00:05.409
+O que eu vou trouxe para falar aqui hoje para vocês eu poderia
+
+2
+00:00:05.579 --> 00:00:08.819
+e a gente tem uma aula só sobre novo processo de importação
+
+3
+00:00:09.060 --> 00:00:09.939
+e sobre a do Inpe.
+
+4
+00:00:10.220 --> 00:00:13.289
+O que eu trouxe para falar com vocês é sobre o catálogo de produtos,
+
+5
+00:00:13.750 --> 00:00:14.890
+que é algo que
+
+6
+00:00:15.180 --> 00:00:15.949
+a gente eh,
+
+7
+00:00:16.420 --> 00:00:17.840
+já tem alguns anos
+
+8
+00:00:18.059 --> 00:00:19.469
+desde o do
+
+9
+00:00:19.850 --> 00:00:20.780
+antes da Covid.
+
+10
+00:00:20.860 --> 00:00:25.430
+A gente vem esperando que essa ob- obrigatoriedade ela seja estabelecida
+
+11
+00:00:25.860 --> 00:00:27.299
+para todos os importadores,
+
+12
+00:00:27.739 --> 00:00:27.950
+né?
+
+13
+00:00:28.100 --> 00:00:30.569
+E a previsão é que ela efetivamente aconteça esse ano.
+
+14
+00:00:31.479 --> 00:00:31.909
+Então
+
+15
+00:00:32.080 --> 00:00:33.279
+eu vou explicar para vocês o que que é
+
+16
+00:00:33.279 --> 00:00:36.029
+o catálogo de produtos Bom o catálogo de produtos
+
+17
+00:00:36.520 --> 00:00:36.900
+eh
+
+18
+00:00:37.599 --> 00:00:40.159
+Ele é um módulo do do Portal Único do Ciscomex,
+
+19
+00:00:40.240 --> 00:00:40.500
+né?
+
+20
+00:00:40.799 --> 00:00:42.590
+É e ele tem como finalidade
+
+21
+00:00:42.759 --> 00:00:46.069
+ajudar o preenchimento da do Lembra que eu falei que a do IP vai ser imputada
+
+22
+00:00:46.369 --> 00:00:50.369
+o dado uma única só vez e vai ter ali disponibilizado para todos os importadores.
+
+23
+00:00:50.479 --> 00:00:50.950
+Pois bem
+
+24
+00:00:51.720 --> 00:00:52.189
+o
+
+25
+00:00:52.439 --> 00:00:53.880
+a o catálogo de produtos,
+
+26
+00:00:53.959 --> 00:00:56.700
+ele vai servir como um banco de dados.
+
+27
+00:00:57.450 --> 00:00:58.119
+em relação
+
+28
+00:00:58.250 --> 00:00:59.889
+aos seus produtos importados,
+
+29
+00:01:00.250 --> 00:01:00.369
+né?
+
+30
+00:01:00.509 --> 00:01:00.740
+Então
+
+31
+00:01:01.049 --> 00:01:01.630
+você é uma empre-,
+
+32
+00:01:01.650 --> 00:01:03.889
+você é uma empresa que importa um número X de produtos.
+
+33
+00:01:04.010 --> 00:01:07.120
+Então você vai ter um banco de dar- dados virtual,
+
+34
+00:01:07.610 --> 00:01:08.000
+né?
+
+35
+00:01:08.370 --> 00:01:08.739
+É
+
+36
+00:01:09.690 --> 00:01:13.279
+que vai estar vinculado a- ao ao portal único
+
+37
+00:01:13.809 --> 00:01:14.029
+Ah,
+
+38
+00:01:14.699 --> 00:01:17.160
+e futuramente será.
+
+39
+00:01:17.650 --> 00:01:19.440
+a origem será a base
+
+40
+00:01:19.769 --> 00:01:23.129
+para todas as futuras operações de importação que você venha a fazer.
+
+41
+00:01:23.370 --> 00:01:24.489
+Você precisa imputar
+
+42
+00:01:24.690 --> 00:01:26.730
+as informações sobre aquele produto,
+
+43
+00:01:27.410 --> 00:01:28.599
+uma única só vez
+
+44
+00:01:28.769 --> 00:01:29.540
+e depois
+
+45
+00:01:29.769 --> 00:01:30.690
+automaticamente,
+
+46
+00:01:30.769 --> 00:01:32.449
+sempre que você trouxer aquele produto,
+
+47
+00:01:32.889 --> 00:01:34.650
+não apenas você enquanto importador,
+
+48
+00:01:35.010 --> 00:01:36.120
+mas a Receita Federal,
+
+49
+00:01:36.209 --> 00:01:36.870
+os órgãos,
+
+50
+00:01:37.250 --> 00:01:38.199
+os órgãos.
+
+51
+00:01:38.605 --> 00:01:40.315
+intervenientes vão ter acesso
+
+52
+00:01:40.565 --> 00:01:41.754
+à informação
+
+53
+00:01:41.925 --> 00:01:42.724
+pelo P number,
+
+54
+00:01:42.764 --> 00:01:43.004
+ou seja,
+
+55
+00:01:43.084 --> 00:01:43.805
+pelo produto.
+
+56
+00:01:44.205 --> 00:01:45.205
+Que tipo de informação,
+
+57
+00:01:45.324 --> 00:01:46.885
+informação da classificação fiscal,
+
+58
+00:01:46.964 --> 00:01:48.084
+da descrição da mercadoria,
+
+59
+00:01:48.165 --> 00:01:49.724
+do tratamento tributário,
+
+60
+00:01:50.214 --> 00:01:50.224
+né?
+
+61
+00:01:50.404 --> 00:01:50.525
+Então,
+
+62
+00:01:50.764 --> 00:01:52.705
+todas essas informações que você precisa
+
+63
+00:01:53.125 --> 00:01:56.184
+registrar a cada nova DI que você submete,
+
+64
+00:01:56.324 --> 00:01:57.785
+ela vai estar disponível
+
+65
+00:01:58.364 --> 00:01:58.834
+dentro.
+
+66
+00:01:59.769 --> 00:02:00.209
+Ah,
+
+67
+00:02:00.529 --> 00:02:02.150
+dentro da do catálogo de produtos.
+
+68
+00:02:02.209 --> 00:02:05.169
+Então esse banco de dados ele é gerido pelo próprio importador,
+
+69
+00:02:05.569 --> 00:02:05.800
+né?
+
+70
+00:02:06.089 --> 00:02:07.199
+É que deverá fazer
+
+71
+00:02:07.489 --> 00:02:08.520
+a atualização
+
+72
+00:02:09.649 --> 00:02:11.350
+eh quando o novo processo NPI
+
+73
+00:02:11.979 --> 00:02:13.889
+e a Tp elas elas estiverem
+
+74
+00:02:14.250 --> 00:02:14.610
+eh
+
+75
+00:02:15.410 --> 00:02:15.850
+prontas,
+
+76
+00:02:15.910 --> 00:02:16.009
+né?
+
+77
+00:02:16.050 --> 00:02:17.309
+Pra aceitar operações
+
+78
+00:02:18.419 --> 00:02:18.429
+eh
+
+79
+00:02:18.990 --> 00:02:20.649
+O catálogo de produtos
+
+80
+00:02:20.960 --> 00:02:24.740
+é ele diagnosticará se um produto XYZ.
+
+81
+00:02:25.070 --> 00:02:25.470
+Ele está,
+
+82
+00:02:25.509 --> 00:02:26.070
+por exemplo,
+
+83
+00:02:26.149 --> 00:02:30.710
+sujeito a algum tipo de tratamento de tratamento de órgão an eixo.
+
+84
+00:02:31.270 --> 00:02:34.520
+Então vai estar lá no teu dado de catálogo de produtos,
+
+85
+00:02:34.550 --> 00:02:36.509
+com todos os atributos preenchidos.
+
+86
+00:02:36.550 --> 00:02:37.020
+E aí
+
+87
+00:02:37.509 --> 00:02:39.520
+você automaticamente vai ter que ah,
+
+88
+00:02:39.750 --> 00:02:41.779
+esse produto aqui ele precisa
+
+89
+00:02:42.110 --> 00:02:45.669
+de uma licença de importação XYZ automaticamente,
+
+90
+00:02:46.050 --> 00:02:47.380
+Então você não vai mais incorrer.
+
+91
+00:02:48.259 --> 00:02:49.410
+em fazer um embarque,
+
+92
+00:02:50.059 --> 00:02:50.250
+né?
+
+93
+00:02:50.300 --> 00:02:50.899
+Sem tirar,
+
+94
+00:02:50.979 --> 00:02:52.729
+vai ser muito mais difícil você fazer um embarque
+
+95
+00:02:53.059 --> 00:02:54.970
+sem que você tenha licença de importação,
+
+96
+00:02:55.500 --> 00:02:55.610
+né?
+
+97
+00:02:55.699 --> 00:02:57.710
+Então tem algumas questões que você vai.
+
+98
+00:02:59.369 --> 00:03:01.250
+ter um ganho muito significativo,
+
+99
+00:03:01.330 --> 00:03:01.520
+né?
+
+100
+00:03:01.570 --> 00:03:05.529
+O o o modo de licenciamento LPCO poderá ser
+
+101
+00:03:05.529 --> 00:03:08.130
+acionado a partir do catálogo de produtos para solicitar
+
+102
+00:03:08.330 --> 00:03:10.070
+a licença ao órgão anuente,
+
+103
+00:03:10.169 --> 00:03:10.250
+né?
+
+104
+00:03:10.330 --> 00:03:12.130
+Então a redução aí de tempo importante.
+
+105
+00:03:12.729 --> 00:03:15.289
+Mercadorias que não estejam sujeitas a licenciamento podem
+
+106
+00:03:15.289 --> 00:03:18.240
+necessitar de licença devido a outras informações,
+
+107
+00:03:18.729 --> 00:03:19.039
+né?
+
+108
+00:03:20.210 --> 00:03:20.529
+E Bom,
+
+109
+00:03:20.610 --> 00:03:22.169
+o objetivo do catálogo de produtos.
+
+110
+00:03:22.250 --> 00:03:23.130
+Ele é muito simples,
+
+111
+00:03:23.210 --> 00:03:23.330
+né?
+
+112
+00:03:23.449 --> 00:03:23.970
+É é,
+
+113
+00:03:24.089 --> 00:03:24.429
+é
+
+114
+00:03:24.570 --> 00:03:26.460
+melhorar a descrição da mercadoria,
+
+115
+00:03:26.929 --> 00:03:27.500
+trazendo.
+
+116
+00:03:28.699 --> 00:03:30.559
+para o detalhe aquilo que realmente importa,
+
+117
+00:03:31.059 --> 00:03:31.259
+né?
+
+118
+00:03:31.339 --> 00:03:32.410
+Criando padrões,
+
+119
+00:03:34.059 --> 00:03:34.070
+né?
+
+120
+00:03:34.080 --> 00:03:35.619
+É subir documentos técnicos,
+
+121
+00:03:35.759 --> 00:03:36.139
+fotos,
+
+122
+00:03:36.220 --> 00:03:36.460
+ou seja,
+
+123
+00:03:36.500 --> 00:03:38.490
+dar mais visibilidade óbvio para a Receita Federal,
+
+124
+00:03:38.619 --> 00:03:43.339
+mas também para o próprio importador é ter criar uma base de dados que seja
+
+125
+00:03:43.619 --> 00:03:46.399
+capaz de de dar robustez ao compliance
+
+126
+00:03:46.399 --> 00:03:48.979
+daquela operação para todas as contas possíveis,
+
+127
+00:03:49.300 --> 00:03:50.570
+facilitar e garantir
+
+128
+00:03:51.020 --> 00:03:52.619
+a segurança da classificação fiscal.
+
+129
+00:03:52.740 --> 00:03:53.289
+Obviamente,
+
+130
+00:03:53.699 --> 00:03:53.990
+né.
+
+131
+00:03:54.350 --> 00:03:58.080
+eh permitia o interveniente que ele interage ali com os diversos,
+
+132
+00:03:58.089 --> 00:04:01.240
+com os diversos sistemas através do próprio catálogo,
+
+133
+00:04:01.570 --> 00:04:01.800
+né?
+
+134
+00:04:02.029 --> 00:04:05.399
+E proporcionar informações ao produto que que
+
+135
+00:04:05.889 --> 00:04:07.759
+é que sejam fornecidas
+
+136
+00:04:07.889 --> 00:04:08.759
+apenas uma vez.
+
+137
+00:04:08.770 --> 00:04:09.250
+Você vai lá,
+
+138
+00:04:09.330 --> 00:04:10.679
+você imputa a informação uma vez Ah,
+
+139
+00:04:10.809 --> 00:04:13.970
+teve uma uma atualização tr- trazendo de um novo fornecedor
+
+140
+00:04:14.210 --> 00:04:14.770
+Você vai lá,
+
+141
+00:04:14.949 --> 00:04:15.960
+é um sistema
+
+142
+00:04:16.570 --> 00:04:17.089
+friendly,
+
+143
+00:04:17.130 --> 00:04:20.720
+é um sistema amigável onde você consegue fazer essa alteração.
+
+144
+00:04:22.029 --> 00:04:22.940
+É aumentar
+
+145
+00:04:23.279 --> 00:04:24.720
+eh agilidade dos órgãos.
+
+146
+00:04:24.799 --> 00:04:25.190
+Então existe.
+
+147
+00:04:25.239 --> 00:04:27.309
+Eu acho que um ganho importante de tempo
+
+148
+00:04:27.519 --> 00:04:31.720
+permitir a concessão das licenças para o produto em vez para cada operação.
+
+149
+00:04:31.839 --> 00:04:33.130
+Isso é um ganho muito grande,
+
+150
+00:04:33.519 --> 00:04:33.750
+né?
+
+151
+00:04:34.119 --> 00:04:36.720
+Uma vez que você tem o seu catálogo de produtos implementado,
+
+152
+00:04:36.950 --> 00:04:39.260
+a licença que você tiver
+
+153
+00:04:39.640 --> 00:04:41.000
+é ela vai ser possível.
+
+154
+00:04:41.220 --> 00:04:41.440
+Enfim,
+
+155
+00:04:41.480 --> 00:04:43.079
+a depender de alguns outros critérios,
+
+156
+00:04:43.279 --> 00:04:44.989
+você vai ser possível você ter uma licença
+
+157
+00:04:45.570 --> 00:04:48.549
+específica por produto e não por opera- por operação,
+
+158
+00:04:49.079 --> 00:04:49.390
+né?
+
+159
+00:04:49.910 --> 00:04:50.980
+então essa base
+
+160
+00:04:51.679 --> 00:04:53.660
+é ela foi constituída a base
+
+161
+00:04:53.829 --> 00:04:54.790
+dos atributos,
+
+162
+00:04:54.950 --> 00:04:55.059
+né?
+
+163
+00:04:55.149 --> 00:04:58.390
+A base dos produtos importados e tudo o que deve ser preenchido.
+
+164
+00:04:58.950 --> 00:05:02.899
+Ela foi construída dentro do âmbito do projeto mapeamento dos chamados atributos,
+
+165
+00:05:03.750 --> 00:05:03.760
+né?
+
+166
+00:05:03.769 --> 00:05:06.070
+Porque quando você for montar esse catálogo de produtos,
+
+167
+00:05:06.190 --> 00:05:09.570
+você precisa não apenas subir a classificação fiscal,
+
+168
+00:05:09.750 --> 00:05:11.429
+a descrição de mercadoria dos seus produtos,
+
+169
+00:05:11.510 --> 00:05:12.940
+mas você precisa também informar.
+
+170
+00:05:13.690 --> 00:05:16.589
+o que a Receita Federal tem chamado de atributos,
+
+171
+00:05:17.000 --> 00:05:17.350
+né?
+
+172
+00:05:17.559 --> 00:05:21.100
+Que são as características que fundamentais relacionadas àquele produto,
+
+173
+00:05:21.839 --> 00:05:22.109
+né?
+
+174
+00:05:23.279 --> 00:05:23.600
+É E bom,
+
+175
+00:05:23.640 --> 00:05:24.989
+e a base ela foi
+
+176
+00:05:25.440 --> 00:05:26.489
+a base desses atributos.
+
+177
+00:05:26.519 --> 00:05:28.359
+E ela foi submetida à consulta pública,
+
+178
+00:05:28.720 --> 00:05:28.890
+né?
+
+179
+00:05:29.079 --> 00:05:30.859
+E chegou aí a informação
+
+180
+00:05:31.200 --> 00:05:33.320
+é final Então atualmente,
+
+181
+00:05:33.480 --> 00:05:33.750
+né?
+
+182
+00:05:34.079 --> 00:05:37.959
+A base conta com a publicação dos atributos para todos os 97 capítulos,
+
+183
+00:05:38.040 --> 00:05:38.160
+né?
+
+184
+00:05:38.200 --> 00:05:39.459
+Da do NCM.
+
+185
+00:05:40.700 --> 00:05:43.350
+eh Na verdade não está mais nem em ambiente de treinamento,
+
+186
+00:05:43.429 --> 00:05:43.829
+já tá,
+
+187
+00:05:44.109 --> 00:05:45.149
+você pode fazer treinamento,
+
+188
+00:05:45.190 --> 00:05:45.630
+você pode fazer,
+
+189
+00:05:45.709 --> 00:05:47.109
+mas já está em ambiente produtivo,
+
+190
+00:05:47.630 --> 00:05:47.829
+né?
+
+191
+00:05:47.950 --> 00:05:52.820
+É do do do Siscomex e contém aí cerca de 60000 atributos,
+
+192
+00:05:53.010 --> 00:05:55.399
+que é uma média de 77
+
+193
+00:05:55.589 --> 00:05:57.179
+atributos para cada NCM.

@@ -1,0 +1,621 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.759
+Então, nós comentamos já como que nós entregamos,
+
+3
+00:00:03.759 --> 00:00:08.480
+comentamos da obrigatoriedade de manter todos os arquivos,
+
+4
+00:00:08.480 --> 00:00:11.039
+caso eu precise fazer uma substituição,
+
+5
+00:00:11.039 --> 00:00:13.919
+caso eu seja numa fiscalização, eu tenho tudo backupado,
+
+6
+00:00:13.919 --> 00:00:17.519
+tenho todos os meus diretórios com todos os arquivos.
+
+7
+00:00:17.519 --> 00:00:20.879
+Mas mesmo assim, vamos supor que você perdeu tudo.
+
+8
+00:00:20.879 --> 00:00:27.000
+Nós temos aí um outro componente que é chamado Receita Net BX.
+
+9
+00:00:27.000 --> 00:00:30.600
+Essa Receita Net BX é como se fosse um pendrive,
+
+10
+00:00:30.600 --> 00:00:33.679
+que quando a gente precisava de alguma informação da Receita,
+
+11
+00:00:33.679 --> 00:00:36.280
+uma declaração que nós já tivéssemos transmitido,
+
+12
+00:00:36.280 --> 00:00:38.920
+a gente ia pessoalmente lá no balcão da Receita,
+
+13
+00:00:38.920 --> 00:00:43.479
+levava o pendrive, os mais antigos levavam o disquete,
+
+14
+00:00:43.479 --> 00:00:45.520
+e eles copiavam para a gente.
+
+15
+00:00:45.520 --> 00:00:51.520
+Com a criação do Receita Net BX, isso deixou de existir.
+
+16
+00:00:51.520 --> 00:00:55.119
+Ou seja, eu mesmo via certificado digital,
+
+17
+00:00:55.119 --> 00:00:56.759
+acesso à base da Receita,
+
+18
+00:00:56.759 --> 00:01:01.960
+e faço a cópia e baixo o arquivo que eu entreguei.
+
+19
+00:01:01.960 --> 00:01:07.280
+Mas isso não é motivo para que eu não tenha os meus arquivos arquivados, guardados,
+
+20
+00:01:07.280 --> 00:01:11.159
+recibos de entrega, comprovantes, etc.
+
+21
+00:01:11.159 --> 00:01:15.439
+Então olha lá, acesso ao SPED contábil.
+
+22
+00:01:15.439 --> 00:01:20.480
+O acesso ao ambiente nacional do SPED fica condicionado à autenticação mediante o quê?
+
+23
+00:01:20.480 --> 00:01:25.879
+Certificado digital credenciado, emitido em nome do órgão ou da entidade.
+
+24
+00:01:25.879 --> 00:01:26.560
+O acesso ao ambiente nacional do SPED fica condicionado à autenticação mediante o quê?
+
+25
+00:01:26.560 --> 00:01:26.680
+Certificado digital credenciado, emitido em nome do órgão ou da entidade.
+
+26
+00:01:26.680 --> 00:01:27.000
+O acesso ao ambiente nacional do SPED fica condicionado à autenticação mediante o quê?
+
+27
+00:01:27.000 --> 00:01:27.680
+Certificado digital credenciado, emitido em nome do órgão ou da entidade.
+
+28
+00:01:27.680 --> 00:01:32.280
+O acesso ao ambiente nacional do SPED também será possível às pessoas jurídicas em relação às informações
+
+29
+00:01:32.280 --> 00:01:34.439
+por ela transmitida ao SPED.
+
+30
+00:01:34.439 --> 00:01:38.439
+Então, via certificado digital, você tem tudo aberto.
+
+31
+00:01:38.439 --> 00:01:45.280
+O ambiente nacional manterá os registros dos eventos de acesso pelo prazo de seis anos,
+
+32
+00:01:45.280 --> 00:01:50.200
+contendo, no mínimo, identificação do usuário,
+
+33
+00:01:50.200 --> 00:01:56.480
+autoridade certificadora, emissora de certificado digital,
+
+34
+00:01:56.480 --> 00:02:00.159
+número e sérgio de certificado, data e hora da operação,
+
+35
+00:02:00.920 --> 00:02:06.680
+modalidades de acesso, de acordo com o artigo 10º.
+
+36
+00:02:07.319 --> 00:02:11.319
+Então, não é motivo para que eu não tenha tudo guardado.
+
+37
+00:02:11.400 --> 00:02:15.680
+E quando a gente fala seis anos, é porque o ano corrente não conta.
+
+38
+00:02:15.680 --> 00:02:17.840
+Então, você começa a contar do ano seguinte.
+
+39
+00:02:17.979 --> 00:02:19.340
+Por isso que seis anos eles mantêm.
+
+40
+00:02:19.900 --> 00:02:22.300
+E aí nós vamos acessar o Receita NetBX.
+
+41
+00:02:23.539 --> 00:02:26.439
+Ele é utilizado para transmissão da escritura.
+
+42
+00:02:26.479 --> 00:02:30.400
+Escrituração contábil, ou seja, o Receita Net normal, é por onde eu transmito,
+
+43
+00:02:30.840 --> 00:02:34.680
+enquanto que o Receita NetBX é utilizado para fazer o download
+
+44
+00:02:34.680 --> 00:02:38.099
+da escrituração contábil que já foi transmitida.
+
+45
+00:02:38.800 --> 00:02:40.460
+Não só contábil, como as outras,
+
+46
+00:02:41.099 --> 00:02:44.620
+pelas pessoas jurídicas e dos dados agregados gerados pelo sistema.
+
+47
+00:02:45.000 --> 00:02:50.039
+Então, o Receita NetBX serve para que eu consiga fazer o download daquilo que eu já transmiti.
+
+48
+00:02:50.039 --> 00:02:55.159
+A versão mais recente é a 1.9.26,
+
+49
+00:02:55.819 --> 00:02:56.039
+do Receita NetBX,
+
+50
+00:02:56.479 --> 00:03:00.080
+e aí eu botei o endereço para vocês,
+
+51
+00:03:01.000 --> 00:03:02.520
+como vocês acessam.
+
+52
+00:03:02.599 --> 00:03:05.580
+Então, está lá no GOV.br, Receita Federal.
+
+53
+00:03:06.219 --> 00:03:07.560
+Vocês conseguem, com esse endereço,
+
+54
+00:03:07.680 --> 00:03:09.360
+vocês conseguem entrar lá no BX,
+
+55
+00:03:09.879 --> 00:03:11.159
+mediante certificado digital.
+
+56
+00:03:11.259 --> 00:03:12.319
+Ele vai pedir o certificado.
+
+57
+00:03:12.759 --> 00:03:15.879
+O download via Receita segue as seguintes regras.
+
+58
+00:03:16.319 --> 00:03:18.180
+A pessoa jurídica, propriamente dito,
+
+59
+00:03:18.280 --> 00:03:21.580
+acessa apenas as escriturações contábeis digitais
+
+60
+00:03:21.580 --> 00:03:24.300
+e os dados agregados no seu CNPJ.
+
+61
+00:03:24.300 --> 00:03:26.460
+Aí nós vamos ter o representante,
+
+62
+00:03:26.479 --> 00:03:28.479
+o representante legal, que também tem esse acesso.
+
+63
+00:03:28.479 --> 00:03:32.479
+Acessa apenas as escriturações contábeis digitais
+
+64
+00:03:32.479 --> 00:03:35.979
+e os dados agregados do CNPJ que ele representa.
+
+65
+00:03:35.979 --> 00:03:38.479
+Tanto é que ele é um representante.
+
+66
+00:03:38.479 --> 00:03:40.979
+E temos também por procuração eletrônica.
+
+67
+00:03:40.979 --> 00:03:45.979
+Ele vai acessar apenas as escriturações digitais
+
+68
+00:03:45.979 --> 00:03:49.979
+e os dados agregados do CNPJ da qual ele é procurador.
+
+69
+00:03:49.979 --> 00:03:51.979
+Se ele é procurador, ele tem acesso.
+
+70
+00:03:51.979 --> 00:03:55.979
+Então, pode acessar a própria PJ, o representante dela,
+
+71
+00:03:55.979 --> 00:03:57.979
+via procuração eletrônica.
+
+72
+00:03:57.979 --> 00:03:59.979
+Aí está a versão dela.
+
+73
+00:03:59.979 --> 00:04:01.979
+É por aí que vocês vão checar.
+
+74
+00:04:01.979 --> 00:04:03.979
+Vocês vão entrar aqui no Ajuda,
+
+75
+00:04:03.979 --> 00:04:05.979
+Sobre,
+
+76
+00:04:05.979 --> 00:04:10.979
+aí vai ter lá a versão 1.9.26, que é a versão atual.
+
+77
+00:04:10.979 --> 00:04:12.979
+E como eu disse a vocês,
+
+78
+00:04:12.979 --> 00:04:16.480
+tudo que se refere à Receita, sempre cheque a última versão
+
+79
+00:04:16.480 --> 00:04:17.980
+antes de você fazer qualquer coisa.
+
+80
+00:04:17.980 --> 00:04:19.980
+Esse daqui não tem muito impacto,
+
+81
+00:04:19.980 --> 00:04:24.980
+mas ECD, CF, FD Contribuição, ICMPI,
+
+82
+00:04:24.980 --> 00:04:26.980
+tudo isso tem versões.
+
+83
+00:04:26.980 --> 00:04:30.980
+E eles vão mudando de acordo com as necessidades deles lá.
+
+84
+00:04:30.980 --> 00:04:32.980
+E nós temos que correr atrás.
+
+85
+00:04:32.980 --> 00:04:34.980
+Que é injusto isso, né?
+
+86
+00:04:34.980 --> 00:04:36.980
+Não deveria.
+
+87
+00:04:36.980 --> 00:04:38.980
+Se vocês pararem para analisar,
+
+88
+00:04:38.980 --> 00:04:42.980
+no Imposto de Renda à Pessoa Física,
+
+89
+00:04:42.980 --> 00:04:45.980
+vocês nem sabem qual foi a última versão.
+
+90
+00:04:45.980 --> 00:04:47.980
+Do ano passado, por exemplo.
+
+91
+00:04:47.980 --> 00:04:49.980
+Esse ano nós estávamos na 1.0.
+
+92
+00:04:49.980 --> 00:04:52.980
+No ano passado, acho que chegou na 1.6, 1.7.
+
+93
+00:04:52.980 --> 00:04:55.980
+Só que ele é imperceptível para nós.
+
+94
+00:04:55.980 --> 00:04:56.980
+Por quê?
+
+95
+00:04:56.980 --> 00:04:59.980
+Toda vez que você entra no programa, ele já atualiza.
+
+96
+00:04:59.980 --> 00:05:02.980
+Show de bola. Show de bola.
+
+97
+00:05:02.980 --> 00:05:05.980
+Por que não fizeram a mesma coisa para a pessoa jurídica?
+
+98
+00:05:05.980 --> 00:05:07.980
+Não, nós temos que entrar lá.
+
+99
+00:05:07.980 --> 00:05:09.980
+Então, sempre eu aconselho.
+
+100
+00:05:09.980 --> 00:05:11.980
+Eu até aconselho meus alunos,
+
+101
+00:05:11.980 --> 00:05:14.980
+quando vocês salvarem esses programas,
+
+102
+00:05:14.980 --> 00:05:17.980
+salvem e colocam na versão, tanto.
+
+103
+00:05:17.980 --> 00:05:20.980
+Porque aí você pega a tua versão, olha lá no site,
+
+104
+00:05:20.980 --> 00:05:21.980
+se é a mesma, bacana.
+
+105
+00:05:21.980 --> 00:05:22.980
+Se não, baixa a nova.
+
+106
+00:05:22.980 --> 00:05:24.980
+E renomeia de novo.
+
+107
+00:05:24.980 --> 00:05:27.980
+Para não precisar ficar toda hora abrindo os programas, tá?
+
+108
+00:05:27.980 --> 00:05:29.980
+Mas é a critério de cada um.
+
+109
+00:05:29.980 --> 00:05:33.980
+Então, sempre checa para não ter retrabalho.
+
+110
+00:05:33.980 --> 00:05:36.980
+Porque imagina, você vai fazer uma ECD,
+
+111
+00:05:36.980 --> 00:05:39.980
+você pegou sua assinatura, assinatura do cliente,
+
+112
+00:05:39.980 --> 00:05:41.980
+aquela coisa toda, conferiu, tudo sorte.
+
+113
+00:05:41.980 --> 00:05:43.980
+Quando você vai mandar, ele fala, não aceito.
+
+114
+00:05:43.980 --> 00:05:44.980
+Porque está na versão antiga.
+
+115
+00:05:44.980 --> 00:05:46.980
+Aí você tem que baixar a nova versão.
+
+116
+00:05:46.980 --> 00:05:48.980
+Então, isso pode dar retrabalho, tá?
+
+117
+00:05:48.980 --> 00:05:50.980
+Aqui nós temos como baixar o artigo.
+
+118
+00:05:50.980 --> 00:05:53.980
+Como baixar o arquivo utilizando Receita NetBX.
+
+119
+00:05:53.980 --> 00:05:55.980
+Coloquei bem prático para vocês aqui.
+
+120
+00:05:55.980 --> 00:05:56.980
+Seleciona o arquivo.
+
+121
+00:05:56.980 --> 00:05:57.980
+Está tudo certinho, está vendo?
+
+122
+00:05:57.980 --> 00:05:58.980
+Está lá no site.
+
+123
+00:05:58.980 --> 00:06:02.980
+Está bacaninha aqui cada um deles, como você deve proceder.
+
+124
+00:06:02.980 --> 00:06:05.980
+Vai aparecer, obviamente, para vocês aqui,
+
+125
+00:06:05.980 --> 00:06:08.980
+o usuário, o nome da empresa, o CNPJ,
+
+126
+00:06:08.980 --> 00:06:09.980
+está tudo certinho, né?
+
+127
+00:06:09.980 --> 00:06:10.980
+Perfeito?
+
+128
+00:06:10.980 --> 00:06:13.980
+E aí você tem arquivo, exibir, pesquisa,
+
+129
+00:06:13.980 --> 00:06:15.980
+acompanhamento, ferramentas, etc.
+
+130
+00:06:15.980 --> 00:06:19.980
+Aí na pesquisa, você clicando aqui no drop-down,
+
+131
+00:06:19.980 --> 00:06:21.980
+ele vai te dar ESPED Contribuições,
+
+132
+00:06:21.980 --> 00:06:23.980
+ESPED Contábil, ESPED ECF,
+
+133
+00:06:23.980 --> 00:06:27.980
+ESPED ECD, EFD Reinf,
+
+134
+00:06:27.980 --> 00:06:29.980
+ICMPI.
+
+135
+00:06:29.980 --> 00:06:31.980
+Então, você escolhe aí o que você quiser
+
+136
+00:06:31.980 --> 00:06:33.980
+e faz a sua pesquisa aqui
+
+137
+00:06:33.980 --> 00:06:35.980
+para você poder baixar o arquivo, né?
+
+138
+00:06:35.980 --> 00:06:36.980
+Aí está aqui.
+
+139
+00:06:36.980 --> 00:06:38.980
+Aí você vai definir qual é a data que você quer.
+
+140
+00:06:38.980 --> 00:06:41.980
+Aqui eu coloquei como exemplo ESPED Contábil, né?
+
+141
+00:06:41.980 --> 00:06:46.980
+O período de 01.01.2024 a 31.12.2024.
+
+142
+00:06:46.980 --> 00:06:47.980
+Perfeito?
+
+143
+00:06:47.980 --> 00:06:48.980
+Então, ele...
+
+144
+00:06:48.980 --> 00:06:49.980
+Né?
+
+145
+00:06:49.980 --> 00:06:51.980
+Aí ele vai pesquisar, vai achar e eu faço o download.
+
+146
+00:06:51.980 --> 00:06:54.980
+Então, é bem tranquilo, bem simples.
+
+147
+00:06:54.980 --> 00:06:56.980
+Ajuda bastante, viu, pessoal?
+
+148
+00:06:56.980 --> 00:06:59.980
+Então, as informações sobre acesso à ECD
+
+149
+00:06:59.980 --> 00:07:02.980
+pelos órgãos e entidades que tratam
+
+150
+00:07:02.980 --> 00:07:04.980
+a Instituição Normativa 2003
+
+151
+00:07:04.980 --> 00:07:06.980
+ficarão disponíveis à pessoa jurídica
+
+152
+00:07:06.980 --> 00:07:09.980
+titular da ECD em área específica
+
+153
+00:07:09.980 --> 00:07:10.980
+no ambiente da ESPED
+
+154
+00:07:10.980 --> 00:07:13.980
+com acesso mediante o certificado digital.
+
+155
+00:07:13.980 --> 00:07:15.980
+Mediante o certificado digital,
+
+156
+00:07:15.980 --> 00:07:17.980
+você vai ter esse acesso aí, né?

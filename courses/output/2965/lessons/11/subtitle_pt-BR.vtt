@@ -1,0 +1,461 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.940
+agora a gente vai pra uma parte assim que a gente já viu um pouco de teoria,
+
+2
+00:00:03.950 --> 00:00:07.179
+vai pra uma parte mais prática da aplicação do GTIN.
+
+3
+00:00:07.190 --> 00:00:07.340
+Tá?
+
+4
+00:00:07.349 --> 00:00:10.819
+A gente vai conhecer os bancos de dados de GTIN e vai ver
+
+5
+00:00:10.829 --> 00:00:14.560
+também a utilização dela do GTIN nos documentos fiscais que vamos lá pessoal!
+
+6
+00:00:14.569 --> 00:00:18.200
+Primeiramente eu vou apresentar pra vocês o cadastro centralizado de GTIN tá,
+
+7
+00:00:18.559 --> 00:00:21.090
+esse cadastro é um cadastro do Fisco.
+
+8
+00:00:21.100 --> 00:00:25.649
+O Fisco tem esse cadastro e utiliza ele pra validar as notas fiscais eletrônicas.
+
+9
+00:00:25.659 --> 00:00:27.690
+Tá esse cadastro centralizado?
+
+10
+00:00:27.700 --> 00:00:29.610
+GTIN Ele recebe dados do C N p,
+
+11
+00:00:29.620 --> 00:00:33.580
+que é o cadastro nacional de produtos e esse é de poder da S um Brasil, Tá?
+
+12
+00:00:33.590 --> 00:00:36.930
+Vamos falar aqui pelo primeiro sobre o cadastro centralizado GTIN.
+
+13
+00:00:36.939 --> 00:00:40.810
+Depois a gente fala do c N P tá então pra aumentar a qualidade
+
+14
+00:00:40.819 --> 00:00:42.830
+dos dados das notas fiscais eletrônicas e
+
+15
+00:00:42.840 --> 00:00:45.020
+das notas fiscais do consumidor eletrônico.
+
+16
+00:00:45.029 --> 00:00:45.950
+Emitidas tá.
+
+17
+00:00:46.169 --> 00:00:49.419
+Em virtude do grande número de informações inconsistentes,
+
+18
+00:00:49.430 --> 00:00:52.099
+as secretarias da Fazenda passaram a validar
+
+19
+00:00:52.110 --> 00:00:54.060
+a informação do GTI presente no documento,
+
+20
+00:00:54.069 --> 00:00:54.419
+né?
+
+21
+00:00:54.430 --> 00:00:57.500
+Eu falei pra vocês no começo do curso que o GTIN é importante pro fisco, né?
+
+22
+00:00:57.509 --> 00:01:00.619
+Pra fazer pauta de pauta de valores e bebidas, por exemplo.
+
+23
+00:01:00.630 --> 00:01:02.959
+Pauta de valores, de outros produtos pra
+
+24
+00:01:03.060 --> 00:01:06.989
+fazer malha fiscais, pra fazer trabalhos de prospecção e tudo mais, né?
+
+25
+00:01:07.000 --> 00:01:11.910
+Então eh, mas esse código tá vivendo com muitos problemas as notas fiscais.
+
+26
+00:01:11.919 --> 00:01:13.650
+Então, pra minimizar isso,
+
+27
+00:01:13.660 --> 00:01:16.550
+as secretarias da Fazenda passaram a validar os jeitinhos
+
+28
+00:01:16.559 --> 00:01:19.470
+que vem lá informados dos documentos fiscais eletrônicos.
+
+29
+00:01:19.480 --> 00:01:19.889
+Tá,
+
+30
+00:01:20.970 --> 00:01:25.680
+no caso de não cadastro ou em conformidade das operações? Tá? Eh,
+
+31
+00:01:26.379 --> 00:01:27.989
+essa nota fiscal vai ser rejeitada.
+
+32
+00:01:28.000 --> 00:01:29.569
+Então, se vier lá na nota fiscal,
+
+33
+00:01:29.580 --> 00:01:32.900
+um jeitinho que não tá no cadastro ou que foi conforme, por exemplo,
+
+34
+00:01:32.910 --> 00:01:35.830
+tiver o dinheiro do verificador inválido tiver uma formação
+
+35
+00:01:35.839 --> 00:01:37.709
+diferente ali dos padrões da G S um,
+
+36
+00:01:37.720 --> 00:01:38.510
+por exemplo, o prefixo.
+
+37
+00:01:38.519 --> 00:01:40.589
+Se tiver errado, o documento também é rejeitado.
+
+38
+00:01:40.599 --> 00:01:43.150
+Tá então essa que é a intenção do fisco, né?
+
+39
+00:01:43.160 --> 00:01:47.190
+Pra aumentar a qualidade das informações porque tinha um grande volume imenso,
+
+40
+00:01:47.199 --> 00:01:51.510
+volume de código GTIN na nota que não correspondia a nada, não tinha aquele produto,
+
+41
+00:01:51.519 --> 00:01:53.610
+aquele código era inexistente, tá?
+
+42
+00:01:54.620 --> 00:01:54.919
+Então?
+
+43
+00:01:54.930 --> 00:01:56.349
+Como eu disse pra vocês anteriormente,
+
+44
+00:01:56.360 --> 00:02:00.709
+é responsabilidade do dono da marca manter os dados atualizados no C, n P né.
+
+45
+00:02:00.720 --> 00:02:03.589
+Que é o cadastro nacional de produtos que abastece o C C G,
+
+46
+00:02:03.599 --> 00:02:05.550
+que é o cadastro centralizado de GTIN.
+
+47
+00:02:05.559 --> 00:02:09.110
+Tá Então o dono da marca deve manter atualizado lá no
+
+48
+00:02:09.119 --> 00:02:13.410
+cadastro do Brasil os dados corretos daquele código g TIM TÁ
+
+49
+00:02:14.369 --> 00:02:18.979
+o C N P é acessado diretamente no site da G s um disponível aos associados.
+
+50
+00:02:18.990 --> 00:02:21.699
+Então a gente tem uma interface com o C N p.
+
+51
+00:02:21.710 --> 00:02:25.490
+O associado entra lá no C N p faz a manutenção e
+
+52
+00:02:25.500 --> 00:02:28.600
+o C N p manda isso pro cadastro centralizado de GTIN.
+
+53
+00:02:28.610 --> 00:02:33.345
+Tá bom o C C G no cadastro centralizado GTi são obrigatórios os seguintes Dados, né?
+
+54
+00:02:33.354 --> 00:02:36.585
+Ou seja, o Fisco exige que seja informado o GTIN, né?
+
+55
+00:02:36.595 --> 00:02:40.184
+Claro o próprio código de barras, a marca o tipo de GTIN, né?
+
+56
+00:02:40.195 --> 00:02:43.824
+Se é oito, doze, treze ou quatorze posições, a descrição do produto,
+
+57
+00:02:43.835 --> 00:02:46.854
+os dados da classificação do produto, como segmento, família,
+
+58
+00:02:46.865 --> 00:02:48.565
+classe sobre classe do produto, né?
+
+59
+00:02:48.809 --> 00:02:54.059
+O país, né? De mercado de destino, né? O País eh primordial, né?
+
+60
+00:02:54.070 --> 00:02:55.699
+Claro que pode ter importação e tudo mais.
+
+61
+00:02:55.710 --> 00:02:58.720
+Mas, geralmente, o produto é feito com foco no mercado, Então,
+
+62
+00:02:58.729 --> 00:03:01.460
+o país foco do mercado desse produto.
+
+63
+00:03:01.470 --> 00:03:03.309
+O CEs, né, que é o código dos pescadores,
+
+64
+00:03:03.320 --> 00:03:06.259
+de substituição tributária quando esse existir, o N,
+
+65
+00:03:06.270 --> 00:03:10.860
+C M o Peso Bruto e unidade de medida do peso Bruto e uma foto do produto.
+
+66
+00:03:10.869 --> 00:03:14.360
+Tá? Então esses dados? Tem lá no no, C, c, g. Tá bom
+
+67
+00:03:14.869 --> 00:03:19.080
+Caso o GTIN não seja cadastrado com um agrupamento de produtos homogêneos, né?
+
+68
+00:03:19.089 --> 00:03:21.570
+Aquele de catorze posições que eu falei pra vocês, né?
+
+69
+00:03:21.580 --> 00:03:22.259
+Então,
+
+70
+00:03:22.270 --> 00:03:25.570
+quando for um cadastro daquele jeitinho de catorze posições daquele
+
+71
+00:03:25.580 --> 00:03:29.440
+jeitinho que ele identifica um agrupamento de outros produtos,
+
+72
+00:03:29.449 --> 00:03:30.899
+com um GTIN também, né?
+
+73
+00:03:30.910 --> 00:03:33.139
+Então, quando for esse caso do agrupamento,
+
+74
+00:03:33.479 --> 00:03:35.559
+você tem que informar no cadastro centralizado.
+
+75
+00:03:35.570 --> 00:03:38.050
+GTIN, também, qual que é o jeitinho de nível inferior, né?
+
+76
+00:03:38.059 --> 00:03:40.970
+Então, no exemplo que a gente deu quando eu cadastro lá,
+
+77
+00:03:40.979 --> 00:03:46.630
+aquele código de barras da caixa com nove latas de doce de pêssego tá,
+
+78
+00:03:46.639 --> 00:03:50.529
+Eu tenho que informar o código de barras da lata do doce de pco, né?
+
+79
+00:03:50.539 --> 00:03:53.869
+Então, eu informo na no cadastro da Caixa.
+
+80
+00:03:53.945 --> 00:03:56.404
+Eu informo que dentro daquela caixa,
+
+81
+00:03:56.414 --> 00:04:01.255
+o jeitinho de nível inferior é o jeitinho da lata de doce, de PCA, Tá bom.
+
+82
+00:04:01.264 --> 00:04:04.714
+Então eu preferi. Eu tenho que informar a quantidade também, né?
+
+83
+00:04:04.725 --> 00:04:07.395
+De itens contidos isso permite. Por exemplo, né?
+
+84
+00:04:07.404 --> 00:04:10.514
+Se você for ver no mercado, por exemplo, de comprar uma caixa,
+
+85
+00:04:10.524 --> 00:04:12.035
+sei lá de coca-cola de refrigerante,
+
+86
+00:04:12.044 --> 00:04:14.335
+cerveja ou qualquer coisa assim que vende em caixinha.
+
+87
+00:04:14.589 --> 00:04:19.519
+Se você prestar atenção, o código da Caixa é diferente do código da latim, né?
+
+88
+00:04:19.529 --> 00:04:22.200
+Tem supermercado que ele vai fazer a leitura lá ele
+
+89
+00:04:22.209 --> 00:04:25.600
+lê a latinha e joga lá doze vezes aquele item.
+
+90
+00:04:25.609 --> 00:04:29.059
+E tem supermercado que ele passa o código de barras da
+
+91
+00:04:29.070 --> 00:04:32.519
+caixa e já aparece lá no check-out que são doze latinhas.
+
+92
+00:04:32.529 --> 00:04:36.279
+Tá? É bem interessante depois que você faz esse exercício aí em casa tá bom?
+
+93
+00:04:36.290 --> 00:04:40.519
+Então eh esses dados aqui eh essas são as validações
+
+94
+00:04:40.529 --> 00:04:43.480
+que você faz faz no cadastro da realidade do GTIN,
+
+95
+00:04:43.489 --> 00:04:43.980
+né?
+
+96
+00:04:44.190 --> 00:04:49.579
+No número di GTIN vê se o de controle tá correto, Tá na descrição do produto,
+
+97
+00:04:49.589 --> 00:04:53.239
+a gente eh visa impedir classificações genéricas como
+
+98
+00:04:53.250 --> 00:04:57.750
+a definir não não informado outros disponível,
+
+99
+00:04:57.760 --> 00:04:57.880
+né?
+
+100
+00:04:57.890 --> 00:05:00.359
+Então não pode ter esse tipo de descrição genérica.
+
+101
+00:05:00.369 --> 00:05:02.559
+Tem que ser uma descrição assertiva do produto.
+
+102
+00:05:02.570 --> 00:05:07.399
+Tá inscrição do dono da marca no cadastro da Receita Federal, ou seja, CPF ou c n PJ,
+
+103
+00:05:07.410 --> 00:05:07.739
+né?
+
+104
+00:05:07.750 --> 00:05:11.899
+Então verifique se o CPF ou o c n PJ do dono da marca tá válido Tá
+
+105
+00:05:12.989 --> 00:05:19.220
+N C m A gente per si o n C m tá, né? Se existe lá na tabela N, C, m o Sest, a mesma coisa, tá
+
+106
+00:05:20.089 --> 00:05:22.440
+o código de classificação geral do produto.
+
+107
+00:05:22.450 --> 00:05:26.160
+Esse é um cadastro da G S um, que fala o segmento do produto, a família,
+
+108
+00:05:26.170 --> 00:05:27.500
+classe do produto e tudo mais.
+
+109
+00:05:27.510 --> 00:05:30.220
+Tá bom e é claro, o jeitinho de nível inferior, né?
+
+110
+00:05:30.230 --> 00:05:33.179
+Quando é um jeitinho de quatorze posições,
+
+111
+00:05:33.190 --> 00:05:35.779
+a gente exige que tenha lá o jeitinho do nível inferior.
+
+112
+00:05:35.790 --> 00:05:37.820
+Tá bem como a quantidade tá bom,
+
+113
+00:05:37.829 --> 00:05:42.100
+esses essas são as validações do nosso cadastro centralizado de GTIN.
+
+114
+00:05:42.109 --> 00:05:44.980
+Tá, então é um cadastro que recebe dados.
+
+115
+00:05:44.989 --> 00:05:49.720
+Ele é alimentado pelo Cadastro Nacional de produtos, o C N P da G S um Brasil

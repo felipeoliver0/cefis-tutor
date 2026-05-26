@@ -1,0 +1,33 @@
+{
+  "id": 457764,
+  "title": "CPC 09 – Demonstração do Valor Adicionado",
+  "position": 63,
+  "duration": 346,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ca1e6f56-669a-4a64-a8aa-75642c18b3ed/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca1e6f56-669a-4a64-a8aa-75642c18b3ed/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca1e6f56-669a-4a64-a8aa-75642c18b3ed/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca1e6f56-669a-4a64-a8aa-75642c18b3ed/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca1e6f56-669a-4a64-a8aa-75642c18b3ed/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

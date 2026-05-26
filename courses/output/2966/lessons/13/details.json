@@ -1,0 +1,33 @@
+{
+  "id": 473209,
+  "title": "Lei Complementar 87-96",
+  "position": 13,
+  "duration": 262,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/15c3727f-1d77-4361-a56c-95349e294ac8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/15c3727f-1d77-4361-a56c-95349e294ac8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/15c3727f-1d77-4361-a56c-95349e294ac8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/15c3727f-1d77-4361-a56c-95349e294ac8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/15c3727f-1d77-4361-a56c-95349e294ac8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

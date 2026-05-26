@@ -1,0 +1,33 @@
+{
+  "id": 461586,
+  "title": "Política de Crédito",
+  "position": 8,
+  "duration": 378,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a2d0afa8-4440-464b-994e-c4fa0cbd6705/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a2d0afa8-4440-464b-994e-c4fa0cbd6705/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a2d0afa8-4440-464b-994e-c4fa0cbd6705/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a2d0afa8-4440-464b-994e-c4fa0cbd6705/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a2d0afa8-4440-464b-994e-c4fa0cbd6705/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

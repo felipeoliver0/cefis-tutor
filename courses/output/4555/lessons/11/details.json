@@ -1,0 +1,33 @@
+{
+  "id": 488193,
+  "title": "Prazo prescricional",
+  "position": 11,
+  "duration": 366,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/74e60607-bd7a-4170-a9b2-9e4d690b6e26/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/74e60607-bd7a-4170-a9b2-9e4d690b6e26/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/74e60607-bd7a-4170-a9b2-9e4d690b6e26/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/74e60607-bd7a-4170-a9b2-9e4d690b6e26/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/74e60607-bd7a-4170-a9b2-9e4d690b6e26/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

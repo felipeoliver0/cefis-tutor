@@ -1,0 +1,33 @@
+{
+  "id": 464090,
+  "title": "Garantia do Juízo e Seus Efeitos",
+  "position": 14,
+  "duration": 529,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7e2eb2b2-7f62-4c92-8de1-df20d8e85ad1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e2eb2b2-7f62-4c92-8de1-df20d8e85ad1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e2eb2b2-7f62-4c92-8de1-df20d8e85ad1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e2eb2b2-7f62-4c92-8de1-df20d8e85ad1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e2eb2b2-7f62-4c92-8de1-df20d8e85ad1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

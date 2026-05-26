@@ -1,0 +1,521 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.300
+então pessoal já finalizamos o módulo um e vamos passar para o Módulo dois.
+
+2
+00:00:04.309 --> 00:00:05.380
+Nesse módulo dois,
+
+3
+00:00:05.389 --> 00:00:09.420
+a gente vai sair um pouquinho daquela parte mais teórica e
+
+4
+00:00:09.430 --> 00:00:12.850
+conceitual do documento que a gente explicou no Módulo um,
+
+5
+00:00:12.859 --> 00:00:15.819
+e vamos começar a adentrar na parte mais prática,
+
+6
+00:00:15.829 --> 00:00:18.270
+onde a gente vai ver a preparação para a emissão que
+
+7
+00:00:18.280 --> 00:00:21.889
+a empresa precisa fazer para estar apta para emitir o documento.
+
+8
+00:00:21.899 --> 00:00:23.739
+E vamos evoluindo nessa parte,
+
+9
+00:00:23.750 --> 00:00:27.500
+mais prática até chegar no final do curso onde vamos fazer a parte.
+
+10
+00:00:27.510 --> 00:00:30.504
+Cem, prática, que é de documentos fiscais? Tá?
+
+11
+00:00:30.514 --> 00:00:33.965
+Então, vamos agora ver como que a gente faz a preparação pra emissão.
+
+12
+00:00:33.974 --> 00:00:38.944
+O que que a empresa precisa pra preparar a emissão da nota fiscal? Eletrônica, né?
+
+13
+00:00:38.955 --> 00:00:42.404
+Então isso leva a nossa questão. O que é preciso pra emitir a nota fiscal?
+
+14
+00:00:42.415 --> 00:00:44.505
+A gente já sabe o que é o documento, né?
+
+15
+00:00:44.514 --> 00:00:46.544
+A gente já sabe em que situação nós vamos
+
+16
+00:00:46.555 --> 00:00:49.784
+usar de obrigatoriedade as informações que podemos colocar,
+
+17
+00:00:49.794 --> 00:00:52.705
+mas assim, o que é preciso, prati o documento,
+
+18
+00:00:52.715 --> 00:00:54.544
+e é isso que nós vamos ver nesse módulo dois.
+
+19
+00:00:54.555 --> 00:00:57.805
+Tá bom. Começamos pela emissão da nota.
+
+20
+00:00:58.029 --> 00:01:01.599
+A gente vai falar o que é necessário pra emitir o documento Tá bom,
+
+21
+00:01:01.610 --> 00:01:05.559
+a gente precisa do que a gente precisa de um certificado digital.
+
+22
+00:01:05.569 --> 00:01:09.080
+Tá pra acessar o serviço online. Por exemplo. O credenciamento tá bom.
+
+23
+00:01:09.089 --> 00:01:11.220
+Então a primeira coisa que a gente tem que ter em
+
+24
+00:01:11.230 --> 00:01:14.559
+mente é que a gente precisa um certificado di digital.
+
+25
+00:01:14.569 --> 00:01:16.879
+Nós vamos discorrer mais profundamente sobre
+
+26
+00:01:16.889 --> 00:01:18.199
+o certificado digital do que pouquinho,
+
+27
+00:01:18.209 --> 00:01:20.180
+tá bom, mas a primeira coisa é o que?
+
+28
+00:01:20.190 --> 00:01:21.540
+Certificado digital,
+
+29
+00:01:22.319 --> 00:01:28.250
+depois a gente coloca aqui testes, Tá o teste pessoal, Ele é opcional,
+
+30
+00:01:28.260 --> 00:01:30.010
+ele não é necessário, tá.
+
+31
+00:01:30.019 --> 00:01:35.250
+Ele é opcional, não é obrigatório, mas a gente recomenda bastante, fazer teste.
+
+32
+00:01:35.260 --> 00:01:38.769
+Por que o teste? Você tem a oportunidade de errar?
+
+33
+00:01:38.779 --> 00:01:42.169
+Se você tem a oportunidade de aprender muito, fazendo os testes, tá,
+
+34
+00:01:42.180 --> 00:01:45.373
+a gente tem nota fiscal eletrônico, um ambiente próprio para teste,
+
+35
+00:01:45.383 --> 00:01:49.532
+onde o contribuinte pode fazer os seus testes, todos com calma.
+
+36
+00:01:49.542 --> 00:01:53.612
+Pode errar a vontade, porque esse ambiente, ele é feito somente pra teste.
+
+37
+00:01:53.623 --> 00:01:56.733
+O que é feito nesse ambiente não tem validade nenhuma.
+
+38
+00:01:56.742 --> 00:02:01.013
+Então a gente recomenda muito fazer teste, especialmente o pessoal,
+
+39
+00:02:01.023 --> 00:02:03.593
+que vai fazer programação do sistema de computação.
+
+40
+00:02:03.685 --> 00:02:07.176
+Anota, às vezes tem um funcionário novo entrando no setor.
+
+41
+00:02:07.185 --> 00:02:09.815
+Você pode colocar aí no ambiente de teste pra fazer
+
+42
+00:02:09.826 --> 00:02:12.615
+teste e aprender emitir o documento de vez em quando.
+
+43
+00:02:12.626 --> 00:02:14.996
+A nota fiscal eletrônica tem alterações de versão e
+
+44
+00:02:15.005 --> 00:02:17.576
+tudo mais nessas coisas de sistemas de computação.
+
+45
+00:02:17.585 --> 00:02:21.416
+O sistema de teste também é um lugar próprio pra você fazer os testes,
+
+46
+00:02:21.425 --> 00:02:24.276
+os ajustes necessários pra emissão do documento Tá bom
+
+47
+00:02:25.570 --> 00:02:28.300
+pessoal, Credenciamento tá o credenciamento.
+
+48
+00:02:28.309 --> 00:02:30.300
+Ele é necessário pra você emitir o documento, né?
+
+49
+00:02:30.309 --> 00:02:32.820
+Conforme fala lá no ajuste C N F número sete,
+
+50
+00:02:32.830 --> 00:02:36.660
+dois mil e cinco tá e verifique junto ao seu estado se é necessário.
+
+51
+00:02:36.669 --> 00:02:40.199
+Tem estado pessoal que faz o credenciamento de ofício. O que que é isso?
+
+52
+00:02:40.210 --> 00:02:41.300
+Toda empresa?
+
+53
+00:02:41.309 --> 00:02:42.899
+No momento que ela é constituída,
+
+54
+00:02:42.910 --> 00:02:45.220
+ela já está apta pra emitir a nota fiscal eletrônica.
+
+55
+00:02:45.229 --> 00:02:49.139
+Tá, tem outros estados que você precisa entrar no site do Estado, né?
+
+56
+00:02:49.149 --> 00:02:53.520
+E dar uma sinalização na olha estado Eu vou fazer a emissão do meu documento. Tá?
+
+57
+00:02:53.529 --> 00:02:54.940
+Os estados que fazem isso?
+
+58
+00:02:54.949 --> 00:02:58.279
+Pessoal, verificam se você é uma empresa que está apta, né?
+
+59
+00:02:58.289 --> 00:03:01.720
+Se você não está em situação irregular, por exemplo,
+
+60
+00:03:01.729 --> 00:03:04.300
+o credenciamento dos documentos de transporte verifica se a
+
+61
+00:03:04.309 --> 00:03:06.600
+empresa é realmente é uma empresa de transporte tá?
+
+62
+00:03:06.610 --> 00:03:07.000
+Então,
+
+63
+00:03:07.009 --> 00:03:09.520
+o credenciamento é uma fase que você passa
+
+64
+00:03:09.529 --> 00:03:11.440
+por alguma validação básica ali do Estado,
+
+65
+00:03:11.449 --> 00:03:14.320
+tá pra fazer a emissão do seu documento?
+
+66
+00:03:14.330 --> 00:03:14.979
+Tá bom?
+
+67
+00:03:15.550 --> 00:03:16.279
+E, é claro,
+
+68
+00:03:16.289 --> 00:03:19.399
+a nota fiscal eletrônica é como eu falei aqui pra
+
+69
+00:03:19.410 --> 00:03:24.570
+vocês várias vezes um documento eletrônico de existência apenas digital,
+
+70
+00:03:24.580 --> 00:03:28.949
+com assinatura digital pra eu fazer esses documentos eletrônicos
+
+71
+00:03:28.960 --> 00:03:31.320
+Pra eu fazer uma assinatura digital eu preciso,
+
+72
+00:03:31.330 --> 00:03:33.360
+é claro, de uma estrutura tecnológica.
+
+73
+00:03:33.369 --> 00:03:36.679
+Não tem jeito de eu fazer um arquivo digital, uma assinatura digital,
+
+74
+00:03:36.690 --> 00:03:40.300
+sem uma adequada estrutura tecnológica, né?
+
+75
+00:03:42.080 --> 00:03:44.889
+A gente vai ver agora essa estrutura tecnológica, né?
+
+76
+00:03:44.899 --> 00:03:47.369
+O que que a gente precisa pra emitir a
+
+77
+00:03:47.380 --> 00:03:50.169
+nota fiscal eletrônica em termos de estrutura tecnológica?
+
+78
+00:03:50.179 --> 00:03:53.410
+Né? Pessoal? A gente precisa de um computador, né?
+
+79
+00:03:53.419 --> 00:03:54.169
+Então,
+
+80
+00:03:54.179 --> 00:03:57.729
+o computador que ele tem a funcionalidade de ter esse
+
+81
+00:03:57.740 --> 00:04:03.369
+sistema de informação instalado nele ele vai fazer assinatura digital,
+
+82
+00:04:03.380 --> 00:04:06.770
+ele vai ficar lá gerenciando o seu certificado digital, né?
+
+83
+00:04:06.779 --> 00:04:08.910
+Então, a gente precisa de um computador.
+
+84
+00:04:09.470 --> 00:04:13.339
+Mas vocês lembram que quando eu mostrei pra vocês as oportunidades agora há pouco,
+
+85
+00:04:13.350 --> 00:04:13.720
+né?
+
+86
+00:04:13.729 --> 00:04:15.850
+Eu mostrei pra vocês lá a oportunidade
+
+87
+00:04:15.860 --> 00:04:18.399
+do restaurante oportunidade da loja de sapato.
+
+88
+00:04:18.410 --> 00:04:23.200
+Então esse computador pode ser um tablet pode ser um celular, né?
+
+89
+00:04:23.209 --> 00:04:27.000
+Pode ser um computador autônomo, pode ser uma grande rede de computadores, né?
+
+90
+00:04:27.010 --> 00:04:31.000
+Então, o computador, né? Que pode também ser uma estrutura móvel?
+
+91
+00:04:31.010 --> 00:04:32.660
+É a primeira coisa necessária?
+
+92
+00:04:32.869 --> 00:04:34.700
+Esse computador vai ter. O que vai ter?
+
+93
+00:04:34.709 --> 00:04:38.160
+O certificado digital que eu falei pra vocês que é a coisa mais importante, né?
+
+94
+00:04:38.170 --> 00:04:42.200
+O certificado digital pode ter em nuvem? Pode ser o certificado modelo um a três.
+
+95
+00:04:42.209 --> 00:04:47.859
+Vamos ver daqui a pouco tá, a gente pode ter um sistema emissor neste computador, né?
+
+96
+00:04:47.869 --> 00:04:52.059
+A gente precisa de um sistema pra fazer esse digital comunicação com o Fisco,
+
+97
+00:04:52.070 --> 00:04:53.519
+transmissão de arquivo e tudo mais.
+
+98
+00:04:53.529 --> 00:04:54.119
+Tá bom!
+
+99
+00:04:54.130 --> 00:05:00.179
+Então a gente precisa de um computador que que a gente precisa mais internet, né?
+
+100
+00:05:00.190 --> 00:05:02.019
+Internet a gente precisa por quê
+
+101
+00:05:02.660 --> 00:05:06.350
+O documento precisa estar autorizado no site do Fisco? Né?
+
+102
+00:05:06.359 --> 00:05:09.010
+Como que esse documento vai chegar lá no site do Fisco?
+
+103
+00:05:09.019 --> 00:05:10.350
+Ele vai chegar pela internet,
+
+104
+00:05:10.359 --> 00:05:12.910
+você vai fazer a transmissão desse documento via internet.
+
+105
+00:05:12.920 --> 00:05:18.070
+Tá bom. É bom a gente pensar no seguinte o a nota fiscal eletrônica.
+
+106
+00:05:18.079 --> 00:05:21.309
+Ela é um arquivo com estrutura muito pequena
+
+107
+00:05:21.320 --> 00:05:23.429
+nesses termos de padrão atual de internet,
+
+108
+00:05:23.440 --> 00:05:23.690
+né?
+
+109
+00:05:23.980 --> 00:05:26.390
+Então você não precisa ter uma internet banda
+
+110
+00:05:26.399 --> 00:05:28.950
+larga ou uma internet de grande capacidade.
+
+111
+00:05:28.959 --> 00:05:33.130
+Um Acesso três g um acesso quatro g funciona muito bem,
+
+112
+00:05:33.140 --> 00:05:35.070
+transmite o arquivo sem problema nenhum.
+
+113
+00:05:35.079 --> 00:05:38.149
+Então você precisa ter uma internet e lembrando mais uma
+
+114
+00:05:38.160 --> 00:05:41.920
+vez não precisa ser uma internet de grande capacidade,
+
+115
+00:05:41.929 --> 00:05:42.450
+Tá bom
+
+116
+00:05:43.160 --> 00:05:48.450
+E você precisa de uma impressora que vai ser utilizado pra imprimir o nosso DANF?
+
+117
+00:05:48.459 --> 00:05:51.649
+Nosso documento auxiliar da nota fiscal eletrônica Tá bom,
+
+118
+00:05:51.660 --> 00:05:56.649
+eu falei pra vocês que tem situações onde a impressão do DANF é dispensada,
+
+119
+00:05:56.660 --> 00:06:00.170
+A gente tá caminhando pra um futuro, onde o Duff não será necessário Tá.
+
+120
+00:06:00.179 --> 00:06:05.049
+Então, se a sua empresa for emitir o DF, é claro você precisa de uma impressora, né?
+
+121
+00:06:05.059 --> 00:06:08.850
+Pessoal, pra gente discorrer um pouco sobre essa estrutura aqui, né?
+
+122
+00:06:08.859 --> 00:06:10.230
+A gente tá vendo o quê?
+
+123
+00:06:10.890 --> 00:06:15.420
+Que não é uma estrutura complexa, é uma estrutura bastante simples.
+
+124
+00:06:15.429 --> 00:06:20.739
+A gente pode considerar que todas as empresas hoje, né, contam com isso, né?
+
+125
+00:06:20.750 --> 00:06:25.380
+Hoje você chega num restaurante, você chega numa loja, em todo lugar que você chega,
+
+126
+00:06:25.390 --> 00:06:27.579
+todo ambiente de negócio já tem
+
+127
+00:06:27.589 --> 00:06:30.059
+uma estrutura tecnológica aplicada naquele ambiente.
+
+128
+00:06:30.070 --> 00:06:33.420
+Então é uma estrutura tecnológica simples e uma estrutura
+
+129
+00:06:33.429 --> 00:06:35.899
+tecnológica que não é cara para o contribuinte,
+
+130
+00:06:35.910 --> 00:06:36.760
+principalmente Tá

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2427,
+    "title": "Tributação monofásica",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de tributação monofásica você aprenderá  desde as características de um produto monofásico e entenderá como saber se o produto é monofásico, como funciona a tributação, como calcular o Simples Nacional com PIS/COFINS monofásico por produto, casos práticos e muito mais para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/024ac311ae5b2e5b77f062529d2e13cc1728385979.jpg",
+    "goals": [
+      "Demonstrar desde as características de um produto monofásico e entenderá como saber se o produto é monofásico, como funciona a tributação, como calcular o Simples Nacional com PIS/COFINS monofásico por produto, casos práticos e muito mais para colocar em prática os conhecimentos"
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 2688,
+    "keywords": "tributação;monofásico;monofásica",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 10,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 929,
+    "averageRating": 9.35,
+    "practiceAverage": 9.33,
+    "trailer": {
+      "id": "a21180c8-7de8-4729-887d-5186ea7355de",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a21180c8-7de8-4729-887d-5186ea7355de/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a21180c8-7de8-4729-887d-5186ea7355de/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a21180c8-7de8-4729-887d-5186ea7355de/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a21180c8-7de8-4729-887d-5186ea7355de/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-01-07T23:03:34.000Z",
+      "updatedAt": "2023-01-07T23:03:33.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-01-20T13:22:00.000Z",
+    "recordedAt": "2022-12-19T00:00:00.000Z",
+    "createdAt": "2022-12-26T12:38:03.000Z"
+  }
+}

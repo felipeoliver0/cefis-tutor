@@ -1,0 +1,33 @@
+{
+  "id": 474425,
+  "title": "Malha fiscal",
+  "position": 3,
+  "duration": 471,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a6b97fda-1308-4a06-9924-f70cfe0275dc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a6b97fda-1308-4a06-9924-f70cfe0275dc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a6b97fda-1308-4a06-9924-f70cfe0275dc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a6b97fda-1308-4a06-9924-f70cfe0275dc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a6b97fda-1308-4a06-9924-f70cfe0275dc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

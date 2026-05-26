@@ -1,0 +1,33 @@
+{
+  "id": 484744,
+  "title": "DRA",
+  "position": 46,
+  "duration": 518,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4ddd0553-2523-44f3-b7d5-7ebd7bec1ff7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4ddd0553-2523-44f3-b7d5-7ebd7bec1ff7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4ddd0553-2523-44f3-b7d5-7ebd7bec1ff7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4ddd0553-2523-44f3-b7d5-7ebd7bec1ff7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4ddd0553-2523-44f3-b7d5-7ebd7bec1ff7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

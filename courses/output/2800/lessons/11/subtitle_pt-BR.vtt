@@ -1,0 +1,357 @@
+WEBVTT
+
+1
+00:00:00.430 --> 00:00:04.360
+exatamente então dentro desse ardor X Max, eu tenho uma única máquina virtual.
+
+2
+00:00:04.369 --> 00:00:12.880
+Deixa eu só abrir o outro aqui, só pra mostrar um que tem várias. É essa
+
+3
+00:00:14.720 --> 00:00:15.239
+aqui
+
+4
+00:00:16.250 --> 00:00:17.639
+nossa Cagado, que eu quis
+
+5
+00:00:18.469 --> 00:00:18.840
+aqui.
+
+6
+00:00:18.850 --> 00:00:22.100
+Ele já traz a lista aqui das máquinas virtuais que tão rodando aqui oh,
+
+7
+00:00:22.110 --> 00:00:25.340
+vocês podem ver que essa aqui tem várias Oh, deixa eu abrir aqui do lado aqui.
+
+8
+00:00:26.190 --> 00:00:31.299
+Então tá aqui, oh estúdios aqui, Oh clicar nela aqui.
+
+9
+00:00:35.169 --> 00:00:40.180
+A memória aqui tá estourada. Três ponto setenta e um de quatro.
+
+10
+00:00:40.189 --> 00:00:45.990
+Uma aplicação que não faz nada. O c p u aqui tá doze dez por cento.
+
+11
+00:00:46.000 --> 00:00:56.040
+Tá de boa c p u pra um v, c, p u é uma de um do C, P u. Não é nem um exatamente
+
+12
+00:00:56.299 --> 00:00:59.909
+cara, Mas a memória tá tá aqui, né?
+
+13
+00:00:59.919 --> 00:01:04.970
+Lembra que tava com dois giga até pouco tempo Essa máquina agora tá estranho,
+
+14
+00:01:04.980 --> 00:01:05.589
+não sei.
+
+15
+00:01:05.599 --> 00:01:17.680
+Então aqui tem a mesma coisa. Tráfego tem uso de memória de c, p u, tudo tudo aqui.
+
+16
+00:01:18.580 --> 00:01:24.190
+Falta ocupando memória, Tá dando memória que, carregando memória, limpando.
+
+17
+00:01:24.199 --> 00:01:28.849
+Eu sei que tinha uns lugar que tava dando memória em Ah, em evento
+
+18
+00:01:29.319 --> 00:01:33.809
+eu já tinha feito bastante o evento sobre o evento não
+
+19
+00:01:33.819 --> 00:01:39.889
+limpa os eventos anteriores e tá então aqui no gerenciamento.
+
+20
+00:01:39.900 --> 00:01:43.610
+Eu tenho acesso a tudo dessa máquina aqui que tá rodando aqui
+
+21
+00:01:43.620 --> 00:01:46.129
+eu voltei de novo pro C PS Live aqui vou deixar,
+
+22
+00:01:46.139 --> 00:01:47.889
+eu só quis mostrar que esse aqui é uma máquina
+
+23
+00:01:47.900 --> 00:01:51.669
+que tem vários várias máquinas virtuais rodando nela aqui.
+
+24
+00:01:52.260 --> 00:01:58.510
+Então vou fechar aqui eu ia falar onde que mostra o aqui.
+
+25
+00:01:58.519 --> 00:02:00.769
+Cê não consegue ver aí cê tem que acessar a máquina virtual
+
+26
+00:02:01.540 --> 00:02:07.110
+nesse monitoramento aqui Cê não vai ver o swap de cada de cada máquina.
+
+27
+00:02:07.120 --> 00:02:07.410
+Ah,
+
+28
+00:02:07.419 --> 00:02:15.199
+isso isso isso era do servidor físico aqui do sp exatamente então beleza aqui eu
+
+29
+00:02:15.210 --> 00:02:20.889
+voltei aqui pro pro C fiz Live aqui nas configurações eu tenho tudo oh,
+
+30
+00:02:20.899 --> 00:02:24.809
+eu tenho o backup dessa máquina eu tenho o hardware que tá,
+
+31
+00:02:24.820 --> 00:02:26.630
+qual que é o hardware dessa máquina virtual?
+
+32
+00:02:26.639 --> 00:02:29.850
+Tá aqui oh cinquenta e seis giga de R a vinte Processador
+
+33
+00:02:30.220 --> 00:02:35.990
+Qual? Que é o a bios que ela tá citada? Qual que é o HD que tá conectado nela?
+
+34
+00:02:36.000 --> 00:02:38.929
+Quantas interfaces de rede que tem nessa máquina?
+
+35
+00:02:39.639 --> 00:02:41.410
+Ah, quero adicionar um disco,
+
+36
+00:02:41.419 --> 00:02:45.089
+Adicionar que que eu quero adicionar nessa máquina virtual um disco,
+
+37
+00:02:45.100 --> 00:02:50.330
+uma placa de rede, uma porta USB, uma porta serial, enfim,
+
+38
+00:02:50.339 --> 00:02:51.809
+tá vendo é tudo interface aqui.
+
+39
+00:02:51.820 --> 00:02:58.270
+Facílimo é exatamente exatamente é isso.
+
+40
+00:02:58.354 --> 00:03:02.565
+Mas beleza assim não, não vou passar de tudo aqui porque nós não vamos perder,
+
+41
+00:03:02.574 --> 00:03:02.845
+nós tem.
+
+42
+00:03:02.854 --> 00:03:05.925
+Mas o que que a gente quer fazer aqui? Criar uma máquina virtual?
+
+43
+00:03:05.934 --> 00:03:10.044
+Olha aqui o botão que tá sempre disponível aqui, criar a
+
+44
+00:03:10.625 --> 00:03:16.255
+máquina virtual, não.
+
+45
+00:03:16.574 --> 00:03:25.585
+Esses discos são discos físicos ainda só pro CD n exatamente
+
+46
+00:03:25.839 --> 00:03:31.449
+exatamente pra gente ter todos os benefícios lá da redundância da escalabilidade,
+
+47
+00:03:31.460 --> 00:03:34.250
+os discos das máquinas virtuais dos prox.
+
+48
+00:03:34.259 --> 00:03:38.529
+Por enquanto, é o disco que tá dentro do próprio servidor do prox.
+
+49
+00:03:38.539 --> 00:03:40.850
+Então todos os servidores tem o disco lá e
+
+50
+00:03:40.860 --> 00:03:42.389
+a gente tá usando esses discos Por enquanto.
+
+51
+00:03:43.880 --> 00:03:48.130
+Então, beleza criar a máquina virtual, cliquei no botão lá, ele abrir aqui,
+
+52
+00:03:48.139 --> 00:03:48.770
+Então é isso aqui.
+
+53
+00:03:48.779 --> 00:03:50.089
+Se eu precisar de ajuda em alguma coisa,
+
+54
+00:03:50.100 --> 00:03:54.210
+tem uma documentação gigante do pro XX por ele ser muito usado.
+
+55
+00:03:54.220 --> 00:03:56.529
+Tá, Tem muito vídeo no youtube tem.
+
+56
+00:03:56.539 --> 00:04:00.309
+Tem tanto vídeo que nem nem é só de indiano, tem de todos os tipos.
+
+57
+00:04:00.979 --> 00:04:04.949
+É exatamente então aqui, vou criar a minha máquina virtual.
+
+58
+00:04:04.960 --> 00:04:07.910
+Eu seleciono qual que é o servidor do meu Data Center.
+
+59
+00:04:07.919 --> 00:04:10.110
+Como aqui eu só tenho um é esse aqui mesmo.
+
+60
+00:04:10.119 --> 00:04:11.929
+Ele mostra aqui como é que tá o uso de recursos
+
+61
+00:04:12.809 --> 00:04:18.358
+o i D. Da máquina virtual. Então ele deixa você acertar um d esse d aqui é o único.
+
+62
+00:04:18.369 --> 00:04:22.660
+Isso aqui faz parte do K V M. Geralmente, a gente vai usar cento sequencial.
+
+63
+00:04:22.670 --> 00:04:24.779
+Então aqui, por exemplo, eu vou usar cento e quinze.
+
+64
+00:04:24.790 --> 00:04:26.679
+O último foi cento e quatorze ali, né?
+
+65
+00:04:28.019 --> 00:04:30.070
+Tem um jeito disso aqui ser automático, mas eu não,
+
+66
+00:04:30.079 --> 00:04:33.420
+não tive tempo de pesquisar sobre isso ainda o nome da marca virtual,
+
+67
+00:04:33.429 --> 00:04:34.850
+vamos dar um nome aqui.
+
+68
+00:04:35.440 --> 00:04:37.709
+Vamos colocar aqui.
+
+69
+00:04:38.779 --> 00:04:40.529
+Eh vem,
+
+70
+00:04:41.450 --> 00:04:43.059
+pode ser Uai,
+
+71
+00:04:44.630 --> 00:04:47.459
+chamada
+
+72
+00:04:48.209 --> 00:04:49.109
+de
+
+73
+00:04:49.640 --> 00:04:59.970
+S. Então agora não tá bom, aí sim
+
+74
+00:05:01.649 --> 00:05:04.640
+vi isso então beleza esse aqui vai ser o nome
+
+75
+00:05:05.350 --> 00:05:08.540
+eh expulso aqui. Não precisa configurar nada.
+
+76
+00:05:09.649 --> 00:05:10.480
+Next
+
+77
+00:05:12.209 --> 00:05:16.670
+qual que é o sistema operacional que vai? Tá sendo utilizado aqui? Olha o que?
+
+78
+00:05:16.679 --> 00:05:19.200
+Que fácil quero usar uma imagem ISO,
+
+79
+00:05:19.839 --> 00:05:23.149
+quais imagens risos que já estão dentro do meu Xbox?
+
+80
+00:05:24.339 --> 00:05:27.149
+Já tem um nta aqui. Olha aqui pronto, já configurei qual?
+
+81
+00:05:27.160 --> 00:05:30.470
+Que é o sistema operacional que vai rodar? Olha que fácil é a mesma coisa w S.
+
+82
+00:05:30.480 --> 00:05:33.170
+Cê não vai lá e seleciona que isso aqui é o! É a mesma coisa,
+
+83
+00:05:33.859 --> 00:05:38.709
+mais bonito Dark ainda tem uma dark pronto já
+
+84
+00:05:38.720 --> 00:05:43.429
+ganhou todo mundo tem uma dar exatamente então aqui,
+
+85
+00:05:43.440 --> 00:05:46.269
+se eu for rodar um bu doze não sei porque eu faria isso.
+
+86
+00:05:46.279 --> 00:05:51.489
+Eu ponho o carne antigo, né? Então eu deixo do carne novo
+
+87
+00:05:52.220 --> 00:05:54.190
+aqui há algumas definições do sistema.
+
+88
+00:05:54.200 --> 00:05:58.869
+Ah, eu quero colocar aqui alguma placa gráfica aqui configurada, enfim,
+
+89
+00:05:58.880 --> 00:05:59.970
+geralmente não.

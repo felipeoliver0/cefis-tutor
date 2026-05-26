@@ -1,0 +1,33 @@
+{
+  "id": 461846,
+  "title": "Preenchimento do formulário",
+  "position": 4,
+  "duration": 405,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/207eb2a1-f2f2-49ed-9ee9-788c5bf42805/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/207eb2a1-f2f2-49ed-9ee9-788c5bf42805/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/207eb2a1-f2f2-49ed-9ee9-788c5bf42805/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/207eb2a1-f2f2-49ed-9ee9-788c5bf42805/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/207eb2a1-f2f2-49ed-9ee9-788c5bf42805/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

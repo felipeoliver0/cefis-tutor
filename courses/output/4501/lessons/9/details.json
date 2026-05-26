@@ -1,0 +1,33 @@
+{
+  "id": 487830,
+  "title": "Questão 7 - Estrutura conceitual para relatório financeiro",
+  "position": 9,
+  "duration": 321,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/425e1db8-bad5-416a-9d04-a9802df55185/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/425e1db8-bad5-416a-9d04-a9802df55185/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/425e1db8-bad5-416a-9d04-a9802df55185/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/425e1db8-bad5-416a-9d04-a9802df55185/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/425e1db8-bad5-416a-9d04-a9802df55185/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

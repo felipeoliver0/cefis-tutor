@@ -1,0 +1,157 @@
+WEBVTT
+
+1
+00:00:00.100 --> 00:00:00.469
+pessoal.
+
+2
+00:00:00.479 --> 00:00:05.510
+Agora eu vim falar só rapidamente da assinatura digital do nota Fiscal Fácil.
+
+3
+00:00:05.519 --> 00:00:10.630
+Então o contribuinte, ele gera e assina um pedido de documento fiscal eletrônico,
+
+4
+00:00:10.640 --> 00:00:10.789
+né?
+
+5
+00:00:10.800 --> 00:00:14.550
+Ali no no seu aplicativo Tá essa assinatura não
+
+6
+00:00:14.560 --> 00:00:16.969
+é feita com o certificado do C P Brasil.
+
+7
+00:00:16.979 --> 00:00:21.510
+Ela é feita com a chave que existe entre lá o portal da SEFA, do tal do Rio Grande do Sul,
+
+8
+00:00:21.520 --> 00:00:22.190
+e o aplicativo.
+
+9
+00:00:22.200 --> 00:00:25.940
+Então ele gera uma chave ali e faz uma assinatura entre que
+
+10
+00:00:25.950 --> 00:00:29.370
+essa comunicação entre o aplicativo e o portal da nota fiscal fácil.
+
+11
+00:00:29.690 --> 00:00:33.220
+Aí, quando esse pedido chega lá no no no portal da Nota Fiscal Fácil,
+
+12
+00:00:33.229 --> 00:00:33.919
+lá no Rio Grande do Sul,
+
+13
+00:00:33.930 --> 00:00:38.270
+eu contei pra vocês que a cepa virtual transforma o pedido em um documento fiscal.
+
+14
+00:00:38.279 --> 00:00:41.680
+A hora que isso é feito a hora que gera seu documento fiscal.
+
+15
+00:00:41.689 --> 00:00:45.319
+A SEFA Virtual assina o documento com certificado digital
+
+16
+00:00:45.330 --> 00:00:47.580
+e I C P Brasil da SEFA Virtual.
+
+17
+00:00:47.590 --> 00:00:47.959
+Tá
+
+18
+00:00:48.200 --> 00:00:49.290
+essa sistemática?
+
+19
+00:00:49.299 --> 00:00:52.930
+Ela se assemelha muito a emissão de uma nota fiscal avulsa, por exemplo, né?
+
+20
+00:00:52.939 --> 00:00:56.130
+A nota fiscal avulsa é feita desse jeito O contribuinte faz a solicitação.
+
+21
+00:00:56.139 --> 00:00:58.650
+Mas o Fisco, que assina o nosso fiscal fácil,
+
+22
+00:00:58.659 --> 00:01:01.580
+funciona da seguinte da da mesma maneira tá.
+
+23
+00:01:01.590 --> 00:01:04.129
+E por que que é importante a gente saber isso?
+
+24
+00:01:04.138 --> 00:01:08.110
+Porque pra todos os outros documentos fiscais eletrônicos eu vou emitir um C t r
+
+25
+00:01:08.120 --> 00:01:12.589
+se eu vou emitir uma nota fiscal FA do nota fiscal do consumidor eletrônico.
+
+26
+00:01:12.800 --> 00:01:16.010
+Se eu vou emitir o MD F e todos os outros documentos,
+
+27
+00:01:16.019 --> 00:01:20.209
+o contribuinte precisa primeiramente adquirir um certificado digital.
+
+28
+00:01:20.220 --> 00:01:22.080
+Tá? E na nota fiscal fácil? Não.
+
+29
+00:01:22.089 --> 00:01:25.050
+Ele não precisa adquirir certificado digital nenhum,
+
+30
+00:01:25.059 --> 00:01:29.370
+porque a assinatura C P Brasil que vai no documento é da Sefa Virtual,
+
+31
+00:01:29.379 --> 00:01:30.410
+do Rio Grande do Sul.
+
+32
+00:01:30.419 --> 00:01:32.669
+Tá do aplicativo do celular!
+
+33
+00:01:32.769 --> 00:01:35.330
+E a se fase virtual do Rio Grande do Sul é feita por um achado
+
+34
+00:01:35.339 --> 00:01:39.819
+de criptografia que existe entre a se fase virtual e o aplicativo do contribuinte.
+
+35
+00:01:39.830 --> 00:01:42.540
+Tá bom? Então só recapitulando aqui!
+
+36
+00:01:42.550 --> 00:01:45.040
+Nota Fiscal fácil O contribuinte que vai emitir
+
+37
+00:01:45.050 --> 00:01:47.610
+o documento não precisa comprar o certificado digital,
+
+38
+00:01:47.620 --> 00:01:47.819
+né?
+
+39
+00:01:47.830 --> 00:01:52.680
+Já é mais uma facilitação, além de ser uma economia pro contribuinte. Okay

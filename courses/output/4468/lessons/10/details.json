@@ -1,0 +1,33 @@
+{
+  "id": 487297,
+  "title": "Dependentes",
+  "position": 10,
+  "duration": 312,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/f7a6d37f-b521-495b-92a1-c3420d04dce5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7a6d37f-b521-495b-92a1-c3420d04dce5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7a6d37f-b521-495b-92a1-c3420d04dce5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7a6d37f-b521-495b-92a1-c3420d04dce5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7a6d37f-b521-495b-92a1-c3420d04dce5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

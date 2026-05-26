@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3974,
+    "title": "Sucesso organizacional",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso Sucesso organizacional: curso pratico, você irá aprender na prática tudo o que precisa saber sobre sucesso organizacional. Aprenderá os fundamentos e a prática de construir uma cultura forte, gerenciar recursos de forma eficiente e inovar constantemente, além de aprender a lidar com os ciclos cada vez mais curtos e a adotar diferentes tecnologias de forma rápida, formando organizações preparadas para crescer com solidez e alcançar resultados duradouros.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/9c3ab057-341c-4540-a909-651db545330e-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Sucesso organizacional  é a capacitação para a aplicação prática da construção de uma cultura forte, da gestão eficiente, da inovação constante e da capacidade de adaptação ao mercado, formando organizações preparadas para crescer com solidez e alcançar resultados duradouros."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 4731,
+    "keywords": "sucesso;organizacional",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 68,
+    "averageRating": 9.19,
+    "practiceAverage": 9.08,
+    "trailer": {
+      "id": "e5fadb91-42ba-4bc8-997e-b9a58b003d6a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e5fadb91-42ba-4bc8-997e-b9a58b003d6a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e5fadb91-42ba-4bc8-997e-b9a58b003d6a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e5fadb91-42ba-4bc8-997e-b9a58b003d6a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e5fadb91-42ba-4bc8-997e-b9a58b003d6a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-13T11:02:53.000Z",
+      "updatedAt": "2025-10-13T11:02:52.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-13T15:37:48.000Z",
+    "recordedAt": "2025-09-18T00:00:00.000Z",
+    "createdAt": "2025-09-17T01:54:03.000Z"
+  }
+}

@@ -1,0 +1,417 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:12.000
+E como que fica o recibo de pagamento de um trabalhador que ganha 6 mil reais, se ele usar como dedução legal o INSS, dependente, como que ficaria?
+
+3
+00:00:12.000 --> 00:00:25.500
+Eu tenho aqui esse exemplo, o trabalhador ganha 6 mil reais, o INSS deu 641,51 e o imposto de renda está batendo 564,85. Vamos ver como é que fica?
+
+4
+00:00:25.500 --> 00:00:39.000
+Aqui, pessoal, a fórmula. Eu tenho a base de cálculo atual, salário, vou diminuir o INSS, cheguei à base de cálculo do IR. Vocês podem ver que ultrapassou 5 mil reais, então vamos ter que apurar o cálculo, certo?
+
+5
+00:00:39.000 --> 00:00:51.500
+5.358,49 de base de IR, eu vou aplicar 27,5%, que vai dar 1.473,58 e vou reduzir 908,73.
+
+6
+00:00:51.500 --> 00:00:55.500
+Automaticamente eu chego ao valor de 564,85.
+
+7
+00:00:55.500 --> 00:01:02.500
+Então aqui é a fórmula para que você possa praticar e identificar a apuração no seu IR.
+
+8
+00:01:02.500 --> 00:01:14.500
+Tenho esse valor, ok, eu vou fazer agora uma simulação com os mesmos dados de recibo, só que utilizando desconto simplificado, para saber se é mais benéfico para o empregado ou não.
+
+9
+00:01:14.500 --> 00:01:18.500
+Aqui, pessoal, nessa fórmula, o que a gente consegue identificar?
+
+10
+00:01:18.500 --> 00:01:25.500
+6 mil menos o desconto simplificado, 5.392,80, a base de cálculo para o IR.
+
+11
+00:01:25.500 --> 00:01:33.500
+Se eu aplicar a tabela do IR, consequentemente, eu vou ter um imposto de renda de 5,74,29.
+
+12
+00:01:33.500 --> 00:01:36.500
+E agora, o que ficou melhor para o empregado?
+
+13
+00:01:36.500 --> 00:01:45.500
+Usar os descontos legais, as deduções legais, ou usar o desconto simplificado, que hoje está no valor de 607,20.
+
+14
+00:01:45.500 --> 00:01:48.500
+Pois bem, a gente precisa fazer essa comparação, né?
+
+15
+00:01:48.500 --> 00:01:51.500
+Imposto de renda retido na fonte mais benéfico.
+
+16
+00:01:51.500 --> 00:01:53.500
+O que eu tenho como referência?
+
+17
+00:01:53.500 --> 00:01:54.500
+IR com dedução.
+
+18
+00:01:54.500 --> 00:01:55.500
+IR com dedução.
+
+19
+00:01:55.500 --> 00:01:56.500
+O IR simplificado.
+
+20
+00:01:56.500 --> 00:01:59.500
+E eu preciso conferir as fórmulas.
+
+21
+00:01:59.500 --> 00:02:01.500
+O que eu usei no IR com dedução?
+
+22
+00:02:01.500 --> 00:02:04.500
+Chegou a 564,85.
+
+23
+00:02:04.500 --> 00:02:07.500
+O que eu usei com IR no desconto simplificado?
+
+24
+00:02:07.500 --> 00:02:11.500
+Chegou a 574,29.
+
+25
+00:02:11.500 --> 00:02:17.500
+Consequentemente, comparando com o outro, vocês já sabem que o mais benéfico é o IR com dedução.
+
+26
+00:02:17.500 --> 00:02:20.500
+E aí, esse é o valor que vai ser descontado do trabalhador?
+
+27
+00:02:20.500 --> 00:02:21.500
+Não.
+
+28
+00:02:21.500 --> 00:02:22.500
+Por quê?
+
+29
+00:02:22.500 --> 00:02:24.500
+Agora aqui entra, pessoal, a apuração do redor.
+
+30
+00:02:24.500 --> 00:02:25.500
+Tá?
+
+31
+00:02:25.500 --> 00:02:26.500
+O que a gente precisa fazer?
+
+32
+00:02:26.500 --> 00:02:27.500
+O cálculo do redutor.
+
+33
+00:02:27.500 --> 00:02:44.500
+Vou pegar os 978,62 e diminuir esse indicador 0,133145, que está na tabela, multiplicado
+
+34
+00:02:44.500 --> 00:02:48.500
+pela base de cálculo que eu tenho no recibo, que é de 6 mil reais.
+
+35
+00:02:48.500 --> 00:02:50.500
+Então, eu faço essa multiplicação.
+
+36
+00:02:50.500 --> 00:02:52.500
+Primeiramente, que estão em parênteses.
+
+37
+00:02:52.500 --> 00:02:56.500
+798,87.
+
+38
+00:02:56.500 --> 00:03:03.500
+E vou abater de 978,65 para dar 179,75.
+
+39
+00:03:03.500 --> 00:03:06.500
+Consequentemente, pessoal, o que a gente precisa ver?
+
+40
+00:03:06.500 --> 00:03:12.500
+Eu usei como referência essa segunda linha para chegar a esse cálculo do redutor.
+
+41
+00:03:12.500 --> 00:03:17.500
+Eu agora vou pegar esse 179,75 e vou aplicar sobre o cálculo do IR mais benéfico.
+
+42
+00:03:17.500 --> 00:03:20.500
+Então, novo cálculo do imposto de renda.
+
+43
+00:03:20.500 --> 00:03:24.500
+564,85, que eu usei com deduções legais, menos o redutor.
+
+44
+00:03:24.500 --> 00:03:31.500
+179,75, vou botar lá um imposto de renda de 385,10.
+
+45
+00:03:31.500 --> 00:03:37.500
+Esse é o valor do imposto de renda a ser utilizado no desconto do recibo do empregado.
+
+46
+00:03:37.500 --> 00:03:40.500
+E como que fica o recibo do trabalhador?
+
+47
+00:03:40.500 --> 00:03:42.500
+Dessa forma, pessoal.
+
+48
+00:03:42.500 --> 00:03:47.500
+Agora, ele com a apuração correta, salário e INSS e imposto de renda.
+
+49
+00:03:47.500 --> 00:03:48.500
+385,10.
+
+50
+00:03:48.500 --> 00:03:49.500
+É assim que vai ser demonstrado.
+
+51
+00:03:49.500 --> 00:03:51.500
+Na folha de pagamento.
+
+52
+00:03:51.500 --> 00:03:57.500
+Então, para facilitar a sua vida, deixei os cálculos e as apurações, todas essas fórmulas ali,
+
+53
+00:03:57.500 --> 00:04:04.500
+para que você possa agora simular com outros valores o que você aprendeu nesse curso do cálculo da folha.
+
+54
+00:04:04.500 --> 00:04:07.500
+Para dar continuidade à exigência da apuração no imposto de renda,
+
+55
+00:04:07.500 --> 00:04:10.500
+eu convido você a acessar seu sistema da folha de pagamento,
+
+56
+00:04:10.500 --> 00:04:14.500
+achar a ficha financeira do empregado, porque é muito importante,
+
+57
+00:04:14.500 --> 00:04:17.500
+e identificar o campo de rendimento tributável,
+
+58
+00:04:17.500 --> 00:04:19.500
+o campo de dedução,
+
+59
+00:04:19.500 --> 00:04:21.500
+do imposto de renda,
+
+60
+00:04:21.500 --> 00:04:23.500
+o campo do próprio imposto de renda.
+
+61
+00:04:23.500 --> 00:04:24.500
+Por que, pessoal?
+
+62
+00:04:24.500 --> 00:04:31.500
+Você está conferindo o que vai ser transmitido pelo E-Social e vai construir a DIRF do próximo ano.
+
+63
+00:04:31.500 --> 00:04:37.500
+Então, é importante você fazer essa conferência após o fechamento da folha, tá bem?
+
+64
+00:04:37.500 --> 00:04:42.500
+Não posso deixar de abordar ainda sobre esse assunto do imposto de renda,
+
+65
+00:04:42.500 --> 00:04:45.500
+para ter todo o cuidado necessário para a construção da DIRF,
+
+66
+00:04:45.500 --> 00:04:49.500
+que as suas rubricas, que são de rendimento tributável e retenção,
+
+67
+00:04:49.500 --> 00:04:50.500
+de imposto de renda,
+
+68
+00:04:50.500 --> 00:04:56.500
+tem que estar parametrizada corretamente com base na tabela 21 do E-Social.
+
+69
+00:04:56.500 --> 00:04:59.500
+Então, ali você vai dizer se essa rubrica é rendimento tributável,
+
+70
+00:04:59.500 --> 00:05:03.500
+se essa rubrica é de dedução do imposto de renda,
+
+71
+00:05:03.500 --> 00:05:09.500
+tudo isso é informação relevante para a apuração da folha de pagamento.
+
+72
+00:05:09.500 --> 00:05:14.500
+Veja vocês como estamos aprofundando esse assunto do IR.
+
+73
+00:05:14.500 --> 00:05:19.500
+Por fim, pessoal, como fica isso lá na tela do E-Social?
+
+74
+00:05:19.500 --> 00:05:22.500
+Você consultar uma rubrica que você utiliza na folha,
+
+75
+00:05:22.500 --> 00:05:27.500
+o campo de incidência de imposto de renda vai estar ali preenchido.
+
+76
+00:05:27.500 --> 00:05:32.500
+Na verdade, o código 11 dizendo que faz parte de um rendimento tributável.
+
+77
+00:05:32.500 --> 00:05:36.500
+Então, esse é um exemplo que a gente pode seguir, por exemplo, para salários, né?
+
+78
+00:05:36.500 --> 00:05:42.500
+Essa consulta tem que ser feita para identificar se está de acordo ou não com a legislação, ok?
+
+79
+00:05:42.500 --> 00:05:45.500
+Professor, acabei de processar minha folha de pagamento,
+
+80
+00:05:45.500 --> 00:05:48.500
+quero conferir para saber se as informações estão batendo ou não.
+
+81
+00:05:48.500 --> 00:05:50.500
+Existe a possibilidade?
+
+82
+00:05:50.500 --> 00:05:57.500
+Sim, você vai olhar a leitura do arquivo de retorno do E-Social lá no seu sistema de folha.
+
+83
+00:05:57.500 --> 00:06:03.500
+Mas, se você quiser acessar a própria plataforma, você vai seguir esse caminho, tá?
+
+84
+00:06:03.500 --> 00:06:06.500
+Gestão da folha, trabalhador, imposto de renda.
+
+85
+00:06:06.500 --> 00:06:10.500
+E aí você insere o CPF do empregado e, consequentemente,
+
+86
+00:06:10.500 --> 00:06:17.500
+você vai ver as rubricas que foram utilizadas para a apuração do imposto de renda do empregado, tá bom?
+
+87
+00:06:17.500 --> 00:06:20.500
+Então, é uma conferência também no próprio portal do E-Social.
+
+88
+00:06:20.500 --> 00:06:24.500
+A gente aqui da plataforma está para poder ajudar vocês.
+
+89
+00:06:24.500 --> 00:06:32.500
+Quais são os códigos de receita que são utilizados para a apuração do imposto de renda no E-Social?
+
+90
+00:06:32.500 --> 00:06:37.500
+Todos esses, o mais comum é o 0561, rendimento do trabalho assalariado,
+
+91
+00:06:37.500 --> 00:06:41.500
+0588, trabalhador sem vínculo de emprego e todos os demais,
+
+92
+00:06:41.500 --> 00:06:44.500
+dependendo da gestão da informação que você pratica, tá?
+
+93
+00:06:44.500 --> 00:06:47.500
+Você consegue conferir isso com base na estrutura.
+
+94
+00:06:47.500 --> 00:06:53.500
+Essa é a função normativa 2141, né, publicada pela Receita Federal em maio de 2023.
+
+95
+00:06:53.500 --> 00:06:58.500
+Esses códigos vão aparecer aqui na nossa brilhante DCTF Web.
+
+96
+00:06:58.500 --> 00:07:03.500
+Então, você faz a folha de pagamento, automaticamente transmite para o E-Social.
+
+97
+00:07:03.500 --> 00:07:07.500
+Logo, essa informação é integrada lá na DCTF Web.
+
+98
+00:07:07.500 --> 00:07:12.500
+E aí eles vão totalizar, né, tudo que for apurado para cada trabalhador.
+
+99
+00:07:12.500 --> 00:07:14.500
+O códigozinho sempre fica aqui do lado.
+
+100
+00:07:14.500 --> 00:07:16.500
+Vocês vão ter a possibilidade de fazer a conferência.
+
+101
+00:07:16.500 --> 00:07:20.500
+Conferência utilizando essa informação que está na tela
+
+102
+00:07:20.500 --> 00:07:26.500
+com o resumo geral da folha de pagamento que nós vamos já ter acesso logo dentro de instantes.
+
+103
+00:07:26.500 --> 00:07:32.500
+Por fim, a emissão do DARF, onde você vai ter a apuração de todas essas informações
+
+104
+00:07:32.500 --> 00:07:35.500
+de imposto de renda, como também da parte previdenciária
+
+105
+00:07:35.500 --> 00:07:40.500
+que você faz diretamente na plataforma da DCTF Web.

@@ -1,0 +1,127 @@
+WEBVTT
+
+00:00:00.386 --> 00:00:07.941
+- Troca aqui para que vocês possam observar a criação dentro do grupo B, que é o grupo que se refere
+
+00:00:07.941 --> 00:00:15.276
+- aos novos tributos. Aqui, criação da nota fiscal de débito e de crédito. Então, nós já temos
+
+00:00:15.276 --> 00:00:22.904
+- a nota fiscal normal, A complementar, A de ajuste, A de devolução e o item 5 e 6 que vem apresentando
+
+00:00:22.904 --> 00:00:26.718
+- para nós essa nova função, essa nova finalidade.
+
+00:00:26.818 --> 00:00:34.114
+- que é de ajustar a débito e a crédito às nossas apurações. E aqui vem até um ponto importante
+
+00:00:34.114 --> 00:00:41.554
+- que eu quero trazer para vocês com relação a esse item. Convidar vocês a refletir sobre os ajustes
+
+00:00:41.554 --> 00:00:49.139
+- que nós fazemos nas nossas apurações. Após a implementação do SPED, que já tem aí quase 20 anos,
+
+00:00:49.139 --> 00:00:55.134
+- nós já passamos a ter mais cautela, mais aderência, fazer as nossas auditorias,
+
+00:00:55.266 --> 00:01:03.385
+- Mas agora, a partir desta condição de nota de débito de crédito, a gente precisa identificar se
+
+00:01:03.385 --> 00:01:11.584
+- todos os nossos ajustes estão realmente corretos, embasados na legislação. Nós sabemos que em se
+
+00:01:11.584 --> 00:01:19.703
+- tratando de ajuste de apuração, hoje no nosso cenário atual, os estados podem regulamentar quais
+
+00:01:19.703 --> 00:01:24.574
+- ajustes eles podem ou querem ou não vão aceitar. Exemplo,
+
+00:01:24.770 --> 00:01:31.726
+- Quando nós pegamos ali o estado de Santa Catarina, para você que nos acompanha e quer Santa Catarina,
+
+00:01:31.726 --> 00:01:38.749
+- coloca aqui pra gente. Quando nós vamos fazer um ajuste a crédito, primeiro, Santa Catarina restringiu
+
+00:01:38.749 --> 00:01:45.705
+- bastante a listagem de ajustes a crédito. Segundo ponto, para que nós possamos utilizar estes ajustes
+
+00:01:45.705 --> 00:01:50.654
+- a crédito na apuração de Santa Catarina, nós emitimos o quê? Um AUC.
+
+00:01:51.106 --> 00:01:58.085
+- uma autorização de utilização de crédito que gera ali um número para nós com 15 dígitos que
+
+00:01:58.085 --> 00:02:05.342
+- nós precisamos incluir nas nossas apurações e esses dígitos são verificados. É assim que o estado
+
+00:02:05.342 --> 00:02:12.321
+- de Santa Catarina faz as suas apurações dos ajustes. Quando eu venho para São Paulo, eu já não
+
+00:02:12.321 --> 00:02:18.462
+- tenho essa condição. Inclusive, aqui em São Paulo, nós temos um ajuste que é o 002
+
+00:02:18.594 --> 00:02:26.780
+- que coloca ali erro do contribuinte, erro de fato, constatação de erro de fato. Vejam que nós temos
+
+00:02:26.780 --> 00:02:35.046
+- uma grande diferença nesses dois exemplos da forma como nós procedemos com os ajustes dentro do ICMS.
+
+00:02:35.046 --> 00:02:41.086
+- Quando nós tivermos aí o IBS, nós teremos que observar isso de uma forma
+
+00:02:41.218 --> 00:02:48.545
+- unificada, por isso a necessidade de criar uma possibilidade de ajuste, mas que venha do XML e não
+
+00:02:48.545 --> 00:02:56.092
+- de lançamento, porque através do lançamento o Estado tem a sua tabela, cada Estado tem a sua tabela
+
+00:02:56.092 --> 00:03:03.492
+- hoje. A partir do IBS, a partir da reforma tributária, nós passamos a ter o quê? Uma nota fiscal,
+
+00:03:03.492 --> 00:03:10.526
+- um XML que vai ajustar a minha operação. Traga aqui pra gente o histórico de atualizações,
+
+00:03:10.658 --> 00:03:18.297
+- onde consta que a gente tem essa nova situação de utilização de novos eventos para a nota fiscal,
+
+00:03:18.297 --> 00:03:25.861
+- colocando novas situações para as apurações do IBS e da CBS. Vejam, esse detalhamento aqui, esse
+
+00:03:25.861 --> 00:03:30.654
+- cronograma, foi o que eu peguei da última atualização dentro
+
+00:03:30.978 --> 00:03:37.708
+- das notas de débito de crédito. Hoje nós já temos muitas outras atualizações dentro do cronograma,
+
+00:03:37.708 --> 00:03:44.502
+- dentro das notas técnicas. Essa aqui é referente à inclusão da nota de débito e da nota de crédito.
+
+00:03:44.502 --> 00:03:49.822
+- Por que que é importante eu ponderar isso para vocês? Porque pessoal, como está
+
+00:03:50.050 --> 00:03:56.249
+- acontecendo muito rápido essas atualizações, a gente precisa fazer o acompanhamento na implementação
+
+00:03:56.249 --> 00:04:02.156
+- dos eventos para utilização nas apurações. Está acontecendo atualizações constantes. A gente,
+
+00:04:02.156 --> 00:04:06.718
+- claro, vem trazendo aqui para você também, para que você possa acompanhar.
+
+00:04:07.330 --> 00:04:14.064
+- Vejam aqui dentro do nosso cronograma a implementação dos novos, vejam os amarelinhos aqueles que
+
+00:04:14.064 --> 00:04:21.471
+- já aconteceram, os verdinhos são os novos dentro dessa ANT e a gente traz aqui o detalhamento do cronograma
+
+00:04:21.471 --> 00:04:28.542
+- de novas regras de validação. Vejam que a medida que os dias vão passando vai se melhorando as nossas
+
+00:04:28.542 --> 00:04:35.815
+- notas fiscais, as nossas notas técnicas, os ajustes que são necessários para a correção dos documentos
+
+00:04:35.815 --> 00:04:37.296
+- fiscais eletrônicos.
+
+00:04:37.296 --> 00:04:42.718
+- Então fica aqui pra nós a ponderação de que é preciso a gente acompanhar.

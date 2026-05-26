@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2443,
+    "title": "[podcast] Tributação do ICMS nas Operações com Combustíveis",
+    "subtitle": "PodCast",
+    "summary": "Pessoal esse assunto promete, hein? Nos últimos anos foi criada uma grande polêmica em torno do ICMS incidente nas operações com combustíveis. Havia\nmuita gente alegando que o combustível estava caro por conta do ICMS. O ICMS é um imposto criado em 1988, e desde então incide nas operações com combustíveis. E é errado dizer que o combustível está caro por conta do ICMS, porque desde 1988 este imposto incide sobre o combustível e só agora se tornou o vilão do preço do combustível.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/159843091a3664a5382af4f9e09bccdb1665840338.jpg",
+    "goals": [
+      "Falar sobre as decisões recentes relativas à tributação do ICMS nas operações com combustíveis."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 683,
+    "keywords": "combustíveis;alterações;tributação;podcast",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 163,
+    "averageRating": 9.18,
+    "practiceAverage": 9.36,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-02-04T15:48:56.000Z",
+    "recordedAt": "2023-01-16T00:00:00.000Z",
+    "createdAt": "2023-01-16T18:14:29.000Z"
+  }
+}

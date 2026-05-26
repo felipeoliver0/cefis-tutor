@@ -1,0 +1,33 @@
+{
+  "id": 486731,
+  "title": "Métodos de depreciação - Parte 2",
+  "position": 38,
+  "duration": 416,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/37bd2a30-1c4d-44a7-adb1-d623304f5771/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37bd2a30-1c4d-44a7-adb1-d623304f5771/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37bd2a30-1c4d-44a7-adb1-d623304f5771/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37bd2a30-1c4d-44a7-adb1-d623304f5771/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37bd2a30-1c4d-44a7-adb1-d623304f5771/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

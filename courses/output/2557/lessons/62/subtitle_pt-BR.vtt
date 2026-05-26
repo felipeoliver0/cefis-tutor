@@ -1,0 +1,337 @@
+WEBVTT
+
+1
+00:00:00.340 --> 00:00:00.750
+pessoal.
+
+2
+00:00:00.759 --> 00:00:03.470
+Agora, continuando sobre os aspectos acessórios e tributários,
+
+3
+00:00:03.480 --> 00:00:05.710
+vamos falar sobre informações complementares.
+
+4
+00:00:05.719 --> 00:00:10.550
+Tá bom, o campo de informações complementares é um campo da nota fiscal eletrônica,
+
+5
+00:00:10.560 --> 00:00:11.909
+de uso do contribuinte.
+
+6
+00:00:11.920 --> 00:00:16.549
+Tá pra Quando o contribuinte quiser prestar alguma informação, né,
+
+7
+00:00:16.559 --> 00:00:20.870
+que não esteja ali em algum campo da nota fiscal eletrônica previamente planejado.
+
+8
+00:00:20.879 --> 00:00:25.950
+Tá, A gente vê isso, por exemplo, nas notas de exportação de café,
+
+9
+00:00:25.959 --> 00:00:29.690
+o contribuinte costuma colocar ali na observação complementar.
+
+10
+00:00:30.209 --> 00:00:32.459
+Eh a classificação do café.
+
+11
+00:00:32.470 --> 00:00:35.319
+Conforme a entidade, lá que classifica o café pra exportação,
+
+12
+00:00:35.909 --> 00:00:38.840
+então pode ser feito em observações complementares.
+
+13
+00:00:38.849 --> 00:00:41.360
+Pode ser feito também observações complementares,
+
+14
+00:00:41.369 --> 00:00:46.040
+uma informação de algum benefício fiscal que a empresa esteja usando, né?
+
+15
+00:00:46.049 --> 00:00:50.250
+Pode ser que o Fisco manda colocar alguma informação lá re referente a algum termo
+
+16
+00:00:50.259 --> 00:00:52.439
+de acordo alguma coisa assim que o contribuinte
+
+17
+00:00:52.450 --> 00:00:55.439
+tá utilizando ali da emissão daquele documento,
+
+18
+00:00:55.450 --> 00:00:55.560
+né?
+
+19
+00:00:55.569 --> 00:00:58.159
+Então, a gente tem um quadro de informações complementares.
+
+20
+00:00:58.169 --> 00:01:02.639
+Já vimos também que a gente costuma colocar informações complementares,
+
+21
+00:01:02.650 --> 00:01:07.559
+informações ali pra entrega, entregar tal horário, entregar no período da tarde.
+
+22
+00:01:07.569 --> 00:01:09.919
+Tudo isso pode ser uma observação complementar.
+
+23
+00:01:09.930 --> 00:01:10.519
+Tá bom,
+
+24
+00:01:10.529 --> 00:01:13.800
+é qualquer informação que não tenha um campo próprio na nota
+
+25
+00:01:13.809 --> 00:01:18.120
+fiscal eletrônica e o contribuinte necessite colocar isso no documento fiscal,
+
+26
+00:01:18.129 --> 00:01:21.879
+tá bom, aí tem um quadrinho ali no DANF ali de informações complementares.
+
+27
+00:01:21.889 --> 00:01:22.300
+Tá
+
+28
+00:01:22.769 --> 00:01:25.540
+o campo de informações complementares da nota fiscal eletrônica.
+
+29
+00:01:25.550 --> 00:01:27.779
+Ele é muito extenso, cabe muita informação.
+
+30
+00:01:27.790 --> 00:01:32.379
+Ali tá e tem o quadrinho ali que isso vai impresso aqui.
+
+31
+00:01:32.389 --> 00:01:36.459
+Fala com comando que se não couber no cabinho, no no campo,
+
+32
+00:01:36.470 --> 00:01:38.860
+lá no quadrinho lá o contribuinte,
+
+33
+00:01:38.870 --> 00:01:41.190
+ele pode continuar ali as informações
+
+34
+00:01:41.199 --> 00:01:43.580
+complementares no verso do documento fiscal,
+
+35
+00:01:43.589 --> 00:01:44.279
+tá bom.
+
+36
+00:01:44.580 --> 00:01:48.709
+Então as informações complementares são pra você colocar as informações
+
+37
+00:01:48.720 --> 00:01:51.709
+que não tem um campo específico na nota fiscal eletrônica.
+
+38
+00:01:51.720 --> 00:01:54.349
+É bom a gente lembrar o seguinte tá se vai
+
+39
+00:01:54.360 --> 00:01:57.230
+sair no DANF tem que tá na nota fiscal eletrônica.
+
+40
+00:01:57.239 --> 00:02:00.940
+Então, se eu quero que imprimir o DANF alguma instrução pro entregador,
+
+41
+00:02:00.949 --> 00:02:03.889
+alguma coisa que tenha uma informação complementar,
+
+42
+00:02:04.129 --> 00:02:05.900
+eu tenho que colocar isso no campo de
+
+43
+00:02:05.910 --> 00:02:09.139
+informações complementares pra depois então imprimi la no DANF
+
+44
+00:02:09.149 --> 00:02:11.779
+pra não ficar em descompasso ou arquivo x ML
+
+45
+00:02:11.789 --> 00:02:14.059
+da nota fiscal eletrônica com o documento auxiliar.
+
+46
+00:02:14.070 --> 00:02:15.820
+Tá bom, pessoal na nota fiscal eletrônica,
+
+47
+00:02:15.830 --> 00:02:18.039
+tem um campo também que chama reservado ao fisco.
+
+48
+00:02:18.050 --> 00:02:18.399
+Tá
+
+49
+00:02:18.679 --> 00:02:23.610
+esse campo? Tá, ele não pode ser preenchido, né? Ele é de uso exclusivo do Fisco.
+
+50
+00:02:23.619 --> 00:02:25.089
+Você vai preencher esse campo.
+
+51
+00:02:25.100 --> 00:02:31.509
+Se o fisco assim orientar você fazer, tá bom, então é reservado ao Fisco. Tá igual.
+
+52
+00:02:31.520 --> 00:02:34.610
+Tem um campo de observações, com informações complementares,
+
+53
+00:02:34.619 --> 00:02:36.369
+que é de uso do contribuinte pro contribuinte.
+
+54
+00:02:36.380 --> 00:02:38.649
+Colocar alguma informação, que ele ache relevante,
+
+55
+00:02:38.660 --> 00:02:41.889
+o campo de informações do Fisco é reservado ao Fisco.
+
+56
+00:02:41.899 --> 00:02:42.410
+Tá bom?
+
+57
+00:02:42.419 --> 00:02:44.630
+Então, quando for reservado ao fisco,
+
+58
+00:02:44.639 --> 00:02:50.304
+você vai preencher se o Fisco assim orientar Tá certo pessoal a nota fiscal do
+
+59
+00:02:50.315 --> 00:02:55.315
+I S S As notas fiscais de Serviço Elas são reguladas pela prefeitura municipal Tá,
+
+60
+00:02:55.324 --> 00:02:57.195
+Cada município tem o seu modelo,
+
+61
+00:02:57.205 --> 00:02:59.714
+a Receita Federal vem fazendo um esforço aí
+
+62
+00:02:59.725 --> 00:03:02.514
+pra estabelecer um padrão nacional pra esses documentos.
+
+63
+00:03:02.524 --> 00:03:06.494
+A Receita Federal, inclusive, fez um emissor de nota fiscal de serviço do I S S.
+
+64
+00:03:06.505 --> 00:03:09.955
+Várias prefeituras estão utilizando, inclusive algumas capitais.
+
+65
+00:03:09.964 --> 00:03:13.134
+Tá, mas o processo ainda tá em curso, Tá?
+
+66
+00:03:13.949 --> 00:03:17.600
+Eu falei pra vocês agora há pouco da nota conjugada que vai ser,
+
+67
+00:03:17.610 --> 00:03:20.679
+eh mercadorias e serviços no mesmo documento tá,
+
+68
+00:03:20.690 --> 00:03:24.800
+mas a n f e ela pode ser emitida somente com o I s s,
+
+69
+00:03:24.809 --> 00:03:27.110
+como é o caso de notas do Distrito Federal.
+
+70
+00:03:27.119 --> 00:03:29.259
+né? O Distrito Federal Ele
+
+71
+00:03:29.809 --> 00:03:34.119
+tem a competência conjunta, né? Competência de I S, S e competência de I C.
+
+72
+00:03:34.130 --> 00:03:38.820
+M S Porque ele tem as duas competências ali constitucionalmente falando, né?
+
+73
+00:03:38.830 --> 00:03:43.770
+Então ele trata dos dois impostos dos dois impostos na mesma esfera de governo.
+
+74
+00:03:43.779 --> 00:03:45.259
+A esfera distrital tá bom,
+
+75
+00:03:45.270 --> 00:03:49.779
+então lá ele pode fazer uma nota eletrônica no F cinquenta e cinco, né?
+
+76
+00:03:49.789 --> 00:03:51.600
+Somente com o serviço tá bom,
+
+77
+00:03:52.750 --> 00:03:56.360
+pode ser que tenha alguma outra U f que permita nota somente de serviço.
+
+78
+00:03:56.369 --> 00:03:58.839
+Tá, Então isso pode ocorrer? Tá?
+
+79
+00:03:58.850 --> 00:04:03.119
+A gente chama atenção aqui pra escrituração das mesmas, né?
+
+80
+00:04:03.130 --> 00:04:07.750
+Essas notas aqui você não vai lançar lá na escrituração fiscal digital do i,
+
+81
+00:04:07.759 --> 00:04:09.759
+C m s porque não são notas de i c m s.
+
+82
+00:04:09.770 --> 00:04:10.360
+Tá bom.
+
+83
+00:04:10.369 --> 00:04:16.519
+Então isso aí você não vai lançar na escrituração da do F D
+
+84
+00:04:16.529 --> 00:04:19.459
+Escrituração fiscal digital do I C M s e do I P i

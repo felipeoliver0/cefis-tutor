@@ -1,0 +1,33 @@
+{
+  "id": 464056,
+  "title": "Dissolução irregular (hipóteses)",
+  "position": 9,
+  "duration": 399,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/685281d7-113a-47bf-92aa-e2bfeb52ec7e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/685281d7-113a-47bf-92aa-e2bfeb52ec7e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/685281d7-113a-47bf-92aa-e2bfeb52ec7e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/685281d7-113a-47bf-92aa-e2bfeb52ec7e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/685281d7-113a-47bf-92aa-e2bfeb52ec7e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

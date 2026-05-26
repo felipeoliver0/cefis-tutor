@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4448,
+    "title": "IFRS",
+    "subtitle": "análise prática dos principais pontos",
+    "summary": "Neste curso você irá aprender na prática tudo o que precisa saber sobre as IFRS. Aprenderá os fundamentos e a prática de identificação do ativo possivelmente desvalorizado, demonstração dos fluxos de caixa e ajuste a valor presente, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre as IFRS.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/d6f592a7-aceb-4568-a796-7e9fb29dd6c3-thumbnail.png",
+    "goals": [
+      "O objetivo do curso IFRS: análise prática dos principais pontos é a capacitação para a aplicação prática das normas internacionais de contabilidade, abordando conceitos e procedimentos essenciais para a contabilidade financeira."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 24131,
+    "keywords": "ifrs;normas;contabeis",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 74,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 13,
+    "averageRating": 9.38,
+    "practiceAverage": 9.2,
+    "trailer": {
+      "id": "bf8755ac-b3f8-4198-8ce4-41e72deddf66",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bf8755ac-b3f8-4198-8ce4-41e72deddf66/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bf8755ac-b3f8-4198-8ce4-41e72deddf66/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bf8755ac-b3f8-4198-8ce4-41e72deddf66/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bf8755ac-b3f8-4198-8ce4-41e72deddf66/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-24T23:51:35.000Z",
+      "updatedAt": "2026-03-24T23:51:34.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-25T09:09:22.000Z",
+    "recordedAt": "2026-03-06T00:00:00.000Z",
+    "createdAt": "2026-03-06T02:00:34.000Z"
+  }
+}

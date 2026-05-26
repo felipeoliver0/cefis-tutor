@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1987,
+    "title": "Contabilidade das Entidades do Terceiro Setor",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso de contabilidade das entidades do terceiro setor, você vai aprender a legislação aplicável à contabilidade de entidades do 3º setor, ou seja, empresas privadas sem fins lucrativos, como, por exemplo, as ONGs. Conhecerá, desde o conceito dessas entidades, diferentes tipos e aspectos como imunidade, isenção, qualificações, prestação de contas, demonstrações contábeis, dentre muitos outros assuntos para que você possa colocar em prática os conhecimentos obtidos sobre o tema.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/86b8a9e8053987ef3170d4199754f4c41728427949.jpg",
+    "goals": [
+      "Expor os princípios e conceitos das Entidades da Contabilidade do Terceiro Setor."
+    ],
+    "teacher": {
+      "id": 222676,
+      "name": "WALLAN AFONSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1647975454.jpeg"
+    },
+    "duration": 5830,
+    "keywords": "terceiro setor;setor;entidades;contabilidade",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 25,
+    "materialCount": 5,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1091,
+    "averageRating": 8.79,
+    "practiceAverage": 8.61,
+    "trailer": {
+      "id": "9b39bf18-9cde-472d-aac5-f3e131926f6f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9b39bf18-9cde-472d-aac5-f3e131926f6f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9b39bf18-9cde-472d-aac5-f3e131926f6f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9b39bf18-9cde-472d-aac5-f3e131926f6f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9b39bf18-9cde-472d-aac5-f3e131926f6f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-02-18T12:27:06.000Z",
+      "updatedAt": "2022-02-18T12:27:05.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-02-18T17:08:01.000Z",
+    "recordedAt": "2022-02-16T00:00:00.000Z",
+    "createdAt": "2022-02-16T16:18:31.000Z"
+  }
+}

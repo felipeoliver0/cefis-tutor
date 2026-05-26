@@ -1,0 +1,33 @@
+{
+  "id": 474462,
+  "title": "Na prática: Valoração",
+  "position": 37,
+  "duration": 440,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bd4b1133-d13c-4094-a74c-45eee914021c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd4b1133-d13c-4094-a74c-45eee914021c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd4b1133-d13c-4094-a74c-45eee914021c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd4b1133-d13c-4094-a74c-45eee914021c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd4b1133-d13c-4094-a74c-45eee914021c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 486324,
+  "title": "Exemplo prático de erro",
+  "position": 8,
+  "duration": 145,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6ed28159-20e5-40de-8b53-c63c917ac674/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6ed28159-20e5-40de-8b53-c63c917ac674/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6ed28159-20e5-40de-8b53-c63c917ac674/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6ed28159-20e5-40de-8b53-c63c917ac674/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6ed28159-20e5-40de-8b53-c63c917ac674/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

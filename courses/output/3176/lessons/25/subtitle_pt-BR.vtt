@@ -1,0 +1,417 @@
+WEBVTT
+
+1
+00:00:02.410 --> 00:00:04.500
+sobre a integração da DO e com a nota fiscal.
+
+2
+00:00:04.510 --> 00:00:04.920
+Então,
+
+3
+00:00:04.929 --> 00:00:09.020
+o objetivo desse importante passo também de integração foi
+
+4
+00:00:09.029 --> 00:00:12.300
+implantar um fluxo único de informações de comércio exterior,
+
+5
+00:00:12.310 --> 00:00:12.680
+né?
+
+6
+00:00:12.689 --> 00:00:17.770
+Então, assim essa integração ela também já foi um passo importante.
+
+7
+00:00:17.780 --> 00:00:24.524
+Dentro desse fluxo contínuo, vamos dizer universal de de informações, né?
+
+8
+00:00:24.534 --> 00:00:27.704
+E, portanto, a nota fiscal ela se tornou um documento essencial, né?
+
+9
+00:00:27.715 --> 00:00:35.284
+Eh a ainda que a nota fiscal eletrônica brasileira ela não seja um documento.
+
+10
+00:00:35.294 --> 00:00:38.865
+Vamos dizer válido no exterior, né? Ela não vai ter
+
+11
+00:00:39.340 --> 00:00:42.790
+nenhuma aplicabilidade ao teu cliente no exterior?
+
+12
+00:00:42.799 --> 00:00:44.310
+Ela faz parte,
+
+13
+00:00:44.319 --> 00:00:49.610
+né dos documentos obrigatórios previstos pelo regulamento aduaneiro, né?
+
+14
+00:00:49.619 --> 00:00:53.270
+Pra que você mantenha ali por um período de cinco anos, né?
+
+15
+00:00:53.279 --> 00:00:56.669
+Que você tem ali o seu, a sua guarda documental, né?
+
+16
+00:00:56.680 --> 00:01:02.375
+Então é necessário vincular a chave de acesso da nota fiscal de exportação.
+
+17
+00:01:02.386 --> 00:01:06.655
+Então, é assim que você vincula toda nota fiscal, ela tem uma chave de acesso.
+
+18
+00:01:06.666 --> 00:01:10.075
+E é assim que você vincula na sua declaração o lucro de exportação.
+
+19
+00:01:10.085 --> 00:01:13.786
+Os dados da nota fiscal migrados automaticamente para a declaração de exportação,
+
+20
+00:01:13.795 --> 00:01:16.155
+como eu comentei e muito muito,
+
+21
+00:01:16.166 --> 00:01:23.361
+muito importante pra muitos aspectos é o uso adequado do CFOP né?
+
+22
+00:01:23.372 --> 00:01:28.722
+O CFOP vinculado à exportação e isso é É, é, é muito importante!
+
+23
+00:01:28.732 --> 00:01:35.442
+Inclusive, pra fins eh, por exemplo, do benefício do Reintegra, né,
+
+24
+00:01:35.452 --> 00:01:40.181
+Pra que você tenha ali exatamente as notas fiscais de você poder
+
+25
+00:01:40.419 --> 00:01:47.410
+fazer o levantamento das suas receitas efetivas eh de exportação, né?
+
+26
+00:01:47.419 --> 00:01:53.370
+Através naturalmente, do CFOP, né? Então alguns do C f é o peso É o C F é o peso, É os!
+
+27
+00:01:53.379 --> 00:01:55.069
+É o conhecido aí, né?
+
+28
+00:01:55.080 --> 00:01:59.589
+Mas é o sete um zero um Venda de produção de estabelecimento sete
+
+29
+00:01:59.599 --> 00:02:04.989
+um zero dois Venda de mercadoria adquirida ou recebida de TC zero,
+
+30
+00:02:05.000 --> 00:02:10.508
+sete, um, vinte e sete Venda de produção do estabelecimento sobre o regime de então.
+
+31
+00:02:10.520 --> 00:02:14.050
+Esse é particularmente sobre o regime de né?
+
+32
+00:02:14.059 --> 00:02:19.029
+EH o sete cinco zero exportação de mercadoria
+
+33
+00:02:19.039 --> 00:02:23.229
+recebida com um fim específico de exportação?
+
+34
+00:02:23.240 --> 00:02:28.809
+Então isso é eh quando você recebe, né? Uma mercadoria,
+
+35
+00:02:29.199 --> 00:02:35.429
+vamos dizer que já teve né? A sua compra é com o fim específico da exportação, né?
+
+36
+00:02:35.440 --> 00:02:38.210
+O sete cinco zero quatro exportação de mercadoria
+
+37
+00:02:38.220 --> 00:02:41.130
+objeto de formação de lote de exportação,
+
+38
+00:02:41.139 --> 00:02:41.369
+né?
+
+39
+00:02:41.380 --> 00:02:45.850
+Bem específico isso sete nove três zero devolução de
+
+40
+00:02:45.860 --> 00:02:49.789
+bens sob regime especial aduaneiro de admissão temporária.
+
+41
+00:02:49.800 --> 00:02:50.289
+Então,
+
+42
+00:02:50.300 --> 00:02:52.649
+isso bem específico pra o regime adu especial
+
+43
+00:02:52.660 --> 00:02:55.710
+de admissão temporária e a sete nove quatro nove
+
+44
+00:02:56.309 --> 00:03:00.979
+outra saída de mercadoria ou prestação de serviço, não especificada.
+
+45
+00:03:02.529 --> 00:03:06.779
+Bom E aí, né. Vamos entender agora o que seria a exportação por conta própria, né?
+
+46
+00:03:06.789 --> 00:03:11.479
+Já que a gente fala que a DOI, né? Dentro da declaração de exportação, existem ela.
+
+47
+00:03:11.490 --> 00:03:16.220
+Ela é amparada, né? Através de algumas de alguns critérios, né?
+
+48
+00:03:16.229 --> 00:03:20.600
+Então, a de O que que é a exportação por conta própria, né? Basicamente, ela é
+
+49
+00:03:21.020 --> 00:03:24.770
+o declarante exportador. Eles são a mesma pessoa física, né?
+
+50
+00:03:24.779 --> 00:03:31.470
+Então você é a empresa que vai lá declarar na sua na sua eh. Eh, eh física ou jurídica?
+
+51
+00:03:31.479 --> 00:03:35.750
+Perdão, né? Então você é um declarante que vai lá registrar.
+
+52
+00:03:35.759 --> 00:03:38.830
+E portanto é você também que vai fazer a exportação, né?
+
+53
+00:03:38.839 --> 00:03:41.789
+Então distintos estabelecimentos de uma empresa
+
+54
+00:03:41.800 --> 00:03:44.110
+não são considerados pessoas distintas.
+
+55
+00:03:44.119 --> 00:03:47.309
+Então, isso quer dizer que se você tem um C N PJ.
+
+56
+00:03:47.320 --> 00:03:52.339
+Mas se você tem diferentes estabelecimentos vinculados àquele CNPJ,
+
+57
+00:03:52.350 --> 00:03:57.580
+o fato de uma exportação sair de um ou de outro estabelecimento, isso in difere.
+
+58
+00:03:57.589 --> 00:04:01.500
+Continua sendo, portanto, uma exportação por conta própria,
+
+59
+00:04:01.509 --> 00:04:04.080
+uma adu de exportação por conta própria.
+
+60
+00:04:04.089 --> 00:04:04.539
+Portanto,
+
+61
+00:04:04.550 --> 00:04:09.220
+ela pode incluir notas fiscais diferentes de filiados de uma mesma empresa.
+
+62
+00:04:09.229 --> 00:04:14.839
+Como eu disse, agora há pouco uma exportação por meio de operador
+
+63
+00:04:15.210 --> 00:04:17.140
+de remessa expressa ou postal, né?
+
+64
+00:04:17.149 --> 00:04:21.178
+Então, como a gente conhece os chamados, né, os Correios?
+
+65
+00:04:21.190 --> 00:04:25.459
+Né declarante, eh exportador, são, eh pessoas distintas, né?
+
+66
+00:04:25.470 --> 00:04:31.339
+Nesse caso o declarante eh e o exportador, no caso eh, enfim,
+
+67
+00:04:31.350 --> 00:04:33.200
+você tá ali sendo amparado,
+
+68
+00:04:33.209 --> 00:04:37.584
+seja por um transporte expresso ou pelo O correio é diferente de você.
+
+69
+00:04:37.595 --> 00:04:42.765
+O a, a empresa que tá, eh fazendo a declaração da exportação, né?
+
+70
+00:04:42.774 --> 00:04:46.744
+Eh então o declarante da do I deve ser eh empresa de transporte,
+
+71
+00:04:46.755 --> 00:04:49.744
+expresso internacional ou o correio, né?
+
+72
+00:04:49.755 --> 00:04:56.524
+Então, isso pra pequenas mercadorias, né? Pra eh envios! Eh vamos dizer
+
+73
+00:04:57.079 --> 00:05:00.369
+de volumes eh menores, né?
+
+74
+00:05:00.380 --> 00:05:05.850
+De Embarques de exportação eh mais específicos e reduzidos. Envio de amostra.
+
+75
+00:05:05.859 --> 00:05:08.510
+Isso é o envio de amostra, né?
+
+76
+00:05:08.519 --> 00:05:14.989
+Eh bom e três você tem, portanto, a exportação por conta e ordem de terceiro, né?
+
+77
+00:05:15.000 --> 00:05:15.750
+Onde?
+
+78
+00:05:16.369 --> 00:05:19.730
+Declarante? Exportador são pessoas distintas, né?
+
+79
+00:05:19.739 --> 00:05:25.320
+O declarante da doe é uma pessoa jurídica contratada para essa atividade.
+
+80
+00:05:25.329 --> 00:05:27.089
+EH incluindo o operador jurídico.
+
+81
+00:05:27.100 --> 00:05:29.619
+Então, isso normalmente acontece através de um trade, né?
+
+82
+00:05:29.630 --> 00:05:34.079
+É uma pessoa jurídica que quem faz ali a declaração da DOE
+
+83
+00:05:34.540 --> 00:05:41.029
+é uma empresa. Vamos dizer Eh? É uma em que você, ah, exportador.
+
+84
+00:05:41.040 --> 00:05:42.790
+Por alguma razão, né?
+
+85
+00:05:42.799 --> 00:05:46.290
+Seja comercial, logística, estratégia, você, estratégica,
+
+86
+00:05:46.299 --> 00:05:50.589
+você contratou pra fazer aquela chamada exportação?
+
+87
+00:05:50.600 --> 00:05:52.290
+Indireta, né?
+
+88
+00:05:52.299 --> 00:05:55.269
+E o despachante aduaneiro nunca será o declarante da doi,
+
+89
+00:05:55.279 --> 00:05:58.130
+atua como representante do declarante.
+
+90
+00:05:58.230 --> 00:06:01.420
+Isso é muito importante, porque muitas vezes, existe essa confusão, né?
+
+91
+00:06:01.429 --> 00:06:05.000
+O o o despachante aduaneiro, né?
+
+92
+00:06:05.010 --> 00:06:10.160
+Eh e aí eu aproveito aqui pra convidar vocês pra assistirem a nossa aula.
+
+93
+00:06:10.170 --> 00:06:14.320
+Sobre desembaraço aduaneiro, a gente tem uma aula sobre o desembaraço aduaneiro,
+
+94
+00:06:14.329 --> 00:06:18.600
+onde a gente fala bastante sobre o despachante aduaneiro, as responsabilidades,
+
+95
+00:06:18.609 --> 00:06:20.359
+os riscos compartilhados, né?
+
+96
+00:06:20.369 --> 00:06:21.859
+Com esse importante
+
+97
+00:06:22.190 --> 00:06:23.839
+eh, né?
+
+98
+00:06:23.850 --> 00:06:28.739
+Com esse impor importante prestador de serviço da cadeia eh de comércio exterior,
+
+99
+00:06:28.750 --> 00:06:29.000
+né?
+
+100
+00:06:29.010 --> 00:06:33.739
+Pras exportações? Então, eh E essa é uma dúvida, né? Que sempre surge, né?
+
+101
+00:06:33.750 --> 00:06:38.920
+Se o despachante aduaneiro e ele pode ser o declarante da doe,
+
+102
+00:06:38.929 --> 00:06:41.440
+não ele não é o declarante, né?
+
+103
+00:06:41.450 --> 00:06:46.440
+Ele atua exclusivamente, como seu representante o despachante.
+
+104
+00:06:46.450 --> 00:06:51.779
+Ele é o representante legal, portanto, do do exportador

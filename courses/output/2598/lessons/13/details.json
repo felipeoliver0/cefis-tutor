@@ -1,0 +1,33 @@
+{
+  "id": 467931,
+  "title": "Ágio e Deságio",
+  "position": 13,
+  "duration": 471,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9cb24514-7efb-47f6-809f-7f2ce7db27b7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9cb24514-7efb-47f6-809f-7f2ce7db27b7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9cb24514-7efb-47f6-809f-7f2ce7db27b7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9cb24514-7efb-47f6-809f-7f2ce7db27b7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9cb24514-7efb-47f6-809f-7f2ce7db27b7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

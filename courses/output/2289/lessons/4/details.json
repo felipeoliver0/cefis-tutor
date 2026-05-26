@@ -1,0 +1,33 @@
+{
+  "id": 464617,
+  "title": "O que é assessoria?",
+  "position": 4,
+  "duration": 338,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/52a5e68e-7a70-4cb8-b223-5a4ceafa43d9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52a5e68e-7a70-4cb8-b223-5a4ceafa43d9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52a5e68e-7a70-4cb8-b223-5a4ceafa43d9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52a5e68e-7a70-4cb8-b223-5a4ceafa43d9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52a5e68e-7a70-4cb8-b223-5a4ceafa43d9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

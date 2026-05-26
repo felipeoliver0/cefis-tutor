@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.539
+o evento de desligamento Eu quero mostrar pra vocês na prática,
+
+2
+00:00:03.549 --> 00:00:06.179
+porque ele não mudou nada, basicamente,
+
+3
+00:00:06.190 --> 00:00:10.779
+nada na verdade em relação ao que era antes do início do social.
+
+4
+00:00:10.789 --> 00:00:14.880
+Tá? Então eu fiz aqui o cálculo da rescisão do meu trabalhador.
+
+5
+00:00:15.649 --> 00:00:17.379
+E aí eu imagino que vocês eh,
+
+6
+00:00:17.389 --> 00:00:20.379
+Estão imaginando que eu vou falar que agora o próprio
+
+7
+00:00:20.389 --> 00:00:23.819
+sistema já vai fazer o envio da informação social e,
+
+8
+00:00:23.829 --> 00:00:27.319
+nesse caso, não esse meu sistema,
+
+9
+00:00:27.909 --> 00:00:32.560
+ele utilizou uma dinâmica diferente para o evento de rescisão. Por quê?
+
+10
+00:00:32.569 --> 00:00:37.700
+E eu até entendo isso porque nós que estamos em escritórios e empresas,
+
+11
+00:00:37.709 --> 00:00:44.799
+é muito comum os nossos empregadores pedirem simulações de empregados né,
+
+12
+00:00:44.810 --> 00:00:46.319
+para fazerem a rescisão.
+
+13
+00:00:46.330 --> 00:00:51.119
+Então assim ah faz a rescisão de quanto ficaria pra mandar o Lucas embora.
+
+14
+00:00:51.130 --> 00:00:57.459
+Então, isso é muito comum. E nós fazemos essas simulações aonde no próprio sistema
+
+15
+00:00:57.939 --> 00:01:04.349
+e aí, pessoal, eh se toda vez que nós fizéssemos a simulação fosse pro social,
+
+16
+00:01:04.360 --> 00:01:05.910
+a gente teria como apagar, né?
+
+17
+00:01:05.919 --> 00:01:08.190
+Porque eu disse que nada no e social é definitivo,
+
+18
+00:01:08.199 --> 00:01:12.360
+mas a gente teria o trabalho de ficar apagando do esocial e fazendo de novo,
+
+19
+00:01:12.370 --> 00:01:16.169
+apagando e fazendo pra evitar isso o que que aconteceu
+
+20
+00:01:16.800 --> 00:01:21.209
+pra esse evento em específico eu tenho que tar, ou seja,
+
+21
+00:01:21.220 --> 00:01:26.309
+eu tenho que pegar o meu botão e clicar aqui em em área social
+
+22
+00:01:27.160 --> 00:01:30.889
+e a partir desse momento a rescisão enviada com sucesso.
+
+23
+00:01:30.900 --> 00:01:38.129
+A partir desse momento vai subir aqui pra mim, o evento da rescisão tá.
+
+24
+00:01:38.139 --> 00:01:41.970
+Então você já viu que subiu aqui o evento da rescisão?
+
+25
+00:01:41.980 --> 00:01:47.730
+Então vocês viram que aqui ele já eh, Subiu o evento após o start,
+
+26
+00:01:47.739 --> 00:01:49.669
+Então essa é a grande diferença.
+
+27
+00:01:49.680 --> 00:01:53.529
+Outra diferença que nós temos nesse evento é a data de envio. Por quê?
+
+28
+00:01:53.540 --> 00:01:55.260
+Com esse sabe de admissão?
+
+29
+00:01:55.269 --> 00:01:57.250
+Eu disse que os demais nós temos até o dia quinze
+
+30
+00:01:57.260 --> 00:02:00.300
+do mês seguinte pra fazer o envio esse não esse.
+
+31
+00:02:00.309 --> 00:02:04.699
+Nós temos dez dias a partir da data da rescisão para fazermos o envio.
+
+32
+00:02:04.709 --> 00:02:10.339
+Então esse prazo é justamente o prazo que que a empresa tem pra pagar o trabalhador.
+
+33
+00:02:10.350 --> 00:02:12.259
+E é o prazo que a empresa tem também pra pagar a
+
+34
+00:02:12.270 --> 00:02:15.460
+multa do F T S então C que envolve a rescisão.
+
+35
+00:02:15.470 --> 00:02:19.800
+São dez dias a partir da data da rescisão e aqui não é diferente. Tá bom pessoal

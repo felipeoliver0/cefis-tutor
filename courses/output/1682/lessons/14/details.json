@@ -1,0 +1,33 @@
+{
+  "id": 455587,
+  "title": "Cuidados entre Custos e Despesas",
+  "position": 14,
+  "duration": 112,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7d7cd9e5-ce05-4bec-805a-113112dd9937/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7d7cd9e5-ce05-4bec-805a-113112dd9937/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7d7cd9e5-ce05-4bec-805a-113112dd9937/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7d7cd9e5-ce05-4bec-805a-113112dd9937/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7d7cd9e5-ce05-4bec-805a-113112dd9937/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

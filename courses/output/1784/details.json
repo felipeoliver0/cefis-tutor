@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1784,
+    "title": "Compliance trabalhista",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Compliance trabalhista, você vai aprender todas as características e aplicações deste programa de integridade adotado pelas empresas, a fim de minimizar riscos relacionados à condutas ilegais. Você vai aprender desde o conceito de compliance, marcos legais, benefícios do compliance, aplicação do compliance trabalhista nas organizações, estudos de caso, pilares e ferramentas, comprometimento da alta e média administração, análise de risco, exemplos, regulamento interno, código de conduta, plano de investigação, auditoria trabalhista, questões de revisão e muitos outros pontos importantes para que você aplique no dia-a-dia os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/9bbfd7db59e4e2642ac69deb4779830d1728384341.jpg",
+    "goals": [
+      "Apresentar práticas do compliance trabalhista."
+    ],
+    "teacher": {
+      "id": 487793,
+      "name": "HUGO MOREIRA DE OLIVEIRA",
+      "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiCCHm3fELNgyc4naCixKojzo7tGOzi0Akz2VIGhQ=s96-c"
+    },
+    "duration": 9849,
+    "keywords": "compliance;Compliance Trabalhista",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 41,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 480,
+    "averageRating": 9.29,
+    "practiceAverage": 9.06,
+    "trailer": {
+      "id": "9cd0bf5d-91bf-4b6e-8ca3-6ffc21d4daae",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9cd0bf5d-91bf-4b6e-8ca3-6ffc21d4daae/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9cd0bf5d-91bf-4b6e-8ca3-6ffc21d4daae/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9cd0bf5d-91bf-4b6e-8ca3-6ffc21d4daae/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9cd0bf5d-91bf-4b6e-8ca3-6ffc21d4daae/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-11-13T19:54:45.000Z",
+      "updatedAt": "2021-11-13T20:54:44.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-11-19T14:55:26.000Z",
+    "recordedAt": "2021-10-27T00:00:00.000Z",
+    "createdAt": "2021-10-25T14:45:12.000Z"
+  }
+}

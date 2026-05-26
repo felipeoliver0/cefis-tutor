@@ -1,0 +1,33 @@
+{
+  "id": 465438,
+  "title": "A4 - Safra, safrinha e entressafra",
+  "position": 5,
+  "duration": 321,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b47aaa75-d670-48b5-ac71-e5d1c4bbf78d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b47aaa75-d670-48b5-ac71-e5d1c4bbf78d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b47aaa75-d670-48b5-ac71-e5d1c4bbf78d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b47aaa75-d670-48b5-ac71-e5d1c4bbf78d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b47aaa75-d670-48b5-ac71-e5d1c4bbf78d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

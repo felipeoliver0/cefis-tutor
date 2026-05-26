@@ -1,0 +1,33 @@
+{
+  "id": 481830,
+  "title": "O sistema tributário nacional-",
+  "position": 5,
+  "duration": 375,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0128fe68-79db-4191-b534-aebae5179526/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0128fe68-79db-4191-b534-aebae5179526/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0128fe68-79db-4191-b534-aebae5179526/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0128fe68-79db-4191-b534-aebae5179526/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0128fe68-79db-4191-b534-aebae5179526/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4139,
+    "title": "Melhoria contínua e inovação",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Melhora contínua e inovação, você irá aprender na prática tudo o que precisa saber sobre como implementar a melhora contínua e inovação em sua empresa. Aprenderá os fundamentos e a prática de identificar necessidades dos clientes, analisar processos e fenômenos, e implementar ações de melhora contínua e inovação, além de outros temas para você que deseja se atualizar ou aprender tudo sobre melhora contínua e inovação.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/0a6dc8cb-2ba5-4fd8-998f-58f9d621b2fd-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Melhora contínua e inovação é a capacitação para a aplicação prática de metodologias de melhoria contínua e inovação, promovendo a transformação de processos e produtos, e a inovação de produtos e serviços."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 6135,
+    "keywords": "inovação melhora contínua",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 110,
+    "averageRating": 9.14,
+    "practiceAverage": 9.21,
+    "trailer": {
+      "id": "b134eef8-5a3a-45b1-8bcd-9fc74e804588",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b134eef8-5a3a-45b1-8bcd-9fc74e804588/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b134eef8-5a3a-45b1-8bcd-9fc74e804588/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b134eef8-5a3a-45b1-8bcd-9fc74e804588/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b134eef8-5a3a-45b1-8bcd-9fc74e804588/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-16T07:41:25.000Z",
+      "updatedAt": "2025-11-16T07:41:24.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-18T10:11:22.000Z",
+    "recordedAt": "2025-09-03T00:00:00.000Z",
+    "createdAt": "2025-11-15T16:47:24.000Z"
+  }
+}

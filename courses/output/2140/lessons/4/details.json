@@ -1,0 +1,33 @@
+{
+  "id": 462868,
+  "title": "Exames admissionais e licença maternidade",
+  "position": 4,
+  "duration": 347,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/47930e78-8033-4947-937c-47034b3e5547/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/47930e78-8033-4947-937c-47034b3e5547/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/47930e78-8033-4947-937c-47034b3e5547/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/47930e78-8033-4947-937c-47034b3e5547/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/47930e78-8033-4947-937c-47034b3e5547/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

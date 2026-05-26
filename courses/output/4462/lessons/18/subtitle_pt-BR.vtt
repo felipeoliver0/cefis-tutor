@@ -1,0 +1,197 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.200
+No cenário 2, uso dos emissores nacionais.
+
+3
+00:00:03.200 --> 00:00:05.240
+Então, existe uma integração simplificada.
+
+4
+00:00:05.240 --> 00:00:11.080
+Os contribuintes usam os emissores nacionais via web ou aplicativos.
+
+5
+00:00:11.080 --> 00:00:14.839
+Documento nasce em conformidade porque já está no Portal Nacional.
+
+6
+00:00:14.839 --> 00:00:19.320
+Porém, entretanto, nós estamos com uma dificuldade no Portal Nacional
+
+7
+00:00:19.320 --> 00:00:23.260
+porque ainda não existem campos próprios para o IVA Dual.
+
+8
+00:00:23.260 --> 00:00:27.120
+Município consome via API as informações.
+
+9
+00:00:27.120 --> 00:00:28.620
+Então, é ao contrário.
+
+10
+00:00:28.620 --> 00:00:32.020
+Então, existe a emissão do documento e aí, via API,
+
+11
+00:00:32.020 --> 00:00:36.859
+o município busca as informações para que ele consiga gerir o ISS.
+
+12
+00:00:36.859 --> 00:00:39.740
+Qual que é o fluxo do cenário 2?
+
+13
+00:00:39.740 --> 00:00:42.659
+Emissão direta no próprio Portal Nacional.
+
+14
+00:00:42.659 --> 00:00:47.679
+Validação centralizada, já seguindo as regras e os cálculos do IVA Dual.
+
+15
+00:00:47.679 --> 00:00:54.579
+O registro já na ADN, ou seja, não existe risco de não receber a informação.
+
+16
+00:00:54.579 --> 00:00:57.619
+Distribuição ao município via API.
+
+17
+00:00:57.619 --> 00:00:58.619
+Então, o município ainda
+
+18
+00:00:58.619 --> 00:01:03.920
+recebe a questão do ISS e a integração de dados via apuração assistida.
+
+19
+00:01:03.920 --> 00:01:07.859
+Dessa forma, é o que a gente está vendo naquelas regiões
+
+20
+00:01:07.859 --> 00:01:11.359
+que foram quase 100% garantidos os municípios.
+
+21
+00:01:11.359 --> 00:01:15.700
+A ideia é que aconteça isso daqui
+
+22
+00:01:15.700 --> 00:01:20.739
+nesses municípios que aderiram 100% ao Portal Nacional.
+
+23
+00:01:20.739 --> 00:01:22.540
+Dentro do cenário 1,
+
+24
+00:01:22.540 --> 00:01:28.340
+existe, então, grandes capitais e metrópoles com parque tecnológico maduro,
+
+25
+00:01:28.340 --> 00:01:33.019
+com complexidade alta .
+
+26
+00:01:33.019 --> 00:01:35.920
+Então exige desenvolvimento de integração e isso no cenário
+
+27
+00:01:35.920 --> 00:01:39.780
+1, porque ela mantém a plataforma dela.
+
+28
+00:01:39.780 --> 00:01:46.599
+Existe um custo médio alto porque ela mantém ainda o custo para fazer a sua apuração.
+
+29
+00:01:46.599 --> 00:01:50.260
+Para ter a plataforma para fazer apuração do ISS.
+
+30
+00:01:50.260 --> 00:01:54.299
+O prazo longo, porque tem uma curva de Là lá lá
+
+31
+00:01:54.299 --> 00:01:57.099
+de conhecimento e desenvolvimento entre testes PI E governança total sobre o control do local da arrecadação do ISS.
+
+32
+00:01:57.099 --> 00:01:57.939
+Phrases, conclu Где vem? Já não vem as telegramas mais institucionais, porém do multiplication a behavioral do ISS...
+
+33
+00:01:58.340 --> 00:02:00.239
+cenário 2 que existe
+
+34
+00:02:00.239 --> 00:02:01.540
+então no portal nacional
+
+35
+00:02:01.540 --> 00:02:04.519
+pequenas e médias municípios
+
+36
+00:02:04.519 --> 00:02:06.180
+que aderiram aqui já
+
+37
+00:02:06.180 --> 00:02:08.419
+ao portal nacional, complexidade
+
+38
+00:02:08.419 --> 00:02:10.280
+baixa porque o uso
+
+39
+00:02:10.280 --> 00:02:11.759
+é direto na plataforma
+
+40
+00:02:11.759 --> 00:02:14.240
+o custo zero porque a plataforma
+
+41
+00:02:14.240 --> 00:02:16.240
+ela é gratuita, então como
+
+42
+00:02:16.240 --> 00:02:18.580
+eu disse para vocês, alguns municípios fizeram
+
+43
+00:02:18.580 --> 00:02:20.580
+adesão porque tem um custo alto
+
+44
+00:02:20.580 --> 00:02:22.300
+para manter essa plataforma atual
+
+45
+00:02:22.300 --> 00:02:24.319
+o prazo imediato porque
+
+46
+00:02:24.319 --> 00:02:26.479
+a plataforma já está preparada
+
+47
+00:02:26.479 --> 00:02:28.240
+para o IVA dual e a
+
+48
+00:02:28.240 --> 00:02:30.419
+governância conforme a conformidade
+
+49
+00:02:30.419 --> 00:02:31.819
+já seguindo as regras
+
+50
+00:02:31.819 --> 00:02:33.500
+da reforma tributária

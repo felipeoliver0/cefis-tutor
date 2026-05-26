@@ -1,0 +1,33 @@
+{
+  "id": 454162,
+  "title": "Princípios falimentares | parte 1",
+  "position": 15,
+  "duration": 349,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0aa12a28-6bb9-4d4c-9e08-f48c55cd859a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0aa12a28-6bb9-4d4c-9e08-f48c55cd859a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0aa12a28-6bb9-4d4c-9e08-f48c55cd859a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0aa12a28-6bb9-4d4c-9e08-f48c55cd859a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0aa12a28-6bb9-4d4c-9e08-f48c55cd859a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

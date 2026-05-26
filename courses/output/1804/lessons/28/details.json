@@ -1,0 +1,33 @@
+{
+  "id": 457616,
+  "title": "Contratos Bancários",
+  "position": 28,
+  "duration": 237,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fb561e88-f2ce-4011-92b9-d7d561cd08fe/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fb561e88-f2ce-4011-92b9-d7d561cd08fe/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fb561e88-f2ce-4011-92b9-d7d561cd08fe/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fb561e88-f2ce-4011-92b9-d7d561cd08fe/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fb561e88-f2ce-4011-92b9-d7d561cd08fe/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

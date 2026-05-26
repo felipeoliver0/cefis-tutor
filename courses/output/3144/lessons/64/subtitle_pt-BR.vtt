@@ -1,0 +1,633 @@
+WEBVTT
+
+1
+00:00:00.150 --> 00:00:01.059
+pessoal.
+
+2
+00:00:01.740 --> 00:00:03.430
+Vamos lá como forma de entender,
+
+3
+00:00:03.440 --> 00:00:07.030
+passo a passo o reflexo de cada lançamento contábil do balancete.
+
+4
+00:00:07.039 --> 00:00:11.390
+Vamos eventual lançamento lançamento demonstrando reflexo no saldo contábil?
+
+5
+00:00:11.399 --> 00:00:13.369
+Após cada papo,
+
+6
+00:00:14.840 --> 00:00:16.389
+Vamos lá para o nosso
+
+7
+00:00:17.159 --> 00:00:21.190
+modelo final aí de prática de atividade que que acontece?
+
+8
+00:00:21.200 --> 00:00:22.770
+Nós não vamos falar nada diferente do que
+
+9
+00:00:22.780 --> 00:00:25.610
+a gente já contou até agora nesse treinamento.
+
+10
+00:00:25.620 --> 00:00:29.090
+Então a gente vai basicamente pegar aqui todos
+
+11
+00:00:29.100 --> 00:00:32.889
+os lançamentos contábeis que já estão sendo feitos,
+
+12
+00:00:32.900 --> 00:00:35.090
+que já estão feitos aqui.
+
+13
+00:00:35.099 --> 00:00:37.909
+E a gente vai refletir lá no nosso balanço.
+
+14
+00:00:38.819 --> 00:00:40.770
+Olá pessoal, Bom
+
+15
+00:00:41.380 --> 00:00:42.049
+eh
+
+16
+00:00:42.869 --> 00:00:44.419
+primeiro lançamento, né?
+
+17
+00:00:45.680 --> 00:00:47.310
+Vamos lá pessoal. O que que acontece
+
+18
+00:00:48.110 --> 00:00:52.500
+aqui? Quem já fez o nosso curso de excel pra contadores, né?
+
+19
+00:00:52.509 --> 00:00:54.700
+Vai entender muito bem o que que a gente fez.
+
+20
+00:00:55.270 --> 00:01:00.119
+Temos aqui o modelo de um balancete na qual tínhamos lá os saldos anteriores.
+
+21
+00:01:00.130 --> 00:01:03.919
+Tá de ativo, de passivo, resultado não,
+
+22
+00:01:03.930 --> 00:01:05.900
+porque o resultado vai ser o desse exercício,
+
+23
+00:01:07.430 --> 00:01:08.860
+O que que a gente fez pessoal
+
+24
+00:01:09.709 --> 00:01:10.680
+nesse modelo aqui?
+
+25
+00:01:10.690 --> 00:01:12.400
+Nós fizemos vários lançamentos,
+
+26
+00:01:12.410 --> 00:01:15.559
+e aqui eu coloquei o código da conta e fizemos o
+
+27
+00:01:15.569 --> 00:01:19.839
+famoso soma C trazendo o total de débito e crédito,
+
+28
+00:01:19.849 --> 00:01:21.680
+e ele vai gerar os movimentos.
+
+29
+00:01:21.690 --> 00:01:25.500
+Mas vamos lá eh o primeiro lançamento aqui,
+
+30
+00:01:25.510 --> 00:01:28.940
+ele fez um recebimento de clientes de sete mil reais.
+
+31
+00:01:28.949 --> 00:01:31.779
+Tinha um saldo lá de clientes de sete mil
+
+32
+00:01:32.040 --> 00:01:35.870
+certo? E a gente recebeu no lançamento de receber de clientes? Vai o quê?
+
+33
+00:01:35.879 --> 00:01:40.190
+Pessoal debitar o banco e creditar o contas a receber
+
+34
+00:01:40.199 --> 00:01:43.089
+no momento que a gente faz esse lançamento aqui Oh,
+
+35
+00:01:43.099 --> 00:01:46.050
+meu balancete alimentou da seguinte forma Tinha sete
+
+36
+00:01:46.059 --> 00:01:48.879
+de saldo de clientes Crédito sete zerou.
+
+37
+00:01:48.889 --> 00:01:51.389
+Tinha seis, entrou sete. Ficamos com o saldo
+
+38
+00:01:52.260 --> 00:01:55.129
+e caixa equivalente de caixa de treze mil.
+
+39
+00:01:55.809 --> 00:02:00.220
+Bom tinha um saldo de SMS a pagar. Efetuamos o pagamento.
+
+40
+00:02:00.230 --> 00:02:03.699
+No momento que eu efetuei o pagamento, vai acontecer o quê? Pessoal.
+
+41
+00:02:03.709 --> 00:02:05.239
+Vou debitar o meu
+
+42
+00:02:06.230 --> 00:02:12.399
+o meu passivo circulante e creditar o banco Vamos lá! Oh, saiu dez mil do banco!
+
+43
+00:02:12.410 --> 00:02:17.699
+Zeramos o ICMS a recolher. Tava em dez. Pagamos ele a pagar a dívida lá Com o estado
+
+44
+00:02:18.500 --> 00:02:21.429
+foi feita uma venda de mercadoria conforme a nota fiscal.
+
+45
+00:02:21.440 --> 00:02:22.350
+Oito, dois, sete, um,
+
+46
+00:02:22.360 --> 00:02:26.369
+setenta e oito mil e quinhentos dezessete c M F C M v quarenta e cinco
+
+47
+00:02:27.270 --> 00:02:31.820
+Bom que que a gente tem que entender pessoal, fiz a venda,
+
+48
+00:02:31.830 --> 00:02:36.679
+tem o que uma receita e geram contas a receber tem uma dedução da
+
+49
+00:02:36.690 --> 00:02:41.960
+receita e o ICMS a pagar baixo o meu estoque e lanço pro custo.
+
+50
+00:02:41.970 --> 00:02:45.940
+Então vamos ver aqui todos os comportamentos dessa operação,
+
+51
+00:02:45.949 --> 00:02:49.880
+Primeiro lançamento aqui que a gente vai ter um reflexo no nosso resultado.
+
+52
+00:02:49.889 --> 00:02:54.740
+Então, o que que aconteceu lá? Oh? Gerei um contas a receber de setenta e oito e meio
+
+53
+00:02:55.610 --> 00:02:59.279
+gerei um ICMS apelar a a recolher de treze.
+
+54
+00:03:00.350 --> 00:03:03.559
+Baixamos o estoque. Tinha quarenta e cinco mil de estoque.
+
+55
+00:03:03.570 --> 00:03:10.259
+Baixamos o estoque, Registramos a receita, a dedução da receita e o nosso custo.
+
+56
+00:03:10.270 --> 00:03:12.520
+Então a gente tá tendo aí nesse momento um lucro
+
+57
+00:03:12.529 --> 00:03:15.979
+de vinte cento e cinquenta e cinco OPA Beleza.
+
+58
+00:03:16.699 --> 00:03:19.389
+Foi efetuada uma nova compra de mercadoria,
+
+59
+00:03:19.399 --> 00:03:24.389
+conforme a nota fiscal dezessete oito cinco dois O preço da mercadoria foi doze,
+
+60
+00:03:24.399 --> 00:03:28.649
+tem o IPI destacado e não recuperava o ICMS a recuperar
+
+61
+00:03:29.419 --> 00:03:33.309
+o que que vai acontecer? Pessoal vai entrar doze mil de meu estoque.
+
+62
+00:03:33.320 --> 00:03:38.910
+Vou gerar o ICMS a recuperar em contas, a pagar no que eu vou lá, no balancete, lembra.
+
+63
+00:03:38.919 --> 00:03:42.009
+O meu estoque tinha zerado, né?
+
+64
+00:03:43.289 --> 00:03:45.580
+Meu estoque tinha zerado que eu tinha quarenta e cinco,
+
+65
+00:03:45.589 --> 00:03:48.740
+quarenta e cinco entrou onze e seiscentos gerei o ICMS
+
+66
+00:03:48.750 --> 00:03:52.839
+a recolher e gerei um fornecedores a pagar doze e seiscentos
+
+67
+00:03:54.500 --> 00:03:58.009
+recebimento total de venda mediante a nota fiscal.
+
+68
+00:03:58.020 --> 00:04:00.570
+Oito dois sete um Aquela venda que a gente fez
+
+69
+00:04:00.580 --> 00:04:03.490
+o cliente foi lá e pagou que que aconteceu pessoal,
+
+70
+00:04:03.500 --> 00:04:05.850
+entrou o dinheiro no banco e zerou quantos vai receber
+
+71
+00:04:06.610 --> 00:04:11.679
+Entrou o dinheiro no banco, Então aqui já tá acumulando vários lançamentos e
+
+72
+00:04:12.419 --> 00:04:16.690
+clientes também teve algum recebimento de um saldo inicial de sete mil?
+
+73
+00:04:16.700 --> 00:04:19.910
+Mais agora o setenta e oito e meio. Então tem o zero de quantos a receber.
+
+74
+00:04:19.920 --> 00:04:20.488
+Nesse momento
+
+75
+00:04:22.540 --> 00:04:28.630
+foi feito o pagamento dos salários pago, o salário INSS e f GTS.
+
+76
+00:04:28.640 --> 00:04:31.559
+Então vai sair do banco. Beleza, vamos, vamos ver.
+
+77
+00:04:31.570 --> 00:04:32.950
+Quanto que vai sair do banco,
+
+78
+00:04:32.959 --> 00:04:36.809
+vai sair dezenove mil do banco e eu vou liquidar esses débitos de folha.
+
+79
+00:04:37.589 --> 00:04:41.519
+Saiu dezoito mil do banco, Então tá dentro dessa movimentação, na hora que eu vou lá,
+
+80
+00:04:41.529 --> 00:04:46.980
+no meu passivo, salários INSS e f GTS foi recolhido ao zero.
+
+81
+00:04:47.579 --> 00:04:48.690
+Lisa.
+
+82
+00:04:49.649 --> 00:04:52.089
+Se a provisão de folha, provisão de folha,
+
+83
+00:04:52.100 --> 00:04:56.519
+inclusive é praticamente os mesmos números do nosso exercício anterior, né?
+
+84
+00:04:56.529 --> 00:04:58.420
+Uma ou outra situação específica?
+
+85
+00:04:58.429 --> 00:05:00.750
+Então tivemos o salário de treze,
+
+86
+00:05:00.760 --> 00:05:04.540
+mil e noventa e oito que é o salário de doze mais o maternidade mais a
+
+87
+00:05:04.549 --> 00:05:09.380
+família oito cinco cinco de n s s mais cinquenta e quatro Falta e atraso.
+
+88
+00:05:09.390 --> 00:05:10.829
+A gente descontou do salário.
+
+89
+00:05:10.839 --> 00:05:15.119
+A gente vai pagar ali os colaboradores doze cento e oitenta e nove
+
+90
+00:05:15.579 --> 00:05:18.790
+o n s S mais o descontado menos.
+
+91
+00:05:18.799 --> 00:05:21.709
+O salário família materna é dois Trezentos e setenta e seis.
+
+92
+00:05:21.720 --> 00:05:24.970
+Como que fica essa contabilização aqui, pessoal,
+
+93
+00:05:26.559 --> 00:05:29.989
+a gente vai lançar despesa de salário,
+
+94
+00:05:30.000 --> 00:05:33.549
+vamos reduzir a despesa do salário dos cinquenta e quatro mil, né?
+
+95
+00:05:33.559 --> 00:05:36.109
+Dos cinquenta e quatro mil, cinquenta e quatro reais das faltas
+
+96
+00:05:36.700 --> 00:05:41.049
+tem os salários e ordenados a pagar de doze. Tem o INSS,
+
+97
+00:05:42.950 --> 00:05:47.559
+a despesa de INSS e o INSS é recolher mais um INSS.
+
+98
+00:05:47.570 --> 00:05:52.500
+Que pessoal retire dos colaboradores menos o salário família, o salário mater
+
+99
+00:05:53.190 --> 00:05:55.720
+e a despesa de f GTS ou não que eu vou
+
+100
+00:05:55.730 --> 00:05:59.380
+nos salários recolher de doze INSS a recolher f GPS.
+
+101
+00:05:59.390 --> 00:06:01.579
+Vou lá no meu resultado,
+
+102
+00:06:01.589 --> 00:06:05.679
+oh salários e ordenados de uma despesa de onze INSS
+
+103
+00:06:05.690 --> 00:06:09.899
+de dois e seiscentos e FPS de novecentos e sessenta reais
+
+104
+00:06:10.690 --> 00:06:13.980
+bom, seguindo aí venda de ativo imobilizado,
+
+105
+00:06:13.989 --> 00:06:16.739
+conforme a nota fiscal tal de barra
+
+106
+00:06:16.750 --> 00:06:19.820
+entulhos que que aconteceu tinha um imobilizado?
+
+107
+00:06:19.829 --> 00:06:20.540
+Vamos ver como é que tá.
+
+108
+00:06:20.549 --> 00:06:24.579
+O nosso balanço dos imobilizados tem quatrocentos e seis
+
+109
+00:06:24.589 --> 00:06:26.859
+de imobilizado e cento e dez de depreciação.
+
+110
+00:06:26.869 --> 00:06:31.760
+Uma parte do imobilizado a gente fez o que fez uma venda, vendeu um caminhão lá.
+
+111
+00:06:32.579 --> 00:06:36.170
+Como que funciona essa operação de venda de imobilizado pessoal?
+
+112
+00:06:37.010 --> 00:06:41.980
+Eu baixo a depreciação acumulada e logo jogo pra despesa.
+
+113
+00:06:41.989 --> 00:06:45.940
+Eu baixo o imobilizado e jogo pra despesa,
+
+114
+00:06:45.950 --> 00:06:52.839
+lanço as outras receitas de venda de imobilizado e Gero o que uma receita
+
+115
+00:06:53.880 --> 00:06:58.529
+certo? Eu gero outras contas a receber, que ele vai me pagar no prazo e a receita?
+
+116
+00:06:58.540 --> 00:07:02.690
+Então vamos ver como é que vai ficar isso aqui lá no imobilizado baixei o bem.
+
+117
+00:07:02.700 --> 00:07:09.010
+Em setenta e cinco baixei a depreciação no resultado setenta e dois mil
+
+118
+00:07:09.019 --> 00:07:13.929
+de venda do imobilizado menos cinquenta e cinquenta mil da baixa do mesmo,
+
+119
+00:07:13.940 --> 00:07:18.029
+que é setenta e cinco do valor do bem menos vinte e cinco da depreciação acumulada.
+
+120
+00:07:18.769 --> 00:07:22.600
+Okay Bom, vamos seguindo aí
+
+121
+00:07:23.750 --> 00:07:28.160
+tivemos a depreciação do período depreciação contábil do período,
+
+122
+00:07:28.170 --> 00:07:31.959
+que é o que a depreciação dos imobilizados que a gente já tem.
+
+123
+00:07:31.970 --> 00:07:37.420
+Então eu lanço uma despesa de depreciação e a depreciação acumulada.
+
+124
+00:07:37.429 --> 00:07:41.619
+Se eu for aqui na conta de depreciação
+
+125
+00:07:45.809 --> 00:07:48.320
+tá com sete mil e quinhentos de depreciação
+
+126
+00:07:48.980 --> 00:07:50.589
+e eu vou lá no imobilizado,
+
+127
+00:07:50.600 --> 00:07:53.730
+tenho o que os sete mil e quinhentos de despesa de depreciação.
+
+128
+00:07:54.429 --> 00:07:58.609
+Então eu tenho imobilizado nesse momento de que pessoal,
+
+129
+00:07:58.619 --> 00:08:00.720
+trezentos e trinta e um com noventa e dois tem um
+
+130
+00:08:00.730 --> 00:08:04.220
+saldo de duzentos e trinta e oito de ativo não circulante.
+
+131
+00:08:05.540 --> 00:08:07.390
+Bom, voltemos.
+
+132
+00:08:07.399 --> 00:08:10.230
+Aí foi efetuado um seguro de um veículo,
+
+133
+00:08:10.239 --> 00:08:15.230
+conforme a apólice oito sete nove dois dois cinco da Tóquio, Marino,
+
+134
+00:08:15.239 --> 00:08:18.230
+no valor de três cento e setenta e apropria.
+
+135
+00:08:18.239 --> 00:08:21.209
+O mensal dois duzentos e sessenta e quatro, vinte e um
+
+136
+00:08:22.279 --> 00:08:26.869
+foi pago à vista apólice no que foi pago à vista. Apólice que que acontece
+
+137
+00:08:28.250 --> 00:08:30.640
+acreditou lá no meu banco após estar junto com
+
+138
+00:08:30.649 --> 00:08:33.859
+esses lançamentos e eu constitui uma despesa apropriada.
+
+139
+00:08:33.869 --> 00:08:39.359
+Três cento e setenta lá, no meu despesa, desapropriar no meu balanço tá bom,
+
+140
+00:08:40.330 --> 00:08:44.780
+Teve um mês lá e eu fiz a apropriação da apólice no que eu fiz a apropriação da
+
+141
+00:08:44.789 --> 00:08:48.219
+despesa eu vou reduzir o meu ativo circulante duzentos
+
+142
+00:08:48.229 --> 00:08:50.880
+e sessenta e quatro e vou constituir a despesa.
+
+143
+00:08:50.890 --> 00:08:51.219
+Oh!
+
+144
+00:08:51.229 --> 00:08:53.760
+Três cento e setenta menos duzentos e setenta e quatro
+
+145
+00:08:53.770 --> 00:08:57.000
+ficou dois novecentos e seis e tem a despesa com seguros
+
+146
+00:08:58.440 --> 00:09:01.710
+a despesa com seguros duzentos e sessenta e quatro.
+
+147
+00:09:02.460 --> 00:09:06.969
+Foi efetuada a devolução de parte da venda da Nota fiscal oito dois sete um,
+
+148
+00:09:06.979 --> 00:09:09.409
+sendo devolvido o montante de dez mil.
+
+149
+00:09:09.979 --> 00:09:11.169
+Olha só pessoal,
+
+150
+00:09:11.179 --> 00:09:14.229
+aquela venda que a gente fez e recebeu a gente
+
+151
+00:09:14.239 --> 00:09:17.130
+agora teve que devolver uma parte e devolver dinheiro.
+
+152
+00:09:17.830 --> 00:09:23.739
+Então eu tive uma devolução de venda contra adiantamento de cliente. Tá bom,
+
+153
+00:09:24.760 --> 00:09:30.809
+teve um ICMS a recuperar que gerou sobre a entrada e o retorno no meu estoque.
+
+154
+00:09:30.820 --> 00:09:32.469
+Então o que que eu faço aqui? Oh,
+
+155
+00:09:33.090 --> 00:09:36.200
+vamos ver lá, oh! Devolução de venda
+
+156
+00:09:37.210 --> 00:09:42.099
+o retorno do estoque Eu tive uma baixa no custo, meu estoque aumentou Oh,
+
+157
+00:09:42.109 --> 00:09:47.900
+meu estoque aumentou e eu fiquei com cadê o adiantamento de cliente?
+
+158
+00:09:47.909 --> 00:09:49.159
+Deixa eu só aqui.

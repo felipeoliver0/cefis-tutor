@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2606,
+    "title": "Formação tributarista",
+    "subtitle": "Atuação, capacitação e oportunidades",
+    "summary": "Neste curso prático sobre a atuação do profissional tributarista você aprenderá desde definições importantes e aspectos relacionados ao mercado de trabalho até pontos relativos à Capacitação Técnica, como o Sistema Tributário nacional, espécies tributárias, obrigações acessórias, regimes de tributação, teses tributárias, procedimento administrativo tributário, bem como tópicos referentes às oportunidades, como a gestão do passivo tributário, consultoria, planejamento, precificação e muito mais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/8943862edde94d447ae25aa740912d5a1728383369.jpg",
+    "goals": [
+      "Apresentar desde definições importantes e aspectos relacionados ao mercado de trabalho até pontos relativos à Capacitação Técnica, como o Sistema Tributário nacional, espécies tributárias, obrigações acessórias, regimes de tributação, teses tributárias, procedimento administrativo tributário, bem como tópicos referentes às oportunidades, como a gestão do passivo tributário, consultoria, planejamento, precificação e muito mais."
+    ],
+    "teacher": {
+      "id": 109368,
+      "name": "RENATO S ZOUAIN",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629066.jpeg"
+    },
+    "duration": 5936,
+    "keywords": "formação tributarista;formação;tributarista;profissional tributarista",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 588,
+    "averageRating": 9.26,
+    "practiceAverage": 9.24,
+    "trailer": {
+      "id": "8d579fa9-3166-452b-aa3f-0fab9b29d8d1",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8d579fa9-3166-452b-aa3f-0fab9b29d8d1/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8d579fa9-3166-452b-aa3f-0fab9b29d8d1/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8d579fa9-3166-452b-aa3f-0fab9b29d8d1/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8d579fa9-3166-452b-aa3f-0fab9b29d8d1/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-07-05T20:58:14.000Z",
+      "updatedAt": "2023-07-05T20:58:13.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-07-14T12:09:59.000Z",
+    "recordedAt": "2023-06-08T00:00:00.000Z",
+    "createdAt": "2023-06-17T16:52:50.000Z"
+  }
+}

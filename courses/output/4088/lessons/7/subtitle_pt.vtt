@@ -1,0 +1,585 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.580
+Vejam só, pessoal, olha aqui essa atividade.
+
+2
+00:00:03.100 --> 00:00:07.900
+No planejamento de importação de insumos para a produção da empresa
+
+3
+00:00:07.900 --> 00:00:14.000
+EXP Import e Export, optante pelo lucro presumido,
+
+4
+00:00:14.240 --> 00:00:17.859
+regime cumulativo das contribuições para PIS e COFINS,
+
+5
+00:00:18.039 --> 00:00:23.559
+auxilia o contador no cálculo dos tributos incidentes na operação de importação,
+
+6
+00:00:23.699 --> 00:00:26.460
+considerando as variáveis apresentadas abaixo.
+
+7
+00:00:27.000 --> 00:00:28.519
+Ele diz o seguinte, modalidade
+
+8
+00:00:28.519 --> 00:00:29.660
+do despacho, normal,
+
+9
+00:00:30.179 --> 00:00:31.640
+tranquilo, isso aqui é só um dado.
+
+10
+00:00:32.179 --> 00:00:33.799
+O incontérmio, ex-work,
+
+11
+00:00:34.000 --> 00:00:36.000
+esse dado também tranquilo, não
+
+12
+00:00:36.000 --> 00:00:38.179
+interfere no cálculo. Quantidade
+
+13
+00:00:38.179 --> 00:00:38.939
+de adições,
+
+14
+00:00:39.679 --> 00:00:41.840
+quantidade de adições, ADI,
+
+15
+00:00:42.359 --> 00:00:44.100
+5. Valor
+
+16
+00:00:44.100 --> 00:00:45.679
+do frete, 2 mil dólares.
+
+17
+00:00:45.840 --> 00:00:48.119
+Valor do seguro, 2 mil e 500 dólares.
+
+18
+00:00:49.100 --> 00:00:52.939
+Valor da mercadoria no local de embarque, que é o VMLI, 12 mil.
+
+19
+00:00:53.079 --> 00:00:57.500
+Valor da mercadoria no local destino, 16 mil e 500, que é o VMLD.
+
+20
+00:00:58.420 --> 00:00:59.880
+Despesa doaneira, 250.
+
+21
+00:01:00.560 --> 00:01:01.759
+Câmbio, 5,20.
+
+22
+00:01:02.460 --> 00:01:05.260
+O valor da taxa do Cisco é R$ 115,67
+
+23
+00:01:05.260 --> 00:01:07.900
+e ele diz aqui nesse exemplo
+
+24
+00:01:07.900 --> 00:01:10.099
+que nós temos adicional de 1%
+
+25
+00:01:10.099 --> 00:01:11.719
+da COFINS, pode acontecer
+
+26
+00:01:11.719 --> 00:01:13.840
+então vamos fazer os
+
+27
+00:01:13.840 --> 00:01:16.060
+cálculos, ele vai pedir aqui o valor aduaneiro
+
+28
+00:01:16.060 --> 00:01:16.980
+para determinar
+
+29
+00:01:16.980 --> 00:01:20.159
+valor do imposto de importação 10%
+
+30
+00:01:20.159 --> 00:01:21.739
+ele nos deu aqui o valor do IPI
+
+31
+00:01:21.739 --> 00:01:23.620
+15%, PIS
+
+32
+00:01:23.620 --> 00:01:25.400
+2,10,
+
+33
+00:01:25.620 --> 00:01:27.739
+a alíquota da COFINS 9,65,
+
+34
+00:01:28.019 --> 00:01:30.079
+mas a gente tem 1% para acrescentar,
+
+35
+00:01:30.120 --> 00:01:31.519
+ela vai para 10,65,
+
+36
+00:01:32.439 --> 00:01:33.780
+e aí ele vai dizer aqui,
+
+37
+00:01:34.439 --> 00:01:36.819
+valor do ICMS 19%,
+
+38
+00:01:36.819 --> 00:01:38.620
+que é a alíquota interna do seu estado,
+
+39
+00:01:38.760 --> 00:01:40.780
+poderia ser 18, poderia ser 20,
+
+40
+00:01:40.879 --> 00:01:42.319
+poderia ser 20,5,
+
+41
+00:01:42.780 --> 00:01:45.040
+então como regra é a alíquota interna.
+
+42
+00:01:45.180 --> 00:01:47.659
+Um exemplo aqui eu vou utilizar com a alíquota de 19.
+
+43
+00:01:48.299 --> 00:01:50.060
+Questões para análise de viabilidade.
+
+44
+00:01:50.260 --> 00:01:52.579
+Qual o gasto total com a importação?
+
+45
+00:01:52.719 --> 00:01:54.540
+Qual o valor dos tributos recuperáveis?
+
+46
+00:01:55.019 --> 00:01:58.900
+Então, lembra que a nossa empresa é uma empresa do lucro presumido.
+
+47
+00:01:59.000 --> 00:02:04.019
+Então, a gente vai sentir o impacto disso aqui para a empresa do lucro presumido.
+
+48
+00:02:04.620 --> 00:02:05.079
+Beleza? E vamos fazer a empresa do lucro presumido. Beleza?
+
+49
+00:02:05.379 --> 00:02:09.000
+E vamos fazer a nossa base de cálculo.
+
+50
+00:02:09.479 --> 00:02:16.879
+Então temos aqui que o valor da mercadoria no local de embarque é 12 mil.
+
+51
+00:02:17.240 --> 00:02:19.340
+Então a gente começa aqui, 12 mil.
+
+52
+00:02:19.979 --> 00:02:26.819
+O valor da mercadoria no local de Embar, R$12.000.
+
+53
+00:02:30.280 --> 00:02:30.580
+Aí nós temos que adicionar na base de cálculo aqui,
+
+54
+00:02:32.560 --> 00:02:32.900
+para fazer a composição do valor aduaneiro,
+
+55
+00:02:34.800 --> 00:02:36.340
+o valor do frete, que é R$2.000.
+
+56
+00:02:39.020 --> 00:02:42.879
+O valor do seguro, R$2.500. Aí a gente soma isso, bem tranquilo.
+
+57
+00:02:43.939 --> 00:02:46.180
+Vamos pegar aqui o valor do
+
+58
+00:02:46.180 --> 00:02:47.419
+câmbio, que é
+
+59
+00:02:47.419 --> 00:02:50.000
+de quanto? 5.20
+
+60
+00:02:50.000 --> 00:02:51.180
+tá bom?
+
+61
+00:02:51.780 --> 00:02:53.159
+5.20
+
+62
+00:02:53.159 --> 00:02:56.039
+e faz a conversão agora, né?
+
+63
+00:02:56.960 --> 00:02:58.000
+que é o câmbio do dia
+
+64
+00:02:58.000 --> 00:03:00.439
+que você tá desembarassando lá a mercadoria
+
+65
+00:03:00.439 --> 00:03:02.199
+e aí você faz
+
+66
+00:03:02.199 --> 00:03:04.240
+essa conversão, chegou aqui
+
+67
+00:03:04.240 --> 00:03:06.699
+no valor aduaneiro de R$ 85.800.
+
+68
+00:03:07.240 --> 00:03:10.659
+É esse valor aduaneiro que é a base de cálculo
+
+69
+00:03:10.659 --> 00:03:14.259
+para você fazer o cálculo do imposto de importação.
+
+70
+00:03:14.539 --> 00:03:17.840
+O exercício nos deu lá que a alíquota é 10%,
+
+71
+00:03:17.840 --> 00:03:23.340
+que você busca lá na tabela TEC, conforme o NCM.
+
+72
+00:03:23.340 --> 00:03:29.800
+Então, 85 vezes 10% está aqui, 8.580.
+
+73
+00:03:30.120 --> 00:03:33.439
+Você vai buscar também agora a base de cálculo do IPI,
+
+74
+00:03:33.539 --> 00:03:35.379
+que é justamente o valor aduaneiro,
+
+75
+00:03:35.500 --> 00:03:39.439
+mais a soma do imposto de importação.
+
+76
+00:03:40.219 --> 00:03:43.099
+O exercício nos deu alíquota? Deu quanto?
+
+77
+00:03:43.099 --> 00:03:45.520
+Lá, o valor do IPI 15%.
+
+78
+00:03:45.520 --> 00:03:48.780
+Aí agora você faz a conta.
+
+79
+00:03:49.659 --> 00:03:54.460
+Então essa é a base de cálculo do IPI, o valor do IPI 14.157.
+
+80
+00:03:54.879 --> 00:03:57.340
+Então agora você pega o PIS.
+
+81
+00:03:57.819 --> 00:04:03.740
+O PIS é justamente você trazer o valor aduaneiro para o PIS e para a COFINS
+
+82
+00:04:03.740 --> 00:04:06.439
+nas respectivas alíquotas
+
+83
+00:04:06.439 --> 00:04:08.300
+aqui é 2.10
+
+84
+00:04:08.300 --> 00:04:10.020
+e aqui pessoal
+
+85
+00:04:10.020 --> 00:04:12.300
+ele trouxe a alíquota aqui para nós
+
+86
+00:04:12.300 --> 00:04:14.020
+de 9.65
+
+87
+00:04:14.020 --> 00:04:16.199
+só que tem um adicional
+
+88
+00:04:16.199 --> 00:04:17.819
+que o exercício deu
+
+89
+00:04:17.819 --> 00:04:20.720
+então aqui vai para 10.65
+
+90
+00:04:20.720 --> 00:04:22.180
+então veja
+
+91
+00:04:22.180 --> 00:04:22.620
+que aqui
+
+92
+00:04:22.620 --> 00:04:31.279
+85.800 vezes 2,10, vezes 10,65.
+
+93
+00:04:31.540 --> 00:04:36.019
+Você chegou aqui nos valores de PIS e COFINS.
+
+94
+00:04:36.120 --> 00:04:38.139
+Então aqui, tem aqui tranquilo.
+
+95
+00:04:38.459 --> 00:04:41.339
+O que você vai fazer agora? A base de cálculo do ICMS.
+
+96
+00:04:41.699 --> 00:04:44.259
+O ICMS, a base de cálculo dele é mais robusta.
+
+97
+00:04:44.259 --> 00:04:46.360
+Então você precisa do valor aduaneiro,
+
+98
+00:04:46.920 --> 00:04:49.740
+você precisa do valor do imposto de importação,
+
+99
+00:04:50.240 --> 00:04:52.899
+você precisa do valor do IPI,
+
+100
+00:04:53.800 --> 00:04:56.379
+você precisa do valor do PIS e COFINS.
+
+101
+00:04:57.540 --> 00:05:00.259
+PIS e COFINS.
+
+102
+00:05:01.100 --> 00:05:03.860
+E você precisa do valor da taxa do SISCOMEX,
+
+103
+00:05:03.959 --> 00:05:06.519
+que nós temos lá no exercício que nós temos lá no exercício
+
+104
+00:05:06.519 --> 00:05:15.959
+que ele disse que ela começa com um valor de 115,67
+
+105
+00:05:15.959 --> 00:05:20.360
+e ela tem as adições, ele disse aqui 5 adições
+
+106
+00:05:20.360 --> 00:05:23.839
+então a gente tem que fazer o cálculo dessas adições
+
+107
+00:05:23.839 --> 00:05:26.480
+então a gente precisa fazer o quê?
+
+108
+00:05:27.199 --> 00:05:36.920
+Entender essas adições para fazer o cálculo.
+
+109
+00:05:37.600 --> 00:05:39.779
+Então, o que a gente precisa aqui?
+
+110
+00:05:39.779 --> 00:05:48.699
+Precisa buscar aqui, INRFB taxa do Cisco Max.
+
+111
+00:05:49.519 --> 00:05:52.319
+No material tem, mas nós vamos pegar aqui, né?
+
+112
+00:05:52.959 --> 00:05:53.540
+Aqui, ó.
+
+113
+00:05:54.060 --> 00:05:58.079
+Então, até a segunda adição, 38,56.
+
+114
+00:05:58.319 --> 00:06:01.399
+Da terceira, a 30, 85.
+
+115
+00:06:02.139 --> 00:06:03.459
+Então, vamos fazer o cálculo.
+
+116
+00:06:04.199 --> 00:06:04.439
+Aqui.
+
+117
+00:06:04.860 --> 00:06:05.480
+Ela começa 115,67. Faz vamos fazer o cálculo. Aqui. Ela começa
+
+118
+00:06:05.480 --> 00:06:07.860
+115,67. Fazer aqui
+
+119
+00:06:07.860 --> 00:06:10.160
+do lado. Então são 5 adições.
+
+120
+00:06:10.680 --> 00:06:11.660
+A primeira é
+
+121
+00:06:11.660 --> 00:06:12.920
+qual o valor?
+
+122
+00:06:13.680 --> 00:06:14.939
+38,56.
+
+123
+00:06:15.259 --> 00:06:16.680
+38,56.
+
+124
+00:06:16.959 --> 00:06:18.920
+Uma adição. 38,56.
+
+125
+00:06:19.300 --> 00:06:20.060
+Duas adições.
+
+126
+00:06:20.779 --> 00:06:21.759
+Falta mais 3.
+
+127
+00:06:22.540 --> 00:06:24.600
+Que é a partir da terceira.
+
+128
+00:06:24.720 --> 00:06:26.560
+Como ele disse aqui. da terceira a quinta
+
+129
+00:06:26.560 --> 00:06:28.279
+é 30.85
+
+130
+00:06:28.279 --> 00:06:31.060
+então 30.85
+
+131
+00:06:31.060 --> 00:06:32.819
+30.85
+
+132
+00:06:33.740 --> 00:06:34.819
+30.85
+
+133
+00:06:36.060 --> 00:06:37.319
+30.85
+
+134
+00:06:37.319 --> 00:06:37.759
+então aqui
+
+135
+00:06:37.759 --> 00:06:40.980
+tem o valor 115
+
+136
+00:06:40.980 --> 00:06:43.180
+aí eu tenho 1 adição, 2 adições
+
+137
+00:06:43.180 --> 00:06:44.819
+3 adições, 4 adições
+
+138
+00:06:44.819 --> 00:06:45.939
+5 adições e 3 adições, 4 adições, 5 adições.
+
+139
+00:06:46.300 --> 00:06:47.680
+E agora eu faço isso, ó.
+
+140
+00:06:48.759 --> 00:06:53.720
+Respeitei o que a norma diz, soma 285.34.
+
+141
+00:06:54.000 --> 00:06:58.339
+Esse aqui é o valor da minha taxa do Syscomex, tá?
+
+142
+00:06:58.740 --> 00:07:02.920
+Lembrando que isso aqui, pessoal, lá dentro do sistema, tá, do Syscomex,
+
+143
+00:07:02.980 --> 00:07:04.060
+ele faz isso automático.
+
+144
+00:07:04.180 --> 00:07:08.540
+A partir do momento que você indica os NCMs lá do produto que você está fazendo,
+
+145
+00:07:08.620 --> 00:07:10.879
+ele já vai fazendo esse cálculo.
+
+146
+00:07:11.040 --> 00:07:11.519
+Beleza?

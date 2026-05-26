@@ -1,0 +1,33 @@
+{
+  "id": 466346,
+  "title": "Contingencia | parte 2",
+  "position": 24,
+  "duration": 596,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5ab3e8b5-a8c8-4af7-91f0-d7f03aa03c68/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ab3e8b5-a8c8-4af7-91f0-d7f03aa03c68/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ab3e8b5-a8c8-4af7-91f0-d7f03aa03c68/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ab3e8b5-a8c8-4af7-91f0-d7f03aa03c68/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ab3e8b5-a8c8-4af7-91f0-d7f03aa03c68/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

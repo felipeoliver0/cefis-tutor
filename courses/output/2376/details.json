@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2376,
+    "title": "Fator R",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Fator R você aprenderá, com base na legislação mais atualizada sobre o assunto, sobre as atividades, mudança no tributo, análise, requisitos para novas empresas, cálculo, condições e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/3008f203f458751bef7b2519c3dbd92a1727451407.jpg",
+    "goals": [
+      "Apresentar com base na legislação mais atualizada sobre o assunto, sobre as atividades, mudança no tributo, análise, requisitos para novas empresas, cálculo, condições e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 618416,
+      "name": "Mônica Porto",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1668862616.jpeg"
+    },
+    "duration": 3420,
+    "keywords": "fator R;Fator;R",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 2529,
+    "averageRating": 9.47,
+    "practiceAverage": 9.45,
+    "trailer": {
+      "id": "7b017c42-6fad-49bc-886f-2ae5153d1330",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7b017c42-6fad-49bc-886f-2ae5153d1330/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7b017c42-6fad-49bc-886f-2ae5153d1330/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7b017c42-6fad-49bc-886f-2ae5153d1330/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7b017c42-6fad-49bc-886f-2ae5153d1330/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-02T11:43:12.000Z",
+      "updatedAt": "2022-12-02T11:43:11.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-07T16:30:28.000Z",
+    "recordedAt": "2022-11-22T00:00:00.000Z",
+    "createdAt": "2022-11-22T10:51:48.000Z"
+  }
+}

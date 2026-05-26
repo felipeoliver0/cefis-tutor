@@ -1,0 +1,33 @@
+{
+  "id": 471921,
+  "title": "Envio de Evento S1260",
+  "position": 90,
+  "duration": 109,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7b5b78d9-5acf-474c-96ed-5e1cefb0efa4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b5b78d9-5acf-474c-96ed-5e1cefb0efa4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b5b78d9-5acf-474c-96ed-5e1cefb0efa4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b5b78d9-5acf-474c-96ed-5e1cefb0efa4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b5b78d9-5acf-474c-96ed-5e1cefb0efa4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

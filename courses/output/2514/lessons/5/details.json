@@ -1,0 +1,33 @@
+{
+  "id": 466681,
+  "title": "Registro de declaração",
+  "position": 5,
+  "duration": 326,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a738dfdb-3067-4c94-84e8-e8885a3ae0d1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a738dfdb-3067-4c94-84e8-e8885a3ae0d1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a738dfdb-3067-4c94-84e8-e8885a3ae0d1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a738dfdb-3067-4c94-84e8-e8885a3ae0d1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a738dfdb-3067-4c94-84e8-e8885a3ae0d1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

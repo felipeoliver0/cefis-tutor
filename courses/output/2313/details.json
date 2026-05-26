@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2313,
+    "title": "[Podcast #8] - Termos e intervenientes do CTe",
+    "subtitle": "[Podcast] - Termos e intervenientes do CTe",
+    "summary": "Neste PODCAST vamos falar sobre intervenientes e os termos utilizados no CT-e. Isso é muito importante para quem está começando agora a trabalhar com transporte, ou em uma empresa transportadora.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/c3020d3af82eab73cdb5b07f70e4c5691728428060.jpg",
+    "goals": [
+      "Neste PODCAST vamos falar sobre intervenientes e os termos utilizados no CT-e. Isso é muito importante para quem está começando agora a trabalhar com transporte, ou em uma empresa transportadora."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 588,
+    "keywords": "podcast;Termos e intervenientes do CTe",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 74,
+    "averageRating": 9.09,
+    "practiceAverage": 9.13,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-06T20:30:00.000Z",
+    "recordedAt": "2022-10-13T00:00:00.000Z",
+    "createdAt": "2022-10-15T10:20:38.000Z"
+  }
+}

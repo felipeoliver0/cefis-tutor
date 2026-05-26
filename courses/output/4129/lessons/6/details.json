@@ -1,0 +1,33 @@
+{
+  "id": 482958,
+  "title": "Modelo de maturidade organizacional - Parte 1",
+  "position": 7,
+  "duration": 338,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5718074a-1e0b-4cc3-8a90-6d9a92c87a83/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5718074a-1e0b-4cc3-8a90-6d9a92c87a83/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5718074a-1e0b-4cc3-8a90-6d9a92c87a83/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5718074a-1e0b-4cc3-8a90-6d9a92c87a83/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5718074a-1e0b-4cc3-8a90-6d9a92c87a83/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

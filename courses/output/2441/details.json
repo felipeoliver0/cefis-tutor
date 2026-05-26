@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2441,
+    "title": "[podcast] Manifesto Eletrônico de Documentos Fiscais - MDF-e",
+    "subtitle": "PodCast",
+    "summary": "Neste PODCAST vamos falar sobre o MDF-e, que significa Manifesto Eletrônico de Documentos Fiscais, este que é um importante agregador de informações da carga transportada. E que informações são essas? São informações logísticas do transporte?",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/2286c432ee09ea18f5e1d75b9c0aa81c1728428070.jpg",
+    "goals": [
+      "Falar sobre este que é um importante agregador de informações: o MDF-e, que significa Manifesto Eletrônico de Documentos Fiscais."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 706,
+    "keywords": "podcast;mdfe;mdf-e;Manifesto Eletrônico de Documentos Fiscais",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 229,
+    "averageRating": 9.38,
+    "practiceAverage": 9.25,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-02-04T16:07:37.000Z",
+    "recordedAt": "2023-01-16T00:00:00.000Z",
+    "createdAt": "2023-01-16T18:12:17.000Z"
+  }
+}

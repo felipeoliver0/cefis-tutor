@@ -1,0 +1,33 @@
+{
+  "id": 485390,
+  "title": "Exemplo de lançamento - Parte 3",
+  "position": 42,
+  "duration": 200,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ca66eb4b-f27d-430b-b428-7288e77c235d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca66eb4b-f27d-430b-b428-7288e77c235d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca66eb4b-f27d-430b-b428-7288e77c235d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca66eb4b-f27d-430b-b428-7288e77c235d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca66eb4b-f27d-430b-b428-7288e77c235d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

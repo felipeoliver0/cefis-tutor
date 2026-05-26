@@ -1,0 +1,33 @@
+{
+  "id": 458301,
+  "title": "Passo a passo para emissão da Decore",
+  "position": 34,
+  "duration": 148,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d41a57f5-475b-43f1-bb50-4f8a89542a9a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d41a57f5-475b-43f1-bb50-4f8a89542a9a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d41a57f5-475b-43f1-bb50-4f8a89542a9a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d41a57f5-475b-43f1-bb50-4f8a89542a9a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d41a57f5-475b-43f1-bb50-4f8a89542a9a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

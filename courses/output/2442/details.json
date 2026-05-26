@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2442,
+    "title": "[podcast] CT-e Anulação de Valores e Substituição",
+    "subtitle": "PodCast",
+    "summary": "Neste PODCAST vamos falar sobre o novo processo de anulação de valores e substituição de CT-e. Primeiramente vamos dar uma contextualizada nesse processo de anulação de valores e substituição de CT-e e outras situações em que o documento é emitido com erro.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/52f654c877823fd69def0badbb09177c1728428063.jpg",
+    "goals": [
+      "Falar sobre o novo processo de anulação de valores e substituição de CT-e. Primeiramente vamos dar uma contextualizada nesse processo de anulação de valores e substituição de CT-e e outras situações em que o documento é emitido com erro."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 657,
+    "keywords": "ct-e;podcast;Conhecimento de transporte eletrônico",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 200,
+    "averageRating": 9.46,
+    "practiceAverage": 9.38,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-02-04T16:08:12.000Z",
+    "recordedAt": "2023-01-16T00:00:00.000Z",
+    "createdAt": "2023-01-16T18:13:40.000Z"
+  }
+}

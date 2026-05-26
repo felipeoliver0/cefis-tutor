@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2856,
+    "title": "Contabilidade Consultiva: como aplicar?",
+    "subtitle": "Da importância à aplicação",
+    "summary": "Neste curso de contabilidade consultiva, você vai entender como funciona esta importante atuação na tomada de decisão de uma empresa, seus impactos e dicas para ser um profissional contador consultor de sucesso.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/4db8e12bbbce0d7b3d6a7214701fb6331728384348.jpg",
+    "goals": [
+      "Apresentar o papel da contabilidade consultiva na tomada de decisão de uma empresa, seus impactos e dicas para ser um profissional contador consultor de sucesso."
+    ],
+    "teacher": {
+      "id": 694790,
+      "name": "Pedro Nery",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1697481725.jpeg"
+    },
+    "duration": 3096,
+    "keywords": "contador consultor;consultoria;contabilidade consultiva",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 12,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 665,
+    "averageRating": 9.22,
+    "practiceAverage": 9.15,
+    "trailer": {
+      "id": "48ac9cf6-c39a-483f-994a-8efd69b7f784",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48ac9cf6-c39a-483f-994a-8efd69b7f784/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48ac9cf6-c39a-483f-994a-8efd69b7f784/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48ac9cf6-c39a-483f-994a-8efd69b7f784/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48ac9cf6-c39a-483f-994a-8efd69b7f784/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-11-20T10:55:24.000Z",
+      "updatedAt": "2023-11-20T10:55:23.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-11-20T11:34:43.000Z",
+    "recordedAt": "2023-10-05T00:00:00.000Z",
+    "createdAt": "2023-10-16T15:48:49.000Z"
+  }
+}

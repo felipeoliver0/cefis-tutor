@@ -1,0 +1,425 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.520
+Exemplos práticos para vocês conseguirem perceber,
+
+2
+00:00:02.779 --> 00:00:06.759
+principalmente falando sobre o uso de cartas de correção para CFLP.
+
+3
+00:00:07.139 --> 00:00:09.560
+Situação 1. CFLP incorreto.
+
+4
+00:00:10.119 --> 00:00:10.660
+O problema.
+
+5
+00:00:11.099 --> 00:00:16.500
+Nota emitida com CFLP 502, quando deveria ser 501.
+
+6
+00:00:17.140 --> 00:00:19.120
+Existe um pacto fiscal?
+
+7
+00:00:20.260 --> 00:00:25.140
+São operações 502 e 501 com a mesma incidência.
+
+8
+00:00:25.859 --> 00:00:29.239
+Temos incidência de CMS, temos incidência de PIS e COFINS.
+
+9
+00:00:29.960 --> 00:00:31.660
+Então, não tem impacto fiscal.
+
+10
+00:00:32.219 --> 00:00:34.100
+Erro meramente descritivo.
+
+11
+00:00:34.719 --> 00:00:39.140
+Então, podemos utilizar a carta de correção para alterar a CFLP.
+
+12
+00:00:40.200 --> 00:00:40.920
+Solução.
+
+13
+00:00:40.920 --> 00:00:46.399
+Corrigir via carta de correção eletrônica, tranquilamente, porque não tem impacto fiscal.
+
+14
+00:00:46.820 --> 00:00:50.240
+Cenário 2, o valor total incorreto.
+
+15
+00:00:50.719 --> 00:00:54.740
+Problema, nota emitida com valor total errado por erro de cálculo.
+
+16
+00:00:55.359 --> 00:00:56.640
+Existe um impacto fiscal?
+
+17
+00:00:57.460 --> 00:00:58.659
+Sim. Por quê?
+
+18
+00:00:59.320 --> 00:01:01.439
+Altere a base de cálculo do imposto.
+
+19
+00:01:01.859 --> 00:01:04.200
+Qual que é a solução? É emitir uma carta de correção?
+
+20
+00:01:04.200 --> 00:01:05.299
+Não. É emitir uma carta de correção? Não.
+
+21
+00:01:08.879 --> 00:01:09.400
+É emitir uma nota fiscal complementar.
+
+22
+00:01:11.659 --> 00:01:11.959
+Por quê? Aqui a gente tem o impacto fiscal.
+
+23
+00:01:15.659 --> 00:01:16.159
+A gente não pode alterar valor por meio de carta de correção.
+
+24
+00:01:20.959 --> 00:01:21.599
+Vamos analisar o posicionamento dos estados perante a carta de correção.
+
+25
+00:01:23.120 --> 00:01:23.579
+Devolução simbólica.
+
+26
+00:01:26.159 --> 00:01:28.260
+Quando não é possível corrigir a nota fiscal eletrônica por meio de carta de correção ou nota fiscal
+
+27
+00:01:28.260 --> 00:01:30.239
+complementar. Como a gente pontuou,
+
+28
+00:01:30.459 --> 00:01:32.019
+o ajuste CNF 15 de 2025
+
+29
+00:01:32.019 --> 00:01:34.480
+nos dá a possibilidade
+
+30
+00:01:34.480 --> 00:01:36.219
+de alterar, então, os documentos
+
+31
+00:01:36.219 --> 00:01:38.560
+até sete dias.
+
+32
+00:01:39.719 --> 00:01:40.219
+A emissão
+
+33
+00:01:40.219 --> 00:01:42.099
+do documento fiscal simbólica segue uma
+
+34
+00:01:42.099 --> 00:01:44.359
+regra, tá? Então, o destinatário contribuinte
+
+35
+00:01:44.359 --> 00:01:45.819
+emite a nota fiscal de saída.
+
+36
+00:01:46.900 --> 00:01:50.439
+Sendo não contribuinte, o emitente emite a nota fiscal de entrada.
+
+37
+00:01:50.980 --> 00:01:52.159
+Atenção, pessoal.
+
+38
+00:01:52.340 --> 00:01:55.040
+Quando a gente fala sobre recusa de mercadoria,
+
+39
+00:01:55.700 --> 00:02:01.420
+a nota fiscal de entrada que é emitida para voltar os produtos ao seu estoque
+
+40
+00:02:01.420 --> 00:02:26.360
+deve ter a informação do emitente, não do destinatário. FIS Então, não é certo emitir a nota fiscal de entrada com os dados do destinatário,
+
+41
+00:02:27.219 --> 00:02:30.960
+exceto se ele não for contribuinte.
+
+42
+00:02:31.400 --> 00:02:34.740
+Para não contribuinte, aí sim estamos falando sobre a emissão de entrada.
+
+43
+00:02:35.479 --> 00:02:36.620
+Agora, recusa não.
+
+44
+00:02:37.319 --> 00:02:41.680
+Então, atenção, muitas inconsistências são apresentadas nessas operações.
+
+45
+00:02:42.599 --> 00:02:47.960
+O destinatário registra, então, a nota fiscal original e o evento da operação não realizada.
+
+46
+00:02:48.620 --> 00:02:54.199
+A emissão do novo documento corrigido deve ser então feita pelo emitente com as informações corretas,
+
+47
+00:02:54.680 --> 00:02:56.300
+referenciando a original.
+
+48
+00:02:56.780 --> 00:03:00.319
+Então, todo esse processo aqui tem que acontecer em sete dias,
+
+49
+00:03:00.319 --> 00:03:05.159
+por isso que o FISCO está dando mais prazo de 168 horas para a correção.
+
+50
+00:03:05.939 --> 00:03:13.960
+A confirmação final é feita pelo destinatário quando ele coloca o evento de confirmação no XML emitido novo.
+
+51
+00:03:14.759 --> 00:03:17.919
+Aí ele faz e fica válida a operação.
+
+52
+00:03:18.960 --> 00:03:22.120
+Todo o processo ocorre sem circulação física de mercadoria,
+
+53
+00:03:22.340 --> 00:03:27.120
+porque se trata de uma operação de correção permanente do documento.
+
+54
+00:03:27.539 --> 00:03:30.180
+Existe a possibilidade do Fisco fazer a alteração.
+
+55
+00:03:30.900 --> 00:03:32.199
+Qual é o quadro comparativo?
+
+56
+00:03:33.259 --> 00:03:34.520
+Endereço incompleto.
+
+57
+00:03:35.120 --> 00:03:36.719
+Pode ser utilizado o carde de correção,
+
+58
+00:03:36.860 --> 00:03:39.180
+desde que não altere o CNPJ autodestinatário,
+
+59
+00:03:39.180 --> 00:03:44.060
+Estado, aquilo que interfira dentro da incidência do tributo,
+
+60
+00:03:44.139 --> 00:03:49.060
+a variável que incide o tributo. CFOP descritivo.
+
+61
+00:03:49.900 --> 00:03:55.039
+Carta de correção, porém, entretanto, sem impacto na carga tributária.
+
+62
+00:03:55.039 --> 00:04:00.199
+Se você perceber que a alteração da carta de correção, alterando a CFOP,
+
+63
+00:04:00.719 --> 00:04:06.860
+impacta a carga tributária do contribuinte, não se pode utilizar a carta de correção. Valor errado.
+
+64
+00:04:07.180 --> 00:04:09.599
+Nota fiscal complementar.
+
+65
+00:04:10.180 --> 00:04:12.139
+Gera o débito ou crédito tributário.
+
+66
+00:04:12.240 --> 00:04:13.240
+Nota fiscal complementar.
+
+67
+00:04:13.979 --> 00:04:15.139
+CNPJ incorreto.
+
+68
+00:04:15.520 --> 00:04:21.779
+Nova nota fiscal eletrônica com devolução simbólica, conforme o ajuste do CNF 13 de 2024.
+
+69
+00:04:22.339 --> 00:04:23.819
+Já existe possibilidade.
+
+70
+00:04:24.319 --> 00:04:26.139
+Após entrega sem circulação,
+
+71
+00:04:26.379 --> 00:04:27.920
+procedimento correto é
+
+72
+00:04:27.920 --> 00:04:30.040
+o ajuste NF 15 de 2025,
+
+73
+00:04:31.079 --> 00:04:32.420
+que tem 168
+
+74
+00:04:32.420 --> 00:04:33.560
+horas para corrigir.
+
+75
+00:04:34.120 --> 00:04:35.720
+Dentro do prazo de 24 horas,
+
+76
+00:04:35.860 --> 00:04:38.579
+existiu uma inconsistência e não teve a circulação.
+
+77
+00:04:39.180 --> 00:04:39.819
+Cancelamento.
+
+78
+00:04:40.360 --> 00:04:42.199
+Existe o prazo de cancelamento
+
+79
+00:04:42.199 --> 00:04:44.360
+durante os estados e você precisa seguir
+
+80
+00:04:44.360 --> 00:04:46.579
+esse cancelamento, ou até mesmo soliczo de cancelamento durante os estados e você precisa seguir esse cancelamento ou até mesmo
+
+81
+00:04:46.579 --> 00:04:48.019
+solicitar um cancelamento
+
+82
+00:04:48.019 --> 00:04:50.259
+extemporâneo se for o caso.
+
+83
+00:04:50.660 --> 00:04:52.420
+Cancelamento até 24 horas
+
+84
+00:04:52.420 --> 00:04:54.160
+antes da circulação do bem
+
+85
+00:04:54.160 --> 00:04:56.420
+existe a possibilidade de cancelar.
+
+86
+00:04:56.720 --> 00:04:58.319
+Carta de correção para
+
+87
+00:04:58.319 --> 00:05:00.819
+erros formais sem impacto tributário
+
+88
+00:05:00.819 --> 00:05:02.240
+nem de endereço,
+
+89
+00:05:02.360 --> 00:05:04.120
+descrições, CFOP
+
+90
+00:05:04.120 --> 00:05:07.420
+sem alteração fiscal e informação complementar.
+
+91
+00:05:08.379 --> 00:05:11.019
+Esses são os critérios de utilização de carta de correção.
+
+92
+00:05:11.939 --> 00:05:17.699
+A nota fiscal complementar, ela trata então correções de valores, quantidades, impostos,
+
+93
+00:05:18.220 --> 00:05:20.600
+dados que alterem a carga tributária da operação.
+
+94
+00:05:21.259 --> 00:05:26.100
+Não é carta de correção, mas sim nota fiscal complementar. Devolução
+
+95
+00:05:26.100 --> 00:05:28.139
+simbólica mais documento
+
+96
+00:05:28.139 --> 00:05:30.040
+novo para corrigir
+
+97
+00:05:30.040 --> 00:05:32.000
+o erro. Ajuste
+
+98
+00:05:32.000 --> 00:05:34.319
+CNF 3 de 2024 e o 15
+
+99
+00:05:34.319 --> 00:05:35.980
+nos dá a possibilidade de fazer
+
+100
+00:05:35.980 --> 00:05:38.180
+isso em operações de recusa
+
+101
+00:05:38.180 --> 00:05:40.079
+de mercadoria. Procedimento
+
+102
+00:05:40.079 --> 00:05:42.100
+atualizado conforme os ajustes
+
+103
+00:05:42.100 --> 00:05:44.100
+que a gente comentou. Então a gente tem
+
+104
+00:05:44.100 --> 00:05:46.060
+mais uma possibilidade de
+
+105
+00:05:46.060 --> 00:05:48.279
+alteração dentro dos nossos documentos
+
+106
+00:05:48.279 --> 00:05:49.220
+fiscais eletrônicos.

@@ -1,0 +1,345 @@
+WEBVTT
+
+1
+00:00:00.759 --> 00:00:02.890
+outros recursos pessoal,
+
+2
+00:00:02.900 --> 00:00:07.849
+vamos fazer um pouquinho falar um pouquinho sobre o Subtotal o Subtotal.
+
+3
+00:00:07.860 --> 00:00:12.250
+Ele parece com a fórmula de soma, entretanto,
+
+4
+00:00:12.260 --> 00:00:17.469
+ele vai fazer um subtotal somente daquilo, na qual eu estou efetivamente
+
+5
+00:00:18.180 --> 00:00:20.500
+visualizando naquele momento.
+
+6
+00:00:20.510 --> 00:00:24.610
+Então eu aplico um filtro que eu vou filtrando ele vai somando lá embaixo.
+
+7
+00:00:24.620 --> 00:00:26.889
+Lógico que a gente tem vários recursos no suco total,
+
+8
+00:00:27.620 --> 00:00:32.168
+especificamente do recurso lá nove, que é o uma pro uma soma.
+
+9
+00:00:32.180 --> 00:00:34.689
+Tá bom, vamos dar uma olhada aqui pra gente entender um pouquinho,
+
+10
+00:00:35.900 --> 00:00:39.689
+porque uma das vezes a gente vai tá com um determinado relatório
+
+11
+00:00:40.610 --> 00:00:44.479
+e por exemplo vamos pegar esse mesmo que a gente acabou de fazer. Agora
+
+12
+00:00:45.830 --> 00:00:47.060
+eu venho aqui oh,
+
+13
+00:00:48.310 --> 00:00:50.139
+vamos tirar essa entrega vencimento
+
+14
+00:00:51.610 --> 00:00:55.919
+eu tenho diversos títulos, então basicamente a gente tem aqui oh,
+
+15
+00:00:56.759 --> 00:00:58.750
+dois mil cento e vinte e quatro
+
+16
+00:00:59.880 --> 00:01:03.110
+dias lá, com valores tá, Então o que que eu vou fazer?
+
+17
+00:01:03.689 --> 00:01:07.519
+Eu venho aqui, igual, sub total,
+
+18
+00:01:08.610 --> 00:01:12.919
+são vários recursos, não vamos falar especificamente do nove que é soma
+
+19
+00:01:14.040 --> 00:01:16.930
+sub total, aí eu chamo Qual tipo de função?
+
+20
+00:01:16.940 --> 00:01:21.569
+Ah, eu eu tenho a função de média contar números contar valores máximo mínimo,
+
+21
+00:01:21.580 --> 00:01:22.769
+múltiplo desvio.
+
+22
+00:01:22.779 --> 00:01:23.319
+Soma.
+
+23
+00:01:23.330 --> 00:01:29.069
+Vou falar o soma especificamente eu venho e seleciono do último item até o primeiro.
+
+24
+00:01:29.769 --> 00:01:32.040
+Então eu tenho o que pessoal oh
+
+25
+00:01:33.279 --> 00:01:36.790
+novecentos e oitenta e três qui quinhentos e onze de título!
+
+26
+00:01:36.800 --> 00:01:40.910
+Beleza bom, eu venho e ponho um filtro aqui. Oh,
+
+27
+00:01:41.989 --> 00:01:46.459
+não, tia, eu quero ver somente os títulos de dois mil e três,
+
+28
+00:01:47.589 --> 00:01:50.559
+ele vem e soma somente o que o que eu estou
+
+29
+00:01:50.569 --> 00:01:55.059
+visualizando naquele filtro só daquele tanto que a gente tem lá.
+
+30
+00:01:55.069 --> 00:01:58.519
+Eu só o de dois mil e três eu tenho dezenove mil Ah, Tiago!
+
+31
+00:01:58.529 --> 00:02:02.660
+E se eu precisar olhar somente os dois mil e dez, dois mil e nove,
+
+32
+00:02:03.860 --> 00:02:07.610
+ele vem lá embaixo e faz o sub total somente desses dois oh
+
+33
+00:02:08.279 --> 00:02:09.869
+cento e dezesseis mil.
+
+34
+00:02:12.449 --> 00:02:14.259
+Vamos fazer mais uma análise aqui?
+
+35
+00:02:14.270 --> 00:02:19.339
+Oh, não, eu quero só o mês de março de dois mil e seis.
+
+36
+00:02:19.350 --> 00:02:19.789
+Ah,
+
+37
+00:02:19.800 --> 00:02:22.940
+só um item de trezentos e oitenta então lembra
+
+38
+00:02:22.949 --> 00:02:27.039
+que a gente faz soma Assim totaliza por mês,
+
+39
+00:02:27.050 --> 00:02:29.580
+copia cola, faz todo aquele trabalho.
+
+40
+00:02:29.589 --> 00:02:31.460
+Mas se eu quiser fazer uma consulta rápida,
+
+41
+00:02:31.470 --> 00:02:35.300
+não só eu quero ver isso agora e esse e esse eu posso usar o Subtotal.
+
+42
+00:02:35.309 --> 00:02:38.160
+Eu não preciso criar todo aquele procedimento,
+
+43
+00:02:38.679 --> 00:02:41.789
+o sub total já traz aqui pra mim efetivamente,
+
+44
+00:02:41.800 --> 00:02:45.009
+somente do período que está sendo filtrado.
+
+45
+00:02:45.020 --> 00:02:46.470
+Então se eu filtrar aqui oh,
+
+46
+00:02:47.470 --> 00:02:50.100
+tira dois mil e dez tira dois mil e onze,
+
+47
+00:02:51.460 --> 00:02:55.389
+então eu tenho lá em dois mil e dez dois mil e onze cento e trinta e três mil.
+
+48
+00:02:55.399 --> 00:03:00.970
+Ah, eu quero virar só o último mês de dois mil e onze que tem nesse relatório.
+
+49
+00:03:02.300 --> 00:03:03.089
+Setembro
+
+50
+00:03:04.100 --> 00:03:08.970
+em setembro de dois mil e onze, a gente tem lá um total é um mês maior,
+
+51
+00:03:09.669 --> 00:03:10.820
+setecentos mil,
+
+52
+00:03:11.690 --> 00:03:12.699
+ou seja,
+
+53
+00:03:12.710 --> 00:03:19.500
+o subtotal ele vem pra fazer uma coisa mais rápida ali de consulta e de tudo mais.
+
+54
+00:03:19.509 --> 00:03:23.039
+Então muita das vezes você vai fazer alguma apresentação de um relatório
+
+55
+00:03:23.580 --> 00:03:25.789
+pra um determinado cliente ou diretor.
+
+56
+00:03:25.800 --> 00:03:29.270
+Você joga o subtotal lá embaixo, porque se você deixa total,
+
+57
+00:03:29.279 --> 00:03:34.210
+ele vai e pergunta assim nossa quanto deu só só a venda pra tal fornecedor.
+
+58
+00:03:34.220 --> 00:03:38.149
+Aí você vai ter que pegar fazer soma não sei o que agora se você deixa o subtotal,
+
+59
+00:03:38.160 --> 00:03:39.779
+cê vai lá e filtra o fornecedor X.
+
+60
+00:03:39.789 --> 00:03:41.850
+Ah, não. O fornecedor x é isso,
+
+61
+00:03:42.350 --> 00:03:43.679
+cara aí ele fala assim Ah,
+
+62
+00:03:43.690 --> 00:03:46.940
+e eu queria ver pro fornecedor X só da filial três e
+
+63
+00:03:46.949 --> 00:03:50.399
+quatro aí cê vai lá tem as colunas das filiais Cê desmarca
+
+64
+00:03:50.410 --> 00:03:53.039
+todas todas e coloca só a três e a quatro vai vir
+
+65
+00:03:53.050 --> 00:03:57.160
+o total então o sub total ele pode ser muito utilizado.
+
+66
+00:03:57.169 --> 00:03:58.059
+Ele é muito bom,
+
+67
+00:03:58.070 --> 00:04:02.695
+dependendo num documento numa planilha que cê vai pra uma reunião pra uma
+
+68
+00:04:02.705 --> 00:04:07.535
+apresentação que você sabe que pode surgir alguns questionamentos e esse e esse?
+
+69
+00:04:07.544 --> 00:04:09.695
+Então você o que ganha tempo,
+
+70
+00:04:09.705 --> 00:04:14.255
+mostra confiança e segurança não fica nossa pera aí deixa eu somar aqui Ah,
+
+71
+00:04:14.264 --> 00:04:16.095
+tem que selecionar essa coluna e corre isso.
+
+72
+00:04:16.105 --> 00:04:19.173
+Selecionar uma coisa que não deve parece um número ruim,
+
+73
+00:04:19.184 --> 00:04:21.274
+gera todo aquele desconforto e discussão,
+
+74
+00:04:21.920 --> 00:04:27.489
+então o soma o sub total aliado a soma faz isso, Só que ele tem outras formas.
+
+75
+00:04:27.500 --> 00:04:32.010
+Por exemplo ele tem o médio tem o máximo, tem o mínimo contagem,
+
+76
+00:04:32.019 --> 00:04:35.929
+vai contar quantos títulos tem, Então vai depender do critério, por exemplo,
+
+77
+00:04:35.940 --> 00:04:36.350
+aqui oh,
+
+78
+00:04:37.329 --> 00:04:42.239
+vamos tirar o filtro eu venho aqui oh! Igual sub total oh,
+
+79
+00:04:43.329 --> 00:04:48.119
+conte número é o dois ponto vírgula eu venho e falo aqui oh,
+
+80
+00:04:48.130 --> 00:04:50.600
+ele tem dois mil cento e vinte e três títulos
+
+81
+00:04:51.220 --> 00:04:53.170
+Dias, sei lá. Títulos Títulos
+
+82
+00:04:53.809 --> 00:04:57.040
+Thiago e títulos em abertos em dois mil e três
+
+83
+00:04:58.000 --> 00:05:00.230
+dois mil e três. Ele tem vinte e seis títulos
+
+84
+00:05:00.850 --> 00:05:04.679
+porque eu usei a a o dois, que é o critério de contar.
+
+85
+00:05:06.230 --> 00:05:11.440
+O móvel soma e aí eu vou utilizando. Aí a gente vai brincando com quais eu quero fazer.
+
+86
+00:05:11.450 --> 00:05:12.820
+Qual eu quero utilizar Tá bom.

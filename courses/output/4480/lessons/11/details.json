@@ -1,0 +1,33 @@
+{
+  "id": 487608,
+  "title": "Artigos",
+  "position": 11,
+  "duration": 329,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/d31e0316-2fcb-43cc-89e2-92e68231f331/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d31e0316-2fcb-43cc-89e2-92e68231f331/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d31e0316-2fcb-43cc-89e2-92e68231f331/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d31e0316-2fcb-43cc-89e2-92e68231f331/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d31e0316-2fcb-43cc-89e2-92e68231f331/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

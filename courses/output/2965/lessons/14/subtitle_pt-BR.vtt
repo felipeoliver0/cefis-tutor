@@ -1,0 +1,253 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.500
+primeira coisa que eu queria trazer pra vocês é
+
+2
+00:00:02.509 --> 00:00:05.300
+a obrigatoriedade de preenchimento do GTIN na nota.
+
+3
+00:00:05.309 --> 00:00:11.079
+Tá bom. Então é obrigatório o contribuinte preencher o código C e A, né?
+
+4
+00:00:11.090 --> 00:00:13.979
+E c e A TRIBE, na nota fiscal. Eletrônico, né?
+
+5
+00:00:13.989 --> 00:00:20.440
+Eu expliquei pra vocês que esse era o número do artigo europeu lá e agora é É o GTIN tá! E
+
+6
+00:00:21.159 --> 00:00:25.049
+o nome deste campo na nossa fiscal eletrônica é C A, né?
+
+7
+00:00:25.059 --> 00:00:28.670
+É o código e a e CBE Código e a tributável tá.
+
+8
+00:00:28.680 --> 00:00:31.290
+Então a empresa é obrigada a preencher esses campos
+
+9
+00:00:31.299 --> 00:00:33.669
+pros produtos que tem o código GTI Tá bom.
+
+10
+00:00:34.340 --> 00:00:36.669
+Se o produto não tem código g Tim,
+
+11
+00:00:36.680 --> 00:00:41.389
+ele vai informar o literal sem espaço g tim tá ou nulo?
+
+12
+00:00:41.400 --> 00:00:43.909
+Tem ele ou ele forma sem GTI ou ele forma?
+
+13
+00:00:43.919 --> 00:00:47.090
+O campo nulo vai passar na regra de validação? Tá?
+
+14
+00:00:47.520 --> 00:00:52.590
+Eh o fisco! Ele não exige que todos os produtos comercializados tenham o G Tim TÁ.
+
+15
+00:00:52.599 --> 00:00:55.569
+O GTI é um código fornecido por uma organização privada,
+
+16
+00:00:55.580 --> 00:00:59.209
+seus associados e o fisco não exige que os produtos tenham GTIN.
+
+17
+00:00:59.220 --> 00:01:05.589
+Tá? O fisco exige que o GTIN seja informado se ele existir, né?
+
+18
+00:01:05.599 --> 00:01:09.849
+Então se tem GTIN, informa. né? Se não tem, informa que não tem.
+
+19
+00:01:09.860 --> 00:01:12.389
+Tem muitos produtos que não tem GTi, né? Por exemplo,
+
+20
+00:01:12.660 --> 00:01:17.010
+o produtor rural criador de gado o gado lá no pasto não tem jeitinho, né?
+
+21
+00:01:17.019 --> 00:01:23.029
+Não precisa ter, Não tem, né? O produtor que colhe Soja, o caminhão de soja.
+
+22
+00:01:23.040 --> 00:01:26.349
+Lá ele vai vender o caminhão de soja, vai fazer a nota fiscal disso, não tem jeitinho.
+
+23
+00:01:26.360 --> 00:01:28.129
+Não tem que ter jeitinho, né?
+
+24
+00:01:28.620 --> 00:01:32.949
+Inúmeros outros exemplos aí, tanto da produção rural,
+
+25
+00:01:32.959 --> 00:01:35.389
+quanto mercadorias também artesanais.
+
+26
+00:01:35.400 --> 00:01:38.230
+Muitas vezes não tem e não é obrigado a ter. Tá?
+
+27
+00:01:38.239 --> 00:01:42.510
+A obrigatoriedade que existe é informar pro fisco se o produto tiver.
+
+28
+00:01:42.519 --> 00:01:46.730
+Se não tiver tudo bem, não tem problema nenhum. Não é obrigado a ter GTIN, Tá?
+
+29
+00:01:46.815 --> 00:01:49.745
+É obrigado a informar. Se tiver, tá bom.
+
+30
+00:01:49.754 --> 00:01:53.464
+Eu trouxe aqui pra vocês também a fundamentação legal pra exigência do GTIN, né?
+
+31
+00:01:53.474 --> 00:01:56.864
+Tá lá no aju c n f número quinze de dois mil e vinte e nove.
+
+32
+00:01:56.875 --> 00:02:00.584
+Ele traz uma modificação na página do C n f sete dois mil E cinco, né?
+
+33
+00:02:00.595 --> 00:02:05.444
+Então eu aconselho vocês ir direto lá no Aju c n f sete, dois mil e cinco tá?
+
+34
+00:02:05.455 --> 00:02:08.014
+E ele tem uma cláusula terceira que fica obrigado.
+
+35
+00:02:08.024 --> 00:02:10.663
+Preenchimento dos campos C A e C a tribe, né?
+
+36
+00:02:10.675 --> 00:02:13.725
+Que vão ser abastecidos com o código de GTIN? Tá?
+
+37
+00:02:14.009 --> 00:02:16.619
+E ele veste aqui também na na fundamentação legal.
+
+38
+00:02:16.630 --> 00:02:19.820
+Uma coisa interessante que o C A é o
+
+39
+00:02:19.830 --> 00:02:22.850
+código GTIN do produto que está sendo comercializado.
+
+40
+00:02:22.860 --> 00:02:26.070
+E o C A Tribe é o código de barras do produto. Tributável, né?
+
+41
+00:02:26.080 --> 00:02:31.000
+A unidade menor de venda no varejo tá bom de venda quando aplicável
+
+42
+00:02:31.399 --> 00:02:34.929
+referenciar a menor unidade de identificação pelo código de GTIN.
+
+43
+00:02:34.940 --> 00:02:37.410
+Então, naquele caso que eu dei de exemplo pra vocês,
+
+44
+00:02:37.419 --> 00:02:45.369
+estou usando aqui toda vez a caixa com nove latas de de doce de pêssego tá, então,
+
+45
+00:02:45.380 --> 00:02:48.490
+nesse caso do tributável aqui eu não poderia informar o da caixa.
+
+46
+00:02:48.500 --> 00:02:52.190
+Eu teria que informar o da lata de doce de pêssego Tá bom?
+
+47
+00:02:52.199 --> 00:02:54.970
+Então eh, A gente vai ver com mais detalhes mais pra frente,
+
+48
+00:02:54.979 --> 00:02:56.089
+mas é bom a gente saber isso.
+
+49
+00:02:56.100 --> 00:02:56.550
+Tá bom.
+
+50
+00:02:57.699 --> 00:02:59.369
+Eu trouxe aqui pra vocês também.
+
+51
+00:02:59.380 --> 00:03:03.029
+Eh fundamentação legal pra verificação do código GTIN
+
+52
+00:03:03.039 --> 00:03:05.350
+no C c g Tá no cadastro centralizado.
+
+53
+00:03:05.360 --> 00:03:07.470
+GTIN também Tá lá no do Cine F número sete,
+
+54
+00:03:07.479 --> 00:03:10.750
+dois mil e cinco Tá bom no parágrafo quarto da cláusula?
+
+55
+00:03:10.759 --> 00:03:13.029
+Sexta, né? Fala que ah!
+
+56
+00:03:13.039 --> 00:03:16.229
+O Fisco pode validar, no cadastro centralizado do GTIN,
+
+57
+00:03:16.240 --> 00:03:19.529
+as informações do GTI prestadas pelo contribuinte na nota, né?
+
+58
+00:03:19.759 --> 00:03:20.330
+Então,
+
+59
+00:03:20.339 --> 00:03:23.529
+essas capitulação legais que eu trouxe pra vocês agora pra mostrar pra
+
+60
+00:03:23.539 --> 00:03:28.250
+vocês que a exigência do fisco eh de verificação do jeitinho.
+
+61
+00:03:28.259 --> 00:03:30.330
+A possibilidade do físico de verificar o GTIN
+
+62
+00:03:30.339 --> 00:03:33.210
+de de rejeitar os documentos tem baseado,
+
+63
+00:03:33.220 --> 00:03:35.589
+é claro, numa fundamentação legal, Tá bom!

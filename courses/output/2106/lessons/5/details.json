@@ -1,0 +1,33 @@
+{
+  "id": 462205,
+  "title": "Prevenir, Responder, Detectar - Parte 1",
+  "position": 5,
+  "duration": 195,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f8c27ad4-067b-41f9-87de-79f0b13c1ef5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f8c27ad4-067b-41f9-87de-79f0b13c1ef5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f8c27ad4-067b-41f9-87de-79f0b13c1ef5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f8c27ad4-067b-41f9-87de-79f0b13c1ef5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f8c27ad4-067b-41f9-87de-79f0b13c1ef5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

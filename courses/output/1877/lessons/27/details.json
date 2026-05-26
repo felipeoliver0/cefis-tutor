@@ -1,0 +1,33 @@
+{
+  "id": 459450,
+  "title": "Custo anual",
+  "position": 27,
+  "duration": 341,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/063ec84c-fef3-45db-a0b4-ca32d60c0efe/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/063ec84c-fef3-45db-a0b4-ca32d60c0efe/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/063ec84c-fef3-45db-a0b4-ca32d60c0efe/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/063ec84c-fef3-45db-a0b4-ca32d60c0efe/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/063ec84c-fef3-45db-a0b4-ca32d60c0efe/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

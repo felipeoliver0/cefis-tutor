@@ -1,0 +1,33 @@
+{
+  "id": 480007,
+  "title": "O que fazer a cada ano- 2026 - Parte 2",
+  "position": 15,
+  "duration": 519,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3233584d-0ee5-430f-accc-9c5e0f403eee/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3233584d-0ee5-430f-accc-9c5e0f403eee/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3233584d-0ee5-430f-accc-9c5e0f403eee/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3233584d-0ee5-430f-accc-9c5e0f403eee/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3233584d-0ee5-430f-accc-9c5e0f403eee/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

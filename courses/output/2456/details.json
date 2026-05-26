@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2456,
+    "title": "Transação Tributária",
+    "subtitle": "Alterações legais de 2022 e perspectivas para 2023",
+    "summary": "Neste curso prático de transação tributária, você aprenderá sobre os avanços da transação tributária no Brasil, com base na legislação mais atualizada sobre o tema (Lei 14375/2022 e portaria 208/2022). Conhecerá, desde as características dos contribuintes que se adequam à essa previsão legal, até as modalidades, permissões, limites, vedações, adesão, exigências da Receita Federal, formas de regularização de débitos e créditos, bem como outros pontos importantes para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/da9d1172bccb6bd9e2f53b2c7e79bab71728385974.jpg",
+    "goals": [
+      "Capacitar e atualizar os profissionais sobre os processos legislativos e projetos aprovados sobre a transação tributária no Brasil, para com os contribuintes que se adequam a essa modalidade."
+    ],
+    "teacher": {
+      "id": 357958,
+      "name": "Cristiane Pires",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/8d21b54000d93e116f0e2e55742911231551810357.jpg"
+    },
+    "duration": 4947,
+    "keywords": "transação;transações tributárias;tributária",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 561,
+    "averageRating": 9.2,
+    "practiceAverage": 9.06,
+    "trailer": {
+      "id": "21b6d523-9cc3-4010-b6e8-121075bc8d4a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/21b6d523-9cc3-4010-b6e8-121075bc8d4a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/21b6d523-9cc3-4010-b6e8-121075bc8d4a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/21b6d523-9cc3-4010-b6e8-121075bc8d4a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/21b6d523-9cc3-4010-b6e8-121075bc8d4a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-02-07T22:23:26.000Z",
+      "updatedAt": "2023-02-07T22:23:26.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2023-02-11T11:26:57.000Z",
+    "recordedAt": "2023-01-30T00:00:00.000Z",
+    "createdAt": "2023-01-30T09:56:14.000Z"
+  }
+}

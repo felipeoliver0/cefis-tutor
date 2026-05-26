@@ -1,0 +1,33 @@
+{
+  "id": 486896,
+  "title": "CPC 12 - Exemplo de cálculo",
+  "position": 69,
+  "duration": 554,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/ed681b45-012f-41e2-bf30-cd9f5b483c3a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed681b45-012f-41e2-bf30-cd9f5b483c3a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed681b45-012f-41e2-bf30-cd9f5b483c3a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed681b45-012f-41e2-bf30-cd9f5b483c3a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed681b45-012f-41e2-bf30-cd9f5b483c3a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1630,
+    "title": "História da Contabilidade",
+    "subtitle": "Evolução histórica da Contabilidade",
+    "summary": "Neste vídeo você irá conhecer a origem da Contabilidade e irá se surpreender com os fatos curiosos dessa importante ciência que nasceu com o nobre objetivo de contribuir com a sobrevivência da humanidade.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/d23fb5b9d10963c691b78fd462f4f8cc1728384955.jpg",
+    "goals": [
+      "Apresentar curiosidades sobre a evolução histórica da Contabilidade."
+    ],
+    "teacher": {
+      "id": 127376,
+      "name": "HENRIQUE",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1662350543.jpeg"
+    },
+    "duration": 1113,
+    "keywords": "história;história da contabilidade;contabilidade",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 762,
+    "averageRating": 9.09,
+    "practiceAverage": 8.96,
+    "trailer": {
+      "id": "14a0cc5a-4c0e-4b12-8f22-7653caf17b20",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/14a0cc5a-4c0e-4b12-8f22-7653caf17b20/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/14a0cc5a-4c0e-4b12-8f22-7653caf17b20/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/14a0cc5a-4c0e-4b12-8f22-7653caf17b20/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/14a0cc5a-4c0e-4b12-8f22-7653caf17b20/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-08-28T12:49:05.000Z",
+      "updatedAt": "2021-08-28T12:49:04.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-08-16T14:27:25.000Z",
+    "recordedAt": "2021-08-13T00:00:00.000Z",
+    "createdAt": "2021-08-16T14:24:18.000Z"
+  }
+}

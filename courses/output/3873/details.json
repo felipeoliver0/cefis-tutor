@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3873,
+    "title": "Fechamento de Balanço",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático, você aprenderá a dominar os procedimentos necessários para o fechamento de balanço do exercício de 2025. Abordando desde conceitos fundamentais, legislação atualizada, conciliação de contas patrimoniais, apuração de resultados, até as obrigações fiscais e contábeis, este curso se destina a contadores e profissionais da área financeira que buscam excelência no fechamento de exercícios contábeis.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/c1c5656d-0505-4390-bd22-ceee0f6a9602-thumbnail.png",
+    "goals": [
+      "Capacitar os participantes para realizarem o fechamento de balanço do exercício de 2025 com precisão, garantindo conformidade com a legislação vigente e otimizando a eficiência dos procedimentos contábeis e fiscais."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 22116,
+    "keywords": "balanço 2025;fechamento contábil;impostos;demonstrações financeiras;obrigação acessória",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 64,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1074,
+    "averageRating": 9.31,
+    "practiceAverage": 9.18,
+    "trailer": {
+      "id": "5af7a625-5279-4d61-9358-2f5c377ec35a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5af7a625-5279-4d61-9358-2f5c377ec35a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5af7a625-5279-4d61-9358-2f5c377ec35a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5af7a625-5279-4d61-9358-2f5c377ec35a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5af7a625-5279-4d61-9358-2f5c377ec35a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-24T11:35:40.000Z",
+      "updatedAt": "2025-07-24T11:35:40.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-07-24T11:53:52.000Z",
+    "recordedAt": "2025-07-14T00:00:00.000Z",
+    "createdAt": "2025-07-13T23:42:15.000Z"
+  }
+}

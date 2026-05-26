@@ -1,0 +1,33 @@
+{
+  "id": 478894,
+  "title": "Vantagens e desvantagens",
+  "position": 43,
+  "duration": 338,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a23d026d-63a6-4e31-958c-dd7b2b52d96c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a23d026d-63a6-4e31-958c-dd7b2b52d96c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a23d026d-63a6-4e31-958c-dd7b2b52d96c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a23d026d-63a6-4e31-958c-dd7b2b52d96c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a23d026d-63a6-4e31-958c-dd7b2b52d96c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+WEBVTT
+
+00:00:00.098 --> 00:00:07.054
+- As notas fiscais, elas podem, sim, ter alterações. E o seu ESPAD fiscal tem que trazer essas relações
+
+00:00:07.054 --> 00:00:13.814
+- de alterações. Quais são, hoje, cancelamento da operação, carta de correção, nota complementar,
+
+00:00:13.814 --> 00:00:20.574
+- devolução parcial ou devolução total? São formas que o Fisco criou para a gente ajustar as nossas
+
+00:00:20.574 --> 00:00:27.136
+- apurações. E o que eu trago para vocês como reflexão, trazendo até o que vamos vivenciar nessa
+
+00:00:27.136 --> 00:00:29.630
+- nova era que está sendo construída.
+
+00:00:30.210 --> 00:00:36.161
+- Então, para que haja uma alteração no documento fiscal eletrônico, é necessário existir alguns
+
+00:00:36.161 --> 00:00:42.289
+- eventos. Quais são os eventos? De cancelamento, de inutilização, de manifestação do destinatário.
+
+00:00:42.289 --> 00:00:48.594
+- Então, existem alguns eventos vinculados ao documento fiscal eletrônico. O que são eventos, professora?
+
+00:00:48.594 --> 00:00:51.422
+- Hoje, quando eu emito seu documento, tem o XML.
+
+00:00:51.586 --> 00:00:58.377
+- Existem alguns eventos para vincular esse XML. Se houve um cancelamento, vai ter uma vinculação dentro
+
+00:00:58.377 --> 00:01:04.974
+- desse XML de um cancelamento. Se houve uma manifestação, ele vai ter a mesma vinculação. O que eu
+
+00:01:04.974 --> 00:01:11.506
+- trago de reflexão para vocês é que alguns sistemas operacionais, eles ainda falham em identificar
+
+00:01:11.506 --> 00:01:18.750
+- os eventos vinculados aos documentos fiscais eletrônicos. E esse papel de identificar se houve evento ou não,
+
+00:01:18.978 --> 00:01:26.431
+- é nosso, porque eu vejo muitas inconsistências de documentos fiscais cancelados, mas na escrituração
+
+00:01:26.431 --> 00:01:33.955
+- fiscal, válidas. Com a situação, válida e não cancelada. E quando a gente vai identificar no sistema
+
+00:01:33.955 --> 00:01:41.550
+- operacional, qual que é o problema? Ele não leu o evento. E por que que eu estou trazendo essa reflexão
+
+00:01:41.550 --> 00:01:46.590
+- agora pra vocês? Porque no ano de 2025, estamos passando por uma nova
+
+00:01:47.298 --> 00:01:55.343
+- incrementação da estrutura do XML dos nossos contribuintes. A partir de julho de 2025, a gente passa
+
+00:01:55.343 --> 00:02:03.154
+- também a escriturar o IBS-CBS, não de forma obrigatória, mas conforme o projeto piloto, para que
+
+00:02:03.154 --> 00:02:10.964
+- haja uma obrigatoriedade no ano de 2026. Então, a estrutura nova vai começar em outubro de 2025 e
+
+00:02:10.964 --> 00:02:16.510
+- em julho algumas empresas teste já estão fazendo essas adequações.
+
+00:02:16.610 --> 00:02:23.562
+- E dentro das adequações desse novo sistema tributário, nós vamos ter novos eventos. Então, se hoje
+
+00:02:23.562 --> 00:02:30.715
+- a gente já tem dificuldade de vincular essas alterações do documento fiscal eletrônico no SPED Fiscal,
+
+00:02:30.715 --> 00:02:37.399
+- é importante a gente reavaliar como esse processo está sendo feito dentro do sistema operacional,
+
+00:02:37.399 --> 00:02:39.806
+- sistema contábil do nosso cliente.
+
+00:02:39.906 --> 00:02:46.982
+- Não só os eventos de cancelamento, mas as manifestações, as inutilizações, as próprias cartas
+
+00:02:46.982 --> 00:02:54.128
+- de correção, tá? E dentro dessa nota técnica nova, a ideia é que o Fisco crie novos eventos até
+
+00:02:54.128 --> 00:03:01.555
+- para vincular formação de crédito, formação de débito, ajustes, finalidade de item, usando o evento
+
+00:03:01.555 --> 00:03:03.867
+- e não mais o espelho de fiscal.

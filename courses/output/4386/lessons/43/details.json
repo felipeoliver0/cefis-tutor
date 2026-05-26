@@ -1,0 +1,33 @@
+{
+  "id": 484741,
+  "title": "Medidas de desempenho",
+  "position": 43,
+  "duration": 316,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/67cda2cb-749d-4772-923f-47e1176fea53/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/67cda2cb-749d-4772-923f-47e1176fea53/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/67cda2cb-749d-4772-923f-47e1176fea53/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/67cda2cb-749d-4772-923f-47e1176fea53/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/67cda2cb-749d-4772-923f-47e1176fea53/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

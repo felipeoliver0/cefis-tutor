@@ -1,0 +1,33 @@
+{
+  "id": 452224,
+  "title": "IMPAIRMENT",
+  "position": 35,
+  "duration": 445,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a06c5a85-3f27-44df-abc9-95e98abdcb1a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a06c5a85-3f27-44df-abc9-95e98abdcb1a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a06c5a85-3f27-44df-abc9-95e98abdcb1a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a06c5a85-3f27-44df-abc9-95e98abdcb1a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a06c5a85-3f27-44df-abc9-95e98abdcb1a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

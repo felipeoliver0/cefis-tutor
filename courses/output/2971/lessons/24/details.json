@@ -1,0 +1,33 @@
+{
+  "id": 472586,
+  "title": "Tipos de custeio - Parte 1",
+  "position": 24,
+  "duration": 433,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d0332677-20d9-416d-bd7c-b76f8c8c8bae/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d0332677-20d9-416d-bd7c-b76f8c8c8bae/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d0332677-20d9-416d-bd7c-b76f8c8c8bae/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d0332677-20d9-416d-bd7c-b76f8c8c8bae/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d0332677-20d9-416d-bd7c-b76f8c8c8bae/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,861 @@
+WEBVTT
+
+1
+00:00:00.039 --> 00:00:01.730
+Agora a gente já está caminhando para o
+
+2
+00:00:01.730 --> 00:00:04.038
+finalzinho do nosso curso que a gente vai falar
+
+3
+00:00:04.280 --> 00:00:07.000
+sobre segurança e ética no BPO financeiro.
+
+4
+00:00:07.559 --> 00:00:08.909
+E aqui eu tenho alguns.
+
+5
+00:00:09.680 --> 00:00:12.750
+Eu tenho alguns itens importantes que eu preciso passar para vocês.
+
+6
+00:00:13.479 --> 00:00:17.340
+A questão do acesso do sigilo e da confiança como fundamentos.
+
+7
+00:00:18.040 --> 00:00:20.280
+Quando você é profissional do BPO financeiro
+
+8
+00:00:21.440 --> 00:00:25.129
+você já estabelece uma relação de confiança com a empresa.
+
+9
+00:00:25.479 --> 00:00:25.489
+Então
+
+10
+00:00:26.170 --> 00:00:29.969
+é importante que você tenha ali termos de confidenciabilidade,
+
+11
+00:00:30.170 --> 00:00:31.120
+termos de
+
+12
+00:00:31.930 --> 00:00:33.439
+sigilo dos dados,
+
+13
+00:00:34.009 --> 00:00:35.450
+termos de
+
+14
+00:00:35.810 --> 00:00:41.689
+acordo sobre o nível de acesso que você vai ter aos dados financeiros da empresa.
+
+15
+00:00:41.810 --> 00:00:44.529
+Tudo isso tem que estar previsto tanto no seu contrato
+
+16
+00:00:44.529 --> 00:00:47.689
+de serviço quanto nos termos a parte do contrato.
+
+17
+00:00:48.779 --> 00:00:52.400
+Então cada profissional de BPO financeiro vai ter que.
+
+18
+00:00:54.340 --> 00:00:59.770
+vai ter que sugerir para os seus clientes termos e contratos personalizados
+
+19
+00:01:00.340 --> 00:01:02.700
+para cada tipo de serviço que você vai oferecer.
+
+20
+00:01:03.020 --> 00:01:03.569
+Aqui.
+
+21
+00:01:03.650 --> 00:01:07.860
+A gente já teve algumas informações que eu já passei para vocês ao longo do curso,
+
+22
+00:01:07.930 --> 00:01:09.680
+mas é importante a gente reforçar
+
+23
+00:01:10.089 --> 00:01:12.120
+regra de ouro nunca utilize
+
+24
+00:01:12.449 --> 00:01:16.059
+um usuário Master sempre utilize um usuário
+
+25
+00:01:16.370 --> 00:01:17.250
+secundário,
+
+26
+00:01:17.410 --> 00:01:20.440
+aonde o seu cliente vai ter que fazer a aprovação
+
+27
+00:01:20.809 --> 00:01:21.120
+do
+
+28
+00:01:21.330 --> 00:01:25.370
+de todo de toda a transação que envolver valores na conta dele.
+
+29
+00:01:26.029 --> 00:01:31.209
+O acesso do usuário secundário tem que ter essas limitações aqui de acesso.
+
+30
+00:01:31.290 --> 00:01:31.599
+Tá.
+
+31
+00:01:33.150 --> 00:01:34.769
+a criação de um usuário.
+
+32
+00:01:34.930 --> 00:01:39.089
+Esse usuário deve ter permissões de apenas consultas de extratos e saldos,
+
+33
+00:01:39.209 --> 00:01:40.879
+agendamento de pagamentos
+
+34
+00:01:41.330 --> 00:01:44.349
+até consulta de investimentos e download dos arquivos,
+
+35
+00:01:45.330 --> 00:01:46.860
+mas não pode efetivar
+
+36
+00:01:47.410 --> 00:01:50.970
+operações que vai ter a saída de dinheiro da empresa.
+
+37
+00:01:51.660 --> 00:01:51.669
+Ah,
+
+38
+00:01:51.930 --> 00:01:52.569
+mas professor,
+
+39
+00:01:52.690 --> 00:01:56.849
+o meu cliente só quer contratar o BPO se ele me deu o acesso total.
+
+40
+00:01:57.550 --> 00:01:58.760
+coloca isso no termo,
+
+41
+00:01:59.110 --> 00:02:00.980
+não quer dizer que você não possa fazer,
+
+42
+00:02:01.550 --> 00:02:04.279
+mas coloca isso no termo de forma bem clara
+
+43
+00:02:04.550 --> 00:02:05.629
+e de qualquer forma,
+
+44
+00:02:05.949 --> 00:02:07.739
+você não pode usar o usuário dele.
+
+45
+00:02:07.910 --> 00:02:11.949
+Ele tem que criar um usuário para você com todos os acessos,
+
+46
+00:02:12.029 --> 00:02:15.710
+com todas as as premissas que ele quer te passar.
+
+47
+00:02:16.149 --> 00:02:17.259
+mas não pode
+
+48
+00:02:17.509 --> 00:02:17.869
+é
+
+49
+00:02:18.029 --> 00:02:21.229
+você usar o usuário do seu cliente para fazer as transações.
+
+50
+00:02:21.669 --> 00:02:22.100
+Por quê?
+
+51
+00:02:22.149 --> 00:02:23.339
+Segurança digital
+
+52
+00:02:24.029 --> 00:02:24.789
+por conta da
+
+53
+00:02:25.630 --> 00:02:27.179
+da rastreabilidade
+
+54
+00:02:27.389 --> 00:02:28.250
+das operações.
+
+55
+00:02:28.869 --> 00:02:31.199
+Se acontecer qualquer saída de dinheiro
+
+56
+00:02:31.440 --> 00:02:35.110
+e você não estiver usando o seu usuário estiver usando o usuário dele,
+
+57
+00:02:35.229 --> 00:02:38.029
+ele pode responsabilizar por uma saída que ele mesmo deu.
+
+58
+00:02:38.830 --> 00:02:41.300
+Então nunca use o usuário do cliente.
+
+59
+00:02:41.789 --> 00:02:44.580
+Use sempre o usuário criado para você.
+
+60
+00:02:45.059 --> 00:02:47.740
+de acordo com as premissas que ele estabeleceu de acesso.
+
+61
+00:02:48.490 --> 00:02:51.009
+Aqui são mais alguns lembretes
+
+62
+00:02:52.850 --> 00:02:55.419
+que a gente precisa estabelecer com relação à segurança e ética.
+
+63
+00:02:55.539 --> 00:02:55.660
+Então,
+
+64
+00:02:55.699 --> 00:02:58.179
+quando você for estabelecer o seu contrato,
+
+65
+00:02:58.300 --> 00:03:01.929
+os seus termos de de limitação de dados e tudo mais
+
+66
+00:03:02.740 --> 00:03:04.380
+lembra sempre desses tópicos,
+
+67
+00:03:04.460 --> 00:03:05.089
+porque
+
+68
+00:03:05.339 --> 00:03:09.729
+nós temos o que o profissional de BP pode fazer e o que ele não pode fazer.
+
+69
+00:03:10.399 --> 00:03:13.550
+Então Vamos falar aqui sobre o que o profissional de BPO
+
+70
+00:03:14.240 --> 00:03:15.350
+não deve fazer.
+
+71
+00:03:16.250 --> 00:03:18.770
+ele não pode efetivar a transferência sem aprovação.
+
+72
+00:03:19.169 --> 00:03:21.050
+Ele não pode alterar dados cadastrais.
+
+73
+00:03:21.289 --> 00:03:23.529
+Ele não pode contratar produtos bancários.
+
+74
+00:03:24.169 --> 00:03:26.169
+Ele não pode acessar a informação de
+
+75
+00:03:26.169 --> 00:03:29.330
+outros usuários nem realizar operações de crédito.
+
+76
+00:03:29.729 --> 00:03:33.050
+Por isso que é importante que o usuário seja limitado
+
+77
+00:03:33.289 --> 00:03:35.360
+ou que ainda que ele seja
+
+78
+00:03:35.529 --> 00:03:36.679
+com acesso total,
+
+79
+00:03:36.850 --> 00:03:37.820
+ele tenha
+
+80
+00:03:38.250 --> 00:03:42.350
+um usuário próprio e não o usuário master do cliente.
+
+81
+00:03:42.929 --> 00:03:44.880
+Processo de aprovação de pagamentos.
+
+82
+00:03:46.410 --> 00:03:47.539
+mundo ideal Tá
+
+83
+00:03:47.949 --> 00:03:49.910
+BPO agenda os pagamentos no sistema.
+
+84
+00:03:50.029 --> 00:03:52.229
+O cliente recebe a notificação para a aprovação
+
+85
+00:03:52.229 --> 00:03:55.830
+e o cliente aprova via Token ou senha pessoal
+
+86
+00:03:56.190 --> 00:03:57.979
+e o pagamento é efetivado
+
+87
+00:03:58.110 --> 00:04:01.630
+e assim o BPO recebe a confirmação do pagamento realizado.
+
+88
+00:04:02.070 --> 00:04:05.029
+Mundo ideal não quer dizer que isso vai funcionar para todo mundo,
+
+89
+00:04:05.470 --> 00:04:06.559
+mas esse é o mundo ideal.
+
+90
+00:04:07.070 --> 00:04:07.309
+E aí,
+
+91
+00:04:07.350 --> 00:04:09.619
+quando a gente fala de contrato de confidencialidade,
+
+92
+00:04:10.190 --> 00:04:12.389
+eu também tô colocando aqui no material complementar
+
+93
+00:04:12.389 --> 00:04:15.220
+o contrato de confidencialidade é um modelo padrão.
+
+94
+00:04:15.679 --> 00:04:16.959
+para vocês utilizarem
+
+95
+00:04:17.279 --> 00:04:18.230
+pode mudar
+
+96
+00:04:18.678 --> 00:04:19.470
+alguns termos.
+
+97
+00:04:19.959 --> 00:04:22.559
+Eu recomendo que não tire nada do que já está,
+
+98
+00:04:22.640 --> 00:04:24.839
+mas você pode acrescentar termos
+
+99
+00:04:25.279 --> 00:04:26.029
+e aí
+
+100
+00:04:26.359 --> 00:04:28.299
+todo o relacionamento do BPO deve ser
+
+101
+00:04:28.299 --> 00:04:31.600
+pautado também nesse termo de confidencialidade.
+
+102
+00:04:31.679 --> 00:04:32.029
+Tá
+
+103
+00:04:32.600 --> 00:04:32.760
+Aqui.
+
+104
+00:04:32.839 --> 00:04:35.920
+Nós temos alguns elementos do termo de confidencialidade.
+
+105
+00:04:36.920 --> 00:04:37.799
+Então é aquilo que eu falei,
+
+106
+00:04:37.959 --> 00:04:40.529
+não tirem nenhum dado do que já está lá,
+
+107
+00:04:40.959 --> 00:04:42.829
+só acrescentem se for o caso.
+
+108
+00:04:43.290 --> 00:04:43.500
+E aí,
+
+109
+00:04:43.570 --> 00:04:45.329
+quando a gente fala de dados sensíveis,
+
+110
+00:04:45.450 --> 00:04:49.089
+o profissional do BPO financeiro precisa estar bem atento com relação a isso,
+
+111
+00:04:49.170 --> 00:04:50.600
+porque por muitas vezes
+
+112
+00:04:50.970 --> 00:04:55.200
+a gente vai falar em dados sensíveis e dados sensíveis são o quê
+
+113
+00:04:55.529 --> 00:04:56.600
+Dados pessoais,
+
+114
+00:04:56.649 --> 00:04:57.649
+dados bancários,
+
+115
+00:04:57.769 --> 00:04:58.839
+dados de acesso,
+
+116
+00:04:58.850 --> 00:04:59.329
+usuários.
+
+117
+00:05:00.204 --> 00:05:01.924
+todos esses dados são sensíveis.
+
+118
+00:05:02.404 --> 00:05:03.304
+Nome completo,
+
+119
+00:05:03.364 --> 00:05:04.704
+data de nascimento
+
+120
+00:05:06.084 --> 00:05:07.845
+até o endereço da pessoa.
+
+121
+00:05:07.924 --> 00:05:09.445
+Tudo isso é dado sensível.
+
+122
+00:05:09.804 --> 00:05:11.765
+Endereço de e-mail é dado sensível.
+
+123
+00:05:12.364 --> 00:05:15.475
+Então tudo que você tiver acesso é considerado dado sensível.
+
+124
+00:05:16.084 --> 00:05:16.364
+E aí,
+
+125
+00:05:16.445 --> 00:05:18.204
+por não se tratar de um dado seu.
+
+126
+00:05:18.524 --> 00:05:21.114
+Se esses dados vazarem de alguma forma,
+
+127
+00:05:21.744 --> 00:05:23.725
+isso pode ser responsabilizado
+
+128
+00:05:24.165 --> 00:05:24.885
+criminalmente,
+
+129
+00:05:25.084 --> 00:05:25.434
+até
+
+130
+00:05:25.684 --> 00:05:27.674
+como vazamento de dados.
+
+131
+00:05:28.540 --> 00:05:31.619
+eh por muitas vezes a gente recebe aqui alguns clientes
+
+132
+00:05:31.619 --> 00:05:35.940
+com com queixas de que os dados foram vazados e que
+
+133
+00:05:36.269 --> 00:05:40.790
+usaram os documentos para fazer alguma coisa que eles não não aprovaram.
+
+134
+00:05:41.559 --> 00:05:41.970
+eh
+
+135
+00:05:42.869 --> 00:05:45.190
+Inclusive acontecem processos,
+
+136
+00:05:45.350 --> 00:05:45.989
+por exemplo,
+
+137
+00:05:46.589 --> 00:05:48.149
+com tudo digital hoje em dia,
+
+138
+00:05:48.309 --> 00:05:48.500
+né?
+
+139
+00:05:49.299 --> 00:05:51.829
+Eh Se você for no no site da junta comercial,
+
+140
+00:05:51.910 --> 00:05:52.350
+por exemplo,
+
+141
+00:05:52.429 --> 00:05:56.059
+você pode consultar uma empresa que existe registrada lá.
+
+142
+00:05:56.799 --> 00:05:59.239
+e pegar uma cópia do contrato social dela,
+
+143
+00:05:59.320 --> 00:06:02.510
+mesmo que você não tenha nenhuma relação com a empresa
+
+144
+00:06:02.959 --> 00:06:07.279
+e no contrato social existem todos os dados sensíveis dos sócios.
+
+145
+00:06:07.649 --> 00:06:08.959
+Então assim é uma falha.
+
+146
+00:06:09.399 --> 00:06:10.160
+Eu eu não,
+
+147
+00:06:10.640 --> 00:06:11.630
+não deixo de
+
+148
+00:06:12.079 --> 00:06:17.809
+de de atestar que isso é uma falha mesmo dos controles aí do do da junta comercial,
+
+149
+00:06:17.880 --> 00:06:21.399
+porque qualquer um com a senha de nota fiscal paulista,
+
+150
+00:06:22.079 --> 00:06:23.920
+qualquer um pode pode acessar.
+
+151
+00:06:24.380 --> 00:06:26.730
+a junta comercial e ver os dados sensíveis
+
+152
+00:06:27.019 --> 00:06:28.290
+de qualquer empresa
+
+153
+00:06:28.579 --> 00:06:30.829
+que esteja estabelecida na junta comercial.
+
+154
+00:06:30.899 --> 00:06:31.290
+Hoje
+
+155
+00:06:31.820 --> 00:06:32.260
+então
+
+156
+00:06:32.739 --> 00:06:33.040
+é,
+
+157
+00:06:33.299 --> 00:06:33.609
+é,
+
+158
+00:06:34.420 --> 00:06:36.970
+é realmente é relevante esse tipo de cuidado
+
+159
+00:06:37.339 --> 00:06:40.070
+e é relevante esse cuidado com os dados sensíveis.
+
+160
+00:06:40.140 --> 00:06:40.450
+Tá.
+
+161
+00:06:40.880 --> 00:06:41.130
+E aí,
+
+162
+00:06:41.200 --> 00:06:43.079
+quando a gente trata de dados sensíveis,
+
+163
+00:06:43.119 --> 00:06:45.170
+a gente está falando também de LGPD,
+
+164
+00:06:45.559 --> 00:06:47.540
+que é a Lei Geral de Proteção de dados
+
+165
+00:06:47.950 --> 00:06:49.140
+e essa LGPD.
+
+166
+00:06:49.279 --> 00:06:51.510
+Ela tem esse nome aqui no Brasil,
+
+167
+00:06:51.839 --> 00:06:55.200
+mas é o o conceito de proteção de dados de lei
+
+168
+00:06:55.200 --> 00:06:59.290
+de proteção de dados existe em todo o território do mundo.
+
+169
+00:06:59.600 --> 00:07:00.570
+É internacional.
+
+170
+00:07:01.019 --> 00:07:02.959
+Cada país vai ter uma nomenclatura,
+
+171
+00:07:03.040 --> 00:07:05.440
+mas todos os países têm esse sigilo.
+
+172
+00:07:05.970 --> 00:07:09.540
+essa legislação que protege os dados sensíveis,
+
+173
+00:07:11.500 --> 00:07:14.730
+que protege a questão de de vazamento de dados pessoais.
+
+174
+00:07:14.829 --> 00:07:15.160
+Tá Então.
+
+175
+00:07:15.730 --> 00:07:17.250
+Quando a gente trata de LGPD,
+
+176
+00:07:17.290 --> 00:07:21.299
+o seu contrato de BPO financeiro precisa prever também
+
+177
+00:07:21.730 --> 00:07:25.170
+toda a responsabilidade que você tem com relação a LGPD
+
+178
+00:07:25.730 --> 00:07:29.890
+e toda a responsabilidade se acontecer algum vazamento de dados
+
+179
+00:07:29.890 --> 00:07:33.190
+que for constatado que foi através do seu serviço.
+
+180
+00:07:33.850 --> 00:07:37.239
+Então é importantíssimo que você profissional do BPO financeiro
+
+181
+00:07:37.609 --> 00:07:39.320
+não deixe de
+
+182
+00:07:39.839 --> 00:07:41.079
+de prever
+
+183
+00:07:41.450 --> 00:07:45.410
+que vai precisar ter 11 segurança digital.
+
+184
+00:07:45.450 --> 00:07:47.820
+Vai precisar ter aí uma contratação de
+
+185
+00:07:48.089 --> 00:07:51.290
+de que seja um pacote em nuvem para você guardar os seus
+
+186
+00:07:51.290 --> 00:07:55.730
+dados para que ele não fique exposto a um computador só,
+
+187
+00:07:55.809 --> 00:07:56.250
+por exemplo,
+
+188
+00:07:56.290 --> 00:07:57.369
+se roubaram o seu computador,
+
+189
+00:07:57.470 --> 00:08:00.000
+roubaram todos os dados do seu cliente não pode.
+
+190
+00:08:00.600 --> 00:08:03.049
+Então precisa mesmo ter essa segurança
+
+191
+00:08:03.420 --> 00:08:06.730
+E se você não tem ainda esse nível assim Ah,
+
+192
+00:08:06.899 --> 00:08:08.010
+eu não sei como faz.
+
+193
+00:08:08.059 --> 00:08:11.859
+Eu não sei como que o que por onde eu começo para ter esse nível de segurança,
+
+194
+00:08:11.940 --> 00:08:14.510
+procura um profissional de TI que ele vai te ajudar
+
+195
+00:08:15.230 --> 00:08:19.019
+procura uma empresa de TI também que ela vai te ajudar nesse sentido
+
+196
+00:08:19.540 --> 00:08:21.380
+e procura uma assessoria jurídica,
+
+197
+00:08:21.459 --> 00:08:24.869
+principalmente porque a assessoria jurídica também vai te dar.
+
+198
+00:08:25.559 --> 00:08:29.179
+uma série de de caminhos a serem seguidos.
+
+199
+00:08:29.950 --> 00:08:33.479
+Aqui eu quero passar pra vocês alguns limites éticos e legais
+
+200
+00:08:33.919 --> 00:08:36.400
+e vamos focar no que a gente pode e o
+
+201
+00:08:36.400 --> 00:08:39.349
+que a gente deve fazer como profissional do BPO financeiro.
+
+202
+00:08:40.159 --> 00:08:41.679
+Então aqui nós temos alguns itens,
+
+203
+00:08:41.760 --> 00:08:42.429
+por exemplo.
+
+204
+00:08:42.960 --> 00:08:44.799
+de análise e consultoria,
+
+205
+00:08:45.239 --> 00:08:46.640
+analisar dados financeiros,
+
+206
+00:08:46.719 --> 00:08:47.969
+identificar tendências,
+
+207
+00:08:48.039 --> 00:08:49.510
+gerar relatórios detalhados,
+
+208
+00:08:50.239 --> 00:08:52.880
+apontar oportunidade de melhoria e otimização,
+
+209
+00:08:53.000 --> 00:08:55.719
+sugerir estratégias para redução de custo,
+
+210
+00:08:56.239 --> 00:08:58.840
+alertar sobre os riscos financeiros.
+
+211
+00:08:59.299 --> 00:09:01.580
+educar o cliente sobre a gestão financeira.
+
+212
+00:09:02.299 --> 00:09:06.130
+Basicamente cada um desses tópicos a gente já abordou aqui no nosso curso,
+
+213
+00:09:06.700 --> 00:09:07.179
+mas
+
+214
+00:09:07.460 --> 00:09:10.309
+é importante ressaltar e é importante reforçar
+
+215
+00:09:10.460 --> 00:09:13.039
+que você não perca de vista esses itens.

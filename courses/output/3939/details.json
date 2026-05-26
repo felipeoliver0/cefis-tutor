@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3939,
+    "title": "DISTRATO SOCIAL",
+    "subtitle": "2025",
+    "summary": "O curso de Distrato Social tem como foco orientar profissionais, empreendedores e estudantes sobre os procedimentos legais, práticos e documentais necessários para o encerramento regular de uma sociedade. Serão abordados os aspectos jurídicos, contábeis e administrativos do distrato, destacando as responsabilidades dos sócios, a elaboração do documento de distrato, a comunicação aos órgãos competentes e as consequências legais do encerramento.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/5e171a30-bb00-4c92-b020-afc1f654371e-thumbnail.png",
+    "goals": [
+      "Durante as aulas, o participante terá acesso a conteúdos teóricos e práticos, com exemplos reais de elaboração de distrato social, além de orientações sobre como evitar erros comuns que podem gerar responsabilidades futuras para os sócios."
+    ],
+    "teacher": {
+      "id": 539061,
+      "name": "DAYANE DA SILVA AMARO ROSA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/bf7e258c-2a32-4b58-929c-cf883a14c3cf-croppedImage.jpeg"
+    },
+    "duration": 4059,
+    "keywords": "DISTRATO;DISTRATO SOCIAL;SOCIAL;ENCERRAR EMPRESA;EMPRESA",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 237,
+    "averageRating": 9.19,
+    "practiceAverage": 9.14,
+    "trailer": {
+      "id": "6635ab6e-4d82-4f89-93de-19077dbcc4fc",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6635ab6e-4d82-4f89-93de-19077dbcc4fc/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6635ab6e-4d82-4f89-93de-19077dbcc4fc/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6635ab6e-4d82-4f89-93de-19077dbcc4fc/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6635ab6e-4d82-4f89-93de-19077dbcc4fc/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-08-25T00:40:12.000Z",
+      "updatedAt": "2025-08-25T00:40:12.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-08-25T00:43:09.000Z",
+    "recordedAt": "2025-08-06T00:00:00.000Z",
+    "createdAt": "2025-08-25T00:00:38.000Z"
+  }
+}

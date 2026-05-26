@@ -1,0 +1,33 @@
+{
+  "id": 482594,
+  "title": "Esgotamento do Ego",
+  "position": 15,
+  "duration": 528,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/85e7ae51-dbc8-4399-8877-8eefeb319cbb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85e7ae51-dbc8-4399-8877-8eefeb319cbb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85e7ae51-dbc8-4399-8877-8eefeb319cbb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85e7ae51-dbc8-4399-8877-8eefeb319cbb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85e7ae51-dbc8-4399-8877-8eefeb319cbb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

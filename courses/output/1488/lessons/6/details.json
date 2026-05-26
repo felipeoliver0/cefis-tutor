@@ -1,0 +1,33 @@
+{
+  "id": 452175,
+  "title": "Normas Contábeis Internacionais",
+  "position": 6,
+  "duration": 451,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/81053c3d-241c-4181-a012-47f797ba49ad/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81053c3d-241c-4181-a012-47f797ba49ad/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81053c3d-241c-4181-a012-47f797ba49ad/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81053c3d-241c-4181-a012-47f797ba49ad/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81053c3d-241c-4181-a012-47f797ba49ad/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

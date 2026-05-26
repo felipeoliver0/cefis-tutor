@@ -1,0 +1,437 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.279
+O valor da participação que exceder o custo de aquisição
+
+3
+00:00:03.279 --> 00:00:06.839
+constituirá a parcela destacada no resultado do exercício futuro
+
+4
+00:00:06.839 --> 00:00:10.720
+até que fique comprovada a existência do ganho efetivo.
+
+5
+00:00:10.720 --> 00:00:14.480
+Hoje nós não temos mais REF, Resultado do Exercício Futuro,
+
+6
+00:00:14.480 --> 00:00:16.320
+então já vai direto para o resultado.
+
+7
+00:00:16.320 --> 00:00:21.079
+Para fins dos artigos 250, a sociedade descontroladora cujo exercício social
+
+8
+00:00:21.079 --> 00:00:26.280
+termine mais de 60 dias antes da data de encerramento do exercício da companhia,
+
+9
+00:00:26.280 --> 00:00:28.719
+elaborarão, com observância das normas dessa lei,
+
+10
+00:00:28.719 --> 00:00:33.600
+demonstrações financeiras extraordinárias em data compreendida nesse prazo.
+
+11
+00:00:33.600 --> 00:00:37.640
+Então vocês estão vendo que dá muito trabalho fazer a consolidação,
+
+12
+00:00:37.640 --> 00:00:41.479
+não é tão simples, mas tem que ter todos os requisitos.
+
+13
+00:00:41.479 --> 00:00:45.359
+Isso vai envolver grandes corporações.
+
+14
+00:00:45.359 --> 00:00:48.920
+O CPC36 diz o seguinte,
+
+15
+00:00:48.920 --> 00:00:53.399
+o investidor deverá avaliar se possui todos os requisitos.
+
+16
+00:00:53.399 --> 00:00:57.000
+Se possui todos eles, está obrigado a fazer, se não, não está obrigado.
+
+17
+00:00:57.000 --> 00:00:58.240
+Poder sobre a investida
+
+18
+00:00:58.240 --> 00:01:02.079
+para dirigí-la em suas atividades relevantes, se ele tiver.
+
+19
+00:01:02.079 --> 00:01:05.760
+Depois, exposição ou direito sobre retorno variáveis
+
+20
+00:01:05.760 --> 00:01:11.680
+decorrente do seu envolvimento com a investida, retorno para o investidor.
+
+21
+00:01:11.680 --> 00:01:14.439
+C, capacidade de utilizar o poder sobre a investida
+
+22
+00:01:14.439 --> 00:01:18.280
+para afetar o valor de seus retornos.
+
+23
+00:01:18.280 --> 00:01:21.239
+Olha lá, possui todos os requisitos,
+
+24
+00:01:21.239 --> 00:01:26.519
+tem que ter tudo isso aqui para poder ser consolidado.
+
+25
+00:01:26.519 --> 00:01:28.040
+A indicação de que há informação,
+
+26
+00:01:28.040 --> 00:01:31.560
+de escriturações contábeis consolidadas na ECD,
+
+27
+00:01:31.560 --> 00:01:36.439
+ocorre quando o campo 20 do registro zero for igual a sim.
+
+28
+00:01:36.439 --> 00:01:40.239
+Então, lá no início, nós vamos escrever lá sim ou não.
+
+29
+00:01:40.239 --> 00:01:42.480
+Se for sim, ele vai me habilitar aqui para preencher,
+
+30
+00:01:42.480 --> 00:01:45.959
+se for não, não preciso nem preencher nada, perfeito?
+
+31
+00:01:45.959 --> 00:01:47.760
+Em caso de ECD normal,
+
+32
+00:01:47.760 --> 00:01:50.680
+só haverá informação de escriturações contábeis consolidadas
+
+33
+00:01:50.680 --> 00:01:56.519
+quando o período da ECD contiver o mês ou fração do mês de dezembro.
+
+34
+00:01:56.519 --> 00:01:57.879
+Preciso ter pelo menos um mês para consolidar, né?
+
+35
+00:01:57.879 --> 00:02:00.319
+Se não, não tem.
+
+36
+00:02:00.319 --> 00:02:03.879
+Aqui o bloco K01, é a abertura, o registro do bloco,
+
+37
+00:02:03.879 --> 00:02:05.319
+indica se há ou não os dados.
+
+38
+00:02:05.319 --> 00:02:08.800
+Então, está aqui, registro 1, texto fixo, né?
+
+39
+00:02:08.800 --> 00:02:11.400
+Obrigatório? Sim ou não? Está vendo o campo lá?
+
+40
+00:02:11.400 --> 00:02:12.520
+Sim ou não?
+
+41
+00:02:12.520 --> 00:02:15.800
+Indicador de movimento, zero, bloco com dados a serem formados,
+
+42
+00:02:15.800 --> 00:02:17.439
+1, bloco sem dados.
+
+43
+00:02:17.439 --> 00:02:23.719
+Então, se for o 1, sim, tem bloco sem dados a serem formados, né?
+
+44
+00:02:23.719 --> 00:02:27.240
+O K30, período de escrituração, então nós temos aqui a data do período,
+
+45
+00:02:27.240 --> 00:02:32.240
+a data do período consolidado, temos a data fim, né, da consolidação.
+
+46
+00:02:32.240 --> 00:02:36.039
+Então, são regras que estão na nossa parametrização.
+
+47
+00:02:36.039 --> 00:02:40.439
+Bem parametrizada importa os dados, mas não é tão simples assim.
+
+48
+00:02:40.439 --> 00:02:44.080
+O K100, relação das empresas, que identifica, né?
+
+49
+00:02:44.080 --> 00:02:46.759
+Então, aqui o exemplo do preenchimento, ó.
+
+50
+00:02:46.759 --> 00:02:49.719
+Eu tenho empresa participante, né?
+
+51
+00:02:49.719 --> 00:02:53.560
+Tenho percentual, tenho o campo 1, tipo do registro,
+
+52
+00:02:53.560 --> 00:02:56.719
+o código do país, o código de identificação,
+
+53
+00:02:56.719 --> 00:03:00.599
+o CNPJ, o nome empresarial, né?
+
+54
+00:03:00.599 --> 00:03:02.960
+E a participação dela, 30%.
+
+55
+00:03:02.960 --> 00:03:06.120
+Campo 6, percentual total do conglomerado.
+
+56
+00:03:06.120 --> 00:03:09.520
+A empresa no final do período consolida 30%.
+
+57
+00:03:09.520 --> 00:03:14.319
+Campo 7, evento societário do ocorrido no período, sim.
+
+58
+00:03:14.319 --> 00:03:18.960
+Percentual de consolidação da empresa, consolidado 100%.
+
+59
+00:03:18.960 --> 00:03:22.800
+Data inicial do período da escrituração contábil,
+
+60
+00:03:22.800 --> 00:03:24.479
+que foi consolidado, né?
+
+61
+00:03:24.479 --> 00:03:26.120
+E a data final do período.
+
+62
+00:03:26.120 --> 00:03:28.800
+Então, são isso que a gente preenche no bloco, né?
+
+63
+00:03:28.800 --> 00:03:30.639
+Relação dos eventos societários, né?
+
+64
+00:03:30.639 --> 00:03:33.120
+O 110 demonstra a relação dos eventos.
+
+65
+00:03:33.120 --> 00:03:34.360
+Então, olha lá.
+
+66
+00:03:34.360 --> 00:03:37.919
+Eu tenho o campo fixo primeiro, no 2 eu tenho.
+
+67
+00:03:37.919 --> 00:03:41.000
+Se o evento foi uma aquisição, foi uma alienação,
+
+68
+00:03:41.000 --> 00:03:44.000
+foi uma fusão, cisão parcial, cisão total.
+
+69
+00:03:44.000 --> 00:03:47.120
+Então, eu tenho as codificações aí que nós temos que utilizar.
+
+70
+00:03:47.120 --> 00:03:49.439
+Todos eles também, né?
+
+71
+00:03:49.439 --> 00:03:52.240
+Data do evento societário, né?
+
+72
+00:03:52.240 --> 00:03:54.439
+Então, esses são os campos da parametrização,
+
+73
+00:03:54.439 --> 00:03:56.000
+se é obrigado ou não.
+
+74
+00:03:56.120 --> 00:04:02.039
+O 115 também, eu tenho o código da empresa envolvida na operação,
+
+75
+00:04:02.039 --> 00:04:06.000
+condição da empresa relacionada, se é sucessora, se é adquirente,
+
+76
+00:04:06.000 --> 00:04:07.800
+se é alienante, né?
+
+77
+00:04:07.800 --> 00:04:09.599
+Ou seja, quem vendeu.
+
+78
+00:04:09.599 --> 00:04:12.639
+Percentual da empresa participante envolvida na operação.
+
+79
+00:04:12.639 --> 00:04:14.360
+Qual é o percentual, né?
+
+80
+00:04:14.360 --> 00:04:17.040
+Então, o K115 é esse, né?
+
+81
+00:04:17.040 --> 00:04:21.680
+Demonstra a relação das empresas participantes dos eventos societários
+
+82
+00:04:21.680 --> 00:04:24.639
+informado lá no K110, tá?
+
+83
+00:04:24.639 --> 00:04:26.120
+Então, ele é bem amplo.
+
+84
+00:04:26.120 --> 00:04:29.120
+O 200 é um plano de contas consolidado.
+
+85
+00:04:29.120 --> 00:04:32.120
+Então, eu apresento o plano para todos eles.
+
+86
+00:04:32.120 --> 00:04:36.120
+O 210 é o mapeamento para as contas das empresas, né?
+
+87
+00:04:36.120 --> 00:04:40.120
+Mapeamento das contas, informando o registro no K200,
+
+88
+00:04:40.120 --> 00:04:43.120
+quais contas são consolidadas.
+
+89
+00:04:43.120 --> 00:04:48.120
+O 300, saldo das contas consolidadas, aí já é o saldo deles, de cada um deles.
+
+90
+00:04:48.120 --> 00:04:55.120
+310, registro das empresas detentora das parcelas do valor eliminado,
+
+91
+00:04:55.120 --> 00:04:57.120
+como os respectivos valores eliminados.
+
+92
+00:04:57.120 --> 00:05:00.120
+Então, essas eliminações que nós fazemos.
+
+93
+00:05:00.120 --> 00:05:05.120
+O 315, contraparte das parcelas do valor eliminado,
+
+94
+00:05:05.120 --> 00:05:07.120
+com o respectivo valor eliminado.
+
+95
+00:05:07.120 --> 00:05:10.120
+Então, qual é a empresa que teve valores.
+
+96
+00:05:10.120 --> 00:05:13.120
+O 990 é o encerramento do bloco.
+
+97
+00:05:13.120 --> 00:05:15.120
+Então, ele é cheio de detalhes, tá?
+
+98
+00:05:15.120 --> 00:05:18.120
+Mas, é consolidação na veia.
+
+99
+00:05:18.120 --> 00:05:21.120
+Então, aqui quem domina consolidação de balanço,
+
+100
+00:05:21.120 --> 00:05:24.120
+consegue conciliar e verificar se o bloco cai.
+
+101
+00:05:24.120 --> 00:05:28.120
+Se bem parametrizado, vem também automático.
+
+102
+00:05:28.120 --> 00:05:30.120
+Agora, tem que estar tudo na mesma base, né?
+
+103
+00:05:30.120 --> 00:05:32.120
+Não é tão simples assim.
+
+104
+00:05:32.120 --> 00:05:33.120
+Bacana, gente?
+
+105
+00:05:33.120 --> 00:05:34.120
+Então, é um bloco à parte.
+
+106
+00:05:34.120 --> 00:05:36.120
+É um bloco muito pouco utilizado,
+
+107
+00:05:36.120 --> 00:05:39.120
+mas utilizado para grandes corporações, sem sombra de dúvida.
+
+108
+00:05:39.120 --> 00:05:42.120
+Ou seja, está desde 2017 obrigatório.
+
+109
+00:05:42.120 --> 00:05:44.120
+Então, já tem 7, 8 anos aí de janela.
+
+110
+00:05:44.120 --> 00:05:46.120
+Já está consolidado com o pessoal aí.

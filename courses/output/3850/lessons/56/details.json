@@ -1,0 +1,33 @@
+{
+  "id": 478424,
+  "title": "Registros - 4099",
+  "position": 56,
+  "duration": 273,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f7beb80c-eb8e-49fb-84d5-95e1725b0a21/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7beb80c-eb8e-49fb-84d5-95e1725b0a21/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7beb80c-eb8e-49fb-84d5-95e1725b0a21/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7beb80c-eb8e-49fb-84d5-95e1725b0a21/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7beb80c-eb8e-49fb-84d5-95e1725b0a21/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

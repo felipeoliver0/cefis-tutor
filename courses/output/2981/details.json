@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2981,
+    "title": "Entidades Imunes e Isentas",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso sobre Entidades Imunes e Isentas, você vai aprender, por meio de estudos de caso e vários exemplos, tópicos como: previsão legal, requisitos para obtenção de isenção e imunidade, bem como a suspensão das mesmas, aspectos como PIS, COFINS, IRPJ, CSLL, PIS sobre a folha de salários obrigações acessórias (DCTF; EFD-Contribuições; ECF; ECD; DIRF e REINF) e   para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/4eacdbd1046f805ffcaaeaac2e211c701728384924.jpg",
+    "goals": [
+      "Direcionar o aluno de forma que ele tenha toda a base teórica das questões sobre as entidades imunes e isentas e a prática da opção desse regime"
+    ],
+    "teacher": {
+      "id": 88283,
+      "name": "Matheus Henrique Retamero Ferreira",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1691667060.jpeg"
+    },
+    "duration": 5475,
+    "keywords": "imunes;isentas;entidade",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 29,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 878,
+    "averageRating": 9.31,
+    "practiceAverage": 9.34,
+    "trailer": {
+      "id": "fc4562e6-6a49-4850-b928-866f16b8f1e2",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fc4562e6-6a49-4850-b928-866f16b8f1e2/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fc4562e6-6a49-4850-b928-866f16b8f1e2/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fc4562e6-6a49-4850-b928-866f16b8f1e2/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fc4562e6-6a49-4850-b928-866f16b8f1e2/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-09T19:45:58.000Z",
+      "updatedAt": "2024-01-09T19:45:57.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-01-26T15:18:08.000Z",
+    "recordedAt": "2023-12-22T00:00:00.000Z",
+    "createdAt": "2023-12-26T11:10:17.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 475664,
+  "title": "Curto e longo prazo",
+  "position": 17,
+  "duration": 329,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f9e9704d-b42c-4b73-9933-ad690df1201a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f9e9704d-b42c-4b73-9933-ad690df1201a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f9e9704d-b42c-4b73-9933-ad690df1201a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f9e9704d-b42c-4b73-9933-ad690df1201a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f9e9704d-b42c-4b73-9933-ad690df1201a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

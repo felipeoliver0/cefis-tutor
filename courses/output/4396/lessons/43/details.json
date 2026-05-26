@@ -1,0 +1,33 @@
+{
+  "id": 486536,
+  "title": "Cronograma de implantação e transição - Parte 1",
+  "position": 43,
+  "duration": 314,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/857341bc-12ca-430d-8179-3b47953ff4fe/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/857341bc-12ca-430d-8179-3b47953ff4fe/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/857341bc-12ca-430d-8179-3b47953ff4fe/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/857341bc-12ca-430d-8179-3b47953ff4fe/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/857341bc-12ca-430d-8179-3b47953ff4fe/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

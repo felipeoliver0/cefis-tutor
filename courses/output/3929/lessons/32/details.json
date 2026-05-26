@@ -1,0 +1,33 @@
+{
+  "id": 481810,
+  "title": "ISSQN",
+  "position": 33,
+  "duration": 299,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/80210638-2696-4a2a-bec5-e682ed12417d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/80210638-2696-4a2a-bec5-e682ed12417d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/80210638-2696-4a2a-bec5-e682ed12417d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/80210638-2696-4a2a-bec5-e682ed12417d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/80210638-2696-4a2a-bec5-e682ed12417d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

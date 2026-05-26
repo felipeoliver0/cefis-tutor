@@ -1,0 +1,33 @@
+{
+  "id": 465452,
+  "title": "Exemplo Prático 3",
+  "position": 20,
+  "duration": 179,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ed037d3a-fd2b-46fa-aff2-f513ab023de5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed037d3a-fd2b-46fa-aff2-f513ab023de5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed037d3a-fd2b-46fa-aff2-f513ab023de5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed037d3a-fd2b-46fa-aff2-f513ab023de5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed037d3a-fd2b-46fa-aff2-f513ab023de5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

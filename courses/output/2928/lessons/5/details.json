@@ -1,0 +1,33 @@
+{
+  "id": 471584,
+  "title": "O que é uma empresa?",
+  "position": 5,
+  "duration": 296,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7cab0fe6-3230-4d49-b738-3e61c96f9084/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7cab0fe6-3230-4d49-b738-3e61c96f9084/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7cab0fe6-3230-4d49-b738-3e61c96f9084/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7cab0fe6-3230-4d49-b738-3e61c96f9084/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7cab0fe6-3230-4d49-b738-3e61c96f9084/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

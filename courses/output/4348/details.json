@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4348,
+    "title": "Reforma tributária no E-commerce",
+    "subtitle": "E-commerce",
+    "summary": "Neste curso Reforma tributária no E-commerce você irá aprender na prática tudo o que precisa saber sobre E-commerce. Aprenderá os fundamentos e a prática de Fusão de tributos, Lei complementar nº 214-2025 e Split-payment e vários outros temas para você que deseja se atualizar ou aprender tudo sobre Reforma tributária no E-commerce.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/eef9723f-66a5-43a4-a73f-dc9afbab15d7-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Reforma tributária no E-commerce é a capacitação para a aplicação prática de compreender as principais diretrizes e práticas da reforma tributária no contexto do e-commerce."
+    ],
+    "teacher": {
+      "id": 471993,
+      "name": "SIDNEY D'AGÁZIO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1606057066.jpeg"
+    },
+    "duration": 9213,
+    "keywords": "reforma;tributária;geral;e-commerce",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 39,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 153,
+    "averageRating": 9.34,
+    "practiceAverage": 9.26,
+    "trailer": {
+      "id": "21d826d0-42c6-4061-b699-3f657f173671",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/21d826d0-42c6-4061-b699-3f657f173671/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/21d826d0-42c6-4061-b699-3f657f173671/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/21d826d0-42c6-4061-b699-3f657f173671/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/21d826d0-42c6-4061-b699-3f657f173671/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-01-21T19:24:37.000Z",
+      "updatedAt": "2026-01-21T19:24:36.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-01-27T18:05:39.000Z",
+    "recordedAt": "2026-01-07T00:00:00.000Z",
+    "createdAt": "2026-01-07T09:49:25.000Z"
+  }
+}

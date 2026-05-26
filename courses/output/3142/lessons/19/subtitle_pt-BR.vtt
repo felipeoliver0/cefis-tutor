@@ -1,0 +1,433 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.038
+eu coloco assim vamos, vamos imaginar a seguinte situação valor
+
+2
+00:00:05.070 --> 00:00:05.780
+e
+
+3
+00:00:06.829 --> 00:00:07.820
+valor
+
+4
+00:00:08.670 --> 00:00:11.579
+dois Vamos colocar aqui oh, onze
+
+5
+00:00:12.300 --> 00:00:13.649
+isso cinquenta e cinco
+
+6
+00:00:14.350 --> 00:00:15.979
+igual ou
+
+7
+00:00:16.680 --> 00:00:18.950
+esse aqui é menor,
+
+8
+00:00:19.649 --> 00:00:23.120
+é maior que dez ponto vírgula.
+
+9
+00:00:24.370 --> 00:00:27.600
+Esse aqui é menor que cinco.
+
+10
+00:00:28.389 --> 00:00:32.740
+Ele retornou verdadeiro porque uma das situações estava de acordo.
+
+11
+00:00:32.750 --> 00:00:35.639
+Por exemplo, o primeiro número maior que dez Agora se eu venho e coloco aqui oh,
+
+12
+00:00:35.650 --> 00:00:36.180
+cinco,
+
+13
+00:00:36.869 --> 00:00:38.060
+ele vai me dar falso.
+
+14
+00:00:38.779 --> 00:00:43.709
+O que que eu posso pensar como a estrutura do Ou se eu tenho mais de uma condicionante?
+
+15
+00:00:43.720 --> 00:00:46.430
+Eu quero estabelecer se ela é verdadeira ou se ela é falsa.
+
+16
+00:00:46.439 --> 00:00:50.970
+Então eu tenho uma estrutura com várias células, eu falo assim olha,
+
+17
+00:00:50.979 --> 00:00:54.950
+ou é uma operação de venda ou uma operação de devolução?
+
+18
+00:00:54.959 --> 00:00:59.930
+Então quer dizer o quê se eu tenho lá, por exemplo, venda?
+
+19
+00:01:00.590 --> 00:01:02.459
+Se eu tenho assim Operação,
+
+20
+00:01:05.199 --> 00:01:06.110
+venda,
+
+21
+00:01:06.739 --> 00:01:08.809
+venda, devolução,
+
+22
+00:01:10.410 --> 00:01:14.680
+venda compra transferência?
+
+23
+00:01:15.580 --> 00:01:21.690
+Certo? Eu venho e testo, Eu só quero pegar se for venda ou devolução de venda igual ou
+
+24
+00:01:22.370 --> 00:01:26.279
+essa informação é igual à venda.
+
+25
+00:01:26.949 --> 00:01:32.180
+Ponto vírgula essa informação é igual a devolução,
+
+26
+00:01:33.199 --> 00:01:34.349
+devolução, Venda
+
+27
+00:01:38.000 --> 00:01:42.809
+bom, se eu pego aqui oh, é uma operação de venda ou devolução de venda.
+
+28
+00:01:42.819 --> 00:01:47.209
+Estou fazendo um teste específico de apuração de
+
+29
+00:01:47.220 --> 00:01:49.750
+de venda de PIS e COFINS sobre venda,
+
+30
+00:01:49.760 --> 00:01:50.970
+sabe sobre no?
+
+31
+00:01:50.980 --> 00:01:55.650
+Não cumula no cumulativo. Então as devoluções de venda deduzem da base? Certo?
+
+32
+00:01:55.660 --> 00:01:56.370
+Então,
+
+33
+00:01:56.379 --> 00:02:00.010
+quais itens iriam deduzir da minha base toda vez que eu tive uma operação de venda,
+
+34
+00:02:00.019 --> 00:02:01.669
+dedução de ou devolução de venda?
+
+35
+00:02:02.540 --> 00:02:06.489
+Então toda vez que eu tive essas duas situações, eu estabelecia o verdadeiro
+
+36
+00:02:07.610 --> 00:02:08.800
+e eu venho E falo assim oh,
+
+37
+00:02:10.907 --> 00:02:11.658
+c
+
+38
+00:02:12.479 --> 00:02:14.649
+esse aqui, ponto vírgula,
+
+39
+00:02:14.660 --> 00:02:18.949
+vamos imaginar que aqui tem um valor vezes nove vírgula vinte e cinco por cento.
+
+40
+00:02:25.259 --> 00:02:26.570
+O que que acontece?
+
+41
+00:02:26.580 --> 00:02:31.130
+Vamos ter uma venda de mil e quinhentos modelo evolução de duzentos e cinquenta?
+
+42
+00:02:31.919 --> 00:02:36.690
+Bom, toda vez que eu tiver uma venda ou uma devolução de venda, eu,
+
+43
+00:02:36.699 --> 00:02:39.009
+no caso do do cálculo cumulativo,
+
+44
+00:02:39.020 --> 00:02:42.080
+eu vou estar fazendo o que eu vou estar calculando alguma coisa sobre
+
+45
+00:02:42.089 --> 00:02:47.050
+ele nos casos específicos de compra e transferência que não interferem pra mim.
+
+46
+00:02:47.059 --> 00:02:49.889
+Eu não tô trazendo o cálculo porque eu coloquei uma estrutura de si,
+
+47
+00:02:49.899 --> 00:02:56.369
+Se o teste que eu fiz doou, estiver de acordo eu vou calcular.
+
+48
+00:02:56.380 --> 00:02:57.949
+Senão eu ainda posso fazer assim, oh
+
+49
+00:02:58.339 --> 00:03:02.490
+se não, opa, Se não zero
+
+50
+00:03:03.910 --> 00:03:10.199
+Olha só que que eu fiz aqui, Oh então tem as operações de venda de devolução de venda,
+
+51
+00:03:10.210 --> 00:03:11.199
+compra e transferência.
+
+52
+00:03:11.210 --> 00:03:15.259
+Tô simulando o cálculo de PIS e COFINS da cumulatividade,
+
+53
+00:03:15.270 --> 00:03:18.699
+então aqui tá o valor aqui tá o valor específico?
+
+54
+00:03:18.710 --> 00:03:20.979
+Eu falo assim oh valor, né beleza.
+
+55
+00:03:22.160 --> 00:03:25.410
+E eu coloquei PIS barra COFINS que eu já apliquei o nove ponto vinte e cinco, né?
+
+56
+00:03:25.419 --> 00:03:25.910
+Direto?
+
+57
+00:03:27.029 --> 00:03:28.399
+COFINS Então,
+
+58
+00:03:28.410 --> 00:03:30.720
+toda vez que eu tiver um valor que ele tiver
+
+59
+00:03:30.729 --> 00:03:33.820
+referente a uma venda ou uma devolução de venda,
+
+60
+00:03:33.830 --> 00:03:34.759
+o que que eu faço?
+
+61
+00:03:34.770 --> 00:03:35.240
+Pessoal?
+
+62
+00:03:35.250 --> 00:03:36.619
+Eu trago isso aqui,
+
+63
+00:03:36.630 --> 00:03:40.720
+como eh como um item em que eu tenho
+
+64
+00:03:40.729 --> 00:03:43.899
+especificamente a geração de um imposto sobre ele?
+
+65
+00:03:43.910 --> 00:03:45.440
+Aí cê fala assim Pô, Thiago,
+
+66
+00:03:45.449 --> 00:03:50.479
+mas aqui eu ainda tenho no caso da devolução venda tá positivo,
+
+67
+00:03:50.490 --> 00:03:52.360
+eu poderia criar uma situação negativa.
+
+68
+00:03:52.369 --> 00:03:54.679
+Aí você pode colocar uma outra estrutura.
+
+69
+00:03:54.690 --> 00:04:01.740
+Se se o CFOP for acima de cinco mil meu aí vamos pensar aqui oh pô,
+
+70
+00:04:14.190 --> 00:04:16.738
+bom beleza que que acontece eu eu falar aqui, oh,
+
+71
+00:04:17.928 --> 00:04:20.160
+oh se
+
+72
+00:04:20.959 --> 00:04:22.070
+Se o p
+
+73
+00:04:23.010 --> 00:04:25.799
+for maior que cinco mil,
+
+74
+00:04:26.769 --> 00:04:30.519
+retorno esse senão aí eu pego a forma inteirinha,
+
+75
+00:04:33.709 --> 00:04:34.540
+opa!
+
+76
+00:04:44.730 --> 00:04:48.600
+Tá vendo aqui oh que ele trouxe o negativo se o CFOP
+
+77
+00:04:49.730 --> 00:04:54.820
+for maior que cinco mil que seria o C F a p de saída é uma débito gerado.
+
+78
+00:04:54.829 --> 00:04:59.880
+Se o CFOP s for menor que cinco mil, eu tô falando do c f a PS de entrada.
+
+79
+00:04:59.890 --> 00:05:03.019
+Então, no caso da da devolução, tá vendo que ele ficou negativo. Por que?
+
+80
+00:05:03.029 --> 00:05:04.179
+Porque é um c f a p de entrada.
+
+81
+00:05:04.190 --> 00:05:04.500
+Então,
+
+82
+00:05:04.510 --> 00:05:08.980
+se eu tivesse calculando aqui ao PIS e COFINS da cumulatividade eu teria o quê?
+
+83
+00:05:08.989 --> 00:05:13.769
+Pessoal noventa e dois cento e trinta e oito? Vinte e três Opa! Beleza aí!
+
+84
+00:05:13.779 --> 00:05:15.640
+O que que a fórmula diz? Se
+
+85
+00:05:16.000 --> 00:05:17.570
+o CFOP foi maior que cinco mil?
+
+86
+00:05:17.579 --> 00:05:20.779
+Eu retorno toda aquela forma que eu tinha feito positivo.
+
+87
+00:05:20.790 --> 00:05:23.470
+Se não eu coloco menos a forma que ele vai fazer,
+
+88
+00:05:23.480 --> 00:05:26.649
+a mesma forma que eu achei o noventa e dois cento e trinta e oito, vinte e três,
+
+89
+00:05:26.660 --> 00:05:29.529
+só que eu coloquei dentro de um outro sic que eu chamei de negativo,
+
+90
+00:05:29.540 --> 00:05:30.880
+por que que eu chamei de negativo?
+
+91
+00:05:30.890 --> 00:05:33.309
+Quando se trata de um CFOP de entrada?
+
+92
+00:05:33.385 --> 00:05:34.625
+Então olha só pessoal,
+
+93
+00:05:34.635 --> 00:05:36.635
+a gente usou o e a gente usou se
+
+94
+00:05:36.644 --> 00:05:39.795
+várias vezes intercalando então muitas das vezes a gente
+
+95
+00:05:39.804 --> 00:05:43.035
+vai ter diversos critérios ali que a gente vai
+
+96
+00:05:43.045 --> 00:05:45.894
+criando a forma e vai trazendo por quê pessoal.
+
+97
+00:05:45.904 --> 00:05:49.315
+Toda vez que eu me deparar com uma determinada operação eu só cola a base de dados.
+
+98
+00:05:49.325 --> 00:05:50.695
+Eu deixo a forma travadinha
+
+99
+00:05:51.109 --> 00:05:53.959
+no que eu deixar a fórmula travadinha que que tá acontecendo?
+
+100
+00:05:53.970 --> 00:05:57.679
+Oh, ele já tá calculando aqui pra mim então especificamente para essa empresa,
+
+101
+00:05:57.690 --> 00:06:01.100
+que teve duas operações de venda de mil e mil e quinhentos,
+
+102
+00:06:01.109 --> 00:06:04.260
+que totalizaram dois mil e quinhentos de venda,
+
+103
+00:06:04.269 --> 00:06:06.679
+com um total de PIS e COFINS de duzentos e trinta e um.
+
+104
+00:06:06.690 --> 00:06:08.079
+Só que ele teve uma devolução de duzentos
+
+105
+00:06:08.089 --> 00:06:10.200
+e cinquenta na devolução de duzentos e cinquenta.
+
+106
+00:06:10.209 --> 00:06:13.459
+Gerou ali uma dedução de vinte e três ponto treze no PIS COFINS,
+
+107
+00:06:13.470 --> 00:06:17.220
+de tal forma que o duzentos e trinta e um e vinte e cinco virou duzentos e oito e treze.
+
+108
+00:06:17.230 --> 00:06:20.739
+Beleza. Okay Então vamos, vamos voltar aqui.

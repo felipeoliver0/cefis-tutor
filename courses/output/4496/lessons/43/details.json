@@ -1,0 +1,33 @@
+{
+  "id": 487457,
+  "title": "JCP - Exemplo prático 1",
+  "position": 43,
+  "duration": 335,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/2e884cbf-acb0-43a6-b8f2-68f7254ea2ca/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e884cbf-acb0-43a6-b8f2-68f7254ea2ca/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e884cbf-acb0-43a6-b8f2-68f7254ea2ca/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e884cbf-acb0-43a6-b8f2-68f7254ea2ca/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e884cbf-acb0-43a6-b8f2-68f7254ea2ca/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

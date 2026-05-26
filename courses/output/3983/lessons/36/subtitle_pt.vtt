@@ -1,0 +1,349 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.200
+-  Como que eu valido? C-170. C-170 representa os itens. Qual é a CST? Tabela B da CST.
+
+00:00:10.200 --> 00:00:16.200
+-  Então, a gente tem uma tabela que demonstra quais são as incidências do ICMS,
+
+00:00:16.200 --> 00:00:23.300
+-  lembrando da escrituração fiscal. Utilizar a CFLP adequada de acordo com cada operação.
+
+00:00:23.300 --> 00:00:27.300
+-  Nós temos grupos de CFLP, como a gente discutiu também.
+
+00:00:27.300 --> 00:00:32.300
+-  Olha a possibilidade de cruzamento que o fisco pode fazer novamente trazendo prática.
+
+00:00:32.300 --> 00:00:37.300
+-  Código de NCM, ele pode cruzar com o KINAI fiscal.
+
+00:00:37.300 --> 00:00:41.300
+-  Atividade operacional do seu contribuinte precisa estar de acordo com as NCMs.
+
+00:00:41.300 --> 00:00:45.300
+-  Se o seu contribuinte está com uma atividade operacional de fábrica de mesa,
+
+00:00:45.300 --> 00:00:50.750
+-  não pode aparecer aqui uma matéria-prima de peixe, uma matéria-prima de um segmento totalmente
+
+00:00:50.750 --> 00:00:51.300
+-  diferente.
+
+00:00:51.300 --> 00:00:57.300
+-  NCMs de um peixe, NCMs de uma carne, NCMs de produtos que,
+
+00:00:57.300 --> 00:01:03.300
+-  dentro da composição de uma fábrica, não está oriundo a atividade operacional.
+
+00:01:03.300 --> 00:01:07.300
+-  Claro que a gente pode estar falando de uma compra de uso e consumo, sim,
+
+00:01:07.300 --> 00:01:11.300
+-  mas estou falando sobre itens que estão com o cadastro de matéria-prima e revenda
+
+00:01:11.300 --> 00:01:16.300
+-  para uma atividade operacional totalmente diferente.
+
+00:01:16.300 --> 00:01:20.300
+-  Outra possibilidade de cruzamento, o bloco H. O que é o bloco H?
+
+00:01:20.300 --> 00:01:24.300
+-  É o controle de inventário. Como que a gente vai cruzar o controle de inventário?
+
+00:01:24.300 --> 00:01:30.300
+-  Novamente. Registrar os 200? Com certeza, porque são os itens que estão registrados lá.
+
+00:01:30.300 --> 00:01:36.300
+-  E como que a gente pode cruzar estoque inicial real, mais compras reais,
+
+00:01:36.300 --> 00:01:43.300
+-  entre entradas escrituradas do seu contribuinte, menos o estoque final pelas vendas reais,
+
+00:01:43.300 --> 00:01:49.300
+-  que foram as saídas escrituradas, e aí você vai ter o custo real da mercadoria vendida.
+
+00:01:49.300 --> 00:01:51.300
+-  E assim você vai ter o total do inventário.
+
+00:01:51.300 --> 00:01:56.300
+-  É essa fórmula que você precisa lançar nos inventários,
+
+00:01:56.300 --> 00:01:59.300
+-  e a contabilidade também registrar os valores do inventário.
+
+00:01:59.300 --> 00:02:07.300
+-  Além disso, pessoal, o inventário também é um registro de aspecto de cruzamento no bloco AK.
+
+00:02:07.300 --> 00:02:12.300
+-  Então o bloco H vai demonstrar os itens, e o bloco K sobre a prática de produção.
+
+00:02:12.300 --> 00:02:18.300
+-  Então isso quer dizer que o que está no bloco H, ele precisa estar também no bloco K.
+
+00:02:18.300 --> 00:02:20.300
+-  Então bloco H, bloco K.
+
+00:02:20.300 --> 00:02:25.300
+-  E além disso, como eu disse, existem possibilidades enormes, aqui eu estou dizendo algumas,
+
+00:02:25.300 --> 00:02:30.300
+-  mas existem outras possibilidades utilizando outras obrigações acessórias,
+
+00:02:30.300 --> 00:02:35.300
+-  como, por exemplo, a ECD e a ICF.
+
+00:02:35.300 --> 00:02:38.300
+-  Como que a gente pode cruzar as informações de um documento fiscal?
+
+00:02:38.300 --> 00:02:44.300
+-  No SPED fiscal, no SPED de contribuições, olha no C100, C180 e C190.
+
+00:02:44.300 --> 00:02:52.300
+-  A mesma informação lá na ECD vai estar no J150 e no I355.
+
+00:02:52.300 --> 00:03:00.300
+-  A mesma informação na ICF está no L300 e no C355.
+
+00:03:00.300 --> 00:03:03.300
+-  Olha as possibilidades de cruzamento de informação,
+
+00:03:03.300 --> 00:03:10.300
+-  porque mesmo que você não esteja enviando o ECD e ICF, alguém da sua empresa está.
+
+00:03:10.300 --> 00:03:15.300
+-  As informações que a contabilidade está enviando é de acordo com o fiscal?
+
+00:03:15.300 --> 00:03:20.300
+-  As informações que o fiscal está enviando está de acordo com a contabilidade?
+
+00:03:20.300 --> 00:03:23.300
+-  Como que a gente faz isso? Analisando os registros.
+
+00:03:23.300 --> 00:03:26.300
+-  E é isso que o fisco faz.
+
+00:03:26.300 --> 00:03:29.300
+-  Então, a gente tem que parar de olhar para o problema validador
+
+00:03:29.300 --> 00:03:34.300
+-  e entender que o validado com sucesso já é o dever cumprido.
+
+00:03:34.300 --> 00:03:38.300
+-  E, na verdade, a gente tem que começar a analisar as informações.
+
+00:03:38.300 --> 00:03:41.300
+-  Porque vamos estar vivenciando um novo sistema tributário
+
+00:03:41.300 --> 00:03:46.300
+-  aonde vai competir ainda mais estrutura de cruzamento,
+
+00:03:46.300 --> 00:03:49.300
+-  de identificação de valores.
+
+00:03:49.300 --> 00:03:53.300
+-  A nota fiscal eletrônica vem passando por uma evolução muito grande.
+
+00:03:53.300 --> 00:03:56.300
+-  Passamos, então, por uma transição comercial.
+
+00:03:56.300 --> 00:03:59.300
+-  Passamos, então, por uma transição financeira.
+
+00:03:59.300 --> 00:04:05.300
+-  E a nota técnica vem trazendo ainda mais inovação sobre as notas fiscais eletrônicas.
+
+00:04:05.300 --> 00:04:07.300
+-  Sobre as formas de pagamento.
+
+00:04:07.300 --> 00:04:11.300
+-  Quando a gente pensa numa nova era, no split payment,
+
+00:04:11.300 --> 00:04:14.300
+-  quando a gente pensa na apuração assistida,
+
+00:04:14.300 --> 00:04:15.300
+-  aonde o fisco vai olhar?
+
+00:04:15.300 --> 00:04:17.300
+-  O tipo da tag.
+
+00:04:17.300 --> 00:04:19.300
+-  O meio de pagamento.
+
+00:04:19.300 --> 00:04:21.300
+-  No documento fiscal eletrônico.
+
+00:04:21.300 --> 00:04:24.300
+-  É assim que ele vai conseguir olhar o meio de pagamento
+
+00:04:24.300 --> 00:04:30.300
+-  e fazer com que essa nova era comece a fazer a geração de informações.
+
+00:04:30.300 --> 00:04:37.300
+-  E, obviamente, trazendo maior informação para dentro das apurações assistidas,
+
+00:04:37.300 --> 00:04:39.300
+-  olhando o XML.
+
+00:04:39.300 --> 00:04:42.300
+-  E o que, na verdade, a gente deveria estar fazendo também.
+
+00:04:42.300 --> 00:04:44.300
+-  Dentro do sistema tributário atual,
+
+00:04:44.300 --> 00:04:49.300
+-  a gente também pode utilizar o próprio XML para cruzar todas essas informações.
+
+00:04:49.300 --> 00:04:54.300
+-  De formas de pagamento, de finalidade, de CPP, de tipo de item.
+
+00:04:54.300 --> 00:04:57.300
+-  De acordo com a Resolução 22/1989,
+
+00:04:57.300 --> 00:05:01.300
+-  oicionado federal, ele usa um conjunto de alíquotas.
+
+00:05:01.300 --> 00:05:08.300
+-  Existem uma alíquota, quando a gente fala sobre alíquotas interestaduais, padrões.
+
+00:05:08.300 --> 00:05:14.300
+-  4, 12, 18, 7.
+
+00:05:14.300 --> 00:05:19.300
+-  E as alíquotas internas, o fisco deixa a obrigatoriedade do Estado.
+
+00:05:19.300 --> 00:05:25.300
+-  Então, o programa validador, ele não vai validar qual é o número que está ali lançado.
+
+00:05:25.300 --> 00:05:31.300
+-  Ele só vai validar que tem que existir, se existir uma base de cálculo, o valor do CMS,
+
+00:05:31.300 --> 00:05:33.300
+-  tem que existir uma alíquota.
+
+00:05:33.300 --> 00:05:36.300
+-  Só que se a gente sabe que existe um padrão,
+
+00:05:36.300 --> 00:05:43.300
+-  por que o programa validador, ele valida operações com alíquota 8.80?
+
+00:05:43.300 --> 00:05:50.300
+-  Porque o objetivo do validador é validar aquele determinado item,
+
+00:05:50.300 --> 00:05:53.300
+-  independente de qual tipo de informação.
+
+00:05:53.300 --> 00:05:57.300
+-  Se ele está vendo uma base e ele está vendo um CMS ali,
+
+00:05:57.300 --> 00:06:00.300
+-  ele precisa da alíquota, aí ele vai te dar uma rejeição.
+
+00:06:00.300 --> 00:06:05.300
+-  Agora, qual alíquota você vai informar? Independente.
+
+00:06:05.300 --> 00:06:11.320
+-  E aqui é um caso real onde o contribuinte colocou a carga tributária e não a alíquota
+
+00:06:11.320 --> 00:06:12.300
+-  correspondente.
+
+00:06:12.300 --> 00:06:17.300
+-  E vocês vão perceber que o validado com sucesso aconteceu nessa operação.
+
+00:06:17.300 --> 00:06:25.720
+-  Então, estamos vendo 8,80 numa redução de alíquota porque a carga tributária era referente a
+
+00:06:25.720 --> 00:06:26.300
+-  essa redução.
+
+00:06:26.300 --> 00:06:30.300
+-  Então, houve um lançamento e uma emissão de documento fiscal errada.
+
+00:06:30.300 --> 00:06:36.300
+-  O 690, 0,20 e a alíquota lá, 8,80.
+
+00:06:36.300 --> 00:06:45.270
+-  O validado, ele deu uma advertência falando que o 0,20 precisa ter uma base diferente, mas não
+
+00:06:45.270 --> 00:06:47.300
+-  falou sobre a alíquota.
+
+00:06:47.300 --> 00:06:52.640
+-  A advertência que está apontada ali não tem nada a ver com a alíquota, tem a ver com o 0,20 que
+
+00:06:52.640 --> 00:06:56.300
+-  tem que sobrar um pouquinho, por isso que ele está dando uma inconsistência.
+
+00:06:56.300 --> 00:06:59.300
+-  Cruzou as informações, fez o lançamento.
+
+00:06:59.300 --> 00:07:03.300
+-  11,02, fez as informações, ok.
+
+00:07:03.300 --> 00:07:09.610
+-  Uma outra inconsistência, São Paulo, código do município São Paulo, validado com sucesso
+
+00:07:09.610 --> 00:07:11.300
+-  também, por quê?
+
+00:07:11.300 --> 00:07:16.300
+-  Na hora de entrar, ele usou o mesmo código, mas olha esse FAP.
+
+00:07:16.300 --> 00:07:23.790
+-  É uma nota fiscal de São Paulo também, fiz a consulta de São Paulo, estava lançado como São
+
+00:07:23.790 --> 00:07:25.300
+-  Paulo, mas olha esse FAP.
+
+00:07:25.300 --> 00:07:33.300
+-  202, se é uma operação interna, não deveria ser 2. E o programa validador não deveria validar,
+
+00:07:33.300 --> 00:07:35.300
+-  mas ele valida, tá.
+
+00:07:35.300 --> 00:07:41.330
+-  Então, são inconsistências que eu trouxe para vocês, porque eu sei que quando a gente vê o
+
+00:07:41.330 --> 00:07:44.300
+-  validado com sucesso, a gente fala que ufa, foi entregue, né.
+
+00:07:44.300 --> 00:07:51.300
+-  Mas na verdade, pode estar acontecendo muitas inconsistências dentro do seu fechamento.
+
+00:07:51.300 --> 00:07:58.610
+-  Possibilidades de cruzamento existem diversas, as do CFLP, essa que eu demonstrei para vocês, elas
+
+00:07:58.610 --> 00:08:01.300
+-  podem acontecer diversas vezes,
+
+00:08:01.300 --> 00:08:09.300
+-  o que vocês podem fazer utilizando auditorias ou até mesmo utilização de Excel, porque o TXT,
+
+00:08:09.300 --> 00:08:13.300
+-  que é o que valida dentro do programa validador,
+
+00:08:13.300 --> 00:08:20.290
+-  o arquivo que valida, vocês podem também jogar para o Excel sem que haja uma solução fiscal
+
+00:08:20.290 --> 00:08:21.300
+-  para vocês.
+
+00:08:21.300 --> 00:08:25.260
+-  Mas obviamente existe uma finalidade muito maior quando a gente fala sobre soluções que já
+
+00:08:25.260 --> 00:08:26.300
+-  estão no mercado.
+
+00:08:26.300 --> 00:08:30.300
+-  Mas isso pode também acontecer, tá?
+
+00:08:30.300 --> 00:08:38.300
+-  Dentro dos dois exemplos que eu demonstrei para vocês, tanto com a CFLP, diferente quanto com a Alíquota,
+
+00:08:38.300 --> 00:08:39.300
+-  foi validado com sucesso.
+
+00:08:39.300 --> 00:08:42.300
+-  Observem aí a validação, tá?

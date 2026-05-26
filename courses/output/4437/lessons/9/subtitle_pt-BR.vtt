@@ -1,0 +1,473 @@
+WEBVTT
+
+2
+00:00:00.080 --> 00:00:06.740
+Então nada mudou, percebe até que os números continuaram os mesmos, o mesmo valor de
+
+3
+00:00:06.740 --> 00:00:15.779
+RPJ em 2025 e 26, o mesmo de CSLL, o mesmo de PIS, o mesmo de COFINS e o mesmo de SS.
+
+4
+00:00:15.779 --> 00:00:21.140
+Até porque o faturamento eu estou replicando o mesmo, então são as mesmas alíquotas,
+
+5
+00:00:21.140 --> 00:00:23.839
+nada mudou de 2025 para 2026.
+
+6
+00:00:23.839 --> 00:00:33.060
+No entanto, em 2026 aqui já aparece CBS e IBS e está pintado em amarelinho, por quê?
+
+7
+00:00:33.060 --> 00:00:38.600
+Porque tem que fazer o destaque nas notas fiscais, uma vez que essa empresa é do lucro
+
+8
+00:00:38.600 --> 00:00:46.020
+presumido, mas esse destaque nas notas fiscais é de apenas teste, ele não é para ser acrescentado
+
+9
+00:00:46.020 --> 00:00:53.119
+no total da nota fiscal, nem tão pouco vai ter pagamento de IBS e CBS.
+
+10
+00:00:53.119 --> 00:00:53.820
+Apenas teste.
+
+11
+00:00:53.820 --> 00:01:00.679
+Apenas teste para no novo layout dos documentos fiscais eletrônicos, inclusive da nota fiscal
+
+12
+00:01:00.679 --> 00:01:08.340
+de serviço eletrônico, apareceu campos próprios e específicos de IBS e CBS, onde vão ter
+
+13
+00:01:08.340 --> 00:01:13.620
+que ser destacados e colocados os valores ali de IBS e CBS.
+
+14
+00:01:14.239 --> 00:01:19.719
+Veja que aqui então a gente tem a CBS no valor de 2.122,88.
+
+15
+00:01:20.040 --> 00:01:21.780
+Como que foi calculado esse valor?
+
+16
+00:01:21.780 --> 00:01:23.579
+Aqui é uma fórmula.
+
+17
+00:01:23.819 --> 00:01:30.439
+Onde a gente está pegando a receita bruta e estamos excluindo o PIS, COFINS e ISS.
+
+18
+00:01:31.799 --> 00:01:38.640
+Veja que eu não estou excluindo o valor do IRPJ e da CCLF, porque na lei não está
+
+19
+00:01:38.640 --> 00:01:42.280
+claro se pode ou não pode excluir, mas os demais sim.
+
+20
+00:01:42.980 --> 00:01:48.760
+Então os demais tributos indiretos, porque IR e ISS são tributos diretos.
+
+21
+00:01:48.760 --> 00:01:53.760
+Então receita bruta menos o PIS, menos o COFINS e menos o IRPJ.
+
+22
+00:01:53.819 --> 00:02:04.340
+Aí sim, eu chego na base e essa base eu estou aplicando 0,9% em 2026, lembrando que
+
+23
+00:02:04.340 --> 00:02:07.540
+apenas para destaque na nota fiscal.
+
+24
+00:02:07.780 --> 00:02:09.680
+E aí o IBS é a mesma coisa.
+
+25
+00:02:10.099 --> 00:02:19.060
+Eu pego a receita bruta, 250 mil, menos o PIS, menos o COFINS e menos o ISS e multiplico
+
+26
+00:02:19.060 --> 00:02:23.800
+por 0,1%, que é o que tem que ser distribuído.
+
+27
+00:02:23.800 --> 00:02:26.060
+Destacado nas notas fiscais de IBS.
+
+28
+00:02:27.000 --> 00:02:32.960
+Repara que no total de tributos, eu não estou somando o IBS e CBS.
+
+29
+00:02:33.439 --> 00:02:39.780
+Eu estou somando todos os outros tributos, menos o IBS e CBS, porque ele é apenas teste.
+
+30
+00:02:40.379 --> 00:02:42.180
+A empresa não está pagando.
+
+31
+00:02:42.900 --> 00:02:52.159
+Então a minha receita líquida continua a mesma de 2025, 214,675.
+
+32
+00:02:52.159 --> 00:02:53.759
+E a minha carga tributária?
+
+33
+00:02:53.800 --> 00:02:57.240
+A minha carga tributária é a mesma de 2026 e 2025.
+
+34
+00:02:57.379 --> 00:03:03.800
+Não tive, então, aumento de carga tributária em 2026, comparando com 2025.
+
+35
+00:03:04.639 --> 00:03:14.780
+A única obrigação do ano 1, então, da reforma tributária é testes, destaques de CBS e
+
+36
+00:03:14.780 --> 00:03:22.099
+de IBS com 1%, se eu somar os dois, 1% de destaque no IVA dual.
+
+37
+00:03:22.099 --> 00:03:23.099
+Só que do 1%.
+
+38
+00:03:23.800 --> 00:03:28.039
+0,9% é de CBS e 0,1% é de IBS.
+
+39
+00:03:29.000 --> 00:03:32.639
+E a carga tributária é a mesma, 14,13%.
+
+40
+00:03:32.639 --> 00:03:39.539
+Agora venham comigo para o ano de 2027, porque o ano de 2027, aí você já vai perceber
+
+41
+00:03:39.539 --> 00:03:44.000
+o início das grandes mudanças da reforma tributária.
+
+42
+00:03:44.879 --> 00:03:48.479
+Então agora nós vamos para a coluna I, que é 2027.
+
+43
+00:03:48.479 --> 00:03:50.780
+Eu tenho faturamento, né?
+
+44
+00:03:50.939 --> 00:03:53.479
+E lembrando, propositalmente, eu estou mantendo...
+
+45
+00:03:53.800 --> 00:03:57.900
+Estou mantendo o mesmo faturamento anual, né?
+
+46
+00:03:58.060 --> 00:04:03.419
+Para ir aplicando as mudanças tributárias e vendo as mudanças de carga tributária, né?
+
+47
+00:04:04.120 --> 00:04:12.159
+Então o faturamento de 250 mil, o IR não mudou, a CS também não mudou, só que olha
+
+48
+00:04:12.159 --> 00:04:15.300
+o que aconteceu com o PIS e COFINS a partir de 2027.
+
+49
+00:04:15.879 --> 00:04:18.079
+PIS e COFINS sumiu.
+
+50
+00:04:18.639 --> 00:04:20.899
+PIS e COFINS morreu, né?
+
+51
+00:04:20.899 --> 00:04:23.720
+PIS e COFINS foi substituído.
+
+52
+00:04:24.240 --> 00:04:32.379
+Pela CBS, ó, e de 2027 em diante criou um buraco aqui no meio, onde está tudo zerado,
+
+53
+00:04:32.980 --> 00:04:38.660
+que é a falta do PIS e COFINS, para que você tenha saudade do PIS e COFINS, né?
+
+54
+00:04:38.720 --> 00:04:41.379
+PIS e COFINS não existindo mais.
+
+55
+00:04:41.720 --> 00:04:43.540
+E até tem um comentário aqui, né?
+
+56
+00:04:43.939 --> 00:04:50.240
+O PIS e COFINS não existindo mais, não tem mais o EFD Contribuições, né?
+
+57
+00:04:50.240 --> 00:04:52.560
+Que é a obrigação tributária acessória.
+
+58
+00:04:53.800 --> 00:04:56.639
+Declara todo o cálculo de PIS e COFINS.
+
+59
+00:04:56.860 --> 00:05:00.759
+Não vai ter mais a partir de janeiro de 2027.
+
+60
+00:05:01.540 --> 00:05:06.620
+Vai continuar existindo o PIS e COFINS apenas quando tiver que retificar, né?
+
+61
+00:05:06.740 --> 00:05:13.180
+Alguns anos, alguns períodos anteriores, ou fazer algum ajuste dos anos em que existiu
+
+62
+00:05:13.180 --> 00:05:14.040
+o PIS e COFINS.
+
+63
+00:05:14.459 --> 00:05:20.600
+Mas ele não vai ser mais usado a partir das apurações de janeiro de 2027.
+
+64
+00:05:21.000 --> 00:05:23.639
+Como eu disse para vocês na linha de baixo,
+
+65
+00:05:23.800 --> 00:05:27.819
+o ISS, ISS também não muda nada para 2027.
+
+66
+00:05:28.439 --> 00:05:32.060
+Mas a CBS, olha o que aconteceu aqui já em 2027.
+
+67
+00:05:32.300 --> 00:05:32.779
+Opa!
+
+68
+00:05:33.579 --> 00:05:39.560
+A CBS, então, em 2027, ela já passou a ter a incidência, né?
+
+69
+00:05:40.180 --> 00:05:42.000
+De 8,4.
+
+70
+00:05:42.279 --> 00:05:44.800
+E aí vocês podem falar, mas espera aí, professor.
+
+71
+00:05:44.980 --> 00:05:47.500
+O professor falou que era 8,5.
+
+72
+00:05:47.500 --> 00:05:53.620
+Então repara que tanto no ano de 2027, quanto no ano de 2028,
+
+73
+00:05:53.800 --> 00:05:59.279
+está sendo utilizado aqui a alíquota da CBS de 8,4.
+
+74
+00:05:59.759 --> 00:06:05.639
+E somente a partir de 2029 em diante, aí sim, todos os próximos anos,
+
+75
+00:06:05.800 --> 00:06:07.720
+está sendo usado 8,5.
+
+76
+00:06:08.060 --> 00:06:08.579
+Por quê?
+
+77
+00:06:09.620 --> 00:06:15.000
+Porque na própria legislação, na Lei Complementar 224,
+
+78
+00:06:15.560 --> 00:06:22.100
+está sendo dito, está escrito, que no ano de 2027 e no ano de 2028,
+
+79
+00:06:22.100 --> 00:06:26.899
+vai ser cobrado 0,1% de IBS.
+
+80
+00:06:27.100 --> 00:06:32.800
+Apenas essa alíquota baixinha mesmo, 0,1% de IBS.
+
+81
+00:06:33.420 --> 00:06:38.839
+E aí, nesses anos, especialmente, especificamente, 2027 e 2028,
+
+82
+00:06:39.699 --> 00:06:41.879
+então o governo acordou o seguinte.
+
+83
+00:06:42.639 --> 00:06:47.060
+É como se fosse a alíquota de 8,5, 8,5 é da CBS.
+
+84
+00:06:47.060 --> 00:06:52.060
+Mas então está sendo dado um desconto de 0,1%.
+
+85
+00:06:52.100 --> 00:06:56.100
+Na alíquota da CBS em 2027 e em 2028,
+
+86
+00:06:56.620 --> 00:07:03.399
+para que possa ser cobrado 0,1% em 2027 e 2028 de IBS.
+
+87
+00:07:03.920 --> 00:07:08.379
+Então somente nos anos de 2027 e 2028,
+
+88
+00:07:09.259 --> 00:07:13.100
+tem um desconto na alíquota da CBS de 0,1%.
+
+89
+00:07:13.740 --> 00:07:17.420
+Se a gente observar no IBS em 2027,
+
+90
+00:07:17.420 --> 00:07:19.420
+está lá cobrando 0,1%.
+
+91
+00:07:20.220 --> 00:07:21.420
+Em 2028,
+
+92
+00:07:22.100 --> 00:07:24.779
+também está cobrando 0,1%.
+
+93
+00:07:24.779 --> 00:07:28.319
+Então veja que a única coisa que a gente está excluindo,
+
+94
+00:07:28.540 --> 00:07:32.579
+tanto para o cálculo da CBS quanto do IBS,
+
+95
+00:07:32.819 --> 00:07:34.199
+é o ISS.
+
+96
+00:07:34.639 --> 00:07:38.500
+A gente está pegando a receita bruta menos o ISS
+
+97
+00:07:38.500 --> 00:07:44.680
+e aí aplica por fora e não por dentro a alíquota de CBS.
+
+98
+00:07:44.680 --> 00:07:49.680
+Então somente em 2027 e 2028, 8,4%.
+
+99
+00:07:50.399 --> 00:07:51.680
+E a partir de 2029,
+
+100
+00:07:52.100 --> 00:07:53.779
+8,5%.
+
+101
+00:07:53.779 --> 00:07:58.699
+E o IBS em 2027 e 2028, 0,1%.
+
+102
+00:07:58.699 --> 00:08:01.120
+A partir de 2029 vai começar a mudar,
+
+103
+00:08:01.759 --> 00:08:03.279
+mas a gente vai ver no ano a ano.
+
+104
+00:08:03.540 --> 00:08:05.680
+Então volta para o ano de 2027.
+
+105
+00:08:05.839 --> 00:08:06.899
+Quando a gente faz isso,
+
+106
+00:08:07.899 --> 00:08:09.360
+um total de tributos,
+
+107
+00:08:10.040 --> 00:08:13.259
+eu agora sim já estou somando todos os tributos.
+
+108
+00:08:13.860 --> 00:08:17.680
+IRPJ, CSLL, do loco presumido, o ISS,
+
+109
+00:08:18.779 --> 00:08:20.560
+a CBS e o IBS.
+
+110
+00:08:20.560 --> 00:08:21.980
+Então veja que durante,
+
+111
+00:08:21.980 --> 00:08:23.000
+durante alguns anos,
+
+112
+00:08:23.199 --> 00:08:28.399
+a gente vai ter o ISS, o IBS e a CBS,
+
+113
+00:08:28.560 --> 00:08:31.779
+tudo junto e misturado e ao mesmo tempo.
+
+114
+00:08:31.920 --> 00:08:33.379
+Durante alguns anos,
+
+115
+00:08:34.100 --> 00:08:35.779
+para as empresas que têm ICMS,
+
+116
+00:08:35.919 --> 00:08:36.539
+mesma coisa.
+
+117
+00:08:36.779 --> 00:08:38.139
+Durante alguns anos,
+
+118
+00:08:38.559 --> 00:08:41.759
+a gente vai ter ICMS, IBS e CBS,
+
+119
+00:08:41.980 --> 00:08:44.740
+tudo junto, ao mesmo tempo e misturado.

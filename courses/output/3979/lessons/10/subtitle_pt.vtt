@@ -1,0 +1,205 @@
+WEBVTT
+
+00:00:00.098 --> 00:00:07.520
+- Uma outra forma é pegar o C100 e o C670 sobre as entradas, selecionar os notas fiscais de aquisição
+
+00:00:07.520 --> 00:00:14.870
+- para revendas que o IPI, seguro e frete, foi suportado e não entregaram, não fizeram a integração
+
+00:00:14.870 --> 00:00:22.220
+- do custo para a base de cálculos de pisos e cofins. É uma outra possibilidade de crédito que está
+
+00:00:22.220 --> 00:00:24.382
+- na sua escrituração fiscal.
+
+00:00:25.186 --> 00:00:32.649
+- analisando, então, o FDCMSPI para identificar se o FDContribuições foi entregue corretamente. Uma
+
+00:00:32.649 --> 00:00:40.260
+- outra forma que vocês podem validar também a sua entrada é o seguinte, importe o XML para Excel das
+
+00:00:40.260 --> 00:00:47.945
+- entradas. Como vocês podem fazer isso? Existe uma ferramenta chamada Fsist. É uma ferramenta gratuita
+
+00:00:47.945 --> 00:00:53.118
+- que você pode buscar aí no seu navegador. Busque ela, busque o XML,
+
+00:00:53.986 --> 00:01:01.198
+- traga o seu XML para o Excel. É isso que eu estou falando pra vocês. Utilize uma plataforma. Eu estou
+
+00:01:01.198 --> 00:01:08.549
+- falando pra vocês sobre uma plataforma gratuita, mas existem outras empresas que têm a mesma solução,
+
+00:01:08.549 --> 00:01:15.900
+- que também faz essa validação do que o XML para o Excel. Importe o XML para o Excel, sobre as entradas
+
+00:01:15.900 --> 00:01:23.390
+- de revenda, e cruze o APD Contribuições. O C670, ele representa os itens do documento fiscal eletrônico.
+
+00:01:23.650 --> 00:01:30.808
+- O artigo 167 da Instrução no Machado, 21-21-2022, disse o seguinte. Quanto à base de cálculo do
+
+00:01:30.808 --> 00:01:38.253
+- creche, destaca-se o seguinte. O IPI não recuperado integra o custo dos bens. É assim que vocês vão
+
+00:01:38.253 --> 00:01:45.769
+- identificar o custo. Integram o custo de aquisição dos bens e das mercadorias, o seguro, o frete pagos
+
+00:01:45.769 --> 00:01:51.710
+- nas aquisições quando suportados pelo comprador. Como vocês vão observar isso?
+
+00:01:52.162 --> 00:01:59.019
+- olhando a nota fiscal eletrônica, e não apenas o lançamento. Vocês vão conseguir buscar esses custos
+
+00:01:59.019 --> 00:02:05.811
+- olhando o XML, porque no XML a gente tem tags, a gente tem campos específicos para o IPI e para o frete
+
+00:02:05.811 --> 00:02:12.927
+- e o seguro. Um outro exemplo quando a gente vai analisar as saídas agora dessa vez. Levantamento respeitando
+
+00:02:12.927 --> 00:02:18.814
+- a prescrição referente à exclusão do ICMS sobre a base de cálculo do PIS e da COFINS.
+
+00:02:19.010 --> 00:02:24.806
+- que foi a tese do século e que agora a gente tem fundamentação, nós temos instrução normativa.
+
+00:02:24.806 --> 00:02:30.717
+- Áudiofísico deixa a possibilidade, então, da gente excluir o ICMS da base de cálculo do Psicofins.
+
+00:02:30.717 --> 00:02:36.456
+- E se você não está fazendo, a gente pode também fazer o levantamento dos cinco anos, trazendo a
+
+00:02:36.456 --> 00:02:42.252
+- prescrição, obviamente, para esse aproveitamento. E lembre-se, a FD Contribuições, lá no portal
+
+00:02:42.252 --> 00:02:47.934
+- da FD Contribuições, a gente tem até a forma de lançamento sobre essa perspectiva de crédito.
+
+00:02:48.162 --> 00:02:55.717
+- Uma outra forma de vocês analisarem as entradas é filtrando o FD Contribuições, todos os documentos
+
+00:02:55.717 --> 00:03:03.055
+- fiscais de entrada, cujo CMS ST foi pago na etapa anterior. A substituição tributária. Nós temos
+
+00:03:03.055 --> 00:03:10.174
+- recurso e temos legislação dizendo que a substituição tributária também pode ser excluída.
+
+00:03:10.466 --> 00:03:16.356
+- Lançamentos manuais ou ajustes realizados no sistema corporativo após a importação do arquivo XML
+
+00:03:16.356 --> 00:03:22.534
+- podem caracterizar a escrituração de dados omissos e incompletos. Então, como que a gente pode analisar
+
+00:03:22.534 --> 00:03:28.366
+- se a minha escrituração fiscal está coerente? Analisando até mesmo o XML. Buscando, por exemplo,
+
+00:03:28.366 --> 00:03:34.197
+- a ferramenta UFSish e validando se, de fato, a minha escrituração fiscal está correta. Omissão e
+
+00:03:34.197 --> 00:03:40.318
+- dados incorretos, pessoal, também caracterizam a sua negação fiscal. E isso é nossa responsabilidade.
+
+00:03:40.578 --> 00:03:49.154
+- omissão e dados incorretos. Então, analisar essas operações. Lembre-se, 0, 500, 0, 600, a gente
+
+00:03:49.154 --> 00:03:57.731
+- pode validar eles pelo SDSF, e o Fisco valida a sua receita em cima dessas informações. Dentro do
+
+00:03:57.731 --> 00:04:06.307
+- bloco 0, a gente também tem o registro chamado 0110, que trata a classificação da incidência do
+
+00:04:06.307 --> 00:04:07.422
+- seu cliente.
+
+00:04:07.938 --> 00:04:14.345
+- Ele é uma indústria equiparada à industrial, ele é um prestador de serviço, ele tem uma atividade
+
+00:04:14.345 --> 00:04:20.752
+- comercial. Nós precisamos mostrar para o fisco qual é a atividade principal dele, para que ele faça
+
+00:04:20.752 --> 00:04:26.972
+- o cruzamento de informação e receba as informações de forma correta. Caso exista uma exceção,
+
+00:04:26.972 --> 00:04:33.379
+- uma particularidade na sua empresa sobre, por exemplo, critérios de rateio, quando existe uma receita
+
+00:04:33.379 --> 00:04:36.862
+- bruta não-cumulativa, tudo brotada no mercado interno,
+
+00:04:37.442 --> 00:04:45.350
+- ou uma receita bruta não tributada, a gente precisa fazer o rateio e lançar isso lá no registro 0111
+
+00:04:45.350 --> 00:04:53.181
+- sobre os rateios dos créditos. Existem empresas que têm um registro sobre o cálculo, a sistemática
+
+00:04:53.181 --> 00:05:01.241
+- do cálculo, de um regime híbrido ou misto. Ela está como lucro real, mas existem receitas que precisam
+
+00:05:01.241 --> 00:05:03.902
+- ser apuradas no regime cumulativo.
+
+00:05:04.162 --> 00:05:10.566
+- Como que o físico vai analisar isso em questão de rateio nas informações que nós colocamos para
+
+00:05:10.566 --> 00:05:16.907
+- eles dentro do FD Contribuições? Então, como que a gente pode fazer isso validando o 0111 para a
+
+00:05:16.907 --> 00:05:23.312
+- identificação? Ainda no bloco 0, olha como eu falei para vocês que é importante esse registro. E
+
+00:05:23.312 --> 00:05:29.716
+- eu falei para vocês que quando eu começasse a demonstrar as auditorias, vocês, me ouvindo, vocês
+
+00:05:29.716 --> 00:05:32.126
+- já conseguem fazer isso na prática.
+
+00:05:32.418 --> 00:05:39.179
+- porque você já tem o acesso da FD Contribuições Aid. Então, você já consegue validar, você já
+
+00:05:39.179 --> 00:05:46.007
+- tem os dados, os XML do seu cliente. Então, você já consegue praticar. Tudo que nós estamos falando
+
+00:05:46.007 --> 00:05:53.228
+- aqui, vocês conseguem validar no PVA, vocês conseguem identificar no XML. No registro 0110, nós precisamos
+
+00:05:53.228 --> 00:05:59.070
+- colocar lá se existe uma diferença dentro da apuração do meu contribuinte. Por quê?
+
+00:05:59.554 --> 00:06:05.440
+- A apuração de psicofins sobre a líquida básica será lançada dentro do 1. Só que existe
+
+00:06:05.440 --> 00:06:11.765
+- uma particularidade de apurações de psicofins sobre a líquida diferenciadas. Então, nós, lá no
+
+00:06:11.765 --> 00:06:18.402
+- cadastro do meu cliente, a gente precisa demonstrar para o fisco que existe essa possibilidade de existir
+
+00:06:18.402 --> 00:06:24.664
+- uma líquida diferenciada dentro daquela apuração. Porque, senão, o programa aprendedor não vai
+
+00:06:24.664 --> 00:06:28.734
+- te dar essa inconsistência, ele só vai validar a informação.
+
+00:06:29.026 --> 00:06:35.947
+- O registro 0200 é o mais importante. Para quem não tinha uma visão dele, e quando eu falei para vocês
+
+00:06:35.947 --> 00:06:42.542
+- sobre as finalidades dos itens, é nesse campo aqui. Tipo do item. Quais são as informações? Veja
+
+00:06:42.542 --> 00:06:48.680
+- que aqui a gente tem mercadoria para revenda, matéria-prima, embalagem, produto em processo,
+
+00:06:48.680 --> 00:06:55.209
+- uso e consumo. Isso precisa estar coerente com o que está lançado lá no bloco C, no registro 670
+
+00:06:55.209 --> 00:06:56.254
+- do seu cliente.
+
+00:06:56.546 --> 00:07:02.544
+- Todas as informações que estão no FD Contribuições, quando a gente fala sobre documentos
+
+00:07:02.544 --> 00:07:08.989
+- comprobatórios, elas precisam ser reflexo do seu SPED Fiscal. Então, o SPED Fiscal é uma boa base
+
+00:07:08.989 --> 00:07:13.200
+- para vocês fazerem um lançamento correto no FD Contribuições.

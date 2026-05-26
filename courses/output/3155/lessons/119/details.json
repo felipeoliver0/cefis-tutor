@@ -1,0 +1,33 @@
+{
+  "id": 476034,
+  "title": "ENCERRAMENTO",
+  "position": 119,
+  "duration": 41,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ffe18101-4eeb-4ab2-b3bc-1e2295b32604/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ffe18101-4eeb-4ab2-b3bc-1e2295b32604/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ffe18101-4eeb-4ab2-b3bc-1e2295b32604/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ffe18101-4eeb-4ab2-b3bc-1e2295b32604/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ffe18101-4eeb-4ab2-b3bc-1e2295b32604/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

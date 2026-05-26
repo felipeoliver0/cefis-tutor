@@ -1,0 +1,109 @@
+WEBVTT
+
+00:00:00.066 --> 00:00:07.520
+- Então pessoal, muito importante relembrar. Quando eu quero apresentar a fórmula que eu tenho
+
+00:00:07.520 --> 00:00:15.837
+- uma informação, que é fator de capitalização ou de valor futuro, eu sempre uso esse termo, eu quero,
+
+00:00:15.837 --> 00:00:23.761
+- eu apliquei 100 a uma determinada, quanto eu vou receber no futuro? Aí eu tenho que usar o fator de
+
+00:00:23.761 --> 00:00:27.998
+- capitalização, que é o capitalizar ou a dívida ou
+
+00:00:28.130 --> 00:00:35.014
+- o meu rendimento no futuro. Eu multiplico, quer dizer, perdão, é 1 mais a taxa elevado a M. Agora,
+
+00:00:35.014 --> 00:00:41.830
+- se eu já tenho valor futuro e eu quero saber quanto vale hoje, por quê? Porque já tenho embutido
+
+00:00:41.830 --> 00:00:48.986
+- uns juros e eu quero saber hoje, eu quero antecipar uma dívida, eu chamo isso de fator de atualização
+
+00:00:48.986 --> 00:00:56.143
+- ou valor presente, por quê? Eu tenho que pegar aquela dívida, eu tenho o que a gente chama de exagiar,
+
+00:00:56.143 --> 00:00:57.438
+- eu tenho que tirar
+
+00:00:57.602 --> 00:01:03.770
+- aquela taxa embutida e quando eu falo para tirar isso, trazer a valor presente, porque eu estou pegando
+
+00:01:03.770 --> 00:01:10.175
+- o valor futuro e estou dividindo por algo, estou diminuindo aquele valor futuro, eu trago a valor presente,
+
+00:01:10.175 --> 00:01:16.402
+- eu estou desagiando, eu estou tirando os juros embutidos naquela operação porque eu quero saber quanto
+
+00:01:16.402 --> 00:01:19.486
+- ela vale hoje. Então, se eu tenho o valor de hoje,
+
+00:01:19.810 --> 00:01:26.149
+- Aplico, quero saber no futuro, eu multiplico o fator de capitalização, é a mesma fórmula, só que
+
+00:01:26.149 --> 00:01:32.489
+- eu pego o capital aqui e multiplico. Agora, se eu já tenho um valor lá no final, que é o montante,
+
+00:01:32.489 --> 00:01:39.014
+- que é o valor futuro, eu pego esse valor futuro, coloco e trago, coloco ele aqui, multiplico, trazendo,
+
+00:01:39.014 --> 00:01:45.292
+- divido por isso, eu trago a valor presente. Tudo bem? Vamos com calma, que aí a gente vai ficar com
+
+00:01:45.292 --> 00:01:47.902
+- bastante clareza. Isso aqui é o que nós
+
+00:01:48.642 --> 00:01:55.594
+- Falamos numa visão mais gráfica, vamos dizer assim. Eu tenho aqui a movimentação de um capital ao
+
+00:01:55.594 --> 00:02:02.478
+- longo de uma escala de tempo e sempre juros compostos, porque agora a gente vai só falar daqui para
+
+00:02:02.478 --> 00:02:09.022
+- frente juros compostos, por quê? Porque é o que se usa, mas mostrei para vocês a diferença.
+
+00:02:09.022 --> 00:02:14.270
+- Muito bem, então eu tenho aqui o valor presente, está em inglês, pessoal.
+
+00:02:14.658 --> 00:02:21.300
+- present value, future value, numa escala de tempo. Então, eu apliquei alguma coisa aqui no início,
+
+00:02:21.300 --> 00:02:27.876
+- sem o capital inicial, para uma taxa, a um determinado período para receber lá na frente. Só que
+
+00:02:27.876 --> 00:02:34.452
+- se eu quiser, justamente, saber o valor futuro, porque eu vou aplicar esse recurso, eu pego o valor
+
+00:02:34.452 --> 00:02:41.620
+- presente, olha lá, multiplico mais a taxa elevado a N, porque essa aplicação é capitalizada mensalmente.
+
+00:02:41.620 --> 00:02:43.198
+- Então, é exponencial.
+
+00:02:43.298 --> 00:02:49.997
+- Agora, se eu tenho esse valor lá na frente e eu quero saber o valor hoje, como nesse outro exemplo
+
+00:02:49.997 --> 00:02:56.764
+- 2 ou 3 que a gente acabou de fazer, eu quero trazer o valor de hoje, tem uma taxa de juros embutida,
+
+00:02:56.764 --> 00:03:03.463
+- o que eu faço? Eu pego esse, isolo o meu valor presente que está aqui, a fórmula é a mesma, só
+
+00:03:03.463 --> 00:03:07.550
+- você vê o que você quer encontrar, qual a tua incógnita.
+
+00:03:07.714 --> 00:03:14.028
+- Então, esse aqui, eu quero encontrar o valor presente. Tenho o valor futuro, eu tenho a taxa que está
+
+00:03:14.028 --> 00:03:20.099
+- sendo negociada e o prazo. Então, eu vou desagiar, eu quero trazer esse valor para hoje. Então, a
+
+00:03:20.099 --> 00:03:26.656
+- técnica que nós usamos dentro da matemática financeira para fazer cálculo de valor presente, valuation,
+
+00:03:26.656 --> 00:03:33.153
+- a gente vai falar ainda, a gente usa esse critério de valor presente, valor futuro, sempre com o conceito
+
+00:03:33.153 --> 00:03:34.974
+- de capitalização das taxas.

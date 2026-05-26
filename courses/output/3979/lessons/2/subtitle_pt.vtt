@@ -1,0 +1,148 @@
+WEBVTT
+
+00:00:00.482 --> 00:00:07.036
+- O segundo ponto que eu quero trazer para vocês é o seguinte. Sempre que vocês pensarem em uma obrigação
+
+00:00:07.036 --> 00:00:13.229
+- acessória, o Fisk está pensando em um conjunto de informação. Ou seja, nós temos as informações
+
+00:00:13.229 --> 00:00:19.301
+- e as movimentações do nosso contribuinte. O que nós precisamos entender é sobre qual perspectiva
+
+00:00:19.301 --> 00:00:25.314
+- aquela obrigação acessória está atribuída. Então, isso quer dizer que todo e qualquer tipo de
+
+00:00:25.314 --> 00:00:29.342
+- obrigação acessória é formado por um conjunto de informação.
+
+00:00:29.762 --> 00:00:37.389
+- E, nesse caso, quando a gente pensa nos blocos, nas estruturas do ESPED, é importante a gente desmembrar
+
+00:00:37.389 --> 00:00:45.089
+- essas características. Então, o guia prático, que trata toda a estrutura técnica de onde o seu sistema
+
+00:00:45.089 --> 00:00:49.982
+- vai analisar para levar as informações até o programa validador,
+
+00:00:50.434 --> 00:00:57.228
+- ele separa essa estrutura pelas movimentações que estão no seu sistema. E para ficar mais fácil
+
+00:00:57.228 --> 00:01:04.361
+- o seu entendimento, quando a gente olha o guia prático, a gente olha toda aquela estrutura com diversos
+
+00:01:04.361 --> 00:01:11.290
+- tipos de registros. Mas já para pensar em como a gente pode separar esses registros por blocos e que
+
+00:01:11.290 --> 00:01:18.220
+- para cada bloco existe um conjunto de informação pela qual nós, como profissionais da área fiscal
+
+00:01:18.220 --> 00:01:20.190
+- ou tributária, está a par,
+
+00:01:20.834 --> 00:01:27.302
+- está fazendo todos os dias essa escrituração? Então, esse é o meu objetivo aqui para vocês,
+
+00:01:27.302 --> 00:01:34.431
+- ou seja, trazer a perspectiva de que você é o responsável por essa escrituração. Para uma boa entrega,
+
+00:01:34.431 --> 00:01:41.097
+- seja ela espécie de contribuições, seja ela espécie de fiscal, é importante a gente ter uma boa
+
+00:01:41.097 --> 00:01:47.896
+- escrituração. Então, desenhando isso, o fisco atribuiu o FD Contribuições quando ele, na verdade,
+
+00:01:47.896 --> 00:01:49.150
+- quer informações
+
+00:01:49.634 --> 00:01:55.860
+- para entender se aquela arrecadação foi congruente. E como que a gente pode ser para isso?
+
+00:01:55.860 --> 00:02:02.622
+- O FD Contribuições possui blocos, blocos específicos. O bloco zero é o mais importante dentro da
+
+00:02:02.622 --> 00:02:09.719
+- elaboração. E o porquê ele é o mais importante? Porque ele lida com cadastros, é onde ele identifica
+
+00:02:09.719 --> 00:02:17.150
+- as informações pelas quais essas informações de cálculos vão ser atribuídas à sua apuração, ou seja,
+
+00:02:17.250 --> 00:02:23.415
+- vamos estar falando de identificação do seu cliente, vamos estar lidando com a identificação da
+
+00:02:23.415 --> 00:02:30.197
+- sistemática do cálculo, vamos estar lidando com cadastro de item. Então, o bloco zero é o mais importante
+
+00:02:30.197 --> 00:02:36.424
+- dentro da escrituração, porque sem um cadastro correto, sem um parâmetro correto, a gente vai ter
+
+00:02:36.424 --> 00:02:42.651
+- muita dificuldade de fazer uma auditoria, de fazer uma validação. Dentro das movimentações pelas
+
+00:02:42.651 --> 00:02:46.782
+- quais estamos lidando com as operações dos nossos contribuintes,
+
+00:02:46.946 --> 00:02:54.312
+- são os documentos fiscais. E quais são os blocos dentro da FD Contribuições que atribui esses documentos
+
+00:02:54.312 --> 00:02:57.150
+- fiscais? O bloco A, o bloco C, o D e o F.
+
+00:02:57.282 --> 00:03:04.466
+- Ou seja, ele lida em questão de movimentações, de estruturas de informações dentro desses blocos.
+
+00:03:04.466 --> 00:03:11.580
+- E, para cada bloco, existe uma particularidade e um objetivo dessas movimentações. Seja nota fiscal
+
+00:03:11.580 --> 00:03:18.834
+- eletrônica, seja nota fiscal de serviço, seja operações que não tenham documentos comprobatórios,
+
+00:03:18.834 --> 00:03:20.926
+- como, por exemplo, o bloco F.
+
+00:03:21.026 --> 00:03:28.122
+- todas as movimentações que estão na apuração do piso e cofins e estão no bloco A, no bloco C,
+
+00:03:28.122 --> 00:03:35.217
+- no D e no F. O bloco M, ele trata a apuração, ou seja, a estrutura das movimentações vão estar
+
+00:03:35.217 --> 00:03:42.455
+- lançadas e o programa validador vai trazer essa totalização para dentro do bloco M, onde vamos ter
+
+00:03:42.455 --> 00:03:49.054
+- competência sobre os valores de débitos de créditos lançados dentro das movimentações.
+
+00:03:49.698 --> 00:03:56.317
+- E o ponto importante é que estamos falando de contribuições, de duas contribuições importantes.
+
+00:03:56.317 --> 00:04:03.133
+- Nós temos o PIS e a COFINS. Mesmo que ambos trabalhem juntos, vocês vão perceber ao longo do caminho
+
+00:04:03.133 --> 00:04:09.949
+- que, na verdade, o PIS foi instituído primeiro e depois a COFINS. Hoje, a gente pensa no PIS e COFINS,
+
+00:04:09.949 --> 00:04:14.078
+- mas, pensando no breve histórico do PIS e COFINS, a gente tem
+
+00:04:14.626 --> 00:04:21.910
+- atribuições e criações distintas. Então, por isso que, quando a gente olha o FD Contribuições,
+
+00:04:21.910 --> 00:04:29.123
+- no bloco M, nós temos dois registros, onde um vai lidar com o PIS e o outro vai lidar com o COFINS.
+
+00:04:29.123 --> 00:04:36.336
+- Temos o bloco P, que tratava, então, as apurações do CPRB, mas, com a vinda do FD Reinfe, tivemos
+
+00:04:36.336 --> 00:04:40.478
+- uma desobrigatoriedade desse registro. E temos o bloco 1.
+
+00:04:40.610 --> 00:04:47.806
+- que é um bloco silencioso, onde existe um parâmetro sobre saldo, sobre particularidades de algumas
+
+00:04:47.806 --> 00:04:55.002
+- empresas. E a gente vai discutir, ao longo do caminho, quais são as perspectivas e o que você pode
+
+00:04:55.002 --> 00:05:02.839
+- validar sobre esse bloco. Mas entendo, estamos falando, então, de uma estrutura de conjunto de informações
+
+00:05:02.839 --> 00:05:09.100
+- da sua escrituração fiscal, da sua escrituração digital. Então, dentro dos blocos,

@@ -1,0 +1,33 @@
+{
+  "id": 486532,
+  "title": "Imposto seletivo",
+  "position": 39,
+  "duration": 418,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/06d99f19-730e-4cf6-8410-50e382256382/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/06d99f19-730e-4cf6-8410-50e382256382/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/06d99f19-730e-4cf6-8410-50e382256382/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/06d99f19-730e-4cf6-8410-50e382256382/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/06d99f19-730e-4cf6-8410-50e382256382/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

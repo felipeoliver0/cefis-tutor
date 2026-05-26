@@ -1,0 +1,33 @@
+{
+  "id": 488211,
+  "title": "Como a intenção agrava a infração",
+  "position": 29,
+  "duration": 106,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/92c27964-179a-493f-af9f-ea2a82ff2ebc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92c27964-179a-493f-af9f-ea2a82ff2ebc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92c27964-179a-493f-af9f-ea2a82ff2ebc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92c27964-179a-493f-af9f-ea2a82ff2ebc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92c27964-179a-493f-af9f-ea2a82ff2ebc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

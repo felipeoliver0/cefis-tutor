@@ -1,0 +1,533 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.299
+bom, Vamos falar um pouco agora sobre códigos, né?
+
+2
+00:00:02.309 --> 00:00:05.440
+Falamos muito sobre tributos, até agora. Vamos falar um pouquinho sobre códigos.
+
+3
+00:00:05.449 --> 00:00:07.920
+Um dos primeiros códigos que a gente precisa falar é o C, R T,
+
+4
+00:00:07.929 --> 00:00:09.840
+que é o código de regime de tributação.
+
+5
+00:00:10.079 --> 00:00:12.810
+Ele é o código que vai indicar, dentro do documento fiscal,
+
+6
+00:00:12.819 --> 00:00:16.819
+qual é o regime de apuração de tributação, que aquela empresa é optante.
+
+7
+00:00:16.829 --> 00:00:23.090
+Tá, Nós não vamos identificar ele dentro do DANF, mas ele vai estar dentro do X. ML.
+
+8
+00:00:23.100 --> 00:00:26.649
+Tá assim como vocês podem identificar aqui embaixo nele?
+
+9
+00:00:26.659 --> 00:00:28.610
+Nós vamos conseguir identificar se a empresa ela é
+
+10
+00:00:28.620 --> 00:00:31.030
+do Simples Nacional ou se ela é do regime de
+
+11
+00:00:31.739 --> 00:00:32.729
+regime normal.
+
+12
+00:00:32.740 --> 00:00:37.270
+Ela não faz distinção Se a empresa é do arbitrado presumido ou do real tá,
+
+13
+00:00:37.279 --> 00:00:41.310
+ela só vai fazer a diferenciação entre simples e regime normal.
+
+14
+00:00:41.319 --> 00:00:45.509
+Então assim nós consigamos só conseguimos saber se através desse código,
+
+15
+00:00:45.520 --> 00:00:47.529
+os outros estarão corretos também
+
+16
+00:00:47.729 --> 00:00:49.779
+o c f o P ele é o código que vai
+
+17
+00:00:49.790 --> 00:00:53.520
+definir qual é a operação que será realizada no documento fiscal,
+
+18
+00:00:53.529 --> 00:00:53.880
+né?
+
+19
+00:00:53.889 --> 00:00:57.619
+Através deles nós podemos entender ou ver como que
+
+20
+00:00:57.630 --> 00:01:00.860
+os produtos vão se comportar ou como que a tributação
+
+21
+00:01:00.869 --> 00:01:04.019
+dos produtos vão se comportar através da do C
+
+22
+00:01:04.029 --> 00:01:07.680
+f o P nós podemos ter a definição de alguma
+
+23
+00:01:07.782 --> 00:01:11.712
+t s se for uma operação, por exemplo, como rems pra industrialização,
+
+24
+00:01:11.722 --> 00:01:16.693
+ou então uma remessa pra amostra grátis ou então uma remessa pra demonstração.
+
+25
+00:01:16.703 --> 00:01:18.693
+Agora, se for uma venda,
+
+26
+00:01:18.703 --> 00:01:22.152
+nós precisamos olhar para o produto pra fazer essa definição.
+
+27
+00:01:22.163 --> 00:01:22.652
+Tá?
+
+28
+00:01:22.663 --> 00:01:24.752
+O c f O P é composto por quatro dígitos,
+
+29
+00:01:24.763 --> 00:01:27.733
+o primeiro define origem e destino e os três finais
+
+30
+00:01:27.835 --> 00:01:32.566
+operação sendo um dois e três operações de entrada ao um operações
+
+31
+00:01:32.575 --> 00:01:37.206
+dentro do estado dois fora e três importação cinco seis e sete Operações
+
+32
+00:01:37.216 --> 00:01:41.606
+de saída cinco operações dentro do estado seis pra fora do estado e
+
+33
+00:01:41.615 --> 00:01:45.295
+sete exportações dentro de uma tabela que eu estou deixando pra vocês.
+
+34
+00:01:45.305 --> 00:01:47.825
+Tem todos os códigos do C f o P
+
+35
+00:01:48.349 --> 00:01:53.379
+então nós temos diversos tipos de C, SD, d, SMS, P, i e PIS e COFINS também.
+
+36
+00:01:53.389 --> 00:01:56.440
+Ela vai definir como que vão se adequar ou
+
+37
+00:01:56.449 --> 00:02:00.620
+como vão se comportar os tributos em determinadas operações.
+
+38
+00:02:00.629 --> 00:02:04.599
+Primeiro nós vamos falar da tabela de PIS e COFINS dentro
+
+39
+00:02:04.610 --> 00:02:06.879
+do material que eu tô deixando disponível tem a C,
+
+40
+00:02:06.889 --> 00:02:08.758
+S T, A tabela atualizada,
+
+41
+00:02:08.770 --> 00:02:11.038
+a estrutura do C S T vai ser formada por
+
+42
+00:02:11.050 --> 00:02:15.259
+dois dígitos e aqui nós não vamos ter uma separação.
+
+43
+00:02:15.589 --> 00:02:15.600
+Ah,
+
+44
+00:02:15.610 --> 00:02:18.479
+como nós vamos ter no I C M s tá aqui nós
+
+45
+00:02:18.490 --> 00:02:23.619
+temos uma separação entre operações de entrada e operações de saída aonde o
+
+46
+00:02:23.630 --> 00:02:26.360
+C S T de zero zero a quarenta e nove vão definir operações
+
+47
+00:02:26.369 --> 00:02:30.820
+de saída e de cinquenta a noventa e nove operações de entrada.
+
+48
+00:02:30.895 --> 00:02:32.985
+A base legal pra tudo isso é lá no anexo
+
+49
+00:02:32.994 --> 00:02:36.225
+único da tabela dois Ação normativa mil e nove de dois
+
+50
+00:02:36.235 --> 00:02:39.664
+mil e dez tanto pra pi s quanto pra COFINS
+
+51
+00:02:39.675 --> 00:02:44.764
+e todas as operações necessariamente precisam estar preenchidas com essas duas
+
+52
+00:02:44.774 --> 00:02:48.475
+com essas codificações bom com relação a c S T
+
+53
+00:02:48.485 --> 00:02:51.925
+de SMS nós vamos ter três dígitos onde o primeiro vai
+
+54
+00:02:51.934 --> 00:02:55.425
+indicar a origem da operação se ela é importada ou
+
+55
+00:02:55.434 --> 00:03:00.164
+um produto fabricado nacionalmente e os outros dois dígitos vão indicar
+
+56
+00:03:00.660 --> 00:03:03.149
+a forma que o i c m s vai se comportar.
+
+57
+00:03:03.160 --> 00:03:07.389
+Então nós temos o zero zero onde o produto é tributado integralmente o dez
+
+58
+00:03:07.399 --> 00:03:10.089
+onde tem a cobrança do I C M s e da ção tributária,
+
+59
+00:03:10.440 --> 00:03:14.509
+o vinte Redução de base O trinta isenção da operação própria e
+
+60
+00:03:14.520 --> 00:03:18.210
+cobrança da S T quarenta e quarenta e um tributado ISIS,
+
+61
+00:03:18.220 --> 00:03:19.729
+isento e não tributado.
+
+62
+00:03:19.740 --> 00:03:21.529
+Cinquenta e cinquenta e um suspenso de
+
+63
+00:03:21.539 --> 00:03:26.369
+ferimento sessenta cobrado anteriormente por tributária setenta Redução
+
+64
+00:03:26.380 --> 00:03:30.750
+da base de cargo da operação própria e cobrança da tributária e o noventa outros.
+
+65
+00:03:30.759 --> 00:03:32.710
+E nessa tabela que eu tô deixando disponível
+
+66
+00:03:32.940 --> 00:03:33.669
+tem.
+
+67
+00:03:33.679 --> 00:03:36.970
+Eu coloquei a explicação de cada uma dessas C S T S
+
+68
+00:03:36.979 --> 00:03:41.070
+essa é SMS formada por três dígitos de i P i.
+
+69
+00:03:41.080 --> 00:03:43.229
+Ela é como a do PIS e COFINS.
+
+70
+00:03:43.240 --> 00:03:46.110
+Só que nós vamos trocar as ah,
+
+71
+00:03:46.119 --> 00:03:52.550
+as operações de entrada e saída no PIS COFINS zero zero a quarenta e nove é saída no i
+
+72
+00:03:52.559 --> 00:03:58.229
+P i é entrada e de cinquenta a noventa e nove no PIS COFINS é entrada no i,
+
+73
+00:03:58.240 --> 00:03:59.929
+P i é saída.
+
+74
+00:04:00.339 --> 00:04:03.199
+E pro simples nacional nós temos o C S o S N,
+
+75
+00:04:03.210 --> 00:04:05.630
+que é um código que vai definir como as operações, ou seja,
+
+76
+00:04:05.639 --> 00:04:09.389
+como que o Simples Nacional vai se comportar dentro da C S, o s N.
+
+77
+00:04:09.399 --> 00:04:14.789
+Antes da C C, o S N, O Simples usava o código quarenta e um, que é o não tributado.
+
+78
+00:04:14.800 --> 00:04:18.404
+Isso ficava errado e se tornava um vício porque as operações não
+
+79
+00:04:18.415 --> 00:04:22.244
+eram não tributadas elas poderiam até ser em algum determinado momento,
+
+80
+00:04:22.255 --> 00:04:27.804
+mas é porque não havia uma forma correta de se fazer a utilização e aí eles criam a c c
+
+81
+00:04:27.815 --> 00:04:32.984
+o s N que é um código que tem quatro dígitos ao O primeiro é as mesmas origens do I,
+
+82
+00:04:32.994 --> 00:04:33.665
+C, M s
+
+83
+00:04:34.470 --> 00:04:39.000
+e os três últimos dígitos vai definir como que o simples vai se comportar se ele vai
+
+84
+00:04:39.010 --> 00:04:42.720
+ser não tributado se ele não vai ser e na tabela que eu tô deixando disponível.
+
+85
+00:04:42.730 --> 00:04:46.640
+Tem também a tributação ANC m Nomenclatura
+
+86
+00:04:46.649 --> 00:04:49.260
+comum do Mercosul é um código que identifica
+
+87
+00:04:49.619 --> 00:04:55.209
+é como se fosse o C f A o C é como se fosse o CPF do produto.
+
+88
+00:04:55.220 --> 00:04:59.390
+Cada produto, cada pessoa ela é diferente de uma da outra e os produtos também,
+
+89
+00:04:59.399 --> 00:05:02.070
+cada produto ele tem uma n c m diferente.
+
+90
+00:05:02.079 --> 00:05:04.829
+E quando eu falo cada produto não são cada caneta.
+
+91
+00:05:04.839 --> 00:05:05.989
+Azul vermelha,
+
+92
+00:05:06.000 --> 00:05:12.269
+laranja preta não ca o produto caneta tem uma n c m o produto mesa tem uma n C m então,
+
+93
+00:05:12.279 --> 00:05:12.809
+ou seja,
+
+94
+00:05:12.820 --> 00:05:16.859
+não tem caneta e mesa tem n c m diferentes Tá então
+
+95
+00:05:16.869 --> 00:05:19.820
+o que eu quero dizer é justamente isso e ANC M.
+
+96
+00:05:19.829 --> 00:05:22.579
+Ela é adotada por todos os países do Mercosul.
+
+97
+00:05:22.589 --> 00:05:25.980
+Tá que hoje são Argentina, Brasil, Paraguai, Uruguai e Venezuela,
+
+98
+00:05:25.989 --> 00:05:29.779
+que entrou em dois mil e doze os associados, que é Bolívia, Chile, Peru, Colômbia,
+
+99
+00:05:29.790 --> 00:05:34.799
+Equador, Guiana e Suriname e os observadores que hoje são México e Nova Zelândia.
+
+100
+00:05:34.809 --> 00:05:36.220
+Todos eles, de certa forma,
+
+101
+00:05:36.230 --> 00:05:42.179
+utilizam a ANC M pra facilitar as operações de importação e exportação.
+
+102
+00:05:42.190 --> 00:05:42.640
+Também
+
+103
+00:05:44.420 --> 00:05:49.450
+aí nós vamos encontrá-la as existentes dentro da TÁ e ali,
+
+104
+00:05:49.459 --> 00:05:52.910
+elas tão ordenadas sistematicamente de forma progressiva,
+
+105
+00:05:52.920 --> 00:05:57.660
+em grau de elaboração do menos elaborado pro mais elaborado.
+
+106
+00:05:57.670 --> 00:05:58.070
+Então, ou seja,
+
+107
+00:05:58.079 --> 00:06:02.410
+dos produtos de origem animal até os produtos que sofrem mais industrialização.
+
+108
+00:06:02.420 --> 00:06:05.445
+Essa é a disposição e hoje mais ou menos nós temos
+
+109
+00:06:05.454 --> 00:06:08.165
+ali cerca de umas dez mil MC m s diferentes.
+
+110
+00:06:08.174 --> 00:06:09.964
+Dentro do ah,
+
+111
+00:06:09.975 --> 00:06:12.484
+da e o que é importante falar é
+
+112
+00:06:12.494 --> 00:06:15.684
+que elas precisam necessariamente ter os oito dígitos,
+
+113
+00:06:15.695 --> 00:06:16.084
+né?
+
+114
+00:06:16.095 --> 00:06:20.265
+Às vezes uma MC m, ela tem uma alíquota de vinte de trinta por cento e ela é ali,
+
+115
+00:06:20.274 --> 00:06:22.464
+por exemplo AH
+
+116
+00:06:23.980 --> 00:06:25.510
+trinta e quatro noventa, dez,
+
+117
+00:06:25.519 --> 00:06:29.519
+dez e aí tem vinte por cento e aí vai pra uma próxima n c M
+
+118
+00:06:29.529 --> 00:06:33.070
+O que eu vejo às vezes o pessoal fazendo é vinte e quatro noventa dez vinte.
+
+119
+00:06:33.079 --> 00:06:34.559
+Pra fugir de uma tributação,
+
+120
+00:06:34.570 --> 00:06:37.549
+isso não pode usar uma alí uma n c m que
+
+121
+00:06:37.559 --> 00:06:41.670
+seja inválida e a posição da n c m ela vai funcionar
+
+122
+00:06:41.679 --> 00:06:44.440
+da seguinte forma oito dígitos onde os dois primeiros definem o
+
+123
+00:06:44.450 --> 00:06:47.339
+capítulo e isso é a segmentação que tem dentro da tip.
+
+124
+00:06:47.350 --> 00:06:49.690
+A posição, por exemplo,
+
+125
+00:06:50.019 --> 00:06:52.910
+eh produtos de plástico ou de eh produtos de
+
+126
+00:06:52.920 --> 00:06:56.309
+metal com capacidade de até quatrocentos litros até trezentos.
+
+127
+00:06:56.320 --> 00:06:59.510
+E aí nós vamos abrindo quanto mais específico nós
+
+128
+00:06:59.519 --> 00:07:02.869
+precisarmos abrir nós vamos ter de posição subte,
+
+129
+00:07:02.880 --> 00:07:05.170
+item e também subte
+
+130
+00:07:06.559 --> 00:07:09.750
+o Sest. Nós já falamos lá atrás em I C M S.
+
+131
+00:07:09.760 --> 00:07:13.600
+Ele é o código especificador da submissão tributária que ele vai fazer um.
+
+132
+00:07:13.609 --> 00:07:16.809
+Ele vai auxiliar a definição de utilização de
+
+133
+00:07:16.820 --> 00:07:19.709
+quais produtos são incidentes da submissão tributária.

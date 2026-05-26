@@ -1,0 +1,33 @@
+{
+  "id": 469367,
+  "title": "Principais incentivos - parte 2",
+  "position": 31,
+  "duration": 420,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7f0565b8-c289-4220-8080-a4e2cb02ff0c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7f0565b8-c289-4220-8080-a4e2cb02ff0c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7f0565b8-c289-4220-8080-a4e2cb02ff0c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7f0565b8-c289-4220-8080-a4e2cb02ff0c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7f0565b8-c289-4220-8080-a4e2cb02ff0c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

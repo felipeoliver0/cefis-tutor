@@ -1,0 +1,205 @@
+WEBVTT
+
+00:00:00.130 --> 00:00:06.969
+- Plana de contas, contábeis e centro de custos também estão dentro do bloco zero, também fazem parte
+
+00:00:06.969 --> 00:00:13.676
+- dos cadastros. Esses registros, eles são importantes porque eles tratam informações contábeis que
+
+00:00:13.676 --> 00:00:20.843
+- podem auxiliar a parte de tributação das empresas. Há uns dias a gente precisa examinar as tributações,
+
+00:00:20.843 --> 00:00:23.934
+- por exemplo, da receita bruta daquela empresa.
+
+00:00:24.482 --> 00:00:33.781
+- Atenção, porque elas devem estar congruentes com as informações que a contabilidade envia na ECD
+
+00:00:33.781 --> 00:00:42.987
+- e na ECF. Ou seja, o plano de contas da ECD, que está lá no registro I050, e na ECF, que está no
+
+00:00:42.987 --> 00:00:53.022
+- J050, ele tem que estar coerente com 0500. Então, o que a gente pode fazer aqui de auditoria? Buscar a ECD,
+
+00:00:53.666 --> 00:01:01.882
+- Buscar esse F, buscar o F de contribuições, esses registros, isso dentro até mesmo de um Excel, e
+
+00:01:01.882 --> 00:01:10.667
+- validar se faz sentido. Se o centro de custo, se as contas contábeis estão de acordo. E é isso, pessoal,
+
+00:01:10.667 --> 00:01:15.710
+- que o Fisco faz. Ele está recebendo as mesmas informações.
+
+00:01:16.130 --> 00:01:23.780
+- O que nós precisamos entender é que nós somos responsáveis por enviarmos essas informações. Então,
+
+00:01:23.780 --> 00:01:31.358
+- podemos, sim, fazer essas auditorias e essas conferências. Eu disse e eu vou falar para vocês de forma
+
+00:01:31.358 --> 00:01:38.935
+- prática. O 0200 é o registro mais importante dentro do espelho de contribuições de vocês. Por quê?
+
+00:01:38.935 --> 00:01:45.214
+- Ele vai validar a NCM. Será que a NCM está coerente? Está de acordo com a Syscomex?
+
+00:01:45.506 --> 00:01:53.048
+- Descrição do item, ou seja, a NCM, ela é congruente com a descrição do item? Não adianta a gente
+
+00:01:53.048 --> 00:02:00.590
+- ter uma NCM de um controle e a descrição de um celular. Então, novamente, falando sobre o cadastro,
+
+00:02:00.590 --> 00:02:08.132
+- a NCM tem que estar de acordo com a descrição. E como vocês podem fazer isso? Utilizando o próprio
+
+00:02:08.132 --> 00:02:11.134
+- site do portal da Syscomex para avaliar.
+
+00:02:11.554 --> 00:02:18.325
+- um portal gratuito, um portal fácil de ser acessado, onde vocês podem consultar a NCM e o fisco vai
+
+00:02:18.325 --> 00:02:25.560
+- relatar para você qual é a descrição. Então, o que você pode validar no 0200? Se a NCM e a descrição
+
+00:02:25.560 --> 00:02:32.197
+- estão corretas. Além disso, você também pode avaliar o código do gênero do item. O código do
+
+00:02:32.197 --> 00:02:39.300
+- gênero do item são os primeiros dois dígitos da sua NCM. Então, não adianta a gente lançar o código
+
+00:02:39.300 --> 00:02:40.030
+- de gênero
+
+00:02:40.194 --> 00:02:47.835
+- 27, se a minha NCM começa com 37. Tem que estar coerente. Como que eu faço isso? No próprio Excel,
+
+00:02:47.835 --> 00:02:55.476
+- vocês podem conseguir fazer isso. Busco 0200, busco as NCMs, busco as descrições e busco o código
+
+00:02:55.476 --> 00:03:03.567
+- de gênero. E faço umas validações. Professora, mas os itens em questão dos meus clientes são diversos
+
+00:03:03.567 --> 00:03:08.062
+- itens. Então, comece com os itens que têm mais movimento.
+
+00:03:08.418 --> 00:03:16.945
+- a não ser se vocês já ouviram falar de um tipo de apuração, que até as empresas que fazem auditorias,
+
+00:03:16.945 --> 00:03:24.840
+- que são empresas de grande porte e que são responsáveis por auditorias externas, fazem 40%, 60%.
+
+00:03:24.840 --> 00:03:32.972
+- Analise 40% desses itens. Se vocês identificarem dentro desses 40% uma inconsistência e que ela seja
+
+00:03:32.972 --> 00:03:35.262
+- persistente, isso quer dizer
+
+00:03:35.394 --> 00:03:42.791
+- que 60% dos itens que você não analisou estão incorretos. Então, isso já é uma frente de você,
+
+00:03:42.791 --> 00:03:50.260
+- como profissional, levantar a mão e mostrar esse problema para o seu contribuinte, ok? No 0200 ainda,
+
+00:03:50.260 --> 00:03:57.947
+- a gente pode validar a NCM e avaliar se a gente está colocando o código que representa a substituição
+
+00:03:57.947 --> 00:04:05.054
+- tributária de forma correta, que é o SEST. Então, buscando a NCM, a gente já consegue validar
+
+00:04:05.538 --> 00:04:12.573
+- o SET. Além disso, nós podemos fazer também a análise de destinação, de finalidade, analisando
+
+00:04:12.573 --> 00:04:19.539
+- a finalidade do item versus aquilo que nós estamos lançando naquela movimentação. Como eu disse
+
+00:04:19.539 --> 00:04:26.713
+- pra vocês, não adianta a gente lançar uma setup de revenda e no 0200 está como uso e consumo. Esse
+
+00:04:26.713 --> 00:04:33.470
+- é um exemplo também clássico que vocês podem fazer. Um outro exemplo, ainda utilizando 0200,
+
+00:04:33.986 --> 00:04:41.921
+- Finalidade do tipo do item e se há um aproveitamento de crédito de upzico ou fins. Como que nós podemos
+
+00:04:41.921 --> 00:04:49.411
+- fazer isso? Vocês perceberam que no portal da FD Contribuições nós temos uma tabela onde o Fisco
+
+00:04:49.411 --> 00:04:56.900
+- te dá todas as possibilidades por meio de CFLP de direito ao crédito. No 0200 nós temos o tipo do
+
+00:04:56.900 --> 00:05:02.462
+- item e dentro desse tipo do item existem insumos, matéria-prima, revenda,
+
+00:05:02.562 --> 00:05:09.558
+- Use e consuma, ativo imobilizado. E nós sabemos que para esse tipo de item existem uma CFLP específica.
+
+00:05:09.558 --> 00:05:16.555
+- Então, nós podemos buscar 0200 e validar com essa tabela de CFLP. Se nós estamos fazendo o lançamento
+
+00:05:16.555 --> 00:05:23.683
+- correto ou deixando de aproveitar um crédito devido. Comparativo com ficha técnica, a ordem de produção
+
+00:05:23.683 --> 00:05:30.878
+- versus o tipo do item. Lembra que eu falei para vocês que vocês fazem parte de toda a prática operacional
+
+00:05:30.878 --> 00:05:31.934
+- do seu cliente?
+
+00:05:32.322 --> 00:05:40.309
+- Isso faz todo sentido. A ordem de produção é nela que tem a finalidade, o enfoque. É, na verdade,
+
+00:05:40.309 --> 00:05:48.844
+- o pessoal que faz os cadastros de produtos que elas precisariam entender que para ele colocar uma finalidade
+
+00:05:48.844 --> 00:05:57.222
+- de um item, se faz necessário ele entender a ordem de produção, a ordem de compra. Então, tudo depende
+
+00:05:57.222 --> 00:05:59.806
+- de um bom processo e, às vezes,
+
+00:06:00.066 --> 00:06:07.325
+- Esse processo não está lá na área fiscal, ele precisa ser redesenhado no processo de produção,
+
+00:06:07.325 --> 00:06:14.727
+- na utilização da ordem de produção, na ordem de compras, certo? Quando nós falamos de um registro
+
+00:06:14.727 --> 00:06:22.058
+- dentro do FD Contribuições, é importante a gente relatar que, dentro de um próprio registro, pode
+
+00:06:22.058 --> 00:06:28.382
+- existir outro registro que corresponda à mesma finalidade, só que com outro objetivo.
+
+00:06:28.994 --> 00:06:36.787
+- Então, dentro do 0200, nós temos o registro 0205, onde nós demonstramos as alterações
+
+00:06:36.787 --> 00:06:45.608
+- e as codificações. Então, por exemplo, item 001 está como blazer preto. Em que se pretende alterar
+
+00:06:45.608 --> 00:06:54.514
+- a descrição para item 001? Blazer preto slim. O que a gente pode notar aqui dentro dessa alteração?
+
+00:06:54.514 --> 00:06:57.854
+- Que não houve alteração do produto.
+
+00:06:57.986 --> 00:07:07.515
+- mas apenas a descrição. Então, o blazer preto, a NCM, a classificação dele se mantém, mas precisou
+
+00:07:07.515 --> 00:07:17.135
+- ser alterado a descrição desse blazer, sem alterar o produto final. Então, caso haja uma atualização
+
+00:07:17.135 --> 00:07:21.310
+- de um produto que ele se mantenha ainda puro,
+
+00:07:21.986 --> 00:07:29.595
+- Isso quer dizer que a gente tem um registro chamado 0205, onde a gente pode mostrar para o físico que
+
+00:07:29.595 --> 00:07:37.352
+- houve uma atualização. Obviamente, caso haja, por exemplo, do Blazer virar uma camisa, isso quer dizer
+
+00:07:37.352 --> 00:07:45.035
+- que ele perdeu a sua principal finalidade. Aí, sim, a gente vai estar falando de um novo código. Mas,
+
+00:07:45.035 --> 00:07:50.206
+- se estamos falando sobre o mesmo produto que não se descaracterizou,
+
+00:07:50.402 --> 00:07:53.918
+- Nós temos um registro específico para fazer esse lançamento.

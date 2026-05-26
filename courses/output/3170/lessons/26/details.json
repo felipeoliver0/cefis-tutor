@@ -1,0 +1,33 @@
+{
+  "id": 476060,
+  "title": "Critérios para cálculo",
+  "position": 26,
+  "duration": 441,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a46c732d-fa55-44a9-803e-f3cbf35c615f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a46c732d-fa55-44a9-803e-f3cbf35c615f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a46c732d-fa55-44a9-803e-f3cbf35c615f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a46c732d-fa55-44a9-803e-f3cbf35c615f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a46c732d-fa55-44a9-803e-f3cbf35c615f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

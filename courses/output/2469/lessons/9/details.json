@@ -1,0 +1,33 @@
+{
+  "id": 466197,
+  "title": "Opções de carreiras",
+  "position": 9,
+  "duration": 395,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/96bbf015-cf91-459d-bcca-e6b38745293f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96bbf015-cf91-459d-bcca-e6b38745293f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96bbf015-cf91-459d-bcca-e6b38745293f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96bbf015-cf91-459d-bcca-e6b38745293f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96bbf015-cf91-459d-bcca-e6b38745293f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

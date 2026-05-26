@@ -1,0 +1,33 @@
+{
+  "id": 486224,
+  "title": "Tributação das receitas financeiras - Parte 1",
+  "position": 58,
+  "duration": 282,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/005edda5-3307-411c-a45a-2e512ce6df16/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/005edda5-3307-411c-a45a-2e512ce6df16/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/005edda5-3307-411c-a45a-2e512ce6df16/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/005edda5-3307-411c-a45a-2e512ce6df16/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/005edda5-3307-411c-a45a-2e512ce6df16/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

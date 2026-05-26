@@ -1,0 +1,109 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.359
+Temos aqui a regra de ouro, se o dado identifica o cliente ou funcionário não deve ser enviado
+
+3
+00:00:08.359 --> 00:00:11.759
+diretamente para a IA pública.
+
+4
+00:00:11.759 --> 00:00:18.519
+Como já mencionamos na aula de hoje, você pode anonimizar este dado, você pode pegar
+
+5
+00:00:18.519 --> 00:00:25.039
+o nome do cliente ou funcionário e trocar por funcionário número 42.
+
+6
+00:00:25.039 --> 00:00:30.879
+Enviar para a IA, fazer o tratamento necessário, ao receber a resposta você coloca o nome
+
+7
+00:00:30.879 --> 00:00:33.560
+correto dessa pessoa.
+
+8
+00:00:33.560 --> 00:00:37.600
+O que pode e o que não pode ser enviado para a IA?
+
+9
+00:00:37.600 --> 00:00:47.740
+Então pode, com boas práticas, textos genéricos ou anonimizados, modelos de e-mails e comunicados,
+
+10
+00:00:47.740 --> 00:00:54.820
+perguntas conceituais, documentos sem identificação com dados mascarados, como acabamos de falar,
+
+11
+00:00:54.820 --> 00:00:55.020
+planilhas.
+
+12
+00:00:55.020 --> 00:01:02.140
+Ou mesmo planilhas fictícias de teste, ou mesmo planilhas reais mas sem identificação,
+
+13
+00:01:02.140 --> 00:01:07.019
+por exemplo, do cliente, do funcionário e outros dados da planilha.
+
+14
+00:01:07.019 --> 00:01:16.180
+Você pode tratar os números sem identificar a quem está se referindo esses números.
+
+15
+00:01:16.180 --> 00:01:23.400
+Não pode CPF, CNPJ, nome de cliente, matrícula de funcionário, enviar a folha de pagamento
+
+16
+00:01:23.400 --> 00:01:24.799
+real, integral.
+
+17
+00:01:24.799 --> 00:01:31.079
+Declarações fiscais completas, contratos assinados com dados identificáveis, processos
+
+18
+00:01:31.079 --> 00:01:34.019
+administrativos ou judiciais reais.
+
+19
+00:01:34.019 --> 00:01:40.299
+Embora pessoal, hoje a gente conhece alguns escritórios que usam IA para analisar processos
+
+20
+00:01:40.299 --> 00:01:46.799
+mais extensos, o que a gente recomenda é que você edite esse documento.
+
+21
+00:01:46.799 --> 00:01:52.920
+Se for um PDF você pode, você tem ferramentas para editar o PDF e você pode de repente
+
+22
+00:01:52.920 --> 00:01:54.579
+rasurar.
+
+23
+00:01:54.579 --> 00:02:01.359
+Ou apagar a página que tem um dado sensível e enviar com esses dados anonimizados.
+
+24
+00:02:01.359 --> 00:02:04.099
+Dicas para proteger os dados.
+
+25
+00:02:04.099 --> 00:02:08.819
+Você pode então substituir nome, como já falamos de cliente, o nome do cliente ou do
+
+26
+00:02:08.819 --> 00:02:11.620
+funcionário por um dado anônimo.
+
+27
+00:02:11.620 --> 00:02:16.900
+Você pode trocar o CPF por um número aleatório ou até um código interno seu.
+
+28
+00:02:16.900 --> 00:02:24.060
+Você pode manter apenas valores e estrutura, retirar logos, assinaturas e outros identificadores.

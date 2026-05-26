@@ -1,0 +1,33 @@
+{
+  "id": 488101,
+  "title": "Programa da ECF em entidades imunes e isentas - Parte 2",
+  "position": 52,
+  "duration": 343,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/9d677fdc-9d41-4a29-9eeb-77086feeac3e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9d677fdc-9d41-4a29-9eeb-77086feeac3e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9d677fdc-9d41-4a29-9eeb-77086feeac3e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9d677fdc-9d41-4a29-9eeb-77086feeac3e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9d677fdc-9d41-4a29-9eeb-77086feeac3e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

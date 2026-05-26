@@ -1,0 +1,33 @@
+{
+  "id": 455738,
+  "title": "Auditoria na visão do empregador",
+  "position": 4,
+  "duration": 203,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/72b4a629-f85c-4315-bb3c-52b1146e7171/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/72b4a629-f85c-4315-bb3c-52b1146e7171/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/72b4a629-f85c-4315-bb3c-52b1146e7171/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/72b4a629-f85c-4315-bb3c-52b1146e7171/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/72b4a629-f85c-4315-bb3c-52b1146e7171/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

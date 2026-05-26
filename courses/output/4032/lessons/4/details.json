@@ -1,0 +1,33 @@
+{
+  "id": 481269,
+  "title": "A perícia contábil",
+  "position": 4,
+  "duration": 325,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ff22ed9a-d45e-4553-8b5e-2b97c93e795d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff22ed9a-d45e-4553-8b5e-2b97c93e795d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff22ed9a-d45e-4553-8b5e-2b97c93e795d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff22ed9a-d45e-4553-8b5e-2b97c93e795d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff22ed9a-d45e-4553-8b5e-2b97c93e795d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

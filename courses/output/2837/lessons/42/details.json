@@ -1,0 +1,33 @@
+{
+  "id": 470875,
+  "title": "Exemplo de cálculo de imposto a recuperar antecipação de IRPJ e CSLL",
+  "position": 42,
+  "duration": 164,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3a8c6fdd-5d16-40c4-af78-e2ad875b3873/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3a8c6fdd-5d16-40c4-af78-e2ad875b3873/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3a8c6fdd-5d16-40c4-af78-e2ad875b3873/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3a8c6fdd-5d16-40c4-af78-e2ad875b3873/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3a8c6fdd-5d16-40c4-af78-e2ad875b3873/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

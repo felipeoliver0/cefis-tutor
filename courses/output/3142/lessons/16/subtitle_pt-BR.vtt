@@ -1,0 +1,297 @@
+WEBVTT
+
+1
+00:00:00.430 --> 00:00:05.480
+beleza eu posso fazer de uma outra forma também oh lembrando aqui Oh, eu clico nele!
+
+2
+00:00:05.489 --> 00:00:06.739
+Venho dados
+
+3
+00:00:07.570 --> 00:00:12.439
+texto para coluna largura fixa avançar concluir
+
+4
+00:00:13.449 --> 00:00:16.280
+vamos repetir aqui Oh dados
+
+5
+00:00:17.569 --> 00:00:22.860
+texto para coluna largura fixa avançar Eu não corto
+
+6
+00:00:22.870 --> 00:00:25.260
+nada porque eu não vou quebrar em mais células.
+
+7
+00:00:25.270 --> 00:00:28.520
+Eu só vou fazer isso aqui, dá concluir aí ele fez o quê?
+
+8
+00:00:29.229 --> 00:00:30.059
+Virou número
+
+9
+00:00:31.709 --> 00:00:37.340
+no que ele virou número? Ficou perfeito pra nós? Entendeu? Bom,
+
+10
+00:00:38.209 --> 00:00:40.619
+agora pessoal, vamos lá!
+
+11
+00:00:40.630 --> 00:00:45.939
+Eu tenho aqui todos os números de nota no razão e
+
+12
+00:00:45.950 --> 00:00:48.360
+eu tenho os números de nota no livro de entrada.
+
+13
+00:00:49.159 --> 00:00:52.310
+Esse é um ponto extremamente importante
+
+14
+00:00:53.080 --> 00:00:56.270
+que que eu faço eu venho aqui no razão
+
+15
+00:00:56.919 --> 00:01:04.669
+vou filtrar só as que estão preenchidas, Vou desmarcar as vazias Eu venho oh com C,
+
+16
+00:01:05.599 --> 00:01:08.669
+vou lá na minha planilha de cheque número da nota
+
+17
+00:01:09.529 --> 00:01:10.239
+roi,
+
+18
+00:01:11.099 --> 00:01:15.930
+vou lá no No livro fiscal pego o número da nota contra o C
+
+19
+00:01:18.180 --> 00:01:18.809
+COI
+
+20
+00:01:19.629 --> 00:01:21.919
+Thiago, mas vai ter nota que vai, tá num e vai?
+
+21
+00:01:21.930 --> 00:01:25.239
+Tá no outro desse jeito Cê vai dobrar o teste. Isso mesmo.
+
+22
+00:01:25.250 --> 00:01:27.860
+Aí eu venho aqui clico aqui, venho dados,
+
+23
+00:01:28.919 --> 00:01:32.370
+Tem esse negócio aqui que chama remover duplicadas, por exemplo,
+
+24
+00:01:32.379 --> 00:01:36.569
+eu sei que anota aqui oh cento e um nove dois cento e um nove dois cento e
+
+25
+00:01:36.580 --> 00:01:41.129
+um nove dois vinte e oito vinte e oito três oito quatro vinte e oito três oito quatro.
+
+26
+00:01:41.139 --> 00:01:46.930
+Todos esses números estão duplicados. Eu mando fazer o quê? Remover os duplicados?
+
+27
+00:01:46.940 --> 00:01:49.589
+No que eu mando remover os duplicados?
+
+28
+00:01:50.459 --> 00:01:53.529
+Os números que estavam repetidos não estarão mais
+
+29
+00:01:54.449 --> 00:01:56.260
+aí. O que que eu posso fazer? Pessoal?
+
+30
+00:01:56.269 --> 00:02:00.190
+Eu poderia fazer um pro que v trazendo o valor do fiscal,
+
+31
+00:02:00.199 --> 00:02:02.959
+trazendo o valor do contábil e testar um com o outro.
+
+32
+00:02:03.690 --> 00:02:07.680
+Só que tem um detalhe se a gente vinha aqui no razão, por exemplo,
+
+33
+00:02:08.399 --> 00:02:13.509
+essa primeira nota fiscal aqui OH! Três três um da Márcia tem dois
+
+34
+00:02:14.149 --> 00:02:15.339
+lançamentos.
+
+35
+00:02:15.990 --> 00:02:17.000
+Vamos ratear Como assim?
+
+36
+00:02:17.009 --> 00:02:22.380
+Dois fretes com o medo de nota não, porque é um critério de rateio que o sistema faz,
+
+37
+00:02:22.389 --> 00:02:25.600
+ele rateou uma parte do frete pra um item, uma parte pra outro,
+
+38
+00:02:25.610 --> 00:02:27.199
+então ele lança dobrado.
+
+39
+00:02:27.210 --> 00:02:33.000
+Então o que que eu vou fazer? O soma? O soma se encaixa muito melhor do que o p V.
+
+40
+00:02:33.009 --> 00:02:37.779
+Então eu vou, vim aqui oh, no fiscal igual soma se
+
+41
+00:02:39.139 --> 00:02:45.110
+vou lá no livro fiscal Número da nota ponto vírgula volto,
+
+42
+00:02:45.119 --> 00:02:50.050
+clico na nota fiscal que eu quero ponto vírgula, vou lá no valor contábil
+
+43
+00:02:51.080 --> 00:02:51.789
+beleza,
+
+44
+00:02:53.470 --> 00:02:56.169
+vou fazer a mesma coisa no razão.
+
+45
+00:02:56.179 --> 00:03:00.199
+Venho aqui opa, vou lá no razão contábil,
+
+46
+00:03:00.210 --> 00:03:03.539
+clico no número da nota Volto pra minha planilha
+
+47
+00:03:04.199 --> 00:03:09.350
+na coluna da nota. Quer dizer clico aqui e volto e vou lá na coluna do débito
+
+48
+00:03:10.779 --> 00:03:11.529
+Opa
+
+49
+00:03:12.369 --> 00:03:14.160
+um, menos o outro
+
+50
+00:03:15.100 --> 00:03:17.330
+que que aconteceu aqui oh, papa, oh pessoal,
+
+51
+00:03:19.029 --> 00:03:19.839
+Bom,
+
+52
+00:03:19.850 --> 00:03:24.240
+Cruzei todas as notas que que acontece pessoal na hora que
+
+53
+00:03:24.250 --> 00:03:26.679
+eu venho e faço o cheque um menos a outra,
+
+54
+00:03:26.690 --> 00:03:31.979
+eu tenho essas três diferenças que dá o dois, setecentos e setenta e sete e oitenta
+
+55
+00:03:32.699 --> 00:03:34.589
+na nossa conciliação.
+
+56
+00:03:34.600 --> 00:03:39.630
+A gente falou assim oh, são notas modelo tipo de um que estão lá, Bom,
+
+57
+00:03:39.639 --> 00:03:45.550
+a gente aqui não tem a nota fiscal do modelo de de um Entretanto, entretanto,
+
+58
+00:03:45.559 --> 00:03:46.910
+eu tenho o quê?
+
+59
+00:03:46.919 --> 00:03:51.020
+Exatamente quais são as notas. Aí eu vou no meu controle. Vou no contas a pagar.
+
+60
+00:03:51.029 --> 00:03:53.169
+Vou no documento pra ver que tipo de documento,
+
+61
+00:03:53.479 --> 00:03:56.690
+pra que eu tenha a certeza do que é exatamente isso.
+
+62
+00:03:56.699 --> 00:03:59.630
+Então que que a gente fez rapidamente pessoal
+
+63
+00:03:59.639 --> 00:04:03.110
+rapidamente a gente testou cem por cento.
+
+64
+00:04:03.779 --> 00:04:08.110
+A gente testou cem por cento dos fretes que estão na contabilidade,
+
+65
+00:04:08.119 --> 00:04:10.070
+com os fretes que estão no fiscal.
+
+66
+00:04:10.080 --> 00:04:13.429
+A mesma diferença que na hora que eu peguei o saldo global
+
+67
+00:04:13.440 --> 00:04:17.928
+do total de débito das contas com o saldo global do total de
+
+68
+00:04:17.940 --> 00:04:22.029
+lançamentos no CFOP S um meia cinco três dois meia cinco três
+
+69
+00:04:22.040 --> 00:04:24.790
+deu a diferença de dois setecentos e setenta e sete e oitenta,
+
+70
+00:04:24.799 --> 00:04:28.290
+que são exatamente o quê pessoal, essas três notas.
+
+71
+00:04:29.040 --> 00:04:34.790
+Então oh a celeridade que a gente testou, posso fazer esse teste pra frete.
+
+72
+00:04:34.799 --> 00:04:39.369
+Posso fazer esse teste pra compra de mercadoria, material de uso e consumo?
+
+73
+00:04:39.380 --> 00:04:44.859
+Enfim, uma diver, uma Dida, uma diversidade de informações.
+
+74
+00:04:44.869 --> 00:04:49.750
+A gente consegue rapidamente fazer assim oh, beleza pessoal, Okay, bom!

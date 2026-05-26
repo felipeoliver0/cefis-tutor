@@ -1,0 +1,33 @@
+{
+  "id": 486253,
+  "title": "Explicações do acréscimo de 10%",
+  "position": 87,
+  "duration": 354,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6d3df2ff-35fb-4050-996d-05d7b43b525f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d3df2ff-35fb-4050-996d-05d7b43b525f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d3df2ff-35fb-4050-996d-05d7b43b525f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d3df2ff-35fb-4050-996d-05d7b43b525f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d3df2ff-35fb-4050-996d-05d7b43b525f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

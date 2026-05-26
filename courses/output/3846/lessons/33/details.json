@@ -1,0 +1,33 @@
+{
+  "id": 478278,
+  "title": "Bloco I",
+  "position": 33,
+  "duration": 520,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/99b1fe3c-2684-4b06-bfd8-0bec0992d4af/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/99b1fe3c-2684-4b06-bfd8-0bec0992d4af/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/99b1fe3c-2684-4b06-bfd8-0bec0992d4af/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/99b1fe3c-2684-4b06-bfd8-0bec0992d4af/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/99b1fe3c-2684-4b06-bfd8-0bec0992d4af/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

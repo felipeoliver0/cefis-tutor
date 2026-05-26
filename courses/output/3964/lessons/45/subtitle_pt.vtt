@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00:00.226 --> 00:00:07.478
+- Então aqui ó o VPL quando eu tenho valores diferentes de entradas de caixa a gente acabou de fazer
+
+00:00:07.478 --> 00:00:14.658
+- no modelo anterior no exercício anterior eu tenho que nesse caso porque que eu tô colocando o CFJ
+
+00:00:14.658 --> 00:00:19.038
+- aqui negativo né porque quando eu coloco CHS e eu entro CHS
+
+00:00:19.202 --> 00:00:25.679
+- GCF0, que é o momento inicial 750, na hora que você olhar o cursor vai ver que ele ficou menos 750.
+
+00:00:25.679 --> 00:00:32.409
+- Por quê? O CHS vai transformar aquele número em negativo para dizer o quê? Que é uma saída de caixa.
+
+00:00:32.409 --> 00:00:38.886
+- Aí, consequentemente, todas as outras são entradas que são positivas. E aí você vai fazendo esse
+
+00:00:38.886 --> 00:00:39.838
+- cálculo. 250.
+
+00:00:40.322 --> 00:00:48.818
+- G, mesma coisa que a gente fez. CFJ, que é o valor da parcela. N1, porque só tem uma parcela nesse
+
+00:00:48.818 --> 00:00:57.231
+- valor. E vamos dar a mesma sequência que eu acabei de mostrar anteriormente. 320GCFJ, 1GNJ, porque
+
+00:00:57.231 --> 00:01:05.054
+- só tem uma parcela nesse valor. Depois a outra, 380GCFJ, é uma parcela única nesse valor.
+
+00:01:05.282 --> 00:01:14.129
+- Aí quando terminei de colocar aqui as parcelas eu vou chegar ali e vou colocar aqui um GNJ. Eu sei
+
+00:01:14.129 --> 00:01:23.064
+- que eu tenho, posso puxar RCOL porque eu vou ter o N períodos. Aí eu vou dar, na verdade, o meu F,
+
+00:01:23.064 --> 00:01:33.150
+- o I, vou ter que colocar o I, o valor do I que está 20%, ok? E aí quando eu apertar FNPV eu vou trazer o valor.
+
+00:01:33.314 --> 00:01:41.575
+- presente desse fluxo, que é o mesmo jeitinho que a gente fez aqui, só que aqui no HP. Então a gente
+
+00:01:41.575 --> 00:01:49.676
+- pode ver que bate. Vocês testem isso se quiserem praticar. Quando eu vou fazer o cálculo da TIR, o
+
+00:01:49.676 --> 00:01:57.937
+- que eu tenho que fazer? Que é a taxa interna de retorno do fluxo como um todo. Eu vou fazer toda essa
+
+00:01:57.937 --> 00:02:03.070
+- tratativa de entrada de dados, percebam? Só que aí, ao final,
+
+00:02:03.298 --> 00:02:11.299
+- Porque a taxa interna de retorno, eu vou ter que aplicar aqui o FIRR. Porque uma coisa é trazer a valor
+
+00:02:11.299 --> 00:02:18.995
+- presente. A taxa que eu estou trazendo a valor presente, todos os N períodos aqui, é o I. Aqui foi
+
+00:02:18.995 --> 00:02:27.149
+- a valor presente. Eu cheguei nos 35. Agora, se eu quiser calcular a taxa interna de retorno desses fluxos,
+
+00:02:27.149 --> 00:02:30.654
+- que é que para, eu tenho que calcular, trago
+
+00:02:31.170 --> 00:02:38.350
+- todas as entradas de dados igual só vai mudar aqui, que vai ser FRR. E aí você vai ver que a taxa
+
+00:02:38.350 --> 00:02:45.744
+- interna de retorno é 22,38. Olha que interessante. Se a taxa interna de retorno fosse exatamente igual
+
+00:02:45.744 --> 00:02:53.209
+- a 20% que a taxa de desconto, aquela taxa que o investidor quer ter como remuneração mínima, se fosse
+
+00:02:53.209 --> 00:03:00.958
+- exatamente igual, essa taxa interna de retorno significaria que o VPL seria zero. Por quê? Significaria que
+
+00:03:01.474 --> 00:03:08.216
+- o investimento ou o projeto iria render para o acionista ou para o investidor exatamente os 20% que
+
+00:03:08.216 --> 00:03:15.094
+- ele estava disposto a ganhar. Ele não ia perder nada, mas não ia ganhar nada além dos 20%. Então,
+
+00:03:15.094 --> 00:03:22.308
+- quando essa taxa interna de retorno for exatamente a taxa de desconto, o meu VPL ou NPV é zero. Significa
+
+00:03:22.308 --> 00:03:29.118
+- que o investidor vai ganhar exatamente aquilo que ele definiu, mas nada além. O cálculo do payback
+
+00:03:29.218 --> 00:03:36.193
+- A gente também pode ver por aqui que é aquele prazo que eu recupero o meu investimento. Muito bem.
+
+00:03:36.193 --> 00:03:43.167
+- Eu tenho aqui aquilo que a gente viu lá. O saldo é aquela mesma visão, só que de uma tabela mais
+
+00:03:43.167 --> 00:03:50.073
+- fácil para a gente reconhecer o payback. O que é o payback? Eu vou investir, olha só, R$ 750,00,
+
+00:03:50.073 --> 00:03:57.254
+- uma saída de caixa. Só que no primeiro ano, eu consegui, pela nossa informação, entrou no meu caixa
+
+00:03:57.254 --> 00:03:58.014
+- R$ 250,00.
+
+00:03:58.338 --> 00:04:06.235
+- Quando eu trouxe a valor presente, porque eu sempre tenho que trazer a valor presente, é 208 positivo.
+
+00:04:06.235 --> 00:04:13.829
+- Aquele 250 lá no período 1, na data de hoje, trazendo a valor presente, é 208. Então, meu saldo
+
+00:04:13.829 --> 00:04:21.651
+- que eu desembolsei de 750, como eu já recuperei a valor presente, 208, ele está negativo ainda, 541.
+
+00:04:21.651 --> 00:04:27.422
+- Então, em um ano, eu recuperei o investimento de 750. Vamos seguir. Ano 2.
+
+00:04:27.746 --> 00:04:35.598
+- Entrou mais 320 lá no período 2, mas eu quero saber hoje. Trago o valor presente por dois períodos,
+
+00:04:35.598 --> 00:04:43.222
+- a taxa. Quanto é esse valor de 320, que seria dali a dois meses ou dois anos na data 0? Seria 222.
+
+00:04:43.222 --> 00:04:50.846
+- Ah, legal. Diminui meu saldo de recuperação. Eu investi 750 agora no segundo ano, o valor de hoje
+
+00:04:51.170 --> 00:04:57.336
+- Por que valor de hoje, pessoal? Porque eu tô comparando o valor de 750 mil que eu tenho que investir
+
+00:04:57.336 --> 00:05:03.562
+- hoje. Por isso a gente traz tudo pra data de mesma comparabilidade. Não posso comparar um recurso que
+
+00:05:03.562 --> 00:05:10.091
+- eu invisto hoje e dizer que eu recebo daqui a dois, três anos e é igual. Tem que trazer a valor presente.
+
+00:05:10.091 --> 00:05:16.136
+- Então, no ano dois, comparando, ele fala, não, trazendo a valor presente, 319. Ano três, fazendo
+
+00:05:16.136 --> 00:05:19.582
+- todo o cálculo, essa parcela de 380 equivale a 219,900.
+
+00:05:19.842 --> 00:05:26.218
+- meu saldo ainda está quase 100 mil negativos. Puxa, não recupera o investimento que eu fiz em três
+
+00:05:26.218 --> 00:05:32.781
+- anos a valor presente. Puxa, então eu vou recuperar entre o terceiro ano e o quarto ano, porque a gente
+
+00:05:32.781 --> 00:05:39.032
+- já não fez o cálculo a valor presente do período 4 como um todo e a gente viu que o projeto ele
+
+00:05:39.032 --> 00:05:45.533
+- é favorável, que tem até uma taxa interna de retorno de 22 e pouco acima da taxa de 20. Então agora
+
+00:05:45.533 --> 00:05:48.158
+- a gente olha para cá e fala assim, puxa,
+
+00:05:48.962 --> 00:05:58.090
+- Esse projeto aqui, ele tem um retorno entre o terceiro e quarto ano, mas tá bom, terceiro e quarto
+
+00:05:58.090 --> 00:06:06.761
+- ano tem 12 meses, aí como é que eu calculo? Aí a gente faz uma regrinha de três. Veja só,
+
+00:06:06.761 --> 00:06:16.254
+- a gente tem, por exemplo, um valor aqui negativo de 99,537. Ele está aqui. Eu teria, para zerar os 99,
+
+00:06:16.546 --> 00:06:26.573
+- e ainda sobra 35, significa que no final esse 135 foi suficiente para cobrir os 99 de saldo e ainda
+
+00:06:26.573 --> 00:06:37.001
+- gerou esse positivo. Então se aqui em um ano de 3 para 4 eu gerei 135 mil positivo, a relação quando
+
+00:06:37.001 --> 00:06:40.510
+- eu faço essa continha eu vejo que
+
+00:06:40.834 --> 00:06:51.398
+- Esse 99 dividido por 135, que é para um ano, esse 99 que eu preciso corresponde a 0,74 de um ano, ou
+
+00:06:51.398 --> 00:07:02.273
+- 74% de um ano. Aí basta a gente fazer uma regrinha de três. Se um ano tem 12 meses e eu recupero esses
+
+00:07:02.273 --> 00:07:10.558
+- 99 que me faltavam em 0, quando eu faço essa divisão, em 0,74 avos de um ano,
+
+00:07:11.074 --> 00:07:19.457
+- Esses 0,74 anos correspondem a quantos meses? Fazendo uma regrinha de três, a gente chega aqui, justamente,
+
+00:07:19.457 --> 00:07:27.225
+- esse 0,74 anos corresponde a 8,9 meses. Então, esse projeto, ele recupera seu investimento em três
+
+00:07:27.225 --> 00:07:34.993
+- anos, um, dois, três, e mais um pedaço aqui entre o terceiro e o quarto ano, que é de nove meses.
+
+00:07:34.993 --> 00:07:39.454
+- Perfeito, pessoal? Então, aqui a gente tem aquela visão
+
+00:07:39.842 --> 00:07:46.564
+- de payback, o prazo de recuperação, e é o payback descontado. A gente vai ver mais detalhes à frente,
+
+00:07:46.564 --> 00:07:52.970
+- porque o payback descontado leva em conta a taxa de desconto, que é o valor do dinheiro no TEM. Que
+
+00:07:52.970 --> 00:07:59.566
+- comentários para finalizar um pouco essa parte? Comentando que teremos aí outros bate-papos, mas para
+
+00:07:59.566 --> 00:08:06.225
+- dar uma visão mais geral e global, depois a gente vai entrar em detalhes, mas sobre o que a gente falou
+
+00:08:06.225 --> 00:08:08.254
+- até então. E desse principal,
+
+00:08:08.450 --> 00:08:16.281
+- Último exemplo. A taxa interna de retorno, IRF em inglês, nesse caso foi de 22,38%. Significa que
+
+00:08:16.281 --> 00:08:24.189
+- o investimento é economicamente atrativo, pois, temos que arrumar aqui, ficou acima da taxa mínima
+
+00:08:24.189 --> 00:08:32.646
+- de atratividade exigida pelo acionista ou pelo investidor, que foi de 20% ao ano. O valor presente líquido
+
+00:08:32.646 --> 00:08:38.206
+- foi de 35,493, ou seja, o investidor ganhou esse multante em relação
+
+00:08:38.402 --> 00:08:48.152
+- o valor de investimento inicial de 750 mil. Perfeito? Do IPEC descontado foi de 3 anos e 9 meses, 3,88.
+
+00:08:48.152 --> 00:08:51.902
+- A gente aproximou aqui para 9. Ou seja,
+
+00:08:52.194 --> 00:09:00.954
+- O investimento é considerado economicamente atrativo, uma vez que agregou valor à empresa ou ao negócio,
+
+00:09:00.954 --> 00:09:09.308
+- no montante de 35,49383. Então, podendo ser constatado pela regra de que quando o VPL é maior do que
+
+00:09:09.308 --> 00:09:17.500
+- zero, o projeto é viável e pode ser aceito. Isso é uma breve iniciativa de conversa para que nós
+
+00:09:17.500 --> 00:09:21.150
+- possamos nos aprofundar depois um pouco mais
+
+00:09:21.634 --> 00:09:23.700
+- nessa questão, tá?

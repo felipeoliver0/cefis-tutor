@@ -1,0 +1,33 @@
+{
+  "id": 461641,
+  "title": "Obrigação principal e acessória",
+  "position": 7,
+  "duration": 167,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9fbb58fb-fbfd-4a51-a269-ce4851ffbfc0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9fbb58fb-fbfd-4a51-a269-ce4851ffbfc0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9fbb58fb-fbfd-4a51-a269-ce4851ffbfc0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9fbb58fb-fbfd-4a51-a269-ce4851ffbfc0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9fbb58fb-fbfd-4a51-a269-ce4851ffbfc0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 478944,
+  "title": "Contas a serem conciliadas - receitas e despesas",
+  "position": 21,
+  "duration": 121,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c5f037f5-cede-4756-abbb-94c8aa16bc07/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5f037f5-cede-4756-abbb-94c8aa16bc07/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5f037f5-cede-4756-abbb-94c8aa16bc07/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5f037f5-cede-4756-abbb-94c8aa16bc07/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5f037f5-cede-4756-abbb-94c8aa16bc07/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

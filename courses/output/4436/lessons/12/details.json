@@ -1,0 +1,33 @@
+{
+  "id": 486442,
+  "title": "Processo administrativo para identificação",
+  "position": 12,
+  "duration": 77,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/be34f810-553e-4b59-a533-eb7e3413c03d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be34f810-553e-4b59-a533-eb7e3413c03d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be34f810-553e-4b59-a533-eb7e3413c03d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be34f810-553e-4b59-a533-eb7e3413c03d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be34f810-553e-4b59-a533-eb7e3413c03d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

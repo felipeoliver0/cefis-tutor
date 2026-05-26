@@ -1,0 +1,277 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.879
+Dentro da estrutura dos novos benefícios fiscais que o Fisco trouxe por meio da Instrução
+
+2
+00:00:07.879 --> 00:00:15.820
+Normativa 2294, ele trouxe uma estrutura de três grandes pilares, que podemos dizer que
+
+3
+00:00:15.820 --> 00:00:20.920
+a numeração sequencial, então os novos benefícios fiscais foram incluídos a partir do item
+
+4
+00:00:20.920 --> 00:00:28.160
+89, mantendo uma sequência obviamente ligada entre eram 88 benefícios
+
+5
+00:00:28.160 --> 00:00:36.960
+e agora passam a ser 173, categorizada via sistema, ou seja, cada benefício foi cuidadosamente
+
+6
+00:00:36.960 --> 00:00:44.159
+categorizado conforme a sua natureza tributária, origem legal e tributo correspondente, permitindo
+
+7
+00:00:44.159 --> 00:00:48.380
+ainda mais rastrabilidade de informação.
+
+8
+00:00:48.380 --> 00:00:52.880
+Como que o Fisco pode trazer uma rastrabilidade de informação quando falamos de um benefício
+
+9
+00:00:52.880 --> 00:00:57.420
+fiscal de PIS e COFINS?
+
+10
+00:00:57.420 --> 00:01:02.420
+A primeira obrigação acessória que o Fisco pode trazer para vocês em questão de fiscalização
+
+11
+00:01:02.420 --> 00:01:08.500
+e de trazer uma rastrabilidade de informação é o próprio XML do seu contribuinte.
+
+12
+00:01:08.500 --> 00:01:17.000
+E aqui eu deixo para vocês uma grande lição de casa, porque quando a gente pensa na DANF,
+
+13
+00:01:17.000 --> 00:01:25.439
+as ACT, as informações do PIS e COFINS, por exemplo, não estão ali visivelmente, vocês não vão estar vendo de forma visual.
+
+14
+00:01:27.079 --> 00:01:35.319
+Porém, o XML, que é o documento jurídico para comportar aquela determinada operação do seu cliente,
+
+15
+00:01:35.319 --> 00:01:38.280
+é uma obrigação acessória válida.
+
+16
+00:01:39.359 --> 00:01:46.000
+Então, quando falamos sobre o controle e rastreabilidade de informação, não falamos apenas do ESPED,
+
+17
+00:01:46.000 --> 00:01:49.719
+seja fiscal, UFD Contribuições e CEF.
+
+18
+00:01:49.719 --> 00:01:55.120
+Nós estamos falando de olharmos também para o XML do nosso contribuinte.
+
+19
+00:01:55.120 --> 00:02:00.920
+Se estamos colocando uma CST correta, uma fundamentação legal correta, uma base de
+
+20
+00:02:00.920 --> 00:02:04.519
+cálculo correta e alíquota correspondente.
+
+21
+00:02:04.519 --> 00:02:08.500
+Não adianta a gente lançar no UFD Contribuições uma CST correta.
+
+22
+00:02:08.500 --> 00:02:14.800
+Lá no bloco M, nós separarmos a base sobre os benefícios do nosso contribuinte.
+
+23
+00:02:14.800 --> 00:02:21.340
+Se nós não tivermos, então, uma rastrabilidade de informação.
+
+24
+00:02:21.340 --> 00:02:25.620
+A rastrabilidade de informação hoje acontece de forma muito rápida.
+
+25
+00:02:25.620 --> 00:02:31.740
+E a pergunta que eu deixo para vocês é, será que o seu contribuinte está emitindo
+
+26
+00:02:31.740 --> 00:02:37.099
+corretamente a CST de PIS e COFINS de IPI dentro do XML?
+
+27
+00:02:37.099 --> 00:02:50.139
+XML esse que pode ser a nota fiscal eletrônica, um CTE. Existem diversos documentos fiscais eletrônicos no nosso sistema tributário atual.
+
+28
+00:02:50.139 --> 00:02:56.280
+Temos mais de 100 tipos de documentos, inclusive os de serviço.
+
+29
+00:02:56.280 --> 00:02:59.719
+E às vezes nós ficamos fadados nas nossas rotinas
+
+30
+00:02:59.719 --> 00:03:05.759
+a olhar apenas aquilo que está incidindo de fato a operação do documento, como por exemplo
+
+31
+00:03:05.759 --> 00:03:09.039
+ICMS, como por exemplo ISS.
+
+32
+00:03:09.039 --> 00:03:11.319
+E não.
+
+33
+00:03:11.319 --> 00:03:18.120
+Existem então tributos que incidem e que possuem benefícios fiscais dentro dessa operação
+
+34
+00:03:18.120 --> 00:03:30.000
+e que talvez não esteja ligado visualmente a sua operação. Então retome a prática de emissão do documento fiscal do seu contribuinte.
+
+35
+00:03:30.000 --> 00:03:34.379
+E geralmente quando a gente pensa na contabilidade,
+
+36
+00:03:34.379 --> 00:03:40.180
+pouco se faz a contabilidade quando a gente fala sobre escritório contábil,
+
+37
+00:03:40.180 --> 00:03:51.240
+a ideia de que o faturamento, a emissão do documento, seja também um braço muito forte para as nossas obrigações acessórias.
+
+38
+00:03:51.240 --> 00:03:59.080
+Geralmente o escritório contábil não está à frente dessa emissão, só que eu faço a recomendação de vocês estarem.
+
+39
+00:03:59.080 --> 00:04:25.879
+E pode surgir até mesmo uma oportunidade para vocês, como uma prestação de serviço para esse contribuinte. CEFIS Se a gente tem um gap, um erro dentro das emissões do documento fiscal hoje do nosso cliente,
+
+40
+00:04:25.879 --> 00:04:32.720
+pensando no nosso sistema tributário atual, isso quer dizer que poderá haver muita dificuldade na
+
+41
+00:04:32.720 --> 00:04:41.899
+emissão do documento via IBS, CBS e IIS. Então, a hora de fazer com que o nosso contribuinte emita
+
+42
+00:04:41.899 --> 00:04:46.439
+o documento fiscal correto, que faça um parâmetro correto, é agora.
+
+43
+00:04:46.439 --> 00:04:50.339
+E não apenas na entrega do FD Contribuições.
+
+44
+00:04:50.339 --> 00:04:53.040
+Até porque o XML é um espelho, deveria ser, né?
+
+45
+00:04:53.040 --> 00:04:58.180
+O XML deveria ser um espelho daquela escrituração fiscal.
+
+46
+00:04:58.180 --> 00:05:29.000
+Então, cuidado com esse parâmetro, já pensando até mesmo no novo sistema tributário. CEFIS A ECF tem como principal objetivo trazer então a apuração do IRPJ do CCLL.
+
+47
+00:05:29.000 --> 00:05:37.000
+E eu não sei se vocês repararam, a gente também já teve atualizações sobre uma reforma tributária
+
+48
+00:05:37.000 --> 00:05:48.800
+de rendimentos. Tivemos então impacto lá na ECF. Então o Fisco criou essa nova estrutura e trouxe então essa rastreadibilidade de
+
+49
+00:05:48.800 --> 00:05:51.560
+informação na DIRP para então cruzar as informações.
+
+50
+00:05:51.560 --> 00:05:59.040
+E eu digo para vocês, o ESPED Fiscal também, porque o IPI está lá.
+
+51
+00:05:59.040 --> 00:06:01.759
+Então atenção, não só ESPED Fiscal, né?
+
+52
+00:06:01.759 --> 00:06:06.040
+Se a gente passa, por exemplo, por uma contribuição previdenciária,
+
+53
+00:06:06.040 --> 00:06:10.379
+a desoneração da folha de pagamento está dentro do FD Reinfe.
+
+54
+00:06:11.519 --> 00:06:15.240
+Ou seja, nós estamos passando por uma constelação de obrigações
+
+55
+00:06:15.240 --> 00:06:20.420
+acessórias chamada ESPED e não apenas padados a dois tipos de obrigações.
+
+56
+00:06:21.120 --> 00:06:24.720
+Pode ser que o benefício fiscal do seu contribuinte esteja atrelado
+
+57
+00:06:24.720 --> 00:06:29.420
+a outras obrigações acessrelado a outras ferramentas que o fisco
+
+58
+00:06:29.420 --> 00:06:35.160
+criou para trazer a rastreadibilidade de informação.
+
+59
+00:06:35.160 --> 00:06:37.379
+Principais benefícios fiscais incluídos.
+
+60
+00:06:37.379 --> 00:07:47.079
+Eu separei alguns aqui porque acredito que faça muito sentido e quando falamos sobre CEFIS O Fisco incluiu dentro da DIRB porque existe um incentivo dentro da operação.
+
+61
+00:07:47.079 --> 00:07:56.319
+O impacto aqui gera-se uma energia elétrica e obviamente existe um incentivo e isso o
+
+62
+00:07:56.319 --> 00:08:02.000
+Fisco quer saber a quantidade de valor que está deixando de ser arrecadado.
+
+63
+00:08:02.000 --> 00:08:08.699
+Transporte público também entrou no contexto da DIRB serviços de transporte coletivo municipal
+
+64
+00:08:08.699 --> 00:08:14.740
+de passageiro com alíquota zero promovendo então mobilidade urbana esse segmento ele é
+
+65
+00:08:14.740 --> 00:08:21.779
+super específico e possui benefícios fiscais entrelado alíquota zero ou seja o fisco também
+
+66
+00:08:21.779 --> 00:08:29.000
+dentro dos impactos da estrutura e das principais benefícios incluídos na DIRB, incluiu o transporte público.
+
+67
+00:08:29.000 --> 00:09:05.740
+Exportação também, olha lá, crédito presumido para carne suína destinados ao mercado internacional fortalecendo as exportações, mais um crédito presumido ligado às informações da DIRB. CREDITOS PRESUMIDOS Estes presumidos aqui, não sei se vocês perceberam, foi a grande partilha e armadilha, então,
+
+68
+00:09:05.740 --> 00:09:08.240
+que o Fisco trouxe dentro da DIRB,
+
+69
+00:09:08.240 --> 00:09:12.480
+das informações que precisamos levantar para esse preenchimento.

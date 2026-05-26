@@ -1,0 +1,33 @@
+{
+  "id": 463363,
+  "title": "Deveres dos trabalhadores grevistas",
+  "position": 16,
+  "duration": 445,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9a23775f-9d1f-44f1-bf56-f7a4f7e174cb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a23775f-9d1f-44f1-bf56-f7a4f7e174cb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a23775f-9d1f-44f1-bf56-f7a4f7e174cb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a23775f-9d1f-44f1-bf56-f7a4f7e174cb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a23775f-9d1f-44f1-bf56-f7a4f7e174cb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

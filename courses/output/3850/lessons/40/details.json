@@ -1,0 +1,33 @@
+{
+  "id": 478409,
+  "title": "Registros - 2020 - 2030 - 2040",
+  "position": 40,
+  "duration": 409,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b36c9ef5-cc50-4670-9506-4104d21324ba/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b36c9ef5-cc50-4670-9506-4104d21324ba/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b36c9ef5-cc50-4670-9506-4104d21324ba/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b36c9ef5-cc50-4670-9506-4104d21324ba/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b36c9ef5-cc50-4670-9506-4104d21324ba/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

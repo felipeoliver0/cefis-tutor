@@ -1,0 +1,193 @@
+WEBVTT
+
+1
+00:00:00.310 --> 00:00:03.119
+E aí a gente tem alguns macetes que tipo de macete
+
+2
+00:00:03.130 --> 00:00:05.659
+pessoal que a gente pode criar e pode adaptar ali dentro,
+
+3
+00:00:07.050 --> 00:00:08.560
+principal coisa
+
+4
+00:00:09.819 --> 00:00:12.369
+aprender o tal do Excel!
+
+5
+00:00:14.949 --> 00:00:17.579
+Processo de conciliação A gente usa muito isso aqui,
+
+6
+00:00:18.590 --> 00:00:22.579
+muito, muito, muito muito! E aonde eu vou conseguir fazer um soma. Assim pra quem ver
+
+7
+00:00:23.219 --> 00:00:26.969
+eu vou lá dentro do histórico contábil, conseguir extrair um
+
+8
+00:00:27.590 --> 00:00:30.979
+o número do documento, conseguir extrair o código do cliente,
+
+9
+00:00:30.989 --> 00:00:35.540
+o código do fornecedor pra que eu possa vai lá e confrontar com um o relatório fiscal,
+
+10
+00:00:35.549 --> 00:00:36.209
+certo?
+
+11
+00:00:36.220 --> 00:00:40.040
+Então vou dar um exemplo pra vocês nesse nisso aqui, Pô, Thiago,
+
+12
+00:00:40.049 --> 00:00:43.880
+mas aí você vai falar pra mim que eu tenho que pegar todos os lançamentos de frete.
+
+13
+00:00:43.889 --> 00:00:48.599
+Excluir beleza pessoal coloca lá no histórico padronizado.
+
+14
+00:00:48.610 --> 00:00:51.259
+Toda vez que tiver uma importação de uma nota fiscal do C f,
+
+15
+00:00:51.270 --> 00:00:54.400
+o P de frete vai ter um pedaço dentro do histórico.
+
+16
+00:00:54.409 --> 00:00:55.419
+Você oh frete
+
+17
+00:00:56.860 --> 00:00:59.930
+aí que que cê vai fazer? Você vai pegar o total de débito nessas duas contas?
+
+18
+00:01:00.740 --> 00:01:03.189
+Acha onde tá escrito frete? Cê vai e soma.
+
+19
+00:01:03.200 --> 00:01:06.269
+Aí você já tem essa informação total do débito, já tá lá no balancete.
+
+20
+00:01:06.279 --> 00:01:09.669
+E aí cê tira um razão dessas duas contas vai
+
+21
+00:01:09.680 --> 00:01:12.949
+lá e filtra no histórico onde tem a palavra frete.
+
+22
+00:01:12.959 --> 00:01:15.569
+Opa aqui aqui, já cheguei nesse número,
+
+23
+00:01:16.370 --> 00:01:18.919
+volto e fecho lá com o total,
+
+24
+00:01:20.199 --> 00:01:24.269
+mas como que eu faço isso? Vou lá e faço um filtro simples no Excel.
+
+25
+00:01:25.220 --> 00:01:27.750
+Cara pensa se validar em questão de minutos?
+
+26
+00:01:27.760 --> 00:01:30.230
+Isso aqui dá pra validar que em questão de minutos,
+
+27
+00:01:30.239 --> 00:01:35.889
+que todos os documentos de compra estão registrados, aonde pessoal,
+
+28
+00:01:36.500 --> 00:01:38.750
+que estão no fiscal estão na contabilidade,
+
+29
+00:01:38.760 --> 00:01:42.800
+nas suas contas corretas nas contas em que deve ocorrer?
+
+30
+00:01:42.809 --> 00:01:45.510
+Thiago E eu sei que movimenta frete numa pancada de conta,
+
+31
+00:01:45.519 --> 00:01:48.569
+tem a conta de frete sobre venda, tem a conta de compras,
+
+32
+00:01:48.580 --> 00:01:51.949
+tem a conta de transferência beleza, pega a razão dessas contas.
+
+33
+00:01:51.959 --> 00:01:57.330
+Tudo coloco uma embaixo da outra, todas as contas aí cê vai lá no histórico contábil
+
+34
+00:01:57.989 --> 00:02:00.220
+procura a palavra frete
+
+35
+00:02:02.430 --> 00:02:05.839
+na hora que cê filtrou cê vai e faz uma soma só da onde tem frete.
+
+36
+00:02:05.849 --> 00:02:09.179
+Isso aqui vai ter que ser igual à soma
+
+37
+00:02:10.238 --> 00:02:11.468
+do C F o PS
+
+38
+00:02:12.479 --> 00:02:13.190
+de frete
+
+39
+00:02:15.119 --> 00:02:15.869
+pronto!
+
+40
+00:02:16.610 --> 00:02:20.500
+Já validei aqui oh! No que eu tô falando pra você já validei compras, já validei o quê?
+
+41
+00:02:20.509 --> 00:02:21.520
+Fretes
+
+42
+00:02:22.210 --> 00:02:24.639
+fechou, tá bom!
+
+43
+00:02:24.649 --> 00:02:28.779
+Vamos olhar uns exemplos ali de atividades que eu trouxe pra gente,
+
+44
+00:02:28.789 --> 00:02:31.820
+pra gente entender um pouquinho melhor e consolidar ainda
+
+45
+00:02:31.830 --> 00:02:34.559
+mais ve- visualmente isso aqui que eu tô falando.
+
+46
+00:02:34.570 --> 00:02:37.139
+Porque na hora que a gente rabisca tal fala assim, pô, Tiago,
+
+47
+00:02:37.149 --> 00:02:40.419
+você fica falando um negócio que parece ser fácil demais, mas não é bem assim.
+
+48
+00:02:40.429 --> 00:02:41.679
+Vamos dar uma olhada aqui no material.

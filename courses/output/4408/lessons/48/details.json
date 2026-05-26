@@ -1,0 +1,33 @@
+{
+  "id": 486214,
+  "title": "Serviços de informática",
+  "position": 48,
+  "duration": 55,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a5909744-b918-4084-9a6e-530ef951f0ba/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a5909744-b918-4084-9a6e-530ef951f0ba/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a5909744-b918-4084-9a6e-530ef951f0ba/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a5909744-b918-4084-9a6e-530ef951f0ba/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a5909744-b918-4084-9a6e-530ef951f0ba/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

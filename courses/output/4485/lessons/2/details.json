@@ -1,0 +1,33 @@
+{
+  "id": 487664,
+  "title": "Capítulo 1 do CPC",
+  "position": 2,
+  "duration": 654,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/8dbdc31e-b936-44ed-8274-9ef36eb9e41f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8dbdc31e-b936-44ed-8274-9ef36eb9e41f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8dbdc31e-b936-44ed-8274-9ef36eb9e41f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8dbdc31e-b936-44ed-8274-9ef36eb9e41f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8dbdc31e-b936-44ed-8274-9ef36eb9e41f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

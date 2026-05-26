@@ -1,0 +1,33 @@
+{
+  "id": 463798,
+  "title": "Comparecimento das partes - Parte 3",
+  "position": 21,
+  "duration": 302,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f6fc010c-9ed1-4244-83ff-20aaf2ff3f3a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f6fc010c-9ed1-4244-83ff-20aaf2ff3f3a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f6fc010c-9ed1-4244-83ff-20aaf2ff3f3a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f6fc010c-9ed1-4244-83ff-20aaf2ff3f3a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f6fc010c-9ed1-4244-83ff-20aaf2ff3f3a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

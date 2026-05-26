@@ -1,0 +1,557 @@
+WEBVTT
+
+1
+00:00:02.519 --> 00:00:06.909
+pessoal. Agora, a gente vai entrar no novo processo de importação, né?
+
+2
+00:00:06.920 --> 00:00:10.930
+O novo processo de importação, como eu comentei há pouco. Né?
+
+3
+00:00:10.939 --> 00:00:16.170
+Eh ele também faz parte, né? Desse novo programa do portal único, né?
+
+4
+00:00:16.180 --> 00:00:19.360
+E ele tem como base a Declaração Única de Importação.
+
+5
+00:00:19.370 --> 00:00:25.530
+Então, da mesma forma que a gente viu aqui, né? As informações relacionadas a doe.
+
+6
+00:00:25.540 --> 00:00:30.129
+Agora a gente vai ver informações relacionadas a do Inpe, né,
+
+7
+00:00:30.139 --> 00:00:34.970
+lembrando que a do Inpe, por ela não estar ainda implementada,
+
+8
+00:00:34.979 --> 00:00:37.610
+e eu vou falar um pouco agora eh do
+
+9
+00:00:37.619 --> 00:00:42.569
+último cronograma de implementação previsto pela Receita Federal,
+
+10
+00:00:42.580 --> 00:00:42.950
+né?
+
+11
+00:00:42.959 --> 00:00:48.849
+Ainda tem alguns campos cinzentos? Ainda existem algumas informações, né?
+
+12
+00:00:48.860 --> 00:00:51.889
+Que que estão pendentes de de maior esclarecimento.
+
+13
+00:00:51.900 --> 00:00:52.810
+Então, novamente,
+
+14
+00:00:52.819 --> 00:00:55.529
+aconselho vocês aí a buscarem informações
+
+15
+00:00:55.540 --> 00:00:58.130
+complementares a participarem dos webinário.
+
+16
+00:00:58.139 --> 00:01:00.990
+Porque eh essa aula de hoje, né?
+
+17
+00:01:01.000 --> 00:01:05.330
+De novo, sendo gravada aqui no mês de junho de dois mil e vinte e quatro, né?
+
+18
+00:01:05.339 --> 00:01:06.629
+Ela tá sendo
+
+19
+00:01:07.180 --> 00:01:11.510
+gravada Concomitantemente, né? Aos web n!
+
+20
+00:01:11.519 --> 00:01:14.510
+Eh disponibilizados pela Receita Federal e
+
+21
+00:01:14.519 --> 00:01:17.010
+por várias consultorias de comércio exterior,
+
+22
+00:01:17.019 --> 00:01:19.050
+Mas vamos falar sobre um novo processo de importação.
+
+23
+00:01:19.059 --> 00:01:24.510
+Então o novo processo, né? Ele? Tem como o objetivo, né? A migração pra do Inpe, né?
+
+24
+00:01:24.519 --> 00:01:26.440
+No Portal Único de Comércio Exterior,
+
+25
+00:01:26.449 --> 00:01:30.319
+a mudança ela traz essa evolução em relação ao sistema
+
+26
+00:01:30.330 --> 00:01:34.084
+antigo de onde existia ali a a l L I,
+
+27
+00:01:34.095 --> 00:01:34.464
+né?
+
+28
+00:01:34.474 --> 00:01:37.845
+A licença de importação e a declaração de importação.
+
+29
+00:01:37.855 --> 00:01:41.504
+E também a chamada declaração simplificada de importação, né?
+
+30
+00:01:41.514 --> 00:01:45.824
+Eh que será aí desligado após a implementação do cronograma.
+
+31
+00:01:45.834 --> 00:01:47.324
+A gente vai ver daqui a pouco, né?
+
+32
+00:01:47.334 --> 00:01:50.904
+O Portal Único de Comércio Exterior ele visa simplificar e
+
+33
+00:01:50.915 --> 00:01:54.764
+tornar mais eficientes os processos de comer exterior resultando,
+
+34
+00:01:54.775 --> 00:02:00.264
+como a gente disse lá, traz na redução de prazo e pessoal que que a gente sabe.
+
+35
+00:02:00.275 --> 00:02:00.285
+Eh
+
+36
+00:02:01.239 --> 00:02:04.769
+o quando a gente pensa no comércio exterior brasileiro, né.
+
+37
+00:02:04.779 --> 00:02:07.529
+Isso acontece em muitos países, né?
+
+38
+00:02:07.540 --> 00:02:13.490
+A gente sabe que em, principalmente em países que têm uma política, né comercial,
+
+39
+00:02:13.500 --> 00:02:14.690
+tributária.
+
+40
+00:02:14.699 --> 00:02:18.570
+Um pouco mais protecionista, como é o caso do Brasil, né?
+
+41
+00:02:18.580 --> 00:02:24.192
+Eh por vezes, quando a gente olha pra infra exportação o que que a gente observa,
+
+42
+00:02:24.203 --> 00:02:31.623
+A gente observa uma exportação mais facilitada e uma importação mais complexa,
+
+43
+00:02:31.632 --> 00:02:41.542
+Uma importação por vezes hiper tributada, com duplicidade de processos, né?
+
+44
+00:02:41.626 --> 00:02:46.195
+Que é exatamente hoje o cenário que a gente observa no Brasil, né?
+
+45
+00:02:46.205 --> 00:02:51.755
+Então eh basicamente quando a gente busca, né? A implementação do Portal Único.
+
+46
+00:02:51.766 --> 00:02:57.535
+É claro que o ganho pra pras exportações também é altíssimo, né?
+
+47
+00:02:57.546 --> 00:03:01.735
+EH E gera competitividade, né? E gera eh
+
+48
+00:03:02.070 --> 00:03:06.360
+uma maior eficiência das empresas brasileiras e dos seus produtos no exterior.
+
+49
+00:03:06.369 --> 00:03:06.800
+Mas,
+
+50
+00:03:06.809 --> 00:03:10.679
+principalmente quando a gente fala sobre a implementação da
+
+51
+00:03:10.690 --> 00:03:13.440
+do Inpe e o novo processo de importação,
+
+52
+00:03:13.449 --> 00:03:17.619
+aí sim, a gente tá falando na relevância, né?
+
+53
+00:03:17.630 --> 00:03:22.854
+EH em prazos e custos menores para o setor privado,
+
+54
+00:03:22.865 --> 00:03:25.514
+então a migração ela será feita em fases.
+
+55
+00:03:25.524 --> 00:03:26.595
+Então, nesse momento, né?
+
+56
+00:03:26.604 --> 00:03:30.514
+Começando através das operações e importações, marítimas, né?
+
+57
+00:03:30.524 --> 00:03:35.755
+Do moral do do modal marítimo eh exclusivamente para consumo,
+
+58
+00:03:35.764 --> 00:03:38.615
+e regimes aduaneiros especiais,
+
+59
+00:03:38.910 --> 00:03:41.080
+não sujeitos a licenciamento.
+
+60
+00:03:41.089 --> 00:03:41.559
+Então,
+
+61
+00:03:41.570 --> 00:03:45.679
+a gente sabe que existem alguns regimes aduaneiros que precisam de licenciamento,
+
+62
+00:03:45.690 --> 00:03:46.880
+né?
+
+63
+00:03:46.889 --> 00:03:50.380
+EH, sim, Admissão temporária, né?
+
+64
+00:03:50.389 --> 00:03:50.880
+Enfim,
+
+65
+00:03:50.889 --> 00:03:56.399
+a gente precisa entender quais os regimes aduaneiros especiais que estariam.
+
+66
+00:03:56.410 --> 00:03:57.380
+Vamos dizer
+
+67
+00:03:57.970 --> 00:04:03.899
+neste primeiro momento, eh amparado nessa. Nessa fase de imigração, né?
+
+68
+00:04:03.910 --> 00:04:07.139
+A segunda fase, né? As próximas fases elas incluirão. Incluirão.
+
+69
+00:04:07.149 --> 00:04:09.960
+Portanto, importações.
+
+70
+00:04:09.970 --> 00:04:16.858
+EH via modal aéreo, né, Operações sujei sujeitas a controles administrativos, né?
+
+71
+00:04:16.869 --> 00:04:21.238
+Então, aquelas importações que tem no tratamento administrativo, né
+
+72
+00:04:21.600 --> 00:04:27.410
+terrestres. E operações através da zona Franca de Manaus, né?
+
+73
+00:04:27.420 --> 00:04:30.809
+Eh o desligamento completo do si do sistema?
+
+74
+00:04:30.820 --> 00:04:35.049
+Está previsto pra ser concluído até o final de dois mil e vinte e cinco.
+
+75
+00:04:35.059 --> 00:04:36.769
+Então, pela primeira vez, né?
+
+76
+00:04:36.779 --> 00:04:40.630
+E esse é um dado absolutamente atualizado essa é uma informação que eu trago.
+
+77
+00:04:40.640 --> 00:04:44.790
+Eh de uma publicação de uma notícia, né?
+
+78
+00:04:45.209 --> 00:04:50.260
+EH eh, publicada pela Receita Federal, eh em junho de dois mil e vinte e quatro,
+
+79
+00:04:50.269 --> 00:04:55.089
+então, a previsão é que, de fato, o sex dele ali seja encerrado.
+
+80
+00:04:55.100 --> 00:05:01.179
+Totalmente desligado, né? A partir eh de outubro de dois mil e vinte e cinco, né?
+
+81
+00:05:01.190 --> 00:05:04.890
+Então a gente tem e apesar desse fase, essa é a expectativa.
+
+82
+00:05:04.899 --> 00:05:10.779
+Então, com o cronograma, a primeira fase das operações eh de importação marítima,
+
+83
+00:05:10.790 --> 00:05:15.170
+como eu disse, para consumo e regimes especiais não feitos a licenciamento,
+
+84
+00:05:15.179 --> 00:05:18.309
+incluindo, incluindo ali, trânsito aduaneiro,
+
+85
+00:05:18.320 --> 00:05:21.149
+liberação de mercadorias em em zonas, secundárias, né?
+
+86
+00:05:21.160 --> 00:05:26.029
+Que é basicamente que que são basicamente os regimes aduaneiros especiais,
+
+87
+00:05:26.040 --> 00:05:27.269
+menos complexos, né?
+
+88
+00:05:27.279 --> 00:05:32.269
+São os regimes aduaneiros especiais. Eh, ali, vamos dizer, de função logística.
+
+89
+00:05:32.279 --> 00:05:33.250
+Aliás,
+
+90
+00:05:33.260 --> 00:05:38.519
+convido você aluno a buscar aí a nossa aula sobre regimes aduaneiros especiais.
+
+91
+00:05:38.529 --> 00:05:42.369
+A gente tem uma aula sobre regimes aduaneiros especiais. Eh
+
+92
+00:05:42.709 --> 00:05:46.799
+exclusiva e dedicada aos regimes de função logística.
+
+93
+00:05:46.809 --> 00:05:50.440
+A gente tem um uma aula sobre regimes aduaneiros especiais,
+
+94
+00:05:50.450 --> 00:05:52.179
+de estímulo à exportação.
+
+95
+00:05:52.190 --> 00:05:53.579
+Procura, aí a gente tem.
+
+96
+00:05:53.589 --> 00:06:00.720
+Acho que já mais de quinze cursos só eh com temas, caso a comércio exterior.
+
+97
+00:06:00.730 --> 00:06:04.920
+Não esquece sempre de dar cinco estrelinhas e mandar pergunta que
+
+98
+00:06:04.929 --> 00:06:09.850
+a gente responde então voltando primeiro semestre de vinte e cinco?
+
+99
+00:06:09.859 --> 00:06:13.329
+Inclusão das importações via modal aéreo, né?
+
+100
+00:06:13.339 --> 00:06:14.929
+Então essa primeira etapa,
+
+101
+00:06:14.940 --> 00:06:18.250
+a ideia é que eu a passe a acontecer toda a
+
+102
+00:06:18.260 --> 00:06:21.570
+partir do segundo semestre de dois mil e vinte e quatro,
+
+103
+00:06:21.579 --> 00:06:22.089
+né?
+
+104
+00:06:22.100 --> 00:06:24.329
+E já no primeiro semestre de dois mil e vinte e cinco,
+
+105
+00:06:24.339 --> 00:06:27.049
+a inclusão das importações via modal aéreo
+
+106
+00:06:27.059 --> 00:06:30.809
+e operações suje sujeitas a controle administrativo,
+
+107
+00:06:30.820 --> 00:06:35.709
+como importação que queiram licenciamento, importação além, né?
+
+108
+00:06:36.089 --> 00:06:37.540
+Eh de compras, ampa,
+
+109
+00:06:37.549 --> 00:06:41.489
+eh externas amparadas pelos regimes de hidro e suspensão e isenção, né?
+
+110
+00:06:41.500 --> 00:06:45.179
+Então eh nessa, no primeiro semestre de dois mil e vinte,
+
+111
+00:06:45.190 --> 00:06:47.700
+de dois mil e vinte e cinco é Quando realmente eh,
+
+112
+00:06:47.709 --> 00:06:53.380
+as operações com pouco ou com maior grau de complexidade começam, né?
+
+113
+00:06:53.390 --> 00:06:57.744
+Obrigatoriamente a ter que utilizar também a do Inpe.
+
+114
+00:06:57.755 --> 00:07:00.184
+Quando a gente fala do segundo semestre de dois mil e
+
+115
+00:07:00.195 --> 00:07:04.065
+vinte e cinco Essa expansão da migração pra importação terrestre,
+
+116
+00:07:04.075 --> 00:07:04.545
+né?
+
+117
+00:07:04.554 --> 00:07:07.304
+Que é aquela importação que, em tese, é mais rápida, né?
+
+118
+00:07:07.315 --> 00:07:11.404
+Vi vindo aí através do modal rodoviário, né?
+
+119
+00:07:11.415 --> 00:07:14.065
+EH e também realizadas na Zona Franca de
+
+120
+00:07:14.075 --> 00:07:17.885
+Manaus e o cronograma de desligamento é a apresentação
+
+121
+00:07:18.200 --> 00:07:23.410
+ao setor privado em eventos virtuais entre maio e julho de dois mil e vinte e cinco,
+
+122
+00:07:23.420 --> 00:07:26.970
+com estimativa de conclusão de desligamento completo até o
+
+123
+00:07:26.980 --> 00:07:28.390
+final de dois mil e vinte e cinco?
+
+124
+00:07:28.399 --> 00:07:33.190
+É lembrando que todo esse essa etapa de o cronograma eh ele já foi.
+
+125
+00:07:33.200 --> 00:07:34.795
+Inclusive, tinha visitado algumas vezes.
+
+126
+00:07:34.804 --> 00:07:39.595
+Então, isso é é a informação que citei hoje, né, em junho de dois mil e vinte e quatro,
+
+127
+00:07:39.605 --> 00:07:42.095
+mas enfim, pode alterar, né?
+
+128
+00:07:42.105 --> 00:07:46.934
+Eh o cronograma. Ele já foi postergado em função inclusive da própria covid, né?
+
+129
+00:07:46.945 --> 00:07:48.894
+Mas sempre tem sido eh
+
+130
+00:07:49.250 --> 00:07:50.500
+a equipe, né?
+
+131
+00:07:50.510 --> 00:07:52.299
+Do Portal Único de Comércio Exterior,
+
+132
+00:07:52.309 --> 00:07:55.339
+da Receita Federal e dos dos Ministérios envolvidos eles
+
+133
+00:07:55.350 --> 00:08:00.160
+sempre fazem questão de trazer uma informação muito clara,
+
+134
+00:08:00.170 --> 00:08:03.660
+né, muito direta, né, À iniciativa privada?
+
+135
+00:08:03.670 --> 00:08:06.959
+Então tenho certeza que eh esse cronograma
+
+136
+00:08:06.970 --> 00:08:10.600
+de desligamento será eh feito dessa forma,
+
+137
+00:08:10.609 --> 00:08:10.760
+né?
+
+138
+00:08:10.769 --> 00:08:16.239
+Com a EH, como vem sendo? Eh conduzido o programa do Portal único, né?
+
+139
+00:08:16.250 --> 00:08:19.459
+EH, desde o início com esse caráter. Colaborativo, né?

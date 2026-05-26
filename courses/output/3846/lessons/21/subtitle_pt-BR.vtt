@@ -1,0 +1,761 @@
+WEBVTT
+
+1
+00:00:02.240 --> 00:00:02.599
+Pois bem,
+
+2
+00:00:02.720 --> 00:00:04.070
+temos aí estruturação
+
+3
+00:00:04.280 --> 00:00:07.440
+em situações especiais e prazo de entrega.
+
+4
+00:00:07.929 --> 00:00:09.590
+Então muito importante a gente ter
+
+5
+00:00:09.840 --> 00:00:11.159
+essas é essa visão,
+
+6
+00:00:11.279 --> 00:00:11.479
+né?
+
+7
+00:00:12.000 --> 00:00:14.479
+Então que são situações especiais
+
+8
+00:00:14.640 --> 00:00:15.760
+Situação decisão,
+
+9
+00:00:15.960 --> 00:00:16.280
+fusão,
+
+10
+00:00:16.399 --> 00:00:17.040
+incorporação,
+
+11
+00:00:17.100 --> 00:00:18.860
+como nós comentamos Então a
+
+12
+00:00:19.360 --> 00:00:20.600
+para essas situações,
+
+13
+00:00:20.760 --> 00:00:20.840
+né?
+
+14
+00:00:20.920 --> 00:00:21.909
+São gerado
+
+15
+00:00:22.090 --> 00:00:23.340
+dois escriturações.
+
+16
+00:00:23.899 --> 00:00:24.940
+Então nós vamos ter.
+
+17
+00:00:25.549 --> 00:00:29.069
+Suração primeira do início do ano calendário se a empresa,
+
+18
+00:00:29.389 --> 00:00:29.770
+né?
+
+19
+00:00:29.790 --> 00:00:31.309
+Começou o ano ou posterior,
+
+20
+00:00:31.430 --> 00:00:32.630
+se ela vai ser durante o ano,
+
+21
+00:00:32.990 --> 00:00:33.189
+né?
+
+22
+00:00:33.380 --> 00:00:35.430
+Até a data da situação especial.
+
+23
+00:00:35.810 --> 00:00:37.830
+Então Essa é a primeira que nós vamos entregar.
+
+24
+00:00:38.549 --> 00:00:40.939
+Depois nós vamos ter uma segunda.
+
+25
+00:00:41.669 --> 00:00:43.590
+que será no caso da cisão,
+
+26
+00:00:44.069 --> 00:00:44.340
+né?
+
+27
+00:00:44.349 --> 00:00:46.439
+De ainda né ne- nessa primeira,
+
+28
+00:00:46.509 --> 00:00:46.630
+né?
+
+29
+00:00:46.669 --> 00:00:47.750
+No caso da cisão
+
+30
+00:00:48.029 --> 00:00:51.459
+será informado o código cisão no campo indicador
+
+31
+00:00:51.750 --> 00:00:53.990
+de situação especial lá do registro 0.
+
+32
+00:00:54.029 --> 00:00:55.349
+Nós vamos mostrar o registros,
+
+33
+00:00:55.590 --> 00:00:56.180
+o registro
+
+34
+00:00:56.450 --> 00:00:58.709
+já já quando entrar nos blocos aí da ECD,
+
+35
+00:00:58.790 --> 00:00:59.099
+né?
+
+36
+00:00:59.669 --> 00:01:03.740
+No caso de incorporação será informado o código três incorporação
+
+37
+00:01:04.269 --> 00:01:06.470
+e no campo indicador de situação especial.
+
+38
+00:01:06.480 --> 00:01:07.510
+Registro 0,
+
+39
+00:01:07.910 --> 00:01:08.059
+né?
+
+40
+00:01:08.069 --> 00:01:09.029
+Lá no registro 0.
+
+41
+00:01:09.879 --> 00:01:14.989
+O indicador situação do início do período zero será preenchido com zero de normal,
+
+42
+00:01:15.279 --> 00:01:15.489
+né?
+
+43
+00:01:15.680 --> 00:01:17.669
+Então são alguns detalhes que nós temos que ter
+
+44
+00:01:18.160 --> 00:01:19.519
+a segunda escrituração.
+
+45
+00:01:19.599 --> 00:01:23.800
+Nós vamos entregar da data da situação especial até o final do ano calendário.
+
+46
+00:01:24.300 --> 00:01:25.879
+Então é aquilo que nós comendamos,
+
+47
+00:01:25.959 --> 00:01:26.199
+né?
+
+48
+00:01:27.190 --> 00:01:27.199
+É,
+
+49
+00:01:27.639 --> 00:01:29.330
+Não é dezembro do ano calendar.
+
+50
+00:01:30.080 --> 00:01:30.879
+Nesse arquivo,
+
+51
+00:01:30.919 --> 00:01:33.209
+não há situação especial a serem informada.
+
+52
+00:01:33.809 --> 00:01:36.930
+e o campo indicador de situação especial não será preenchido.
+
+53
+00:01:37.010 --> 00:01:38.430
+Vamos deixá-lo em branco
+
+54
+00:01:38.809 --> 00:01:40.839
+e é importante esses dados lá da
+
+55
+00:01:40.970 --> 00:01:41.919
+do registro 0.
+
+56
+00:01:42.680 --> 00:01:43.440
+Por outro lado,
+
+57
+00:01:43.559 --> 00:01:47.910
+o campo indicador de situação no início do período será preenchido com o código dois
+
+58
+00:01:48.440 --> 00:01:49.800
+resultante Visão,
+
+59
+00:01:49.919 --> 00:01:51.010
+fusal ou remanescente.
+
+60
+00:01:51.080 --> 00:01:51.470
+Tá
+
+61
+00:01:51.800 --> 00:01:51.919
+Então.
+
+62
+00:01:52.040 --> 00:01:54.080
+São coisas importantes que nós temos que,
+
+63
+00:01:54.559 --> 00:01:54.919
+né?
+
+64
+00:01:55.839 --> 00:01:58.489
+ainda cisão ou realizado ou realizou a incorporação.
+
+65
+00:01:59.300 --> 00:02:02.099
+Vamos dar um exemplo aí para a gente firmar o os conceitos,
+
+66
+00:02:02.180 --> 00:02:02.430
+né?
+
+67
+00:02:03.419 --> 00:02:07.410
+Uma empresa iniciou a atividade em 15/03/24
+
+68
+00:02:07.739 --> 00:02:10.929
+e ocorreu uma situação especial de cisão em 28/06
+
+69
+00:02:11.330 --> 00:02:12.179
+três meses após,
+
+70
+00:02:12.300 --> 00:02:12.529
+né?
+
+71
+00:02:13.179 --> 00:02:15.139
+A empresa prosseguiu as atividades,
+
+72
+00:02:15.300 --> 00:02:16.860
+então foi uma cisão parcial,
+
+73
+00:02:17.020 --> 00:02:18.229
+dividiu a empresa em 2.
+
+74
+00:02:19.470 --> 00:02:22.779
+Nesse caso dois escriturações nós vamos ter que entregar.
+
+75
+00:02:23.039 --> 00:02:26.300
+Nós vamos entregar uma de 15/03,
+
+76
+00:02:26.389 --> 00:02:29.500
+quando a empresa nasceu até 28 do seis foi a data
+
+77
+00:02:29.750 --> 00:02:31.729
+da da situação especial
+
+78
+00:02:32.309 --> 00:02:36.589
+data limite para a entrega será o último dia do mês de julho,
+
+79
+00:02:37.149 --> 00:02:37.820
+ou seja,
+
+80
+00:02:38.229 --> 00:02:39.550
+30 dias após,
+
+81
+00:02:39.669 --> 00:02:39.919
+né?
+
+82
+00:02:40.820 --> 00:02:42.789
+O a data do evento perfeito.
+
+83
+00:02:43.649 --> 00:02:46.490
+O campo indicador de situação especial no registro
+
+84
+00:02:47.130 --> 00:02:49.639
+será preenchido com código um São
+
+85
+00:02:50.179 --> 00:02:52.529
+e o campo indicador da situação do início do
+
+86
+00:02:52.529 --> 00:02:55.809
+período será preenchido com o código um abertura.
+
+87
+00:02:56.169 --> 00:02:58.130
+Então nós temos que ter atenção desses
+
+88
+00:02:58.130 --> 00:03:01.300
+detalhes pra quem tiver essas situações especiais.
+
+89
+00:03:02.020 --> 00:03:02.410
+né?
+
+90
+00:03:03.259 --> 00:03:05.820
+Aí nós vamos ter a escrituração 2
+
+91
+00:03:06.100 --> 00:03:10.009
+que vai do dia 29 do 6 um dia após o o acontecimento
+
+92
+00:03:10.339 --> 00:03:11.490
+até 31 do 12.
+
+93
+00:03:12.240 --> 00:03:17.910
+a data limite para a entrega será o último dia do mês de junho de 2020
+
+94
+00:03:18.399 --> 00:03:19.559
+porque é uma situação normal.
+
+95
+00:03:19.830 --> 00:03:21.149
+Eu vou entregar em data normal,
+
+96
+00:03:21.279 --> 00:03:22.350
+último dia de junho
+
+97
+00:03:22.559 --> 00:03:23.210
+perfeito foi deserto
+
+98
+00:03:24.559 --> 00:03:28.520
+E aí o campo indicador de situação especial do P Suzano não será preenchido.
+
+99
+00:03:28.559 --> 00:03:29.630
+Vamos deixá-lo em branco.
+
+100
+00:03:30.070 --> 00:03:32.619
+e o campo indicador situação
+
+101
+00:03:32.789 --> 00:03:36.910
+do início do período será preenchido com dois resultante decisão,
+
+102
+00:03:37.210 --> 00:03:37.860
+entendeu
+
+103
+00:03:38.070 --> 00:03:40.100
+Tudo isso nós temos lá no Dropdown,
+
+104
+00:03:40.149 --> 00:03:41.520
+clicando no Dropdown
+
+105
+00:03:41.789 --> 00:03:42.639
+lá do programa,
+
+106
+00:03:42.710 --> 00:03:47.149
+ele vai te dar as opções e nós só precisamos sabê-las quais nós vamos alimentá-las
+
+107
+00:03:47.830 --> 00:03:48.619
+OK gente.
+
+108
+00:03:49.669 --> 00:03:50.360
+Muito bem
+
+109
+00:03:50.509 --> 00:03:51.250
+observação.
+
+110
+00:03:51.589 --> 00:03:53.300
+A exceção para esses casos
+
+111
+00:03:53.429 --> 00:03:56.020
+é uma cisão parcial ou incorporação.
+
+112
+00:03:56.389 --> 00:03:57.589
+Quando é incorporadora,
+
+113
+00:03:58.509 --> 00:04:02.660
+ocorre se a data da situação especial ocorrer no último dia do ano,
+
+114
+00:04:03.270 --> 00:04:04.070
+que ninguém merece,
+
+115
+00:04:04.149 --> 00:04:04.380
+né?
+
+116
+00:04:04.580 --> 00:04:07.380
+31/12 o contador está fazendo situação especial
+
+117
+00:04:07.830 --> 00:04:08.860
+por equipe que pareça,
+
+118
+00:04:08.869 --> 00:04:10.539
+eu já peguei casos assim tá
+
+119
+00:04:10.669 --> 00:04:12.350
+Às vezes a diretoria fica na dúvida,
+
+120
+00:04:12.410 --> 00:04:13.470
+tal no último dia faz,
+
+121
+00:04:13.550 --> 00:04:13.740
+né?
+
+122
+00:04:14.149 --> 00:04:14.270
+Então.
+
+123
+00:04:14.389 --> 00:04:15.339
+Nesse caso,
+
+124
+00:04:15.669 --> 00:04:17.619
+será gerada apenas uma escrituração.
+
+125
+00:04:18.309 --> 00:04:18.988
+que vai ser.
+
+126
+00:04:19.470 --> 00:04:21.829
+A empresa iniciou a atividade em 15/03,
+
+127
+00:04:21.910 --> 00:04:22.429
+por exemplo,
+
+128
+00:04:22.790 --> 00:04:25.230
+e ocorreu o evento em 31 do 12.
+
+129
+00:04:26.489 --> 00:04:27.299
+e a empresa
+
+130
+00:04:27.450 --> 00:04:28.609
+tocou suas atividades,
+
+131
+00:04:28.690 --> 00:04:30.679
+conseguir então foi uma cisão parcial
+
+132
+00:04:31.070 --> 00:04:31.179
+Então.
+
+133
+00:04:31.290 --> 00:04:32.200
+Nesse caso,
+
+134
+00:04:32.589 --> 00:04:34.040
+nós vamos entregar o quê?
+
+135
+00:04:34.250 --> 00:04:36.239
+Uma escrituração deve ser entregue
+
+136
+00:04:36.529 --> 00:04:40.119
+de 15/03 a 31 de 12.
+
+137
+00:04:40.660 --> 00:04:43.940
+e a data limite será o último dia do mês de janeiro,
+
+138
+00:04:43.980 --> 00:04:44.299
+ou seja,
+
+139
+00:04:44.380 --> 00:04:46.250
+30 dias basicamente após
+
+140
+00:04:46.380 --> 00:04:47.420
+a data do evento,
+
+141
+00:04:47.700 --> 00:04:48.200
+entendendo
+
+142
+00:04:48.730 --> 00:04:50.040
+Então temos que ficar muito atento.
+
+143
+00:04:50.459 --> 00:04:51.540
+Como eu disse a vocês,
+
+144
+00:04:51.820 --> 00:04:55.859
+não é muito comum do escritório de contabilidade ter esses tipos de transações.
+
+145
+00:04:56.380 --> 00:04:59.619
+Normalmente isso ocorre em médias e grandes empresas,
+
+146
+00:05:00.019 --> 00:05:02.690
+que a contabilidade via de regra é interna.
+
+147
+00:05:03.230 --> 00:05:03.910
+Mas
+
+148
+00:05:04.739 --> 00:05:06.880
+temos vários escritórios extremamente competentes
+
+149
+00:05:06.880 --> 00:05:08.799
+que têm clientes de grande volume
+
+150
+00:05:09.070 --> 00:05:11.510
+e esses clientes podem ter essas situações especiais.
+
+151
+00:05:11.869 --> 00:05:13.390
+Por isso está a importância da gente,
+
+152
+00:05:13.670 --> 00:05:13.920
+né?
+
+153
+00:05:14.070 --> 00:05:15.290
+Ter esse conhecimento
+
+154
+00:05:15.730 --> 00:05:18.709
+O campo indicador de situação especial do registro zero
+
+155
+00:05:18.709 --> 00:05:21.100
+será preenchido com o código um que é cisão
+
+156
+00:05:21.470 --> 00:05:23.910
+e o campo indicador de situação de início do
+
+157
+00:05:23.910 --> 00:05:27.429
+período será preenchido com o código um abertura,
+
+158
+00:05:27.709 --> 00:05:28.000
+né?
+
+159
+00:05:31.000 --> 00:05:36.029
+Caso a situação especial ocasione a extinção da pessoa jurídica,
+
+160
+00:05:36.679 --> 00:05:41.359
+incorporação no caso de incorporada ou cisão total ou fusão,
+
+161
+00:05:42.119 --> 00:05:45.309
+só haverá escrituração no início do ano calendário.
+
+162
+00:05:46.019 --> 00:05:47.339
+ou data posterior,
+
+163
+00:05:47.459 --> 00:05:50.899
+caso o contribuinte tenha iniciado suas atividades no próprio
+
+164
+00:05:50.899 --> 00:05:53.380
+ano calendário até a data da situação especial.
+
+165
+00:05:54.019 --> 00:05:57.209
+Bacana gente tão importante a gente ter esses conhecimentos
+
+166
+00:05:57.399 --> 00:06:00.100
+que pode ocorrer mesmo com os escritórios
+
+167
+00:06:00.459 --> 00:06:01.769
+Vamos aí a um exemplo,
+
+168
+00:06:02.019 --> 00:06:03.140
+como que isso seria,
+
+169
+00:06:03.260 --> 00:06:03.540
+né?
+
+170
+00:06:04.100 --> 00:06:07.040
+Então Uma empresa iniciou a atividade 15/03.
+
+171
+00:06:07.809 --> 00:06:11.480
+de 2024 e ocorreu um evento de fusão
+
+172
+00:06:11.839 --> 00:06:13.290
+em 28/06
+
+173
+00:06:14.290 --> 00:06:14.660
+não é
+
+174
+00:06:15.529 --> 00:06:20.959
+Então uma escrituração deve ser entregue Eu vou entregar de 15/03 até 28 do 6
+
+175
+00:06:21.250 --> 00:06:25.130
+e a data para para entrega o último dia do mês de julho,
+
+176
+00:06:25.170 --> 00:06:25.570
+ou seja,
+
+177
+00:06:25.649 --> 00:06:26.880
+30 dias após.
+
+178
+00:06:27.720 --> 00:06:28.839
+Normalmente
+
+179
+00:06:29.519 --> 00:06:34.440
+na ECD sempre 30 dias na SCF 90 dias é três meses após,
+
+180
+00:06:34.519 --> 00:06:34.790
+né?
+
+181
+00:06:35.929 --> 00:06:38.890
+e o campo indicador de situação especial do registro
+
+182
+00:06:39.600 --> 00:06:41.429
+será preenchido com o código
+
+183
+00:06:41.720 --> 00:06:42.329
+2.
+
+184
+00:06:44.649 --> 00:06:44.809
+Então.
+
+185
+00:06:44.890 --> 00:06:47.079
+Esses são os nossos detalhes importantes,
+
+186
+00:06:47.170 --> 00:06:48.880
+situações especiais
+
+187
+00:06:49.230 --> 00:06:50.100
+que pode ocorrer,
+
+188
+00:06:50.209 --> 00:06:50.489
+né?
+
+189
+00:06:52.899 --> 00:06:55.029
+para fusar o campo indicador da situação no início
+
+190
+00:06:55.029 --> 00:06:57.959
+do período será preenchido com o Código um abertura.

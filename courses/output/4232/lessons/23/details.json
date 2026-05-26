@@ -1,0 +1,33 @@
+{
+  "id": 483530,
+  "title": "Multas do 13° salário",
+  "position": 23,
+  "duration": 97,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fe9eb6cb-654c-4ce3-a962-d15e84a35aa7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe9eb6cb-654c-4ce3-a962-d15e84a35aa7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe9eb6cb-654c-4ce3-a962-d15e84a35aa7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe9eb6cb-654c-4ce3-a962-d15e84a35aa7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe9eb6cb-654c-4ce3-a962-d15e84a35aa7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

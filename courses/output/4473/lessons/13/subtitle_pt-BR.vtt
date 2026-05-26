@@ -1,0 +1,453 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.000
+Meus amigos, chegamos à etapa de estudar os indicadores do cadastro do empregador.
+
+3
+00:00:07.000 --> 00:00:10.000
+Por que isso é importante falar de indicadores aqui?
+
+4
+00:00:10.000 --> 00:00:15.000
+É o que nos vai dar referência e base para o processamento da folha.
+
+5
+00:00:15.000 --> 00:00:21.000
+Então aqui a gente vai ter um mix de assuntos de parâmetro do cadastro do cliente, do empregador,
+
+6
+00:00:21.000 --> 00:00:29.000
+como também legislação, como é feito o preenchimento desses campos.
+
+7
+00:00:29.000 --> 00:00:35.000
+Então eu te convido a ficar até o final dessa rotina aqui e praticar.
+
+8
+00:00:35.000 --> 00:00:43.000
+Faz acesso à informação, depois busca no seu sistema e consulta a legislação para poder inserir os dados corretamente.
+
+9
+00:00:43.000 --> 00:00:49.000
+Pessoal, vamos começar falando dos indicadores do cadastro da empresa.
+
+10
+00:00:49.000 --> 00:00:54.000
+O que nos chama a atenção? Quais são os principais campos, indicadores trabalhistas?
+
+11
+00:00:54.000 --> 00:00:59.000
+Se você atua em uma empresa de contabilidade, o teu desafio é um pouco maior,
+
+12
+00:00:59.000 --> 00:01:03.000
+porque geralmente lá tem uma pessoa específica que cadastra um novo cliente.
+
+13
+00:01:03.000 --> 00:01:05.000
+Qual é o seu papel aqui?
+
+14
+00:01:05.000 --> 00:01:09.000
+Acessar o cadastro do novo cliente e identificar esses campos, se estão preenchidos corretamente ou não.
+
+15
+00:01:09.000 --> 00:01:12.000
+Afinal de contas, o conhecimento da área trabalhista é seu.
+
+16
+00:01:12.000 --> 00:01:17.000
+Portanto, pessoal, que não é preponderante, vai fazer todo sentido para a gente.
+
+17
+00:01:17.000 --> 00:01:26.000
+Eu vou explicar aqui essa dinâmica, como identificar a alíquota RAT, o FAP, o código FPAL de terceiros.
+
+18
+00:01:26.000 --> 00:01:29.000
+São as nossas referências para o cadastro do empregador.
+
+19
+00:01:29.000 --> 00:01:34.000
+Então, se você quer estudar agora esse tema, abra o cadastro da empresa aí no seu software
+
+20
+00:01:34.000 --> 00:01:41.000
+e vamos analisar os principais campos, porque é isso que vai fazer a referência para o fechamento da folha.
+
+21
+00:01:41.000 --> 00:01:47.000
+Eu começo, pessoal, lembrando para vocês que nós temos as instruções normativas como referência.
+
+22
+00:01:47.000 --> 00:01:52.000
+E essa 2110 traz para a gente uma informação muito importante.
+
+23
+00:01:52.000 --> 00:01:58.000
+Ela dispõe sobre normas gerais de tributação previdenciária e de arrecadação das contribuições sociais.
+
+24
+00:01:59.000 --> 00:02:06.000
+Então, a gente vai ver aqui, dentro dessa instrução normativa da Receita, informações importantes,
+
+25
+00:02:06.000 --> 00:02:11.000
+artigos que vão nos remeter a situações que eu posso inserir no cadastro do empregador.
+
+26
+00:02:11.000 --> 00:02:20.000
+E aqui, pessoal, eu começo falando do CNAE preponderante, que está nesta instrução normativa, lá no artigo 43.
+
+27
+00:02:20.000 --> 00:02:22.000
+O que ele vem dizendo no item 1?
+
+28
+00:02:22.000 --> 00:02:28.000
+O enquadramento da atividade nos correspondentes graus de risco é de responsabilidade da empresa,
+
+29
+00:02:28.000 --> 00:02:30.000
+ou seja, de quem vai fazer a folha.
+
+30
+00:02:30.000 --> 00:02:36.000
+E deve ser feito mensalmente, você vai fazer o cadastro da empresa e não vai esquecer dele.
+
+31
+00:02:36.000 --> 00:02:42.000
+Você todo mês tem que olhar ali para identificar se a preponderância do CNAE está correta ou não, ok?
+
+32
+00:02:42.000 --> 00:02:46.000
+Por isso que eu falo que o desafio é um pouco maior para a área de departamento pessoal.
+
+33
+00:02:46.000 --> 00:02:51.000
+Quando a gente cadastra um cliente novo, a gente não segue a mesma referência que uma área contábil,
+
+34
+00:02:51.000 --> 00:02:55.000
+uma área fiscal e deixa ali, congelado, não volta, engessado.
+
+35
+00:02:55.000 --> 00:02:57.000
+Não, a rede DP sempre tem essa avaliação.
+
+36
+00:02:57.000 --> 00:02:58.000
+Não, a rede DP sempre tem essa avaliação.
+
+37
+00:02:58.000 --> 00:03:05.000
+E deve ser feito de modo mensal, com base em sua atividade econômica preponderante.
+
+38
+00:03:05.000 --> 00:03:10.000
+Veja vocês, o que seria preponderante, sabe?
+
+39
+00:03:10.000 --> 00:03:16.000
+Quando você consulta o CNPJ da empresa e lá tem CNAE preponderante, vai ter uma atividade econômica.
+
+40
+00:03:16.000 --> 00:03:18.000
+Secundários, ele vai ter uma relação?
+
+41
+00:03:18.000 --> 00:03:21.000
+Pois bem, a gente tem que fazer essa identificação.
+
+42
+00:03:21.000 --> 00:03:25.000
+Qual é o CNAE da folha de pagamento preponderante, ok?
+
+43
+00:03:25.000 --> 00:03:27.000
+Portanto, observados os códigos de classificação,
+
+44
+00:03:27.000 --> 00:03:30.000
+os códigos de classificação do CNAE.
+
+45
+00:03:30.000 --> 00:03:33.000
+E aí eu te faço um convite, nessa instrução normativa,
+
+46
+00:03:33.000 --> 00:03:36.000
+você vai descer, vai lá para o finalzinho, vai ter anexo 1.
+
+47
+00:03:36.000 --> 00:03:38.000
+Baixe esse anexo 1, tá?
+
+48
+00:03:38.000 --> 00:03:41.000
+Vai ter toda a relação dos CNAEs.
+
+49
+00:03:41.000 --> 00:03:43.000
+Então vamos lá.
+
+50
+00:03:43.000 --> 00:03:45.000
+Como é que é feita essa simulação mensal?
+
+51
+00:03:45.000 --> 00:03:49.000
+A empresa com o estabelecimento tem uma única atividade econômica
+
+52
+00:03:49.000 --> 00:03:52.000
+em quadra CA na respectiva atividade, ou seja,
+
+53
+00:03:52.000 --> 00:03:55.000
+você tem um cliente, lá só tem uma atividade econômica.
+
+54
+00:03:55.000 --> 00:03:58.000
+Vai formar aquela única atividade econômica.
+
+55
+00:03:58.000 --> 00:04:02.000
+Porém, se a empresa com estabelecimento único
+
+56
+00:04:02.000 --> 00:04:05.000
+e mais de uma atividade econômica,
+
+57
+00:04:05.000 --> 00:04:09.000
+ou seja, ele tem um CNAE principal e vários secundários,
+
+58
+00:04:09.000 --> 00:04:12.000
+simulará o enquadramento em cada atividade
+
+59
+00:04:12.000 --> 00:04:16.000
+e prevalecerá como preponderante
+
+60
+00:04:16.000 --> 00:04:21.000
+aquela com o maior número de segurados, empregados e trabalhadores avulsos.
+
+61
+00:04:21.000 --> 00:04:24.000
+Veja você, se você tem uma empresa
+
+62
+00:04:24.000 --> 00:04:28.000
+e lá a atividade principal é comércio
+
+63
+00:04:28.000 --> 00:04:34.000
+e lá na atividade secundária é entrega de um produto,
+
+64
+00:04:34.000 --> 00:04:39.000
+mas a sua empresa vende pela internet
+
+65
+00:04:39.000 --> 00:04:42.000
+e entrega pessoalmente através de trabalhadores,
+
+66
+00:04:42.000 --> 00:04:45.000
+gente, você tem mais empregados na área da entrega,
+
+67
+00:04:45.000 --> 00:04:48.000
+na área da prestação de serviço.
+
+68
+00:04:48.000 --> 00:04:51.000
+Portanto, a atividade preponderante
+
+69
+00:04:51.000 --> 00:04:53.000
+é aquela que está lá no secundário, não no comércio.
+
+70
+00:04:53.000 --> 00:04:57.000
+Então, essa dinâmica a gente aprende a fazer
+
+71
+00:04:57.000 --> 00:04:59.000
+na folha de pagamento.
+
+72
+00:04:59.000 --> 00:05:05.000
+E aqui eu olho sempre esse campo no cadastro do cliente.
+
+73
+00:05:05.000 --> 00:05:10.000
+Atividade econômica principal e atividade secundária.
+
+74
+00:05:10.000 --> 00:05:13.000
+Aqui no secundário, você pode ter um grupo de trabalhadores
+
+75
+00:05:13.000 --> 00:05:16.000
+que seja maior que a atividade principal.
+
+76
+00:05:16.000 --> 00:05:19.000
+Portanto, é essa atividade econômica aqui
+
+77
+00:05:19.000 --> 00:05:21.000
+que vai ser classificada como preponderante.
+
+78
+00:05:21.000 --> 00:05:24.000
+A profissão, como que eu faço essa dinâmica
+
+79
+00:05:24.000 --> 00:05:27.000
+para identificar mensalmente?
+
+80
+00:05:27.000 --> 00:05:28.000
+Através da CBO.
+
+81
+00:05:28.000 --> 00:05:30.000
+Um exemplo que eu acabei de citar agora há pouco
+
+82
+00:05:30.000 --> 00:05:32.000
+no slide anterior.
+
+83
+00:05:32.000 --> 00:05:36.000
+A empresa comercializa e entrega, certo?
+
+84
+00:05:36.000 --> 00:05:39.000
+Então, nesse caso, você tem mais profissionais
+
+85
+00:05:39.000 --> 00:05:42.000
+da área da entrega do que propriamente vendedores.
+
+86
+00:05:42.000 --> 00:05:45.000
+Vendedores, eles vendem pela internet a empresa.
+
+87
+00:05:45.000 --> 00:05:49.000
+Então, você tem aqui uma atividade econômica principal
+
+88
+00:05:49.000 --> 00:05:50.000
+para a empresa.
+
+89
+00:05:50.000 --> 00:05:52.000
+Para o processamento da folha que está classificada
+
+90
+00:05:52.000 --> 00:05:54.000
+como secundário, tá bom?
+
+91
+00:05:54.000 --> 00:05:56.000
+Essa dinâmica tem que existir.
+
+92
+00:05:56.000 --> 00:05:58.000
+Seu software de folha de pagamento também faz isso.
+
+93
+00:05:58.000 --> 00:06:02.000
+Sempre tendo como base o CBO de cada trabalhador, ok?
+
+94
+00:06:02.000 --> 00:06:04.000
+E aí, pessoal?
+
+95
+00:06:04.000 --> 00:06:06.000
+Como consultar?
+
+96
+00:06:06.000 --> 00:06:09.000
+Acessar a instrução normativa 2110,
+
+97
+00:06:09.000 --> 00:06:11.000
+baixar o anexo 1
+
+98
+00:06:11.000 --> 00:06:14.000
+e localize a atividade econômica.
+
+99
+00:06:14.000 --> 00:06:16.000
+Por exemplo, eu estou dando aqui um código
+
+100
+00:06:16.000 --> 00:06:18.000
+para vocês poderem consultar, tá bem?
+
+101
+00:06:18.000 --> 00:06:19.000
+Isso é um exemplo.
+
+102
+00:06:19.000 --> 00:06:22.000
+Um exemplo que vocês devem fazer.
+
+103
+00:06:22.000 --> 00:06:25.000
+Portanto, eu chamo a atenção que
+
+104
+00:06:25.000 --> 00:06:28.000
+o profissional da área de departamento, pessoal,
+
+105
+00:06:28.000 --> 00:06:30.000
+ele não fica preso apenas no sistema de folha.
+
+106
+00:06:30.000 --> 00:06:33.000
+Ele minimiza o software da folha de pagamento,
+
+107
+00:06:33.000 --> 00:06:36.000
+vai para a internet, busca a base legal
+
+108
+00:06:36.000 --> 00:06:37.000
+e faz a leitura.
+
+109
+00:06:37.000 --> 00:06:39.000
+Esse é o convite que eu faço para vocês.
+
+110
+00:06:39.000 --> 00:06:42.000
+Nós estamos aqui baixando o anexo 1
+
+111
+00:06:42.000 --> 00:06:44.000
+da instrução normativa 2110
+
+112
+00:06:44.000 --> 00:06:46.000
+para identificar ali
+
+113
+00:06:46.000 --> 00:06:48.000
+qual a atividade econômica que eu devo inserir
+
+114
+00:06:48.000 --> 00:06:50.000
+no cadastro do cliente.

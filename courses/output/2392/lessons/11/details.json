@@ -1,0 +1,33 @@
+{
+  "id": 465324,
+  "title": "Sociedade ou elementos de empresa",
+  "position": 11,
+  "duration": 488,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/89418001-0eae-4336-80bc-505d59be4778/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/89418001-0eae-4336-80bc-505d59be4778/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/89418001-0eae-4336-80bc-505d59be4778/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/89418001-0eae-4336-80bc-505d59be4778/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/89418001-0eae-4336-80bc-505d59be4778/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

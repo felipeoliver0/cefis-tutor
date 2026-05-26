@@ -1,0 +1,681 @@
+WEBVTT
+
+1
+00:00:00.439 --> 00:00:03.349
+bom aqui já tá filtrado. Oh aqui pra
+
+2
+00:00:03.990 --> 00:00:10.359
+o texto tarte começa com n f ponto zero zero zero tá beleza.
+
+3
+00:00:10.369 --> 00:00:16.139
+Eu sei que o nome do fornecedor tá depois do quê pra cima.
+
+4
+00:00:16.909 --> 00:00:19.340
+Só que tem um detalhe só que tem um detalhe
+
+5
+00:00:20.319 --> 00:00:26.790
+aqui Oh, tá padrão oh ah, beleza aqui Se eu colocar aqui oh num caractere oh opa,
+
+6
+00:00:27.420 --> 00:00:29.129
+Se eu colocar num carácter
+
+7
+00:00:30.809 --> 00:00:33.360
+aqui vai tá quarenta caracteres certinho.
+
+8
+00:00:34.580 --> 00:00:35.770
+Entretanto,
+
+9
+00:00:36.389 --> 00:00:37.939
+esse aqui já tá trinta e um
+
+10
+00:00:38.819 --> 00:00:41.889
+Eu posso ter outros que tem uma quantidade diferente. Então
+
+11
+00:00:42.669 --> 00:00:43.700
+que que eu vou fazer?
+
+12
+00:00:44.700 --> 00:00:45.689
+Vou arrastar Oh!
+
+13
+00:00:45.700 --> 00:00:47.669
+Que eu tenho quarenta, trinta e nove,
+
+14
+00:00:47.680 --> 00:00:51.009
+Então quantidade de caracteres eu tenho vinte e quatro trinta e um
+
+15
+00:00:51.020 --> 00:00:53.490
+trinta e três t quatro t cinco trinta e nove quarenta!
+
+16
+00:00:54.509 --> 00:00:55.860
+Pra que que eu tô fazendo isso
+
+17
+00:00:56.549 --> 00:01:01.180
+porque eu vou fazer agora a fórmula da direita
+
+18
+00:01:02.000 --> 00:01:07.139
+pra eu falar da quando eu falo da esquerda eu comecei a contar o quê do início
+
+19
+00:01:07.150 --> 00:01:11.849
+do início da célula e vim contando agora da direita eu vou começar do fim pra trás.
+
+20
+00:01:11.860 --> 00:01:13.010
+Só que o fim.
+
+21
+00:01:13.019 --> 00:01:14.690
+Quando eu falo aqui nesse exemplo,
+
+22
+00:01:14.699 --> 00:01:18.349
+aqui eu sei exatamente que o número da nota vai até o doze beleza,
+
+23
+00:01:19.120 --> 00:01:22.730
+mas agora a barrinha hora ela vai tá mais pra cá, a hora ela vai,
+
+24
+00:01:22.739 --> 00:01:25.269
+tá mais pra cá e eu quero pegar os do fim.
+
+25
+00:01:25.919 --> 00:01:28.470
+Então eu vou ter que achar o número da
+
+26
+00:01:29.050 --> 00:01:32.139
+esquerda da direita para a esquerda,
+
+27
+00:01:32.150 --> 00:01:34.839
+então eu sei que tem quantos caracteres quarenta
+
+28
+00:01:34.849 --> 00:01:38.739
+beleza eu vou agora fazer o localizar,
+
+29
+00:01:38.750 --> 00:01:40.360
+oh localizar,
+
+30
+00:01:43.050 --> 00:01:46.000
+no que eu for fazer eu localizar. Eu vou localizar o quê?
+
+31
+00:01:46.720 --> 00:01:51.470
+O item porque é o item que separa igual. Localizar o
+
+32
+00:01:54.339 --> 00:01:57.169
+e cem ponto vírgula aqui.
+
+33
+00:01:58.550 --> 00:02:01.059
+Bom, vou arrastar pra baixo
+
+34
+00:02:02.430 --> 00:02:07.860
+nesses primeiros casos. Se eu pegar aqui oh igual direita
+
+35
+00:02:09.070 --> 00:02:10.339
+a célula
+
+36
+00:02:10.929 --> 00:02:13.929
+ponto Vírgula vinte e oito menos um, ele vai achar direitinho.
+
+37
+00:02:13.940 --> 00:02:16.199
+Quer ver oh, igual direita, oh!
+
+38
+00:02:17.149 --> 00:02:18.220
+E
+
+39
+00:02:22.729 --> 00:02:23.600
+direita
+
+40
+00:02:24.800 --> 00:02:28.770
+Não vai achar gente que que ele não vai achar porque eu
+
+41
+00:02:28.779 --> 00:02:32.330
+tenho que achar os caracteres da direita que vem o hífen.
+
+42
+00:02:32.339 --> 00:02:35.029
+Então eu vou quarenta menos o vinte e oito
+
+43
+00:02:35.759 --> 00:02:37.669
+igual direita
+
+44
+00:02:39.559 --> 00:02:40.029
+é
+
+45
+00:02:41.440 --> 00:02:43.630
+ponto vírgula esse aqui
+
+46
+00:02:44.979 --> 00:02:46.869
+vamos ver se vai dar certo pros próximos.
+
+47
+00:02:46.880 --> 00:02:49.490
+Vou arrastar a fórmula aqui e vou arrastar a fórmula aqui!
+
+48
+00:02:51.500 --> 00:02:54.089
+Só fala, não? Tiago Não entendi, não entendi nada.
+
+49
+00:02:54.750 --> 00:02:55.300
+Beleza
+
+50
+00:02:55.949 --> 00:02:58.520
+quando a gente começa da esquerda pra direita
+
+51
+00:02:58.529 --> 00:03:00.520
+é líquido e certo da esquerda pra direita,
+
+52
+00:03:00.529 --> 00:03:04.619
+mas da direita pra esquerda ele vai mudar as posições.
+
+53
+00:03:04.630 --> 00:03:08.339
+Ele vai mudar o tamanho, então como que eu faço pra saber
+
+54
+00:03:09.490 --> 00:03:11.699
+onde a barrinha está?
+
+55
+00:03:11.710 --> 00:03:16.100
+Porque quando eu começo aqui eu tenho contado aqui pra da esquerda pra direita,
+
+56
+00:03:16.110 --> 00:03:19.860
+Então aqui nesse primeiro caso eu venho um dois, três quatro, cinco,
+
+57
+00:03:19.869 --> 00:03:24.199
+seis sete oito nove dez onze doze Beleza
+
+58
+00:03:25.149 --> 00:03:26.740
+Só que nesse caso aqui oh
+
+59
+00:03:27.410 --> 00:03:33.970
+um dois, três, quatro, cinco, seis, sete, oito nove dez onze doze treze catorze,
+
+60
+00:03:33.979 --> 00:03:36.339
+quinze, dezesseis, dezessete, dezoito.
+
+61
+00:03:36.350 --> 00:03:38.619
+Por que dezoito. Que que é o dezoito?
+
+62
+00:03:38.630 --> 00:03:44.000
+É a quantidade de caracteres menos onde a gente localizou o item
+
+63
+00:03:45.220 --> 00:03:46.649
+dezoito caracteres,
+
+64
+00:03:47.360 --> 00:03:54.110
+então para achar então se eu pegar aqui, quanto de nota fiscal tem do coque,
+
+65
+00:03:54.119 --> 00:03:55.789
+fertilizante,
+
+66
+00:03:57.880 --> 00:03:59.770
+aqui eu tenho duzentos e cinquenta e oito notas.
+
+67
+00:03:59.779 --> 00:04:02.429
+Eu apaguei a coluna de valor porque na hora que a gente podia olhar,
+
+68
+00:04:02.440 --> 00:04:04.649
+eu sei que tem duzentos e cinquenta e oito notas.
+
+69
+00:04:04.660 --> 00:04:08.429
+Ah, e o nome das notas? Aí dá pra gente fazer aquela forma pegando o número de nota.
+
+70
+00:04:09.149 --> 00:04:15.059
+Ah, e as notas fiscais do fixo ficto, Ficto é isso tua água
+
+71
+00:04:16.488 --> 00:04:21.000
+São três notas só qual dia dois do dois dois do dois dezesseis do dois
+
+72
+00:04:22.309 --> 00:04:27.540
+Ah, da Araucária E aí eu vou escolher no que você quiser. Por exemplo, Rache
+
+73
+00:04:28.529 --> 00:04:35.959
+pega tudo que eu acabei de falar pausas, não entendeu pausa, volta e vem fazendo.
+
+74
+00:04:35.970 --> 00:04:39.579
+Fiz uma parte, faz aí fiz uma parte, faz aí fiz uma parte,
+
+75
+00:04:39.589 --> 00:04:44.519
+faz aí com o objetivo de aten entender isso aqui pessoal é um diferencial,
+
+76
+00:04:45.910 --> 00:04:47.799
+é um diferencial lógico, Tiago,
+
+77
+00:04:47.809 --> 00:04:53.859
+se eu quiser olhar só as notas fiscais da eu posso vir aqui digitar oh,
+
+78
+00:04:55.619 --> 00:04:57.529
+uru.
+
+79
+00:04:58.390 --> 00:05:01.739
+Ele vai achar o que tem o S. No histórico Ah, beleza
+
+80
+00:05:04.429 --> 00:05:06.260
+fixo é fixo mesmo, não é
+
+81
+00:05:07.070 --> 00:05:07.540
+vinte e quatro
+
+82
+00:05:09.820 --> 00:05:15.190
+beleza. Ele vai achar as notas do. Entretanto, é uma consulta, um filtro.
+
+83
+00:05:15.200 --> 00:05:17.450
+Agora aqui não aqui cê já tem um relatório
+
+84
+00:05:18.700 --> 00:05:23.429
+lista pra mim todas as notas da araucária Beleza tá aqui a da araucária.
+
+85
+00:05:23.440 --> 00:05:25.940
+Ah, se tiver o valor de débito e tudo mais beleza.
+
+86
+00:05:25.950 --> 00:05:30.040
+Okay que que eu tô explicando aqui gente a gente tá criando,
+
+87
+00:05:30.049 --> 00:05:33.869
+a gente tá criando extrações de dados de histórico,
+
+88
+00:05:33.880 --> 00:05:35.769
+contado histórico contábil É um texto,
+
+89
+00:05:36.440 --> 00:05:39.829
+é um texto, eu tô lá no meio do texto, arrancando mesmo
+
+90
+00:05:42.660 --> 00:05:45.049
+se quisesse arrancar pedido cara
+
+91
+00:05:46.119 --> 00:05:50.549
+a gente vinha aqui filtrava onde tem escrito pedido.
+
+92
+00:05:52.350 --> 00:05:54.420
+O pedido não é perdido, não
+
+93
+00:05:55.380 --> 00:06:02.149
+pedido. E a gente ia fazer o que ia fazer o levantamento e achar o número do pedido.
+
+94
+00:06:02.160 --> 00:06:07.149
+Ah, por sorte aqui Oh, todos que tem pedido, são quarenta caracteres.
+
+95
+00:06:07.160 --> 00:06:08.730
+Ah, então fica mais fácil.
+
+96
+00:06:08.739 --> 00:06:13.470
+Eu vou pegar contar aqui, da esquerda pra direita, contar certinho,
+
+97
+00:06:13.480 --> 00:06:15.130
+fazer o direito esquerdo e pá.
+
+98
+00:06:15.140 --> 00:06:16.089
+Vou achar o pedido
+
+99
+00:06:17.920 --> 00:06:20.170
+basicamente basicamente,
+
+100
+00:06:20.179 --> 00:06:24.410
+o que a gente está fazendo e a gente utiliza é ferramentas pra gente sair
+
+101
+00:06:24.420 --> 00:06:28.190
+extraindo informações pra gente conseguir evoluir a
+
+102
+00:06:28.200 --> 00:06:30.109
+gente conseguir evoluir com o quê Tiago,
+
+103
+00:06:30.119 --> 00:06:32.790
+evoluir com a qualidade de extração de dados,
+
+104
+00:06:33.619 --> 00:06:37.790
+gente falar uma coisa pra vocês eu trabalho muito tempo, tenho muitos trabalhos,
+
+105
+00:06:37.799 --> 00:06:43.170
+trabalhei muitos anos, com auditoria de balanço, com auditoria independente
+
+106
+00:06:43.790 --> 00:06:45.619
+e com o trabalho de recuperação de crédito.
+
+107
+00:06:46.269 --> 00:06:49.140
+Isso aqui é o diferencial do trabalho.
+
+108
+00:06:49.890 --> 00:06:53.429
+Conseguir levantar número, cruzar com CFOP, por exemplo.
+
+109
+00:06:53.440 --> 00:06:54.760
+Vou dar um exemplo pra vocês
+
+110
+00:06:55.869 --> 00:07:01.119
+Levantei as notas fiscais, Oh, levantei as notas fiscais um cinco, cinco, seis,
+
+111
+00:07:01.130 --> 00:07:04.760
+Que tão no livro fiscal, no Livro do SPED de SMS,
+
+112
+00:07:04.769 --> 00:07:07.059
+que não estão no SPED de contribuições,
+
+113
+00:07:07.880 --> 00:07:09.230
+oh é uma indústria.
+
+114
+00:07:09.239 --> 00:07:12.769
+Eu poderia ter tomado o crédito um, cinco, cinco, seis, que seria uma, digamos lá,
+
+115
+00:07:12.779 --> 00:07:16.369
+uma indústria, as peças pra manutenção do maquinário.
+
+116
+00:07:16.380 --> 00:07:17.670
+Tá, Thiago,
+
+117
+00:07:17.679 --> 00:07:21.209
+mas vou ter que olhar a nota por nota Cara vai
+
+118
+00:07:21.220 --> 00:07:24.089
+lá no SPED fiscal levanta as notas fiscais um cinco,
+
+119
+00:07:24.100 --> 00:07:26.809
+cinco seis que não estão no spa de contribuições.
+
+120
+00:07:26.820 --> 00:07:28.350
+B Tá aqui A lista
+
+121
+00:07:29.369 --> 00:07:34.540
+me dá a razão da conta contábil, o razão da conta contábil,
+
+122
+00:07:34.549 --> 00:07:37.559
+da conta de manutenção de maquinário
+
+123
+00:07:38.230 --> 00:07:40.480
+pega lá e faz o quê pessoal.
+
+124
+00:07:40.489 --> 00:07:45.399
+Número da nota fiscal tira do razão com o catena com a data,
+
+125
+00:07:45.410 --> 00:07:48.160
+então eu tenho o código data,
+
+126
+00:07:48.170 --> 00:07:54.200
+número da nota beleza vai lá No SPED fiscal você já tirou?
+
+127
+00:07:54.209 --> 00:07:59.040
+Já trouxe só as notas fiscais um cinco, cinco, seis, um, cinco, cinco, seis,
+
+128
+00:07:59.049 --> 00:08:00.940
+que estão o quê pessoal
+
+129
+00:08:02.119 --> 00:08:05.529
+que não estão no spa Contribuições com Atena,
+
+130
+00:08:05.540 --> 00:08:08.809
+a data com o número da nota que que você vai fazer?
+
+131
+00:08:08.820 --> 00:08:11.549
+Você vai pegar desse aqui e buscar no razão
+
+132
+00:08:12.510 --> 00:08:16.940
+fazendo Tá o pró que v, que é o que a gente vai fazer aqui pro que v soma-se beleza.
+
+133
+00:08:16.950 --> 00:08:20.880
+Na hora que você bater, você vai filtrar os que você encontrou, falou.
+
+134
+00:08:20.890 --> 00:08:25.200
+Assim são essas notas aqui que são de manutenção que a
+
+135
+00:08:25.209 --> 00:08:28.239
+empresa não tomou crédito PIS COFINS que que você vai fazer?
+
+136
+00:08:28.250 --> 00:08:32.520
+Você vai pegar essas notas fiscais em portar, inserir no de contribuições.
+
+137
+00:08:32.530 --> 00:08:36.460
+Você recuperou o crédito pss COFINS sobre manutenção.
+
+138
+00:08:37.308 --> 00:08:37.780
+Olha
+
+139
+00:08:38.450 --> 00:08:39.599
+que coisa top,
+
+140
+00:08:40.229 --> 00:08:41.278
+que coisa top.
+
+141
+00:08:41.289 --> 00:08:45.679
+Então isso aqui é a preparação pra gente
+
+142
+00:08:45.689 --> 00:08:50.078
+ter aquela segurança pra gente ter os confrontos.
+
+143
+00:08:50.088 --> 00:08:55.439
+Então o que eu estou mostrando aqui pra vocês é fazia isso no trabalho de auditoria.
+
+144
+00:08:55.448 --> 00:08:59.119
+Sempre fazia isso no trabalho de auditoria,
+
+145
+00:08:59.129 --> 00:09:03.059
+independente de auditoria interna e faço nos trabalhos de recuperação de crédito.
+
+146
+00:09:04.500 --> 00:09:06.390
+Vou fazer um determinado trabalho.
+
+147
+00:09:06.400 --> 00:09:10.830
+Poxa, vida, vi lá, o cara tá que toma crédito no monte de operação,
+
+148
+00:09:10.840 --> 00:09:12.869
+falei cara pera aí que operação é essa?
+
+149
+00:09:12.880 --> 00:09:15.229
+Vou lá, pego as notas fiscais,
+
+150
+00:09:15.239 --> 00:09:20.549
+acho as pega as notas fiscais e cruz com o diário e traga o código da conta contábil.
+
+151
+00:09:20.559 --> 00:09:25.130
+Extrai? Fiz o quê? Nunca te número data, pá, pá, pá, beleza.
+
+152
+00:09:25.140 --> 00:09:29.150
+Eu vou lá e coloco descrição da conta contábil nas notas fiscais.
+
+153
+00:09:29.159 --> 00:09:33.250
+Tá tomando crédito PIS COFINS, Nota de manutenção de veículo
+
+154
+00:09:33.520 --> 00:09:36.250
+nota de de um monte de coisa que não tem nada a ver,
+
+155
+00:09:36.260 --> 00:09:40.210
+Supermercado que tá em conta de despesa, que não tá vinculado aqui.
+
+156
+00:09:40.219 --> 00:09:44.109
+Oh, você tá tomando crédito, coisa que não deve. Você tá gerando exposição fiscal,
+
+157
+00:09:45.049 --> 00:09:51.260
+então é uma evolução. A gente tá preparando pra lá na frente fazer um negócio top.
+
+158
+00:09:51.270 --> 00:09:56.059
+Então volta, não entendeu, volta, faz, exercita.
+
+159
+00:09:56.070 --> 00:09:58.460
+Isso aqui é de extrema relevância.
+
+160
+00:09:58.469 --> 00:10:03.000
+Pode parecer bobagem, mas isso aqui é o que vai fazer o que eu tô falando.
+
+161
+00:10:03.309 --> 00:10:08.239
+Depois gente pegar x ML arrumar um sistema de auditoria que tira nota desse fiscal,
+
+162
+00:10:08.250 --> 00:10:09.359
+joga pros de contribuição.
+
+163
+00:10:09.369 --> 00:10:11.979
+Isso é fácil mandar apurar é fácil.
+
+164
+00:10:11.989 --> 00:10:14.619
+O difícil é fazer isso aqui, oh, chegar e falar assim, Oh,
+
+165
+00:10:14.630 --> 00:10:18.320
+são sete mil notas que você deixou de lançar
+
+166
+00:10:18.330 --> 00:10:20.840
+nesses últimos cinco anos e você deixou de gerar.
+
+167
+00:10:20.849 --> 00:10:23.859
+Sei lá quinhentos mil reais de crédito. Isso co eu fiz.
+
+168
+00:10:24.719 --> 00:10:26.590
+Quero vinte por cento de honorários, Subscreve
+
+169
+00:10:27.520 --> 00:10:29.640
+é dinheiro no bolso através do quê pessoal.
+
+170
+00:10:29.650 --> 00:10:32.469
+Através disso aqui, que é aonde a gente usa efetivamente pra

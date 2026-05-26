@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 1916,
+    "title": "PLR aplicada à gestão",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de PLR aplicado à gestão, você vai aprender como tornar a Participação nos Lucros ou Resultados em um eficiente instrumento de gestão. Conhecerá aspectos históricos e legais, bem como remuneração estratégica, conexão entre o PLR e as Convenções Coletivas de Trabalho, plano de metas e muitos outros pontos importantes apresentados por meio de vários exemplos práticos, para que você possa aplicar o conhecimento adquirido no dia-a-dia.",
+    "banner": "https://cefis.com.br/assets/images/controle/course_default_banner/15.jpg",
+    "goals": [
+      "Demonstrar as características e importância do PLR e como tornar a Participação nos Lucros ou Resultados em um eficiente instrumento de gestão."
+    ],
+    "teacher": {
+      "id": 268532,
+      "name": "SÉRGIO LOPES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1633790201.jpeg"
+    },
+    "duration": 6504,
+    "keywords": "plr;participação em lucros ou  resultados;gestão",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 30,
+    "materialCount": 9,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 121,
+    "averageRating": 9.4,
+    "practiceAverage": 9.42,
+    "trailer": {
+      "id": "4be3d2df-084d-46eb-b54c-82a857bb73a3",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4be3d2df-084d-46eb-b54c-82a857bb73a3/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4be3d2df-084d-46eb-b54c-82a857bb73a3/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4be3d2df-084d-46eb-b54c-82a857bb73a3/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4be3d2df-084d-46eb-b54c-82a857bb73a3/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-01-12T15:26:48.000Z",
+      "updatedAt": "2022-01-12T16:26:48.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-02-03T15:30:34.000Z",
+    "recordedAt": "2022-01-06T00:00:00.000Z",
+    "createdAt": "2022-01-09T22:13:15.000Z"
+  }
+}

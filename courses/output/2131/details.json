@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2131,
+    "title": "Imposto Sobre Serviços (ISS) - Pontos controversos",
+    "subtitle": "Quais os riscos e as oportunidades para as empresas?",
+    "summary": "Neste curso abordaremos temas controversos referentes ao ISS que geram diversas dúvidas por parte dos profissionais das áreas fiscal, contábil e de faturamento e, cuja compreensão, se faz imprescindível para a prática da gestão fiscal do ISS.\n\nVamos discorrer e esclarecer os seguintes tópicos: (i) Lista do ISS: taxativa ou exemplificativa?; (ii) Local de incidência do imposto: Município do Prestador ou Tomador?; (iii) Conceito de Estabelecimento Prestador e seus efeitos fiscais; (iv) Prestação de Serviços com fornecimento de mercadorias: ISS ou ICMS?; (v) Efeitos fiscais do descumprimento da carga tributária mínima e (vi) Reembolso de despesas: devo oferecer ou não à tributação?\n\nAo final de cada tópico apresentamos alguns exercícios de fixação do conteúdo desenvolvido, proporcionando aos alunos a possibilidade de aplicação prática no seu dia a dia profissional.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/a055896dab67b5fb36c5ce4d2b56c8cf1728428037.jpg",
+    "goals": [
+      "Desenvolvimento de habilidades técnicas que permitam a minimização de riscos, a geração de oportunidades e o efetivo compliance fiscal em relação ao ISS."
+    ],
+    "teacher": {
+      "id": 571177,
+      "name": "Wellington Santos",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1651070560.jpeg"
+    },
+    "duration": 9484,
+    "keywords": "ISS;imposto sobre serviço;compliance fiscal;gestão de risco;formação fiscal",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 32,
+    "materialCount": 5,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 541,
+    "averageRating": 9.45,
+    "practiceAverage": 9.42,
+    "trailer": {
+      "id": "a95b79f9-48aa-46e8-88ad-bb8678002f39",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a95b79f9-48aa-46e8-88ad-bb8678002f39/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a95b79f9-48aa-46e8-88ad-bb8678002f39/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a95b79f9-48aa-46e8-88ad-bb8678002f39/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a95b79f9-48aa-46e8-88ad-bb8678002f39/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-08-02T18:11:55.000Z",
+      "updatedAt": "2022-08-02T18:11:55.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-08-09T16:43:33.000Z",
+    "recordedAt": "2022-07-05T00:00:00.000Z",
+    "createdAt": "2022-07-06T11:42:03.000Z"
+  }
+}

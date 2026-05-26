@@ -1,0 +1,33 @@
+{
+  "id": 462333,
+  "title": "Penas Aplicáveis",
+  "position": 5,
+  "duration": 276,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f54e4cad-9803-4d6b-bfaf-1eb06b14e557/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f54e4cad-9803-4d6b-bfaf-1eb06b14e557/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f54e4cad-9803-4d6b-bfaf-1eb06b14e557/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f54e4cad-9803-4d6b-bfaf-1eb06b14e557/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f54e4cad-9803-4d6b-bfaf-1eb06b14e557/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

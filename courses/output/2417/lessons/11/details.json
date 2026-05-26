@@ -1,0 +1,33 @@
+{
+  "id": 465443,
+  "title": "Imposto de Renda - Formas de Apuração do Resultado",
+  "position": 11,
+  "duration": 240,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7e4c2512-11c7-426a-9ab8-60f77932663d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e4c2512-11c7-426a-9ab8-60f77932663d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e4c2512-11c7-426a-9ab8-60f77932663d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e4c2512-11c7-426a-9ab8-60f77932663d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e4c2512-11c7-426a-9ab8-60f77932663d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

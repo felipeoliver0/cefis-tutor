@@ -1,0 +1,33 @@
+{
+  "id": 488165,
+  "title": "Bens envolvidos",
+  "position": 6,
+  "duration": 552,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/9bbd0ebf-9151-42b8-a7b0-06743d7d2a54/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9bbd0ebf-9151-42b8-a7b0-06743d7d2a54/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9bbd0ebf-9151-42b8-a7b0-06743d7d2a54/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9bbd0ebf-9151-42b8-a7b0-06743d7d2a54/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9bbd0ebf-9151-42b8-a7b0-06743d7d2a54/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

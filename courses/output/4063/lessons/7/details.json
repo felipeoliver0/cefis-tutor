@@ -1,0 +1,33 @@
+{
+  "id": 482566,
+  "title": "Combinando Percepção Parte 03",
+  "position": 7,
+  "duration": 560,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/110057af-e600-489a-b079-43a8c7de8a7b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/110057af-e600-489a-b079-43a8c7de8a7b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/110057af-e600-489a-b079-43a8c7de8a7b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/110057af-e600-489a-b079-43a8c7de8a7b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/110057af-e600-489a-b079-43a8c7de8a7b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

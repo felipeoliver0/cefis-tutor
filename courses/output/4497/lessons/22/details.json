@@ -1,0 +1,33 @@
+{
+  "id": 487522,
+  "title": "Percentuais de presunção - Parte 1",
+  "position": 22,
+  "duration": 354,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/f21f903a-ce82-48ff-841e-150acec5fc46/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f21f903a-ce82-48ff-841e-150acec5fc46/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f21f903a-ce82-48ff-841e-150acec5fc46/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f21f903a-ce82-48ff-841e-150acec5fc46/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f21f903a-ce82-48ff-841e-150acec5fc46/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

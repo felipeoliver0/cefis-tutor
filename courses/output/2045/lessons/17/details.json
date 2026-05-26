@@ -1,0 +1,33 @@
+{
+  "id": 461865,
+  "title": "Desenvolvimento sustentável",
+  "position": 17,
+  "duration": 445,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8453e9da-65f4-4bd2-bfc5-01b5bb0e0f38/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8453e9da-65f4-4bd2-bfc5-01b5bb0e0f38/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8453e9da-65f4-4bd2-bfc5-01b5bb0e0f38/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8453e9da-65f4-4bd2-bfc5-01b5bb0e0f38/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8453e9da-65f4-4bd2-bfc5-01b5bb0e0f38/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

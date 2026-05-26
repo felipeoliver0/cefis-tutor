@@ -1,0 +1,1085 @@
+WEBVTT
+
+1
+00:00:02.019 --> 00:00:05.070
+As informações referente ao grupo de tributos como IBS,
+
+2
+00:00:05.179 --> 00:00:06.329
+CBS e IS
+
+3
+00:00:06.769 --> 00:00:09.260
+associados aos itens dos documentos fiscais eletrônicos
+
+4
+00:00:09.779 --> 00:00:10.819
+já foram criados.
+
+5
+00:00:11.020 --> 00:00:11.340
+Tá Então,
+
+6
+00:00:11.380 --> 00:00:13.399
+a gente já tem grupos específicos para eles.
+
+7
+00:00:14.369 --> 00:00:16.318
+o Fisco ressalta que a tabela
+
+8
+00:00:16.969 --> 00:00:17.899
+e não só a tabela,
+
+9
+00:00:17.969 --> 00:00:19.840
+mas as notas técnicas serão atualizadas.
+
+10
+00:00:20.610 --> 00:00:22.690
+Uma grande mudança que vocês vão perceber ao
+
+11
+00:00:22.690 --> 00:00:26.000
+longo do caminho das notas técnicas é uma
+
+12
+00:00:26.250 --> 00:00:27.520
+classificação tributária
+
+13
+00:00:27.969 --> 00:00:29.239
+diferente do que a gente tem hoje.
+
+14
+00:00:30.209 --> 00:00:33.340
+Nós temos hoje o código chamado CST,
+
+15
+00:00:33.770 --> 00:00:37.040
+que é o código de o a classificação tributária,
+
+16
+00:00:37.529 --> 00:00:37.659
+né?
+
+17
+00:00:37.729 --> 00:00:39.520
+Então é CST classificação tributária
+
+18
+00:00:39.970 --> 00:00:41.889
+A CST a gente tem a CST do CMS,
+
+19
+00:00:42.689 --> 00:00:43.880
+temos a CST do IPI,
+
+20
+00:00:44.529 --> 00:00:46.330
+temos a CST de PIS COFINS.
+
+21
+00:00:47.799 --> 00:00:52.610
+e dentro da nota técnica foi criado uma classificação tributária,
+
+22
+00:00:52.880 --> 00:00:54.150
+que é o C class trip.
+
+23
+00:00:55.650 --> 00:00:58.770
+Então para cada CST teremos uma C class tribe
+
+24
+00:00:59.529 --> 00:01:04.730
+Então a CST que representa todo e qualquer tipo de operação do nosso contribuinte
+
+25
+00:01:05.489 --> 00:01:10.089
+Hoje Quando a gente olha a apuração do CMS ou do IPI,
+
+26
+00:01:10.529 --> 00:01:12.769
+vocês olham a apuração com a CFOP
+
+27
+00:01:13.389 --> 00:01:14.239
+e a CST
+
+28
+00:01:14.809 --> 00:01:15.400
+certo
+
+29
+00:01:15.889 --> 00:01:19.050
+Então atribui a incidência a CST e a CFOP.
+
+30
+00:01:19.690 --> 00:01:19.769
+E.
+
+31
+00:01:19.809 --> 00:01:20.239
+Na verdade,
+
+32
+00:01:20.430 --> 00:01:24.040
+quem manda na classificação tributária de uma operação é a CST
+
+33
+00:01:24.370 --> 00:01:25.360
+e não a CFOP
+
+34
+00:01:25.779 --> 00:01:26.339
+A CFAP.
+
+35
+00:01:26.410 --> 00:01:29.430
+Ela tem como principal objetivo trazer na verdade
+
+36
+00:01:30.169 --> 00:01:34.360
+para o Fisco as informações das operações fiscais
+
+37
+00:01:34.839 --> 00:01:37.080
+e não sobre a incidência
+
+38
+00:01:37.930 --> 00:01:42.040
+Então hoje o que que eu mudaria na prática de fechamento fiscal de vocês.
+
+39
+00:01:44.160 --> 00:01:45.389
+olhar a CST
+
+40
+00:01:46.029 --> 00:01:48.580
+para classificar a incidência de um tributo
+
+41
+00:01:49.690 --> 00:01:51.110
+e não olhar apenas a CFLP.
+
+42
+00:01:51.940 --> 00:01:55.779
+E eu sei que muitas das vezes a gente olha lá CFP 155 meia não tem incidência,
+
+43
+00:01:56.139 --> 00:01:56.410
+né?
+
+44
+00:01:56.959 --> 00:01:58.370
+O CFP 1101
+
+45
+00:01:58.879 --> 00:01:59.690
+tem incidência.
+
+46
+00:02:00.800 --> 00:02:02.589
+Tentem começar a trabalhar.
+
+47
+00:02:02.919 --> 00:02:03.750
+Acesse-te
+
+48
+00:02:04.360 --> 00:02:06.910
+porque agora na reforma é o que será exigido.
+
+49
+00:02:07.989 --> 00:02:10.179
+Vocês vão perceber que a nota técnica já
+
+50
+00:02:10.179 --> 00:02:14.419
+deixou claro para vocês já até disponibilizou a tabela
+
+51
+00:02:14.990 --> 00:02:15.750
+de CST
+
+52
+00:02:16.589 --> 00:02:18.910
+com a correlação da Ceclastrib.
+
+53
+00:02:19.910 --> 00:02:20.070
+Então.
+
+54
+00:02:20.149 --> 00:02:21.149
+Além da CST,
+
+55
+00:02:21.350 --> 00:02:23.789
+vocês também vão precisar padronizar
+
+56
+00:02:24.070 --> 00:02:26.449
+e parametrizar a C Class strip.
+
+57
+00:02:27.199 --> 00:02:27.910
+e essa tabela,
+
+58
+00:02:27.919 --> 00:02:28.589
+ela será
+
+59
+00:02:28.720 --> 00:02:30.250
+atualizada periodicamente,
+
+60
+00:02:30.360 --> 00:02:30.639
+porque,
+
+61
+00:02:30.679 --> 00:02:31.009
+na verdade,
+
+62
+00:02:31.080 --> 00:02:33.449
+a gente está passando por uma construção.
+
+63
+00:02:34.250 --> 00:02:36.399
+Vocês vão perceber quando eu for demonstrar
+
+64
+00:02:37.089 --> 00:02:38.520
+as notas técnicas,
+
+65
+00:02:39.169 --> 00:02:41.970
+eu vou abrir para vocês como que de fato vocês
+
+66
+00:02:41.970 --> 00:02:45.169
+podem buscar essas informações no portal da nota fiscal eletrônica
+
+67
+00:02:45.690 --> 00:02:47.669
+e aí eu acabo também abrindo para vocês essa CST
+
+68
+00:02:48.889 --> 00:02:50.320
+tá pra que vocês consigam ver
+
+69
+00:02:50.770 --> 00:02:51.559
+essa relação.
+
+70
+00:02:52.759 --> 00:02:55.610
+Quais são as principais atualizações e inclusões legais,
+
+71
+00:02:55.720 --> 00:02:59.199
+além da CCT e da classificação tributária que a gente acabou de conversar.
+
+72
+00:03:00.300 --> 00:03:02.970
+Nós vamos ter também a inclusão
+
+73
+00:03:03.259 --> 00:03:06.270
+de situação diferente no documento fiscal eletrônico.
+
+74
+00:03:06.820 --> 00:03:07.660
+Então a nota técnica.
+
+75
+00:03:07.699 --> 00:03:09.619
+Ela trata a nota fiscal eletrônica,
+
+76
+00:03:09.699 --> 00:03:10.160
+por exemplo,
+
+77
+00:03:10.339 --> 00:03:12.009
+com dois finalidades diferentes,
+
+78
+00:03:12.580 --> 00:03:14.149
+uma com uma nota de crédito,
+
+79
+00:03:14.479 --> 00:03:15.539
+um nota de débito.
+
+80
+00:03:16.770 --> 00:03:18.419
+Então essa informação também.
+
+81
+00:03:18.500 --> 00:03:21.020
+A gente não tinha nos documentos fiscais eletrônicos,
+
+82
+00:03:21.139 --> 00:03:21.270
+né?
+
+83
+00:03:21.940 --> 00:03:23.660
+Então as notas de débito e crédito são
+
+84
+00:03:23.660 --> 00:03:27.779
+utilizadas mundialmente para documentos com situações contábeis,
+
+85
+00:03:28.339 --> 00:03:31.770
+a fim de corrigir informações comerciais que foram registradas
+
+86
+00:03:32.660 --> 00:03:34.740
+e o Fisco entendeu que dessa forma,
+
+87
+00:03:34.979 --> 00:03:37.979
+ele pode agregar esse valor e essa finalidade
+
+88
+00:03:37.979 --> 00:03:39.850
+para dentro de um documento fiscal eletrônico.
+
+89
+00:03:40.380 --> 00:03:43.500
+Então agora a gente passa a ter também essa finalidade
+
+90
+00:03:43.619 --> 00:03:45.330
+para dentro da nota fiscal eletrônica.
+
+91
+00:03:46.119 --> 00:03:46.889
+para o IBS.
+
+92
+00:03:46.990 --> 00:03:52.110
+Com as alíquotas podem variar porque o IBS ele corresponde
+
+93
+00:03:52.509 --> 00:03:53.630
+ao ICMS
+
+94
+00:03:53.869 --> 00:03:54.800
+e ao ISS,
+
+95
+00:03:55.110 --> 00:03:55.309
+né?
+
+96
+00:03:55.470 --> 00:03:56.139
+Digamos assim,
+
+97
+00:03:56.589 --> 00:03:58.860
+aos estados e aos municípios
+
+98
+00:03:59.470 --> 00:04:02.550
+para cada um deles vai corresponder a uma tag.
+
+99
+00:04:03.029 --> 00:04:04.619
+Então a gente vai ter o IBS.
+
+100
+00:04:05.350 --> 00:04:07.699
+Vamos ter o IBS do município
+
+101
+00:04:08.020 --> 00:04:09.460
+e o IBS do Estado.
+
+102
+00:04:10.490 --> 00:04:12.240
+Então a gente passa a ter
+
+103
+00:04:12.770 --> 00:04:14.350
+tags correspondentes
+
+104
+00:04:14.850 --> 00:04:16.220
+tanto do IBS.
+
+105
+00:04:17.079 --> 00:04:17.869
+do Estado,
+
+106
+00:04:18.119 --> 00:04:19.230
+que será do UF,
+
+107
+00:04:19.440 --> 00:04:19.709
+né?
+
+108
+00:04:20.290 --> 00:04:21.399
+E o IBF
+
+109
+00:04:21.690 --> 00:04:22.350
+municipal
+
+110
+00:04:22.559 --> 00:04:22.880
+tá Então,
+
+111
+00:04:22.920 --> 00:04:23.420
+a gente vai ter
+
+112
+00:04:24.200 --> 00:04:25.170
+específico TIS para isso.
+
+113
+00:04:27.570 --> 00:04:28.720
+Onde eu busco professor,
+
+114
+00:04:28.730 --> 00:04:29.489
+as informações,
+
+115
+00:04:29.570 --> 00:04:30.809
+as tabelas
+
+116
+00:04:31.130 --> 00:04:32.059
+para que eu possa,
+
+117
+00:04:32.290 --> 00:04:32.760
+na verdade,
+
+118
+00:04:32.809 --> 00:04:34.040
+trazer essa prática
+
+119
+00:04:34.489 --> 00:04:36.320
+de identificação do que é
+
+120
+00:04:37.089 --> 00:04:38.450
+essa Cectrib.
+
+121
+00:04:39.429 --> 00:04:41.369
+no próprio portal da nota fiscal eletrônica.
+
+122
+00:04:41.630 --> 00:04:43.730
+Nós temos todas as informações
+
+123
+00:04:44.019 --> 00:04:45.720
+de atualização de notas técnicas
+
+124
+00:04:46.059 --> 00:04:47.630
+e também de tabelas.
+
+125
+00:04:48.390 --> 00:04:51.510
+As tabelas que nós temos hoje já relacionadas à reforma
+
+126
+00:04:51.510 --> 00:04:55.149
+tributária é sobre o crédito presumido do IBS da CBS
+
+127
+00:04:55.790 --> 00:04:58.559
+sobre o código de índice de biodiesel.
+
+128
+00:04:59.440 --> 00:05:00.859
+que foi publicado agora também
+
+129
+00:05:01.250 --> 00:05:03.399
+e a tabela de código da CST,
+
+130
+00:05:03.519 --> 00:05:05.109
+juntamente com a CCLA Strip.
+
+131
+00:05:05.799 --> 00:05:06.000
+Então,
+
+132
+00:05:06.799 --> 00:05:07.709
+ao longo do caminho,
+
+133
+00:05:07.799 --> 00:05:10.950
+o Fisco está olhando a lei complementar e instituindo
+
+134
+00:05:11.399 --> 00:05:12.519
+as tabelas,
+
+135
+00:05:12.559 --> 00:05:14.170
+as informações técnicas
+
+136
+00:05:14.480 --> 00:05:18.660
+para que não só os profissionais que estão à frente dos sistemas,
+
+137
+00:05:19.359 --> 00:05:20.799
+mas nós também com-,
+
+138
+00:05:21.000 --> 00:05:21.190
+né?
+
+139
+00:05:21.200 --> 00:05:25.709
+Comece a estudar e entender a prática do que está na lei complementar
+
+140
+00:05:26.010 --> 00:05:27.739
+214 de 2025.
+
+141
+00:05:30.029 --> 00:05:32.269
+Dentro da nova estrutura do documento fiscal eletrônico.
+
+142
+00:05:32.350 --> 00:05:33.619
+Vocês vão olhar
+
+143
+00:05:34.000 --> 00:05:34.869
+o grupo UB
+
+144
+00:05:35.190 --> 00:05:35.869
+o grupo UB.
+
+145
+00:05:35.880 --> 00:05:39.140
+Ele tem as informações do IBS da CBS e do IS
+
+146
+00:05:39.750 --> 00:05:41.850
+e quais são os seus campos principais
+
+147
+00:05:41.980 --> 00:05:42.940
+AcesseT s
+
+148
+00:05:43.230 --> 00:05:44.320
+que vão representar
+
+149
+00:05:44.630 --> 00:05:47.369
+a tributação do IBS do CBS.
+
+150
+00:05:48.709 --> 00:05:51.299
+eh que vai trazer a definição do regime de apuração
+
+151
+00:05:51.510 --> 00:05:52.589
+e o C C tribe,
+
+152
+00:05:52.670 --> 00:05:54.579
+que é o código de classificação tributária,
+
+153
+00:05:55.029 --> 00:05:57.160
+baseado assim na interpretação da sua legislação
+
+154
+00:05:59.320 --> 00:06:01.790
+Para cada CST existirá uma Ceclestrib.
+
+155
+00:06:02.589 --> 00:06:06.029
+Eu Gosto de trazer para vocês uma informação sobre o FDRF,
+
+156
+00:06:06.109 --> 00:06:06.179
+né?
+
+157
+00:06:06.230 --> 00:06:07.510
+O FD Renf também tem isso.
+
+158
+00:06:08.380 --> 00:06:12.420
+Quando a gente introduziu lá em 2023 FDf o que que a gente fez nos
+
+159
+00:06:12.859 --> 00:06:13.799
+nossos programas
+
+160
+00:06:14.670 --> 00:06:19.559
+Olhou os códigos de serviço que estavam dentro da lei complementar 116
+
+161
+00:06:19.980 --> 00:06:22.390
+e atribuiu à nature natureza de rendimento.
+
+162
+00:06:22.940 --> 00:06:25.700
+Hoje para cada nota fiscal que tem o código de serviço
+
+163
+00:06:26.220 --> 00:06:27.630
+tem uma natureza de rendimento
+
+164
+00:06:28.059 --> 00:06:32.380
+O mesmo vai se dar com CST e a classificação tributária.
+
+165
+00:06:33.869 --> 00:06:34.859
+É a mesma coisa
+
+166
+00:06:35.029 --> 00:06:35.420
+OK
+
+167
+00:06:35.709 --> 00:06:37.019
+É a mesma sistemática.
+
+168
+00:06:37.309 --> 00:06:38.190
+Para cada CST,
+
+169
+00:06:38.390 --> 00:06:38.950
+haverá
+
+170
+00:06:39.230 --> 00:06:40.660
+uma classificação tributária.
+
+171
+00:06:41.679 --> 00:06:46.029
+haverá uma nova totalização para contemplar os tributos por fora
+
+172
+00:06:46.399 --> 00:06:49.390
+porque o IBS CBS será calculado por fora
+
+173
+00:06:49.750 --> 00:06:50.869
+e o IS também
+
+174
+00:06:51.329 --> 00:06:54.429
+E nós temos hoje o particular que é o ICMS,
+
+175
+00:06:54.510 --> 00:06:55.679
+que é calculado por dentro
+
+176
+00:06:56.239 --> 00:06:59.200
+Então a prática dos das tags de totalização,
+
+177
+00:06:59.279 --> 00:07:00.950
+elas serão alteradas
+
+178
+00:07:02.019 --> 00:07:03.899
+Então dentro da estrutura do XML,
+
+179
+00:07:04.200 --> 00:07:08.519
+vocês vão perceber que existirá uma alteração desse totalizador.
+
+180
+00:07:09.529 --> 00:07:12.570
+Nessas novas re- na nessas novas regras a validação,
+
+181
+00:07:12.890 --> 00:07:14.529
+elas estão sendo implementadas.
+
+182
+00:07:14.690 --> 00:07:15.079
+Tá
+
+183
+00:07:15.450 --> 00:07:18.410
+Então a gente tem o grupo B que identifica a nota fiscal eletrônica.
+
+184
+00:07:18.700 --> 00:07:19.720
+Temos o grupo BA,
+
+185
+00:07:19.809 --> 00:07:21.429
+que é documento fiscal referenciado
+
+186
+00:07:22.089 --> 00:07:22.570
+o LA,
+
+187
+00:07:22.609 --> 00:07:24.239
+que é o item de combustível e o UB
+
+188
+00:07:25.040 --> 00:07:25.970
+Ao que é o mais importante.
+
+189
+00:07:26.049 --> 00:07:26.369
+Na verdade,
+
+190
+00:07:26.489 --> 00:07:27.760
+eles sofreram alterações,
+
+191
+00:07:28.209 --> 00:07:32.690
+mas o mais importante de que trata as relações dos novos tributos é o grupo UB.
+
+192
+00:07:33.910 --> 00:07:34.429
+Além disso,
+
+193
+00:07:34.470 --> 00:07:35.209
+o grupo VB,
+
+194
+00:07:35.350 --> 00:07:37.690
+que trata o total do item na nota fiscal eletrônica
+
+195
+00:07:38.510 --> 00:07:39.049
+o VC,
+
+196
+00:07:39.070 --> 00:07:42.910
+que trata referenciamento de item sobre outro documento fiscal eletrônico,
+
+197
+00:07:43.149 --> 00:07:46.100
+como por exemplo CTE vinculado a uma nota fiscal eletrônica
+
+198
+00:07:46.829 --> 00:07:48.260
+o grupo W03,
+
+199
+00:07:48.269 --> 00:07:50.019
+que trata uma totalização.
+
+200
+00:07:50.549 --> 00:07:51.220
+Como eu disse,
+
+201
+00:07:51.230 --> 00:07:52.269
+a gente teve alteração,
+
+202
+00:07:52.510 --> 00:07:52.700
+né?
+
+203
+00:07:52.709 --> 00:07:53.429
+Na totalização,
+
+204
+00:07:53.510 --> 00:07:55.019
+porque eles são calculados por fora
+
+205
+00:07:55.589 --> 00:07:56.470
+tanto o CBS,
+
+206
+00:07:56.589 --> 00:07:57.839
+o IBS e o IS
+
+207
+00:07:58.309 --> 00:07:59.190
+e o grupo 3A,
+
+208
+00:07:59.230 --> 00:08:03.190
+que trata o banco de dados na nota fiscal eletrônica referenciada.
+
+209
+00:08:03.640 --> 00:08:05.440
+Pra quem nunca abriu uma nota técnica,
+
+210
+00:08:05.679 --> 00:08:08.660
+trouxe para vocês como de fato acontece uma criação
+
+211
+00:08:09.079 --> 00:08:10.440
+de forma estrutural,
+
+212
+00:08:10.640 --> 00:08:10.850
+né?
+
+213
+00:08:11.079 --> 00:08:12.350
+Dentro da composição
+
+214
+00:08:12.600 --> 00:08:13.559
+do XML
+
+215
+00:08:13.760 --> 00:08:16.279
+Se a gente parar pra pensar aqui tem os códigos,
+
+216
+00:08:16.359 --> 00:08:16.850
+os campos,
+
+217
+00:08:16.920 --> 00:08:17.220
+claro,
+
+218
+00:08:17.760 --> 00:08:21.720
+Só que tem descrições aqui que vocês já conseguem perceber que estão sendo criadas,
+
+219
+00:08:22.320 --> 00:08:22.809
+ou seja,
+
+220
+00:08:23.119 --> 00:08:24.559
+código de classificação tributária,
+
+221
+00:08:25.079 --> 00:08:26.790
+base de cálculo do imposto seletivo,
+
+222
+00:08:27.200 --> 00:08:28.829
+alíquota do imposto seletivo
+
+223
+00:08:29.480 --> 00:08:31.200
+mesmo que você não esteja.
+
+224
+00:08:32.080 --> 00:08:33.599
+eh no sistema,
+
+225
+00:08:33.719 --> 00:08:33.830
+né?
+
+226
+00:08:33.880 --> 00:08:36.229
+Entendendo a estrutura sistêmica
+
+227
+00:08:36.679 --> 00:08:37.609
+do XML,
+
+228
+00:08:37.919 --> 00:08:39.869
+você já consegue perceber o que
+
+229
+00:08:40.320 --> 00:08:41.489
+eles estão desenhando
+
+230
+00:08:41.840 --> 00:08:46.619
+o que de fato precisa ser incluído na estrutura do XML do nosso cliente.
+
+231
+00:08:48.299 --> 00:08:49.750
+todas as informações que,
+
+232
+00:08:49.760 --> 00:08:50.250
+na verdade,
+
+233
+00:08:50.460 --> 00:08:53.299
+a própria lei complementar 214 nos traz,
+
+234
+00:08:53.659 --> 00:08:53.950
+né?
+
+235
+00:08:54.599 --> 00:08:54.989
+Então
+
+236
+00:08:55.780 --> 00:09:00.409
+o grupo B identificação da nossa escola eletrônica com novos campos obrigatórios
+
+237
+00:09:01.039 --> 00:09:01.580
+o UB,
+
+238
+00:09:01.700 --> 00:09:02.619
+que é a tributação,
+
+239
+00:09:03.299 --> 00:09:03.460
+né?
+
+240
+00:09:03.580 --> 00:09:04.690
+Dos novos tributos
+
+241
+00:09:05.340 --> 00:09:07.140
+O W03 é a totalização,
+
+242
+00:09:07.219 --> 00:09:08.989
+porque nós temos tributos por fora.
+
+243
+00:09:10.580 --> 00:09:14.409
+e as regras de validação também se encontram nas notas técnicas
+
+244
+00:09:14.900 --> 00:09:16.690
+E Quais são os principais riscos
+
+245
+00:09:17.059 --> 00:09:18.219
+dessas rejeições?
+
+246
+00:09:18.299 --> 00:09:19.570
+Essas regras de validação
+
+247
+00:09:19.979 --> 00:09:21.309
+É o seu contribuinte.
+
+248
+00:09:22.479 --> 00:09:25.210
+precisar emitir a nota e ele não conseguir
+
+249
+00:09:26.599 --> 00:09:30.090
+Então em qual página eu tenho que ler a nota técnica todas não.
+
+250
+00:09:30.450 --> 00:09:33.809
+Você precisa analisar o que de fato impacta no seu dia a dia.
+
+251
+00:09:34.369 --> 00:09:37.229
+Uma rejeição impacta o seu a sua operação.
+
+252
+00:09:37.739 --> 00:09:39.500
+Imagine-se imagine um varejo,
+
+253
+00:09:39.530 --> 00:09:41.729
+um e-commerce sem emitir as notas fiscais.
+
+254
+00:09:42.369 --> 00:09:46.030
+Então é importante a gente rever os principais riscos de uma não validação.
+
+255
+00:09:46.719 --> 00:09:48.119
+e dentro dessa perspectiva,
+
+256
+00:09:48.320 --> 00:09:49.789
+as vanas técnicas trazem
+
+257
+00:09:50.119 --> 00:09:52.830
+elas trazem um campo chamado Regra de validação.
+
+258
+00:09:53.690 --> 00:09:56.890
+Essa regra de validação é onde encontra-se as rejeições
+
+259
+00:09:57.330 --> 00:09:59.570
+que o seu contribuinte pode ter
+
+260
+00:09:59.750 --> 00:10:01.169
+numa emissão de um documento
+
+261
+00:10:01.659 --> 00:10:05.539
+e dentro desse aspecto traz aí ó rejeição IBS CBS
+
+262
+00:10:05.979 --> 00:10:06.809
+não informado.
+
+263
+00:10:07.950 --> 00:10:08.039
+Então.
+
+264
+00:10:08.130 --> 00:10:11.159
+Isso quer dizer que as empresas e os sistemas operacionais,
+
+265
+00:10:11.299 --> 00:10:12.469
+os sistemas contábeis
+
+266
+00:10:12.760 --> 00:10:15.190
+precisam começar a rever os processos.
+
+267
+00:10:15.200 --> 00:10:17.599
+Precisam entender se o seu sistema está
+
+268
+00:10:18.119 --> 00:10:19.150
+indo à frente
+
+269
+00:10:19.799 --> 00:10:21.039
+da reforma tributária,
+
+270
+00:10:21.119 --> 00:10:22.719
+entendendo as notas técnicas.
+
+271
+00:10:23.320 --> 00:10:25.429
+É importante a gente saber sobre essa movimentação.

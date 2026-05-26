@@ -1,0 +1,33 @@
+{
+  "id": 466242,
+  "title": "Efeitos da prescrição intercorrente",
+  "position": 4,
+  "duration": 278,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4cf6a948-de7a-4998-90b8-d572118d7e88/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cf6a948-de7a-4998-90b8-d572118d7e88/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cf6a948-de7a-4998-90b8-d572118d7e88/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cf6a948-de7a-4998-90b8-d572118d7e88/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cf6a948-de7a-4998-90b8-d572118d7e88/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

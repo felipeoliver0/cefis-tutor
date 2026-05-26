@@ -1,0 +1,501 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.000
+E aqui, pessoal, a gente inicia a parte de cadastros e tabelas.
+
+3
+00:00:05.000 --> 00:00:10.140
+Nós vamos começar tratando desses eventos, que são eventos de parâmetros
+
+4
+00:00:10.140 --> 00:00:14.339
+que nos dão a referência para a transmissão mensal dessa informação.
+
+5
+00:00:14.339 --> 00:00:21.179
+Então, a gente primeiro precisa começar falando do cadastro do empregador.
+
+6
+00:00:21.179 --> 00:00:25.019
+Então, você pode ter no seu sistema de folha
+
+7
+00:00:25.019 --> 00:00:27.559
+a possibilidade de dar dois cliques numa rotina,
+
+8
+00:00:27.559 --> 00:00:30.440
+ele vai abrir o cadastro da empresa.
+
+9
+00:00:30.440 --> 00:00:35.439
+Significa que aquele cadastro completo vai estar no S1000?
+
+10
+00:00:35.439 --> 00:00:37.240
+Não, não significa.
+
+11
+00:00:37.240 --> 00:00:39.479
+Por que não significa?
+
+12
+00:00:39.479 --> 00:00:42.399
+Porque existem tantas informações naquele cadastro
+
+13
+00:00:42.399 --> 00:00:45.740
+e o E-Social interpreta de uma maneira diferente.
+
+14
+00:00:45.740 --> 00:00:48.920
+Você, no cadastro do seu sistema de folha de pagamento,
+
+15
+00:00:48.920 --> 00:00:54.460
+você vai ter todos os dados do cliente, da sua empresa, da empresa que você trabalha,
+
+16
+00:00:54.460 --> 00:00:57.560
+mas na hora de transmitir esses dados para o E-Social, o seu sistema transmite.
+
+17
+00:00:57.560 --> 00:01:00.439
+O S1000, o S1005, o S1020.
+
+18
+00:01:00.439 --> 00:01:04.239
+São três eventos para atender todos aqueles cadastros da área trabalhista,
+
+19
+00:01:04.239 --> 00:01:06.439
+todos aqueles parâmetros, tá?
+
+20
+00:01:06.439 --> 00:01:14.359
+Mas hoje, o evento principal de cadastro do empregador é o S1000,
+
+21
+00:01:14.359 --> 00:01:17.280
+que é o evento inicial do E-Social, né?
+
+22
+00:01:17.280 --> 00:01:21.299
+Onde serão fornecidas ali pelo contribuinte informações cadastrais, alíquotas
+
+23
+00:01:21.299 --> 00:01:26.459
+e demais dados necessários de preenchimento e validação dos demais eventos do E-Social,
+
+24
+00:01:26.459 --> 00:01:27.439
+inclusive apuração.
+
+25
+00:01:27.439 --> 00:01:32.560
+Então, vamos parar para pensar, aqui já vai constar o CNPJ da empresa,
+
+26
+00:01:32.719 --> 00:01:37.540
+razão social, endereço, regime de tributação, se é do cinto, se é lucro real,
+
+27
+00:01:37.959 --> 00:01:39.420
+tudo isso no S1000.
+
+28
+00:01:39.859 --> 00:01:41.579
+Só que, como eu falei, né?
+
+29
+00:01:42.219 --> 00:01:45.480
+O seu software da folha de pagamento tem mais informações,
+
+30
+00:01:45.819 --> 00:01:47.159
+principalmente da área trabalhista.
+
+31
+00:01:47.480 --> 00:01:52.840
+E, consequentemente, vai vir a exigência de você emitir, transmitir outros eventos também.
+
+32
+00:01:52.840 --> 00:01:56.840
+O S1000, por exemplo, tem lá a configuração do CNPJ, do CPF,
+
+33
+00:01:57.439 --> 00:02:00.879
+do CAEPF e do Cadastro Nacional de Obras.
+
+34
+00:02:01.700 --> 00:02:03.659
+São tipos de empregadores.
+
+35
+00:02:03.980 --> 00:02:06.819
+Ele é responsável por toda essa transmissão, ok?
+
+36
+00:02:07.319 --> 00:02:10.479
+Agora, se a gente aprofundar um pouco mais,
+
+37
+00:02:10.819 --> 00:02:14.759
+precisar de mais informações do próprio cadastro da empresa que está no software,
+
+38
+00:02:15.360 --> 00:02:18.599
+o S1005 já fala dos estabelecimentos.
+
+39
+00:02:19.300 --> 00:02:23.500
+Uma estrutura de empresa coletiva com matriz e filiais
+
+40
+00:02:23.500 --> 00:02:26.500
+é ele o responsável por transmitir todos os outros CNPJs.
+
+41
+00:02:27.439 --> 00:02:31.280
+A matriz, as filiais, todas bonitinhos.
+
+42
+00:02:31.280 --> 00:02:37.520
+E ele ainda traz informações do KINAI preponderante, da Alicotarrat,
+
+43
+00:02:38.060 --> 00:02:39.960
+tudo isso vem no S1005.
+
+44
+00:02:40.520 --> 00:02:44.560
+Então, você está cadastrando um cliente novo, salvou aquela empresa,
+
+45
+00:02:44.759 --> 00:02:49.060
+automaticamente seu sistema já transmite o S1000 e o S1005, né?
+
+46
+00:02:49.360 --> 00:02:51.860
+Que é o complemento do cadastro do empregador.
+
+47
+00:02:52.360 --> 00:02:55.740
+Você pode ter também as informações são utilizadas na apuração das contas,
+
+48
+00:02:55.740 --> 00:02:55.759
+você pode ter também as informações são utilizadas na apuração das contas,
+
+49
+00:02:55.759 --> 00:02:56.800
+você pode ter também as informações são utilizadas na apuração das contas,
+
+50
+00:02:56.800 --> 00:02:57.439
+você pode ter também as informações são utilizadas na apuração das contas,
+
+51
+00:02:57.439 --> 00:02:58.199
+você pode ter também as informações são utilizadas na apuração das contas,
+
+52
+00:02:58.199 --> 00:03:00.879
+sobre a remuneração dos trabalhadores,
+
+53
+00:03:00.879 --> 00:03:04.139
+dos referidos estabelecimentos, obras ou KEPF.
+
+54
+00:03:04.139 --> 00:03:08.659
+Aqui, nós já sabemos que os estabelecimentos são controlados ali,
+
+55
+00:03:08.659 --> 00:03:11.879
+Alicotarrat, o KINAI preponderante.
+
+56
+00:03:11.879 --> 00:03:14.300
+Então, isso aqui faz muito sentido essa transmissão.
+
+57
+00:03:14.300 --> 00:03:19.460
+Como você cadastra, você vai conferir se esse evento subiu pela plataforma do E-Social.
+
+58
+00:03:20.120 --> 00:03:23.500
+Outra tabela que nos chama muita atenção,
+
+59
+00:03:23.500 --> 00:03:25.360
+que é feita a transmissão, né?
+
+60
+00:03:25.360 --> 00:03:26.000
+Logo assim, quando a gente começa a movimentar, logo assim, quando a gente começa a movimentar,
+
+61
+00:03:26.000 --> 00:03:27.039
+Logo assim, quando a gente começa a movimentar,
+
+62
+00:03:27.039 --> 00:03:32.259
+movimentar e parametrizar o sistema de folha, é a de rúbricas.
+
+63
+00:03:33.219 --> 00:03:35.180
+Então, aqui vai vir todas as incidências.
+
+64
+00:03:35.340 --> 00:03:38.439
+Você tem lá, por exemplo, uma rúbrica de salário.
+
+65
+00:03:39.219 --> 00:03:42.960
+Esse salário incide a INSS, incide o Fundo de Garantia, incide o Imposto de Renda.
+
+66
+00:03:43.479 --> 00:03:46.780
+Essa informação vai ficar bem clara, disponível para o governo.
+
+67
+00:03:46.780 --> 00:03:50.780
+Você vai fazer o download, você vai fazer o cadastro
+
+68
+00:03:50.780 --> 00:03:55.539
+e o seu sistema faz o upload dessa informação para o E-Social.
+
+69
+00:03:55.539 --> 00:04:00.539
+Claro que nós já sabemos que o seu sistema de folha já vem com essas tabelas preenchidas.
+
+70
+00:04:01.199 --> 00:04:04.680
+O nosso papel aqui é só conferir e depois transmitir os dados.
+
+71
+00:04:05.460 --> 00:04:09.840
+E nós temos também a criação de rúbricas informativas
+
+72
+00:04:09.840 --> 00:04:13.520
+que é uma responsabilidade do usuário do departamento pessoal.
+
+73
+00:04:14.340 --> 00:04:17.540
+Então, por exemplo, você vai precisar criar uma rúbrica de transporte
+
+74
+00:04:18.300 --> 00:04:23.620
+para demonstrar em folha de pagamento qual o valor que está sendo creditado
+
+75
+00:04:23.620 --> 00:04:25.379
+no cartão para o profissional usar.
+
+76
+00:04:25.540 --> 00:04:26.420
+O transporte.
+
+77
+00:04:27.339 --> 00:04:34.420
+Uma atenção maior ali, porque essa informação vai também no evento S-1010, tá?
+
+78
+00:04:34.819 --> 00:04:37.519
+E aqui, pessoal, eu falo da lotação.
+
+79
+00:04:38.160 --> 00:04:42.759
+A lotação é como se fosse um complemento do cadastro da empresa ainda.
+
+80
+00:04:43.480 --> 00:04:48.000
+S-1000, S-1005, S-1020.
+
+81
+00:04:48.560 --> 00:04:51.800
+Identifica o CNAE para tributação do código F-PAIS.
+
+82
+00:04:51.800 --> 00:04:55.300
+Então, por exemplo, a contribuição previdenciária,
+
+83
+00:04:55.540 --> 00:05:01.139
+patronal, ela só é apurada se você preencher os dados no seu sistema
+
+84
+00:05:01.139 --> 00:05:05.100
+da folha de pagamento, constando as informações do F-PAIS
+
+85
+00:05:05.100 --> 00:05:09.279
+que serão transmitidas no evento S-1020, tabela de lotação.
+
+86
+00:05:09.899 --> 00:05:13.420
+Então, ali serve para apurar esse tributo,
+
+87
+00:05:13.519 --> 00:05:16.540
+essa parte da contribuição previdenciária patronal,
+
+88
+00:05:16.920 --> 00:05:21.420
+a parte do terceiros, tudo isso ligado à rotina trabalhista.
+
+89
+00:05:21.420 --> 00:05:25.300
+Nós temos a lotação, que tem um conceito que reflete diretamente,
+
+90
+00:05:25.540 --> 00:05:29.000
+da contribuição previdenciária, e a obrigação do empregador
+
+91
+00:05:29.000 --> 00:05:32.639
+é ter pelo menos uma lotação tributária informada neste evento.
+
+92
+00:05:33.019 --> 00:05:36.160
+Então, se você tem uma única empresa, ela não tem filial,
+
+93
+00:05:36.579 --> 00:05:39.500
+você já sabe que vai cadastrar ela no seu sistema de folha,
+
+94
+00:05:39.899 --> 00:05:46.120
+e essa sua empresa, esse seu cliente, ele vai ter ali informações unificadas
+
+95
+00:05:46.120 --> 00:05:48.860
+no sistema da folha de pagamento, mas quando ele transmite para o social,
+
+96
+00:05:48.860 --> 00:05:55.259
+ele transmite o S-1000, o S-1005 e, automaticamente, o S-1020,
+
+97
+00:05:55.259 --> 00:05:59.220
+que trata da lotação, porque o E-Social entende dessa forma.
+
+98
+00:06:00.000 --> 00:06:04.079
+E aqui eu trago o quadro do próprio manual do E-Social,
+
+99
+00:06:04.639 --> 00:06:08.480
+com as informações do código F-Pais e de terceiros,
+
+100
+00:06:08.639 --> 00:06:10.439
+que você insere no seu sistema.
+
+101
+00:06:10.759 --> 00:06:13.279
+Então, se você tem uma empresa que é estabelecimento de ensino,
+
+102
+00:06:13.819 --> 00:06:18.019
+qual código F-Pais você vai usar? O 574, lá no seu cadastro de cliente.
+
+103
+00:06:18.439 --> 00:06:23.899
+Automaticamente, terceiros, 099, e aí o percentual para apuração.
+
+104
+00:06:23.899 --> 00:06:24.399
+Ok?
+
+105
+00:06:25.259 --> 00:06:30.279
+E para concluir a exigência de transmissão dos eventos de cadastro de tabelas,
+
+106
+00:06:30.699 --> 00:06:32.980
+eu trago para vocês o evento 1070,
+
+107
+00:06:33.420 --> 00:06:36.379
+que é um evento que fala de processos administrativos,
+
+108
+00:06:36.639 --> 00:06:39.120
+que é muito diferente de processos trabalhistas,
+
+109
+00:06:39.220 --> 00:06:42.740
+isso não tem nada a ver com aqueles eventos de reclamatória trabalhista, tá?
+
+110
+00:06:43.339 --> 00:06:45.259
+Nós estamos falando de processo administrativo,
+
+111
+00:06:45.300 --> 00:06:50.180
+onde uma empresa, ela consegue, via judicial,
+
+112
+00:06:50.180 --> 00:06:55.180
+uma autorização para calcular um indicador diferente do que a legislação,
+
+113
+00:06:55.259 --> 00:06:58.660
+a legislação estabelece, é aqui que a gente vai usar essa informação.
+
+114
+00:06:59.079 --> 00:07:01.319
+Eu insiro esse dado no meu cadastro da empresa,
+
+115
+00:07:01.500 --> 00:07:05.860
+automaticamente coloco o número do processo ali no cadastro da empresa,
+
+116
+00:07:05.860 --> 00:07:08.819
+no meu sistema, e o sistema vai gerar a informação
+
+117
+00:07:08.819 --> 00:07:11.720
+e transmitir para o E-Social através do 1070, tá?
+
+118
+00:07:12.079 --> 00:07:17.100
+Então, vamos dar um exemplo? Você tem um F-Pais, perdão, um FAP,
+
+119
+00:07:17.699 --> 00:07:23.660
+que é divergente, não bate com a informação que está lá na conta GOV da empresa, né?
+
+120
+00:07:23.660 --> 00:07:25.100
+Então, a empresa entrou com uma ação,
+
+121
+00:07:25.100 --> 00:07:29.560
+entrou com um processo administrativo no próprio FAP,
+
+122
+00:07:29.560 --> 00:07:33.959
+automaticamente o FAP não alterou, ela entrou com judicial,
+
+123
+00:07:33.959 --> 00:07:39.160
+conseguiu uma liminar, beleza, vai calcular reduzido, 0,50 via liminar.
+
+124
+00:07:39.160 --> 00:07:42.759
+Então, você tem que inserir esses dados no seu sistema de folha de pagamento
+
+125
+00:07:42.759 --> 00:07:48.420
+e automaticamente o evento 1070 será utilizado para transmitir os dados
+
+126
+00:07:48.420 --> 00:07:52.339
+para o E-Social, justificando aquela apuração diferenciada.

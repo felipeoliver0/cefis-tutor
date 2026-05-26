@@ -1,0 +1,33 @@
+{
+  "id": 487561,
+  "title": "Lucro Real - Saldo apurado",
+  "position": 61,
+  "duration": 37,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/df78cf79-c4bb-45a9-aeb7-50959c38b54a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df78cf79-c4bb-45a9-aeb7-50959c38b54a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df78cf79-c4bb-45a9-aeb7-50959c38b54a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df78cf79-c4bb-45a9-aeb7-50959c38b54a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df78cf79-c4bb-45a9-aeb7-50959c38b54a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

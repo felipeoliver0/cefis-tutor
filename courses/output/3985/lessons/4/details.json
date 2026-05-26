@@ -1,0 +1,33 @@
+{
+  "id": 480443,
+  "title": "A Relevância da DCTFWeb e MIT",
+  "position": 4,
+  "duration": 387,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c8cb3f88-9447-4479-a726-ba55691ff5ba/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c8cb3f88-9447-4479-a726-ba55691ff5ba/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c8cb3f88-9447-4479-a726-ba55691ff5ba/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c8cb3f88-9447-4479-a726-ba55691ff5ba/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c8cb3f88-9447-4479-a726-ba55691ff5ba/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

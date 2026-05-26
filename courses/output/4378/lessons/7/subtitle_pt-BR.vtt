@@ -1,0 +1,185 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.259
+Se eu fosse perguntar para vocês o seguinte, na era digital, como vai ficar o novo processo de apuração?
+
+2
+00:00:09.740 --> 00:00:12.580
+Vocês conseguiriam me demonstrar?
+
+3
+00:00:12.580 --> 00:00:28.500
+E o porquê eu falo isso? Porque quando falamos de uma escrituração fiscal, as coisas mudam quando falamos dessa nova era. Pensa comigo, vocês só conseguem escriturar o documento fiscal eletrônico
+
+4
+00:00:28.500 --> 00:00:33.399
+quando o seu cliente recebeu determinado item.
+
+5
+00:00:34.240 --> 00:00:40.479
+E quando ele recebe determinado item, ele faz um cadastro e identifica para vocês
+
+6
+00:00:40.479 --> 00:00:43.420
+qual é a finalidade daquela aquisição.
+
+7
+00:00:44.539 --> 00:00:48.960
+Ou vocês são responsáveis por definir isso, porque também tem processos assim.
+
+8
+00:00:49.960 --> 00:00:55.399
+Mas o item precisa estar dentro da empresa para que vocês façam a escrituração fiscal.
+
+9
+00:00:58.240 --> 00:01:09.719
+Enquanto isso, o seu cliente continua emitindo os documentos fiscais de saída. E no final do período, vocês apuram a totalização do débito,
+
+10
+00:01:10.219 --> 00:01:15.159
+apuram aquilo que chegou e que foi determinado como crédito para o ICMS
+
+11
+00:01:15.159 --> 00:01:17.760
+e vocês fazem a apuração.
+
+12
+00:01:18.599 --> 00:01:23.439
+É assim que acontece não só no ICMS, mas também no PIS e COFINS e no IPI.
+
+13
+00:01:23.439 --> 00:01:28.739
+Na nova era, pessoal, as coisas mudam de figura.
+
+14
+00:01:29.200 --> 00:01:29.680
+Por quê?
+
+15
+00:01:29.680 --> 00:01:33.459
+O XML vira um insumo para a receita.
+
+16
+00:01:34.599 --> 00:01:37.959
+O XML vira uma confissão de débito.
+
+17
+00:01:38.859 --> 00:01:41.799
+Quando o seu contribuinte emitir o documento,
+
+18
+00:01:42.200 --> 00:01:45.519
+já é uma confissão de débito, já aparece na apuração assistida.
+
+19
+00:01:47.879 --> 00:01:53.000
+Quando ele compra, já vai aparecer também na apuração assistida.
+
+20
+00:01:54.780 --> 00:02:05.599
+Mesmo que não tenha sido realizado o valor, já vai aparecer para vocês que existe um crédito não aproveitado.
+
+21
+00:02:06.000 --> 00:02:11.419
+E você só vai ter o crédito quando, de fato, na etapa anterior, houver o pagamento.
+
+22
+00:02:12.280 --> 00:02:19.379
+Então, o fiscal, ele atua como analista e conciliador dessas informações.
+
+23
+00:02:19.379 --> 00:02:26.419
+E muda a perspectiva de lançamento sobre a nossa apuração.
+
+24
+00:02:26.900 --> 00:02:27.360
+Por quê?
+
+25
+00:02:28.000 --> 00:02:32.039
+Nós passamos a fazer o fechamento diferente.
+
+26
+00:02:35.259 --> 00:02:40.180
+Nessa nova era, nós vamos precisar dos dados do XML,
+
+27
+00:02:41.360 --> 00:02:43.280
+dos eventos caso tenha,
+
+28
+00:02:44.020 --> 00:02:48.139
+porque nós temos diversos eventos agora no documento fiscal eletrônico,
+
+29
+00:02:48.460 --> 00:02:56.000
+que poderá até ajustar as informações da apuração, que poderão trazer finalidade de documentos fiscais.
+
+30
+00:02:58.740 --> 00:03:06.939
+Hoje nós temos eventos de cancelamento, de carta de correção, de inutilização, manifestação do destinatário.
+
+31
+00:03:08.159 --> 00:03:12.759
+O Fisco criou novos eventos que relacionam valores também.
+
+32
+00:03:13.599 --> 00:03:18.180
+Por isso que aqui está o seguinte, XML e eventos.
+
+33
+00:03:20.560 --> 00:03:28.620
+Depois do XML dos eventos, caso dentro da sua apuração seja necessário ajustes,
+
+34
+00:03:29.099 --> 00:03:36.020
+hoje nós realizamos lá na totalização, lá no SPED fiscal, lá na FD Contribuições,
+
+35
+00:03:36.099 --> 00:03:39.020
+o ajuste que for necessário e que tiver fundamentação legal.
+
+36
+00:03:39.840 --> 00:03:47.180
+Agora não, nós vamos utilizar o próprio documento fiscal eletrônico para então descrever a finalidade,
+
+37
+00:03:47.780 --> 00:03:53.280
+para então descrever se houve um ajuste de débito ou de crédito.
+
+38
+00:03:55.979 --> 00:04:00.639
+Esse documento fiscal vai referenciar o originário.
+
+39
+00:04:02.000 --> 00:04:07.419
+Ele tem como finalidade o mesmo que o nosso registro no espécie fiscal chamado E113,
+
+40
+00:04:07.759 --> 00:04:14.000
+que nos mostra quais são os documentos fiscais sobre aquele ajuste, só que agora dentro da origem,
+
+41
+00:04:14.080 --> 00:04:25.259
+dentro do documento. Então, após a emissão do XML, dos eventos analisados e dos ajustes, aí sim o período pode ser encerrado.
+
+42
+00:04:26.379 --> 00:04:27.959
+Olha como muda.
+
+43
+00:04:31.480 --> 00:04:32.199
+Só que muda apenas sobre a incidência do IBS e da CBS.
+
+44
+00:04:38.000 --> 00:04:39.480
+O ICMS, ele vai perdurar no fechamento de vocês até 2032,
+
+45
+00:04:45.459 --> 00:04:50.439
+que mantém a mesma regra de escrituração, de recebimento e de apuração. O que muda é que vocês vão coexistir simultaneamente
+
+46
+00:04:50.439 --> 00:04:56.199
+a apuração e o preenchimento dos documentos fiscais de forma distintas.

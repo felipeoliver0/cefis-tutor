@@ -1,0 +1,33 @@
+{
+  "id": 470612,
+  "title": "Mensuração após reconhecimento -parte 2",
+  "position": 47,
+  "duration": 315,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/00a24da7-71ca-48a2-81c6-1854cc6d6895/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00a24da7-71ca-48a2-81c6-1854cc6d6895/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00a24da7-71ca-48a2-81c6-1854cc6d6895/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00a24da7-71ca-48a2-81c6-1854cc6d6895/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00a24da7-71ca-48a2-81c6-1854cc6d6895/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

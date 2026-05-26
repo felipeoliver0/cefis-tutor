@@ -1,0 +1,541 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.460
+pessoal. Agora a gente vai ver as características do Arquivo Digital, né?
+
+2
+00:00:03.470 --> 00:00:06.530
+A gente já sabe ali, de grosso modo como é que isso funciona?
+
+3
+00:00:06.539 --> 00:00:11.060
+Mas vamos ver agora com mais detalhes as características desse arquivo digital.
+
+4
+00:00:11.069 --> 00:00:11.600
+Tá bom.
+
+5
+00:00:12.460 --> 00:00:18.709
+Então, começamos ali com os arquivos da F D ICMS P I e F. T. Contribuições, né?
+
+6
+00:00:18.719 --> 00:00:23.389
+EH a mesma sistemática de funcionamento Tá formato? Texto simples?
+
+7
+00:00:23.399 --> 00:00:26.149
+Tá com organização hierárquica, né?
+
+8
+00:00:26.159 --> 00:00:31.709
+Ou seja os campos têm campos, pais e campos filhos, né, que a gente vai poder ver,
+
+9
+00:00:31.719 --> 00:00:32.650
+aí tá,
+
+10
+00:00:33.439 --> 00:00:37.209
+os registros se iniciam na posição um e tem tamanho variável.
+
+11
+00:00:37.220 --> 00:00:40.880
+Tá então, por exemplo, o nome da empresa. Ele tem um tamanho variável, né?
+
+12
+00:00:40.889 --> 00:00:44.290
+Então eh uma empresa C A. Por exemplo, é uma empresa com um nome menor, né?
+
+13
+00:00:44.299 --> 00:00:50.569
+Agora a gente tem empresa eh siderúrgica, EH Nacional então empresa um pouco maior,
+
+14
+00:00:50.580 --> 00:00:50.849
+né?
+
+15
+00:00:50.860 --> 00:00:55.479
+Então o nome assim, por exemplo, é um campo variável, né? Isso é um exemplo apenas.
+
+16
+00:00:55.490 --> 00:00:56.909
+Tá, então,
+
+17
+00:00:57.279 --> 00:00:59.080
+iniciando a posição e tem tamanho variável?
+
+18
+00:00:59.090 --> 00:01:03.490
+A linha do arquivo digital deve conter os campos, na exata ordem,
+
+19
+00:01:03.500 --> 00:01:06.050
+e que estão listados os respectivos registros, né?
+
+20
+00:01:06.059 --> 00:01:09.129
+Então, se na ordem ele estapa, por exemplo,
+
+21
+00:01:09.139 --> 00:01:12.970
+primeiro o nome da empresa depois do C N PJ você não pode inverter isso?
+
+22
+00:01:12.980 --> 00:01:15.349
+Tem que manter a mesma ordem? Tá bom
+
+23
+00:01:16.279 --> 00:01:17.489
+No início do registro,
+
+24
+00:01:17.500 --> 00:01:21.550
+no final de cada campo deve ser inserido o carácter delimitador,
+
+25
+00:01:21.559 --> 00:01:26.209
+esse carácter aqui do teclado aí, se a gente pode achar ele aí, oh, é pipe, né?
+
+26
+00:01:26.220 --> 00:01:29.849
+É inglês que é o pessoal da informática, Gosta muito de termos em inglês, né?
+
+27
+00:01:29.860 --> 00:01:33.510
+Então usa o Pipe. Aí que é cano em inglês, né? Parece ser tão um cano mesmo
+
+28
+00:01:34.500 --> 00:01:38.470
+Ou né? A barra vertical, né? Que a gente no no mais simples aqui é a barra vertical.
+
+29
+00:01:38.480 --> 00:01:42.069
+Tá, Então esse caracter ele é o denominador tá tem até aqui.
+
+30
+00:01:42.080 --> 00:01:45.389
+Pra quem gosta muito de informática tá é o carácter cento e
+
+31
+00:01:45.400 --> 00:01:50.069
+vinte e quatro da tabela aí que normatiza os caracteres dos computadores.
+
+32
+00:01:50.080 --> 00:01:50.569
+Tá bom,
+
+33
+00:01:51.180 --> 00:01:54.309
+Então esse caractere aqui é o delimitador.
+
+34
+00:01:54.319 --> 00:01:57.849
+Vamos ver com mais detalhes como que isso vai funcionar. Tá
+
+35
+00:01:58.680 --> 00:02:00.430
+o carácter de limitador.
+
+36
+00:02:00.440 --> 00:02:01.169
+Ele,
+
+37
+00:02:01.180 --> 00:02:02.930
+ele não deve ser incluído como parte
+
+38
+00:02:02.940 --> 00:02:05.730
+integrante do conteúdo de quaisquer campos numéricos?
+
+39
+00:02:05.739 --> 00:02:06.730
+Ou alfanuméricos, né?
+
+40
+00:02:06.739 --> 00:02:10.179
+Vamos dizer que eu tenho uma empresa e no nome da empresa,
+
+41
+00:02:10.190 --> 00:02:11.850
+não sei porque tem esse caracter né?
+
+42
+00:02:11.860 --> 00:02:12.369
+Então,
+
+43
+00:02:12.380 --> 00:02:14.149
+como ele é delimitador a hora que eu
+
+44
+00:02:14.160 --> 00:02:17.050
+colocar esse carácter ali na estruturação fiscal,
+
+45
+00:02:17.059 --> 00:02:20.910
+ele vai achar que o campo acabou e começou outro e vai dar algum probleminha, né?
+
+46
+00:02:21.169 --> 00:02:24.520
+Então não pode ter este caractere aqui, né?
+
+47
+00:02:24.529 --> 00:02:29.940
+No nome de produto, no nome de empresas que você, trans, acionou que você vendeu, né?
+
+48
+00:02:29.949 --> 00:02:33.119
+Que você comprou no nome da sua própria empresa, né?
+
+49
+00:02:33.130 --> 00:02:35.580
+No nome do funcionário, por exemplo, tá.
+
+50
+00:02:35.589 --> 00:02:39.300
+Então, esse carácter não pode ter em campo de valor? Também? Não pode ter? Tá.
+
+51
+00:02:39.309 --> 00:02:42.020
+Eu falei vários nomes aqui, mas também em campo, de valor. Não pode ter.
+
+52
+00:02:42.029 --> 00:02:44.320
+Tá na ausência de informação, né?
+
+53
+00:02:44.990 --> 00:02:48.779
+O campo vazio, né? Campo sem conteúdo, campo nulo nu?
+
+54
+00:02:48.789 --> 00:02:50.080
+Do jeito que quiser chamar aqui,
+
+55
+00:02:50.089 --> 00:02:53.399
+deverá ser imediatamente encerrado com o caractere,
+
+56
+00:02:53.410 --> 00:02:54.800
+Então vai ficar um do ladinho do outro!
+
+57
+00:02:54.809 --> 00:02:57.960
+Tá? Nós vamos ver isso aqui, eh daqui a pouquinho tá bom.
+
+58
+00:02:57.970 --> 00:03:02.820
+Então pessoal, eu trouxe aqui agora a organização dos blocos de informação, né?
+
+59
+00:03:02.830 --> 00:03:11.039
+Com eh a organização dos blocos. Tá, então o arquivo digital do F D. Ele tem os blocos.
+
+60
+00:03:11.050 --> 00:03:13.339
+TÁ e essa seta aqui é o quê?
+
+61
+00:03:14.220 --> 00:03:18.070
+Primeiro, Bloco zero. Depois o Bloco B. Depois o C.
+
+62
+00:03:18.080 --> 00:03:22.509
+Depois o D o e e assim por diante, tá. Então ele é nessa ordem.
+
+63
+00:03:22.520 --> 00:03:26.630
+Eu não posso pegar o bloco h e jogar aqui. Eu não posso pegar o bloco nove e botar aqui.
+
+64
+00:03:26.639 --> 00:03:30.419
+Ah não posso fazer também zero um nove depois? B não não pode.
+
+65
+00:03:30.429 --> 00:03:33.770
+Tem que ser exatamente nessa ordem Tá?
+
+66
+00:03:34.449 --> 00:03:38.339
+Bloco zero Abertura Identificação Referência Bloco
+
+67
+00:03:38.350 --> 00:03:41.259
+B escrituração e amplia apuração do ISS
+
+68
+00:03:41.270 --> 00:03:43.699
+Bloco C Documentos de mercadorias Bloco
+
+69
+00:03:43.710 --> 00:03:47.410
+D Documentos de transporte Bloco é apuração
+
+70
+00:03:47.419 --> 00:03:50.220
+do I C M SS do P I Bloco G Controle do SE
+
+71
+00:03:50.229 --> 00:03:55.419
+AP h Inventário físico Bloco K Controle de produção Estoque das indústrias,
+
+72
+00:03:55.429 --> 00:03:55.940
+né?
+
+73
+00:03:55.949 --> 00:04:00.699
+Um outras informações e nove controle e encerramento do arquivo digital Tá?
+
+74
+00:04:00.710 --> 00:04:01.679
+Esses são os blocos
+
+75
+00:04:01.929 --> 00:04:05.059
+e são nesta ordem, tá isso aí,
+
+76
+00:04:05.070 --> 00:04:11.360
+eu tô falando da escrituração ICMS p i escrituração f d contribuições, tá,
+
+77
+00:04:12.600 --> 00:04:16.369
+Os blocos de informação, por sua vez, são compostos de registro, né?
+
+78
+00:04:16.380 --> 00:04:19.928
+Quando eu falei do bloco eh o bloco zero, vamos voltar aqui, Oh,
+
+79
+00:04:19.940 --> 00:04:23.250
+abertura e identificação, referência?
+
+80
+00:04:23.260 --> 00:04:23.750
+Tá,
+
+81
+00:04:24.339 --> 00:04:30.049
+Então este bloco zero Ele é composto por registros, né? Então os registros são o quê?
+
+82
+00:04:30.059 --> 00:04:32.730
+Primeiro registro zero Abertura do arquivo
+
+83
+00:04:33.350 --> 00:04:33.839
+registro.
+
+84
+00:04:33.850 --> 00:04:38.760
+Uma abertura do Bloco zero Registro cinco Dados complementares de entidade Aí vem,
+
+85
+00:04:38.769 --> 00:04:41.059
+por exemplo, registro, cem dados contabilistas,
+
+86
+00:04:41.730 --> 00:04:43.980
+tabela de cadastro participante, ou seja,
+
+87
+00:04:43.989 --> 00:04:46.359
+é uma empresa que eu comprei uma empresa que eu vendi
+
+88
+00:04:46.369 --> 00:04:48.940
+que quem que eu faço relações aqui são os participantes.
+
+89
+00:04:48.950 --> 00:04:53.260
+Tá bom identificação das unidades de medida que eu, que eu utilizo eu utilizo o quê?
+
+90
+00:04:53.269 --> 00:04:58.160
+Tonelada quilo D Como é que é que identificação das unidades de medida?
+
+91
+00:04:58.170 --> 00:05:01.519
+Tá itens que eu transa que eu compro que eu vendo,
+
+92
+00:05:01.769 --> 00:05:01.980
+né?
+
+93
+00:05:01.989 --> 00:05:06.179
+Correlação entre o código de I de itens Natureza da operação
+
+94
+00:05:06.190 --> 00:05:10.220
+Tabela de observação de lançamento fiscal tudo isso aqui são no registro
+
+95
+00:05:10.230 --> 00:05:13.700
+ZE no bloco Zero e o registro vai do zero zero
+
+96
+00:05:13.709 --> 00:05:18.179
+e vai incrementando ali até encerrar o bloco com o registro.
+
+97
+00:05:18.190 --> 00:05:22.519
+Novecentos e noventa Encerramento do Bloco zero tá bom, Então
+
+98
+00:05:22.980 --> 00:05:26.910
+é assim que o bloco se transacionar com o registro.
+
+99
+00:05:26.920 --> 00:05:32.049
+Então o Bloco de informações tem os registros do bloco tá
+
+100
+00:05:32.869 --> 00:05:38.600
+e eh esses eu falei pra vocês que é uma organização hierárquica né?
+
+101
+00:05:38.609 --> 00:05:43.799
+Ou seja tem registros em níveis diferentes de outros registros. TÁ?
+
+102
+00:05:43.809 --> 00:05:47.380
+Eu trouxe aqui pra vocês um que a gente vê com muita frequência, né?
+
+103
+00:05:47.390 --> 00:05:55.220
+Que é o registro eh dos documentos fiscais, né? De documentos, notas fiscais? Tá?
+
+104
+00:05:56.540 --> 00:05:58.029
+Então ele tá no bloco C, né?
+
+105
+00:05:58.040 --> 00:06:00.989
+Como eu falei pra vocês do bloco, ele tá no bloco C,
+
+106
+00:06:01.000 --> 00:06:06.029
+então no nível um tá o registro c zero zero um que ele
+
+107
+00:06:06.040 --> 00:06:09.769
+é o que ele é abertura do bloco C Então abriu o bloco!
+
+108
+00:06:10.739 --> 00:06:15.040
+Eu tenho no nível dois o registro c cem que que é esse registro?
+
+109
+00:06:15.049 --> 00:06:19.709
+C cem Ele é um documento fiscal documento NFE, Tá eu trouxe aqui,
+
+110
+00:06:19.720 --> 00:06:22.769
+por exemplo NFE número um dois três, quatro tá
+
+111
+00:06:23.529 --> 00:06:28.820
+depois do registro c cem eu tenho o C, cento e setenta são itens do documento fiscal,
+
+112
+00:06:28.829 --> 00:06:33.299
+mas veja que o C cento e setenta ele tá no nível três, Então quem?
+
+113
+00:06:33.309 --> 00:06:38.100
+Que é o pai dele é o C. Cem. Então, este cento e setenta aqui.
+
+114
+00:06:38.109 --> 00:06:44.119
+Ele é filho desse Então os itens desse documento fiscal são desse de nível dois, tá,
+
+115
+00:06:44.600 --> 00:06:47.049
+Nós temos aqui também depois do c, cento e noventa, né?
+
+116
+00:06:47.059 --> 00:06:52.410
+Registro analítico CFOP CST Alíquota Tá no mesmo nível do C, cento e setenta né,
+
+117
+00:06:52.420 --> 00:06:54.230
+que ele faz um registro analítico.
+
+118
+00:06:55.309 --> 00:06:59.079
+C um nove cinco, né? Complemento do registro analítico.
+
+119
+00:06:59.089 --> 00:07:04.040
+E ainda a gente tem agora o C cento e noventa e sete, outras obrigações tributárias,
+
+120
+00:07:04.049 --> 00:07:04.480
+ajustes,
+
+121
+00:07:04.489 --> 00:07:08.230
+informações a respeito desses eh desse item do documento
+
+122
+00:07:08.239 --> 00:07:10.920
+Tá então o c cento e noventa e sete.
+
+123
+00:07:10.929 --> 00:07:14.500
+Ele é filho do C. Cento e noventa e cinco. Então, isso é uma organização hierárquica.
+
+124
+00:07:15.010 --> 00:07:18.200
+E nota que agora, por exemplo, a gente vai ter outra nota fiscal.
+
+125
+00:07:18.209 --> 00:07:21.820
+Quando a gente tem outra nota fiscal, a gente faz o que lança outro registro,
+
+126
+00:07:21.829 --> 00:07:22.980
+cem novamente, tá?
+
+127
+00:07:22.989 --> 00:07:25.040
+Então, repete aqui o registro.
+
+128
+00:07:25.049 --> 00:07:29.859
+Cem, que é nota fiscal, Essa aqui já é de número um dois três cinco né?
+
+129
+00:07:29.869 --> 00:07:32.799
+Dois três, quatro dois, três, cinco, na sequência, aí
+
+130
+00:07:33.250 --> 00:07:36.779
+depois a gente tem o quê Outros cento e setenta? Só que esse cento e setenta!
+
+131
+00:07:36.790 --> 00:07:41.660
+Ele é relativo a esse sessenta, que é aquela outra nota. Ali tá e por aí vai.
+
+132
+00:07:41.670 --> 00:07:46.059
+Então é assim que funciona a hierarquia do arquivo pra organizar, né Os itens, né?
+
+133
+00:07:46.070 --> 00:07:52.160
+De acordo ali com a ocorrência de notas fiscais e tudo mais? Tá, Essa é a organização
+
+134
+00:07:52.790 --> 00:07:57.720
+hierárquica do arquivo que a gente trouxe aqui pra vocês Tá bom com os níveis.
+
+135
+00:07:57.730 --> 00:08:01.420
+Tá isso tem lá na tabela, lá do guia prático. Tá

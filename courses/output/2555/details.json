@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2555,
+    "title": "Carnê Leão",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Carnê Leão você vai aprender desde aspectos relativos aos rendimentos sujeitos ao Carnê Leão, período de apuração, prazo para recolhimento, dedução da base de cálculo, demonstrativo e muito mais para colocar em prática seus conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/55284da464a967e0721d9a6120996e5b1727445901.jpg",
+    "goals": [
+      "Apresentar desde aspectos relativos aos rendimentos sujeitos ao Carnê Leão, período de apuração, prazo para recolhimento, dedução da base de cálculo, demonstrativo e muito mais para colocar em prática seus conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 418635,
+      "name": "JOÃO OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1595429175.jpeg"
+    },
+    "duration": 4678,
+    "keywords": "carnê leão;carnê;leão",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 864,
+    "averageRating": 9.28,
+    "practiceAverage": 9.23,
+    "trailer": {
+      "id": "bc7f2cef-e007-4a85-a4cc-b289e3fb8140",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bc7f2cef-e007-4a85-a4cc-b289e3fb8140/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bc7f2cef-e007-4a85-a4cc-b289e3fb8140/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bc7f2cef-e007-4a85-a4cc-b289e3fb8140/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bc7f2cef-e007-4a85-a4cc-b289e3fb8140/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-05-05T20:20:24.000Z",
+      "updatedAt": "2023-05-05T20:20:23.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-05-10T17:36:00.000Z",
+    "recordedAt": "2023-04-22T00:00:00.000Z",
+    "createdAt": "2023-04-25T16:57:22.000Z"
+  }
+}

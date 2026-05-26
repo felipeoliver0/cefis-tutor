@@ -1,0 +1,33 @@
+{
+  "id": 465704,
+  "title": "Conceito de empregado rural",
+  "position": 3,
+  "duration": 87,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2062a4d1-0c46-47c7-8cee-63bd3fd8c242/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2062a4d1-0c46-47c7-8cee-63bd3fd8c242/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2062a4d1-0c46-47c7-8cee-63bd3fd8c242/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2062a4d1-0c46-47c7-8cee-63bd3fd8c242/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2062a4d1-0c46-47c7-8cee-63bd3fd8c242/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

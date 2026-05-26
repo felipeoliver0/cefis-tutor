@@ -1,0 +1,609 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.920
+eu vou tirar todos os PIS aqui. E eu venho aqui e coloco
+
+2
+00:00:05.119 --> 00:00:08.810
+posto bom Ele apareceu alto posto,
+
+3
+00:00:08.819 --> 00:00:15.829
+canela alto posto Everest carv autoposto posto campo postos Maik
+
+4
+00:00:16.719 --> 00:00:21.670
+quer dizer que todos os postos estão aqui quando eu acho a palavra posto?
+
+5
+00:00:21.680 --> 00:00:26.149
+Sim, aí, por exemplo, Ah, eu quero ver quando tem o termo auto.
+
+6
+00:00:28.299 --> 00:00:32.090
+Então eu tenho alto posto, canela alto, posto vel, alto posto.
+
+7
+00:00:32.098 --> 00:00:36.009
+Por exemplo, eu tenho um posto de combustível que ele não traz o nome alto quer ver Oh
+
+8
+00:00:37.860 --> 00:00:38.930
+o que é o
+
+9
+00:00:39.689 --> 00:00:42.040
+posto Campo verde? Posto mai?
+
+10
+00:00:43.049 --> 00:00:46.869
+Opa, então eu tenho um problema nesse tipo de filtro,
+
+11
+00:00:46.880 --> 00:00:50.139
+então é um filtro que eu posso ajudar a direcionar.
+
+12
+00:00:50.150 --> 00:00:55.700
+Ele não vai satisfazer se por algum motivo o posto for o último termo lá do do negócio,
+
+13
+00:00:55.709 --> 00:00:58.819
+tiver cortado, tiver só na hora que eu trouxe pra dentro,
+
+14
+00:00:58.830 --> 00:01:00.700
+ele cortou o nome do fornecedor.
+
+15
+00:01:00.709 --> 00:01:04.160
+Eu não vou conseguir, mas a gente tem oportunidades.
+
+16
+00:01:04.169 --> 00:01:08.949
+Então qual que é a ideia pessoal principal de utilizar o filtro?
+
+17
+00:01:08.959 --> 00:01:12.720
+É a gente economizar tempo, ganhar algumas informações.
+
+18
+00:01:13.029 --> 00:01:17.010
+Então aqui, por exemplo, conta contábil, tá lançando tudo na mesma conta contábil?
+
+19
+00:01:17.019 --> 00:01:22.459
+Falei então, beleza eu não tenho o que falar de informações, né? Então, qual que é?
+
+20
+00:01:22.470 --> 00:01:26.400
+O objetivo do filtro É eu selecionar o próprio nome,
+
+21
+00:01:26.410 --> 00:01:28.760
+já diz filtrar o que me interessa.
+
+22
+00:01:28.769 --> 00:01:31.319
+Eu posso ter critério, eu posso trazer.
+
+23
+00:01:31.330 --> 00:01:35.660
+Eu posso entender Bom, dando sequência na nossa atividade, Aí
+
+24
+00:01:36.510 --> 00:01:41.180
+a gente tem uma conta aqui, de razão, de estoques bom.
+
+25
+00:01:43.199 --> 00:01:46.050
+E o que eu falei mais cedo, um pouquinho na aula?
+
+26
+00:01:46.059 --> 00:01:48.629
+Ah, no começo, deixa eu tirar os filtros todos Aqui
+
+27
+00:01:49.550 --> 00:01:54.199
+a gente começa a ficar um pouco que pessoal eh como é que eu posso dizer,
+
+28
+00:01:54.209 --> 00:01:57.519
+A gente começa a ficar seletivo com algumas informações.
+
+29
+00:01:57.529 --> 00:02:00.959
+Como assim? Thiago Seletivo Poxa, vida.
+
+30
+00:02:00.970 --> 00:02:05.839
+Se eu tiver esse tipo de informação, na hora que eu for fazer uma consolidação,
+
+31
+00:02:05.849 --> 00:02:09.940
+uma conciliação, uma validação, eu encurta o meu trabalho.
+
+32
+00:02:10.210 --> 00:02:14.139
+Lembra daquele exemplo que eu desenhei venda conforme n f?
+
+33
+00:02:14.149 --> 00:02:19.100
+Tal tal tal, aí o número da nota série com seis dígitos? Isso vai ajudar demais.
+
+34
+00:02:19.110 --> 00:02:22.960
+Por quê? Eu vou dar um exemplo pra vocês aqui Oh, nesse histórico,
+
+35
+00:02:23.679 --> 00:02:29.250
+é um histórico de um sistema que é padronizado toda vez que ele começar com
+
+36
+00:02:29.259 --> 00:02:33.690
+b x ponto Tite Eu sei que é baixo de título e ele vem,
+
+37
+00:02:33.699 --> 00:02:37.570
+já Ministério da Fazenda Ministério dos Transportes Opa,
+
+38
+00:02:37.580 --> 00:02:42.589
+então eu já sei que toda vez que eu tiver o termo oh
+
+39
+00:02:43.380 --> 00:02:45.529
+d x ponto
+
+40
+00:02:47.240 --> 00:02:52.050
+título eu não estou falando de nota fiscal, eu não tô falando de recibo,
+
+41
+00:02:52.059 --> 00:02:53.220
+eu tô falando de quê?
+
+42
+00:02:53.229 --> 00:02:56.990
+Darf específico. Bom, vou cancelar aqui
+
+43
+00:02:58.100 --> 00:02:59.449
+e indo mais pra cá
+
+44
+00:03:00.419 --> 00:03:05.490
+Toda vez que eu ver o termo, ele começando com COFINS.
+
+45
+00:03:06.070 --> 00:03:08.679
+Eu sei que é o lançamento do crédito
+
+46
+00:03:08.690 --> 00:03:11.279
+tributário de uma determinada nota Então COFINS,
+
+47
+00:03:11.289 --> 00:03:16.220
+nota fiscal um meia nove COFINS, Nota fiscal duzentos e seis e por aí vai.
+
+48
+00:03:16.229 --> 00:03:18.339
+Quer dizer vou achar o COFINS aqui Oh, Oh,
+
+49
+00:03:18.350 --> 00:03:23.740
+ele lançou o frete Frete Nota Fiscal sete um nove oito, Transportadora,
+
+50
+00:03:23.750 --> 00:03:26.979
+aí ele cortou, porque ele, o histórico das vezes corta, né?
+
+51
+00:03:27.250 --> 00:03:31.259
+A nota fiscal foi trezentos e noventa e dois lançada aqui nessa conta,
+
+52
+00:03:31.270 --> 00:03:34.339
+que é a conta de matéria-prima, que é o custo do do frete,
+
+53
+00:03:34.350 --> 00:03:36.619
+de uma aquisição de um determinado produto.
+
+54
+00:03:36.630 --> 00:03:40.020
+E eu tomei Crédito PIS, COFINS, PIS COFINS sobre esse frete,
+
+55
+00:03:40.029 --> 00:03:43.380
+então aqui OH PIS n F sete um nove oito,
+
+56
+00:03:43.389 --> 00:03:44.880
+eu sei que é dessa mesma nota dessa
+
+57
+00:03:44.889 --> 00:03:47.520
+mesma transportadora o lançamento é Crédito do Piss,
+
+58
+00:03:48.259 --> 00:03:52.830
+o lançamento da creia da COFINS, Thiago todas as notas fiscais,
+
+59
+00:03:52.839 --> 00:03:54.470
+lançou o PIS e a COFINS.
+
+60
+00:03:54.479 --> 00:03:57.369
+Vamos fazer um teste? Quer ver oh eu digito aqui oh,
+
+61
+00:04:00.009 --> 00:04:03.539
+pelo menos vê se a quantidade total de COFINS e PIS tá batendo?
+
+62
+00:04:03.550 --> 00:04:07.919
+Quer ver eu selecionei COFINS toda vez que aparecer COFINS eu dou okay.
+
+63
+00:04:08.759 --> 00:04:14.009
+Eu sei que ele me apareceu. Mil e oitenta lançamentos aqui. Ele mostra a quantidade.
+
+64
+00:04:14.020 --> 00:04:15.710
+Aí eu vou e filtro o PIS. Agora
+
+65
+00:04:17.498 --> 00:04:18.048
+pi
+
+66
+00:04:19.660 --> 00:04:22.540
+me apareceu mil e oitenta também. Então tem mil e oitenta.
+
+67
+00:04:22.549 --> 00:04:24.679
+Lançamento de PIS mil e oitenta, lançamento de COFINS.
+
+68
+00:04:24.690 --> 00:04:28.829
+Opa então pra todas as notas que lançou, lançou PIS e COFINS.
+
+69
+00:04:28.839 --> 00:04:31.290
+Não tô falando que tá certo o lançamento de PIS e de COFINS,
+
+70
+00:04:31.299 --> 00:04:32.470
+mas pelo menos o piso e COFINS!
+
+71
+00:04:32.480 --> 00:04:36.049
+A quantidade tá batendo OK, bom,
+
+72
+00:04:36.899 --> 00:04:40.549
+toda vez que a gente vai fazer um processo de validação,
+
+73
+00:04:40.559 --> 00:04:43.989
+que que eu que que eu costumo e gosto muito de fazer?
+
+74
+00:04:44.000 --> 00:04:47.989
+Eu vou tirar pelo histórico padrão, Pelo histórico padrão,
+
+75
+00:04:48.000 --> 00:04:51.369
+a gente consegue mapear certos tipos de lançamento.
+
+76
+00:04:51.380 --> 00:04:56.109
+Então Thiago aqui tem inúmeros tipos de lançamentos,
+
+77
+00:04:56.119 --> 00:04:57.320
+eu vou ver os primeiros aqui oh!
+
+78
+00:04:57.329 --> 00:05:05.089
+Começou com b x de título eu vou colar b x ponto. Título okay,
+
+79
+00:05:06.309 --> 00:05:07.779
+eu sei que isso aqui pessoal
+
+80
+00:05:08.519 --> 00:05:09.589
+e um darf
+
+81
+00:05:11.059 --> 00:05:12.369
+eu vou chamar isso aqui
+
+82
+00:05:15.160 --> 00:05:16.070
+Beleza
+
+83
+00:05:18.320 --> 00:05:22.850
+que que eu vou e faço aqui eu já classifiquei os darfs, eu vou e marco aqui Oh,
+
+84
+00:05:22.859 --> 00:05:25.290
+toda vez que tiver classificado eu não quero que aparece nada,
+
+85
+00:05:25.299 --> 00:05:26.670
+Só quero que aparece vazios.
+
+86
+00:05:27.320 --> 00:05:31.589
+Vamos pro próximo item COFINS, então vou colocar aqui COFINS
+
+87
+00:05:35.630 --> 00:05:37.739
+eu vou pegar e vou lançar aqui
+
+88
+00:05:39.980 --> 00:05:44.010
+Thiago, toda vez que arrastar tem que fazer. E essa forma trabalhosa não.
+
+89
+00:05:44.019 --> 00:05:46.290
+Você pode fazer assim que vamos fazer aqui no piso, oh
+
+90
+00:05:48.260 --> 00:05:49.010
+diz
+
+91
+00:05:49.769 --> 00:05:50.380
+pessoal,
+
+92
+00:05:50.390 --> 00:05:52.859
+isso aqui eu vou explicar e cê é dar pausa no vídeo faz
+
+93
+00:05:52.869 --> 00:05:56.200
+depois pra você poder entender direitinho que que eu fiz aqui oh,
+
+94
+00:05:56.989 --> 00:05:59.079
+eu vou no sempre quando eu tiver colunas
+
+95
+00:05:59.089 --> 00:06:01.600
+que tão todas preenchidas contra ou pra baixo,
+
+96
+00:06:01.609 --> 00:06:02.779
+eu fui pro último item.
+
+97
+00:06:02.790 --> 00:06:06.140
+Tá vendo Oh, eu fui na coluna na linha dez mil oito sete,
+
+98
+00:06:06.149 --> 00:06:09.260
+quatro e contra ou pra cima eu fui na coluna na linha um
+
+99
+00:06:09.989 --> 00:06:15.839
+eu vou e marco, o quê? Escreva aqui PIS vou na do lado e coloco o control pra baixo.
+
+100
+00:06:15.850 --> 00:06:21.519
+Vou pra do lado, coloco aperto o control pra cima,
+
+101
+00:06:21.529 --> 00:06:26.160
+quando ele tá marcadinho assim Quer dizer que ele selecionou.
+
+102
+00:06:26.170 --> 00:06:28.320
+Eu vou e dou o control dele que eu dou control dele.
+
+103
+00:06:28.329 --> 00:06:30.239
+Arrasta o PIS todas pra baixo,
+
+104
+00:06:30.250 --> 00:06:33.239
+Então nessa brincadeira aqui eu já peguei mil e
+
+105
+00:06:33.250 --> 00:06:37.459
+oitenta lançamentos e falei todos esses lançamentos são PIS bom
+
+106
+00:06:38.000 --> 00:06:40.390
+vou aqui na minha planilha aqui e vou fazer assim, Oh
+
+107
+00:06:41.390 --> 00:06:41.859
+é
+
+108
+00:06:42.799 --> 00:06:46.670
+só dou okay no que eu dou o okay aqui Oh, o que que ele vai fazer?
+
+109
+00:06:49.089 --> 00:06:51.640
+Eu vou e desmarco aqui Desculpa desmarco
+
+110
+00:06:52.369 --> 00:06:56.679
+ele vai falar pra mim que existe já a classificação de COFINS de darf de PIS,
+
+111
+00:06:56.690 --> 00:06:58.739
+mas eu tô marcando só os vazios,
+
+112
+00:06:58.750 --> 00:07:02.540
+então ele vai me aparecer oito mil setecentos e nove lançamentos
+
+113
+00:07:02.549 --> 00:07:06.720
+de dez mil oitocentos e setenta e quatro Bom beleza.
+
+114
+00:07:06.730 --> 00:07:07.899
+Vamos seguir aqui.
+
+115
+00:07:07.910 --> 00:07:11.619
+Eu sei que toda vez que a o produto é vendido ele
+
+116
+00:07:11.630 --> 00:07:15.399
+dá a baixa no estoque lá do custo do produto vendido.
+
+117
+00:07:15.410 --> 00:07:20.239
+Então eu venho aqui tá começando com c p v eu venho oh c p V.
+
+118
+00:07:21.630 --> 00:07:25.720
+Como eu sei que o histórico é padrão, eu já tô acostumado, Então eu venho aqui oh,
+
+119
+00:07:25.730 --> 00:07:29.140
+ele me deu mil, trezentos e sessenta e sete lançamentos que é c p v
+
+120
+00:07:30.079 --> 00:07:34.470
+Opa, então eu vou aqui de baixa bom beleza
+
+121
+00:07:35.709 --> 00:07:40.220
+volta aqui pro meu histórico desmarco. Aí ele tem o próximo
+
+122
+00:07:41.119 --> 00:07:46.470
+e encaminhamento de ordem de produção de produto Acabado pra produção.
+
+123
+00:07:46.480 --> 00:07:49.790
+Eu tô fazendo o que ele tá rodando, uma ordem de produção.
+
+124
+00:07:50.790 --> 00:07:53.640
+Encaminhamento de o P Thiago. Como é que você sabe isso?
+
+125
+00:07:53.649 --> 00:07:55.519
+Eu conheço o histórico desse sistema.
+
+126
+00:07:55.529 --> 00:07:58.500
+Então toda vez que vai rodar uma ordem de produção,
+
+127
+00:07:58.510 --> 00:08:01.859
+ele vai dar baixa do item do estoque pra ordem de produção.
+
+128
+00:08:02.910 --> 00:08:03.359
+Quer dizer,
+
+129
+00:08:03.369 --> 00:08:08.320
+ele chegou o produto do estoque e caiu aqui porque é uma conta de produto acabado.
+
+130
+00:08:08.329 --> 00:08:10.140
+Então eu coloco aqui oh
+
+131
+00:08:11.089 --> 00:08:11.799
+o P
+
+132
+00:08:13.549 --> 00:08:17.420
+Não vamos chamar isso aqui, oh, de produto acabado!
+
+133
+00:08:19.359 --> 00:08:19.829
+Tá
+
+134
+00:08:21.869 --> 00:08:25.630
+bom outra forma de preencher tudo pra baixo eu
+
+135
+00:08:25.640 --> 00:08:28.019
+clico aqui e espero isso aqui virar essa.
+
+136
+00:08:28.029 --> 00:08:29.839
+Essa cruz dá dois cliques,
+
+137
+00:08:29.850 --> 00:08:35.200
+só que aí ele sempre vai arrastar com as colunas em sequência.
+
+138
+00:08:35.210 --> 00:08:38.659
+Não funciona tão bem Então vamos de novo lá pegar
+
+139
+00:08:39.359 --> 00:08:44.468
+oh pessoal aqui eu preenchi mais mil, trezentos e sessenta e um registros.
+
+140
+00:08:46.369 --> 00:08:50.760
+Dos dez mil oitocentos e setenta e quatro fica cinco falta cinco mil e novecentos.
+
+141
+00:08:50.770 --> 00:08:52.200
+Por que que eu tô falando isso?
+
+142
+00:08:52.210 --> 00:08:56.359
+Olha a velocidade, a velocidade que a gente tá conseguindo
+
+143
+00:08:57.590 --> 00:08:59.859
+ele eh que eu que eu posso dizer que eu estou
+
+144
+00:08:59.869 --> 00:09:04.440
+conseguindo categorizar o lançamento contábil de uma conta tão grande dessa?
+
+145
+00:09:04.450 --> 00:09:06.140
+Então vamos pra próxima.
+
+146
+00:09:06.869 --> 00:09:11.880
+Eu sei que toda vez que começa ou tem frete tá colando especificamente de frete.
+
+147
+00:09:11.890 --> 00:09:16.219
+Eu vou digitar aqui oh mil e cinquenta e sete fretes frete
+
+148
+00:09:19.030 --> 00:09:22.539
+frete desmarco aqui beleza!
+
+149
+00:09:23.960 --> 00:09:25.030
+Ah, beleza.
+
+150
+00:09:25.900 --> 00:09:29.150
+Volto aqui pro meu ICMS toda vez que eu tenho
+
+151
+00:09:29.159 --> 00:09:31.669
+um crédito de SMS sobre uma operação de entrada,
+
+152
+00:09:31.679 --> 00:09:34.369
+tá lançado lá, ICMS, Então eu vou pegar.

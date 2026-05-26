@@ -1,0 +1,33 @@
+{
+  "id": 482441,
+  "title": "Os novos tributos sobe o consumo",
+  "position": 12,
+  "duration": 109,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a7e3fd07-f6dd-4958-b32c-698deb4166f8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a7e3fd07-f6dd-4958-b32c-698deb4166f8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a7e3fd07-f6dd-4958-b32c-698deb4166f8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a7e3fd07-f6dd-4958-b32c-698deb4166f8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a7e3fd07-f6dd-4958-b32c-698deb4166f8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

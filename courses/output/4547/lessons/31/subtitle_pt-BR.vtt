@@ -1,0 +1,669 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.120
+O bloco J são informações da ECD, então nesse bloco aqui nós temos lá, do mesmo
+
+3
+00:00:07.120 --> 00:00:12.439
+jeito, todas as operações que influenciaram a base de cálculo, a associação das contas
+
+4
+00:00:12.439 --> 00:00:19.120
+do plano de contas contábil, recuperado da ECD com o plano de contas referencial, o DEPARA,
+
+5
+00:00:19.120 --> 00:00:24.879
+definido pelo COFIS, que é Coordenação Geral de Fiscalização, por meio de ato declaratório
+
+6
+00:00:24.879 --> 00:00:25.879
+executivo, ADE.
+
+7
+00:00:25.879 --> 00:00:30.920
+Então, olha lá, o que vai apresentar o bloco J?
+
+8
+00:00:30.920 --> 00:00:33.920
+Informações recuperadas da ECD.
+
+9
+00:00:33.920 --> 00:00:39.640
+Apresenta o mapeamento, o DEPARA, da contabilidade para o plano da receita, o plano referencial.
+
+10
+00:00:39.640 --> 00:00:43.780
+Eu disse a vocês que nós temos mais ou menos uns 10 planos de contas, perfeito?
+
+11
+00:00:43.780 --> 00:00:44.780
+Temos que acompanhar.
+
+12
+00:00:44.780 --> 00:00:52.500
+Caso a ECD recuperada possua o mapeamento para o plano de contas referencial, que é
+
+13
+00:00:52.500 --> 00:00:55.840
+o que eu indico lá no curso da ECD, que se faça lá.
+
+14
+00:00:55.840 --> 00:01:03.119
+Válido na ECF, o bloco J pode ser constituído automaticamente e é permitido a sua edição
+
+15
+00:01:03.119 --> 00:01:06.739
+para fazer algum ajuste, se necessário for, perfeito?
+
+16
+00:01:06.739 --> 00:01:10.879
+Se você não fez lá, tem que fazer aqui, perfeito?
+
+17
+00:01:10.879 --> 00:01:16.500
+Ou seja, o bloco J também pode ser importado independentemente da recuperação da ECD.
+
+18
+00:01:16.500 --> 00:01:18.719
+Você pode criar e importar também, perfeito?
+
+19
+00:01:18.719 --> 00:01:19.719
+Que é o DEPARA.
+
+20
+00:01:19.719 --> 00:01:22.879
+Faz a planilha lá, importa e joga para dentro, tá?
+
+21
+00:01:22.879 --> 00:01:25.780
+Obviamente, o ideal é que venha daqui, lá da ECD.
+
+22
+00:01:25.840 --> 00:01:27.579
+Esse é o mundo perfeito.
+
+23
+00:01:27.579 --> 00:01:34.920
+Ainda com informações, plano de contas específico na ECF para pessoa jurídica em geral, atividades
+
+24
+00:01:34.920 --> 00:01:42.879
+financeiras, seguradoras, imunes isenta, associação de poupança, entidades abertas de previdência
+
+25
+00:01:42.879 --> 00:01:46.340
+complementar, entidades fechadas e partidos políticos.
+
+26
+00:01:46.340 --> 00:01:53.120
+Então nós temos aí a 1, 2, 3, 4, 5, 6, 7, 8, se não me falo a memória, acho que é
+
+27
+00:01:53.120 --> 00:01:54.120
+a 10.
+
+28
+00:01:54.120 --> 00:01:55.120
+Mas temos 8 planos de contas.
+
+29
+00:01:55.120 --> 00:02:01.079
+O plano de contas específico na ECF, que é o jeito que a Receita quer enxergar.
+
+30
+00:02:01.079 --> 00:02:07.480
+Aí você tem aqui, olha lá, o mapeamento contábil barra referencial, o plano de contas,
+
+31
+00:02:07.480 --> 00:02:16.180
+o J050 conta contábil, J100 centro de custo, o K155 balanço e o K355 ADRE, tudo nesse
+
+32
+00:02:16.180 --> 00:02:22.860
+formato que eu vou mostrar para vocês aqui como que aparece, o passo a passo aqui, olha
+
+33
+00:02:22.860 --> 00:02:23.860
+lá.
+
+34
+00:02:23.860 --> 00:02:29.800
+Apresenta o mapeamento do plano de contas contábil para o plano de contas referencial.
+
+35
+00:02:29.800 --> 00:02:37.039
+O registro desses blocos podem ser digitados, importados, que é o que nós aconselhamos
+
+36
+00:02:37.039 --> 00:02:44.879
+evitar digitação, importados, replicados a partir do bloco E, ou recuperados da ECF
+
+37
+00:02:44.879 --> 00:02:49.819
+do período imediatamente anterior ao período de escrituração atual, transmitida via ESPED.
+
+38
+00:02:49.819 --> 00:02:50.819
+Tá?
+
+39
+00:02:50.819 --> 00:02:52.860
+Aí eu vou ter todos esses dados aqui.
+
+40
+00:02:52.860 --> 00:02:53.860
+Né?
+
+41
+00:02:53.860 --> 00:02:54.860
+Do bloco J.
+
+42
+00:02:54.860 --> 00:02:55.860
+Perfeito?
+
+43
+00:02:55.860 --> 00:02:59.680
+Então, até aqui nós estamos pegando dados passados.
+
+44
+00:02:59.680 --> 00:03:03.860
+Aqui o J050, olha, é o plano de contas do contribuinte.
+
+45
+00:03:03.860 --> 00:03:04.860
+Dá uma olhada lá.
+
+46
+00:03:04.860 --> 00:03:09.099
+Todos os Zezinhos, ou seja, todos os campos obrigatórios.
+
+47
+00:03:09.099 --> 00:03:13.759
+Data da atualização, código da natureza, tipo da conta, nível da conta.
+
+48
+00:03:13.759 --> 00:03:17.520
+Aqui se é débito, crédito se é ativo, se é passivo, nível, código superior, nome
+
+49
+00:03:17.520 --> 00:03:21.300
+da conta, enfim, são dados cadastrados do plano de contas, né?
+
+50
+00:03:21.300 --> 00:03:22.860
+Todos eles nós somos obrigados.
+
+51
+00:03:22.860 --> 00:03:28.500
+São campos obrigatórios, então eu tenho que preencher esses campos obrigatórios, né?
+
+52
+00:03:28.500 --> 00:03:38.860
+Aqui nós temos na conta 1, 01 conta de ativo, 02 conta de passivo, 03 patrimônio líquido,
+
+53
+00:03:38.860 --> 00:03:44.860
+04 conta de resultado, 05 conta de compensação e 09 outras.
+
+54
+00:03:44.860 --> 00:03:49.860
+Sendo que contas de compensação e outras, né?
+
+55
+00:03:49.860 --> 00:03:51.860
+Eu não faço a parametrização, tá?
+
+56
+00:03:51.860 --> 00:03:54.099
+Ou depara.
+
+57
+00:03:54.099 --> 00:03:56.759
+Então nós temos aí esses dados, né?
+
+58
+00:03:56.759 --> 00:03:58.759
+São as naturezas das contas.
+
+59
+00:03:58.759 --> 00:04:04.159
+O tipo da conta, se ela é analítica ou se ela é sintética, então A é analítica
+
+60
+00:04:04.159 --> 00:04:08.500
+e S sintética, clicando no drop-down você já consegue verificar, né?
+
+61
+00:04:08.500 --> 00:04:10.500
+Tipo da conta.
+
+62
+00:04:10.500 --> 00:04:14.379
+Registro onde deve ser informado o plano de contas da empresa, né?
+
+63
+00:04:14.379 --> 00:04:18.420
+Plano de contas da empresa é aqui que nós informamos, né?
+
+64
+00:04:18.420 --> 00:04:20.500
+Aí nós temos o registro J051.
+
+65
+00:04:20.500 --> 00:04:21.500
+É o registro J051.
+
+66
+00:04:21.500 --> 00:04:22.500
+É o referencial.
+
+67
+00:04:22.500 --> 00:04:25.819
+É o depara do meu para a receita.
+
+68
+00:04:25.819 --> 00:04:31.899
+Registro destinado a informar o plano de contas referencial da instituição gestora, referenciando
+
+69
+00:04:31.899 --> 00:04:36.740
+com as respectivas contas do plano de contas da pessoa jurídica, né?
+
+70
+00:04:36.740 --> 00:04:37.740
+Vai lá.
+
+71
+00:04:37.740 --> 00:04:43.740
+Somente devem ser referenciado as contas analíticas, contas sintéticas não.
+
+72
+00:04:43.740 --> 00:04:50.740
+Com natureza de código J050 igual a 01 contas de ativo, 02 passivo, 03 patrimônio líquido,
+
+73
+00:04:50.740 --> 00:04:51.740
+04 resultado.
+
+74
+00:04:51.740 --> 00:04:52.740
+Ou seja, o 05 e o 09 eu não referencio.
+
+75
+00:04:52.740 --> 00:04:53.740
+São as contas de compensação, ativo e passivo, né?
+
+76
+00:04:53.740 --> 00:04:54.740
+E as outras aí, perfeito?
+
+77
+00:04:54.740 --> 00:04:55.740
+Então, detalhe importante aí.
+
+78
+00:04:55.740 --> 00:04:56.740
+Muitas vezes dá erro o pessoal fazendo isso aqui.
+
+79
+00:04:56.740 --> 00:04:57.740
+O erro é causado por causa disso.
+
+80
+00:04:57.740 --> 00:04:58.740
+Aqui algumas observações, né?
+
+81
+00:04:58.740 --> 00:04:59.740
+No J051, que é o plano de contas referencial.
+
+82
+00:04:59.740 --> 00:05:00.740
+Caso a empresa utiliza centro de custo para referenciamento na ECD, que eu posso utilizar,
+
+83
+00:05:00.740 --> 00:05:01.740
+né?
+
+84
+00:05:01.740 --> 00:05:02.740
+Da mesma forma deve proceder no J051, que é o plano de contas referencial.
+
+85
+00:05:02.740 --> 00:05:03.740
+Caso a empresa utiliza centro de custo para referenciamento na ECD, que eu posso utilizar,
+
+86
+00:05:03.740 --> 00:05:04.740
+né?
+
+87
+00:05:04.740 --> 00:05:05.740
+Da mesma forma deve proceder no J051, que é o plano de contas referencial.
+
+88
+00:05:05.740 --> 00:05:31.639
+Caso a pessoa jurídica utilize subcontas auxiliares conforme previsto nos artigos
+
+89
+00:05:31.639 --> 00:05:34.839
+da Instituição Normativa 1700, né?
+
+90
+00:05:34.839 --> 00:05:40.379
+As subcontas auxiliares devem ser mapeadas para a conta-pai da respectiva subconta.
+
+91
+00:05:40.379 --> 00:05:42.560
+O que é conta auxiliar?
+
+92
+00:05:42.560 --> 00:05:47.620
+Foi quando nós implantamos o IFRS que a Receita Federal diz, olha, eu quero enxergar dentro
+
+93
+00:05:47.620 --> 00:05:51.240
+da contabilidade essas contabilizações.
+
+94
+00:05:51.240 --> 00:05:57.379
+Então se eu tenho um valor de um veículo, custou 100 mil, mas aí eu faço um ajuste
+
+95
+00:05:57.379 --> 00:06:00.560
+de avaliação patrimonial, ele passa a ser 120.
+
+96
+00:06:00.560 --> 00:06:04.079
+Esses 20 mil eu tenho que contabilizar numa subconta de veículo.
+
+97
+00:06:04.079 --> 00:06:04.839
+Somando os dois vai ser 120.
+
+98
+00:06:04.839 --> 00:06:07.339
+Então isso é subconta.
+
+99
+00:06:07.339 --> 00:06:12.379
+Então quando eu referenciar a conta veículo, a subconta eu também tenho que referenciar
+
+100
+00:06:12.379 --> 00:06:14.459
+para a conta-pai, entendeu?
+
+101
+00:06:14.459 --> 00:06:17.839
+Porque no plano referencial não tem subconta, só no nosso, entendeu?
+
+102
+00:06:17.839 --> 00:06:20.740
+Que é isso que a Receita Federal quer enxergar isso.
+
+103
+00:06:20.740 --> 00:06:23.920
+Mas ela recebe os dois planos, perfeito?
+
+104
+00:06:23.920 --> 00:06:24.920
+Então é assim que funciona.
+
+105
+00:06:24.920 --> 00:06:25.920
+Vamos um exemplo para ver.
+
+106
+00:06:25.920 --> 00:06:32.939
+Plano de contas J050, veículos, tá lá, veículos, subconta auxiliar, depois subconta
+
+107
+00:06:32.939 --> 00:06:34.379
+ajuste a valor presente, por exemplo.
+
+108
+00:06:34.379 --> 00:06:40.699
+Que é um outro CPC, CPC 12, tá lá ó, mapeamento para a conta referencial veículo, veículo
+
+109
+00:06:40.699 --> 00:06:50.139
+e a subconta também para a mesma subconta lá, para a conta-pai, J051 referencial, perfeito?
+
+110
+00:06:50.139 --> 00:06:58.120
+O 053, subcontas correlata, registro utilizado para demonstrar os grupos compostos de uma
+
+111
+00:06:58.120 --> 00:07:02.620
+conta-pai e mais de uma ou subcontas correlatas.
+
+112
+00:07:02.620 --> 00:07:03.920
+É possível utilizar o mesmo código?
+
+113
+00:07:03.920 --> 00:07:09.759
+O mesmo código de identificação do grupo para mais de um conjunto de conta-pai e subcontas.
+
+114
+00:07:09.759 --> 00:07:12.279
+Hoje muito poucas empresas têm subconta, né?
+
+115
+00:07:12.279 --> 00:07:14.240
+Vamos ver um exemplo aí.
+
+116
+00:07:14.240 --> 00:07:20.879
+Grupo 1, conta-pai, informado no registro J050, veículo, subconta, ajuste a valor
+
+117
+00:07:20.879 --> 00:07:28.199
+presente, AVP, também deve estar informado no mesmo J050 de veículos, né?
+
+118
+00:07:28.199 --> 00:07:32.879
+Aqui conta-pai informada no registro J050, depreciação acumulada.
+
+119
+00:07:32.879 --> 00:07:33.879
+Subconta.
+
+120
+00:07:33.879 --> 00:07:38.040
+Ajuste a valor presente da depreciação, também deve estar no J050.
+
+121
+00:07:38.040 --> 00:07:40.480
+Então tudo para a mesma conta, tá?
+
+122
+00:07:40.480 --> 00:07:42.060
+Fazer o referenciamento.
+
+123
+00:07:42.060 --> 00:07:44.079
+E aí uma observação.
+
+124
+00:07:44.079 --> 00:07:50.959
+De acordo com o artigo 300, parágrafo 3º e 4º da Instrução Normativa nº 1.700, caso
+
+125
+00:07:50.959 --> 00:07:57.579
+a própria conta do ativo ou passivo seja utilizado como subconta correlata, o registro
+
+126
+00:07:57.579 --> 00:08:00.879
+I053 não deve ser informado.
+
+127
+00:08:00.879 --> 00:08:03.879
+Se porventura tiver tudo na mesma conta, tá?
+
+128
+00:08:03.879 --> 00:08:06.120
+Então também é importante, olha lá.
+
+129
+00:08:06.120 --> 00:08:13.639
+Código da subconta correlata, registro de subcontas, natureza conforme tabela de natureza
+
+130
+00:08:13.639 --> 00:08:14.639
+de subconta.
+
+131
+00:08:14.639 --> 00:08:19.120
+Então aí nós temos os dados técnicos que a gente pega do manual para tentar explicar
+
+132
+00:08:19.120 --> 00:08:21.360
+como é que funciona isso, tá?
+
+133
+00:08:21.360 --> 00:08:24.660
+Mais a parte do ITI aí, mas aí para a gente é bem tranquilo.
+
+134
+00:08:24.660 --> 00:08:30.079
+Aqui eu trago para vocês exemplos de subcontas, tem várias, né?
+
+135
+00:08:30.079 --> 00:08:32.039
+Controlada direta no exterior.
+
+136
+00:08:32.039 --> 00:08:33.039
+Goodwill.
+
+137
+00:08:33.039 --> 00:08:34.200
+Mais-valia.
+
+138
+00:08:34.200 --> 00:08:35.200
+Menos-valia.
+
+139
+00:08:35.200 --> 00:08:39.120
+Aqui são tópicos avançados de contabilidade que a gente aborda, né?
+
+140
+00:08:39.120 --> 00:08:40.120
+O que é o Goodwill?
+
+141
+00:08:40.120 --> 00:08:42.120
+Goodwill é o ágio, né?
+
+142
+00:08:42.120 --> 00:08:43.120
+O antigo ágio.
+
+143
+00:08:43.120 --> 00:08:44.120
+Mais-valia.
+
+144
+00:08:44.120 --> 00:08:45.120
+Menos-valia.
+
+145
+00:08:45.120 --> 00:08:46.120
+Enfim.
+
+146
+00:08:46.120 --> 00:08:47.120
+Então tudo isso aqui é subconta.
+
+147
+00:08:47.120 --> 00:08:50.139
+Depreciação acumulada deles, amortização.
+
+148
+00:08:50.139 --> 00:08:54.000
+Então você tem exemplos, isso está dentro do próprio programa.
+
+149
+00:08:54.000 --> 00:09:01.279
+Aqui nós temos o fundamento legal, basicamente tanto a Lei 12973 como o Decreto 1598.
+
+150
+00:09:01.279 --> 00:09:02.899
+Então tem todo o fundamento.
+
+151
+00:09:02.899 --> 00:09:04.940
+E a conta principal de cada uma.
+
+152
+00:09:04.940 --> 00:09:07.460
+Então a principal e a subconta, né?
+
+153
+00:09:07.460 --> 00:09:13.320
+Então quando você estiver fazendo o referenciamento, que você direcionar para a conta principal,
+
+154
+00:09:13.320 --> 00:09:17.220
+a subconta também tem que ser para a conta principal, né?
+
+155
+00:09:17.220 --> 00:09:19.460
+Seja ativo, passivo, enfim, tá?
+
+156
+00:09:19.460 --> 00:09:20.460
+Esse é o objetivo.
+
+157
+00:09:20.460 --> 00:09:23.700
+Está aí o bloco J100, né?
+
+158
+00:09:23.700 --> 00:09:24.700
+Centro de custo.
+
+159
+00:09:24.700 --> 00:09:26.960
+Se eu tiver campus, está lá.
+
+160
+00:09:26.960 --> 00:09:29.620
+Data da alteração, centro de custo, nome.
+
+161
+00:09:29.620 --> 00:09:31.940
+Se eu utilizar o centro de custo, né?
+
+162
+00:09:31.940 --> 00:09:37.539
+Registro destinado à informação do centro de custos utilizado pela pessoa jurídica.
+
+163
+00:09:37.539 --> 00:09:40.399
+Então se eu tenho um centro de custo, é obrigatório aqui, né?
+
+164
+00:09:40.399 --> 00:09:43.820
+A gente cria o centro de custo, então já vem para cá automático também.
+
+165
+00:09:43.820 --> 00:09:45.899
+Está lá o centro de custo, ó.
+
+166
+00:09:45.899 --> 00:09:50.240
+Texto fixo contendo a identificação do registro, data de inclusão e alteração, código do
+
+167
+00:09:50.240 --> 00:09:52.940
+centro de custo, nome do centro de custo.
+
+168
+00:09:52.940 --> 00:09:56.000
+Então obrigatório todos eles lá no J100.

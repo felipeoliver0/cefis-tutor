@@ -1,0 +1,453 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.020
+E aí, na prática, o que eu estou querendo?
+
+2
+00:00:02.520 --> 00:00:05.320
+Eu estou querendo que os meus processos ao longo do tempo,
+
+3
+00:00:05.379 --> 00:00:07.960
+que estão muito esparramados, eles vão se centralizando.
+
+4
+00:00:08.240 --> 00:00:11.000
+Quando ele está muito esparramado, eu falo que ele é um processo 1 sigma.
+
+5
+00:00:11.179 --> 00:00:14.140
+Provavelmente aqui ele vai ter um desvio padrão
+
+6
+00:00:14.140 --> 00:00:16.559
+entre os limites que eu aceito desse processo.
+
+7
+00:00:16.980 --> 00:00:20.199
+Quando ele vai centralizando, ele começa a caber mais desvios padrões aqui dentro.
+
+8
+00:00:20.519 --> 00:00:24.140
+Até a hora que ele está aqui, o verdinho 6, ele quase nem sai, está vendo?
+
+9
+00:00:24.140 --> 00:01:05.180
+Então eu tenho 6 desvios padrões aqui dentro. FIS sei lá, viagem de avião fosse um sigma. Você viajava de avião? Você tem 30% de chance de dar certo.
+
+10
+00:01:05.480 --> 00:01:06.280
+Você não viajava, né?
+
+11
+00:01:06.640 --> 00:01:11.920
+Agora, 2 sigma, isso já significa quase 70% de chance de qualidade.
+
+12
+00:01:12.239 --> 00:01:15.040
+3 sigma já foi uma subida boa, 93.
+
+13
+00:01:15.040 --> 00:01:21.000
+E aí você vai vindo até o 6 sigma, que é 99,997% de qualidade.
+
+14
+00:01:21.500 --> 00:01:23.019
+Então você tem muito pouco erro.
+
+15
+00:01:23.299 --> 00:01:45.480
+Eu tenho um processo que aí eu vou melhorando ele, e aí aqui eu estou tirando mato alto, né? FISIOS 69 para 93, quase mais de 20 e tantos por cento aqui, quase 30 por cento.
+
+16
+00:01:45.599 --> 00:01:48.280
+7, 8, 23, 24 por cento aqui de ganho.
+
+17
+00:01:48.659 --> 00:01:49.739
+Então, tem um 24 por cento.
+
+18
+00:01:49.819 --> 00:01:50.879
+Nossa, matou alto ainda.
+
+19
+00:01:51.140 --> 00:01:55.140
+Agora, quando eu venho para cá, eu já estou ganhando 6 por cento.
+
+20
+00:01:55.400 --> 00:01:58.060
+Aqui eu estou ganhando 0,6 por cento.
+
+21
+00:01:58.140 --> 00:01:59.340
+Aqui eu estou ganhando 0,00.
+
+22
+00:01:59.659 --> 00:02:02.099
+Então, cada vez que você vai fazendo a melhoria, a melhoria vai ficando mais difícil.
+
+23
+00:02:02.180 --> 00:02:45.580
+Você está tirando o ajuste fino da operação. Por isso que o Six Sigma entra agora nesse terceiro nível de maturidade. FISIOS É uma análise para eu comparar várias fontes. Lembra que eu falei para vocês sobre sistemas complexos?
+
+24
+00:02:45.639 --> 00:02:51.439
+Que tem várias fontes impactando, vários inputs impactando o processo ao mesmo tempo.
+
+25
+00:02:51.520 --> 00:02:52.379
+Várias coisas, né?
+
+26
+00:02:52.659 --> 00:02:54.020
+Várias relações de causa e efeito.
+
+27
+00:02:54.340 --> 00:02:55.539
+Aqui eu consigo comparar várias.
+
+28
+00:02:55.680 --> 00:02:59.919
+Nesse caso específico aqui, a gente está comparando três grandes variáveis ao mesmo tempo.
+
+29
+00:03:00.000 --> 00:03:02.580
+Então, a primeira variável está separada nos blocos, né?
+
+30
+00:03:02.599 --> 00:03:05.039
+Primeira variável, segunda variável, terceira variável. A segunda variável está separada nos blocos, primeira variável, segunda variável, terceira variável.
+
+31
+00:03:05.639 --> 00:03:08.060
+A segunda variável está separada nas colunas,
+
+32
+00:03:08.460 --> 00:03:10.719
+primeira variável, segunda variável, terceira variável.
+
+33
+00:03:11.219 --> 00:03:13.539
+E por último, a última está no gráfico,
+
+34
+00:03:13.699 --> 00:03:15.800
+uma, duas, três, uma, duas, três.
+
+35
+00:03:15.919 --> 00:03:17.740
+Então cada variável teria três variações.
+
+36
+00:03:18.300 --> 00:03:20.659
+E aí você vê como que a combinação delas
+
+37
+00:03:20.659 --> 00:03:22.439
+impacta o sistema complexo.
+
+38
+00:03:22.439 --> 00:03:26.439
+Quando se combina a variável 1 com a 3,
+
+39
+00:03:26.699 --> 00:03:27.780
+olha só o que ela causa.
+
+40
+00:03:27.939 --> 00:03:30.080
+Um impacto gigantesco aqui, vai lá embaixo.
+
+41
+00:03:30.560 --> 00:03:32.840
+E a 1 com a 3 com a 1,
+
+42
+00:03:33.560 --> 00:03:36.360
+aí ela tem um impacto pior ainda, ela piora mais.
+
+43
+00:03:36.680 --> 00:03:38.740
+Mas o 1 com a 3 impacta muito mais.
+
+44
+00:03:38.840 --> 00:03:40.419
+Essa terceira aqui quase que não tem diferença.
+
+45
+00:03:40.939 --> 00:03:44.419
+Então a gente consegue ver o que realmente está impactando o meu processo.
+
+46
+00:03:44.780 --> 00:03:45.759
+Agora quando eu combino
+
+47
+00:03:45.759 --> 00:03:47.919
+a 2 com a 2, opa, é o melhor
+
+48
+00:03:47.919 --> 00:03:49.919
+resultado que eu tenho. E a 2 com a 2
+
+49
+00:03:49.919 --> 00:03:51.800
+com a 2 é o melhor dos melhores resultados
+
+50
+00:03:51.800 --> 00:03:53.939
+que eu tenho. Então aí você consegue ter uma visão muito
+
+51
+00:03:53.939 --> 00:03:55.939
+mais clara de como que você maximiza os
+
+52
+00:03:55.939 --> 00:03:57.919
+ganhos também no seu resultado.
+
+53
+00:03:58.000 --> 00:03:59.960
+Tem uma outra análise que chama DOE, Design of
+
+54
+00:03:59.960 --> 00:04:02.240
+Experiments. Além de avaliar
+
+55
+00:04:02.240 --> 00:04:04.340
+as variáveis isoladamente, ela combina
+
+56
+00:04:04.340 --> 00:04:05.379
+as variáveis pra uma Ela combina as variáveis
+
+57
+00:04:05.379 --> 00:04:06.780
+Para uma análise
+
+58
+00:04:06.780 --> 00:04:09.060
+Você tem a variável A sozinha
+
+59
+00:04:09.060 --> 00:04:11.199
+A e C, B e C, B, A e B
+
+60
+00:04:11.199 --> 00:04:13.139
+A, B e C, as três combinadas e C
+
+61
+00:04:13.139 --> 00:04:14.500
+C impacta muito
+
+62
+00:04:14.500 --> 00:04:17.399
+Muito mais do que a combinação entre as três
+
+63
+00:04:17.399 --> 00:04:19.300
+Porque quando as três se impactam
+
+64
+00:04:19.300 --> 00:04:21.279
+Juntas, uma meio que vai anulando a outra
+
+65
+00:04:21.279 --> 00:04:23.259
+Então elas acabam impactando mais
+
+66
+00:04:23.259 --> 00:04:24.379
+Do que a variável C sozinha
+
+67
+00:04:24.379 --> 00:05:05.500
+Então vamos focar na variável C isoladamente Então você consegue ver FISIOS Sem remédio e sem tomar álcool, mas tomando álcool piora um pouquinho a saúde dele, com álcool, tá vendo?
+
+68
+00:05:12.180 --> 00:05:12.579
+Mas quando eu combino a variável de com remédio, que é a linha vermelha, e com álcool,
+
+69
+00:05:15.180 --> 00:05:15.480
+aí o cara morre, dependendo do remédio, esse remédio aqui.
+
+70
+00:05:17.980 --> 00:05:18.339
+Então você consegue ver o impacto de duas variáveis juntas.
+
+71
+00:05:19.879 --> 00:05:20.220
+Você fala assim, ah, beber álcool mata? Não.
+
+72
+00:05:23.120 --> 00:05:26.399
+Mas se você tomar remédio com álcool junto, ali vai matar o cara, né? Então você consegue ver o cruzamento dos impactos
+
+73
+00:05:26.399 --> 00:05:27.319
+entre as causas e efeitos.
+
+74
+00:05:27.399 --> 00:05:28.819
+Aí eu volto na nossa análise.
+
+75
+00:05:29.259 --> 00:05:30.240
+Só para a gente fechar aqui.
+
+76
+00:05:30.379 --> 00:05:32.220
+É uma análise que se chama ANOVA,
+
+77
+00:05:32.379 --> 00:05:35.300
+Análise of Variance, Análise de Variância.
+
+78
+00:05:35.639 --> 00:05:37.199
+E aí a gente fez o teste com os adesivos.
+
+79
+00:05:37.300 --> 00:05:38.019
+Será que eu posso trocar?
+
+80
+00:05:38.139 --> 00:05:40.579
+A gente tinha chegado nesse gráfico aqui.
+
+81
+00:05:41.240 --> 00:05:41.959
+Opa, mas espera aí.
+
+82
+00:05:42.060 --> 00:05:44.100
+Agora vocês sabem que os dados têm variações.
+
+83
+00:05:44.639 --> 00:05:46.000
+E que isso aqui, a gente não pegou
+
+84
+00:05:46.000 --> 00:05:47.939
+todos os adesivos,
+
+85
+00:05:48.040 --> 00:05:49.480
+a gente pegou uma amostra de adesivos.
+
+86
+00:05:49.980 --> 00:05:52.000
+Então essa média aqui não necessariamente
+
+87
+00:05:52.000 --> 00:05:54.040
+ela é a média real,
+
+88
+00:05:54.139 --> 00:05:55.759
+essa média ela pode variar.
+
+89
+00:05:55.980 --> 00:05:58.120
+E essa média, essa média e essa média
+
+90
+00:05:58.120 --> 00:06:00.120
+me dá a entender que esse aqui é o melhor
+
+91
+00:06:00.120 --> 00:06:01.540
+resultado, mas quando eu coloco
+
+92
+00:06:01.540 --> 00:06:03.980
+o intervalo de confiança da média,
+
+93
+00:06:04.120 --> 00:07:05.360
+olha só como é que esse gráfico fica. Ele fica assim. E aí? Muda a análise, né? FIS FIS afirmar com 100% de certeza que aquele adesivo é melhor que os outros, por exemplo.
+
+94
+00:07:05.800 --> 00:07:09.339
+Então é assim que a gente começa a analisar as variações, os dados.
+
+95
+00:07:09.699 --> 00:07:13.639
+Como eu falei, eu não fiquei explicando um por um como é que você faz cada uma daquelas ferramentas,
+
+96
+00:07:13.879 --> 00:07:17.600
+mas é só para mostrar para vocês que existe um grau muito mais avançado.
+
+97
+00:07:17.980 --> 00:07:20.360
+E eu apliquei isso uma vez com indústria de couros,
+
+98
+00:07:21.060 --> 00:07:24.980
+e a gente tinha problemas de prever o que a gente ia conseguir vender lá no final,
+
+99
+00:07:24.980 --> 00:08:06.839
+porque afinal a gente compra o couro em quilo e vende ele em metro quadrado, em área. FIS você joga os dados lá, ele faz, tá? Você acha uma equação que previa o que ia acontecer com esse lote
+
+100
+00:08:06.839 --> 00:08:08.879
+com base no input que eu chegava dele.
+
+101
+00:08:09.379 --> 00:08:11.660
+Então, será que com input eu consigo prever o output?
+
+102
+00:08:12.279 --> 00:08:15.079
+E a gente conseguiu uma margem de erro de 1,3.
+
+103
+00:08:15.379 --> 00:08:16.759
+Que é uma margem de erro muito pequena.
+
+104
+00:08:16.920 --> 00:08:19.319
+Estatisticamente, geralmente a gente aceita até 5%, né?
+
+105
+00:08:19.980 --> 00:08:22.620
+Acho que é 95% de confiança, na maior parte das vezes.
+
+106
+00:08:23.160 --> 00:08:24.600
+Então, eu peguei e falei assim, beleza,
+
+107
+00:08:24.720 --> 00:08:27.819
+se eu criei essa regressão e ela vai prever o futuro,
+
+108
+00:08:28.220 --> 00:08:30.339
+ela teria que ter conseguido acertar o passado também, né?
+
+109
+00:08:30.600 --> 00:08:34.019
+Aí eu peguei todos os lotes, o que eles deram de rendimento,
+
+110
+00:08:34.440 --> 00:08:36.759
+e fiz a comparação, o que ela teria previsto.
+
+111
+00:08:37.120 --> 00:08:40.080
+E olha só, ela acertou, até quando ele tinha picos,
+
+112
+00:08:40.379 --> 00:08:43.980
+ela conseguia prever os picos, tá vendo? Com certa assertividade.
+
+113
+00:08:43.980 --> 00:09:13.240
+E a gente começou a analisar, de fato, o que a gente ia ter de rendimento, FIS

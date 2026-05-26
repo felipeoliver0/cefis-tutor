@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2591,
+    "title": "[podcast] Inteligência Artificial",
+    "subtitle": "reflexos do Chat GPT",
+    "summary": "Vamos falar sobre um tema muito interessante: a inteligência artificial. Você já ouviu falar sobre isso, certo? É um conceito que tem ganhado bastante destaque nos últimos anos. Mas o que exatamente é inteligência artificial? Acompanhe neste podcast os avanços em torno do assunto e os reflexos do Chat GPT.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/48195b74761621dce693c5586797d7f71728428068.jpg",
+    "goals": [
+      "Vamos falar sobre um tema muito interessante: a inteligência artificial. Você já ouviu falar sobre isso, certo? É um conceito que tem ganhado bastante destaque nos últimos anos. Mas o que exatamente é inteligência artificial? Acompanhe neste podcast os avanços em torno do assunto e os reflexos do Chat GPT."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 557,
+    "keywords": "chat gpt;gpt;inteligência artificial;podcast",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 549,
+    "averageRating": 9.01,
+    "practiceAverage": 8.94,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-07-04T17:38:22.000Z",
+    "recordedAt": "2023-06-01T00:00:00.000Z",
+    "createdAt": "2023-06-07T19:08:44.000Z"
+  }
+}

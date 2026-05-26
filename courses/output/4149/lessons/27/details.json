@@ -1,0 +1,33 @@
+{
+  "id": 482680,
+  "title": "Demissão Indireta",
+  "position": 27,
+  "duration": 271,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c3fcf55a-ee93-4ef2-bfb1-c0666b988ae3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3fcf55a-ee93-4ef2-bfb1-c0666b988ae3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3fcf55a-ee93-4ef2-bfb1-c0666b988ae3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3fcf55a-ee93-4ef2-bfb1-c0666b988ae3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3fcf55a-ee93-4ef2-bfb1-c0666b988ae3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4088,
+    "title": "Tributos na importação de mercadorias",
+    "subtitle": "Impactos nos regimes tributários",
+    "summary": "Neste curso Tributos na importação de mercadorias e Impactos nos regimes tributários, você irá aprender na prática tudo o que precisa saber sobre tributos na importação de mercadorias e os impactos nos regimes tributários. Aprenderá os fundamentos e a prática de tributos como PIS e COFINS, IOF e Esquema de cálculo, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre tributos na importação de mercadorias e os impactos nos regimes tributários.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/77cc27a3-bbfc-40af-9fbf-f5e37666de66-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Tributos na importação de mercadorias: Impactos nos regimes tributários é a capacitação para a aplicação prática de conhecimentos sobre tributos na importação de mercadorias e os impactos nos regimes tributários, incluindo PIS e COFINS, IOF e Esquema de cálculo, para atender às necessidades dos participantes em se atualizar ou aprender sobre esses temas."
+    ],
+    "teacher": {
+      "id": 418635,
+      "name": "JOÃO OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1595429175.jpeg"
+    },
+    "duration": 2650,
+    "keywords": "tributação;importação;mercadoria",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 146,
+    "averageRating": 9.36,
+    "practiceAverage": 9.29,
+    "trailer": {
+      "id": "4ad05705-8575-4db5-8fcc-878845c14300",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4ad05705-8575-4db5-8fcc-878845c14300/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4ad05705-8575-4db5-8fcc-878845c14300/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4ad05705-8575-4db5-8fcc-878845c14300/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4ad05705-8575-4db5-8fcc-878845c14300/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-03T23:27:50.000Z",
+      "updatedAt": "2025-12-03T23:27:50.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-08T15:32:31.000Z",
+    "recordedAt": "2025-10-29T00:00:00.000Z",
+    "createdAt": "2025-10-29T08:32:42.000Z"
+  }
+}

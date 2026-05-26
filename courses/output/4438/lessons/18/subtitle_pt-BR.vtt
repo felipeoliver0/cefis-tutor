@@ -1,0 +1,265 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.500
+Então, como a gente disse, e aqui já quase finalizando, para depois a gente ir para a planilha de cálculo.
+
+3
+00:00:07.500 --> 00:00:17.059
+O cálculo do JCP é realizado multiplicando o patrimônio líquido pela TJLP, conforme a gente já viu.
+
+4
+00:00:17.059 --> 00:00:23.500
+O montante, aqui que entra uma segunda regrinha, que a gente vai ver na planilha essa regra.
+
+5
+00:00:23.500 --> 00:00:32.539
+Esse valor aqui, que é o que a gente calculou, a TJLP sobre o patrimônio líquido, chegamos em um valor.
+
+6
+00:00:32.539 --> 00:00:45.119
+Esse valor, a gente vai ter que analisar ainda quanto é 50% do lucro líquido do exercício ou 50% de lucros acumulados.
+
+7
+00:00:45.119 --> 00:00:47.619
+Dos dois, a gente vai escolher o maior.
+
+8
+00:00:47.619 --> 00:00:53.500
+Então, eu olho qual que é o lucro líquido do ano e calculo 50% desse lucro líquido.
+
+9
+00:00:53.500 --> 00:00:58.640
+Olho também, no meu patrimônio líquido, quanto que é 50% de lucros acumulados.
+
+10
+00:00:58.640 --> 00:01:01.240
+Aí, dos dois, eu posso escolher o maior.
+
+11
+00:01:01.240 --> 00:01:10.879
+Quando eu escolher o maior, eu olho quanto que foi o número que eu cheguei aplicando o percentual de TJLP sobre o patrimônio líquido.
+
+12
+00:01:10.879 --> 00:01:18.000
+Aí sim, dos dois, eu vou ter que escolher o menor. Vai ser o meu limite de dedutibilidade.
+
+13
+00:01:18.000 --> 00:01:23.159
+A gente vê na planilha para ficar mais claro depois como é que faz isso.
+
+14
+00:01:23.159 --> 00:01:23.500
+Então, a gente vai ver como é que faz isso.
+
+15
+00:01:23.500 --> 00:01:32.439
+E, claro, como a gente vem falando, sempre depois de identificar qual é o limite de dedutibilidade do JCP,
+
+16
+00:01:32.439 --> 00:01:37.840
+sempre vai ter a incidência do IR fonte, no caso aqui 17,5.
+
+17
+00:01:37.840 --> 00:01:45.260
+Então, um passo a passo para a gente primeiro pegar a teoria do passo a passo e depois a gente vai para a planilha.
+
+18
+00:01:45.260 --> 00:01:48.760
+Então, um, definindo a base de cálculo.
+
+19
+00:01:48.760 --> 00:01:51.099
+Como é que eu faço a base de cálculo?
+
+20
+00:01:51.099 --> 00:01:53.159
+Eu pego na contabilidade.
+
+21
+00:01:53.159 --> 00:01:59.140
+Contabilidade, o balance de contábil e pego o patrimônio líquido, o PL da empresa.
+
+22
+00:01:59.140 --> 00:02:10.120
+E, obviamente, sempre que eu vou pegar o patrimônio líquido da empresa, eu pego o total do patrimônio líquido em 31 de dezembro do ano anterior.
+
+23
+00:02:10.659 --> 00:02:11.099
+Por quê?
+
+24
+00:02:11.360 --> 00:02:21.240
+Porque eu quero saber o quanto eu tinha de lucros acumulados, não em relação ao ano que a gente está, mas sempre no último exercício que foi fechado e apurado.
+
+25
+00:02:21.240 --> 00:02:23.139
+Então, eu vou pegar o total do patrimônio.
+
+26
+00:02:23.159 --> 00:02:26.719
+O patrimônio líquido, por exemplo, agora eu estou em 2026 já.
+
+27
+00:02:27.340 --> 00:02:32.780
+Eu vou olhar qual que é o total do patrimônio líquido em 31 de dezembro de 2025.
+
+28
+00:02:33.379 --> 00:02:44.340
+Se eu vou fazer o cálculo para 2025, aí eu olho o patrimônio líquido de 31 de 12 de 24 e assim sucessivamente.
+
+29
+00:02:45.060 --> 00:02:46.699
+Definindo a base de cálculo.
+
+30
+00:02:46.699 --> 00:02:50.419
+Então, utiliza-se o patrimônio líquido que é o PL da empresa.
+
+31
+00:02:51.060 --> 00:02:53.139
+E atenção que a partir de...
+
+32
+00:02:53.159 --> 00:03:03.680
+2025, 2026, as novas regras limitam o uso de lucros do próprio exercício no mesmo período privilegiando lucros anteriores.
+
+33
+00:03:04.259 --> 00:03:06.620
+Isso aqui é altamente discutível, né?
+
+34
+00:03:07.219 --> 00:03:12.560
+Dizendo que, não, primeiro você tem que usar lucros acumulados e não pode usar o lucro do exercício.
+
+35
+00:03:12.719 --> 00:03:14.580
+Não era essa a regra do JCP.
+
+36
+00:03:15.460 --> 00:03:18.539
+Isso aqui pode até ser ignorado, mas tem risco.
+
+37
+00:03:18.539 --> 00:03:21.280
+Então, tem que ser avaliado em cada empresa, tá?
+
+38
+00:03:22.139 --> 00:03:22.740
+Dois.
+
+39
+00:03:23.159 --> 00:03:29.419
+A partir do momento que eu tenho o patrimônio líquido, eu vou lá e vejo qual é a taxa da TJLP
+
+40
+00:03:29.419 --> 00:03:32.460
+para poder aplicar sobre o patrimônio líquido.
+
+41
+00:03:32.740 --> 00:03:34.340
+Então, eu aplico a TJLP.
+
+42
+00:03:34.879 --> 00:03:38.240
+Vocês vão ver que em cada período tem uma TJLP.
+
+43
+00:03:38.819 --> 00:03:42.659
+Eu até falei para vocês, em cada trimestre tem a TJLP do ano.
+
+44
+00:03:42.659 --> 00:03:51.759
+E a gente multiplica, então, a TJLP que é sempre definida pelo BACEN, pelo Banco Central, sobre o patrimônio líquido.
+
+45
+00:03:53.159 --> 00:04:01.099
+Como que eu vou chegar no JCP, Juros Sobre Capital Próprio, né?
+
+46
+00:04:02.120 --> 00:04:08.379
+Patrimônio líquido versus a alíquota, vezes a alíquota da TJLP.
+
+47
+00:04:09.120 --> 00:04:18.319
+E aqui eu trouxe até um site para vocês, onde tem as relações, os percentuais da TJLP.
+
+48
+00:04:19.079 --> 00:04:22.279
+Dando um clique aqui, ele tem um hiperlink e já abre.
+
+49
+00:04:23.160 --> 00:04:27.699
+O site do BNDES, mas é BNDES, por exemplo, GOV.br.
+
+50
+00:04:28.300 --> 00:04:31.839
+E aqui é um site do BNDES, mas o site do BACEN.
+
+51
+00:04:32.620 --> 00:04:36.139
+Vários sites você encontra a taxa.
+
+52
+00:04:36.180 --> 00:04:41.000
+Como eu falei, basta chegar no Google, digitar lá TJLP BACEN, pronto.
+
+53
+00:04:41.000 --> 00:04:48.000
+Você já vai para a página do Banco Central e já tem os percentuais de TJLP.
+
+54
+00:04:48.759 --> 00:04:51.120
+Três, aí a gente verifica os limites.
+
+55
+00:04:51.319 --> 00:04:52.079
+Limites do quê?
+
+56
+00:04:52.199 --> 00:04:53.000
+De denotibilidade.
+
+57
+00:04:53.160 --> 00:04:58.959
+Que é 50% do lucro do exercício e 50% de lucros acumulados.
+
+58
+00:04:59.399 --> 00:05:00.839
+Dos dois, eu escolho o maior.
+
+59
+00:05:01.339 --> 00:05:07.339
+E o maior desses dois aqui é o que eu vou comparar com o valor do JCP,
+
+60
+00:05:07.500 --> 00:05:09.459
+que eu calculei sobre o patrimônio líquido.
+
+61
+00:05:09.600 --> 00:05:16.379
+E aí sim, dos dois últimos, eu vou ter que escolher o menor valor para ser o JCP mesmo.
+
+62
+00:05:17.480 --> 00:05:23.139
+Quatro, eu vou ter a tributação do IR em fonte sobre o valor do JCP.
+
+63
+00:05:23.160 --> 00:05:30.420
+E a partir de 2026, tendo que ser 17,5% para ser retido.
+
+64
+00:05:30.939 --> 00:05:41.160
+Aqui, por exemplo, o valor da TJLP agora, de janeiro a março de 2026, por exemplo, é 9,19%.
+
+65
+00:05:41.980 --> 00:05:46.680
+Então eu pego esse percentual e aplico sobre o patrimônio líquido.
+
+66
+00:05:46.680 --> 00:05:51.959
+Por exemplo, de 31 de 12 de 2025, eu já chego no valor da JCP.
+
+67
+00:05:53.160 --> 00:06:01.420
+Para poder calcular, verificar contra os 50% de lucros acumulados e 50% de lucro do exercício.

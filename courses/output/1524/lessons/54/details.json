@@ -1,0 +1,33 @@
+{
+  "id": 452812,
+  "title": "Desafios da sustentabilidade no mundo atual",
+  "position": 54,
+  "duration": 137,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7449f83c-5c3a-425d-8aea-3d67a979561f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7449f83c-5c3a-425d-8aea-3d67a979561f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7449f83c-5c3a-425d-8aea-3d67a979561f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7449f83c-5c3a-425d-8aea-3d67a979561f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7449f83c-5c3a-425d-8aea-3d67a979561f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

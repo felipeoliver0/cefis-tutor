@@ -1,0 +1,33 @@
+{
+  "id": 459231,
+  "title": "Princípios de um sistema de remuneração estratégica",
+  "position": 7,
+  "duration": 305,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e5960409-f96f-4ae3-81bf-9f609d547672/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e5960409-f96f-4ae3-81bf-9f609d547672/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e5960409-f96f-4ae3-81bf-9f609d547672/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e5960409-f96f-4ae3-81bf-9f609d547672/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e5960409-f96f-4ae3-81bf-9f609d547672/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

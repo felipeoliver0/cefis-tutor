@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3964,
+    "title": "Finanças corporativas: Sistema financeiro nacional",
+    "subtitle": "Matemática financeira",
+    "summary": "Neste curso Finanças corporativas: Sistema financeiro nacional, você irá aprender na prática tudo o que precisa saber sobre finanças corporativas e matemática financeira. Aprenderá os fundamentos e a prática de matemática financeira, sistema financeiro nacional e mercado financeiro, além de entender como o SFN impacta o crédito, os investimentos e a política monetária. Você também aprenderá a calcular juros simples e compostos, encontrar montantes e capitais, e aplicar fórmulas de taxas equivalentes e séries uniformes e irregulares de pagamentos. Além disso, você aprenderá a calcular o valor presente e futuro de uma série de pagamentos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/31ef3cf0-19e4-461b-addd-dd0c7b857233-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Finanças corporativas: Sistema financeiro nacional é a capacitação para a aplicação prática de Matemática financeira, com foco no entendimento do funcionamento do Sistema Financeiro Nacional e sua impacto nas decisões financeiras das empresas e na economia como um todo."
+    ],
+    "teacher": {
+      "id": 296949,
+      "name": "Rosana Gonzalez Dannibale",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/d0ddb146a9f4319ac432830ad2e712611559154132.jpg"
+    },
+    "duration": 12957,
+    "keywords": "finanças;corporativas;matemática;sistema",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 47,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 145,
+    "averageRating": 9.6,
+    "practiceAverage": 9.51,
+    "trailer": {
+      "id": "ab1db115-6130-4a3d-92f2-bec573d950ed",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ab1db115-6130-4a3d-92f2-bec573d950ed/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ab1db115-6130-4a3d-92f2-bec573d950ed/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ab1db115-6130-4a3d-92f2-bec573d950ed/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ab1db115-6130-4a3d-92f2-bec573d950ed/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-09T15:30:40.000Z",
+      "updatedAt": "2025-10-09T15:30:40.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-09T18:02:06.000Z",
+    "recordedAt": "2025-09-08T00:00:00.000Z",
+    "createdAt": "2025-09-07T23:54:29.000Z"
+  }
+}

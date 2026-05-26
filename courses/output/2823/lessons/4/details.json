@@ -1,0 +1,33 @@
+{
+  "id": 470483,
+  "title": "Obrigatoriedade e estrutura do CFOP",
+  "position": 4,
+  "duration": 262,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9693a46b-81d1-4e86-8a7b-7e2e47ef7492/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9693a46b-81d1-4e86-8a7b-7e2e47ef7492/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9693a46b-81d1-4e86-8a7b-7e2e47ef7492/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9693a46b-81d1-4e86-8a7b-7e2e47ef7492/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9693a46b-81d1-4e86-8a7b-7e2e47ef7492/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

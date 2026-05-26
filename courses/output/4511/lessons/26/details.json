@@ -1,0 +1,33 @@
+{
+  "id": 487900,
+  "title": "Questões práticas - Parte 2",
+  "position": 26,
+  "duration": 511,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/49989db4-4dea-44ff-9f39-33337c69bcf3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49989db4-4dea-44ff-9f39-33337c69bcf3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49989db4-4dea-44ff-9f39-33337c69bcf3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49989db4-4dea-44ff-9f39-33337c69bcf3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49989db4-4dea-44ff-9f39-33337c69bcf3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

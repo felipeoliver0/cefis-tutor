@@ -1,0 +1,33 @@
+{
+  "id": 475715,
+  "title": "Solucionando Problemas",
+  "position": 45,
+  "duration": 556,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/85e92288-0b8c-4adc-a981-6f2a8cd636d1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85e92288-0b8c-4adc-a981-6f2a8cd636d1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85e92288-0b8c-4adc-a981-6f2a8cd636d1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85e92288-0b8c-4adc-a981-6f2a8cd636d1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85e92288-0b8c-4adc-a981-6f2a8cd636d1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

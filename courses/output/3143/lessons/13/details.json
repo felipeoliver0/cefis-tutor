@@ -1,0 +1,33 @@
+{
+  "id": 475236,
+  "title": "Análise Horizontal vs Vertical",
+  "position": 13,
+  "duration": 82,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/73fc4a9b-c501-4db9-86d2-c64abc5706e0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73fc4a9b-c501-4db9-86d2-c64abc5706e0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73fc4a9b-c501-4db9-86d2-c64abc5706e0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73fc4a9b-c501-4db9-86d2-c64abc5706e0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73fc4a9b-c501-4db9-86d2-c64abc5706e0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

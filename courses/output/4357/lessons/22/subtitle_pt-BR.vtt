@@ -1,0 +1,269 @@
+WEBVTT
+
+2
+00:00:00.240 --> 00:00:05.240
+Plano Geral de Contas Comentado. Vamos entender um pouco melhor, né?
+
+3
+00:00:05.240 --> 00:00:14.240
+O Plano de Contas Comentado é o evento que vai trazer aqui os contribuintes que estão obrigados a DERI.
+
+4
+00:00:14.240 --> 00:00:19.239
+Qual é o conceito e a finalidade? O mapeamento contábil.
+
+5
+00:00:19.239 --> 00:00:25.239
+Ele vai permitir que o contribuinte realize o mapeamento, o DEPARA,
+
+6
+00:00:25.239 --> 00:00:30.239
+vinculando cada conta contábil analítica às suas escriturações,
+
+7
+00:00:30.239 --> 00:00:35.240
+muito parecido com o que a gente faz na nossa ECD, aquele DEPARA,
+
+8
+00:00:35.240 --> 00:00:42.240
+observando as operações, as contas contábeis da nossa empresa com as contas contábeis do plano referenciado.
+
+9
+00:00:42.240 --> 00:00:48.240
+Estrutura para cálculo. A estrutura para as contas de resultado e patrimonial
+
+10
+00:00:48.240 --> 00:00:52.240
+para que o sistema possa processar o balancete mensal
+
+11
+00:00:52.240 --> 00:00:55.240
+e determinar as receitas tributáveis.
+
+12
+00:00:55.240 --> 00:00:58.240
+E as deduções dos débitos consolidados.
+
+13
+00:00:58.240 --> 00:01:04.239
+Logo, a partir dessas nossas estruturas contábeis, desse plano de contas,
+
+14
+00:01:04.239 --> 00:01:10.239
+é que nós teremos aqui a mensuração das nossas informações para cálculo.
+
+15
+00:01:10.239 --> 00:01:18.239
+Essas informações são indispensáveis para permitir a validação e a recepção dos eventos
+
+16
+00:01:18.239 --> 00:01:22.239
+que possuam dependência do plano de contas.
+
+17
+00:01:22.239 --> 00:01:24.239
+Logo, sem o plano de contas,
+
+18
+00:01:24.239 --> 00:01:27.239
+eu não vou conseguir trazer esse detalhamento.
+
+19
+00:01:27.239 --> 00:01:30.239
+Frequência do envio deste evento.
+
+20
+00:01:30.239 --> 00:01:36.239
+O envio do evento deve ocorrer antes da obrigatoriedade de entrega da DERI pelo contribuinte
+
+21
+00:01:36.239 --> 00:01:42.239
+ou quando, mais uma vez, houver manutenção desses dados.
+
+22
+00:01:42.239 --> 00:01:44.239
+Código de tributação.
+
+23
+00:01:44.239 --> 00:01:48.239
+E aqui a gente tem, pessoal, quando a gente fala de código de tributação,
+
+24
+00:01:48.239 --> 00:01:53.239
+a gente tem ali uma das informações mais importantes,
+
+25
+00:01:53.239 --> 00:01:58.239
+estratégicas de qualquer tipo de documento e com a DERI não seria diferente.
+
+26
+00:01:58.239 --> 00:02:06.239
+O código de tributação vai ser o elemento que vai trazer para nós as regras fiscais
+
+27
+00:02:06.239 --> 00:02:11.240
+conectadas às informações contábeis do contribuinte
+
+28
+00:02:11.240 --> 00:02:15.240
+para determinar a tributação daquela operação.
+
+29
+00:02:15.240 --> 00:02:21.240
+E nós sabemos que as operações da DERI estão vinculadas ao regime específico,
+
+30
+00:02:21.240 --> 00:02:28.240
+tendo diferenças complexas, importantes para a definição das bases e as alíquotas.
+
+31
+00:02:28.240 --> 00:02:36.240
+Logo, o código de tributação vai ser utilizado para determinar qual é a tributação daquela operação.
+
+32
+00:02:36.240 --> 00:02:42.240
+E vai ser utilizado um código já existente na tabela oficial da DERI.
+
+33
+00:02:42.240 --> 00:02:48.240
+Também está no material de apoio de vocês toda a listagem que o sistema liberou,
+
+34
+00:02:48.240 --> 00:02:51.240
+trazendo, inclusive, o código de tributação.
+
+35
+00:02:51.240 --> 00:02:54.240
+Conceito e função estratégica.
+
+36
+00:02:54.240 --> 00:02:58.240
+O código TRIB é um código numérico contendo nove dígitos
+
+37
+00:02:58.240 --> 00:03:04.240
+que deve ser atribuído pelo contribuinte a cada conta contábil analítica
+
+38
+00:03:04.240 --> 00:03:08.240
+declarada no plano geral de contas comentado.
+
+39
+00:03:08.240 --> 00:03:14.240
+Ela vai trazer a definição da regra tributária específica.
+
+40
+00:03:14.240 --> 00:03:16.240
+O que é a regra tributária específica?
+
+41
+00:03:16.240 --> 00:03:20.240
+Tem incidência? Tem dedução? Tem imunidade?
+
+42
+00:03:20.240 --> 00:03:24.240
+O que tem nessa minha operação?
+
+43
+00:03:24.240 --> 00:03:29.240
+O código de tributação vai trazer o detalhamento vinculado
+
+44
+00:03:29.240 --> 00:03:36.240
+às informações contábeis a qual aquela operação está vinculada.
+
+45
+00:03:36.240 --> 00:03:39.240
+Isso é muito importante.
+
+46
+00:03:39.240 --> 00:03:43.240
+Ao vincular cada rubrica contábil à sua regra fiscal,
+
+47
+00:03:43.240 --> 00:03:45.240
+a amarração contábil fiscal,
+
+48
+00:03:45.240 --> 00:03:49.240
+o código TRIB permite que a DERI calcule a base de cálculo
+
+49
+00:03:49.240 --> 00:03:53.240
+e o débito consolidado pelo contribuinte.
+
+50
+00:03:53.240 --> 00:03:56.240
+Pessoal, olha que interessante isso.
+
+51
+00:03:56.240 --> 00:03:59.240
+Eu vou atribuir um código TRIB,
+
+52
+00:03:59.240 --> 00:04:06.240
+vou vincular esse código TRIB à minha classificação contábil
+
+53
+00:04:06.240 --> 00:04:14.240
+e esta junção de informações vai permitir à DERI fazer o cálculo da base de cálculo.
+
+54
+00:04:14.240 --> 00:04:15.240
+Por quê?
+
+55
+00:04:15.240 --> 00:04:19.240
+Porque nas regras fiscais eu vou trazer a condição tributária
+
+56
+00:04:19.240 --> 00:04:22.240
+da isenção, da imunidade.
+
+57
+00:04:22.240 --> 00:04:25.240
+Com o plano de contas eu vou identificar
+
+58
+00:04:25.240 --> 00:04:28.240
+esta operação dentro da minha contabilidade.
+
+59
+00:04:28.240 --> 00:04:34.240
+Atrelando uma à outra eu terei ali o cálculo correto
+
+60
+00:04:34.240 --> 00:04:38.240
+da minha base de cálculo trazendo a consolidação dos débitos.
+
+61
+00:04:38.240 --> 00:04:41.240
+Isso é bem interessante.
+
+62
+00:04:41.240 --> 00:04:44.240
+Classificação do nosso código.
+
+63
+00:04:44.240 --> 00:04:48.240
+Ele permite que o sistema saiba se a movimentação contábil
+
+64
+00:04:48.240 --> 00:04:51.240
+em determinada conta será tratada como
+
+65
+00:04:51.240 --> 00:04:54.240
+receita tributável, despesa dedutível.
+
+66
+00:04:54.240 --> 00:04:55.240
+Por quê?
+
+67
+00:04:55.240 --> 00:04:59.240
+Porque ele fez a amarração da regra tributária com as contas contábeis,
+
+68
+00:04:59.240 --> 00:05:01.240
+a movimentação contábil.

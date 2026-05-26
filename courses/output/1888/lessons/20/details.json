@@ -1,0 +1,33 @@
+{
+  "id": 458634,
+  "title": "Assédio sexual",
+  "position": 20,
+  "duration": 144,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6bfcf423-49d7-436c-a2bd-bab5693cf52d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6bfcf423-49d7-436c-a2bd-bab5693cf52d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6bfcf423-49d7-436c-a2bd-bab5693cf52d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6bfcf423-49d7-436c-a2bd-bab5693cf52d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6bfcf423-49d7-436c-a2bd-bab5693cf52d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

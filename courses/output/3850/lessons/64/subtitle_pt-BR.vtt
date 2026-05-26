@@ -1,0 +1,537 @@
+WEBVTT
+
+1
+00:00:00.430 --> 00:00:03.950
+Aqui pessoal trago umas figuras bem convencionais que foram
+
+2
+00:00:03.950 --> 00:00:06.980
+disponibilizadas desde o início pela própria Receita Federal.
+
+3
+00:00:07.469 --> 00:00:08.989
+A gente querder todo o processo,
+
+4
+00:00:09.069 --> 00:00:09.310
+né?
+
+5
+00:00:10.100 --> 00:00:10.340
+Então.
+
+6
+00:00:10.420 --> 00:00:11.449
+Nós temos o quê?
+
+7
+00:00:12.020 --> 00:00:13.050
+Nós temos aqui,
+
+8
+00:00:13.340 --> 00:00:13.670
+né?
+
+9
+00:00:16.020 --> 00:00:17.180
+os do nosso
+
+10
+00:00:17.459 --> 00:00:19.639
+webservice webservice do cliente,
+
+11
+00:00:19.659 --> 00:00:21.329
+os aplicativos TRP
+
+12
+00:00:21.819 --> 00:00:23.250
+gerando essas informações,
+
+13
+00:00:23.739 --> 00:00:26.270
+Então já tá tudo parametrizado em Geto
+
+14
+00:00:26.620 --> 00:00:29.530
+Muitas vezes o próprio software de você já parametrizou.
+
+15
+00:00:29.540 --> 00:00:30.930
+Você tem que fazer os ajustes
+
+16
+00:00:31.299 --> 00:00:32.900
+inerente ao seu a sua atividade,
+
+17
+00:00:32.979 --> 00:00:33.259
+né?
+
+18
+00:00:34.009 --> 00:00:35.770
+você vai gerar todos os lotes,
+
+19
+00:00:36.290 --> 00:00:39.650
+vai bater na porta da Receita Federal com o seu certificado,
+
+20
+00:00:40.090 --> 00:00:40.330
+né?
+
+21
+00:00:40.849 --> 00:00:44.439
+Lotes de evento ou consulta do fechamento e você vai
+
+22
+00:00:44.689 --> 00:00:45.560
+mandar os lotes.
+
+23
+00:00:45.930 --> 00:00:46.569
+Você está abrindo,
+
+24
+00:00:46.610 --> 00:00:47.409
+vai mandar os lotes,
+
+25
+00:00:47.450 --> 00:00:49.110
+vai assinar com o seu certificado digital
+
+26
+00:00:49.409 --> 00:00:49.599
+vai.
+
+27
+00:00:50.229 --> 00:00:54.029
+Isso vai bater nos servidores da Receita Federal.
+
+28
+00:00:54.509 --> 00:00:56.330
+Lá no banco de dados deles,
+
+29
+00:00:56.630 --> 00:00:59.130
+eles vão validar e depois vão te
+
+30
+00:00:59.549 --> 00:01:02.869
+dar o retorno com o processamento dos lotes e evento fechamento.
+
+31
+00:01:02.909 --> 00:01:03.580
+É assim que ocorre.
+
+32
+00:01:04.800 --> 00:01:05.629
+Então vocês perceberam,
+
+33
+00:01:05.669 --> 00:01:08.349
+não tem um programa gerador de dados,
+
+34
+00:01:08.949 --> 00:01:10.459
+não tem um programa
+
+35
+00:01:10.629 --> 00:01:12.069
+validador e assinador.
+
+36
+00:01:12.349 --> 00:01:14.669
+Não tem um programa gerador de situação,
+
+37
+00:01:14.750 --> 00:01:15.139
+não
+
+38
+00:01:15.550 --> 00:01:16.779
+é online na veia,
+
+39
+00:01:16.989 --> 00:01:17.339
+né?
+
+40
+00:01:18.110 --> 00:01:20.059
+Sai daqui do meu XML
+
+41
+00:01:20.230 --> 00:01:21.660
+e vai para lá e XML
+
+42
+00:01:21.910 --> 00:01:24.029
+processa a vida e retorna o recibo que eu vou.
+
+43
+00:01:25.260 --> 00:01:28.290
+Então qualquer alteração de diversão que tem que ter,
+
+44
+00:01:28.699 --> 00:01:29.930
+nós não vamos ficar sabendo.
+
+45
+00:01:29.980 --> 00:01:32.250
+Os caras estão mexendo aqui dentro da Receita Federal,
+
+46
+00:01:32.980 --> 00:01:33.209
+né?
+
+47
+00:01:33.540 --> 00:01:34.989
+Eles estão trabalhando aqui dentro,
+
+48
+00:01:35.379 --> 00:01:35.550
+né?
+
+49
+00:01:35.620 --> 00:01:36.660
+Nós não vamos ficar sabendo.
+
+50
+00:01:37.349 --> 00:01:38.660
+Porque o nosso está
+
+51
+00:01:39.349 --> 00:01:39.599
+aqui,
+
+52
+00:01:40.029 --> 00:01:40.269
+né?
+
+53
+00:01:40.639 --> 00:01:41.069
+Em TXT
+
+54
+00:01:41.760 --> 00:01:43.430
+e cara dentro perfeito.
+
+55
+00:01:44.110 --> 00:01:46.620
+Esse é o ambiente do FDI P certo,
+
+56
+00:01:46.830 --> 00:01:47.269
+tá
+
+57
+00:01:47.949 --> 00:01:48.779
+E aí o
+
+58
+00:01:49.069 --> 00:01:50.709
+organograma é o fixograma,
+
+59
+00:01:50.790 --> 00:01:51.080
+né?
+
+60
+00:01:52.720 --> 00:01:53.199
+Ou seja,
+
+61
+00:01:53.279 --> 00:01:54.830
+a empresa envia os lotes,
+
+62
+00:01:55.319 --> 00:01:55.709
+né?
+
+63
+00:01:56.949 --> 00:01:59.459
+para a Receita Federal esses lotes,
+
+64
+00:02:00.029 --> 00:02:01.819
+ela recebe os lotes.
+
+65
+00:02:03.290 --> 00:02:05.339
+O Certificado de conexão é válido.
+
+66
+00:02:05.419 --> 00:02:06.580
+Você está batendo na porta.
+
+67
+00:02:07.010 --> 00:02:08.309
+O certificado é válido,
+
+68
+00:02:08.380 --> 00:02:08.880
+sim.
+
+69
+00:02:09.788 --> 00:02:11.270
+O lote é válido sim,
+
+70
+00:02:11.550 --> 00:02:12.949
+valida os lotes do evento.
+
+71
+00:02:13.190 --> 00:02:17.979
+Os lotes foram validados sim disponibilize o recibo de entrega o declarante
+
+72
+00:02:18.309 --> 00:02:20.580
+retorna o resultado do processamento.
+
+73
+00:02:21.110 --> 00:02:23.589
+O declarante recebe os- os
+
+74
+00:02:23.830 --> 00:02:24.429
+os os lotes,
+
+75
+00:02:24.509 --> 00:02:25.190
+os recibos,
+
+76
+00:02:25.229 --> 00:02:25.440
+né?
+
+77
+00:02:25.789 --> 00:02:27.630
+E aí ele vai armazenar
+
+78
+00:02:27.910 --> 00:02:29.779
+lá no seu diretório lá
+
+79
+00:02:30.309 --> 00:02:31.580
+de obrigação entregue.
+
+80
+00:02:32.190 --> 00:02:33.330
+se porventura
+
+81
+00:02:33.669 --> 00:02:35.029
+se esbarrar em algodão,
+
+82
+00:02:35.110 --> 00:02:35.990
+ele retorna,
+
+83
+00:02:36.429 --> 00:02:36.710
+né?
+
+84
+00:02:37.270 --> 00:02:38.190
+Primeiro lá
+
+85
+00:02:38.470 --> 00:02:41.750
+receber os os os eventos certificado de conexão e vá não,
+
+86
+00:02:42.039 --> 00:02:42.770
+Ele já retorna,
+
+87
+00:02:42.889 --> 00:02:45.229
+já retorno com consistência encontrada
+
+88
+00:02:45.550 --> 00:02:46.179
+perfeito.
+
+89
+00:02:47.570 --> 00:02:48.610
+Oi vale
+
+90
+00:02:49.100 --> 00:02:50.259
+válidos lotes não.
+
+91
+00:02:50.380 --> 00:02:51.800
+Então ele gera a lista de erros,
+
+92
+00:02:52.139 --> 00:02:52.389
+né?
+
+93
+00:02:53.020 --> 00:02:58.220
+Ele não vai gerar detalhadamente ou até errado na linha e tal e pintado tá errado
+
+94
+00:02:58.500 --> 00:02:59.130
+te vira
+
+95
+00:02:59.539 --> 00:03:00.619
+o lote aqui tá errado,
+
+96
+00:03:00.660 --> 00:03:01.179
+tem erro.
+
+97
+00:03:01.559 --> 00:03:02.190
+Perfeito
+
+98
+00:03:02.679 --> 00:03:05.600
+Então Esse é o processo que nós temos do FDRI.
+
+99
+00:03:05.759 --> 00:03:08.970
+Tá A empresa e os servidores da Receita Federal
+
+100
+00:03:09.119 --> 00:03:10.229
+recepcionando então
+
+101
+00:03:10.600 --> 00:03:11.919
+bato na porta dois vezes,
+
+102
+00:03:11.960 --> 00:03:14.000
+assino e transmito perfeito
+
+103
+00:03:14.139 --> 00:03:15.199
+Como eu disse a vocês,
+
+104
+00:03:15.240 --> 00:03:17.559
+eu posso acessar diretamente no e-Cart,
+
+105
+00:03:17.759 --> 00:03:18.000
+né?
+
+106
+00:03:18.570 --> 00:03:18.679
+E.
+
+107
+00:03:18.690 --> 00:03:20.369
+Se eu acessar lá no ECC,
+
+108
+00:03:21.250 --> 00:03:21.259
+né?
+
+109
+00:03:21.270 --> 00:03:23.009
+Eu vou acessar os meus dados,
+
+110
+00:03:23.210 --> 00:03:23.460
+né?
+
+111
+00:03:23.809 --> 00:03:25.179
+Botei os dados da filha da empresa,
+
+112
+00:03:25.240 --> 00:03:26.369
+eu vou acessar aqui os meus dados.
+
+113
+00:03:26.729 --> 00:03:28.210
+Tá lá o FDI,
+
+114
+00:03:28.369 --> 00:03:28.619
+né?
+
+115
+00:03:29.089 --> 00:03:29.570
+E lá
+
+116
+00:03:29.770 --> 00:03:30.210
+eu vou,
+
+117
+00:03:30.410 --> 00:03:30.690
+né?
+
+118
+00:03:31.110 --> 00:03:31.880
+Validar
+
+119
+00:03:32.009 --> 00:03:35.850
+habilitar o envio via portal Eo Então é bem tranquilo,
+
+120
+00:03:35.929 --> 00:03:36.139
+né?
+
+121
+00:03:36.729 --> 00:03:37.880
+Diretamente não lá
+
+122
+00:03:38.529 --> 00:03:40.009
+não vou gelar nada de guia,
+
+123
+00:03:40.130 --> 00:03:40.440
+né?
+
+124
+00:03:42.029 --> 00:03:42.910
+E aí já alimento,
+
+125
+00:03:42.990 --> 00:03:44.029
+já salvo e acabou,
+
+126
+00:03:44.470 --> 00:03:44.699
+né?
+
+127
+00:03:44.960 --> 00:03:45.860
+Não Preciso fazer melhada.
+
+128
+00:03:45.949 --> 00:03:47.649
+Já estou diretamente da base
+
+129
+00:03:47.949 --> 00:03:48.149
+lá,
+
+130
+00:03:48.229 --> 00:03:49.759
+digitando as nocas e pronto,
+
+131
+00:03:49.869 --> 00:03:49.990
+né?
+
+132
+00:03:50.500 --> 00:03:51.350
+Se são poucas,
+
+133
+00:03:51.470 --> 00:03:52.270
+não vejo problema,
+
+134
+00:03:52.350 --> 00:03:52.710
+né?

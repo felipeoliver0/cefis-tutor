@@ -1,0 +1,217 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.240
+Quando for efetuado todos os lançamentos, vocês vão ter abas de confirmação e encerramento.
+
+2
+00:00:07.120 --> 00:00:09.080
+E aí você vai fazer, então, o entregue.
+
+3
+00:00:09.660 --> 00:00:12.640
+A confirmação é sobre os valores que foram lançados.
+
+4
+00:00:13.160 --> 00:00:18.300
+Ele vai dar uma validação se tiver uma informação errada sobre o layout,
+
+5
+00:00:18.300 --> 00:00:23.300
+para que vocês consigam fazer o encerramento e a transmissão.
+
+6
+00:00:24.219 --> 00:00:28.640
+A transmissão e a GNRE, ela é tratada, leido na desta.
+
+7
+00:00:29.219 --> 00:00:32.780
+Então, esse realmente, a transmissão deve ser realizada pela declaração
+
+8
+00:00:32.780 --> 00:00:35.140
+e declaração por declaração.
+
+9
+00:00:35.140 --> 00:00:39.079
+O processo, ele varia conforme cada estado.
+
+10
+00:00:39.280 --> 00:00:41.500
+A gente comentou, já voltou com essa aula também.
+
+11
+00:00:42.399 --> 00:01:05.319
+E após a geração, é possível, então, gerar uma GNLE sobre o recolhimento da informação que você lançou FIS Aqui estou remontando para vocês a penalidade geral.
+
+12
+00:01:09.180 --> 00:01:09.420
+Cada estado pode trazer as suas particularidades também sobre penalidades.
+
+13
+00:01:14.799 --> 00:01:15.000
+Então, nós temos penalidades, mas as multas variam de cada estado.
+
+14
+00:01:19.239 --> 00:01:20.060
+Nós precisamos entender como que cada estado atua.
+
+15
+00:01:26.560 --> 00:01:32.420
+Como que o fisco atua quando ele pensa nessa rastrabilidade de informação e de cruzamento de dados sobre operações com semestres tênue, dissipação e com diferença de alíquota?
+
+16
+00:01:33.299 --> 00:01:39.439
+A Desta, ela é confrontada com o seu PGNAS, ou seja, a aplicação acessória do Centris,
+
+17
+00:01:39.439 --> 00:01:43.939
+como a FDIC e o MSPI, lá no bloco E, onde eu formo,
+
+18
+00:01:44.219 --> 00:01:48.260
+sua ação tributária, diferença de de alíquota, e a própria NFE.
+
+19
+00:01:48.659 --> 00:01:52.040
+A principal obrigação acessória do seu contribuinte é a nota hospitalar eletrônica.
+
+20
+00:01:52.480 --> 00:01:56.359
+E o físico consegue cruzar a obrigação acessória por meio da NFE.
+
+21
+00:01:57.120 --> 00:02:01.540
+A fiscalização analisa a divergência entre os valores encontrados dentro da obrigação acessória
+
+22
+00:02:01.540 --> 00:02:26.680
+e, obviamente, pode fazer uma autuação questionando o contribuinte da informação diferente. FIS Cada CNPJ de cada filial, sendo criado de cada estado, vai entrar em destas separadas.
+
+23
+00:02:27.560 --> 00:02:32.500
+O encerramento de inscrição entrega a desta final, ou seja, se o contribuinte cebou as operações,
+
+24
+00:02:33.060 --> 00:02:35.340
+entrega-se uma desta final.
+
+25
+00:02:35.860 --> 00:02:39.219
+E sem movimento, declarar 100 valores a recolher,
+
+26
+00:02:39.800 --> 00:02:46.139
+mas existe a dispensa também em diversos estados já sob essas operações sem movimento.
+
+27
+00:02:46.639 --> 00:02:49.000
+Quais são as boas práticas de lançamento?
+
+28
+00:02:49.199 --> 00:02:54.659
+Antes da gente adentrar ao manual e fazer os detalhes desse preenchimento.
+
+29
+00:02:55.699 --> 00:03:01.819
+Monitorar, então, a legislação estadual, porque percebemos que é uma obrigação acessória que está relacionada aos estados,
+
+30
+00:03:01.939 --> 00:03:03.719
+porque estamos falando do ICMS.
+
+31
+00:03:04.379 --> 00:03:05.840
+Então, nós precisamos entender como
+
+32
+00:03:05.840 --> 00:03:07.819
+que o estado se posiciona para encher essa
+
+33
+00:03:07.819 --> 00:03:08.860
+obrigação acessória.
+
+34
+00:03:10.180 --> 00:03:11.900
+Identificar quais são as
+
+35
+00:03:11.900 --> 00:03:13.699
+CPPs e as CSTs
+
+36
+00:03:13.699 --> 00:03:15.159
+antes da transmissão.
+
+37
+00:03:15.659 --> 00:03:17.939
+A CPP demonstra, então, a natureza da operação
+
+38
+00:03:17.939 --> 00:03:20.219
+e a CST a incidência.
+
+39
+00:03:20.379 --> 00:03:22.120
+Então, uma central valida
+
+40
+00:03:22.120 --> 00:03:23.900
+se essas informações estão corretas
+
+41
+00:03:23.900 --> 00:03:24.580
+e coerentes.
+
+42
+00:03:45.419 --> 00:03:45.659
+Automatizar controle sobre a integração das outras obrigações acessórias, Então, autuações. E como que a gente evita a autuação? Colocando informações divergentes de valor.
+
+43
+00:03:49.360 --> 00:03:49.780
+Ou seja, uma informação na notícia eletrônica,
+
+44
+00:03:53.520 --> 00:03:54.219
+outra informação do espécie fiscal e outra no PGNAS.
+
+45
+00:03:57.280 --> 00:03:58.439
+Então, precisa ser correta a informação.
+
+46
+00:03:59.159 --> 00:03:59.939
+Combruente.
+
+47
+00:04:02.919 --> 00:04:03.460
+Independente de qual aplicação acessória nós estamos dizendo,
+
+48
+00:04:06.319 --> 00:04:07.080
+todas elas precisam ser congruentes.
+
+49
+00:04:10.460 --> 00:04:10.520
+A mesma informação que o fisco está olhando no PGDAS,
+
+50
+00:04:12.879 --> 00:04:13.800
+ele precisa estar olhando na alta psicoletônica.
+
+51
+00:04:18.939 --> 00:04:19.379
+E, consequentemente, dentro do programa Lidadora Desta.
+
+52
+00:04:21.019 --> 00:04:21.139
+Antes de trazer o encerramento para vocês,
+
+53
+00:04:25.439 --> 00:04:27.660
+eu quero demonstrar para vocês o manual que o fisco deixou para nós sobre o preenchimento da Desta.
+
+54
+00:04:27.660 --> 00:04:28.819
+Vamos lá?

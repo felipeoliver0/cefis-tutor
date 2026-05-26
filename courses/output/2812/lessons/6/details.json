@@ -1,0 +1,33 @@
+{
+  "id": 470318,
+  "title": "Operação promovida por contribuintes - parte 2",
+  "position": 6,
+  "duration": 356,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fa66e8d9-856d-4c85-a064-747081e570c2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fa66e8d9-856d-4c85-a064-747081e570c2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fa66e8d9-856d-4c85-a064-747081e570c2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fa66e8d9-856d-4c85-a064-747081e570c2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fa66e8d9-856d-4c85-a064-747081e570c2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

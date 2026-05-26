@@ -1,0 +1,33 @@
+{
+  "id": 457723,
+  "title": "Ativo não circulante",
+  "position": 31,
+  "duration": 93,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/394f7c63-e6c1-46b3-8755-9f0e04d0cb2a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/394f7c63-e6c1-46b3-8755-9f0e04d0cb2a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/394f7c63-e6c1-46b3-8755-9f0e04d0cb2a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/394f7c63-e6c1-46b3-8755-9f0e04d0cb2a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/394f7c63-e6c1-46b3-8755-9f0e04d0cb2a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

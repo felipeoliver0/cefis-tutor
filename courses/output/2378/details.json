@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2378,
+    "title": "Indicadores de valor (EBTIDA / EVA / MVA / LPA / Múltiplos)",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de indicadores de valor você aprenderá sobre os principais índices, como EBTIDA, EVA - Economic Value Added, MVA - Market Value Added, LPA - Lucro Por Ação, para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/43e7421be416c5f4085736701a0433de1728428048.jpg",
+    "goals": [
+      "Apresentar os principais índices, como EBTIDA, EVA - Economic Value Added, MVA - Market Value Added, LPA - Lucro Por Ação, para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 296949,
+      "name": "Rosana Gonzalez Dannibale",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/d0ddb146a9f4319ac432830ad2e712611559154132.jpg"
+    },
+    "duration": 5824,
+    "keywords": "ebtida;eva;mva;lpa;indicadores de valor",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 314,
+    "averageRating": 9.13,
+    "practiceAverage": 9.03,
+    "trailer": {
+      "id": "990fe121-0cac-4da3-a99a-cc410f2898a5",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/990fe121-0cac-4da3-a99a-cc410f2898a5/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/990fe121-0cac-4da3-a99a-cc410f2898a5/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/990fe121-0cac-4da3-a99a-cc410f2898a5/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/990fe121-0cac-4da3-a99a-cc410f2898a5/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-06T07:27:47.000Z",
+      "updatedAt": "2022-12-06T07:27:47.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-01-03T18:20:26.000Z",
+    "recordedAt": "2022-11-24T00:00:00.000Z",
+    "createdAt": "2022-11-24T19:43:53.000Z"
+  }
+}

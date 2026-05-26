@@ -1,0 +1,33 @@
+{
+  "id": 476871,
+  "title": "Na Prática - Preenchendo Informações Contábeis",
+  "position": 17,
+  "duration": 596,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/28011ed8-1a4b-4e3d-8762-c88cddf94b80/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/28011ed8-1a4b-4e3d-8762-c88cddf94b80/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/28011ed8-1a4b-4e3d-8762-c88cddf94b80/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/28011ed8-1a4b-4e3d-8762-c88cddf94b80/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/28011ed8-1a4b-4e3d-8762-c88cddf94b80/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

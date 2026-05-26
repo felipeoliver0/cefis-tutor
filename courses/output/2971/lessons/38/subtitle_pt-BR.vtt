@@ -1,0 +1,545 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.500
+um segundo exemplo, uma empresa pretende obter uma um lucro.
+
+2
+00:00:04.510 --> 00:00:09.399
+Aí a gente tá baixando mais a régua, um lucro antes de I R de vinte e três por cento
+
+3
+00:00:10.119 --> 00:00:15.649
+da receita de vendas sabendo-se que o custo de produção é de cinquenta
+
+4
+00:00:15.659 --> 00:00:21.610
+por unidade e que a empresa incorre em dezessete mil de despesas operacionais.
+
+5
+00:00:21.620 --> 00:00:25.030
+Qual deve ser o preço de venda? Perceba que agora eu tô determinando oh
+
+6
+00:00:26.040 --> 00:00:27.649
+eu tô determinando que o quê?
+
+7
+00:00:27.659 --> 00:00:32.409
+Que o minha resulta, do meu lucro antes de impostos de resistência, é vinte e três,
+
+8
+00:00:32.418 --> 00:00:36.250
+eu não tô dizendo a margem, a margem vai sair agora por diferença,
+
+9
+00:00:36.259 --> 00:00:40.729
+eu tô dizendo Olha até o lucro antes de impostos eu quero vinte e três.
+
+10
+00:00:40.740 --> 00:00:43.270
+Vamos ver. Veja só
+
+11
+00:00:44.270 --> 00:00:48.500
+esse esqueminha aqui, que é a da plan linha, que depois eu vou mandar pra vocês,
+
+12
+00:00:49.270 --> 00:00:52.060
+Pan é a mesma. Só que a minha premissa agora
+
+13
+00:00:52.669 --> 00:00:54.479
+não vai ser aqui, na margem bruta.
+
+14
+00:00:54.490 --> 00:00:58.400
+Minha premissa eu quero margem lucro antes do I R de vinte e três por cento,
+
+15
+00:00:58.409 --> 00:01:03.779
+então perceba que eu tenho que ter uma margem bruta obviamente maior.
+
+16
+00:01:03.790 --> 00:01:06.339
+E aí eu tenho então
+
+17
+00:01:07.050 --> 00:01:09.459
+que, a princípio descobrir eh!
+
+18
+00:01:09.470 --> 00:01:13.180
+Existe uma nova fórmula de cálculo onde você consegue determinar o preço de venda.
+
+19
+00:01:13.190 --> 00:01:14.360
+Quer dizer o seguinte
+
+20
+00:01:15.300 --> 00:01:17.129
+Meu preço de venda vai ser
+
+21
+00:01:17.849 --> 00:01:23.019
+o meu custo de produção, que foi dado igual, cinquenta por trinta, né,
+
+22
+00:01:23.029 --> 00:01:27.879
+por trezentas itens, de unidades, custo de produção, que é quinze mil.
+
+23
+00:01:28.809 --> 00:01:32.839
+Só que eu tenho que acrescentar as minhas despesas operacionais,
+
+24
+00:01:33.900 --> 00:01:39.370
+porque as despesas operacionais elas ficam na nossa, d, r e né,
+
+25
+00:01:39.379 --> 00:01:42.349
+Elas ficam aqui antes do resultado antes de impostos.
+
+26
+00:01:42.360 --> 00:01:47.089
+Então, eu tenho que agregar essa despesa pra que eu consiga
+
+27
+00:01:48.360 --> 00:01:51.410
+definir qual é o valor do preço de venda.
+
+28
+00:01:51.419 --> 00:01:52.889
+Então tem que agregar mais custos,
+
+29
+00:01:52.900 --> 00:01:56.330
+mais despesas e conseguir calcular isso de forma correta.
+
+30
+00:01:56.339 --> 00:01:56.870
+E por quê?
+
+31
+00:01:56.879 --> 00:01:59.769
+Porque o qual que foi o percentual que eu quero definir,
+
+32
+00:01:59.779 --> 00:02:05.230
+que sempre vai nesse nessa parte da forma Não foi os vinte e três antes de impostos.
+
+33
+00:02:05.239 --> 00:02:09.449
+E as despesas operacionais não vêm antes do resultado, então eu agreguei aqui.
+
+34
+00:02:09.460 --> 00:02:10.949
+Então meu preço de venda será
+
+35
+00:02:11.759 --> 00:02:13.149
+custo de produção,
+
+36
+00:02:13.889 --> 00:02:16.759
+mais as despesas operacionais que foi informada,
+
+37
+00:02:18.100 --> 00:02:19.410
+né? A gente tem
+
+38
+00:02:20.000 --> 00:02:22.869
+a despesas operacionais, que é fixa dezessete mil
+
+39
+00:02:23.809 --> 00:02:27.940
+dividido por um menos o resultado antes do I. R C. S.
+
+40
+00:02:27.949 --> 00:02:31.539
+O percentual A gente tá trabalhando em percentuais A gente vai ver no Excel,
+
+41
+00:02:31.550 --> 00:02:36.660
+então olha que interessante quando eu faço, agrego essas despesas.
+
+42
+00:02:36.669 --> 00:02:40.100
+Só que eu tenho sempre gente que, como o preço de venda é unitário,
+
+43
+00:02:40.110 --> 00:02:44.059
+eu tenho que dividir as minhas despesas operacionais
+
+44
+00:02:44.070 --> 00:02:47.919
+pela quantidade de de de unidades produzidas porque vejam
+
+45
+00:02:48.559 --> 00:02:49.289
+preço de venda.
+
+46
+00:02:49.300 --> 00:02:50.869
+Eu tô dizendo a preço pra uma unidade,
+
+47
+00:02:50.880 --> 00:02:57.089
+Então a eu sei que foi dado como premissa dezessete mil reais de despesas.
+
+48
+00:02:57.100 --> 00:02:58.139
+Tá okay.
+
+49
+00:02:58.149 --> 00:03:01.190
+Só que eu sou obrigada a fazer o cálculo por unidade,
+
+50
+00:03:01.199 --> 00:03:05.529
+então aqui oh eu já trago dezessete mil dividido por trezentas,
+
+51
+00:03:05.539 --> 00:03:11.809
+ao passo que cada despesa eh desculpa o a despesa por unidade é cinquenta e seis meia.
+
+52
+00:03:11.820 --> 00:03:12.089
+Sete.
+
+53
+00:03:12.100 --> 00:03:15.869
+Eu sou obrigada a fazer esse cálculo, porque eu tenho que trazer tudo por uma unidade
+
+54
+00:03:16.610 --> 00:03:17.580
+só isso.
+
+55
+00:03:17.589 --> 00:03:20.460
+Então eu pego o custo de produção unitário,
+
+56
+00:03:20.470 --> 00:03:23.220
+que é cinquenta mais as despesas operacionais que
+
+57
+00:03:23.229 --> 00:03:26.580
+nós calculamos por cinquenta e seis devido por um
+
+58
+00:03:26.589 --> 00:03:29.699
+menos o percentual de margem de resultado antes
+
+59
+00:03:29.710 --> 00:03:31.660
+de impostos que eu quero vinte e três.
+
+60
+00:03:31.669 --> 00:03:32.660
+Com isso,
+
+61
+00:03:32.669 --> 00:03:37.750
+eu consigo calcular e achar o meu preço de venda no valor de cento e trinta e oito,
+
+62
+00:03:37.759 --> 00:03:39.039
+cinquenta e três.
+
+63
+00:03:39.050 --> 00:03:40.759
+Veja que interessante
+
+64
+00:03:41.919 --> 00:03:45.960
+nesse preço de venda eu calculo uma receita de quarenta e um, cinco, cinco, oito,
+
+65
+00:03:45.970 --> 00:03:49.770
+cinco, cinco, oito, que nada mais É que preço vezes quantidade.
+
+66
+00:03:49.779 --> 00:03:52.429
+Meu custo de produção permanece os quinze mil.
+
+67
+00:03:53.179 --> 00:03:55.929
+O meu resultado bruto, margem bruta,
+
+68
+00:03:55.940 --> 00:03:59.729
+ele passou a ser sessenta e quatro por cento em relação à venda,
+
+69
+00:03:59.740 --> 00:04:03.130
+já que eu tenho despesas operacionais de dezessete mil.
+
+70
+00:04:03.139 --> 00:04:05.029
+O meu resultado antes do I R.
+
+71
+00:04:05.039 --> 00:04:09.429
+C S deu nove cinco cinco oito, ou seja, vinte e três por cento.
+
+72
+00:04:09.440 --> 00:04:14.369
+Ou seja, eu fiz o cálculo dizendo o se eu mantiver essa mesma estrutura
+
+73
+00:04:15.750 --> 00:04:16.920
+que a anterior.
+
+74
+00:04:16.928 --> 00:04:20.119
+Só que na anterior eu tinha definido o preço da
+
+75
+00:04:20.130 --> 00:04:24.040
+da minha unidade em relação ao meu margem bruta.
+
+76
+00:04:24.049 --> 00:04:25.940
+Só que agora eu defini que a minha margem
+
+77
+00:04:26.369 --> 00:04:30.420
+Ah, que eu quero de vinte e três é antes dos tributos, Só que eu tenho despesas,
+
+78
+00:04:30.429 --> 00:04:33.980
+então eu sou obrigado a agregar e eu consigo identificar que eu preciso
+
+79
+00:04:33.989 --> 00:04:36.480
+de um preço de venda de cento e trinta e oito pra ter,
+
+80
+00:04:36.489 --> 00:04:37.019
+né?
+
+81
+00:04:37.029 --> 00:04:40.540
+Um resultado compatível de seis mil trezentos e oito né,
+
+82
+00:04:40.549 --> 00:04:44.899
+que equivale no fundo a quinze vírgula dois por cento da receita de líquidas.
+
+83
+00:04:44.910 --> 00:04:45.920
+Só que eu olha
+
+84
+00:04:46.420 --> 00:04:48.140
+a minha receita aqui meu.
+
+85
+00:04:48.149 --> 00:04:50.829
+O resultado antes de tributos tá certinho a vinte e três,
+
+86
+00:04:50.839 --> 00:04:54.269
+como eu determinei E o meu preço de venda pra isso é cento e trinta e oito,
+
+87
+00:04:54.279 --> 00:04:56.309
+vamos ver aqui então pessoal vamos lá.
+
+88
+00:04:56.320 --> 00:05:00.410
+Vamos ver o nosso exemplo aqui no Excel. Que tranquilidade nós fazemos isso?
+
+89
+00:05:01.230 --> 00:05:03.980
+Então olha lá, então vamos falar da empresa.
+
+90
+00:05:03.989 --> 00:05:06.899
+Tem como objetivo os vinte e três por cento do lucro do I R.
+
+91
+00:05:06.910 --> 00:05:13.100
+Lembrando que o custo de produção continua sendo de cinquenta por unidade
+
+92
+00:05:13.730 --> 00:05:15.880
+e as despesas operacionais dezessete mil.
+
+93
+00:05:17.100 --> 00:05:19.750
+E aí vamos lá mesmo o conceito,
+
+94
+00:05:19.760 --> 00:05:24.570
+só que nós definimos agora Margem de lucro do I R de vinte e três
+
+95
+00:05:26.019 --> 00:05:31.549
+com isso, além do que, quando a gente fala em resultado,
+
+96
+00:05:31.559 --> 00:05:35.329
+o lucros do I R Despesa operacional vem antes claro e depois vem
+
+97
+00:05:36.230 --> 00:05:38.929
+o resultado antes do tributo.
+
+98
+00:05:38.940 --> 00:05:42.160
+Então nós temos que colocar no preço de venda o custo ou
+
+99
+00:05:42.170 --> 00:05:45.399
+a despesa também agregada pra calcular corretamente o preço de venda.
+
+100
+00:05:45.410 --> 00:05:50.220
+E nós fizemos isso aqui, oh, quando nós fizemos aqui olha, vou dar f dois.
+
+101
+00:05:51.589 --> 00:05:52.940
+Se eu encontrar aqui
+
+102
+00:05:54.920 --> 00:05:56.630
+e que nós temos aqui oh
+
+103
+00:05:57.519 --> 00:05:58.109
+oh,
+
+104
+00:05:58.839 --> 00:06:00.190
+vocês vão perceber
+
+105
+00:06:00.899 --> 00:06:07.489
+que o nosso preço de venda nada mais é que o nosso custo ali unitário de cinquenta.
+
+106
+00:06:07.500 --> 00:06:13.320
+Tô agregando aqui o C quarenta e nove, que é o que seria a minha despesa unitária.
+
+107
+00:06:13.329 --> 00:06:16.529
+Daquelas trezentas unidades dividindo os dezessete mil
+
+108
+00:06:16.540 --> 00:06:19.510
+pelos trezentos e dividido por um menos
+
+109
+00:06:19.519 --> 00:06:21.950
+a margem que eu quero que é de vinte e três por cento,
+
+110
+00:06:21.959 --> 00:06:23.890
+olha, lá tá aqui pra vocês.
+
+111
+00:06:24.250 --> 00:06:27.880
+Então isso faz com que eu consiga calcular o meu preço de venda e
+
+112
+00:06:27.890 --> 00:06:29.820
+nesse caso é de cento e trinta e oito e cinquenta e três.
+
+113
+00:06:29.829 --> 00:06:32.619
+Vamos ver se bateu se tá tudo certo nessa simulação,
+
+114
+00:06:32.630 --> 00:06:35.980
+quando a gente traz pra cá na D R Zinha, projetada, lógico,
+
+115
+00:06:35.989 --> 00:06:41.220
+de forma didática olha a receita são o preço de venda cin cinquenta unidades.
+
+116
+00:06:41.230 --> 00:06:45.119
+Então, aqui, o custo de produção também não se alterou, porque já era pra cinquenta.
+
+117
+00:06:45.519 --> 00:06:48.309
+Resultado bruto Agora passa a ser sessenta
+
+118
+00:06:48.320 --> 00:06:50.250
+e quatro por cento das receitas líquidas.
+
+119
+00:06:50.260 --> 00:06:53.290
+Os dezessete mil de despesas operacionais estão aqui,
+
+120
+00:06:53.299 --> 00:06:55.600
+representam quarenta e um por cento.
+
+121
+00:06:55.609 --> 00:06:59.290
+E o nosso resultado, antes de R olha que bonitinho nove cinco cinco oito, quatro,
+
+122
+00:06:59.299 --> 00:07:01.649
+quatro, que é exatamente vinte e três por cento da minha receita.
+
+123
+00:07:01.660 --> 00:07:02.269
+Líquida,
+
+124
+00:07:03.239 --> 00:07:03.690
+né?
+
+125
+00:07:03.700 --> 00:07:06.929
+Da minha receita, vamos dizer tá como, considerando aqui, como se fosse a líquida.
+
+126
+00:07:06.940 --> 00:07:09.630
+Não estamos fazendo. Não preciso passar a passo agora.
+
+127
+00:07:10.269 --> 00:07:11.500
+E aí o que acontece?
+
+128
+00:07:11.510 --> 00:07:15.359
+O resultado líquido já, porque o Imposto de Renda foi aplicado,
+
+129
+00:07:15.369 --> 00:07:16.899
+Então aqui só vou corrigir
+
+130
+00:07:18.750 --> 00:07:20.320
+líquido muito bem.
+
+131
+00:07:20.329 --> 00:07:23.299
+Resultado do líquido Tá aqui de seis, trezentos e oito,
+
+132
+00:07:23.309 --> 00:07:27.239
+uma representatividade de quinze vírgula, dois por cento da receita líquida,
+
+133
+00:07:27.250 --> 00:07:28.720
+tudo bem pessoal?
+
+134
+00:07:28.730 --> 00:07:34.320
+Então veja, eu vou agregando custam despesas naquela forma de cálculo,
+
+135
+00:07:34.329 --> 00:07:36.600
+pra que eu consiga calcular corretamente o preço de venda,
+
+136
+00:07:36.609 --> 00:07:40.739
+que compra a exigência em relação à premissa que eu defini.

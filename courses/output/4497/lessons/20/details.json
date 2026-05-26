@@ -1,0 +1,33 @@
+{
+  "id": 487520,
+  "title": "Base de cálculo no Lucro Presumido",
+  "position": 20,
+  "duration": 388,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/bd903814-5e88-4484-ac3d-32786d7b4e96/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd903814-5e88-4484-ac3d-32786d7b4e96/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd903814-5e88-4484-ac3d-32786d7b4e96/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd903814-5e88-4484-ac3d-32786d7b4e96/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd903814-5e88-4484-ac3d-32786d7b4e96/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 454679,
+  "title": "Menus, Guias e Ferramentas Parte 1",
+  "position": 5,
+  "duration": 222,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2cd6d3c6-51e2-4a07-9331-8d6b5ed19376/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2cd6d3c6-51e2-4a07-9331-8d6b5ed19376/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2cd6d3c6-51e2-4a07-9331-8d6b5ed19376/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2cd6d3c6-51e2-4a07-9331-8d6b5ed19376/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2cd6d3c6-51e2-4a07-9331-8d6b5ed19376/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

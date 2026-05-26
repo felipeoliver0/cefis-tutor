@@ -1,0 +1,33 @@
+{
+  "id": 473641,
+  "title": "ECD - parte 2",
+  "position": 11,
+  "duration": 159,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/caf5b225-8ac8-416d-941b-cc82924ef1cb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/caf5b225-8ac8-416d-941b-cc82924ef1cb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/caf5b225-8ac8-416d-941b-cc82924ef1cb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/caf5b225-8ac8-416d-941b-cc82924ef1cb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/caf5b225-8ac8-416d-941b-cc82924ef1cb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

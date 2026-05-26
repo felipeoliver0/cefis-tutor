@@ -1,0 +1,33 @@
+{
+  "id": 458540,
+  "title": "Jornada",
+  "position": 36,
+  "duration": 331,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/33861868-92b2-4961-b466-5d58c70a01ce/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/33861868-92b2-4961-b466-5d58c70a01ce/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/33861868-92b2-4961-b466-5d58c70a01ce/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/33861868-92b2-4961-b466-5d58c70a01ce/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/33861868-92b2-4961-b466-5d58c70a01ce/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

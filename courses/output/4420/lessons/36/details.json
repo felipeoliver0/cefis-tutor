@@ -1,0 +1,33 @@
+{
+  "id": 486639,
+  "title": "Tributação das altas rendas - Exemplo prático - Parte 2",
+  "position": 36,
+  "duration": 441,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/ea6de9c1-1f5b-47a2-acb6-2bebe59e8cae/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ea6de9c1-1f5b-47a2-acb6-2bebe59e8cae/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ea6de9c1-1f5b-47a2-acb6-2bebe59e8cae/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ea6de9c1-1f5b-47a2-acb6-2bebe59e8cae/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ea6de9c1-1f5b-47a2-acb6-2bebe59e8cae/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

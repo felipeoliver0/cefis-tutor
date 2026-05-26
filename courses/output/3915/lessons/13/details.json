@@ -1,0 +1,33 @@
+{
+  "id": 479684,
+  "title": "Politica comercial internacional - parte 3",
+  "position": 13,
+  "duration": 438,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/db5d0610-d62a-424f-ac04-344e8f7fa2aa/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/db5d0610-d62a-424f-ac04-344e8f7fa2aa/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/db5d0610-d62a-424f-ac04-344e8f7fa2aa/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/db5d0610-d62a-424f-ac04-344e8f7fa2aa/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/db5d0610-d62a-424f-ac04-344e8f7fa2aa/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

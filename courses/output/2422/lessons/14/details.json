@@ -1,0 +1,33 @@
+{
+  "id": 465657,
+  "title": "Fluxo de caixa",
+  "position": 14,
+  "duration": 291,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ae893db0-ada8-4d11-84a0-b656e3ea8316/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ae893db0-ada8-4d11-84a0-b656e3ea8316/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ae893db0-ada8-4d11-84a0-b656e3ea8316/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ae893db0-ada8-4d11-84a0-b656e3ea8316/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ae893db0-ada8-4d11-84a0-b656e3ea8316/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

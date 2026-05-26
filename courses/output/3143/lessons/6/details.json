@@ -1,0 +1,33 @@
+{
+  "id": 475343,
+  "title": "Exemplo de mapa estratégico - joalheria",
+  "position": 6,
+  "duration": 198,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f9f9b6cf-af5b-4b05-bd7c-bdd115b0a4e0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f9f9b6cf-af5b-4b05-bd7c-bdd115b0a4e0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f9f9b6cf-af5b-4b05-bd7c-bdd115b0a4e0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f9f9b6cf-af5b-4b05-bd7c-bdd115b0a4e0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f9f9b6cf-af5b-4b05-bd7c-bdd115b0a4e0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

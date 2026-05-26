@@ -1,0 +1,33 @@
+{
+  "id": 459932,
+  "title": "Comunicação de ocorrência",
+  "position": 14,
+  "duration": 238,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/48662246-8344-4a61-94b7-ea49b5b2884e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/48662246-8344-4a61-94b7-ea49b5b2884e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/48662246-8344-4a61-94b7-ea49b5b2884e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/48662246-8344-4a61-94b7-ea49b5b2884e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/48662246-8344-4a61-94b7-ea49b5b2884e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

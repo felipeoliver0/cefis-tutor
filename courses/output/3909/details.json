@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3909,
+    "title": "REFORMA TRIBUTÁRIA - NOTAS TÉCNICAS E IMPACTOS OPERACIONAIS",
+    "subtitle": "2025",
+    "summary": "Entenda, na prática, o que muda com a Reforma Tributária e como as novas regras vão impactar o dia a dia da sua empresa. Descubra as notas técnicas essenciais e saiba como se preparar para implementar as mudanças com segurança e eficiência.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/0d0f91d2-1762-414a-9e20-d7d6dd53a69b-thumbnail.png",
+    "goals": [
+      "Preparar profissionais e empresas para se adaptarem às novas exigências da Reforma Tributária, transformando desafios em oportunidades e garantindo conformidade com os impactos operacionais previstos."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 5353,
+    "keywords": "nota técnica;reforma tributaria;impactos;notas;impactos operacionais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 21,
+    "materialCount": 4,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 2047,
+    "averageRating": 9.53,
+    "practiceAverage": 9.49,
+    "trailer": {
+      "id": "8db20e1f-9e2b-42b4-b188-ab4098a9349f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8db20e1f-9e2b-42b4-b188-ab4098a9349f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8db20e1f-9e2b-42b4-b188-ab4098a9349f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8db20e1f-9e2b-42b4-b188-ab4098a9349f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8db20e1f-9e2b-42b4-b188-ab4098a9349f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-08-06T21:56:06.000Z",
+      "updatedAt": "2025-08-06T21:56:06.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-08-06T21:56:28.000Z",
+    "recordedAt": "2025-07-17T00:00:00.000Z",
+    "createdAt": "2025-08-06T21:52:48.000Z"
+  }
+}

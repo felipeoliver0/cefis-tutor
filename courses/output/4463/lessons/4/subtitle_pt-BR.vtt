@@ -1,0 +1,217 @@
+WEBVTT
+
+2
+00:00:00.080 --> 00:00:23.079
+Vocês lembram, pessoal, quando nós tivemos a alteração do MEI, tirando ali o CPF do nome que a gente precisava entrar no sistema, até hoje algumas pessoas não fizeram essa alteração, foi uma alteração que não exigiu que você tivesse que excluir, deletar, cancelar o CNPJ, mas houve a necessidade de regularização.
+
+3
+00:00:23.079 --> 00:00:41.079
+Aqui vai ser uma posição diferente. O CNPJ atual, ele vai continuar na mesma configuração. Nós, no momento da abertura, no Redecim, na sua prefeitura, no seu estado, quando você for fazer ali a viabilidade, nada vai mudar, tudo vai continuar igual.
+
+4
+00:00:41.079 --> 00:00:50.079
+Nós só teremos novo CNPJ quando estes nossos, somente com a composição dos números, se encerrarem.
+
+5
+00:00:50.079 --> 00:00:52.079
+Então, veja, não tem dia específico.
+
+6
+00:00:52.079 --> 00:00:53.079
+Não tem dia específico.
+
+7
+00:00:53.079 --> 00:00:54.079
+Não tem uma data específica.
+
+8
+00:00:54.079 --> 00:01:08.079
+O que tem, olha, pessoal, quando cessar, que já está chegando, previsibilidade desde 2024, foi quando a Receita, opa, não vai dar para continuar com o número durante muito tempo, vamos emitir aqui uma orientação técnica.
+
+9
+00:01:08.079 --> 00:01:13.079
+Quando acabar, automaticamente o sistema já vai trazer isso.
+
+10
+00:01:13.079 --> 00:01:18.079
+Agora nós, da área fiscal, da área contábil, o que nós precisamos fazer?
+
+11
+00:01:18.079 --> 00:01:19.079
+Se atualizar.
+
+12
+00:01:19.079 --> 00:01:21.079
+Chamar departamento de compras.
+
+13
+00:01:21.079 --> 00:01:22.079
+Compras, olha.
+
+14
+00:01:22.079 --> 00:01:23.079
+Existe?
+
+15
+00:01:23.079 --> 00:01:26.079
+Em algum momento há uma previsibilidade de termos.
+
+16
+00:01:26.079 --> 00:01:43.079
+O CNPJ, alfa, lumérico, porque o pessoal não se assuste, o pessoal não seja pego desprevenido, o pessoal de TI vai receber o XML via sistema, o pessoal que faz ali, de forma automática, pessoal do recebimento fiscal.
+
+17
+00:01:43.079 --> 00:01:44.079
+Então, chamam o pessoal.
+
+18
+00:01:44.079 --> 00:01:47.079
+Eu sempre falo para vocês do Café Tributário, né.
+
+19
+00:01:47.079 --> 00:01:51.079
+Baixam o pacu, mandam o e-mail, orienta o time.
+
+20
+00:01:51.079 --> 00:01:52.079
+Orienta as pessoas que estão envolvidas com a toothpática.
+
+21
+00:01:52.079 --> 00:01:54.219
+envolvidas com o processo de recebimento
+
+22
+00:01:54.219 --> 00:01:56.340
+para que as pessoas não tomem
+
+23
+00:01:56.340 --> 00:01:58.340
+o susto, porque de fato
+
+24
+00:01:58.340 --> 00:01:59.959
+na rotina
+
+25
+00:01:59.959 --> 00:02:02.140
+não vai ser alterado, o que vai ser
+
+26
+00:02:02.140 --> 00:02:03.959
+alterado no momento de fazer a
+
+27
+00:02:03.959 --> 00:02:06.099
+abertura, nós temos aqui
+
+28
+00:02:06.099 --> 00:02:08.340
+as questões das letras
+
+29
+00:02:08.340 --> 00:02:10.139
+existe pessoal
+
+30
+00:02:10.139 --> 00:02:11.780
+uma validação
+
+31
+00:02:11.780 --> 00:02:14.599
+para nós é um processo automático
+
+32
+00:02:14.599 --> 00:02:15.620
+é um processo normal
+
+33
+00:02:15.620 --> 00:02:17.740
+mas existe um cálculo, olha
+
+34
+00:02:17.740 --> 00:02:20.060
+para calcular o modo de um CNPJ
+
+35
+00:02:20.060 --> 00:02:21.680
+com letras e números
+
+36
+00:02:21.680 --> 00:02:24.439
+o sistema vai converter os caracteres
+
+37
+00:02:24.439 --> 00:02:26.120
+alfanuméricos em valores
+
+38
+00:02:26.120 --> 00:02:27.879
+decimais, inclusive
+
+39
+00:02:27.879 --> 00:02:30.039
+até para fins acadêmicos
+
+40
+00:02:30.039 --> 00:02:32.219
+me conta aqui se você já acessou
+
+41
+00:02:32.219 --> 00:02:33.780
+é um item bem interessante
+
+42
+00:02:33.780 --> 00:02:35.900
+que eu descobri não tem muito tempo
+
+43
+00:02:35.900 --> 00:02:37.939
+que são scientists
+
+44
+00:02:37.939 --> 00:02:40.360
+que criam as contas
+
+45
+00:02:40.360 --> 00:02:42.099
+essa validação
+
+46
+00:02:42.099 --> 00:02:44.060
+este cálculo para trazer
+
+47
+00:02:44.060 --> 00:02:46.000
+para nós o que? O dígito
+
+48
+00:02:46.000 --> 00:02:48.020
+verificador, então isso
+
+49
+00:02:48.020 --> 00:02:49.759
+mostra que não é somente
+
+50
+00:02:49.759 --> 00:02:51.659
+uma alteração, eu vou colocar
+
+51
+00:02:51.659 --> 00:02:53.680
+números e letras aleatórios, não
+
+52
+00:02:53.680 --> 00:02:55.759
+por trás desse sistema
+
+53
+00:02:55.759 --> 00:02:57.680
+existe um motor
+
+54
+00:02:57.680 --> 00:02:59.500
+de cálculo, que é importante
+
+55
+00:02:59.500 --> 00:03:00.639
+a gente entender

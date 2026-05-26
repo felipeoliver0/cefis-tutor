@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 2114,
+    "title": "Regulamento Interno",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático sobre regulamento interno, você vai aprender desde aspectos conceituais e legais relativos à este instrumento, até o seu detalhamento e formas de aplicação. Entenderá, detalhadamente a estrutura de um Regimento Interno, relativas à regras gerais, benefícios sociais, deveres e direitos dos empregados, proibições, normas gerais de segurança do trabalho, penalidades, termo de compromisso, diferença entre regulamento interno e código de conduta e muito mais, para colocar em prática seus conhecimentos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/ae3dd057276688048346cf6fb3c06beb1728500111.jpg",
+    "goals": [
+      "Apresentar conceitos, modelos, técnicas e ferramentas que visam auxiliar e facilitar a elaboração, implantação e operacionalização do Regulamento Interno de uma Empresa.\nCapacitar os participantes na identificação, análise e redação  de conteúdos de um Regulamento Interno. Subsidiar processos de elaboração e implantação de um  Regulamento Interno eficiente e eficaz."
+    ],
+    "teacher": {
+      "id": 268532,
+      "name": "SÉRGIO LOPES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1633790201.jpeg"
+    },
+    "duration": 5922,
+    "keywords": "regulamento;regulamento interno",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 5,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      3,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 190,
+    "averageRating": 9.42,
+    "practiceAverage": 9.43,
+    "trailer": {
+      "id": "8545ea82-43a6-4700-9e83-2d631351ea4c",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8545ea82-43a6-4700-9e83-2d631351ea4c/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8545ea82-43a6-4700-9e83-2d631351ea4c/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8545ea82-43a6-4700-9e83-2d631351ea4c/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8545ea82-43a6-4700-9e83-2d631351ea4c/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-07-12T16:59:42.000Z",
+      "updatedAt": "2022-07-12T16:59:42.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-07-14T17:42:57.000Z",
+    "recordedAt": "2022-06-17T00:00:00.000Z",
+    "createdAt": "2022-06-20T17:37:26.000Z"
+  }
+}

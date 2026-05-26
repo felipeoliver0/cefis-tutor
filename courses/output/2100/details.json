@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2100,
+    "title": "Escrituração fiscal ICMS e IPI",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Escrituração fiscal ICMS e IPI você vai aprender tópicos que irão desde a legislação básica do ICMS e IPI, fato gerador do ICMS e IPI, base de cálculo do ICMS, base de cálculo do IPI, contribuintes, alíquotas do ICMS, principais aspectos na emissão de nota fiscal, como Código Fiscal De Operação E Prestação (CFOP), Código de Situação Tributária (CST) e classificação fiscal do IPI (NCM), emissão com incorreções, exercícios práticos e muitos outros pontos para colocar na prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/cfa124f823a7f7adea2c1dfad4d7ad461654115342.jpg",
+    "goals": [
+      "Apresentar todas as características e procedimentos adequados para realização da Escrituração fiscal ICMS e IPI."
+    ],
+    "teacher": {
+      "id": 571255,
+      "name": "Sandra Cabral",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1660050985.jpeg"
+    },
+    "duration": 12472,
+    "keywords": "escrituração fiscal;escrituração;ICMS;IPI",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 35,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1429,
+    "averageRating": 9.07,
+    "practiceAverage": 8.85,
+    "trailer": {
+      "id": "287fe27f-9159-41af-a7aa-0ce5315e3b28",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/287fe27f-9159-41af-a7aa-0ce5315e3b28/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/287fe27f-9159-41af-a7aa-0ce5315e3b28/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/287fe27f-9159-41af-a7aa-0ce5315e3b28/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/287fe27f-9159-41af-a7aa-0ce5315e3b28/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-07-05T17:18:35.000Z",
+      "updatedAt": "2022-07-05T17:18:35.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 6,
+    "launchDate": "2022-07-06T09:24:11.000Z",
+    "recordedAt": "2022-05-30T00:00:00.000Z",
+    "createdAt": "2022-06-01T17:08:42.000Z"
+  }
+}

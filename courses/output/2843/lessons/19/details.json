@@ -1,0 +1,33 @@
+{
+  "id": 471218,
+  "title": "Comportamentos essenciais dos lideres",
+  "position": 19,
+  "duration": 190,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d2c3fe2c-3a79-47bd-b2fa-7b5fdd307ca2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2c3fe2c-3a79-47bd-b2fa-7b5fdd307ca2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2c3fe2c-3a79-47bd-b2fa-7b5fdd307ca2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2c3fe2c-3a79-47bd-b2fa-7b5fdd307ca2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2c3fe2c-3a79-47bd-b2fa-7b5fdd307ca2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

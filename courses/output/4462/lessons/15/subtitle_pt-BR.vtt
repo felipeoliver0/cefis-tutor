@@ -1,0 +1,97 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.000
+Ferramentas diversificadas para atender desde o MEI até grandes corporações.
+
+3
+00:00:06.000 --> 00:00:13.320
+Então, existe um canal de emissão, um emissor web, aplicativos, APIs de integração.
+
+4
+00:00:13.320 --> 00:00:16.920
+Grandes empresas utilizam APIs para envio da DPS.
+
+5
+00:00:16.920 --> 00:00:19.920
+Então, a DPS, pessoal, é a Declaração de Prestação de Serviço,
+
+6
+00:00:19.920 --> 00:00:26.000
+que automaticamente o seu contribuinte vai enviar na emissão do documento.
+
+7
+00:00:26.000 --> 00:00:32.079
+O MEI continua habilitado, ele continua utilizando essa integração normalmente.
+
+8
+00:00:32.079 --> 00:00:36.479
+E pequenos prestadores, quando virem a utilizar, também não vão sofrer,
+
+9
+00:00:36.479 --> 00:00:43.759
+porque existe uma questão de canal de transmissão muito simples dentro do Portal Nacional.
+
+10
+00:00:43.759 --> 00:00:47.619
+Qual é o coração da plataforma sobre a padronização?
+
+11
+00:00:47.619 --> 00:00:53.799
+Repositório único da nota fiscal de serviço eletrônica, centralizando todos os documentos fiscais.
+
+12
+00:00:53.799 --> 00:00:55.600
+Segurança e identificação.
+
+13
+00:00:55.600 --> 00:01:01.039
+Para cada tipo de documento, trazendo a chave de acesso, garantindo o XML,
+
+14
+00:01:01.039 --> 00:01:03.840
+garantindo a autenticidade daquele documento.
+
+15
+00:01:03.840 --> 00:01:04.980
+Gestão de eventos.
+
+16
+00:01:04.980 --> 00:01:09.280
+Então, registra também o ciclo de vida sobre esse documento fiscal.
+
+17
+00:01:09.280 --> 00:01:12.019
+Se ele foi cancelado, se ele foi substituído,
+
+18
+00:01:12.019 --> 00:01:16.859
+se foi emitido uma carta de correção também de forma totalmente estruturada.
+
+19
+00:01:16.859 --> 00:01:24.700
+E a base para apuração do IBS e da CBS, conforme a fonte primária do artigo 12 da LC 214.
+
+20
+00:01:24.700 --> 00:01:25.400
+O porquê?
+
+21
+00:01:25.400 --> 00:01:26.959
+Por que eu levantei isso aqui para vocês?
+
+22
+00:01:26.959 --> 00:01:31.879
+Porque alguns municípios estão utilizando a base incorreta.
+
+23
+00:01:31.879 --> 00:01:37.540
+Já no Portal Nacional, a ideia é que essa base seja feita corretamente.
+
+24
+00:01:37.540 --> 00:01:44.260
+Porém, atenção, porque se você utilizar APIs para integrar no Portal,
+
+25
+00:01:44.260 --> 00:01:49.159
+cuidado com essa informação de compartilhamento, pode se perder por qualquer tipo de razão.

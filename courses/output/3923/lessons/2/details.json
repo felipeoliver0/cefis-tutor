@@ -1,0 +1,33 @@
+{
+  "id": 479994,
+  "title": "Reforma Tributária do Consumo - Parte 1",
+  "position": 2,
+  "duration": 563,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/186d1b5d-2495-4996-8f1b-7d4dd2cfcbe9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/186d1b5d-2495-4996-8f1b-7d4dd2cfcbe9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/186d1b5d-2495-4996-8f1b-7d4dd2cfcbe9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/186d1b5d-2495-4996-8f1b-7d4dd2cfcbe9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/186d1b5d-2495-4996-8f1b-7d4dd2cfcbe9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

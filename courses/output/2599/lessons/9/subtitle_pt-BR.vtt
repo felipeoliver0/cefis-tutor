@@ -1,0 +1,333 @@
+WEBVTT
+
+1
+00:00:00.159 --> 00:00:02.250
+como parte do mapeamento de processos,
+
+2
+00:00:02.259 --> 00:00:05.849
+você deve também elaborar os chamados fluxogramas.
+
+3
+00:00:05.860 --> 00:00:11.010
+Você no processo de mapeamento você faz o levantamento de dados e,
+
+4
+00:00:11.020 --> 00:00:15.649
+com os dados obtidos devidamente registrados anotados,
+
+5
+00:00:15.659 --> 00:00:22.069
+você inicia o desenho do processo que é o fluxograma.
+
+6
+00:00:22.079 --> 00:00:24.909
+Nada mais que um instrumento que representa
+
+7
+00:00:24.920 --> 00:00:28.590
+graficamente sequencialmente um ou vários processos,
+
+8
+00:00:28.600 --> 00:00:30.229
+decisões ou informações.
+
+9
+00:00:30.239 --> 00:00:34.830
+O fluxograma permite que se visualize o processo globalmente, sendo, portanto,
+
+10
+00:00:34.840 --> 00:00:39.189
+uma ferramenta tanto para o levantamento como para a análise dos dados,
+
+11
+00:00:39.200 --> 00:00:41.150
+treinamento de pessoal,
+
+12
+00:00:41.159 --> 00:00:47.250
+implantação de novos processos ou modificações em processos urgentes,
+
+13
+00:00:47.569 --> 00:00:53.259
+inclusões, exclusões ou alterações de rotinas e etapas do processo.
+
+14
+00:00:53.270 --> 00:00:57.700
+Então o fluxograma é um instrumento de trabalho,
+
+15
+00:00:57.709 --> 00:01:02.060
+uma técnica a ser utilizada no mapeamento de processos,
+
+16
+00:01:02.069 --> 00:01:05.540
+após o levantamento de dados com os dados em mãos,
+
+17
+00:01:05.550 --> 00:01:11.459
+conhecendo o o processo em si todo o seu mecanismo, todas as suas entradas,
+
+18
+00:01:11.470 --> 00:01:13.699
+suas transformações e suas saídas.
+
+19
+00:01:13.709 --> 00:01:20.355
+Você desenha o desenhando através dos fluxogramas.
+
+20
+00:01:20.364 --> 00:01:22.955
+E para um melhor aproveitamento do fluxograma,
+
+21
+00:01:22.964 --> 00:01:26.875
+você deve atentar por alguns pontos importantes.
+
+22
+00:01:26.885 --> 00:01:29.415
+Eles não devem ter um tratamento confidencial.
+
+23
+00:01:29.425 --> 00:01:33.394
+O fluxograma, depois de desenhado tem que ser, no mínimo,
+
+24
+00:01:33.404 --> 00:01:36.915
+verificado por quem está dentro do processo,
+
+25
+00:01:36.925 --> 00:01:41.114
+por quem opera o processo pra ele poder validar.
+
+26
+00:01:41.125 --> 00:01:45.375
+Se você fez o desenho correto, a sequência correta,
+
+27
+00:01:45.599 --> 00:01:46.989
+a lógica correta
+
+28
+00:01:47.680 --> 00:01:51.410
+pra que você não trabalhe em cima de um fluxo errado, equivocado,
+
+29
+00:01:51.419 --> 00:01:54.269
+deve ser de fácil compreensão e entendimento
+
+30
+00:01:54.279 --> 00:01:56.750
+por todos aqueles que deles necessitarem.
+
+31
+00:01:57.709 --> 00:02:00.680
+Deve abranger todas as operações de um processo mesmo.
+
+32
+00:02:00.690 --> 00:02:04.319
+As mais simples no quando você está mapeando o processo,
+
+33
+00:02:04.330 --> 00:02:11.220
+não tem nenhuma rotina subentendida, não tem que ter nenhuma decisão subentendida
+
+34
+00:02:11.500 --> 00:02:18.130
+até aos passos. E as decisões óbvias tem que fazer parte do fluxograma.
+
+35
+00:02:18.139 --> 00:02:21.110
+E a simbologia utilizada deve.
+
+36
+00:02:21.119 --> 00:02:23.949
+Deve ser a oficial uma simbologia oficial,
+
+37
+00:02:23.960 --> 00:02:27.149
+geralmente utilizada em toda a organização.
+
+38
+00:02:27.160 --> 00:02:33.059
+Então nós temos, né Símbolos para documentos, geração de documentos,
+
+39
+00:02:33.070 --> 00:02:34.990
+documentos com canhotos, né?
+
+40
+00:02:35.000 --> 00:02:37.929
+Destruição de documentos símbolo para conectores
+
+41
+00:02:38.033 --> 00:02:41.852
+de rotinas, corretores de páginas para arquivos, arquivo definitivo,
+
+42
+00:02:41.863 --> 00:02:47.322
+arquivo temporário pra pasta de documentos para comparação de documentos.
+
+43
+00:02:47.332 --> 00:02:50.753
+Nós temos símbolo para identificar a operação
+
+44
+00:02:50.763 --> 00:02:53.082
+pra identificar o próprio documento em si,
+
+45
+00:02:53.093 --> 00:02:57.402
+pra identificar tomada de decisão que é o famoso los, né?
+
+46
+00:02:57.412 --> 00:03:00.802
+Nós temos símbolos pra identificar bancos de dados.
+
+47
+00:03:00.813 --> 00:03:04.462
+Então nós temos vários símbolos que são padrões,
+
+48
+00:03:04.565 --> 00:03:09.055
+inclusive padrões universais. É uma linguagem universal, né?
+
+49
+00:03:09.065 --> 00:03:14.255
+Que você deve utilizar para desenhar o seu fluxograma
+
+50
+00:03:14.266 --> 00:03:20.035
+fluxograma referente ao processo que você está mapeando.
+
+51
+00:03:20.046 --> 00:03:23.535
+E você pode mapear um processo de forma macro, ou seja,
+
+52
+00:03:23.546 --> 00:03:29.576
+apenas com as principais rotinas e principais atividades do processo.
+
+53
+00:03:29.585 --> 00:03:31.035
+Ou você pode
+
+54
+00:03:31.300 --> 00:03:31.830
+né?
+
+55
+00:03:31.839 --> 00:03:36.110
+Desenhar um fluxo grama com todas as atividades,
+
+56
+00:03:36.119 --> 00:03:40.029
+todo o passo a passo do seu processo, né?
+
+57
+00:03:40.039 --> 00:03:45.789
+Lembrando? Sempre que quanto mais você utilizar a simbologia correta melhor.
+
+58
+00:03:45.800 --> 00:03:47.009
+Será depois
+
+59
+00:03:47.259 --> 00:03:52.070
+a sua capacidade de análise desse fluxo urbano,
+
+60
+00:03:52.080 --> 00:03:57.669
+visando identificar acima de tudo quais são os passos que devem ser eliminados?
+
+61
+00:03:57.679 --> 00:04:00.429
+Quais são as rotinas que devem ser utilizadas?
+
+62
+00:04:00.440 --> 00:04:04.070
+Quais são os formulários que podem ser eliminados do processo?
+
+63
+00:04:04.080 --> 00:04:09.690
+Quais são as necessidades de novos? Mesmo virtuais?
+
+64
+00:04:09.699 --> 00:04:14.330
+Formulários podem ser físicos ou virtuais.
+
+65
+00:04:14.339 --> 00:04:16.369
+Os formulários não morreram,
+
+66
+00:04:16.380 --> 00:04:21.450
+os formulários não deixaram de existir apenas em muitos processos.
+
+67
+00:04:21.459 --> 00:04:25.000
+Em muitas empresas eles deixaram de ser papel e
+
+68
+00:04:25.010 --> 00:04:28.869
+passaram a ser virtuais na tela do computador,
+
+69
+00:04:28.880 --> 00:04:30.790
+mas continuam sendo formulários.
+
+70
+00:04:30.799 --> 00:04:32.149
+Então você tem
+
+71
+00:04:32.489 --> 00:04:39.059
+aí que identificados corretamente os mais simples, os mais óbvios os mais,
+
+72
+00:04:39.070 --> 00:04:40.859
+né complexos?
+
+73
+00:04:40.869 --> 00:04:43.899
+Todos eles devem ser devidamente identificados.
+
+74
+00:04:43.910 --> 00:04:51.739
+Todos eles devem ser devidamente registrados e gostarem do seu fluxograma.
+
+75
+00:04:51.750 --> 00:04:56.000
+Então você faz o mapeamento do seu processo
+
+76
+00:04:56.529 --> 00:04:58.980
+primeiro, fazendo um levantamento de dados,
+
+77
+00:04:58.989 --> 00:05:01.619
+seja via entrevista seja via questionários,
+
+78
+00:05:01.630 --> 00:05:05.299
+seja via observação local ou pelos três métodos.
+
+79
+00:05:05.309 --> 00:05:09.700
+Depende do seu processo, depende da sua da sua localização geográfica,
+
+80
+00:05:09.709 --> 00:05:13.700
+depende de vá de algumas variáveis próprias da sua empresa,
+
+81
+00:05:13.709 --> 00:05:17.380
+e depois você leva esse levantamento de dados para
+
+82
+00:05:17.390 --> 00:05:21.200
+o fluxograma em que você faz uma um um
+
+83
+00:05:22.220 --> 00:05:29.170
+através do uso de uma simbologia padrão, você desenha o passo a passo do processo.

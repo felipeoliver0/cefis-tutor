@@ -1,0 +1,33 @@
+{
+  "id": 480036,
+  "title": "Evolução da contabilidade brasileira",
+  "position": 5,
+  "duration": 465,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/19cd6de8-130a-491d-a0c3-75cbae42a26e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/19cd6de8-130a-491d-a0c3-75cbae42a26e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/19cd6de8-130a-491d-a0c3-75cbae42a26e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/19cd6de8-130a-491d-a0c3-75cbae42a26e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/19cd6de8-130a-491d-a0c3-75cbae42a26e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

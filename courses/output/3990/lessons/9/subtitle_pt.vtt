@@ -1,0 +1,76 @@
+WEBVTT
+
+00:00:00.354 --> 00:00:06.851
+- Vamos primeiro, então, usar esse exemplo, vamos usar o mesmo exemplo para calcular esses indicadores
+
+00:00:06.851 --> 00:00:13.285
+- que eu comentei. E nesse primeiro exemplo, nós vamos tentar entender o cálculo do payback simples,
+
+00:00:13.285 --> 00:00:19.783
+- que não leva em conta o valor do dinheiro no tempo, porque não está associado a ele nenhum tipo de
+
+00:00:19.783 --> 00:00:25.898
+- taxa de desconto. Então, nesse caso do payback simples, o período de payback simples consiste
+
+00:00:25.898 --> 00:00:28.382
+- na determinação do tempo necessário
+
+00:00:28.514 --> 00:00:35.506
+- para que o investimento inicial, que é a saída de caixa, aquele investimento inicial, seja recuperado
+
+00:00:35.506 --> 00:00:42.297
+- pelas entradas de caixas promovidas pelo investimento. Veja que nesse exemplo aqui que nós demos, o
+
+00:00:42.297 --> 00:00:49.290
+- período de payback do projeto é exatamente dois anos. Por quê? Olha que interessante. Quando a gente
+
+00:00:49.290 --> 00:00:56.417
+- monta dessa forma aqui para visualização do saldo acumulado, nós conseguimos verificar melhor. Então,
+
+00:00:56.417 --> 00:00:57.694
+- acompanhem comigo.
+
+00:00:58.498 --> 00:01:06.058
+- O ano zero houve ali um investimento, uma saída de caixa, como se fosse uma parcela, vamos chamar assim,
+
+00:01:06.058 --> 00:01:13.261
+- de 145. Então, ou seja, o saldo desse projeto no ano zero é uma saída de caixa de 145. Muito bem.
+
+00:01:13.261 --> 00:01:20.393
+- No ano um, lembra que a gente trouxe ali do slide anterior, houve ali uma projeção de uma entrada
+
+00:01:20.393 --> 00:01:24.030
+- favorável positiva no caixa de 71. Quando eu pego
+
+00:01:24.258 --> 00:01:31.181
+- e faço essa conta de 145 da saída de caixa com o 71 que entrou, o meu saldo final naquele período
+
+00:01:31.181 --> 00:01:38.446
+- 1, ele ainda é negativo, ou seja, eu recuperei uma parte do investimento, mas ainda precisaria recuperar
+
+00:01:38.446 --> 00:01:45.642
+- o 74. No ano 2, o fluxo de caixa nos mostra que vai entrar 74, no ano 2. Quando eu somo com aquele valor
+
+00:01:45.642 --> 00:01:52.702
+- que eu tinha em aberto, eu vejo que eu consigo zerar. Então, veja, eu consegui em dois anos recuperar
+
+00:01:52.834 --> 00:02:00.417
+- o investimento que eu fiz de 145 e no ano 3 e 4 geraram ali fluxo de caixa positivo que seria,
+
+00:02:00.417 --> 00:02:08.398
+- vamos dizer, um retorno bem positivo, lucro do projeto. Mas vejam que aqui eu estou pegando valores
+
+00:02:08.398 --> 00:02:16.539
+- nominais exatos que serão formados no ano 1, 2, 3 e 4. Então são valores que estão lá no futuro.
+
+00:02:16.539 --> 00:02:22.366
+- Mas quanto ele vale hoje? Para eu poder analisar, vamos dizer, realmente
+
+00:02:22.594 --> 00:02:28.728
+- se o projeto vale bem a pena ou em quanto tempo ele realmente iria recuperar o investimento, se eu te
+
+00:02:28.728 --> 00:02:35.283
+- colocasse o custo do dinheiro ou o custo que o investidor gostaria de ter para desembolsar aqueles recursos.
+
+00:02:35.283 --> 00:02:38.110
+- Então vamos entender um pouquinho essa parte.

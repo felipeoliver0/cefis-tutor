@@ -1,0 +1,801 @@
+WEBVTT
+
+2
+00:00:00.050 --> 00:00:08.050
+então nós temos aí olha lá a nossa criação né então quando nós tivermos criando lá no registro
+
+3
+00:00:08.050 --> 00:00:15.050
+zero tá lá como nós como mostramos né eu vou ter aí a opção pelo lucro presumido é a opção 5
+
+4
+00:00:15.050 --> 00:00:22.190
+então se eu coloco a opção 5 lá no registro zero ele vai me habilitar o bloco P lembra que nós
+
+5
+00:00:22.190 --> 00:00:27.769
+mostramos bloco P que é o bloco do lucro presumido porque eu fiz a opção lá e ele vai me habilitar
+
+6
+00:00:27.769 --> 00:00:34.369
+os trimestres não vai trazer mensalmente como eu mostrei no lucro real perfeito então lucro
+
+7
+00:00:34.369 --> 00:00:41.090
+presumido aqui ele me traz aqui os quatro trimestres aí nós temos olha aqui ó aqui que
+
+8
+00:00:41.090 --> 00:00:48.829
+nós vamos fazer a nossa opção tá vendo ó ó obrigadas a entregar esse CD ou livro caixa né
+
+9
+00:00:48.829 --> 00:00:56.149
+então nós vamos colocar obrigada é o C livro caixa é o L obrigada a entregar esse CD ou entrega
+
+10
+00:00:56.149 --> 00:00:57.750
+facultativa da ECD
+
+11
+00:00:57.770 --> 00:01:04.849
+com recuperação de dados então eu faço os parâmetros aqui do mesmo jeito aqui livro caixa
+
+12
+00:01:04.849 --> 00:01:12.170
+ou não obrigadas a entregar esse CD ou com entrega facultativa da ECD sem recuperação de dados
+
+13
+00:01:12.170 --> 00:01:20.530
+perfeito então eu faço aqui a nossa opção lá no bloco zero lá no zero no nosso bloco zero dez né
+
+14
+00:01:20.530 --> 00:01:27.329
+o registro 010 tá e aqui que eu vou escolher ó se nós queremos regime de caixa e regime de
+
+15
+00:01:27.329 --> 00:01:27.769
+competência
+
+16
+00:01:27.769 --> 00:01:29.349
+que eu acabei de explicar para vocês.
+
+17
+00:01:29.909 --> 00:01:35.569
+Então, essa opção, se dá lá no bloco 0, no bloco 0010, está lá.
+
+18
+00:01:36.469 --> 00:01:38.370
+Critério de reconhecimento da receita.
+
+19
+00:01:38.549 --> 00:01:40.530
+É regime de caixa ou regime de competência?
+
+20
+00:01:41.189 --> 00:01:44.750
+Lembrando que qualquer um que escolher é irretratável para todo ano no calendário.
+
+21
+00:01:45.030 --> 00:01:45.409
+Perfeito?
+
+22
+00:01:45.950 --> 00:01:50.750
+Então, dito isso, nós estamos habilitando os blocos do lucro presumido.
+
+23
+00:01:51.329 --> 00:01:54.209
+Não vai abrir o bloco M, o bloco N, o bloco...
+
+24
+00:01:54.209 --> 00:01:55.310
+Não, porque são lucro real.
+
+25
+00:01:55.409 --> 00:01:56.590
+O bloco L, não, lucro real.
+
+26
+00:01:56.590 --> 00:01:58.849
+Não vai abrir, vai abrir só o dos blocos P.
+
+27
+00:01:59.530 --> 00:02:02.790
+Aqui é comum a todos, o sim ou não.
+
+28
+00:02:03.269 --> 00:02:08.789
+Cada sim que nós colocarmos aqui vai aparecer os quadros para a gente complementar,
+
+29
+00:02:08.889 --> 00:02:10.110
+como eu mostrei no lucro real.
+
+30
+00:02:10.490 --> 00:02:11.930
+É idêntico para o lucro presumido.
+
+31
+00:02:12.490 --> 00:02:16.409
+É que o lucro presumido, muitas vezes, não tem tantas variedades como tem o lucro real.
+
+32
+00:02:17.210 --> 00:02:21.889
+Então, aqui também nós vamos ter que responder todos os detalhes de criação.
+
+33
+00:02:22.430 --> 00:02:26.210
+E aí, eu tenho a criação da empresa,
+
+34
+00:02:26.210 --> 00:02:30.289
+com os dados, normal, e vai me abrir aqui o bloco P.
+
+35
+00:02:30.729 --> 00:02:34.469
+O Imposto de Renda e Contribuição Social, que serão os cálculos aqui do mesmo jeito.
+
+36
+00:02:34.949 --> 00:02:37.949
+O objetivo é calcular o Imposto de Renda e Contribuição Social.
+
+37
+00:02:38.449 --> 00:02:42.710
+Então, eu vou ter o P100, que é o balanço, o P150, que é a DRE,
+
+38
+00:02:43.229 --> 00:02:47.229
+o P200, a apuração da base de cálculo, como se apurou o lucro presumido,
+
+39
+00:02:47.710 --> 00:02:52.490
+o P300 é o cálculo do Imposto de Renda, os 15%, mais o adicional de 10%,
+
+40
+00:02:52.490 --> 00:02:57.650
+o P400 é a apuração da base de cálculo da Contribuição Social
+
+41
+00:02:57.650 --> 00:02:59.909
+e o P500 é o cálculo da Contribuição Social.
+
+42
+00:03:00.389 --> 00:03:03.129
+Então, você vê que esse é bem mais objetivo, bem mais tranquilo.
+
+43
+00:03:03.610 --> 00:03:06.909
+E essas memórias de cálculo servirão para conciliação
+
+44
+00:03:06.909 --> 00:03:11.849
+se tudo que caiu dentro da ECD, na importação dos dados, se estão corretos.
+
+45
+00:03:12.229 --> 00:03:15.789
+E, obviamente, tem cruzamento com a sua contabilidade, com todas as informações.
+
+46
+00:03:15.990 --> 00:03:16.669
+Perfeito, gente?
+
+47
+00:03:17.509 --> 00:03:21.349
+Então, é muito importante que a gente faça essa conferência.
+
+48
+00:03:21.509 --> 00:03:22.469
+Guarde os quatro temas.
+
+49
+00:03:22.469 --> 00:03:28.710
+A memória de cálculo dos quatro trimestres para a conferência da sua ECD, da sua ECF.
+
+50
+00:03:29.289 --> 00:03:33.650
+Mesmo que não tenha dado nenhum erro, é importante você conferir.
+
+51
+00:03:33.729 --> 00:03:37.949
+Como eu já expliquei, pode não ter erro porque todo o raciocínio está correto.
+
+52
+00:03:38.349 --> 00:03:40.370
+Mas será que os valores estão corretos?
+
+53
+00:03:40.770 --> 00:03:41.849
+Vale a pena conferir.
+
+54
+00:03:42.490 --> 00:03:46.129
+Aqui, para a gente fechar o conceito com relação ao lucro presumido,
+
+55
+00:03:46.770 --> 00:03:48.969
+nós elaboramos um exemplo prático
+
+56
+00:03:48.969 --> 00:03:52.449
+e depois nós transportamos isso para dentro das fichas.
+
+57
+00:03:52.469 --> 00:03:54.530
+Então, olha lá.
+
+58
+00:03:55.349 --> 00:03:58.830
+Tomando por base que no primeiro trimestre de 2025,
+
+59
+00:03:59.090 --> 00:04:01.490
+aqui eu fiz trimestral, mas vocês sabem que é anual, né?
+
+60
+00:04:01.849 --> 00:04:03.310
+São quatro trimestres.
+
+61
+00:04:03.930 --> 00:04:06.889
+A empresa teve uma venda de R$ 550 mil.
+
+62
+00:04:07.330 --> 00:04:08.909
+Essa venda tem um IPI.
+
+63
+00:04:09.469 --> 00:04:11.469
+Tem IPI dentro desse R$ 50 mil, de 10%.
+
+64
+00:04:12.030 --> 00:04:14.409
+E ela também teve uma venda de serviço.
+
+65
+00:04:14.509 --> 00:04:16.910
+Então, teve venda de produto com IPI,
+
+66
+00:04:17.350 --> 00:04:18.589
+teve venda de serviço,
+
+67
+00:04:19.089 --> 00:04:20.889
+tem o IPI destacado, né?
+
+68
+00:04:20.889 --> 00:04:22.449
+O IPI destacado, R$ 50 mil.
+
+69
+00:04:22.470 --> 00:04:25.569
+Que é exatamente o que está lá dentro dos R$ 550 mil.
+
+70
+00:04:25.569 --> 00:04:28.829
+Eu tenho um ganho pela venda do ativo imobilizado,
+
+71
+00:04:28.910 --> 00:04:30.529
+que nós conhecemos como ganho de capital.
+
+72
+00:04:31.149 --> 00:04:33.589
+E eu tenho rendimentos de aplicação financeira.
+
+73
+00:04:33.709 --> 00:04:35.750
+Então, essas são as nossas receitas.
+
+74
+00:04:36.449 --> 00:04:38.509
+E o nosso tributo do IPI.
+
+75
+00:04:38.970 --> 00:04:41.069
+Vamos calcular o imposto de renda.
+
+76
+00:04:41.389 --> 00:04:41.769
+Olha lá.
+
+77
+00:04:42.370 --> 00:04:44.110
+Como é que eu calculo o imposto de renda?
+
+78
+00:04:44.730 --> 00:04:47.149
+Eu tenho que segregar as minhas atividades,
+
+79
+00:04:47.410 --> 00:04:48.629
+porque eu tenho o comércio,
+
+80
+00:04:48.949 --> 00:04:50.610
+que ela tem uma alíquota de presunção.
+
+81
+00:04:50.610 --> 00:04:52.410
+E tenho a prestação,
+
+82
+00:04:52.470 --> 00:04:53.470
+a prestação de serviço,
+
+83
+00:04:53.529 --> 00:04:55.050
+que tem outra alíquota de presunção.
+
+84
+00:04:55.750 --> 00:04:56.089
+Perfeito?
+
+85
+00:04:56.170 --> 00:04:57.430
+Então, nós temos duas aí.
+
+86
+00:04:57.949 --> 00:05:00.610
+Então, eu vou primeiro expurgar o IPI,
+
+87
+00:05:00.689 --> 00:05:02.209
+porque o IPI é por fora, né?
+
+88
+00:05:02.709 --> 00:05:04.709
+Então, os R$ 550 menos o IPI,
+
+89
+00:05:04.750 --> 00:05:05.750
+ele não entra na base,
+
+90
+00:05:06.509 --> 00:05:07.910
+vezes 8%,
+
+91
+00:05:07.910 --> 00:05:10.050
+que é a presunção do comércio.
+
+92
+00:05:10.689 --> 00:05:11.689
+Teve venda de produto,
+
+93
+00:05:11.810 --> 00:05:14.230
+o comércio indústria é 8% do lucro presumido.
+
+94
+00:05:14.670 --> 00:05:16.089
+Então, deu R$ 40 mil.
+
+95
+00:05:16.329 --> 00:05:18.389
+8% sobre R$ 500, R$ 40 mil.
+
+96
+00:05:18.389 --> 00:05:22.230
+Esse é o lucro presumido da minha venda na indústria.
+
+97
+00:05:22.470 --> 00:05:24.230
+Quem disse isso foi o governo.
+
+98
+00:05:24.230 --> 00:05:25.430
+Governo presume.
+
+99
+00:05:25.430 --> 00:05:27.430
+Cabe a mim aceitar ou não.
+
+100
+00:05:27.430 --> 00:05:27.930
+Perfeito?
+
+101
+00:05:27.930 --> 00:05:29.170
+O governo fez a presunção.
+
+102
+00:05:29.170 --> 00:05:30.769
+Aí, nós fomos para o serviço,
+
+103
+00:05:30.769 --> 00:05:32.230
+ele tem R$ 100 mil de serviço.
+
+104
+00:05:32.230 --> 00:05:35.810
+A presunção do serviço para o cálculo do imposto de renda é 32%.
+
+105
+00:05:36.470 --> 00:05:38.470
+Portanto, R$ 32 mil.
+
+106
+00:05:39.269 --> 00:05:42.129
+Ou seja, de R$ 100 mil que eu prestei ao serviço,
+
+107
+00:05:42.129 --> 00:05:44.129
+o governo disse que R$ 32 mil é lucro
+
+108
+00:05:44.129 --> 00:05:45.810
+para a base de cálculo do imposto.
+
+109
+00:05:45.810 --> 00:05:47.810
+Por isso o nome lucro presumido.
+
+110
+00:05:47.810 --> 00:05:49.810
+Foi presumido pelo governo.
+
+111
+00:05:49.810 --> 00:05:53.810
+Soma dos dois, dá R$ 72 mil de lucro presumido
+
+112
+00:05:53.810 --> 00:05:55.810
+das atividades principais da companhia.
+
+113
+00:05:55.810 --> 00:05:57.810
+Aí, todas as demais receitas,
+
+114
+00:05:57.810 --> 00:06:00.810
+como o ganho de capital, vai ser 100%.
+
+115
+00:06:00.810 --> 00:06:03.810
+O rendimento de aplicação financeira vai ser 100%.
+
+116
+00:06:03.810 --> 00:06:06.810
+E aí, alguns dos senhores podem pensar,
+
+117
+00:06:06.810 --> 00:06:10.810
+mas professor, a aplicação financeira já teve a retenção na fonte?
+
+118
+00:06:10.810 --> 00:06:12.810
+Teve, sem problema.
+
+119
+00:06:12.810 --> 00:06:16.810
+Mas eu preciso ofertar para a tributação o ganho.
+
+120
+00:06:16.810 --> 00:06:19.810
+E o imposto que foi retido eu vou deduzir lá embaixo.
+
+121
+00:06:19.810 --> 00:06:23.810
+Então, somei todas as outras receitas,
+
+122
+00:06:23.810 --> 00:06:25.810
+a minha base de cálculo, ou seja,
+
+123
+00:06:25.810 --> 00:06:27.810
+o meu lucro presumido do trimestre,
+
+124
+00:06:27.810 --> 00:06:29.810
+vai ser R$ 80 mil,
+
+125
+00:06:29.810 --> 00:06:33.810
+que é composto da presunção da indústria
+
+126
+00:06:33.810 --> 00:06:35.810
+e da prestação de serviço,
+
+127
+00:06:35.810 --> 00:06:37.810
+mais todas as demais receitas.
+
+128
+00:06:37.810 --> 00:06:39.810
+Portanto, base de cálculo R$ 80 mil.
+
+129
+00:06:39.810 --> 00:06:43.810
+Sobre R$ 80 mil, eu aplico 15% do imposto de renda,
+
+130
+00:06:43.810 --> 00:06:44.810
+que dá R$ 12 mil.
+
+131
+00:06:44.810 --> 00:06:46.810
+A líquida do imposto de renda é 15%.
+
+132
+00:06:46.810 --> 00:06:48.810
+Seja no lucro presumido, seja no lucro real.
+
+133
+00:06:49.810 --> 00:06:52.810
+Aí nós vamos calcular o adicional do imposto de renda.
+
+134
+00:06:52.810 --> 00:06:55.810
+Ou seja, haverá uma incidência de mais 10%
+
+135
+00:06:55.810 --> 00:06:58.810
+do valor que ultrapassar R$ 60 mil no trimestre,
+
+136
+00:06:58.810 --> 00:07:00.810
+R$ 240 mil no ano.
+
+137
+00:07:00.810 --> 00:07:02.810
+Ou R$ 20 mil por mês, né?
+
+138
+00:07:02.810 --> 00:07:06.810
+Portanto, R$ 80 mil menos 60 ultrapassou R$ 20.
+
+139
+00:07:06.810 --> 00:07:08.810
+10% de 20 é 2.
+
+140
+00:07:08.810 --> 00:07:11.810
+12 mais 2 é o imposto mais adicional.
+
+141
+00:07:11.810 --> 00:07:13.810
+R$ 14 mil, perfeito?
+
+142
+00:07:13.810 --> 00:07:15.810
+Está lá o imposto de renda.
+
+143
+00:07:15.810 --> 00:07:18.810
+Depois eu vou compensar os impostos que foram retidos.
+
+144
+00:07:18.810 --> 00:07:21.810
+Eu tive imposto de renda retido sob nota fiscal de serviço,
+
+145
+00:07:21.810 --> 00:07:23.810
+hipoteticamente, de R$ 90.
+
+146
+00:07:23.810 --> 00:07:26.810
+E tive imposto de renda retido
+
+147
+00:07:26.810 --> 00:07:29.810
+sob aplicação de renda fixa de R$ 300.
+
+148
+00:07:29.810 --> 00:07:32.810
+Uma vez que eu ofertei a tributação,
+
+149
+00:07:32.810 --> 00:07:34.810
+a receita financeira,
+
+150
+00:07:34.810 --> 00:07:37.810
+eu deduzo o imposto que foi retido pelo banco.
+
+151
+00:07:37.810 --> 00:07:41.810
+Portanto, eu vou ter, nesse primeiro trimestre,
+
+152
+00:07:41.810 --> 00:07:45.810
+o imposto de renda a pagar de R$ 13.610.
+
+153
+00:07:45.810 --> 00:07:48.810
+É assim que se calcula o lucro presumido.
+
+154
+00:07:48.810 --> 00:07:49.810
+Entenderam?
+
+155
+00:07:49.810 --> 00:07:51.810
+É assim que nós calculamos o lucro presumido.
+
+156
+00:07:51.810 --> 00:07:54.810
+Vou ter R$ 13.610.
+
+157
+00:07:54.810 --> 00:07:57.810
+Eu vou preencher um DARF com o campo 2089,
+
+158
+00:07:57.810 --> 00:08:00.810
+no campo 4, com o código 2089.
+
+159
+00:08:00.810 --> 00:08:05.810
+E será esse valor que eu vou demonstrar na minha DCTF.
+
+160
+00:08:05.810 --> 00:08:09.810
+Era DCTF em programa gerador, agora DCTF web.
+
+161
+00:08:09.810 --> 00:08:11.810
+Através do MIT. Perfeito?
+
+162
+00:08:11.810 --> 00:08:13.810
+É assim que nós fazemos o cálculo.
+
+163
+00:08:13.810 --> 00:08:16.810
+E isso vai exatamente dentro da ICF,
+
+164
+00:08:16.810 --> 00:08:17.810
+como nós vamos ver.
+
+165
+00:08:18.810 --> 00:08:21.810
+Mas falta ainda o cálculo da contribuição social.
+
+166
+00:08:21.810 --> 00:08:23.810
+Vamos lá, olha lá.
+
+167
+00:08:23.810 --> 00:08:25.810
+No cálculo da contribuição social,
+
+168
+00:08:25.810 --> 00:08:28.810
+o raciocínio, meus caros, é o mesmo, né?
+
+169
+00:08:28.810 --> 00:08:30.810
+Eu vou ter lá, olha lá,
+
+170
+00:08:30.810 --> 00:08:35.809
+os R$ 60.000, os R$ 550.000 menos R$ 50.000 de IPI,
+
+171
+00:08:35.809 --> 00:08:37.809
+vai dar R$ 500.000.
+
+172
+00:08:37.809 --> 00:08:40.809
+Só que a base, a alíquota presumida
+
+173
+00:08:40.809 --> 00:08:42.809
+para a contribuição social é 12%.
+
+174
+00:08:42.809 --> 00:08:44.809
+No caso da indústria.
+
+175
+00:08:44.809 --> 00:08:46.809
+Indústria e comércio.
+
+176
+00:08:46.809 --> 00:08:47.809
+12%.
+
+177
+00:08:47.809 --> 00:08:49.809
+Você viu, o imposto de renda foi 8.
+
+178
+00:08:49.809 --> 00:08:51.809
+Para a contribuição social é 12.
+
+179
+00:08:51.809 --> 00:08:55.809
+Portanto, eu tenho 12 vezes R$ 500.000, dá 60.
+
+180
+00:08:55.809 --> 00:08:58.809
+O serviço, a alíquota de presunção do serviço
+
+181
+00:08:58.809 --> 00:09:01.809
+para a contribuição social é 32.
+
+182
+00:09:01.809 --> 00:09:05.809
+Enquanto que, aqui no caso do serviço aqui,
+
+183
+00:09:05.809 --> 00:09:08.809
+para fins do imposto de renda, também é 32, tá?
+
+184
+00:09:08.809 --> 00:09:11.809
+Então, nós temos R$ 32.000, total R$ 90.000.
+
+185
+00:09:11.809 --> 00:09:13.809
+Acrescenta o ganho de capital,
+
+186
+00:09:13.809 --> 00:09:16.809
+acrescenta o rendimento de aplicações financeiras.
+
+187
+00:09:16.809 --> 00:09:18.809
+A minha base de cálculo é R$ 100.000.
+
+188
+00:09:18.809 --> 00:09:20.809
+Então, você vê que a minha base de cálculo da contribuição
+
+189
+00:09:20.809 --> 00:09:22.809
+é diferente do imposto de renda.
+
+190
+00:09:22.809 --> 00:09:23.809
+Muito bem.
+
+191
+00:09:23.809 --> 00:09:25.809
+Sobre os R$ 100.000, aplico a alíquota de quanto?
+
+192
+00:09:25.809 --> 00:09:26.809
+9%.
+
+193
+00:09:26.809 --> 00:09:30.809
+Na contribuição social, nós não temos adicional.
+
+194
+00:09:30.809 --> 00:09:32.809
+Então, é R$ 9.000.
+
+195
+00:09:32.809 --> 00:09:35.809
+Aí, hipoteticamente, essa empresa teve uma retenção
+
+196
+00:09:35.809 --> 00:09:38.809
+de contribuição sobre uma prestação de serviço,
+
+197
+00:09:38.809 --> 00:09:40.809
+das notas, no valor de R$ 60.000.
+
+198
+00:09:40.809 --> 00:09:44.809
+Portanto, R$ 9.000 menos R$ 60.000, que já foi retido,
+
+199
+00:09:44.809 --> 00:09:49.809
+eu tenho uma contribuição a recolher de R$ 8.940,
+
+200
+00:09:49.809 --> 00:09:54.809
+que eu vou preencher o campo 4 do DARF com o Código 2372.
+
+201
+00:09:54.809 --> 00:09:59.809
+Consequentemente, eu vou informar isso na minha DCTF.

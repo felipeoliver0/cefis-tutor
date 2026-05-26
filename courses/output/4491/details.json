@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4491,
+    "title": "Análise dos principais pontos da Lei Complementar nº 225/2026",
+    "subtitle": "Código de Defesa do Contribuinte",
+    "summary": "O curso sobre a Lei Complementar nº 225/2026 – Código de Defesa do Contribuinte apresenta os principais direitos e deveres dos contribuintes, destacando a importância da transparência, boa-fé e segurança jurídica na relação com o Fisco.\nTambém aborda mecanismos de conformidade tributária, prevenção de conflitos e formas de atuação mais estratégica, ajudando o aluno a reduzir riscos fiscais e entender melhor o funcionamento do sistema tributário na prática.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/96e2a49e-f1c5-4bf6-ab1f-18af4f04155a-thumbnail.png",
+    "goals": [
+      "Capacitar o aluno a compreender, interpretar e aplicar a Lei Complementar nº 225/2026, desenvolvendo uma visão prática e estratégica sobre os direitos, deveres e garantias do contribuinte, bem como sobre a nova relação entre o Fisco e os contribuintes baseada na transparência, cooperação e conformidade tributária."
+    ],
+    "teacher": {
+      "id": 356853,
+      "name": "Richard Paes Lyra Junior",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/0bea74b424e8071b32e0d0a6a15a0fb81630763265.jpeg"
+    },
+    "duration": 9446,
+    "keywords": "codigo de defesa;contribuinte;lei;lei complementar 225",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 33,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 37,
+    "averageRating": 9.14,
+    "practiceAverage": 9.08,
+    "trailer": {
+      "id": "48428aaa-702b-47d3-ac58-e3286e111f95",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48428aaa-702b-47d3-ac58-e3286e111f95/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48428aaa-702b-47d3-ac58-e3286e111f95/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48428aaa-702b-47d3-ac58-e3286e111f95/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48428aaa-702b-47d3-ac58-e3286e111f95/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-04-10T09:27:31.000Z",
+      "updatedAt": "2026-04-10T09:27:30.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-04-10T09:41:00.000Z",
+    "recordedAt": "2026-03-28T00:00:00.000Z",
+    "createdAt": "2026-04-08T20:11:33.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 487494,
+  "title": "Prática - Parte 1",
+  "position": 23,
+  "duration": 428,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/e93e3aa4-853d-41a6-91e5-f8bba45d082b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e93e3aa4-853d-41a6-91e5-f8bba45d082b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e93e3aa4-853d-41a6-91e5-f8bba45d082b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e93e3aa4-853d-41a6-91e5-f8bba45d082b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e93e3aa4-853d-41a6-91e5-f8bba45d082b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

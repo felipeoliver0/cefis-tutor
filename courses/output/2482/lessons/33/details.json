@@ -1,0 +1,33 @@
+{
+  "id": 466356,
+  "title": "Apresentação do programa",
+  "position": 33,
+  "duration": 357,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/980d44d6-044f-4b4c-bd71-0d714cca59ad/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/980d44d6-044f-4b4c-bd71-0d714cca59ad/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/980d44d6-044f-4b4c-bd71-0d714cca59ad/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/980d44d6-044f-4b4c-bd71-0d714cca59ad/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/980d44d6-044f-4b4c-bd71-0d714cca59ad/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

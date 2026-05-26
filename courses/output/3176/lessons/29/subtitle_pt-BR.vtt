@@ -1,0 +1,161 @@
+WEBVTT
+
+1
+00:00:02.019 --> 00:00:04.570
+bom, relembrando algumas coisas. A DOI
+
+2
+00:00:05.159 --> 00:00:08.810
+eh eh, ela é elaborada por item, né?
+
+3
+00:00:08.819 --> 00:00:12.689
+No caso eh isso gera um pouquinho de desconforto
+
+4
+00:00:12.699 --> 00:00:14.369
+ou gerou um pouquinho de desconforto lá atrás.
+
+5
+00:00:14.380 --> 00:00:17.969
+Porque, no caso a R e né, o registro de exportação?
+
+6
+00:00:17.979 --> 00:00:24.649
+Ela era possível você agrupar por MC m, no caso da doe, vai entrar lá por parte, né?
+
+7
+00:00:24.659 --> 00:00:28.729
+Por cada um dos itens e não o MC n sabendo sabendo que
+
+8
+00:00:28.739 --> 00:00:33.631
+o MC m na nomenclatura o mundo é a classificação fiscal de mercadorias,
+
+9
+00:00:33.640 --> 00:00:34.131
+né?
+
+10
+00:00:34.140 --> 00:00:36.991
+E no caso da doe, você precisa ali.
+
+11
+00:00:37.000 --> 00:00:39.930
+Eh adicionar cada um dos itens,
+
+12
+00:00:39.941 --> 00:00:45.370
+ainda que os itens eles tenham eventualmente o mesmo n c N, né?
+
+13
+00:00:45.381 --> 00:00:49.171
+Então, o antigo R e eh ele era elaborado por adição, né?
+
+14
+00:00:49.180 --> 00:00:54.131
+Na nova estrutura da doe, cada item da nota fiscal é um item da doe, né?
+
+15
+00:00:54.140 --> 00:01:00.992
+Então normalmente a nota fiscal eh pra fins ali de t NCM acaba sendo o espelho, né?
+
+16
+00:01:01.001 --> 00:01:05.751
+Na verdade, a dula acaba sendo o espelho. Eh da nota fiscal eletrônica, né?
+
+17
+00:01:05.762 --> 00:01:12.251
+Ah, um tema importante Uma uma uma eh, nomenclatura importante,
+
+18
+00:01:12.262 --> 00:01:17.052
+que a gente vai ver quando a gente for simular, né, no no portal, único, né?
+
+19
+00:01:17.061 --> 00:01:23.972
+A a sigla V, M e V, m m e o valor da mercadoria no local no local do embarque.
+
+20
+00:01:23.983 --> 00:01:25.733
+Isso é muito importante, né?
+
+21
+00:01:25.742 --> 00:01:32.343
+A a v ML É importante dizer que não se usa diferente da importação.
+
+22
+00:01:32.352 --> 00:01:37.932
+Quando a gente fala de exportação, não se usa o termo valor aduaneiro, né?
+
+23
+00:01:37.943 --> 00:01:41.443
+Eh se usa o termo, o valor da mercadoria no local de embarque.
+
+24
+00:01:41.453 --> 00:01:44.492
+Então, é o valor da mercadoria, né?
+
+25
+00:01:44.502 --> 00:01:48.674
+Como ela é, está sendo ali como ela tá saindo do país, né,
+
+26
+00:01:48.683 --> 00:01:51.003
+em todas as condições em que ela tá saindo ali do país.
+
+27
+00:01:51.013 --> 00:01:56.054
+Então, é importante esse termo valor da mercadoria no local do embarque,
+
+28
+00:01:56.064 --> 00:02:03.753
+que é a partir deste valor que será auferida ali A receita daquela venda, né.
+
+29
+00:02:03.763 --> 00:02:09.854
+O que é diferente do valor da mercadoria na condição de venda? Né?
+
+30
+00:02:09.863 --> 00:02:18.134
+Porque na condição de ela é relacionada ao Terme, ela é relacionada à condição, né?
+
+31
+00:02:18.145 --> 00:02:24.875
+Com que você eh vinculou aquela venda né, ao teu cliente no Exterior.
+
+32
+00:02:24.884 --> 00:02:27.214
+Então são dois termos diferentes.
+
+33
+00:02:27.225 --> 00:02:31.675
+Mas lembrando que vamos dizer assim se a gente puder fazer algum paralelo,
+
+34
+00:02:31.684 --> 00:02:34.755
+apesar de não existir valor, aduaneiro, né?
+
+35
+00:02:34.764 --> 00:02:35.835
+Como
+
+36
+00:02:36.190 --> 00:02:40.100
+que existe na importação pra fins de base de cálculo e et cetera, né?
+
+37
+00:02:40.110 --> 00:02:48.240
+O V m n e é que é o vamos dizer que seria o similar a fim? Enfim, pra fins, por exemplo, né?
+
+38
+00:02:48.250 --> 00:02:49.520
+Daquilo que seria?
+
+39
+00:02:49.529 --> 00:02:53.919
+Eh o imposto de exportação que a gente sabe que é raro, mas que existe, né?
+
+40
+00:02:53.929 --> 00:03:01.020
+Pra armamentos. EH cigarros, né? Pra alguns poucos eh produtos quando exportados.

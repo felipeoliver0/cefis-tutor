@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2200,
+    "title": "Plano de Negócios",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de plano de negócios, você vai aprender a importância, o papel do contador na montagem deste poderoso instrumento, suas vantagens, e todas as características de sua estrutura, como: planejamento financeiro, análise de mercado, plano operacional, sumário executivo, plano de marketing e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/1cea30c27185f57b17d34bb180313d571728385921.jpg",
+    "goals": [
+      "Apresentar a importância, o papel do contador na montagem deste poderoso instrumento, suas vantagens, e todas as características de sua estrutura, como: planejamento financeiro, análise de mercado, plano operacional, sumário executivo, plano de marketing e muitos outros pontos importantes para aplicação do conhecimento adquirido."
+    ],
+    "teacher": {
+      "id": 539395,
+      "name": "MAURI JOSÉ ALBERTI",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1634085836.jpeg"
+    },
+    "duration": 7801,
+    "keywords": "plano de negócios;planejamento;plano;negócios",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 27,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 401,
+    "averageRating": 9.37,
+    "practiceAverage": 9.35,
+    "trailer": {
+      "id": "7d1f98e4-143f-4d4e-aaab-7e5d5cab356e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7d1f98e4-143f-4d4e-aaab-7e5d5cab356e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7d1f98e4-143f-4d4e-aaab-7e5d5cab356e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7d1f98e4-143f-4d4e-aaab-7e5d5cab356e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7d1f98e4-143f-4d4e-aaab-7e5d5cab356e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-09-14T21:08:34.000Z",
+      "updatedAt": "2022-09-14T21:08:33.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 5,
+    "launchDate": "2022-09-12T18:42:45.000Z",
+    "recordedAt": "2022-08-20T00:00:00.000Z",
+    "createdAt": "2022-08-20T16:49:11.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 470570,
+  "title": "Características qualitativas da informação contábil financeira - parte 2",
+  "position": 6,
+  "duration": 323,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/81af11bd-46da-4cf6-b2cd-6fbd54e63af4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81af11bd-46da-4cf6-b2cd-6fbd54e63af4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81af11bd-46da-4cf6-b2cd-6fbd54e63af4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81af11bd-46da-4cf6-b2cd-6fbd54e63af4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81af11bd-46da-4cf6-b2cd-6fbd54e63af4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

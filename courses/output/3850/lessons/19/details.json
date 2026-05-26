@@ -1,0 +1,33 @@
+{
+  "id": 478391,
+  "title": "Dispensa da entrega",
+  "position": 19,
+  "duration": 62,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0e45be01-14a4-45c7-ad6e-529a10f0d2f6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0e45be01-14a4-45c7-ad6e-529a10f0d2f6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0e45be01-14a4-45c7-ad6e-529a10f0d2f6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0e45be01-14a4-45c7-ad6e-529a10f0d2f6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0e45be01-14a4-45c7-ad6e-529a10f0d2f6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

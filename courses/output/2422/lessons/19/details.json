@@ -1,0 +1,33 @@
+{
+  "id": 465662,
+  "title": "Recursos da apresentação - parte 2",
+  "position": 19,
+  "duration": 322,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a21778b5-1b10-40fa-a9f0-37c75a886d2a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a21778b5-1b10-40fa-a9f0-37c75a886d2a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a21778b5-1b10-40fa-a9f0-37c75a886d2a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a21778b5-1b10-40fa-a9f0-37c75a886d2a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a21778b5-1b10-40fa-a9f0-37c75a886d2a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

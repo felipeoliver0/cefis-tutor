@@ -1,0 +1,305 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.160
+Como que a gente chega no uso e consumo pessoal?
+
+3
+00:00:04.160 --> 00:00:06.360
+Trazendo um pouco de prática para vocês.
+
+4
+00:00:06.360 --> 00:00:07.960
+Então, vamos pensar no seguinte.
+
+5
+00:00:07.960 --> 00:00:12.759
+Eu falei para vocês que, então, o cadastro mestre são os produtos.
+
+6
+00:00:12.759 --> 00:00:16.660
+Hoje, para que você tenha acesso a esse cadastro de produto,
+
+7
+00:00:16.660 --> 00:00:21.100
+ao invés de vocês irem dentro do sistema operacional ou contábil
+
+8
+00:00:21.100 --> 00:00:24.940
+que você tem de um cliente, busque o SPED fiscal.
+
+9
+00:00:24.940 --> 00:00:28.239
+O SPED fiscal tem um registro chamado 0200.
+
+10
+00:00:28.239 --> 00:00:32.579
+Dentro desse registro, existe, então, a classificação do produto.
+
+11
+00:00:32.579 --> 00:00:37.439
+Vai ter o código do item, a descrição do item, a unidade de medida
+
+12
+00:00:37.439 --> 00:00:40.399
+e o tipo do item é a finalidade.
+
+13
+00:00:40.399 --> 00:00:41.780
+Faça o teste.
+
+14
+00:00:41.780 --> 00:00:47.600
+Busque o seu SPED fiscal e tente encontrar o código 07.
+
+15
+00:00:47.600 --> 00:00:51.840
+O 07 representa, então, o material de uso e consumo.
+
+16
+00:00:51.840 --> 00:00:58.200
+Se você já tiver essa lista, esses itens que são, então, comprados,
+
+17
+00:00:58.200 --> 00:01:01.000
+e que tem a classificação de uso e consumo,
+
+18
+00:01:01.000 --> 00:01:08.299
+isso quer dizer que você já tem uma forma de trazer, então, um parâmetro para a sua empresa.
+
+19
+00:01:08.299 --> 00:01:11.799
+E até mesmo sobre o impacto de tomada de crédito.
+
+20
+00:01:11.799 --> 00:01:15.700
+Você pega essa lista, senta com o pessoal da operação
+
+21
+00:01:15.700 --> 00:01:19.900
+ou quem comprou esses itens e verifica.
+
+22
+00:01:19.900 --> 00:01:25.900
+Esses itens foram comprados para utilização da operação?
+
+23
+00:01:25.900 --> 00:01:27.540
+Existem itens que não têm muito valor?
+
+24
+00:01:27.540 --> 00:01:29.840
+Não têm muito o que fazer, né?
+
+25
+00:01:29.840 --> 00:01:34.040
+Você já vai olhar e vai falar assim, isso daqui foi comprado, de fato, para a operação.
+
+26
+00:01:34.040 --> 00:01:37.439
+Só que existem itens que você vai se questionar.
+
+27
+00:01:37.439 --> 00:01:41.540
+E aí você vai precisar sentar com quem comprou para identificar o motivo.
+
+28
+00:01:41.540 --> 00:01:45.140
+Lembra que eu falei para vocês que o profissional da área fiscal e contábil mudou?
+
+29
+00:01:45.140 --> 00:01:50.579
+Que a gente vai precisar sentar na operação, entender o chão de fábrica, validar as informações?
+
+30
+00:01:50.579 --> 00:01:56.040
+Se você hoje abrir o tipo de item e não identificar o uso e consumo, atenção,
+
+31
+00:01:56.040 --> 00:01:57.379
+você tem um problema no seu sistema,
+
+32
+00:01:57.379 --> 00:02:03.799
+não tem como hoje uma empresa existir sem ter uso e consumo.
+
+33
+00:02:04.519 --> 00:02:08.960
+E além disso, se você não faz parte do cadastro dos parâmetros da sua empresa,
+
+34
+00:02:09.639 --> 00:02:12.500
+você pode estar lançando a CFLP errada,
+
+35
+00:02:13.099 --> 00:02:16.360
+porque pode ser que você não encontre o 07 no 0200.
+
+36
+00:02:17.060 --> 00:02:21.099
+Só que se eu abro o lançamento com a CFLP, existe.
+
+37
+00:02:21.699 --> 00:02:26.900
+Ou seja, a área fiscal está lançando um item que para ela é uso e consumo,
+
+38
+00:02:27.379 --> 00:02:33.879
+só que quem faz o cadastro e os parâmetros do seu sistema não considera como uso e consumo.
+
+39
+00:02:33.879 --> 00:02:40.379
+E isso a gente gera uma inconsistência no nosso sistema tributário atual.
+
+40
+00:02:40.379 --> 00:02:49.879
+O código do item que você cadastra uma única vez pode impactar dezenas de documentos e toda a apuração.
+
+41
+00:02:49.879 --> 00:02:51.379
+Um único cadastro.
+
+42
+00:02:51.379 --> 00:02:55.639
+E agora um único cadastro em dois sistemas tributários coexistindo.
+
+43
+00:02:55.639 --> 00:02:56.379
+Um único cadastro em dois sistemas tributários coexistindo.
+
+44
+00:02:56.379 --> 00:03:03.620
+Um único cadastro pode gerar uma inconsistência de diversos documentos, diversas apurações.
+
+45
+00:03:04.300 --> 00:03:07.960
+Um cadastro de produto errado, a gente pode, hoje no sistema tributário atual,
+
+46
+00:03:08.979 --> 00:03:13.979
+alterar o ICMS, o saldo de ICMS e também o saldo de PIS e COFINS.
+
+47
+00:03:13.979 --> 00:03:22.020
+O campo código do item receberá a informação hora cadastrada dentro do registro 0200.
+
+48
+00:03:22.020 --> 00:03:27.500
+Só que na nova era tributária, o Fisco foi e fez o seguinte.
+
+49
+00:03:28.539 --> 00:03:32.860
+Bom, eu vou precisar saber o que é uso e consumo pessoal.
+
+50
+00:03:33.539 --> 00:03:41.340
+Porém, eu não estou criando e não estou mantendo as obrigações acessórias que eu fiz há 19 anos atrás.
+
+51
+00:03:42.060 --> 00:03:45.879
+Quero, então, obrigações acessórias de forma online, que aconteçam mais rápido.
+
+52
+00:03:46.639 --> 00:03:51.159
+Aí ele criou o MIT, aí ele criou a FDR-INF, assim ele criou a DIRB.
+
+53
+00:03:51.159 --> 00:03:57.240
+Todas as obrigações acessórias acontecem de forma online, para chegar mais rápido à informação.
+
+54
+00:03:57.919 --> 00:04:03.159
+ECD, ECF, Espécie Fiscal, Espécie de Contribuições, o Fisco depende da entrega,
+
+55
+00:04:03.960 --> 00:04:06.300
+ou seja, ele não está vendo aquilo acontecer.
+
+56
+00:04:07.159 --> 00:04:11.099
+Ele precisa aguardar o período para que ele receba a informação totalizada.
+
+57
+00:04:11.759 --> 00:04:12.960
+Então, o Fisco pensou o seguinte.
+
+58
+00:04:12.960 --> 00:04:20.759
+Bom, se o XML hoje já possui eventos, como, por exemplo, a carta de correção, a inutilização,
+
+59
+00:04:21.160 --> 00:04:26.519
+por que não criar novos eventos para vincular a finalidade do item?
+
+60
+00:04:27.160 --> 00:04:29.879
+E é isso que vocês vão ver na nova era tributária.
+
+61
+00:04:30.459 --> 00:04:38.139
+Ou seja, dentro do XML, o adquirente vai, então, mostrar para o Fisco
+
+62
+00:04:38.139 --> 00:04:44.100
+que ele comprou determinado item como uso e consumo pessoal.
+
+63
+00:04:44.480 --> 00:04:50.399
+Quando for consultar o XML oficial, o que vai estar aparecendo para vocês?
+
+64
+00:04:50.399 --> 00:04:51.139
+Um evento.
+
+65
+00:04:51.160 --> 00:04:58.199
+Que o adquirente informou que ele comprou aquele determinado item para uso e consumo pessoal.
+
+66
+00:04:58.600 --> 00:05:04.040
+Ou seja, antes a gente falava de um cadastro indevido dentro do SPED Fiscal,
+
+67
+00:05:04.560 --> 00:05:12.019
+e agora a pergunta que fica, quem vai, então, vincular esse evento dentro da minha operação?
+
+68
+00:05:12.540 --> 00:05:14.199
+Eu ainda questiono mais a fundo.
+
+69
+00:05:14.199 --> 00:05:20.199
+Quem hoje está fazendo esses eventos de carta de correção, de cancelamento,
+
+70
+00:05:21.160 --> 00:05:24.800
+de manifestação do destinatário, de aceites dentro da sua empresa?
+
+71
+00:05:25.560 --> 00:05:28.139
+Esse processo também vai precisar ser alterado.
+
+72
+00:05:28.620 --> 00:05:33.639
+Porque se essa pessoa ou essa automação que está dentro da sua companhia
+
+73
+00:05:33.639 --> 00:05:37.220
+não tem essa consciência do que é item,
+
+74
+00:05:37.879 --> 00:05:39.060
+isso aqui é um exemplo, tá?
+
+75
+00:05:39.060 --> 00:05:46.060
+Mas existem eventos agora que vão também mostrar possibilidades de ajustes.
+
+76
+00:05:46.779 --> 00:05:51.060
+Além disso, o ativo imobilizado também tem um evento para o adquirente informar,
+
+77
+00:05:51.160 --> 00:05:55.019
+que ele comprou com a finalidade de ativo imobilizado.

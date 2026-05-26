@@ -1,0 +1,250 @@
+WEBVTT
+
+00:00:00.066 --> 00:00:08.199
+- Eu vou mostrar para vocês como vocês podem também identificar os créditos via CFLP. Mas, antes de
+
+00:00:08.199 --> 00:00:16.889
+- eu demonstrar isso para vocês, o que eu quero falar para vocês é o seguinte. Atenção com a utilização
+
+00:00:16.889 --> 00:00:25.022
+- da CFLP. A CFLP é um código importante para a gente validar as possibilidades de créditos, porém,
+
+00:00:25.314 --> 00:00:34.200
+- O que trata uma incidência e o que trata uma totalização dentro de uma estrutura de escrituração
+
+00:00:34.200 --> 00:00:43.174
+- é a CST, e não apenas a CFLP. A CFLP nos ajuda e nos possibilita analisar o todo, identificar aquela
+
+00:00:43.174 --> 00:00:52.408
+- operação, sem analisar uma DANF, sem analisar o XML. Mas, primeiro, cuidado com quem está escriturando
+
+00:00:52.408 --> 00:00:54.238
+- essas informações,
+
+00:00:54.562 --> 00:01:01.693
+- Se, de fato, essa pessoa sabe identificar qual é a CFP adequada para aquela escrituração. E,
+
+00:01:01.693 --> 00:01:09.567
+- além disso, também avaliem as CSTs, a classificação tributária sobre a incidência do piso e cofins.
+
+00:01:09.567 --> 00:01:17.293
+- O Fisco, ele disponibiliza para vocês essa tabela no próprio portal da FD Contribuições, que vocês
+
+00:01:17.293 --> 00:01:24.350
+- vão ver agora na prática. Mas o que eu quero demonstrar para vocês é o seguinte, entendam.
+
+00:01:25.026 --> 00:01:32.879
+- Nós temos segmentos, indústria, serviço e comércio. Existem possibilidades de créditos, que a gente
+
+00:01:32.879 --> 00:01:40.508
+- acabou de identificar aqui, e que dentro dessas possibilidades de créditos existem formas de lançar
+
+00:01:40.508 --> 00:01:47.988
+- dentro do FD Contribuições, mas nós somos responsáveis por entender a finalidade, o enfoque. Se
+
+00:01:47.988 --> 00:01:54.046
+- de fato aquela CFOP foi utilizada corretamente, porque, pense o seguinte comigo,
+
+00:01:54.338 --> 00:02:03.376
+- Se você hoje está responsável apenas pela escrituração fiscal do seu contribuinte, mas você não
+
+00:02:03.376 --> 00:02:12.590
+- faz parte da parte de cadastro de produto, nós podemos ter uma inconsistência enorme se a gente apenas
+
+00:02:12.590 --> 00:02:20.926
+- focar na CFLP. A CFLP pode nos auxiliar sobre uma apuração, mas ela não pode andar sozinha.
+
+00:02:21.218 --> 00:02:28.280
+- porque pode ser que você que esteja à frente da escrituração, considere aquele item como insumo,
+
+00:02:28.280 --> 00:02:35.342
+- como revenda. Só que quem cadastrou o produto lá no sistema do seu cliente, colocou uso e consumo,
+
+00:02:35.342 --> 00:02:42.403
+- ou até mesmo trouxe um ativo imobilizado. Eu falo para os alunos e eu falo aqui para vocês também
+
+00:02:42.403 --> 00:02:48.766
+- o seguinte, o fisco, pessoal, não precisa ir muito longe para ele fiscalizar uma empresa.
+
+00:02:49.026 --> 00:02:57.546
+- Nós enviamos todos os meses esses conjuntos de informações. Então, isso quer dizer que o físico
+
+00:02:57.546 --> 00:03:06.320
+- pode simplesmente analisar o seu cadastro e aquilo que foi lançado. Ao invés dele olhar apenas o XML,
+
+00:03:06.320 --> 00:03:14.840
+- ele olha para o seu arquivo. Eu faço auditoria há mais de seis anos e eu vejo, infelizmente, falta
+
+00:03:14.840 --> 00:03:18.974
+- de rastreadibilidade de informação. Cadastros,
+
+00:03:19.266 --> 00:03:27.249
+- lançados no FD Contribuições, no Espérito Fiscal, sem congruência de CFLP no lançamento no bloco
+
+00:03:27.249 --> 00:03:35.310
+- C, no mesmo arquivo, na mesma apuração. Isso só me demonstra falta de comunicação entre as áreas.
+
+00:03:35.310 --> 00:03:43.759
+- A falta de entendimento que você, ator de área fiscal, você faz parte de todas as atividades operacionais
+
+00:03:43.759 --> 00:03:48.254
+- do seu cliente, desde cadastro, faturamento, recebimento,
+
+00:03:48.546 --> 00:03:56.185
+- compras, suprimentos. Então, na verdade, a gente precisa fazer parte desse processo. E, claro, isso
+
+00:03:56.185 --> 00:04:04.202
+- exige muita mudança cultural, seja nossa, de entender a nossa responsabilidade, mas, obviamente, também
+
+00:04:04.202 --> 00:04:12.144
+- dos nossos contribuintes. Mas como a gente faz isso? Analisando, trazendo pautas, trazendo importância,
+
+00:04:12.144 --> 00:04:15.774
+- trazendo problemas, trazendo impactos no bolso,
+
+00:04:16.066 --> 00:04:22.268
+- Quer ver o contribuinte dar razão para vocês quando vocês conseguirem demonstrar, dentro
+
+00:04:22.268 --> 00:04:29.008
+- de uma fiscalização que pode acontecer, uma penalidade, trazer uma matriz de conduta, identificar
+
+00:04:29.008 --> 00:04:36.154
+- os riscos, as penalidades de uma falta de cadastro correta. Só assim que o seu contribuinte vai começar
+
+00:04:36.154 --> 00:04:43.838
+- a analisar e entender que, de fato, você é importante dentro da empresa. Mas o primeiro passo é você entender
+
+00:04:44.514 --> 00:04:52.583
+- e mudar a forma com que você encara também as suas atividades, ok? Então, não é que eu sou contra
+
+00:04:52.583 --> 00:05:00.573
+- a gente analisar as CFOPs, mas eu não quero que vocês fiquem fadados apenas a analisar a CFOP. Nós
+
+00:05:00.573 --> 00:05:08.720
+- precisamos analisar todo o processo, desde os cadastros do meu cliente, dos fornecedores desse cliente,
+
+00:05:08.720 --> 00:05:13.342
+- do cliente do meu cliente, analisar quem faz os cadastros,
+
+00:05:13.986 --> 00:05:20.541
+- analisar as legislações, as possibilidades de créditos que estão dentro da legislação, que estão
+
+00:05:20.541 --> 00:05:26.528
+- dentro das instruções normativas, que estão dentro das instruções de consulta com a USIT.
+
+00:05:26.528 --> 00:05:32.894
+- E aí sim, a gente olhar a CFLP. Vamos lá, eu vou mostrar para vocês na prática como vocês podem
+
+00:05:32.894 --> 00:05:39.322
+- analisar esse CFLP, quais são os CFLPs que geram créditos. E isso o Fisco disponibiliza para vocês
+
+00:05:39.322 --> 00:05:43.230
+- de forma gratuita no portal da FD Contribuições. Vamos lá?
+
+00:05:43.394 --> 00:05:50.101
+- Então, como vocês perceberam, a gente tem a possibilidade de analisar aquilo que pode ser aproveitado
+
+00:05:50.101 --> 00:05:56.614
+- de crédito utilizando a CFOP. Mas, atenção, porque não é só sobre isso, tudo bem? Além disso,
+
+00:05:56.614 --> 00:06:03.127
+- nós podemos, então, fazer o mapeamento dos nossos cadastros, que é super importante. Dentro dessa
+
+00:06:03.127 --> 00:06:08.286
+- parte do material, o que eu vou começar a fazer com vocês? Algumas análises.
+
+00:06:08.578 --> 00:06:15.360
+- Na verdade, uma consideração de uma lição de casa para vocês, porque todo e qualquer tipo de mapeamento
+
+00:06:15.360 --> 00:06:21.644
+- de cadastro, qualquer tipo de auditoria é mão na massa, ou seja, você vai conseguir analisar aqui
+
+00:06:21.644 --> 00:06:27.867
+- e começar a identificar isso dentro do seu próprio TXT. Então, vamos olhar o registro 0150. Como
+
+00:06:27.867 --> 00:06:33.715
+- estamos falando do zero? Estamos falando de um cadastro. E o que ele representa? Conferência
+
+00:06:33.715 --> 00:06:37.822
+- dos participantes, dos clientes, dos fornecedores do meu cliente.
+
+00:06:38.082 --> 00:06:44.665
+- E esse registro também é super importante. O que nós precisamos analisar dentro do registro 0150?
+
+00:06:44.665 --> 00:06:51.834
+- Eu deixei uma pergunta para vocês aqui. Será que quem faz os cadastros dos nossos clientes, seja fornecedor
+
+00:06:51.834 --> 00:06:58.482
+- ou cliente, eles estão de fato atualizados? E o porquê eu falo isso? Porque, na verdade, o programa
+
+00:06:58.482 --> 00:07:04.478
+- validador lembra que ele não vai validar a informação. Ele só precisa do item lançado.
+
+00:07:05.154 --> 00:07:11.441
+- Então, isso quer dizer que se o fornecedor ou o cliente atualizar o seu endereço e você
+
+00:07:11.441 --> 00:07:18.005
+- fazer o lançamento de uma CFLP intraestadual, mas a verdade é interna, o programa validador,
+
+00:07:18.005 --> 00:07:25.122
+- ele simplesmente vai validar. Então, a pergunta que fica, a lição de caso que fica aqui para vocês
+
+00:07:25.122 --> 00:07:32.653
+- é a seguinte, quem está fazendo o cadastro? Eles estão mantendo atualizados os cadastros dos fornecedores
+
+00:07:32.653 --> 00:07:33.758
+- e dos clientes?
+
+00:07:34.370 --> 00:07:40.987
+- dos seus clientes, porque a gente pode ter uma inconsistência. Como será feita a validação desses
+
+00:07:40.987 --> 00:07:47.734
+- dados cadastrais? Esse daqui foi uma pergunta feita por um contribuinte para a Receita Federal. Então,
+
+00:07:47.734 --> 00:07:54.480
+- está no Perguntas e Respostas que eu comentei com vocês no portal da FD Contribuições, que é super
+
+00:07:54.480 --> 00:08:00.254
+- importante. Perguntou-se o seguinte, como será feita a validação de dados cadastrais?
+
+00:08:00.418 --> 00:08:09.884
+- como, por exemplo, razão social, CEP, município, endereço, etc. No momento do envio do arquivo XML,
+
+00:08:09.884 --> 00:08:19.534
+- e o fisco responde o seguinte, estes dados não são validados, assim como não são feitas validações
+
+00:08:19.534 --> 00:08:27.806
+- de cunho fiscal. A grande maioria do conteúdo da notática eletrônica não é validada.
+
+00:08:28.098 --> 00:08:36.233
+- Existem poucas exceções às quais estão previstas na documentação técnica da NFE, Vídeo Manual
+
+00:08:36.233 --> 00:08:43.571
+- da Integração. Isso quer dizer que o fisco não valida, ele não audita a informação. A
+
+00:08:43.571 --> 00:08:51.787
+- única inconsistência que o fisco vai poder te dar é caso a estrutura esteja incorreta. Aí sim, ele
+
+00:08:51.787 --> 00:08:55.934
+- pode dar uma rejeição na nota fiscal eletrônica.
+
+00:08:56.258 --> 00:09:03.117
+- Aí sim, ele pode rejeitar ou dar uma inconsistência dentro do programa validador do FD Contribuições.
+
+00:09:03.117 --> 00:09:09.846
+- Então, o fisco não vai validar e não vai consultar se o fornecedor era do Simples Nacional. Ele não
+
+00:09:09.846 --> 00:09:16.382
+- vai consultar se o cliente do seu cliente é do Simples. Ele só vai identificar uma inconsistência
+
+00:09:16.382 --> 00:09:23.241
+- se dentro daquele registro, se faz necessário a informação do CNPJ, está lançado um qualquer número
+
+00:09:23.241 --> 00:09:25.182
+- ou não está lançado aquele
+
+00:09:25.378 --> 00:09:33.697
+- objetivo, que é a CNPJ. Então, atenção com isso. Faça parte de quem faz os cadastros do seu cliente,
+
+00:09:33.697 --> 00:09:40.446
+- não só sobre os produtos, mas sobre o todo, sobre todo e qualquer tipo de cadastro.

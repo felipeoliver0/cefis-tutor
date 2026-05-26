@@ -1,0 +1,33 @@
+{
+  "id": 461234,
+  "title": "Registrabilidade da marca",
+  "position": 17,
+  "duration": 403,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7266e494-b910-40aa-b313-457c2d672573/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7266e494-b910-40aa-b313-457c2d672573/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7266e494-b910-40aa-b313-457c2d672573/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7266e494-b910-40aa-b313-457c2d672573/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7266e494-b910-40aa-b313-457c2d672573/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

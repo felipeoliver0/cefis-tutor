@@ -1,0 +1,88 @@
+WEBVTT
+
+00:00:00.226 --> 00:00:08.722
+- Vamos fazer um resumo dessa parte 1? Olha que interessante pra gente fazer esse resumo. Eu tenho aqui
+
+00:00:08.722 --> 00:00:16.385
+- uma comparação desse resumo, uma comparação pra vocês, pra gente finalizar essa parte,
+
+00:00:16.385 --> 00:00:24.882
+- que é demonstrando o resgate de uma aplicação de mil reais, mais ou menos parecido, só que com as
+
+00:00:24.882 --> 00:00:30.046
+- nomenclaturas adequadas pra utilizar tanto no Excel quanto na
+
+00:00:30.242 --> 00:00:38.227
+- E aí nós temos aqui, por exemplo, essa aplicação 1% linear por 12 meses e 1% a juros compostos 12
+
+00:00:38.227 --> 00:00:45.587
+- meses. Vamos ver? Lembrando que a nossa fórmula inicial era lá no comecinho, antes de fazer
+
+00:00:45.587 --> 00:00:54.042
+- essa associação às nomenclaturas mais internacionais, montante é igual a capital inicial que multiplica
+
+00:00:54.042 --> 00:00:58.974
+- 1 mais i versus o prazo. E falando em valor, presente e valor,
+
+00:00:59.106 --> 00:01:06.769
+- Futuro, o valor futuro é igual. Valor presente, comparado ao capital inicial, 1 mais i vezes n, isso
+
+00:01:06.769 --> 00:01:14.507
+- aqui é igual. Então vamos fazer a continha. Qual que é o resgate da aplicação? Apliquei 100 reais
+
+00:01:14.507 --> 00:01:22.320
+- a 1% ao mês, num período de 12 meses. Qual que é o valor futuro? Na hora que eu faço esse cálculo,
+
+00:01:22.320 --> 00:01:28.030
+- multiplicando, eu chego que o valor futuro é de 112. 112 dividido por 100,
+
+00:01:28.290 --> 00:01:35.903
+- A minha taxa ao ano é de 12% ao ano, ok? Perfeito? Aí vamos aqui. É a mesma operação, 100 reais
+
+00:01:35.903 --> 00:01:43.968
+- aplicados por um período de 12 meses, mas é uma taxa de juros compostos, que são juros capitalizáveis,
+
+00:01:43.968 --> 00:01:51.657
+- ou seja, rendimento também sobre os juros gerados a cada um dos períodos. Vejam que a fórmula não
+
+00:01:51.657 --> 00:01:57.310
+- é essa mera multiplicação aqui que eu trouxe aqui para o juros simples.
+
+00:01:58.178 --> 00:02:05.828
+- A nossa forma de valor presente agora faz esse efeito do cascateamento através do cálculo de juros
+
+00:02:05.828 --> 00:02:13.630
+- compostos usando a parte de cálculo exponencial. Então aqui pessoal, por exemplo, vou aplicar o 100.
+
+00:02:14.338 --> 00:02:20.735
+- a uma taxa que é a mesma porcentualmente, só que eu vou elevar esse número índice, 1 mais... porque
+
+00:02:20.735 --> 00:02:27.502
+- eu tenho que dividir a taxa por 100 e somar 1. Veja, aqui eu não preciso, eu só faço essa multiplicação.
+
+00:02:27.502 --> 00:02:33.776
+- Aqui eu tenho que somar 1 e elevar a 12. É aqui que se transforma em cálculo exponencial. Quando eu
+
+00:02:33.776 --> 00:02:36.606
+- faço isso aqui, 100 que multiplica 1 mais...
+
+00:02:36.706 --> 00:02:44.423
+- 0,1 a 12, eu chego em 112,68 dividido por 100, a taxa passa a ser 12,68. Então veja, no juros simples,
+
+00:02:44.423 --> 00:02:52.140
+- essa mesma operação, a taxa de juros é 12% ao ano normal, mas ela foi calculada a 1% ao mês. Quando
+
+00:02:52.140 --> 00:02:59.635
+- eu falo que é 1% ao mês mais juros compostos, eu chego em 12,68, uma taxa aproximadamente de 12,7.
+
+00:02:59.635 --> 00:03:02.974
+- Então veja que nós temos esse efeito aqui.
+
+00:03:03.138 --> 00:03:11.231
+- Uma diferença que a gente chama de spread entre a taxa de juros compostas ou juros compostos menos
+
+00:03:11.231 --> 00:03:19.485
+- aquele juros simples. Eu tenho uma diferença que é bastante ao ano de 0,68% ao ano. Ou seja, tem um
+
+00:03:19.485 --> 00:03:23.774
+- spread aqui de aproximadamente quase 0,7%. Tudo bem?

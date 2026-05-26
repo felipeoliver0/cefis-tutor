@@ -1,0 +1,33 @@
+{
+  "id": 475313,
+  "title": "Exemplo | balancetes - parte 4",
+  "position": 29,
+  "duration": 508,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f5618b85-36d9-45e8-9baf-70142064859b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f5618b85-36d9-45e8-9baf-70142064859b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f5618b85-36d9-45e8-9baf-70142064859b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f5618b85-36d9-45e8-9baf-70142064859b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f5618b85-36d9-45e8-9baf-70142064859b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

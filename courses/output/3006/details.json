@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3006,
+    "title": "Domicílio Eletrônico Trabalhista - DET",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso de Domicílio Eletrônico Trabalhista - DET você vaia prender tópicos como: Introdução ao DET; E-LIT e sua finalidade; Acesso a plataforma eletrônica e muitos outros pontos para colocar em prática os conhecimentos adquiridos, atendendo à legislação de forma eletrônica.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/d9f87b946d9d77ec3acf0293e00cd1e11728384917.jpg",
+    "goals": [
+      "Atender a fiscalização do Ministério do Trabalho com acesso exclusivo a plataforma de domicílio eletrônico trabalhista"
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 3226,
+    "keywords": "DOMICÍLIO ELETRÔNICO TRABALHISTA;DET",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1057,
+    "averageRating": 9.3,
+    "practiceAverage": 9.26,
+    "trailer": {
+      "id": "824520f6-db4b-48d9-9b89-260d3f1c37b3",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/824520f6-db4b-48d9-9b89-260d3f1c37b3/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/824520f6-db4b-48d9-9b89-260d3f1c37b3/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/824520f6-db4b-48d9-9b89-260d3f1c37b3/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/824520f6-db4b-48d9-9b89-260d3f1c37b3/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-21T09:52:24.000Z",
+      "updatedAt": "2024-01-21T09:52:24.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-03-16T12:15:38.000Z",
+    "recordedAt": "2024-01-10T00:00:00.000Z",
+    "createdAt": "2024-01-13T17:20:44.000Z"
+  }
+}

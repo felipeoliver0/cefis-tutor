@@ -1,0 +1,33 @@
+{
+  "id": 480486,
+  "title": "Tributo sobre o lucro",
+  "position": 41,
+  "duration": 485,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2a56e866-69ec-4742-8a0d-9d65f807c208/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2a56e866-69ec-4742-8a0d-9d65f807c208/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2a56e866-69ec-4742-8a0d-9d65f807c208/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2a56e866-69ec-4742-8a0d-9d65f807c208/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2a56e866-69ec-4742-8a0d-9d65f807c208/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

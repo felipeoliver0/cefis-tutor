@@ -1,0 +1,173 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.560
+Representação dos layouts. A geração do arquivo da DERI é de responsabilidade do contribuinte.
+
+3
+00:00:08.560 --> 00:00:19.440
+O contribuinte que vai emitir os arquivos XML ali de forma correta, consoante com os esquemas oficiais publicados para fazer a transmissão.
+
+4
+00:00:19.440 --> 00:00:27.960
+Olha aqui o ponto interessante. Arquivos XML não serão arquivos TXT.
+
+5
+00:00:27.960 --> 00:00:36.600
+Esses arquivos XML é muito parecido com o que a gente tem no Reinf hoje. Os eventos, a forma de transmissão.
+
+6
+00:00:36.600 --> 00:00:47.200
+Então aqui já traz para a gente uma ideia melhor, mais detalhada de como que vai ter esse funcionamento, essa operacionalização da DERI.
+
+7
+00:00:47.200 --> 00:00:48.960
+Cada evento é descrito por meio de um arquivo XML.
+
+8
+00:00:48.960 --> 00:00:49.200
+Cada evento é descrito por meio de um arquivo XML.
+
+9
+00:00:49.200 --> 00:00:49.240
+Cada evento é descrito por meio de um arquivo XML.
+
+10
+00:00:49.240 --> 00:00:49.399
+Cada evento é descrito por meio de um arquivo XML.
+
+11
+00:00:49.399 --> 00:00:49.420
+Cada evento é descrito por meio de um arquivo XML.
+
+12
+00:00:49.420 --> 00:01:03.479
+A estrutura hierárquica é a especificação técnica, ou seja, um resumo e um detalhamento para trazer ali consciência do que está sendo escriturado.
+
+13
+00:01:03.479 --> 00:01:12.400
+As informações serão transmitidas através do certificado digital, conforme nós vimos anteriormente.
+
+14
+00:01:13.180 --> 00:01:18.480
+A escrituração vai ser enviada a partir da assinatura digital.
+
+15
+00:01:18.480 --> 00:01:19.099
+A escrituração vai ser enviada a partir da assinatura digital.
+
+16
+00:01:19.239 --> 00:01:19.760
+Chegamos aqui.
+
+17
+00:01:20.739 --> 00:01:30.180
+Logo, nós teremos a mesma qualidade, a mesma segurança da informação trazendo aí para os envios dos nossos arquivos.
+
+18
+00:01:30.299 --> 00:01:39.620
+E claro, nós já sabemos que os arquivos devem ser assinados conforme nós fazemos os outros eventos das outras obrigações.
+
+19
+00:01:39.980 --> 00:01:43.840
+Assinado pelo contribuinte ou pelo representante legal.
+
+20
+00:01:43.840 --> 00:01:47.840
+Que a gente tem a mesma situação que a gente tem nas demais operações.
+
+21
+00:01:49.439 --> 00:01:51.840
+Regras de permissão.
+
+22
+00:01:52.739 --> 00:02:04.780
+A permissão para assinar os eventos e acessar as consultas ou resultados por processamento de lotes que forem enviados é rigidamente controlada pelo sistema.
+
+23
+00:02:05.200 --> 00:02:09.840
+A consulta da base cadastral externa e também das bases de autorizações.
+
+24
+00:02:11.099 --> 00:02:15.219
+Então, não é de qualquer forma que eu vou consultar essas informações.
+
+25
+00:02:15.219 --> 00:02:17.639
+Eu preciso estar vinculado.
+
+26
+00:02:17.879 --> 00:02:18.280
+Olha só.
+
+27
+00:02:18.479 --> 00:02:26.300
+O evento somente poderá ser validado se for assinado e realizado por um dos seguintes números de inscrição.
+
+28
+00:02:26.439 --> 00:02:36.900
+CNPJ do destinatário, do emitente, do contribuinte e CNPJ do representante legal da matriz do contribuinte.
+
+29
+00:02:37.099 --> 00:02:48.120
+CNPJ ou CPF do procurador devidamente habilitado pelos sistemas de procuração eletrônica com autóroga válida da data do processamento do evento.
+
+30
+00:02:48.479 --> 00:02:50.159
+Ou seja, quem vai ter permissão?
+
+31
+00:02:50.639 --> 00:02:56.400
+O próprio contribuinte, o representante legal, que é aquele estabelecido lá na Receita Federal,
+
+32
+00:02:57.060 --> 00:03:02.259
+e o CPF ou CNPJ que recebeu ali a procuração eletrônica.
+
+33
+00:03:02.259 --> 00:03:09.039
+Isso traz a segurança na consulta, no tratamento dessas informações.
+
+34
+00:03:09.599 --> 00:03:12.379
+Transmissão por lote de eventos.
+
+35
+00:03:12.900 --> 00:03:16.740
+Nós já conhecemos essa dinâmica, nós fazemos isso lá no Reinf.
+
+36
+00:03:16.879 --> 00:03:18.259
+A transmissão dos arquivos.
+
+37
+00:03:18.479 --> 00:03:20.080
+XML, lembram?
+
+38
+00:03:20.539 --> 00:03:24.060
+Para o Ambiente Nacional da DERI é realizado por meio de API.
+
+39
+00:03:24.639 --> 00:03:33.039
+Essa metodologia assegura a escabilidade, a alta disponibilidade e a padronização no recebimento das informações.
+
+40
+00:03:33.979 --> 00:03:41.439
+Conforme a gente manda as informações por lote, ela está disponível de forma rápida para a Receita Federal,
+
+41
+00:03:41.860 --> 00:03:47.020
+mas de forma padronizada também, conforme nós já estamos habituados a fazer o envio.
+
+42
+00:03:47.020 --> 00:03:48.360
+Os eventos.
+
+43
+00:03:48.479 --> 00:03:55.419
+Devem ser agrupados em lotes para otimizar o fluxo das informações, o fluxo da comunicação.
+
+44
+00:03:55.419 --> 00:04:03.780
+Então nós podemos fazer o envio de lotes, de mais de um, para trazer a agilidade no processo.

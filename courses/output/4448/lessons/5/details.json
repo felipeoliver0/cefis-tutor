@@ -1,0 +1,33 @@
+{
+  "id": 486925,
+  "title": "Tópicos que serão abordados - Parte 2",
+  "position": 5,
+  "duration": 263,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/962f97fb-7c6a-46d7-a700-cddb36d5bf75/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/962f97fb-7c6a-46d7-a700-cddb36d5bf75/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/962f97fb-7c6a-46d7-a700-cddb36d5bf75/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/962f97fb-7c6a-46d7-a700-cddb36d5bf75/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/962f97fb-7c6a-46d7-a700-cddb36d5bf75/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

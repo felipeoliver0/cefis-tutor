@@ -1,0 +1,33 @@
+{
+  "id": 455604,
+  "title": "Exemplo 3 - Parte 1",
+  "position": 31,
+  "duration": 342,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b33ef249-6065-480a-8f76-72851026eb37/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b33ef249-6065-480a-8f76-72851026eb37/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b33ef249-6065-480a-8f76-72851026eb37/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b33ef249-6065-480a-8f76-72851026eb37/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b33ef249-6065-480a-8f76-72851026eb37/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

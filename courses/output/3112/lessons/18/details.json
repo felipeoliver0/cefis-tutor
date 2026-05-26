@@ -1,0 +1,33 @@
+{
+  "id": 474708,
+  "title": "Base de Cálculo Pessoa Jurídica",
+  "position": 18,
+  "duration": 169,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/55c8c698-9dbe-4ba3-bd34-4156e3d71f65/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/55c8c698-9dbe-4ba3-bd34-4156e3d71f65/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/55c8c698-9dbe-4ba3-bd34-4156e3d71f65/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/55c8c698-9dbe-4ba3-bd34-4156e3d71f65/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/55c8c698-9dbe-4ba3-bd34-4156e3d71f65/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

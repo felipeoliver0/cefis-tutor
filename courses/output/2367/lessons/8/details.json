@@ -1,0 +1,33 @@
+{
+  "id": 464893,
+  "title": "Erros na fatura comercial",
+  "position": 8,
+  "duration": 183,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b5188d2c-39ac-4bf2-88bf-ab6eb1aaaed9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5188d2c-39ac-4bf2-88bf-ab6eb1aaaed9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5188d2c-39ac-4bf2-88bf-ab6eb1aaaed9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5188d2c-39ac-4bf2-88bf-ab6eb1aaaed9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5188d2c-39ac-4bf2-88bf-ab6eb1aaaed9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

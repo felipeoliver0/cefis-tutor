@@ -1,0 +1,33 @@
+{
+  "id": 487312,
+  "title": "Ficha de bens e direitos - Parte 1",
+  "position": 25,
+  "duration": 590,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/6af66a09-56cf-423d-95a6-c22599836d34/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6af66a09-56cf-423d-95a6-c22599836d34/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6af66a09-56cf-423d-95a6-c22599836d34/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6af66a09-56cf-423d-95a6-c22599836d34/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6af66a09-56cf-423d-95a6-c22599836d34/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

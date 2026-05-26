@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4510,
+    "title": "Contador estratégico",
+    "subtitle": "Evolua na contabilidade",
+    "summary": "Neste curso \"Contador estratégico\" você irá aprender na prática tudo o que precisa saber sobre Contador estratégico. Aprenderá os fundamentos e a prática de análise de indicadores financeiros, consultoria de negócios e gestão de processos contábeis estratégicos e vários outros temas para você que deseja se atualizar ou aprender tudo sobre Contador estratégico.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/3f1486e4-e768-4ff9-af5f-08c25b79b53f-thumbnail.png",
+    "goals": [
+      "O objetivo do curso \"Contador estratégico: Evolua na contabilidade\" é a capacitação para a aplicação prática de contabilidade estratégica e consultiva voltada para a gestão de negócios."
+    ],
+    "teacher": {
+      "id": 539061,
+      "name": "DAYANE DA SILVA AMARO ROSA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/bf7e258c-2a32-4b58-929c-cf883a14c3cf-croppedImage.jpeg"
+    },
+    "duration": 11540,
+    "keywords": "contador;desenvolvimento comportamental",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 34,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 39,
+    "averageRating": 9.92,
+    "practiceAverage": 9.92,
+    "trailer": {
+      "id": "089d59ed-959f-4543-8b4e-8e986daa4b59",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/089d59ed-959f-4543-8b4e-8e986daa4b59/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/089d59ed-959f-4543-8b4e-8e986daa4b59/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/089d59ed-959f-4543-8b4e-8e986daa4b59/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/089d59ed-959f-4543-8b4e-8e986daa4b59/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-05-15T23:20:52.000Z",
+      "updatedAt": "2026-05-15T23:20:51.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-05-16T16:46:22.000Z",
+    "recordedAt": "2026-04-27T00:00:00.000Z",
+    "createdAt": "2026-04-30T13:45:28.000Z"
+  }
+}

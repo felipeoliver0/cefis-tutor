@@ -1,0 +1,33 @@
+{
+  "id": 454865,
+  "title": "Orçamento do Projeto",
+  "position": 21,
+  "duration": 307,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/528d757d-1583-40ba-9d67-8b612c778dc8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/528d757d-1583-40ba-9d67-8b612c778dc8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/528d757d-1583-40ba-9d67-8b612c778dc8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/528d757d-1583-40ba-9d67-8b612c778dc8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/528d757d-1583-40ba-9d67-8b612c778dc8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

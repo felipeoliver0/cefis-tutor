@@ -1,0 +1,33 @@
+{
+  "id": 479213,
+  "title": "Princípios gerais da contabilidade",
+  "position": 32,
+  "duration": 239,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/03e34adc-c03f-4421-af05-e16f950f8c34/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/03e34adc-c03f-4421-af05-e16f950f8c34/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/03e34adc-c03f-4421-af05-e16f950f8c34/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/03e34adc-c03f-4421-af05-e16f950f8c34/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/03e34adc-c03f-4421-af05-e16f950f8c34/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

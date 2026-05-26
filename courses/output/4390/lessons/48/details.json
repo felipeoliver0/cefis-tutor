@@ -1,0 +1,33 @@
+{
+  "id": 485398,
+  "title": "Passivos no Balanço Patrimonial",
+  "position": 48,
+  "duration": 327,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cf6db173-8206-4175-ad16-ea8d3aca7dc0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf6db173-8206-4175-ad16-ea8d3aca7dc0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf6db173-8206-4175-ad16-ea8d3aca7dc0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf6db173-8206-4175-ad16-ea8d3aca7dc0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf6db173-8206-4175-ad16-ea8d3aca7dc0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

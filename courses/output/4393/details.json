@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4393,
+    "title": "Barreiras Regulatórias - Estratégias Práticas",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Barreiras Regulatórias - Estratégias Práticas você irá aprender na prática tudo o que precisa saber sobre como superar as barreiras regulatórias. Aprenderá os fundamentos e a prática de como identificar e superar barreiras tarifárias, como entender os tipos de barreiras não tarifárias e como lidar com regulamentos e critérios de legitimidade. Além disso, aprenderá sobre procedimentos aduaneiros, medidas de defesa comercial e estratégias para superar barreiras regulatórias.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/bd395ecf-95ab-429f-af20-0ee43db11094-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Barreiras Regulatórias - Estratégias Práticas é a capacitação para a aplicação prática de identificar e superar as barreiras regulatórias que afetam o comércio internacional, permitindo que os participantes desenvolvam estratégias eficazes para lidar com essas barreiras e promover o comércio justo e transparente."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 6122,
+    "keywords": "barreiras regulatorias;barreiras",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 21,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 0,
+    "averageRating": 0,
+    "practiceAverage": 0,
+    "trailer": {
+      "id": "c31e9c2e-f204-4abf-a08a-6cc21fa92d12",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c31e9c2e-f204-4abf-a08a-6cc21fa92d12/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c31e9c2e-f204-4abf-a08a-6cc21fa92d12/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c31e9c2e-f204-4abf-a08a-6cc21fa92d12/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c31e9c2e-f204-4abf-a08a-6cc21fa92d12/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-02-28T23:52:12.000Z",
+      "updatedAt": "2026-02-28T23:52:12.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-02-28T23:53:01.000Z",
+    "recordedAt": "2026-01-31T00:00:00.000Z",
+    "createdAt": "2026-01-31T00:01:02.000Z"
+  }
+}

@@ -1,0 +1,501 @@
+WEBVTT
+
+1
+00:00:00.490 --> 00:00:00.899
+pessoal.
+
+2
+00:00:00.910 --> 00:00:04.820
+Vamos aqui acompanhar agora a emissão do último módulo, do nosso Hospital Fácil,
+
+3
+00:00:04.829 --> 00:00:07.739
+que é a emissão do módulo do varejo, né?
+
+4
+00:00:07.750 --> 00:00:11.600
+O varejo tem uma característica muito rápido e por isso a emissão da nota do
+
+5
+00:00:11.609 --> 00:00:15.760
+varejo também É muito rápido como vocês vão poder ver aqui e muito simples tá
+
+6
+00:00:16.280 --> 00:00:18.219
+o varejo, tem que fazer as operações rápido.
+
+7
+00:00:18.229 --> 00:00:21.850
+E muitas vezes o cliente tá com pressa, não pode ficar ali esperando, né?
+
+8
+00:00:21.860 --> 00:00:26.129
+Eh, às vezes tá em trânsito, tá na rua, tá esperando um voo fazendo alguma coisa ali.
+
+9
+00:00:26.139 --> 00:00:30.709
+Quer pegar um táxi, um ônibus ali, se o pessoal sempre correndo, né?
+
+10
+00:00:30.719 --> 00:00:31.409
+Então,
+
+11
+00:00:31.420 --> 00:00:35.869
+o varejo por essa funciona essa característica de ter que fazer operações
+
+12
+00:00:35.880 --> 00:00:39.310
+de maneira rápida a emissão da da nota fiscal fácil do varejo,
+
+13
+00:00:39.319 --> 00:00:41.209
+ela é a mais rápida de todas.
+
+14
+00:00:41.220 --> 00:00:43.189
+Então nós vamos lá ver como é que é feito. Tá?
+
+15
+00:00:44.349 --> 00:00:48.159
+Estamos aqui na tela inicial do aplicativo, conforme os modos do TAC,
+
+16
+00:00:48.169 --> 00:00:49.680
+também do produtor rural.
+
+17
+00:00:49.689 --> 00:00:54.639
+E aqui eu posso no botãozinho demais aqui que eu tenho no meu canto direito inferior,
+
+18
+00:00:54.650 --> 00:00:58.439
+eu posso dizer uma nota nova nota, cadastrar produtos,
+
+19
+00:00:58.450 --> 00:01:01.240
+cadastrar operadores e relatórios.
+
+20
+00:01:01.250 --> 00:01:02.860
+Os produtos são os produtos que eu
+
+21
+00:01:03.250 --> 00:01:05.940
+eu tenho aqui ofertados na minha loja, né?
+
+22
+00:01:05.949 --> 00:01:08.699
+Os operadores são aqueles outros que eu falei pra
+
+23
+00:01:08.709 --> 00:01:11.180
+vocês que nosso calças pode ter até oito operadores.
+
+24
+00:01:11.190 --> 00:01:13.379
+Os operadores são as outras pessoas que tem
+
+25
+00:01:13.389 --> 00:01:16.620
+ali o dispositivo instalado no seu telefone celular.
+
+26
+00:01:16.629 --> 00:01:18.059
+Tá e os relatórios, né!
+
+27
+00:01:18.069 --> 00:01:20.779
+Relatório de vendas, relatório das notas ali que foram emitidas.
+
+28
+00:01:20.790 --> 00:01:25.059
+Então tudo aqui nessa versão do varejo tá bom, então,
+
+29
+00:01:25.069 --> 00:01:26.720
+digamos que eu vou fazer uma nova nota,
+
+30
+00:01:27.480 --> 00:01:31.169
+depois eu vou identificar o cliente. Como que eu vou identificar o cliente?
+
+31
+00:01:31.180 --> 00:01:34.690
+Eu posso colocar o c n PJ dele. Eu posso colocar o CPF, né?
+
+32
+00:01:34.699 --> 00:01:39.690
+Que tem muita gente que pede o CPF na nota e pode não informar pra quem pede CPF na nota.
+
+33
+00:01:39.699 --> 00:01:41.889
+A gente pode lembrar que esse documento é
+
+34
+00:01:41.900 --> 00:01:44.470
+um documento fiscal eletrônico com todas as validades.
+
+35
+00:01:44.480 --> 00:01:47.569
+Isso vai lá pro portal do programa de benefício do Estado,
+
+36
+00:01:47.580 --> 00:01:51.519
+conta pontos lá no dos sorteios do Estado que tem sorteio, né?
+
+37
+00:01:51.529 --> 00:01:57.279
+Entra ali pra pra fazer ali a participação nos programas de benefícios fiscais,
+
+38
+00:01:57.290 --> 00:01:58.040
+de benefícios?
+
+39
+00:01:58.050 --> 00:02:02.559
+Aí eh que retorna aí pro contribuinte. Quando ele utiliza o pede o CPF na nota.
+
+40
+00:02:02.569 --> 00:02:05.849
+Tá, então plena validade aí pra pedir o CPF na nota Okay,
+
+41
+00:02:05.860 --> 00:02:08.758
+Então aqui a identificação do cliente nesse caso,
+
+42
+00:02:08.770 --> 00:02:10.559
+aqui eu vou optar por não informar.
+
+43
+00:02:10.570 --> 00:02:11.020
+Tá?
+
+44
+00:02:12.169 --> 00:02:14.520
+Então passa pra frente,
+
+45
+00:02:14.529 --> 00:02:17.380
+que que o contribuinte agora vai fazer informar os produtos?
+
+46
+00:02:17.389 --> 00:02:20.699
+Os produtos podem ser informados de duas maneiras, né?
+
+47
+00:02:20.710 --> 00:02:25.139
+Eu posso pegar uma nota fiscal eletrônica, o modelo cinquenta e cinco?
+
+48
+00:02:25.149 --> 00:02:28.699
+Ler o código de barras e selecionar o produto ali,
+
+49
+00:02:28.710 --> 00:02:31.899
+né Que esteja na nota do meu fornecedor Tá?
+
+50
+00:02:31.910 --> 00:02:34.080
+Isso aí seria uma operação com o leitor.
+
+51
+00:02:34.089 --> 00:02:37.100
+Mas isso geralmente o contribuinte não faz ali no momento da venda, né.
+
+52
+00:02:37.110 --> 00:02:40.199
+Ele faz no momento ali que ele tá dando aquela entrada daquela mercadoria,
+
+53
+00:02:40.539 --> 00:02:43.630
+porque senão no momento da venda fica muito lento, né Tá espera,
+
+54
+00:02:43.639 --> 00:02:45.009
+aí que eu vou pegar a nota aqui?
+
+55
+00:02:45.020 --> 00:02:46.869
+Ah, tem dez produtos, eu vou procurar ali.
+
+56
+00:02:46.880 --> 00:02:50.250
+Qual dos dez, que tá na minha nota de fornecedor que o meu cliente quer?
+
+57
+00:02:50.259 --> 00:02:53.149
+Então, geralmente o contribuinte faz isso com antecedência.
+
+58
+00:02:53.160 --> 00:02:56.809
+Mas, se for o caso, pode fazer aqui nessa tela. Também, né?
+
+59
+00:02:57.479 --> 00:03:02.130
+Então, eh o mais comum é ele buscar Dentre os produtos que já estão cadastrados.
+
+60
+00:03:02.139 --> 00:03:04.610
+Tá, Ele pode cadastrar previamente.
+
+61
+00:03:04.619 --> 00:03:05.809
+Com a nota fiscal,
+
+62
+00:03:05.820 --> 00:03:08.850
+ele pode montar seu cadastro previamente dos dentre os
+
+63
+00:03:08.860 --> 00:03:13.270
+produtos eh disponíveis ali disponibilizados pelo Fisco Tá,
+
+64
+00:03:13.550 --> 00:03:16.080
+Mas nesse caso, aqui, digamos que ele vai buscar o produto,
+
+65
+00:03:16.089 --> 00:03:18.759
+porque ele já fez previamente esse cadastro,
+
+66
+00:03:18.770 --> 00:03:21.679
+tendo como base a nota fiscal do seu fornecedor.
+
+67
+00:03:21.690 --> 00:03:24.929
+Tá então aqui ele vai clicar aqui em buscar.
+
+68
+00:03:24.940 --> 00:03:28.320
+Depois que ele clica em buscar, ele vai selecionar o produto.
+
+69
+00:03:28.330 --> 00:03:31.679
+Então ele vai abrir a tela de cadastro de
+
+70
+00:03:31.690 --> 00:03:34.320
+produtos que o contribuinte já tem no seu aparelho,
+
+71
+00:03:34.330 --> 00:03:35.899
+ali, na sua nota fiscal fácil
+
+72
+00:03:36.690 --> 00:03:37.979
+e eu vou selecionar aqui o café,
+
+73
+00:03:37.990 --> 00:03:42.660
+milita quinhentas gramas tradicional Então eu vou pegar aqui esse produto,
+
+74
+00:03:42.669 --> 00:03:47.300
+vou clicar nele nesse produto, tá, e esse produto vai ser carregado aqui.
+
+75
+00:03:47.309 --> 00:03:48.479
+Então eu venho aqui. O quê
+
+76
+00:03:48.850 --> 00:03:53.860
+traz a descrição do produto, o preço unitário? Quantas unidades eu estou vendendo?
+
+77
+00:03:53.869 --> 00:03:57.759
+Tá e se tem um desconto ou não, e o valor total do item?
+
+78
+00:03:57.770 --> 00:04:01.020
+Tá após o desconto que o valor líquido é sem o desconto.
+
+79
+00:04:01.029 --> 00:04:05.660
+E aqui, esse valor de baixo, esse valor do item já seria aplicando o desconto. Tá?
+
+80
+00:04:05.669 --> 00:04:06.679
+Então
+
+81
+00:04:07.119 --> 00:04:10.330
+eu posso clicar aqui em adicionar, como vocês vão vendo aqui?
+
+82
+00:04:10.339 --> 00:04:13.490
+O preço unitário já já vem preenchido o cadastro, né?
+
+83
+00:04:13.500 --> 00:04:15.690
+Então, o que que o contribuinte tem que formar nessa tela.
+
+84
+00:04:15.699 --> 00:04:18.190
+Mais é o que é a quantidade, né? Vai informar a quantidade?
+
+85
+00:04:18.200 --> 00:04:22.630
+Tá, ele já faz ali a conta do valor líquido e manda adicionar. Tá?
+
+86
+00:04:23.510 --> 00:04:29.000
+Então vai se montando aqui a lista dos produtos da nota? Tá, então!
+
+87
+00:04:29.010 --> 00:04:30.679
+Digamos que eu coloquei mais um produto aqui.
+
+88
+00:04:30.690 --> 00:04:35.839
+Oh, cerveja, roleta russa triplo, não sei o que tá, então dez cervejas assim,
+
+89
+00:04:35.850 --> 00:04:39.760
+quarenta e cinco deu cinquenta e quatro e cinquenta, Então ele vai.
+
+90
+00:04:39.769 --> 00:04:43.200
+Pode ir buscar e adicionar quantas vezes for necessário, né?
+
+91
+00:04:43.209 --> 00:04:47.059
+Até montar ali a lista de todos os produtos que o seu cliente ali tá comprado, né?
+
+92
+00:04:47.700 --> 00:04:52.269
+Então, depois que ele terminou isso aqui, eu clico aqui no próximo, tá E aí?
+
+93
+00:04:52.279 --> 00:04:54.429
+Eu posso colocar alguma informação adicional?
+
+94
+00:04:54.440 --> 00:04:55.089
+Geralmente,
+
+95
+00:04:55.100 --> 00:04:57.149
+esse documento de venda do consumidor final é
+
+96
+00:04:57.160 --> 00:04:59.529
+muito raro que ele tem alguma informação adicional,
+
+97
+00:04:59.540 --> 00:05:06.589
+mas pode colocar, né, se for o caso e aqui próximo, onde ele vai ter o resumo da nota,
+
+98
+00:05:06.600 --> 00:05:06.929
+né?
+
+99
+00:05:06.940 --> 00:05:10.649
+Aí, o resumo da nota vem lá. Quem que é o emitente da da mercadoria, né?
+
+100
+00:05:10.660 --> 00:05:11.970
+Quem que é o destinatário?
+
+101
+00:05:11.980 --> 00:05:16.089
+Os produtos, o valor e o contribuinte pode, por fim, enviar a nota
+
+102
+00:05:16.959 --> 00:05:18.489
+Então, depois que ele enviar a nota,
+
+103
+00:05:18.500 --> 00:05:22.890
+a nota vem aqui pra lista dos documentos fiscais da ali da tela inicial.
+
+104
+00:05:22.899 --> 00:05:28.709
+Tá e similar ao módulo do TAC e similar ao módulo também do produtor rural.
+
+105
+00:05:28.720 --> 00:05:30.489
+Ele pode visualizar o documento, né?
+
+106
+00:05:30.500 --> 00:05:34.230
+Onde ele aperta aqui e aparece na tela do celular o seu documento.
+
+107
+00:05:34.239 --> 00:05:37.130
+Ele pode exibir o Q R code pra mostrar, por exemplo, pra um cliente.
+
+108
+00:05:37.140 --> 00:05:40.589
+Ele pode mostrar, por exemplo, pra uma fiscalização que ele estiver sofrendo, né?
+
+109
+00:05:41.540 --> 00:05:42.109
+Eh?
+
+110
+00:05:42.119 --> 00:05:43.790
+Ele pode encaminhar o documento com as
+
+111
+00:05:43.799 --> 00:05:47.190
+funcionalidades de compartilhamento de documentos do celular.
+
+112
+00:05:47.200 --> 00:05:50.929
+Pode abrir isso no WhatsApp. Ele pode abrir isso no messe.
+
+113
+00:05:50.940 --> 00:05:53.500
+Ele pode enviar isso por e-mail qualquer
+
+114
+00:05:53.510 --> 00:05:55.880
+funcionalidade de compartilhamento do seu celular.
+
+115
+00:05:55.890 --> 00:06:00.190
+Ele pode copiar essa nota fiscal fácil pra fazer a mesma operação de novo, né?
+
+116
+00:06:00.200 --> 00:06:03.410
+Isso é tem alguns contribuintes que tem operações recorrentes, né?
+
+117
+00:06:04.230 --> 00:06:07.579
+Ele pode, por fim, solicitar o cancelamento do documento, né?
+
+118
+00:06:07.589 --> 00:06:11.980
+Então, essas são as funcionalidades de de emissão do módulo, do varejo, né?
+
+119
+00:06:11.989 --> 00:06:15.480
+Então, aqui, pessoal, a gente terminou a emissão do módulo do varejo.
+
+120
+00:06:15.489 --> 00:06:20.700
+Assim, a gente fez a emissão do TAC, emissão do produtor rural e emissão do varejo,
+
+121
+00:06:20.709 --> 00:06:21.019
+né?
+
+122
+00:06:21.029 --> 00:06:25.799
+Isso foi bom que você viu aí como que faz a emissão do documento nos três módulos, né?
+
+123
+00:06:25.809 --> 00:06:28.470
+Que pode ser necessário você saber fazer essa emissão
+
+124
+00:06:28.480 --> 00:06:30.440
+aí pra mostrar pra algum cliente pra algum amigo.
+
+125
+00:06:30.450 --> 00:06:33.339
+Pra quem for utilizar esse aplicativo de nota fiscal fácil?

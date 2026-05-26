@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4145,
+    "title": "Nanoempreendedor",
+    "subtitle": "Curso Prático",
+    "summary": "O curso de Nanoempreendedorismo com foco no papel do contador apresenta conhecimentos essenciais para quem deseja iniciar ou formalizar pequenos negócios, destacando como a contabilidade contribui para a organização, controle financeiro e tomada de decisões. O aluno aprende, de forma prática, como o contador atua na orientação tributária, financeira e legal, garantindo que o nanoempreendedor tenha segurança e eficiência na gestão do seu empreendimento.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/881eef5c-151a-43a2-81bf-fc88bc696acc-thumbnail.png",
+    "goals": [
+      "Capacitar o aluno a compreender a importância do contador na estruturação e administração de nanoempreendimentos, desenvolvendo noções de controle financeiro, obrigações fiscais, formalização e planejamento básico — mostrando como o apoio contábil é fundamental para a sustentabilidade e crescimento de pequenos negócios."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 1812,
+    "keywords": "empreendedorismo;nanoempreendedorismo;nano;empreender;empresário",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 7,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 275,
+    "averageRating": 9.59,
+    "practiceAverage": 9.52,
+    "trailer": {
+      "id": "584d1bd4-7de9-4032-b111-d69c586c9008",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/584d1bd4-7de9-4032-b111-d69c586c9008/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/584d1bd4-7de9-4032-b111-d69c586c9008/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/584d1bd4-7de9-4032-b111-d69c586c9008/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/584d1bd4-7de9-4032-b111-d69c586c9008/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-20T09:31:53.000Z",
+      "updatedAt": "2025-11-20T09:31:52.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-20T09:35:11.000Z",
+    "recordedAt": "2025-11-07T00:00:00.000Z",
+    "createdAt": "2025-11-19T16:48:50.000Z"
+  }
+}

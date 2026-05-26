@@ -1,0 +1,33 @@
+{
+  "id": 478902,
+  "title": "Despesas operacionais",
+  "position": 51,
+  "duration": 427,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/684d8e70-8bc6-4f92-baa0-da86843a148d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/684d8e70-8bc6-4f92-baa0-da86843a148d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/684d8e70-8bc6-4f92-baa0-da86843a148d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/684d8e70-8bc6-4f92-baa0-da86843a148d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/684d8e70-8bc6-4f92-baa0-da86843a148d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

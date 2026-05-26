@@ -1,0 +1,33 @@
+{
+  "id": 478285,
+  "title": "Bloco J932",
+  "position": 40,
+  "duration": 166,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a02f206d-2fa6-4005-8ea5-003e07c68aac/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a02f206d-2fa6-4005-8ea5-003e07c68aac/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a02f206d-2fa6-4005-8ea5-003e07c68aac/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a02f206d-2fa6-4005-8ea5-003e07c68aac/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a02f206d-2fa6-4005-8ea5-003e07c68aac/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

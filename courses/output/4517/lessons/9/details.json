@@ -1,0 +1,33 @@
+{
+  "id": 487918,
+  "title": "Compartilhamento da informação",
+  "position": 9,
+  "duration": 193,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/04e806dc-4fb7-42ed-a52d-1ad55d736edd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/04e806dc-4fb7-42ed-a52d-1ad55d736edd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/04e806dc-4fb7-42ed-a52d-1ad55d736edd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/04e806dc-4fb7-42ed-a52d-1ad55d736edd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/04e806dc-4fb7-42ed-a52d-1ad55d736edd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

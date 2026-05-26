@@ -1,0 +1,33 @@
+{
+  "id": 479246,
+  "title": "Apresentação",
+  "position": 1,
+  "duration": 109,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/621edb9f-82f7-4b0d-88a9-c8fff6b7d8c6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/621edb9f-82f7-4b0d-88a9-c8fff6b7d8c6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/621edb9f-82f7-4b0d-88a9-c8fff6b7d8c6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/621edb9f-82f7-4b0d-88a9-c8fff6b7d8c6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/621edb9f-82f7-4b0d-88a9-c8fff6b7d8c6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

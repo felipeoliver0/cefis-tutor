@@ -1,0 +1,449 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.919
+parte de redes.
+
+2
+00:00:02.690 --> 00:00:04.599
+Não vou entrar muito nos detalhes da rede
+
+3
+00:00:04.610 --> 00:00:07.619
+porque dá pra configurar muita coisa complexa.
+
+4
+00:00:07.630 --> 00:00:10.079
+Aqui na rede do prox, por exemplo,
+
+5
+00:00:10.090 --> 00:00:14.239
+você pode ter vários vários tipos de rede diferente no servidor físico
+
+6
+00:00:14.880 --> 00:00:18.530
+e você selecionar aqui qual das redes você quer se conectar.
+
+7
+00:00:18.540 --> 00:00:19.059
+Enfim,
+
+8
+00:00:19.069 --> 00:00:22.290
+dá pra você pôr vã direto na v m pra trafegar em
+
+9
+00:00:22.299 --> 00:00:25.690
+uma rede única nos cabos físicos dá pra fazer muita coisa.
+
+10
+00:00:25.700 --> 00:00:28.129
+Dá pra você configurar firo ou direto na máquina virtual?
+
+11
+00:00:28.139 --> 00:00:31.290
+Geralmente a gente deixa desabilitado porque a gente não tá fazendo isso.
+
+12
+00:00:31.299 --> 00:00:33.889
+Dá pra você iniciar a placa de rede dessa máquina
+
+13
+00:00:33.900 --> 00:00:37.770
+com um mac ad que você definiu então bastante coisa.
+
+14
+00:00:37.779 --> 00:00:44.189
+Mas o padrão é esse aqui. Deixa na na zero sem e pronto
+
+15
+00:00:45.439 --> 00:00:46.229
+net
+
+16
+00:00:48.819 --> 00:00:53.500
+só deu um review aqui igualzinho a W S. Oh ah revise as suas!
+
+17
+00:00:53.509 --> 00:00:57.689
+Confira pronto exatamente então aqui tem até um negócio aqui oh
+
+18
+00:00:57.700 --> 00:01:00.630
+você cê pode só criar ou você pode criar tartar,
+
+19
+00:01:00.639 --> 00:01:03.450
+ela que é o que a gente vai fazer, então
+
+20
+00:01:04.699 --> 00:01:06.209
+ali já apareceu aqui
+
+21
+00:01:07.699 --> 00:01:10.489
+Olha isso aqui agora console,
+
+22
+00:01:11.220 --> 00:01:20.309
+olha só cara que que é isso aqui, Que pronto é instalar o mundo.
+
+23
+00:01:20.319 --> 00:01:22.410
+Cê não faz isso aqui na na, né?
+
+24
+00:01:23.099 --> 00:01:29.029
+Lógico que não, porque lá já vem uma imagem pré formatada exatamente,
+
+25
+00:01:29.040 --> 00:01:33.589
+a gente pode ter isso aqui teremos com certeza, por enquanto, não.
+
+26
+00:01:33.599 --> 00:01:36.269
+Mas por enquanto eu consigo aqui agora é a
+
+27
+00:01:36.279 --> 00:01:38.750
+instalação do mundo aqui eu vou instalar um mundo,
+
+28
+00:01:38.760 --> 00:01:40.889
+então vou vir aqui, oh
+
+29
+00:01:42.180 --> 00:01:42.389
+aí,
+
+30
+00:01:42.400 --> 00:01:44.790
+a gente tem que fazer a configuração dos sua aí
+
+31
+00:01:44.800 --> 00:01:48.610
+na mão mesmo o mundo já traz uns básicos ali,
+
+32
+00:01:48.620 --> 00:01:48.769
+né?
+
+33
+00:01:48.779 --> 00:01:53.489
+Aí cê mexe, desabilitado eh é cê pode habilitar então,
+
+34
+00:01:54.110 --> 00:01:56.900
+mas aqui basicamente o que que você vai ter que configurar aqui
+
+35
+00:01:58.279 --> 00:02:03.650
+o i p da sua máquina? Cê tem que confir nesse momento aqui o i p da rede privada.
+
+36
+00:02:03.660 --> 00:02:08.470
+Ah, como que eu sei qual que é o i p que eu vou usar Olha aqui o nosso des aqui Oh,
+
+37
+00:02:08.479 --> 00:02:10.429
+eu venho aqui
+
+38
+00:02:11.018 --> 00:02:11.608
+opa,
+
+39
+00:02:12.839 --> 00:02:17.350
+olha o que eu tenho aqui eu tenho um módulo aqui chamado i p n
+
+40
+00:02:18.089 --> 00:02:24.600
+i p E olha que maravilha pronto vem aqui em pan quero ver meus ips
+
+41
+00:02:28.389 --> 00:02:29.059
+Okay
+
+42
+00:02:29.770 --> 00:02:33.470
+olha aqui todos os i PS de todas as máquinas de todas as máquinas virtuais,
+
+43
+00:02:33.479 --> 00:02:37.179
+tudo aqui listado bonitinho tá aqui onde que tá sendo usado?
+
+44
+00:02:37.190 --> 00:02:39.600
+Tudo é lincado então você clica no negócio cê vê
+
+45
+00:02:39.610 --> 00:02:40.979
+onde que ele tá o que que ele tá fazendo.
+
+46
+00:02:40.990 --> 00:02:41.360
+Enfim,
+
+47
+00:02:42.000 --> 00:02:47.589
+então como que eu vou definir qual i p eu vou usar de novo? Eu venho aqui Ipam
+
+48
+00:02:48.330 --> 00:02:51.039
+e eu vou vim aqui nos rees
+
+49
+00:02:51.919 --> 00:02:54.509
+pra eu eu quero eu quero um i p disponível
+
+50
+00:02:55.130 --> 00:02:57.119
+não, não é não pera aí falei besteira
+
+51
+00:02:57.809 --> 00:02:59.919
+prefixo, acho que é para fixo
+
+52
+00:03:02.570 --> 00:03:09.020
+prefixos isso exatamente então eu que a gente só tá criando i PS nessa rede aqui Oh,
+
+53
+00:03:09.029 --> 00:03:09.419
+não!
+
+54
+00:03:09.429 --> 00:03:14.339
+Nove dois um meia oito cem barra vinte e quatro Esse aqui é o endereço, é o nome da rede,
+
+55
+00:03:14.350 --> 00:03:17.259
+o nove dois um meia oito cem ponto zero é o nome da sub rede,
+
+56
+00:03:17.270 --> 00:03:19.820
+todos os i PS que a gente cria sempre nessa rede.
+
+57
+00:03:19.830 --> 00:03:22.330
+Por enquanto depois a gente vai ter uma um
+
+58
+00:03:22.339 --> 00:03:25.740
+outro método exatamente olha o que que ele tá me
+
+59
+00:03:25.750 --> 00:03:28.059
+falando Ele tá falando assim oh dentro dessa sub rede
+
+60
+00:03:28.070 --> 00:03:32.199
+aqui que cabe duzentos e cinquenta e três i PS
+
+61
+00:03:32.809 --> 00:03:36.039
+duzentos e cinquenta e três, porque o gato e o podcast você não pode usar,
+
+62
+00:03:36.880 --> 00:03:39.830
+seria duzentos e cinquenta e cinco só tem dez por cento utilizado,
+
+63
+00:03:40.449 --> 00:03:42.479
+então eu posso clicar aqui nesse
+
+64
+00:03:44.949 --> 00:03:46.020
+prefixo
+
+65
+00:03:47.820 --> 00:03:49.490
+cadê? Onde que ele mostra aqui
+
+66
+00:03:50.830 --> 00:03:53.699
+oh i p disponíveis Duzentos e vinte e seis
+
+67
+00:03:54.339 --> 00:03:56.830
+tem um negócio aqui que eu peço pra ele selecionar um
+
+68
+00:03:56.839 --> 00:03:58.729
+i p livre mas eu não tô achando onde que é
+
+69
+00:03:59.389 --> 00:04:00.699
+i p ado deixa eu ver aqui
+
+70
+00:04:02.139 --> 00:04:04.669
+aqui ele vai mostrar todos os IPs que estão dentro.
+
+71
+00:04:04.679 --> 00:04:04.750
+Ah,
+
+72
+00:04:04.759 --> 00:04:07.429
+acho que é aqui adicionado i p ad Olha aqui
+
+73
+00:04:07.440 --> 00:04:10.250
+ele tá mostrando uma tabela com todos os Ipsos usados
+
+74
+00:04:11.059 --> 00:04:13.500
+e aí ele fala aqui oh entre os cento e quarenta e dois e
+
+75
+00:04:13.509 --> 00:04:17.130
+o cento e quarenta e oito cê tem cinco i PS disponíveis Eu clico aqui
+
+76
+00:04:18.170 --> 00:04:19.839
+e ele me mostra qual que é
+
+77
+00:04:20.959 --> 00:04:27.730
+entra aquele rin seis É isso isso seria entre esses dois, né?
+
+78
+00:04:28.390 --> 00:04:30.649
+Então aqui eu já sei quais i PS tenho disponível.
+
+79
+00:04:30.660 --> 00:04:32.480
+Então, por exemplo, eu posso vir aqui oh
+
+80
+00:04:33.209 --> 00:04:38.940
+entre o pegar um maior aqui, por exemplo, entre um sete um e um oito um eu tenho nove,
+
+81
+00:04:38.950 --> 00:04:41.679
+Então eu posso pegar qualquer um entre esses dois
+
+82
+00:04:42.339 --> 00:04:44.769
+como eu posso vir aqui em adicionar I P a dois?
+
+83
+00:04:44.779 --> 00:04:47.649
+Será que ele deixa eu pegar um que já tá vazio aqui? Deixa eu ver
+
+84
+00:04:50.149 --> 00:04:53.519
+tem um jeito aqui que ele escolhe um i p pra você eu não tô achando que é,
+
+85
+00:04:53.529 --> 00:04:59.339
+mas vamos pegar um manualmente mesmo é exatamente então vamos
+
+86
+00:04:59.350 --> 00:05:02.100
+selecionar aqui um quatro três vai ser o nosso i p
+
+87
+00:05:02.929 --> 00:05:05.239
+vai ser um um, quatro, três que tá disponível aqui,
+
+88
+00:05:06.119 --> 00:05:07.869
+então aqui quer ver
+
+89
+00:05:08.910 --> 00:05:10.619
+vamos voltar aqui para a nossa
+
+90
+00:05:12.100 --> 00:05:13.329
+nós console
+
+91
+00:05:15.649 --> 00:05:15.920
+é
+
+92
+00:05:16.540 --> 00:05:17.809
+espera aí espera aí pe
+
+93
+00:05:18.859 --> 00:05:21.329
+ele tá iniciando, ainda tá demorando?
+
+94
+00:05:22.290 --> 00:05:22.799
+É?
+
+95
+00:05:24.019 --> 00:05:26.010
+Tá demorando mais do que deveria. É verdade,
+
+96
+00:05:27.059 --> 00:05:30.529
+não sei se meu console que trava ou deixa eu abrir aqui de novo
+
+97
+00:05:32.100 --> 00:05:32.970
+garantir
+
+98
+00:05:35.690 --> 00:05:37.119
+não tá bom, não
+
+99
+00:05:41.019 --> 00:05:43.649
+será que deu alguma coisa errada aqui? Deixa eu ver aqui vamos ver
+
+100
+00:05:45.130 --> 00:05:48.559
+essas mensagens aqui estáticas, estão um pouco estranhas, admito,
+
+101
+00:05:50.429 --> 00:05:57.579
+Eh peixe, reporte nabo a Tati a Tati é
+
+102
+00:05:58.790 --> 00:06:01.000
+Não entendi, não
+
+103
+00:06:06.690 --> 00:06:07.250
+é?
+
+104
+00:06:07.440 --> 00:06:09.709
+Não, A gente pode fazer isso Sim sim,
+
+105
+00:06:11.070 --> 00:06:12.859
+talvez a parte visual pra
+
+106
+00:06:13.540 --> 00:06:17.450
+vamos fazer o seguinte aqui pelo console mesmo. Eu consigo fazer isso
+
+107
+00:06:21.619 --> 00:06:23.570
+eu vou. Vim aqui
+
+108
+00:06:24.480 --> 00:06:27.510
+e vou mandar ela reiniciar,
+
+109
+00:06:28.720 --> 00:06:31.730
+né? Ali
+
+110
+00:06:32.769 --> 00:06:36.640
+eh desligar
+
+111
+00:06:37.480 --> 00:06:39.510
+Não, Não é isso aqui.
+
+112
+00:06:42.029 --> 00:06:45.220
+Ah, ela desconectou. Ela desligou agora

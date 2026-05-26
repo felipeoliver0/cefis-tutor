@@ -1,0 +1,297 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:06.340
+então eu pego a fórmula que é de base de cálculo do I C M s próprio, que é uma base vezes,
+
+2
+00:00:06.349 --> 00:00:11.539
+doze por cento sim é feito uma vez mencionado esses dados.
+
+3
+00:00:11.550 --> 00:00:15.779
+Se tiver mais informações como valor de I p i frete seguro despesas,
+
+4
+00:00:15.789 --> 00:00:17.979
+essa planilha está pronta pra te ajudar,
+
+5
+00:00:17.989 --> 00:00:21.639
+então que fique registrado pra ficar fácil a nossa continha.
+
+6
+00:00:22.000 --> 00:00:27.649
+Vou considerar valores de i p e frete seguro ou outras despesas.
+
+7
+00:00:27.659 --> 00:00:29.809
+Então, como que funciona a linha?
+
+8
+00:00:29.819 --> 00:00:35.529
+O valor da operação é dois mil reais, Agora começa então a dinâmica dos cálculos.
+
+9
+00:00:35.540 --> 00:00:39.770
+Vou deixar aqui pra vocês observarem a minha base de
+
+10
+00:00:39.779 --> 00:00:44.549
+cálculo funciona da seguinte forma Então eu tenho basicamente dois,
+
+11
+00:00:44.631 --> 00:00:45.562
+dois mil reais.
+
+12
+00:00:45.571 --> 00:00:48.161
+Até abro a fórmula aqui no Excel,
+
+13
+00:00:48.172 --> 00:00:53.801
+pra vocês poderem também fazer isso de forma matemática e deixar isso aberto.
+
+14
+00:00:53.812 --> 00:01:02.122
+Você tem dois mil reais menos alíquota interestadual de doze Fecha essa conta.
+
+15
+00:01:02.131 --> 00:01:11.194
+Divide cem. Menos C. Onze C onze Correspondo a alíquota interna da operação.
+
+16
+00:01:11.204 --> 00:01:15.333
+Portanto, o que que nós estamos fazendo aqui é basicamente,
+
+17
+00:01:15.344 --> 00:01:18.513
+é fazendo com que a diferença desta alíquota
+
+18
+00:01:18.524 --> 00:01:23.054
+entre na base de cálculo da submissão tributária,
+
+19
+00:01:23.064 --> 00:01:27.713
+novamente pra vocês poderem aqui acompanhar dentro do cálculo que vocês estão
+
+20
+00:01:27.723 --> 00:01:33.585
+observando nessa planilha Eu dois mil reais referente ao valor da operação,
+
+21
+00:01:33.596 --> 00:01:37.545
+menos a célula C vinte e quatro,
+
+22
+00:01:37.555 --> 00:01:44.316
+que corresponde a que a alíquota barra interestadual fiz.
+
+23
+00:01:44.325 --> 00:01:50.236
+Essa matemática entre parentes divide com o resultado que você vai encontrar aí,
+
+24
+00:01:50.246 --> 00:01:52.445
+cem menos
+
+25
+00:01:52.750 --> 00:01:55.440
+a alíquota interna do destino.
+
+26
+00:01:55.449 --> 00:02:00.800
+Esta é a conta que nós vamos fazer para encontrar a base de cálculo a partir dali.
+
+27
+00:02:00.809 --> 00:02:02.319
+O que que nós temos então,
+
+28
+00:02:02.330 --> 00:02:07.290
+pra identificar como vai funcionar o pagamento e a dinâmica desses cálculos?
+
+29
+00:02:07.300 --> 00:02:07.680
+Então,
+
+30
+00:02:07.690 --> 00:02:13.119
+você tem a alíquota que vai ser praticada do ICMS interestadual e
+
+31
+00:02:13.130 --> 00:02:17.259
+você tem a alíquota barra Valor do I C M S.
+
+32
+00:02:17.270 --> 00:02:20.783
+Interno que deveria ser recolhido a partir dali,
+
+33
+00:02:20.794 --> 00:02:26.824
+você vai encontrar o seu diferencial de alíquota da seguinte forma por C M S Alíquota
+
+34
+00:02:26.833 --> 00:02:33.253
+interestadual menos o valor de I C M S sobre a alíquota interna a partir dali.
+
+35
+00:02:33.264 --> 00:02:33.744
+Então,
+
+36
+00:02:33.753 --> 00:02:39.063
+significa dizer que o diferencial de alíquota que você tem efetivamente a
+
+37
+00:02:39.074 --> 00:02:43.554
+ser recolhido é cento e quarenta e seis e trinta e quatro.
+
+38
+00:02:43.563 --> 00:02:45.384
+Você perceba que, então,
+
+39
+00:02:45.393 --> 00:02:50.848
+o diferencial de alíquota ele entra na base de cálculo do I C M, s s?
+
+40
+00:02:50.858 --> 00:02:50.927
+T?
+
+41
+00:02:50.938 --> 00:02:54.888
+Esta é a dinâmica que está pronta a planilha a
+
+42
+00:02:54.897 --> 00:02:58.727
+demonstrar a você sobre essa perspectiva então de cálculo,
+
+43
+00:02:58.738 --> 00:03:02.647
+uma vez que você preencheu todos esses campos aqui que não foram muitos,
+
+44
+00:03:02.658 --> 00:03:05.727
+inclusive eu desenvolvi ao lado,
+
+45
+00:03:05.738 --> 00:03:10.167
+planilha que está aqui sendo reproduzida pra vocês,
+
+46
+00:03:10.177 --> 00:03:16.912
+que é uma DANF tudo o que vocês naquela aba naquela vai vir automaticamente pra você.
+
+47
+00:03:16.921 --> 00:03:20.912
+Olha que coisa interessante que automaticamente chega automaticamente
+
+48
+00:03:20.921 --> 00:03:23.871
+a sua nota fiscal será nesses moldes dois
+
+49
+00:03:23.882 --> 00:03:26.832
+mil reais vai ser a sua base de cálculo para o I c m s próprio.
+
+50
+00:03:26.841 --> 00:03:30.511
+O valor de C M s interestadual é o valor de duzentos e quarenta.
+
+51
+00:03:30.522 --> 00:03:34.552
+Qual é a sua base de cálculo aplicada na substituição tributária?
+
+52
+00:03:34.561 --> 00:03:39.171
+Nessa circunstância de diferencial de alíquota dois mil cento e quarenta
+
+53
+00:03:39.182 --> 00:03:43.016
+e cinco seis vírgula trinta e quatro já foi preenchido automático?
+
+54
+00:03:43.026 --> 00:03:46.255
+Qual o valor que deve ser preenchido do valor do C M,
+
+55
+00:03:46.266 --> 00:03:49.895
+S S T cento e quarenta e seis e trinta e quatro centavos?
+
+56
+00:03:49.906 --> 00:03:52.335
+Qual é o valor do produto? Já coloquei dois mil.
+
+57
+00:03:52.345 --> 00:03:54.936
+Qual o valor total do seu documento fiscal?
+
+58
+00:03:54.945 --> 00:03:59.656
+Dois mil cento e quarenta e seis vírgula trinta e quatro notinha
+
+59
+00:03:59.666 --> 00:04:05.216
+já tá preenchida automaticamente Simula o cálculo após feito esse movimento,
+
+60
+00:04:05.225 --> 00:04:07.259
+você tem uma da preenchida.
+
+61
+00:04:07.270 --> 00:04:09.720
+E olha que coisa legal que eu fiz também aqui pessoal,
+
+62
+00:04:09.729 --> 00:04:14.339
+eu coloquei também informações aqui no descritivo que dá espaço
+
+63
+00:04:14.350 --> 00:04:16.678
+pra você colocar a descrição do da sua mercadoria.
+
+64
+00:04:16.690 --> 00:04:22.040
+Qual é a sua n c M? Qual é o C s T? Praticado a quantidade?
+
+65
+00:04:22.048 --> 00:04:26.200
+Eu também fiz uma fórmula automática Na medida em que você muda a quantidade,
+
+66
+00:04:26.209 --> 00:04:30.200
+também muda o valor unitário, o valor total do produto.
+
+67
+00:04:30.209 --> 00:04:30.920
+E além disso,
+
+68
+00:04:30.929 --> 00:04:36.023
+eu coloquei aqui bonitinho em informações complementares que já vem automático,
+
+69
+00:04:36.033 --> 00:04:38.343
+qual é a base de cálculo do I C M S S T.
+
+70
+00:04:38.354 --> 00:04:41.463
+Assim como o valor dessa diferença de alíquota e deixei um campo
+
+71
+00:04:41.473 --> 00:04:46.063
+reservado pra você colocar qual é a base legal daquela operação?
+
+72
+00:04:46.074 --> 00:04:51.584
+Afinal de contas, não sei exatamente qual seria a sua tributação.
+
+73
+00:04:51.593 --> 00:04:53.264
+Então, meus amigos, essa planilha,
+
+74
+00:04:53.273 --> 00:04:59.324
+tem então esse desejo e tem o objetivo levar pra você essa dinâmica de cálculo

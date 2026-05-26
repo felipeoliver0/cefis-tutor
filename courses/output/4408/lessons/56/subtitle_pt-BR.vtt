@@ -1,0 +1,557 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.599
+E para isso, pessoal, para ficar mais claro, eu fiz uma simulação do lucro presumido
+
+3
+00:00:05.599 --> 00:00:10.960
+e depois eu vou mostrar para vocês como a gente transporta isso para dentro da ECF.
+
+4
+00:00:11.519 --> 00:00:14.359
+Olha que interessante, como é que isso vai aparecer na ECF?
+
+5
+00:00:14.640 --> 00:00:17.140
+Por que eu tenho um cruzamento de informações lá dentro?
+
+6
+00:00:17.559 --> 00:00:20.699
+Trouxe aqui para o nosso treinamento justamente para você não ficar com dúvida.
+
+7
+00:00:21.460 --> 00:00:24.399
+Vamos lá um exemplo prático, que esse eu já resolvi.
+
+8
+00:00:25.100 --> 00:00:27.420
+Poderia ter trazido como exercício para vocês.
+
+9
+00:00:27.420 --> 00:00:30.539
+Vocês já estão plenamente capacitados.
+
+10
+00:00:30.600 --> 00:00:35.899
+Nós estamos na metade da nossa aula, exatamente na metade, e vocês já estão capacitados.
+
+11
+00:00:35.939 --> 00:00:38.079
+Mas temos mais, muito mais informações ainda.
+
+12
+00:00:38.939 --> 00:00:41.039
+Então vamos lá, o nosso exemplo aqui.
+
+13
+00:00:41.219 --> 00:00:46.420
+Olha lá, eu tenho aqui exemplo prático do cálculo do lucro presumido.
+
+14
+00:00:47.000 --> 00:00:51.320
+Aqui ficou bacana que a tela está pretinha, está todo mundo enxergando completamente, né?
+
+15
+00:00:51.880 --> 00:00:55.159
+Pessoal aqui da CEFIS, nosso suporte é sensacional, deixa tudo bonitinho.
+
+16
+00:00:55.159 --> 00:00:57.159
+Então nós temos lá resultados.
+
+17
+00:00:57.420 --> 00:01:00.200
+Estado do primeiro trimestre de 2025.
+
+18
+00:01:00.799 --> 00:01:03.399
+Venda de produtos com IPI, 550 mil.
+
+19
+00:01:03.700 --> 00:01:06.079
+Está lá o total da minha nota com IPI, 550 mil.
+
+20
+00:01:06.739 --> 00:01:08.180
+Venda de serviços, 100 mil.
+
+21
+00:01:08.840 --> 00:01:10.900
+IPI sobre venda, 50 mil.
+
+22
+00:01:11.760 --> 00:01:14.739
+Ganho pela venda do bem de imobilizado, 6 mil.
+
+23
+00:01:15.079 --> 00:01:17.280
+Rendimento de aplicações de renda fixa, 2 mil.
+
+24
+00:01:17.640 --> 00:01:20.439
+São temas que eu abordei ao longo da nossa aula, todos eles.
+
+25
+00:01:20.980 --> 00:01:24.019
+Então nós já estamos tranquilos, não é novidade para ninguém.
+
+26
+00:01:24.019 --> 00:01:26.920
+O que é que nós temos? Vamos apurar o lucro presumido.
+
+27
+00:01:27.420 --> 00:01:33.159
+Primeiro o imposto de renda, 550, tenho que excluir o IPI, lembra?
+
+28
+00:01:33.340 --> 00:01:34.099
+Nós comentamos?
+
+29
+00:01:34.719 --> 00:01:39.579
+Menos o IPI de 50 mil, ou seja, vai ficar 500 mil, vezes 8.
+
+30
+00:01:39.719 --> 00:01:46.239
+40 mil é o meu lucro presumido da atividade de produtor, comércio.
+
+31
+00:01:46.920 --> 00:01:52.560
+Como a empresa também tem venda de serviço, eu vou aplicar 32%.
+
+32
+00:01:52.560 --> 00:01:55.500
+É a base para o serviço.
+
+33
+00:01:56.500 --> 00:01:56.599
+Né?
+
+34
+00:01:56.599 --> 00:01:59.200
+Serviço, o imposto de renda, 32.
+
+35
+00:01:59.480 --> 00:02:02.659
+Então, a minha base, 100 mil vezes 32, 32 mil.
+
+36
+00:02:03.079 --> 00:02:08.900
+Então eu tenho o meu lucro presumido da atividade principal, 72 mil reais.
+
+37
+00:02:09.300 --> 00:02:13.659
+Agora, eu sou obrigado a acrescentar todas as demais receitas.
+
+38
+00:02:14.159 --> 00:02:19.719
+No nosso caso, é ganho de capital de 6 mil, renda com aplicações de renda fixa de 2 mil.
+
+39
+00:02:20.280 --> 00:02:25.300
+Portanto, o lucro presumido do trimestre foi 80 mil reais.
+
+40
+00:02:25.300 --> 00:02:26.439
+Vamos calcular?
+
+41
+00:02:26.599 --> 00:02:27.340
+Os impostos?
+
+42
+00:02:27.819 --> 00:02:30.740
+80 vezes 15%, 12 mil.
+
+43
+00:02:31.240 --> 00:02:32.099
+Deu adicional?
+
+44
+00:02:32.419 --> 00:02:32.759
+Deu.
+
+45
+00:02:33.259 --> 00:02:35.240
+80 menos 60, 20.
+
+46
+00:02:35.340 --> 00:02:36.860
+Vezes 10%, 2.
+
+47
+00:02:37.439 --> 00:02:38.639
+Portanto, 2.
+
+48
+00:02:39.080 --> 00:02:46.379
+Com mais 12 do principal, 14 é o meu total de imposto de renda e contribuição social.
+
+49
+00:02:47.080 --> 00:02:48.659
+Do meu imposto de renda e adicional.
+
+50
+00:02:49.060 --> 00:02:49.199
+Entendeu?
+
+51
+00:02:49.979 --> 00:02:51.259
+E aí nós temos?
+
+52
+00:02:51.860 --> 00:02:52.699
+Tem compensação?
+
+53
+00:02:52.879 --> 00:02:53.099
+Tem.
+
+54
+00:02:53.240 --> 00:02:53.620
+Por quê?
+
+55
+00:02:53.620 --> 00:02:56.520
+Porque teve imposto de renda retido nas notas.
+
+56
+00:02:56.599 --> 00:02:58.740
+Fiscais, hipoteticamente, de 90 reais.
+
+57
+00:02:59.240 --> 00:03:03.120
+E tivemos imposto de renda retido sob aplicação de 300 reais.
+
+58
+00:03:03.759 --> 00:03:10.860
+Portanto, o imposto de renda a pagar no trimestre, 13.610.
+
+59
+00:03:11.620 --> 00:03:12.620
+É assim que funciona.
+
+60
+00:03:13.139 --> 00:03:17.180
+Que eu vou preencher o DARF no código 2089, lá no campo 4.
+
+61
+00:03:17.599 --> 00:03:23.099
+E recolher, como esse é o primeiro trimestre, recolho até 30 de abril.
+
+62
+00:03:23.860 --> 00:03:25.319
+Entenderam como é que nós calculamos?
+
+63
+00:03:25.319 --> 00:03:26.219
+Ou seja,
+
+64
+00:03:26.599 --> 00:03:31.699
+estamos fazendo aqui uma inconsolidade de tudo o que nós falamos na nossa aula até agora.
+
+65
+00:03:32.259 --> 00:03:33.240
+O que falta agora?
+
+66
+00:03:33.539 --> 00:03:35.620
+Calcular a contribuição social.
+
+67
+00:03:35.960 --> 00:03:36.400
+Olha lá.
+
+68
+00:03:37.180 --> 00:03:38.680
+O cálculo do mesmo jeito.
+
+69
+00:03:39.199 --> 00:03:44.860
+Vou excluir os 50 mil do IPI, os 550 da receita menos IPI,
+
+70
+00:03:45.099 --> 00:03:51.800
+e vezes 12%, que é a base de presunção para a contribuição social de comércio, de produtos.
+
+71
+00:03:51.800 --> 00:03:53.500
+O serviço foi 100 mil.
+
+72
+00:03:53.580 --> 00:03:55.319
+A base para o serviço?
+
+73
+00:03:55.319 --> 00:03:57.520
+O serviço do imposto de renda é 32.
+
+74
+00:03:57.819 --> 00:03:59.939
+Então, temos lá 32 mil.
+
+75
+00:04:00.639 --> 00:04:04.280
+Total do lucro presumido das atividades principais, 92.
+
+76
+00:04:05.199 --> 00:04:09.620
+Vou acrescentar o ganho de capital, vou acrescentar o rendimento de aplicações financeiras,
+
+77
+00:04:10.139 --> 00:04:11.360
+base de cálculo 100 mil.
+
+78
+00:04:12.039 --> 00:04:17.540
+Portanto, como a contribuição é 9%, 9% de 100 mil, 9 mil.
+
+79
+00:04:18.060 --> 00:04:21.120
+Contribuição social não tem adicional.
+
+80
+00:04:21.879 --> 00:04:23.079
+É apenas 9%.
+
+81
+00:04:23.079 --> 00:04:24.259
+Apenas não, é muito, né?
+
+82
+00:04:24.259 --> 00:04:30.420
+E aí, hipoteticamente, a empresa teve uma contribuição retida na nota fiscal.
+
+83
+00:04:30.920 --> 00:04:31.139
+Quanto?
+
+84
+00:04:31.220 --> 00:04:32.000
+60 reais.
+
+85
+00:04:32.779 --> 00:04:38.100
+Portanto, ela vai ter uma contribuição social a pagar de 8.940.
+
+86
+00:04:38.480 --> 00:04:43.939
+Que nós vamos preencher o DARF lá no campo 4 com o código 2372.
+
+87
+00:04:45.220 --> 00:04:46.100
+Entenderam aí, gente?
+
+88
+00:04:46.459 --> 00:04:47.300
+Show de bola, né?
+
+89
+00:04:47.660 --> 00:04:49.180
+É assim que nós calculamos.
+
+90
+00:04:49.180 --> 00:04:53.019
+Vocês viram que não é difícil, mas eu preciso estar atento.
+
+91
+00:04:53.180 --> 00:04:54.180
+Excluir o IPI.
+
+92
+00:04:54.259 --> 00:04:58.740
+Calcular, fazer o percentual de mercadoria, fazer o percentual de serviço,
+
+93
+00:04:58.819 --> 00:05:02.319
+aplicar as alíquotas, depois aplicar o que foi retido,
+
+94
+00:05:02.759 --> 00:05:06.259
+conferir se o que foi retido está contabilizado lá no nosso ativo circulante.
+
+95
+00:05:07.319 --> 00:05:08.639
+Tudo certinho, conciliado.
+
+96
+00:05:09.019 --> 00:05:10.379
+As coisas têm que se encaixar.
+
+97
+00:05:10.939 --> 00:05:12.199
+Por que se encaixar?
+
+98
+00:05:12.540 --> 00:05:17.839
+Porque a Receita Federal tem o cruzamento dessas informações, como nós vamos ver.
+
+99
+00:05:18.540 --> 00:05:19.740
+O que ela quer enxergar?
+
+100
+00:05:19.740 --> 00:05:23.740
+Se você disse a ela que são essas contas que estão compondo,
+
+101
+00:05:24.259 --> 00:05:26.920
+que são da tua base de cálculo, ela vai verificar se isso é verídico.
+
+102
+00:05:27.279 --> 00:05:30.519
+Será que não tem nenhuma receita financeira que você deixou por fora?
+
+103
+00:05:30.839 --> 00:05:33.699
+Alguma outra receita que você deixou por fora porque não queria pagar imposto?
+
+104
+00:05:34.360 --> 00:05:35.379
+Ela tem essas informações.
+
+105
+00:05:36.240 --> 00:05:38.279
+E ela bate o olho aonde?
+
+106
+00:05:38.439 --> 00:05:39.360
+No total a pagar.
+
+107
+00:05:40.420 --> 00:05:45.399
+Então, primeiro você tem isso na contabilidade, já contabilizado, que você tem a pagar.
+
+108
+00:05:46.079 --> 00:05:47.459
+Depois você tem um DARF.
+
+109
+00:05:48.000 --> 00:05:49.579
+Depois você tem uma DCTF.
+
+110
+00:05:50.040 --> 00:05:53.180
+Depois você vai ter a ECD que vai confirmar tudo isso.
+
+111
+00:05:53.180 --> 00:05:54.180
+E por final vai ter...
+
+112
+00:05:54.259 --> 00:05:56.920
+Vai ter um cruzamento na ECF para ver se isso é verdade.
+
+113
+00:05:56.920 --> 00:05:58.920
+Ela quer saber se você pagou o que você devia.
+
+114
+00:05:58.920 --> 00:06:00.920
+Se você calculou correto, se você pagou.
+
+115
+00:06:00.920 --> 00:06:04.920
+Então, você viu que em cinco obrigações ela vai te cercar.
+
+116
+00:06:04.920 --> 00:06:08.259
+Se alguma delas der divergência, ela pode abrir uma notificação.
+
+117
+00:06:08.259 --> 00:06:11.259
+Então, compete a gente a verificar se tudo bateu.
+
+118
+00:06:11.259 --> 00:06:17.259
+Se o que eu contabilizei é o que eu coloquei no DARF, é o que eu coloquei na DCTF,
+
+119
+00:06:17.259 --> 00:06:21.639
+é o que efetivamente eu recolhi que depois eu vou transportar na ECD e na ECF.
+
+120
+00:06:21.639 --> 00:06:23.839
+Entenderam a importância dessa parte fiscal?
+
+121
+00:06:23.839 --> 00:06:24.240
+Entenderam a importância dessa parte fiscal?
+
+122
+00:06:24.240 --> 00:06:27.480
+Em fechar os lançamentos contábeis, fechar as transações?
+
+123
+00:06:27.480 --> 00:06:29.480
+Porque tudo isso vai ser checado.
+
+124
+00:06:29.480 --> 00:06:33.819
+Obviamente, essa checagem está toda de maneira eletrônica.
+
+125
+00:06:33.819 --> 00:06:35.399
+Não tem intervenção humana.
+
+126
+00:06:35.399 --> 00:06:38.240
+São robozinhos da Receita Federal.
+
+127
+00:06:38.240 --> 00:06:39.660
+Ainda mais agora, né, gente?
+
+128
+00:06:39.660 --> 00:06:43.579
+Com a inteligência artificial, eles botam para quebrar mesmo.
+
+129
+00:06:43.579 --> 00:06:45.079
+Porque o objetivo é arrecadar.
+
+130
+00:06:45.079 --> 00:06:47.279
+E a cada ano se arrecada mais.
+
+131
+00:06:47.279 --> 00:06:49.319
+Cada ano se arrecada mais.
+
+132
+00:06:49.319 --> 00:06:52.399
+Pena que ele não volta para a sociedade plenamente.
+
+133
+00:06:52.399 --> 00:06:53.620
+Temos aí...
+
+134
+00:06:53.620 --> 00:06:57.819
+Orçamento secreto, emenda não sei o que lá, aquelas papagaiadas.
+
+135
+00:06:57.819 --> 00:07:00.620
+Aumento de salário deles, essa coisa aí.
+
+136
+00:07:00.620 --> 00:07:01.420
+Entenderam?
+
+137
+00:07:01.420 --> 00:07:04.160
+Independente de bandeiras aí.
+
+138
+00:07:04.160 --> 00:07:06.079
+Vocês entenderam como é que funciona?
+
+139
+00:07:06.079 --> 00:07:10.819
+Então vamos ver agora como isso aqui é cruzado lá na ECF.
+
+140
+00:07:10.819 --> 00:07:11.740
+Olha só.

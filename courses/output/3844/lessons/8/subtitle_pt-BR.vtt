@@ -1,0 +1,653 @@
+WEBVTT
+
+1
+00:00:00.159 --> 00:00:02.519
+Vamos falar de conceitos práticos agora.
+
+2
+00:00:02.599 --> 00:00:04.400
+Então agora que a gente vê uma parte conceitual,
+
+3
+00:00:04.719 --> 00:00:06.860
+vamos para os conceitos práticos.
+
+4
+00:00:07.579 --> 00:00:11.149
+Eu vou mostrar para vocês como funciona o Mhe tá Então acho que
+
+5
+00:00:12.119 --> 00:00:13.760
+vamos abrir aí essa lacuna.
+
+6
+00:00:13.880 --> 00:00:15.520
+Vamos ver como funciona em tela.
+
+7
+00:00:15.640 --> 00:00:16.520
+Aguarde um momento.
+
+8
+00:00:17.530 --> 00:00:18.110
+Bom,
+
+9
+00:00:18.620 --> 00:00:19.250
+Então vamos,
+
+10
+00:00:20.250 --> 00:00:21.600
+vamos dar uma olhada aí
+
+11
+00:00:22.209 --> 00:00:23.129
+onde está o MIT?
+
+12
+00:00:23.610 --> 00:00:26.040
+Como que funciona aí a declaração
+
+13
+00:00:26.530 --> 00:00:28.879
+Vou apresentar em tela aqui para vocês tá
+
+14
+00:00:29.290 --> 00:00:31.420
+Onde que fica o módulo integral de tributo.
+
+15
+00:00:31.450 --> 00:00:33.560
+Você vai aqui em declaração e demonstrativos.
+
+16
+00:00:34.720 --> 00:00:35.869
+em DCTF
+
+17
+00:00:36.180 --> 00:00:38.040
+você tem que assinar
+
+18
+00:00:38.319 --> 00:00:40.360
+e transmitir ao DCTF web,
+
+19
+00:00:40.599 --> 00:00:41.869
+Então você vai abrir aqui.
+
+20
+00:00:42.560 --> 00:00:43.830
+e já vai carregar
+
+21
+00:00:43.959 --> 00:00:45.330
+a DCTF web
+
+22
+00:00:45.560 --> 00:00:46.270
+tá Então
+
+23
+00:00:46.759 --> 00:00:49.830
+que para quem já está acostumado a entrega da DCTF web,
+
+24
+00:00:50.319 --> 00:00:51.909
+você tem aqui os filtros,
+
+25
+00:00:51.959 --> 00:00:56.069
+a declaração aqui vai aparecer as relações de declaração que você já entregou.
+
+26
+00:00:57.330 --> 00:00:59.830
+E aqui nesse botão aqui pessoal que você
+
+27
+00:00:59.830 --> 00:01:03.419
+vai no módulo de inclus- inclusão de tributos.
+
+28
+00:01:04.470 --> 00:01:05.300
+É aqui
+
+29
+00:01:05.470 --> 00:01:07.180
+que você vai fazer
+
+30
+00:01:07.629 --> 00:01:09.139
+a sua devida
+
+31
+00:01:09.300 --> 00:01:10.029
+apuração.
+
+32
+00:01:10.190 --> 00:01:10.529
+Tá?
+
+33
+00:01:11.389 --> 00:01:11.750
+Ah,
+
+34
+00:01:11.989 --> 00:01:12.910
+um ponto importante.
+
+35
+00:01:13.019 --> 00:01:15.910
+Se você tem algum sistema que faça isso automático,
+
+36
+00:01:16.029 --> 00:01:18.629
+tem algumas instruções de importação.
+
+37
+00:01:18.849 --> 00:01:19.510
+Tá Então.
+
+38
+00:01:19.589 --> 00:01:21.860
+Depois você pode consultar a documentação
+
+39
+00:01:22.430 --> 00:01:25.709
+para conseguir fazer isso de uma forma importada dinâmica.
+
+40
+00:01:25.790 --> 00:01:26.059
+Tá.
+
+41
+00:01:26.760 --> 00:01:28.769
+ou você pode vir aqui manualmente nova apuração.
+
+42
+00:01:32.110 --> 00:01:33.620
+se vai selecionar o período.
+
+43
+00:01:34.790 --> 00:01:34.809
+Tano.
+
+44
+00:01:36.519 --> 00:01:39.000
+E aí pode ter um evento especial como cisão,
+
+45
+00:01:39.160 --> 00:01:40.099
+incorporação,
+
+46
+00:01:40.360 --> 00:01:41.000
+por exemplo,
+
+47
+00:01:41.120 --> 00:01:42.709
+tal ou encerramento de empresa.
+
+48
+00:01:44.290 --> 00:01:45.279
+eh Aqui.
+
+49
+00:01:45.370 --> 00:01:48.209
+Ele já está dizendo já existe uma apuração e edição para janeiro.
+
+50
+00:01:48.690 --> 00:01:51.050
+Deseja retomar o preenchimento Eu Vou pôr sim,
+
+51
+00:01:51.120 --> 00:01:51.440
+tá.
+
+52
+00:01:52.169 --> 00:01:54.690
+E aí você vai informar os dados in- iniciais.
+
+53
+00:01:55.910 --> 00:01:56.510
+Quem tá
+
+54
+00:01:56.949 --> 00:01:58.940
+estava acostumado com a DCTF
+
+55
+00:01:59.190 --> 00:02:01.839
+é uma são informações muito parecidas com o que tinha lá
+
+56
+00:02:02.550 --> 00:02:03.470
+PJ em geral,
+
+57
+00:02:03.739 --> 00:02:06.930
+qual é o regime de reconhecimento das variações monetárias,
+
+58
+00:02:07.709 --> 00:02:09.350
+Forma de tributação do lucro,
+
+59
+00:02:09.910 --> 00:02:11.740
+forma de apuração do PIS e COFINS.
+
+60
+00:02:12.589 --> 00:02:17.020
+Você vai informar aqui os dados do responsável pelo preenchimento Tá
+
+61
+00:02:17.740 --> 00:02:19.179
+estão aqui os dados da empresa.
+
+62
+00:02:20.830 --> 00:02:20.949
+E.
+
+63
+00:02:20.990 --> 00:02:23.300
+Aí você vai para a inclusão dos débitos
+
+64
+00:02:23.869 --> 00:02:25.899
+e aí a inclusão dos débitos.
+
+65
+00:02:26.800 --> 00:02:31.009
+Ele tem uma dinâmica muito parecida com a DCTF web da com a DCTF tradicional,
+
+66
+00:02:31.080 --> 00:02:31.470
+que é
+
+67
+00:02:31.960 --> 00:02:34.720
+incluir o débito de RPJ CSLL.
+
+68
+00:02:35.080 --> 00:02:36.520
+Ele divide por tributo.
+
+69
+00:02:37.199 --> 00:02:38.600
+Aí você vai incluir um débito,
+
+70
+00:02:38.679 --> 00:02:39.279
+por exemplo.
+
+71
+00:02:40.750 --> 00:02:40.910
+E.
+
+72
+00:02:40.949 --> 00:02:42.949
+Aí você vai informar aqui o valor do débito,
+
+73
+00:02:43.029 --> 00:02:43.100
+né?
+
+74
+00:02:43.149 --> 00:02:44.740
+Qual que é o código de receita.
+
+75
+00:02:46.169 --> 00:02:47.809
+e colocar aqui um qualquer.
+
+76
+00:02:49.800 --> 00:02:51.360
+Qual é o valor do débito.
+
+77
+00:02:51.550 --> 00:02:51.910
+Tá.
+
+78
+00:02:54.839 --> 00:02:56.440
+E aí você vai impor por valor,
+
+79
+00:02:56.520 --> 00:02:56.690
+né?
+
+80
+00:02:56.699 --> 00:02:56.910
+Que
+
+81
+00:02:57.399 --> 00:02:59.259
+10000 BRL 100000 BRL.
+
+82
+00:03:01.070 --> 00:03:01.740
+Confirma.
+
+83
+00:03:03.000 --> 00:03:03.589
+Beleza
+
+84
+00:03:03.720 --> 00:03:04.710
+declarou aqui
+
+85
+00:03:05.229 --> 00:03:07.039
+o valor do débito o valor suspenso.
+
+86
+00:03:07.050 --> 00:03:08.699
+Ele vai gerar um saldo a pagar
+
+87
+00:03:09.050 --> 00:03:10.360
+Esse saldo a pagar.
+
+88
+00:03:10.679 --> 00:03:12.639
+Quando você entregar a CTF Web,
+
+89
+00:03:12.759 --> 00:03:14.270
+vai gerar a guia de recolhimento.
+
+90
+00:03:15.910 --> 00:03:18.039
+Isso você vai fazendo para todos os tributos,
+
+91
+00:03:18.169 --> 00:03:19.940
+como você fazia anteriormente.
+
+92
+00:03:21.220 --> 00:03:21.610
+na
+
+93
+00:03:22.029 --> 00:03:22.330
+eh
+
+94
+00:03:23.179 --> 00:03:24.619
+na DCTF tradicional
+
+95
+00:03:24.940 --> 00:03:27.529
+incluiu incorretamente você pode vir aqui.
+
+96
+00:03:28.649 --> 00:03:30.720
+selecionar excluir o débito tá
+
+97
+00:03:31.059 --> 00:03:32.399
+E aí você vai fazer.
+
+98
+00:03:33.199 --> 00:03:34.639
+toda essa declaração.
+
+99
+00:03:35.160 --> 00:03:37.149
+Outro ponto aqui suspensão
+
+100
+00:03:37.440 --> 00:03:39.309
+Você tem algum tipo de suspensão
+
+101
+00:03:39.899 --> 00:03:42.619
+que que é uma suspensão Você pode ter uma suspensão de um
+
+102
+00:03:42.619 --> 00:03:47.240
+de exigência de um tributo por a- por decisão administrativa ou judicial
+
+103
+00:03:47.759 --> 00:03:48.990
+Você vai colocar aqui
+
+104
+00:03:49.679 --> 00:03:51.229
+motivo da suspensão
+
+105
+00:03:51.759 --> 00:03:52.940
+e o número do processo.
+
+106
+00:03:53.160 --> 00:03:53.630
+Tá
+
+107
+00:03:54.110 --> 00:03:56.460
+Que se essa é uma ação de contribuinte ou do terceiro
+
+108
+00:03:56.919 --> 00:03:58.800
+E aí você vai em vincular
+
+109
+00:03:59.000 --> 00:04:01.869
+o a suspensão ao determinado tributo.
+
+110
+00:04:02.080 --> 00:04:02.440
+Tá bom.
+
+111
+00:04:03.320 --> 00:04:03.720
+Ah,
+
+112
+00:04:04.160 --> 00:04:06.399
+tão bem simples aqui a declaração muito
+
+113
+00:04:06.399 --> 00:04:08.669
+parecida com o que tinha anteriormente na DCTF
+
+114
+00:04:09.199 --> 00:04:10.639
+Aqui é um campo de pendências,
+
+115
+00:04:10.800 --> 00:04:11.589
+então ele forma.
+
+116
+00:04:12.119 --> 00:04:14.399
+Ele é muito parecido com aquele campo de pendências
+
+117
+00:04:14.399 --> 00:04:16.600
+da declaração de ajuste anual do Imposto de Renda,
+
+118
+00:04:17.000 --> 00:04:19.670
+em que ele vai mostrar todas as pendências que se tem
+
+119
+00:04:20.160 --> 00:04:21.269
+e aqui o encerramento.
+
+120
+00:04:22.540 --> 00:04:22.779
+Então.
+
+121
+00:04:23.019 --> 00:04:24.089
+Vejam que aqui
+
+122
+00:04:24.579 --> 00:04:26.760
+a dinâmica de preenchimento é bem tranquila,
+
+123
+00:04:27.019 --> 00:04:27.290
+né?
+
+124
+00:04:27.619 --> 00:04:30.329
+Qual é o grande desafio O desafio é de fato você
+
+125
+00:04:30.540 --> 00:04:33.429
+lidar com toda essa essa obrigação e
+
+126
+00:04:33.890 --> 00:04:35.260
+essa nova dinâmica,
+
+127
+00:04:35.299 --> 00:04:37.279
+esses novos prazos e et cetera
+
+128
+00:04:37.510 --> 00:04:39.730
+é um ponto que eu vou comentar já já aqui com vocês.
+
+129
+00:04:40.450 --> 00:04:40.690
+Ah,
+
+130
+00:04:40.769 --> 00:04:44.260
+mas e compensação Como que eu vou informar Isso você vai informar
+
+131
+00:04:44.570 --> 00:04:45.820
+na DCTF web
+
+132
+00:04:46.089 --> 00:04:48.579
+Ah então na DCTF web que você vai informar
+
+133
+00:04:48.890 --> 00:04:50.600
+as compensações que você tem,
+
+134
+00:04:50.970 --> 00:04:52.679
+as compensações que você vai fazer
+
+135
+00:04:52.970 --> 00:04:53.880
+é até porque
+
+136
+00:04:54.339 --> 00:04:55.350
+quando você
+
+137
+00:04:55.980 --> 00:04:58.380
+Aqui a gente está mudando um pouco a dinâmica porque
+
+138
+00:04:58.910 --> 00:05:00.679
+você
+
+139
+00:05:01.049 --> 00:05:01.059
+eh,
+
+140
+00:05:01.179 --> 00:05:03.029
+você tem uma da uma
+
+141
+00:05:03.380 --> 00:05:04.049
+compensação,
+
+142
+00:05:04.140 --> 00:05:05.690
+você vai importar direto
+
+143
+00:05:06.100 --> 00:05:07.299
+da perde Compi Web.
+
+144
+00:05:07.859 --> 00:05:09.609
+Isso é uma coisa interessante também
+
+145
+00:05:10.059 --> 00:05:10.920
+porque agora
+
+146
+00:05:11.100 --> 00:05:13.540
+modo integrado de tributos esse CTF web perde
+
+147
+00:05:13.540 --> 00:05:15.730
+Compre Web as co- as coisas se conversam.
+
+148
+00:05:16.410 --> 00:05:18.559
+O que está pago também vai ser
+
+149
+00:05:18.730 --> 00:05:21.619
+importado na DCTF na DCTF Web.
+
+150
+00:05:22.290 --> 00:05:24.799
+Então Quando você consolidar sua DCTF web,
+
+151
+00:05:25.089 --> 00:05:27.769
+você vai trazer as compensações que você gerou via parte de Compra Web
+
+152
+00:05:29.160 --> 00:05:30.839
+a os pagamentos que você realizou.
+
+153
+00:05:31.170 --> 00:05:34.609
+O que sobrar é o saldo que você vai ter a recolher de DCTF Web.
+
+154
+00:05:35.010 --> 00:05:35.500
+Tá bom
+
+155
+00:05:35.850 --> 00:05:36.200
+Então
+
+156
+00:05:36.730 --> 00:05:38.109
+a dinâmica é bem tranquila.
+
+157
+00:05:38.170 --> 00:05:39.359
+Eu acho que
+
+158
+00:05:39.730 --> 00:05:41.329
+isso não é 11
+
+159
+00:05:41.489 --> 00:05:42.410
+muito segredo,
+
+160
+00:05:42.489 --> 00:05:42.720
+né?
+
+161
+00:05:43.049 --> 00:05:46.200
+Ela é muito parecida com o que se tinha anteriormente de CTF,
+
+162
+00:05:46.730 --> 00:05:48.369
+mas tem alguns pontos de atenção,
+
+163
+00:05:48.730 --> 00:05:50.869
+que é os pontos que eu vou explorar com vocês agora.

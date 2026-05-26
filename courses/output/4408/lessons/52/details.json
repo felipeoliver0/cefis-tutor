@@ -1,0 +1,33 @@
+{
+  "id": 486218,
+  "title": "Venda de ativo imobilizado - Parte 2",
+  "position": 52,
+  "duration": 418,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c3bf3811-16d4-46f0-aafb-55a770625112/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3bf3811-16d4-46f0-aafb-55a770625112/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3bf3811-16d4-46f0-aafb-55a770625112/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3bf3811-16d4-46f0-aafb-55a770625112/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3bf3811-16d4-46f0-aafb-55a770625112/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

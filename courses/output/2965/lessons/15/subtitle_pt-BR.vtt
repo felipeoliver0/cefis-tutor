@@ -1,0 +1,329 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.629
+pessoal. Agora. Eu trouxe pra vocês, né?
+
+2
+00:00:01.639 --> 00:00:06.300
+Exemplo de preenchimento na nota fiscal, eletrônica, tá como eu mostrei pra vocês.
+
+3
+00:00:06.309 --> 00:00:10.699
+A gente tem dois campos na nota fiscal eletrônica O C A tá que aqui na descrição,
+
+4
+00:00:10.710 --> 00:00:13.020
+fala que é o GTIN o global trade, né?
+
+5
+00:00:13.029 --> 00:00:16.040
+Do produto, né? O do artigo e a tá!
+
+6
+00:00:16.629 --> 00:00:20.899
+E eu tenho também no layout da nota fiscal eletrônico O campo C e A. Tribe, né?
+
+7
+00:00:20.909 --> 00:00:25.260
+O código é tributado no campo C e a tá?
+
+8
+00:00:25.270 --> 00:00:28.319
+É um campo de preenchimento obrigatório para os produtos que tem GTIN.
+
+9
+00:00:28.329 --> 00:00:30.559
+Eu expliquei pra vocês que tem produtos que não tem GTIN.
+
+10
+00:00:30.569 --> 00:00:33.540
+Tem produtos que simplesmente não tem jeito de ter jeitinho, né
+
+11
+00:00:34.159 --> 00:00:36.049
+eh não é obrigado a ter, né.
+
+12
+00:00:36.060 --> 00:00:39.090
+Vamos supor que o supermercado tem uma padaria do supermercado, Ele faz lá,
+
+13
+00:00:39.099 --> 00:00:40.069
+rosca pra vender, né?
+
+14
+00:00:40.080 --> 00:00:41.750
+Então, isso não tem que ter jeitinho.
+
+15
+00:00:41.759 --> 00:00:46.110
+O pão francês que vai comprar na padaria não tem jeitinho e nem precisa ter, né.
+
+16
+00:00:46.119 --> 00:00:47.840
+Então, mas se o produto tem jeitinho,
+
+17
+00:00:47.849 --> 00:00:52.049
+deve ser informado e vai ser informado nesse campo aqui C E a tá bem.
+
+18
+00:00:52.060 --> 00:00:55.909
+Então isso aqui é o C A da unidade de comercialização
+
+19
+00:00:55.919 --> 00:00:58.529
+Eu vou dar mais exemplos pra vocês Logo em seguida,
+
+20
+00:00:58.540 --> 00:00:58.950
+tá,
+
+21
+00:00:59.630 --> 00:01:05.160
+e a gente tem também. O C, tá. É o código da unidade, tributável, né?
+
+22
+00:01:05.169 --> 00:01:08.599
+Quando a unidade comercial for igual, a unidade comerci eh tributável!
+
+23
+00:01:08.610 --> 00:01:12.459
+Vai ser o mesmo código? Tá, mas pode ser diferente como nós vamos ver em sequência? Tá
+
+24
+00:01:13.250 --> 00:01:15.959
+então nesse campo aqui ele vai sempre o
+
+25
+00:01:15.970 --> 00:01:18.940
+GTi da menor unidade tributável para o produto.
+
+26
+00:01:18.949 --> 00:01:23.400
+Tá e vai informar sem ti. Quando não houver essa informação, tá bom!
+
+27
+00:01:24.160 --> 00:01:28.650
+Eu trouxe aqui, por exemplo, tá? Eh da lata de cerveja, tá.
+
+28
+00:01:28.660 --> 00:01:32.730
+Digamos que o supermercado é um daqueles atacarejo lá que ele vende,
+
+29
+00:01:32.739 --> 00:01:35.050
+somente a caixa fechada de cerveja e não vende unidade.
+
+30
+00:01:35.059 --> 00:01:41.970
+Tá então nesse exemplo por ex aqui que eu trouxe pra vocês no C a ele vai preencher, né?
+
+31
+00:01:41.980 --> 00:01:46.129
+Com a caixa com doze latas de cerveja, que é a unidade que ele está vendendo,
+
+32
+00:01:46.139 --> 00:01:48.269
+a unidade de comercialização TÁ
+
+33
+00:01:48.569 --> 00:01:51.339
+e no Centro Tribe tá no centro, tributável.
+
+34
+00:01:51.349 --> 00:01:55.260
+Ele vai preencher a unidade individual de lata de cerveja, né?
+
+35
+00:01:55.269 --> 00:01:58.699
+Então, é assim que funciona na nota fiscal. Eletrônica, né?
+
+36
+00:01:58.709 --> 00:02:04.099
+Quando tem eh a comercialização em um agrupado de unidades?
+
+37
+00:02:04.110 --> 00:02:06.540
+Tá como nesse caso que eu trouxe pra vocês a lata
+
+38
+00:02:06.550 --> 00:02:10.500
+de cerveja tá então no C a vai o e da caixa
+
+39
+00:02:10.508 --> 00:02:14.020
+de doze latas de cerveja e no C a Tribe vai
+
+40
+00:02:14.029 --> 00:02:17.860
+o n c o GTIN de cada latinha de cerveja individualizado.
+
+41
+00:02:17.869 --> 00:02:20.039
+Tá bom, Então vamos lá pessoal!
+
+42
+00:02:20.050 --> 00:02:24.339
+Trouxe aqui mais exemplos de preenchimento na nota fiscal eletrônica. Tá, agora!
+
+43
+00:02:24.350 --> 00:02:26.320
+A gente foi pro ketchup, Tá bom,
+
+44
+00:02:26.589 --> 00:02:31.240
+Então, digamos tá que a gente tenha a caixa de ketchup, né?
+
+45
+00:02:31.250 --> 00:02:36.600
+Eu tenho uma caixa aqui que vai, digamos, sei lá vinte embalagens de catchup.
+
+46
+00:02:36.610 --> 00:02:37.119
+Tá,
+
+47
+00:02:37.130 --> 00:02:40.080
+então esse código de barras vai ser aquele código de barras
+
+48
+00:02:40.089 --> 00:02:42.600
+que eu falei pra vocês é grupa com quatorze posições,
+
+49
+00:02:42.610 --> 00:02:43.119
+né?
+
+50
+00:02:43.130 --> 00:02:44.380
+E eu vou ter lá,
+
+51
+00:02:44.389 --> 00:02:51.020
+eh agrupado de sei lá vinte unidades de ketchup de trezentos ML cada unidade tá,
+
+52
+00:02:51.029 --> 00:02:54.339
+então é um agrupamento de vinte unidades de trezentos ML tá
+
+53
+00:02:54.779 --> 00:03:00.509
+e eu tenho, é claro, o e a da unidade de catchup com trezentos ML de ketchup.
+
+54
+00:03:00.520 --> 00:03:05.529
+Tá então eu tenho o e a do agrupa e o e a do produto final unitário lá tá bom.
+
+55
+00:03:05.539 --> 00:03:10.110
+Então na nota fiscal eletrônica, eu preencheria lá no campo C e a, né?
+
+56
+00:03:10.119 --> 00:03:11.630
+Se eu vender a caixa fechada, né?
+
+57
+00:03:11.639 --> 00:03:16.714
+Se eu vender a unidade do ketchup, o C A e o C a trip vão ter o mesmo valor.
+
+58
+00:03:16.725 --> 00:03:20.175
+Se eu vender a caixa fechada com unidade de catchup lá dentro,
+
+59
+00:03:20.184 --> 00:03:24.794
+no C a vai o agrupado e no C a Tribe vai o da unidade de ketchup.
+
+60
+00:03:24.804 --> 00:03:25.475
+Tá bom.
+
+61
+00:03:25.485 --> 00:03:27.354
+Eu trouxe aqui mais um exemplo pra gente ver,
+
+62
+00:03:27.365 --> 00:03:31.054
+né Voltando ali ao lá que a gente trouxe anteriormente tá bom.
+
+63
+00:03:31.065 --> 00:03:32.654
+No exemplo um tá,
+
+64
+00:03:32.869 --> 00:03:38.520
+ele vai comprar doze caixas de produtos e cada caixa contém nove latinhas.
+
+65
+00:03:38.529 --> 00:03:42.520
+Tá bom a forma de comercialização foi em caixas. Ele não vendeu a latinha.
+
+66
+00:03:42.529 --> 00:03:47.000
+Ele vendeu a caixa, Tá? Então a unidade tributável? É a lata, né?
+
+67
+00:03:47.009 --> 00:03:52.360
+Então, a unidade comercial Caixa universida um unidade tributável latinha.
+
+68
+00:03:52.369 --> 00:03:57.350
+Tá bom. Então, portanto, o C A será o código de barras da caixa com nove latinhas e o C.
+
+69
+00:03:57.360 --> 00:03:59.979
+Tribe, O código de barras da lata tá bom,
+
+70
+00:04:00.710 --> 00:04:04.380
+Agora eu trouxe outro exemplo. Tá pra fixar isso que a gente vem falando aqui.
+
+71
+00:04:04.389 --> 00:04:09.199
+Ele vai comprar cento e oito latinhas. Tá de forma individual. Ele vai comprar lata.
+
+72
+00:04:09.210 --> 00:04:12.520
+Ele não tá comprando caixa de lata, ele tá comprando cento e oito latinhas, né?
+
+73
+00:04:12.529 --> 00:04:15.330
+pode ser que até tá dentro da caixa, mas ele tá comercializando a latinha.
+
+74
+00:04:15.339 --> 00:04:19.329
+Ele pode eh, ele pode fazer um novo acondicionamento, pode tirar da caixa,
+
+75
+00:04:19.339 --> 00:04:20.959
+pode comprar uma latinha duas, três,
+
+76
+00:04:20.970 --> 00:04:23.739
+quatro ou cento e oito conforme ele que comprar Tá bom?
+
+77
+00:04:23.750 --> 00:04:27.000
+Então, nesse caso com comercializando a lata,
+
+78
+00:04:27.010 --> 00:04:34.660
+o C A vai ser o código g tim da lata e o C a Tribe vai ser também o código G Tim da lata Tá bom,
+
+79
+00:04:34.670 --> 00:04:36.000
+É assim que vai preencher.
+
+80
+00:04:36.010 --> 00:04:38.160
+Esses são os exemplos de preenchimento na nota fiscal
+
+81
+00:04:38.170 --> 00:04:40.720
+eletrônica e na nota fiscal do consumidor eletrônico.
+
+82
+00:04:40.730 --> 00:04:41.059
+Tá bom!

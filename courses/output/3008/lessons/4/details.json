@@ -1,0 +1,33 @@
+{
+  "id": 473219,
+  "title": "Novas regras - Artº 7 ao 10 nº12.526",
+  "position": 4,
+  "duration": 351,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9505dfce-5a15-4b7c-b3db-837b98fad8c5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9505dfce-5a15-4b7c-b3db-837b98fad8c5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9505dfce-5a15-4b7c-b3db-837b98fad8c5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9505dfce-5a15-4b7c-b3db-837b98fad8c5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9505dfce-5a15-4b7c-b3db-837b98fad8c5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 2980,
+    "title": "Lei Sarbanes Oxley (SOX)",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso sobre a Lei Sarbanes Oxley (SOX) você vai aprender, por meio de estudos de caso e vários exemplos, tópicos como:  Governança corporativa, Risco, Boas práticas de gestão, O papel da Auditoria independente, Controles internos, Ciclo de certificação SOX, Metodologia COSO, COBIT  e muitos outros pontos para colocar me prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/ff5c032a7638ac4bc8218b081a7af9cc1728385867.jpg",
+    "goals": [
+      "Demonstrar,  por meio de estudos de caso e vários exemplos,  tópicos como:  Governança corporativa, Risco, Boas práticas de gestão, O papel da Auditoria independente, Controles internos, Ciclo de certificação SOX, Metodologia COSO, COBIT  e muitos outros pontos para colocar me prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 355295,
+      "name": "TIAGO DE VASCONCELOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/869486d17f542c6dcf05d8d289ab9ed11550593587.jpg"
+    },
+    "duration": 15160,
+    "keywords": "lei sox;SOX;sarbanes oxley",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 59,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1576,
+    "averageRating": 9.29,
+    "practiceAverage": 9.23,
+    "trailer": {
+      "id": "bdfbe278-cd70-4087-8c1a-cabe95f025dc",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bdfbe278-cd70-4087-8c1a-cabe95f025dc/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bdfbe278-cd70-4087-8c1a-cabe95f025dc/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bdfbe278-cd70-4087-8c1a-cabe95f025dc/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bdfbe278-cd70-4087-8c1a-cabe95f025dc/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-11T11:21:08.000Z",
+      "updatedAt": "2024-01-11T11:21:07.000Z"
+    },
+    "crcActive": true,
+    "crcCreditHours": 9,
+    "crcScore": {
+      "id": 295,
+      "courseId": 2980,
+      "crcCode": "SP-35385",
+      "data": [
+        {
+          "name": "AUD",
+          "values": [
+            9
+          ]
+        },
+        {
+          "name": "PERITO",
+          "values": [
+            9
+          ]
+        },
+        {
+          "name": "CMN",
+          "values": [
+            9
+          ]
+        },
+        {
+          "name": "SUSEP",
+          "values": [
+            9
+          ]
+        },
+        {
+          "name": "PREVICAUD",
+          "values": [
+            9
+          ]
+        },
+        {
+          "name": "PROGP",
+          "values": [
+            9
+          ]
+        },
+        {
+          "name": "PRORT",
+          "values": [
+            9
+          ]
+        },
+        {
+          "name": "PREVIC",
+          "values": [
+            9
+          ]
+        }
+      ],
+      "year": 2026,
+      "createdAt": "2026-01-09T18:51:44.000Z",
+      "updatedAt": "2026-01-09T18:51:44.000Z"
+    },
+    "launchDate": "2024-02-05T13:51:16.000Z",
+    "recordedAt": "2023-12-20T00:00:00.000Z",
+    "createdAt": "2023-12-26T10:54:18.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 475486,
+  "title": "EFD - CONTRIBUIÇÕES",
+  "position": 26,
+  "duration": 291,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fe608b67-9e73-48b4-be60-8afeec39e7d8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe608b67-9e73-48b4-be60-8afeec39e7d8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe608b67-9e73-48b4-be60-8afeec39e7d8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe608b67-9e73-48b4-be60-8afeec39e7d8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe608b67-9e73-48b4-be60-8afeec39e7d8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

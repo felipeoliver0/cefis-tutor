@@ -1,0 +1,33 @@
+{
+  "id": 479527,
+  "title": "Plano de contas - parte 3",
+  "position": 38,
+  "duration": 204,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8cad19e6-b1d0-4b8a-a273-9d21a2557f51/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8cad19e6-b1d0-4b8a-a273-9d21a2557f51/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8cad19e6-b1d0-4b8a-a273-9d21a2557f51/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8cad19e6-b1d0-4b8a-a273-9d21a2557f51/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8cad19e6-b1d0-4b8a-a273-9d21a2557f51/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

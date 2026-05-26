@@ -1,0 +1,33 @@
+{
+  "id": 486522,
+  "title": "Incidências adicionais",
+  "position": 29,
+  "duration": 198,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/85752fbc-fbfd-465e-ba37-1a890fb8e584/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85752fbc-fbfd-465e-ba37-1a890fb8e584/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85752fbc-fbfd-465e-ba37-1a890fb8e584/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85752fbc-fbfd-465e-ba37-1a890fb8e584/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85752fbc-fbfd-465e-ba37-1a890fb8e584/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

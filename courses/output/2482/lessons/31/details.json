@@ -1,0 +1,33 @@
+{
+  "id": 466353,
+  "title": "Aliquota do ICMS",
+  "position": 31,
+  "duration": 188,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c05187fc-999c-49b8-8ac9-c78a2c01251d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c05187fc-999c-49b8-8ac9-c78a2c01251d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c05187fc-999c-49b8-8ac9-c78a2c01251d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c05187fc-999c-49b8-8ac9-c78a2c01251d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c05187fc-999c-49b8-8ac9-c78a2c01251d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

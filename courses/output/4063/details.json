@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4063,
+    "title": "Soft skills",
+    "subtitle": "Liderança 4.0",
+    "summary": "Neste curso de Soft Skills, você irá aprender na prática tudo o que precisa saber sobre como desenvolver habilidades sociais eficazes. Aprenderá os fundamentos e a prática de como entender as percepções de si mesmo e dos outros, combinar percepções de maneira eficaz, garantir compreensão das percepções e construir resiliência para lidar com conflitos e reações difíceis. Além disso, você aprenderá a solucionar conflitos e compreender as reações de maneira eficaz, tornando-se um profissional mais completo e eficaz.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/c09feeee-a29f-4cec-97e7-250c870671e5-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Soft skills, curso prático é a capacitação para a aplicação prática de habilidades sociais e interpessoais para melhorar as relações humanas, resolver conflitos e construir resiliência, com base na compreensão das percepções e reações das pessoas."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 6967,
+    "keywords": "soft;skill",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 406,
+    "averageRating": 9.31,
+    "practiceAverage": 9.24,
+    "trailer": {
+      "id": "b4ac8652-0761-4ee9-bac4-8f2b6bb22ee8",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b4ac8652-0761-4ee9-bac4-8f2b6bb22ee8/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b4ac8652-0761-4ee9-bac4-8f2b6bb22ee8/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b4ac8652-0761-4ee9-bac4-8f2b6bb22ee8/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b4ac8652-0761-4ee9-bac4-8f2b6bb22ee8/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-23T15:25:16.000Z",
+      "updatedAt": "2025-10-23T15:25:16.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-23T17:01:17.000Z",
+    "recordedAt": "2025-09-23T00:00:00.000Z",
+    "createdAt": "2025-10-23T12:01:58.000Z"
+  }
+}

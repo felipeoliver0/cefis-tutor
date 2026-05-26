@@ -1,0 +1,469 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.799
+dentro do programa,
+
+2
+00:00:01.809 --> 00:00:06.230
+nós visualizamos então o cadastro de produtos lá no registro zero.
+
+3
+00:00:06.239 --> 00:00:08.659
+Duzentos Então eu entrei aqui, né?
+
+4
+00:00:08.670 --> 00:00:14.899
+Na parte do bloco, zero, as tabelas do contribuinte e nós temos o zero duzentos,
+
+5
+00:00:14.909 --> 00:00:16.739
+que é o cadastro de produtos.
+
+6
+00:00:16.750 --> 00:00:21.139
+Cada produto, ele tem ali a tua característica tributária.
+
+7
+00:00:21.149 --> 00:00:27.799
+Então olha o código, a descrição, a unidade de medida, código de barra, se houver
+
+8
+00:00:28.040 --> 00:00:32.090
+o tipo, é esse tipo que nós temos que estar bem atentos.
+
+9
+00:00:32.098 --> 00:00:35.049
+Olha o outros aqui que eu falei que eu não gosto de jeito nenhum, né?
+
+10
+00:00:35.060 --> 00:00:40.970
+Esse outros eu não gosto dele aqui, vai identificar o que? Que é essa mercadoria, né?
+
+11
+00:00:40.979 --> 00:00:47.020
+Se ela é pra uso e consumo não vai ter crédito. Se é outros não vai ter crédito. Ah!
+
+12
+00:00:47.029 --> 00:00:52.290
+É uma matéria-prima opa! Pode ter crédito! Ah, é um produto intermediário! Opa!
+
+13
+00:00:52.299 --> 00:00:55.669
+Pode ter crédito NCM
+
+14
+00:00:56.220 --> 00:01:02.869
+o código do gênero da NCM, né? O que que é a a categoria desse produto?
+
+15
+00:01:02.880 --> 00:01:08.669
+Se fosse um serviço, o código do serviço, alíquota do ICMS, tá certo, tá errado?
+
+16
+00:01:08.680 --> 00:01:09.489
+Qual? Que é
+
+17
+00:01:10.099 --> 00:01:15.150
+código anterior do item, se tivesse e especificador da substituição tributária,
+
+18
+00:01:15.160 --> 00:01:16.269
+que é a o Sest.
+
+19
+00:01:16.279 --> 00:01:22.709
+Se esse produto estiver na S T tem que preencher o Sest e, em caso de alteração no item,
+
+20
+00:01:22.720 --> 00:01:24.430
+tem que ter aqui um zero,
+
+21
+00:01:24.440 --> 00:01:26.750
+duzentos e cinco falando qual que era a descrição
+
+22
+00:01:26.760 --> 00:01:30.309
+anterior e por quanto tempo ela ficou vigente,
+
+23
+00:01:30.319 --> 00:01:30.550
+né?
+
+24
+00:01:30.559 --> 00:01:34.930
+E qual? Que é o código anterior do item Se houve mudança no código também?
+
+25
+00:01:34.940 --> 00:01:36.889
+Lembrando que eu posso usar esse registro?
+
+26
+00:01:36.964 --> 00:01:41.875
+Duzentos e cinco para alterações, desde que não descaracterize o produto.
+
+27
+00:01:41.885 --> 00:01:44.245
+Lembra, né? Tava só a choque!
+
+28
+00:01:44.254 --> 00:01:47.535
+Todi, Agora eu vou chamar de achocolatado todinho, mas é a mesma coisa.
+
+29
+00:01:47.544 --> 00:01:51.095
+Então vai preencher aqui o a descrição,
+
+30
+00:01:51.105 --> 00:01:56.754
+a alteração desse item lá no zero duzentos e cinco Blaser Preto, Blaser Preto,
+
+31
+00:01:56.764 --> 00:01:58.135
+Slim Mesmo.
+
+32
+00:01:58.144 --> 00:02:02.275
+O mesmo produto não descaracterizou, mas teve uma alteração na descrição,
+
+33
+00:02:02.285 --> 00:02:03.754
+tem que constar aqui
+
+34
+00:02:04.169 --> 00:02:04.580
+agora!
+
+35
+00:02:04.589 --> 00:02:06.500
+Vamos pra nossa planilha mágica, né,
+
+36
+00:02:06.510 --> 00:02:11.740
+que foi convertida E eu vou usar aqui o zero duzentos pra gente dar uma olhada.
+
+37
+00:02:11.750 --> 00:02:14.960
+Eu separei alguns campos que é importante pra vocês
+
+38
+00:02:15.460 --> 00:02:20.990
+verificarem então aqui no código do produto eu vou verificar.
+
+39
+00:02:21.000 --> 00:02:26.149
+Joy O tipo do item ele vem aqui como por números,
+
+40
+00:02:26.160 --> 00:02:29.149
+eu não sei o que significa esses números aqui.
+
+41
+00:02:29.160 --> 00:02:32.949
+Vou dar uma dica pra vocês Entrem no programa, entra aqui!
+
+42
+00:02:32.960 --> 00:02:36.330
+em algum código do produto e vem aqui olha zero um
+
+43
+00:02:36.770 --> 00:02:41.979
+zero zero é pra revenda zero um é uma matéria-prima, outros é o noventa e nove.
+
+44
+00:02:41.990 --> 00:02:46.559
+Vamos ver, vamos ver aqui se a gente tem produtos com o código de noventa e nove,
+
+45
+00:02:47.520 --> 00:02:52.990
+olha quanto produto aqui com o código noventa e nove, hum
+
+46
+00:02:53.759 --> 00:02:57.889
+será que tá certo isso aqui? Como código de noventa e nove?
+
+47
+00:02:57.899 --> 00:03:00.369
+Será que faz sentido isso aqui?
+
+48
+00:03:00.380 --> 00:03:07.250
+Olha só bateria, trava pedal diesel, serviços de mão de obra, contador,
+
+49
+00:03:07.259 --> 00:03:09.949
+tem uns pneus, olhos,
+
+50
+00:03:09.960 --> 00:03:13.690
+Tem algumas coisas aqui que dependendo da atividade da empresa,
+
+51
+00:03:13.699 --> 00:03:17.309
+se você ver que tá com noventa e nove que tá como outros
+
+52
+00:03:18.169 --> 00:03:23.220
+hum, não sei não, hein? Tem coisas aqui que pode ser que seja um produto.
+
+53
+00:03:23.229 --> 00:03:26.860
+É aonde tava o desodorante que eu descobri que era produto intermediário depois,
+
+54
+00:03:26.869 --> 00:03:28.559
+e a gente mudou pro código certo.
+
+55
+00:03:29.559 --> 00:03:32.330
+E aí será que tem algum produto aqui que
+
+56
+00:03:32.339 --> 00:03:35.529
+realmente poderia ser um produto de uso e consumo?
+
+57
+00:03:35.539 --> 00:03:38.429
+Então está classificado corretamente como uso e consumo.
+
+58
+00:03:38.440 --> 00:03:40.289
+Poderia ser um produto intermediário.
+
+59
+00:03:40.300 --> 00:03:41.869
+Poderia ser uma matéria-prima,
+
+60
+00:03:41.880 --> 00:03:45.570
+uma mercadoria pra revenda e está classificado errado.
+
+61
+00:03:45.580 --> 00:03:52.229
+Vai fazer a conferência aqui. Outra Conferência NCM Nossa olha essa aqui.
+
+62
+00:03:52.240 --> 00:03:56.389
+Primeira coisa NCM genérica zero zero zero zero zero
+
+63
+00:03:56.789 --> 00:04:03.160
+hum joy NCM zero zero zero zero e veja só tá com o código zero um.
+
+64
+00:04:03.169 --> 00:04:05.100
+O que que é o código zero? Um
+
+65
+00:04:05.960 --> 00:04:14.169
+matéria prima? Como que eu tenho uma matéria prima com o código de NCM genérico?
+
+66
+00:04:14.179 --> 00:04:15.270
+Desse jeito
+
+67
+00:04:16.019 --> 00:04:20.488
+não pode alguma coisa de errado que não está certa? Nesse arquivo?
+
+68
+00:04:20.500 --> 00:04:25.929
+Precisamos corrigir mais uma fonte de cruzamento que vocês podem verificar.
+
+69
+00:04:25.940 --> 00:04:32.049
+Tem NCM s vazias? Tenho, tem NCM s vazias?
+
+70
+00:04:32.309 --> 00:04:34.600
+Que tipo de itens são esses?
+
+71
+00:04:34.609 --> 00:04:40.320
+Olha, nós temos tipo sete, oito, dez e noventa e nove, que tá com NCM vazia.
+
+72
+00:04:40.329 --> 00:04:43.040
+Então vamos ver o que que é o tipo sete.
+
+73
+00:04:43.049 --> 00:04:49.679
+O tipo sete é um tipo famoso, material de uso e consumo, material de uso e consumo.
+
+74
+00:04:49.690 --> 00:04:54.200
+É um tipo ali que ele não obriga a colocar a NCM.
+
+75
+00:04:54.209 --> 00:04:58.160
+Então tudo bem é uso e consumo não dá direito a crédito de nada.
+
+76
+00:04:58.170 --> 00:05:02.790
+Tudo bem está com a NCM zerada. Qual mais que eu tenho ai dói?
+
+77
+00:05:02.799 --> 00:05:07.029
+Eu tenho olha, código oito O que que é o código? Oito?
+
+78
+00:05:07.040 --> 00:05:09.950
+O código oito é ativo imobilizado,
+
+79
+00:05:09.959 --> 00:05:13.470
+não dá direito a crédito diretamente pela nota fiscal.
+
+80
+00:05:13.480 --> 00:05:16.309
+aqui, mas dá direito a crédito pelo AP.
+
+81
+00:05:16.320 --> 00:05:23.329
+Tem que tomar cuidado ativo imobilizado, hum okay, dez outros insumos.
+
+82
+00:05:23.339 --> 00:05:29.010
+É um código que tem aqui também, né? Oh, código dez Outros insumos
+
+83
+00:05:29.559 --> 00:05:33.829
+Se é insumo, será que não daria direito a crédito?
+
+84
+00:05:33.839 --> 00:05:36.670
+Porque insumo produtivo dá direito a crédito?
+
+85
+00:05:36.679 --> 00:05:38.269
+Será que a gente não tem que investigar
+
+86
+00:05:38.279 --> 00:05:41.809
+esses produtos que estão cadastrados com dez filtra?
+
+87
+00:05:41.820 --> 00:05:44.649
+Olha o que que é que tá cadastrado com dez?
+
+88
+00:05:44.660 --> 00:05:50.549
+Vai fazer uma investigação lá no sistema do cliente pra ver se isso aqui tá certo.
+
+89
+00:05:50.829 --> 00:05:54.459
+Mais um ponto de atenção pra vocês trabalharem nos cruzamentos?
+
+90
+00:05:54.470 --> 00:05:55.100
+Então,
+
+91
+00:05:55.109 --> 00:05:59.250
+trabalhar nos códigos genéricos e trabalhar nas NCM
+
+92
+00:05:59.260 --> 00:06:03.920
+s Também mais um exemplo as alíquotas,
+
+93
+00:06:03.929 --> 00:06:10.399
+Vamos ver que alíquotas que eu tenho de produtos aqui cadastrados, vejam só Olha,
+
+94
+00:06:10.410 --> 00:06:12.519
+eu tenho várias alíquotas aqui.
+
+95
+00:06:12.529 --> 00:06:14.579
+Bem estranhas, né?
+
+96
+00:06:14.910 --> 00:06:18.600
+Treze ponto três Faz sentido porque São Paulo teve uma época
+
+97
+00:06:18.609 --> 00:06:21.760
+que tinha um acréscimo na alíquota de doze por cento,
+
+98
+00:06:21.769 --> 00:06:27.279
+alíquota de quinze dezessete, Olha aqui alíquotas pequenas,
+
+99
+00:06:27.290 --> 00:06:34.500
+umas alíquotas aqui estranhas se que a ali que que tem nessas alíquotas aqui,
+
+100
+00:06:34.510 --> 00:06:35.959
+é importante dar uma olhada.
+
+101
+00:06:35.970 --> 00:06:38.559
+Vamos validar o que que tem nessas alíquotas?
+
+102
+00:06:38.570 --> 00:06:43.660
+Confere ver se faz sentido esse produto estar com essas alíquotas?
+
+103
+00:06:44.459 --> 00:06:49.929
+Oh produtos aqui, que são matéria-prima matéria prima, vamos filmar aqui Oh zero,
+
+104
+00:06:49.940 --> 00:06:50.570
+um
+
+105
+00:06:51.200 --> 00:06:54.690
+com alíquotas bem aleatórias?
+
+106
+00:06:54.700 --> 00:06:59.769
+Não será que isso aqui é um produto de um fornecedor do Simples Nacional?
+
+107
+00:06:59.779 --> 00:07:03.369
+Alíquota zero Vírgula zero um estranha essa
+
+108
+00:07:03.380 --> 00:07:05.709
+alíquota aqui essa alíquota não existe,
+
+109
+00:07:05.720 --> 00:07:07.809
+mesmo que for de simples nacional,
+
+110
+00:07:07.820 --> 00:07:11.269
+significa o que é que temos um problema no cadastro de produto.
+
+111
+00:07:11.279 --> 00:07:14.470
+Só que você já consegue trabalhar uma
+
+112
+00:07:14.535 --> 00:07:18.385
+consultoria tributária enorme dentro do cliente,
+
+113
+00:07:18.394 --> 00:07:22.725
+porque cadastro de produtos está cheio de problemas.
+
+114
+00:07:22.734 --> 00:07:25.524
+Precisamos corrigir certo.
+
+115
+00:07:25.535 --> 00:07:30.984
+Então, com relação ao cadastro de produtos, fiquem atentos a esses campos,
+
+116
+00:07:30.994 --> 00:07:38.105
+Classificação NCM e alíquota são os principais combinado.
+
+117
+00:07:38.114 --> 00:07:40.644
+Vamos então, pra próxima rodada.

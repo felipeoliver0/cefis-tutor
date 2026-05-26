@@ -1,0 +1,169 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.519
+pessoal. Agora chegou a hora da gente fazer os exercícios, né?
+
+2
+00:00:03.529 --> 00:00:05.920
+Eh relacionados ao caso prático, que a gente acabou de ver.
+
+3
+00:00:06.570 --> 00:00:09.119
+Então, vamos lá, primeiramente.
+
+4
+00:00:09.130 --> 00:00:12.579
+No caso apresentado, o Duff estava totalmente regular.
+
+5
+00:00:12.590 --> 00:00:17.899
+Tava tudo certinho com o Duff. Não tinha o código de barras.
+
+6
+00:00:17.909 --> 00:00:21.899
+O Duff, embora aparentemente regular, tinha dados falsos,
+
+7
+00:00:21.909 --> 00:00:24.840
+ou o Duff estava em formato incorreto.
+
+8
+00:00:24.850 --> 00:00:27.879
+Qual você acha que é a resposta certa? Vamos conferir
+
+9
+00:00:31.690 --> 00:00:35.650
+pessoal o Duff, embora aparentemente regular, ele tinha dados falsos, cara?
+
+10
+00:00:35.659 --> 00:00:39.439
+Ele não tinha nenhum problema no formato do DANF, né? Basta. Tá tudo certinho.
+
+11
+00:00:40.130 --> 00:00:42.689
+A disposição dos dos elementos ali tava certo.
+
+12
+00:00:42.700 --> 00:00:47.380
+Não tinha nenhuma coisa que chamasse atenção pra gente Quanto o formato do Dunn, né?
+
+13
+00:00:47.389 --> 00:00:51.099
+O Duff estava aparentemente regular, né? O contribuinte às vezes faz isso.
+
+14
+00:00:51.110 --> 00:00:55.450
+A pessoa faz isso. Eh de propósito, né? Porque ela quer simular o documento dela.
+
+15
+00:00:55.459 --> 00:00:59.159
+Então ela faz uma simulação gráfica perfeita, né? Tava tudo certinho,
+
+16
+00:00:59.259 --> 00:01:03.150
+mas não partiu da nossa conferência porque, embora aparentemente regular,
+
+17
+00:01:03.159 --> 00:01:03.979
+ele tinha dados falsos.
+
+18
+00:01:03.990 --> 00:01:07.730
+E a gente pode comprovar que até quais são esses dados falsos, né?
+
+19
+00:01:07.739 --> 00:01:11.910
+Nesse caso apresentado, o A i e do destinatário estava incorreto,
+
+20
+00:01:11.919 --> 00:01:13.870
+a ie do remetente estava incorreta.
+
+21
+00:01:13.879 --> 00:01:18.330
+Haviam várias inconsistências, ou somente o código de barras estava incorreto.
+
+22
+00:01:19.290 --> 00:01:22.519
+Vamos lá? Você sabe qual é a resposta? Vamos conferir
+
+23
+00:01:23.750 --> 00:01:26.720
+pessoal. Nesse caso apresentado, haviam várias inconsistências, né?
+
+24
+00:01:26.730 --> 00:01:27.879
+Aí era remetente.
+
+25
+00:01:27.889 --> 00:01:31.980
+Tava inválido a chave de acesso tava com c n PJ inválido por mês inválido.
+
+26
+00:01:31.989 --> 00:01:34.309
+Tava também com a numeração inválida, né?
+
+27
+00:01:34.319 --> 00:01:38.370
+Então tá um problema também na UE, F da chave de acesso, né, A gente,
+
+28
+00:01:38.379 --> 00:01:41.980
+o protocolo de numeração tava com o F com O ano correto, né?
+
+29
+00:01:41.989 --> 00:01:46.569
+A gente conseguiu verificar em várias situações incorretas, neste caso,
+
+30
+00:01:46.580 --> 00:01:48.900
+pra então havia várias inconsistências, né?
+
+31
+00:01:50.059 --> 00:01:53.209
+E por fim, a chave de acesso tinha o f correto,
+
+32
+00:01:53.220 --> 00:01:58.330
+tinha o mês incorreto e tinha o c PJ correto ou todos os a anteriores.
+
+33
+00:01:58.339 --> 00:02:01.610
+Você sabe qual é a resposta? Vamos conferir
+
+34
+00:02:04.360 --> 00:02:05.930
+pessoal nesse caso apresentado, né?
+
+35
+00:02:05.940 --> 00:02:09.050
+A chave de acesso tinha várias inconsistências, né?
+
+36
+00:02:09.059 --> 00:02:12.330
+Então tava com a Uefa incorreta. Tava com o mesmo incorreto.
+
+37
+00:02:12.339 --> 00:02:16.809
+O c n PJ que tava na chave de acesso não passa nem na validação de lixo de verificador,
+
+38
+00:02:16.820 --> 00:02:16.850
+né?
+
+39
+00:02:16.860 --> 00:02:18.500
+Então tá totalmente inventado,
+
+40
+00:02:18.509 --> 00:02:21.149
+totalmente incorreto aqui o c n PJ da chave de acesso.
+
+41
+00:02:21.160 --> 00:02:25.330
+Então a resposta pra essa questão é todas as anteriores alternativas de né?
+
+42
+00:02:25.339 --> 00:02:27.070
+Todas as anterior que

@@ -1,0 +1,33 @@
+{
+  "id": 481275,
+  "title": "Demonstrações financeiras Parte 1",
+  "position": 9,
+  "duration": 338,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bc5f4f1a-f4e5-4f8e-bc53-1914ca54866e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bc5f4f1a-f4e5-4f8e-bc53-1914ca54866e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bc5f4f1a-f4e5-4f8e-bc53-1914ca54866e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bc5f4f1a-f4e5-4f8e-bc53-1914ca54866e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bc5f4f1a-f4e5-4f8e-bc53-1914ca54866e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

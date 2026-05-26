@@ -1,0 +1,33 @@
+{
+  "id": 466993,
+  "title": "Margem de serviço contratual",
+  "position": 12,
+  "duration": 259,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cf2712e6-a173-4f74-8c68-e996b1adb847/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf2712e6-a173-4f74-8c68-e996b1adb847/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf2712e6-a173-4f74-8c68-e996b1adb847/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf2712e6-a173-4f74-8c68-e996b1adb847/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf2712e6-a173-4f74-8c68-e996b1adb847/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

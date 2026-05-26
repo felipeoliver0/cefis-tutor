@@ -1,0 +1,33 @@
+{
+  "id": 487533,
+  "title": "Acréscimo das demais receitas",
+  "position": 33,
+  "duration": 390,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/0159bf8a-7d04-4fdd-b166-7ee2ca3247b3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0159bf8a-7d04-4fdd-b166-7ee2ca3247b3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0159bf8a-7d04-4fdd-b166-7ee2ca3247b3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0159bf8a-7d04-4fdd-b166-7ee2ca3247b3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0159bf8a-7d04-4fdd-b166-7ee2ca3247b3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 465669,
+  "title": "Postura do apresentador - parte 2",
+  "position": 26,
+  "duration": 352,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/743962be-9b3e-4afe-aad5-a26b9062680c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/743962be-9b3e-4afe-aad5-a26b9062680c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/743962be-9b3e-4afe-aad5-a26b9062680c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/743962be-9b3e-4afe-aad5-a26b9062680c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/743962be-9b3e-4afe-aad5-a26b9062680c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

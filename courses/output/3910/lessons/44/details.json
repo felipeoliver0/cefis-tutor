@@ -1,0 +1,33 @@
+{
+  "id": 479459,
+  "title": "O que você aprendeu?",
+  "position": 45,
+  "duration": 314,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/aff2e271-f1fb-47f1-8d67-41eea6d7f728/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aff2e271-f1fb-47f1-8d67-41eea6d7f728/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aff2e271-f1fb-47f1-8d67-41eea6d7f728/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aff2e271-f1fb-47f1-8d67-41eea6d7f728/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aff2e271-f1fb-47f1-8d67-41eea6d7f728/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

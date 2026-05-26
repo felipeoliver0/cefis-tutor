@@ -1,0 +1,33 @@
+{
+  "id": 469630,
+  "title": "Informalidade",
+  "position": 4,
+  "duration": 288,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7004461f-eaae-4a2e-b1f8-32a023a18667/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7004461f-eaae-4a2e-b1f8-32a023a18667/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7004461f-eaae-4a2e-b1f8-32a023a18667/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7004461f-eaae-4a2e-b1f8-32a023a18667/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7004461f-eaae-4a2e-b1f8-32a023a18667/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

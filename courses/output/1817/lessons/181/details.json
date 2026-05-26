@@ -1,0 +1,33 @@
+{
+  "id": 458108,
+  "title": "Modelo de controle",
+  "position": 182,
+  "duration": 183,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/54c758b2-3651-41a5-9895-7c0f199791b7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/54c758b2-3651-41a5-9895-7c0f199791b7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/54c758b2-3651-41a5-9895-7c0f199791b7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/54c758b2-3651-41a5-9895-7c0f199791b7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/54c758b2-3651-41a5-9895-7c0f199791b7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

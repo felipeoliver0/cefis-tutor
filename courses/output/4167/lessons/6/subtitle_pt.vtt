@@ -1,0 +1,805 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.560
+Então, pessoal, agora vamos fazer uma demonstração prática aqui, tá?
+
+2
+00:00:04.280 --> 00:00:07.339
+De um cálculo devido aqui na importação de serviços,
+
+3
+00:00:07.400 --> 00:00:09.759
+onde a empresa tem variáveis, tá?
+
+4
+00:00:09.859 --> 00:00:14.960
+De importação de serviços e também tem atividades que são executadas internamente.
+
+5
+00:00:15.439 --> 00:00:18.739
+Então, essa atividade nos traz aqui para calcular esses tributos
+
+6
+00:00:18.739 --> 00:00:21.399
+devido nas operações de importação,
+
+7
+00:00:21.820 --> 00:00:23.379
+mais os tributos, tá?
+
+8
+00:00:23.780 --> 00:00:27.519
+Que são devidos, táidos nas operações internas. A empresa
+
+9
+00:00:27.519 --> 00:00:29.239
+teve aqui, por exemplo, faturamento
+
+10
+00:00:29.239 --> 00:00:30.260
+trimestral,
+
+11
+00:00:30.800 --> 00:00:33.340
+faturamento mensal de R$ 40 mil,
+
+12
+00:00:33.340 --> 00:00:35.539
+para calcular PIS e COFINS,
+
+13
+00:00:35.960 --> 00:00:37.100
+imposto de renda,
+
+14
+00:00:37.219 --> 00:00:38.960
+até propriamente ISS.
+
+15
+00:00:40.259 --> 00:00:41.759
+Houve retenções
+
+16
+00:00:41.759 --> 00:00:44.060
+aqui no valor de R$ 130 mil,
+
+17
+00:00:44.439 --> 00:00:46.979
+ou de R$ 130, R$ 600, R$ 200.
+
+18
+00:00:47.500 --> 00:00:50.380
+Então vamos pegar uma planilhinha aqui para ajudar a gente aqui.
+
+19
+00:00:50.840 --> 00:00:56.840
+Vamos pegar o valor da importação é R$ 10 mil, alíquotas R$ 5,20, R$ 52.
+
+20
+00:00:57.780 --> 00:00:59.119
+O imposto de renda.
+
+21
+00:00:59.119 --> 00:01:25.920
+A atividade nos trouxe que o imposto de renda, ele tem aqui um país, que é Belize, Belize considerada um paraíso fiscal, ele já trouxe aqui para isso, então a gente vai calcular aqui a alíquota de 25%, porque quando é um
+
+22
+00:01:25.920 --> 00:01:27.920
+paraíso fiscal, a gente tem a
+
+23
+00:01:27.920 --> 00:01:29.980
+alíquota de retenção aí de 25%.
+
+24
+00:01:31.400 --> 00:01:31.739
+Então,
+
+25
+00:01:31.959 --> 00:01:34.200
+vamos lá, tá? Vamos lá.
+
+26
+00:01:36.079 --> 00:01:37.519
+Vou pegar aqui
+
+27
+00:01:37.519 --> 00:01:39.920
+os 52 mil, né? Então,
+
+28
+00:01:39.920 --> 00:01:41.459
+nós vamos ter que embutir aqui
+
+29
+00:01:41.459 --> 00:01:43.900
+uma alíquota de 25%.
+
+30
+00:01:43.900 --> 00:01:45.319
+Então, vamos lá. Então, vamos embutir aqui uma alíquota de 25%. Então, vamos lá.
+
+31
+00:01:47.719 --> 00:01:48.040
+Então, vamos embutir aqui 0,75,
+
+32
+00:01:52.379 --> 00:01:53.159
+igual 52 dividido por 0,75.
+
+33
+00:01:54.680 --> 00:01:55.159
+A alíquota aqui é 25.
+
+34
+00:01:56.359 --> 00:01:58.620
+Então, aqui... Porque nós vamos sustentar esse ônus aqui.
+
+35
+00:01:59.140 --> 00:02:01.340
+69, 25, 17 mil.
+
+36
+00:02:01.780 --> 00:02:04.420
+Ok, a CID tem a mesma base de cálculo.
+
+37
+00:02:05.120 --> 00:02:06.340
+A alíquota 10%,
+
+38
+00:02:06.340 --> 00:02:09.020
+que nós importamos um serviço de natureza técnica,
+
+39
+00:02:09.219 --> 00:02:10.819
+o exercício trouxe para nós,
+
+40
+00:02:11.419 --> 00:02:13.360
+serviços técnicos, beleza.
+
+41
+00:02:13.879 --> 00:02:15.599
+Então aqui é só aplicar,
+
+42
+00:02:15.740 --> 00:02:17.300
+vezes 10.
+
+43
+00:02:18.319 --> 00:02:20.439
+O ISS, o exercício nos trouxe,
+
+44
+00:02:20.439 --> 00:02:22.699
+a alíquota do ISS é 5%,
+
+45
+00:02:22.699 --> 00:02:26.659
+então a gente pega a base de 52,
+
+46
+00:02:27.439 --> 00:02:28.360
+aplica os
+
+47
+00:02:28.360 --> 00:02:30.400
+5, e eu piso o COFINS
+
+48
+00:02:30.400 --> 00:02:31.680
+por dentro, né, pessoal?
+
+49
+00:02:32.159 --> 00:02:34.300
+Por dentro, né? Que a gente sabe
+
+50
+00:02:34.300 --> 00:02:36.379
+que as líquidas são 1.65,
+
+51
+00:02:37.039 --> 00:02:37.659
+né? E
+
+52
+00:02:37.659 --> 00:02:39.860
+7.6,
+
+53
+00:02:40.699 --> 00:02:42.340
+aqui dá um total, se eu
+
+54
+00:02:42.340 --> 00:02:44.620
+pegar esse mais esse,
+
+55
+00:02:44.800 --> 00:02:46.319
+é de 9,25.
+
+56
+00:02:47.020 --> 00:02:49.300
+E aí eu vou colocar por dentro aqui, né?
+
+57
+00:02:50.000 --> 00:02:54.659
+Igual 100 menos 9,25, dividido por 100.
+
+58
+00:02:55.340 --> 00:02:57.000
+0,9075.
+
+59
+00:02:57.000 --> 00:03:04.219
+Então, pegar aqui 52, dividido por esse índice, é a mesma base.
+
+60
+00:03:05.400 --> 00:03:09.840
+Aqui 1,65 e aqui 7.6.
+
+61
+00:03:10.039 --> 00:03:13.020
+Vamos arredondar aqui as casas decimais.
+
+62
+00:03:14.020 --> 00:03:17.419
+Aqui 1.65.
+
+63
+00:03:18.340 --> 00:03:21.740
+Aqui 1.65.
+
+64
+00:03:21.740 --> 00:03:24.340
+Aqui vai ser aumento.
+
+65
+00:03:25.300 --> 00:03:26.020
+Pronto.
+
+66
+00:03:26.780 --> 00:03:27.759
+Achamos aqui.
+
+67
+00:03:28.080 --> 00:03:32.039
+IOF, pessoal, a gente sabe que está feito lá no banco, normal,
+
+68
+00:03:32.319 --> 00:03:33.659
+mais 0,38.
+
+69
+00:03:34.460 --> 00:03:37.860
+E aqui vai incidir isso vezes isso.
+
+70
+00:03:38.800 --> 00:03:39.919
+Vamos somar.
+
+71
+00:03:40.520 --> 00:03:41.500
+32 mil.
+
+72
+00:03:42.560 --> 00:03:43.280
+Maravilha.
+
+73
+00:03:43.939 --> 00:03:45.719
+Custo total da importação.
+
+74
+00:03:46.199 --> 00:03:47.500
+Nós vamos fazer o que?
+
+75
+00:03:47.740 --> 00:03:50.659
+É justamente os 52 mais os 32.
+
+76
+00:03:51.360 --> 00:03:52.879
+Total de tributos.
+
+77
+00:03:52.979 --> 00:03:54.199
+Nós temos os 32.
+
+78
+00:03:54.740 --> 00:03:55.780
+Carga tributária.
+
+79
+00:03:55.979 --> 00:03:59.280
+Eu peço 32 dividido por 84.
+
+80
+00:03:59.979 --> 00:04:00.699
+38.
+
+81
+00:04:01.039 --> 00:04:04.199
+E aqui eu vou aumentar as casas.
+
+82
+00:04:04.319 --> 00:04:07.919
+Diminuir 38,36.
+
+83
+00:04:08.159 --> 00:04:09.400
+É a minha carga tributária.
+
+84
+00:04:10.039 --> 00:04:14.419
+E o exercício disse, olha, fiz aqui o cálculo na importação, beleza.
+
+85
+00:04:14.780 --> 00:04:19.379
+Aí o exercício diz, essa empresa teve um faturamento interno no mês de março de 40 mil.
+
+86
+00:04:19.500 --> 00:04:20.160
+1, 2, 3.
+
+87
+00:04:20.699 --> 00:04:21.980
+Ela é do lucro presumido.
+
+88
+00:04:21.980 --> 00:04:24.120
+A alíquota é, quanto?
+
+89
+00:04:24.579 --> 00:04:26.079
+0,65
+
+90
+00:04:26.079 --> 00:04:28.600
+o valor do PIS
+
+91
+00:04:28.600 --> 00:04:30.060
+sobre o faturamento
+
+92
+00:04:30.060 --> 00:04:32.160
+é pegar o faturamento e multiplicar
+
+93
+00:04:32.160 --> 00:04:34.560
+pela alíquota, ele disse olha tem uma retenção
+
+94
+00:04:34.560 --> 00:04:36.100
+lá de 130
+
+95
+00:04:36.100 --> 00:04:38.259
+que vai abater, porque essa retenção
+
+96
+00:04:38.259 --> 00:04:40.259
+tem caráter de antecipação
+
+97
+00:04:40.259 --> 00:04:41.839
+acho o valor aqui
+
+98
+00:04:41.839 --> 00:04:44.079
+o faturamento eu só pego aqui
+
+99
+00:04:44.079 --> 00:04:45.240
+que é o mesmo da COFINS, a alíquota é 3 acho o valor aqui, né? O faturamento eu só pego aqui, que é o mesmo da COFINS,
+
+100
+00:04:45.360 --> 00:04:52.000
+a alíquota é 3%, o valor da COFINS 4 vezes 3, 12, 1.200.
+
+101
+00:04:52.500 --> 00:04:57.980
+Eu tenho a retenção lá de 600 e o valor da minha COFINS
+
+102
+00:04:57.980 --> 00:05:01.879
+a recolher aqui no mês 3 é de 600.
+
+103
+00:05:02.120 --> 00:05:04.420
+Bem tranquilo, né, pessoal, aqui, né?
+
+104
+00:05:04.860 --> 00:05:06.079
+O IRPJ, eu tenho
+
+105
+00:05:06.079 --> 00:05:07.879
+um faturamento lá de
+
+106
+00:05:07.879 --> 00:05:08.939
+120 mil.
+
+107
+00:05:09.699 --> 00:05:11.360
+Percentual de presunção,
+
+108
+00:05:12.040 --> 00:05:13.920
+como regra, tá, pessoal? Eu posso
+
+109
+00:05:13.920 --> 00:05:15.680
+presumir a 16%.
+
+110
+00:05:15.680 --> 00:05:16.839
+Por quê? Porque
+
+111
+00:05:16.839 --> 00:05:19.759
+essa empresa, ela não
+
+112
+00:05:19.759 --> 00:05:22.079
+atingiu, ela não é
+
+113
+00:05:22.079 --> 00:05:27.980
+uma empresa de serviços regulamentados,
+
+114
+00:05:28.060 --> 00:05:30.079
+que senão poderia presumir a 32%.
+
+115
+00:05:30.079 --> 00:05:35.800
+Mas como não é, eu posso considerar até para poder te explicar aqui,
+
+116
+00:05:36.259 --> 00:05:41.160
+eu posso presumir a 16%, desde que não seja serviços regulamentados.
+
+117
+00:05:41.259 --> 00:05:46.220
+Tem essa previsão na própria em 1700, tá? No artigo 33 dela, ali
+
+118
+00:05:46.220 --> 00:05:48.199
+pelos parágrafos 7, 8, 9,
+
+119
+00:05:48.300 --> 00:05:50.180
+10, ela traz justamente essa
+
+120
+00:05:50.180 --> 00:05:52.180
+possibilidade. Então fica de olho aí
+
+121
+00:05:52.180 --> 00:05:54.100
+que vale a pena. Ali tá
+
+122
+00:05:54.100 --> 00:05:56.240
+15%, a base
+
+123
+00:05:56.240 --> 00:05:58.180
+de cálculo é justamente qual?
+
+124
+00:05:58.600 --> 00:06:00.160
+120 vezes 16.
+
+125
+00:06:01.300 --> 00:06:02.180
+19.200.
+
+126
+00:06:02.600 --> 00:06:04.060
+Não tem adicional, porque
+
+127
+00:06:04.060 --> 00:06:07.000
+só tem adicional aquilo que ultrapassa R$ 60.000 na base.
+
+128
+00:06:07.259 --> 00:06:09.879
+A base minha é R$ 19.000, então não ultrapassou.
+
+129
+00:06:10.480 --> 00:06:13.139
+A liquida do adicional era R$ 10.000, mas não tem.
+
+130
+00:06:13.740 --> 00:06:16.180
+E o valor do adicional também não tem.
+
+131
+00:06:16.180 --> 00:06:22.560
+Então o valor de IRPJ a recolher é justamente os R$ 19.000 multiplicado por R$ 15.000.
+
+132
+00:06:22.660 --> 00:06:24.540
+R$ 15.000 é a liquida do imposto de renda.
+
+133
+00:06:27.939 --> 00:06:28.480
+R$ 2.880.
+
+134
+00:06:29.500 --> 00:06:29.959
+A CSLL,
+
+135
+00:06:31.759 --> 00:06:32.560
+parte do mesmo faturamento,
+
+136
+00:06:34.439 --> 00:06:35.800
+aí a presunção na CSL é também
+
+137
+00:06:35.800 --> 00:06:38.120
+32, a presunção
+
+138
+00:06:38.120 --> 00:06:39.959
+de 16 só é válida para o imposto
+
+139
+00:06:39.959 --> 00:06:41.480
+de renda, na CSLL,
+
+140
+00:06:41.699 --> 00:06:43.459
+que é a contribuição social, aplica
+
+141
+00:06:43.459 --> 00:06:45.339
+32, Então,
+
+142
+00:06:45.720 --> 00:06:47.480
+a minha base de cálculo aqui
+
+143
+00:06:47.480 --> 00:06:48.920
+é justamente essa.
+
+144
+00:06:49.180 --> 00:06:52.199
+Igual 120 multiplicado por 32,
+
+145
+00:06:52.779 --> 00:06:53.699
+38 mil.
+
+146
+00:06:53.860 --> 00:06:56.139
+A alíquota da contribuição social é 9.
+
+147
+00:06:56.740 --> 00:06:58.000
+Então, isso quer dizer que
+
+148
+00:06:58.000 --> 00:06:59.879
+eu tenho uma retenção lá,
+
+149
+00:06:59.920 --> 00:07:01.759
+também no exercício, ele trouxe uma
+
+150
+00:07:01.759 --> 00:07:03.920
+retenção de 200 reais.
+
+151
+00:07:04.959 --> 00:07:06.139
+Então, isso significa
+
+152
+00:07:06.139 --> 00:07:07.300
+que
+
+153
+00:07:07.300 --> 00:07:09.939
+a minha CSLL em regra
+
+154
+00:07:09.939 --> 00:07:11.660
+é 38 vezes
+
+155
+00:07:11.660 --> 00:07:14.319
+9. Mas a recolher
+
+156
+00:07:14.319 --> 00:07:15.759
+eu tenho que fazer o que?
+
+157
+00:07:15.939 --> 00:07:18.779
+34, 3.456
+
+158
+00:07:18.779 --> 00:07:20.240
+menos a retenção, 200.
+
+159
+00:07:20.879 --> 00:07:21.899
+Cheguei no valor de
+
+160
+00:07:21.899 --> 00:07:23.800
+3.256 a recolher.
+
+161
+00:07:24.819 --> 00:07:26.100
+Então vejam só pessoal
+
+162
+00:07:26.100 --> 00:07:29.699
+que a norma traz para nós direitinho
+
+163
+00:07:29.699 --> 00:07:32.180
+como que a gente faz essa aplicação aqui
+
+164
+00:07:32.180 --> 00:07:34.259
+essa empresa por exemplo
+
+165
+00:07:34.259 --> 00:07:37.019
+ela teve seus tributos na operação interna
+
+166
+00:07:37.019 --> 00:07:38.199
+que ela teve que recolher
+
+167
+00:07:38.199 --> 00:07:39.939
+contribuição social
+
+168
+00:07:39.939 --> 00:07:41.980
+imposto de renda
+
+169
+00:07:41.980 --> 00:07:44.860
+a COFINS
+
+170
+00:07:44.860 --> 00:07:46.139
+o PIS
+
+171
+00:07:46.139 --> 00:07:49.060
+E ela ainda teve que fazer todo o recolhimento
+
+172
+00:07:49.060 --> 00:07:51.459
+De uma importação que ela fez
+
+173
+00:07:51.459 --> 00:07:53.680
+De uma importação que ela fez
+
+174
+00:07:53.680 --> 00:07:55.339
+Então a regra aqui
+
+175
+00:07:55.339 --> 00:07:56.899
+Para você é sempre
+
+176
+00:07:56.899 --> 00:07:58.620
+Prestar atenção em que
+
+177
+00:07:58.620 --> 00:08:01.300
+Se o país é de tributação
+
+178
+00:08:01.300 --> 00:08:02.980
+Favorecida ou
+
+179
+00:08:02.980 --> 00:08:03.879
+Não
+
+180
+00:08:03.879 --> 00:08:06.060
+Para que
+
+181
+00:08:06.060 --> 00:08:08.000
+você possa saber qual
+
+182
+00:08:08.000 --> 00:08:10.180
+alíquota do imposto de renda você vai usar,
+
+183
+00:08:10.319 --> 00:08:12.040
+se é 15% ou 25%,
+
+184
+00:08:12.040 --> 00:08:13.959
+tudo bem? Vale a pena
+
+185
+00:08:13.959 --> 00:08:16.319
+consultar a norma, até porque a norma
+
+186
+00:08:16.319 --> 00:08:17.939
+altera, pessoal, tá?
+
+187
+00:08:18.480 --> 00:08:19.819
+Legislação é mutante,
+
+188
+00:08:20.180 --> 00:08:22.160
+então você sempre olha a norma
+
+189
+00:08:22.160 --> 00:08:24.420
+e aí vê se tem alguma alteração
+
+190
+00:08:24.420 --> 00:08:26.480
+e depois aplica, tá?
+
+191
+00:08:26.620 --> 00:08:34.659
+Isso é comum, às vezes tira um determinado país, acrescenta um determinado país como tributação favorecida
+
+192
+00:08:34.659 --> 00:08:38.519
+e isso é normal, tá? Para efeito de legislação.
+
+193
+00:08:38.519 --> 00:08:42.639
+Então a gente tem que estar sempre fazendo o quê? Consultando a norma, tá bom?
+
+194
+00:08:42.700 --> 00:09:07.500
+Então eu trouxe o exemplo de uma forma didática aqui, mas isso não dispensa você, FIS Por quê? Porque às vezes você assiste o curso daqui dois dias, três dias, sei lá, daqui um mês, e aí a legislação já mudou.
+
+195
+00:09:07.899 --> 00:09:12.059
+Mudou e às vezes acrescentou alguma coisa, tá?
+
+196
+00:09:13.340 --> 00:09:15.019
+Ou tirou alguma coisa.
+
+197
+00:09:15.340 --> 00:09:17.919
+E aí quando você olha para o material, aí você,
+
+198
+00:09:18.080 --> 00:09:20.620
+ah, tá, entendi a lógica, mas mudou bem aqui.
+
+199
+00:09:20.700 --> 00:09:23.620
+Aí você pega o detalhe e ajusta no seu aprendizado.
+
+200
+00:09:23.620 --> 00:09:48.139
+Isso acontece comigo até hoje. E acontece com você também, certamente, tá bom? FIS para que você possa crescer tecnicamente e possa justamente auxiliar as empresas
+
+201
+00:09:48.139 --> 00:09:52.960
+na hora de fazer esses cálculos devidos à importação de serviços.

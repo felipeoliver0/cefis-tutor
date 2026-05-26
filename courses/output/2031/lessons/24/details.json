@@ -1,0 +1,33 @@
+{
+  "id": 461331,
+  "title": "DMPL",
+  "position": 24,
+  "duration": 132,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/02ded6a2-ec52-4b95-bf9e-18289c694dbd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/02ded6a2-ec52-4b95-bf9e-18289c694dbd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/02ded6a2-ec52-4b95-bf9e-18289c694dbd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/02ded6a2-ec52-4b95-bf9e-18289c694dbd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/02ded6a2-ec52-4b95-bf9e-18289c694dbd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

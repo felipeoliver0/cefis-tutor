@@ -1,0 +1,33 @@
+{
+  "id": 483114,
+  "title": "Eleição dos representantes dos empregados",
+  "position": 11,
+  "duration": 322,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4c3af8a3-dd40-4c2f-9b45-88f4f5fad1ea/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c3af8a3-dd40-4c2f-9b45-88f4f5fad1ea/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c3af8a3-dd40-4c2f-9b45-88f4f5fad1ea/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c3af8a3-dd40-4c2f-9b45-88f4f5fad1ea/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c3af8a3-dd40-4c2f-9b45-88f4f5fad1ea/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

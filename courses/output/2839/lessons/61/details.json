@@ -1,0 +1,33 @@
+{
+  "id": 470629,
+  "title": "Outras obrigações",
+  "position": 62,
+  "duration": 453,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2e7618af-298d-4fe9-bd4b-3619baed5551/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e7618af-298d-4fe9-bd4b-3619baed5551/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e7618af-298d-4fe9-bd4b-3619baed5551/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e7618af-298d-4fe9-bd4b-3619baed5551/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e7618af-298d-4fe9-bd4b-3619baed5551/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

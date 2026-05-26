@@ -1,0 +1,33 @@
+{
+  "id": 456968,
+  "title": "Empresas prestadores e tomadora de serviço",
+  "position": 22,
+  "duration": 263,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/240e6e10-9589-4f01-ac9a-73594264e5a4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/240e6e10-9589-4f01-ac9a-73594264e5a4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/240e6e10-9589-4f01-ac9a-73594264e5a4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/240e6e10-9589-4f01-ac9a-73594264e5a4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/240e6e10-9589-4f01-ac9a-73594264e5a4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

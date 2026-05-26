@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2201,
+    "title": "Importação indireta",
+    "subtitle": "Fundamentos e aplicações",
+    "summary": "Neste curso de importação indireta você aprenderá fundamentos, principais ritos, critérios, e pontos de atenção quanto às importações indiretas (por conta e ordem / por encomenda), com base na legislação aduaneira vigente.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/3404b093339d04b2bac18c3acdf48cb71728385840.jpg",
+    "goals": [
+      "Promover uma análise técnica quanto aos fundamentos, principais ritos, critérios, e pontos de atenção quanto às importações indiretas (por conta e ordem / por encomenda), com base na legislação aduaneira vigente."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 2678,
+    "keywords": "importação;importação indireta",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 13,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 256,
+    "averageRating": 9.45,
+    "practiceAverage": 9.31,
+    "trailer": {
+      "id": "a7664c48-9142-4fc2-a47b-feb1e61f2ce6",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a7664c48-9142-4fc2-a47b-feb1e61f2ce6/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a7664c48-9142-4fc2-a47b-feb1e61f2ce6/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a7664c48-9142-4fc2-a47b-feb1e61f2ce6/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a7664c48-9142-4fc2-a47b-feb1e61f2ce6/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-08-30T23:15:27.000Z",
+      "updatedAt": "2022-08-30T23:15:27.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-09-12T18:52:00.000Z",
+    "recordedAt": "2022-08-21T00:00:00.000Z",
+    "createdAt": "2022-08-22T09:33:43.000Z"
+  }
+}

@@ -1,0 +1,187 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.880
+-  um conselho super importante aqui. Verificar, montou o time? Montou. Segunda coisa imediata,
+
+00:00:08.880 --> 00:00:17.840
+-  verifique na empresa como são emitidas notas fiscais hoje em dia. É por um provedor? É por
+
+00:00:17.840 --> 00:00:25.600
+-  uma software house? Você utiliza um sistema já de uma empresa? Você paga para essa empresa para
+
+00:00:25.600 --> 00:00:33.490
+-  usar o sistema dela e emitir a nota? Ou você usa um ERP, né? Vamos falar das grandes empresas?
+
+00:00:33.490 --> 00:00:34.240
+-  SAP,
+
+00:00:34.240 --> 00:00:42.790
+-  TOTOS, né? E várias outras que são um ERP completo e que emite nota, né? Então essas empresas,
+
+00:00:42.790 --> 00:00:43.840
+-  SAP,
+
+00:00:43.840 --> 00:00:50.320
+-  TOTOS e várias outras software houses, já estão até no projeto piloto também. Inclusive são
+
+00:00:50.320 --> 00:00:51.160
+-  elas
+
+00:00:51.160 --> 00:00:59.240
+-  que podem me dizer para vocês como que está andando, como que está em andamento a mudança
+
+00:00:59.240 --> 00:01:05.840
+-  dos layouts da nota fiscal eletrônica, da nota fiscal de serviço. Então eu sugiro até, montou o
+
+00:01:05.840 --> 00:01:15.000
+-  time, definiu as pessoas, já entra em contato com as empresas de sistemas, as empresas que
+
+00:01:15.000 --> 00:01:23.520
+-  pedem as notas para já pedir um status report. Como está a mudança, adequação das notas técnicas
+
+00:01:23.520 --> 00:01:32.680
+-  que já foram publicadas há meses, inclusive, com o layout da adequação da reforma tributária e
+
+00:01:32.680 --> 00:01:32.920
+-  os
+
+00:01:32.920 --> 00:01:43.320
+-  campos de IBS e CBS. Então imediatamente em seguida, porque a partir de janeiro de 2026 já vai
+
+00:01:43.320 --> 00:01:43.880
+-  ser
+
+00:01:43.880 --> 00:01:52.520
+-  ligado a destacar nas notas para as empresas do presumido e do real. Então os testes têm que ser
+
+00:01:52.520 --> 00:02:02.080
+-  feito em 2025, para a partir de 2 de janeiro, não vou falar 1 que é feriado né, 2 de janeiro de
+
+00:02:02.080 --> 00:02:11.160
+-  2026, já estar em produção, emitindo as notas fiscais de produtos, mercadorias e serviços com
+
+00:02:11.160 --> 00:02:24.440
+-  destaque de 0,1% de IBS e 0,9% de CBS. Parametrizar nos sistemas, nos ERPs, as informações necessárias
+
+00:02:24.440 --> 00:02:31.640
+-  para popular, né, o que que está popular entre aspas aqui? Os campos dos documentos fiscais
+
+00:02:31.640 --> 00:02:41.340
+-  eletrônicos. Tem uma questão até envolvida nas obrigações tributárias acessórias, né,
+
+00:02:41.340 --> 00:02:41.480
+-  estão
+
+00:02:41.480 --> 00:02:49.000
+-  informando e dizendo que não será os ESPEDs que existem atualmente que terão essas obrigações
+
+00:02:49.000 --> 00:02:49.880
+-  aqui,
+
+00:02:49.880 --> 00:02:58.440
+-  né, os novos tributos, que terá uma nova obrigação acessória que está sendo testada para CBS,
+
+00:02:58.440 --> 00:02:58.880
+-  para o
+
+00:02:58.880 --> 00:03:06.520
+-  CBS e até mesmo para o imposto seletivo. Porém, porém, como pelo menos enquanto esses tributos
+
+00:03:06.520 --> 00:03:14.400
+-  continuarem existindo? O Pisicofins acaba em dezembro de 22. Então, provavelmente, a FDContribuições
+
+00:03:14.400 --> 00:03:23.280
+-  acaba em dezembro de 22. Se tiver de fato uma nova obrigação acessória para CBS, a partir de janeiro
+
+00:03:23.280 --> 00:03:34.200
+-  de 2027, né, porque o Pisicofins vai até dezembro de 26. Então, a partir de janeiro de 2027,
+
+00:03:34.200 --> 00:03:42.200
+-  poderíamos ter uma nova obrigação acessória, que será para o novo tributo CBS. Isso ainda vai
+
+00:03:42.200 --> 00:03:42.400
+-  ser
+
+00:03:42.400 --> 00:03:51.120
+-  regulamentado. Mas enquanto continuar existindo o Pisicofins e CBS, e o IBS, provavelmente no
+
+00:03:51.120 --> 00:03:58.560
+-  ano que o ESPED fiscal, já que na nota fiscal vai ter um campo por IBS e CBS, ele também vai ter
+
+00:03:58.560 --> 00:03:58.680
+-  que
+
+00:03:58.680 --> 00:04:08.320
+-  constar nos ESPEDs fiscais também. Então, é necessário, né. Por que que tem que parametrizar
+
+00:04:08.320 --> 00:04:15.960
+-  o sistema? Se em 2026 vai ser apenas para destaque na nota fiscal e não vai estar no preço. Por
+
+00:04:15.960 --> 00:04:16.040
+-  que?
+
+00:04:16.040 --> 00:04:24.920
+-  Para destacar. E no final de 2026, o Pisicofins deixa de existir e vira CBS, e a partir de janeiro
+
+00:04:24.920 --> 00:04:33.560
+-  de 2027 ele entra no preço. RPs, sistemas, totalmente parametrizados. Já com as alíquotas,
+
+00:04:33.560 --> 00:04:41.960
+-  já com os produtos, mercadorias, serviços e etc, né. Importantíssimo esse time de trabalho aqui,
+
+00:04:41.960 --> 00:04:51.680
+-  para fazer no segundo semestre de 2025. Empresa pequena, empresa média, empresa grande. "Ah,
+
+00:04:51.680 --> 00:04:58.280
+-  mas eu sou um escritório de contabilidade, eu tenho um monte de clientes". Avisa os seus clientes.
+
+00:04:58.280 --> 00:05:08.600
+-  "Ah, mas eu trabalho numa empresa que só emite nota de serviço". Serviço é ISS. ISS vai virar
+
+00:05:08.600 --> 00:05:15.240
+-  IBS e vai ter que destacar o IBS também. Tem que fazer. Ninguém escapa. "Ah, mas eu trabalho numa
+
+00:05:15.240 --> 00:05:24.640
+-  empresa do Simples Nacional". E o Simples Nacional não vai ter que destacar IBS e CBS. "Mas o Simples
+
+00:05:24.640 --> 00:05:30.800
+-  Nacional não compra de empresa do Ocro Real e do Ocro Presumido?" Então, vai registrar ela no
+
+00:05:30.800 --> 00:05:37.520
+-  sistema ou não? "Ah, mas a empresa do Simples Nacional não registra necessariamente. A gente
+
+00:05:37.520 --> 00:05:44.240
+-  compra, vê no faturamento, gera DAS e pronto". Isso vai mudar, hein? Isso vai mudar. Já começa
+
+00:05:44.240 --> 00:05:51.800
+-  a mudar agora. Isso vai mudar. Aquela questãozinha de "Ah, apenas a gente gera DAS com base no
+
+00:05:51.800 --> 00:05:58.520
+-  faturamento e pronto, acabou". E o split payment? E pra quem vende no B2B, a empresa do Simples
+
+00:05:58.520 --> 00:06:04.960
+-  Nacional que vende pra outras empresas? É quase certo que as outras empresas vão bater na porta
+
+00:06:04.960 --> 00:06:11.520
+-  do fornecedor do Simples Nacional e vai dizer "Eu vou precisar que você destaque o IBS e CBS na
+
+00:06:11.520 --> 00:06:19.240
+-  nota. Se não destacar, eu vou ter que mudar de fornecedor". E aí? Apenas as empresas do Simples
+
+00:06:19.240 --> 00:06:28.360
+-  Nacional que vende no B2C, que é business para os consumidores finais, que não precisarão destacar
+
+00:06:28.360 --> 00:06:35.420
+-  o IBS e CBS na nota, porque o consumidor final não vai tomar crédito. Mas as empresas vão.
+
+00:06:35.420 --> 00:06:36.040
+-  Então,
+
+00:06:36.040 --> 00:06:43.880
+-  muita coisa pra ser analisada pelas empresas do Simples Nacional, ainda que em 2026 elas não
+
+00:06:43.880 --> 00:06:53.720
+-  sejam obrigadas a destacar o IBS e CBS na nota. Mas muitas análises já devem começar a ser feitas.
+
+00:06:53.720 --> 00:06:57.280
+-  Então, o que fazer no segundo semestre? Tá aqui.

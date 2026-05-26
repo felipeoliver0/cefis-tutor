@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2797,
+    "title": "Nota fiscal de garantia",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de nota fiscal de garantia você vai aprender desde as características até regras relacionadas ao prazo de garantia, incidência, ICMS, ISS, entrada de mercadoria defeituosa, códigos CFOP e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/dd0a22fcc3647a8d08a46b0236464bf11728385900.jpg",
+    "goals": [
+      "Apresentar desde as características até regras relacionadas ao prazo de garantia, incidência, ICMS, ISS, entrada de mercadoria defeituosa, códigos CFOP e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos sobre a nota fiscal de garantia."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 2219,
+    "keywords": "nota fiscal;garantia;nota fiscal de garantia",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 256,
+    "averageRating": 9.41,
+    "practiceAverage": 9.38,
+    "trailer": {
+      "id": "5c607cfe-3e1b-48ca-a068-41af1bf19e51",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5c607cfe-3e1b-48ca-a068-41af1bf19e51/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5c607cfe-3e1b-48ca-a068-41af1bf19e51/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5c607cfe-3e1b-48ca-a068-41af1bf19e51/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5c607cfe-3e1b-48ca-a068-41af1bf19e51/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-09-07T09:03:22.000Z",
+      "updatedAt": "2023-09-07T09:03:22.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-09-26T18:22:23.000Z",
+    "recordedAt": "2023-08-22T00:00:00.000Z",
+    "createdAt": "2023-08-26T15:45:33.000Z"
+  }
+}

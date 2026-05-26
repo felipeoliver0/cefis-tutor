@@ -1,0 +1,33 @@
+{
+  "id": 482356,
+  "title": "Estratégias",
+  "position": 12,
+  "duration": 274,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ba16d8c2-4564-4fea-b36c-99305a1d5ab7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba16d8c2-4564-4fea-b36c-99305a1d5ab7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba16d8c2-4564-4fea-b36c-99305a1d5ab7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba16d8c2-4564-4fea-b36c-99305a1d5ab7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba16d8c2-4564-4fea-b36c-99305a1d5ab7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

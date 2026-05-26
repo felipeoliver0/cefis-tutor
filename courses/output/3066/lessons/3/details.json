@@ -1,0 +1,33 @@
+{
+  "id": 474130,
+  "title": "Fato Gerador",
+  "position": 3,
+  "duration": 70,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fca50d37-83ab-4cae-92dc-923ebc68aa2c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fca50d37-83ab-4cae-92dc-923ebc68aa2c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fca50d37-83ab-4cae-92dc-923ebc68aa2c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fca50d37-83ab-4cae-92dc-923ebc68aa2c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fca50d37-83ab-4cae-92dc-923ebc68aa2c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

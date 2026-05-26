@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2051,
+    "title": "Diferencial de Alíquota do ICMS - DIFAL",
+    "subtitle": "(LC 190/2022).",
+    "summary": "Neste curso prático de Diferencial de Alíquota, você aprenderá todas as particularidades do DIFAL relacionadas à Emenda Constitucional 87/2015, regulamentada pela Lei Complementar 190/2022, bem como a tabela ICMS atualizada e aspectos referentes à relação de unidades federativas que têm produtos sujeitos ao Fundo de Combate à Pobreza (FCP). Você entenderá ainda as aplicações relativas ao CFOP, GNRE, DARE, e tirará todas as suas dúvidas quanto ao portal da Difal, para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/95b530f779fe246b335273393b6f49fa1728427975.jpg",
+    "goals": [
+      "Demonstrar todas as características e particularidades do Diferencial de Alíquota (DIFAL), considerando às prerrogativas legais estampadas na Lei Complementar 190/2022."
+    ],
+    "teacher": {
+      "id": 9,
+      "name": "MAGNA FERREIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1588780464.jpeg"
+    },
+    "duration": 5130,
+    "keywords": "difal;190/2022;diferencial de alíquota;diferencial de alíquota do ICMS",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 3081,
+    "averageRating": 9.19,
+    "practiceAverage": 9.1,
+    "trailer": {
+      "id": "4afa75c9-fdb1-4beb-8886-b9523e667ba8",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4afa75c9-fdb1-4beb-8886-b9523e667ba8/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4afa75c9-fdb1-4beb-8886-b9523e667ba8/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4afa75c9-fdb1-4beb-8886-b9523e667ba8/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4afa75c9-fdb1-4beb-8886-b9523e667ba8/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-05-05T19:07:15.000Z",
+      "updatedAt": "2022-05-05T19:07:15.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2022-05-06T10:17:34.000Z",
+    "recordedAt": "2022-04-28T00:00:00.000Z",
+    "createdAt": "2022-05-02T10:44:00.000Z"
+  }
+}

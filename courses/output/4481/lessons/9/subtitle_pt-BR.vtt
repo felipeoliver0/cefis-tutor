@@ -1,0 +1,141 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.759
+Um outro problema que nós vamos enfrentar sobre cruzamento de dados é a questão do território.
+
+3
+00:00:07.759 --> 00:00:15.839
+O nosso sistema tributário atual, ele tem uma questão muito grande sobre a guerra fiscal entre os estados.
+
+4
+00:00:15.839 --> 00:00:21.559
+E por isso que, ao longo do caminho, nós tivemos então a criação do diferencial de alíquota,
+
+5
+00:00:21.559 --> 00:00:29.980
+a questão da substituição tributária e, dentro do contexto de movimentação financeira, isso também acontece.
+
+6
+00:00:29.980 --> 00:00:37.939
+Os estados querem receber essa informação, mas querem receber essa informação certa, correta.
+
+7
+00:00:37.939 --> 00:00:42.219
+Então, o que que a gente precisa ter o princípio?
+
+8
+00:00:42.219 --> 00:00:46.500
+Da onde que está vindo a informação com o problema?
+
+9
+00:00:46.500 --> 00:00:51.240
+O que que a gente pode mudar para que não haja esse tipo de inconsistência?
+
+10
+00:00:51.240 --> 00:00:59.840
+A entrega da DINP respeita o território, a territorialidade de cada estado.
+
+11
+00:00:59.840 --> 00:01:06.640
+Cada unidade federativa recebe apenas os dados das transações que ocorreram em seu território.
+
+12
+00:01:06.640 --> 00:01:12.819
+Então, entrega-se um arquivo e essa transparência de informação em questão de cruzar os dados,
+
+13
+00:01:12.819 --> 00:01:20.340
+o estado de São Paulo, por exemplo, só vai receber aquilo que de fato aconteceu dentro do seu estado.
+
+14
+00:01:20.340 --> 00:01:25.319
+O conceito de território não é apenas um detalhe técnico de preenchimento.
+
+15
+00:01:25.319 --> 00:01:29.780
+Ele determina qual fisco estadual vai enxergar o recebimento.
+
+16
+00:01:29.780 --> 00:01:29.819
+Ele determina qual fisco estadual vai enxergar o recebimento.
+
+17
+00:01:29.819 --> 00:01:30.700
+Ele determina qual fisco estadual vai enxergar o recebimento.
+
+18
+00:01:30.700 --> 00:01:35.939
+Vai enxergar os dados sobre a competência da transação financeira.
+
+19
+00:01:35.939 --> 00:01:44.340
+Então, quando aqueles que estão obrigados à entrega vão, então, levantar as informações sobre os recebimentos,
+
+20
+00:01:44.340 --> 00:01:47.920
+lá no preenchimento eles precisam deixar muito claro,
+
+21
+00:01:47.920 --> 00:01:50.939
+eles precisam deixar muito claro quais são os territórios,
+
+22
+00:01:50.939 --> 00:01:56.819
+quais são os estados que estão na competência de tal informação.
+
+23
+00:01:56.819 --> 00:01:58.439
+Então, atenção.
+
+24
+00:01:58.439 --> 00:01:59.760
+Erros na classificação.
+
+25
+00:01:59.760 --> 00:02:06.640
+Eterritorial, por exemplo, uma venda do estado de São Paulo declarado para Minas Gerais,
+
+26
+00:02:06.640 --> 00:02:14.960
+podem resultar em autuação cruzada, ou seja, omissão em uma unidade federativa
+
+27
+00:02:14.960 --> 00:02:17.840
+e a receita sem lastro da outra.
+
+28
+00:02:17.840 --> 00:02:19.680
+Olha como é importante,
+
+29
+00:02:19.680 --> 00:02:24.419
+olha como é importante a gente rever os nossos cadastros de participantes e fornecedores.
+
+30
+00:02:24.419 --> 00:02:29.699
+Como é importante a gente avaliar que a estrutura do XML possui então ос tipos de pagamento,
+
+31
+00:02:29.699 --> 00:02:37.460
+de transações financeiras, de que a emissão do documento, de fato, é a principal obrigação acessória
+
+32
+00:02:37.460 --> 00:02:41.939
+e que talvez a gente esteja falhando nos processos de cadastros.
+
+33
+00:02:42.699 --> 00:02:49.039
+E caso a instituição financeira ou o intermediador declare um recebimento em outro estado,
+
+34
+00:02:49.039 --> 00:02:52.659
+o seu contribuinte também pode ser autuado.
+
+35
+00:02:53.060 --> 00:02:59.199
+Porque o estado de São Paulo, por exemplo, numa venda de minas gerais, ele pode questionar.
+
+36
+00:02:59.699 --> 00:03:04.719
+Na verdade, os dois podem se questionar. Um por omissão e outro por lastro de informação.

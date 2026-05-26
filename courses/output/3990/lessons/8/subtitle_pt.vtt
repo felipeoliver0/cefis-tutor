@@ -1,0 +1,151 @@
+WEBVTT
+
+00:00:00.258 --> 00:00:08.541
+- Muito bem, então vamos começar aqui falando dos principais indicadores que são utilizados para esse
+
+00:00:08.541 --> 00:00:17.226
+- tipo de análise. Os métodos quantitativos de análise econômica de investimentos podem ser classificados
+
+00:00:17.226 --> 00:00:24.062
+- em dois grandes grupos, ok? Os que não levam em conta o valor do dinheiro no tempo.
+
+00:00:24.418 --> 00:00:31.715
+- Ou seja, nós vamos falar um pouco sobre o tempo de recuperação desse investimento, mas sem levar
+
+00:00:31.715 --> 00:00:39.377
+- em conta o valor do dinheiro no tempo. Precisamos demonstrar que existe essa análise, mas não é muito
+
+00:00:39.377 --> 00:00:46.456
+- usada, porque nós sabemos que é muito importante o valor do dinheiro no tempo. Eu ganhar hoje,
+
+00:00:46.456 --> 00:00:53.534
+- um exemplo, 20 mil reais não é igual a eu ganhar esse valor de 20 mil em 10 anos, por exemplo.
+
+00:00:53.666 --> 00:01:02.527
+- porque nós temos inflação, perda de poder aquisitivo e custo de oportunidade também envolvido. Então,
+
+00:01:02.527 --> 00:01:10.974
+- nós utilizamos muito mais o conceito de análise dos efeitos do tempo na formação daquele recurso.
+
+00:01:10.974 --> 00:01:13.790
+- Então, quando nós falamos sobre
+
+00:01:14.082 --> 00:01:20.929
+- Aqueles, aquelas análises que consideram essa variação por meio do critério de fluxo de caixa descontado,
+
+00:01:20.929 --> 00:01:27.278
+- usamos mais os indicadores de TIR e VPL. E nós vamos falar de cada um deles. Payback, que é o tempo
+
+00:01:27.278 --> 00:01:33.565
+- de recuperação do investimento, também é usado, principalmente quando é utilizada a questão do
+
+00:01:33.565 --> 00:01:40.350
+- dinheiro no tempo, que é trazer da valor presente uma taxa, a taxa que o investidor gostaria de receber por
+
+00:01:40.450 --> 00:01:48.218
+- investir naquele projeto e nós vamos então mostrar qual que é a hierarquia, inclusive, desses indicadores
+
+00:01:48.218 --> 00:01:55.417
+- que devem ser priorizados para a análise de um projeto investimento. Então, portanto, já comentei
+
+00:01:55.417 --> 00:02:02.686
+- aqui, em razão do maior rigor conceitual e da importância para as decisões a longo prazo, ou seja,
+
+00:02:02.686 --> 00:02:05.822
+- levar em conta o valor do dinheiro no tempo
+
+00:02:05.922 --> 00:02:13.243
+- pois a perdas inflacionárias, a preferência do mercado é pelo método de fluxo de caixa descontado,
+
+00:02:13.243 --> 00:02:20.919
+- onde nós vamos fazer uma análise da taxa interna e calcular essa taxa interna de retorno e valor presente
+
+00:02:20.919 --> 00:02:28.737
+- líquido. Em inglês, pessoal, a gente comentou na nossa parte 1 desse nosso curso de finanças corporativas,
+
+00:02:28.737 --> 00:02:33.854
+- que existe a nomenclatura em inglês que nós temos, principalmente nas
+
+00:02:34.306 --> 00:02:43.435
+- calculadoras HP-12C, em geral, e também fórmulas de funções do Excel, onde nós temos a TIR, conhecida
+
+00:02:43.435 --> 00:02:51.968
+- como o IRR, que é o Internet Rate Return, creche interna de retorno, valor presente líquido, é o
+
+00:02:51.968 --> 00:03:00.244
+- Net Present Value. Então, é o mesmo conceito, ok? Então, muito importante começar realizando
+
+00:03:00.244 --> 00:03:02.974
+- a identificação desses quatro
+
+00:03:03.330 --> 00:03:09.588
+- os principais instrumentos ou indicadores que nos permitam fazer essa análise de forma mais robusta.
+
+00:03:09.588 --> 00:03:15.724
+- Então, temos que calcular payback simples, mas como eu falei, se vocês vão perceber que ele não
+
+00:03:15.724 --> 00:03:22.105
+- traz ali o efeito do dinheiro no tempo, vamos comentar, então a gente explica que existe, mas ele não
+
+00:03:22.105 --> 00:03:28.670
+- é muito utilizado. Se nós tivéssemos inflação zero e nenhum tipo de alteração econômica, tudo bem,
+
+00:03:28.866 --> 00:03:35.317
+- mas nós não temos essa realidade, nem no Brasil e nem a nível global. Vamos calcular o mesmo payback,
+
+00:03:35.317 --> 00:03:41.644
+- que é o prazo de recuperação, levando em conta a questão do dinheiro no tempo, trazendo os valores
+
+00:03:41.644 --> 00:03:48.034
+- de fluxos futuros a uma taxa pré-definida. Vamos falar sobre o valor presente líquido e ver como nós
+
+00:03:48.034 --> 00:03:54.300
+- calculamos isso, e a taxa interna de retorno, o internal rate return, conforme nós comentamos. Agora
+
+00:03:54.300 --> 00:03:58.846
+- a brincadeira, vamos começar a brincadeira com os números, que aí sim,
+
+00:03:59.106 --> 00:04:07.413
+- Tenho plena certeza que vai ficar mais claro esse entendimento. Então, como exemplo didático, eu vou
+
+00:04:07.413 --> 00:04:15.559
+- trazer aqui uma projeção de fluxo de um determinado investimento de forma bem simplificada. Muitos
+
+00:04:15.559 --> 00:04:24.189
+- desses exemplos eu comentei e passo aqui novamente as referências e citações. Grande parte são modelos
+
+00:04:24.189 --> 00:04:28.222
+- adaptados ou apresentados, utilizados do livro do
+
+00:04:28.418 --> 00:04:35.617
+- de finanças do professor Assaf, como eu comentei. Por quê? Porque tem bastante didático que a gente
+
+00:04:35.617 --> 00:04:42.957
+- pode ler. Inclusive, vocês podem consultar o livro para poder entender melhor. Então, vamos lá. Vamos
+
+00:04:42.957 --> 00:04:50.086
+- pegar esse exemplo. A empresa Ecoinvest S.A. propõe um investimento de 145 milhares, vamos chamar de
+
+00:04:50.086 --> 00:04:55.678
+- 145 milhões, mas mil unidades, só para referenciar de forma bem simplificada,
+
+00:04:55.778 --> 00:05:02.148
+- para aumentar a eficiência de seus processos operacionais. O fluxo de caixa esperado é o
+
+00:05:02.148 --> 00:05:09.217
+- abaixo apresentado. Então, essa empresa, ela quer realizar um investimento, não importa exatamente
+
+00:05:09.217 --> 00:05:16.216
+- em que situação, mas é para que a gente entenda a parte numérica de cálculo, de 145 mil, vamos
+
+00:05:16.216 --> 00:05:21.886
+- dizer assim, e ela tem essa expectativa de retorno desse investimento. Ano zero,
+
+00:05:22.338 --> 00:05:31.182
+- Convenciona-se a saída de caixa que a empresa terá que fazer ou o investidor terá que fazer para
+
+00:05:31.182 --> 00:05:40.203
+- poder dar início, o pontapé inicial ao projeto e a expectativa que é que no ano 1 ele tenha 71 mil
+
+00:05:40.203 --> 00:05:44.094
+- reais ou unidades monetárias, 74, 80 e 50.

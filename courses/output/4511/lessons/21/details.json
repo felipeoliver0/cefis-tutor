@@ -1,0 +1,33 @@
+{
+  "id": 487895,
+  "title": "Principais alterações - Quadro comparativo",
+  "position": 21,
+  "duration": 190,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/aa0ddeff-30bc-4ddd-87b1-4f48b883452d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aa0ddeff-30bc-4ddd-87b1-4f48b883452d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aa0ddeff-30bc-4ddd-87b1-4f48b883452d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aa0ddeff-30bc-4ddd-87b1-4f48b883452d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aa0ddeff-30bc-4ddd-87b1-4f48b883452d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

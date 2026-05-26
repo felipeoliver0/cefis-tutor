@@ -1,0 +1,33 @@
+{
+  "id": 462048,
+  "title": "Controle",
+  "position": 16,
+  "duration": 308,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/932d3dd1-93fb-4f8a-9364-df572b90d404/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/932d3dd1-93fb-4f8a-9364-df572b90d404/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/932d3dd1-93fb-4f8a-9364-df572b90d404/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/932d3dd1-93fb-4f8a-9364-df572b90d404/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/932d3dd1-93fb-4f8a-9364-df572b90d404/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

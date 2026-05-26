@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1756,
+    "title": "Lei Geral de Proteção de dados (LGPD) no DP e RH",
+    "subtitle": "Departamento pessoal e  Recursos Humanos",
+    "summary": "Neste curso prático de LGPD para Departamento Pessoal e Recursos Humanos, você aprenderá os principais impactos da Lei Geral de Proteção de Dados no DP/RH, bem como adequações, desde a fase contratual até a pós-contratual, para aplicar na prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/56a631bfed28ee392c6ea924615973901489612397.jpg",
+    "goals": [
+      "Apresentar os principais impactos da LGPD no DP/RH e adequações, desde a fase pré-contratual até a pós-contratual."
+    ],
+    "teacher": {
+      "id": 506905,
+      "name": "FERNANDO SANTANA BAÍA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1620771057.jpeg"
+    },
+    "duration": 4097,
+    "keywords": "LGPD;DP;RH;Departamento pessoal;lei geral de proteção de dados",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 21,
+    "materialCount": 4,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 718,
+    "averageRating": 9.28,
+    "practiceAverage": 9.28,
+    "trailer": {
+      "id": "ead6beb9-ee1a-4df9-8fe0-8c2635513b5d",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ead6beb9-ee1a-4df9-8fe0-8c2635513b5d/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ead6beb9-ee1a-4df9-8fe0-8c2635513b5d/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ead6beb9-ee1a-4df9-8fe0-8c2635513b5d/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ead6beb9-ee1a-4df9-8fe0-8c2635513b5d/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-10-29T17:56:52.000Z",
+      "updatedAt": "2021-10-29T17:56:51.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-10-29T19:12:07.000Z",
+    "recordedAt": "2021-10-11T00:00:00.000Z",
+    "createdAt": "2021-10-09T11:44:01.000Z"
+  }
+}

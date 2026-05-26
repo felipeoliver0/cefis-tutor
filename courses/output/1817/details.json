@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1817,
+    "title": "Contabilidade para SA",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de contabilidade aplicada à S.A você aprenderá sobre todos os pronunciamentos contábeis e regras relacionadas à essa atividade.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/d07a871e106591bf13275321914800731518109948.jpg",
+    "goals": [
+      "Neste curso prático de contabilidade aplicada à S.A você aprenderá sobre todos os pronunciamentos contábeis e regras relacionadas à essa atividade."
+    ],
+    "teacher": {
+      "id": 355295,
+      "name": "TIAGO DE VASCONCELOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/869486d17f542c6dcf05d8d289ab9ed11550593587.jpg"
+    },
+    "duration": 33955,
+    "keywords": "contabilidade;s.a;sociedade anonima",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 192,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 244,
+    "averageRating": 9.23,
+    "practiceAverage": 8.9,
+    "trailer": {
+      "id": "08118d22-6a4c-462b-a30d-ac04300f03d2",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/08118d22-6a4c-462b-a30d-ac04300f03d2/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/08118d22-6a4c-462b-a30d-ac04300f03d2/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/08118d22-6a4c-462b-a30d-ac04300f03d2/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/08118d22-6a4c-462b-a30d-ac04300f03d2/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-11-30T23:20:26.000Z",
+      "updatedAt": "2021-12-01T00:20:25.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-12-01T15:34:48.000Z",
+    "recordedAt": "2021-11-06T00:00:00.000Z",
+    "createdAt": "2021-11-08T11:44:03.000Z"
+  }
+}

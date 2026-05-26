@@ -1,0 +1,33 @@
+{
+  "id": 478407,
+  "title": "Registros 1000 - parte 2",
+  "position": 37,
+  "duration": 422,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d8412c95-944e-4422-b5f0-6acccad3731a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8412c95-944e-4422-b5f0-6acccad3731a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8412c95-944e-4422-b5f0-6acccad3731a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8412c95-944e-4422-b5f0-6acccad3731a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8412c95-944e-4422-b5f0-6acccad3731a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

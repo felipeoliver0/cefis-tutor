@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2281,
+    "title": "Atendimento de excelência e experiência do cliente",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso de atendimento de excelência e experiência do cliente você vai aprender como melhorar a capacidade de interação e criar conexão com as pessoas, encantando e fidelizando clientes. Entenderá desde os conceitos de atendimento, fases da competência, características da comunicação verbal e não verbal, escrita, atendimento ágil e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/881cdbc4baa38d7bb10dc5a622d8a2091728427906.jpg",
+    "goals": [
+      "Apresentar como melhorar a capacidade de interação e criar conexão com as pessoas, encantando e fidelizando clientes. Entenderá desde os conceitos de atendimento, fases da competência, características da comunicação verbal e não verbal, escrita, atendimento ágil e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 545447,
+      "name": "GISELE ALVES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1666807674.jpeg"
+    },
+    "duration": 3421,
+    "keywords": "cliente;atendimento;encantamento;atendimento ao cliente",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 9,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 5537,
+    "averageRating": 9.39,
+    "practiceAverage": 9.38,
+    "trailer": {
+      "id": "26041a3c-8d2f-4457-8f49-b7332d8b85c9",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/26041a3c-8d2f-4457-8f49-b7332d8b85c9/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/26041a3c-8d2f-4457-8f49-b7332d8b85c9/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/26041a3c-8d2f-4457-8f49-b7332d8b85c9/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/26041a3c-8d2f-4457-8f49-b7332d8b85c9/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-10-06T01:58:20.000Z",
+      "updatedAt": "2022-10-06T01:58:20.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-10-30T22:47:26.000Z",
+    "recordedAt": "2022-09-30T00:00:00.000Z",
+    "createdAt": "2022-10-03T10:39:19.000Z"
+  }
+}

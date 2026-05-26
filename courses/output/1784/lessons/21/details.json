@@ -1,0 +1,33 @@
+{
+  "id": 457571,
+  "title": "Análise de risco",
+  "position": 21,
+  "duration": 220,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b0424554-ea83-408d-b0f6-3384976cb8bb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b0424554-ea83-408d-b0f6-3384976cb8bb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b0424554-ea83-408d-b0f6-3384976cb8bb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b0424554-ea83-408d-b0f6-3384976cb8bb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b0424554-ea83-408d-b0f6-3384976cb8bb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

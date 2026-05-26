@@ -1,0 +1,33 @@
+{
+  "id": 467166,
+  "title": "Exclusão do ICMS - Linha do tempo - Parte 2",
+  "position": 4,
+  "duration": 342,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2bb7c381-ac73-4a9d-8a42-ee8b99638929/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2bb7c381-ac73-4a9d-8a42-ee8b99638929/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2bb7c381-ac73-4a9d-8a42-ee8b99638929/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2bb7c381-ac73-4a9d-8a42-ee8b99638929/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2bb7c381-ac73-4a9d-8a42-ee8b99638929/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

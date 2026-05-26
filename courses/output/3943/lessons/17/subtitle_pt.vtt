@@ -1,0 +1,163 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.220
+-  Cálculos de tributo errado pode acontecer se a emissão de um documento fiscal eletrônico, por
+
+00:00:04.220 --> 00:00:07.060
+-  exemplo, for de forma incorreta, né?
+
+00:00:07.060 --> 00:00:10.620
+-  E como que vai acontecer? Qual que é o desenho quando a gente estiver falando de um documento
+
+00:00:10.620 --> 00:00:14.400
+-  fiscal eletrônico ou um preço ser de forma errada?
+
+00:00:14.400 --> 00:00:18.240
+-  O comitê gestor deve calcular automaticamente para todas as empresas.
+
+00:00:18.240 --> 00:00:22.620
+-  A plataforma permite corrigir erros de cálculo e também de preenchimento.
+
+00:00:22.620 --> 00:00:26.780
+-  E o sistema deve identificar a alíquota correta e ajustar os tributos de forma automática.
+
+00:00:26.780 --> 00:00:31.820
+-  É isso que está sendo trabalhado, até porque quando a gente pensa em uma nota fiscal eletrônica,
+
+00:00:31.820 --> 00:00:36.970
+-  dentro das notas técnicas, o desenho é que a gente também tenha finalidades dentro dessa nota
+
+00:00:36.970 --> 00:00:37.900
+-  fiscal eletrônica.
+
+00:00:37.900 --> 00:00:44.060
+-  Seja de nota de débito, seja de nota de crédito, ou seja, os ajustes poderão ser feitos por meio
+
+00:00:44.060 --> 00:00:46.200
+-  da própria nota fiscal eletrônica.
+
+00:00:46.200 --> 00:00:51.110
+-  Então, por isso que a gente fala sobre a prática automática quando a gente pensa em um documento
+
+00:00:51.110 --> 00:00:53.320
+-  ou uma informação de forma incorreta.
+
+00:00:53.320 --> 00:00:59.020
+-  Então, além disso, o sistema também vai deixar a possibilidade de a gente alterar esse preenchimento,
+
+00:00:59.020 --> 00:01:03.880
+-  se houver um cálculo diferente daquilo que de fato era exigido.
+
+00:01:03.880 --> 00:01:09.040
+-  Se o CEP informado for errado, né, porque pode ser que aconteça também um documento fiscal eletrônico
+
+00:01:09.040 --> 00:01:11.620
+-  ser emitido de forma incorreta.
+
+00:01:11.620 --> 00:01:17.580
+-  O cálculo sai por alíquota incorreta, porque lembre-se, a gente está falando de analisar o destino,
+
+00:01:17.580 --> 00:01:19.080
+-  não mais a origem.
+
+00:01:19.080 --> 00:01:25.870
+-  Então, pode ser que haja um equívoco na emissão do documento e pode ser que haja um cálculo
+
+00:01:25.870 --> 00:01:26.840
+-  errado.
+
+00:01:26.840 --> 00:01:32.240
+-  O físico está dizendo o seguinte, no split vai ser recolhido a alíquota incorreta,
+
+00:01:32.240 --> 00:01:36.340
+-  porque ele está analisando o CEP para analisar a alíquota do destino.
+
+00:01:36.340 --> 00:01:42.150
+-  Sistema precisa gerar alerta para revisão de correção e fornecedor deve checar e corrigir junto
+
+00:01:42.150 --> 00:01:43.280
+-  ao cliente,
+
+00:01:43.280 --> 00:01:49.340
+-  de fato, se a informação está correta. Então, novamente, trazendo a prática operacional para
+
+00:01:49.340 --> 00:01:50.080
+-  vocês.
+
+00:01:50.080 --> 00:01:56.480
+-  Como estão sendo realizados cadastros de fornecedor e adquirente do seu cliente?
+
+00:01:56.480 --> 00:02:00.580
+-  Aqui estamos, de novo, trazendo a estrutura do XML para vocês.
+
+00:02:00.580 --> 00:02:06.190
+-  De novo, trazendo prática para vocês analisarem o sistema tributário atual versus o que está
+
+00:02:06.190 --> 00:02:06.980
+-  por vir.
+
+00:02:06.980 --> 00:02:12.770
+-  Se hoje a gente já tem muitas inconsistências dentro desses cadastros, isso pode ser que tenha um
+
+00:02:12.770 --> 00:02:14.880
+-  grande impacto na arrecadação do seu cliente.
+
+00:02:14.880 --> 00:02:22.280
+-  Porque aqui o Fisco vai analisar o CEP para que ele possa fazer o cálculo correto sobre a arrecadação.
+
+00:02:22.280 --> 00:02:30.380
+-  Porque lá no artigo 14, o artigo 15 da Lei Complementar 214/2025, fala sobre a atribuição das alíquotas.
+
+00:02:30.380 --> 00:02:37.530
+-  A alíquota padrão pode ser feita e analisada e criada pelos municípios, pelos estados, pela Justiça
+
+00:02:37.530 --> 00:02:39.180
+-  Federal e pela Receita Federal.
+
+00:02:39.180 --> 00:02:45.920
+-  Nós vamos ter alíquotas padrões definidas, pré-definidas, mas os estados, os municípios e a
+
+00:02:45.920 --> 00:02:51.280
+-  Receita Federal podem criar as suas próprias alíquotas em determinados segmentos.
+
+00:02:51.280 --> 00:02:56.480
+-  Então, isso quer dizer que o CEP, por exemplo, no documento de escola eletrônico, é muito
+
+00:02:56.480 --> 00:03:00.380
+-  importante, tá? Então, trazendo prática para vocês.
+
+00:03:00.380 --> 00:03:06.910
+-  Se isso daqui já está incorreto, a prática operacional do seu cliente já tem uma grande dificuldade,
+
+00:03:06.910 --> 00:03:12.280
+-  a gente vai passar uma dificuldade também no split payment, tá?
+
+00:03:12.280 --> 00:03:18.070
+-  Vendas canceladas, também já está sendo tratado, a empresa emite nota fiscal de devolução, por
+
+00:03:18.070 --> 00:03:23.880
+-  exemplo, o comitê gestor comunica ao banco para estornar o split payment, se já foi feito,
+
+00:03:23.880 --> 00:03:28.740
+-  e o processo segue como acontece hoje, normalmente, mas de forma automatizada. Se existe um
+
+00:03:28.740 --> 00:03:34.420
+-  documento fiscal trazendo uma devolução, de forma automática, ele já vai fazer esses cruzamentos,
+
+00:03:34.420 --> 00:03:34.880
+-  tá?
+
+00:03:34.880 --> 00:03:41.460
+-  Mas, em regra, é isso daqui, esses ICs, obviamente, podem acontecer, e pode ser que aí, a gente
+
+00:03:41.460 --> 00:03:46.530
+-  esteja aqui discutindo, conversando sobre esses exemplos, e pode ser que desse lado aí aconteceu,
+
+00:03:46.530 --> 00:03:48.880
+-  mas IC acontece dessa forma aqui na minha empresa.
+
+00:03:48.880 --> 00:03:54.290
+-  Então, todos esses ICs estão sendo trabalhados nos bastidores, tá? Então, a ideia é que isso
+
+00:03:54.290 --> 00:03:59.880
+-  daqui funcione, mas pode ser que a gente tenha esses ICs e essas práticas operacionais acontecendo.

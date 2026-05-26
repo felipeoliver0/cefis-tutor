@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2103,
+    "title": "Direito Constitucional | Noções Gerais e Exame CFC",
+    "subtitle": "Noções Gerais e Exame CFC",
+    "summary": "Conforme conteúdo programático do último edital do Exame de Suficiência de 2022 do Conselho Federal de Contabilidade, o curso será voltado para preparar o aluno para os próximos exames e também para outros certames afinal Direito Constitucional é a matéria mais comum e mais exigida em seleções públicas. Ademais, o curso abordará temas constitucionais que o aluno vê no seu cotidiano e nas mídias/meio jornalístico como política, divisão dos Poderes, eleições, garantias fundamentais, criminologia, organização do Estado etc",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/fa1dd1239c6f54c2593d6ca86693794a1654967182.jpg",
+    "goals": [
+      "Preparar o aluno para os próximos exames do Exame de Suficiência do Conselho Federal de Contabilidade (CFC) e outras seleções públicas onde se exige conhecimento de Direito Constitucional, assim como fornecer noções gerais sobre o tema aos alunos interessados."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 12170,
+    "keywords": "direito constitucional;constituição;governo;Exame Suficiencia;Contabilidade",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 35,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 121,
+    "averageRating": 9.63,
+    "practiceAverage": 9.58,
+    "trailer": {
+      "id": "83329a9d-5a8d-4620-bd88-5db3fea0acb7",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/83329a9d-5a8d-4620-bd88-5db3fea0acb7/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/83329a9d-5a8d-4620-bd88-5db3fea0acb7/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/83329a9d-5a8d-4620-bd88-5db3fea0acb7/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/83329a9d-5a8d-4620-bd88-5db3fea0acb7/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-06-25T16:37:39.000Z",
+      "updatedAt": "2022-06-25T16:37:39.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-06-30T18:42:05.000Z",
+    "recordedAt": "2022-06-10T00:00:00.000Z",
+    "createdAt": "2022-06-02T09:08:35.000Z"
+  }
+}

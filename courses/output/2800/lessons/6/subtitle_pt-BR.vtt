@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.610 --> 00:00:06.659
+todo servidor físico na C, F, na C, C, S contém ou ou o C F instalado agora, facilitou,
+
+2
+00:00:06.670 --> 00:00:06.940
+né?
+
+3
+00:00:06.949 --> 00:00:10.279
+Tipo assim, não importa o tanto de servidor que vai ter lá, se vai ter vinte,
+
+4
+00:00:10.289 --> 00:00:13.720
+cinquenta ck ou tem ou tem se F,
+
+5
+00:00:14.659 --> 00:00:16.270
+vou fazer só uma adenda aqui também.
+
+6
+00:00:16.280 --> 00:00:21.069
+O promo é uma solução que a gente tá usando temporariamente, ele é de transição.
+
+7
+00:00:21.079 --> 00:00:21.770
+Por quê?
+
+8
+00:00:22.729 --> 00:00:27.879
+Ele não é a solução Inter prise final que a gente vai usar pro data center, escalar
+
+9
+00:00:28.540 --> 00:00:29.950
+pra essa versão final.
+
+10
+00:00:29.959 --> 00:00:35.229
+Hoje no mercado a gente tem dois lógico, são bem fortes,
+
+11
+00:00:35.240 --> 00:00:40.029
+que é o Open e o o o o Eles São
+
+12
+00:00:40.040 --> 00:00:44.830
+infraestruturas muito mais robustas pra rodar dentro de um data center,
+
+13
+00:00:44.840 --> 00:00:51.330
+Só que eles são mais complexos de você implantar e gerenciar.
+
+14
+00:00:51.799 --> 00:00:56.610
+Então, como a gente ainda está cuidando de algumas outras coisas, paralelamente,
+
+15
+00:00:56.619 --> 00:00:58.450
+infraestrutura física e tal,
+
+16
+00:00:58.459 --> 00:01:02.090
+é melhor a gente usar um cara bem mais fácil de gerenciar e implantar.
+
+17
+00:01:02.099 --> 00:01:05.629
+Aqui é o próprio motes. Tem uma interface?
+
+18
+00:01:05.639 --> 00:01:08.470
+Tem a gente vai usar ela daqui a dois minutos.
+
+19
+00:01:09.599 --> 00:01:15.029
+Interface acessível viu web ainda melhor ainda
+
+20
+00:01:16.309 --> 00:01:19.940
+a ser tipo Uma quarentena de número de vídeos
+
+21
+00:01:20.650 --> 00:01:26.120
+é uma máquina virtual pode ser considerada uma uma versão
+
+22
+00:01:27.019 --> 00:01:30.349
+na ele Não, não seria uma categoria de virtualização,
+
+23
+00:01:30.360 --> 00:01:35.110
+mas ele utilizaria algumas algumas libe
+
+24
+00:01:35.120 --> 00:01:37.769
+do sistema operacional pra fazer isolamento.
+
+25
+00:01:38.800 --> 00:01:43.129
+Por exemplo, no Linux a gente tem os se os C G G os lá,
+
+26
+00:01:43.139 --> 00:01:45.680
+que é uma maneira de você isolar recursos dentro dum
+
+27
+00:01:45.690 --> 00:01:50.769
+sistema operacional o antivírus ele usa algumas técnicas de isolamento,
+
+28
+00:01:50.779 --> 00:01:54.970
+assim como o virtualizado, o hiper vizer faz isolamento,
+
+29
+00:01:54.980 --> 00:02:00.410
+só que a maneira como eles fazem aí é diferente, porque o o,
+
+30
+00:02:00.419 --> 00:02:03.949
+o antivírus ele não é um hiper vi O objetivo dele não é
+
+31
+00:02:04.480 --> 00:02:07.930
+pegar a infraestrutura inferior e viralizar pra cima,
+
+32
+00:02:07.940 --> 00:02:10.850
+então essa seria sempre a definição de virtualização.
+
+33
+00:02:10.860 --> 00:02:12.110
+Assim de va
+
+34
+00:02:13.389 --> 00:02:16.669
+então tudo que tem lá todo servidor que cê vê piscando lá na
+
+35
+00:02:16.679 --> 00:02:20.479
+C C S ou tem MS ou tem Cp instalado é isso.
+
+36
+00:02:20.490 --> 00:02:21.020
+Fica claro,
+
+37
+00:02:22.440 --> 00:02:26.190
+nunca os dois, nunca os dois exatamente
+
+38
+00:02:27.399 --> 00:02:30.410
+diagrama de alto nível da rede local da C C S.
+
+39
+00:02:30.419 --> 00:02:34.169
+Só pra exemplificar isso aqui que eu tô falando então a rede da C C S
+
+40
+00:02:34.179 --> 00:02:40.589
+que é essa linha aqui azul claro é a rede local da C C S.
+
+41
+00:02:41.240 --> 00:02:45.649
+Então eu tenho aqui no início que controla a entrada e saída da minha rede local.
+
+42
+00:02:45.660 --> 00:02:48.789
+Eu tenho o meu roteador, meu File também, que faz esse papel.
+
+43
+00:02:49.570 --> 00:02:53.399
+Ele é um servidor físico, então por isso que eu falei, com exceção
+
+44
+00:02:54.210 --> 00:02:59.830
+do Hater, esse cara aqui é um servidor, ele não é um roteador de casa,
+
+45
+00:02:59.839 --> 00:03:04.880
+ele é um servidor mesmo grandão, normal não, não tá
+
+46
+00:03:06.740 --> 00:03:09.589
+depois do faro eu vou ter a minha rede local,
+
+47
+00:03:09.600 --> 00:03:12.789
+Então eu coloquei aqui como exemplo três servidores que
+
+48
+00:03:12.800 --> 00:03:16.009
+tem xx três servidores que tem c f instalado,
+
+49
+00:03:16.679 --> 00:03:18.410
+todos eles se comunicam.
+
+50
+00:03:18.419 --> 00:03:21.410
+Eu mostrei essa comunicação aqui através de um único such,
+
+51
+00:03:21.419 --> 00:03:25.330
+mas na vida real pode ter dez suíte pode ter cem desse
+
+52
+00:03:25.339 --> 00:03:29.009
+daqui e cem desse daqui não vai mudar a rede local,
+
+53
+00:03:29.020 --> 00:03:30.669
+todo mundo conversa com todo mundo
+
+54
+00:03:31.490 --> 00:03:35.740
+e esse todo mundo conversa com todo mundo, só fazendo uma separação também.
+
+55
+00:03:35.750 --> 00:03:40.080
+Isso aqui é a rede interna do da pro Center, não tem nada a ver
+
+56
+00:03:40.960 --> 00:03:41.779
+exatamente é,
+
+57
+00:03:41.789 --> 00:03:43.720
+não tem nada a ver com a rede que o
+
+58
+00:03:43.729 --> 00:03:47.630
+cliente cria quando ele tá criando as máquinas virtuais dele,
+
+59
+00:03:47.639 --> 00:03:50.070
+por isso que aqui todo mundo conversa com todo mundo,
+
+60
+00:03:50.800 --> 00:03:53.490
+então todo mundo aqui conectado uns nos outros,
+
+61
+00:03:53.500 --> 00:03:57.270
+eu tenho aqui um switch firo passou do meu aqui.
+
+62
+00:03:57.279 --> 00:04:05.169
+Eu já tô na internet isso exatamente porque a minha virtualização ela tá aqui aqui,
+
+63
+00:04:05.179 --> 00:04:07.250
+aqui, aqui, aqui e aqui.
+
+64
+00:04:07.259 --> 00:04:10.490
+Só que não adianta nada. Eu tenho uma virtualização só.
+
+65
+00:04:10.500 --> 00:04:15.270
+Eu não tenho uma estrutura que eu consigo conectar a internet nela, né? Então
+
+66
+00:04:15.610 --> 00:04:20.440
+não sim, sim, comunicam sim.
+
+67
+00:04:20.450 --> 00:04:22.239
+É porque esse cara aqui o switch,
+
+68
+00:04:22.250 --> 00:04:27.279
+só explicando também ele é um cara que faz comunicação pra todos os lados,
+
+69
+00:04:27.290 --> 00:04:29.600
+então todo mundo que tá conectado nesse suíte aqui
+
+70
+00:04:29.609 --> 00:04:31.880
+consegue falar com todo mundo que tá conectado.
+
+71
+00:04:31.890 --> 00:04:34.000
+Ele é tipo um. Você manda uma mensagem pra ele.
+
+72
+00:04:34.010 --> 00:04:36.839
+Ele grita pra todo mundo literalmente.
+
+73
+00:04:36.850 --> 00:04:42.739
+Todo pacote que chega no switch é mandado pra todas as outras portas do switch
+
+74
+00:04:43.089 --> 00:04:54.690
+até o suíte aprender quem que é a porta que ele tem que mandar unicamente é isso,
+
+75
+00:04:54.700 --> 00:04:59.299
+por exemplo, a virtualização não precisa dum suíte não precisa dum de um roteador,
+
+76
+00:04:59.309 --> 00:05:02.739
+nem no firo, porque ela roda só aqui dentro do servidor físico,
+
+77
+00:05:02.750 --> 00:05:06.679
+só que nessa caixinha tem uma instalação do pro aqui dentro.
+
+78
+00:05:06.950 --> 00:05:12.079
+Só que do que que adianta eu ter isso aqui instalado se eu não consigo acessar,
+
+79
+00:05:12.089 --> 00:05:16.339
+se eu não consigo eh não Tipo assim,
+
+80
+00:05:16.350 --> 00:05:19.760
+é como se você tivesse uma máquina virtual que não tem internet.
+
+81
+00:05:19.769 --> 00:05:23.720
+Cê não consegue acessar o s s h dela ela você não consegue criar o seu cliente?
+
+82
+00:05:23.730 --> 00:05:27.880
+Acesse uma aplicação, é cê não consegue chegar nela? Então?
+
+83
+00:05:27.890 --> 00:05:32.920
+O único sentido de você ter computação hiper convergente em data cento
+
+84
+00:05:32.929 --> 00:05:36.320
+é porque cê vai conectar na internet o seu cliente Tá aqui,
+
+85
+00:05:36.329 --> 00:05:36.339
+oh
+
+86
+00:05:37.010 --> 00:05:39.980
+se. Se você não consegue chegar aqui, não adianta nada.
+
+87
+00:05:39.989 --> 00:05:44.959
+Isso aqui só se você tiver alguma algum caso de uso de rede local muito específico.
+
+88
+00:05:44.970 --> 00:05:46.079
+Por exemplo,
+
+89
+00:05:46.089 --> 00:05:49.820
+treinar é uma internet ou treinar um modelo
+
+90
+00:05:49.829 --> 00:05:53.480
+de inteligência artificial num ambiente totalmente isolado.
+
+91
+00:05:53.489 --> 00:05:53.790
+Dá pra você.
+
+92
+00:05:53.799 --> 00:05:55.140
+Mas mesmo assim,
+
+93
+00:05:55.149 --> 00:05:57.989
+você vai querer conectar na internet pra atualizar
+
+94
+00:05:58.000 --> 00:06:00.899
+um pacote desse servidor pra fazer alguma coisa,
+
+95
+00:06:00.910 --> 00:06:04.359
+Então exatamente
+
+96
+00:06:04.679 --> 00:06:08.109
+é isso. É bom, é isso, Na verdade não é CD, então
+
+97
+00:06:09.209 --> 00:06:10.940
+isso aqui é um de a dama simplificado, né?
+
+98
+00:06:10.950 --> 00:06:15.660
+A ideia de novo não importa o tanto de cabo que vai ter lá lá.
+
+99
+00:06:15.670 --> 00:06:20.010
+Acho que a gente tem cinco suítes lá, mas não importa o que tá acontecendo lá, é isso.
+
+100
+00:06:20.019 --> 00:06:23.779
+Aqui, todo mundo fala com todo mundo, Através do suits,
+
+101
+00:06:23.790 --> 00:06:28.519
+quem controla a entrada e saída pra internet é o roteador e o FI.
+
+102
+00:06:29.220 --> 00:06:29.890
+E aí

@@ -1,0 +1,33 @@
+{
+  "id": 468656,
+  "title": "Método POC (Percentage of Completion)",
+  "position": 7,
+  "duration": 322,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/360f93e0-d168-4542-8e42-fd10f1c98581/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/360f93e0-d168-4542-8e42-fd10f1c98581/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/360f93e0-d168-4542-8e42-fd10f1c98581/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/360f93e0-d168-4542-8e42-fd10f1c98581/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/360f93e0-d168-4542-8e42-fd10f1c98581/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

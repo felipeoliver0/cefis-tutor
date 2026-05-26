@@ -1,0 +1,577 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.380
+pessoal. A gente vai falar inicialmente sobre a G S um Brasil TÁ?
+
+2
+00:00:03.390 --> 00:00:08.100
+GS Brasil é a Associação Brasileira de Automação, uma associação multissetorial,
+
+3
+00:00:08.109 --> 00:00:09.300
+sem fins lucrativos.
+
+4
+00:00:09.310 --> 00:00:14.220
+Tá que implementa no Brasil padrões internacionais tá de identificação de
+
+5
+00:00:14.229 --> 00:00:18.540
+produtos como os códigos de barras e etiquetas de radiofrequência R,
+
+6
+00:00:18.549 --> 00:00:19.639
+F e D, né?
+
+7
+00:00:19.729 --> 00:00:22.620
+Essas etiquetas de radiofrequência A gente vê muito
+
+8
+00:00:22.629 --> 00:00:25.299
+eh em vários várias aplicações no mercado,
+
+9
+00:00:25.309 --> 00:00:26.000
+por exemplo,
+
+10
+00:00:26.010 --> 00:00:30.860
+aquelas tags que a gente coloca no para-brisa do carro pra fazer a passagem, né?
+
+11
+00:00:30.870 --> 00:00:35.259
+No pedágio fazer cobrança automática de cancelas de shopping, pedágio e tudo mais,
+
+12
+00:00:35.270 --> 00:00:37.220
+Aquilo ali é uma aplicação de radiofrequência, né?
+
+13
+00:00:37.229 --> 00:00:39.360
+Outra aplicação de radiofrequência que a gente vê
+
+14
+00:00:39.680 --> 00:00:43.409
+eh A gente vê nas lojas de varejo.
+
+15
+00:00:43.419 --> 00:00:46.310
+E às vezes eles colocam uma etiqueta de radiofrequência pra quando alguém
+
+16
+00:00:46.319 --> 00:00:50.669
+for fazer algum furto e passar ali naqueles pórticos da loja,
+
+17
+00:00:50.680 --> 00:00:51.490
+dispara o alarme.
+
+18
+00:00:51.500 --> 00:00:54.909
+Aquilo ali é outra aplicação de radiofrequência, mas a aplicação,
+
+19
+00:00:55.319 --> 00:00:57.250
+o mais potencial que a G s um investe,
+
+20
+00:00:57.259 --> 00:01:01.409
+tá colocando é isso não é uma identificação de produto de forma
+
+21
+00:01:01.419 --> 00:01:05.410
+que você saiba qual produto que é que tá com aquela etiqueta,
+
+22
+00:01:05.419 --> 00:01:08.489
+né aí num num numa situação hipotética,
+
+23
+00:01:08.500 --> 00:01:11.019
+imagine se todos os produtos tivessem essa etiqueta.
+
+24
+00:01:11.029 --> 00:01:14.099
+Você quando vai fazer o check out lá, né? Quando vai fazer a conta?
+
+25
+00:01:14.110 --> 00:01:17.910
+Quando vai pagar a conta, você passaria uma sacola com esses produtos, digamos,
+
+26
+00:01:17.919 --> 00:01:19.569
+roupas, passaria essas roupas.
+
+27
+00:01:19.580 --> 00:01:22.254
+Ele, pelos códigos, pelo PE, por um pórtico.
+
+28
+00:01:22.264 --> 00:01:26.214
+E aí esse pórtico vai lendo todas essas etiquetas de radiofrequência, né?
+
+29
+00:01:26.224 --> 00:01:29.175
+Não precisa registrar individualmente cada produto a leitura.
+
+30
+00:01:29.184 --> 00:01:32.855
+Ali pela radiofrequência, já pega o total ali,
+
+31
+00:01:32.864 --> 00:01:35.815
+já apresenta a conta sem fazer o registro individual de cada um.
+
+32
+00:01:35.824 --> 00:01:38.245
+Faz tudo isso pela radiofrequência, passa no pórtico.
+
+33
+00:01:38.254 --> 00:01:40.934
+São projetos bastante bastante interessantes,
+
+34
+00:01:40.944 --> 00:01:43.815
+que a gente vai vendo cada vez mais reações do mercado.
+
+35
+00:01:43.824 --> 00:01:44.235
+Tá
+
+36
+00:01:44.830 --> 00:01:49.559
+a um trabalha também com esse tipo de tecnologia. Tá então os padrões da JS um.
+
+37
+00:01:49.569 --> 00:01:53.000
+Eles são padrões estabelecidos em mais de cento e cinquenta países,
+
+38
+00:01:53.010 --> 00:01:55.389
+tá com um milhão de empresas associadas.
+
+39
+00:01:55.400 --> 00:01:58.319
+São muitas empresas associadas esses padrões,
+
+40
+00:01:58.330 --> 00:02:00.319
+eles identificam de maneira única né?
+
+41
+00:02:00.330 --> 00:02:01.300
+Produtos?
+
+42
+00:02:01.309 --> 00:02:05.120
+Unidade de logística, como a gente, vai ver daqui a pouquinho, localização,
+
+43
+00:02:05.129 --> 00:02:06.819
+ativos da empresa, serviço
+
+44
+00:02:07.610 --> 00:02:09.660
+Esses, esses padrões também.
+
+45
+00:02:09.669 --> 00:02:12.160
+Eles facilitam a integração de processos né,
+
+46
+00:02:12.169 --> 00:02:15.899
+visando soluções estruturadas pra mensagens eletrônicas,
+
+47
+00:02:15.910 --> 00:02:18.619
+uma vez que o padrão é conhecido por todas as partes.
+
+48
+00:02:18.630 --> 00:02:21.539
+As mensagens podem ser trocadas numa lingua, numa linguagem comum.
+
+49
+00:02:21.550 --> 00:02:25.259
+Tá visando total rastreabilidade das operações.
+
+50
+00:02:25.270 --> 00:02:29.059
+A gente vai ver que esses padrões podem abarcar número de lote,
+
+51
+00:02:29.070 --> 00:02:33.399
+data de validade proporcionem a rastreabilidade dos produtos aí na cadeia, tá
+
+52
+00:02:33.779 --> 00:02:38.270
+e sabe quem? Que é o detentor da marca, quem que produziu muitas vezes, né?
+
+53
+00:02:38.279 --> 00:02:42.130
+Então são padrões que ajudam aí no mercado pra fazer esse
+
+54
+00:02:42.139 --> 00:02:46.589
+esse cadeia de suprimentos fluir de uma maneira mais adequada,
+
+55
+00:02:46.600 --> 00:02:48.350
+com padrões conhecidos, né?
+
+56
+00:02:48.360 --> 00:02:48.910
+Trazendo!
+
+57
+00:02:48.919 --> 00:02:53.660
+É claro, ganhos pras empresas Tá, Então Essa é a apresentação institucional da GS!
+
+58
+00:02:53.669 --> 00:02:54.710
+Um Brasil Tá,
+
+59
+00:02:54.720 --> 00:02:56.929
+eu vou passar pra vocês agora um vídeo tá da G
+
+60
+00:02:56.940 --> 00:03:00.729
+s Um Brasil que faz a sua apresentação institucional Tá bom,
+
+61
+00:03:00.830 --> 00:03:06.520
+Sabe o que a Júlia, que confecciona roupas? O Paulo, que produz geléias orgânicas?
+
+62
+00:03:06.529 --> 00:03:09.889
+E a Camila que trabalha na indústria farmacêutica, tem em comum?
+
+63
+00:03:09.899 --> 00:03:13.639
+Todos eles fazem parte de um grupo de mais de cinquenta e oito mil
+
+64
+00:03:13.649 --> 00:03:18.179
+empresas que utilizam as soluções da G s um para alavancar seus negócios.
+
+65
+00:03:18.190 --> 00:03:20.080
+O mais interessante é que este grupo de
+
+66
+00:03:20.089 --> 00:03:22.440
+empresas representa cerca de vinte por cento do
+
+67
+00:03:22.449 --> 00:03:25.080
+PIB do Brasil e são responsáveis por gerar
+
+68
+00:03:25.089 --> 00:03:27.820
+quinze por cento dos empregos formais do país,
+
+69
+00:03:28.089 --> 00:03:32.339
+impulsionando diretamente mais de vinte setores da economia, como alimentos,
+
+70
+00:03:32.350 --> 00:03:35.520
+moda, saúde, além do varejo, físico e online.
+
+71
+00:03:36.009 --> 00:03:39.940
+Para que esses negócios possam evoluir com organização e segurança,
+
+72
+00:03:39.949 --> 00:03:42.089
+além dos padrões de identificação,
+
+73
+00:03:42.100 --> 00:03:46.139
+a GSI um Brasil Associação Brasileira de Automação oferece
+
+74
+00:03:46.149 --> 00:03:49.479
+ferramentas simples e dinâmicas para a gestão de negócios,
+
+75
+00:03:49.490 --> 00:03:54.320
+passando pelo cadastro, validação e consulta das informações de produtos.
+
+76
+00:03:54.330 --> 00:03:59.139
+Os dados que transitam nessas soluções contribuem para todos os elos da cadeia,
+
+77
+00:03:59.149 --> 00:04:02.199
+conectando ainda mais empresas parceiros e consumidores.
+
+78
+00:04:02.287 --> 00:04:05.856
+Cadastro de produtos na GSS Um Brasil aumenta
+
+79
+00:04:05.867 --> 00:04:08.177
+o alcance das geléias do Paulo no varejo,
+
+80
+00:04:08.186 --> 00:04:11.656
+potencializa a gestão do estoque da Júlia e contribui para o
+
+81
+00:04:11.667 --> 00:04:15.296
+controle e a segurança de medicamentos na empresa da Camila.
+
+82
+00:04:15.307 --> 00:04:20.457
+Ricardo, que é varejista, também sabe bem disso. Com os padrões e as soluções S um.
+
+83
+00:04:20.466 --> 00:04:21.856
+Ele fica tranquilo,
+
+84
+00:04:21.867 --> 00:04:25.736
+atestando a procedência dos produtos recebidos e administra
+
+85
+00:04:25.747 --> 00:04:27.997
+com mais facilidade seus canais de venda.
+
+86
+00:04:28.006 --> 00:04:33.813
+Como o com que só vem crescendo até a Gabi, preocupada com a qualidade do que consome,
+
+87
+00:04:33.824 --> 00:04:38.954
+sai ganhando a linguagem global dos negócios acessível para todos.
+
+88
+00:04:38.963 --> 00:04:40.414
+Além de tudo isso,
+
+89
+00:04:40.424 --> 00:04:43.373
+eles também contam com diversos cursos que a G um
+
+90
+00:04:43.384 --> 00:04:47.334
+Brasil promove em parceria com universidades e escolas de negócios.
+
+91
+00:04:47.343 --> 00:04:51.253
+E ainda há estudos de mercado que mostram todas as novidades
+
+92
+00:04:51.264 --> 00:04:54.753
+e tendências sobre o perfil dos consumidores e empresas brasileiras.
+
+93
+00:04:54.841 --> 00:04:56.591
+Com esse conhecimento,
+
+94
+00:04:56.601 --> 00:04:59.601
+empreendedores e empresas ficam por dentro daquilo
+
+95
+00:04:59.610 --> 00:05:03.531
+que realmente precisam para administrar seus negócios.
+
+96
+00:05:03.540 --> 00:05:09.270
+A S um Brasil é muito mais que código de barras é segurança para o consumidor,
+
+97
+00:05:09.281 --> 00:05:14.670
+resultado para o empresário e conhecimento para o brasileiro GSI um Brasil,
+
+98
+00:05:14.680 --> 00:05:16.851
+a linguagem global dos negócios há mais de
+
+99
+00:05:16.860 --> 00:05:21.031
+treze anos transformando a maneira como trabalhamos e vivemos
+
+100
+00:05:22.790 --> 00:05:25.720
+então pessoal, trouxe também pra vocês agora aqui, um exemplo, né,
+
+101
+00:05:25.730 --> 00:05:26.989
+que eu falei muito aí na teoria.
+
+102
+00:05:27.000 --> 00:05:29.239
+Falei um pouco do código de radiofrequência e tudo mais,
+
+103
+00:05:29.250 --> 00:05:31.279
+mas eu trouxe um exemplo pra gente ver
+
+104
+00:05:31.290 --> 00:05:34.000
+na prática como que esses padrões são utilizados.
+
+105
+00:05:34.010 --> 00:05:34.500
+Tá
+
+106
+00:05:35.179 --> 00:05:42.230
+nesse exemplo aqui a gente tem uma caixa com nove latas. Tá?
+
+107
+00:05:42.239 --> 00:05:46.450
+E a gente tem um com doze caixas, né?
+
+108
+00:05:46.700 --> 00:05:49.970
+Então, os padrões a s um nos ajudam aqui.
+
+109
+00:05:49.980 --> 00:05:52.410
+Primeiro, identificar de maneira única a lata.
+
+110
+00:05:52.420 --> 00:05:56.309
+Quando você lê aquele código, você sabe que aquele produto é daquela lata.
+
+111
+00:05:56.320 --> 00:06:00.429
+Digamos que que seja uma lata de doce, de pêssego em calda, por exemplo.
+
+112
+00:06:00.440 --> 00:06:03.230
+tá, Então você vai ler esse código de BA.
+
+113
+00:06:03.239 --> 00:06:07.010
+Você vai saber que é doce de lei de pêssego em calda. Tá?
+
+114
+00:06:07.019 --> 00:06:09.649
+Então esse é o identificador da lata.
+
+115
+00:06:10.059 --> 00:06:14.029
+A gente também tem o identificador da caixa nesse identificador da caixa.
+
+116
+00:06:14.040 --> 00:06:17.130
+É interessante que você lendo o identificador da Caixa você sabe que
+
+117
+00:06:17.140 --> 00:06:21.230
+naquela caixa tem nove latas de doce de peso em caldo,
+
+118
+00:06:21.239 --> 00:06:25.510
+digamos, sei lá quinhentos ML, tá quinhentos ML lá do doce de PE em calda.
+
+119
+00:06:25.519 --> 00:06:26.049
+Tá?
+
+120
+00:06:26.059 --> 00:06:28.970
+Então você sabe que tem doze latas de quinhentos ML
+
+121
+00:06:28.980 --> 00:06:32.790
+okay e também a gente tem o código do né?
+
+122
+00:06:32.799 --> 00:06:37.609
+E nesse código do você sabe que lá tem doze caixas
+
+123
+00:06:38.010 --> 00:06:43.010
+e em cada caixa dessa nós temos nove latas do doce de pêssego em calda.
+
+124
+00:06:43.019 --> 00:06:44.579
+Quinhentos ML, Tá isso?
+
+125
+00:06:44.589 --> 00:06:45.459
+É muito interessante,
+
+126
+00:06:45.470 --> 00:06:48.750
+porque no planejamento logístico da empresa isso é fundamental, né?
+
+127
+00:06:48.760 --> 00:06:53.619
+Imagine você uma indústria que produz o doce de Figo, o doce de pêssego,
+
+128
+00:06:53.630 --> 00:06:56.839
+o doce de ameixa tem uma linha imensa de produção, né?
+
+129
+00:06:56.850 --> 00:07:00.910
+Na hora que coloca isso nas caixas que fecha lá pra fazer a embalagem,
+
+130
+00:07:00.920 --> 00:07:05.864
+às vezes coloca lá uma um protetor de plástico ali pra enviar esse código de barras.
+
+131
+00:07:05.875 --> 00:07:09.744
+Permite saber o que que tem dentro daquele que que tem dentro daquela caixa, né?
+
+132
+00:07:09.755 --> 00:07:14.404
+Qual? Que é a unidade do produto que tá indo na hora de planejar o despacho desses en?
+
+133
+00:07:14.415 --> 00:07:17.045
+O envio disso aí pros clientes que efetuaram
+
+134
+00:07:17.054 --> 00:07:19.635
+a compra fica mais fácil de identificar.
+
+135
+00:07:19.644 --> 00:07:23.945
+Fica mais difícil de errar o negócio, ter uma assertividade maior tá,
+
+136
+00:07:23.954 --> 00:07:26.304
+então esse aqui é um exemplo de utilização
+
+137
+00:07:26.600 --> 00:07:27.769
+dos padrões da G s.
+
+138
+00:07:27.779 --> 00:07:30.489
+Um Brasil, tá, nós vamos mais pra frente,
+
+139
+00:07:30.500 --> 00:07:33.010
+Trazer mais exemplos e mostrar pra vocês na prática
+
+140
+00:07:33.019 --> 00:07:35.609
+como que a gente coloca isso nos documentos fiscais.
+
+141
+00:07:35.619 --> 00:07:36.170
+Tá bom, mas aqui,
+
+142
+00:07:36.179 --> 00:07:38.489
+por enquanto é pra gente ter uma ideia geral de
+
+143
+00:07:38.500 --> 00:07:41.489
+como funcionam esses padrões de codificação da G s.
+
+144
+00:07:41.500 --> 00:07:43.390
+Um Brasil, tá, Vamos dar sequência

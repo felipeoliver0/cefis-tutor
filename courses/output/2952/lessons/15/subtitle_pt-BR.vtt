@@ -1,0 +1,497 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.539
+Agora vamos falar um pouco sobre o cálculo da submissão tributária, Então,
+
+2
+00:00:03.549 --> 00:00:08.300
+pra nós chegarmos na base de cálculo, nós precisamos pegar ali o I V A.
+
+3
+00:00:08.310 --> 00:00:12.779
+Esse é o primeiro ponto porque a base de cálculo em si é o valor.
+
+4
+00:00:12.789 --> 00:00:16.299
+De certa forma, o que vai partir dali é o valor que eu paguei no meu custo, né?
+
+5
+00:00:16.309 --> 00:00:17.920
+O meu preço de venda tá,
+
+6
+00:00:18.159 --> 00:00:21.190
+então nós vamos pegar a operação própria, o valor da operação própria,
+
+7
+00:00:21.200 --> 00:00:25.389
+nós vamos então entender a nossa operação própria que que é a operação própria,
+
+8
+00:00:25.399 --> 00:00:29.959
+é o valor do ICMS normal daquele que eu tenho, Mesmo que recolher,
+
+9
+00:00:29.969 --> 00:00:31.489
+então eu vou pegar ali o valor do produto?
+
+10
+00:00:31.500 --> 00:00:35.349
+I p i frete, acessórios e seguros e encontra a minha base de cálculo
+
+11
+00:00:35.759 --> 00:00:38.409
+pra eu encontrar a base de cálculo da função tributária que eu vou fazer,
+
+12
+00:00:38.419 --> 00:00:40.450
+eu vou pegar essa base de cálculo do I C M S
+
+13
+00:00:40.459 --> 00:00:43.549
+e vou multiplicar pelo i V A que foi colocado ali.
+
+14
+00:00:43.560 --> 00:00:46.209
+Eu vou encontrar um coeficiente que aqui eu vou chamar de x
+
+15
+00:00:46.220 --> 00:00:48.450
+pra ficar até mais fácil e casado com o nosso exe,
+
+16
+00:00:48.459 --> 00:00:49.729
+com o nosso exemplo,
+
+17
+00:00:49.740 --> 00:00:52.330
+esse X que é o coeficiente que é o percentual
+
+18
+00:00:52.340 --> 00:00:54.970
+que seria chegado de lucro até o consumidor final.
+
+19
+00:00:54.979 --> 00:00:57.290
+Eu vou somar na minha base de cálculo da pressão própria,
+
+20
+00:00:57.299 --> 00:01:01.709
+então eu tenho ali o meu i c m minha base de cálculo do I C m S S t
+
+21
+00:01:02.619 --> 00:01:07.290
+Pra calcular o i C m s t que que eu vou fazer eu posso fazer de duas formas.
+
+22
+00:01:07.300 --> 00:01:09.550
+A primeira forma é pegar a base de cálculo do S T,
+
+23
+00:01:09.559 --> 00:01:14.529
+multiplicar pela alíquota da operação e retirar o I C M S da operação própria.
+
+24
+00:01:14.540 --> 00:01:15.389
+Só que essa conta,
+
+25
+00:01:15.400 --> 00:01:18.989
+nós vamos dar muita volta pra deixar mais fácil o que que nós vamos fazer?
+
+26
+00:01:19.000 --> 00:01:22.309
+Pegar o coeficiente da primeiro cálculo e vamos aplicar
+
+27
+00:01:22.319 --> 00:01:24.459
+alíquota do I C M S da operação própria?
+
+28
+00:01:24.470 --> 00:01:27.110
+Então nós encontramos o nosso i, C, m, s, S t,
+
+29
+00:01:27.120 --> 00:01:30.910
+tá e pra ajustar o i V A eu vou deixar a fórmula aqui com vocês.
+
+30
+00:01:30.919 --> 00:01:31.290
+Também
+
+31
+00:01:31.839 --> 00:01:33.849
+Vamos dar um exemplo prático agora.
+
+32
+00:01:33.860 --> 00:01:38.309
+Então vamos imaginar uma empresa industrial estabelecida no estado de São Paulo,
+
+33
+00:01:38.319 --> 00:01:43.290
+que vende um produto que está sob o regime da submissão tributária com
+
+34
+00:01:43.300 --> 00:01:48.000
+as seguintes condições valor da mercadoria de duzentos e vinte reais I C,
+
+35
+00:01:48.010 --> 00:01:50.290
+M S de dezoito e V a cinquenta e três.
+
+36
+00:01:50.300 --> 00:01:55.089
+Então vou fazer aqui na folha também com vocês, Então, o que que nós temos?
+
+37
+00:01:55.099 --> 00:01:56.190
+O valor do produto?
+
+38
+00:01:56.930 --> 00:02:03.279
+Duzentos reais tá i c m s dezoito reais i v a
+
+39
+00:02:03.900 --> 00:02:05.550
+cinquenta e três por cento.
+
+40
+00:02:05.559 --> 00:02:10.288
+Bom primeiro passo que eu gosto sempre de fazer é calcular a operação própria,
+
+41
+00:02:10.300 --> 00:02:11.470
+então o que que vai ser a operação?
+
+42
+00:02:11.479 --> 00:02:15.570
+Duzentos e vinte vezes? Dezoito por cento então i c m s
+
+43
+00:02:16.490 --> 00:02:20.860
+pressão própria trinta e nove e sessenta Então
+
+44
+00:02:20.869 --> 00:02:26.500
+vamos preencher aqui no nosso material duzentos e vinte
+
+45
+00:02:26.509 --> 00:02:31.919
+e trinta e nove e sessenta igual aos campinhos da nota fiscal nós não vamos ter aqui
+
+46
+00:02:33.009 --> 00:02:38.059
+frete PC só segura. I p i Então nós já vamos deixar esses campos zerados.
+
+47
+00:02:38.070 --> 00:02:42.839
+O valor do produto nós vamos ter que os duzentos e vinte esse p esse valor nunca muda.
+
+48
+00:02:42.850 --> 00:02:47.199
+Tá? Agora, vamos fazer o cálculo da submissão tributária. Primeiro vamos na base
+
+49
+00:02:48.139 --> 00:02:50.630
+então pra a base da s T que que nós precisamos pegar
+
+50
+00:02:50.639 --> 00:02:55.589
+a o valor da operação própria que vai ser base de cálculo,
+
+51
+00:02:55.600 --> 00:02:58.509
+mais frete, mais despesa, mais seguro, mais I, p i.
+
+52
+00:02:58.520 --> 00:02:59.990
+Mas por que que você tá somando o I p I
+
+53
+00:03:00.000 --> 00:03:02.869
+Matheus pra fazer o cálculo da base de cálculo Dação tributária
+
+54
+00:03:02.880 --> 00:03:05.330
+porque como ele vai atingir o consumidor final o regulamento do
+
+55
+00:03:05.339 --> 00:03:07.389
+i p i do i c m s Se conversando,
+
+56
+00:03:07.399 --> 00:03:09.149
+eles falam que quando eu vento pra consumidor final,
+
+57
+00:03:09.160 --> 00:03:13.889
+o i p i precisa fazer parte da base E como é um cálculo que naturalmente vai atingir
+
+58
+00:03:14.199 --> 00:03:18.130
+o consumidor final eu vou colocar o i p aqui também no caso, um exemplo não tem.
+
+59
+00:03:18.139 --> 00:03:23.509
+Nós não vamos colocar. Tá então a base desse s t vai ser duzentos e vinte
+
+60
+00:03:25.309 --> 00:03:26.860
+multiplicado por
+
+61
+00:03:27.729 --> 00:03:33.119
+cinquenta e três. Aí isso aqui vai ser o nosso coeficiente x tá
+
+62
+00:03:34.270 --> 00:03:38.779
+então vamos lá duzentos e vinte vezes, cinquenta e três por cento.
+
+63
+00:03:39.429 --> 00:03:40.259
+Aqui.
+
+64
+00:03:43.690 --> 00:03:48.080
+Esse vai ser o nosso x tá cento e dezesseis
+
+65
+00:03:48.770 --> 00:03:49.860
+e sessenta.
+
+66
+00:03:49.869 --> 00:03:54.289
+Esse é o X da nossa do nosso coeficiente pra encontrar o
+
+67
+00:03:54.300 --> 00:03:57.320
+valor da base que que eu tenho que fazer duzentos e vinte,
+
+68
+00:03:57.979 --> 00:03:58.850
+Mas
+
+69
+00:03:59.539 --> 00:04:01.929
+o cento e sessen o cento e dezesseis sessenta,
+
+70
+00:04:02.550 --> 00:04:05.139
+porque esse aqui é o da minha operação própria,
+
+71
+00:04:05.770 --> 00:04:06.479
+esse aqui
+
+72
+00:04:09.610 --> 00:04:12.440
+e esse daqui é a margem
+
+73
+00:04:13.100 --> 00:04:15.470
+de lucro até chegar no consumidor final o quanto
+
+74
+00:04:15.479 --> 00:04:17.410
+vai sendo colocado de lucro até chegar lá,
+
+75
+00:04:17.420 --> 00:04:18.570
+então aqui
+
+76
+00:04:19.160 --> 00:04:20.309
+nós vamos chegar aí.
+
+77
+00:04:21.838 --> 00:04:23.109
+Trezentos
+
+78
+00:04:26.880 --> 00:04:28.350
+e trinta e seis e sessenta,
+
+79
+00:04:28.980 --> 00:04:31.750
+se você quiser fazer também uma forma mais fácil.
+
+80
+00:04:31.760 --> 00:04:34.829
+Ou eu gosto de segmentar o cálculo pra ficar visual.
+
+81
+00:04:34.839 --> 00:04:39.470
+Mas se você quiser fazer você pode colocar um vírgula cinquenta e três que
+
+82
+00:04:39.480 --> 00:04:42.630
+um significa cem por cento que ele vai pegar cem por cento do valor,
+
+83
+00:04:42.640 --> 00:04:45.910
+mas a vírgula que é o cinquenta e três cê pega duzentos e vinte,
+
+84
+00:04:45.920 --> 00:04:48.670
+multiplica um um ponto cinquenta e três vai chegar
+
+85
+00:04:48.679 --> 00:04:50.750
+nos mesmo trezentos e trinta e seis sessenta.
+
+86
+00:04:50.760 --> 00:04:52.970
+Tá bom, Então essa daqui oh
+
+87
+00:04:53.630 --> 00:04:57.500
+é a nossa base de cálculo da S t
+
+88
+00:04:58.209 --> 00:04:58.859
+Bom,
+
+89
+00:04:58.869 --> 00:05:03.299
+Agora nós precisamos calcular o nosso s t porque nós já temos a nossa base Matheus,
+
+90
+00:05:03.309 --> 00:05:04.179
+como que nós vamos fazer?
+
+91
+00:05:04.190 --> 00:05:08.420
+Vamos pegar a base por multiplicar por dezoito e boa não. Por que não?
+
+92
+00:05:08.429 --> 00:05:10.739
+Porque vocês concordam comigo que de trezentos e trinta
+
+93
+00:05:10.750 --> 00:05:12.859
+e seis sessenta dentro dele Tem duzentos e vinte,
+
+94
+00:05:12.869 --> 00:05:16.519
+que é da operação própria que eu já tô pagando trinta e nove e sessenta.
+
+95
+00:05:17.200 --> 00:05:18.489
+E ainda tem o cento e dezesseis,
+
+96
+00:05:18.500 --> 00:05:22.089
+que é a margem que eu tenho que pagar sobre quem que eu tenho que pagar aqui sobre
+
+97
+00:05:22.100 --> 00:05:23.570
+os cento e dezesseis sessenta sobre os duzentos e
+
+98
+00:05:23.579 --> 00:05:25.369
+vinte eu tô pagando trinta e nove sessenta,
+
+99
+00:05:25.380 --> 00:05:26.750
+Então, o que que eu vou fazer?
+
+100
+00:05:27.329 --> 00:05:29.480
+Vou pegar o cento e dezesseis, sessenta
+
+101
+00:05:31.799 --> 00:05:33.070
+e multiplicar por
+
+102
+00:05:33.850 --> 00:05:35.959
+dezoito que é o I, C m s dessa operação
+
+103
+00:05:40.589 --> 00:05:45.179
+vai dar vinte e noventa e nove
+
+104
+00:05:45.980 --> 00:05:49.369
+então, vinte e noventa e nove deixa eu colocar aqui no nossa.
+
+105
+00:05:50.589 --> 00:05:53.299
+Mas Matheus, se eu quiser fazer pela base, como que eu faço
+
+106
+00:05:54.220 --> 00:05:55.649
+fazendo pela base
+
+107
+00:05:56.779 --> 00:05:58.450
+trezentos e trinta e seis
+
+108
+00:05:59.450 --> 00:06:00.440
+sessenta,
+
+109
+00:06:01.700 --> 00:06:03.170
+multiplicado por dezoito
+
+110
+00:06:10.040 --> 00:06:13.450
+vai dar sessenta ponto cinquenta e nove.
+
+111
+00:06:13.459 --> 00:06:17.809
+Esse é o i todo i c, m s é suportado da operação todo, i, c,
+
+112
+00:06:17.820 --> 00:06:20.589
+M s até chegar no consumidor final é esse valor,
+
+113
+00:06:21.220 --> 00:06:26.029
+só que se eu jogar isso aqui como i c m s t eu tô duplicando o i c M S da na operação própria,
+
+114
+00:06:26.040 --> 00:06:27.209
+então o que eu tenho que fazer
+
+115
+00:06:36.500 --> 00:06:37.549
+o mesmo valor?
+
+116
+00:06:37.559 --> 00:06:41.390
+Só que aqui eu dei uma volta maior fazendo direto pelo pelo coeficiente x.
+
+117
+00:06:41.399 --> 00:06:45.350
+Nós já encontramos diretamente o valor do I, C m S T,
+
+118
+00:06:45.359 --> 00:06:48.190
+Então aqui só falta preencher o valor total da nota.
+
+119
+00:06:48.200 --> 00:06:52.410
+O I C M S sempre vai fazer parte do valor total da nota. Então, duzentos e quarenta e
+
+120
+00:06:52.980 --> 00:06:54.910
+noventa e nove é o valor total da nota fiscal,
+
+121
+00:06:54.920 --> 00:06:59.450
+que é o quanto esse cliente vai pagar pra essa empresa industrial aqui.
+
+122
+00:06:59.459 --> 00:07:03.529
+Lembrando pessoal que se ficou qualquer dúvida no exemplo que eu acabei de fazer eh,
+
+123
+00:07:03.540 --> 00:07:05.600
+podem colocar nos comentários Ou sempre tá
+
+124
+00:07:05.609 --> 00:07:08.209
+atento aqui nas perguntas pra auxiliar vocês.

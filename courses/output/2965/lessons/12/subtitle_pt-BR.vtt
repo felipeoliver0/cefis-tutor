@@ -1,0 +1,281 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.440
+nós vamos agora pessoal,
+
+2
+00:00:01.450 --> 00:00:05.900
+falar sobre o C N P Cadastro Nacional de Produtos que é aonde o
+
+3
+00:00:05.909 --> 00:00:10.109
+dono da marca ou o fabricante muitas vezes alimenta os dados do GTIN,
+
+4
+00:00:10.119 --> 00:00:10.460
+né?
+
+5
+00:00:10.470 --> 00:00:12.899
+Pra que compõe esse banco de dados nacional do G?
+
+6
+00:00:12.909 --> 00:00:19.100
+S um e, é claro, vem repercutir lá no C C. G Cadastro centralizado de GTIN.
+
+7
+00:00:19.110 --> 00:00:20.040
+Tá bom,
+
+8
+00:00:20.049 --> 00:00:22.719
+então o Cadastro Nacional de Produtos Ele foi criado
+
+9
+00:00:22.729 --> 00:00:25.219
+pela s um pra facilitar a gestão dos produtos,
+
+10
+00:00:25.229 --> 00:00:25.559
+né?
+
+11
+00:00:25.569 --> 00:00:27.760
+Antes desse cadastro existir,
+
+12
+00:00:28.040 --> 00:00:30.409
+a empresa criava de maneira autônoma, né?
+
+13
+00:00:30.420 --> 00:00:33.869
+Ela comprava da jer uma tecnologia de gerar o código de barra A
+
+14
+00:00:33.880 --> 00:00:36.790
+G S um passava o padrão como que era pra ser feito,
+
+15
+00:00:36.799 --> 00:00:40.049
+mas a empresa criava esses códigos de barra dentro da empresa.
+
+16
+00:00:40.060 --> 00:00:44.029
+Então a GS não ficava nem sabendo dos códigos de barras que tem no mercado. Tá?
+
+17
+00:00:44.040 --> 00:00:49.110
+Então é claro que com eh popularização da internet, do mundo digital e tudo mais, né?
+
+18
+00:00:49.549 --> 00:00:51.840
+E isso agora não é dessa maneira,
+
+19
+00:00:51.849 --> 00:00:54.919
+mais então ao invés da da empresa gerar no âmbito interno lá da empresa,
+
+20
+00:00:54.930 --> 00:00:58.319
+a empresa gera no C n p Cadastro Nacional de Produtos.
+
+21
+00:00:58.330 --> 00:01:02.060
+Isso permite que a G S um faça algumas validações que aponte alguma inconsistência,
+
+22
+00:01:02.069 --> 00:01:02.340
+né?
+
+23
+00:01:02.349 --> 00:01:07.440
+É melhor pra pro negócio, né? Que você vai ter um jeitinho aí, cem por cento correto?
+
+24
+00:01:07.449 --> 00:01:07.900
+Tá bom.
+
+25
+00:01:08.879 --> 00:01:09.209
+Então,
+
+26
+00:01:09.220 --> 00:01:11.730
+o Cadastro Nacional de Produtos fornece funcionalidade
+
+27
+00:01:11.739 --> 00:01:14.769
+pra cadastrar as informações técnicas dos produtos.
+
+28
+00:01:14.779 --> 00:01:18.330
+O C n P também Ele tem uma ferramenta lá pra gerar código de barras assim,
+
+29
+00:01:18.339 --> 00:01:20.470
+imprimir colar na embalagem tem,
+
+30
+00:01:20.480 --> 00:01:24.540
+É é claro que numa indústria maior ele manda fazer a embalagem e na na
+
+31
+00:01:24.550 --> 00:01:28.169
+indústria que tá produzindo A embalagem já pega e já coloca ali impresso ali,
+
+32
+00:01:28.180 --> 00:01:30.550
+no rótulo do produto, por exemplo, o código de barra, né?
+
+33
+00:01:30.790 --> 00:01:34.139
+Mas, se a gente for ver lá que vocês viu que na associação lá tem até mai, né?
+
+34
+00:01:34.150 --> 00:01:38.480
+O MEI um produtor pequeno ele pode querer imprimir isso lá E colar lá,
+
+35
+00:01:38.489 --> 00:01:40.879
+com fita adesiva lá na sua, na embalagem, não é?
+
+36
+00:01:40.889 --> 00:01:42.580
+Não tem nada de errado nisso, né?
+
+37
+00:01:42.589 --> 00:01:45.360
+Então, se ele pode até gerar aquilo no C,
+
+38
+00:01:45.370 --> 00:01:48.080
+N P ele gera essas etiquetas pra pregar lá no seu produto.
+
+39
+00:01:48.089 --> 00:01:51.279
+Tá bom! Permite que dados sejam compartilhados com parceiros de negócio, né?
+
+40
+00:01:51.290 --> 00:01:53.839
+Então, isso aqui é uma funcionalidade também do C. N p, né?
+
+41
+00:01:53.849 --> 00:01:56.000
+Se a empresa desejar compartilhar os dados, Ou seja,
+
+42
+00:01:56.010 --> 00:02:00.139
+que seu produto seja visível aí pra todo o mercado ela pode marcar que sim, né?
+
+43
+00:02:00.889 --> 00:02:04.139
+É integrado com o cadastro centralizado? G Tim né? Com o C C G, né?
+
+44
+00:02:04.150 --> 00:02:06.250
+Então o cadastro nacional de produtos da G S um.
+
+45
+00:02:06.260 --> 00:02:07.739
+Ele é integrado com o cadastro do GTIN.
+
+46
+00:02:07.750 --> 00:02:08.050
+Ou seja,
+
+47
+00:02:08.059 --> 00:02:12.610
+quando você lança um produto lá no Cadastro Nacional de Produtos da S um a JS um,
+
+48
+00:02:12.619 --> 00:02:14.839
+informa isso automaticamente lá pro C, C, G, né?
+
+49
+00:02:14.850 --> 00:02:16.339
+Essa é a integração desses cadastros.
+
+50
+00:02:16.350 --> 00:02:20.169
+Tá, então, Ao preencher corretamente o C n p o associado,
+
+51
+00:02:20.179 --> 00:02:22.169
+A G S um garante que os campus D, N, F, E,
+
+52
+00:02:22.179 --> 00:02:25.020
+e D NFC relacionados ao G TIM estarão aptos para
+
+53
+00:02:25.029 --> 00:02:27.399
+a validação da Secretaria da Fazenda do seu estado E,
+
+54
+00:02:27.410 --> 00:02:28.880
+é, claro, de todos os estados, né?
+
+55
+00:02:29.850 --> 00:02:31.380
+Como é que é isso aqui pessoal?
+
+56
+00:02:31.389 --> 00:02:36.800
+Vamos supor que a indústria fez um produto tal colocou lá O código de barras gerou lá,
+
+57
+00:02:36.809 --> 00:02:39.220
+mas não colocou no cadastro nacional de produtos, né?
+
+58
+00:02:39.229 --> 00:02:44.100
+Gerou, naquela sistemática tecnologia antiga, se não tem no cadastro de produtos,
+
+59
+00:02:44.110 --> 00:02:46.100
+isso não vai no cadastro de jeitinho e a
+
+60
+00:02:46.110 --> 00:02:48.020
+hora que for emitir uma nota fiscal daquele produto,
+
+61
+00:02:48.029 --> 00:02:49.199
+vai dar um erro vai falar olha,
+
+62
+00:02:49.399 --> 00:02:50.529
+esse produto não tem lá.
+
+63
+00:02:50.539 --> 00:02:54.970
+No Cadastro Nacional de GTIN, no cadastro nacional descentralizado G,
+
+64
+00:02:54.979 --> 00:02:56.729
+TIM não tem e vai rejeitar a nota.
+
+65
+00:02:56.740 --> 00:02:57.770
+Então, pra empresa,
+
+66
+00:02:57.779 --> 00:03:01.369
+garantir que o seu produto tenha emissão de nota em todos os estados do
+
+67
+00:03:01.380 --> 00:03:05.050
+Brasil sem problemas e não vai ser rejeitado por conta do GTIN Inválido,
+
+68
+00:03:05.059 --> 00:03:05.429
+né?
+
+69
+00:03:05.440 --> 00:03:08.570
+A empresa tem que cadastrar isso lá no c, n P! Tá bom.
+
+70
+00:03:08.580 --> 00:03:11.949
+É isso que a gente quis dizer aqui nesse tópico. Tá bom!

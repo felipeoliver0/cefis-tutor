@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2795,
+    "title": "Tributação no futebol: atletas e clubes",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso sobre a tributação no futebol, você vai aprender a tributação sobre os atletas de futebol, de acordo com as modificações trazidas pela Lei nº 14.597/23 - Lei Geral do Esporte. Entenderá desde a legislação aplicável até aspectos referentes aos tributos relacionados à operação, retribuições econômicas, consequências tributárias, direito de arena, licença para uso de imagem, ISSQN, modelo de gestão dos clubes, contribuições, clube empresa, sociedade anônima, obrigações, regime de tributação e muitos outros pontos importantes para colocar em prática os conhecimento obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/6e0501eb9572204e1fffe932fab99d141728385981.jpg",
+    "goals": [
+      "Compreender a tributação sobre os atletas de futebol, de acordo com as modificações trazidas pela Lei nº 14.597/23 - Lei Geral do Esporte. Compreender a tributação sobre os clubes de futebol, conforme o modelo de gestão adotado; e ao final, ser capaz de indicar o adequado tratamento tributário nas relações entre atletas e/ou clubes de futebol, considerando as características das operações, os riscos e os institutos jurídicos envolvidos na relação."
+    ],
+    "teacher": {
+      "id": 356853,
+      "name": "Richard Paes Lyra Junior",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/0bea74b424e8071b32e0d0a6a15a0fb81630763265.jpeg"
+    },
+    "duration": 9977,
+    "keywords": "futebol;atletas;clubes;tributos;tributação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 39,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 213,
+    "averageRating": 9.38,
+    "practiceAverage": 9.48,
+    "trailer": {
+      "id": "64a1a15f-7f0f-494a-9a65-406e61ef0ed5",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/64a1a15f-7f0f-494a-9a65-406e61ef0ed5/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/64a1a15f-7f0f-494a-9a65-406e61ef0ed5/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/64a1a15f-7f0f-494a-9a65-406e61ef0ed5/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/64a1a15f-7f0f-494a-9a65-406e61ef0ed5/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-09-21T23:27:46.000Z",
+      "updatedAt": "2023-09-21T23:27:46.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 5,
+    "launchDate": "2023-10-24T16:48:17.000Z",
+    "recordedAt": "2023-08-26T00:00:00.000Z",
+    "createdAt": "2023-08-24T19:37:22.000Z"
+  }
+}

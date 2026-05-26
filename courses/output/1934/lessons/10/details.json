@@ -1,0 +1,33 @@
+{
+  "id": 459681,
+  "title": "Exemplo de compra e venda",
+  "position": 10,
+  "duration": 224,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4d0583ae-4fb3-4534-b30e-a68c468e4227/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4d0583ae-4fb3-4534-b30e-a68c468e4227/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4d0583ae-4fb3-4534-b30e-a68c468e4227/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4d0583ae-4fb3-4534-b30e-a68c468e4227/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4d0583ae-4fb3-4534-b30e-a68c468e4227/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

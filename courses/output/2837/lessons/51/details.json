@@ -1,0 +1,33 @@
+{
+  "id": 470882,
+  "title": "Bens destinados a venda",
+  "position": 51,
+  "duration": 80,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f289db66-5b26-42fe-b978-2950d9083517/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f289db66-5b26-42fe-b978-2950d9083517/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f289db66-5b26-42fe-b978-2950d9083517/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f289db66-5b26-42fe-b978-2950d9083517/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f289db66-5b26-42fe-b978-2950d9083517/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

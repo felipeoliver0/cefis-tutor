@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4138,
+    "title": "processos e previsibilidade",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Processos e Previsibilidade - Curso Prático, você irá aprender na prática tudo o que precisa saber sobre gestão de processos e previsibilidade. Aprenderá os fundamentos e a prática de trabalhar processos, criar mapas de contexto e fluxogramas setoriais, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre gestão de processos e previsibilidade.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/8551d7b6-da38-4712-8e4a-648daf6f84ad-thumbnail.png",
+    "goals": [
+      "O objetivo do curso 'Processos e Previsibilidade' é a capacitação para a aplicação prática de gerenciamento de processos e melhoria da previsibilidade em ambientes de trabalho."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 4147,
+    "keywords": "processos;previsibilidade",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 64,
+    "averageRating": 9.23,
+    "practiceAverage": 9.05,
+    "trailer": {
+      "id": "cd7f3a7a-7a30-4bd0-a881-1a2b61c8d329",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cd7f3a7a-7a30-4bd0-a881-1a2b61c8d329/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cd7f3a7a-7a30-4bd0-a881-1a2b61c8d329/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cd7f3a7a-7a30-4bd0-a881-1a2b61c8d329/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cd7f3a7a-7a30-4bd0-a881-1a2b61c8d329/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-16T00:35:07.000Z",
+      "updatedAt": "2025-11-16T00:35:07.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-18T10:08:34.000Z",
+    "recordedAt": "2025-09-03T00:00:00.000Z",
+    "createdAt": "2025-11-15T16:46:53.000Z"
+  }
+}

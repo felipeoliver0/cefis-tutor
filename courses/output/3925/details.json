@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3925,
+    "title": "DFC: Análise e Elaboração da Demonstração dos Fluxos de Caixa",
+    "subtitle": "Decisões Gerenciais e Financeiras",
+    "summary": "Este curso foi desenvolvido para capacitar profissionais na compreensão, elaboração e interpretação da Demonstração dos Fluxos de Caixa (DFC), uma das principais ferramentas de relatórios financeiros. Através de uma análise detalhada, exploraremos as normas contábeis brasileiras e internacionais, enfatizando a CPC 03 (R2), e abordaremos tanto o método direto quanto o indireto de construção da DFC. Finalizaremos com uma atenção especial às utilizações estratégicas da DFC em análises de liquidez, solvência, planejamento orçamentário e análise de cenários.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/6c43a37f-9aa9-4589-8237-9343f2310325-thumbnail.png",
+    "goals": [
+      "O objetivo do curso é fornecer aos alunos um entendimento abrangente da Demonstração dos Fluxos de Caixa, habilitando-os a utilizá-la efetivamente para apoiar decisões financeiras e gerenciais estratégicas."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 18651,
+    "keywords": "DFC;fluxo de caixa;CPC 03;demonstrações financeiras;análise financeira",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 76,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 364,
+    "averageRating": 9.43,
+    "practiceAverage": 9.33,
+    "trailer": {
+      "id": "1c7af80a-ce68-4b53-b1b3-ba7caf74190a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1c7af80a-ce68-4b53-b1b3-ba7caf74190a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1c7af80a-ce68-4b53-b1b3-ba7caf74190a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1c7af80a-ce68-4b53-b1b3-ba7caf74190a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1c7af80a-ce68-4b53-b1b3-ba7caf74190a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-09-05T17:25:24.000Z",
+      "updatedAt": "2025-09-05T17:25:24.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-09-05T17:26:27.000Z",
+    "recordedAt": "2025-08-18T00:00:00.000Z",
+    "createdAt": "2025-08-18T02:40:25.000Z"
+  }
+}

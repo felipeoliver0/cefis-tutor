@@ -1,0 +1,33 @@
+{
+  "id": 480582,
+  "title": "Comunicação Verbal X não verbal",
+  "position": 6,
+  "duration": 452,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e26fc577-786b-459a-934c-f3a650048275/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e26fc577-786b-459a-934c-f3a650048275/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e26fc577-786b-459a-934c-f3a650048275/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e26fc577-786b-459a-934c-f3a650048275/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e26fc577-786b-459a-934c-f3a650048275/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

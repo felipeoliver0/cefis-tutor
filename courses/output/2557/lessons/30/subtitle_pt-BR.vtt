@@ -1,0 +1,737 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.980
+pessoal. Temos mais um modelo de contingência pra nota fiscal modelo meia cinco.
+
+2
+00:00:03.990 --> 00:00:07.340
+Tá que essa contingência aqui ela é adotada em poucos estados.
+
+3
+00:00:07.349 --> 00:00:07.820
+Tá,
+
+4
+00:00:07.829 --> 00:00:12.619
+É adotada a contingência S F Sat e cupom fiscal eletrônico
+
+5
+00:00:12.630 --> 00:00:15.920
+tá S F ainda em uso no estado do Paraná,
+
+6
+00:00:15.930 --> 00:00:20.500
+do Espírito Santa Catarina, o S F, em Santa Catarina, o SA em São Paulo, C,
+
+7
+00:00:20.510 --> 00:00:25.319
+F E em no Ceará Tá bom, é um modelo de contingência mais restrito,
+
+8
+00:00:26.389 --> 00:00:29.200
+esse modelo está disponível nesses estados pra
+
+9
+00:00:29.209 --> 00:00:31.159
+evitar o uso da contingência offline,
+
+10
+00:00:31.170 --> 00:00:31.239
+né?
+
+11
+00:00:31.250 --> 00:00:34.319
+Tem estado que não é confortável em deixar o contribuinte
+
+12
+00:00:34.330 --> 00:00:37.360
+usar a contingência off line por motivos próprios deles,
+
+13
+00:00:37.369 --> 00:00:37.979
+Tá bom?
+
+14
+00:00:38.400 --> 00:00:41.450
+Então, quando tiver um problema na emissão de nota,
+
+15
+00:00:41.459 --> 00:00:44.369
+o contribuinte para de emitir a nota fiscal do consumidor
+
+16
+00:00:44.380 --> 00:00:48.250
+eletrônica e emite por esses outros modos de emissão,
+
+17
+00:00:48.259 --> 00:00:48.529
+né?
+
+18
+00:00:48.540 --> 00:00:53.409
+O site é o sistema autenticado e transmissor de documento fiscal, cupom fiscal,
+
+19
+00:00:53.419 --> 00:00:55.970
+eletrônico e o Velho S F, que todo mundo conhece.
+
+20
+00:00:55.979 --> 00:00:56.509
+Tá bom?
+
+21
+00:00:56.939 --> 00:01:02.630
+Então, isso aí é um modo de contingência desses Estados, porque em Santa Catarina,
+
+22
+00:01:02.639 --> 00:01:05.069
+São Paulo e Ceará tá.
+
+23
+00:01:05.080 --> 00:01:08.569
+Eles não admitem o uso da contingência offline. Tá bom,
+
+24
+00:01:09.180 --> 00:01:13.069
+Então, quando tiver problema, ao invés de fazer a emissão offline,
+
+25
+00:01:13.080 --> 00:01:17.430
+Como a gente acabou de ver, ele vai fazer a contingência usando algum equipamento,
+
+26
+00:01:17.440 --> 00:01:17.550
+né?
+
+27
+00:01:17.559 --> 00:01:22.370
+Algum hardware ali que garante ali a emissão do documento. Tá bom? Então
+
+28
+00:01:22.849 --> 00:01:26.220
+esse é o modelo de contingência desses três estados.
+
+29
+00:01:26.230 --> 00:01:30.900
+Aí é um modelo de contingência que não permite a contingência off line. É a emissão.
+
+30
+00:01:30.910 --> 00:01:33.019
+Na verdade, de outro documento, né?
+
+31
+00:01:33.029 --> 00:01:36.589
+Ela é uma contingência pra continuar emitindo o documento fiscal,
+
+32
+00:01:36.599 --> 00:01:40.739
+mas ela não é bem uma contingência da nota fiscal, porque a nota fiscal, nesse caso,
+
+33
+00:01:40.750 --> 00:01:41.779
+nem é emitida.
+
+34
+00:01:41.790 --> 00:01:44.379
+Nesse caso, a nota, ela não é emitida.
+
+35
+00:01:44.389 --> 00:01:47.500
+O contribuinte para de emitir pra emitir outro documento tá bom.
+
+36
+00:01:47.510 --> 00:01:48.760
+Essa é a contingência
+
+37
+00:01:49.129 --> 00:01:54.160
+destes estados. Conforme a gente falou, tá bom. E como isso funciona?
+
+38
+00:01:54.169 --> 00:01:56.199
+Funciona da seguinte maneira
+
+39
+00:01:56.800 --> 00:01:59.559
+a empresa gera o arquivo x ML da nota fiscal eletrônica na
+
+40
+00:01:59.569 --> 00:02:03.529
+nota do consumidor nesse caso e o envio pra Sefaz está indisponível,
+
+41
+00:02:03.540 --> 00:02:04.010
+né?
+
+42
+00:02:04.019 --> 00:02:05.639
+Já que o envio está indisponível,
+
+43
+00:02:05.650 --> 00:02:09.210
+a empresa acessa a transmissão desse documento e redireciona
+
+44
+00:02:09.220 --> 00:02:11.240
+o seu sistema pra emitir no s F,
+
+45
+00:02:11.250 --> 00:02:12.929
+no site ou no cupom fiscal eletrônico.
+
+46
+00:02:12.940 --> 00:02:15.509
+Tá aí! Sai lá o cupom fiscal eletrônico e pronto.
+
+47
+00:02:15.520 --> 00:02:18.970
+Não há que se falar aqui em transmissão posterior de arquivo. Por quê?
+
+48
+00:02:18.979 --> 00:02:21.350
+O sat, o cupom fiscal eletrônico
+
+49
+00:02:21.630 --> 00:02:26.720
+e o S F? Eles têm plena validade como outro modelo de documento, né?
+
+50
+00:02:26.729 --> 00:02:30.880
+Então, foi emitido outro documento a nota não foi emitida por esse motivo,
+
+51
+00:02:30.889 --> 00:02:33.479
+não há de se falar em transmissão posterior do arquivo.
+
+52
+00:02:33.490 --> 00:02:37.360
+Tá bom a operação ocorreu, o cliente foi embora. Acabou a situação.
+
+53
+00:02:37.369 --> 00:02:41.839
+Aí, quando ah o envio das notas estiver disponível, o contribuinte,
+
+54
+00:02:41.850 --> 00:02:45.220
+ele pode desligar esse canal de transmissão e voltar
+
+55
+00:02:45.229 --> 00:02:47.600
+a emitir a nota fiscal do consumidor eletrônica.
+
+56
+00:02:47.610 --> 00:02:50.100
+Tá bom! Esse é o modelo de contingência, aí
+
+57
+00:02:50.339 --> 00:02:55.029
+em equipamento de hardware, tá disponível apenas em alguns Estados. Tá bom!
+
+58
+00:02:55.039 --> 00:02:56.869
+Vocês viram pessoal que o Estado,
+
+59
+00:02:56.880 --> 00:03:01.350
+ele se esforçou aí em dar várias alternativas de emissão em contingência.
+
+60
+00:03:01.360 --> 00:03:02.929
+São várias alternativas, né?
+
+61
+00:03:03.240 --> 00:03:04.809
+Vários modelos de contingência,
+
+62
+00:03:04.820 --> 00:03:08.970
+Porque pro estado é importante garantir que a empresa continue funcionando, né.
+
+63
+00:03:08.979 --> 00:03:12.169
+Continue vendendo que a empresa não perca cliente, né?
+
+64
+00:03:12.179 --> 00:03:15.440
+Não perca negócio por estar usando um documento fiscal eletrônico,
+
+65
+00:03:15.449 --> 00:03:19.029
+Então existem todas essas alternativas de contingência, né?
+
+66
+00:03:19.039 --> 00:03:22.330
+Porque o Estado quer que a empresa continue funcionando. Tá.
+
+67
+00:03:22.339 --> 00:03:26.449
+Mas a gente não pode ficar também dependente
+
+68
+00:03:26.460 --> 00:03:29.410
+somente das alternativas que o Estado nos oferece,
+
+69
+00:03:29.419 --> 00:03:29.929
+né?
+
+70
+00:03:29.940 --> 00:03:32.949
+Como eu disse aqui no começo desse capítulo de contingência,
+
+71
+00:03:33.339 --> 00:03:36.869
+ah, o faturamento é o ponto principal da empresa porque,
+
+72
+00:03:36.880 --> 00:03:41.750
+pelo faturamento que a empresa obtém, clientes que a empresa tem seus recursos, né?
+
+73
+00:03:41.759 --> 00:03:45.750
+Tem entrada de recurso financeiro aí pra custear as atividades da empresa, né?
+
+74
+00:03:45.759 --> 00:03:48.630
+Então, o faturamento ele é de fundamental importância,
+
+75
+00:03:48.639 --> 00:03:52.589
+E a gente tem a percepção que o faturamento ele não pode parar, né?
+
+76
+00:03:52.600 --> 00:03:56.550
+Porque se o faturamento para a empresa pode parar também,
+
+77
+00:03:56.559 --> 00:03:58.550
+então isso não pode ocorrer de jeito nenhum.
+
+78
+00:03:58.559 --> 00:04:01.610
+Tá bom, então o que que eu convido vocês aqui?
+
+79
+00:04:02.169 --> 00:04:05.460
+Já que o Estado fez a parte dele, A gente também tem que fazer a nossa parte, né.
+
+80
+00:04:05.470 --> 00:04:09.699
+A gente tem que pensar em soluções alternativas, de contingência,
+
+81
+00:04:09.710 --> 00:04:13.759
+não só ficar ali naquelas alternativas que o Estado nos oferece né?
+
+82
+00:04:13.770 --> 00:04:14.559
+Por exemplo,
+
+83
+00:04:14.910 --> 00:04:18.640
+a gente tem que ter um plano de contingência, com alternativas de emissão, né?
+
+84
+00:04:18.649 --> 00:04:20.519
+Que que seria um plano de contingência.
+
+85
+00:04:20.529 --> 00:04:25.519
+Seria a empresa estabelecer, dentre todos esses modelos, que o Estado oferece, né?
+
+86
+00:04:25.529 --> 00:04:28.040
+Como qual? Que é a alternativa que ela vai usar?
+
+87
+00:04:28.049 --> 00:04:29.160
+Em primeiro lugar,
+
+88
+00:04:29.170 --> 00:04:31.839
+como que ela vai fazer pra direcionar o seu
+
+89
+00:04:31.850 --> 00:04:34.720
+sistema de emissão pra uma alternativa de contingência.
+
+90
+00:04:34.730 --> 00:04:36.239
+Quem que vai fazer isso? Né?
+
+91
+00:04:36.250 --> 00:04:41.579
+Que em quantos minutos vai esperar pra acionar a contingência, tudo isso né,
+
+92
+00:04:41.920 --> 00:04:42.730
+Precisa?
+
+93
+00:04:42.739 --> 00:04:43.929
+Tá bem claro, dentro da empresa,
+
+94
+00:04:43.940 --> 00:04:47.829
+porque no momento que o problema ocorrer a empresa não vai ficar parada,
+
+95
+00:04:47.839 --> 00:04:50.769
+porque se não tem um plano de contingência.
+
+96
+00:04:50.779 --> 00:04:52.170
+Quando ocorrer o problema,
+
+97
+00:04:52.179 --> 00:04:54.570
+a empresa pode perder muito tempo pra
+
+98
+00:04:54.579 --> 00:04:57.529
+conseguir acionar uma alternativa de emissão.
+
+99
+00:04:57.540 --> 00:04:58.149
+Tá bom
+
+100
+00:04:58.920 --> 00:05:03.529
+que que mais que nós podemos considerar canais de internet e energia, né?
+
+101
+00:05:03.540 --> 00:05:05.769
+Como eu falei pra vocês quando tava explicando ali,
+
+102
+00:05:05.779 --> 00:05:08.850
+dos equipamentos a a nota fiscal eletrônica?
+
+103
+00:05:08.859 --> 00:05:13.130
+Ela é um arquivo muito pequeno e pode ser usado em três g, quatro g sem problema.
+
+104
+00:05:13.140 --> 00:05:14.910
+Tá bom. Então, por exemplo,
+
+105
+00:05:15.299 --> 00:05:21.989
+um canal de internet com acesso, quatro g ou três g ele resolve bem.
+
+106
+00:05:22.000 --> 00:05:22.399
+Então,
+
+107
+00:05:22.410 --> 00:05:27.070
+pode estar no meu plano de contingência O que se a internet banda larga da empresa,
+
+108
+00:05:27.079 --> 00:05:28.269
+cair, né?
+
+109
+00:05:28.279 --> 00:05:33.750
+Eu tenho sei lá meu celular ou celular, corporativo da empresa ou o celular,
+
+110
+00:05:33.760 --> 00:05:36.130
+mesmo ali do do gerente, quer que seja,
+
+111
+00:05:36.679 --> 00:05:41.369
+Vai ligar esse celular no computador, utilizando a internet do celular,
+
+112
+00:05:41.380 --> 00:05:42.570
+continua o faturamento.
+
+113
+00:05:42.579 --> 00:05:44.690
+Normalmente isso pode ser feito né?
+
+114
+00:05:44.700 --> 00:05:47.260
+E aí a empresa nem precisaria acionar aquelas
+
+115
+00:05:47.269 --> 00:05:49.369
+alternativas de contingência que o Fisco oferece.
+
+116
+00:05:49.380 --> 00:05:56.029
+Tá? Isso é um canal alternativo de internet, né? Pode ser utilizado? Tá bom?
+
+117
+00:05:56.809 --> 00:06:00.779
+Pode ser utilizado também como um canal alternativo de energia. Um no break, né?
+
+118
+00:06:00.790 --> 00:06:06.619
+A gente tem regiões do País que tem falta de energia como rotina, né.
+
+119
+00:06:06.630 --> 00:06:08.140
+Quando isso acontece né?
+
+120
+00:06:08.149 --> 00:06:10.640
+Eu posso precisar de um no break isso Aí tem
+
+121
+00:06:10.649 --> 00:06:12.679
+que ver se o negócio da empresa suporta isso,
+
+122
+00:06:12.690 --> 00:06:12.820
+né?
+
+123
+00:06:12.829 --> 00:06:15.940
+Se a minha empresa ela tem um volume de vendas considerado,
+
+124
+00:06:15.950 --> 00:06:20.459
+e a falta de energia é um problema sério, eu posso ter sim um no break né?
+
+125
+00:06:20.470 --> 00:06:25.660
+Pra suportar que meu negócio continue rodando mesmo quando a energia acabar tá bom?
+
+126
+00:06:25.670 --> 00:06:26.559
+Então
+
+127
+00:06:26.809 --> 00:06:29.100
+eh. Vale a pena a empresa pensar nisso, né?
+
+128
+00:06:29.109 --> 00:06:32.019
+Compensa comprar um no break ou não compensa, né?
+
+129
+00:06:32.029 --> 00:06:34.940
+Isso aí vai ficar a cargo da empresa decidir, né?
+
+130
+00:06:34.950 --> 00:06:39.980
+A gente diz também que é bom a empresa ter um banco de reserva, né? Computadores?
+
+131
+00:06:39.989 --> 00:06:40.820
+Impressoras, né?
+
+132
+00:06:40.829 --> 00:06:41.399
+Por exemplo,
+
+133
+00:06:41.410 --> 00:06:43.170
+se eu tenho uma empresa que eu só tenho um computador
+
+134
+00:06:43.179 --> 00:06:45.720
+na empresa e utilizo esse computador pra fazer emissão de nota,
+
+135
+00:06:45.730 --> 00:06:48.899
+eu tenho que ter uma alternativa quando esse computador der problema, né?
+
+136
+00:06:48.910 --> 00:06:52.480
+Porque uma hora vai dar, Então pode ser uma alternativa. Olha,
+
+137
+00:06:52.760 --> 00:06:55.089
+se o computador der problema, eu tenho um notebook em casa,
+
+138
+00:06:55.100 --> 00:06:58.630
+eu posso trazer ele pra fazer a emissão da nota nesse
+
+139
+00:06:58.640 --> 00:07:01.489
+notebook Ou eu posso ter um contrato com o meu contador?
+
+140
+00:07:01.500 --> 00:07:03.769
+Que eu posso pedir pra ele emitir nota pra mim, né?
+
+141
+00:07:03.779 --> 00:07:07.290
+No sistema lá do do escritório, de contabilidade dele?
+
+142
+00:07:07.299 --> 00:07:12.010
+Ou eu sei um, uma loja aqui perto que aluga o o computador,
+
+143
+00:07:12.019 --> 00:07:15.450
+eu posso me recorrer a essa loja e alugar um computador?
+
+144
+00:07:15.459 --> 00:07:18.809
+Pelo período que o meu computador tiver manutenção, isso tudo vale a pena pensar,
+
+145
+00:07:18.820 --> 00:07:19.170
+né?
+
+146
+00:07:19.179 --> 00:07:21.149
+O mesmo acontece com as impressoras, né?
+
+147
+00:07:21.459 --> 00:07:23.149
+Eu tenho uma impressora pra emitir lá meu
+
+148
+00:07:23.679 --> 00:07:25.790
+e se ela der problema, o que que eu vou fazer?
+
+149
+00:07:25.799 --> 00:07:28.950
+Eu tenho uma impressora do outro departamento que eu posso utilizar.
+
+150
+00:07:28.959 --> 00:07:31.950
+Eu tenho uma impressora em casa. Eu tenho a impressora do contador, né?
+
+151
+00:07:31.959 --> 00:07:34.869
+Eu tenho um lugar que aluga impressora que eu ligo lá, ele traz a impressora pra mim.
+
+152
+00:07:34.880 --> 00:07:37.190
+Eu continuo usando minha impressora normalmente.
+
+153
+00:07:37.200 --> 00:07:42.709
+Então isso vale a pena a gente pensar e tá claro no plano de contingência, né,
+
+154
+00:07:42.720 --> 00:07:46.109
+precisa Já tá tudo planejado pra quando ocorrer o problema, né?
+
+155
+00:07:46.119 --> 00:07:49.049
+A empresa não parar de funcionar? Okay
+
+156
+00:07:49.440 --> 00:07:50.450
+E outra coisa, né?
+
+157
+00:07:50.459 --> 00:07:53.850
+Atentar pra data de validade do certificado digital Eu falei
+
+158
+00:07:53.859 --> 00:07:55.970
+pra vocês que o certificado pode valer um ano,
+
+159
+00:07:55.980 --> 00:07:58.170
+O certificado pode valer três anos, né?
+
+160
+00:07:58.179 --> 00:08:00.730
+Então a gente tem que atentar pra data de validade.
+
+161
+00:08:00.739 --> 00:08:02.579
+Isso porque se o certificado vencer,
+
+162
+00:08:02.589 --> 00:08:05.170
+se não dá pra gente gerar o arquivo X ML porque a
+
+163
+00:08:05.179 --> 00:08:08.630
+assinatura digital vai estar inválida e o porque o certificado tá vencido
+
+164
+00:08:09.299 --> 00:08:11.829
+e você viu que todas as alternativas de contingência que
+
+165
+00:08:11.839 --> 00:08:14.750
+eu mostrei aqui tem que gerar o arquivo x ML.
+
+166
+00:08:14.760 --> 00:08:18.670
+Se a empresa não puder gerar arquivo x ML, não pode emitir nem contingência, né?
+
+167
+00:08:18.679 --> 00:08:20.369
+Então, é muito sério isso né?
+
+168
+00:08:21.089 --> 00:08:22.940
+Já ocorreu o caso, né?
+
+169
+00:08:22.950 --> 00:08:27.820
+Do titular da empresa que podia tirar o certificado digital, né?
+
+170
+00:08:27.829 --> 00:08:30.970
+Tá viajando pro exterior e dar um problema na empresa.
+
+171
+00:08:30.980 --> 00:08:34.119
+Então, a empresa ficou lá quase quinze dias sem poder emitir nota,
+
+172
+00:08:34.130 --> 00:08:36.820
+porque não tinha certificado porque o dono
+
+173
+00:08:36.830 --> 00:08:39.380
+titular da empresa estava em viagem internacional.
+
+174
+00:08:39.390 --> 00:08:41.859
+Isso já ocorreu. Já havia ocorrer isso na prática? Tá.
+
+175
+00:08:41.869 --> 00:08:42.700
+Então,
+
+176
+00:08:42.710 --> 00:08:45.520
+é muito importante a gente atentar pra data de validade
+
+177
+00:08:45.530 --> 00:08:48.820
+do certificado digital e renovar com uma certa antecedência,
+
+178
+00:08:48.830 --> 00:08:49.080
+né?
+
+179
+00:08:49.450 --> 00:08:53.700
+Pra gente não ficar nenhum período aí sem emitir o documento fiscal, tá bom.
+
+180
+00:08:53.710 --> 00:08:55.419
+Então isso que eu falo que a gente tem que
+
+181
+00:08:55.429 --> 00:08:58.820
+considerar além das alternativas que o Fisco nos oferece,
+
+182
+00:08:58.830 --> 00:09:01.380
+temos que montar também a nossa própria alternativa.
+
+183
+00:09:01.390 --> 00:09:04.460
+Tá bom pessoal, é isso que a gente tinha pra falar sobre a contingência.
+
+184
+00:09:04.469 --> 00:09:08.200
+Tá bom, vamos dar sequência aqui no curso abordando outros temas.

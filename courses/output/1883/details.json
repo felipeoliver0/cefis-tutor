@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 1883,
+    "title": "Elaboração de contratos de honorários contábeis",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de elaboração de contratos de honorários contábeis, você aprenderá sobre cláusulas obrigatórias e facultativas, bem como cautelas para a realização destes procedimentos. Dentre os tópicos apresentados, você conhecerá desde as fases contratuais, responsabilidades, deveres do contratante e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/56a631bfed28ee392c6ea924615973901489612397.jpg",
+    "goals": [
+      "Apresentar cláusulas obrigatórias e facultativas, bem como cautelas a serem aderidas na elaboração de contratos de honorários contábeis."
+    ],
+    "teacher": {
+      "id": 520731,
+      "name": "MILENA GUARDA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/17125c45080124918abfa82a75c37bc31628105222.jpg"
+    },
+    "duration": 3765,
+    "keywords": "contratos;elaboração de contratos;contratos contábeis;honorários contábeis;honorários",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 147,
+    "averageRating": 9.22,
+    "practiceAverage": 8.97,
+    "trailer": {
+      "id": "3deff88e-54ce-4c47-946e-c667809f73be",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3deff88e-54ce-4c47-946e-c667809f73be/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3deff88e-54ce-4c47-946e-c667809f73be/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3deff88e-54ce-4c47-946e-c667809f73be/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3deff88e-54ce-4c47-946e-c667809f73be/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-12-05T01:54:20.000Z",
+      "updatedAt": "2021-12-05T02:54:19.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-12-21T15:48:06.000Z",
+    "recordedAt": "2021-11-29T00:00:00.000Z",
+    "createdAt": "2021-11-30T09:02:49.000Z"
+  }
+}

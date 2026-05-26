@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1786,
+    "title": "Poderes do empregador",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso você vai aprender sobre os poderes do empregados em âmbito diretivo e disciplinar. Entenderá sobre a proteção à intimidade e a privacidade do empregado, assédio moral e sexual, revista pessoal x Revista íntima; monitoramento por vídeos e das ligações e computadores, limites aos poderes do empregador, cautelas, responsabilidades e muitos outros pontos importantes.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/fcbe6827bebefb15beaab493362af0611728383397.jpg",
+    "goals": [
+      "Apresentar as características e regras relacionadas aos poderes do empregador."
+    ],
+    "teacher": {
+      "id": 520731,
+      "name": "MILENA GUARDA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/17125c45080124918abfa82a75c37bc31628105222.jpg"
+    },
+    "duration": 4223,
+    "keywords": "poderes;empregador;poderes do empregador",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 456,
+    "averageRating": 9.51,
+    "practiceAverage": 9.51,
+    "trailer": {
+      "id": "76cc7332-034e-4f11-9d13-689226e3f0f4",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/76cc7332-034e-4f11-9d13-689226e3f0f4/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/76cc7332-034e-4f11-9d13-689226e3f0f4/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/76cc7332-034e-4f11-9d13-689226e3f0f4/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/76cc7332-034e-4f11-9d13-689226e3f0f4/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-10-29T13:56:27.000Z",
+      "updatedAt": "2021-10-29T13:56:26.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-10-31T21:26:18.000Z",
+    "recordedAt": "2021-10-26T00:00:00.000Z",
+    "createdAt": "2021-10-25T14:52:28.000Z"
+  }
+}

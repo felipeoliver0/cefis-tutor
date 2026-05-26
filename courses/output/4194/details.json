@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4194,
+    "title": "Programa de alimentação do trabalhador",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Programa de alimentação do trabalhador curso prático você irá aprender na prática tudo o que precisa saber sobre a implementação de programas de alimentação para os trabalhadores. Aprenderá os fundamentos e a prática de legislação trabalhista, benefícios do empregador e incidências trabalhistas e vários outros temas para você que deseja se atualizar ou aprender tudo sobre a alimentação do trabalhador.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/7bb7391d-0ec0-4e93-9952-0419469a1c4b-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Programa de alimentação do trabalhador, curso prático é a capacitação para a aplicação prática de legislação trabalhista relacionada à alimentação do trabalhador, bem como a compreensão dos benefícios que o empregador pode oferecer, a adesão ao programa e a resolução de questões e incidências trabalhistas."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 2745,
+    "keywords": "Programa;alimentação;trabalhador",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 63,
+    "averageRating": 9.52,
+    "practiceAverage": 9.57,
+    "trailer": {
+      "id": "61f5e57e-1f0b-4e0c-a440-5c4f86625c97",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/61f5e57e-1f0b-4e0c-a440-5c4f86625c97/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/61f5e57e-1f0b-4e0c-a440-5c4f86625c97/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/61f5e57e-1f0b-4e0c-a440-5c4f86625c97/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/61f5e57e-1f0b-4e0c-a440-5c4f86625c97/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-17T16:38:34.000Z",
+      "updatedAt": "2025-12-17T16:38:34.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-18T10:16:18.000Z",
+    "recordedAt": "2025-11-26T00:00:00.000Z",
+    "createdAt": "2025-12-17T15:16:40.000Z"
+  }
+}

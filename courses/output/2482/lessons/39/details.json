@@ -1,0 +1,33 @@
+{
+  "id": 466361,
+  "title": "Envio",
+  "position": 39,
+  "duration": 291,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/db8af97c-9aad-456e-8e10-d45eac36d56e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/db8af97c-9aad-456e-8e10-d45eac36d56e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/db8af97c-9aad-456e-8e10-d45eac36d56e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/db8af97c-9aad-456e-8e10-d45eac36d56e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/db8af97c-9aad-456e-8e10-d45eac36d56e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

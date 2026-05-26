@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2059,
+    "title": "Trabalho Avulso, Portuário e Aquaviário",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso você vai aprender sobre as relações trabalhistas em portos, embarcações e fora dos terminais. Entenderá desde conceitos, contratos, legislação aplicável, direitos, deveres, órgão gestor de mão de obra, tripulantes, petroleiros e muitos outros tópicos importantes para aplicar os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/9a2944853dab756a41ec450b229ce48c1728428694.jpg",
+    "goals": [
+      "Elaborar um estudo pormenorizado aos contadores, gestores e demais alunos interessados que lidam em regiões costeiras e fluviais (ou não afinal existe o trabalho avulso na movimentação de mercadorias dentro das cidades) sobre as relações trabalhistas (conceitos, contratos, legislação aplicável, direitos, deveres, órgão gestor de mão de obra, tripulantes, petroleiros etc) em portos, embarcações e fora dos terminais."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 7164,
+    "keywords": "trabalho avulso;portos;aquaviário;direito Trabalhista;trabalho",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 22,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 42,
+    "averageRating": 9.1,
+    "practiceAverage": 8.9,
+    "trailer": {
+      "id": "4e134efd-6607-44fc-9e73-df00d7ae1311",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4e134efd-6607-44fc-9e73-df00d7ae1311/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4e134efd-6607-44fc-9e73-df00d7ae1311/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4e134efd-6607-44fc-9e73-df00d7ae1311/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4e134efd-6607-44fc-9e73-df00d7ae1311/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-06-01T16:32:32.000Z",
+      "updatedAt": "2022-06-01T16:32:32.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-06-02T16:42:38.000Z",
+    "recordedAt": "2022-05-20T00:00:00.000Z",
+    "createdAt": "2022-05-12T11:51:26.000Z"
+  }
+}

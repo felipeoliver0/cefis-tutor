@@ -1,0 +1,33 @@
+{
+  "id": 465494,
+  "title": "Teoria dos Jogos",
+  "position": 7,
+  "duration": 113,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/198f4a52-9ce3-4ad7-ba26-30fdd0028df8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/198f4a52-9ce3-4ad7-ba26-30fdd0028df8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/198f4a52-9ce3-4ad7-ba26-30fdd0028df8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/198f4a52-9ce3-4ad7-ba26-30fdd0028df8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/198f4a52-9ce3-4ad7-ba26-30fdd0028df8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

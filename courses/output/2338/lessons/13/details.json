@@ -1,0 +1,33 @@
+{
+  "id": 464677,
+  "title": "Distribuição disfarçada de lucros - Penalidades",
+  "position": 13,
+  "duration": 108,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/35b1e56e-8c7c-4447-ba99-fee46f94c012/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/35b1e56e-8c7c-4447-ba99-fee46f94c012/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/35b1e56e-8c7c-4447-ba99-fee46f94c012/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/35b1e56e-8c7c-4447-ba99-fee46f94c012/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/35b1e56e-8c7c-4447-ba99-fee46f94c012/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

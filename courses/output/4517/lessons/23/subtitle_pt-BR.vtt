@@ -1,0 +1,769 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.400
+Transmissão, cancelamento e substituição da ECD.
+
+3
+00:00:04.400 --> 00:00:09.039
+Você viu que a ECD não retifica, ela substitui se for o caso.
+
+4
+00:00:09.039 --> 00:00:14.919
+Então, a ECD autenticada, ou seja, entregue, recepcionada, autenticada,
+
+5
+00:00:14.919 --> 00:00:22.000
+somente pode ser substituído caso tenha erros que não possam ser corrigidos
+
+6
+00:00:22.000 --> 00:00:26.079
+por meio de lançamento contábil extemporâneo.
+
+7
+00:00:26.079 --> 00:00:28.399
+O que é lançamento contábil extemporâneo?
+
+8
+00:00:28.399 --> 00:00:32.679
+Lançamento fora do prazo, extemporâneo, né? Fora do prazo.
+
+9
+00:00:32.679 --> 00:00:41.600
+Conforme previsto nos itens 31 a 36 da ITG 2000 Revisão 1, R1,
+
+10
+00:00:41.600 --> 00:00:45.119
+Situação Contábil do Conselho Federal de Contabilidade,
+
+11
+00:00:45.119 --> 00:00:48.880
+que foi publicada lá em 12 de dezembro de 2014.
+
+12
+00:00:48.880 --> 00:00:56.640
+Então, se nós temos, descobrimos erros e eu não consigo fazer extemporâneo,
+
+13
+00:00:56.640 --> 00:00:58.359
+aí sim eu tenho que substituir.
+
+14
+00:00:58.359 --> 00:00:58.380
+Então, se nós temos, descobrimos erros e eu não consigo fazer extemporâneo, aí sim eu tenho que substituir.
+
+15
+00:00:58.380 --> 00:00:58.579
+Então, se nós temos, descobrimos erros e eu não consigo fazer extemporâneo,
+
+16
+00:00:58.579 --> 00:01:00.359
+aí sim eu tenho que substituir a nossa ECD.
+
+17
+00:01:00.939 --> 00:01:05.519
+A autenticação poderá ser cancelada quando a ECD for transmitida com erro
+
+18
+00:01:05.519 --> 00:01:12.239
+ou quando for identificado o erro de fato que Tone emprestava a escrituração.
+
+19
+00:01:12.359 --> 00:01:14.019
+Aí eu posso substituir.
+
+20
+00:01:14.439 --> 00:01:15.799
+Mas olha só o detalhe.
+
+21
+00:01:16.239 --> 00:01:19.760
+Entende-se por erro de fato que Tone emprestava a escrituração
+
+22
+00:01:19.760 --> 00:01:23.680
+qualquer erro que não possa ser corrigido
+
+23
+00:01:23.680 --> 00:01:27.760
+conforme previsto nas normas brasileiras de contabilidade.
+
+24
+00:01:27.760 --> 00:01:28.340
+E que não possa ser corrigido conforme previsto nas normas brasileiras de contabilidade.
+
+25
+00:01:28.340 --> 00:01:31.079
+E que gere demonstrações inconsistentes.
+
+26
+00:01:31.700 --> 00:01:32.180
+Perfeito?
+
+27
+00:01:32.680 --> 00:01:38.060
+Depois de autenticado, somente poderão ser substituídos os livros que contêm esses erros.
+
+28
+00:01:38.140 --> 00:01:40.299
+Diário, razão e etc. Balancete, né?
+
+29
+00:01:40.680 --> 00:01:43.980
+Que não possa ser corrigido por meio de lançamentos temporâneos.
+
+30
+00:01:44.400 --> 00:01:48.319
+A retificação de lançamento é o processo técnico de correção,
+
+31
+00:01:49.180 --> 00:01:52.280
+registro realizado com erro na escrituração contábil da entidade.
+
+32
+00:01:52.280 --> 00:01:58.159
+Que pode ser feito por meio de estorno, transferência e complementação do lançamento.
+
+33
+00:01:58.159 --> 00:02:02.480
+Isso está lá no artigo 31 a 36 da NBC-TG-2000.
+
+34
+00:02:02.939 --> 00:02:03.659
+Revisão 1.
+
+35
+00:02:04.200 --> 00:02:08.300
+Cancelamento e autenticação da ICD substituta somente pode ser feito
+
+36
+00:02:08.300 --> 00:02:11.620
+mediante o termo de verificação.
+
+37
+00:02:11.699 --> 00:02:13.219
+E aqui entra outro bloco. Olha lá.
+
+38
+00:02:13.900 --> 00:02:16.379
+Registro J801.
+
+39
+00:02:17.020 --> 00:02:18.060
+Vou mostrar para vocês.
+
+40
+00:02:18.180 --> 00:02:23.159
+Para fim de substituição, que justifique o qual deverá integrar a escrituração substituta
+
+41
+00:02:23.159 --> 00:02:27.280
+e conterá, além do detalhamento dos erros,
+
+42
+00:02:27.280 --> 00:02:28.960
+que motivar a substituição.
+
+43
+00:02:29.599 --> 00:02:34.919
+Então, aqui no caso, meus caros, o resumo da ópera é o seguinte.
+
+44
+00:02:35.560 --> 00:02:40.039
+Eu tenho lá uma demonstração contábil, mandei lá a minha CD,
+
+45
+00:02:40.699 --> 00:02:46.599
+só que eu detectei erros, mas eu posso corrigir, que são os lançamentos temporâneos.
+
+46
+00:02:46.659 --> 00:02:51.580
+Se eu posso corrigir, é diretamente dentro do patrimônio líquido, como diz a NBC-TG.
+
+47
+00:02:52.340 --> 00:02:56.120
+Eu deixei de contabilizar uma despesa, deixei de contabilizar uma receita.
+
+48
+00:02:56.120 --> 00:02:57.120
+Então, eu vou corrigir.
+
+49
+00:02:57.120 --> 00:02:57.240
+Então, eu vou corrigir.
+
+50
+00:02:57.240 --> 00:02:57.259
+Então, eu vou corrigir.
+
+51
+00:02:57.259 --> 00:03:01.400
+Então, eu vou contabilizar no mesmo período que eu descobri esse erro
+
+52
+00:03:01.400 --> 00:03:04.460
+e sempre dentro do patrimônio líquido.
+
+53
+00:03:04.979 --> 00:03:08.819
+E como nós comentamos, aí já gera a necessidade de elaborar a DRA.
+
+54
+00:03:09.099 --> 00:03:09.520
+Perfeito?
+
+55
+00:03:09.979 --> 00:03:12.680
+Então, eu estou fazendo lá dentro do meu patrimônio líquido.
+
+56
+00:03:12.759 --> 00:03:13.159
+Muito bem.
+
+57
+00:03:13.960 --> 00:03:20.039
+Agora, caso eu não consiga, foi por outro motivo que eu não consiga realizar
+
+58
+00:03:20.039 --> 00:03:22.699
+e corrigir através de lançamentos temporâneos,
+
+59
+00:03:22.699 --> 00:03:27.180
+aí eu sou obrigado a fazer um termo,
+
+60
+00:03:27.180 --> 00:03:31.199
+de verificação, pormenorizando qual foi o erro.
+
+61
+00:03:31.840 --> 00:03:34.780
+Eu trouxe, inclusive, um modelo simples para vocês entenderem.
+
+62
+00:03:35.199 --> 00:03:36.860
+Sou obrigado a fazer esse termo.
+
+63
+00:03:37.099 --> 00:03:41.020
+E esse termo, eu vou salvar ele na extensão RTF
+
+64
+00:03:41.020 --> 00:03:44.159
+e vou pendurar lá no bloco J801.
+
+65
+00:03:44.740 --> 00:03:47.300
+Se eu não fizer isso, nada vale.
+
+66
+00:03:48.180 --> 00:03:50.300
+Eu sou obrigado a fazer o termo.
+
+67
+00:03:50.340 --> 00:03:50.740
+Perfeito?
+
+68
+00:03:51.099 --> 00:03:52.219
+Detalhando o meu erro.
+
+69
+00:03:52.699 --> 00:03:55.080
+E aí, vou pendurar ele, salvo ele na extensão,
+
+70
+00:03:55.080 --> 00:03:56.919
+eu faço ele em um Word,
+
+71
+00:03:56.919 --> 00:04:00.259
+depois eu peço para salvar, vou lá na extensão RTF,
+
+72
+00:04:00.759 --> 00:04:04.439
+que em inglês significa Read Text Format, ou seja, formato de texto,
+
+73
+00:04:04.939 --> 00:04:08.039
+vou lá e penduro esse arquivo lá no J800.
+
+74
+00:04:08.139 --> 00:04:10.340
+É fácil, você vai lá, digita lá,
+
+75
+00:04:10.599 --> 00:04:13.919
+depois você coloca importar, você importa, ele já vai cair lá dentro bonitinho.
+
+76
+00:04:14.819 --> 00:04:16.860
+Sem isso, não há substituição.
+
+77
+00:04:17.980 --> 00:04:20.899
+Para que vá a substituição, precisa anexar o termo.
+
+78
+00:04:21.660 --> 00:04:24.779
+Então, para fim de substituição que justifique
+
+79
+00:04:24.779 --> 00:04:26.779
+o qual deverá integrar a escrituração,
+
+80
+00:04:26.920 --> 00:04:32.680
+substituta e conterá, além do detalhamento dos erros,
+
+81
+00:04:33.379 --> 00:04:35.379
+que motivaram a substituição, olha lá.
+
+82
+00:04:35.779 --> 00:04:38.860
+Identificação da escrituração que vai ser substituída,
+
+83
+00:04:39.360 --> 00:04:43.420
+descrição pormenorizada do erro, vou ter que detalhar onde é que eu errei,
+
+84
+00:04:43.939 --> 00:04:48.779
+identificação clara e precisa dos registros que contém os erros,
+
+85
+00:04:49.319 --> 00:04:53.040
+exceto quando esses decorrerem de outro erro já discriminado.
+
+86
+00:04:53.040 --> 00:04:55.040
+Se eu já discriminei, não preciso fazer de novo.
+
+87
+00:04:55.040 --> 00:04:55.540
+Perfeito?
+
+88
+00:04:56.100 --> 00:04:56.600
+O que mais?
+
+89
+00:04:56.920 --> 00:05:01.420
+Autorização expressa para o Conselho Federal de Contabilidade,
+
+90
+00:05:02.680 --> 00:05:04.680
+ou seja, para ele ter acesso.
+
+91
+00:05:05.259 --> 00:05:10.180
+Isso, inclusive, corre o risco de te desqualificar como profissional técnico,
+
+92
+00:05:10.519 --> 00:05:11.319
+dependendo do erro.
+
+93
+00:05:11.819 --> 00:05:16.860
+Tanto é que você está dando autorização expressa para o CFC entrar lá e verificar
+
+94
+00:05:16.860 --> 00:05:19.060
+porque está substituindo uma contabilidade.
+
+95
+00:05:19.680 --> 00:05:20.180
+Entendeu?
+
+96
+00:05:20.579 --> 00:05:21.079
+Perfeito?
+
+97
+00:05:21.079 --> 00:05:23.079
+Ó, pertinente as modificações.
+
+98
+00:05:23.079 --> 00:05:26.540
+E a descrição dos procedimentos pré-acordados,
+
+99
+00:05:26.540 --> 00:05:29.279
+executados pelos auditores, independentes,
+
+100
+00:05:29.899 --> 00:05:35.279
+mencionados no parágrafo 2º do inciso 2º do artigo 8º da IN-2003,
+
+101
+00:05:35.420 --> 00:05:37.279
+quando esse julgar é necessário.
+
+102
+00:05:38.000 --> 00:05:38.180
+Né?
+
+103
+00:05:38.420 --> 00:05:40.259
+Então, também tem que mencionar os auditores.
+
+104
+00:05:40.339 --> 00:05:42.040
+Se foi auditado, ele errou junto com você.
+
+105
+00:05:42.459 --> 00:05:43.100
+Não tenho dúvida.
+
+106
+00:05:43.339 --> 00:05:43.699
+Perfeito?
+
+107
+00:05:44.040 --> 00:05:44.959
+Então, tem que mencionar.
+
+108
+00:05:45.180 --> 00:05:47.339
+Está lá no artigo 8º da IN-2003.
+
+109
+00:05:47.339 --> 00:05:51.339
+O termo de verificação para fins de substituição,
+
+110
+00:05:51.779 --> 00:05:53.620
+somente se for substituição, tá?
+
+111
+00:05:54.360 --> 00:05:56.339
+Deve ser assinado pelo profissional...
+
+112
+00:05:56.540 --> 00:06:01.540
+O profissional de contabilidade que assina os livros contábeis substitutos
+
+113
+00:06:01.920 --> 00:06:04.699
+e também pelo auditor independente,
+
+114
+00:06:04.699 --> 00:06:10.500
+no caso de demonstrações contábeis que foram auditadas por eles.
+
+115
+00:06:11.180 --> 00:06:14.420
+Obviamente, porque se você errou, ele errou junto, ele auditou.
+
+116
+00:06:15.160 --> 00:06:17.500
+Então, quando ele estiver auditando a sua contabilidade,
+
+117
+00:06:18.000 --> 00:06:20.420
+tem que dar uma olhada na ICD, sem sombra de dúvida,
+
+118
+00:06:20.420 --> 00:06:22.000
+porque a contabilidade é a ICD.
+
+119
+00:06:22.800 --> 00:06:23.420
+Perfeito?
+
+120
+00:06:23.819 --> 00:06:26.379
+E por incrível que pareça, tem auditores cobrando,
+
+121
+00:06:26.379 --> 00:06:27.379
+para poder assinar.
+
+122
+00:06:27.379 --> 00:06:28.379
+Vocês acreditam?
+
+123
+00:06:28.379 --> 00:06:30.379
+Que não faz o menor sentido.
+
+124
+00:06:30.379 --> 00:06:32.379
+Porque significa que ele não olhou direito.
+
+125
+00:06:32.379 --> 00:06:35.379
+Se tiver erro, erro contábil, perfeito?
+
+126
+00:06:35.379 --> 00:06:37.379
+É que aqui nós estamos substituindo.
+
+127
+00:06:37.379 --> 00:06:41.379
+E, normalmente, quando é um erro por ausência de uma contabilização,
+
+128
+00:06:41.379 --> 00:06:44.379
+seja uma receita, seja uma despesa, seja um patrimônio,
+
+129
+00:06:45.379 --> 00:06:51.379
+se for inerente a isso, eu consigo ajustar para o lançamento extemporâneo,
+
+130
+00:06:51.379 --> 00:06:53.379
+conforme diz a norma brasileira de contabilidade.
+
+131
+00:06:54.379 --> 00:06:56.379
+Agora, se eu estou substituindo, é porque é algo mais inerente.
+
+132
+00:06:57.379 --> 00:06:58.379
+Perfeito?
+
+133
+00:06:58.379 --> 00:07:00.379
+Então, nós temos que ficar muito atentos com isso.
+
+134
+00:07:00.379 --> 00:07:02.379
+Então, o auditor tem que assinar.
+
+135
+00:07:02.379 --> 00:07:04.379
+Se a empresa for auditada, ele tem que assinar também.
+
+136
+00:07:05.379 --> 00:07:07.379
+E, na minha visão, não deveria cobrar absolutamente nada.
+
+137
+00:07:07.379 --> 00:07:09.379
+E estão cobrando.
+
+138
+00:07:09.379 --> 00:07:13.379
+O profissional da contabilidade que não assina a escrituração
+
+139
+00:07:13.379 --> 00:07:17.379
+poderá manifestar-se no termo de verificação
+
+140
+00:07:17.379 --> 00:07:21.379
+para fins de substituição da ICD,
+
+141
+00:07:21.379 --> 00:07:26.379
+desde que a manifestação se restringe às modificações neles relatadas.
+
+142
+00:07:26.379 --> 00:07:29.379
+Não é muito comum encontrar profissional que assine
+
+143
+00:07:29.379 --> 00:07:32.379
+e que não tenha sido o contador mesmo que mandou a coisa.
+
+144
+00:07:32.379 --> 00:07:36.379
+Mas ele pode fazer isso. A legislação dá essa brecha.
+
+145
+00:07:36.379 --> 00:07:40.379
+A substituição da ICD só poderá ser feita
+
+146
+00:07:40.379 --> 00:07:47.379
+até o fim do prazo de entrega da ICD relativo ao ano-calendário subsequente.
+
+147
+00:07:47.379 --> 00:07:49.379
+Então, é assim, pessoal.
+
+148
+00:07:49.379 --> 00:07:55.379
+Eu não consigo substituir a ICD de anos anteriores.
+
+149
+00:07:55.379 --> 00:07:56.379
+Não.
+
+150
+00:07:56.379 --> 00:08:01.379
+Eu só consigo substituir a última entrega antes de eu entregar a próxima.
+
+151
+00:08:01.379 --> 00:08:05.379
+Então, por exemplo, nós vamos entregar agora a de 2025,
+
+152
+00:08:05.379 --> 00:08:09.379
+que eu vou entregar até o final de junho deste ano,
+
+153
+00:08:09.379 --> 00:08:11.379
+se é que eu já não entreguei.
+
+154
+00:08:11.379 --> 00:08:15.379
+Eu só consigo substituir a de 2024,
+
+155
+00:08:15.379 --> 00:08:18.379
+porque eu não entreguei a de 2025 ainda.
+
+156
+00:08:18.379 --> 00:08:19.379
+Sempre.
+
+157
+00:08:19.379 --> 00:08:24.379
+Você só consegue substituir a última entrega antes de entregar a próxima.
+
+158
+00:08:24.379 --> 00:08:25.379
+Como nós vamos entregar a próxima?
+
+159
+00:08:25.379 --> 00:08:28.379
+Se eu entregar a 2025, que é agora em 2026,
+
+160
+00:08:28.379 --> 00:08:31.379
+eu só consigo substituir a de 2024.
+
+161
+00:08:31.379 --> 00:08:32.379
+E de 2023?
+
+162
+00:08:32.379 --> 00:08:33.379
+Não, não consegue.
+
+163
+00:08:33.379 --> 00:08:34.379
+Entendeu?
+
+164
+00:08:34.379 --> 00:08:36.379
+Eu não vou falar para vocês que é impossível,
+
+165
+00:08:36.379 --> 00:08:38.379
+porque dependendo como for a situação,
+
+166
+00:08:38.379 --> 00:08:39.379
+dependendo do que aconteceu,
+
+167
+00:08:39.379 --> 00:08:43.379
+pode ser que um processo administrativo junto à Receita Federal
+
+168
+00:08:43.379 --> 00:08:45.379
+você obtenha êxito.
+
+169
+00:08:45.379 --> 00:08:47.379
+Mas não é normal isso.
+
+170
+00:08:47.379 --> 00:08:48.379
+Não é comum.
+
+171
+00:08:48.379 --> 00:08:49.379
+A lei é clara.
+
+172
+00:08:49.379 --> 00:08:54.379
+Só consigo substituir a última entrega antes de entregar a próxima.
+
+173
+00:08:54.379 --> 00:08:57.379
+Então a próxima que nós vamos entregar é de 2025.
+
+174
+00:08:57.379 --> 00:09:00.379
+Então eu só consigo substituir a de 2024.
+
+175
+00:09:00.379 --> 00:09:01.379
+Perfeito?
+
+176
+00:09:01.379 --> 00:09:02.379
+Ficou claro?
+
+177
+00:09:02.379 --> 00:09:05.379
+Eu não retifico o ECD,
+
+178
+00:09:05.379 --> 00:09:07.379
+que é diferentemente da ECF.
+
+179
+00:09:07.379 --> 00:09:08.379
+A ECF eu retifico,
+
+180
+00:09:08.379 --> 00:09:10.379
+a ECD não.
+
+181
+00:09:10.379 --> 00:09:12.379
+Eu não posso retificar a contabilidade.
+
+182
+00:09:12.379 --> 00:09:13.379
+E cuidado,
+
+183
+00:09:13.379 --> 00:09:16.379
+estou dando autorização para o Conselho Federal de Contabilidade
+
+184
+00:09:16.379 --> 00:09:18.379
+ter acesso a essa subvisão.
+
+185
+00:09:18.379 --> 00:09:21.379
+Por que eu estou substituindo uma contabilidade?
+
+186
+00:09:21.379 --> 00:09:22.379
+Ainda mais você, nosso aluno,
+
+187
+00:09:22.379 --> 00:09:23.379
+que trabalha em grandes empresas,
+
+188
+00:09:23.379 --> 00:09:25.379
+Sociedade Anônima, por exemplo.
+
+189
+00:09:25.379 --> 00:09:26.379
+Por que eu estou substituindo?
+
+190
+00:09:26.379 --> 00:09:28.379
+Então os auditores também é raro,
+
+191
+00:09:28.379 --> 00:09:29.379
+vão ter que assinar junto.
+
+192
+00:09:29.379 --> 00:09:31.379
+Então tem todo um detalhamento.
+
+193
+00:09:31.379 --> 00:09:32.379
+Perfeito?

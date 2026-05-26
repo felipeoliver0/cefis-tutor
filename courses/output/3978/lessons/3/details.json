@@ -1,0 +1,33 @@
+{
+  "id": 480274,
+  "title": "Indicadores",
+  "position": 3,
+  "duration": 494,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2e5eb79d-db13-45e3-b6a2-5c8ee6d047cf/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e5eb79d-db13-45e3-b6a2-5c8ee6d047cf/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e5eb79d-db13-45e3-b6a2-5c8ee6d047cf/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e5eb79d-db13-45e3-b6a2-5c8ee6d047cf/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e5eb79d-db13-45e3-b6a2-5c8ee6d047cf/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

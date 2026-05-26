@@ -1,0 +1,33 @@
+{
+  "id": 462370,
+  "title": "Criminal Compliance - Histórico - parte 2",
+  "position": 14,
+  "duration": 439,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ae8dc296-1960-4f8a-83be-cd9b94e3fe0a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ae8dc296-1960-4f8a-83be-cd9b94e3fe0a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ae8dc296-1960-4f8a-83be-cd9b94e3fe0a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ae8dc296-1960-4f8a-83be-cd9b94e3fe0a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ae8dc296-1960-4f8a-83be-cd9b94e3fe0a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

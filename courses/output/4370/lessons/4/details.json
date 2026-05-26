@@ -1,0 +1,33 @@
+{
+  "id": 486466,
+  "title": "Qualidade de segurado",
+  "position": 5,
+  "duration": 248,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bb9f3187-76b1-43e5-b221-e61213e60408/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb9f3187-76b1-43e5-b221-e61213e60408/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb9f3187-76b1-43e5-b221-e61213e60408/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb9f3187-76b1-43e5-b221-e61213e60408/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb9f3187-76b1-43e5-b221-e61213e60408/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

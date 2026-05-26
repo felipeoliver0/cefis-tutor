@@ -1,0 +1,33 @@
+{
+  "id": 486008,
+  "title": "Diretrizes técnicas",
+  "position": 17,
+  "duration": 137,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f11204ce-2670-4e86-a71f-c673dd0d9c16/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f11204ce-2670-4e86-a71f-c673dd0d9c16/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f11204ce-2670-4e86-a71f-c673dd0d9c16/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f11204ce-2670-4e86-a71f-c673dd0d9c16/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f11204ce-2670-4e86-a71f-c673dd0d9c16/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

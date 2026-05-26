@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2670,
+    "title": "Jurisprudência do CARF sobre créditos de PIS e COFINS",
+    "subtitle": "Oportunidades de redução da carga tributária",
+    "summary": "Neste curso você aprenderá desde a origem do CARF e sua utilidade, até fases de cobrança do crédito tributário, pesquisa de jurisprudência, discussão de casos para demonstrar oportunidades de redução da carga tributária que você poderá aplicar na prática.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/d7f1bb216e0849a02fd48c700a8636031728428590.jpg",
+    "goals": [
+      "Demonstrar oportunidades de redução da carga tributária por meio da análise de jurisprudências do CARF."
+    ],
+    "teacher": {
+      "id": 543080,
+      "name": "Kleber Antonio dos Santos",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1643047713.jpeg"
+    },
+    "duration": 2346,
+    "keywords": "carf;pis;cofins;oportunidade;carga tributaria",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 196,
+    "averageRating": 9.36,
+    "practiceAverage": 9.33,
+    "trailer": {
+      "id": "0678ba70-6abd-4afe-a1ac-b50fb8f7e410",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0678ba70-6abd-4afe-a1ac-b50fb8f7e410/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0678ba70-6abd-4afe-a1ac-b50fb8f7e410/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0678ba70-6abd-4afe-a1ac-b50fb8f7e410/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0678ba70-6abd-4afe-a1ac-b50fb8f7e410/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-08-14T19:36:44.000Z",
+      "updatedAt": "2023-08-14T19:36:44.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-08-09T07:50:04.000Z",
+    "recordedAt": "2023-07-27T00:00:00.000Z",
+    "createdAt": "2023-07-27T08:28:24.000Z"
+  }
+}

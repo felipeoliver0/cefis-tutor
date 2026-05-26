@@ -1,0 +1,33 @@
+{
+  "id": 465953,
+  "title": "Combinar modalidades de transação",
+  "position": 9,
+  "duration": 268,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d99f39f5-f96e-4823-9d58-68d718e24fec/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d99f39f5-f96e-4823-9d58-68d718e24fec/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d99f39f5-f96e-4823-9d58-68d718e24fec/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d99f39f5-f96e-4823-9d58-68d718e24fec/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d99f39f5-f96e-4823-9d58-68d718e24fec/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

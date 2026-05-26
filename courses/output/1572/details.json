@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 1572,
+    "title": "IPO - Estruturando a Abertura de Capital",
+    "subtitle": "Como Estruturar uma Oferta Pública de Ações",
+    "summary": "Este curso tem como objetivo desenvolver nos alunos a habilidade de entender a dinâmica de um IPO;\n\nHabilitar os alunos a identificarem as motivações para realização de uma oferta pública de ações;\n\nApresentar aos alunos os níveis de governança corporativa da BM&FBOVESPA e suas características intrínsecas, dado o tamanho da oferta e as características da empresa emissora.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/46ad62c58d2e5c95cfbcd6a44dacbd9e1728428576.jpg",
+    "goals": [
+      "O curso tem como objetivo detalhar os prós e contras da abertura de capital, o passo a passo para a realização de uma oferta pública inicial de ações (IPO) e as práticas que as empresas devem adotar nas searas da comunicação e da governança para ter uma convivência harmônica com os novos sócios."
+    ],
+    "teacher": {
+      "id": 355295,
+      "name": "TIAGO DE VASCONCELOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/869486d17f542c6dcf05d8d289ab9ed11550593587.jpg"
+    },
+    "duration": 8066,
+    "keywords": "ipo;mercado de Capitais;Bolsa de valores;Bovespa;aberto",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 34,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      4,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 131,
+    "averageRating": 9.35,
+    "practiceAverage": 9.52,
+    "trailer": {
+      "id": "57223f5a-dd52-458b-8a51-e0ad43694032",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/57223f5a-dd52-458b-8a51-e0ad43694032/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/57223f5a-dd52-458b-8a51-e0ad43694032/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/57223f5a-dd52-458b-8a51-e0ad43694032/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/57223f5a-dd52-458b-8a51-e0ad43694032/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-08-14T11:52:59.000Z",
+      "updatedAt": "2021-08-14T11:52:58.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 6,
+    "launchDate": "2021-06-21T23:01:24.000Z",
+    "recordedAt": "2021-06-15T00:00:00.000Z",
+    "createdAt": "2021-06-21T22:53:14.000Z"
+  }
+}

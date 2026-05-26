@@ -1,0 +1,457 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:00.280
+pessoal.
+
+2
+00:00:00.289 --> 00:00:02.700
+Outra coisa importante pra gente verificar é a data
+
+3
+00:00:02.710 --> 00:00:04.980
+de emissão em data de autorização do documento.
+
+4
+00:00:04.989 --> 00:00:08.300
+Isso que é especialmente importante pra quem trabalha em empresa
+
+5
+00:00:08.310 --> 00:00:12.119
+transportadora de valor de valor da transportadora de cargas,
+
+6
+00:00:12.590 --> 00:00:16.239
+que precisa ter um documento fiscal válido pra transportar o documento.
+
+7
+00:00:16.250 --> 00:00:17.479
+Então, empresas,
+
+8
+00:00:17.489 --> 00:00:20.520
+documentos fiscais tem uma data de validade e varia do
+
+9
+00:00:20.530 --> 00:00:23.020
+u f pra outra pra fazer a circulação da mercadoria,
+
+10
+00:00:23.030 --> 00:00:23.049
+né?
+
+11
+00:00:23.059 --> 00:00:27.930
+Por exemplo eu não posso fazer um transporte hoje do que tá saindo da nota.
+
+12
+00:00:27.940 --> 00:00:31.000
+Será de um ano atrás esse documento que já tá vencido, né?
+
+13
+00:00:31.010 --> 00:00:34.659
+De acordo com as obras do fisco, aí para fazer circulação de mercadoria,
+
+14
+00:00:34.930 --> 00:00:36.680
+então eu não vou poder usar.
+
+15
+00:00:36.689 --> 00:00:39.819
+Então é bom também pra quem trabalha no transportador que vai
+
+16
+00:00:39.830 --> 00:00:42.540
+fazer o transporte cart que vai dar saída ali nas Cartes.
+
+17
+00:00:42.549 --> 00:00:44.580
+Ver a data de autorização do documento,
+
+18
+00:00:44.590 --> 00:00:47.779
+pra ver se tá dentro do prazo e hábil pra fazer a circulação de mercadoria.
+
+19
+00:00:47.790 --> 00:00:52.659
+A data a gente vai ver aqui em cima oh data de emissão, data de saída, né,
+
+20
+00:00:52.669 --> 00:00:55.259
+e aqui embaixo a gente vê a data de autorização de uso,
+
+21
+00:00:55.270 --> 00:00:57.299
+a gente confere as datas pra ver se tá tudo certinho
+
+22
+00:00:57.310 --> 00:01:00.580
+pra fazer aquela operação de transporte com essa nota fiscal eletrônica.
+
+23
+00:01:00.590 --> 00:01:01.200
+Tá bom!
+
+24
+00:01:01.959 --> 00:01:04.209
+Outra coisa, que é que é útil, pra gente ver.
+
+25
+00:01:04.220 --> 00:01:06.410
+É uma curiosidade que, a gente ver são os eventos, né.
+
+26
+00:01:06.419 --> 00:01:11.889
+Os eventos eles são indícios, né. De que a operação está sendo feita com sucesso?
+
+27
+00:01:11.900 --> 00:01:13.110
+Tá tudo certinho com ela.
+
+28
+00:01:13.599 --> 00:01:17.470
+Por exemplo, a nota interestadual que veio lá do Espírito Santo pra Goiás.
+
+29
+00:01:17.480 --> 00:01:19.110
+Isso veio transportado, né?
+
+30
+00:01:19.120 --> 00:01:21.379
+Então a transportadora ela tem que ter feito
+
+31
+00:01:21.389 --> 00:01:23.290
+o conhecimento de transporte eletrônico pra essa nota,
+
+32
+00:01:23.300 --> 00:01:23.650
+né?
+
+33
+00:01:23.660 --> 00:01:27.809
+Então a gente vai procurar aqui, oh se foi emitido o C t e pra essa nota ele tá aqui.
+
+34
+00:01:27.819 --> 00:01:30.309
+OH, C t r Autorizado aqui tá vendo,
+
+35
+00:01:30.319 --> 00:01:33.830
+nessa parte final a parte de baixo da consulta que mostra pros eventos, né?
+
+36
+00:01:34.540 --> 00:01:39.110
+Então, ele teve um c t autorizado, teve MD f autorizado, tá?
+
+37
+00:01:39.120 --> 00:01:41.790
+Tá vendo, Então esses aí são indícios, né?
+
+38
+00:01:41.800 --> 00:01:45.089
+Que a operação transcorreu, com sucesso, né? Porque assim a gente vê uma nota, né?
+
+39
+00:01:45.099 --> 00:01:49.290
+Uma operação interestadual que não teve transporte assim não tem? Né,
+
+40
+00:01:49.900 --> 00:01:49.919
+né?
+
+41
+00:01:49.930 --> 00:01:53.629
+A não ser que fosse uma operação de remessa simbólica, devolução simbólica,
+
+42
+00:01:53.639 --> 00:01:54.309
+alguma coisa assim.
+
+43
+00:01:54.319 --> 00:01:56.470
+Mas as nossas normais do dia-a-dia, né?
+
+44
+00:01:56.480 --> 00:01:59.569
+que envolvem a circulação física da meta do Tem isso aí, né?
+
+45
+00:02:00.389 --> 00:02:04.040
+Outro evento interessante é que essa nota tem o registro de passagem automático,
+
+46
+00:02:04.050 --> 00:02:04.639
+né?
+
+47
+00:02:04.650 --> 00:02:06.760
+Que que é esse registro de passagem automático quando
+
+48
+00:02:06.769 --> 00:02:09.639
+o contribuinte ele emite ali a nota fiscal eletrônica,
+
+49
+00:02:09.649 --> 00:02:11.320
+ele vai fazer o transporte.
+
+50
+00:02:11.330 --> 00:02:16.039
+Ele coloca essa nota no C t e do transportador, e o transportador emite de o MD F.
+
+51
+00:02:16.050 --> 00:02:18.779
+E quando emitir o MD F e vai a placa do veículo, né?
+
+52
+00:02:18.789 --> 00:02:21.440
+E esse veículo, quando passa numa praça de pedágio,
+
+53
+00:02:21.449 --> 00:02:25.419
+passa numa antena daquelas detenção de radar de velocidade de estrada, né?
+
+54
+00:02:25.429 --> 00:02:30.059
+Não funciona só pra velocidade, fica aí filmando tanto É veículo? Passa na via, né?
+
+55
+00:02:30.460 --> 00:02:32.509
+Então, quando ele passa numa antena dessas?
+
+56
+00:02:32.520 --> 00:02:36.509
+Seja de o C, R de controle de velocidade, seja ele um pedágio, tá,
+
+57
+00:02:36.520 --> 00:02:39.869
+o sistema nacional vê que tem aquela placa circulando.
+
+58
+00:02:39.880 --> 00:02:44.470
+E vai que na nota fiscal eletrônica que teve aqui aquele registro de passagem Tá
+
+59
+00:02:44.479 --> 00:02:49.339
+registro de passagem automático de nota fiscal eletrônica com o MD F E tá bom?
+
+60
+00:02:49.350 --> 00:02:54.429
+Então essa nota aqui tem eh! Eh fortes indícios que a operação transcorreu.
+
+61
+00:02:54.440 --> 00:02:56.729
+Tudo certo que o contribuinte Atila, do Espírito Santo,
+
+62
+00:02:57.380 --> 00:02:58.070
+transportador,
+
+63
+00:02:58.080 --> 00:03:01.110
+emitiu o C T e depois o transportador Emitiu o MD F C MD
+
+64
+00:03:01.119 --> 00:03:06.130
+F e teve uma passagem registrada em rodovia Aparentemente tudo certinho tá bom?
+
+65
+00:03:06.779 --> 00:03:10.350
+Então conferimos aqui os eventos tá, e que que mais,
+
+66
+00:03:10.360 --> 00:03:12.550
+que a gente pode conferir Aqui a gente
+
+67
+00:03:12.559 --> 00:03:14.229
+pode conferir uma coisa que é muito importante,
+
+68
+00:03:14.240 --> 00:03:14.369
+né?
+
+69
+00:03:14.380 --> 00:03:15.949
+Comparar o daf, né?
+
+70
+00:03:15.960 --> 00:03:20.610
+O documento que a gente tá em mãos do papel, com a consulta, que é isso aqui na Terra tá.
+
+71
+00:03:20.619 --> 00:03:23.309
+Porque tem um, uma um artifício contribuinte,
+
+72
+00:03:23.320 --> 00:03:25.309
+às vezes usa de fazer o que chama de meia nota.
+
+73
+00:03:25.320 --> 00:03:26.869
+Não é necessariamente metti,
+
+74
+00:03:26.880 --> 00:03:29.630
+mas é o que colocar uma quantidade no documento
+
+75
+00:03:29.639 --> 00:03:32.270
+em papel e outra quantidade no documento eletrônico.
+
+76
+00:03:32.279 --> 00:03:34.889
+Então a chave de ligação dos documentos é a mesma,
+
+77
+00:03:35.380 --> 00:03:37.570
+mas que o documento eletrônico ele bota uma
+
+78
+00:03:37.580 --> 00:03:39.990
+quantidade menor pra poder pagar menos imposto,
+
+79
+00:03:40.000 --> 00:03:43.429
+né Isso pra a empresa que tá comprando às vezes também vem menos crédito.
+
+80
+00:03:43.440 --> 00:03:45.710
+Daí ela pode usar o crédito da operação inteira,
+
+81
+00:03:45.720 --> 00:03:49.110
+pode dar a diferença no estoque a hora que a PP dar entrada na nota fiscal.
+
+82
+00:03:49.119 --> 00:03:54.210
+Eletrônica? Né? Sendo que veio físico, mais do que veio no documento eletrônico.
+
+83
+00:03:54.285 --> 00:03:57.134
+Então é isso. O contribuinte usa muitas vezes.
+
+84
+00:03:57.145 --> 00:03:59.255
+Porque o veículo, se for abordado no trânsito,
+
+85
+00:03:59.264 --> 00:04:02.595
+muitas vezes o agente vai fazer a conferência com o documento em papel.
+
+86
+00:04:02.604 --> 00:04:04.014
+É documento em papel.
+
+87
+00:04:04.024 --> 00:04:07.895
+Tá tudo certinho com a carga, mas o documento eletrônico tem menos informação.
+
+88
+00:04:07.904 --> 00:04:13.115
+Tem, né? Às vezes ele manda lá dez e bota no documento eletrônico apenas cinco né?
+
+89
+00:04:13.369 --> 00:04:16.399
+Dessa maneira resulta também de imposto pra ele paga e tal.
+
+90
+00:04:16.410 --> 00:04:18.940
+Então, às vezes usa desse artifício.
+
+91
+00:04:18.950 --> 00:04:20.940
+Então é importante a gente conferir as quantidades
+
+92
+00:04:20.950 --> 00:04:23.899
+e as mercadorias todas do documento em papel,
+
+93
+00:04:23.910 --> 00:04:26.239
+com o documento eletrônico que a gente tem em tela.
+
+94
+00:04:26.790 --> 00:04:28.640
+Então, talvez se as quantidades é a mesma,
+
+95
+00:04:28.649 --> 00:04:32.200
+se se o valor do imposto tá certinho no documento eletrônico,
+
+96
+00:04:32.209 --> 00:04:36.160
+se documento eletrônico condiz com a quantidade física que veio transportado,
+
+97
+00:04:36.170 --> 00:04:39.220
+se um documento é equivalente ao outro, então isso também.
+
+98
+00:04:39.230 --> 00:04:43.000
+É muito importante fazer, lembrando que, pelas normas ali do lado fiscal,
+
+99
+00:04:43.010 --> 00:04:45.299
+eletrônico não pode ter nada no documento.
+
+100
+00:04:45.364 --> 00:04:48.644
+Papel, né, que não esteja no documento eletrônico.
+
+101
+00:04:48.654 --> 00:04:52.054
+Então os documentos têm que ser realmente equivalentes um pro outro.
+
+102
+00:04:52.065 --> 00:04:55.135
+Tá, Essa é uma coisa muito importante também da gente fazer.
+
+103
+00:04:55.144 --> 00:04:59.105
+Quando a gente confere eu tenho, está de dar nota no Portal Nacional tá bom?
+
+104
+00:04:59.114 --> 00:05:03.875
+Então essa pessoal é a consulta no portal nacional Okay então
+
+105
+00:05:04.459 --> 00:05:07.679
+pega a nota vai lá no portal nacional n f e ponto fazenda
+
+106
+00:05:07.690 --> 00:05:11.429
+ponto gov ponto BR Acessa a consulta vai colocar a chave de acesso,
+
+107
+00:05:11.440 --> 00:05:12.649
+marca lá no nosso robô?
+
+108
+00:05:12.660 --> 00:05:15.829
+É a nota? Se tiver existir, ela vem pra tela. Tá?
+
+109
+00:05:15.839 --> 00:05:18.790
+A gente pode conferir esses itens que a gente falou aqui, né?
+
+110
+00:05:18.799 --> 00:05:22.109
+Se a nota tá autorizada seu ambiente de produção, conferir as datas,
+
+111
+00:05:22.119 --> 00:05:26.609
+verificar os eventos da loja e ver comparar quantidades e valores do papel.
+
+112
+00:05:26.619 --> 00:05:29.850
+Quantidades e valores da consulta Tá,
+
+113
+00:05:30.250 --> 00:05:34.600
+então, pessoal, aqui eh. A gente terminou uma consulta no Portal Nacional
+
+114
+00:05:35.329 --> 00:05:38.720
+e vamos passar pra consulta no portal local. Tá bom.

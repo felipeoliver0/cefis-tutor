@@ -1,0 +1,33 @@
+{
+  "id": 467800,
+  "title": "Modelo de acordo de compensação e banco de horas",
+  "position": 8,
+  "duration": 189,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dae31740-2219-4b65-a3e7-8a5a445ad9be/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dae31740-2219-4b65-a3e7-8a5a445ad9be/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dae31740-2219-4b65-a3e7-8a5a445ad9be/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dae31740-2219-4b65-a3e7-8a5a445ad9be/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dae31740-2219-4b65-a3e7-8a5a445ad9be/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

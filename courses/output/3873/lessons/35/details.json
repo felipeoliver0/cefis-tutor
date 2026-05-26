@@ -1,0 +1,33 @@
+{
+  "id": 478956,
+  "title": "CPC 12",
+  "position": 35,
+  "duration": 506,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4d81d30d-e6c2-4397-aebd-7cf4288823cd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4d81d30d-e6c2-4397-aebd-7cf4288823cd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4d81d30d-e6c2-4397-aebd-7cf4288823cd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4d81d30d-e6c2-4397-aebd-7cf4288823cd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4d81d30d-e6c2-4397-aebd-7cf4288823cd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3980,
+    "title": "IN RFB MUDANÇAS NA APURAÇÃO DO PIS - COFINS",
+    "subtitle": "curso prático",
+    "summary": "O curso “IN RFB – Mudanças na Apuração do PIS e da COFINS” é voltado a esclarecer e atualizar os profissionais sobre as alterações recentes promovidas pela Receita Federal nas regras de cálculo, aproveitamento de créditos e escrituração dessas contribuições.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/1dc58190-de91-4909-9e57-413699994b65-thumbnail.png",
+    "goals": [
+      "Atualizar os profissionais da área contábil, fiscal e tributária sobre as alterações trazidas por Instruções Normativas da Receita Federal do Brasil (RFB) que impactam diretamente a apuração e escrituração dessas contribuições sociais."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 3837,
+    "keywords": "efd;contribuições;sped",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 26,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 142,
+    "averageRating": 9.51,
+    "practiceAverage": 9.48,
+    "trailer": {
+      "id": "cfef5d14-455a-454a-9258-44e6f0561060",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cfef5d14-455a-454a-9258-44e6f0561060/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cfef5d14-455a-454a-9258-44e6f0561060/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cfef5d14-455a-454a-9258-44e6f0561060/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cfef5d14-455a-454a-9258-44e6f0561060/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-04T09:09:42.000Z",
+      "updatedAt": "2025-10-04T09:09:42.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-04T09:12:07.000Z",
+    "recordedAt": "2025-09-24T00:00:00.000Z",
+    "createdAt": "2025-09-24T10:14:01.000Z"
+  }
+}

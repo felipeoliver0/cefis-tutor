@@ -1,0 +1,33 @@
+{
+  "id": 465285,
+  "title": "Principais distinções práticas entre rurícola e urbano - Parte 2",
+  "position": 7,
+  "duration": 607,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4c3488a7-e98c-49c5-a172-5c7aa61db740/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c3488a7-e98c-49c5-a172-5c7aa61db740/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c3488a7-e98c-49c5-a172-5c7aa61db740/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c3488a7-e98c-49c5-a172-5c7aa61db740/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c3488a7-e98c-49c5-a172-5c7aa61db740/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

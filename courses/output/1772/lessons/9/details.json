@@ -1,0 +1,27 @@
+{
+  "id": 456516,
+  "title": "Portal do aluno",
+  "position": 9,
+  "duration": 484,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c34cc176-ccd4-4a85-8d75-a6404c4be643/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c34cc176-ccd4-4a85-8d75-a6404c4be643/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c34cc176-ccd4-4a85-8d75-a6404c4be643/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c34cc176-ccd4-4a85-8d75-a6404c4be643/720.mp4",
+      "height": 720
+    }
+  ]
+}

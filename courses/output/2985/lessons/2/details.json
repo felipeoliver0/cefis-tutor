@@ -1,0 +1,33 @@
+{
+  "id": 472935,
+  "title": "Conceitos",
+  "position": 2,
+  "duration": 306,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/57cb3c55-7a62-4a0a-99bd-30e35fbfd920/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/57cb3c55-7a62-4a0a-99bd-30e35fbfd920/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/57cb3c55-7a62-4a0a-99bd-30e35fbfd920/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/57cb3c55-7a62-4a0a-99bd-30e35fbfd920/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/57cb3c55-7a62-4a0a-99bd-30e35fbfd920/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

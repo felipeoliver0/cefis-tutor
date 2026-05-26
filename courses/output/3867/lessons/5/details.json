@@ -1,0 +1,33 @@
+{
+  "id": 478484,
+  "title": "Portaria MTP Nº 671",
+  "position": 5,
+  "duration": 426,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2b5d86a3-d9ab-4bea-a03f-b021cb7eefc8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2b5d86a3-d9ab-4bea-a03f-b021cb7eefc8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2b5d86a3-d9ab-4bea-a03f-b021cb7eefc8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2b5d86a3-d9ab-4bea-a03f-b021cb7eefc8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2b5d86a3-d9ab-4bea-a03f-b021cb7eefc8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 454171,
+  "title": "Efeitos da decretação | parte 1",
+  "position": 25,
+  "duration": 269,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/22148e4d-2166-4164-8f48-ce0bf779d24a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/22148e4d-2166-4164-8f48-ce0bf779d24a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/22148e4d-2166-4164-8f48-ce0bf779d24a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/22148e4d-2166-4164-8f48-ce0bf779d24a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/22148e4d-2166-4164-8f48-ce0bf779d24a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

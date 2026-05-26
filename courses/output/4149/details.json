@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 4149,
+    "title": "Rescisão do contrato de trabalho",
+    "subtitle": "Curso prático",
+    "summary": "Neste curso Rescisão do contrato de trabalho: Curso prático você irá aprender na prática tudo o que precisa saber sobre rescisão de contrato de trabalho. Aprenderá os fundamentos e a prática de cálculo de verbas rescisórias, como o salário, férias, 13° salário, INSS, IRRF e FGTS, além de entender como funciona o aviso prévio, dispensa sem justa causa e dispensa por justa causa, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre rescisão de contrato de trabalho.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2e1efa44-de18-49b4-b84b-5df2b825dc20-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Rescisão do contrato de trabalho - Curso prático é a capacitação para a aplicação prática da rescisão do contrato de trabalho, abordando conceitos e procedimentos necessários para a rescisão do contrato de trabalho de forma eficaz e legal."
+    ],
+    "teacher": {
+      "id": 734383,
+      "name": "Solange Durães",
+      "avatar": "https://cefis.com.br/assets/images/site/svg/user-icon.svg"
+    },
+    "duration": 11882,
+    "keywords": "rescisão;contrato;trabalho",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 47,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      3,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 415,
+    "averageRating": 9.39,
+    "practiceAverage": 9.32,
+    "trailer": {
+      "id": "8dc16d03-0457-4f10-b273-c9ef28c79b9f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8dc16d03-0457-4f10-b273-c9ef28c79b9f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8dc16d03-0457-4f10-b273-c9ef28c79b9f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8dc16d03-0457-4f10-b273-c9ef28c79b9f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8dc16d03-0457-4f10-b273-c9ef28c79b9f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-11T06:52:07.000Z",
+      "updatedAt": "2025-12-11T06:52:07.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-11T15:51:00.000Z",
+    "recordedAt": "2025-11-21T00:00:00.000Z",
+    "createdAt": "2025-11-20T14:36:36.000Z"
+  }
+}

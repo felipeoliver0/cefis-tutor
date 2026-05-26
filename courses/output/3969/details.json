@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3969,
+    "title": "Plano Brasil Soberano: em defesa dos exportadores",
+    "subtitle": "curso prático",
+    "summary": "O treinamento aborda linhas de crédito especiais, incentivos fiscais, regimes aduaneiros como drawback, mecanismos de seguro de exportação e fundos garantidores. Também discute a importância da diplomacia comercial, a diversificação de mercados e os reflexos diretos sobre a manutenção do emprego no setor exportador. Além disso, traz orientações práticas para que empresas e profissionais compreendam como acessar os benefícios, adequar processos e garantir maior competitividade internacional.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/e0b17231-d43c-4af9-ab95-379b5d44081b-thumbnail.png",
+    "goals": [
+      "Capacitar profissionais e empresas a compreender e aplicar as medidas do Plano Brasil Soberano, utilizando incentivos financeiros, fiscais e garantias para fortalecer a competitividade das exportações brasileiras e proteger empregos frente às novas barreiras comerciais."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 11954,
+    "keywords": "brasil;exportador;exterior;plano;soberano",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 55,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 27,
+    "averageRating": 9.41,
+    "practiceAverage": 9.44,
+    "trailer": {
+      "id": "c7b868f5-0f8b-42a1-ab9b-25663689ad85",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c7b868f5-0f8b-42a1-ab9b-25663689ad85/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c7b868f5-0f8b-42a1-ab9b-25663689ad85/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c7b868f5-0f8b-42a1-ab9b-25663689ad85/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c7b868f5-0f8b-42a1-ab9b-25663689ad85/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-02T16:38:48.000Z",
+      "updatedAt": "2025-10-02T16:38:47.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-02T16:42:32.000Z",
+    "recordedAt": "2025-09-11T00:00:00.000Z",
+    "createdAt": "2025-09-10T22:34:02.000Z"
+  }
+}

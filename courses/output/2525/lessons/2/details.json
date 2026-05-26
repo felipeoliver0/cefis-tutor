@@ -1,0 +1,33 @@
+{
+  "id": 466676,
+  "title": "Reflexões Iniciais",
+  "position": 2,
+  "duration": 324,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e8ee4d56-0e36-46ed-9aea-4970d9153afc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e8ee4d56-0e36-46ed-9aea-4970d9153afc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e8ee4d56-0e36-46ed-9aea-4970d9153afc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e8ee4d56-0e36-46ed-9aea-4970d9153afc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e8ee4d56-0e36-46ed-9aea-4970d9153afc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

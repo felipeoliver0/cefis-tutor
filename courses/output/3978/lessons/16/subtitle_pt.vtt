@@ -1,0 +1,130 @@
+WEBVTT
+
+00:00:00.098 --> 00:00:06.217
+- Pessoal, acabamos de concluir a etapa de identificação das rubricas que são fixas e fizemos aqui
+
+00:00:06.217 --> 00:00:12.520
+- vários modelos de cálculo que vão facilitar o seu entendimento na folha de pagamento. Agora a gente
+
+00:00:12.520 --> 00:00:18.639
+- chega na etapa de variáveis do mês, que é um pouco mais complexa, a gente depende muito do que o
+
+00:00:18.639 --> 00:00:24.758
+- gestor disponibiliza para o analista de departamento pessoal, do que o cliente disponibiliza para o
+
+00:00:24.758 --> 00:00:29.470
+- analista de departamento pessoal para a gente inserir na folha de pagamento.
+
+00:00:29.634 --> 00:00:37.073
+- Ok? Então vamos lá. Nós temos aqui os adicionais noturnos que um funcionário pode fazer esporadicamente
+
+00:00:37.073 --> 00:00:44.236
+- o seu trabalho no horário noturno. As comissões, as horas extras, o descanso semanal remunerado, tudo
+
+00:00:44.236 --> 00:00:51.124
+- é considerado rúbrica variável. Ou seja, se comparado um mês com o outro, existirão mudanças.
+
+00:00:51.124 --> 00:00:54.430
+- Nós temos aqui o exemplo do adicional noturno.
+
+00:00:54.626 --> 00:01:01.115
+- Então, neste exemplo, nós temos ali um trabalhador que fez seis horas de adicional noturna.
+
+00:01:01.115 --> 00:01:08.157
+- Consequentemente, a gente apura da seguinte fórmula. O salário do empregado dividido por 220, e aí
+
+00:01:08.157 --> 00:01:15.405
+- são as horas do mês estipulada em contrato, você vai acrescentar mais 20%, porque é o que estabelece
+
+00:01:15.405 --> 00:01:16.510
+- a legislação.
+
+00:01:16.610 --> 00:01:22.822
+- Consequentemente, esse 20% é o que você vai multiplicar pelas horas. O adicional noturno é, de fato,
+
+00:01:22.822 --> 00:01:28.914
+- o acréscimo de 20% sobre a hora trabalhada, ok? Então, este é o primeiro exemplo que nós temos de
+
+00:01:28.914 --> 00:01:35.066
+- variável. Qual o grande desafio? O cliente te mandar, ou o gestor, a quantidade de horas de adicional
+
+00:01:35.066 --> 00:01:41.457
+- noturno dentro do prazo, ok? Para que você faça o lançamento. Por isso que a gente chama de variáveis.
+
+00:01:41.457 --> 00:01:42.174
+- Comissões.
+
+00:01:42.722 --> 00:01:49.283
+- a empresa paga a comissão ao seu vendedor. Então, neste mês, o empregado fez R$ 687,00 de comissão.
+
+00:01:49.283 --> 00:01:55.654
+- Consequentemente, você vai pagar esse valor no recibo de pagamento. Então, você insere a rúbrica
+
+00:01:55.654 --> 00:02:02.088
+- no seu sistema e ele vai efetuar a apuração. Próximo exemplo, a hora extra com base no salário do
+
+00:02:02.088 --> 00:02:07.198
+- trabalhador. Então, nós temos aqui a fórmula. Cada um utiliza um modelo mais.
+
+00:02:07.362 --> 00:02:14.119
+- simples possível para conferir o valor da sua hora extra, eu estou utilizando essa fórmula que facilita
+
+00:02:14.119 --> 00:02:21.068
+- bastante o entendimento. Salário dividido pelas horas mensais vezes a quantidade de horas do mês acrescido
+
+00:02:21.068 --> 00:02:27.507
+- de 50%, ok? Ah, professor, essas horas extras vão incidir descanso semanal remunerado, assim como a
+
+00:02:27.507 --> 00:02:32.862
+- comissão. Calma, pessoal, a gente só está vendo a rúbrica de hora extra e de...
+
+00:02:33.186 --> 00:02:40.821
+- Vamos, logo em seguida, apurar também o descanso semanal remunerado. E aí nós podemos interpretar
+
+00:02:40.821 --> 00:02:48.380
+- que aqui nós temos o valor da hora extra, 45 e 82, dividido pelos dias úteis e multiplicado pelos
+
+00:02:48.380 --> 00:02:55.486
+- dias não úteis. Essa amarração de dias úteis e não úteis é feita no sistema da folha.
+
+00:02:55.842 --> 00:03:02.540
+- Não úteis, considerado sempre domingos e feriados, e os dias úteis é o considerado de segunda a
+
+00:03:02.540 --> 00:03:08.702
+- sábado. Ok, pessoal? Essa apuração também é extremamente simples. E nós temos aqui...
+
+00:03:08.866 --> 00:03:16.166
+- Agora, os descontos, as rubricas são consideradas descontos da folha de pagamento. Então, nós temos
+
+00:03:16.166 --> 00:03:22.970
+- as faltas, eu tô pegando o exemplo de um salário de um trabalhador que teve uma falta, peguei
+
+00:03:22.970 --> 00:03:30.128
+- o trabalhador, salário, dividi por 30, cheguei o valor. Agora aqui, o desconto de um atraso. E aí,
+
+00:03:30.128 --> 00:03:37.429
+- pessoal, a gente precisa transformar os minutos em sexagesimais. Então, eu vou pegar o 38, dividi por
+
+00:03:37.429 --> 00:03:38.846
+- 60, vou achar 0,63.
+
+00:03:38.978 --> 00:03:45.694
+- Logo, eu vou aplicar a fórmula. Salário dividido por 220, que são as horas do mês, multiplicar por
+
+00:03:45.694 --> 00:03:52.802
+- 6 horas vírgula 63, que foi o indicador que eu acabei de apurar, em substituição ao 38. Consequentemente,
+
+00:03:52.802 --> 00:03:59.323
+- eu vou ter o valor correto de desconto do empregado. Por fim, o cálculo do vale-transporte. E aqui
+
+00:03:59.323 --> 00:04:04.670
+- eu decidi colocar um modo diferente para facilitar a nossa vida. Nós já sabemos
+
+00:04:05.410 --> 00:04:12.065
+- que ele automaticamente é 6% do salário, mas agora pode existir convenção que estipula um cálculo
+
+00:04:12.065 --> 00:04:18.526
+- proporcional. Se for proporcional, salário do trabalhador dividido por 30 multiplicado por 22 dias
+
+00:04:18.526 --> 00:04:21.886
+- úteis, e aí eu aplico os 6% de desconto, tá bem?

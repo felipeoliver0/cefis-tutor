@@ -1,0 +1,33 @@
+{
+  "id": 479447,
+  "title": "Tributação - parte 3",
+  "position": 35,
+  "duration": 219,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/80887b7e-4457-452f-a227-d53cb36c6ec7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/80887b7e-4457-452f-a227-d53cb36c6ec7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/80887b7e-4457-452f-a227-d53cb36c6ec7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/80887b7e-4457-452f-a227-d53cb36c6ec7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/80887b7e-4457-452f-a227-d53cb36c6ec7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

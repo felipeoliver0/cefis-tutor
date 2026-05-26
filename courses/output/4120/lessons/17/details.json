@@ -1,0 +1,33 @@
+{
+  "id": 482596,
+  "title": "Heurísticas da Disponibilidade",
+  "position": 17,
+  "duration": 103,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9e3707a4-f29c-43c4-b17d-3b94b0446a58/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9e3707a4-f29c-43c4-b17d-3b94b0446a58/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9e3707a4-f29c-43c4-b17d-3b94b0446a58/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9e3707a4-f29c-43c4-b17d-3b94b0446a58/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9e3707a4-f29c-43c4-b17d-3b94b0446a58/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

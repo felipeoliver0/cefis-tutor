@@ -1,0 +1,33 @@
+{
+  "id": 454014,
+  "title": "Formação de preço",
+  "position": 14,
+  "duration": 257,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/23a8f00c-bc2a-44ac-b46d-2d76c1ca66f3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23a8f00c-bc2a-44ac-b46d-2d76c1ca66f3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23a8f00c-bc2a-44ac-b46d-2d76c1ca66f3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23a8f00c-bc2a-44ac-b46d-2d76c1ca66f3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23a8f00c-bc2a-44ac-b46d-2d76c1ca66f3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

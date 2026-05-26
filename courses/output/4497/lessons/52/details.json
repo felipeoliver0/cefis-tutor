@@ -1,0 +1,33 @@
+{
+  "id": 487552,
+  "title": "Opção pelo Lucro Real Trimestral",
+  "position": 52,
+  "duration": 323,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/2c576387-0b6d-4b0d-9a64-3bfdceebf551/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2c576387-0b6d-4b0d-9a64-3bfdceebf551/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2c576387-0b6d-4b0d-9a64-3bfdceebf551/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2c576387-0b6d-4b0d-9a64-3bfdceebf551/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2c576387-0b6d-4b0d-9a64-3bfdceebf551/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

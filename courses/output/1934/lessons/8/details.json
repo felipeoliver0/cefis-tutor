@@ -1,0 +1,33 @@
+{
+  "id": 459679,
+  "title": "Câmbio turismo e comercial",
+  "position": 8,
+  "duration": 112,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e873699a-c65b-4829-85d1-3a594a0aeb35/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e873699a-c65b-4829-85d1-3a594a0aeb35/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e873699a-c65b-4829-85d1-3a594a0aeb35/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e873699a-c65b-4829-85d1-3a594a0aeb35/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e873699a-c65b-4829-85d1-3a594a0aeb35/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

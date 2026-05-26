@@ -1,0 +1,33 @@
+{
+  "id": 465721,
+  "title": "Indicadores - Parte 3",
+  "position": 13,
+  "duration": 354,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2ad896be-9bed-4f8e-854a-cdd2c6585da5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2ad896be-9bed-4f8e-854a-cdd2c6585da5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2ad896be-9bed-4f8e-854a-cdd2c6585da5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2ad896be-9bed-4f8e-854a-cdd2c6585da5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2ad896be-9bed-4f8e-854a-cdd2c6585da5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

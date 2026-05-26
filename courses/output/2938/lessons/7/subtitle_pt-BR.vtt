@@ -1,0 +1,405 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.580
+pessoal eu falei pra vocês que a gente ia fazer
+
+2
+00:00:01.590 --> 00:00:04.659
+aqui a validação da chave de acesso do nosso.
+
+3
+00:00:04.670 --> 00:00:08.859
+Só que a chave de acesso era uma proposta de quarenta e quatro posições no més, né?
+
+4
+00:00:08.869 --> 00:00:11.180
+Então um número ali de quarenta e quatro posições,
+
+5
+00:00:11.189 --> 00:00:14.359
+Mas aqui a gente vai ver agora o que que cada posição, né,
+
+6
+00:00:14.369 --> 00:00:18.020
+que ela quer dizer pra gente às vezes bater o olho na chave da se pra saber Ah,
+
+7
+00:00:18.030 --> 00:00:20.799
+essa nota de contingência essa nota foi emitida no no,
+
+8
+00:00:20.809 --> 00:00:23.360
+No modelo tal de contingência emitida Foi por esse
+
+9
+00:00:23.370 --> 00:00:26.059
+contribuinte foi emitida nesse dia nesse dia nesse mês,
+
+10
+00:00:26.069 --> 00:00:27.600
+nesse ano, né?
+
+11
+00:00:27.610 --> 00:00:28.799
+Isso a gente vai ver aqui
+
+12
+00:00:29.079 --> 00:00:32.630
+vislumbrando a chave de acesso da nota fiscal eletrônico, vamos lá?
+
+13
+00:00:32.639 --> 00:00:38.919
+Primeiramente pessoal, a chave de acesso tem o código da U F no I B G, e então aí o i, B, G.
+
+14
+00:00:38.930 --> 00:00:42.330
+E ele determina pra cada unidade federada um código, né?
+
+15
+00:00:42.340 --> 00:00:46.810
+Com duas, duas, dois números, tá Então nessa chave de acesso,
+
+16
+00:00:46.819 --> 00:00:50.849
+que o código da U F é quarenta e dois, então cada estado tem um código, né?
+
+17
+00:00:50.860 --> 00:00:54.819
+Então, São Paulo é trinta e cinco, né? Goiás cinquenta e dois, né?
+
+18
+00:00:54.830 --> 00:00:58.669
+Tocantins e cinquenta e três d cinquenta e um por aí baixo tá,
+
+19
+00:00:59.500 --> 00:01:02.270
+então, Primeiro é o código dos estados que estado que é isso.
+
+20
+00:01:02.279 --> 00:01:05.769
+Esse é o estado da empresa que tem no documento. Tá? Então!
+
+21
+00:01:05.779 --> 00:01:10.290
+Vai ter o código da U F da empresa emitente, do documento fiscal eletrônico. Tá
+
+22
+00:01:11.309 --> 00:01:15.239
+depois, a gente tem o que a gente tem um ano de emissão, então essa chave de acesso,
+
+23
+00:01:15.250 --> 00:01:17.480
+a nota fiscal eletrônica é emitido no ano de
+
+24
+00:01:17.489 --> 00:01:21.080
+dois mil e vinte e três tá dando sequência.
+
+25
+00:01:21.089 --> 00:01:22.550
+Aqui a gente tem um mês de emissão,
+
+26
+00:01:22.559 --> 00:01:25.680
+Então essa chave de acesso do documento emitido no mês seis, né?
+
+27
+00:01:25.690 --> 00:01:30.400
+Em junho de dois mil e vinte e três tá o mês sempre com duas posições.
+
+28
+00:01:30.410 --> 00:01:33.529
+Então se quiser seis, depois tem dez, onze, doze.
+
+29
+00:01:33.540 --> 00:01:36.660
+Tá sempre com duas posições o mês de emissão
+
+30
+00:01:37.089 --> 00:01:40.900
+dando sequência, nós temos o quê? O C n PJ do emitente, né?
+
+31
+00:01:40.910 --> 00:01:43.819
+O C n PJ da empresa emitente do documento fiscal?
+
+32
+00:01:43.830 --> 00:01:48.260
+Tá então aqui a gente tem o C n PJ a empresa sempre com catorze posições também Tá?
+
+33
+00:01:48.269 --> 00:01:50.069
+Vocês viram que esse C n PJ começa com o zero.
+
+34
+00:01:50.080 --> 00:01:53.919
+Então a gente coloca o zero oh, não não desprezamos os zero tá
+
+35
+00:01:55.080 --> 00:01:57.569
+depois disso, pessoal, nós temos o que nós temos.
+
+36
+00:01:57.580 --> 00:02:00.330
+O código do modelo do documento n f E é
+
+37
+00:02:00.339 --> 00:02:04.489
+modelo cinquenta e cinco e a NFC no consumidor eletrônico,
+
+38
+00:02:04.500 --> 00:02:06.589
+que é modelo Tá
+
+39
+00:02:07.190 --> 00:02:11.559
+depois, a gente tem a série de notas eletrônicas que é o documento Série quatro.
+
+40
+00:02:11.570 --> 00:02:16.339
+Tá então a série do documento seguida do número da nota fiscal eletrônica.
+
+41
+00:02:16.350 --> 00:02:18.179
+Então a numeração do documentar aqui
+
+42
+00:02:19.360 --> 00:02:21.100
+depois a gente tem um tipo de emissão,
+
+43
+00:02:21.110 --> 00:02:25.639
+O tipo de emissão é onde a gente sabe se é normal ou contingência é um é normal.
+
+44
+00:02:25.649 --> 00:02:26.979
+Aí a gente tem as contingências.
+
+45
+00:02:26.990 --> 00:02:31.410
+Nove A continência oline de nossos cálculos eletrônico, né? E por aí vai.
+
+46
+00:02:31.419 --> 00:02:34.809
+Então, o tipo de emissão tá na chave de acesso? Também? Tá.
+
+47
+00:02:34.820 --> 00:02:37.229
+Depois a gente tem um código aleatório,
+
+48
+00:02:37.240 --> 00:02:39.779
+esse código aleatório existe pra que uma pessoa
+
+49
+00:02:39.789 --> 00:02:41.649
+não possa adivinhar uma chave de acesso.
+
+50
+00:02:41.660 --> 00:02:45.029
+Né? Porque digamos que eu tô tendo todos esses dados aqui.
+
+51
+00:02:45.289 --> 00:02:47.880
+Eu poderia, por exemplo, avançar na numeração.
+
+52
+00:02:47.889 --> 00:02:53.320
+Colocar o número pra frente obter poderia obter aquele documento, né?
+
+53
+00:02:53.330 --> 00:02:55.779
+Eu vou avançar na sequência do metro e
+
+54
+00:02:55.789 --> 00:02:57.720
+vou vendo outros documentos que a empresa emitiu.
+
+55
+00:02:57.729 --> 00:03:01.179
+Então, pra não ser possível de adivinhar uma chave de acesso.
+
+56
+00:03:01.190 --> 00:03:04.695
+Tá a consulta do documento, tem esse código aleatório, né?
+
+57
+00:03:04.705 --> 00:03:07.335
+Que a empresa coloca o números aleatórios aí,
+
+58
+00:03:07.345 --> 00:03:10.404
+pra ficar impossível o dificílimo de adivinhar, né?
+
+59
+00:03:10.414 --> 00:03:15.324
+São oito posições do M, então pra adivinhar uma chave de acesso fica muito difícil.
+
+60
+00:03:15.335 --> 00:03:17.835
+Tá e pra isso que esse código aleatório existe
+
+61
+00:03:18.809 --> 00:03:20.639
+e por fim é o dígito verificador, né?
+
+62
+00:03:20.649 --> 00:03:23.899
+Porque se a gente digitar ali errado e a gente vai ver a mensagem,
+
+63
+00:03:23.910 --> 00:03:27.419
+oh dígito do verificador incorreto, tá sempre pra fazer uma verificação.
+
+64
+00:03:27.429 --> 00:03:30.679
+Aí todos esses dados pra trás se foram digitados corretamente ou não, Tá?
+
+65
+00:03:30.690 --> 00:03:33.320
+É assim que a gente vai fazer a validação da chave de acesso.
+
+66
+00:03:33.330 --> 00:03:35.320
+Então, só que a gente pegar o documento,
+
+67
+00:03:35.330 --> 00:03:39.380
+o c n PJ da chave tem que ser igual o c n PJ da empresa emitente.
+
+68
+00:03:39.389 --> 00:03:40.779
+O número da chave tem que ser igual.
+
+69
+00:03:40.789 --> 00:03:44.440
+O número da nota a u f da chave tem que ser igual a u F da nota.
+
+70
+00:03:44.449 --> 00:03:48.970
+Assim que a gente vai fazer a verificação do documento emitido em contingência, né?
+
+71
+00:03:48.979 --> 00:03:52.919
+Tomando por base a chave de acesso, tá essa informação da chave de acesso.
+
+72
+00:03:52.929 --> 00:03:56.110
+Eu gosto dela porque ela é útil pra gente ir em diversas situações, você já pode,
+
+73
+00:03:56.119 --> 00:03:58.410
+assim, muito rapidamente identificar a empresa,
+
+74
+00:03:58.419 --> 00:04:03.289
+identificar a UE F que foi emitido, né Documento, meu número e tudo mais.
+
+75
+00:04:03.300 --> 00:04:07.470
+Então é bom a gente saber aí né, Fazer a validação da chave de acesso. Tá
+
+76
+00:04:08.250 --> 00:04:12.080
+isso? Agora, a gente vai fazer a validação do protocolo de autorização.
+
+77
+00:04:12.089 --> 00:04:16.339
+O protocolo é bem mais simples e mais fácil de da gente fazer a validação, né?
+
+78
+00:04:16.350 --> 00:04:20.700
+Então aqui o tipo de autorizador é o primeiro dígito do protocolo.
+
+79
+00:04:20.709 --> 00:04:25.040
+Tá, Então, se é um se é fácil. Se é dois, é receita federal do Brasil, né?
+
+80
+00:04:25.049 --> 00:04:29.660
+No caso, por exemplo? PEC três. Cê faz o virtual do Rio Grande do Sul? Quatro.
+
+81
+00:04:29.670 --> 00:04:34.119
+Cê faz o virtual do ambiente nacional? Tá então aqui é o tipo de autorizador.
+
+82
+00:04:35.000 --> 00:04:37.630
+Depois nós temos o código da U, F do i, b,
+
+83
+00:04:37.640 --> 00:04:42.970
+g e do autorizador tá Então eh é o código da U F do autorizador.
+
+84
+00:04:42.980 --> 00:04:47.190
+Então, por exemplo, em Goiás precis ter tipo um cinco dois, tá
+
+85
+00:04:49.220 --> 00:04:50.450
+não o protocolo, né?
+
+86
+00:04:50.459 --> 00:04:55.269
+Então o protocolo ele é anual e depois o número sequencial do autorizador,
+
+87
+00:04:55.279 --> 00:04:57.850
+então a base autorizando atual do pi um
+
+88
+00:04:58.350 --> 00:05:00.000
+da empresa a tem uma empresa B Man.
+
+89
+00:05:00.010 --> 00:05:02.880
+No documento ela fala autorizei o dois a empresa C Man no documento.
+
+90
+00:05:02.890 --> 00:05:05.640
+Ah, autorizei o três A empresa Amann de novo pá é o quatro,
+
+91
+00:05:05.649 --> 00:05:10.450
+Então vai dando sequência aí nesse nessa numeração do protocolo Tá?
+
+92
+00:05:10.459 --> 00:05:17.309
+Então é assim que é formado o nosso protocolo de autorização da n f E e da NFC. Tá bom.
+
+93
+00:05:17.320 --> 00:05:19.500
+Eu trouxe um exemplo aqui, né? Que pro Estado
+
+94
+00:05:19.600 --> 00:05:23.769
+o Acre, por exemplo, o árbitro utiliza cepas virtual do Rio Grande do Sul, Tá e lá.
+
+95
+00:05:23.779 --> 00:05:30.369
+O Código do ar do Acre é é doze, então a gente vem, vai ter o do Acre aqui três, doze,
+
+96
+00:05:30.380 --> 00:05:33.329
+vinte e três e o número sequencial é pra Goiás.
+
+97
+00:05:33.339 --> 00:05:34.010
+A gente vai ter o quê?
+
+98
+00:05:34.019 --> 00:05:38.390
+Um cinco dois, vinte e três um Código SIL com os documentos autorizados,
+
+99
+00:05:38.399 --> 00:05:40.290
+por exemplo, no ano de dois mil e vinte e três,
+
+100
+00:05:40.299 --> 00:05:44.649
+tá Então esse aqui a gente vai validar o protocolo de autorização.
+
+101
+00:05:44.660 --> 00:05:47.070
+Esse aqui a gente vai fazer a validação do protocolo Okay

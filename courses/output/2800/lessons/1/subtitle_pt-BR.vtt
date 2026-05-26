@@ -1,0 +1,161 @@
+WEBVTT
+
+1
+00:00:01.549 --> 00:00:05.599
+pessoal bem-vindos novamente aqui ao Refis Campos pra gente
+
+2
+00:00:05.610 --> 00:00:07.639
+fazer mais um curso que vai ser bem legal!
+
+3
+00:00:07.650 --> 00:00:08.819
+Sobre a C C S
+
+4
+00:00:09.460 --> 00:00:14.869
+eh meu nome é Jean, eu sou analista de infraestrutura da C C S também!
+
+5
+00:00:14.880 --> 00:00:20.270
+E hoje a gente vai fazer uma continuação, digamos assim,
+
+6
+00:00:20.280 --> 00:00:23.469
+do curso que a gente fez algumas semanas atrás.
+
+7
+00:00:23.479 --> 00:00:26.069
+Só que é uma continuação sem pré requisito, ou seja,
+
+8
+00:00:26.079 --> 00:00:28.790
+quem não participou do curso anterior não tem problema.
+
+9
+00:00:28.799 --> 00:00:31.719
+Vai conseguir pegar daqui e acredito que
+
+10
+00:00:31.729 --> 00:00:33.770
+vai tirar muita coisa interessante daqui também,
+
+11
+00:00:34.619 --> 00:00:38.150
+Então o nosso objetivo aqui ele é eu nem chamei de
+
+12
+00:00:38.159 --> 00:00:40.990
+uma palestra porque ele vai ser mais um workshop mesmo.
+
+13
+00:00:41.000 --> 00:00:42.130
+A gente vai pôr a mão na massa.
+
+14
+00:00:42.139 --> 00:00:45.689
+Vamos ver o negócio acontecendo ao vivo e vamos tirar dúvidas a partir disso.
+
+15
+00:00:45.700 --> 00:00:49.529
+Só que antes vamos fazer lógico uma introdução pra deixar todo mundo na mesma linha,
+
+16
+00:00:49.540 --> 00:00:49.770
+né?
+
+17
+00:00:50.509 --> 00:00:54.860
+Então hoje o nosso sho é sobre criação e gerenciamento de máquinas virtuais, né?
+
+18
+00:00:55.470 --> 00:00:58.680
+A gente vai introduzir o os nossos objetivos aqui hoje né?
+
+19
+00:00:58.689 --> 00:01:01.299
+Então, quais são os nossos objetivos aqui? Hoje, né?
+
+20
+00:01:01.310 --> 00:01:03.220
+Primeiro é isso que eu comentei,
+
+21
+00:01:03.229 --> 00:01:06.839
+vamos deixar todo mundo na mesma página sobre máquinas
+
+22
+00:01:06.849 --> 00:01:08.959
+virtuais e Quando a gente fala de máquina virtual,
+
+23
+00:01:08.970 --> 00:01:10.400
+a gente tá falando de virtualização.
+
+24
+00:01:10.410 --> 00:01:13.839
+Então vamos deixar todo no mesmo nível entender o que que é esse negócio,
+
+25
+00:01:13.849 --> 00:01:16.419
+pra que que serve o que que ele come e onde ele foi criado.
+
+26
+00:01:17.279 --> 00:01:18.930
+Depois a gente vai pra parte.
+
+27
+00:01:18.940 --> 00:01:22.129
+Realmente eh mão na massa do workshop,
+
+28
+00:01:22.139 --> 00:01:24.900
+que a gente vai realmente criar uma máquina virtual,
+
+29
+00:01:24.910 --> 00:01:28.769
+e a gente vai conseguir acessar ela ali e fazer o gerenciamento básico dela.
+
+30
+00:01:28.779 --> 00:01:31.709
+Tranquilo essa parte, vamos ver ao vivo aqui sendo feito
+
+31
+00:01:32.550 --> 00:01:33.519
+pra finalizar.
+
+32
+00:01:33.529 --> 00:01:38.519
+O objetivo final vai ser capacitado todo mundo que tá aqui a tanto, fazer a cria,
+
+33
+00:01:38.529 --> 00:01:40.879
+a criação e o gerenciamento de uma máquina virtual.
+
+34
+00:01:40.889 --> 00:01:44.639
+Quanto entender por que que a gente faz isso, né? Por que que a gente faria isso?
+
+35
+00:01:44.650 --> 00:01:49.860
+E também um, um E que vai ser interessante? Por que que a gente faria isso aqui na C? C?
+
+36
+00:01:49.870 --> 00:01:50.120
+S?
+
+37
+00:01:50.129 --> 00:01:54.680
+Não na W S, no Google Cloud ou qualquer outra coisa, então essa vai ser a parte final,
+
+38
+00:01:54.690 --> 00:01:56.779
+beleza, dúvidas.
+
+39
+00:01:56.790 --> 00:01:59.559
+Eu peço que vocês façam a qualquer momento, não deixa pro final,
+
+40
+00:01:59.569 --> 00:02:00.860
+porque no final não vai ter dúvidas.

@@ -1,0 +1,33 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:23.320
+Processamento assíncrono, é assim que ele funciona né, o sistema utiliza um método de processamento assíncrono, o que significa que a validade, que a validação que está ali vinculada, detalhada aos dados, não é imediatamente no plano, num segundo momento, o que vai acontecer, o que significa isso aqui pessoal?
+
+3
+00:00:23.320 --> 00:00:47.259
+Significa que a validação detalhada dos dados não é imediata e ocorre em segundo plano, desaclopada da recepção do arquivo, ela vai ocorrer da seguinte forma, faço o envio, tem a recepção e tem um protocolo de recebimento, muito parecido com o que a gente tem nas obrigações onlines, faço o envio, que significa o que?
+
+4
+00:00:47.259 --> 00:00:53.259
+Transmitir o slot do XML via API, existe a recepção dos arquivos?
+
+5
+00:00:53.259 --> 00:01:15.140
+A recepção dos arquivos que foram enviados, através de uma validação estrutural e tem um retorno através do protocolo de recebimento, ou seja, nós temos aqui uma validação detalhada dos dados, mas não de imediato, mas eu já recebo o meu protocolo de envio das minhas declarações, dos meus documentos.
+
+6
+00:01:15.140 --> 00:01:23.239
+Temos aqui o lote armazenado em uma fila de processamento, temos o processamento detalhado, que é um componente de processamento, que é um componente de processamento, que é um componente de processamento, que é um componente de processamento.
+
+7
+00:01:23.239 --> 00:01:48.980
+Temos aqui o lote especializado, que executa o processamento sequencial de cada evento enviado no lote, aplicando as regras do negócio, temos também essa metodologia garantindo a escabilidade e a alta disponibilidade do serviço de recepção, acomodando picos de carga e evitando bloqueio de conexões com o sistema.
+
+8
+00:01:48.980 --> 00:01:52.980
+O contribuinte deve, posteriormente, consultar.
+
+9
+00:01:53.239 --> 00:02:17.020
+Verificar se todos os lotes enviados foram processados e aqui, nesse processo assíncrono, já tem aqui a responsabilidade do contribuinte. Você recebeu aqui? Recebeu o protocolo? Recebeu. Valide o protocolo, verifique se todas as informações, todos os lotes foram transmitidos.

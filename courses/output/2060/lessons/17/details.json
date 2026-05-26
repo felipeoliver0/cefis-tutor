@@ -1,0 +1,33 @@
+{
+  "id": 461817,
+  "title": "Exemplos de sistemas de gestão eclesiástica",
+  "position": 17,
+  "duration": 260,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a89c4efb-61b6-4d1f-8ce6-64a6c9a0eb03/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a89c4efb-61b6-4d1f-8ce6-64a6c9a0eb03/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a89c4efb-61b6-4d1f-8ce6-64a6c9a0eb03/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a89c4efb-61b6-4d1f-8ce6-64a6c9a0eb03/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a89c4efb-61b6-4d1f-8ce6-64a6c9a0eb03/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

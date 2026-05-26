@@ -1,0 +1,33 @@
+{
+  "id": 461934,
+  "title": "Locação de imóveis urbanos - Parte 1",
+  "position": 31,
+  "duration": 490,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c5744d41-8f2f-49a0-b431-14391652fbe7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5744d41-8f2f-49a0-b431-14391652fbe7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5744d41-8f2f-49a0-b431-14391652fbe7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5744d41-8f2f-49a0-b431-14391652fbe7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5744d41-8f2f-49a0-b431-14391652fbe7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

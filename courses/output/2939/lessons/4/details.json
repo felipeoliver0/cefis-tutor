@@ -1,0 +1,33 @@
+{
+  "id": 471850,
+  "title": "O que é o eSocial?",
+  "position": 4,
+  "duration": 212,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cd1679b5-1404-4f77-b11b-b53097746c1e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd1679b5-1404-4f77-b11b-b53097746c1e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd1679b5-1404-4f77-b11b-b53097746c1e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd1679b5-1404-4f77-b11b-b53097746c1e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd1679b5-1404-4f77-b11b-b53097746c1e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

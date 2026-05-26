@@ -1,0 +1,33 @@
+{
+  "id": 475758,
+  "title": "EFD - REINF",
+  "position": 60,
+  "duration": 1167,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1ae8dae6-d9ab-4fe2-94c3-ccfc7336a18d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ae8dae6-d9ab-4fe2-94c3-ccfc7336a18d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ae8dae6-d9ab-4fe2-94c3-ccfc7336a18d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ae8dae6-d9ab-4fe2-94c3-ccfc7336a18d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ae8dae6-d9ab-4fe2-94c3-ccfc7336a18d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 467176,
+  "title": "Valor do ICMS destacado na nota fiscal",
+  "position": 10,
+  "duration": 318,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/18db1fc7-109e-406f-b264-e4e38ec62261/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/18db1fc7-109e-406f-b264-e4e38ec62261/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/18db1fc7-109e-406f-b264-e4e38ec62261/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/18db1fc7-109e-406f-b264-e4e38ec62261/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/18db1fc7-109e-406f-b264-e4e38ec62261/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

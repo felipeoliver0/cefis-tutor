@@ -1,0 +1,33 @@
+{
+  "id": 471735,
+  "title": "Consulta no Portal Nacional",
+  "position": 2,
+  "duration": 473,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/37be60ac-38fb-4fcd-bd31-8d08119f5530/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37be60ac-38fb-4fcd-bd31-8d08119f5530/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37be60ac-38fb-4fcd-bd31-8d08119f5530/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37be60ac-38fb-4fcd-bd31-8d08119f5530/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/37be60ac-38fb-4fcd-bd31-8d08119f5530/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.660
+Olá pessoal, aqui talvez esteja uma das demonstrações mais difíceis, não difícil pela complexidade,
+
+2
+00:00:07.219 --> 00:00:14.259
+mas porque não está no dia a dia de muitos profissionais a sua elaboração e muito menos a sua análise.
+
+3
+00:00:14.539 --> 00:00:19.079
+Então estou falando aqui da demonstração do valor adicionado.
+
+4
+00:00:19.399 --> 00:00:21.519
+E por que pessoal? Por que essa complexidade?
+
+5
+00:00:21.879 --> 00:00:25.960
+Como eu mostrei para vocês, ela é uma demonstração que é exigida para as companhias,
+
+6
+00:00:26.500 --> 00:00:31.440
+somente as companhias com ações listadas, as companhias abertas.
+
+7
+00:00:32.000 --> 00:00:35.840
+Isso faz com que o nosso código de empresa seja pequeno,
+
+8
+00:00:35.840 --> 00:00:38.899
+ou, às vezes, algumas empresas de caráter voluntário,
+
+9
+00:00:39.039 --> 00:00:43.280
+ou um órgão regulador que exija essa demonstração do valor adicionado.
+
+10
+00:00:43.539 --> 00:00:47.899
+É uma pena, pessoal, porque essa demonstração não permitiria um PIB contábil, o valor
+
+11
+00:00:47.899 --> 00:00:51.460
+adicionado de todas as empresas do país.
+
+12
+00:00:51.600 --> 00:00:54.719
+Imagina que interessante ter o PIB contábil do Brasil.
+
+13
+00:00:55.039 --> 00:00:57.960
+Então não temos, porque não são todas as empresas que o fazem.
+
+14
+00:00:58.579 --> 00:01:08.799
+E outra coisa também é que, pelo fato de não ter essa obrigatoriedade, acaba tendo um distanciamento com muitos profissionais,
+
+15
+00:01:08.920 --> 00:01:14.040
+muitas áreas de contabilidade que acabam trabalhando somente nas demonstrações obrigatórias.
+
+16
+00:01:14.939 --> 00:01:21.079
+Por experiência própria, eu trabalhei em um prêmio exame das mil maiores empresas do país,
+
+17
+00:01:21.079 --> 00:01:29.359
+mil melhores e maiores, a revista Exame, ou seja, se nós temos 300, 400 empresas listadas,
+
+18
+00:01:29.599 --> 00:01:38.540
+vocês já podem imaginar a quantidade de empresas que entregou a DVA somente para o prêmio e não vive DVA no seu dia a dia,
+
+19
+00:01:38.859 --> 00:01:47.900
+que aconteceu muitos e muitos erros básicos de DVA detectados exatamente pelos profissionais estarem distante dessa demonstração.
+
+20
+00:01:48.099 --> 00:01:55.840
+Então voto que vocês possam aproveitar ao máximo e ter uma excelente DVA no dia a dia, no escritório de vocês, na empresa de vocês.
+
+21
+00:01:55.840 --> 00:02:02.019
+Sendo assim pessoal, o valor adicionado que nós vamos verificar, a distribuição da riqueza na empresa,
+
+22
+00:02:02.140 --> 00:02:05.340
+quem são esses participantes dessa distribuição,
+
+23
+00:02:11.300 --> 00:02:11.419
+os aspectos práticos, os componentes da DVA, sua relação com o modelo de negócios da companhia,
+
+24
+00:02:16.319 --> 00:02:16.439
+esse paralelo que nós traçamos, tanto de tentar colocar aqui exemplos,
+
+25
+00:02:20.039 --> 00:02:20.620
+e a própria Renner, o nosso case geral aqui do curso.
+
+26
+00:02:25.840 --> 00:02:26.139
+Além disso, como preparar os cuidados na elaboração Pontos de atenção, tá?
+
+27
+00:02:31.939 --> 00:02:36.020
+E é claro, as características da DVA no modelo de negócios das empresas Como que isso se relaciona com o dia a dia da companhia, tá bem?
+
+28
+00:02:36.539 --> 00:02:37.539
+Então, vamos lá
+
+29
+00:02:37.539 --> 00:02:42.520
+Primeiramente, pessoal, o CPC-09, que já está na sua versão R1
+
+30
+00:02:42.520 --> 00:02:45.319
+Trata da demonstração do valor adicionado,
+
+31
+00:02:45.759 --> 00:02:48.020
+mas tem um detalhe, às vezes é automático.
+
+32
+00:02:48.259 --> 00:02:52.379
+Vejam que toda norma aqui, todo conteúdo tem sempre uma dica.
+
+33
+00:02:53.020 --> 00:02:54.340
+Qual é a dica dessa vez?
+
+34
+00:02:55.060 --> 00:02:58.379
+Nem todo CPC é norma internacional.
+
+35
+00:02:59.060 --> 00:03:03.379
+Então é comum pensarmos, ah, todo CPC é a tradução de uma norma.
+
+36
+00:03:03.379 --> 00:03:09.520
+Não, todo CPC ajuda nesse processo, participa do processo nosso
+
+37
+00:03:09.520 --> 00:03:12.800
+aqui de harmonização com as normas internacionais,
+
+38
+00:03:12.879 --> 00:03:17.020
+de harmonização com o padrão global de contabilidade,
+
+39
+00:03:17.300 --> 00:03:20.379
+porém a DVA não é um item obrigatório,
+
+40
+00:03:20.379 --> 00:03:24.960
+ela não é um item que aparece lá no conjunto IFRS.
+
+41
+00:03:25.319 --> 00:03:29.539
+Então o CPC-09 é um documento, é uma norma contado,
+
+42
+00:03:29.900 --> 00:03:33.819
+mas nossa aqui, né, coisa nossa, né, do Brasil,
+
+43
+00:03:34.199 --> 00:03:38.479
+exatamente para tratarmos da nossa divulgação do valor adicionado,
+
+44
+00:03:38.800 --> 00:03:42.780
+é uma situação peculiar, digamos assim, tá.
+
+45
+00:03:42.900 --> 00:03:46.460
+Assim como o CPC do ajuste a valor presente,
+
+46
+00:03:46.639 --> 00:03:52.099
+existem alguns pronunciamentos que não têm uma correlação imediata internacional,
+
+47
+00:03:52.639 --> 00:03:56.240
+mas ajuda no conjunto das demonstrações contábeis
+
+48
+00:03:56.240 --> 00:04:00.639
+ou nesse nosso processo de harmonização com as normas internacionais.
+
+49
+00:04:00.639 --> 00:04:04.620
+Então mostra a riqueza gerada pela empresa e a riqueza,
+
+50
+00:04:04.680 --> 00:04:06.900
+como que ela foi distribuída.
+
+51
+00:04:07.060 --> 00:04:10.520
+É uma demonstração incrível, tá bom pessoal?
+
+52
+00:04:10.719 --> 00:04:15.060
+Pena que realmente não são todas as empresas que a preparam, que a emitem.
+
+53
+00:04:15.180 --> 00:04:22.339
+Caso contrário, nós teríamos incríveis informações de riqueza gerada e distribuída no nosso país.
+
+54
+00:04:22.600 --> 00:04:25.899
+Valor adicionado mostra essa riqueza criada e distribuída no nosso país. O valor adicionado mostra essa riqueza criada pela empresa, tá?
+
+55
+00:04:26.220 --> 00:04:31.000
+É claro, né, que essa riqueza criada, se a empresa tem os seus custos,
+
+56
+00:04:31.319 --> 00:04:34.279
+se a empresa tem um monte de despesa, né, uma série de outros elementos,
+
+57
+00:04:34.639 --> 00:04:40.879
+ela vai também, né, colocar isso como, né, ingrediente dessa demonstração.
+
+58
+00:04:41.420 --> 00:04:46.879
+Além disso, tá, pessoal, se essa empresa recebeu determinados montantes, se ela recebe
+
+59
+00:04:46.879 --> 00:04:53.600
+determinados valores, é claro que ela tem ali, né, montantes recebidos em transferência e que vão fazer
+
+60
+00:04:53.600 --> 00:05:01.279
+parte desse ciclo. Então, não é só, né, o que a empresa produziu, né, é o que ela também recebeu, assim como
+
+61
+00:05:01.279 --> 00:05:06.199
+que ela também destinou, tá? E o que parece ser tão estranho, tão teórico,
+
+62
+00:05:06.259 --> 00:05:09.199
+vocês vão ver que no dia a dia, pensando nas vendas,
+
+63
+00:05:09.319 --> 00:05:13.579
+nas compras, na depreciação, no pagamento de salários, de impostos,
+
+64
+00:05:13.660 --> 00:05:17.420
+essas coisas se encaixam muito bem aqui na companhia.
+
+65
+00:05:17.860 --> 00:05:19.120
+Então, vejamos.
+
+66
+00:05:19.660 --> 00:05:21.319
+Na Renner, o que nós temos?
+
+67
+00:05:22.199 --> 00:05:25.319
+Nós temos a DVA, mesma coisa, tá bom, pessoal?
+
+68
+00:05:25.620 --> 00:05:27.199
+Em milhares de reais, né?
+
+69
+00:05:27.379 --> 00:05:31.000
+Nós temos a visão aqui da controladora, do consolidado, né?
+
+70
+00:05:31.259 --> 00:05:35.300
+O único detalhe é que aqui nós não temos nota explicativa, tá bem?
+
+71
+00:05:35.620 --> 00:05:38.920
+Tem uma nota explicativa que ela é geral para DVA,
+
+72
+00:05:38.980 --> 00:05:40.660
+eu até coloquei aqui para vocês na sequência,
+
+73
+00:05:40.759 --> 00:05:43.759
+mas não tem as notas para cada uma das linhas, tá?
+
+74
+00:05:43.759 --> 00:05:46.639
+Então é simplesmente seguindo a norma DVA.
+
+75
+00:05:47.540 --> 00:05:51.259
+Nós temos aqui vendas, tudo mais, todo o bloco de receita
+
+76
+00:05:51.259 --> 00:05:53.860
+e o bloco dos insumos adquiridos.
+
+77
+00:05:54.079 --> 00:05:56.439
+Afinal, o que eu gero de riqueza?
+
+78
+00:05:56.439 --> 00:06:02.560
+É o que eu estou vendendo, menos os custos que eu já tive ao longo desse processo.
+
+79
+00:06:02.879 --> 00:06:06.420
+Então isso me dá uma última linha que é o valor adicionado bruto.
+
+80
+00:06:06.839 --> 00:06:09.399
+Assim como eu tenho o lucro bruto e não para por ali,
+
+81
+00:06:09.600 --> 00:06:10.959
+eu tenho que chegar no lucro líquido,
+
+82
+00:06:11.279 --> 00:06:14.279
+eu tenho aqui o valor adicionado bruto, não para por aí também,
+
+83
+00:06:14.579 --> 00:06:15.899
+eu tenho mais ingredientes.

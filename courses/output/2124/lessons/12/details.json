@@ -1,0 +1,33 @@
+{
+  "id": 462758,
+  "title": "Custos",
+  "position": 12,
+  "duration": 80,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/00cf4492-9a16-46bb-8f72-1af2f2430934/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00cf4492-9a16-46bb-8f72-1af2f2430934/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00cf4492-9a16-46bb-8f72-1af2f2430934/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00cf4492-9a16-46bb-8f72-1af2f2430934/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00cf4492-9a16-46bb-8f72-1af2f2430934/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

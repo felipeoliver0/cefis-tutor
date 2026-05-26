@@ -1,0 +1,317 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.750
+pessoal e agora a gente vai começar a entrar mais.
+
+2
+00:00:02.759 --> 00:00:07.739
+Na parte, um pouquinho mais prática, Tá, e vamos falar sobre o formato eletrônico,
+
+3
+00:00:07.750 --> 00:00:07.900
+né?
+
+4
+00:00:07.909 --> 00:00:11.939
+Ou sobre o layout desse arquivo. Eu já falei que tinha que ser estatura digital.
+
+5
+00:00:11.949 --> 00:00:15.640
+Já falei que tem que ter as informações de de livros, fiscais e tudo mais.
+
+6
+00:00:15.649 --> 00:00:18.780
+Mas vamos agora tratar de uma parte um pouco mais prática.
+
+7
+00:00:18.790 --> 00:00:22.760
+E vamos conhecer o layout desse documento eletrônico. Tá bom
+
+8
+00:00:23.280 --> 00:00:28.030
+então, pessoal! O que de fato é F D na prática, tá é F d.
+
+9
+00:00:28.040 --> 00:00:31.850
+Na prática, ela é um arquivo digital, né?
+
+10
+00:00:31.860 --> 00:00:34.529
+Que é transmitido pela internet pro Fisco federal,
+
+11
+00:00:34.540 --> 00:00:36.549
+utilizando o certificado C P Brasil.
+
+12
+00:00:36.560 --> 00:00:41.750
+Mas que que tem nisso aqui tá, a gente tem lá, por exemplo, os serviços de entrada,
+
+13
+00:00:41.959 --> 00:00:48.889
+registro de saída, inventaram registros de NFE, bilhete de passagem,
+
+14
+00:00:48.900 --> 00:00:50.490
+nota de energia elétrica, né?
+
+15
+00:00:50.500 --> 00:00:53.049
+Então tem todos esses registros aí tem
+
+16
+00:00:53.060 --> 00:00:56.689
+as tabelas externas Tabelas internas Nós vamos falar
+
+17
+00:00:56.700 --> 00:01:02.689
+disso daqui a pouquinho Tabela de apuração de contribuições federais é ali na F D.
+
+18
+00:01:02.700 --> 00:01:05.550
+Contribuições Registro de apuração de semestre,
+
+19
+00:01:05.559 --> 00:01:09.389
+IPI até do ISS na PROS contribuintes do Distrito Federal
+
+20
+00:01:10.260 --> 00:01:12.650
+registro das retenções de imposto de Renda,
+
+21
+00:01:12.849 --> 00:01:18.069
+então todas essas informações, né? Estão nesse arquivo digital, né?
+
+22
+00:01:18.080 --> 00:01:22.019
+E esse arquivo digital depois é assinado ali, com o certificado do C P.
+
+23
+00:01:22.029 --> 00:01:27.059
+Brasil e transmitido ali pro ambiente nacional despede, né?
+
+24
+00:01:27.069 --> 00:01:29.819
+Então, de uma maneira bem sintética, é isso aí que é,
+
+25
+00:01:29.830 --> 00:01:34.540
+na prática a nossa F D escrituração fiscal digital tá.
+
+26
+00:01:34.550 --> 00:01:37.779
+E como que essa informação está estruturada aí?
+
+27
+00:01:37.790 --> 00:01:40.879
+Em termos de arquivos do computador? Tá
+
+28
+00:01:41.809 --> 00:01:44.419
+as escriturações mais antigas.
+
+29
+00:01:44.430 --> 00:01:51.139
+Vamos dizer assim do IC M S do IPI EFD contribuições Elas estão num formato texto, né?
+
+30
+00:01:51.150 --> 00:01:55.940
+Formato texto pode ser aberto ali no editor de texto Computador, por exemplo, Tá,
+
+31
+00:01:55.949 --> 00:01:57.599
+Então é um arquivo de texto
+
+32
+00:01:58.239 --> 00:02:01.889
+Arquivo no formato de texto simples Tá com caracteres
+
+33
+00:02:01.900 --> 00:02:04.930
+especiais fazendo a divisão entre os campos de informação.
+
+34
+00:02:04.940 --> 00:02:07.849
+Então arquivo de texto e os caracteres marcam onde
+
+35
+00:02:07.860 --> 00:02:10.320
+começa e onde termina cada campo de informação.
+
+36
+00:02:10.330 --> 00:02:10.710
+Tá
+
+37
+00:02:11.740 --> 00:02:16.589
+essas duas escriturações aqui? F D ICMS, IPI EFD.
+
+38
+00:02:16.600 --> 00:02:22.550
+Contribuições contam com um programa gerador validador fornecido pelo Fisco. Tá?
+
+39
+00:02:22.559 --> 00:02:29.789
+Então, essa é a F D ICMS e IPI nos seus arquivos. O padrão t x t. Já f d R.
+
+40
+00:02:29.800 --> 00:02:32.050
+Ela tem um arquivo no padrão x ML
+
+41
+00:02:32.360 --> 00:02:33.130
+esse arquivo.
+
+42
+00:02:33.139 --> 00:02:36.889
+Aqui, ele se assemelha muito aos arquivos da nota fiscal eletrônica,
+
+43
+00:02:36.899 --> 00:02:39.059
+do conhecimento de transporte dos outros
+
+44
+00:02:39.070 --> 00:02:40.929
+documentos fiscais eletrônicos De todos,
+
+45
+00:02:40.940 --> 00:02:41.050
+né.
+
+46
+00:02:41.059 --> 00:02:43.820
+Nota de energia elétrica, nota de telecomunicação.
+
+47
+00:02:43.830 --> 00:02:48.669
+Então, ele é um arquivo texto com formatação especial, né?
+
+48
+00:02:48.889 --> 00:02:52.699
+Ele é semelhante aos aos outros documentos fiscais eletrônicos. Todos, né?
+
+49
+00:02:52.710 --> 00:02:55.520
+Conforme eu falei pra vocês e não contam com
+
+50
+00:02:55.529 --> 00:02:59.179
+um programa validador e gerador fornecido pelo Fisco.
+
+51
+00:02:59.190 --> 00:03:03.619
+Se a gente for debruçar sobre a documentação técnica da F D, R f,
+
+52
+00:03:03.630 --> 00:03:06.259
+nós vamos ver que há sim a previsão legal ali
+
+53
+00:03:06.270 --> 00:03:10.820
+pro físico fornecer algum program gerador transmissor e tudo mais.
+
+54
+00:03:10.830 --> 00:03:14.440
+Mas, por enquanto, a gente ainda não tem. Tá bom
+
+55
+00:03:15.649 --> 00:03:16.600
+então, pessoal
+
+56
+00:03:17.529 --> 00:03:18.800
+voltando aqui
+
+57
+00:03:19.720 --> 00:03:26.570
+Arquivo T x t f d ICMS P? EFD Contribuições é um arquivo hierárquico, né?
+
+58
+00:03:26.580 --> 00:03:28.809
+Com blocos, registros e campos?
+
+59
+00:03:28.820 --> 00:03:36.369
+Tá, Então, esse essa é a organização do arquivo T x T da F D, ICMS, IPI.
+
+60
+00:03:36.380 --> 00:03:43.250
+E no arquivo, eh x ML da R, F, F, D, R f são um arquivo com tags. Tag, né? Tag?
+
+61
+00:03:43.259 --> 00:03:44.630
+Etiqueta em inglês, né? Com
+
+62
+00:03:44.850 --> 00:03:46.100
+com a etiqueta, né?
+
+63
+00:03:46.110 --> 00:03:50.020
+Pra falar eh essa etiqueta aqui é o que esse é o nome do contribuinte. C?
+
+64
+00:03:50.029 --> 00:03:55.860
+N PJ Contribuindo e tudo mais então aqui as informações estão estruturadas em tags,
+
+65
+00:03:55.869 --> 00:04:00.199
+enquanto aqui é um arquivo á com bloco, serviço e Cass tá,
+
+66
+00:04:01.000 --> 00:04:07.210
+Então, essa é a diferença ali do arquivo. T x T pro arquivo X ML tá pessoal? F D. R F.
+
+67
+00:04:07.220 --> 00:04:09.490
+Ela foi construída de uma maneira
+
+68
+00:04:09.500 --> 00:04:12.210
+similar aos outros documentos fiscais eletrônicos,
+
+69
+00:04:12.220 --> 00:04:12.490
+né?
+
+70
+00:04:12.500 --> 00:04:18.709
+Então ela é transmitida via web, com arquivo X ML. Então, é uma outra sistemática.
+
+71
+00:04:18.720 --> 00:04:22.529
+Embora ela esteja ali no mesmo das F D S,
+
+72
+00:04:22.540 --> 00:04:27.510
+a estrutura tecnológica da F D R ela é um pouco diferente, né?
+
+73
+00:04:27.519 --> 00:04:29.089
+Mas também pudera, né?
+
+74
+00:04:29.100 --> 00:04:32.750
+Enquanto a obrigação, a autoridade das outras escriturações,
+
+75
+00:04:32.760 --> 00:04:35.829
+ela é de dois mil e doze, dois mil e catorze.
+
+76
+00:04:35.839 --> 00:04:37.589
+Ou seja, já tem dez anos, né?
+
+77
+00:04:37.600 --> 00:04:42.230
+Essa aqui a obrigatoriedade é setembro de dois mil e vinte e quatro, ou seja,
+
+78
+00:04:42.239 --> 00:04:43.290
+é muito mais nova, né?
+
+79
+00:04:43.299 --> 00:04:46.809
+Por isso, é claro que o modelo foi um pouco aprimorado. Tá bom!

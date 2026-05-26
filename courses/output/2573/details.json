@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2573,
+    "title": "Incoterms",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso de Incoterms (que, em português significa Termos Internacionais de Comércio) você aprenderá desde a história e definição, até pontos relativos à relevância desses termos, modais, famílias e muitos outros pontos para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b4ee3aa2fd68dbc0339ba03eaa431c891727451444.jpg",
+    "goals": [
+      "Compreender a definição de Incoterms, bem como sua história e finalidade. Entender a aplicabilidade dos Incoterms com base no modal e por família (E, F, C, D)."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 3260,
+    "keywords": "inconterm;inconterms",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 402,
+    "averageRating": 9.36,
+    "practiceAverage": 9.38,
+    "trailer": {
+      "id": "5095a509-5dc7-4dff-86f9-23ec6d91d492",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5095a509-5dc7-4dff-86f9-23ec6d91d492/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5095a509-5dc7-4dff-86f9-23ec6d91d492/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5095a509-5dc7-4dff-86f9-23ec6d91d492/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5095a509-5dc7-4dff-86f9-23ec6d91d492/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-06-16T12:58:57.000Z",
+      "updatedAt": "2023-06-16T12:58:57.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-06-10T15:25:00.000Z",
+    "recordedAt": "2023-05-27T00:00:00.000Z",
+    "createdAt": "2023-05-28T20:58:10.000Z"
+  }
+}

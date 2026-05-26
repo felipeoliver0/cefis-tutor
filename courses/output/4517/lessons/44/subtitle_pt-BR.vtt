@@ -1,0 +1,525 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.879
+Plano de contas de 051 referencial é o depara entre as contas analíticas de ativo e passivo,
+
+3
+00:00:07.879 --> 00:00:13.339
+patrimônio líquido, receita e despesa, em um plano de contas padronizado.
+
+4
+00:00:13.339 --> 00:00:16.879
+Não se aglutina contas sintéticas.
+
+5
+00:00:16.879 --> 00:00:22.480
+E aqui como observação, caso a pessoa jurídica utilize subcontas auxiliares,
+
+6
+00:00:22.480 --> 00:00:32.560
+conforme previsto no artigo 295, 296, 2898 e 299 da Justiça Normativa nº 1.700, de março de 2017,
+
+7
+00:00:32.560 --> 00:00:39.939
+as subcontas auxiliares devem ser mapeadas para a conta referencial pai da respectiva subconta.
+
+8
+00:00:39.939 --> 00:00:49.679
+Ou seja, se eu tenho lá uma máquina por R$ 1.000, tenho lá ajuste de avaliação patrimonial por R$ 500,
+
+9
+00:00:49.679 --> 00:00:52.479
+o total da máquina é R$ 1.500, mas está numa conta máquina,
+
+10
+00:00:52.479 --> 00:00:55.439
+e tem uma subconta de máquina, perfeito?
+
+11
+00:00:55.439 --> 00:01:01.359
+Quando eu for referenciar, as duas eu vou referenciar por uma única conta pai lá no referencial,
+
+12
+00:01:01.359 --> 00:01:04.019
+máquinas e equipamentos, por exemplo, tá?
+
+13
+00:01:04.019 --> 00:01:08.560
+Então, tanto a subconta quanto a conta, é o que eu estou dizendo aqui, perfeito?
+
+14
+00:01:08.560 --> 00:01:10.159
+Para fazer o mapeamento.
+
+15
+00:01:10.159 --> 00:01:13.159
+152 é a indicação dos códigos de aglutinação.
+
+16
+00:01:13.159 --> 00:01:19.700
+As informações deste exercício serão utilizadas para elaboração das demonstrações contábeis.
+
+17
+00:01:19.700 --> 00:01:22.439
+Aquelas que eu disse a vocês, balanço, DRE,
+
+18
+00:01:22.439 --> 00:01:26.540
+DMPL ou DLPA, nos registros dos blocos J.
+
+19
+00:01:26.540 --> 00:01:31.379
+Deve ser utilizado o código de aglutinação, válido na data de encerramento
+
+20
+00:01:31.379 --> 00:01:35.680
+e de maior detalhamento utilizado nas demonstrações contábeis, perfeito?
+
+21
+00:01:35.680 --> 00:01:41.500
+O I153, subcontas correlatas, registro utilizado para demonstrar
+
+22
+00:01:41.500 --> 00:01:47.599
+o código de identificação do grupo de subcontas, que é o campo 2,
+
+23
+00:01:47.599 --> 00:01:52.200
+composto de uma conta pai e uma ou mais subcontas correlata.
+
+24
+00:01:52.200 --> 00:01:57.099
+É possível utilizar o mesmo código de identificação do grupo
+
+25
+00:01:57.099 --> 00:02:02.040
+para mais de um conjunto de contas pai e subcontas, sem problema nenhum, tá?
+
+26
+00:02:02.040 --> 00:02:04.420
+Vamos para o exemplo aí, para vocês entenderem, ó.
+
+27
+00:02:04.420 --> 00:02:10.419
+Conta pai foi informada lá no registro I050, veículos, show de bola.
+
+28
+00:02:10.419 --> 00:02:17.819
+Subconta, ajuste a valor presente, AVP, também deve ser informada no I050, entendeu?
+
+29
+00:02:17.819 --> 00:02:21.699
+Então, a subconta foi para o mesmo lugar da conta pai, entendeu?
+
+30
+00:02:21.699 --> 00:02:22.199
+Aqui.
+
+31
+00:02:22.199 --> 00:02:27.500
+Conta pai informada no registro I050, depreciação acumulada, perfeito.
+
+32
+00:02:27.500 --> 00:02:33.840
+Subconta, ajuste a valor presente, depreciação, também deve estar no I050.
+
+33
+00:02:33.840 --> 00:02:42.379
+Então, todas as contas filhinhas foi tudo para a conta pai, no meu redirecionamento, perfeito?
+
+34
+00:02:42.379 --> 00:02:43.180
+Como funciona?
+
+35
+00:02:43.180 --> 00:02:48.500
+É para isso que servem essas malditas subcontas que a Receita Federal criou
+
+36
+00:02:48.500 --> 00:02:51.699
+e nos obrigou a fazer ajustes no nosso plano de contas.
+
+37
+00:02:51.699 --> 00:02:53.699
+Então, é um absurdo isso, né?
+
+38
+00:02:53.699 --> 00:02:56.280
+Gente, respeita aí, mas enfim, né?
+
+39
+00:02:56.280 --> 00:02:59.939
+O I075 histórico, padrão, bacana.
+
+40
+00:02:59.939 --> 00:03:06.180
+O objetivo do registro é facilitar e otimizar o preenchimento da escrituração contábil.
+
+41
+00:03:06.180 --> 00:03:11.979
+A pessoa jurídica define o histórico padronizado, que deve ser único para todo o período
+
+42
+00:03:11.979 --> 00:03:15.259
+a que se refere a escrituração utilizada, né?
+
+43
+00:03:15.259 --> 00:03:20.159
+E utiliza somente os códigos pré-definidos nesse registro por ocasião do preenchimento do registro,
+
+44
+00:03:20.159 --> 00:03:21.500
+relativo ao detalhamento.
+
+45
+00:03:21.500 --> 00:03:23.139
+O detalhamento dos lançamentos contábeis.
+
+46
+00:03:23.139 --> 00:03:31.879
+Então, normalmente você tem lá o 01, depósito em espécie, 02, depósito em cheque, 03, por exemplo,
+
+47
+00:03:31.879 --> 00:03:38.319
+compra conforme nota fiscal, número tal, 04, pagamento de energia elétrica do mês, tal,
+
+48
+00:03:38.319 --> 00:03:43.219
+número 5, lançamentos referente à folha de pagamento referente ao mês, tal.
+
+49
+00:03:43.219 --> 00:03:46.620
+Então, são histórico padrão, todo mês vai ser a mesma coisa.
+
+50
+00:03:46.620 --> 00:03:50.620
+Então, fica um razão limpo, organizado, uniforme.
+
+51
+00:03:50.620 --> 00:03:51.500
+Você pega um...
+
+52
+00:03:51.500 --> 00:03:57.580
+Um diário está bonito, então, fácil de visualizar, fácil de entender as operações, né?
+
+53
+00:03:57.580 --> 00:04:02.039
+Do que deixar a critério do usuário, cada um com o seu histórico.
+
+54
+00:04:02.039 --> 00:04:07.580
+Às vezes o usuário esquece de botar e o sistema não trava, não é campo obrigatório.
+
+55
+00:04:07.580 --> 00:04:10.780
+Isso dá divergência, pode dar notificação.
+
+56
+00:04:10.780 --> 00:04:11.979
+Perfeito, pessoal?
+
+57
+00:04:11.979 --> 00:04:15.560
+Então, é importante o preenchimento do I-075.
+
+58
+00:04:15.560 --> 00:04:17.720
+O I-100, centro de custo.
+
+59
+00:04:17.720 --> 00:04:21.500
+Registro obrigatório para todos os que utilizam o centro de custo na sua contabilidade.
+
+60
+00:04:21.500 --> 00:04:26.699
+Mesmo que não tenham sido necessários os registros I-051 e I-052.
+
+61
+00:04:26.699 --> 00:04:28.439
+Centro de custo é bacana, que é gestão, né?
+
+62
+00:04:28.439 --> 00:04:31.939
+Você conhece as despesas aí por centro de custo.
+
+63
+00:04:31.939 --> 00:04:33.019
+Legal, pessoal?
+
+64
+00:04:33.019 --> 00:04:35.519
+Aí nós vamos ter o I-150.
+
+65
+00:04:35.519 --> 00:04:39.959
+Saldos periódicos, identificação do período.
+
+66
+00:04:39.959 --> 00:04:44.819
+Ou seja, esse registro identifica o período relativo aos saldos contábeis.
+
+67
+00:04:44.819 --> 00:04:48.459
+A periodicidade do saldo é, no máximo, mensal.
+
+68
+00:04:48.459 --> 00:04:51.500
+Mas poderá conter fração de mês.
+
+69
+00:04:51.500 --> 00:04:54.699
+No caso de situação especial que nós abordamos.
+
+70
+00:04:54.699 --> 00:04:57.300
+Cisão, fusão, incorporação.
+
+71
+00:04:57.300 --> 00:04:57.899
+Lembra, né?
+
+72
+00:04:57.899 --> 00:04:58.699
+Nós comentamos?
+
+73
+00:04:58.699 --> 00:05:00.300
+Pode ocorrer, né?
+
+74
+00:05:00.300 --> 00:05:02.180
+Então, temos também que ficar atento.
+
+75
+00:05:02.180 --> 00:05:08.980
+O registro I-155, detalhe dos saldos periódicos, que é filho do I-150.
+
+76
+00:05:08.980 --> 00:05:13.019
+Informa o saldo das contas contábeis, trazendo o total de débitos e créditos mensais
+
+77
+00:05:13.019 --> 00:05:15.660
+para as contas patrimoniais de resultado.
+
+78
+00:05:15.660 --> 00:05:18.199
+Os saldos devem ser informados mês a mês.
+
+79
+00:05:18.199 --> 00:05:21.500
+Ou seja, deve haver um registro I-150.
+
+80
+00:05:21.500 --> 00:05:23.300
+Por mês, né?
+
+81
+00:05:23.300 --> 00:05:28.100
+E aí, a exceção a esta regra ocorre no caso de situações especiais.
+
+82
+00:05:28.100 --> 00:05:29.199
+Que nós abordamos.
+
+83
+00:05:29.199 --> 00:05:32.420
+Cisão, fusão, incorporação, extinção.
+
+84
+00:05:32.420 --> 00:05:36.439
+No caso de início de atividade, no decorrer do ano-calendário,
+
+85
+00:05:36.439 --> 00:05:41.220
+quando é possível que o registro I-150 tenha fração de mês.
+
+86
+00:05:41.220 --> 00:05:44.779
+É a única exceção que ele pode conter aí, né?
+
+87
+00:05:44.779 --> 00:05:46.459
+Fração de mês, né?
+
+88
+00:05:46.459 --> 00:05:48.819
+Você vê que o bloco I é o mais robusto, né?
+
+89
+00:05:48.819 --> 00:05:49.819
+Tem tudo.
+
+90
+00:05:49.819 --> 00:05:50.899
+O I-157.
+
+91
+00:05:50.899 --> 00:05:58.379
+Já comentamos, sou obrigado a preenchê-lo caso eu tenha troca de contadores, plano de contas, né?
+
+92
+00:05:58.379 --> 00:06:01.639
+Transferência de saldo de plano de contas anterior.
+
+93
+00:06:01.639 --> 00:06:07.660
+Então, esse registro deve ser utilizado para informar as transferências de saldo
+
+94
+00:06:07.660 --> 00:06:13.579
+das contas analíticas do plano anterior para as contas analíticas do plano de contas novo.
+
+95
+00:06:13.579 --> 00:06:17.100
+Quando não forem realizados lançamentos contábeis e transferir no saldo.
+
+96
+00:06:17.100 --> 00:06:18.459
+Posso fazer na mão? Posso.
+
+97
+00:06:18.459 --> 00:06:20.399
+Também posso, né?
+
+98
+00:06:20.399 --> 00:06:23.540
+No saldo das contas analíticas, a gente chega para a conta nova, né?
+
+99
+00:06:23.540 --> 00:06:25.779
+O I-200 e o I-255.
+
+100
+00:06:25.779 --> 00:06:29.980
+Dependendo da quantidade de lançamento, às vezes você pode entrar e fazer na mão.
+
+101
+00:06:29.980 --> 00:06:32.620
+E uma observação aí, ó.
+
+102
+00:06:32.620 --> 00:06:39.959
+Caso a conta antiga, que é o plano de contas anterior, termine o último período da ECD anterior
+
+103
+00:06:39.959 --> 00:06:50.399
+com saldo zero, ela deve constar no registro I-157 com saldo zero, relacionado a uma conta nova para que a ECF,
+
+104
+00:06:50.399 --> 00:06:54.879
+possa recuperar o saldo do plano de contas anteriormente corretamente, tá?
+
+105
+00:06:54.879 --> 00:06:59.980
+Então, nós estamos fazendo a ECD com o olho na ECF, perfeito?
+
+106
+00:06:59.980 --> 00:07:01.480
+Super importante.
+
+107
+00:07:01.480 --> 00:07:04.220
+Ainda no bloco I, o I-200.
+
+108
+00:07:04.220 --> 00:07:05.480
+Para que que serve?
+
+109
+00:07:05.480 --> 00:07:08.779
+Define o cabeçalho do lançamento contábil.
+
+110
+00:07:08.779 --> 00:07:11.959
+Aqui é o grande X da questão.
+
+111
+00:07:11.959 --> 00:07:16.819
+São três tipos de lançamento que nós temos dentro da ECD.
+
+112
+00:07:16.819 --> 00:07:18.899
+Aqui é bem importante esse troço aqui, né?
+
+113
+00:07:18.899 --> 00:07:19.399
+Olha lá.
+
+114
+00:07:19.399 --> 00:07:20.399
+Olha lá.
+
+115
+00:07:20.399 --> 00:07:24.199
+Tipo E, lançamento de encerramento das contas.
+
+116
+00:07:24.199 --> 00:07:26.480
+Quando você está fazendo a apuração.
+
+117
+00:07:26.480 --> 00:07:31.720
+O tipo N, demais lançamento, denominado lançamentos normais.
+
+118
+00:07:31.720 --> 00:07:34.379
+Os lançamentos que você faz no dia a dia é tipo M.
+
+119
+00:07:34.379 --> 00:07:36.720
+Para encerramento é o tipo E.
+
+120
+00:07:36.720 --> 00:07:39.379
+Lá no bloco I-200.
+
+121
+00:07:39.379 --> 00:07:42.560
+E nós temos aqui que está em crenca.
+
+122
+00:07:42.560 --> 00:07:48.319
+Tipo X, lançamento extemporâneo, que nós já comentamos aqui, né?
+
+123
+00:07:48.319 --> 00:07:50.100
+Que abrange, entre outros,
+
+124
+00:07:50.100 --> 00:08:00.120
+lançamentos previstos nos itens 31 a 36 da ITG 2000, revisão lá do Conselho Federal 2014.
+
+125
+00:08:00.120 --> 00:08:04.980
+Então, são esses três tipos de lançamento que nós vamos ter dentro da ECD.
+
+126
+00:08:04.980 --> 00:08:11.560
+O lançamento normal, o lançamento de encerramento das contas e o lançamento X para extemporâneo.
+
+127
+00:08:11.560 --> 00:08:15.699
+Esses dois primeiros, tranquilo, suave na nave, né?
+
+128
+00:08:15.699 --> 00:08:19.100
+Agora, o lançamento X,
+
+129
+00:08:19.100 --> 00:08:24.259
+nós temos que pensar com cautela na hora de fazer esse lançamento.
+
+130
+00:08:24.259 --> 00:08:34.820
+Porque eu só vou fazer o lançamento X se, porventura, eu contabilizei diretamente dentro do patrimônio líquido.
+
+131
+00:08:35.279 --> 00:08:39.240
+Como, por exemplo, ajuste de exercícios anteriores.
+
+132
+00:08:40.220 --> 00:08:46.799
+Então, se eu contabilizei dentro do PL, aí eu vou utilizar o lançamento X.

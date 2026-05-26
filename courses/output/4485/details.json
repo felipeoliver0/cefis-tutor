@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4485,
+    "title": "CPC 00",
+    "subtitle": "Estrutura Conceitual",
+    "summary": "Neste curso \"CPC 00\" você irá aprender na prática tudo o que precisa saber sobre CPC 00. Aprenderá os fundamentos e a prática de características qualitativas da informação financeira, definição e reconhecimento de elementos das demonstrações contábeis e critérios de mensuração e reconhecimento de ativos e passivos e vários outros temas para você que deseja se atualizar ou aprender tudo sobre CPC 00.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/db62c3a5-147b-46e7-8340-960e72988501-thumbnail.png",
+    "goals": [
+      "O objetivo do curso \"CPC 00: Estrutura Conceitual\" é a capacitação para a aplicação prática dos fundamentos e conceitos que norteiam a elaboração e a apresentação de relatórios financeiros."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 3503,
+    "keywords": "cpc 46;Lei nº 11.101/2005;normas;SPED CONTABIL",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 10,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 95,
+    "averageRating": 9.22,
+    "practiceAverage": 8.94,
+    "trailer": {
+      "id": "1dd04521-238f-4814-9992-04bc2e73c529",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1dd04521-238f-4814-9992-04bc2e73c529/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1dd04521-238f-4814-9992-04bc2e73c529/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1dd04521-238f-4814-9992-04bc2e73c529/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1dd04521-238f-4814-9992-04bc2e73c529/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-04-27T23:52:48.000Z",
+      "updatedAt": "2026-04-27T23:52:47.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-04-27T23:54:11.000Z",
+    "recordedAt": "2026-03-11T00:00:00.000Z",
+    "createdAt": "2026-04-04T14:06:25.000Z"
+  }
+}

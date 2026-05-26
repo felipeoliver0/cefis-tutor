@@ -1,0 +1,521 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.279
+Registro 930, signatário. Identifica quem são os responsáveis pela escrituração.
+
+3
+00:00:08.279 --> 00:00:11.380
+E aqui também nós temos um detalhe muito capricioso.
+
+4
+00:00:11.380 --> 00:00:14.019
+Regras para assinatura do livro digital.
+
+5
+00:00:14.019 --> 00:00:21.780
+Toda ECD deve ser assinada, independentemente das outras assinaturas,
+
+6
+00:00:21.780 --> 00:00:29.320
+por um contador ou contabilista e por um responsável pela assinatura da ECD. Sempre.
+
+7
+00:00:29.320 --> 00:00:37.799
+O contador ou contabilista deve utilizar um EPF ou um ECPF para assinatura da ECD. Tudo eletrônico.
+
+8
+00:00:37.799 --> 00:00:46.340
+O responsável pela assinatura da ECD é indicado pelo próprio declarante, utilizando o campo específico.
+
+9
+00:00:46.340 --> 00:00:52.140
+Só pode haver a indicação de um responsável pela assinatura da ECD.
+
+10
+00:00:52.140 --> 00:00:55.920
+Ah, professor, mas eu tenho um cliente que tem cinco sócios e todos eles assinam.
+
+11
+00:00:55.920 --> 00:00:58.240
+Sem problema nenhum. Todos vão assinar.
+
+12
+00:00:58.240 --> 00:00:59.320
+Mas um só é responsável.
+
+13
+00:00:59.320 --> 00:01:01.320
+Perfeito?
+
+14
+00:01:01.320 --> 00:01:04.319
+Não importa que cinco, dez assinem sem problema nenhum.
+
+15
+00:01:04.319 --> 00:01:06.319
+Mas um só é responsável.
+
+16
+00:01:06.319 --> 00:01:11.340
+O responsável pela assinatura da ECD pode ser quem?
+
+17
+00:01:11.340 --> 00:01:17.340
+Um EPJ ou um ECNPJ que coincida com o CNPJ do declarante.
+
+18
+00:01:17.340 --> 00:01:20.340
+CNPJ básico, oito primeiras posições.
+
+19
+00:01:20.340 --> 00:01:22.340
+Essa é a situação recomendada.
+
+20
+00:01:22.340 --> 00:01:29.299
+As opções abaixo só devem ser utilizadas se essa situação se mostrar
+
+21
+00:01:29.319 --> 00:01:32.319
+problemática do ponto de vista operacional.
+
+22
+00:01:32.319 --> 00:01:38.319
+Por exemplo, o declarante não tem um EPF, um EPJ ou um ECNPJ.
+
+23
+00:01:38.319 --> 00:01:42.340
+E não consegue providenciar um em tempo hábil para a entrega da ECD.
+
+24
+00:01:42.340 --> 00:01:47.340
+Então, com isso, eu quero dizer para vocês que nós temos que monitorar
+
+25
+00:01:47.340 --> 00:01:52.340
+também esse representante e o prazo de validade dessas assinaturas deles.
+
+26
+00:01:52.340 --> 00:01:56.340
+Para estar sempre pronto, para não deixar para a última hora, tá?
+
+27
+00:01:56.340 --> 00:02:02.340
+Um EPJ ou um ECNPJ que não coincida com o CNPJ do declarante,
+
+28
+00:02:02.340 --> 00:02:05.340
+que é o CNPJ básico, oito primeiras posições.
+
+29
+00:02:05.340 --> 00:02:09.360
+Nesse caso, o CNPJ será validado pelo sistema da Receita Federal.
+
+30
+00:02:09.360 --> 00:02:14.360
+E deverá corresponder ao procurador eletrônico declarado pela Receita Federal.
+
+31
+00:02:14.360 --> 00:02:18.360
+Então, se não coincidir, tem que ter uma procuração eletrônica.
+
+32
+00:02:18.360 --> 00:02:19.360
+E tem que coincidir.
+
+33
+00:02:19.360 --> 00:02:20.360
+Perfeito?
+
+34
+00:02:20.360 --> 00:02:21.360
+Para poder assinar.
+
+35
+00:02:21.360 --> 00:02:22.360
+Se não, não consegue assinar.
+
+36
+00:02:22.360 --> 00:02:25.360
+Um EPF ou um ECPF.
+
+37
+00:02:25.360 --> 00:02:31.360
+Nesse caso, o CPF será validado no sistema da Receita Federal.
+
+38
+00:02:31.360 --> 00:02:37.379
+E deverá corresponder ao representante legal ou ao procurador eletrônico
+
+39
+00:02:37.379 --> 00:02:39.379
+da declaração perante a Receita Federal.
+
+40
+00:02:39.379 --> 00:02:40.379
+Um ou outro.
+
+41
+00:02:40.379 --> 00:02:42.379
+O representante ou o procurador.
+
+42
+00:02:42.379 --> 00:02:45.379
+Que também é delegado, como nós já comentamos no início.
+
+43
+00:02:45.379 --> 00:02:46.379
+Perfeito?
+
+44
+00:02:46.379 --> 00:02:48.379
+Tudo isso para assinar o J930.
+
+45
+00:02:48.379 --> 00:02:51.379
+E aqui nós temos os códigos de assinante.
+
+46
+00:02:51.379 --> 00:02:55.360
+Que nós vamos preencher lá no J930.
+
+47
+00:02:55.360 --> 00:02:57.360
+Clicando lá no drop-down, ele vai te abrir.
+
+48
+00:02:57.360 --> 00:03:00.360
+O 01, pessoa jurídica, que vai assinar.
+
+49
+00:03:00.360 --> 00:03:03.360
+ECNPJ ou EPJ.
+
+50
+00:03:03.360 --> 00:03:05.360
+203, diretor.
+
+51
+00:03:05.360 --> 00:03:07.379
+204, conselho da administração.
+
+52
+00:03:07.379 --> 00:03:09.379
+205, administrador.
+
+53
+00:03:09.379 --> 00:03:12.379
+206, administrador do grupo, se tiver.
+
+54
+00:03:12.379 --> 00:03:16.379
+O 207, administrador da sociedade filiada.
+
+55
+00:03:16.379 --> 00:03:21.379
+220, administrador judicial, pessoa física, podemos ter, sem sombra de dúvida.
+
+56
+00:03:21.379 --> 00:03:25.360
+O 222, administrador judicial, pessoa jurídica, podemos ter, sem sombra de dúvida.
+
+57
+00:03:25.360 --> 00:03:28.360
+Profissional responsável, determinado prejuízo.
+
+58
+00:03:28.360 --> 00:03:31.360
+223, o administrador judicial, que é o gestor.
+
+59
+00:03:31.360 --> 00:03:34.360
+226, gestor judicial.
+
+60
+00:03:34.360 --> 00:03:36.360
+Então nós temos aí vários códigos.
+
+61
+00:03:36.360 --> 00:03:40.360
+Como também 309, um procurador.
+
+62
+00:03:40.360 --> 00:03:43.360
+312, inventariante.
+
+63
+00:03:43.360 --> 00:03:45.360
+303, liquidante.
+
+64
+00:03:45.360 --> 00:03:47.360
+Cada um tem diferença, né?
+
+65
+00:03:47.360 --> 00:03:49.360
+315, interventor.
+
+66
+00:03:49.360 --> 00:03:52.360
+401, titular, pessoa física, EIRELI.
+
+67
+00:03:52.360 --> 00:03:54.360
+Não temos mais a EIRELI hoje, né?
+
+68
+00:03:54.360 --> 00:03:55.360
+Mas temos pessoa física.
+
+69
+00:03:55.360 --> 00:03:57.360
+801, empresário.
+
+70
+00:03:57.360 --> 00:03:59.360
+É aqui que eles entram.
+
+71
+00:03:59.360 --> 00:04:02.360
+900, somos nós, contador ou contabilista.
+
+72
+00:04:02.360 --> 00:04:06.360
+940, auditor independente, quando assinar.
+
+73
+00:04:06.360 --> 00:04:07.360
+E o 99, outros.
+
+74
+00:04:07.360 --> 00:04:13.360
+Então, se não couberem nenhum deles, ainda tem um escape, que é o 999, que é outros.
+
+75
+00:04:13.360 --> 00:04:14.360
+Perfeito?
+
+76
+00:04:14.360 --> 00:04:18.360
+Então nós, contadores, vamos assinar no código 900.
+
+77
+00:04:18.360 --> 00:04:20.360
+O empresário, 801.
+
+78
+00:04:20.360 --> 00:04:22.360
+Ou nos outros daí, depende de cada um.
+
+79
+00:04:22.360 --> 00:04:23.360
+Os auditores, 940.
+
+80
+00:04:23.360 --> 00:04:26.360
+E aqui vem o grande X da questão.
+
+81
+00:04:26.360 --> 00:04:34.360
+O contador não pode ser responsável técnico, não pode ser responsável pela ICD.
+
+82
+00:04:34.360 --> 00:04:35.360
+Não.
+
+83
+00:04:35.360 --> 00:04:36.360
+Contador, não.
+
+84
+00:04:36.360 --> 00:04:39.360
+O contador é responsável técnico.
+
+85
+00:04:39.360 --> 00:04:41.360
+Ele vai assinar com o CRC dele.
+
+86
+00:04:41.360 --> 00:04:47.360
+Agora, a maioria dos escritórios de contabilidade, a gente sabe como é que é, o contador assina por tudo.
+
+87
+00:04:47.360 --> 00:04:48.360
+Pode?
+
+88
+00:04:48.360 --> 00:04:50.360
+Pode, mas eu não aconselho.
+
+89
+00:04:50.360 --> 00:04:51.360
+Por que pode?
+
+90
+00:04:51.360 --> 00:04:55.360
+Porque o contador pode assinar por procuração.
+
+91
+00:04:55.360 --> 00:04:57.360
+Aí ele será procurador e contador.
+
+92
+00:04:57.360 --> 00:04:59.360
+Agora, tudo é você?
+
+93
+00:04:59.360 --> 00:05:01.360
+Você é responsável por tudo?
+
+94
+00:05:01.360 --> 00:05:07.360
+Imagina se nós tivermos qualquer problema aí nessa empresa, com Polícia Federal, com não sei o quê, com isso ou aquilo.
+
+95
+00:05:07.360 --> 00:05:09.360
+E precisasse defender.
+
+96
+00:05:09.360 --> 00:05:11.360
+O que o advogado dele vai alegar?
+
+97
+00:05:11.360 --> 00:05:13.360
+Não sabemos de nada.
+
+98
+00:05:13.360 --> 00:05:16.360
+Passamos uma procuração de plenos poderes para o contador, ele que assina tudo.
+
+99
+00:05:16.360 --> 00:05:18.360
+A gente nem sabe que ele assina.
+
+100
+00:05:18.360 --> 00:05:19.360
+Você entendeu?
+
+101
+00:05:19.360 --> 00:05:23.360
+Então, pelo menos a ECD, gente, eu sei que facilita muito o dia-a-dia de vocês,
+
+102
+00:05:23.360 --> 00:05:27.360
+mas pelo menos, e aqui eu estou falando do pessoal que trabalha no escritório de contabilidade,
+
+103
+00:05:27.360 --> 00:05:31.360
+porque quem trabalha em empresa é tranquilo, o diretor está lá, assina, você assina junto, acabou.
+
+104
+00:05:31.360 --> 00:05:37.360
+Agora, escritório de contabilidade, quando o cliente chega, a primeira coisa que ele faz é pegar uma procuração de plenos poderes.
+
+105
+00:05:37.360 --> 00:05:41.360
+Cuidado, a ECD é tudo o que se passa em uma empresa.
+
+106
+00:05:41.360 --> 00:05:45.360
+É toda a contabilização, deveria estar tudo lá.
+
+107
+00:05:45.360 --> 00:05:49.360
+Portanto, quem tem que assinar isso é o sócio, é o responsável.
+
+108
+00:05:49.360 --> 00:05:52.360
+Junto com nós, obviamente, que somos o técnico.
+
+109
+00:05:52.360 --> 00:05:54.360
+Não nós assinarmos tudo.
+
+110
+00:05:54.360 --> 00:05:55.360
+Mas pode assinar?
+
+111
+00:05:55.360 --> 00:05:57.360
+Pode, o contador pode assinar.
+
+112
+00:05:57.360 --> 00:06:02.360
+Mas vai assinar como contador, como responsável técnico e como procurador.
+
+113
+00:06:02.360 --> 00:06:04.360
+Ele vai ter uma procuração da empresa.
+
+114
+00:06:04.360 --> 00:06:06.360
+Que é o que eu não aconselho, mas pode.
+
+115
+00:06:06.360 --> 00:06:11.360
+Pelo menos a ECD, os outros ainda mais, mas a ECD é a essência de tudo.
+
+116
+00:06:11.360 --> 00:06:14.360
+Ainda mais se você tiver carta de responsabilidade.
+
+117
+00:06:14.360 --> 00:06:16.360
+Deixe o sócio assinar.
+
+118
+00:06:16.360 --> 00:06:17.360
+Perfeito.
+
+119
+00:06:17.360 --> 00:06:18.360
+Então, vamos lá.
+
+120
+00:06:18.360 --> 00:06:20.360
+Aqui é o contador.
+
+121
+00:06:20.360 --> 00:06:21.360
+O erro que a gente pega.
+
+122
+00:06:21.360 --> 00:06:23.360
+Olha só como nós temos que assinar.
+
+123
+00:06:23.360 --> 00:06:25.360
+Fulano de tal, CPF, contador, tal.
+
+124
+00:06:25.360 --> 00:06:28.360
+Aqui eu trouxe o campo 1, é o tipo do registro.
+
+125
+00:06:28.360 --> 00:06:30.360
+O campo 2, nome do signatário.
+
+126
+00:06:30.360 --> 00:06:33.360
+Esses campos, quando eu abro a telinha lá, tem esses campos aí.
+
+127
+00:06:33.360 --> 00:06:39.360
+Então, os números 3, 4, qualificação, código de qualificação assinante, como nós vimos.
+
+128
+00:06:39.360 --> 00:06:43.360
+Aí nós vamos ter aqui o número de inscrição do contabilista, o CRC dele.
+
+129
+00:06:43.360 --> 00:06:47.360
+O e-mail, o telefone, a unidade da federação que ele faz parte.
+
+130
+00:06:47.360 --> 00:06:50.360
+O número sequencial, a data de validade, enfim.
+
+131
+00:06:50.360 --> 00:06:52.360
+Então, é isso que ele tem que assinar.

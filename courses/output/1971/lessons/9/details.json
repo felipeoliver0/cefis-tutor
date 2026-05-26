@@ -1,0 +1,33 @@
+{
+  "id": 460438,
+  "title": "Influência",
+  "position": 9,
+  "duration": 565,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4cd03041-e9a7-4c01-af95-1b66014c5f62/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cd03041-e9a7-4c01-af95-1b66014c5f62/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cd03041-e9a7-4c01-af95-1b66014c5f62/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cd03041-e9a7-4c01-af95-1b66014c5f62/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4cd03041-e9a7-4c01-af95-1b66014c5f62/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

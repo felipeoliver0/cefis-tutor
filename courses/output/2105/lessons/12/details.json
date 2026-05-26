@@ -1,0 +1,33 @@
+{
+  "id": 462371,
+  "title": "Estratégia de monitoramento contínuo",
+  "position": 12,
+  "duration": 293,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/895bcfcc-705e-40d9-875e-8a50777de40a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/895bcfcc-705e-40d9-875e-8a50777de40a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/895bcfcc-705e-40d9-875e-8a50777de40a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/895bcfcc-705e-40d9-875e-8a50777de40a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/895bcfcc-705e-40d9-875e-8a50777de40a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

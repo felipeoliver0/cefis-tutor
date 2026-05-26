@@ -1,0 +1,33 @@
+{
+  "id": 459891,
+  "title": "Dispositivo legal",
+  "position": 3,
+  "duration": 165,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d017b494-1acc-449c-9521-b3764cf74a13/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d017b494-1acc-449c-9521-b3764cf74a13/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d017b494-1acc-449c-9521-b3764cf74a13/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d017b494-1acc-449c-9521-b3764cf74a13/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d017b494-1acc-449c-9521-b3764cf74a13/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 480868,
+  "title": "Séries irregulares Parte 4",
+  "position": 45,
+  "duration": 564,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/56a721bc-58a2-418a-bb64-f710420c56bd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/56a721bc-58a2-418a-bb64-f710420c56bd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/56a721bc-58a2-418a-bb64-f710420c56bd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/56a721bc-58a2-418a-bb64-f710420c56bd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/56a721bc-58a2-418a-bb64-f710420c56bd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

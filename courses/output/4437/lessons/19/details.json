@@ -1,0 +1,33 @@
+{
+  "id": 487582,
+  "title": "Outras planilhas - Parte 2",
+  "position": 19,
+  "duration": 377,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/c04b6a99-a502-456f-bffc-67b603d95342/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c04b6a99-a502-456f-bffc-67b603d95342/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c04b6a99-a502-456f-bffc-67b603d95342/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c04b6a99-a502-456f-bffc-67b603d95342/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c04b6a99-a502-456f-bffc-67b603d95342/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

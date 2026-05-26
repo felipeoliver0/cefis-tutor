@@ -1,0 +1,33 @@
+{
+  "id": 476112,
+  "title": "Procedimento de lançamento do crédito de icms",
+  "position": 27,
+  "duration": 585,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/66444a6d-162b-42cd-a77a-a3d6302d3cd1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/66444a6d-162b-42cd-a77a-a3d6302d3cd1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/66444a6d-162b-42cd-a77a-a3d6302d3cd1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/66444a6d-162b-42cd-a77a-a3d6302d3cd1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/66444a6d-162b-42cd-a77a-a3d6302d3cd1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

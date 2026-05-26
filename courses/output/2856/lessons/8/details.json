@@ -1,0 +1,33 @@
+{
+  "id": 471721,
+  "title": "Camadas de solução | Conformidade",
+  "position": 8,
+  "duration": 300,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d02c62e1-d740-4e34-827d-f598d7c14dba/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d02c62e1-d740-4e34-827d-f598d7c14dba/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d02c62e1-d740-4e34-827d-f598d7c14dba/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d02c62e1-d740-4e34-827d-f598d7c14dba/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d02c62e1-d740-4e34-827d-f598d7c14dba/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

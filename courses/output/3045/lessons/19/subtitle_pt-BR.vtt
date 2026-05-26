@@ -1,0 +1,345 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.920
+Então vamos supor que uma empresa mercantil, né
+
+2
+00:00:04.519 --> 00:00:08.670
+tem adquirido pra revenda mercadorias por cem mil reais.
+
+3
+00:00:08.680 --> 00:00:13.609
+Considerando que esta aquisição de o contribuinte tenha direito
+
+4
+00:00:13.619 --> 00:00:17.569
+a crédito de PIS com uma alíquota de um
+
+5
+00:00:17.579 --> 00:00:20.489
+vírgula sessenta e cinco por cento e um crédito
+
+6
+00:00:20.500 --> 00:00:25.030
+de COFINS de sete vírgula seis por cento né?
+
+7
+00:00:25.370 --> 00:00:28.600
+Teremos com base nessas informações.
+
+8
+00:00:28.610 --> 00:00:30.790
+Nesse documento fiscal de entrada,
+
+9
+00:00:30.799 --> 00:00:35.200
+esse as seguintes informações teremos as seguintes
+
+10
+00:00:35.959 --> 00:00:41.509
+informações no registro c cem o que será gerado no registro?
+
+11
+00:00:41.520 --> 00:00:47.779
+C cem da EFD contribuições, né? A no a entrada da nota fiscal a nota fiscal de entrada?
+
+12
+00:00:47.790 --> 00:00:51.849
+Então eh o bloco C é pras entidades mercantis e indústria, né?
+
+13
+00:00:51.860 --> 00:00:56.069
+Como é uma empresa mercantil que tá adquirindo E ela tem essa nota de entrada,
+
+14
+00:00:56.080 --> 00:01:01.150
+então essa nota fiscal, eletrônica ou nota fiscal é gerado no C cem.
+
+15
+00:01:01.819 --> 00:01:07.050
+Nesse registro, cem nós prestamos. Quais informações. O que que é?
+
+16
+00:01:07.059 --> 00:01:09.629
+Quais são as informações que são prestadas a
+
+17
+00:01:09.639 --> 00:01:12.849
+todas as informações que constam na nota fiscal?
+
+18
+00:01:13.480 --> 00:01:15.290
+Não é isso? Então nós temos aí.
+
+19
+00:01:15.300 --> 00:01:20.370
+Por exemplo, né eh Quem é o participante pra quem vendemos, né?
+
+20
+00:01:20.379 --> 00:01:23.110
+O número do documento, né?
+
+21
+00:01:23.120 --> 00:01:29.610
+Nós temos aqui a série do documento, a data da emissão, hipoteticamente,
+
+22
+00:01:29.620 --> 00:01:34.370
+a data da entrada ou da saída da mercadoria, o tipo de pagamento,
+
+23
+00:01:34.379 --> 00:01:39.849
+se a prazo à vista ou no o tipo de frete, a chave da nota, né?
+
+24
+00:01:39.860 --> 00:01:42.389
+A base de cálculo de ICMS,
+
+25
+00:01:42.760 --> 00:01:43.050
+né?
+
+26
+00:01:43.059 --> 00:01:48.889
+A alíquota do C me O o valor do C m s a base de cálculo, o valor do desconto,
+
+27
+00:01:48.900 --> 00:01:51.349
+o valor do documento.
+
+28
+00:01:51.360 --> 00:01:56.309
+Oh, por exemplo, cem mil, né? Tá o valor do frete, seguro IPI.
+
+29
+00:01:56.610 --> 00:02:02.379
+E também temos aqui o valor do PIS e da COFINS nas duas últimas linhas aqui.
+
+30
+00:02:02.389 --> 00:02:09.779
+Então, aqui são as informações geradas na quando por nota fiscal, cada nota,
+
+31
+00:02:09.788 --> 00:02:14.449
+um registro CC de entrada aqui na EFD.
+
+32
+00:02:14.460 --> 00:02:16.399
+Contribuições, né?
+
+33
+00:02:17.110 --> 00:02:19.300
+Cada nota gerada no registro?
+
+34
+00:02:19.309 --> 00:02:26.570
+C cem deve ser detalhada por item e por código fiscal, na CFOP, no regi,
+
+35
+00:02:26.580 --> 00:02:27.539
+no seu registro.
+
+36
+00:02:27.550 --> 00:02:29.940
+Filho C cento e setenta.
+
+37
+00:02:29.949 --> 00:02:35.440
+Então, aqui nós vamos informar o que andamos comprando, com direito a crédito, né?
+
+38
+00:02:35.449 --> 00:02:39.220
+Então, vamos supor que a nota tenha oito itens, né?
+
+39
+00:02:39.229 --> 00:02:45.580
+Então vai ter um registro c cem pra oito registro c cento e setenta Não é verdade, né?
+
+40
+00:02:45.654 --> 00:02:49.065
+Então, aqui nós vamos dizer o que nós compramos, né?
+
+41
+00:02:49.074 --> 00:02:54.684
+E nesse espaço nesses campos que eu colo que eu grifei aqui em AMA,
+
+42
+00:02:54.695 --> 00:02:56.604
+que eu destaquei em amarelo, né?
+
+43
+00:02:56.615 --> 00:03:00.804
+Que foi destacado em amarelo são as informações do PIS e da COFINS.
+
+44
+00:03:00.815 --> 00:03:05.345
+Então, vou focar mais aqui com o PIS e COFINS. Então, esse item?
+
+45
+00:03:05.354 --> 00:03:09.164
+Qual é o código de situação tributária? Né?
+
+46
+00:03:09.175 --> 00:03:13.445
+Eh que vai dos cinquenta até os cinquenta e seis né?
+
+47
+00:03:13.750 --> 00:03:18.740
+Qual é a alíquota do PIS e da COFINS no crédito?
+
+48
+00:03:18.750 --> 00:03:22.520
+Qual é a base de cálculo do crédito do PIS e de COFINS?
+
+49
+00:03:22.529 --> 00:03:26.360
+Qual é o valor desse crédito que vem aqui nesses campos, né?
+
+50
+00:03:26.369 --> 00:03:29.839
+O valor do crédito de PIS e da COFINS.
+
+51
+00:03:29.850 --> 00:03:31.699
+E, mais abaixo assim,
+
+52
+00:03:31.710 --> 00:03:36.220
+qual é a conta contábil analítica desse produto que foi registrado?
+
+53
+00:03:36.869 --> 00:03:40.800
+Porque a conta contábil analítica pra fazer o cruzamento de informação com A R CD,
+
+54
+00:03:40.809 --> 00:03:41.559
+né?
+
+55
+00:03:41.570 --> 00:03:47.449
+Como eu disse pra vocês, então essas são as informações que vão gerar na entrada.
+
+56
+00:03:47.460 --> 00:03:48.020
+Tá okay?
+
+57
+00:03:48.289 --> 00:03:51.839
+Ah assim que gerarmos nota por nota no registro
+
+58
+00:03:51.850 --> 00:03:55.580
+c cem Assim que o setor fiscal gerar item por
+
+59
+00:03:55.589 --> 00:04:00.979
+item que foi adquirido com direito a crédito no registro c cento e setenta da I f d.
+
+60
+00:04:00.990 --> 00:04:02.600
+Contribuições, né?
+
+61
+00:04:02.610 --> 00:04:05.729
+Aqui no registro m cem o sistema,
+
+62
+00:04:05.740 --> 00:04:13.880
+o programa gerador da EFD Contribuições vai apurar por tipo de crédito, né?
+
+63
+00:04:13.889 --> 00:04:16.480
+Por tipo de crédito o valor
+
+64
+00:04:17.019 --> 00:04:23.489
+do crédito do mês, o valor total vai consolidar o crédito do mês por tipo de crédito.
+
+65
+00:04:23.500 --> 00:04:27.609
+Então, vamos considerar aqui que o valor do crédito será de mil,
+
+66
+00:04:27.619 --> 00:04:28.549
+seiscentos e cinquenta,
+
+67
+00:04:28.559 --> 00:04:32.529
+que é um vírgula sessenta e cinco por cento da nota de cem mil né?
+
+68
+00:04:32.540 --> 00:04:35.660
+Que nós conversamos na mercadoria, então aqui vai dar mil,
+
+69
+00:04:35.670 --> 00:04:38.470
+seiscentos e cinquenta reais.
+
+70
+00:04:38.480 --> 00:04:42.929
+Tá o me, o mesmo vai ocorrer pra COFINS no registro. M quinhentos
+
+71
+00:04:43.309 --> 00:04:49.239
+Vai apurar se o programa gerador vai nos mostrar o total
+
+72
+00:04:49.250 --> 00:04:53.160
+do crédito apurado naquele mês por tipo de crédito COFINS.
+
+73
+00:04:53.170 --> 00:05:00.100
+Aqui no caso seria esses eh sete mil e seiscentos reais.
+
+74
+00:05:00.184 --> 00:05:07.214
+Então esses registros m cem e m quinhentos vão apurar o crédito, né?
+
+75
+00:05:07.225 --> 00:05:11.415
+Esses créditos cruzarão o ativo circulante.
+
+76
+00:05:11.424 --> 00:05:16.975
+Então, lá no ativo circulante, o que que devemos ter voltando um pouquinho aqui pra
+
+77
+00:05:17.690 --> 00:05:21.059
+no registro lá no ativo circulante, com relação a PIS?
+
+78
+00:05:21.070 --> 00:05:26.399
+Então lá no ativo circulante tem que ter lá uma conta PIS a recuperar valor mil,
+
+79
+00:05:26.410 --> 00:05:29.040
+seiscentos e cinquenta que vai bater com essa ficha m cem
+
+80
+00:05:29.750 --> 00:05:35.140
+da EFD. Então esse valor aqui cruza com ativo circulante
+
+81
+00:05:36.010 --> 00:05:39.399
+não é verdade e o registro mil e quinhentos vai
+
+82
+00:05:39.410 --> 00:05:43.600
+cruzar com a conta COFINS a recuperar do ativo circulante
+
+83
+00:05:44.220 --> 00:05:46.230
+como eu demonstrei aqui pra vocês.
+
+84
+00:05:46.239 --> 00:05:48.850
+Então lá vai ter que ter mil setece eh,
+
+85
+00:05:48.859 --> 00:05:52.630
+vai ter que ter sete mil e seiscentos reais de acordo com aqui,
+
+86
+00:05:52.640 --> 00:05:57.010
+com esse campo amarelo aqui, então esse é um cruzamento com a contabilidade.

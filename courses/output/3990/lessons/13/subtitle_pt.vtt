@@ -1,0 +1,139 @@
+WEBVTT
+
+00:00:00.290 --> 00:00:06.830
+- Então, em resumo, esse cálculo com parcelas bem pequenas, usando o mesmo fluxo para calcular payback
+
+00:00:06.830 --> 00:00:13.180
+- simples, payback descontado e VPL estamos nesse momento. Nós temos uma fórmula aqui bem difícil,
+
+00:00:13.180 --> 00:00:19.656
+- bem chatinha, né? Mas hoje é só para vocês entenderem. Essa fórmula chatinha nada mais é desses
+
+00:00:19.656 --> 00:00:26.451
+- cálculos que eu mostrei para vocês ali, né? Trazendo cada uma a valor presente. Mas é aqui a fórmula,
+
+00:00:26.451 --> 00:00:29.054
+- como se escreve a fórmula, matemática.
+
+00:00:29.634 --> 00:00:36.330
+- Nada mais é do que nós fizemos que for trazendo um a um. Só que vocês podem utilizar, se for o caso,
+
+00:00:36.330 --> 00:00:42.962
+- uma conta rápida, a calculadora HP-12C, ou, óbvio, dependendo do que for ser analisado, uma estrutura
+
+00:00:42.962 --> 00:00:49.339
+- maior, tem tudo no Excel, ok? Muito bem. Então, mas em resumo, o que eu quero mostrar para vocês?
+
+00:00:49.339 --> 00:00:55.780
+- O NPV, ou valor presente líquido, há uma taxa K, que a gente chama K, no fundo é CAE, eu deixei K
+
+00:00:55.780 --> 00:00:57.374
+- só para não confundir,
+
+00:00:57.538 --> 00:01:05.359
+- que é o custo de capital que o acionista exige ao investidor como retorno mínimo. No caso do K, A20,
+
+00:01:05.359 --> 00:01:12.952
+- que em inglês eles usam muito o KE, que é Capital Equity, que Equity vem de patrimônio, ou seja,
+
+00:01:12.952 --> 00:01:19.710
+- o recurso do patrimônio do investidor. Nesse caso de 20%, o valor presente líquido foi
+
+00:01:19.810 --> 00:01:28.206
+- positivo, foi 35,96 a mais em relação, porque eu já tirei o que eu investi, de 145. Então, ele agrega
+
+00:01:28.206 --> 00:01:36.601
+- valor ao negócio pela taxa que foi definida. Agora, se o investidor quiser obter 35% ao ano, no mínimo,
+
+00:01:36.601 --> 00:01:44.601
+- ele não consegue com esse fluxo de caixa projetado nesse projeto ou nesse investimento. Então, ele
+
+00:01:44.601 --> 00:01:47.294
+- vai decidir por não realizá-lo.
+
+00:01:47.426 --> 00:01:54.954
+- porque ele, teoricamente, destrói valor em relação àquela sua premissa inicial, ok? Então, vejam
+
+00:01:54.954 --> 00:02:02.408
+- que aqui, a premissa do valor presente líquido, ele mostra exatamente se vai agregar ou não valor,
+
+00:02:02.408 --> 00:02:10.010
+- independente do payback. Percebam? Lá no payback, a gente viu, trazendo a valor presente em torno dos
+
+00:02:10.010 --> 00:02:12.446
+- 20%, iria ser dois anos e pouco.
+
+00:02:12.642 --> 00:02:19.517
+- Claro, trouxemos a 20. Se a gente fosse fazer uma análise de payback com os 35, provavelmente seria
+
+00:02:19.517 --> 00:02:26.393
+- mais do que os quatro anos. Mas vejam que, a princípio, sempre se utiliza como o primeiro indicador
+
+00:02:26.393 --> 00:02:33.337
+- para aceitar ou rejeitar. Primeiro indicador é o valor presente para ver se ele vai agregar valor ou
+
+00:02:33.337 --> 00:02:40.008
+- destruir valor em relação àquela premissa que o investidor definiu, que para ele é razoável.
+
+00:02:40.008 --> 00:02:41.982
+- Tudo bem? Então, em resumo,
+
+00:02:42.722 --> 00:02:49.087
+- desse papo que a gente teve, eu queria deixar aqui com vocês. Analisando o slide anterior, chegamos
+
+00:02:49.087 --> 00:02:55.641
+- à conclusão de que o investimento de 145 é uma taxa mínima exigida pelo investidor de 20, o projeto
+
+00:02:55.641 --> 00:02:57.406
+- pode ser aceito, porque ele
+
+00:02:57.506 --> 00:03:05.046
+- será viável, viável em relação às premissas definidas. Está claro, o valor presente foi maior
+
+00:03:05.046 --> 00:03:13.034
+- do que zero, quando o valor presente líquido é maior do que zero, significa justamente que esse montante
+
+00:03:13.034 --> 00:03:21.694
+- está superando o valor mínimo investido. Contudo, a uma taxa mínima de 35, o projeto se torna inviável, uma que
+
+00:03:22.114 --> 00:03:28.978
+- no prazo de quatro anos, o projeto não retornou ao investidor nem o mínimo do valor investido, como
+
+00:03:28.978 --> 00:03:35.708
+- a gente viu. Se, a princípio, ele gostaria de ter 35% de retorno, ele não vai recuperar em quatro
+
+00:03:35.708 --> 00:03:42.639
+- anos aquele montante, ok? Então, ele deve ser descartado. Então, o critério de decisão com o valor
+
+00:03:42.639 --> 00:03:49.571
+- presente líquido ou o net presente velho é o seguinte, valor presente maior que zero, o projeto cria
+
+00:03:49.571 --> 00:03:50.782
+- valor econômico,
+
+00:03:51.106 --> 00:03:58.658
+- aumenta a riqueza dos acionistas, lembra, porque ele está gerando um valor a mais em relação ao montante
+
+00:03:58.658 --> 00:04:06.000
+- investido. Se o valor presente for igual a zero, projeção não cria valor econômico, remunera somente
+
+00:04:06.000 --> 00:04:13.342
+- o custo de oportunidade, não altera a riqueza, ou seja, o investidor, o nosso caso, se ele investe 145,
+
+00:04:13.922 --> 00:04:19.969
+- O VPL é zero, significa que naquele período, trazido a valor presente, ele vai ter o mesmo 145. Não
+
+00:04:19.969 --> 00:04:25.957
+- cria e nem destrói valor. A gente chama de projeto teoricamente nulo nesse em termos de viabilidade.
+
+00:04:25.957 --> 00:04:32.063
+- E quando o valor presente líquido é menor do que zero, o projeto destrói valor econômico. Por quê?
+
+00:04:32.063 --> 00:04:38.462
+- Se ele tinha uma premissa de ganhar um percentual X ao ano e ele definiu como regra essa premissa e ele não
+
+00:04:38.754 --> 00:04:44.416
+- traz esse valor presente positivo, ele é negativo, ele está destruindo o valor em relação àquela
+
+00:04:44.416 --> 00:04:47.358
+- premissa definida pelo investidor ou pelo acionista.

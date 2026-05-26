@@ -1,0 +1,377 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.639
+Para isso tudo, nós elaboramos vários tópicos, onde nós vamos percorrer diversas fichas.
+
+3
+00:00:05.639 --> 00:00:11.039
+Não vamos abrir o programa, porque aqui realmente é inviável, fica muito pequeno para vocês verem,
+
+4
+00:00:11.039 --> 00:00:18.019
+e é muito extenso também, mas eu trouxe as principais fichas, eu colei nos próprios slides
+
+5
+00:00:18.019 --> 00:00:23.960
+as principais fichas, explicando cada uma delas, explicando os campos principais.
+
+6
+00:00:23.960 --> 00:00:28.059
+O objetivo do nosso treinamento hoje, do nosso curso, é exatamente isso.
+
+7
+00:00:28.059 --> 00:00:33.799
+Não é entrar na parte de TI, de parametrização, não, esse não é o objetivo.
+
+8
+00:00:33.799 --> 00:00:39.640
+O objetivo é você conhecer o que é, para que serve e como é que se faz a ECF.
+
+9
+00:00:39.640 --> 00:00:41.640
+Quais são os objetivos?
+
+10
+00:00:41.640 --> 00:00:49.039
+E obviamente, trazendo para vocês os principais problemas encontrados no dia a dia, no mercado,
+
+11
+00:00:49.039 --> 00:00:53.960
+quais são as dúvidas, quais são os pontos que nós devemos tratar com mais atenção,
+
+12
+00:00:53.960 --> 00:00:57.960
+justamente para evitar de ser notificado pela Receita Federal.
+
+13
+00:00:57.960 --> 00:01:02.840
+Então, esse é o objetivo, nós vamos passar diversas fichas para vocês.
+
+14
+00:01:02.840 --> 00:01:09.340
+Então, nós vamos começar com conceitos e objetivos da ECF, nós vamos comentar as declarações
+
+15
+00:01:09.340 --> 00:01:17.540
+e livros substituídos pela ECF, também vamos comentar quem está obrigado à entrega da ECF,
+
+16
+00:01:17.540 --> 00:01:25.760
+qual é o nosso prazo de entrega, obviamente, quais são as multas e penalidades pela não entrega
+
+17
+00:01:25.760 --> 00:01:27.500
+ou por erros.
+
+18
+00:01:27.500 --> 00:01:32.500
+Retificação da ECF, sim, aqui nós podemos retificar.
+
+19
+00:01:32.500 --> 00:01:39.340
+Diferentemente da ECD, como está no nosso curso lá, lá eu não consigo retificar, eu apenas substituo.
+
+20
+00:01:39.340 --> 00:01:44.260
+Aqui não, eu posso retificar, caso necessário for.
+
+21
+00:01:44.260 --> 00:01:50.000
+Vamos abordar os blocos geradores de informações que compõem a ECF.
+
+22
+00:01:50.000 --> 00:01:56.540
+Totalmente diferente da ECD, que são alguns blocos, muito poucos, mas muito importante, não é?
+
+23
+00:01:56.540 --> 00:01:59.379
+E todos, basicamente, são obrigatórios.
+
+24
+00:01:59.379 --> 00:02:05.500
+Aqui nós temos uma infinidade de blocos, muitos blocos, vamos abordar todos eles.
+
+25
+00:02:05.500 --> 00:02:09.000
+Porém, nem todos eles você vai habilitar.
+
+26
+00:02:09.000 --> 00:02:17.379
+Tudo vai depender do seu regime tributário, tudo vai depender da composição da sua empresa,
+
+27
+00:02:17.379 --> 00:02:23.259
+como nós vamos explicar nas primeiras páginas de preenchimento da ECF.
+
+28
+00:02:23.259 --> 00:02:26.439
+É ali que nós definimos tudo o que será aberto ao público.
+
+29
+00:02:26.439 --> 00:02:26.500
+É ali que nós definimos tudo o que será aberto ao público.
+
+30
+00:02:26.500 --> 00:02:28.960
+Ao longo dela, para que a gente preencha, não é?
+
+31
+00:02:29.280 --> 00:02:30.580
+Então, nós vamos estar detalhando.
+
+32
+00:02:30.699 --> 00:02:33.199
+Então, vamos abordar todos os blocos.
+
+33
+00:02:34.020 --> 00:02:40.819
+Depois, ECF, empresas tributadas pelo lucro real, que vai consumir a maior parte do nosso curso,
+
+34
+00:02:41.300 --> 00:02:45.039
+de tão robusto que são as informações do lucro real.
+
+35
+00:02:45.599 --> 00:02:51.020
+Então, o lucro real realmente consome mais de dois terços aí do nosso curso.
+
+36
+00:02:51.340 --> 00:02:56.060
+Depois, nós vamos falar do bloco C, que são informações recuperadas da ECD,
+
+37
+00:02:56.060 --> 00:02:58.800
+o que é, como nós temos que proceder isso.
+
+38
+00:02:59.259 --> 00:03:03.560
+O bloco E são informações recuperadas da ECF.
+
+39
+00:03:03.960 --> 00:03:09.120
+E quando eu falo ECD e ECF, eu falo de períodos anteriores, imediatamente anteriores.
+
+40
+00:03:09.639 --> 00:03:15.500
+Vamos comentar os cálculos fiscais das informações da ECD, vamos abordar.
+
+41
+00:03:16.340 --> 00:03:21.219
+Aí, entramos no bloco J, que são informações da ECD e da ECF.
+
+42
+00:03:21.639 --> 00:03:25.219
+Temos também o bloco K, que são os saldos das contas.
+
+43
+00:03:25.219 --> 00:03:33.199
+E aí, entramos no coração, o bloco L, balanço patrimonial e demonstração de resultado do exercício.
+
+44
+00:03:33.759 --> 00:03:43.460
+Depois, o bloco M, super importante e fundamental para lucro real, é a apuração do LALUR e do LAC.
+
+45
+00:03:43.620 --> 00:03:50.000
+Então, vamos estar comentando aqui no detalhe e, obviamente, tecendo algumas críticas sempre construtivas.
+
+46
+00:03:50.000 --> 00:03:54.900
+Uma visão crítica nossa com relação ao que poderia ser melhorado.
+
+47
+00:03:55.219 --> 00:04:01.219
+Para facilitar a vida do profissional de contabilidade, nós não negamos entregar a obrigação acessória.
+
+48
+00:04:01.900 --> 00:04:06.400
+Isso faz parte, isso está intrínseco na profissão de contador, não tenho dúvida.
+
+49
+00:04:07.099 --> 00:04:11.719
+Agora, também não precisa ter um abuso a essa quantidade de obrigações que nós temos.
+
+50
+00:04:12.280 --> 00:04:13.599
+É isso que nós criticamos.
+
+51
+00:04:14.020 --> 00:04:20.220
+Como também os processos de melhoria que poderia haver, que é o caso do LALUR que nós vamos estar comentando.
+
+52
+00:04:21.500 --> 00:04:24.639
+Regras gerais para a escrituração do LALUR e do LAC.
+
+53
+00:04:25.220 --> 00:04:28.639
+O registro da base de cálculo negativa da contribuição social.
+
+54
+00:04:28.959 --> 00:04:33.019
+Então, eu trouxe algumas linhas específicas que eu chamo a atenção de vocês.
+
+55
+00:04:33.660 --> 00:04:37.800
+Vamos abordar brevemente o bloco V, que é o bloco DEREX.
+
+56
+00:04:38.660 --> 00:04:40.339
+São recursos do exterior.
+
+57
+00:04:41.000 --> 00:04:44.259
+O bloco W, declaração de país a país.
+
+58
+00:04:44.259 --> 00:04:50.379
+Também vamos estar comentando o famoso CAUTE by CAUTRY, de país a país.
+
+59
+00:04:51.060 --> 00:04:55.019
+E aí o bloco X, várias informações econômicas.
+
+60
+00:04:55.220 --> 00:04:59.220
+Que nós vamos estar comentando, inclusive embasado na legislação.
+
+61
+00:05:00.540 --> 00:05:05.000
+E depois o bloco Y, que são muitas informações gerais também.
+
+62
+00:05:05.740 --> 00:05:07.720
+Aí entramos, trouxe alguns dele.
+
+63
+00:05:07.819 --> 00:05:12.139
+O Y570, que é demonstrativo dos impostos de renda de fonte.
+
+64
+00:05:12.459 --> 00:05:14.240
+Só trouxe alguns, o mais importante.
+
+65
+00:05:14.360 --> 00:05:17.879
+O 600, identificação de remuneração de sócios.
+
+66
+00:05:18.579 --> 00:05:23.220
+E hoje está muito acirrado isso, principalmente com o advento da reforma tributária.
+
+67
+00:05:23.220 --> 00:05:24.459
+Não é?
+
+68
+00:05:25.220 --> 00:05:32.259
+Além do mais, com a tributação que ressurgiu agora com a lei 15.270,
+
+69
+00:05:32.680 --> 00:05:37.319
+que desde 1996 até hoje não era tributado.
+
+70
+00:05:37.620 --> 00:05:45.639
+Então a distribuição de lucro passou a ser tributado em 10% do valor que ultrapassasse 50 mil reais.
+
+71
+00:05:46.300 --> 00:05:48.040
+Mensal para o mesmo sócio.
+
+72
+00:05:48.800 --> 00:05:50.540
+Não é do excesso, é da totalidade.
+
+73
+00:05:50.540 --> 00:05:54.540
+Se ultrapassou 50 mil, a totalidade dessa...
+
+74
+00:05:55.220 --> 00:05:58.399
+Dessa distribuição de lucro é tributado em 10%.
+
+75
+00:05:58.399 --> 00:06:03.680
+Então, aqui na ECF nós teremos reflexo na identificação e remuneração dos sócios.
+
+76
+00:06:03.980 --> 00:06:05.680
+Tem cruzamento de informações.
+
+77
+00:06:06.319 --> 00:06:09.399
+ECF, empresas tributadas pelo lucro presumido.
+
+78
+00:06:09.779 --> 00:06:13.699
+Vou abordar, trouxe exemplo prático para vocês e trouxe as fichas
+
+79
+00:06:13.699 --> 00:06:18.180
+aonde nós vamos demonstrar aqui o cálculo.
+
+80
+00:06:18.180 --> 00:06:24.120
+Nós executamos o cálculo e demonstramos dentro da ECF como se apresenta o lucro presumido.
+
+81
+00:06:24.459 --> 00:06:25.180
+Vamos estar detalhados.
+
+82
+00:06:25.879 --> 00:06:28.339
+Vamos falar do bloco P, do lucro presumido.
+
+83
+00:06:28.720 --> 00:06:34.139
+Exemplo de cálculo do imposto de renda e da contribuição social, como eu disse, bem prático.
+
+84
+00:06:35.079 --> 00:06:38.759
+Vou abordar o bloco Q, que é demonstração do livro caixa,
+
+85
+00:06:39.279 --> 00:06:43.879
+para quem não optou pela contabilidade, então entrega do livro caixa,
+
+86
+00:06:43.980 --> 00:06:47.500
+quem está obrigado e como é que nós devemos proceder isso.
+
+87
+00:06:47.879 --> 00:06:52.220
+Aí nós temos a ECF, entidades imunes isentas.
+
+88
+00:06:52.959 --> 00:06:55.100
+O bloco U, das entidades imunes isentas.
+
+89
+00:06:55.220 --> 00:06:59.339
+E os principais cruzamentos de informações.
+
+90
+00:06:59.560 --> 00:07:03.620
+Então fechamos a nossa aula com os principais cruzamentos.
+
+91
+00:07:03.920 --> 00:07:05.759
+Alguns toques que eu vou dar para vocês,
+
+92
+00:07:06.139 --> 00:07:10.180
+aonde podem ter cruzamento para chamar a atenção de vocês para a conferência.
+
+93
+00:07:10.560 --> 00:07:11.240
+Esse é o objetivo.
+
+94
+00:07:11.860 --> 00:07:16.160
+Então vocês estão percebendo que é uma aula bem completa com bastante informação.
+
+95
+00:07:16.839 --> 00:07:21.699
+Espero que vocês gostem, espero que vocês aproveitem ao máximo a nossa aula.

@@ -1,0 +1,33 @@
+{
+  "id": 467890,
+  "title": "Importação indireta - parte 2",
+  "position": 15,
+  "duration": 343,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ff754010-0393-4a92-a2fe-1442904a13b1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff754010-0393-4a92-a2fe-1442904a13b1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff754010-0393-4a92-a2fe-1442904a13b1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff754010-0393-4a92-a2fe-1442904a13b1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff754010-0393-4a92-a2fe-1442904a13b1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

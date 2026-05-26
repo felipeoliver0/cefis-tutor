@@ -1,0 +1,160 @@
+WEBVTT
+
+00:00:00.226 --> 00:00:08.272
+- Vamos agora trazer o que nós chamamos que é o rei aqui, o mandatório para análise de investimento,
+
+00:00:08.272 --> 00:00:16.708
+- que é o valor presente líquido, ok? Porque quem tiver interesse de se aprofundar, nós temos no capítulo
+
+00:00:16.708 --> 00:00:24.597
+- 15 do livro, ambos que eu coloquei do professor Assaf, Administração Financeira e Teoria de Valor,
+
+00:00:24.597 --> 00:00:28.190
+- aqueles dois que estão ali nas referências,
+
+00:00:29.122 --> 00:00:36.153
+- Capítulo 15 nos dois livros, muda talvez o número de páginas, porque uma edição é mais recente,
+
+00:00:36.153 --> 00:00:43.253
+- a outra é um pouquinho mais antiga. Mas ele vai comentar ali porque deve-se escolher o valor presente
+
+00:00:43.253 --> 00:00:50.146
+- líquido caso você tenha que escolher entre um projeto e outro. Mas a gente vai falar um pouquinho
+
+00:00:50.146 --> 00:00:57.039
+- disso na sequência, mas já adianto para quem quiser se aprofundar, se você tiver que escolher um
+
+00:00:57.039 --> 00:00:59.038
+- projeto entre dois e os dois
+
+00:00:59.234 --> 00:01:05.494
+- onde ele estiver o valor presente líquido maior apesar de uma taxa interna de retorno menor do que
+
+00:01:05.494 --> 00:01:11.754
+- um segundo projeto sempre priorizem o valor presente líquido porque ele explica e nós podemos só
+
+00:01:11.754 --> 00:01:16.574
+- dar uma palhinha tem a intersecção de ficha que vai dizer que aquele valor
+
+00:01:17.378 --> 00:01:24.522
+- financeiro a mais que vem por um VPL maior, ele pode ser reaplicado no decorrer do projeto, gerando
+
+00:01:24.522 --> 00:01:31.881
+- ali uma capacidade de criar mais valor ainda ao acionista. Criação de valor está ligado ao montante
+
+00:01:31.881 --> 00:01:39.168
+- financeiro do valor presente líquido. Mas vamos com calma. Vamos com calma, vocês vão agora entrar
+
+00:01:39.168 --> 00:01:46.526
+- no valor presente líquido de uma forma um pouquinho diferente da abordada na parte 1, porque nós ali
+
+00:01:46.658 --> 00:01:54.446
+- analisamos algumas questões, como trazer o VPL em algumas situações de empréstimos ou de investimentos,
+
+00:01:54.446 --> 00:02:01.873
+- tanto faz, o conceito é o mesmo, só que nós não estávamos ali envolvendo de forma mais clara essa
+
+00:02:01.873 --> 00:02:09.228
+- questão de como fazer essa análise do VPL. Ali era mais uma introdução à matemática financeira,
+
+00:02:09.228 --> 00:02:15.934
+- ok? Então vamos. O valor presente líquido, ou net present value, é obtido pela diferença
+
+00:02:16.066 --> 00:02:23.502
+- entre o montante investido no momento zero e o valor presente dos benefícios líquidos de caixa descontado
+
+00:02:23.502 --> 00:02:30.386
+- pela taxa mínima exigida pelo investidor, ou taxa mínima de atratividade, que é igual à taxa de
+
+00:02:30.386 --> 00:02:37.409
+- desconto. Em última análise, o valor presente líquido expressa resultado econômico gerado. Então
+
+00:02:37.409 --> 00:02:44.638
+- vamos fazer um exemplo aqui. Vejam praticamente o mesmo exemplo para vocês fixarem bastante o conceito.
+
+00:02:44.738 --> 00:02:52.090
+- Estamos com o mesmo exemplo que nós calculamos o payback, lembra disso aqui atrás, no outro slide.
+
+00:02:52.090 --> 00:02:59.588
+- Então, supondo no ano zero, investimento inicial de R$ 145 mil, saída de caixa, e resultado esperado
+
+00:02:59.588 --> 00:03:07.231
+- ao final do ano quatro de R$ 275 mil. Então, o que é esse R$ 275 mil? Aquela análise sem trazer valor
+
+00:03:07.231 --> 00:03:13.054
+- presente ainda, só para vocês entenderem. Então, se eu somar essas parcelas,
+
+00:03:13.346 --> 00:03:21.110
+- que estão previstas de fluxos de caixas futuros, 71, 74, mais 80 e mais 50, eu terei aqui ao final
+
+00:03:21.110 --> 00:03:29.186
+- desse período 275. A priori, é possível, aí eu pergunto, é possível comparar esses 275 que serão
+
+00:03:29.186 --> 00:03:37.261
+- gerados ao longo de quatro anos com um montante de 145 que foi investido no ano zero, saiu do meu caixa
+
+00:03:37.261 --> 00:03:38.270
+- no ano zero,
+
+00:03:38.498 --> 00:03:45.857
+- Faz sentido? Não faz, certo? Por quê? Existem inflações, existem mudanças econômicas ali da economia
+
+00:03:45.857 --> 00:03:53.009
+- como um todo, e esse valor não é o mesmo no ano zero. Eu quero saber, tá, mas quanto vale hoje? Para
+
+00:03:53.009 --> 00:04:00.023
+- eu saber, eu tenho que decidir hoje se eu invisto ou não, tá? Então precisa ter aquela questão do
+
+00:04:00.023 --> 00:04:07.038
+- custo oportunidade, a taxa mínima de atratividade, o quanto o investidor espera de retorno a cada...
+
+00:04:07.234 --> 00:04:13.999
+- período, porque senão a gente pode até pensar, só para vocês fazerem uma analogia assim, de forma
+
+00:04:13.999 --> 00:04:20.763
+- simplista, tá? Imagine eu como investidor pessoa física, que a gente pode fazer essa mesma analogia,
+
+00:04:20.763 --> 00:04:27.922
+- alguém me ofereça para entrar num projeto, para abrir uma loja ou abrir um, enfim, algum tipo de negócio.
+
+00:04:27.922 --> 00:04:34.555
+- E aí a gente sabe, tá, pessoal, que todo início de negócio, uma startup, leva um tempo, um prazo
+
+00:04:34.555 --> 00:04:37.182
+- para recuperar todo o investimento, ok.
+
+00:04:37.666 --> 00:04:43.226
+- Vamos dizer que eu sou uma pessoa física e eu tenho outras opções de aplicar meu recurso, como, por
+
+00:04:43.226 --> 00:04:49.003
+- exemplo, há produtos ligados, que a gente falou, aos títulos públicos. Lembram do que a gente comentou?
+
+00:04:49.003 --> 00:04:54.509
+- Títulos públicos hoje, a taxa de selic está em torno de 15% ao ano. Então, uma alta rentabilidade
+
+00:04:54.509 --> 00:05:00.016
+- sem risco, porque é um título soberano do governo que, a princípio, é considerado o título risco
+
+00:05:00.016 --> 00:05:05.630
+- zero, um conceito econômico. Então, muito bem, se algum investidor, pessoa física, alguém me propor
+
+00:05:05.954 --> 00:05:12.566
+- Um tipo de negócio onde eu, por ventura, venha ganhar menos de 15% ao ano, eu vou dizer que não é
+
+00:05:12.566 --> 00:05:19.374
+- atrativo para mim, porque um negócio tem riscos e, além do que, eu posso aplicar meu dinheiro à taxa
+
+00:05:19.374 --> 00:05:26.248
+- selic nos títulos públicos a 15% ao ano. Então, existe a questão do custo de oportunidade envolvido.
+
+00:05:26.248 --> 00:05:30.110
+- Então, a gente tenta trazer para cá o mesmo raciocínio.
+
+00:05:30.786 --> 00:05:36.971
+- O investidor, ele vai querer saber efetivamente se aquele valor que ele vai ganhar em quatro anos, quanto
+
+00:05:36.971 --> 00:05:43.098
+- ele vale hoje se ele tem uma expectativa de retorno. Então a gente está fazendo esse tipo de analogia,
+
+00:05:43.098 --> 00:05:44.382
+- ok? É a mesma coisa.

@@ -1,0 +1,33 @@
+{
+  "id": 460845,
+  "title": "Pagamento do Imposto de Renda",
+  "position": 43,
+  "duration": 120,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/52844a1a-1421-4ef3-a405-ec0c6e30d2c3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52844a1a-1421-4ef3-a405-ec0c6e30d2c3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52844a1a-1421-4ef3-a405-ec0c6e30d2c3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52844a1a-1421-4ef3-a405-ec0c6e30d2c3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52844a1a-1421-4ef3-a405-ec0c6e30d2c3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

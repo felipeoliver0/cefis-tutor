@@ -1,0 +1,669 @@
+WEBVTT
+
+1
+00:00:00.779 --> 00:00:03.250
+Tirando essas dois principais
+
+2
+00:00:03.500 --> 00:00:06.610
+normas legais e esse projeto de lei
+
+3
+00:00:07.110 --> 00:00:08.329
+a gente tem aqui.
+
+4
+00:00:09.149 --> 00:00:11.300
+A nota técnica
+
+5
+00:00:11.430 --> 00:00:13.420
+2025.
+
+6
+00:00:14.340 --> 00:00:16.010
+que já veio
+
+7
+00:00:16.379 --> 00:00:18.479
+publicada em relação à
+
+8
+00:00:18.819 --> 00:00:23.280
+reforma tributária do consumo aqui chamada de
+
+9
+00:00:23.420 --> 00:00:24.559
+RTC.
+
+10
+00:00:25.260 --> 00:00:27.809
+Veja que essa nota técnica
+
+11
+00:00:28.139 --> 00:00:30.819
+ela vem sofrendo algumas atualizações,
+
+12
+00:00:31.100 --> 00:00:32.168
+algumas versões
+
+13
+00:00:32.619 --> 00:00:33.979
+Eu aqui estou citando,
+
+14
+00:00:34.060 --> 00:00:34.659
+por exemplo,
+
+15
+00:00:35.099 --> 00:00:39.819
+a versão um ponto 01/04/2025.
+
+16
+00:00:40.299 --> 00:00:43.520
+Mas vão acompanhando porque todos os meses
+
+17
+00:00:43.939 --> 00:00:44.680
+vai ter
+
+18
+00:00:45.880 --> 00:00:48.409
+as mudanças aqui nessa nota técnica.
+
+19
+00:00:49.150 --> 00:00:51.909
+Que que essa nota técnica traz Na verdade,
+
+20
+00:00:52.029 --> 00:00:54.459
+ela traz adequações
+
+21
+00:00:54.909 --> 00:00:55.889
+ao layout,
+
+22
+00:00:56.549 --> 00:00:58.779
+tanto da nota fiscal eletrônica
+
+23
+00:00:59.110 --> 00:01:01.220
+de produtos de mercadorias
+
+24
+00:01:01.669 --> 00:01:04.790
+quanto da nota fiscal de consumidor eletrônica
+
+25
+00:01:05.430 --> 00:01:06.580
+na prática.
+
+26
+00:01:07.699 --> 00:01:09.650
+os novos tributos
+
+27
+00:01:09.910 --> 00:01:11.239
+IBS
+
+28
+00:01:11.980 --> 00:01:13.139
+CBS,
+
+29
+00:01:13.220 --> 00:01:14.819
+Imposto seletivo
+
+30
+00:01:15.059 --> 00:01:17.500
+como são tributos sobre consumo,
+
+31
+00:01:18.059 --> 00:01:21.220
+eles vão ter que es- estar contidos
+
+32
+00:01:21.349 --> 00:01:23.139
+nas notas fiscais
+
+33
+00:01:23.449 --> 00:01:26.500
+de venda de produtos de mercadorias e serviços,
+
+34
+00:01:26.580 --> 00:01:27.339
+ou seja,
+
+35
+00:01:28.019 --> 00:01:30.330
+significa que o layout.
+
+36
+00:01:31.459 --> 00:01:33.050
+da nota fiscal eletrônica
+
+37
+00:01:33.650 --> 00:01:36.290
+da nota fiscal de consumidor eletrônico
+
+38
+00:01:36.699 --> 00:01:38.569
+da nota fiscal de serviço
+
+39
+00:01:38.860 --> 00:01:40.970
+Nota fiscal de serviço eletrônico
+
+40
+00:01:41.580 --> 00:01:44.769
+Todos os documentos fiscais
+
+41
+00:01:45.260 --> 00:01:45.730
+que
+
+42
+00:01:45.849 --> 00:01:48.519
+temos operações de produtos
+
+43
+00:01:48.980 --> 00:01:51.449
+de mercadorias e de serviços
+
+44
+00:01:51.870 --> 00:01:55.180
+vão ter que ter mudanças nos seus layouts.
+
+45
+00:01:56.180 --> 00:02:00.059
+Principalmente porque como a CBS
+
+46
+00:02:00.180 --> 00:02:01.269
+e o IBS
+
+47
+00:02:01.620 --> 00:02:04.809
+são tributos não cumulativos
+
+48
+00:02:05.300 --> 00:02:06.580
+chamados de IVA,
+
+49
+00:02:07.139 --> 00:02:09.850
+onde é permitido tomar o crédito
+
+50
+00:02:10.059 --> 00:02:11.589
+e o crédito amplo,
+
+51
+00:02:12.179 --> 00:02:13.320
+nós teremos
+
+52
+00:02:13.979 --> 00:02:14.460
+é
+
+53
+00:02:15.259 --> 00:02:18.789
+que destacar o IBS CBS na nota fiscal
+
+54
+00:02:19.300 --> 00:02:22.860
+Dentro da tag do XML da nota fiscal,
+
+55
+00:02:23.220 --> 00:02:25.419
+a gente tem os campos de PIS e COFINS.
+
+56
+00:02:26.449 --> 00:02:30.960
+Portanto essa nota técnica 2025002.
+
+57
+00:02:31.910 --> 00:02:34.360
+Ela já está trazendo adequações
+
+58
+00:02:34.770 --> 00:02:35.789
+no layout
+
+59
+00:02:36.250 --> 00:02:37.600
+aqui inicialmente
+
+60
+00:02:37.929 --> 00:02:42.110
+tanto da nota fiscal eletrônica quanto da nota fiscal de consumidor ele.
+
+61
+00:02:42.235 --> 00:02:42.735
+eletrônico,
+
+62
+00:02:43.235 --> 00:02:46.425
+colocando dentro do Wout as tags
+
+63
+00:02:46.675 --> 00:02:47.794
+e os campos
+
+64
+00:02:48.395 --> 00:02:51.375
+necessários para ter o destaque
+
+65
+00:02:51.714 --> 00:02:52.824
+do IBS
+
+66
+00:02:53.154 --> 00:02:54.255
+da CBS
+
+67
+00:02:54.835 --> 00:02:57.964
+um local para mostrar o imposto seletivo.
+
+68
+00:02:59.470 --> 00:03:00.059
+e aí
+
+69
+00:03:00.869 --> 00:03:05.860
+possibilitar que as empresas alterem os seus documentos fiscais,
+
+70
+00:03:06.190 --> 00:03:08.419
+colocando esses novos tributos
+
+71
+00:03:08.889 --> 00:03:10.600
+nos documentos fiscais.
+
+72
+00:03:11.190 --> 00:03:16.460
+como a gente vai ter um período de transição e a gente vai conviver com os dois
+
+73
+00:03:16.869 --> 00:03:19.410
+sistemas de tributação sobre o consumo.
+
+74
+00:03:19.789 --> 00:03:22.419
+Vocês ainda vão ver que durante alguns anos
+
+75
+00:03:22.750 --> 00:03:25.789
+a gente vai ter na mesma nota fiscal
+
+76
+00:03:26.070 --> 00:03:28.860
+a incidência dos velhos tributos
+
+77
+00:03:29.110 --> 00:03:30.910
+e dos novos tributos
+
+78
+00:03:31.309 --> 00:03:32.669
+na mesma nota,
+
+79
+00:03:33.229 --> 00:03:33.710
+por exemplo,
+
+80
+00:03:33.770 --> 00:03:35.179
+em 2026.
+
+81
+00:03:35.949 --> 00:03:37.809
+Já a partir de 2026,
+
+82
+00:03:38.350 --> 00:03:43.179
+a gente já vai começar a ter na nota o IBS e a CBS
+
+83
+00:03:43.509 --> 00:03:45.470
+com uma alíquota bem reduzida,
+
+84
+00:03:45.919 --> 00:03:47.960
+conforme a gente vai ver daqui a pouco
+
+85
+00:03:48.350 --> 00:03:51.820
+e vai continuar existindo os cinco atuais tributos
+
+86
+00:03:52.529 --> 00:03:54.250
+Então Imagine numa indústria
+
+87
+00:03:54.789 --> 00:03:56.779
+que a indústria tem o IPI
+
+88
+00:03:57.350 --> 00:03:58.520
+tem o ICMS,
+
+89
+00:03:59.190 --> 00:04:01.029
+ela vai ter o PIS.
+
+90
+00:04:01.630 --> 00:04:02.660
+COFINS
+
+91
+00:04:02.910 --> 00:04:04.419
+vai ter o IBS
+
+92
+00:04:04.630 --> 00:04:05.979
+vai ter a CBS,
+
+93
+00:04:06.690 --> 00:04:08.820
+então eu já contei seis tributos.
+
+94
+00:04:09.600 --> 00:04:12.449
+tudo destacados ali na nota fiscal.
+
+95
+00:04:13.369 --> 00:04:15.800
+vai aumentar a complexidade,
+
+96
+00:04:16.488 --> 00:04:19.108
+principalmente em 2026
+
+97
+00:04:19.529 --> 00:04:21.040
+em 2027
+
+98
+00:04:21.470 --> 00:04:24.640
+aí 2027 acaba o PIS COFINS
+
+99
+00:04:25.209 --> 00:04:28.079
+já entra a CBS na sua totalidade.
+
+100
+00:04:28.920 --> 00:04:33.829
+em 2029303132
+
+101
+00:04:34.220 --> 00:04:37.390
+continua existindo o ICMS e ISS
+
+102
+00:04:37.809 --> 00:04:38.910
+e já tem
+
+103
+00:04:39.279 --> 00:04:41.190
+o IBS a CBS,
+
+104
+00:04:41.200 --> 00:04:42.750
+o imposto seletivo
+
+105
+00:04:43.119 --> 00:04:46.670
+Aí só lá em janeiro de 2033
+
+106
+00:04:47.119 --> 00:04:48.350
+que não vai ter mais
+
+107
+00:04:48.839 --> 00:04:50.000
+o ICMS
+
+108
+00:04:50.320 --> 00:04:51.190
+nem o
+
+109
+00:04:51.809 --> 00:04:52.920
+ISS.
+
+110
+00:04:53.480 --> 00:04:57.470
+e sim a CBS e o IBS sendo destacados na nota
+
+111
+00:04:57.920 --> 00:04:59.790
+com o imposto seletivo
+
+112
+00:04:59.920 --> 00:05:01.739
+e o IPI em alguns casos,
+
+113
+00:05:02.440 --> 00:05:03.170
+Então veja
+
+114
+00:05:03.440 --> 00:05:05.269
+anos de transição
+
+115
+00:05:05.440 --> 00:05:06.959
+com mudanças
+
+116
+00:05:07.239 --> 00:05:08.920
+em quase todos os anos.
+
+117
+00:05:09.359 --> 00:05:09.910
+OK.
+
+118
+00:05:10.630 --> 00:05:11.730
+Além
+
+119
+00:05:11.910 --> 00:05:17.059
+da nota técnica 2025 de- de 002.
+
+120
+00:05:17.589 --> 00:05:21.369
+Nós temos também um informe técnico
+
+121
+00:05:21.739 --> 00:05:22.579
+de número
+
+122
+00:05:22.970 --> 00:05:25.119
+2025002
+
+123
+00:05:25.470 --> 00:05:28.660
+e aqui eu trouxe a versão um ponto 0,
+
+124
+00:05:29.149 --> 00:05:31.739
+que é de 15/05/2025,
+
+125
+00:05:33.760 --> 00:05:34.700
+onde já foi trazido.
+
+126
+00:05:35.630 --> 00:05:37.760
+uma tabela de código
+
+127
+00:05:38.100 --> 00:05:40.429
+de classificação tributária
+
+128
+00:05:40.809 --> 00:05:42.480
+do IBS da CBS,
+
+129
+00:05:42.929 --> 00:05:43.549
+ou seja,
+
+130
+00:05:43.929 --> 00:05:48.040
+onde nós temos a tabela dos indicadores de CST
+
+131
+00:05:48.529 --> 00:05:49.380
+CST
+
+132
+00:05:49.690 --> 00:05:50.700
+Código
+
+133
+00:05:50.850 --> 00:05:53.079
+de situação tributária.
+
+134
+00:05:53.750 --> 00:05:56.950
+Então nós vamos ter vários CST s
+
+135
+00:05:57.750 --> 00:05:58.829
+específicos
+
+136
+00:05:59.390 --> 00:06:02.040
+adequando nos documentos fiscais
+
+137
+00:06:02.630 --> 00:06:03.260
+para
+
+138
+00:06:03.470 --> 00:06:03.980
+a
+
+139
+00:06:04.149 --> 00:06:06.940
+CBS para o imposto seletivo
+
+140
+00:06:07.429 --> 00:06:08.510
+Então perceba
+
+141
+00:06:08.750 --> 00:06:12.179
+que quem ainda não começou está atrasado.
+
+142
+00:06:12.579 --> 00:06:16.190
+de analisar toda essa legislação que eu trouxe aqui
+
+143
+00:06:16.480 --> 00:06:18.829
+e mais essas adequações
+
+144
+00:06:19.320 --> 00:06:21.160
+nos documentos fiscais
+
+145
+00:06:21.420 --> 00:06:22.799
+que normalmente
+
+146
+00:06:23.119 --> 00:06:24.790
+precisam ser feitos
+
+147
+00:06:25.040 --> 00:06:26.910
+pela software houses,
+
+148
+00:06:27.200 --> 00:06:27.470
+né?
+
+149
+00:06:27.989 --> 00:06:29.589
+todas as empresas
+
+150
+00:06:29.970 --> 00:06:32.799
+que trabalham com a com os sistemas,
+
+151
+00:06:33.320 --> 00:06:34.839
+os EPs
+
+152
+00:06:35.079 --> 00:06:37.630
+com as emissões de notas fiscais
+
+153
+00:06:37.920 --> 00:06:43.269
+já precisam estar trabalhando pra fazer essas adequações
+
+154
+00:06:43.519 --> 00:06:45.670
+e essas adaptações
+
+155
+00:06:46.079 --> 00:06:48.209
+nos respectivos documentos fiscais,
+
+156
+00:06:48.320 --> 00:06:48.559
+porque,
+
+157
+00:06:48.600 --> 00:06:50.040
+afinal de contas.
+
+158
+00:06:50.144 --> 00:06:51.734
+A partir de janeiro
+
+159
+00:06:52.065 --> 00:06:53.334
+de 2026
+
+160
+00:06:53.904 --> 00:06:56.045
+já começa a ter
+
+161
+00:06:56.345 --> 00:06:57.595
+a incidência
+
+162
+00:06:57.945 --> 00:06:59.674
+do IBS CBS
+
+163
+00:06:59.825 --> 00:07:02.554
+e daqui a pouco a gente fala sobre as alíquotas
+
+164
+00:07:02.945 --> 00:07:05.945
+porque serão alíquotas reduzidas
+
+165
+00:07:06.385 --> 00:07:08.174
+ainda em 2026
+
+166
+00:07:08.625 --> 00:07:12.095
+para irem aumentando depois ao longo
+
+167
+00:07:12.864 --> 00:07:14.845
+do período de transição.

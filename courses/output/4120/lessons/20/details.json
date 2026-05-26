@@ -1,0 +1,33 @@
+{
+  "id": 482599,
+  "title": "Viés da Insensibilidade aos Índices",
+  "position": 20,
+  "duration": 61,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/75c638aa-c4d1-47a1-a5f0-4a79dc314da6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/75c638aa-c4d1-47a1-a5f0-4a79dc314da6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/75c638aa-c4d1-47a1-a5f0-4a79dc314da6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/75c638aa-c4d1-47a1-a5f0-4a79dc314da6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/75c638aa-c4d1-47a1-a5f0-4a79dc314da6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

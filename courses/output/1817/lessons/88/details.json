@@ -1,0 +1,33 @@
+{
+  "id": 457868,
+  "title": "Resumo de passivo e ativo",
+  "position": 89,
+  "duration": 151,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4a8b1e22-4f2a-4447-9a2e-65569c9ff999/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4a8b1e22-4f2a-4447-9a2e-65569c9ff999/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4a8b1e22-4f2a-4447-9a2e-65569c9ff999/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4a8b1e22-4f2a-4447-9a2e-65569c9ff999/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4a8b1e22-4f2a-4447-9a2e-65569c9ff999/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

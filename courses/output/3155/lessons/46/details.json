@@ -1,0 +1,33 @@
+{
+  "id": 475662,
+  "title": "Orçamento contínuo",
+  "position": 46,
+  "duration": 82,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ca610227-c15c-40e5-bb58-bff309f8cf10/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca610227-c15c-40e5-bb58-bff309f8cf10/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca610227-c15c-40e5-bb58-bff309f8cf10/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca610227-c15c-40e5-bb58-bff309f8cf10/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca610227-c15c-40e5-bb58-bff309f8cf10/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

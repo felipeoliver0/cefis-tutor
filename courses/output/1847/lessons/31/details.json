@@ -1,0 +1,33 @@
+{
+  "id": 458298,
+  "title": "Emissão da Decore para mais de uma fonte",
+  "position": 31,
+  "duration": 80,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2432027e-b622-4cd1-87b1-6e6a2b88ff5a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2432027e-b622-4cd1-87b1-6e6a2b88ff5a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2432027e-b622-4cd1-87b1-6e6a2b88ff5a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2432027e-b622-4cd1-87b1-6e6a2b88ff5a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2432027e-b622-4cd1-87b1-6e6a2b88ff5a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

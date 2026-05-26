@@ -1,0 +1,137 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:05.159
+com relação ao sincronismo dessa base de dados, precisamos tratar sobre isso,
+
+2
+00:00:05.769 --> 00:00:11.699
+o envio de admissões, alterações cadastrais e contratuais, desligamentos e,
+
+3
+00:00:11.710 --> 00:00:13.239
+principalmente,
+
+4
+00:00:13.250 --> 00:00:16.540
+um impacto quase que simultâneo na gestão e
+
+5
+00:00:16.549 --> 00:00:20.479
+geração de guias de outros serviços do sistema,
+
+6
+00:00:20.489 --> 00:00:24.920
+porque são elementos que podem trazer informações que
+
+7
+00:00:24.930 --> 00:00:28.159
+vão impactar no recolhimento do fundo de garantia.
+
+8
+00:00:28.450 --> 00:00:29.579
+Um exemplo.
+
+9
+00:00:29.590 --> 00:00:32.598
+Quando a gente faz uma alteração de salário do trabalhador,
+
+10
+00:00:32.610 --> 00:00:36.330
+a gente automaticamente formaliza essa alteração através
+
+11
+00:00:36.340 --> 00:00:39.419
+do evento S dois dois zero meia,
+
+12
+00:00:39.430 --> 00:00:40.959
+que é alteração de contrato.
+
+13
+00:00:41.590 --> 00:00:46.340
+Então esse evento é o responsável também por articular que a
+
+14
+00:00:46.349 --> 00:00:49.959
+partir do próximo mês teremos um novo salário pro empregado.
+
+15
+00:00:49.970 --> 00:00:52.939
+Consequentemente um novo valor a ser apurado em fundo de garantia.
+
+16
+00:00:53.400 --> 00:00:55.689
+A cada evento transmitido do trabalhador,
+
+17
+00:00:55.700 --> 00:00:58.450
+haverá uma sensibilização do FGTS digital.
+
+18
+00:00:58.459 --> 00:01:03.770
+Ou seja, ele entende o que está acontecendo na plataforma do esocial.
+
+19
+00:01:03.779 --> 00:01:04.330
+Portanto,
+
+20
+00:01:04.339 --> 00:01:08.529
+não será necessário efetuar o fechamento da folha
+
+21
+00:01:08.540 --> 00:01:12.370
+de pagamento no eSocial através do evento dois,
+
+22
+00:01:12.379 --> 00:01:13.290
+cem, dezanove e nove,
+
+23
+00:01:13.300 --> 00:01:17.529
+para que o empregador possa gerar as guias de competência do mês.
+
+24
+00:01:17.540 --> 00:01:19.970
+Olha que bacana, Vocês podem,
+
+25
+00:01:19.980 --> 00:01:25.760
+na verdade fazer a integração da folha somente com as informações do s mil.
+
+26
+00:01:25.769 --> 00:01:30.029
+Duzentos mil duzentos e dez pra outros casos que que vai acontecer
+
+27
+00:01:30.400 --> 00:01:31.290
+essa informação?
+
+28
+00:01:31.300 --> 00:01:38.250
+Já é necessária para o F GTS digital fazer sua simulação da guia do Fundo de garantia.
+
+29
+00:01:38.260 --> 00:01:42.080
+Então não é necessário indicar o encerramento do mês,
+
+30
+00:01:42.089 --> 00:01:46.930
+gerando o arquivo doze nove nove Traz agilidade para uma conferência.
+
+31
+00:01:46.940 --> 00:01:51.889
+Se você identificar algum tipo de diferença apurado, você volta na sua folha,
+
+32
+00:01:51.900 --> 00:01:56.769
+efetua para corretamente e transmite novamente um e duzentos
+
+33
+00:01:56.779 --> 00:02:00.110
+para o e socialmente o F GTS digital será
+
+34
+00:02:00.389 --> 00:02:01.099
+ajustado.

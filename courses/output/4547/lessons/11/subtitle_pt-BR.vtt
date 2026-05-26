@@ -1,0 +1,333 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.640
+E aqui um quadro resumo para vocês entenderem.
+
+3
+00:00:03.640 --> 00:00:08.339
+Então aqui, quando a gente elabora esse material, é pensando no dia-a-dia de vocês,
+
+4
+00:00:08.339 --> 00:00:14.039
+para vocês usarem no dia-a-dia, não precisar recorrer àquelas leituras de lei extensa, aquela coisa.
+
+5
+00:00:14.039 --> 00:00:15.679
+Então eu tento facilitar.
+
+6
+00:00:15.679 --> 00:00:20.480
+Por isso que eu preparo o material justamente de uma maneira mais objetiva possível
+
+7
+00:00:20.480 --> 00:00:23.500
+para que vocês utilizem no dia-a-dia.
+
+8
+00:00:23.500 --> 00:00:29.120
+Então olha aí, situação especial no caso de extinção, extinção da empresa.
+
+9
+00:00:29.120 --> 00:00:31.559
+O que vai acontecer no caso da extinção?
+
+10
+00:00:31.559 --> 00:00:38.859
+Escriturações, uma única ECF com data final igual a data da situação especial, uma única.
+
+11
+00:00:38.859 --> 00:00:43.840
+Prazo de entrega até o último dia do terceiro mês subsequente é a data da situação especial,
+
+12
+00:00:43.840 --> 00:00:45.640
+que nós acabamos de comentar.
+
+13
+00:00:45.640 --> 00:00:49.500
+Tem as exceções, que é isso que mata o nosso Brasil, as exceções.
+
+14
+00:00:49.500 --> 00:00:55.439
+Para situações especiais que ocorrerem entre janeiro e abril do ano-calendário,
+
+15
+00:00:55.439 --> 00:00:58.780
+a entrega é até o último dia do mês de julho,
+
+16
+00:00:58.780 --> 00:01:00.679
+como nós comentamos, perfeito?
+
+17
+00:01:00.679 --> 00:01:03.079
+De janeiro a abril.
+
+18
+00:01:03.079 --> 00:01:08.420
+Fusão, uma única ECF com data final igual a data da situação especial.
+
+19
+00:01:08.420 --> 00:01:11.900
+Entrega, também até o terceiro mês subsequente.
+
+20
+00:01:11.900 --> 00:01:18.640
+Exceções, se ocorrer de janeiro a abril, também entregam em julho, no caso de fusão.
+
+21
+00:01:18.640 --> 00:01:24.840
+Incorporação incorporada, uma única ECF com data final igual a situação especial.
+
+22
+00:01:24.840 --> 00:01:27.939
+Prazo de entrega, o último dia do terceiro mês.
+
+23
+00:01:27.939 --> 00:01:33.340
+Pra situação especial, do mesmo jeito de janeiro a abril, vou entregar em julho.
+
+24
+00:01:33.340 --> 00:01:39.260
+Incorporação incorporadora agora, aí sim, duas ECF.
+
+25
+00:01:39.260 --> 00:01:43.480
+Então, incorporação incorporadora, duas ECF.
+
+26
+00:01:43.480 --> 00:01:49.319
+Uma com data final igual a data da situação especial, perfeito?
+
+27
+00:01:49.319 --> 00:01:57.840
+Outra com data inicial igual a data imediatamente posterior à situação especial.
+
+28
+00:01:57.939 --> 00:02:02.719
+E aí, no caso, o indicador de início do período deve ser igual a 2.
+
+29
+00:02:02.719 --> 00:02:09.020
+Resultante, decisão, fusão, ou remanescente, decisão, ou realizou incorporação.
+
+30
+00:02:09.020 --> 00:02:13.560
+O campo da situação especial deve ficar com 0, que é normal.
+
+31
+00:02:13.560 --> 00:02:22.639
+Quando eu falo o, deve ser, né, o indicador 2, é na ficha de abertura que nós vamos mostrar pra vocês,
+
+32
+00:02:22.639 --> 00:02:27.939
+quando eu abrir o programa, colocar as fichas do programa, tem lá os campos, e eu comento, cada um,
+
+33
+00:02:27.939 --> 00:02:33.620
+então, aqui, você vai colocar 1 pra cisão, 2 pra fusão, 3 pra incorporação, no detalhe.
+
+34
+00:02:33.620 --> 00:02:36.080
+Então, vai ser o número 2, perfeito?
+
+35
+00:02:36.080 --> 00:02:39.520
+Então, fica fácil de vocês consultar, se vocês tiverem isso.
+
+36
+00:02:39.520 --> 00:02:45.120
+E aí, vai entregar a primeira até o último dia do terceiro mês subsequente,
+
+37
+00:02:45.120 --> 00:02:50.659
+e a segunda deve ser entrega nos prazos normais até julho do ano seguinte, perfeito?
+
+38
+00:02:50.659 --> 00:02:52.099
+Então, aqui é tranquilo.
+
+39
+00:02:52.099 --> 00:02:57.699
+E ali, nós colocamos situação especial do mesmo jeito, de janeiro a abril, entrega em julho,
+
+40
+00:02:57.699 --> 00:03:04.180
+no caso da incorporada e incorporadora, se tiver no mesmo guarda-chuva, não é necessário entregar.
+
+41
+00:03:04.180 --> 00:03:10.580
+Então, fica fácil vocês, através do resumo, né, de vocês já entenderem.
+
+42
+00:03:10.580 --> 00:03:15.719
+Cisão total, é o número 5, uma única ECF com data final igual à situação especial,
+
+43
+00:03:15.719 --> 00:03:21.060
+também vou entregar até o último dia do terceiro mês, e do mesmo jeito,
+
+44
+00:03:21.060 --> 00:03:25.699
+situações especiais de janeiro a abril, entregam em julho.
+
+45
+00:03:25.699 --> 00:03:27.699
+Cisão parcial.
+
+46
+00:03:27.699 --> 00:03:29.460
+O que é a cisão parcial?
+
+47
+00:03:29.460 --> 00:03:33.139
+Eu abordo esses temas no meu curso Contabilidade Avançada, né?
+
+48
+00:03:33.139 --> 00:03:36.539
+Eu falo, mostro, contabilizo como é que faz a cisão e tal.
+
+49
+00:03:36.539 --> 00:03:38.379
+E a cisão parcial, o que que é?
+
+50
+00:03:38.379 --> 00:03:42.719
+Eu divido a empresa em dois, uma parte vai para um lado, outra parte fica aqui.
+
+51
+00:03:42.719 --> 00:03:45.919
+Então, foi cindido parcialmente.
+
+52
+00:03:45.919 --> 00:03:52.419
+Duas ECF tem que entregar, uma com data final igual à situação especial, dizendo que teve a cisão,
+
+53
+00:03:52.419 --> 00:03:57.699
+outra com data inicial igual à data imediatamente posterior à situação especial,
+
+54
+00:03:57.699 --> 00:04:02.699
+o indicador 2, né? Também nós temos aí, e depois 0 lá em normal.
+
+55
+00:04:02.699 --> 00:04:09.719
+A primeira vou entregar também no terceiro mês, e a segunda em prazos normais.
+
+56
+00:04:09.719 --> 00:04:11.719
+Faz todo sentido, né gente?
+
+57
+00:04:11.719 --> 00:04:16.720
+Porque se eu separei a empresa em duas, a que ficou vai ter que entregar normal, né?
+
+58
+00:04:16.720 --> 00:04:21.720
+Eu entrego uma 90 dias após e entrego a outra prazo normal.
+
+59
+00:04:21.720 --> 00:04:26.600
+Situação especial, do mesmo jeito, de janeiro a abril, entregam em julho.
+
+60
+00:04:26.600 --> 00:04:27.459
+Transformação.
+
+61
+00:04:27.459 --> 00:04:36.060
+Transformação, exemplo, mudança de sociedade por ações para empresa por cota, então uma SAPA limitada.
+
+62
+00:04:36.060 --> 00:04:42.600
+Vou entregar duas ECF, uma com data final igual à data do evento, então é a ata,
+
+63
+00:04:42.600 --> 00:04:48.180
+e outra com data inicial a imediatamente posterior ao evento.
+
+64
+00:04:48.180 --> 00:04:54.620
+Ou seja, o indicador do início do período deve ser igual a 3, resultante de transformação.
+
+65
+00:04:54.620 --> 00:04:57.459
+E o campo situação especial não deve ser preenchido.
+
+66
+00:04:57.459 --> 00:05:02.459
+Prazo de entrega, as duas devem ser entregues no prazo da ECF normal, as duas.
+
+67
+00:05:02.459 --> 00:05:10.100
+Eu mudei de SAPA limitada, vou entregar as duas aí, perfeito? Nos prazos normais.
+
+68
+00:05:10.100 --> 00:05:14.100
+Desenquadramento de imune isenta, posso sofrer isso.
+
+69
+00:05:14.100 --> 00:05:21.660
+Vou entregar duas, uma com data final da data do evento, e a outra imediatamente posterior ao evento.
+
+70
+00:05:21.660 --> 00:05:26.459
+O indicador do campo deve ser 4, ó, início de obrigatoriedade de entrega, né?
+
+71
+00:05:26.459 --> 00:05:30.259
+De entrega no curso do ano, né?
+
+72
+00:05:30.259 --> 00:05:33.740
+E o campo situação especial não deve ser preenchido.
+
+73
+00:05:33.740 --> 00:05:39.339
+As duas devem ser entregues no prazo da ECF normal, entenderam?
+
+74
+00:05:39.339 --> 00:05:42.740
+Vocês viram como fica fácil pra gente entender?
+
+75
+00:05:42.740 --> 00:05:49.220
+Inclusão no Simples Nacional, uma ECF, uma com data final igual à data do evento.
+
+76
+00:05:49.220 --> 00:05:55.660
+A ECF deve ser entregue em prazos normais da ECF, perfeito? Normais.
+
+77
+00:05:55.660 --> 00:05:59.740
+Então ela era uma limitada, de repente era um lucro presumido, de repente passou pro Simples,
+
+78
+00:05:59.740 --> 00:06:05.740
+então ela vai entregar uma normal, porque o Simples não tem a obrigatoriedade de entregar a ECF,
+
+79
+00:06:05.740 --> 00:06:07.939
+como nós comentamos, ele não entrega.
+
+80
+00:06:07.939 --> 00:06:12.379
+Então se ele era uma limitada ou era um SA, e foi pro Simples Nacional,
+
+81
+00:06:12.379 --> 00:06:15.699
+ou era um lucro presumido ou um lucro real e foi pro Simples Nacional,
+
+82
+00:06:15.699 --> 00:06:19.699
+então ele vai entregar uma ECF nos prazos normais aí, perfeito?
+
+83
+00:06:19.699 --> 00:06:25.259
+Então vimos aí uma situação, acho que fica bacana esse resumo, porque ajuda vocês a entender.
+
+84
+00:06:25.259 --> 00:06:29.259
+Aqui não tem o pleno domínio, né? Quem já tem o domínio é bem mais tranquilo.

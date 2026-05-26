@@ -1,0 +1,33 @@
+{
+  "id": 486175,
+  "title": "Distribuição das empresas por regime tributário",
+  "position": 9,
+  "duration": 287,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2aaaa717-1975-492f-ace1-987f6e0abad5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2aaaa717-1975-492f-ace1-987f6e0abad5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2aaaa717-1975-492f-ace1-987f6e0abad5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2aaaa717-1975-492f-ace1-987f6e0abad5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2aaaa717-1975-492f-ace1-987f6e0abad5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

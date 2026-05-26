@@ -1,0 +1,381 @@
+WEBVTT
+
+1
+00:00:00.389 --> 00:00:03.119
+Mas na prática pessoal. O que que é? Mesmo assim?
+
+2
+00:00:03.130 --> 00:00:05.119
+Eu gostaria de ver, na prática, como que isso é?
+
+3
+00:00:05.130 --> 00:00:10.039
+Eu falei de arquivo, layout e tudo mais. Mas como que isso fica? Na prática?
+
+4
+00:00:10.050 --> 00:00:13.859
+Como que a empresa vai visualizar e vai manusear esse arquivo? Tá,
+
+5
+00:00:14.100 --> 00:00:17.950
+A gente trouxe aqui pra vocês tá uma extração de um arquivo,
+
+6
+00:00:17.959 --> 00:00:20.629
+aqui tá dum documento fiscal eletrônico?
+
+7
+00:00:20.639 --> 00:00:21.110
+Tá bom.
+
+8
+00:00:21.120 --> 00:00:25.229
+Então ele é um arquivo, texto ali com essas marcações especiais,
+
+9
+00:00:25.239 --> 00:00:30.389
+com sinal de maior sinal de menor e tudo mais com o nome do campo da informação.
+
+10
+00:00:30.399 --> 00:00:33.490
+Por exemplo, código de U F igual cinquenta e dois, né?
+
+11
+00:00:34.209 --> 00:00:37.299
+Então por aí vai modelo igual meia. Cinco.
+
+12
+00:00:37.310 --> 00:00:41.959
+Então esse aqui é um arquivo, Tá du Uma nota fiscal do consumidor eletrônico?
+
+13
+00:00:41.970 --> 00:00:46.259
+É assim que a gente vê ele no computador, quando a gente vai manusear ele tá.
+
+14
+00:00:46.270 --> 00:00:48.369
+Então, isso aí é um arquivo, né?
+
+15
+00:00:48.380 --> 00:00:52.580
+Dum documento fiscal eletrônico, isso aí a gente trouxe pra ilustrar pra vocês,
+
+16
+00:00:52.590 --> 00:00:54.490
+na prática como que fica, como de repente,
+
+17
+00:00:54.500 --> 00:00:58.729
+visualizar pra tornar material aquele aquele texto que a
+
+18
+00:00:58.740 --> 00:01:01.650
+gente acabou de falar aqui agora sobre arquivo digital,
+
+19
+00:01:01.659 --> 00:01:02.970
+Tá bom, Então, pessoal!
+
+20
+00:01:02.979 --> 00:01:05.690
+Vamos falar um pouquinho agora sobre o layout da nota fiscal eletrônica.
+
+21
+00:01:05.699 --> 00:01:09.620
+A gente falou que é um, tem que ser feito gerado, igual tá escrito lá no MC,
+
+22
+00:01:09.629 --> 00:01:12.269
+lá no manual manual de orientação e contribuinte, né?
+
+23
+00:01:12.940 --> 00:01:15.550
+E a gente vai ver agora como que isso é feito.
+
+24
+00:01:15.559 --> 00:01:18.989
+Eu falei lá que o código da U F era cinquenta e dois, falei, acabei de falar agora,
+
+25
+00:01:19.000 --> 00:01:22.309
+quando a gente mostrou aquele exemplo ali do arquivo pra gente mostrar assim,
+
+26
+00:01:22.319 --> 00:01:24.529
+na prática de uma maneira mais material, como que é
+
+27
+00:01:25.010 --> 00:01:28.819
+a gente vai ver como que a gente faz a interpretação dos campos do arquivo X,
+
+28
+00:01:28.830 --> 00:01:30.019
+ML no manual, Tá?
+
+29
+00:01:30.029 --> 00:01:34.739
+Então a gente vai agora dar uma passada ali, fazer uma uma parte, agora mais prática.
+
+30
+00:01:34.750 --> 00:01:37.260
+E a gente vai navegar pelo esquema x ML da nota,
+
+31
+00:01:37.269 --> 00:01:39.580
+pra vocês terem um contato assim mais íntimo ali,
+
+32
+00:01:39.589 --> 00:01:41.980
+com os documentos fiscais eletrônicos,
+
+33
+00:01:41.989 --> 00:01:46.040
+com o esquema X ML com o esquema de informações da nota fiscal.
+
+34
+00:01:46.050 --> 00:01:49.319
+Eh do consumidor eletrônico e da nota fiscal eletrônica Tá,
+
+35
+00:01:49.510 --> 00:01:52.440
+então, pessoal, antes de abrir aqui o layout em si,
+
+36
+00:01:52.449 --> 00:01:57.040
+a gente vai ver que a nota fiscal eletrônica ela tem um layout hierárquico, né?
+
+37
+00:01:57.050 --> 00:01:58.980
+Então, como que é esse lau hierárquico?
+
+38
+00:01:58.989 --> 00:02:01.959
+a gente tem níveis superiores e níveis inferiores.
+
+39
+00:02:01.970 --> 00:02:04.360
+Tá, A gente trouxe aqui a título de exemplo.
+
+40
+00:02:04.370 --> 00:02:08.880
+Tá um grupo de informações pra gente ver como que funciona, e a gente vai ver isso.
+
+41
+00:02:08.889 --> 00:02:11.860
+Eh, na prática, daqui a pouquinho tá. Então, Aqui
+
+42
+00:02:12.500 --> 00:02:17.270
+no primeiro nível está o grupo de informações da nota fiscal. Eletrônica, né?
+
+43
+00:02:17.279 --> 00:02:18.419
+Então ela é o grupo raiz.
+
+44
+00:02:18.429 --> 00:02:22.110
+Vamos dizer assim, De onde partem todas as outras informações, né?
+
+45
+00:02:22.119 --> 00:02:24.949
+Nada mais justo, Porque a nota fiscal eletrônica, né?
+
+46
+00:02:24.960 --> 00:02:28.169
+Tem que ter grupo de raiz as informações da nota fiscal eletrônica,
+
+47
+00:02:28.880 --> 00:02:33.610
+Depois a gente tem aqui no nível dois, o Grupo de Informações do Emitente.
+
+48
+00:02:33.619 --> 00:02:36.610
+No Grupo de Informações do emite estão todos os dados do emitente.
+
+49
+00:02:36.619 --> 00:02:42.410
+Tá o C n PJ a inscrição estadual, nome, razão social, endereço, nome,
+
+50
+00:02:42.419 --> 00:02:43.570
+fantasia e tudo mais.
+
+51
+00:02:43.580 --> 00:02:46.910
+Tá Então esse é o grupo de informações do emitente.
+
+52
+00:02:46.919 --> 00:02:49.610
+Dentro do Grupo de Informações do Emitente,
+
+53
+00:02:49.619 --> 00:02:52.729
+nós temos um grupo que é o endereço do emitente, né?
+
+54
+00:02:52.740 --> 00:02:56.990
+Então é um grupo de informações que é o endereço do emitente. Tá bom,
+
+55
+00:02:57.279 --> 00:03:00.610
+então aqui é outro grupo de informações.
+
+56
+00:03:00.619 --> 00:03:06.850
+No grupo em si, ele não vai informações, ele carrega um conjunto de informações tá,
+
+57
+00:03:06.860 --> 00:03:10.050
+então nesse grupo aqui, endereço do emitente.
+
+58
+00:03:10.059 --> 00:03:15.809
+Eu tenho uma informação, por exemplo, logradouro, número complemento, bairro,
+
+59
+00:03:15.820 --> 00:03:16.729
+município.
+
+60
+00:03:16.740 --> 00:03:21.414
+Esses campos aqui são os campos que carregam de fato em tá bom.
+
+61
+00:03:21.425 --> 00:03:25.054
+Então a gente tem grupos de forma hierárquica
+
+62
+00:03:25.065 --> 00:03:27.494
+e tem os elementos que carregam informação.
+
+63
+00:03:27.505 --> 00:03:32.335
+Eu trouxe aqui pra vocês o grupo de informações de endereço do emitente.
+
+64
+00:03:32.345 --> 00:03:32.535
+Então,
+
+65
+00:03:32.544 --> 00:03:38.615
+nesse grupo nós temos todas as informações relativas ao endereço do emitente,
+
+66
+00:03:38.625 --> 00:03:39.815
+da nota fiscal eletrônica.
+
+67
+00:03:39.824 --> 00:03:41.125
+Tá bom, então pessoal,
+
+68
+00:03:41.134 --> 00:03:44.914
+nesse grupo de informações aqui a gente tem uma informação que nós
+
+69
+00:03:44.925 --> 00:03:48.115
+vamos precisar quando a gente abrir lá o layout pra ver tá
+
+70
+00:03:48.899 --> 00:03:53.710
+nesse grupo aqui, de endereço do emitente o grupo pai, Ele tá no nível três,
+
+71
+00:03:53.720 --> 00:03:55.350
+que é o endereço do emitente.
+
+72
+00:03:55.360 --> 00:04:02.470
+Tá bom o grupo pai do endereço do emitente. Ele é o grupo do m t como um todo, né?
+
+73
+00:04:02.479 --> 00:04:06.350
+Onde vão lá o C n PJ inscrição e tudo mais E o grupo do EM T.
+
+74
+00:04:06.360 --> 00:04:10.429
+Ele tem como grupo pai o grupo de informações da nota fiscal eletrônica.
+
+75
+00:04:10.440 --> 00:04:13.350
+Essa informação a gente vai ver quando a gente abriu o documento
+
+76
+00:04:13.360 --> 00:04:16.959
+que especifica o layout da nota fiscal eletrônica e da nota fiscal.
+
+77
+00:04:16.970 --> 00:04:18.608
+do consumidor eletrônico. Agora
+
+78
+00:04:18.968 --> 00:04:22.658
+a gente precisa saber também informações do grupo Pai tá,
+
+79
+00:04:22.669 --> 00:04:24.419
+então é assim que funciona aí?
+
+80
+00:04:24.428 --> 00:04:25.098
+Ah,
+
+81
+00:04:25.109 --> 00:04:27.128
+a hierarquia aí das informações da nota
+
+82
+00:04:27.139 --> 00:04:29.579
+fiscal eletrônica temos os grupos de informação,
+
+83
+00:04:29.588 --> 00:04:33.558
+tá e os grupos de informação, eles carregam elementos, tá?
+
+84
+00:04:33.569 --> 00:04:38.498
+E os elementos carregam a informação em si tá bom, então a gente trouxe aí pra vocês.
+
+85
+00:04:38.509 --> 00:04:38.919
+Tá
+
+86
+00:04:39.230 --> 00:04:42.160
+informação da nota informação do emitente e,
+
+87
+00:04:42.170 --> 00:04:44.920
+por fim informações do endereço do emitente.
+
+88
+00:04:44.929 --> 00:04:48.929
+Tá? Agora? Nós vamos abrir o arquivo digital lá do moto!
+
+89
+00:04:48.940 --> 00:04:53.649
+Especificação técnica da nota fiscal eletrônica, pra gente navegar no layout,
+
+90
+00:04:53.660 --> 00:04:55.519
+saber interpretar esse layout,
+
+91
+00:04:55.529 --> 00:04:58.019
+o que que significa as informações que estão lá escritas.
+
+92
+00:04:58.320 --> 00:05:01.839
+E também é claro, conhecer todo o potencial de informação,
+
+93
+00:05:01.850 --> 00:05:04.209
+toda a informação que a gente pode colocar dentro da
+
+94
+00:05:04.220 --> 00:05:08.579
+nota fiscal eletrônica e da nota fiscal do consumidor eletrônica.
+
+95
+00:05:08.589 --> 00:05:09.390
+Vamos lá

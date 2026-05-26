@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4497,
+    "title": "Apuração de IRPJ e CSLL no Lucro Real e Presumido",
+    "subtitle": "2026",
+    "summary": "Neste curso \"Apuração de IRPJ e CSLL no Lucro Real e Presumido 2026\" você irá aprender na prática tudo o que precisa saber sobre Apuração de IRPJ e CSLL no Lucro Real e Presumido 2026. Aprenderá os fundamentos e a prática de apuração do IRPJ e da CSLL, as regras do Lucro Real e as particularidades do Lucro Presumido e vários outros temas para você que deseja se atualizar ou aprender tudo sobre Apuração de IRPJ e CSLL no Lucro Real e Presumido 2026.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/9b20b155-4629-4b16-911f-c0bc31616aaf-thumbnail.png",
+    "goals": [
+      "O objetivo do curso \"Apuração de IRPJ e CSLL no Lucro Real e Presumido 2026: Gravação agendada\" é a capacitação para a aplicação prática dos procedimentos de apuração do IRPJ e da CSLL nos regimes de Lucro Real e Lucro Presumido, considerando as normas e atualizações para o ano de 2026."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 22299,
+    "keywords": "apuração irpj;lucro;presumido",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 65,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 83,
+    "averageRating": 9.72,
+    "practiceAverage": 9.67,
+    "trailer": {
+      "id": "31440f45-e7aa-4338-b586-6e0be37ca9da",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/31440f45-e7aa-4338-b586-6e0be37ca9da/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/31440f45-e7aa-4338-b586-6e0be37ca9da/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/31440f45-e7aa-4338-b586-6e0be37ca9da/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/31440f45-e7aa-4338-b586-6e0be37ca9da/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-04-20T14:40:16.000Z",
+      "updatedAt": "2026-04-20T14:40:15.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-04-20T20:14:01.000Z",
+    "recordedAt": "2026-04-07T00:00:00.000Z",
+    "createdAt": "2026-04-20T09:53:17.000Z"
+  }
+}

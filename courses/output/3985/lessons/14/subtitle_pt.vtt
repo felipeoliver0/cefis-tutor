@@ -1,0 +1,127 @@
+WEBVTT
+
+00:00:00.418 --> 00:00:07.759
+- Mas como eu disse, diversas outras especulações começaram a surgir para o fisco. E aí eu trouxe
+
+00:00:07.759 --> 00:00:15.247
+- para vocês dentro dessa aula quais são as principais perguntas frequentes e dúvidas geradas quando
+
+00:00:15.247 --> 00:00:22.588
+- o MIT veio para a operação. E aí eu trouxe para vocês quatro grandes perguntas que foram feitas
+
+00:00:22.588 --> 00:00:25.598
+- ao realizar essa implementação do MIT.
+
+00:00:26.530 --> 00:00:32.349
+- E se não houver tributos a declarar no MIT? Esse foi um dos principais questionamentos que a gente
+
+00:00:32.349 --> 00:00:38.749
+- teve. Os contribuintes que não possuem tributos a informar no MIT não precisam realizar nenhuma alteração
+
+00:00:38.749 --> 00:00:44.917
+- em seus procedimentos atuais. Pessoal, essa foi uma das principais perguntas, por que envolve as empresas
+
+00:00:44.917 --> 00:00:50.735
+- sem movimento? Só que lembre-se, se a gente já tiver entregue o FDRI em um fio essencial como sem
+
+00:00:50.735 --> 00:00:54.110
+- movimento, a DCTF Web já pode ser enviada sem movimento.
+
+00:00:54.690 --> 00:01:01.649
+- Então o que o físico respondeu aqui? Olha, se não tiver tributos a serem formados no MIT, não precisa
+
+00:01:01.649 --> 00:01:08.280
+- entrar nele, não precisa fazer nada, só entrega a DCTF Web. Por isso que eu falo novamente e trago
+
+00:01:08.280 --> 00:01:15.370
+- uma reflexão para vocês. O MIT é muito mais uma função da DCTF Web do que propriamente uma obrigação
+
+00:01:15.370 --> 00:01:18.718
+- acessória distinta. Conseguem perceber? Porque se
+
+00:01:18.914 --> 00:01:25.125
+- eu não preciso dele. Quando não há um tributo, isso quer dizer que ele não é uma obrigação acessória,
+
+00:01:25.125 --> 00:01:30.941
+- solta. Como, por exemplo, é social, como é FDF. Então, se não há o que ser informado no MIT, não
+
+00:01:30.941 --> 00:01:36.983
+- precisa nem entrar na função. O físico já tem o entendimento que não teve nenhum tipo de informação
+
+00:01:36.983 --> 00:01:42.856
+- ali lançada. Como funcionará a declaração de inatividade? E por que isso também foi girado dúvida
+
+00:01:42.856 --> 00:01:48.446
+- na época? Porque em cada exercício a gente tinha que entregar uma DCTF convencional para mostrar
+
+00:01:48.994 --> 00:01:55.291
+- essa situação para o Fisco. Então, todo ano no calendário a gente entrava, fazia a competência
+
+00:01:55.291 --> 00:02:01.651
+- de janeiro para informar, por exemplo, uma inatividade. E o Fisco trouxe esse conceito, que a partir
+
+00:02:01.651 --> 00:02:08.263
+- de 2016 não será mais necessário renovar anualmente a declaração de inatividade. Pessoas jurídicas
+
+00:02:08.263 --> 00:02:15.001
+- nessa condição deverão enviar a DCTF Web sem movimento em janeiro de 2025. E se a situação persistir,
+
+00:02:15.001 --> 00:02:18.590
+- não precisam renovar a declaração nos anos seguintes.
+
+00:02:19.330 --> 00:02:26.481
+- Houve uma desobrigatoriedade dessa situação. Ela só precisa enviar ter, na verdade, uma DCTF Web
+
+00:02:26.481 --> 00:02:34.346
+- ativa, como sem movimento, para não precisar mais enviar todo ano. O físico não precisa dessa informação
+
+00:02:34.346 --> 00:02:41.568
+- para entender que essa empresa é inativa. Temos outras obrigações acessórias que a gente precisa
+
+00:02:41.568 --> 00:02:48.862
+- enviar. Por isso que eles tiram a obrigatoriedade. Temos SPED Fiscal, SPED Contribuições, ECF, ECD.
+
+00:02:49.442 --> 00:02:56.006
+- Temos diversas outras obrigações acessórias que o físico já tem essa informação. Então, basta
+
+00:02:56.006 --> 00:03:03.020
+- ter uma DCTF Web ativa para que você não precise mais informar. Como serão tratados os eventos especiais?
+
+00:03:03.020 --> 00:03:09.455
+- Haverá apenas uma declaração mensal, mesmo que haja um evento diferente na operação. O físico
+
+00:03:09.455 --> 00:03:16.276
+- quer saber apenas uma. Então, se houve fusão, incorporação, cisão, extinção, o que ocorre primeiro
+
+00:03:16.276 --> 00:03:18.142
+- é o que vai dentro da DCTF.
+
+00:03:19.522 --> 00:03:25.957
+- E os critérios tributários? No novo modelo, o contribuinte não informará no MIT a maior parte dos
+
+00:03:25.957 --> 00:03:32.328
+- créditos atualmente informados na DCTF convencional. Então, por exemplo, se há uma compensação,
+
+00:03:32.328 --> 00:03:38.700
+- um parcelamento, o fisco não quer saber dessa informação, até porque ele tem como saber se houve
+
+00:03:38.700 --> 00:03:45.639
+- um parcelamento, se houve uma compensação por meio da PERDICOMP, por exemplo. Então, os meios tributários
+
+00:03:45.639 --> 00:03:48.478
+- de crédito, os tributários de como ele vai
+
+00:03:48.642 --> 00:03:55.646
+- fazer o recolhimento dessa extinção, desse débito, ele não quer saber. No MIT, a gente só informa
+
+00:03:55.646 --> 00:04:02.650
+- a suspensão, porque a suspensão está ligada a uma questão jurídica, a uma ação jurídica, a uma
+
+00:04:02.650 --> 00:04:09.314
+- liminar, por exemplo. Então, por isso que ele colocou apenas a suspensão no MIT. Compensação,
+
+00:04:09.314 --> 00:04:16.862
+- parcelamentos, ele já consegue saber, até porque o parcelamento é feito via ICAQ também, ou no Regularize,
+
+00:04:17.890 --> 00:04:20.222
+- e a compensação é feita pela pérdicompe.

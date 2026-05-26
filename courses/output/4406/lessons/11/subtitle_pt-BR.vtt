@@ -1,0 +1,425 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.820
+Pessoal, conforme nós falamos durante a aula, agora nós vamos fazer uma atividade prática usando
+
+3
+00:00:07.820 --> 00:00:15.900
+Google Gemini, mas você pode usar o chat GPT ou outras ferramentas de IA e nós gostaríamos muito
+
+4
+00:00:15.900 --> 00:00:21.820
+que você faça esse teste prático aí na sua casa ou no seu trabalho, tá bom? Na instituição onde
+
+5
+00:00:21.820 --> 00:00:28.079
+você estiver. Bom pessoal, estamos aqui no site do Google Gemini e observem que tem uma opção
+
+6
+00:00:28.079 --> 00:00:33.780
+escrito ferramentas, vou até aumentar um pouquinho a tela, tem uma opção escrito
+
+7
+00:00:33.780 --> 00:00:41.520
+ferramentas, eu vou clicar nessa opção e ativar o modo Canvas, notem que o Canvas fica marcado
+
+8
+00:00:41.520 --> 00:00:46.679
+aqui embaixo e está escrito vamos escrever ou criar algo, então vamos colocar assim,
+
+9
+00:00:46.679 --> 00:00:57.719
+possuo um serviço de consultoria de isenção fiscal e recuperação de tributos
+
+10
+00:00:58.079 --> 00:01:10.680
+para empresas, crie um website de divulgação deste meu serviço incluindo possibilidade de uso da
+
+11
+00:01:10.680 --> 00:01:17.040
+lei do bem. Vamos começar assim pessoal, então esse é o que a gente chama de prompt, acessei
+
+12
+00:01:17.040 --> 00:01:24.599
+gemini.google.com, digitei esse prompt e vou apertar o ENTER, pessoal. Então lembrando que
+
+13
+00:01:24.599 --> 00:01:28.060
+enquanto essa mágica acontece, essa mágica acontece, existe uma ferramenta que se chama
+
+14
+00:01:28.079 --> 00:01:36.000
+web, existe milhares de operações acontecendo na nuvem, num data center com GPUs e toda uma
+
+15
+00:01:36.000 --> 00:01:43.980
+parafernalha computacional. Reparem pessoal que a IA está gerando um código de programação em
+
+16
+00:01:43.980 --> 00:01:51.540
+especial que a gente está mostrando aqui é o HTML, tem um pouco de JavaScript, CSS que
+
+17
+00:01:51.540 --> 00:01:58.019
+são linguagens para desenvolvimento web. Nós não precisamos programar, você não precisa
+
+18
+00:01:58.019 --> 00:02:07.680
+programar para criar esse website, tá pessoal? Então notem que o site ficou pronto, tá? Ele tá
+
+19
+00:02:07.680 --> 00:02:15.180
+aqui. A IA deu um nome aqui, Tax Expert, especialistas em recuperação tributária,
+
+20
+00:02:15.180 --> 00:02:20.879
+sua empresa paga mais impostos do que deveria? Interrogação, recupere créditos tributários
+
+21
+00:02:20.879 --> 00:02:27.780
+e utilize incentivos fiscais. Então notem que legal que gerou um site que eu diria que
+
+22
+00:02:28.020 --> 00:02:35.699
+é até simpático, até bonitinho, colocou o telefone de contato etc e, a partir daqui pessoal,
+
+23
+00:02:35.699 --> 00:02:47.280
+a gente pode interagir com a IA. Então posso pedir mude o título do site para Sefiz tax Expert,
+
+24
+00:02:47.280 --> 00:02:53.479
+é um nome que eu chutei, tá pessoal? E a gente pode ir interagindo como se a gente
+
+25
+00:02:53.479 --> 00:02:57.479
+estivesse conversando com um desenvolvedor no web, com um programador que está fazendo o seu
+
+26
+00:02:57.479 --> 00:03:09.159
+fazer no seu website, e notem que ele responde, então, olha aqui a resposta, vou atualizar o nome da marca em todo o website para CIFIS Tax Expert,
+
+27
+00:03:09.159 --> 00:03:18.719
+é um nome que eu chutei agora, tá pessoal, e aí se a gente clicar em código, você vai ver que a IA está desenvolvendo esse código,
+
+28
+00:03:18.719 --> 00:03:32.039
+você vê esse código sendo linha a linha gerado, e quando ele está concluído, a geração está pronta, a gente consegue ir lá em prévia e ver o site,
+
+29
+00:03:32.139 --> 00:03:42.620
+tá aqui, mudou para CIFIS Tax Expert, pessoal, tudo que está aqui pode ser ajustado nessa conversa, eu posso pedir para ajustar a localização,
+
+30
+00:03:42.620 --> 00:03:48.620
+telefone de contato, telefone, remover uma parte, adicionar uma parte, e por aí vai.
+
+31
+00:03:48.719 --> 00:04:00.020
+Vamos dar um passo a mais e colocar uma funcionalidade com lógica de programação nesse website, o que a gente está pensando em fazer aqui?
+
+32
+00:04:00.620 --> 00:04:09.000
+Criar uma calculadora em que a empresa coloca alguns dados, e essa calculadora vai dizer se ela é elegível para usar a lei do bem,
+
+33
+00:04:09.180 --> 00:04:18.699
+então, vamos colocar aqui, considerando a lei do bem, inclua uma brevidade,
+
+34
+00:04:18.720 --> 00:04:25.920
+uma breve explicação da lei do bem, notem que eu nem estou explicando como a lei do bem funciona, tá pessoal,
+
+35
+00:04:26.379 --> 00:04:35.720
+só escrevi, considerando a lei do bem, inclua uma breve explicação da lei do bem, e também inclua no site,
+
+36
+00:04:35.720 --> 00:04:48.379
+uma calculadora de isenção fiscal, perguntando dados da empresa, e respondendo,
+
+37
+00:04:48.720 --> 00:05:01.319
+se ela é elegível para a lei do bem, e a possível isenção fiscal obtida.
+
+38
+00:05:01.319 --> 00:05:07.379
+Como eu disse pessoal, eu estou conversando aqui com a IA como se fosse um desenvolvedor,
+
+39
+00:05:07.420 --> 00:05:17.000
+a diferença é que normalmente nessa conversa o desenvolvedor iria para a mesa dele, para a casa dele, se é na própria empresa, se é fora,
+
+40
+00:05:17.000 --> 00:05:26.600
+e levaria algumas horas, talvez alguns dias para retornar com isso, aqui a gente já tem o resultado na hora, tá.
+
+41
+00:05:26.600 --> 00:05:33.300
+Então, a IA já respondeu, vou atualizar o website da Cefis Tax Expert para incluir uma sessão educativa sobre lei do bem,
+
+42
+00:05:33.300 --> 00:05:41.100
+e uma ferramenta interativa, calculadora de incentivo fiscal, essa calculadora permitirá que os visitantes insiram dados reais
+
+43
+00:05:41.100 --> 00:05:46.660
+de suas operações para verificar a elegibilidade e estimar o retorno financeiro, então, olha só,
+
+44
+00:05:46.660 --> 00:05:56.660
+pessoal, já está aqui o novo site, e, então, Cefis Tax Expert, se a empresa investe em inovação, o governo pode pagar por isso.
+
+45
+00:05:56.660 --> 00:06:02.360
+Pessoal, a IA gerou isso, nós podemos pedir para mudar qualquer coisa que está aqui, tá.
+
+46
+00:06:02.360 --> 00:06:08.360
+Especialistas em lei do bem e recuperação tributária, descubra agora quanto sua empresa pode economizar.
+
+47
+00:06:08.360 --> 00:06:15.360
+Então, tem aqui, ó, ele criou um conheça a lei, ó, cliquei no conheça a lei, ele leva ali, entenda a lei do bem,
+
+48
+00:06:15.360 --> 00:06:16.560
+requisitos,
+
+49
+00:06:16.560 --> 00:06:26.579
+requisitos, né, então ele gerou uma sessão completa ali explicando a lei, e tem um simular economia, cliquei aqui em simular economia,
+
+50
+00:06:27.220 --> 00:06:36.500
+e ele pergunta, deixa eu diminuir aqui um pouquinho o zoom, né, ó, simulador de incentivo fiscal, regime tributário,
+
+51
+00:06:36.500 --> 00:06:44.379
+lucro real, simples nacional, lucro presumido, vou colocar simples nacional, investimento anual em P&D, né,
+
+52
+00:06:45.079 --> 00:06:46.500
+pesquisa desenvolvimento inovador.
+
+53
+00:06:46.560 --> 00:06:55.939
+Vamos colocar aqui, ó, 100 mil reais, sua empresa apresentou lucro fiscal, vamos pôr que sim,
+
+54
+00:06:57.040 --> 00:07:01.480
+quantos pesquisadores foram contratados no ano? Ah, vou pôr zero, não tem.
+
+55
+00:07:02.480 --> 00:07:08.000
+Então, ó lá, a calculadora já mostrou, pessoal, requisitos não preenchidos, por que não é elegível?
+
+56
+00:07:08.000 --> 00:07:15.860
+A lei do bem é exclusiva para empresas no regime de lucro real, podemos analisar outras isenções para você.
+
+57
+00:07:16.560 --> 00:07:20.860
+Então, vamos mudar isso aqui para lucro real.
+
+58
+00:07:21.480 --> 00:07:30.860
+Automaticamente, ó, já apareceu elegível para a lei do bem, economia fiscal estimada, 20.400 reais, base de dedução 60%.
+
+59
+00:07:30.860 --> 00:07:41.319
+Ele coloca um asterisco, estimativa baseada em alíquota padrão de 34%, IRPJ mais CSLL, sujeito a análise técnica detalhada.
+
+60
+00:07:41.319 --> 00:07:46.319
+Vamos pôr aqui, ó, 1 milhão de investimentos.
+
+61
+00:07:46.560 --> 00:07:51.160
+Investimento anual em P&D, vamos pôr que você está desenvolvendo novos produtos na sua empresa.
+
+62
+00:07:51.720 --> 00:08:00.060
+Nesse caso, de 1 milhão de reais investidos, você tem uma economia fiscal aí de 204 mil reais.
+
+63
+00:08:00.779 --> 00:08:05.120
+Agora, nossa calculadora permite fazer outras coisas.
+
+64
+00:08:05.660 --> 00:08:09.740
+Pessoal, a lei do bem, se você não tiver lucro, você não pode usar ela.
+
+65
+00:08:09.819 --> 00:08:12.579
+Então, por isso tem essa pergunta, a empresa apresentou lucro?
+
+66
+00:08:12.879 --> 00:08:15.819
+Se eu colocar não, requisito não preenchido.
+
+67
+00:08:16.560 --> 00:08:17.600
+Por que não é elegível?
+
+68
+00:08:17.720 --> 00:08:20.279
+Para deduzir o incentivo, a empresa precisa apresentar lucro.
+
+69
+00:08:20.579 --> 00:08:21.680
+Vamos pôr sim de novo.
+
+70
+00:08:22.379 --> 00:08:26.620
+Agora, vamos supor que a empresa contrate pesquisadores para fazer o P&D.
+
+71
+00:08:27.199 --> 00:08:30.279
+Então, vamos pôr que a nossa empresa contratou dois pesquisadores.
+
+72
+00:08:31.060 --> 00:08:37.659
+Ó, a economia fiscal já vai para uma base de dedução de 70%, 238 mil.
+
+73
+00:08:37.659 --> 00:08:40.720
+Vamos supor que a gente contratou 10 pesquisadores.
+
+74
+00:08:41.120 --> 00:08:45.659
+Vai para 80%, 272 mil de economia.
+
+75
+00:08:46.559 --> 00:08:49.259
+Pessoal, tem várias outras regras na lei do bem.
+
+76
+00:08:49.379 --> 00:08:55.399
+Se a empresa patentear a tecnologia, aumenta um pouquinho mais a base de dedução e por aí vai.
+
+77
+00:08:56.019 --> 00:09:05.159
+Bom, a ideia é mostrar, pessoal, como é fácil a gente criar uma calculadora completa e interativa
+
+78
+00:09:05.159 --> 00:09:11.179
+que os nossos clientes vão acessar como uma porta de entrada para os nossos produtos e serviços.
+
+79
+00:09:11.179 --> 00:09:13.240
+E não foi necessário programar.
+
+80
+00:09:13.500 --> 00:09:16.179
+A IA fez tudo isso para a gente a partir do...
+
+81
+00:09:16.559 --> 00:09:21.179
+Como eu já disse, é possível continuar interagindo aqui.
+
+82
+00:09:21.179 --> 00:09:32.279
+Por exemplo, eu posso pedir para adicione um botão de entre em contato agora
+
+83
+00:09:32.279 --> 00:09:46.360
+para nossos consultores ajudarem você a obter o máximo da lei do bem.
+
+84
+00:09:46.799 --> 00:09:48.240
+Um exemplo, tá, pessoal?
+
+85
+00:09:48.620 --> 00:09:51.659
+Como eu disse, vocês podem brincar.
+
+86
+00:09:51.940 --> 00:09:58.259
+Literalmente, a palavra é brincar, explorar à vontade essa funcionalidade das IAs.
+
+87
+00:09:58.440 --> 00:10:00.179
+Chat GPT, Google Gemini.
+
+88
+00:10:00.679 --> 00:10:03.039
+Lembrando, o modo Canvas está ativo.
+
+89
+00:10:05.039 --> 00:10:09.600
+E uma vez que você gostou, concluiu, você tem o código pronto.
+
+90
+00:10:09.600 --> 00:10:14.759
+Você vai pegar esse código e você vai copiar para um servidor.
+
+91
+00:10:15.440 --> 00:10:16.399
+Que os...
+
+92
+00:10:16.399 --> 00:10:19.159
+Peda esse website, esse serviço.
+
+93
+00:10:19.840 --> 00:10:23.980
+E a partir do momento que você colocar nesse servidor, preferencialmente em nuvem,
+
+94
+00:10:24.379 --> 00:10:27.500
+você tem aquilo 24 horas disponível para todos.
+
+95
+00:10:28.059 --> 00:10:30.039
+Esse é um assunto para uma outra aula,
+
+96
+00:10:30.539 --> 00:10:33.799
+que é como pegar esses resultados que nós geramos
+
+97
+00:10:33.799 --> 00:10:38.840
+e disponibilizar na internet para todos os seus clientes e parceiros
+
+98
+00:10:38.840 --> 00:10:41.240
+através de uma máquina em nuvem.
+
+99
+00:10:41.240 --> 00:10:42.200
+Olha lá, pessoal.
+
+100
+00:10:42.279 --> 00:10:44.639
+Eu pedi para ele adicionar um botão aqui, né?
+
+101
+00:10:44.980 --> 00:10:46.240
+Ele adicionou dúvida sobre...
+
+102
+00:10:46.399 --> 00:10:48.659
+Brinca quadramento, fale com o consultor.
+
+103
+00:10:49.279 --> 00:10:52.539
+Está aqui o simulador e tem o fale com o consultor.
+
+104
+00:10:52.840 --> 00:10:56.480
+Essa é uma ferramenta que certamente aumenta muito a produtividade
+
+105
+00:10:56.480 --> 00:10:59.679
+e também te dá liberdade de forma criativa
+
+106
+00:10:59.679 --> 00:11:04.779
+explorar possibilidades de como oferecer seu serviço
+
+107
+00:11:04.779 --> 00:11:09.620
+de forma mais atrativa em diferentes plataformas.

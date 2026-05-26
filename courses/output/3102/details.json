@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3102,
+    "title": "CPC 12 - Ajuste a Valor Presente (Atualizado Março/24)",
+    "subtitle": "Adoção do Ajuste a Valor Presente",
+    "summary": "Neste curso você terá uma visão geral do pronunciamento CPC 12 (R1) - Ajuste a valor presente, que deve ser adotado em transações de longo prazo ou de curto prazo se relevantes, conforme estabelecido na Lei 11.638/07. Também são abordados temas como: quais ativos e passivos devem ser ajustados, a taxa apropriada de desconto, método de alocação, classificação entre outros aspectos.\n\nImportante que o aluno conheça a sistemática da matemática financeira que trata sobre o cálculo do Valor Presente (VPL) que pode ser também obtido/conhecido na CEFIS caso não conheça sobre o tema",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/c801eca8ffb589076443084dd79c4e251728384326.jpg",
+    "goals": [
+      "Apresentar uma visão geral de quando e como reconhecer o Ajuste  a Valor Presente, bem como debater alguns assuntos polêmicos e apresentar alguns balanços como exemplo."
+    ],
+    "teacher": {
+      "id": 520172,
+      "name": "Marcelo Aquino",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/e033a4a9-13ef-4c75-8b8b-1a064ee8384d-croppedImage.jpeg"
+    },
+    "duration": 3297,
+    "keywords": "cpc 12;AJUSTE A VALOR PRESENTE",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 12,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 423,
+    "averageRating": 9.26,
+    "practiceAverage": 9.19,
+    "trailer": {
+      "id": "85cae382-9211-480a-86d5-3b3c64f559db",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/85cae382-9211-480a-86d5-3b3c64f559db/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/85cae382-9211-480a-86d5-3b3c64f559db/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/85cae382-9211-480a-86d5-3b3c64f559db/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/85cae382-9211-480a-86d5-3b3c64f559db/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-04-03T09:15:50.000Z",
+      "updatedAt": "2024-04-03T09:15:49.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-04-20T15:56:13.000Z",
+    "recordedAt": "2024-03-26T00:00:00.000Z",
+    "createdAt": "2024-03-29T11:48:15.000Z"
+  }
+}

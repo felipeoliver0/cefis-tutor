@@ -1,0 +1,33 @@
+{
+  "id": 476359,
+  "title": "Amortização",
+  "position": 40,
+  "duration": 223,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/df88be26-bd6e-4e96-a14a-b57b0cb8953d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df88be26-bd6e-4e96-a14a-b57b0cb8953d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df88be26-bd6e-4e96-a14a-b57b0cb8953d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df88be26-bd6e-4e96-a14a-b57b0cb8953d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df88be26-bd6e-4e96-a14a-b57b0cb8953d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

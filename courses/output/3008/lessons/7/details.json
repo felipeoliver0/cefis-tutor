@@ -1,0 +1,33 @@
+{
+  "id": 473223,
+  "title": "Conceito de reoneração",
+  "position": 7,
+  "duration": 286,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/24f75ec1-7cc0-43d2-9600-d87039cac2af/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24f75ec1-7cc0-43d2-9600-d87039cac2af/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24f75ec1-7cc0-43d2-9600-d87039cac2af/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24f75ec1-7cc0-43d2-9600-d87039cac2af/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24f75ec1-7cc0-43d2-9600-d87039cac2af/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

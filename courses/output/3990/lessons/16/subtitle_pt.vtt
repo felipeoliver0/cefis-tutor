@@ -1,0 +1,172 @@
+WEBVTT
+
+00:00:00.194 --> 00:00:06.736
+- Vamos agora para essa reflexão desse exercício. A escolha de um determinado investimento ou projeto
+
+00:00:06.736 --> 00:00:13.342
+- requer análise de alguns indicadores. Isso sempre já estamos falando. Sendo um deles, a taxa interna
+
+00:00:13.342 --> 00:00:20.141
+- de retorno. Sobre a taxa interna de retorno, é correto afirmar que os conceitos são importantes também
+
+00:00:20.141 --> 00:00:26.876
+- para o quê? Para sentimentar a lembrança de como os cálculos são feitos. Então por isso que a gente
+
+00:00:26.876 --> 00:00:28.030
+- também foca aqui
+
+00:00:28.290 --> 00:00:36.092
+- em sedimentar conceitos, ok? Muito bem, o que é correto afirmar sobre a taxa interna de retorno? É
+
+00:00:36.092 --> 00:00:44.049
+- igual à taxa de desconto ou taxa exigida pelo investidor? Será? Representa a taxa de desconto a qual
+
+00:00:44.049 --> 00:00:51.234
+- se equipara as taxas de juros do mercado primário, como a Selic? Pode até ser, mas não é
+
+00:00:51.234 --> 00:00:57.182
+- obrigatoriamente. Pode ser usada exclusivamente para a escolha de um projeto
+
+00:00:57.506 --> 00:01:04.164
+- de forma independente dos demais indicadores, PPL, Payback, Payback simples, descontado, quer dizer,
+
+00:01:04.164 --> 00:01:11.019
+- a gente pode escolher somente o indicador taxa interna de retorno para avaliar projetos, pessoal? Não,
+
+00:01:11.019 --> 00:01:13.854
+- né? Nós já falamos sobre isso. Por fim,
+
+00:01:14.114 --> 00:01:21.285
+- A taxa interna de retorno, ela iguala os fluxos de entrada com os fluxos de saída de um investimento
+
+00:01:21.285 --> 00:01:28.737
+- com o intuito de determinar uma única taxa de retorno que resulte em um VPL igual a zero? Hein, pessoal?
+
+00:01:28.737 --> 00:01:35.838
+- O que vocês acham? Então, pessoal, é isso, como a gente falou. É a alternativa D. Por quê? Como
+
+00:01:35.838 --> 00:01:40.126
+- a gente viu ali no gráfico, ela vai igualar os fluxos, né?
+
+00:01:41.026 --> 00:01:49.821
+- a uma taxa que resuma essa equivalência, ou seja, equivalência em relação a quê? Ao montante investido
+
+00:01:49.821 --> 00:01:58.127
+- com o montante que o projeto vai gerar no momento zero. Quando ele consegue demonstrar que aquilo que
+
+00:01:58.127 --> 00:02:06.678
+- será gerado no momento zero for equivalente ao montante investido, quando eles tiverem essa capacidade,
+
+00:02:06.678 --> 00:02:10.750
+- significa o quê? Que essa taxa interna é a taxa
+
+00:02:10.850 --> 00:02:18.663
+- que vai justamente delimitar o montante do VPL, ou seja, taxa interna vai dizer o seguinte, o meu valor
+
+00:02:18.663 --> 00:02:26.250
+- presente líquido dos fluxos futuros é exatamente igual ao montante exigido, ou seja, eu não tenho
+
+00:02:26.250 --> 00:02:34.062
+- retorno adicional nenhum, só vou receber realmente o valor investido. É um projeto considerado efeito
+
+00:02:34.062 --> 00:02:40.222
+- nulo, não destrói e nem agrega valor, ele somente devolve o montante investido.
+
+00:02:40.578 --> 00:02:49.401
+- A que taxa? Então nós temos a taxa interna de retorno que tem essa função de determinar a taxa mínima
+
+00:02:49.401 --> 00:02:57.729
+- que iguala os fluxos entre investimento e retorno de investimento. Tudo bem? Mais um exercício aqui
+
+00:02:57.729 --> 00:03:06.140
+- para a gente memorizar alguns pontos importantes. Em relação aos projetos A e B, seus investimentos
+
+00:03:06.140 --> 00:03:09.438
+- iniciais, projeto A, 65 mil, projeto B,
+
+00:03:09.986 --> 00:03:18.979
+- 150 mil. Com base nos fluxos de caixa, fluxos de caixa apresentados no período 1 ao 5, determine a
+
+00:03:18.979 --> 00:03:28.243
+- taxa interna de retorno de cada projeto ou de cada investimento, identificando qual deles, ou B, seria
+
+00:03:28.243 --> 00:03:37.506
+- o mais vantajoso quando analisado pela ótica, pela ótica da taxa interna de retorno. Ou seja, então
+
+00:03:37.506 --> 00:03:39.934
+- nesse caso para exercitar,
+
+00:03:40.354 --> 00:03:45.615
+- O que nós temos que fazer? Está pedindo para fazer uma análise pela ótica da taxa interna de retorno.
+
+00:03:45.615 --> 00:03:50.579
+- Já falamos bastante que o que prevalece na hierarquia é o VPL, mas é só para a gente exercitar.
+
+00:03:50.579 --> 00:03:55.790
+- Nós vamos aqui fazer pela ótica da taxa interna. Está pedindo para calcular. Então, óbvio, pessoal,
+
+00:03:55.790 --> 00:04:00.754
+- que aqui nós temos que calcular a taxa interna de retorno de cada um dos projetos para que a gente
+
+00:04:00.754 --> 00:04:06.462
+- possa escolher pela ótica da taxa interna qual projeto deve ser aceito ou o projeto deve ser rejeitado. Tudo bem?
+
+00:04:06.786 --> 00:04:13.942
+- Como é que nós fazemos o cálculo da taxa interna? Claro, pode fazer na HP, pode fazer no Excel. Mas
+
+00:04:13.942 --> 00:04:21.168
+- aqui é a forma para vocês entenderem. Nós temos aqui o investimento de 65 mil, que vai gerar o quê?
+
+00:04:21.168 --> 00:04:28.464
+- Esses fluxos de caixas futuros. 15, 20, 25, 30 e 35 para o investimento A. Perfeito. A nossa incógnita,
+
+00:04:28.464 --> 00:04:32.702
+- que é para cálculo da taxa interna de retorno, está aqui.
+
+00:04:32.866 --> 00:04:40.793
+- E a taxa interna de retorno, ou seja, quando que vou igualar? Qual a taxa que iguala, que me traz de
+
+00:04:40.793 --> 00:04:48.719
+- volta aquilo que eu investi no momento zero? Quando fazemos esse cálculo, a taxa interna de retorno
+
+00:04:48.719 --> 00:04:56.724
+- do A é 22,61% ao ano. Deixa ela aqui. Vamos ver a B. Fazendo o mesmo raciocínio para o investimento
+
+00:04:56.724 --> 00:05:02.846
+- B, ou seja, 150 de investimento, com previsão de 85 mil ano 1, 75 mil ano 2,
+
+00:05:03.426 --> 00:05:11.788
+- 40 mil ano 3, 30 ano 4 e 10 ano 5. Mesma coisa, incógnita é a nossa taxa, nós queremos calcular a
+
+00:05:11.788 --> 00:05:20.564
+- taxa interna de retorno desse investimento B, respeitando que cada uma das parcelas aqui previstas estão
+
+00:05:20.564 --> 00:05:28.843
+- sendo trazidas sempre a valor presente, quer dizer, esse é o conceito, pela taxa que nós queremos
+
+00:05:28.843 --> 00:05:32.734
+- calcular. E quando fazemos esse cálculo aqui,
+
+00:05:32.866 --> 00:05:41.715
+- chegamos que a taxa interna aqui é de 25,89% ao ano. Pronto, agora já conseguimos responder. Qual
+
+00:05:41.715 --> 00:05:50.652
+- o projeto que deve ser escolhido pela ótica da taxa interna de retorno? É aquele que gera a melhor
+
+00:05:50.652 --> 00:06:00.120
+- taxa, ou seja, vai devolver para o investidor um montante maior, correto? Então, obviamente, nós podemos
+
+00:06:00.120 --> 00:06:02.686
+- identificar que, na verdade,
+
+00:06:03.010 --> 00:06:10.777
+- tanto calcular a taxa interna como diante disso dizendo e também observando aqui o que está sendo
+
+00:06:10.777 --> 00:06:18.778
+- dito após os cálculos. Então nós calculamos que a taxa interna do A2261 e a do B2589 se no projeto
+
+00:06:18.778 --> 00:06:26.934
+- B o de maior retorno. Então esse aqui deveria ser escolhido. Tudo bem? Tranquilo? Veja como agora está
+
+00:06:26.934 --> 00:06:28.798
+- ficando bastante claro.

@@ -1,0 +1,33 @@
+{
+  "id": 477548,
+  "title": "Como fazer parte da Zona Franca de Manaus?",
+  "position": 16,
+  "duration": 786,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/494cfb11-27e4-48ff-97cd-767fb3647325/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/494cfb11-27e4-48ff-97cd-767fb3647325/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/494cfb11-27e4-48ff-97cd-767fb3647325/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/494cfb11-27e4-48ff-97cd-767fb3647325/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/494cfb11-27e4-48ff-97cd-767fb3647325/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

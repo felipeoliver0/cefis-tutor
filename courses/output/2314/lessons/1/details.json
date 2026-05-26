@@ -1,0 +1,33 @@
+{
+  "id": 465169,
+  "title": "Podcast - GTVe",
+  "position": 1,
+  "duration": 727,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9ff96f95-7d0c-44ab-9250-f8c93faf9cfc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ff96f95-7d0c-44ab-9250-f8c93faf9cfc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ff96f95-7d0c-44ab-9250-f8c93faf9cfc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ff96f95-7d0c-44ab-9250-f8c93faf9cfc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ff96f95-7d0c-44ab-9250-f8c93faf9cfc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

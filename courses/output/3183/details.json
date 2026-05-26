@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3183,
+    "title": "Benefícios e incentivos fiscais do Lucro Real",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de benefícios e incentivos fiscais no Lucro Real você vai aprender a identificar oportunidades de utilizar benefícios e incentivos fiscais nas empresas de qualquer segmento econômico, tributadas com base no Lucro Real através de método estruturado nas operações das empresas, para identificar oportunidades de aplicação dos incentivos fiscais. Você entenderá como efetuar a identificação de oportunidades de utilizar os benefícios fiscais, em cada empresa, por tipo de tributos, como e efetuar os cálculos, com fundamentação legislativa, preparação de relatório de apresentação e efetiva redução de carga tributária.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/125182c502675ade0e7722fb8e247b1d1728384314.jpg",
+    "goals": [
+      "Apresentar para os empresários decisores de cada empresa os benefícios fiscais e oportunidades de utilização."
+    ],
+    "teacher": {
+      "id": 483386,
+      "name": "RICARDO PRADO",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIBiWZEcL31dEGm4fQDN4Cq3TGt-BsNCOj91c6SwTQj58qlWO76=s96-c"
+    },
+    "duration": 15521,
+    "keywords": "benefícios;incentivos;lucro real;benefícios fiscais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 49,
+    "materialCount": 3,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 899,
+    "averageRating": 9.22,
+    "practiceAverage": 9.12,
+    "trailer": {
+      "id": "f9a3bf45-2a8a-434f-a5a7-3f9889a6a64e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f9a3bf45-2a8a-434f-a5a7-3f9889a6a64e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f9a3bf45-2a8a-434f-a5a7-3f9889a6a64e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f9a3bf45-2a8a-434f-a5a7-3f9889a6a64e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f9a3bf45-2a8a-434f-a5a7-3f9889a6a64e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-07-30T19:58:29.000Z",
+      "updatedAt": "2024-07-30T19:58:29.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-07-31T17:55:30.000Z",
+    "recordedAt": "2024-06-08T00:00:00.000Z",
+    "createdAt": "2024-06-11T17:24:31.000Z"
+  }
+}

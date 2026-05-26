@@ -1,0 +1,33 @@
+{
+  "id": 475961,
+  "title": "RAT ajustado",
+  "position": 15,
+  "duration": 231,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d1fd8166-463c-4f53-9b5b-06180cec48cd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1fd8166-463c-4f53-9b5b-06180cec48cd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1fd8166-463c-4f53-9b5b-06180cec48cd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1fd8166-463c-4f53-9b5b-06180cec48cd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1fd8166-463c-4f53-9b5b-06180cec48cd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

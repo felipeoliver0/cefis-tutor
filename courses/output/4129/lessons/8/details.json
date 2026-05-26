@@ -1,0 +1,33 @@
+{
+  "id": 482960,
+  "title": "Crises Geradas",
+  "position": 9,
+  "duration": 421,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b2de6d95-6539-4086-b031-cae5bcf69e6f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b2de6d95-6539-4086-b031-cae5bcf69e6f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b2de6d95-6539-4086-b031-cae5bcf69e6f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b2de6d95-6539-4086-b031-cae5bcf69e6f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b2de6d95-6539-4086-b031-cae5bcf69e6f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

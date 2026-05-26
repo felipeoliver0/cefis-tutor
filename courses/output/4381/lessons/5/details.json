@@ -1,0 +1,33 @@
+{
+  "id": 484303,
+  "title": "Fiscalização e cruzamento de dados",
+  "position": 5,
+  "duration": 262,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/92fab589-c4b6-462d-8750-5135fde0d8d9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92fab589-c4b6-462d-8750-5135fde0d8d9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92fab589-c4b6-462d-8750-5135fde0d8d9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92fab589-c4b6-462d-8750-5135fde0d8d9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92fab589-c4b6-462d-8750-5135fde0d8d9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2126,
+    "title": "MEI caminhoneiro",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de MEI caminhoneiro, você vai aprender a diferença entre MEI e o MEI caminhoneiro, faturamento, obrigações, exclusão do SIMEI, Conhecimento de Transporte Eletrônico (CT-e), Inscrição Estadual, ocupação e muitos outros pontos para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/9aa8fa5035cdabcb4efa0ea6daaaa8211728385883.jpg",
+    "goals": [
+      "Apresentar características e aplicações relativas ao MEI Caminhoneiro."
+    ],
+    "teacher": {
+      "id": 348403,
+      "name": "CAROLINA LOTT",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJgOeecbM7wYt4EwfvjinMILgTZYUTo2DSCMAyIjo-HoYf8_g=s96-c"
+    },
+    "duration": 1281,
+    "keywords": "MEI;MEI caminhoneiro;caminhoneiro",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 10,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 572,
+    "averageRating": 9.2,
+    "practiceAverage": 9.11,
+    "trailer": {
+      "id": "5bcbfecc-2bca-431f-9531-d6581c65e81c",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5bcbfecc-2bca-431f-9531-d6581c65e81c/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5bcbfecc-2bca-431f-9531-d6581c65e81c/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5bcbfecc-2bca-431f-9531-d6581c65e81c/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5bcbfecc-2bca-431f-9531-d6581c65e81c/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-07-08T16:21:11.000Z",
+      "updatedAt": "2022-07-08T16:21:10.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-08-05T11:00:00.000Z",
+    "recordedAt": "2022-06-28T00:00:00.000Z",
+    "createdAt": "2022-06-30T17:20:47.000Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3900,
+    "title": "REFORMA TRIBUTÁRIA - ZONA FRANCA E O IPI",
+    "subtitle": "2025",
+    "summary": "Com este curso você irá entender a lógica de incentivos da Zona Franca e analisar os impactos práticos da Reforma Tributária, com foco no IPI e na transição para o novo modelo.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/c14b930e-ac6b-4d0f-b52f-57653f1854bf-thumbnail.png",
+    "goals": [
+      "Capacitar o aluno a compreender a lógica de incentivos da Zona Franca de Manaus e a analisar os impactos práticos da Reforma Tributária, com ênfase nas mudanças relativas ao IPI e à transição para o novo modelo tributário nacional."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 4389,
+    "keywords": "IPI;Zona Franca de Manaus;REFORMA;reforma tributária;ZONA",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 15,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 847,
+    "averageRating": 9.35,
+    "practiceAverage": 9.27,
+    "trailer": {
+      "id": "4dad0e1c-619e-49da-b552-e694feede1af",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4dad0e1c-619e-49da-b552-e694feede1af/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4dad0e1c-619e-49da-b552-e694feede1af/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4dad0e1c-619e-49da-b552-e694feede1af/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4dad0e1c-619e-49da-b552-e694feede1af/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-31T15:49:31.000Z",
+      "updatedAt": "2025-07-31T15:49:30.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-07-31T15:45:33.000Z",
+    "recordedAt": "2025-07-17T00:00:00.000Z",
+    "createdAt": "2025-07-31T15:42:15.000Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "data": {
+    "id": 2469,
+    "title": "Gestão de Carreiras do Profissional Contábil",
+    "subtitle": "Fundamentos e aplicações",
+    "summary": "Neste curso prático você aprenderá, com base nas exigências do Mercado Contábil, características e responsabilidades relativas ao gerenciamento de carreiras do profissional contábil. Entenderá desde a evolução dos serviços, até pontos concernentes ao Projeto SPED, atuação nas empresas, valores institucionais, níveis de ocupação, empreendedorismo, marketing e relacionamento, gestão da qualidade, recursos humanos, estágio, analista, especialista e muitos outros pontos para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/52157ae270df01d2b107e06dd16e16061728428012.jpg",
+    "goals": [
+      "Apresentar aspectos práticos relativos à gestão de carreiras do profissional contábil."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 3391,
+    "keywords": "gestão de carreiras;gestão;carreiras;performance;carreira",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 13,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 417,
+    "averageRating": 9.21,
+    "practiceAverage": 9.15,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-02-24T18:33:00.000Z",
+    "recordedAt": "2023-02-08T00:00:00.000Z",
+    "createdAt": "2023-02-08T13:53:36.000Z"
+  }
+}

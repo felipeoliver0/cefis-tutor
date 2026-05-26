@@ -1,0 +1,393 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.940
+tem várias configurações aqui, por exemplo,
+
+2
+00:00:01.950 --> 00:00:05.780
+aqui eu tenho detalhado todas as portas de rede que esse servidor tem.
+
+3
+00:00:05.789 --> 00:00:08.979
+Então esse servidor aqui tem nove portas de rede,
+
+4
+00:00:08.989 --> 00:00:13.590
+tem as redes que estão em Bond que tá uma conectada na outra, Então assim entendeu?
+
+5
+00:00:13.600 --> 00:00:18.979
+Você descreve o seu servidor nesse software e aí não precisa perguntar pro Jean,
+
+6
+00:00:18.989 --> 00:00:20.159
+é só você acessar o SOF
+
+7
+00:00:21.370 --> 00:00:26.500
+facilita, entendeu exatamente eh então legal,
+
+8
+00:00:26.510 --> 00:00:29.620
+Mas o que interessa pra gente aqui é esse cara aqui Oh o
+
+9
+00:00:29.629 --> 00:00:31.879
+i p que a gente não vai acessar isso como eu falei,
+
+10
+00:00:31.889 --> 00:00:33.340
+a gente vai acessar aquele outro ali que
+
+11
+00:00:33.349 --> 00:00:35.459
+já tem menos que tem recursos mais disponível.
+
+12
+00:00:35.470 --> 00:00:37.000
+Esse aqui, o s oito
+
+13
+00:00:37.650 --> 00:00:38.139
+beleza,
+
+14
+00:00:38.150 --> 00:00:40.599
+Se eu acessar esse i P aqui não vai funcionar
+
+15
+00:00:40.610 --> 00:00:44.180
+por quê o prox roda em uma porta específica?
+
+16
+00:00:44.189 --> 00:00:47.740
+Ele não roda na porta oitenta. Se eu acessar aqui, ele vai acessar a porta oitenta.
+
+17
+00:00:47.750 --> 00:00:50.459
+Então o que que tá faltando essa documentação falar?
+
+18
+00:00:50.470 --> 00:00:53.340
+Qual que é a porta que o prox roda? Eu sei, entendeu?
+
+19
+00:00:53.349 --> 00:00:59.119
+Então teria que perguntar pra mim. Mas aos poucos a gente vai
+
+20
+00:00:59.389 --> 00:01:02.099
+e não dá pra colocar ainda, Dá não,
+
+21
+00:01:02.110 --> 00:01:06.519
+a gente pode pôr aqui em vários lugares aqui a porta é porque essa confira de i P aqui.
+
+22
+00:01:06.529 --> 00:01:09.599
+Ela não é específica pra você falar onde uma aplicação tá rodando.
+
+23
+00:01:09.610 --> 00:01:13.559
+Então aqui não tem como. Mas tem vários lugares aqui que dá pra você colocar.
+
+24
+00:01:13.569 --> 00:01:17.879
+Confira adicionais, por exemplo, aqui no Jor não, Eu,
+
+25
+00:01:17.889 --> 00:01:20.800
+eu não sei se você já conhece o conceito de Jor, não,
+
+26
+00:01:20.809 --> 00:01:23.400
+Mas o Jor não é como se fosse um histórico de vida do recurso.
+
+27
+00:01:23.410 --> 00:01:26.860
+Então, se eu fui lá nesse nesse, nesse servidor aqui
+
+28
+00:01:27.449 --> 00:01:29.819
+e troquei a memória dele,
+
+29
+00:01:29.830 --> 00:01:33.269
+eu posso vir aqui no Journal categorizar ele aqui com
+
+30
+00:01:33.279 --> 00:01:36.139
+alguma coisa e inscrever aqui no dia cinco do.
+
+31
+00:01:36.150 --> 00:01:44.000
+Não sei o que eu fui lá e troquei a memória e tal tá salvo pra sempre, aqui,
+
+32
+00:01:44.010 --> 00:01:48.319
+no registro desse cara
+
+33
+00:01:49.680 --> 00:01:53.529
+também. Exatamente isso sim, isso exatamente é.
+
+34
+00:01:53.540 --> 00:01:56.900
+É um registro histórico exatamente então, por exemplo,
+
+35
+00:01:56.910 --> 00:02:03.260
+se eu acessar aqui oh inclusive já tem até aqui Oh, a porta é essa aqui, oito mil e seis
+
+36
+00:02:03.489 --> 00:02:04.830
+e pronto, não precisa
+
+37
+00:02:05.739 --> 00:02:07.389
+jogar no google,
+
+38
+00:02:07.400 --> 00:02:11.850
+Porta do Pro XX já vai ter até o Snipe lá um número gigante oito mil e seis
+
+39
+00:02:12.720 --> 00:02:13.610
+estamos no XX.
+
+40
+00:02:13.619 --> 00:02:18.669
+Olha o que é web Cê acessa aqui não precisa conectar no Windows Server, Ave Maria,
+
+41
+00:02:18.679 --> 00:02:23.309
+Meu Deus aí então vou conectar aqui a senha tá lá no né?
+
+42
+00:02:23.990 --> 00:02:24.860
+Conectei,
+
+43
+00:02:27.360 --> 00:02:29.350
+Okay não tem uma subscrição vaga
+
+44
+00:02:30.070 --> 00:02:32.139
+Essa é a interface do pro Xbox,
+
+45
+00:02:32.899 --> 00:02:37.789
+então tem várias coisas aqui que são interessantes assim, né?
+
+46
+00:02:37.800 --> 00:02:42.809
+A gente não vai passar em todas porque é muita coisa, mas um detalhe a gente usa a porta
+
+47
+00:02:44.179 --> 00:02:51.070
+desse servidor não daria pra gente redirecionar dá também,
+
+48
+00:02:51.080 --> 00:02:56.070
+mas assim o promo ele usa essas portas dele pra algumas coisas internas lá.
+
+49
+00:02:56.080 --> 00:02:59.600
+Então não, não sei se é só mudar assim já vai funcionar então mas daria sim,
+
+50
+00:02:59.610 --> 00:03:00.250
+com certeza
+
+51
+00:03:01.080 --> 00:03:03.050
+eh, então Beleza essa aqui é a interface.
+
+52
+00:03:03.059 --> 00:03:05.690
+Quando você abre o XX de cara ele já dá algumas
+
+53
+00:03:05.699 --> 00:03:08.929
+informações aqui do que que tá rodando aqui algumas coisas,
+
+54
+00:03:08.940 --> 00:03:13.210
+mas o interessante pra gente ver os recursos dele tá aqui no sumário.
+
+55
+00:03:13.220 --> 00:03:14.929
+Então eu clico no sumário.
+
+56
+00:03:14.940 --> 00:03:17.809
+Eu tenho que clicar aqui também no p V e na verdade
+
+57
+00:03:17.820 --> 00:03:20.960
+lembra que eu falei que o promo X é hiper convergente,
+
+58
+00:03:20.970 --> 00:03:24.850
+indica que eu posso configurar vários servidores nesse aqui.
+
+59
+00:03:24.860 --> 00:03:27.429
+Eu só tenho um configurado que é esse p v e três
+
+60
+00:03:28.020 --> 00:03:30.240
+então esse cara aqui é meu servidor físico.
+
+61
+00:03:30.250 --> 00:03:35.850
+De fato é aquele que eu uso de memória aqui Oh
+
+62
+00:03:36.500 --> 00:03:43.940
+é bem mais elaborado aqui oh time, não, não, isso aqui é cê não, tá? Tá por fora?
+
+63
+00:03:43.949 --> 00:03:47.580
+Olha que o uso de R a nossa cê tá usando menos do que eu uso do
+
+64
+00:03:47.589 --> 00:03:52.270
+meu computador exatamente olha que espaço em disco que
+
+65
+00:03:52.279 --> 00:03:54.429
+eu tenho aqui no HD do sistema operacional.
+
+66
+00:03:54.440 --> 00:03:55.929
+Se eu tô usando Suape,
+
+67
+00:03:56.169 --> 00:04:04.059
+olha aqui o tipo do qual que é o processador que tá lá não é servidor físico é um Intel
+
+68
+00:04:04.070 --> 00:04:09.339
+Z cinquenta e seis setenta e já te falo que não faço ideia o que que é isso aqui?
+
+69
+00:04:09.350 --> 00:04:11.520
+Não? Pra falar a verdade
+
+70
+00:04:12.130 --> 00:04:18.450
+gráfico do uso de c p u gráfico do uso aqui de da, da carga do de memória, né?
+
+71
+00:04:18.459 --> 00:04:21.019
+Que é relacionada a i o uso de memória,
+
+72
+00:04:21.029 --> 00:04:24.000
+então tá aqui sessenta e quatro giga tô usando oito aqui.
+
+73
+00:04:24.010 --> 00:04:28.899
+Tráfego nesse nesse servidor então tranquilo o
+
+74
+00:04:28.910 --> 00:04:30.500
+que que tem rodando aqui nesse servidor?
+
+75
+00:04:30.510 --> 00:04:32.700
+Gente, se eu clicar nessa, setinha aqui Oh!
+
+76
+00:04:32.709 --> 00:04:37.980
+Uma aplicação Olha aqui O único única coisa que tá rodando
+
+77
+00:04:37.989 --> 00:04:42.000
+nesse servidor pra xx é o nosso sistema de live,
+
+78
+00:04:42.910 --> 00:04:45.100
+então essa aqui já é uma virtual Machine tá
+
+79
+00:04:45.109 --> 00:04:48.859
+vendo pra monitorar a máquina separada exatamente aqui,
+
+80
+00:04:48.869 --> 00:04:51.600
+Oh, mesma coisa sumário dessa máquina virtual.
+
+81
+00:04:51.609 --> 00:04:53.679
+Então eu sei que a minha máquina virtual que tá rodando
+
+82
+00:04:53.690 --> 00:04:57.380
+o sistema de videoconferência tá aqui usando zero ponto vinte.
+
+83
+00:04:57.390 --> 00:05:01.500
+Ela tem vinte c P U S anexadas com ela tá usando nada
+
+84
+00:05:01.850 --> 00:05:04.040
+memória ela tá com cinquenta e seis giga, ou seja,
+
+85
+00:05:04.049 --> 00:05:07.019
+a memória tá tudo pra ela e eu não tô usando nada.
+
+86
+00:05:07.029 --> 00:05:12.500
+Dá pra? Eh configurar escalabilidade pra não deixar esses recursos parados.
+
+87
+00:05:12.510 --> 00:05:16.119
+Na hora que ele a gente pegar cinquenta por cento, ele ia aumentando.
+
+88
+00:05:16.940 --> 00:05:21.559
+Cê fala a nível do da máquina virtual nisso não existe em CD,
+
+89
+00:05:21.570 --> 00:05:26.250
+não é a mesma coisa quando você vai criar uma máquina virtual
+
+90
+00:05:26.260 --> 00:05:29.549
+lá na W S sabe que você seleciona o tipo da máquina?
+
+91
+00:05:29.559 --> 00:05:32.470
+Na verdade, cê tá escolhendo o C P u e a memória dela.
+
+92
+00:05:32.480 --> 00:05:34.649
+E pra você mudar, você tem que desligar a máquina.
+
+93
+00:05:35.459 --> 00:05:37.760
+Aqui é a mesma coisa. Se você quiser mudar, você desliga a máquina.
+
+94
+00:05:37.769 --> 00:05:45.019
+Então esse conceito de aumentar demanda não existe. Então, desse jeito, não.
+
+95
+00:05:45.029 --> 00:05:51.589
+Desse jeito eu falo de aumentar o C P u e A R um. Desse jeito, não,
+
+96
+00:05:51.709 --> 00:05:55.170
+isso
+
+97
+00:05:55.450 --> 00:06:08.850
+isso exatamente a escalabilidade vai ser sempre isso vo!
+
+98
+00:06:08.859 --> 00:06:15.279
+E um é você criar outra máquina virtual e fazer um ba entre elas. É isso. É isso.

@@ -1,0 +1,33 @@
+{
+  "id": 457822,
+  "title": "Capital Social - Aspectos Jurídicos do Aumento e da Redução",
+  "position": 5,
+  "duration": 343,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f4498738-ceaa-4632-afcb-d2f844279e07/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f4498738-ceaa-4632-afcb-d2f844279e07/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f4498738-ceaa-4632-afcb-d2f844279e07/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f4498738-ceaa-4632-afcb-d2f844279e07/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f4498738-ceaa-4632-afcb-d2f844279e07/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

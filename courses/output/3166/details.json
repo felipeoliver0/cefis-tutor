@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3166,
+    "title": "DEFIS - Declaração de informações Socioeconômicas e Fiscais",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Declaração de informações Socioeconômicas e Fiscais (DEFIS), você aprenderá todo o passo a passo para a elaboração dessa declaração que deve ser entregue à Receita Federal. Você entenderá, desde o conceito, até a aspectos como quem deve entregar, prazo de entrega, tipos de declaração, informações prestadas, retificação, acesso ao PGDAS/DEFIS, transmissão, recibo de entrega, consulta da declaração e muitos outros pontos para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/916ea26818d81f4045bc16d7e66356061728384882.jpg",
+    "goals": [
+      "Apresentar aos alunos todos os procedimentos e características para elaboração da DEFIS (Declaração de informações Socioeconômicas e Fiscais)."
+    ],
+    "teacher": {
+      "id": 418635,
+      "name": "JOÃO OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1595429175.jpeg"
+    },
+    "duration": 4922,
+    "keywords": "defis;Declaração de informações Socioeconômicas e Fiscais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 22,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1278,
+    "averageRating": 9.28,
+    "practiceAverage": 9.25,
+    "trailer": {
+      "id": "aebd1395-e684-4d7b-a5d2-1c071368d8d4",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/aebd1395-e684-4d7b-a5d2-1c071368d8d4/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/aebd1395-e684-4d7b-a5d2-1c071368d8d4/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/aebd1395-e684-4d7b-a5d2-1c071368d8d4/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/aebd1395-e684-4d7b-a5d2-1c071368d8d4/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-07-02T06:43:37.000Z",
+      "updatedAt": "2024-07-02T06:43:37.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-07-02T11:18:53.000Z",
+    "recordedAt": "2024-05-25T00:00:00.000Z",
+    "createdAt": "2024-06-01T18:30:53.000Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2172,
+    "title": "Ressarcimento de IPI",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático sobre Ressarcimento IPI você aprenderá aspectos como crédito de IPI, ressarcimento, restituição e compensação, PER x DCOMP, elaboração de PER e de DCOMP, bem como muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/90a4ed25e37b5ef432cc49d3d34b69bb1658779502.jpg",
+    "goals": [
+      "Demonstrar na prática os procedimentos para ressarcimento de IPI, bem como suas características."
+    ],
+    "teacher": {
+      "id": 218426,
+      "name": "Davi Gobatto",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKjK6eGgSqUFZwr8FsXx3UjZtAs6qOERxVFoRbznngRUrSW9iQIFg=s96-c"
+    },
+    "duration": 3642,
+    "keywords": "IPI;imposto sobre produtos industrializados;ressarcimento;ressarcimento IPI;PERDCOMP",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 385,
+    "averageRating": 9.25,
+    "practiceAverage": 9.19,
+    "trailer": {
+      "id": "ff79c1b5-0978-4541-83ed-5d27272a05d7",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ff79c1b5-0978-4541-83ed-5d27272a05d7/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ff79c1b5-0978-4541-83ed-5d27272a05d7/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ff79c1b5-0978-4541-83ed-5d27272a05d7/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ff79c1b5-0978-4541-83ed-5d27272a05d7/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-08-06T13:47:03.000Z",
+      "updatedAt": "2022-08-06T13:47:02.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-08-09T19:20:11.000Z",
+    "recordedAt": "2022-07-23T00:00:00.000Z",
+    "createdAt": "2022-07-25T17:00:30.000Z"
+  }
+}

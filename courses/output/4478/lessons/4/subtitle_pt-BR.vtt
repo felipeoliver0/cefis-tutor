@@ -1,0 +1,493 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:10.279
+O sistema não interpreta a lei, o sistema ele executa regras, ou seja, essas regras elas precisam ser parametrizadas,
+
+3
+00:00:10.279 --> 00:00:16.879
+essas regras precisam ser olhadas as notas técnicas, olhado o MOC, que é o manual de orientação,
+
+4
+00:00:16.879 --> 00:00:21.059
+e trazer esse procedimento para dentro dos sistemas.
+
+5
+00:00:21.059 --> 00:00:26.320
+Sistemas esses que são contábeis, sistemas operacionais, emissores,
+
+6
+00:00:26.320 --> 00:00:32.659
+e que talvez você tenha um grande desafio por aí, porque existem sistemas que ainda não lê o XML,
+
+7
+00:00:32.659 --> 00:00:39.159
+não estão preparados para essa estrutura, mas o ponto é, o sistema ele executa regras,
+
+8
+00:00:39.159 --> 00:00:44.679
+então se faz a necessidade de a gente executar os parâmetros da melhor forma.
+
+9
+00:00:44.679 --> 00:00:51.539
+Se a regra estiver errada, o erro se repete automaticamente todos os fechamentos.
+
+10
+00:00:51.539 --> 00:00:54.479
+Se você atua na área fiscal, você sabe disso.
+
+11
+00:00:54.479 --> 00:00:56.320
+Nós estamos vivenciando o SPED fiscal,
+
+12
+00:00:56.320 --> 00:01:04.000
+o XML há muito tempo, e se hoje a gente não traz uma rastreadibilidade de informação lá no sistema,
+
+13
+00:01:04.000 --> 00:01:10.200
+isso quer dizer que todos os meses você entrega o SPED fiscal,
+
+14
+00:01:10.200 --> 00:01:13.000
+todos os meses você entrega o FD Contribuições,
+
+15
+00:01:13.000 --> 00:01:22.379
+e talvez você esteja enfrentando um grande desafio, porque o seu sistema não foi parametrizado corretamente.
+
+16
+00:01:22.379 --> 00:01:24.640
+Só que nesse sistema tributário, as obrigações acessórias que foram feitas,
+
+17
+00:01:24.640 --> 00:01:25.620
+só que nesse sistema tributário, as obrigações acessórias que foram feitas,
+
+18
+00:01:25.620 --> 00:01:26.319
+só que nesse sistema tributário, as obrigações acessórias que foram feitas,
+
+19
+00:01:26.319 --> 00:01:30.920
+foram criadas como, por exemplo, o SPED fiscal, o FD Contribuições,
+
+20
+00:01:30.920 --> 00:01:35.959
+eles são formados por meio de um arquivo magnético chamado TXT.
+
+21
+00:01:35.959 --> 00:01:41.140
+Esse TXT, ele pode ser alterado dentro de um bloco de notas,
+
+22
+00:01:41.140 --> 00:01:45.879
+dentro até mesmo de ferramentas que abrem esse arquivo,
+
+23
+00:01:45.879 --> 00:01:49.879
+dentro do próprio arquivo TXT magnético,
+
+24
+00:01:49.879 --> 00:01:54.239
+ou até mesmo se você pegar esse TXT e incluir lá no programa validador,
+
+25
+00:01:54.239 --> 00:01:55.620
+você também tem,
+
+26
+00:01:55.620 --> 00:01:56.719
+você também tem,
+
+27
+00:01:56.719 --> 00:01:59.260
+como editar a informação.
+
+28
+00:01:59.260 --> 00:02:01.760
+E por que eu estou trazendo essa reflexão para vocês?
+
+29
+00:02:01.760 --> 00:02:06.140
+Porque nós, talvez, vamos passar por uma dificuldade
+
+30
+00:02:06.140 --> 00:02:10.060
+quando vamos lidar com essas novas obrigações acessórias.
+
+31
+00:02:10.060 --> 00:02:14.340
+Porque hoje, se existe um problema na apuração,
+
+32
+00:02:14.340 --> 00:02:17.539
+se existe um problema na escrituração fiscal,
+
+33
+00:02:17.539 --> 00:02:20.419
+na hora da entrega do SPED fiscal,
+
+34
+00:02:20.419 --> 00:02:22.680
+se você encontrar esse problema,
+
+35
+00:02:22.680 --> 00:02:25.419
+pode ser que não dê tempo de fazer o parâmetro, pode ser que não dê tempo de fazer o parâmetro,
+
+36
+00:02:25.419 --> 00:02:29.039
+lá no sistema operacional do seu contribuinte.
+
+37
+00:02:29.039 --> 00:02:32.180
+E você já está acostumado
+
+38
+00:02:32.180 --> 00:02:34.180
+a lidar com essas informações
+
+39
+00:02:34.180 --> 00:02:36.680
+no próprio programa validador.
+
+40
+00:02:36.680 --> 00:02:39.479
+Atirar a primeira pedra que nunca fez isso, né?
+
+41
+00:02:39.479 --> 00:02:44.580
+Principalmente, você que já lidou, então, com a transição do SPED fiscal.
+
+42
+00:02:44.580 --> 00:02:46.000
+Lá atrás, pessoal,
+
+43
+00:02:46.000 --> 00:02:50.080
+antes da gente passar por qualquer tipo de validação,
+
+44
+00:02:50.080 --> 00:02:51.520
+até mesmo o programa validador
+
+45
+00:02:51.520 --> 00:02:54.120
+não validava todas as inconsistências.
+
+46
+00:02:54.120 --> 00:02:55.240
+Então, quando a gente passou
+
+47
+00:02:55.240 --> 00:02:56.719
+por essa transição, o que aconteceu?
+
+48
+00:02:57.500 --> 00:02:59.319
+Criamos uma nova
+
+49
+00:02:59.319 --> 00:03:01.080
+habilidade. Eu nunca
+
+50
+00:03:01.080 --> 00:03:03.300
+soube abrir um TXT e
+
+51
+00:03:03.300 --> 00:03:05.419
+alterar, só que eu vi uma necessidade,
+
+52
+00:03:05.560 --> 00:03:07.520
+eu vi um problema, e aí o que aconteceu?
+
+53
+00:03:08.379 --> 00:03:09.419
+Eu comecei
+
+54
+00:03:09.419 --> 00:03:11.539
+lá atrás a abrir o TXT,
+
+55
+00:03:11.919 --> 00:03:13.319
+a entender os caracteres,
+
+56
+00:03:13.479 --> 00:03:15.120
+a entender o que é um pipe.
+
+57
+00:03:16.060 --> 00:03:17.259
+E se você passou por essa
+
+58
+00:03:17.259 --> 00:03:19.199
+mesma dificuldade, você deve
+
+59
+00:03:19.199 --> 00:03:20.740
+saber o que eu estou falando.
+
+60
+00:03:21.340 --> 00:03:23.099
+E caso você não tenha essa expertise
+
+61
+00:03:23.099 --> 00:03:24.979
+de abrir o TXT, tudo bem.
+
+62
+00:03:25.400 --> 00:03:27.039
+Mas você sabe que o programa
+
+63
+00:03:27.039 --> 00:03:29.080
+validador, ele edita. Só que,
+
+64
+00:03:29.219 --> 00:03:31.060
+pessoal, na nova era, o
+
+65
+00:03:31.060 --> 00:03:32.300
+fisco vem criando
+
+66
+00:03:32.300 --> 00:03:34.860
+obrigações acessórias que
+
+67
+00:03:34.860 --> 00:03:36.819
+vocês só vão enxergar.
+
+68
+00:03:37.159 --> 00:03:38.900
+Como eu disse para vocês, da mesma
+
+69
+00:03:38.900 --> 00:03:40.960
+forma que você hoje olha o
+
+70
+00:03:40.960 --> 00:03:42.560
+seu extrato bancário
+
+71
+00:03:42.560 --> 00:03:45.020
+e vê as
+
+72
+00:03:45.020 --> 00:03:46.879
+transações financeiras
+
+73
+00:03:46.879 --> 00:03:48.060
+sem
+
+74
+00:03:48.060 --> 00:03:50.900
+conseguir alterar aquilo
+
+75
+00:03:50.900 --> 00:03:51.819
+que já foi feito,
+
+76
+00:03:52.759 --> 00:03:54.680
+a apuração assistida, ela é da
+
+77
+00:03:54.680 --> 00:03:55.419
+mesma forma.
+
+78
+00:03:56.259 --> 00:03:58.500
+Se um XML foi emitido
+
+79
+00:03:58.500 --> 00:04:00.240
+de forma incorreta,
+
+80
+00:04:00.819 --> 00:04:02.759
+isso quer dizer que ele já foi tratado
+
+81
+00:04:02.759 --> 00:04:04.860
+a concessão, autorizado pela CFAZ,
+
+82
+00:04:05.520 --> 00:04:06.759
+e isso quer dizer
+
+83
+00:04:06.759 --> 00:04:08.539
+que a gente não vai conseguir
+
+84
+00:04:08.539 --> 00:04:10.900
+alterar ele por meio do arquivo.
+
+85
+00:04:11.539 --> 00:04:12.599
+Não tem como a gente abrir
+
+86
+00:04:12.599 --> 00:04:14.840
+um XML e editar
+
+87
+00:04:14.840 --> 00:04:16.079
+se ele já foi assinado.
+
+88
+00:04:16.660 --> 00:04:18.779
+É necessário a gente pensar nessa cultura
+
+89
+00:04:18.779 --> 00:04:19.980
+que a gente já tem,
+
+90
+00:04:20.540 --> 00:04:22.800
+porque senão, pessoal, a gente vai acabar
+
+91
+00:04:22.800 --> 00:04:24.660
+sofrendo na transição,
+
+92
+00:04:24.680 --> 00:04:26.560
+A nota fiscal eletrônica,
+
+93
+00:04:26.699 --> 00:04:29.160
+ela possui algumas formas e eventos
+
+94
+00:04:29.160 --> 00:04:31.060
+para a gente conseguir ajustar
+
+95
+00:04:31.060 --> 00:04:32.360
+uma operação.
+
+96
+00:04:33.120 --> 00:04:34.839
+Cancelamento, carta de
+
+97
+00:04:34.839 --> 00:04:36.759
+correção, nota fiscal
+
+98
+00:04:36.759 --> 00:04:38.779
+complementar, mas lembre-se,
+
+99
+00:04:39.319 --> 00:04:40.860
+quando falamos de ajustes,
+
+100
+00:04:40.939 --> 00:04:42.660
+quando falamos de muitos eventos
+
+101
+00:04:42.660 --> 00:04:44.660
+vinculados a um documento fiscal eletrônico,
+
+102
+00:04:45.259 --> 00:04:46.600
+nós também estamos
+
+103
+00:04:46.600 --> 00:04:48.740
+dando a chance do fisco
+
+104
+00:04:48.740 --> 00:04:50.620
+olhar de outra forma
+
+105
+00:04:50.620 --> 00:04:51.959
+para o nosso contribuinte.
+
+106
+00:04:51.959 --> 00:04:54.000
+É como se a gente estivesse
+
+107
+00:04:54.000 --> 00:04:54.660
+batendo na porta.
+
+108
+00:04:54.680 --> 00:04:56.819
+Do fisco dizendo
+
+109
+00:04:56.819 --> 00:04:58.680
+existe uma inconsistência aqui.
+
+110
+00:04:59.420 --> 00:05:00.720
+Se eu emito dentro
+
+111
+00:05:00.720 --> 00:05:01.600
+de um fechamento
+
+112
+00:05:01.600 --> 00:05:04.279
+mais de 60%
+
+113
+00:05:04.279 --> 00:05:06.819
+das notas fiscais estão sendo emitidas
+
+114
+00:05:06.819 --> 00:05:08.899
+notas fiscais complementares,
+
+115
+00:05:09.180 --> 00:05:10.120
+cartas de correção,
+
+116
+00:05:11.000 --> 00:05:12.639
+provavelmente você esteja
+
+117
+00:05:12.639 --> 00:05:14.319
+num risco alto
+
+118
+00:05:14.319 --> 00:05:16.680
+de autuação, de fiscalização.
+
+119
+00:05:17.680 --> 00:05:18.759
+Porque é uma forma
+
+120
+00:05:18.759 --> 00:05:20.519
+de você demonstrar para o fisco
+
+121
+00:05:20.519 --> 00:05:22.759
+que existe um problema. Ou seja,
+
+122
+00:05:22.759 --> 00:05:24.660
+a parametrização incorreta,
+
+123
+00:05:24.680 --> 00:05:26.759
+vira um passivo até mesmo
+
+124
+00:05:26.759 --> 00:05:28.240
+silencioso.

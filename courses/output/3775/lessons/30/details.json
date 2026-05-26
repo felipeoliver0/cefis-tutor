@@ -1,0 +1,33 @@
+{
+  "id": 477668,
+  "title": "Segurança na Cadeia de Suprimentos",
+  "position": 30,
+  "duration": 302,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a948ca9e-588a-4856-ae79-49ad4e2a2aa8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a948ca9e-588a-4856-ae79-49ad4e2a2aa8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a948ca9e-588a-4856-ae79-49ad4e2a2aa8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a948ca9e-588a-4856-ae79-49ad4e2a2aa8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a948ca9e-588a-4856-ae79-49ad4e2a2aa8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 460390,
+  "title": "Adesão voluntária",
+  "position": 17,
+  "duration": 71,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7780ed3c-91d7-4071-a3b0-13f3180af78d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7780ed3c-91d7-4071-a3b0-13f3180af78d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7780ed3c-91d7-4071-a3b0-13f3180af78d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7780ed3c-91d7-4071-a3b0-13f3180af78d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7780ed3c-91d7-4071-a3b0-13f3180af78d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

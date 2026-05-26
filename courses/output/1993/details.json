@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1993,
+    "title": "Avaliação de desempenho",
+    "subtitle": "decisão baseada em resultados",
+    "summary": "Neste curso prático de avaliação de desempenho, você aprenderá como preparar, aplicar, analisar e tomar decisões com base em resultados. Desenvolverá uma visão sistêmica da avaliação de desempenho integrada aos demais instrumentos de gestão de pessoas, terá uma visão geral os instrumentos e da metodologia adotada para o desenvolvimento e implantação dessa sistemática de avaliação, dentre muitos outros pontos importantes, para que você aplique os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/45909920b16c713140cfb7a50dd62eeb1511981207.jpg",
+    "goals": [
+      "Apresentar uma visão sistêmica da avaliação de desempenho"
+    ],
+    "teacher": {
+      "id": 268532,
+      "name": "SÉRGIO LOPES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1633790201.jpeg"
+    },
+    "duration": 5824,
+    "keywords": "avaliação de desempenho;desempenho",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 23,
+    "materialCount": 6,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 394,
+    "averageRating": 9.28,
+    "practiceAverage": 9.3,
+    "trailer": {
+      "id": "5b84ce9f-5c9b-4dc7-a06e-e47eeb0bf760",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5b84ce9f-5c9b-4dc7-a06e-e47eeb0bf760/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5b84ce9f-5c9b-4dc7-a06e-e47eeb0bf760/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5b84ce9f-5c9b-4dc7-a06e-e47eeb0bf760/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5b84ce9f-5c9b-4dc7-a06e-e47eeb0bf760/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-03-10T13:53:17.000Z",
+      "updatedAt": "2022-03-10T13:53:17.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-03-21T19:18:46.000Z",
+    "recordedAt": "2022-02-22T00:00:00.000Z",
+    "createdAt": "2022-02-23T12:04:29.000Z"
+  }
+}

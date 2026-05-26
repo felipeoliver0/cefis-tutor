@@ -1,0 +1,33 @@
+{
+  "id": 475332,
+  "title": "Documento Eletrônico, o que mudou?",
+  "position": 4,
+  "duration": 108,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/95f61cac-7a32-4839-b31b-f9ffa079d278/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/95f61cac-7a32-4839-b31b-f9ffa079d278/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/95f61cac-7a32-4839-b31b-f9ffa079d278/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/95f61cac-7a32-4839-b31b-f9ffa079d278/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/95f61cac-7a32-4839-b31b-f9ffa079d278/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

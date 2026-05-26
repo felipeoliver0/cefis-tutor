@@ -1,0 +1,85 @@
+WEBVTT
+
+00:00:00.514 --> 00:00:08.821
+- O CECLESTRIB é o código que identifica a classificação tributária do IBS e do CBS, sendo os três
+
+00:00:08.821 --> 00:00:16.966
+- primeiros dígitos idênticos ao do CST. Ele é um código com seis dígitos criado para representar
+
+00:00:16.966 --> 00:00:25.031
+- de forma padronizada e parametrizada a base legal da operação, conforme os dispostos dispositivos
+
+00:00:25.031 --> 00:00:25.918
+- da LC 214.
+
+00:00:26.082 --> 00:00:33.243
+- O CST do IBS e da CBS e o C Class Trib serão utilizados no grupo UBI, que é aquele grupo da NFE que
+
+00:00:33.243 --> 00:00:40.825
+- demonstra os novos tributos, trazendo informações dos tributos do IBS e da CBS e também do IES, trazendo
+
+00:00:40.825 --> 00:00:48.408
+- maior clareza na aplicação dos tributos e benefícios fiscais. Aqui, pessoal, eu trago muito referência,
+
+00:00:48.408 --> 00:00:55.358
+- né, quando a gente fala do C Class Trib, com relação ali semelhante ao que a gente tem no CBNF.
+
+00:00:55.554 --> 00:01:02.022
+- Você já trabalhou com o CBNF? Conta aqui pra nós. O CBNF, ele não traz ali uma especificação que
+
+00:01:02.022 --> 00:01:08.552
+- eu coloco no XML, são alguns estados que tem, outros não, né, que é o Código do Benefício Fiscal.
+
+00:01:08.552 --> 00:01:15.020
+- Então, nós temos estados que tem o CBNF e ele traz ali pra gente o artigo, a situação tributária,
+
+00:01:15.020 --> 00:01:19.102
+- ele traz uma especificação da tributação daquela operação.
+
+00:01:19.554 --> 00:01:26.851
+- Aqui o C Class Trib vai fazer a mesma coisa, vai trazer um detalhamento da classificação tributária
+
+00:01:26.851 --> 00:01:33.935
+- daquele item. Então ele vai trazer maior clareza na identificação daquela operação. Importante
+
+00:01:33.935 --> 00:01:41.019
+- reforçar que tanto o CST quanto o C Class Trib serão utilizados nos documentos fiscais vinculados
+
+00:01:41.019 --> 00:01:47.678
+- ao ICMS, como por exemplo a NFE e o CTE, como também na nossa Calde-Serviço. Para cada CST,
+
+00:01:47.778 --> 00:01:55.384
+- haverá um Ciclastribe correspondente vinculado à legislação específica, ou seja, atrelado de fato
+
+00:01:55.384 --> 00:02:03.359
+- àquela operação. Essa operação é beneficiada, é monofásica, é presumida, ela tem ali uma redução
+
+00:02:03.359 --> 00:02:10.226
+- de 60%, de 30%. Que operação é essa? Qual que é a tributação dessa operação? Então,
+
+00:02:10.226 --> 00:02:15.838
+- essa continuação, essa abertura do Ciclastribe vem trazer isso para nós.
+
+00:02:16.034 --> 00:02:18.814
+- Essa tabela pode ser acessada em dois locais.
+
+00:02:18.914 --> 00:02:25.690
+- tanto pela portal do NF, como também nas tabelas de classificações. Vou deixar para você os materiais
+
+00:02:25.690 --> 00:02:32.146
+- complementares também, para que você possa baixar, para que você possa fazer as suas aderências.
+
+00:02:32.146 --> 00:02:38.794
+- Contem para nós como são as suas aderências, das suas operações com o CECLA STRIB, os seus ajustes
+
+00:02:38.794 --> 00:02:45.633
+- que você faz hoje na apuração, criando ajuste, criando ali E-111, por exemplo, dentro das notas fiscais
+
+00:02:45.633 --> 00:02:48.126
+- de débito de crédito, observando que
+
+00:02:48.450 --> 00:02:56.377
+- não poderei mais acessar a minha apuração e criar um ajuste. Terei que fazer isso através da emissão
+
+00:02:56.377 --> 00:02:57.200
+- de um XML.

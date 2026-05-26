@@ -1,0 +1,569 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.940
+Agora nós vamos para a nossa F D RAF
+
+2
+00:00:02.950 --> 00:00:07.380
+nossa mais recente escrituração fiscal digital das retenções financeiras.
+
+3
+00:00:07.389 --> 00:00:09.899
+Vamos ver como são as informações aqui.
+
+4
+00:00:09.909 --> 00:00:12.720
+Pessoal, a RF ela é um pouco diferente das outras.
+
+5
+00:00:13.199 --> 00:00:15.369
+As outras são arquivo texto, né?
+
+6
+00:00:15.380 --> 00:00:19.590
+Com informações em blocos, registros e campos, a RF,
+
+7
+00:00:19.600 --> 00:00:25.010
+ela já é um arquivo digital do tipo X ML, Então a sistemática é diferente, Tá,
+
+8
+00:00:25.020 --> 00:00:29.909
+então a gente tem outro tipo de disposição do do arquivo, mas tem.
+
+9
+00:00:29.920 --> 00:00:34.110
+Temos os blocos de informação que o contribuinte vai vai prestar. Tá?
+
+10
+00:00:35.189 --> 00:00:41.099
+Os blocos de informação da Refis são R mil, que é informações do contribuinte, tá?
+
+11
+00:00:41.110 --> 00:00:44.520
+R mil e cinquenta tabelas de entidades ligadas.
+
+12
+00:00:44.529 --> 00:00:49.279
+TÁ I R mil e setenta Tabela de processos administrativos, processos judiciais,
+
+13
+00:00:49.290 --> 00:00:52.349
+esses processos aí que muitas vezes,
+
+14
+00:00:52.360 --> 00:00:54.240
+o contribuinte tem uma ação na Justiça que tem uma
+
+15
+00:00:54.250 --> 00:00:57.680
+liminar e tem um processo judicial que modifica ali,
+
+16
+00:00:57.689 --> 00:01:00.729
+interfere no valor a recolher ou a se fazer a
+
+17
+00:01:00.740 --> 00:01:03.840
+retenção do Imposto de Renda e o outros impostos.
+
+18
+00:01:03.849 --> 00:01:04.300
+Tá,
+
+19
+00:01:05.248 --> 00:01:08.018
+então, daqueles dados iniciais,
+
+20
+00:01:08.028 --> 00:01:13.098
+a gente tem agora os registros da série R dois mil e RR três mil.
+
+21
+00:01:13.109 --> 00:01:13.778
+Tá?
+
+22
+00:01:13.789 --> 00:01:14.259
+Então,
+
+23
+00:01:14.268 --> 00:01:16.338
+são eventos para estruturação de retenção
+
+24
+00:01:16.348 --> 00:01:19.299
+previdenciária de serviço prestado mediante sessão
+
+25
+00:01:19.308 --> 00:01:23.338
+de mão de obra ou empreitada e apurar as contribuições sociais,
+
+26
+00:01:23.348 --> 00:01:26.418
+previdenciárias e devidas a terceiros.
+
+27
+00:01:26.429 --> 00:01:31.958
+Tá Então esses são os eventos aí, de retenção previdenciária. Okay
+
+28
+00:01:32.330 --> 00:01:32.919
+Então, pessoal!
+
+29
+00:01:32.930 --> 00:01:38.099
+O que que a gente tem de eventos dessa série R dois mil, R três mil, RR vinte e dez,
+
+30
+00:01:38.110 --> 00:01:42.379
+que é retenção de contribuição previdenciária para serviços tomados Ou seja,
+
+31
+00:01:42.389 --> 00:01:44.120
+serviços que a empresa contratou
+
+32
+00:01:44.830 --> 00:01:48.099
+retenção de contribuição previdenciária para serviços prestados.
+
+33
+00:01:48.110 --> 00:01:53.559
+Ou seja, que a empresa foi contratada pra fazer, né, o serviço R vinte trinta.
+
+34
+00:01:53.569 --> 00:01:56.400
+Recursos recebidos por associação esportiva, né?
+
+35
+00:01:56.410 --> 00:01:56.599
+Então,
+
+36
+00:01:56.610 --> 00:01:58.959
+associação esportiva que recebeu o recurso vai fazer o
+
+37
+00:01:58.970 --> 00:02:02.879
+vinte e trinta e recursos repassados para associação esportiva.
+
+38
+00:02:02.889 --> 00:02:06.620
+Ou seja, quando a essa empresa que faz o patrocínio que é o patrocinador,
+
+39
+00:02:06.629 --> 00:02:09.919
+que passa pras atividades pras associações esportivas,
+
+40
+00:02:09.929 --> 00:02:13.820
+vai fazer o vinte e quarenta, tá continuando nessa mesma série,
+
+41
+00:02:14.449 --> 00:02:16.100
+nós temos o R vinte e cinquenta, né?
+
+42
+00:02:16.110 --> 00:02:20.199
+Comercialização de produto de produção rural, Por pessoa,
+
+43
+00:02:20.210 --> 00:02:22.539
+jurídica e agropecuária, Tá?
+
+44
+00:02:22.550 --> 00:02:24.580
+Então, tem que fazer retenção.
+
+45
+00:02:24.589 --> 00:02:28.580
+Isso aqui é eh pra previdência, lá dos produtores rurais.
+
+46
+00:02:28.589 --> 00:02:32.740
+Então, quando a pessoa eh jurídica, compra ali do produtor, tem que fazer ali.
+
+47
+00:02:32.750 --> 00:02:35.240
+A retenção tá Então, esse é o vinte e cinquenta
+
+48
+00:02:35.550 --> 00:02:41.220
+aquisição de produção rural, né? Na na mesma linha do anterior? Tá?
+
+49
+00:02:41.229 --> 00:02:43.440
+Eh isso aqui é quando a pessoa jurídica vende.
+
+50
+00:02:43.449 --> 00:02:46.080
+Aqui é quando a pessoa jurídica compra! Tá isso aí.
+
+51
+00:02:46.089 --> 00:02:48.059
+É pra que ele con eh constituir o
+
+52
+00:02:48.070 --> 00:02:51.360
+fundo previdenciário dos produtores rurais do antigo?
+
+53
+00:02:51.369 --> 00:02:53.479
+Funrural. Já mudou de nome, né? Não é nem funrural.
+
+54
+00:02:53.490 --> 00:02:56.169
+Mais pra quem tem a memória do que era o Funrural,
+
+55
+00:02:56.179 --> 00:02:59.839
+isso aqui tá é aqui que faz retenção pra juntar ali.
+
+56
+00:02:59.850 --> 00:03:02.979
+O valor pra fazer a composição desse tributo tá
+
+57
+00:03:03.679 --> 00:03:08.350
+R vinte sessenta Contribuição previdenciária sobre a receita bruta, o C P, R B.
+
+58
+00:03:09.589 --> 00:03:13.360
+R vinte noventa e oito, que é a reabertura de eventos da Série A Q dois mil.
+
+59
+00:03:13.369 --> 00:03:18.080
+Esse evento de reabertura a gente viu lá quando a gente foi tratar a retificação, né?
+
+60
+00:03:18.089 --> 00:03:22.300
+A gente lançou esse evento lá pra incluir lá uma nota fiscal do canteiro de obras.
+
+61
+00:03:22.309 --> 00:03:23.440
+Três que tinha ficado faltando.
+
+62
+00:03:23.449 --> 00:03:27.539
+Não sei se você lembra, mas senão volta lá e dá uma revisada nessa parte. Tá bom
+
+63
+00:03:28.479 --> 00:03:31.110
+e temos também pra encerrar essa série, né?
+
+64
+00:03:31.119 --> 00:03:36.190
+Eh R vinte e nove nove, que é o fechamento dos serviços dos eventos da série R dois mil
+
+65
+00:03:36.949 --> 00:03:39.199
+e o R trinta dez.
+
+66
+00:03:39.210 --> 00:03:41.979
+Que, se vocês lembram esse evento aqui aqui,
+
+67
+00:03:41.990 --> 00:03:46.080
+ele tem uma data de obrigatoriedade diferente dos demais registros, né?
+
+68
+00:03:46.089 --> 00:03:48.440
+Esse aqui tem a obrigatoriedade de ser apresentado
+
+69
+00:03:48.449 --> 00:03:50.759
+até dois dias úteis depois do evento,
+
+70
+00:03:50.770 --> 00:03:50.919
+né?
+
+71
+00:03:50.929 --> 00:03:53.759
+Do espetáculo esportivo Tá R trinta dez,
+
+72
+00:03:53.770 --> 00:03:58.279
+Receita de espetáculos desportivos Okay e Encerramos Aí,
+
+73
+00:03:58.289 --> 00:04:03.940
+a Série vinte dois mil e Série três mil Tá agora Nós Vamos pra Série R quatro mil
+
+74
+00:04:04.169 --> 00:04:07.339
+são eventos de informações relativas a retenções na fonte
+
+75
+00:04:07.350 --> 00:04:10.539
+de Imposto de Renda e Proventos de Renda.
+
+76
+00:04:10.550 --> 00:04:14.740
+Contribuição Social do Luc PI Spa SP COFINS tá então
+
+77
+00:04:14.750 --> 00:04:17.880
+eh no R dois mil lá são retenções previdenciárias.
+
+78
+00:04:17.890 --> 00:04:20.760
+Aqui são retenções na fonte de renda Okay.
+
+79
+00:04:20.769 --> 00:04:25.980
+O objetivo dessas informações é alimentar a C PF web, né?
+
+80
+00:04:25.989 --> 00:04:28.839
+E geração de malha fiscal pra Receita Federal do Brasil? Tá?
+
+81
+00:04:29.899 --> 00:04:32.429
+Os eventos da série RR quatro mil são
+
+82
+00:04:32.440 --> 00:04:35.309
+independentes das informações prestadas na série dois mil,
+
+83
+00:04:35.320 --> 00:04:35.589
+né?
+
+84
+00:04:35.600 --> 00:04:39.369
+Eu trouxe isso aqui porque a gente pode ter os dois eventos para um só fato, né?
+
+85
+00:04:39.380 --> 00:04:42.910
+Por exemplo, contribuições previdenciárias são informadas na RPP,
+
+86
+00:04:42.920 --> 00:04:46.750
+na série dois mil e informações de pagamentos, créditos,
+
+87
+00:04:46.760 --> 00:04:48.350
+retenções de imposto de renda,
+
+88
+00:04:48.359 --> 00:04:51.470
+Contribuição Social de Lucro Líquido PIS COFINS são
+
+89
+00:04:51.480 --> 00:04:54.290
+prestados em eventos da série R quatro mil.
+
+90
+00:04:54.529 --> 00:04:57.339
+Eu trouxe aqui um exemplo pra facilitar o entendimento.
+
+91
+00:04:57.350 --> 00:05:00.420
+Tá vamos supor que a empresa X contrata serviço de
+
+92
+00:05:00.429 --> 00:05:04.660
+limpeza e segurança privada da empresa Y tá pra isso?
+
+93
+00:05:04.670 --> 00:05:07.779
+É emitido a nota fiscal no valor de dez mil reais.
+
+94
+00:05:07.790 --> 00:05:10.140
+Tá então, o que que vai ter que acontecer?
+
+95
+00:05:10.149 --> 00:05:13.820
+Vai ter que ter uma retenção de contribuição previdenciária de onze por cento,
+
+96
+00:05:13.829 --> 00:05:19.239
+ou seja, de mil e cem, e retenção do imposto de renda de um por cento de cem reais.
+
+97
+00:05:19.250 --> 00:05:22.679
+Tá, Então essa contratação vai render
+
+98
+00:05:22.920 --> 00:05:24.709
+essas duas retenções aqui?
+
+99
+00:05:24.720 --> 00:05:29.519
+Okay Mas como a gente acabou de ver retenção previdenciária na Série dois mil,
+
+100
+00:05:29.529 --> 00:05:31.910
+retenção de renda na Série quatro mil.
+
+101
+00:05:32.600 --> 00:05:33.309
+Então vamos lá.
+
+102
+00:05:33.320 --> 00:05:38.690
+Os eventos que têm que ser enviados pela empresa x são R dois mil e dez
+
+103
+00:05:38.700 --> 00:05:40.970
+contratação de serviços e retenção do Pro da
+
+104
+00:05:40.980 --> 00:05:44.209
+contribuição previdenciária no valor de mil e cem.
+
+105
+00:05:44.220 --> 00:05:46.309
+Então, vai mandar esse evento
+
+106
+00:05:46.589 --> 00:05:51.500
+tá e vai ter que eh mandar o evento R quarenta vinte.
+
+107
+00:05:51.510 --> 00:05:56.600
+Pagamento de serviços com retenção do Imposto de Renda no valor de cem reais.
+
+108
+00:05:56.609 --> 00:06:02.119
+Tá bom, então? Os eventos são enviados a cada um no seu respectivo evento.
+
+109
+00:06:02.130 --> 00:06:04.239
+De apuração correspondente, né?
+
+110
+00:06:04.250 --> 00:06:09.640
+Ou é nota fiscal de serviço ou pagamento do fornecedor de serviços? Tá? Então?
+
+111
+00:06:09.649 --> 00:06:14.459
+São dois eventos gerados para uma contratação. Tá? Vocês viram que
+
+112
+00:06:14.820 --> 00:06:19.390
+os eventos da série são distintos e independentes um do outro tá bom.
+
+113
+00:06:19.399 --> 00:06:25.790
+Então essa esse aí é a explicação sobre quando haver dois eventos, né?
+
+114
+00:06:25.799 --> 00:06:27.720
+Para uma mesma contratação,
+
+115
+00:06:27.730 --> 00:06:32.589
+notando que são eventos pendentes e distintos Okay um pra um
+
+116
+00:06:32.600 --> 00:06:35.170
+pra Previdência e o outro pra retenção de imposto de renda.
+
+117
+00:06:35.179 --> 00:06:35.549
+Por fim,
+
+118
+00:06:35.559 --> 00:06:38.079
+vamos lá Eventos da série R quatro mil nós temos o
+
+119
+00:06:38.089 --> 00:06:41.890
+quarenta dez que é pagamentos e créditos a beneficiário pessoa Física,
+
+120
+00:06:42.149 --> 00:06:45.760
+esse que a gente abriu lá pra ver o arquivo X M S, você lembra o nome da pessoa,
+
+121
+00:06:45.769 --> 00:06:47.839
+Os dependentes, né?
+
+122
+00:06:47.850 --> 00:06:50.260
+EH e tudo mais R quarenta vinte.
+
+123
+00:06:50.269 --> 00:06:52.940
+Pagamentos e crédito a beneficiário pessoa jurídica
+
+124
+00:06:54.420 --> 00:06:57.369
+R quarenta quarenta Retenção no recebimento
+
+125
+00:06:58.019 --> 00:07:02.670
+R quarenta oitenta Fechamento, reabertura do serviço da Série, R quatro mil, né?
+
+126
+00:07:02.679 --> 00:07:05.970
+Pra fazer ali e retificação, né? Faz o fechamento faz abertura, né?
+
+127
+00:07:05.980 --> 00:07:07.489
+Tá lá no R quarenta oitenta.
+
+128
+00:07:08.369 --> 00:07:13.179
+E o R nove mil? A exclusão de eventos, né? Quando eu quiser excluir algum evento.
+
+129
+00:07:13.190 --> 00:07:16.200
+No caso eu tenha informado errado E eu vou fazer esse evento
+
+130
+00:07:16.209 --> 00:07:20.440
+aí R nove mil pra excluir o evento que está inadequado!
+
+131
+00:07:20.450 --> 00:07:24.940
+Okay, esses são os blocos da F D, R F, né retenções,
+
+132
+00:07:24.950 --> 00:07:27.959
+financeiras São os blocos de informação Okay
+
+133
+00:07:30.809 --> 00:07:33.420
+Por fim, pessoal, temos os eventos totalizados.
+
+134
+00:07:33.429 --> 00:07:38.279
+É o evento nove mil e um Tá Informações de base de tributos por evento
+
+135
+00:07:39.179 --> 00:07:41.670
+RR nove mil e cinco bases tributos de
+
+136
+00:07:41.679 --> 00:07:45.429
+retenções na fonte R noventa onze Informações de base
+
+137
+00:07:45.440 --> 00:07:48.109
+de tributos consolidados pro período e o R
+
+138
+00:07:48.119 --> 00:07:52.309
+noventa quinze consolidação das retenções na Fonte Okay.
+
+139
+00:07:52.320 --> 00:07:55.269
+Então esse R nove mil ele é como se
+
+140
+00:07:55.279 --> 00:07:59.510
+fosse ali um encerramento ali dessa dessa escrituração,
+
+141
+00:07:59.519 --> 00:07:59.630
+né?
+
+142
+00:07:59.640 --> 00:08:04.609
+Que é bem com os totalizado. Tá da série nove mil Okay!

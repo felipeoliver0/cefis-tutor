@@ -1,0 +1,65 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.320
+Pessoal, chegamos aqui ao nosso primeiro quiz desse treinamento.
+
+2
+00:00:04.919 --> 00:00:09.699
+Eu preciso simular com vocês uma situação de inserir uma informação
+
+3
+00:00:09.699 --> 00:00:12.660
+oriunda de uma convenção coletiva.
+
+4
+00:00:13.119 --> 00:00:14.000
+Vamos analisar.
+
+5
+00:00:14.359 --> 00:00:18.000
+Ao analisar uma convenção, você identifica a obrigação
+
+6
+00:00:18.000 --> 00:00:21.320
+de apurar um adicional por tempo de serviço,
+
+7
+00:00:21.800 --> 00:00:25.379
+neste caso, onde informar no sistema de folha.
+
+8
+00:00:25.800 --> 00:00:29.620
+Bem bacana e bem peculiar essa necessidade.
+
+9
+00:00:30.140 --> 00:00:35.179
+Onde eu vou registrar um adicional de tempo de serviço no meu sistema de folha de pagamento
+
+10
+00:00:35.179 --> 00:00:37.820
+para que haja essa apuração de modo mensal?
+
+11
+00:00:38.259 --> 00:00:43.060
+Então, nós temos opção 1, mensalmente na rotina de variáveis do mês.
+
+12
+00:00:43.600 --> 00:00:47.200
+Opção 2, incluir como fixos do cadastro do sindicato.
+
+13
+00:00:47.659 --> 00:00:51.000
+Opção 3, incluir como variáveis para o recibo de férias.
+
+14
+00:00:51.159 --> 00:00:53.520
+Opção 4, nenhuma das alternativas anteriores.
+
+15
+00:00:53.939 --> 00:00:55.719
+Qual dessas opções vocês marcariam?
+
+16
+00:00:55.920 --> 00:00:56.299
+Valendo!

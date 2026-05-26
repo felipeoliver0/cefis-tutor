@@ -1,0 +1,33 @@
+{
+  "id": 487860,
+  "title": "Implantação",
+  "position": 2,
+  "duration": 203,
+  "preview_url": "generating...",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca0a9587-2545-4fea-9058-b8f97ba54633/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca0a9587-2545-4fea-9058-b8f97ba54633/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca0a9587-2545-4fea-9058-b8f97ba54633/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca0a9587-2545-4fea-9058-b8f97ba54633/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

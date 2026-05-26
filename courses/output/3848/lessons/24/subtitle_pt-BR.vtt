@@ -1,0 +1,1041 @@
+WEBVTT
+
+1
+00:00:02.349 --> 00:00:04.059
+Já o bloco K pessoal
+
+2
+00:00:04.309 --> 00:00:05.309
+no bloco K.
+
+3
+00:00:06.880 --> 00:00:07.989
+Nós temos aí.
+
+4
+00:00:09.439 --> 00:00:12.789
+as contas referenciais recuperadas da ECD.
+
+5
+00:00:13.119 --> 00:00:16.549
+Então a instrução também nos nos coloca que nós temos
+
+6
+00:00:17.059 --> 00:00:18.709
+que fazer o referenciamento
+
+7
+00:00:19.440 --> 00:00:21.600
+do plano nosso para o plano da Receita.
+
+8
+00:00:21.719 --> 00:00:24.020
+A própria Receita Federal já nos coloca isso.
+
+9
+00:00:25.780 --> 00:00:25.870
+Então.
+
+10
+00:00:25.979 --> 00:00:28.690
+Ele apresenta o saldo das contas contábeis,
+
+11
+00:00:28.780 --> 00:00:30.909
+patrimoniais e de resultado
+
+12
+00:00:31.340 --> 00:00:34.990
+por período de apuração e o seu mapeamento para as contas referenciais.
+
+13
+00:00:35.099 --> 00:00:35.349
+O Dep.
+
+14
+00:00:37.400 --> 00:00:38.919
+Se a ECD já foi feito,
+
+15
+00:00:39.119 --> 00:00:39.520
+ou seja,
+
+16
+00:00:39.599 --> 00:00:42.930
+esse bloco é construído automaticamente e vai permitir a gente ditar.
+
+17
+00:00:43.729 --> 00:00:45.270
+Ele também pode ser importado,
+
+18
+00:00:45.299 --> 00:00:47.220
+independentemente da recuperação da ECD.
+
+19
+00:00:47.299 --> 00:00:48.169
+Então tem alguns
+
+20
+00:00:48.740 --> 00:00:49.290
+alguns
+
+21
+00:00:49.580 --> 00:00:50.020
+caminhos,
+
+22
+00:00:50.180 --> 00:00:50.939
+alguns atalhos,
+
+23
+00:00:51.020 --> 00:00:51.259
+né?
+
+24
+00:00:54.509 --> 00:00:55.110
+Ah,
+
+25
+00:00:55.669 --> 00:00:58.099
+apresenta o saldo das contas contábeis patrimoniais.
+
+26
+00:00:58.110 --> 00:01:00.540
+Resultado no período de apuração seu mapeamento,
+
+27
+00:01:01.189 --> 00:01:04.309
+caso haja recuperação da ECD o bloco K.
+
+28
+00:01:05.470 --> 00:01:09.120
+eh pode ser construído automaticamente e vai permitir a edição.
+
+29
+00:01:09.440 --> 00:01:09.959
+Se for o caso,
+
+30
+00:01:10.040 --> 00:01:10.089
+né?
+
+31
+00:01:10.139 --> 00:01:10.720
+Porque é constru-,
+
+32
+00:01:10.730 --> 00:01:11.540
+é um depara,
+
+33
+00:01:11.599 --> 00:01:11.720
+né?
+
+34
+00:01:11.839 --> 00:01:14.629
+Então permite você editar alterar se ter algum problema
+
+35
+00:01:15.199 --> 00:01:16.500
+também pode ser importado,
+
+36
+00:01:16.510 --> 00:01:17.750
+independentemente da
+
+37
+00:01:18.279 --> 00:01:19.769
+recuperação da ECD.
+
+38
+00:01:22.449 --> 00:01:24.699
+Aí já temos a carinha dela com mais informações.
+
+39
+00:01:25.000 --> 00:01:26.089
+Você vê que vai acrescendo,
+
+40
+00:01:26.169 --> 00:01:26.400
+né?
+
+41
+00:01:27.089 --> 00:01:28.970
+Temos lá o K155 balanço,
+
+42
+00:01:29.010 --> 00:01:30.779
+o K355DRE,
+
+43
+00:01:31.209 --> 00:01:34.080
+o K905 e o 935
+
+44
+00:01:34.330 --> 00:01:37.559
+são dois campos que nós temos dentro do do próprio da
+
+45
+00:01:38.019 --> 00:01:40.599
+da co- para justificar alguma divergência
+
+46
+00:01:40.970 --> 00:01:42.129
+o 915.
+
+47
+00:01:42.275 --> 00:01:43.264
+justifica o balanço,
+
+48
+00:01:43.345 --> 00:01:43.985
+coloco lá
+
+49
+00:01:44.385 --> 00:01:46.974
+e o 935 justifica o a DRE.
+
+50
+00:01:47.025 --> 00:01:47.675
+Se houver
+
+51
+00:01:48.184 --> 00:01:49.425
+alguma divergência,
+
+52
+00:01:49.504 --> 00:01:49.735
+né?
+
+53
+00:01:49.745 --> 00:01:49.944
+Ó
+
+54
+00:01:50.305 --> 00:01:52.175
+Registro destinado à informação
+
+55
+00:01:52.665 --> 00:01:56.135
+s- de custos utilizados para pessoas jurídicas
+
+56
+00:01:56.345 --> 00:01:57.065
+obrigatórias,
+
+57
+00:01:57.144 --> 00:01:57.375
+né?
+
+58
+00:01:58.449 --> 00:01:59.430
+Então faço os comentários.
+
+59
+00:01:59.489 --> 00:02:00.449
+Se tiver divergência,
+
+60
+00:02:00.569 --> 00:02:01.309
+eu comento ali,
+
+61
+00:02:01.410 --> 00:02:01.580
+né?
+
+62
+00:02:03.730 --> 00:02:04.569
+Aqui eu tenho,
+
+63
+00:02:04.690 --> 00:02:04.900
+né?
+
+64
+00:02:05.569 --> 00:02:06.849
+K1 55.
+
+65
+00:02:08.828 --> 00:02:11.348
+poderá ser preenchido das seguintes formas
+
+66
+00:02:11.878 --> 00:02:13.768
+edição pelo programa da CCF,
+
+67
+00:02:14.279 --> 00:02:18.289
+calculado pelo sistema através da funcionalidade e recuperar SD
+
+68
+00:02:18.839 --> 00:02:20.949
+ou importar o arquivo digital.
+
+69
+00:02:21.809 --> 00:02:22.839
+Lucro real
+
+70
+00:02:23.050 --> 00:02:24.600
+anual saldos mensais,
+
+71
+00:02:24.610 --> 00:02:25.220
+lucro real,
+
+72
+00:02:25.289 --> 00:02:27.919
+trimestral e presumido saldos trimestrais
+
+73
+00:02:29.279 --> 00:02:30.009
+Aqui pessoal,
+
+74
+00:02:30.089 --> 00:02:31.089
+eu sempre comento,
+
+75
+00:02:31.210 --> 00:02:31.289
+né?
+
+76
+00:02:31.330 --> 00:02:33.229
+E é bom a gente a gente lembrar
+
+77
+00:02:33.970 --> 00:02:35.520
+que nós não temos
+
+78
+00:02:35.889 --> 00:02:37.770
+contabilidade trimestral,
+
+79
+00:02:37.889 --> 00:02:38.020
+né?
+
+80
+00:02:38.130 --> 00:02:39.649
+Não temos não contabilidade,
+
+81
+00:02:39.729 --> 00:02:40.520
+ela é mensal.
+
+82
+00:02:41.289 --> 00:02:44.270
+o encerramento das contas e resultado no final do período,
+
+83
+00:02:44.690 --> 00:02:46.339
+que não necessariamente é dezembro.
+
+84
+00:02:47.169 --> 00:02:48.649
+para fins fiscais sim,
+
+85
+00:02:48.809 --> 00:02:50.850
+tem que ser dezembro de janeiro a dezembro.
+
+86
+00:02:51.410 --> 00:02:52.960
+Esse é o período fiscal
+
+87
+00:02:53.339 --> 00:02:53.850
+brasileiro,
+
+88
+00:02:53.929 --> 00:02:55.410
+mas para fins contábeis,
+
+89
+00:02:55.729 --> 00:02:57.649
+qualquer mês do ano eu posso fechar o meu
+
+90
+00:02:57.649 --> 00:03:00.039
+balanço desde que eu tenho um período de 12 meses
+
+91
+00:03:00.490 --> 00:03:01.190
+perfeito
+
+92
+00:03:01.809 --> 00:03:02.279
+Então
+
+93
+00:03:02.589 --> 00:03:03.889
+na contabilidade,
+
+94
+00:03:04.330 --> 00:03:07.039
+eu só encerro as contas e resultado no final do período.
+
+95
+00:03:07.889 --> 00:03:08.399
+Perfeito.
+
+96
+00:03:09.399 --> 00:03:11.389
+Agora para fins tributários.
+
+97
+00:03:11.880 --> 00:03:13.910
+Eu tenho tributações trimestrais.
+
+98
+00:03:14.710 --> 00:03:18.270
+O que não significa dizer que eu preciso encerrar minha contabilidade trimestral.
+
+99
+00:03:18.309 --> 00:03:19.350
+Não é mensal lá,
+
+100
+00:03:20.130 --> 00:03:21.020
+mas aqui
+
+101
+00:03:21.669 --> 00:03:24.479
+o meu software de gestão transforma o mensal em trimestral.
+
+102
+00:03:24.550 --> 00:03:24.990
+Aqui sim,
+
+103
+00:03:25.029 --> 00:03:26.190
+eu tenho que ter o trimestral
+
+104
+00:03:26.630 --> 00:03:27.789
+para lucro real,
+
+105
+00:03:27.910 --> 00:03:29.910
+trimestral e lucro presumido.
+
+106
+00:03:30.350 --> 00:03:32.669
+E obviamente também lucro arbitrado,
+
+107
+00:03:32.710 --> 00:03:32.789
+né?
+
+108
+00:03:32.860 --> 00:03:34.050
+Que é trimestral perfeito
+
+109
+00:03:34.690 --> 00:03:36.119
+Então tem nos atentar aí.
+
+110
+00:03:36.229 --> 00:03:37.020
+Se o sistema não fazer,
+
+111
+00:03:37.070 --> 00:03:37.750
+tem que fazer na mão,
+
+112
+00:03:37.830 --> 00:03:38.029
+né?
+
+113
+00:03:38.830 --> 00:03:40.869
+Mas normalmente os software fazem isso.
+
+114
+00:03:41.630 --> 00:03:42.389
+Alguns deles,
+
+115
+00:03:42.509 --> 00:03:43.910
+inclusive até tentam burlar,
+
+116
+00:03:43.990 --> 00:03:44.220
+né?
+
+117
+00:03:44.619 --> 00:03:47.559
+Encerram o período dentro da contabilidade não tem.
+
+118
+00:03:48.309 --> 00:03:50.710
+Eu não encerro conta de resultado trimestralmente,
+
+119
+00:03:50.789 --> 00:03:51.100
+não.
+
+120
+00:03:51.770 --> 00:03:53.089
+Tá Se fizer isso está errado.
+
+121
+00:03:53.130 --> 00:03:53.369
+Tá
+
+122
+00:03:53.970 --> 00:03:55.050
+Então lucro real anual,
+
+123
+00:03:55.169 --> 00:03:57.860
+saldos mensais lucro real trimestral e presumido trimestral,
+
+124
+00:03:57.889 --> 00:03:59.160
+porque aqui é cálculo tributário.
+
+125
+00:04:01.039 --> 00:04:02.399
+O C 55
+
+126
+00:04:02.559 --> 00:04:05.639
+Registro onde deve conter as informações os saldos iniciais,
+
+127
+00:04:06.360 --> 00:04:07.039
+saldos finais,
+
+128
+00:04:07.160 --> 00:04:08.000
+total de débito,
+
+129
+00:04:08.080 --> 00:04:10.949
+total de crédito e todas as contas patrimoniais.
+
+130
+00:04:11.839 --> 00:04:14.940
+da pessoa jurídica ativo passivo EPL tá.
+
+131
+00:04:16.959 --> 00:04:19.089
+Os valores devem ser apurado e informado,
+
+132
+00:04:19.238 --> 00:04:21.279
+considerando todos os lançamentos,
+
+133
+00:04:21.600 --> 00:04:22.950
+inclusive de encerramento
+
+134
+00:04:23.679 --> 00:04:24.570
+e cuidados.
+
+135
+00:04:24.600 --> 00:04:27.799
+Saldos devem ter consistência com a ECD já enviada.
+
+136
+00:04:28.200 --> 00:04:29.529
+Você viu que elas se complementam,
+
+137
+00:04:29.720 --> 00:04:29.920
+né?
+
+138
+00:04:30.399 --> 00:04:30.519
+Então.
+
+139
+00:04:30.559 --> 00:04:32.200
+Temos que ter aí essa cautela,
+
+140
+00:04:32.279 --> 00:04:32.489
+né?
+
+141
+00:04:33.130 --> 00:04:34.640
+Verificar se está tudo conforme,
+
+142
+00:04:34.720 --> 00:04:34.920
+né?
+
+143
+00:04:39.019 --> 00:04:41.010
+Registro utilizado para o mapeamento
+
+144
+00:04:41.299 --> 00:04:43.100
+das contas referencial saldo final de
+
+145
+00:04:43.100 --> 00:04:45.489
+todas as contas patrimoniais da escrituração
+
+146
+00:04:46.059 --> 00:04:47.470
+ativo passivo IPL
+
+147
+00:04:47.859 --> 00:04:49.329
+respectivo período
+
+148
+00:04:49.899 --> 00:04:52.359
+Edição pelo próprio programa da ICF.
+
+149
+00:04:53.440 --> 00:04:56.239
+calculado pelo sistema através da funcionalidade de
+
+150
+00:04:56.239 --> 00:04:58.630
+recuperar esse CD ou importado do arquivo,
+
+151
+00:04:58.839 --> 00:04:59.640
+como já falamos,
+
+152
+00:04:59.679 --> 00:04:59.799
+né?
+
+153
+00:04:59.880 --> 00:05:01.070
+Então temos essas opções.
+
+154
+00:05:01.750 --> 00:05:03.390
+E é uma observação importante,
+
+155
+00:05:03.510 --> 00:05:03.739
+né?
+
+156
+00:05:04.829 --> 00:05:09.100
+Se houver somente uma conta referencial no J051
+
+157
+00:05:09.750 --> 00:05:13.859
+mapeada a partir de uma conta contábil Plano de contas da pessoa jurídica,
+
+158
+00:05:14.470 --> 00:05:17.179
+o próprio sistema preencherá o registro K15 meia.
+
+159
+00:05:18.000 --> 00:05:18.279
+né?
+
+160
+00:05:18.559 --> 00:05:20.829
+Mapeamento de uma conta contábel para referencial
+
+161
+00:05:21.119 --> 00:05:21.940
+sistema faz isso
+
+162
+00:05:22.359 --> 00:05:23.079
+Caso contrário,
+
+163
+00:05:23.160 --> 00:05:23.480
+ou seja,
+
+164
+00:05:23.519 --> 00:05:26.549
+a conta contábel for mapeada para mais de uma conta referencial.
+
+165
+00:05:27.079 --> 00:05:29.290
+O registro K15 meia deverá ser
+
+166
+00:05:29.559 --> 00:05:31.269
+preenchido pela empresa perfeito
+
+167
+00:05:31.480 --> 00:05:33.549
+porque o sistema não sabe para as quais contas
+
+168
+00:05:33.760 --> 00:05:34.269
+irão
+
+169
+00:05:34.640 --> 00:05:36.119
+esse referenciamento perfeito.
+
+170
+00:05:36.640 --> 00:05:37.799
+Você pode obviamente
+
+171
+00:05:38.160 --> 00:05:39.519
+direcionar para mais do que uma,
+
+172
+00:05:39.600 --> 00:05:39.850
+né?
+
+173
+00:05:42.149 --> 00:05:42.750
+Cuidado,
+
+174
+00:05:43.029 --> 00:05:43.320
+né?
+
+175
+00:05:43.549 --> 00:05:44.429
+O Cão cinco meia
+
+176
+00:05:44.790 --> 00:05:48.630
+os saldos deve ter consistência com a ECD já enviada.
+
+177
+00:05:48.869 --> 00:05:50.149
+Vai ter cruzamento de dados.
+
+178
+00:05:50.190 --> 00:05:50.500
+Tá?
+
+179
+00:05:51.109 --> 00:05:51.290
+Aí,
+
+180
+00:05:51.309 --> 00:05:53.470
+você tem todo o valor do débito do crédito total,
+
+181
+00:05:53.589 --> 00:05:53.750
+né?
+
+182
+00:05:54.589 --> 00:05:56.190
+Todos os campos obrigatório,
+
+183
+00:05:56.470 --> 00:05:56.739
+né?
+
+184
+00:06:00.600 --> 00:06:03.429
+Aqui nós temos as contas de resultado
+
+185
+00:06:03.920 --> 00:06:07.029
+do mesmo jeito saldos anuais trimestrais
+
+186
+00:06:07.420 --> 00:06:09.670
+também o carro 355
+
+187
+00:06:10.320 --> 00:06:12.239
+registro onde deve ser informados os saldos
+
+188
+00:06:12.239 --> 00:06:14.700
+finais de todas as contas da escrituração
+
+189
+00:06:15.359 --> 00:06:16.649
+antes do encerramento.
+
+190
+00:06:17.440 --> 00:06:19.279
+E aqui pessoal é bem interessante,
+
+191
+00:06:19.359 --> 00:06:19.480
+né?
+
+192
+00:06:19.519 --> 00:06:21.250
+Esse antes do do encerramento
+
+193
+00:06:22.049 --> 00:06:22.730
+porque
+
+194
+00:06:23.040 --> 00:06:24.619
+no software de gestão
+
+195
+00:06:26.059 --> 00:06:26.070
+eh.
+
+196
+00:06:26.880 --> 00:06:28.959
+Quando você faz o encerramento em dezembro,
+
+197
+00:06:29.000 --> 00:06:31.109
+ele vai zerar todo o balanceto de dezembro,
+
+198
+00:06:31.200 --> 00:06:31.369
+né?
+
+199
+00:06:31.920 --> 00:06:33.570
+Perfeito as contas de resultado,
+
+200
+00:06:33.720 --> 00:06:34.670
+receita e despesa
+
+201
+00:06:35.079 --> 00:06:36.640
+que vão vão para dentro do patrimônio
+
+202
+00:06:36.640 --> 00:06:39.179
+líquido lá no lucro prejuízo acumulado perfeito
+
+203
+00:06:39.839 --> 00:06:40.459
+Agora
+
+204
+00:06:40.920 --> 00:06:42.250
+você o software
+
+205
+00:06:42.730 --> 00:06:46.850
+tem que permitir você emitir uma lancete de dezembro com todos os saldos acumulado.
+
+206
+00:06:47.239 --> 00:06:47.790
+Perfeito
+
+207
+00:06:48.320 --> 00:06:49.709
+Tá Tem software que não.
+
+208
+00:06:50.130 --> 00:06:51.920
+Aí você tem que se tornar e fazer novamente,
+
+209
+00:06:52.000 --> 00:06:52.220
+né?
+
+210
+00:06:52.690 --> 00:06:53.529
+Então é ruim isso.
+
+211
+00:06:53.600 --> 00:06:55.209
+Então tem que tomar essa essa essa cautela
+
+212
+00:06:55.209 --> 00:06:57.489
+aí se porventura seu sistema não fizer isso,
+
+213
+00:06:57.609 --> 00:07:00.279
+você salva um balanceto em PDF com todos os saldos
+
+214
+00:07:00.529 --> 00:07:02.130
+antes de fazer o encerramento,
+
+215
+00:07:02.250 --> 00:07:02.410
+né?
+
+216
+00:07:02.989 --> 00:07:04.609
+É importante para a conferência,
+
+217
+00:07:04.649 --> 00:07:05.179
+inclusive,
+
+218
+00:07:05.329 --> 00:07:06.720
+mas você vai usar isso também
+
+219
+00:07:07.089 --> 00:07:09.119
+durante o seu o seu ano tá
+
+220
+00:07:09.690 --> 00:07:09.809
+Então,
+
+221
+00:07:09.890 --> 00:07:11.809
+tem que bater com as CCD já enviada.
+
+222
+00:07:11.850 --> 00:07:12.130
+Tá.
+
+223
+00:07:13.989 --> 00:07:15.500
+O K35 meia
+
+224
+00:07:15.709 --> 00:07:17.579
+já é um outro detalhe referencial
+
+225
+00:07:17.920 --> 00:07:20.739
+dos saldos finais das contas contábeis de resultado
+
+226
+00:07:21.910 --> 00:07:26.140
+Então deve ser mapeado por conta referencial os saldos finais de todas as contas.
+
+227
+00:07:27.480 --> 00:07:29.519
+societário da PJ no respectivo período
+
+228
+00:07:29.799 --> 00:07:32.790
+poderá também ser preenchido edição do programa
+
+229
+00:07:33.079 --> 00:07:35.160
+calculado pelo sistema ou importado.
+
+230
+00:07:35.320 --> 00:07:37.190
+Tá O K35 meia
+
+231
+00:07:38.000 --> 00:07:39.829
+Contas contábeis antes do encerramento,
+
+232
+00:07:39.959 --> 00:07:40.200
+né?
+
+233
+00:07:42.670 --> 00:07:45.350
+E aí a observação também é válida.
+
+234
+00:07:45.420 --> 00:07:46.179
+Se houver
+
+235
+00:07:46.589 --> 00:07:48.700
+somente uma conta referencial
+
+236
+00:07:49.230 --> 00:07:51.190
+do 051 mapeada,
+
+237
+00:07:51.829 --> 00:07:52.100
+né?
+
+238
+00:07:52.510 --> 00:07:53.989
+A partir da conta contábel,
+
+239
+00:07:54.070 --> 00:07:55.029
+plano de conta da pessoa,
+
+240
+00:07:55.269 --> 00:07:57.820
+o próprio sistema vai preencher o 435 meia também.
+
+241
+00:07:58.529 --> 00:07:59.390
+Caso contrário,
+
+242
+00:07:59.579 --> 00:07:59.790
+né?
+
+243
+00:07:59.910 --> 00:08:02.420
+Deverá ser preenchido pela empresa perfeito.
+
+244
+00:08:03.160 --> 00:08:04.809
+Então algumas coisas
+
+245
+00:08:04.950 --> 00:08:06.950
+o sistema funciona automático,
+
+246
+00:08:07.070 --> 00:08:08.649
+outras coisas eu preciso intervir,
+
+247
+00:08:08.709 --> 00:08:09.029
+tá.
+
+248
+00:08:11.500 --> 00:08:15.269
+Aí também coloquei a parte técnica só para você ter uma ideia do mapeamento,
+
+249
+00:08:15.380 --> 00:08:15.570
+né?
+
+250
+00:08:16.179 --> 00:08:17.250
+Texto fixo.
+
+251
+00:08:18.179 --> 00:08:19.940
+código da conta do plano referencial,
+
+252
+00:08:20.010 --> 00:08:21.299
+conforme tabela do SPED
+
+253
+00:08:21.660 --> 00:08:23.739
+disponibilizado lá no programa da SCF,
+
+254
+00:08:24.350 --> 00:08:24.589
+né?
+
+255
+00:08:24.980 --> 00:08:26.820
+O valor dos saldos antes do encerramento,
+
+256
+00:08:27.260 --> 00:08:29.570
+a indicação se devedou o credor e aí vai
+
+257
+00:08:29.980 --> 00:08:30.059
+Então.
+
+258
+00:08:30.140 --> 00:08:34.609
+Esses são os termos técnicos que o pessoal do ITI utilizaram para fazer os
+
+259
+00:08:35.219 --> 00:08:35.820
+os parâmetros,
+
+260
+00:08:35.900 --> 00:08:36.130
+né?

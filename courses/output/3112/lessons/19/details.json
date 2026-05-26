@@ -1,0 +1,33 @@
+{
+  "id": 474709,
+  "title": "19 - Construção civil",
+  "position": 19,
+  "duration": 400,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a408003c-e3b5-46ca-a5b8-de03b7b05eb9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a408003c-e3b5-46ca-a5b8-de03b7b05eb9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a408003c-e3b5-46ca-a5b8-de03b7b05eb9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a408003c-e3b5-46ca-a5b8-de03b7b05eb9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a408003c-e3b5-46ca-a5b8-de03b7b05eb9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

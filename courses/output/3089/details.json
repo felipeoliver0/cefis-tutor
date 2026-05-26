@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3089,
+    "title": "Estoques",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de estoques, você irá aprender, a partir das regulamentações do CPC 16 e NBC TR 16, sobre todos os bens tangíveis mantidos para venda ou que se destinam ao consumo na produção de mercadorias ou uso próprio. Entenderá, por meio de vários exemplos, o que é custo de aquisição, de transformação, de empréstimo e ajuste ao valor presente, bem como os critérios de valoração de estoques, e a forma correta de contabilizar e reconhecer esses itens.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/8d6992b664da3da6b4cf11b98e96f8f11727451401.jpg",
+    "goals": [
+      "Ensinar de forma clara, simples e prática sobre estoques."
+    ],
+    "teacher": {
+      "id": 718091,
+      "name": "Robson Pereira",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1705586882.jpeg"
+    },
+    "duration": 15532,
+    "keywords": "estoques;estoque;cpc 16",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 53,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 755,
+    "averageRating": 9.19,
+    "practiceAverage": 9.04,
+    "trailer": {
+      "id": "fdfb905d-ca79-4f58-b460-5077be32ba9b",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fdfb905d-ca79-4f58-b460-5077be32ba9b/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fdfb905d-ca79-4f58-b460-5077be32ba9b/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fdfb905d-ca79-4f58-b460-5077be32ba9b/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fdfb905d-ca79-4f58-b460-5077be32ba9b/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-04-15T10:10:21.000Z",
+      "updatedAt": "2024-04-15T10:10:20.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-04-16T08:30:13.000Z",
+    "recordedAt": "2024-03-20T00:00:00.000Z",
+    "createdAt": "2024-03-20T17:46:47.000Z"
+  }
+}

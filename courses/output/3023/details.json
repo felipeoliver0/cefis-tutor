@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3023,
+    "title": "CPC 28 - Propriedade para investimento",
+    "subtitle": "Propriedade para investimento",
+    "summary": "Neste curso você compreenderá quais os aspectos ESSENCIAIS para adoção do pronunciamento contábil CPC 28 - Propriedade para Investimento que contemplará quais ativos devem ser classificados como propriedade para investimentos, regras reconhecimento, mensuração inicial e subsequentes, divulgação e alguns exemplos adotados no mercado.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/121671f730e92b735eb67c316228b9da1728384328.jpg",
+    "goals": [
+      "Proporcionar uma visão geral do pronunciamentos[e os principais aspectos de reconhecimento, mensuração e divulgação. Esse curso não pretende abranger todas as possíveis possibilidades aplicáveis ao pronunciamento, mas sim permitir que o usuário possa ter conhecimento da regras básicas e pontos de atenção na sua aplicação."
+    ],
+    "teacher": {
+      "id": 520172,
+      "name": "Marcelo Aquino",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/e033a4a9-13ef-4c75-8b8b-1a064ee8384d-croppedImage.jpeg"
+    },
+    "duration": 2174,
+    "keywords": "CPC 28;propriedade para investimento",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 215,
+    "averageRating": 9.26,
+    "practiceAverage": 9.29,
+    "trailer": {
+      "id": "5f2722a6-9459-4b16-a796-5eb41ac82e75",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5f2722a6-9459-4b16-a796-5eb41ac82e75/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5f2722a6-9459-4b16-a796-5eb41ac82e75/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5f2722a6-9459-4b16-a796-5eb41ac82e75/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5f2722a6-9459-4b16-a796-5eb41ac82e75/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-03-03T13:20:43.000Z",
+      "updatedAt": "2024-03-03T13:20:43.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-03-16T08:52:27.000Z",
+    "recordedAt": "2024-01-31T00:00:00.000Z",
+    "createdAt": "2024-01-31T11:51:56.000Z"
+  }
+}

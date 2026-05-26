@@ -1,0 +1,205 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.639
+Da mesma maneira que comentamos e explicamos os principais eventos da área de saúde e segurança do trabalho,
+
+3
+00:00:05.639 --> 00:00:09.240
+vamos falar sobre os eventos de reclamatória trabalhista.
+
+4
+00:00:09.240 --> 00:00:13.640
+E aqui, pessoal, surge uma oportunidade de um serviço.
+
+5
+00:00:13.640 --> 00:00:14.720
+Por quê?
+
+6
+00:00:14.720 --> 00:00:19.359
+Uma empresa de contabilidade, por sua vez, presta serviço para as empresas,
+
+7
+00:00:19.359 --> 00:00:23.280
+de médio e pequeno porte, na elaboração da folha de pagamento.
+
+8
+00:00:23.280 --> 00:00:27.160
+Mas em uma eventual reclamatória trabalhista em que o juiz dá ganho de causa para o empregado
+
+9
+00:00:27.160 --> 00:00:30.000
+e o precisa pagar e precisa apurar impostos,
+
+10
+00:00:30.000 --> 00:00:34.159
+na maioria das vezes, o escritório de advocacia não tem essa estrutura.
+
+11
+00:00:34.159 --> 00:00:38.679
+Então, surge a possibilidade dessa negociação aqui.
+
+12
+00:00:38.679 --> 00:00:47.039
+E a empresa prestadora de serviço de contabilidade vai poder transmitir o S2500 com as informações do processo.
+
+13
+00:00:47.039 --> 00:00:50.880
+E aqui, a empresa contábil já tem uma grande vantagem,
+
+14
+00:00:50.880 --> 00:00:53.880
+porque ela já tem os dados de cadastro do empregado,
+
+15
+00:00:53.880 --> 00:00:56.280
+nome, CPF, endereço,
+
+16
+00:00:56.280 --> 00:00:57.159
+período que ele trabalhou,
+
+17
+00:00:57.159 --> 00:01:01.159
+o controle da jornada, tudo isso aqui informado.
+
+18
+00:01:01.159 --> 00:01:05.000
+E aqui, ela coloca as informações de petição,
+
+19
+00:01:05.000 --> 00:01:08.200
+o que é direito para o trabalhador, tudo direitinho.
+
+20
+00:01:08.200 --> 00:01:12.400
+Automaticamente, é exigido o evento S2501,
+
+21
+00:01:12.400 --> 00:01:15.599
+informações da contribuição decorrente ao processo.
+
+22
+00:01:15.599 --> 00:01:18.400
+Então, informação previdenciária, por exemplo,
+
+23
+00:01:18.400 --> 00:01:23.359
+que dá direito ao empregado, porque ele vai ter acesso a uma indenização.
+
+24
+00:01:23.359 --> 00:01:26.879
+Aquela indenização, o juiz determina que incide
+
+25
+00:01:26.879 --> 00:01:27.879
+a previdência social.
+
+26
+00:01:27.879 --> 00:01:32.319
+Então, essa informação vai ser inserida no S2501.
+
+27
+00:01:32.319 --> 00:01:37.879
+O seu sistema mesmo já transmite, já transforma essa apuração em evento do E-Social.
+
+28
+00:01:37.879 --> 00:01:44.120
+Precisou excluir a informação, não está de acordo com o que foi determinado pela decisão justicial?
+
+29
+00:01:44.120 --> 00:01:48.040
+Existe a possibilidade via S3500.
+
+30
+00:01:48.040 --> 00:01:53.920
+É só você entrar na sua rotina da folha, cancelar aquela declaração onde já cria esse evento,
+
+31
+00:01:53.920 --> 00:01:56.000
+anula aquilo que foi transmitido.
+
+32
+00:01:56.000 --> 00:02:01.519
+E por fim, pessoal, o S5501, que trata do retorno.
+
+33
+00:02:01.519 --> 00:02:07.920
+Trata-se de um evento de retorno do E-Social e o objetivo é mostrar as informações transmitidas,
+
+34
+00:02:07.920 --> 00:02:09.360
+tributos apurados.
+
+35
+00:02:09.360 --> 00:02:15.000
+Da mesma maneira que a folha de pagamento tem uma rotina de conferência,
+
+36
+00:02:15.000 --> 00:02:19.719
+o seu sistema também vai dar para a parte de reclamatória trabalhista.
+
+37
+00:02:19.719 --> 00:02:23.680
+Você vai conferir se está batendo a informação ou não com o E-Social,
+
+38
+00:02:23.680 --> 00:02:25.960
+com tudo que for recepcionado pelo ambiente nacional.
+
+39
+00:02:26.000 --> 00:02:29.599
+Aqui, pessoal, o prazo para o envio.
+
+40
+00:02:29.599 --> 00:02:35.759
+A gente sempre vai adotar como prazo para o envio o que está estabelecido na decisão judicial.
+
+41
+00:02:35.759 --> 00:02:40.159
+Claro, respeitando também a informação da DCTF Web.
+
+42
+00:02:40.159 --> 00:02:45.520
+Então você sabe que aquela decisão judicial tem um prazo para você transmitir,
+
+43
+00:02:45.520 --> 00:02:49.639
+mas logo em seguida você já vai gerar uma guia que a DCTF Web vence dia 20,
+
+44
+00:02:49.639 --> 00:02:51.960
+com dados previdenciários e informações.
+
+45
+00:02:51.960 --> 00:02:55.800
+Então você tem que casar para atender toda essa legislação.
+
+46
+00:02:56.000 --> 00:02:57.800
+E aqui é dinâmica, né?
+
+47
+00:02:57.800 --> 00:03:05.599
+Toda a parte do processo trabalhista com o 2500 faz a integração do FGTS Digital com a base do Quinis,
+
+48
+00:03:05.599 --> 00:03:10.599
+que a gente ainda chama de base do Quinis, mas tudo isso é o registro do empregado,
+
+49
+00:03:10.599 --> 00:03:15.800
+e as informações de processo trabalhista no 2501 com a DCTF Web.
+
+50
+00:03:15.800 --> 00:03:21.599
+Portanto, essa é a dinâmica das informações dos eventos de reclamatória trabalhista,
+
+51
+00:03:21.599 --> 00:03:25.599
+uma oportunidade para uma empresa contábil transmitir os dados,
+
+52
+00:03:26.000 --> 00:03:28.800
+de processos na área trabalhista.

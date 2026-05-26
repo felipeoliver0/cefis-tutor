@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4381,
+    "title": "Reforma Tributária Descomplicada para MEI",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Reforma Tributária Descomplicada para MEI, você irá aprender na prática tudo o que precisa saber sobre a reforma tributária e como ela afeta os MEI. Aprenderá os fundamentos e a prática de como se preparar para as mudanças, como entender o cenário atual, como lidar com a fiscalização e cruzamento de dados, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre a reforma tributária para MEI.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/d2d7d847-d914-4a61-ad01-a3958590040b-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Reforma Tributária Descomplicada para MEI é a capacitação para a aplicação prática de uma compreensão clara e atualizada das mudanças tributárias, permitindo que os MEI sejam preparados para as novas regras e regulamentações fiscais."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 1462,
+    "keywords": "MEI;reforma tributária",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 575,
+    "averageRating": 9.57,
+    "practiceAverage": 9.47,
+    "trailer": {
+      "id": "a6e6fe7a-a36c-4ad2-9a4b-f997b91e5f10",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a6e6fe7a-a36c-4ad2-9a4b-f997b91e5f10/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a6e6fe7a-a36c-4ad2-9a4b-f997b91e5f10/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a6e6fe7a-a36c-4ad2-9a4b-f997b91e5f10/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a6e6fe7a-a36c-4ad2-9a4b-f997b91e5f10/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-01-24T14:23:49.000Z",
+      "updatedAt": "2026-01-24T14:23:49.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-01-26T12:15:43.000Z",
+    "recordedAt": "2026-01-12T00:00:00.000Z",
+    "createdAt": "2026-01-22T17:44:06.000Z"
+  }
+}

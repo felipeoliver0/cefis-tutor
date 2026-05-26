@@ -1,0 +1,33 @@
+{
+  "id": 461158,
+  "title": "Demonstração do fluxo de caixa",
+  "position": 16,
+  "duration": 343,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e709c6e3-6fea-4b97-95b0-e74a2f0717e0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e709c6e3-6fea-4b97-95b0-e74a2f0717e0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e709c6e3-6fea-4b97-95b0-e74a2f0717e0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e709c6e3-6fea-4b97-95b0-e74a2f0717e0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e709c6e3-6fea-4b97-95b0-e74a2f0717e0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

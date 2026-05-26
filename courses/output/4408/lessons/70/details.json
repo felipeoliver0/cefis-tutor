@@ -1,0 +1,33 @@
+{
+  "id": 486236,
+  "title": "AVP - Exemplo de cálculo - Parte 2",
+  "position": 70,
+  "duration": 381,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0aea7a04-4ef7-4395-9873-ad0e956e6094/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0aea7a04-4ef7-4395-9873-ad0e956e6094/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0aea7a04-4ef7-4395-9873-ad0e956e6094/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0aea7a04-4ef7-4395-9873-ad0e956e6094/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0aea7a04-4ef7-4395-9873-ad0e956e6094/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

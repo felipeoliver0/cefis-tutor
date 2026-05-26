@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4052,
+    "title": "Neuroexperiência do Cliente",
+    "subtitle": "Técnicas de fidelização",
+    "summary": "O curso Neuroexperiência do Cliente explora como os princípios da neurociência e da psicologia podem ser aplicados para compreender e aprimorar a jornada do consumidor. Através de conceitos de neuromarketing, percepção, emoção e comportamento, o participante aprende a criar experiências que despertam conexões emocionais genuínas, aumentam o engajamento e fortalecem a fidelização de clientes. O curso alia teoria e prática, apresentando estratégias para transformar cada ponto de contato da marca em uma experiência memorável.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/f9db2690-1324-4b23-86d2-b7bbb5827643-thumbnail.png",
+    "goals": [
+      "Capacitar você a compreender os mecanismos cerebrais que influenciam as decisões de compra e o comportamento do consumidor, aplicando esse conhecimento para desenvolver estratégias de comunicação, atendimento e experiência do cliente mais eficazes, humanas e impactantes."
+    ],
+    "teacher": {
+      "id": 545447,
+      "name": "GISELE ALVES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1666807674.jpeg"
+    },
+    "duration": 4418,
+    "keywords": "neuroexperiência;cliente;experiencia;experiência do cliente",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 435,
+    "averageRating": 9.48,
+    "practiceAverage": 9.44,
+    "trailer": {
+      "id": "d2c7a719-bd32-4a32-bffe-b52ab13c1194",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d2c7a719-bd32-4a32-bffe-b52ab13c1194/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d2c7a719-bd32-4a32-bffe-b52ab13c1194/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d2c7a719-bd32-4a32-bffe-b52ab13c1194/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d2c7a719-bd32-4a32-bffe-b52ab13c1194/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-21T22:43:18.000Z",
+      "updatedAt": "2025-10-21T22:43:18.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-21T22:43:45.000Z",
+    "recordedAt": "2025-10-01T00:00:00.000Z",
+    "createdAt": "2025-10-15T10:24:32.000Z"
+  }
+}

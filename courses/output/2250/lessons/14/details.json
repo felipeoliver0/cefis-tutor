@@ -1,0 +1,33 @@
+{
+  "id": 464119,
+  "title": "Custo de produção",
+  "position": 14,
+  "duration": 131,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/851039a1-d825-45cb-ba34-b2a41e801e72/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/851039a1-d825-45cb-ba34-b2a41e801e72/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/851039a1-d825-45cb-ba34-b2a41e801e72/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/851039a1-d825-45cb-ba34-b2a41e801e72/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/851039a1-d825-45cb-ba34-b2a41e801e72/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

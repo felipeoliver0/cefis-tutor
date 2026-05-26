@@ -1,0 +1,33 @@
+{
+  "id": 456972,
+  "title": "Poder diretivo do empregador",
+  "position": 12,
+  "duration": 173,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dd47fa7c-a6c0-4092-a49c-059590b6b890/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd47fa7c-a6c0-4092-a49c-059590b6b890/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd47fa7c-a6c0-4092-a49c-059590b6b890/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd47fa7c-a6c0-4092-a49c-059590b6b890/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd47fa7c-a6c0-4092-a49c-059590b6b890/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 486515,
+  "title": "Modelo tributário atual e proposto",
+  "position": 22,
+  "duration": 249,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/43f127d4-923e-4fda-972b-79d190f7e6a3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/43f127d4-923e-4fda-972b-79d190f7e6a3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/43f127d4-923e-4fda-972b-79d190f7e6a3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/43f127d4-923e-4fda-972b-79d190f7e6a3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/43f127d4-923e-4fda-972b-79d190f7e6a3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

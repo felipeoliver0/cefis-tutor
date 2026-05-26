@@ -1,0 +1,549 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.000
+Falta de consistência nas informações.
+
+3
+00:00:03.000 --> 00:00:08.000
+As informações contábeis e fiscais da empresa devem estar consistentes entre si.
+
+4
+00:00:08.000 --> 00:00:12.000
+Erros nesse sentido podem resultar em divergências e problemas com a Secretaria Federal.
+
+5
+00:00:12.000 --> 00:00:14.000
+Então, muitas vezes dá erro lá.
+
+6
+00:00:14.000 --> 00:00:16.000
+Deu erro. Erro por quê?
+
+7
+00:00:16.000 --> 00:00:19.000
+Se está tudo parametrizado correto.
+
+8
+00:00:19.000 --> 00:00:22.000
+Quando der erro, você vai clicar no erro e ele vai te remeter lá.
+
+9
+00:00:22.000 --> 00:00:25.000
+A nossa função aqui é chamar atenção para esses erros.
+
+10
+00:00:25.000 --> 00:00:29.000
+Não dá para me trazer os erros aqui porque eu não sei quais são os erros.
+
+11
+00:00:29.000 --> 00:00:31.000
+Depende do que você está contabilizando.
+
+12
+00:00:31.000 --> 00:00:33.000
+Depende da sua parametrização, eu não sei.
+
+13
+00:00:33.000 --> 00:00:37.000
+Mas o importante é você ter essas informações que nós estamos trazendo aqui
+
+14
+00:00:37.000 --> 00:00:39.000
+para você trabalhar nesses erros, se houver.
+
+15
+00:00:39.000 --> 00:00:43.000
+Porque se está tudo parametrizado correto, se a tua contabilidade está conciliada,
+
+16
+00:00:43.000 --> 00:00:47.000
+está tudo certinho, quando você importar os dados, viram correto.
+
+17
+00:00:47.000 --> 00:00:49.000
+Se tiver problema, você vai arrumar.
+
+18
+00:00:49.000 --> 00:00:51.000
+Aonde? No TXT? Não.
+
+19
+00:00:51.000 --> 00:00:54.000
+Sempre no teu software de gestão.
+
+20
+00:00:54.000 --> 00:00:59.000
+Volta lá no TRP, mexe nele e importa de novo os dados.
+
+21
+00:00:59.000 --> 00:01:01.000
+É assim que eu aconselho.
+
+22
+00:01:01.000 --> 00:01:05.000
+Ah, professor, mas fazer no TXT é mais rápido e tal.
+
+23
+00:01:05.000 --> 00:01:06.000
+Cuidado.
+
+24
+00:01:06.000 --> 00:01:11.000
+Depois que eu transmito, eu não posso mexer mais nada na contabilidade, nada no fiscal.
+
+25
+00:01:11.000 --> 00:01:12.000
+Entendeu?
+
+26
+00:01:12.000 --> 00:01:16.000
+Então, a mesma informação que tem na base da receita tem que estar na base da empresa.
+
+27
+00:01:16.000 --> 00:01:20.000
+Se eu fizer direto no TXT, eu corro o risco de esquecer
+
+28
+00:01:20.000 --> 00:01:25.000
+e lá na base da receita tem uma informação, na empresa tem outra informação.
+
+29
+00:01:25.000 --> 00:01:27.000
+Aí pode dar problema sério.
+
+30
+00:01:27.000 --> 00:01:28.000
+Perfeito?
+
+31
+00:01:28.000 --> 00:01:29.000
+Bacana, gente.
+
+32
+00:01:29.000 --> 00:01:35.000
+Então, informações contábeis e fiscais da empresa devem estar consistentes entre si.
+
+33
+00:01:35.000 --> 00:01:40.000
+Erro nesse sentido pode resultar em divergência e problema com a Receita Federal.
+
+34
+00:01:40.000 --> 00:01:46.000
+Nesse aspecto, como várias informações se repetem dentro do registro das obrigações acessórias,
+
+35
+00:01:46.000 --> 00:01:49.000
+a mesma informação informa em três, quatro obrigações,
+
+36
+00:01:49.000 --> 00:01:55.000
+é recomendável avaliar se não há divergência entre a mesma informação prestada em lugares diferentes.
+
+37
+00:01:55.000 --> 00:01:56.000
+Como, por exemplo,
+
+38
+00:01:56.000 --> 00:02:05.000
+custo demonstrado no período que é informado tanto no registro L300 quanto no registro L210.
+
+39
+00:02:05.000 --> 00:02:08.000
+A mesma informação em duas pontas.
+
+40
+00:02:08.000 --> 00:02:09.000
+Entendeu?
+
+41
+00:02:09.000 --> 00:02:11.000
+Então, temos que tomar cuidado.
+
+42
+00:02:11.000 --> 00:02:15.000
+Nós temos, pessoal, eu dei essa dica também no curso do ECD,
+
+43
+00:02:15.000 --> 00:02:19.000
+nós temos no mercado os famosos auditores eletrônicos.
+
+44
+00:02:19.000 --> 00:02:24.000
+A gente sempre indica, na medida possível, que vocês tenham os auditores eletrônicos.
+
+45
+00:02:24.000 --> 00:02:25.000
+O custo-benefício compensa.
+
+46
+00:02:25.000 --> 00:02:31.000
+Não é muito caro e nós temos vários no mercado para vocês optarem.
+
+47
+00:02:31.000 --> 00:02:34.000
+Então, qual a função desses auditores?
+
+48
+00:02:34.000 --> 00:02:37.000
+É checar se os saldos estão coerentes.
+
+49
+00:02:37.000 --> 00:02:42.000
+Então, quando você calcula o imposto, calculei o imposto de renda, muito bem.
+
+50
+00:02:42.000 --> 00:02:44.000
+O primeiro passo foi fazer o cálculo.
+
+51
+00:02:44.000 --> 00:02:45.000
+Segundo, contabilizar.
+
+52
+00:02:45.000 --> 00:02:47.000
+Contabilizei lá no meu passivo.
+
+53
+00:02:47.000 --> 00:02:48.000
+Muito bem.
+
+54
+00:02:48.000 --> 00:02:49.000
+Terceiro, fazer um DARF.
+
+55
+00:02:49.000 --> 00:02:52.000
+Quarto, entregar uma DCTF informando o valor.
+
+56
+00:02:52.000 --> 00:02:55.000
+Vocês estão vendo em quantos lugares eu estou informando?
+
+57
+00:02:55.000 --> 00:03:03.000
+Então, eu tenho na ECD, eu tenho na DCTF, eu tenho na ECF.
+
+58
+00:03:03.000 --> 00:03:05.000
+Então, eu tenho a mesma informação em três, quatro.
+
+59
+00:03:05.000 --> 00:03:09.000
+Esses auditores checam se as informações estão batendo.
+
+60
+00:03:09.000 --> 00:03:14.000
+Porque muitos aí, a gente vai fazer revisão contábil, tributária,
+
+61
+00:03:14.000 --> 00:03:18.000
+aí chegou lá, o valor do DARF é um, na contabilidade está outro,
+
+62
+00:03:18.000 --> 00:03:21.000
+na DCTF está outro e é a mesma operação.
+
+63
+00:03:21.000 --> 00:03:23.000
+Aí não tem jeito.
+
+64
+00:03:23.000 --> 00:03:27.000
+Se eu não faço essa auditoria, a Receita Federal com certeza fará por mim.
+
+65
+00:03:27.000 --> 00:03:30.000
+E lembra o que eu comentei no início da aula?
+
+66
+00:03:30.000 --> 00:03:35.000
+Com a ajuda da inteligência artificial agora, dificilmente vai passar qualquer inconsistência.
+
+67
+00:03:35.000 --> 00:03:36.000
+Perfeito?
+
+68
+00:03:36.000 --> 00:03:38.000
+Só para alertar vocês.
+
+69
+00:03:38.000 --> 00:03:44.000
+Não é amedrontar, é alertar para a nossa efetiva conciliação, checagem dos dados.
+
+70
+00:03:44.000 --> 00:03:49.000
+Você vê que dentro da própria, da mesma demonstração da ECF,
+
+71
+00:03:49.000 --> 00:03:52.000
+lá no L300 eu informo o custo
+
+72
+00:03:52.000 --> 00:03:54.000
+e no L210 eu informo o custo.
+
+73
+00:03:54.000 --> 00:03:55.000
+Tem que ser o mesmo.
+
+74
+00:03:55.000 --> 00:03:59.000
+Se houver divergência, ponto, já dá pau, já dá erro.
+
+75
+00:03:59.000 --> 00:04:00.000
+Entendeu?
+
+76
+00:04:00.000 --> 00:04:02.000
+É assim que vai surgir nos erros.
+
+77
+00:04:02.000 --> 00:04:05.000
+Então, não dá para a gente dizer, ó, o erro tal, não.
+
+78
+00:04:05.000 --> 00:04:06.000
+Perfeito?
+
+79
+00:04:06.000 --> 00:04:08.000
+Ausência de informações obrigatória.
+
+80
+00:04:08.000 --> 00:04:13.000
+A falta de informações obrigatória pode levar a penalidades.
+
+81
+00:04:13.000 --> 00:04:17.000
+É importante verificar se todas as informações requeridas pela Receita Federal
+
+82
+00:04:17.000 --> 00:04:20.000
+foram inseridas na ECF.
+
+83
+00:04:20.000 --> 00:04:21.000
+Então, aqui é um negócio muito sério.
+
+84
+00:04:21.000 --> 00:04:28.000
+Porque muitas vezes o pessoal fala, preencha aí, coloca o estagiário para fazer, o aprendiz.
+
+85
+00:04:28.000 --> 00:04:29.000
+Nada contra eles.
+
+86
+00:04:29.000 --> 00:04:31.000
+Pelo contrário, a gente tem que dar essa oportunidade.
+
+87
+00:04:31.000 --> 00:04:35.000
+Mas tem que ser supervisionado por uma pessoa experiente.
+
+88
+00:04:35.000 --> 00:04:40.000
+Eu vou mostrar para vocês, quando eu começar a abrir as abas do nosso programa,
+
+89
+00:04:40.000 --> 00:04:44.000
+várias informações que nós temos que prestar logo no início.
+
+90
+00:04:44.000 --> 00:04:47.000
+E são informações de sim ou não.
+
+91
+00:04:47.000 --> 00:04:49.000
+A cada sim que eu colocar lá,
+
+92
+00:04:49.000 --> 00:04:52.000
+ele vai abrir lá para me preencher com os dados.
+
+93
+00:04:52.000 --> 00:04:54.000
+E não, ele não abre nada.
+
+94
+00:04:54.000 --> 00:04:58.000
+Se eu não tiver conhecimento e não habilitar, eu estou omitindo informação.
+
+95
+00:04:58.000 --> 00:04:59.000
+Entendeu?
+
+96
+00:04:59.000 --> 00:05:02.000
+Que depois eu posso cair numa notificação,
+
+97
+00:05:02.000 --> 00:05:06.000
+porque essa informação chegou para a Receita Federal de alguma outra maneira.
+
+98
+00:05:06.000 --> 00:05:13.000
+Como, por exemplo, via Banco Central, via E-Financeira, via Cartônica, enfim.
+
+99
+00:05:13.000 --> 00:05:16.000
+Se eu não disser que eu tenho aquela obrigação.
+
+100
+00:05:16.000 --> 00:05:17.000
+Então, nós temos que tomar cuidado,
+
+101
+00:05:17.000 --> 00:05:21.000
+porque a falta dela pode levar a penalidades.
+
+102
+00:05:21.000 --> 00:05:27.000
+Importante verificar se todas as informações requeridas pela Receita foram inseridas na ICF.
+
+103
+00:05:27.000 --> 00:05:33.000
+Principalmente aquelas às quais a Receita já tem acesso através de outras obrigações.
+
+104
+00:05:33.000 --> 00:05:36.000
+Como os valores do imposto de renda retido na fonte,
+
+105
+00:05:36.000 --> 00:05:38.000
+que eu comentei, os bancos já avisam.
+
+106
+00:05:38.000 --> 00:05:41.000
+Contribuição social retida na fonte,
+
+107
+00:05:41.000 --> 00:05:45.000
+que não estão informadas na DIRF ou na FD Reinfe.
+
+108
+00:05:45.000 --> 00:05:47.000
+Aí vai dar problema. Perfeito?
+
+109
+00:05:47.000 --> 00:05:54.000
+Falta acompanhamento de alterações na legislação.
+
+110
+00:05:54.000 --> 00:05:57.000
+Ou seja, essa é a parte mais complexa
+
+111
+00:05:57.000 --> 00:06:00.000
+para quem é da área contábil, da área fiscal, da área tributária.
+
+112
+00:06:00.000 --> 00:06:05.000
+É acompanhar essa parafernália, a mudança cotidiana.
+
+113
+00:06:05.000 --> 00:06:09.000
+É desumano, por isso que é chamado manicômio tributário.
+
+114
+00:06:09.000 --> 00:06:12.000
+Então, falta de acompanhamento.
+
+115
+00:06:12.000 --> 00:06:15.000
+Eu preciso tirar uma parte do dia para leitura.
+
+116
+00:06:15.000 --> 00:06:17.000
+É fundamental que a empresa tenha
+
+117
+00:06:17.000 --> 00:06:19.000
+atualizada quantas alterações da lei,
+
+118
+00:06:19.000 --> 00:06:23.000
+a fim de evitar erros e sanções na entrega da ICF.
+
+119
+00:06:23.000 --> 00:06:28.000
+Principalmente no que tange aos efeitos relacionados às adições, exclusões,
+
+120
+00:06:28.000 --> 00:06:31.000
+apuração do imposto de renda e contribuição social.
+
+121
+00:06:31.000 --> 00:06:36.000
+Que são informações mais sensíveis dessas obrigações acessórias.
+
+122
+00:06:36.000 --> 00:06:39.000
+Perfeito? Então, nós temos a ICF 2025.
+
+123
+00:06:39.000 --> 00:06:43.000
+Não conformidade entre as informações da ICF
+
+124
+00:06:43.000 --> 00:06:45.000
+e outras obrigações acessórias.
+
+125
+00:06:45.000 --> 00:06:46.000
+Então,
+
+126
+00:06:46.000 --> 00:06:51.000
+as informações da ICF 2025 devem estar em conformidade
+
+127
+00:06:51.000 --> 00:06:54.000
+com as informações de outras obrigações.
+
+128
+00:06:54.000 --> 00:06:59.000
+Como DCTF, que nós tínhamos PGD, hoje não mais.
+
+129
+00:06:59.000 --> 00:07:03.000
+É recomendável uma análise pormenorizada.
+
+130
+00:07:03.000 --> 00:07:07.000
+Nesse sentido, os auditores eletrônicos auxiliam vocês.
+
+131
+00:07:07.000 --> 00:07:09.000
+Perfeito, gente?
+
+132
+00:07:09.000 --> 00:07:12.000
+Então, feito aí essas dicas principais que nós demos
+
+133
+00:07:12.000 --> 00:07:14.000
+e as recomendações,
+
+134
+00:07:14.000 --> 00:07:15.000
+sem sombra de dúvida,
+
+135
+00:07:15.000 --> 00:07:17.000
+eu não crio, eu importo.
+
+136
+00:07:17.000 --> 00:07:21.000
+Portanto, eu estou preenchendo a minha ICF diariamente, no cotidiano.
+
+137
+00:07:21.000 --> 00:07:23.000
+É que a gente passa batido, né?
+
+138
+00:07:23.000 --> 00:07:25.000
+Inclusive, a atualização dos nossos softwares.

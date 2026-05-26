@@ -1,0 +1,33 @@
+{
+  "id": 486524,
+  "title": "Imunidades do IBS e CBS",
+  "position": 31,
+  "duration": 287,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1ee48cbc-85f7-4445-813c-cad341239c64/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ee48cbc-85f7-4445-813c-cad341239c64/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ee48cbc-85f7-4445-813c-cad341239c64/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ee48cbc-85f7-4445-813c-cad341239c64/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ee48cbc-85f7-4445-813c-cad341239c64/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

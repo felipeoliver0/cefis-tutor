@@ -1,0 +1,33 @@
+{
+  "id": 480601,
+  "title": "Para quem é este curso?",
+  "position": 2,
+  "duration": 298,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/00d6bf7a-1b22-483b-af1a-3d5c54500deb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00d6bf7a-1b22-483b-af1a-3d5c54500deb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00d6bf7a-1b22-483b-af1a-3d5c54500deb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00d6bf7a-1b22-483b-af1a-3d5c54500deb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00d6bf7a-1b22-483b-af1a-3d5c54500deb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

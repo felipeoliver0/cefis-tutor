@@ -1,0 +1,413 @@
+WEBVTT
+
+1
+00:00:01.909 --> 00:00:03.319
+cruzamentos e insights,
+
+2
+00:00:03.470 --> 00:00:03.740
+então
+
+3
+00:00:04.230 --> 00:00:04.590
+sim.
+
+4
+00:00:05.460 --> 00:00:06.869
+Então apresentei em tela aqui
+
+5
+00:00:07.360 --> 00:00:08.109
+muito legal
+
+6
+00:00:08.720 --> 00:00:09.069
+eh
+
+7
+00:00:09.640 --> 00:00:11.460
+o módulo integrado de tributos
+
+8
+00:00:11.880 --> 00:00:15.909
+traz ali uma otimização para você conseguir usar uma obrigação acessória só.
+
+9
+00:00:16.489 --> 00:00:17.760
+Mas você tem desafios,
+
+10
+00:00:17.879 --> 00:00:18.079
+né?
+
+11
+00:00:18.639 --> 00:00:21.549
+A Questão do prazo já é um grande desafio que as empresas
+
+12
+00:00:21.659 --> 00:00:22.819
+estão tendo que lidar.
+
+13
+00:00:23.780 --> 00:00:28.030
+e você tem que ter uma aderência nessas informações que você está integ- entregando
+
+14
+00:00:28.350 --> 00:00:29.059
+porque de fato,
+
+15
+00:00:29.100 --> 00:00:31.500
+o que você está fazendo é uma confissão de dívida.
+
+16
+00:00:31.700 --> 00:00:32.900
+Isso é muito crítico.
+
+17
+00:00:33.099 --> 00:00:33.450
+Tá
+
+18
+00:00:33.900 --> 00:00:34.169
+Então.
+
+19
+00:00:34.939 --> 00:00:36.069
+cruzamentos
+
+20
+00:00:36.360 --> 00:00:36.990
+chave
+
+21
+00:00:37.400 --> 00:00:40.520
+que já se deveriam se fazer na época da DCTF
+
+22
+00:00:40.520 --> 00:00:43.270
+e que precisam ser feitos no módulo integrado de tributos
+
+23
+00:00:43.759 --> 00:00:44.959
+DCTF web
+
+24
+00:00:45.279 --> 00:00:46.479
+versus ECF
+
+25
+00:00:46.819 --> 00:00:48.000
+DCTF web
+
+26
+00:00:48.200 --> 00:00:50.090
+versus EFDCMSPI,
+
+27
+00:00:50.319 --> 00:00:50.590
+né?
+
+28
+00:00:50.599 --> 00:00:52.529
+É a o SPED fiscal.
+
+29
+00:00:52.849 --> 00:00:54.159
+e DCTF web
+
+30
+00:00:54.299 --> 00:00:56.009
+versus FD Contribuições
+
+31
+00:00:56.409 --> 00:01:00.000
+Você precisa garantir que a obrigação acessória que você entrega
+
+32
+00:01:00.450 --> 00:01:02.669
+está coerente com o que você está declarando
+
+33
+00:01:02.889 --> 00:01:04.120
+PIS e COFINS
+
+34
+00:01:04.330 --> 00:01:05.138
+IPI.
+
+35
+00:01:05.910 --> 00:01:07.309
+EFD contribuições,
+
+36
+00:01:07.389 --> 00:01:07.519
+né?
+
+37
+00:01:07.629 --> 00:01:09.750
+O PIS e COFINS retido na fonte,
+
+38
+00:01:09.870 --> 00:01:10.059
+né?
+
+39
+00:01:10.400 --> 00:01:12.540
+E o IRPJ SSLL.
+
+40
+00:01:13.029 --> 00:01:15.059
+Eles ainda vão ser declarados manualmente.
+
+41
+00:01:15.389 --> 00:01:16.930
+Era na DCTF tradicional,
+
+42
+00:01:17.430 --> 00:01:18.150
+agora é no MIT.
+
+43
+00:01:19.050 --> 00:01:19.250
+Então,
+
+44
+00:01:19.290 --> 00:01:22.529
+você precisa estar aderente com as informações que você está entregando.
+
+45
+00:01:22.610 --> 00:01:26.839
+Então justamente por isso você precisa ter um cruzamento de dados
+
+46
+00:01:27.449 --> 00:01:28.120
+muito
+
+47
+00:01:28.349 --> 00:01:28.970
+crucial,
+
+48
+00:01:29.529 --> 00:01:30.419
+muito robusto.
+
+49
+00:01:30.669 --> 00:01:31.080
+Tá
+
+50
+00:01:31.370 --> 00:01:31.569
+Eu.
+
+51
+00:01:31.690 --> 00:01:33.779
+Até recomendo para as empresas que
+
+52
+00:01:34.540 --> 00:01:37.440
+nunca seja se possível dentro da estrutura
+
+53
+00:01:37.739 --> 00:01:38.860
+a mesma pessoa.
+
+54
+00:01:38.940 --> 00:01:39.250
+Então
+
+55
+00:01:39.500 --> 00:01:42.660
+a mesma pessoa que entrega CCF não pode ser entregue a que
+
+56
+00:01:42.660 --> 00:01:46.529
+entrega do CTF web a mesma que entrega é ao Sad fiscal
+
+57
+00:01:46.900 --> 00:01:50.459
+entregado CTF e a o FD Contribuições a mesma coisa
+
+58
+00:01:50.900 --> 00:01:52.819
+É muito difícil que a
+
+59
+00:01:53.010 --> 00:01:55.459
+a própria pessoa identifique uma falha,
+
+60
+00:01:55.819 --> 00:01:57.410
+uma falha dela no processo.
+
+61
+00:01:57.809 --> 00:01:59.690
+Ela vai estar com o olhar viciado.
+
+62
+00:02:00.089 --> 00:02:00.580
+Tá Então.
+
+63
+00:02:00.610 --> 00:02:01.849
+É justamente por isso
+
+64
+00:02:02.129 --> 00:02:04.779
+que eu não recomendo que seja a mesma pessoa
+
+65
+00:02:05.169 --> 00:02:08.440
+como manter o compliance na DCTF web no MIT
+
+66
+00:02:08.889 --> 00:02:10.788
+aderência das bases informadas,
+
+67
+00:02:11.250 --> 00:02:14.160
+validação e cruzamento das obrigações acessórias
+
+68
+00:02:14.289 --> 00:02:16.800
+e criação de um fluxo de revisão antes da entrega
+
+69
+00:02:17.250 --> 00:02:18.059
+de novo gente,
+
+70
+00:02:18.809 --> 00:02:19.509
+comentei.
+
+71
+00:02:20.259 --> 00:02:22.410
+Entregar o Miet ali declarar
+
+72
+00:02:22.979 --> 00:02:23.649
+tranquilo,
+
+73
+00:02:24.419 --> 00:02:25.300
+não é um problema.
+
+74
+00:02:25.419 --> 00:02:26.320
+Ele é simples,
+
+75
+00:02:26.580 --> 00:02:27.449
+vamos dizer assim.
+
+76
+00:02:28.160 --> 00:02:28.309
+Mas.
+
+77
+00:02:28.360 --> 00:02:29.309
+O problema é
+
+78
+00:02:29.839 --> 00:02:30.759
+a robustez,
+
+79
+00:02:31.160 --> 00:02:32.080
+a concisão,
+
+80
+00:02:32.199 --> 00:02:34.570
+a coerência das informações que você está entregando.
+
+81
+00:02:35.000 --> 00:02:35.850
+Isso é muito importante.
+
+82
+00:02:35.919 --> 00:02:37.929
+Você precisa ter um papel de trabalho.
+
+83
+00:02:38.039 --> 00:02:39.839
+Tenham papéis de trabalhos,
+
+84
+00:02:40.330 --> 00:02:41.960
+tenham papéis e definições,
+
+85
+00:02:42.080 --> 00:02:43.440
+papéis e responsabilidades,
+
+86
+00:02:43.880 --> 00:02:45.270
+papéis e prazos.
+
+87
+00:02:46.350 --> 00:02:49.740
+Muitas vezes o que você está entregando numa DCTF web
+
+88
+00:02:50.429 --> 00:02:52.059
+não vem só da sua área,
+
+89
+00:02:52.309 --> 00:02:53.990
+vem da área de folha de pagamento.
+
+90
+00:02:54.440 --> 00:02:56.190
+Se você é de tributo indireto,
+
+91
+00:02:56.229 --> 00:02:57.910
+vem da área de tributo direto.
+
+92
+00:02:58.309 --> 00:02:59.309
+Se você é de direto,
+
+93
+00:02:59.350 --> 00:03:00.350
+vem de indiretos.
+
+94
+00:03:00.960 --> 00:03:02.419
+Cada empresa tem uma estrutura,
+
+95
+00:03:02.509 --> 00:03:02.619
+né?
+
+96
+00:03:02.630 --> 00:03:04.220
+De quem entrega DCTF web.
+
+97
+00:03:04.869 --> 00:03:05.179
+Então.
+
+98
+00:03:06.119 --> 00:03:08.759
+É importante que você tenha um fluxo de papéis,
+
+99
+00:03:08.800 --> 00:03:10.429
+responsabilidades e prazos
+
+100
+00:03:10.720 --> 00:03:11.839
+muito bem definido.
+
+101
+00:03:12.119 --> 00:03:12.509
+Tá
+
+102
+00:03:12.729 --> 00:03:12.960
+Então.
+
+103
+00:03:13.529 --> 00:03:16.559
+Isso é um comentário importante que eu faço para vocês.

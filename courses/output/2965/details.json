@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2965,
+    "title": "GTIN - Número Global do Item Comercial",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de GTIN - Global Trade Item Number (em português: Número Global do Item Comercial), você aprenderá desde a importância do GTIN, seus benefícios e características, cadastro centralizado, cadastro nacional de produtos e o GTIN na Nota fiscal Eletrônica - NF-e, para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/ef6412a9b15cc0ad014a06fec8ad8f881728384941.jpg",
+    "goals": [
+      "Demonstrar desde a importância do GTIN, seus benefícios e características, cadastro centralizado, cadastro nacional de produtos e o GTIN na Nota fiscal Eletrônica - NF-e, para colocar em prática os conhecimentos obtidos."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 4042,
+    "keywords": "gtin;global trade international number;Número Global do Item Comercial",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 230,
+    "averageRating": 9.28,
+    "practiceAverage": 9.33,
+    "trailer": {
+      "id": "c061560f-0ad5-429b-9077-b302af72510a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c061560f-0ad5-429b-9077-b302af72510a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c061560f-0ad5-429b-9077-b302af72510a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c061560f-0ad5-429b-9077-b302af72510a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c061560f-0ad5-429b-9077-b302af72510a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-12-19T11:00:58.000Z",
+      "updatedAt": "2023-12-19T11:00:57.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-12-29T09:35:36.000Z",
+    "recordedAt": "2023-12-05T00:00:00.000Z",
+    "createdAt": "2023-12-08T09:13:01.000Z"
+  }
+}

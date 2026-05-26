@@ -1,0 +1,33 @@
+{
+  "id": 474345,
+  "title": "Condições",
+  "position": 3,
+  "duration": 433,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a4e00b54-9e35-49b0-a0b2-7aeff4233edd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a4e00b54-9e35-49b0-a0b2-7aeff4233edd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a4e00b54-9e35-49b0-a0b2-7aeff4233edd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a4e00b54-9e35-49b0-a0b2-7aeff4233edd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a4e00b54-9e35-49b0-a0b2-7aeff4233edd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

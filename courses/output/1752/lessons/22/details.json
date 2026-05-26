@@ -1,0 +1,33 @@
+{
+  "id": 456643,
+  "title": "Relação com a mídia",
+  "position": 22,
+  "duration": 412,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/68c75aae-49d8-491e-b542-e1b6c05e3416/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/68c75aae-49d8-491e-b542-e1b6c05e3416/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/68c75aae-49d8-491e-b542-e1b6c05e3416/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/68c75aae-49d8-491e-b542-e1b6c05e3416/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/68c75aae-49d8-491e-b542-e1b6c05e3416/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

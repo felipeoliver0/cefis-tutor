@@ -1,0 +1,441 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:00.500
+então,
+
+2
+00:00:00.509 --> 00:00:04.619
+seguindo como nós visualizamos se existem notas fiscais
+
+3
+00:00:04.630 --> 00:00:07.739
+não escrituradas ou se existem notas que foram
+
+4
+00:00:07.750 --> 00:00:12.119
+escrituradas atrasadas dentro da EFD SMS p i
+
+5
+00:00:12.130 --> 00:00:16.399
+Quando vocês olham dentro do arquivo lá no,
+
+6
+00:00:16.469 --> 00:00:23.639
+nós temos as notas lá no bloco C, o primeiro aqui, as notas de entrada de mercadorias,
+
+7
+00:00:23.649 --> 00:00:26.920
+nota de energia elétrica e tudo mais e aqui no
+
+8
+00:00:26.930 --> 00:00:29.879
+segundo bloco C que são as notas de saída.
+
+9
+00:00:29.889 --> 00:00:32.860
+Então nós temos entrada e nós temos saída.
+
+10
+00:00:33.229 --> 00:00:36.900
+Mas aqui fica muito confuso nossa Joy,
+
+11
+00:00:36.909 --> 00:00:40.639
+como que eu vou visualizar aqui no caso das notas de saída,
+
+12
+00:00:40.650 --> 00:00:42.439
+até às vezes dá um jeito aqui, né.
+
+13
+00:00:42.450 --> 00:00:46.020
+A gente olha pela, se o nume a sequência numérica aqui, né?
+
+14
+00:00:46.029 --> 00:00:48.819
+Mas isso se torna bem cansativo.
+
+15
+00:00:49.310 --> 00:00:53.119
+Então vocês vão usar a planilha que eu disponibilizei pra vocês
+
+16
+00:00:53.130 --> 00:00:57.380
+pra converter o T x t do SPED fiscal em Excel.
+
+17
+00:00:57.389 --> 00:01:00.880
+E aí ele vai abrir lá. Então você vai usar essa planilha né?
+
+18
+00:01:00.889 --> 00:01:04.860
+Vai converter o t x t e ele vai abrir hein?
+
+19
+00:01:05.449 --> 00:01:11.419
+Planilha lá no sessenta e noventa, na aba do sessenta e noventa você vai vir aqui oh,
+
+20
+00:01:11.430 --> 00:01:16.519
+em indi, emitente Indi emite é um um campo, né?
+
+21
+00:01:16.529 --> 00:01:20.900
+É um campo dentro do registro que vai identificar quem que é o emissor
+
+22
+00:01:20.910 --> 00:01:24.449
+da nota pra gente saber se é nota de entrada ou nota de saída.
+
+23
+00:01:24.459 --> 00:01:30.500
+Toda vez que você escolhe o zero, vai aparecer as notas do próprio contribuinte.
+
+24
+00:01:30.510 --> 00:01:33.720
+Então aqui você pode organizar no filtro
+
+25
+00:01:34.099 --> 00:01:38.930
+de A A Z pra verificar se as notas estão na ordem correta.
+
+26
+00:01:38.940 --> 00:01:39.550
+Se então,
+
+27
+00:01:39.559 --> 00:01:42.669
+verificar se todas as notas estão escrituradas lembra
+
+28
+00:01:42.680 --> 00:01:44.190
+que tem que ser em ordem cronológica?
+
+29
+00:01:44.199 --> 00:01:48.050
+Aqui você já consegue validar isso? E quando você filtra
+
+30
+00:01:48.709 --> 00:01:54.040
+o número um significa que essas notas foram emitidas por terceiros?
+
+31
+00:01:54.050 --> 00:01:57.580
+Ou seja, são notas de entrada. E aí você vai visualizar, né?
+
+32
+00:01:57.589 --> 00:02:00.680
+Que a numeração é uma numeração aleatória,
+
+33
+00:02:00.690 --> 00:02:04.879
+justamente porque o a nota é também o número da nota do fornecedor.
+
+34
+00:02:04.889 --> 00:02:08.758
+Então não é uma ordem cronológica, porque é uma nota de entrada.
+
+35
+00:02:08.770 --> 00:02:13.199
+Aqui nós temos todas as chaves e as numerações da nota.
+
+36
+00:02:13.210 --> 00:02:17.740
+Então se você tem um sistema de captura de nota, você vai ter as mesmas informações,
+
+37
+00:02:17.750 --> 00:02:20.190
+consegue fazer a comparação?
+
+38
+00:02:20.199 --> 00:02:22.639
+Outro ponto importante vejam,
+
+39
+00:02:22.649 --> 00:02:27.940
+só que eu tenho aqui notas que são de períodos diferentes.
+
+40
+00:02:27.949 --> 00:02:33.100
+Olha que curioso quando eu venho aqui na data do documento eu
+
+41
+00:02:33.110 --> 00:02:37.220
+estou falando gente de um arquivo que a gente tá mexendo aqui.
+
+42
+00:02:37.229 --> 00:02:43.199
+Vou mostrar pra vocês É um arquivo, olha de dois mil e vinte e dois
+
+43
+00:02:43.690 --> 00:02:44.679
+dentro do programa.
+
+44
+00:02:44.690 --> 00:02:48.419
+Até coloquei aqui olha de março de dois mil e vinte e dois
+
+45
+00:02:48.429 --> 00:02:52.020
+se há um arquivo de março de dois mil e vinte e dois,
+
+46
+00:02:52.029 --> 00:02:54.300
+Por que raios que eu tenho?
+
+47
+00:02:54.309 --> 00:02:59.259
+Notas aqui olha de janeiro a fevereiro de dois mil e vinte e dois?
+
+48
+00:02:59.270 --> 00:03:03.199
+Tenho notas de do ano anterior, de dois mil e vinte e um
+
+49
+00:03:03.850 --> 00:03:05.860
+sabe o que? Que significa isso?
+
+50
+00:03:05.869 --> 00:03:13.619
+Notas que foram emitidas e que entraram em atraso Ponto de alerta
+
+51
+00:03:13.630 --> 00:03:17.419
+pra você levantar dentro desses cruzamentos pra levar pro seu cliente.
+
+52
+00:03:17.429 --> 00:03:18.500
+Olha cliente,
+
+53
+00:03:18.509 --> 00:03:21.220
+tô vendo aqui notas de dois mil e vinte e
+
+54
+00:03:21.229 --> 00:03:25.119
+um que entraram na tua escrituração Pode Isso Olha,
+
+55
+00:03:25.130 --> 00:03:29.960
+a nota é de março de dois mil e vinte e um e entrou em março de dois mil e vinte e dois.
+
+56
+00:03:30.429 --> 00:03:35.360
+Olha só vamos ver aqui o valor dessa nota Valor da
+
+57
+00:03:35.369 --> 00:03:40.179
+nota duzentos e trinta e um mil reais vamos ver aqui.
+
+58
+00:03:40.759 --> 00:03:45.889
+Tinha ICMS na nota tinha trinta mil reais de ICMS.
+
+59
+00:03:45.899 --> 00:03:51.740
+Ah, visualizei que é uma devolução CFOP um duzentos e um.
+
+60
+00:03:51.750 --> 00:03:55.330
+Então tá tudo bem cliente, foi uma devolução.
+
+61
+00:03:55.339 --> 00:04:01.110
+Se você vendeu agora, o cliente devolveu, então faz sentido ter uma nota antiga?
+
+62
+00:04:01.190 --> 00:04:05.100
+Faz sentido ter uma nota passada e chegar agora.
+
+63
+00:04:05.110 --> 00:04:08.580
+O que não faz sentido é essa nota ter sido emitida
+
+64
+00:04:08.589 --> 00:04:11.919
+um em um ano e ter sido entrada aqui em outra.
+
+65
+00:04:11.929 --> 00:04:16.459
+Porque se a nota é de devolução, essa devolução demorou um ano pra chegar.
+
+66
+00:04:16.470 --> 00:04:20.640
+Tá estranho, né? Tem que conversar com o cliente e entender o que aconteceu.
+
+67
+00:04:20.649 --> 00:04:24.000
+Vamos visualizar outras notas aqui vou pegar essas?
+
+68
+00:04:24.010 --> 00:04:26.619
+Se são de dois mil e vinte e dois de janeiro, fevereiro,
+
+69
+00:04:27.519 --> 00:04:28.489
+que são antigas.
+
+70
+00:04:28.500 --> 00:04:30.970
+Vamos ver aqui olha bastante notas,
+
+71
+00:04:30.980 --> 00:04:35.089
+mas aí pode ver que a gente tem notas de final de mês aqui,
+
+72
+00:04:35.100 --> 00:04:39.190
+notas de final de mês pra gente pode até fazer sentido,
+
+73
+00:04:39.200 --> 00:04:43.790
+principalmente aqui em fevereiro, porque fevereiro é um mês que tem Carnaval,
+
+74
+00:04:43.859 --> 00:04:47.109
+é um mês que tem vinte e oito dias.
+
+75
+00:04:47.119 --> 00:04:49.670
+Pode ser que notas que sejam emitidas depois do dia
+
+76
+00:04:49.679 --> 00:04:52.670
+vinte Só realmente vão chegar na empresa em março,
+
+77
+00:04:52.679 --> 00:04:54.510
+que é o mês da nossa escrituração.
+
+78
+00:04:54.519 --> 00:04:59.910
+Então tudo bem, mas vejam que aqui a gente tem nota de de vários dias, de fevereiro,
+
+79
+00:04:59.920 --> 00:05:00.230
+hein?
+
+80
+00:05:00.239 --> 00:05:05.350
+Nota de vários dias de janeiro. Vamos dar uma olhada Notas de janeiro?
+
+81
+00:05:05.359 --> 00:05:08.410
+Que notas são essas? Tem algumas notas? Aqui.
+
+82
+00:05:09.619 --> 00:05:10.890
+Vamos visualizar,
+
+83
+00:05:11.589 --> 00:05:17.959
+olha só uma delas teve crédito de ICMS. Então, menos pior, né?
+
+84
+00:05:17.970 --> 00:05:20.660
+Foi um crédito não aproveitado na época certa,
+
+85
+00:05:20.670 --> 00:05:24.839
+mas foi um valor pequeno E olha só compra de matéria-prima!
+
+86
+00:05:24.850 --> 00:05:28.130
+Olha o CFOP aqui Oh compra pra industrialização!
+
+87
+00:05:28.140 --> 00:05:31.559
+Essa nota era de janeiro e só apareceu agora
+
+88
+00:05:31.570 --> 00:05:34.640
+na apuração e era uma compra pra usar no processo
+
+89
+00:05:34.649 --> 00:05:40.015
+industrial que em janeiro deixou se de aproveitar dez mil
+
+90
+00:05:40.026 --> 00:05:43.786
+reais de crédito que está sendo aproveitado só agora,
+
+91
+00:05:43.795 --> 00:05:49.075
+o quanto dez mil reais faria a diferença no caixa desse cliente lá atrás.
+
+92
+00:05:49.085 --> 00:05:51.235
+Aí que está o X da questão.
+
+93
+00:05:51.246 --> 00:05:55.795
+Então aqui fica mais um exemplo de cruzamento referente ao X
+
+94
+00:05:55.805 --> 00:06:00.272
+ML pra validar que tudo está entrando no período correto.
+
+95
+00:06:00.282 --> 00:06:02.992
+E se tiver algo em período incorreto,
+
+96
+00:06:03.002 --> 00:06:06.631
+períodos anteriores aparecendo só agora no arquivo do SPED,
+
+97
+00:06:06.641 --> 00:06:10.652
+fica o alerta pra você sinalizar pro cliente o que que tá acontecendo?
+
+98
+00:06:10.661 --> 00:06:12.552
+Será que a gente não pode implantar aqui um
+
+99
+00:06:12.562 --> 00:06:15.552
+sistema de captura de notas pra evitar esses problemas?
+
+100
+00:06:15.562 --> 00:06:20.391
+Veja só você teve aqui dez mil reais e eu tô falando. Só que em janeiro, né?
+
+101
+00:06:20.402 --> 00:06:23.731
+Nem nem coloquei Se a gente somar aqui os dois meses,
+
+102
+00:06:24.269 --> 00:06:25.320
+vamos somar os!
+
+103
+00:06:25.329 --> 00:06:30.859
+Peguei aqui os dois meses de janeiro e fevereiro e vou pegar tudo que tem base de ICMS,
+
+104
+00:06:31.510 --> 00:06:38.339
+que foram créditos passados. Somei tudo, olha só cento e vinte e sete mil reais
+
+105
+00:06:39.119 --> 00:06:44.450
+créditos de períodos passados que não foram aproveitados na ocasião correta.
+
+106
+00:06:44.459 --> 00:06:48.799
+Então será que realmente esses produtos só apareceram agora na empresa?
+
+107
+00:06:48.809 --> 00:06:50.809
+Só entraram agora na empresa?
+
+108
+00:06:50.820 --> 00:06:55.049
+Fica aí esse ponto de cruzamento pra vocês com
+
+109
+00:06:55.059 --> 00:06:59.369
+relação ao X ML S não escriturados combinado!
+
+110
+00:06:59.380 --> 00:07:02.549
+Vamos pra próximo cruzamento, então vamos lá.

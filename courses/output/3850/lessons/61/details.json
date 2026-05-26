@@ -1,0 +1,33 @@
+{
+  "id": 478429,
+  "title": "Órgãos públicos - tabela de natureza dos rendimentos",
+  "position": 61,
+  "duration": 319,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/27e66092-cd5c-4bfb-9b7f-e2c2538863e6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27e66092-cd5c-4bfb-9b7f-e2c2538863e6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27e66092-cd5c-4bfb-9b7f-e2c2538863e6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27e66092-cd5c-4bfb-9b7f-e2c2538863e6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27e66092-cd5c-4bfb-9b7f-e2c2538863e6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

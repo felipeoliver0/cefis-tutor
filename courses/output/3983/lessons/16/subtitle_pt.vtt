@@ -1,0 +1,133 @@
+WEBVTT
+
+00:00:00.066 --> 00:00:07.500
+- quando existe tríade, como vocês identificaram, existe tríade de lançamento correto. Identificamos
+
+00:00:07.500 --> 00:00:15.150
+- o objetivo da CST, identificamos o objetivo da CFP, e dentro do SPAD fiscal, a gente tem um bloco chamado
+
+00:00:15.150 --> 00:00:22.440
+- Bloco 0. O Bloco 0, ele trata os cadastros dos itens, não só cadastro de item, quando a gente fala
+
+00:00:22.440 --> 00:00:28.286
+- sobre produtos, mas todos os cadastros do seu cliente, seja o próprio cadastro,
+
+00:00:28.738 --> 00:00:35.454
+- Seja o cadastro do fornecedor, seja o cadastro do cliente. Tudo que envolve cadastro está no bloco zero.
+
+00:00:35.618 --> 00:00:43.082
+- E dentro desse bloco zero existem vários registros. O principal registro do SPAD fiscal hoje é o registro
+
+00:00:43.082 --> 00:00:50.063
+- 0200. O registro 0200 identifica os produtos do seu cliente. E dentro da característica do registro
+
+00:00:50.063 --> 00:00:57.319
+- 0200, a gente coloca a NCM, colocamos a CFOP e colocamos, na verdade, a CFOP não, colocamos a alíquota
+
+00:00:57.319 --> 00:01:01.950
+- e colocamos a finalidade do item. Então, dentro do registro 0200,
+
+00:01:02.530 --> 00:01:10.525
+- analisando o que de fato o físico está olhando para ele, ele olha a NCM, a alíquota e o tipo do item.
+
+00:01:10.525 --> 00:01:17.835
+- Esse é um dos registros principais do espédio fiscal. É por aqui que a gente começa a fazer
+
+00:01:17.835 --> 00:01:23.774
+- as auditorias, é por aqui que o validado com sucesso vai fazer com que você
+
+00:01:24.002 --> 00:01:31.018
+- identifique alguns erros. O validado com sucesso pode acontecer, mas se você buscar o registro 0200
+
+00:01:31.018 --> 00:01:38.033
+- e identificar um problema, vocês nunca mais vão emitir ou enviar um espelho fiscal da mesma forma.
+
+00:01:38.033 --> 00:01:45.327
+- O validado com sucesso vai validar a guia e não identificar problemas com o registro 0200, por exemplo.
+
+00:01:45.327 --> 00:01:52.551
+- Então, exemplo aqui pra vocês do registro 0200. Código do item, descrição do item, temos a unidade
+
+00:01:52.551 --> 00:01:53.662
+- de medida ANCM,
+
+00:01:54.434 --> 00:02:02.197
+- e temos a finalidade do item. E veja, aqui estamos falando de um celular com a finalidade de matéria-prima.
+
+00:02:02.197 --> 00:02:09.603
+- Aqui a gente já tem uma reflexão. Por que um item como um celular, ele é uma matéria-prima? Então,
+
+00:02:09.603 --> 00:02:16.868
+- existe uma reflexão para a gente fazer. Qual que é as finalidades que existem dentro do Registro de
+
+00:02:16.868 --> 00:02:20.286
+- Arduzentes, pessoal? Todos os tipos possíveis.
+
+00:02:20.386 --> 00:02:27.729
+- Pode ser revenda, matéria-prima, embalagem, produto em processo, que é o semi-acabado, produto acabado,
+
+00:02:27.729 --> 00:02:35.280
+- subproduto, produto intermediário, material de uso e consumo. Então, é aqui que aquele enfoque declarante
+
+00:02:35.280 --> 00:02:42.276
+- que a gente analisou na escrituração fiscal vem para o SPED fiscal de vocês. Não adianta a gente
+
+00:02:42.276 --> 00:02:49.758
+- só lançar o documento correto olhando a CFEP se o item não está correto conforme a sua classificação.
+
+00:02:49.986 --> 00:02:57.338
+- Então, pode ser que você esteja classificando com a CFLP certa, mas se o fisco buscar se registrar
+
+00:02:57.338 --> 00:03:04.618
+- 200, ele está com uma finalidade diferente. E aí o fisco pode questionar, por que você lançou o
+
+00:03:04.618 --> 00:03:12.043
+- CFLP de revenda se está com matéria-prima ou vice-versa, tá? Então, por isso que existe a tria de
+
+00:03:12.043 --> 00:03:13.790
+- descrituração fiscal.
+
+00:03:14.402 --> 00:03:21.916
+- A NCM também é super importante para a estruturação fiscal de vocês. Novamente, estamos falando
+
+00:03:21.916 --> 00:03:29.505
+- do espérito fiscal, mas antes do espérito fiscal, a gente também emitiu a nota fiscal eletrônica.
+
+00:03:29.505 --> 00:03:37.019
+- São duas obrigações acessórias super importantes para um lançamento correto. A NCM é, de fato,
+
+00:03:37.019 --> 00:03:42.078
+- o CPF, o RG do produto. Então, ela precisa estar de forma correta.
+
+00:03:42.210 --> 00:03:50.165
+- É responsabilidade da área fiscal ou da área contábil realizar a classificação das NCMs? Não.
+
+00:03:50.165 --> 00:03:58.120
+- A classificação da NCM é gerencial, ou seja, ela precisa estar de acordo com a área tributária,
+
+00:03:58.120 --> 00:04:05.918
+- com a área de produto e quem é responsável, o técnico para saber que a NCMX representa a mesa.
+
+00:04:06.946 --> 00:04:14.514
+- Então, você como profissional fiscal, você como profissional contábil, não tem a expertise de demonstrar
+
+00:04:14.514 --> 00:04:21.394
+- o que de fato esse produto conduzido representa numa NCM. O que vocês têm como principal objetivo
+
+00:04:21.394 --> 00:04:28.343
+- e conhecimento é analisar a tributação. E como vocês vão analisar a tributação? Entender como
+
+00:04:28.343 --> 00:04:35.774
+- o Estado ou como a Receita Federal está analisando a mesa nas incidências do Psicofins, do ICMS e do IPI.
+
+00:04:36.386 --> 00:04:43.919
+- Ok? Então, lembre-se, NCM é uma classificação gerencial. Você precisa fazer parte, mas você não
+
+00:04:43.919 --> 00:04:51.524
+- é o responsável por criar a NCM. Então, se você hoje olhar o REIT 0200, identificar algum problema,
+
+00:04:51.524 --> 00:04:58.984
+- ou até mesmo dentro da nota fiscal eletrônica, você precisa repassar as informações para quem é
+
+00:04:58.984 --> 00:05:02.900
+- o responsável técnico daquela criação de uma NCM.

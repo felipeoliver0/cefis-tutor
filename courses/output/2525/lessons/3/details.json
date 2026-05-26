@@ -1,0 +1,33 @@
+{
+  "id": 466665,
+  "title": "Integração de Novos Colaboradores",
+  "position": 3,
+  "duration": 440,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b14f07e8-5d38-4cee-ad53-549d4fb21c2b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b14f07e8-5d38-4cee-ad53-549d4fb21c2b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b14f07e8-5d38-4cee-ad53-549d4fb21c2b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b14f07e8-5d38-4cee-ad53-549d4fb21c2b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b14f07e8-5d38-4cee-ad53-549d4fb21c2b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

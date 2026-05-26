@@ -1,0 +1,33 @@
+{
+  "id": 463354,
+  "title": "Principais características da greve",
+  "position": 7,
+  "duration": 610,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/23056bb9-a2ed-488f-b9d9-98cb31cea28f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23056bb9-a2ed-488f-b9d9-98cb31cea28f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23056bb9-a2ed-488f-b9d9-98cb31cea28f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23056bb9-a2ed-488f-b9d9-98cb31cea28f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23056bb9-a2ed-488f-b9d9-98cb31cea28f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

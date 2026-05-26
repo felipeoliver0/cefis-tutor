@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3032,
+    "title": "Simples Nacional: antecipação tributária",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de antecipação tributária no Simples Nacional, você vai aprender desde as regras de funcionamento da antecipação, prazos, particularidades deste regime tributário para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/d8d6b9ee296d9ec4e22a1898cfa9f4e21707250574.jpg",
+    "goals": [
+      "Apresentar desde as regras de funcionamento da antecipação, prazos, particularidades deste regime tributário para colocar em prática os conhecimentos adquiridos sobre a antecipação tributária no Simples Nacional."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 3183,
+    "keywords": "simples nacional;antecipação tributária;antecipação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 734,
+    "averageRating": 9.24,
+    "practiceAverage": 9.16,
+    "trailer": {
+      "id": "3d7d6dfa-ef46-4b5f-8038-48e4547bd808",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3d7d6dfa-ef46-4b5f-8038-48e4547bd808/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3d7d6dfa-ef46-4b5f-8038-48e4547bd808/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3d7d6dfa-ef46-4b5f-8038-48e4547bd808/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3d7d6dfa-ef46-4b5f-8038-48e4547bd808/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-02-14T00:19:03.000Z",
+      "updatedAt": "2024-02-14T00:19:02.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-02-16T13:28:28.000Z",
+    "recordedAt": "2024-01-29T00:00:00.000Z",
+    "createdAt": "2024-02-06T17:09:42.000Z"
+  }
+}

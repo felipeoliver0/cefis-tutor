@@ -1,0 +1,175 @@
+WEBVTT
+
+00:00:00.034 --> 00:00:07.322
+- Então, agora nós vamos entrar na questão de análise e cálculo da taxa interna de retorno.
+
+00:00:07.322 --> 00:00:15.070
+- Estamos aqui, na nossa jornada, olhando cada um dos principais indicadores. Taxa interna de retorno,
+
+00:00:15.070 --> 00:00:22.742
+- ATIR, é a taxa de juros que torna o valor presente dos fluxos de caixas futuros de um investimento
+
+00:00:22.742 --> 00:00:26.654
+- exatamente igual ao valor do investimento inicial.
+
+00:00:26.978 --> 00:00:34.990
+- Nossa, o que quer dizer isso? Mas vocês vão perceber agora como tudo fecha. Todos os conceitos agora
+
+00:00:34.990 --> 00:00:42.768
+- se fecham. Então vamos lá. No nosso exemplo, nosso velho exemplo, nós temos o nosso investimento
+
+00:00:42.768 --> 00:00:50.857
+- inicial de 145 e os fluxos projetados para esse investimento em cada um dos períodos, ok? Mesma coisa.
+
+00:00:50.857 --> 00:00:53.502
+- 71 ano 1, 74 ano 2, 80 ano 3, 50,
+
+00:00:53.922 --> 00:01:01.418
+- ano 4. Já calculamos nesse fluxo payback simples e payback descontado e acabamos de calcular o valor
+
+00:01:01.418 --> 00:01:08.915
+- presente líquido com a taxa de retorno exigida pelo investidor de 20%, o qual percebemos que o valor
+
+00:01:08.915 --> 00:01:14.206
+- presente é positivo, então o projeto é viável e se caso ele alterar
+
+00:01:14.306 --> 00:01:22.237
+- uma exigência para 35% ao ano, no projeto se torna inviável, porque não recupera no prazo de quatro
+
+00:01:22.237 --> 00:01:29.936
+- anos o valor investido, então ele perderia valor em relação ao montante inicial de investimento.
+
+00:01:29.936 --> 00:01:37.713
+- O que quer dizer essa taxa interna de retorno? Vamos calcular o que significa. Significa o seguinte,
+
+00:01:37.713 --> 00:01:42.718
+- qual é a taxa que esse fluxo representa para igualar o montante
+
+00:01:42.978 --> 00:01:50.352
+- igual ao valor investido, ou seja, qual a taxa implícita nessas parcelas que faz com que o VPL, a priori,
+
+00:01:50.352 --> 00:01:57.794
+- ele seja zero, porque vai igualar o valor de retorno, o montante de retorno igual ao valor do investimento.
+
+00:01:57.794 --> 00:02:04.892
+- Então, agora, a nossa incógnita no nosso fluco, ao invés de a gente colocar a taxa aqui para trazer
+
+00:02:04.892 --> 00:02:11.646
+- o valor presente, nós vamos determinar qual é a taxa mínima que vai fazer com que esse projeto
+
+00:02:11.938 --> 00:02:19.097
+- iguale no seu retorno o valor investido. Então quando nós colocamos como incógnita a própria taxa,
+
+00:02:19.097 --> 00:02:25.422
+- então nós temos inicialmente o valor aqui do investimento igual. Então veja que é como
+
+00:02:25.422 --> 00:02:32.859
+- se nós estivéssemos agora trazendo de uma outra forma esse cálculo. Utilizo a minha parcela 1 e dizendo
+
+00:02:32.859 --> 00:02:39.809
+- aqui que a minha incógnita é a taxa elevada ao período 1. Parcela 2, incógnita continua sendo a
+
+00:02:39.809 --> 00:02:40.574
+- taxa, o K,
+
+00:02:40.706 --> 00:02:47.872
+- elevado a dois períodos, dois anos. Aqui três anos, quatro anos. E aí a nossa incógnita ela vai
+
+00:02:47.872 --> 00:02:55.109
+- ser descoberta e essa incógnita do K é a taxa interna de retorno ou o IRR que é a mesma coisa que
+
+00:02:55.109 --> 00:03:02.346
+- nós comentamos em inglês. Quando nós fazemos esse cálculo a gente descobre que essa taxa interna
+
+00:03:02.346 --> 00:03:04.926
+- de retorno para esse fluxo de caixa
+
+00:03:05.058 --> 00:03:12.574
+- proposto com esse valor de investimento inicial é equivalente a 33,09% ao ano. O que quer dizer isso?
+
+00:03:12.574 --> 00:03:19.871
+- Quer dizer que se a taxa que o acionista ou investidor exigir for menor, o projeto vai ser viável.
+
+00:03:19.871 --> 00:03:27.168
+- Se for maior, o projeto é inviável. Não foi o que a gente viu no valor presente? Vamos lá. Veja
+
+00:03:27.168 --> 00:03:33.662
+- só em forma de gráfico, que fica fácil de entender. Nós temos aqui o valor presente,
+
+00:03:33.762 --> 00:03:41.344
+- E aqui nós temos as taxas de desconto no eixo das abscissas, que é o eixo X, e nas ordenadas,
+
+00:03:41.344 --> 00:03:49.320
+- que é o Y, o valor presente líquido. Quando nós temos aqui essa taxa interna de retorno de 33,09,
+
+00:03:49.320 --> 00:03:55.006
+- o que significa? Se a taxa exigida pelo investidor for abaixo desse 33,
+
+00:03:55.330 --> 00:04:02.182
+- nós teremos um valor presente líquido maior que zero, ou seja, positivo. Não foi o que a gente encontrou.
+
+00:04:02.182 --> 00:04:08.594
+- Se a gente usou aquela taxa de exigência de 20%, lembra que o valor presente deu positivo? E lembram
+
+00:04:08.594 --> 00:04:14.943
+- que quando nós usamos uma taxa de 35, que no caso aqui é acima da taxa interna de retorno que esse
+
+00:04:14.943 --> 00:04:21.354
+- fluxo propicia, nós percebemos que o valor presente era negativo, menor do que zero? Então é isso.
+
+00:04:21.354 --> 00:04:23.806
+- Nós temos uma taxa mínima que iguala
+
+00:04:23.938 --> 00:04:30.264
+- que é a taxa interna de retorno, que iguala o fluxo, ou seja, trazendo por determinada taxa, eu sei
+
+00:04:30.264 --> 00:04:36.966
+- exatamente que o que eu investi é o que eu vou receber na data zero. Se, ao determinar essa taxa interna,
+
+00:04:36.966 --> 00:04:43.606
+- você conhece a taxa interna e analisando o que o investidor gostaria de ter, a gente já consegue saber,
+
+00:04:43.606 --> 00:04:49.932
+- dependendo dessa premissa que o investidor defina como taxa mínima de atratividade, a gente já vai
+
+00:04:49.932 --> 00:04:52.062
+- entender que o projeto é viável
+
+00:04:52.226 --> 00:04:58.820
+- é inviável. Então, é o que nós conseguimos identificar, olhamos por meio de um mesmo exemplo
+
+00:04:58.820 --> 00:05:05.548
+- simplificado, como se faz o cálculo payback simples, payback descontado, valor presente líquido e
+
+00:05:05.548 --> 00:05:12.613
+- taxa interna de retorno. Então, vejo o mesmo exemplo. Então, em resumo, com o cálculo da taxa interna
+
+00:05:12.613 --> 00:05:19.678
+- de retorno, podemos verificar que quando a exigência de retorno for, ou foi, no nosso caso aqui, de 35,
+
+00:05:19.842 --> 00:05:28.630
+- o valor presente foi negativo em 4,24. Nós fizemos esse cálculo. Indicando que o projeto não retornaria
+
+00:05:28.630 --> 00:05:36.844
+- ao investidor o montante mínimo de investimento exigido, que era o 145. Ou seja, investimento 145,
+
+00:05:36.844 --> 00:05:45.304
+- com VPL igual a negativo em 4,24. Ou seja, ele retornaria menos para o investidor, 146. Então, vejam,
+
+00:05:45.304 --> 00:05:49.246
+- a gente consegue identificar. Quando a taxa foi
+
+00:05:49.346 --> 00:05:55.290
+- de 20, ele retornou um valor presente maior. Quando a taxa foi acima daquele limite da taxa interna
+
+00:05:55.290 --> 00:06:01.233
+- de retorno, que a nossa taxa interna de retorno foi 3309, a gente percebe que ele destruiu o valor.
+
+00:06:01.233 --> 00:06:07.236
+- Por que destruiu o valor? Porque não condiz com aquela premissa definida pelo investidor. Para ele,
+
+00:06:07.236 --> 00:06:13.239
+- é destruir valor. Agora, para o primeiro, se ele exige 20, para ele está ok, está agregando valor
+
+00:06:13.239 --> 00:06:18.767
+- para o projeto. Ele tem aquela expectativa. Então, depende muito da expectativa de retorno.

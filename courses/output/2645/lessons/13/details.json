@@ -1,0 +1,33 @@
+{
+  "id": 468665,
+  "title": "Tributação da receita de construção",
+  "position": 13,
+  "duration": 381,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e94b0671-7577-497e-b61a-c4cd78bcd15c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e94b0671-7577-497e-b61a-c4cd78bcd15c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e94b0671-7577-497e-b61a-c4cd78bcd15c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e94b0671-7577-497e-b61a-c4cd78bcd15c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e94b0671-7577-497e-b61a-c4cd78bcd15c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

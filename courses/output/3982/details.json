@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3982,
+    "title": "Assédio moral nas relações de trabalho",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Assédio moral nas relações de trabalho - curso prático, você irá aprender na prática tudo o que precisa saber sobre assédio moral nas relações de trabalho. Aprenderá os fundamentos e a prática de como identificar e prevenir o assédio moral, protocolos da empresa para lidar com denúncias, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre assédio moral nas relações de trabalho.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/3d01099f-383a-4009-99f7-9d865405b572-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Assédio moral nas relações de trabalho: curso prático é a capacitação para a aplicação prática de prevenção e combate ao assédio moral nas relações de trabalho, promovendo um ambiente de trabalho saudável, ético e respeitoso."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 2122,
+    "keywords": "assédio;moral",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 13,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 834,
+    "averageRating": 9.52,
+    "practiceAverage": 9.42,
+    "trailer": {
+      "id": "27a26caa-461b-483e-b430-c5b81415b388",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/27a26caa-461b-483e-b430-c5b81415b388/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/27a26caa-461b-483e-b430-c5b81415b388/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/27a26caa-461b-483e-b430-c5b81415b388/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/27a26caa-461b-483e-b430-c5b81415b388/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-09-25T19:42:58.000Z",
+      "updatedAt": "2025-09-25T19:42:58.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-09-25T19:44:05.000Z",
+    "recordedAt": "2025-09-15T00:00:00.000Z",
+    "createdAt": "2025-09-25T01:08:16.000Z"
+  }
+}

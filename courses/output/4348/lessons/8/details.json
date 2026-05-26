@@ -1,0 +1,33 @@
+{
+  "id": 484086,
+  "title": "Neutralidade",
+  "position": 8,
+  "duration": 184,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5d88f311-c5d1-4721-8e5d-1469d5d85cb8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d88f311-c5d1-4721-8e5d-1469d5d85cb8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d88f311-c5d1-4721-8e5d-1469d5d85cb8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d88f311-c5d1-4721-8e5d-1469d5d85cb8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5d88f311-c5d1-4721-8e5d-1469d5d85cb8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

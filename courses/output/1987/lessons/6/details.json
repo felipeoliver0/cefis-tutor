@@ -1,0 +1,33 @@
+{
+  "id": 460283,
+  "title": "Principais regras fiscais",
+  "position": 6,
+  "duration": 285,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c1a191bf-2206-405c-b700-3d86fee1dfe0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c1a191bf-2206-405c-b700-3d86fee1dfe0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c1a191bf-2206-405c-b700-3d86fee1dfe0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c1a191bf-2206-405c-b700-3d86fee1dfe0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c1a191bf-2206-405c-b700-3d86fee1dfe0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

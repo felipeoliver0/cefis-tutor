@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2045,
+    "title": "Modelo de Excelência em Gestão (MEG)",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático sobre Modelo de Excelência em Gestão (MEG), você vai aprender desde os fundamentos até as principais ferramentas para a implementação deste, que é um dos pilares da da FNQ (Fundação Nacional da Qualidade Excelência da Gestão) na concretização da sua missão, que é a de estimular e apoiar as organizações brasileiras.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/414ff8571c03ae098a94f2cff65e70b61728428615.jpg",
+    "goals": [
+      "Apresentar as características e procedimentos relacionados á implementação do Modelo de Excelência em Gestão (MEG)."
+    ],
+    "teacher": {
+      "id": 551185,
+      "name": "Danilo Romão",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1640282903.jpeg"
+    },
+    "duration": 7799,
+    "keywords": "meg;modelo;excelência;gestão",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 23,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 357,
+    "averageRating": 9.08,
+    "practiceAverage": 8.99,
+    "trailer": {
+      "id": "da8f204c-2059-48dd-ba93-558df26a585c",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/da8f204c-2059-48dd-ba93-558df26a585c/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/da8f204c-2059-48dd-ba93-558df26a585c/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/da8f204c-2059-48dd-ba93-558df26a585c/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/da8f204c-2059-48dd-ba93-558df26a585c/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-05-21T17:35:22.000Z",
+      "updatedAt": "2022-05-21T17:35:22.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-05-21T17:37:08.000Z",
+    "recordedAt": "2022-04-23T00:00:00.000Z",
+    "createdAt": "2022-04-25T17:15:42.000Z"
+  }
+}

@@ -1,0 +1,469 @@
+WEBVTT
+
+1
+00:00:00.289 --> 00:00:06.579
+Nós vimos ali pessoal a importação do da do SPED, através da gente copiar e colar.
+
+2
+00:00:06.590 --> 00:00:12.380
+Mas eu posso já criar uma rotina, digamos assim, ou um arquivo que toda vez eu vou lá,
+
+3
+00:00:12.390 --> 00:00:13.500
+só seleciono o SPED.
+
+4
+00:00:13.510 --> 00:00:16.299
+E ele importa sozinho. Como que funciona isso?
+
+5
+00:00:16.309 --> 00:00:20.379
+Que é o modo de importação efetiva, né? Então, vamos.
+
+6
+00:00:20.389 --> 00:00:23.920
+Vamos abrir uma planilha nova aqui E eu vou mostrar pra vocês
+
+7
+00:00:26.100 --> 00:00:30.590
+Bom pessoal nesse modelo que a gente fez aqui no exercício um ponto um, né?
+
+8
+00:00:30.600 --> 00:00:32.770
+Na atividade, um ponto um aí do nosso Montreal
+
+9
+00:00:33.340 --> 00:00:36.990
+a gente importou ele e eu fui aí toda vez que eu tive que eu
+
+10
+00:00:37.000 --> 00:00:40.950
+fui importar um arquivo do SPED Eu vou ter que fazer todo esse trabalho,
+
+11
+00:00:40.959 --> 00:00:44.590
+mas existe uma outra forma em que a gente já deixa
+
+12
+00:00:44.599 --> 00:00:49.150
+pronto essa parte de quebrar os arquivos por barra vertical.
+
+13
+00:00:49.159 --> 00:00:52.349
+E aí se você pode utilizar pra diversos outros formatos,
+
+14
+00:00:52.360 --> 00:00:57.970
+então vou me imaginar aqui eu vou criar uma nova planilha com o eu venho aqui dados
+
+15
+00:00:58.959 --> 00:01:03.549
+de texto ou C s v eu seleciono, vou selecionar SPED contábil. Agora
+
+16
+00:01:04.169 --> 00:01:05.599
+cliquei em importar.
+
+17
+00:01:05.610 --> 00:01:08.839
+Bom, Ele é um processinho, um pouco demorado dependendo do ar da mãe do arquivo.
+
+18
+00:01:08.849 --> 00:01:12.220
+ele pode demorar um pouquinho mais bom no que ele
+
+19
+00:01:12.230 --> 00:01:17.680
+veio aqui eu coloco personalizado no formato que tá aqui.
+
+20
+00:01:17.690 --> 00:01:20.080
+Chamo a barrinha vertical, oh,
+
+21
+00:01:24.970 --> 00:01:28.459
+dou um clique aqui em qualquer lugar. Tá vendo que aí ele já deixou prontinho.
+
+22
+00:01:28.470 --> 00:01:29.480
+Eu coloco
+
+23
+00:01:30.199 --> 00:01:30.989
+carregar
+
+24
+00:01:32.370 --> 00:01:32.959
+bom
+
+25
+00:01:33.569 --> 00:01:37.379
+no que eu carreguei. Ele fez o quê? Pessoal, Ele já trouxe pra mim.
+
+26
+00:01:37.389 --> 00:01:45.000
+A f d contribuições tem um outro pessoal que a gente deixa o Excel vinculado a um T x T,
+
+27
+00:01:45.669 --> 00:01:51.580
+por exemplo. Eu venho aqui, né? Creio uma nova planilha dados
+
+28
+00:01:52.239 --> 00:01:54.930
+eh obter dados.
+
+29
+00:01:54.940 --> 00:01:57.730
+Venho aqui dessa informação e seleciono,
+
+30
+00:01:57.739 --> 00:02:02.569
+por exemplo f d contribuições O que eu selecionei é f d contribuições
+
+31
+00:02:02.580 --> 00:02:05.849
+Ele vai me pedir algumas informações Eu venho e falo assim Olha,
+
+32
+00:02:05.860 --> 00:02:08.070
+eu quero delimitar por personalizado
+
+33
+00:02:09.018 --> 00:02:12.608
+falo que eu quero o personalizado é barra vertical vendo um
+
+34
+00:02:12.619 --> 00:02:15.608
+clique aqui pra ele calcular aí no que ele calcular,
+
+35
+00:02:15.619 --> 00:02:18.229
+ele vai reorganizar e fazer uma tabela.
+
+36
+00:02:18.238 --> 00:02:21.089
+Okay! Beleza aí eu venho Carrego
+
+37
+00:02:23.559 --> 00:02:28.029
+se por algum motivo esse T x t que eu tô utilizando ele como base.
+
+38
+00:02:28.039 --> 00:02:32.729
+Por exemplo, eu tô usando o f d Contribuições Eu vim colar uma outra informação,
+
+39
+00:02:32.740 --> 00:02:37.589
+apagar o que tá aqui e colocar em outro no que eu for naquela tabela lá no Excel
+
+40
+00:02:39.679 --> 00:02:44.750
+se eu for nessa tabela aqui no Excel que eu criei Opa essa daqui que eu criei
+
+41
+00:02:45.910 --> 00:02:51.380
+e atualizar eu venho aqui oh dados atualizar ele vai trocar os dados por aquele t x, t
+
+42
+00:02:51.979 --> 00:02:54.089
+vem, vamos fazer uma outra aqui oh,
+
+43
+00:02:54.100 --> 00:02:58.570
+eu vou pegar aquela planilha lá da F D Contribuições aqui oh ah,
+
+44
+00:02:58.580 --> 00:03:02.470
+aquela planilha aquele l t x t e vou salvar com um outro nome aqui oh,
+
+45
+00:03:02.479 --> 00:03:09.809
+vou chamar ele de um ponto dois, que é a nossa atividade, né aqui oh, ta
+
+46
+00:03:12.259 --> 00:03:13.250
+automática
+
+47
+00:03:14.789 --> 00:03:15.380
+bom!
+
+48
+00:03:16.179 --> 00:03:17.929
+No que eu vou lá no meu Excell
+
+49
+00:03:19.240 --> 00:03:25.029
+eu vou criar uma aqui e vou chamar aquela rocha dados
+
+50
+00:03:25.039 --> 00:03:29.110
+Obter dados de arquivo de T X T Aí eu salvei lá
+
+51
+00:03:29.770 --> 00:03:32.399
+um ponto dois tab automatizada
+
+52
+00:03:34.190 --> 00:03:34.779
+Bom,
+
+53
+00:03:35.869 --> 00:03:43.100
+chamo aqui de personalizado porque eu vou separar por barra vertical certo.
+
+54
+00:03:43.110 --> 00:03:46.119
+Dou um clique aqui pra ele fazer o cálculo E ele
+
+55
+00:03:46.130 --> 00:03:50.220
+tá carregando o quê pessoal a f D Contribuições coloquei carregar
+
+56
+00:03:52.330 --> 00:03:53.039
+beleza.
+
+57
+00:03:53.050 --> 00:03:57.259
+Okay se por algum motivo eu vou lá naquele t x
+
+58
+00:03:57.270 --> 00:03:59.910
+t que eu chamei de um ponto dois tab automático.
+
+59
+00:03:59.919 --> 00:04:01.990
+Apago tudo o que tem nele,
+
+60
+00:04:02.000 --> 00:04:06.539
+apaguei tudo o que tem nele e vou pegar uma CD que a gente tem de modelo aqui, Oh,
+
+61
+00:04:06.550 --> 00:04:07.779
+de contábil!
+
+62
+00:04:07.789 --> 00:04:09.039
+Copio
+
+63
+00:04:11.610 --> 00:04:13.479
+e colo lá naquele t x t
+
+64
+00:04:14.589 --> 00:04:16.858
+Venho aqui e salvo
+
+65
+00:04:17.798 --> 00:04:20.670
+opa nessa planilha que eu tenho
+
+66
+00:04:21.798 --> 00:04:23.070
+eu acabei de criar.
+
+67
+00:04:25.410 --> 00:04:28.559
+Eu venho aqui dados, atualizar dados.
+
+68
+00:04:35.079 --> 00:04:37.070
+Opa essa aqui dados,
+
+69
+00:04:37.709 --> 00:04:41.070
+atualizar dados que que ele fez pessoal,
+
+70
+00:04:41.079 --> 00:04:45.399
+Ele carregou agora as informações do que da CD que eu criei.
+
+71
+00:04:45.410 --> 00:04:48.820
+Então por que que eu tô falando isso? Ah, Tiago!
+
+72
+00:04:48.829 --> 00:04:52.660
+Eh toda vez eu vou ter que ficar lá, criando, separando barrinha vertical. Não!
+
+73
+00:04:52.670 --> 00:04:57.679
+Você cria uma automatizada salva ela. Cê vai pegar o T x T e vai salvar por cima.
+
+74
+00:04:57.690 --> 00:04:58.660
+Aí, por exemplo,
+
+75
+00:04:59.299 --> 00:05:01.950
+quero voltar a pegar spa de contribuições que
+
+76
+00:05:01.959 --> 00:05:03.730
+que eu vou pegar o spa de contribuições?
+
+77
+00:05:04.390 --> 00:05:06.059
+Deixa eu fechar todos os arquivos aqui
+
+78
+00:05:06.649 --> 00:05:09.320
+eu vou pegar o meu spa de contribuições lá de modelo
+
+79
+00:05:10.390 --> 00:05:15.859
+arquivo, Sei viés que é salvar como né? E vou salvar por cima da tabela. Atualizada
+
+80
+00:05:17.149 --> 00:05:21.279
+no que eu salvei em cima da tabela atualizada eu vou aqui, venho aqui os dados.
+
+81
+00:05:21.290 --> 00:05:24.339
+Opa dados, atualizo, opa,
+
+82
+00:05:24.350 --> 00:05:29.440
+Voltou dados as informações do spa de contribuições que eu estou dizendo com isso
+
+83
+00:05:29.450 --> 00:05:33.200
+eu estou dizendo que através desta rotina que a gente acabou de fazer,
+
+84
+00:05:33.209 --> 00:05:37.320
+eu posso a cada hora trazer um spa diferente.
+
+85
+00:05:37.329 --> 00:05:40.299
+Eu salvo essa planilha e coloco, então o que que eu vou fazer?
+
+86
+00:05:40.309 --> 00:05:43.940
+Chama lá, planilha de importação de vamos chamar ela aqui, oh,
+
+87
+00:05:44.880 --> 00:05:47.549
+arquivo, salvar como
+
+88
+00:05:48.399 --> 00:05:50.070
+um ponto dois
+
+89
+00:05:50.829 --> 00:05:51.940
+planilha,
+
+90
+00:05:55.089 --> 00:05:57.059
+importação e SPED
+
+91
+00:05:58.750 --> 00:06:03.019
+No que eu chamei, a planilha de importação, SPED, eu tenho lá no meus,
+
+92
+00:06:03.029 --> 00:06:08.140
+nos meus arquivos salvar uma cópia, procurar depois esse material todinho.
+
+93
+00:06:08.149 --> 00:06:10.200
+Depois não, vocês vão ter a cê tem acesso,
+
+94
+00:06:10.209 --> 00:06:15.019
+todos vocês têm acesso a todos esses materiais pra vocês exercitarem aí no
+
+95
+00:06:17.459 --> 00:06:17.929
+ótimo
+
+96
+00:06:20.809 --> 00:06:24.399
+um ponto dois. Então o que que a gente vai ter? Oh, pessoal, oh!
+
+97
+00:06:25.410 --> 00:06:28.140
+Um ponto dois pela medida de importação um ponto dois
+
+98
+00:06:28.149 --> 00:06:30.459
+tabela automatizada Então toda vez que eu pegar um spa,
+
+99
+00:06:30.470 --> 00:06:34.380
+eu salvo em cima da tabela atualizada, beleza que eu salvei em cima,
+
+100
+00:06:34.390 --> 00:06:35.079
+O que que aconteceu?
+
+101
+00:06:35.089 --> 00:06:38.959
+Pessoal? Eu tenho aí tranquilamente tranquilamente
+
+102
+00:06:40.109 --> 00:06:44.149
+uma rotina, eu basta eu abrir esse excel e mandar atualizar, abrir e mandar excel.
+
+103
+00:06:44.160 --> 00:06:47.940
+Atualizar só tem um detalhe pessoal na hora que eu tô com ele aqui, oh,
+
+104
+00:06:48.559 --> 00:06:51.609
+não é um arquivo fixo, tá vinculado a uma tabela troquei a tabela.
+
+105
+00:06:51.619 --> 00:06:55.309
+Ele perde referência que que a gente tem que fazer contra o C, né?
+
+106
+00:06:56.399 --> 00:06:59.170
+Abre uma outra planilha e conta coloca como valor.
+
+107
+00:06:59.179 --> 00:07:02.429
+Aí vem a informação eu posso trabalhar porque no
+
+108
+00:07:02.440 --> 00:07:04.489
+momento que ele tá vinculado a uma outra tabela,
+
+109
+00:07:04.500 --> 00:07:07.950
+na hora que eu atualizar aquela trocar aquela tabela ele perde, a referência
+
+110
+00:07:08.369 --> 00:07:12.420
+entendeu? Então essa informação é a informação que a gente tem aí nessa rotina.
+
+111
+00:07:12.429 --> 00:07:17.540
+Um ponto dois uma atualização, uma automatização, digamos assim,
+
+112
+00:07:17.549 --> 00:07:18.480
+atualização não.
+
+113
+00:07:18.489 --> 00:07:22.140
+Eu tenho uma automa automatização que toda vez que eu atualizar,
+
+114
+00:07:22.149 --> 00:07:27.559
+eu consigo que rapidamente ter uma nova ferramenta lá do nosso Excel
+
+115
+00:07:28.769 --> 00:07:35.380
+Beleza Bom, aqui nós falamos lá na importação do Excel, Barrinha vertical,
+
+116
+00:07:35.390 --> 00:07:37.899
+entretanto a gente viu que tem outras possibilidades.
+
+117
+00:07:37.910 --> 00:07:40.480
+A gente vai fazer um teste agora específico, com livro de entrada.

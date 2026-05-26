@@ -1,0 +1,33 @@
+{
+  "id": 478411,
+  "title": "Registros 2010",
+  "position": 39,
+  "duration": 342,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/78f1915d-0df5-46a0-b661-968896af997c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78f1915d-0df5-46a0-b661-968896af997c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78f1915d-0df5-46a0-b661-968896af997c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78f1915d-0df5-46a0-b661-968896af997c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78f1915d-0df5-46a0-b661-968896af997c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 461012,
+  "title": "Responsabilidades do Estado",
+  "position": 12,
+  "duration": 324,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/50d047c1-8a32-498e-89dd-921cae00320b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/50d047c1-8a32-498e-89dd-921cae00320b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/50d047c1-8a32-498e-89dd-921cae00320b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/50d047c1-8a32-498e-89dd-921cae00320b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/50d047c1-8a32-498e-89dd-921cae00320b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

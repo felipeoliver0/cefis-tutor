@@ -1,0 +1,169 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.099
+É dentro desse ajuste que a gente começa a entender qual é o objetivo da carta de correção.
+
+2
+00:00:05.660 --> 00:00:11.699
+A carta de correção não é sobre alterar o tudo, mas sim alguns determinados campos.
+
+3
+00:00:12.279 --> 00:00:14.199
+Quais são os limites da carta de correção?
+
+4
+00:00:14.800 --> 00:00:19.379
+Apesar de sua ampla utilização dentro das operações dos documentos fiscais e eletrônicos,
+
+5
+00:00:19.980 --> 00:00:23.079
+ela possui limites claramente definidos na legislação.
+
+6
+00:00:23.079 --> 00:00:27.140
+Então, o fisco nos dá a possibilidade de alterar, mas ele dá limites claramente definidos na legislação. Então, o FISCO nos dá a possibilidade de alterar,
+
+7
+00:00:27.640 --> 00:00:31.320
+mas ele dá limites, ou seja, não é sobre o todo,
+
+8
+00:00:31.800 --> 00:00:33.859
+não é sobre todas as informações.
+
+9
+00:00:34.399 --> 00:00:39.560
+Não se pode corrigir o todo utilizando uma carta de correção.
+
+10
+00:00:40.299 --> 00:00:43.960
+Existem algumas operações que precisam ser complementadas.
+
+11
+00:00:43.960 --> 00:00:50.479
+E aí o FISCO criou, então, um documento complementar, uma NFE complementar.
+
+12
+00:00:50.880 --> 00:00:58.880
+Então, mesmo que exista a carta de correção, nós temos outras possibilidades de alterar aquele documento fiscal operacional,
+
+13
+00:00:59.479 --> 00:01:28.900
+seja por meio de cancelamento, seja por meio, então, de nota fiscal eletrônica complementar. FIS Não tem como a gente falar sobre a carta de correção sem antes a gente entender a diferença do que é uma DANF e do que é um XML.
+
+14
+00:01:29.780 --> 00:01:34.319
+A DANF é um documento auxiliar sobre a operação fiscal.
+
+15
+00:01:35.120 --> 00:01:40.920
+Já o XML é o que de fato é o documento fiscal.
+
+16
+00:01:40.920 --> 00:01:45.379
+Então o XML é um documento fiscal legal.
+
+17
+00:01:46.040 --> 00:01:52.560
+Existem muitas tags que a gente não consegue observar dentro da Danf.
+
+18
+00:01:53.180 --> 00:01:58.120
+Então, o XML que é o documento comprobatório para nós.
+
+19
+00:01:58.120 --> 00:02:05.019
+Como eu disse para vocês, ele foi instituído, a nota escola eletrônica, por meio do Decreto 6022 de 2007.
+
+20
+00:02:05.840 --> 00:02:09.860
+Qual que é o principal objetivo do sistema informatizado Projeto SPED?
+
+21
+00:02:09.860 --> 00:02:15.280
+É trazer, então, sistemas de informatização para cumprimento das nossas obrigações acessórias.
+
+22
+00:02:15.879 --> 00:02:22.139
+O decreto, lá em 2007, criou, então, o SPED fiscal e a nota fiscal eletrônica.
+
+23
+00:02:22.620 --> 00:02:26.300
+Mas, ao longo do caminho, nós temos diversas obrigações acessórias
+
+24
+00:02:26.300 --> 00:02:30.360
+e, consequentemente, novos documentos fiscais eletrônicos.
+
+25
+00:02:30.840 --> 00:02:34.900
+E que o Fisco veio criando também formas de trazer, então, correções.
+
+26
+00:02:35.379 --> 00:02:38.740
+Por meio de carta de correção, por meio de cancelamento,
+
+27
+00:02:39.319 --> 00:02:43.460
+por meio de novos documentos para trazer uma complementação de um valor,
+
+28
+00:02:44.219 --> 00:03:06.379
+por meio de cancelamentos extemporâneos, quando a gente fala sobre alguns estados. FISCO nós temos formas de retificar e substituir aquele arquivo que foi indevido.
+
+29
+00:03:07.379 --> 00:03:09.539
+Então, o fisco, por meio das obrigações acessórias,
+
+30
+00:03:09.680 --> 00:03:14.000
+ele vem trazendo, então, formas de a gente corrigir uma inconsistência,
+
+31
+00:03:14.879 --> 00:03:16.960
+porque, infelizmente, pode acontecer.
+
+32
+00:03:17.900 --> 00:03:20.139
+Mas, como eu disse para vocês no início dessa aula,
+
+33
+00:03:21.219 --> 00:03:23.340
+nós precisamos trabalhar a conformidade,
+
+34
+00:03:23.639 --> 00:03:46.439
+nós precisamos detalhar os procedimentos acerca do faturamento, FISCAL A CST que representa a incidência.
+
+35
+00:03:46.960 --> 00:03:50.340
+Existem tantos códigos específicos dentro da nossa escola eletrônica.
+
+36
+00:03:51.439 --> 00:03:56.960
+Será que à frente da operação que está emitindo os documentos fiscais da sua empresa,
+
+37
+00:03:57.539 --> 00:04:00.400
+eles sabem da importância de cada campo?
+
+38
+00:04:00.400 --> 00:04:10.180
+E vocês vão perceber que ao longo do caminho, os estados vêm se pronunciando sobre correções utilizadas dentro da carta de correção.
+
+39
+00:04:10.560 --> 00:04:19.000
+Eu falei para vocês um caso prático de uma aluna que em um único dia teve 300 cartas de correção emitidas.
+
+40
+00:04:20.040 --> 00:04:32.740
+O que essa empresa fez com o fisco? Ela bateu 300 vezes na porta do fisco dizendo que existe uma inconsistência naquela operação, naquele sistema, naquela emissão.
+
+41
+00:04:33.220 --> 00:04:34.040
+Então, atenção.
+
+42
+00:04:35.100 --> 00:04:40.939
+Será que você sabe quais são todas as obrigações acessórias que nós temos hoje?

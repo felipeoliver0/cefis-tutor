@@ -1,0 +1,33 @@
+{
+  "id": 485850,
+  "title": "Optante ao lucro presumido",
+  "position": 16,
+  "duration": 284,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/787de0b7-e907-4f4e-9f15-d8c17537f358/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/787de0b7-e907-4f4e-9f15-d8c17537f358/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/787de0b7-e907-4f4e-9f15-d8c17537f358/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/787de0b7-e907-4f4e-9f15-d8c17537f358/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/787de0b7-e907-4f4e-9f15-d8c17537f358/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

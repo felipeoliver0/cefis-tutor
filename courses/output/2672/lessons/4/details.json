@@ -1,0 +1,33 @@
+{
+  "id": 468964,
+  "title": "Normas Complementares Difal",
+  "position": 4,
+  "duration": 263,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/49276e19-d3e1-4a97-87ae-b1b6f5927b41/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49276e19-d3e1-4a97-87ae-b1b6f5927b41/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49276e19-d3e1-4a97-87ae-b1b6f5927b41/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49276e19-d3e1-4a97-87ae-b1b6f5927b41/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49276e19-d3e1-4a97-87ae-b1b6f5927b41/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

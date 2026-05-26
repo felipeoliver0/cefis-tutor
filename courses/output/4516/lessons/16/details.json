@@ -1,0 +1,33 @@
+{
+  "id": 487989,
+  "title": "Vantagem comparativa -  Parte 2",
+  "position": 16,
+  "duration": 204,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/30c25ffd-9565-410e-975e-0a7c06994468/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30c25ffd-9565-410e-975e-0a7c06994468/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30c25ffd-9565-410e-975e-0a7c06994468/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30c25ffd-9565-410e-975e-0a7c06994468/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30c25ffd-9565-410e-975e-0a7c06994468/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

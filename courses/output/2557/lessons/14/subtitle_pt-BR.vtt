@@ -1,0 +1,421 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.619
+pessoal. Agora vamos falar sobre o DANF. O DANF é um nome que significa o quê?
+
+2
+00:00:04.630 --> 00:00:08.979
+Documento auxiliar da nota fiscal eletrônica, ou seja,
+
+3
+00:00:08.989 --> 00:00:12.100
+ele tem uma função meramente auxiliar, né?
+
+4
+00:00:12.109 --> 00:00:13.939
+Então, aqui, antes de mais nada,
+
+5
+00:00:13.949 --> 00:00:18.659
+a gente precisa tirar da ideia de que aquele documento em papel, né.
+
+6
+00:00:18.670 --> 00:00:21.579
+Ele é a nota fiscal, aquilo ali não é a nota fiscal,
+
+7
+00:00:21.590 --> 00:00:23.940
+aquilo é um documento auxiliar tanto.
+
+8
+00:00:23.950 --> 00:00:29.000
+Ele é auxiliar que sem a existência da respectiva nota fiscal eletrônica, ou seja,
+
+9
+00:00:29.239 --> 00:00:33.279
+esse documento ele representa uma nota Se você não encontrar essa nota tá.
+
+10
+00:00:33.290 --> 00:00:35.299
+Se você fizer a busca no site do Fisco,
+
+11
+00:00:35.310 --> 00:00:39.889
+você não achar aquele papel não tem validade alguma, né?
+
+12
+00:00:39.900 --> 00:00:40.619
+O que vale.
+
+13
+00:00:40.630 --> 00:00:44.759
+Como eu já falei pra vocês, é o documento eletrônico que está em poder do Fisco.
+
+14
+00:00:44.770 --> 00:00:51.090
+Então DANF, ele não é nota fiscal, e ele só tem validade como documento auxiliar,
+
+15
+00:00:51.099 --> 00:00:56.500
+se houver a respectiva nota fiscal eletrônica, autorizada lá no site do Fisco,
+
+16
+00:00:56.509 --> 00:00:57.849
+conforme a gente pode consultar,
+
+17
+00:00:57.860 --> 00:01:00.250
+já mostrei aqui pra vocês como que a gente pode consultar?
+
+18
+00:01:00.259 --> 00:01:05.010
+Tá, então DANF é um documento auxiliar? Tá bom.
+
+19
+00:01:05.019 --> 00:01:08.209
+Como que esse documento auxiliar é esse documento auxiliar?
+
+20
+00:01:08.220 --> 00:01:09.669
+Ele tem o seguinte aspecto ele,
+
+21
+00:01:09.959 --> 00:01:13.449
+a gente viu, agora acabou de ver ali nos documentos substituídos,
+
+22
+00:01:13.459 --> 00:01:17.930
+vocês viram que o DANF ele tem um formato parecido com a nota fiscal, Modelo um, né?
+
+23
+00:01:17.940 --> 00:01:23.489
+Então isso foi feito propositalmente pra não criar assim um um, um, um,
+
+24
+00:01:23.500 --> 00:01:26.370
+choque forte, aí no no, no mercado, nas empresas, né,
+
+25
+00:01:26.379 --> 00:01:30.650
+de trocar um documento pelo outro e também pelos postos de fiscalização,
+
+26
+00:01:30.660 --> 00:01:32.250
+Os conferências das empresas,
+
+27
+00:01:32.260 --> 00:01:36.010
+que eram acostumados a buscar as informações em determinado local.
+
+28
+00:01:36.019 --> 00:01:39.750
+Isso foi feito parecido de forma proposital, mas a gente pode ver
+
+29
+00:01:40.089 --> 00:01:43.900
+eh algumas diferenças marcantes aqui eu vou mostrar pra vocês primeiro
+
+30
+00:01:43.910 --> 00:01:48.300
+o seguinte Ele tem esse código de barras bidimensional aqui,
+
+31
+00:01:48.309 --> 00:01:48.819
+né?
+
+32
+00:01:48.830 --> 00:01:53.699
+Esse código de barras eh unidimensional esse código de barras
+
+33
+00:01:53.709 --> 00:01:56.620
+ele pode ser lido com leitor de código de barras?
+
+34
+00:01:56.629 --> 00:02:00.019
+E o que tem nesse código de barras? Essa informação aqui?
+
+35
+00:02:00.029 --> 00:02:02.519
+Oh da chave de acesso do documento?
+
+36
+00:02:02.599 --> 00:02:06.769
+Tá A chave de acesso São quarenta e quatro números, né?
+
+37
+00:02:06.779 --> 00:02:09.110
+É uma sequência de quarenta e quatro números
+
+38
+00:02:09.119 --> 00:02:12.449
+que representa de maneira única e inequívoca.
+
+39
+00:02:12.460 --> 00:02:14.729
+Ou seja, só tem essa no Brasil.
+
+40
+00:02:14.740 --> 00:02:20.009
+Tá nota fiscal Com essa chave de acesso tá todos os documentos, tem chave de acesso.
+
+41
+00:02:20.020 --> 00:02:20.350
+Tá
+
+42
+00:02:20.589 --> 00:02:25.979
+Então a nota fiscal eletrônica tem uma chave de acesso. O C T tem a chave de acesso.
+
+43
+00:02:25.990 --> 00:02:29.070
+A nota do consumidor tem outra chave de acesso e nunca uma
+
+44
+00:02:29.080 --> 00:02:31.710
+chave de um documento é igual a chave de outro documento.
+
+45
+00:02:31.720 --> 00:02:35.639
+Então, ela é o identificador único daquele documento fiscal eletrônico.
+
+46
+00:02:35.649 --> 00:02:40.160
+Tá, então, esse leitor, aqui. Ele tem a chave de acesso, a função da chave de acesso.
+
+47
+00:02:40.169 --> 00:02:40.619
+É o quê?
+
+48
+00:02:40.869 --> 00:02:44.320
+É acessar esse documento no site do Fisco, né?
+
+49
+00:02:44.330 --> 00:02:45.380
+Então, eh vai, ace,
+
+50
+00:02:45.389 --> 00:02:49.919
+vai acessar lá na consulta pública e obter ali a cópia desse documento?
+
+51
+00:02:49.929 --> 00:02:52.449
+Tá? Então, esta é a chave de acesso.
+
+52
+00:02:52.460 --> 00:02:55.619
+Com essa chave, você tem acesso a nota fiscal eletrônica.
+
+53
+00:02:55.630 --> 00:02:58.619
+Outra coisa que é muito, mas muito importante, é o seguinte,
+
+54
+00:02:59.460 --> 00:03:04.470
+logo abaixo aqui, da chave de acesso tem o número do protocolo de autorização, né?
+
+55
+00:03:04.479 --> 00:03:07.449
+Eu falei pra vocês agora que o DANF só é válido se
+
+56
+00:03:07.460 --> 00:03:12.350
+houver uma respectiva nota fiscal autorizada lá no site do Fisco,
+
+57
+00:03:12.360 --> 00:03:12.630
+né?
+
+58
+00:03:12.639 --> 00:03:16.589
+Então, aqui a gente tem o número dessa autorização, tá então o DANF.
+
+59
+00:03:16.600 --> 00:03:19.820
+Ele só pode ser impresso depois que o documento for autorizado,
+
+60
+00:03:19.830 --> 00:03:24.274
+porque quando o documento é autorizado, você obtém o protocolo e esse protocolo,
+
+61
+00:03:24.285 --> 00:03:28.335
+juntamente com a data e a hora de emissão do protocolo, constam aqui no DANF.
+
+62
+00:03:28.345 --> 00:03:28.574
+Tá?
+
+63
+00:03:28.585 --> 00:03:29.014
+Então,
+
+64
+00:03:29.024 --> 00:03:32.414
+isso foi feito pra garantir que o DANF só seja impresso
+
+65
+00:03:32.425 --> 00:03:37.294
+após autorização de uso do documento fiscal correspondente Tá bom.
+
+66
+00:03:37.304 --> 00:03:38.514
+Então, no mais tem
+
+67
+00:03:38.889 --> 00:03:42.419
+os dados do remetente, os dados do destinatário, né?
+
+68
+00:03:42.429 --> 00:03:46.500
+Os dados do produto, dos produtos que estão aqui nesse documento, né?
+
+69
+00:03:46.509 --> 00:03:51.139
+Então, os dados do produto, os valores totais, então esse é o nosso amiguinho aqui.
+
+70
+00:03:51.149 --> 00:03:53.839
+O DANF tá nesse DANF aqui também, Pessoal,
+
+71
+00:03:54.410 --> 00:03:57.080
+tem aquele canhoto de entrega mais pra frente.
+
+72
+00:03:57.089 --> 00:04:00.580
+A gente vai ver que tem até um substituto eletrônico pra isso.
+
+73
+00:04:00.589 --> 00:04:02.179
+É uma oportunidade pra empresa usar.
+
+74
+00:04:02.190 --> 00:04:05.779
+Tá, mas nesse DANF aqui tem até o o canhoto, ali o recibo ali,
+
+75
+00:04:05.789 --> 00:04:08.380
+que quando o transportador entrega a mercadoria,
+
+76
+00:04:08.389 --> 00:04:10.979
+ele pede pra alguém assinar pra comprovar a entrega da mercadoria.
+
+77
+00:04:10.990 --> 00:04:11.520
+Tá bom,
+
+78
+00:04:12.350 --> 00:04:16.480
+Então esse que é o DANF da nota fiscal eletrônica n f
+
+79
+00:04:16.488 --> 00:04:20.238
+A modelo cinquenta e cinco na nota fiscal do consumidor eletrônica,
+
+80
+00:04:20.250 --> 00:04:23.640
+na nota modelo Meia cinco A gente tem um F um pouco diferente.
+
+81
+00:04:23.649 --> 00:04:27.510
+Vocês tão vendo que esse Duff da nota fiscal Modelo Meia cinco ele é um
+
+82
+00:04:27.890 --> 00:04:33.480
+bem mais simples, né? É o NFE bem simplificado? Ele tem muito menos informação, tá.
+
+83
+00:04:33.489 --> 00:04:36.200
+Ele só tem informação geral dos produtos,
+
+84
+00:04:36.209 --> 00:04:40.480
+não tem informação detalhada dos impostos conforme a gente tem ali no NFE da N F,
+
+85
+00:04:40.489 --> 00:04:41.980
+a modelo cinquenta e cinco, né?
+
+86
+00:04:42.339 --> 00:04:45.070
+E tem conforme eu falei, pra vocês, aquele q r code, né?
+
+87
+00:04:45.079 --> 00:04:49.750
+Aquele código que é fácil a gente consultar pelo aparelho celular. Tá isso?
+
+88
+00:04:49.760 --> 00:04:51.670
+Todo mundo hoje em dia tem um telefone celular,
+
+89
+00:04:51.679 --> 00:04:53.869
+pode apontar a câmera do celular pra consultar
+
+90
+00:04:53.880 --> 00:04:56.269
+esse documento lá no site do Fisco consultando,
+
+91
+00:04:56.279 --> 00:04:58.429
+verificando assim a sua autenticidade.
+
+92
+00:04:58.440 --> 00:04:59.029
+Tá bom,
+
+93
+00:04:59.040 --> 00:05:02.230
+Então esse é um DANF da nota fiscal eletrônica
+
+94
+00:05:02.239 --> 00:05:06.739
+Modelo Meia cinco Okay Duff da NFC Tá bom,
+
+95
+00:05:06.750 --> 00:05:10.700
+Então a diferença mais marcante dos documentos é o seguinte aquilo
+
+96
+00:05:10.709 --> 00:05:13.100
+ali vai ficar num papel a quatro em um papel grande.
+
+97
+00:05:13.109 --> 00:05:17.779
+Isso aqui vai tá impresso numa impressora de bobina térmica, né?
+
+98
+00:05:17.790 --> 00:05:20.339
+Então é uma impressora que solta uma bobina.
+
+99
+00:05:20.350 --> 00:05:22.989
+Ela não tem um tamanho fixo lá ele pode ser maior ou menor,
+
+100
+00:05:23.000 --> 00:05:25.750
+mas a largura é a mesma uma uma largura mais fina.
+
+101
+00:05:25.760 --> 00:05:28.239
+Igualzinha era o cupom fiscal, né? Assim muito semelhante
+
+102
+00:05:28.690 --> 00:05:30.299
+e aqui tem o código de barras Q!
+
+103
+00:05:30.309 --> 00:05:35.059
+R code e aqui tem o código de barras unidimensional o código Barras
+
+104
+00:05:35.070 --> 00:05:38.579
+pra consulta a chave de acesso ali no site do Fisco Tá bom,
+
+105
+00:05:38.589 --> 00:05:40.880
+esses são os nossos DF s Tá bom!

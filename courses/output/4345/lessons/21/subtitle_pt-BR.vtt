@@ -1,0 +1,205 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.400
+O próximo cálculo do mesmo formato já é o com base na IN.
+
+2
+00:00:06.400 --> 00:00:18.300
+E olha só então que interessante, com base na IN eu apenas vou aumentar o meu percentual de presunção
+
+3
+00:00:18.300 --> 00:01:12.260
+quando ultrapassar 5 milhões de faturamento no ano. O que é o CEPIS? CEFIS mas no ano foi R$ 5,10 milhões. Aí aqui eu já coloco o percentual de presunção majorado,
+
+4
+00:01:12.659 --> 00:01:15.459
+não 32, mas 35,20,
+
+5
+00:01:15.459 --> 00:01:21.280
+o que já vai para uma base no trimestre de R$ 443 mil.
+
+6
+00:01:21.739 --> 00:03:26.120
+E coloco um percentual de ajuste para os trimestres anteriores, que é a diferença, 3,20. CEFIS CEFIS 54.508 reais IRCS juntos
+
+7
+00:03:26.120 --> 00:03:32.060
+e por último aqui eu tenho o cálculo com base na lei
+
+8
+00:03:32.060 --> 00:03:36.439
+veja que então o cálculo com base na lei
+
+9
+00:03:36.439 --> 00:03:40.340
+eu tenho os mesmos faturamentos dos trimestres
+
+10
+00:03:40.340 --> 00:04:49.000
+a mesma aplicação do percentual de 32 sem majoração no primeiro, no segundo, no terceiro trimestre CEPIS CEFIS E aí sim eu multiplico por 3,20. Então eu chego numa base de apenas 320 reais adicionais.
+
+11
+00:04:49.000 --> 00:04:57.779
+Que aí sim eu somo com a base anterior. A minha base então é de 403 mil, que aí sim eu calculo o IR adicional.
+
+12
+00:04:58.779 --> 00:05:07.600
+Então veja que aqui eu chego em 376 mil e.800 e qual que é a minha diferença?
+
+13
+00:05:08.339 --> 00:05:15.500
+Eu tenho uma diferença de 40 mil, olha só, entre o cálculo da lei e o cálculo da IENE.
+
+14
+00:05:16.060 --> 00:05:24.500
+40 mil para o IRPJ e mais 14.400 para a contribuição social.
+
+15
+00:05:24.500 --> 00:06:10.379
+Veja que aqui já dá uma diferença de 54 mil. CEFIS continua com 32% por causa do período nonagesimal e deu 155,116.
+
+16
+00:06:10.379 --> 00:06:33.620
+Aqui no cálculo da IN, eu aplico o percentual apenas a partir do... tem que só fazer um ajustezinho aqui pessoal de colocar 32% para tudo aqui tá e aqui o 3,20 que é
+
+17
+00:06:33.620 --> 00:07:06.000
+o ajuste a gente fazer sobre o total do faturamento apenas do primeiro mais o segundo trimestre por CEFIS não se aplica para o primeiro trimestre por causa do período nonagesimal, tá bom?
+
+18
+00:07:06.000 --> 00:07:08.500
+Então tem essa questãozinha aqui, né?
+
+19
+00:07:08.500 --> 00:07:17.000
+E aí sim eu somo os dois valores aqui e multiplico 9% sobre esse valor.
+
+20
+00:07:17.000 --> 00:07:32.839
+E chego aqui no total de 151, 488. Deixa eu só ver uma coisa aqui, que no cálculo conservador já aumentou a partir do
+
+21
+00:07:32.839 --> 00:08:06.000
+segundo trimestre, aqui no quarto trimestre ficou 32, a diferença é 3,20, e aplica o 3,20 sobre o CEFIS CEFIS CEFIS
+
+22
+00:08:06.000 --> 00:08:08.000
+CEFIS
+
+23
+00:08:08.000 --> 00:08:10.000
+CEFIS
+
+24
+00:08:10.000 --> 00:08:12.000
+CEFIS
+
+25
+00:08:12.000 --> 00:08:14.000
+CEFIS
+
+26
+00:08:14.000 --> 00:08:16.000
+CEFIS
+
+27
+00:08:16.000 --> 00:08:18.000
+CEFIS
+
+28
+00:08:18.000 --> 00:08:20.000
+CEFIS
+
+29
+00:08:20.000 --> 00:08:22.000
+CEFIS
+
+30
+00:08:22.000 --> 00:08:24.000
+CEFIS
+
+31
+00:08:24.000 --> 00:08:26.519
+CEFIS CEFIS Só um minutinho aqui para eu fazer o seguinte. Vamos refazer essa fórmula juntos?
+
+32
+00:08:26.519 --> 00:08:30.699
+É importante para sempre rever a lógica do Excel.
+
+33
+00:08:31.300 --> 00:08:33.600
+Então o que a gente tem que fazer aqui?
+
+34
+00:08:33.879 --> 00:08:36.759
+A gente tem que tributar a diferença aqui.
+
+35
+00:08:37.480 --> 00:08:45.220
+A IN manda tributar a totalidade do faturamento dos trimestres anteriores.
+
+36
+00:08:47.179 --> 00:08:47.759
+Mas o primeiro trimestre não entra,
+
+37
+00:08:50.860 --> 00:08:51.059
+porque a contribuição social tem o período nonagesimal.
+
+38
+00:08:54.700 --> 00:08:54.919
+Então, só entra o faturamento do segundo trimestre,
+
+39
+00:08:59.580 --> 00:09:00.019
+do terceiro trimestre e mais 10 mil do quarto trimestre,
+
+40
+00:09:02.840 --> 00:09:03.360
+que é o que excedeu 5 milhões.
+
+41
+00:09:46.299 --> 00:09:49.100
+Então, o que a gente vai somar aqui? CEFIS perceba que até esse cálculo conservador aqui não é bom que esse caso ficou até um pouquinho maior do que o cálculo com base na IN.
+
+42
+00:09:50.080 --> 00:09:55.240
+E aí vamos ver aqui o cálculo com base na lei se está correto aqui.
+
+43
+00:09:55.720 --> 00:10:00.759
+Primeiro trimestre continua com percentual de 32%,
+
+44
+00:10:00.759 --> 00:10:31.720
+não tem aplicação por causa do período nonagesimal. CEFIS O quarta trimestre, veja que ultrapassou os 5 milhões, mas foi dentro do trimestre, aqui eu mantive 32%.
+
+45
+00:10:31.720 --> 00:10:36.460
+E o diferencial de 3,20 aqui eu estou calculando sobre quem?
+
+46
+00:10:37.379 --> 00:11:08.000
+Apenas sobre o excedente de 5 milhões, ou seja, apenas sobre 10 mil multiplicado 3,20%. CEFIS CEFIS
+
+47
+00:11:08.000 --> 00:11:12.000
+CEFIS
+
+48
+00:11:12.000 --> 00:11:16.000
+CEFIS
+
+49
+00:11:16.000 --> 00:11:20.000
+CEFIS
+
+50
+00:11:20.000 --> 00:11:24.000
+CEFIS
+
+51
+00:11:24.000 --> 00:11:26.000
+CEFIS

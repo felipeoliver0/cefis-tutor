@@ -1,0 +1,274 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.800
+-  O bloco C e o D, que vai trazer os contextos do que está cadastrado, porque é o que a gente lança,
+
+00:00:06.800 --> 00:00:11.120
+-  são os documentos fiscais que a gente lança, tanto de entrada quanto de saída.
+
+00:00:11.120 --> 00:00:16.960
+-  Então, todos os documentos que estão lá, eles vão vir com os cadastros do bloco zero.
+
+00:00:16.960 --> 00:00:23.700
+-  Então, por isso que o físico valida o que está no bloco zero, juntamente com o que está escriturado
+
+00:00:23.700 --> 00:00:25.160
+-  no bloco C e D.
+
+00:00:25.160 --> 00:00:28.960
+-  E o bloco C e o D, ele representa tanto a entrada quanto a saída.
+
+00:00:28.960 --> 00:00:33.760
+-  A saída existe uma dispensa de incluir os itens.
+
+00:00:33.760 --> 00:00:37.760
+-  Então, vocês só vão identificar o totalizador da nota fiscal eletrônica.
+
+00:00:37.760 --> 00:00:41.760
+-  Já as entradas precisa também dos itens, né?
+
+00:00:41.760 --> 00:00:47.760
+-  Então, vocês vão ver todos os documentos de energia elétrica, gás, água, transporte de conhecimento,
+
+00:00:47.760 --> 00:00:49.760
+-  comunicação e telecomunicação.
+
+00:00:49.760 --> 00:00:53.760
+-  Temos todos os documentos comprobatórios que nosso sistema tributário tem.
+
+00:00:53.760 --> 00:00:59.760
+-  Cupom fiscal, nota fiscal de venda a consumidor ou a própria nota fiscal eletrônica.
+
+00:00:59.760 --> 00:01:06.760
+-  Todo o bloco C tem relação aos registros fiscais sobre as operações, com documentos comprobatórios.
+
+00:01:06.760 --> 00:01:10.760
+-  O bloco C, ele representa grande parte das escriturações,
+
+00:01:10.760 --> 00:01:16.760
+-  porque se lida com a prática comercial, ou seja, a nota fiscal eletrônica.
+
+00:01:16.760 --> 00:01:19.760
+-  É ela que vai demonstrar as informações.
+
+00:01:19.760 --> 00:01:22.760
+-  Dentro do bloco C, quais são os principais registros?
+
+00:01:22.760 --> 00:01:26.760
+-  O C100, onde trata a obrigatoriedade do documento.
+
+00:01:26.760 --> 00:01:30.760
+-  O C170, onde demonstra os itens desse documento fiscal.
+
+00:01:30.760 --> 00:01:35.760
+-  E o C190, que trata a totalização do documento fiscal eletrônico.
+
+00:01:35.760 --> 00:01:38.760
+-  Então, dentro do bloco C, vai ser lançado o documento fiscal eletrônico.
+
+00:01:38.760 --> 00:01:44.760
+-  E esses são os três principais registros, onde o fisco valida o que está no bloco 0,
+
+00:01:44.760 --> 00:01:47.760
+-  juntamente com o que está registrado.
+
+00:01:47.760 --> 00:01:52.760
+-  Além disso, o fisco também pode buscar o XML para cruzar as informações.
+
+00:01:52.760 --> 00:02:02.760
+-  Ele busca o XML e busca o cadastro juntamente com o bloco C100, C170 e o C190.
+
+00:02:02.760 --> 00:02:04.760
+-  O mesmo se dá com o bloco D.
+
+00:02:04.760 --> 00:02:08.760
+-  Mas o bloco D, ele lida com transporte e comunicação, por exemplo.
+
+00:02:08.760 --> 00:02:14.760
+-  Então, existe o D100, D190, onde trata os itens dos documentos.
+
+00:02:14.760 --> 00:02:17.760
+-  E o D190, onde registra a prática analítica.
+
+00:02:17.760 --> 00:02:22.760
+-  Então, diferente dos itens, porque a gente tem o C170 no bloco C,
+
+00:02:22.760 --> 00:02:25.760
+-  o transporte não tem, porque o transporte não refere-se a itens,
+
+00:02:25.760 --> 00:02:27.760
+-  mas sim a uma apreciação de serviço.
+
+00:02:27.760 --> 00:02:30.760
+-  Então, existem outras características do D100,
+
+00:02:30.760 --> 00:02:32.760
+-  que a gente pode olhar dentro do guia prático,
+
+00:02:32.760 --> 00:02:35.760
+-  onde a gente consegue observar quais são os campos que precisam ter,
+
+00:02:35.760 --> 00:02:38.760
+-  que é diferente da nota fiscal eletrônica.
+
+00:02:38.760 --> 00:02:44.760
+-  Mas lembre-se, quando é lançado, vai precisar lançar o D100 e o D190.
+
+00:02:44.760 --> 00:02:48.760
+-  Comunicação, D500 e o D590.
+
+00:02:48.760 --> 00:02:51.760
+-  Não existe o item, porque não tem uma referência de item,
+
+00:02:51.760 --> 00:02:55.760
+-  mas sim uma prestação de serviço.
+
+00:02:55.760 --> 00:02:59.760
+-  Todo e qualquer tipo de informação que está dentro desses registros
+
+00:02:59.760 --> 00:03:01.760
+-  está no documento fiscal eletrônico.
+
+00:03:01.760 --> 00:03:04.760
+-  Então, por exemplo, o registro C100 refere-se ao quê?
+
+00:03:04.760 --> 00:03:08.760
+-  Ao cadastro e ao totalizador.
+
+00:03:08.760 --> 00:03:11.760
+-  Ou seja, o que tem de base de cálculo, o valor total da operação.
+
+00:03:11.760 --> 00:03:16.760
+-  O C110, caso haja um complemento do documento fiscal eletrônico
+
+00:03:16.760 --> 00:03:20.760
+-  nas informações complementares, vai estar no C110.
+
+00:03:20.760 --> 00:03:23.760
+-  O C160 é o volume de transporte.
+
+00:03:23.760 --> 00:03:27.760
+-  Pode ser que a gente tenha uma obrigatoriedade de lançar o volume de transporte.
+
+00:03:27.760 --> 00:03:30.760
+-  Dentro do documento fiscal eletrônico, a gente tem essa informação.
+
+00:03:30.760 --> 00:03:33.760
+-  Onde faz o lançamento? No C160.
+
+00:03:33.760 --> 00:03:38.760
+-  E o C170 é onde a gente demonstra os itens do documento fiscal eletrônico.
+
+00:03:38.760 --> 00:03:41.760
+-  Então, quais são os itens? Qual o cadastro do produto?
+
+00:03:41.760 --> 00:03:45.760
+-  Quais são as NCMs? Quais as CFOPs?
+
+00:03:45.760 --> 00:03:48.760
+-  Quais as alíquotas que foram utilizadas?
+
+00:03:48.760 --> 00:03:52.760
+-  Então, dentro do bloco C existem os registros padrões,
+
+00:03:52.760 --> 00:03:58.760
+-  que é o C100, o C170 e o C190, onde trata o registro analítico.
+
+00:03:58.760 --> 00:04:03.760
+-  Mas existem alguns registros, como por exemplo o C110 e o C660,
+
+00:04:03.760 --> 00:04:08.760
+-  que trabalham uma característica, algo específico,
+
+00:04:08.760 --> 00:04:15.760
+-  e geralmente os estados também atrelam a obrigatoriedade ou não-obrigatoriedade do registro.
+
+00:04:15.760 --> 00:04:21.760
+-  Exemplo das informações que o Fisco faz entre o 0200 e os lançamentos.
+
+00:04:21.760 --> 00:04:29.760
+-  Veja novamente o 0200, código do item de um celular, o código é 123456,
+
+00:04:29.760 --> 00:04:35.760
+-  a NCM do celular e está com uma finalidade de matéria-prima.
+
+00:04:35.760 --> 00:04:38.760
+-  A finalidade de matéria-prima, como a gente identificou,
+
+00:04:38.760 --> 00:04:45.760
+-  ele é um produto adquirido, que pode ser um produto que seja utilizado para o processo,
+
+00:04:45.760 --> 00:04:51.760
+-  de uma fabricação, por exemplo, então ele é adquirido para consumo,
+
+00:04:51.760 --> 00:04:55.760
+-  mas ele não é o resultado daquele processo, daquele processo produtivo.
+
+00:04:55.760 --> 00:05:01.760
+-  Então, o celular aqui, a gente olhando agora de outro modo, matéria-prima já está errado, por
+
+00:05:01.760 --> 00:05:01.760
+-  quê?
+
+00:05:01.760 --> 00:05:06.760
+-  O celular é um produto acabado, já é o final, certo?
+
+00:05:06.760 --> 00:05:11.760
+-  Esse mesmo código lá no 670, onde a gente demonstra os itens,
+
+00:05:11.760 --> 00:05:19.760
+-  é o mesmo código, 1, 2, 3, 4, 5, 6, a CST de incidência está 0000,
+
+00:05:19.760 --> 00:05:26.760
+-  a incidência de 000 se trata como base nacional tributado integralmente do ICMS,
+
+00:05:26.760 --> 00:05:33.760
+-  a CFP dentro dessa composição está 1556, o que que é 1556?
+
+00:05:33.760 --> 00:05:42.760
+-  Compra de matéria, material para uso e consumo, e aí a orientação, lá nos 0200 está como?
+
+00:05:42.760 --> 00:05:46.760
+-  Esse código, matéria-prima, o que que o físico vai cruzar?
+
+00:05:46.760 --> 00:05:52.760
+-  O que está lá e o que foi lançado aqui, ele vai cruzar as informações em tempo real,
+
+00:05:52.760 --> 00:05:55.760
+-  dessas informações, ele nem buscou o documento fiscal eletrônico,
+
+00:05:55.760 --> 00:06:01.760
+-  ele simplesmente busca os 0200 e o lançamento, e aqui a gente já vê uma inconsistência,
+
+00:06:01.760 --> 00:06:04.760
+-  e ele pode trazer isso desde uma fiscalização.
+
+00:06:04.760 --> 00:06:10.760
+-  O que vocês podem fazer? Já fazer esse cruzamento de dados,
+
+00:06:10.760 --> 00:06:16.760
+-  busque os 0200 e busque o que está sendo lançado no bloco C.
+
+00:06:16.760 --> 00:06:21.760
+-  E lembre-se, identifique o que está sendo alterado dentro do bloco 0200, por quê?
+
+00:06:21.760 --> 00:06:26.760
+-  Se você alterar no próprio programa validador, ele é offline,
+
+00:06:26.760 --> 00:06:31.760
+-  ou seja, quando você for gerar UFD contribuições que também têm o mesmo registro,
+
+00:06:31.760 --> 00:06:33.760
+-  ele vai de forma incorreta.
+
+00:06:33.760 --> 00:06:37.760
+-  Então, caso haja uma inconsistência dentro de um cadastro,
+
+00:06:37.760 --> 00:06:42.760
+-  é importante a gente também trazer à luz dentro do sistema operacional,
+
+00:06:42.760 --> 00:06:47.760
+-  porque senão você pode ter inconsistência nas demais obrigações excessórias,
+
+00:06:47.760 --> 00:06:48.900
+-  nas demais entregas.

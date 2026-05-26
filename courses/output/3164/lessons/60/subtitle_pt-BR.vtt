@@ -1,0 +1,1273 @@
+WEBVTT
+
+1
+00:00:02.630 --> 00:00:05.119
+vamos em frente aí com o nosso curso de
+
+2
+00:00:05.130 --> 00:00:08.180
+F D Escrituração fiscal Digital aqui pela CFIS,
+
+3
+00:00:08.189 --> 00:00:11.439
+onde a gente vai ver agora uma parte um pouquinho mais
+
+4
+00:00:11.449 --> 00:00:16.760
+prática do curso sobre a F DRF tá nessa parte prática,
+
+5
+00:00:16.770 --> 00:00:20.000
+a gente vai abordar a documentação arquivo X ML os layouts e
+
+6
+00:00:20.010 --> 00:00:23.440
+tudo mais pra ter um contato assim mais íntimo e mais prático,
+
+7
+00:00:23.450 --> 00:00:25.180
+aí com esse documento tá,
+
+8
+00:00:25.540 --> 00:00:31.870
+mas ela é um pouco diferente dos outros? Porque a f, d e c m SP i a gente tem o p v a, né?
+
+9
+00:00:31.879 --> 00:00:34.369
+Que é o programa validador que ele eh
+
+10
+00:00:34.380 --> 00:00:37.290
+auxilia a gente na construção do arquivo digital.
+
+11
+00:00:37.299 --> 00:00:41.450
+A F D, contribuição estatal do PG e que é programa gerador de escrituração,
+
+12
+00:00:41.459 --> 00:00:46.209
+que também eh auxilia a gente aí nesse propósito, mas a f, d, R F não tem, né?
+
+13
+00:00:46.450 --> 00:00:50.860
+Ela parece ali uma nota fiscal eletrônica, um conhecimento de transporte.
+
+14
+00:00:50.869 --> 00:00:53.419
+A gente tem um arquivo x ML e uns manuais ali,
+
+15
+00:00:53.430 --> 00:00:57.060
+que ensinam a gente a gerar esse arquivo e tratar essas informações.
+
+16
+00:00:57.069 --> 00:00:58.869
+E é isso que a gente vai fazer aqui.
+
+17
+00:00:58.880 --> 00:01:02.220
+A gente vai abrir pra vocês os manuais, né,
+
+18
+00:01:02.229 --> 00:01:09.040
+E vai dar uma passada aí num evento importante da F D R f Pra gente ver aí na prática,
+
+19
+00:01:09.050 --> 00:01:11.980
+como que fica o arquivo final que vai ser transmitido pro fisico?
+
+20
+00:01:11.989 --> 00:01:13.879
+Tá, Então vamos lá, pessoal
+
+21
+00:01:14.769 --> 00:01:19.220
+aqui, Pessoal, a gente trouxe a documentação técnica da F D, hein? F.
+
+22
+00:01:19.230 --> 00:01:25.160
+Tá, vocês tão vendo que no portal SPED a gente tem aqui a F d ref tá.
+
+23
+00:01:25.819 --> 00:01:30.629
+E na documentação nós temos o que temos o manual de orientação,
+
+24
+00:01:30.639 --> 00:01:34.790
+temos especificação, técnica e temos os demais documentos?
+
+25
+00:01:34.800 --> 00:01:40.550
+Tá, eh, eu trouxe aqui pra vocês que esses documentos eles são atinentes ao negócio,
+
+26
+00:01:40.559 --> 00:01:40.690
+né?
+
+27
+00:01:40.699 --> 00:01:46.199
+Ou seja tem informações que é mais pro contabilista, pro auditor, pro empresário!
+
+28
+00:01:46.209 --> 00:01:49.930
+Ou seja, que não! É tão ligado aí a área de T I
+
+29
+00:01:50.150 --> 00:01:53.400
+e a gente tem as informações que são cem por cento ligadas.
+
+30
+00:01:53.410 --> 00:01:55.699
+Aí a área de t i como programador,
+
+31
+00:01:55.709 --> 00:01:58.559
+um analista de sistemas ou até o gerente de projeto tá?
+
+32
+00:01:58.569 --> 00:02:01.639
+Então, essa documentação tá dividida, aqui tá posta, né?
+
+33
+00:02:01.650 --> 00:02:04.599
+A documentação tá posta e esse é o público alvo!
+
+34
+00:02:04.610 --> 00:02:10.880
+Tá, a gente vai ver aqui que para o negócio, ou seja pro contabilista, pro auditor,
+
+35
+00:02:10.889 --> 00:02:11.699
+pro empresário,
+
+36
+00:02:12.000 --> 00:02:15.449
+a gente tem o manual de orientação do usuário,
+
+37
+00:02:15.460 --> 00:02:18.559
+tá então o manual de orientação do usuário.
+
+38
+00:02:18.570 --> 00:02:23.229
+Ele é direcionado aqui pro público de negócio não pro público da T i. Tá
+
+39
+00:02:23.990 --> 00:02:27.940
+os layouts, as regras e as tabelas.
+
+40
+00:02:27.949 --> 00:02:32.979
+A gente colocou aqui, assim como as notas técnicas, com essa linha tracejada,
+
+41
+00:02:32.990 --> 00:02:38.250
+porque é bom, talvez o contabilista, o auditor saber o empresário,
+
+42
+00:02:38.259 --> 00:02:43.354
+se ele vai dar instrução para o pessoal da UTI, de como construir as informações.
+
+43
+00:02:43.365 --> 00:02:44.654
+É bom também saber às vezes,
+
+44
+00:02:44.664 --> 00:02:48.585
+pra você saber como vai prestar aquela determinada informação.
+
+45
+00:02:48.595 --> 00:02:52.835
+É bom saber porque, caso ocorra algum erro de validação no arquivo,
+
+46
+00:02:52.845 --> 00:02:57.115
+a gente sabe onde está a informação pra gente desvencilhar
+
+47
+00:02:57.125 --> 00:03:02.205
+desse problema e poder transmitir a escrituração sem maiores transtornos.
+
+48
+00:03:02.214 --> 00:03:02.235
+Tá?
+
+49
+00:03:02.720 --> 00:03:05.610
+Então esses aí são as informações que são mais
+
+50
+00:03:05.619 --> 00:03:08.529
+ou menos atinentes a área de de negócio.
+
+51
+00:03:08.539 --> 00:03:10.750
+E temos também as notas orientativa, né?
+
+52
+00:03:10.759 --> 00:03:14.809
+As notas orientativa elas são também relacionadas com o negócio,
+
+53
+00:03:14.820 --> 00:03:19.869
+porque nas notas orientativa tem orientação de como vai ser feito o preenchimento,
+
+54
+00:03:19.880 --> 00:03:22.080
+como vai agir em determinada situação.
+
+55
+00:03:22.089 --> 00:03:26.410
+Então uma informação mais de negócio tá por outro lado pessoal,
+
+56
+00:03:26.419 --> 00:03:27.789
+a gente tem pra área de t I
+
+57
+00:03:28.059 --> 00:03:30.309
+o manual do desenvolvedor, é claro,
+
+58
+00:03:30.320 --> 00:03:34.110
+né Que é de fundamental importância temos os layouts,
+
+59
+00:03:34.119 --> 00:03:37.429
+as regras e as tabelas aqui vocês estão vendo que tá com a farinha
+
+60
+00:03:37.440 --> 00:03:43.020
+preta fechada porque é muito importante o pessoal de t I ter essa informação,
+
+61
+00:03:43.029 --> 00:03:44.550
+mensagens do sistema, né?
+
+62
+00:03:44.559 --> 00:03:47.990
+Pra saber se a informação enviada foi recebida com sucesso?
+
+63
+00:03:48.000 --> 00:03:51.250
+Se deu algum erro, se deu erro? Qual erro que foi, né?
+
+64
+00:03:51.490 --> 00:03:56.259
+As consultas do WSL W SL é uma linguagem que faz
+
+65
+00:03:56.270 --> 00:04:00.399
+a descrição dos serviços dos web serves dos serviços web que estão
+
+66
+00:04:00.630 --> 00:04:01.559
+disponível, né?
+
+67
+00:04:01.570 --> 00:04:05.199
+Então é importante o programador saber dessa descrição pra saber
+
+68
+00:04:05.210 --> 00:04:08.220
+como que vai enviar ali a informação de maneira adequada.
+
+69
+00:04:08.229 --> 00:04:09.600
+Notas técnicas, né?
+
+70
+00:04:09.610 --> 00:04:15.470
+Que são movimentações aí, alterações nos arquivos, aí nos serviços,
+
+71
+00:04:15.479 --> 00:04:16.779
+nos layouts e tudo mais, né?
+
+72
+00:04:16.790 --> 00:04:19.959
+São feitos por notas técnicas, Tá? E as notas orientativa.
+
+73
+00:04:19.970 --> 00:04:26.005
+É bom também o programador pessoal saber porque às vezes na tem alguma forma
+
+74
+00:04:26.015 --> 00:04:29.924
+de prestar informação diferente e tudo mais e é importante ele saber disso.
+
+75
+00:04:29.934 --> 00:04:34.885
+Tá então a documentação técnica da F D R tá dividida dessa maneira?
+
+76
+00:04:34.894 --> 00:04:35.125
+Tá,
+
+77
+00:04:35.135 --> 00:04:38.204
+agora a gente vai abrir o layout do O
+
+78
+00:04:38.214 --> 00:04:41.065
+layout do documento vai abrir as regras e as tabelas
+
+79
+00:04:41.075 --> 00:04:46.684
+pra gente ver como que fica o lançamento aí dum arquivo X ML de um evento Tá bom?
+
+80
+00:04:46.695 --> 00:04:48.265
+Então vamos lá, pessoal
+
+81
+00:04:49.809 --> 00:04:55.600
+então pessoal, tá aqui, tá, vamos, Vamos lá, a gente trouxe aqui eh
+
+82
+00:04:56.429 --> 00:05:01.679
+esse registro Q R quarenta dez tá pagamentos e créditos a beneficiar
+
+83
+00:05:01.690 --> 00:05:05.679
+pessoa física por se tratar de um evento bastante importante aqui,
+
+84
+00:05:05.690 --> 00:05:12.690
+desse lado da tela a gente tem eh, a gente tem a especificação lá no layout.
+
+85
+00:05:12.700 --> 00:05:15.959
+Como que deve ser feito, e do outro lado, aqui,
+
+86
+00:05:15.970 --> 00:05:19.559
+da tela onde vocês tão vendo aqui essa bolinha amarela piscando bolinha,
+
+87
+00:05:19.570 --> 00:05:20.660
+laranjada piscando,
+
+88
+00:05:20.950 --> 00:05:22.600
+tem o arquivo final, né?
+
+89
+00:05:22.609 --> 00:05:27.640
+Como é que ficou depois que a gente que a gente fez esse arquivo digital, né?
+
+90
+00:05:27.649 --> 00:05:33.540
+Pra ser pronto pra ser transmitido lá pra pra receita federal tá?
+
+91
+00:05:33.940 --> 00:05:36.149
+Eh? É um pouco técnico, né?
+
+92
+00:05:36.160 --> 00:05:39.950
+Um uma informação aí meio intrincada não fica muito,
+
+93
+00:05:39.959 --> 00:05:42.029
+eh ligado pensando que cê tem que entender Tem
+
+94
+00:05:42.040 --> 00:05:43.809
+que aprender isso aqui com um detalhe não,
+
+95
+00:05:43.820 --> 00:05:47.829
+isso é bom pra gente ter uma ideia de como que a informação é especificada,
+
+96
+00:05:47.839 --> 00:05:52.589
+que a gente trouxe nesse lado de cá e como ela fica pronta ali do lado de
+
+97
+00:05:52.600 --> 00:05:54.989
+cá vamos também consultar a tabela pra gente
+
+98
+00:05:55.000 --> 00:05:57.070
+ver como que a gente consulta as tabelas,
+
+99
+00:05:57.079 --> 00:06:00.809
+As regras de preenchimento de campo tá Então vamos lá pessoal?
+
+100
+00:06:01.809 --> 00:06:01.820
+Eh.
+
+101
+00:06:01.829 --> 00:06:05.019
+Então a gente trouxe aqui esse evento aí,
+
+102
+00:06:05.029 --> 00:06:09.820
+que é o evento de pagamento ao beneficiário pessoa física, né?
+
+103
+00:06:09.829 --> 00:06:14.019
+Então, a gente, a gente tá aqui o evento R quarenta dez tá,
+
+104
+00:06:14.029 --> 00:06:17.260
+eh que traz o detalhamento dos campos de registros, né?
+
+105
+00:06:17.269 --> 00:06:19.040
+Pagamento beneficiário pra pessoa física
+
+106
+00:06:19.500 --> 00:06:24.859
+e de cada do outro lado Tá o arquivo resultante da interpretação deste manual,
+
+107
+00:06:24.869 --> 00:06:27.950
+da parte aqui, Eh da esquerda, né?
+
+108
+00:06:27.959 --> 00:06:32.369
+É o a especificação e aqui é o resultante. É o arquivo x ML pronto
+
+109
+00:06:32.640 --> 00:06:37.570
+pra ser enviado pra Secretaria da Receita Federal. S R f.
+
+110
+00:06:37.579 --> 00:06:39.489
+Tá bom, então vamos lá, pessoal!
+
+111
+00:06:39.500 --> 00:06:44.440
+Vamos começar aqui então no primeiro registro é o no nível um. Tá ref.
+
+112
+00:06:44.450 --> 00:06:45.829
+Tá no tipo grupo!
+
+113
+00:06:45.839 --> 00:06:50.209
+Ou seja, ele é um agrupamento de outros campos e registro e tudo mais.
+
+114
+00:06:50.220 --> 00:06:52.049
+Então a gente consegue ver ele aonde que oh
+
+115
+00:06:52.059 --> 00:06:55.149
+bem no comecinho É o primeiro nível de informação.
+
+116
+00:06:55.160 --> 00:06:58.709
+Tudo que tiver em verde pessoal eh eh, comentário, tá,
+
+117
+00:06:59.070 --> 00:07:03.010
+Então o comentário é só pra gente facilitar a visualização e tudo mais.
+
+118
+00:07:03.019 --> 00:07:07.290
+A informação mesmo tá nessas outras cores aqui, especialmente no azul aqui.
+
+119
+00:07:07.299 --> 00:07:11.779
+Então aqui O e R i f é o primeiro nível, tá então identificamos ele
+
+120
+00:07:12.420 --> 00:07:18.269
+Nível dois é evento hat PF, Então vamos localizar aqui, oh evento Het PF.
+
+121
+00:07:18.279 --> 00:07:22.750
+Então esse evento aqui ele é um grupo de informações,
+
+122
+00:07:22.760 --> 00:07:28.549
+tem um grupo todo aí pra baixo desse grupo de informações vai ser feitas,
+
+123
+00:07:28.559 --> 00:07:35.630
+vão ser feitas estas regras de validação aqui tá valida evento beneficiário
+
+124
+00:07:35.640 --> 00:07:38.549
+valida a retificação valida se existe
+
+125
+00:07:38.559 --> 00:07:41.709
+informação do contribuinte e valida beneficiário,
+
+126
+00:07:41.720 --> 00:07:42.209
+tá bom?
+
+127
+00:07:42.570 --> 00:07:43.980
+Onde estão essas regras?
+
+128
+00:07:43.989 --> 00:07:46.380
+Estão aqui, oh naquele arquivo de regras,
+
+129
+00:07:46.390 --> 00:07:51.500
+no manual que eu de regras que eu coloquei pra você então são todas essas regras aqui.
+
+130
+00:07:51.510 --> 00:07:55.500
+Okay então um dos eventos Oh regra evento beneficiário.
+
+131
+00:07:55.510 --> 00:07:58.250
+Não é permitido o envio de mais um evento
+
+132
+00:07:58.260 --> 00:08:01.260
+do mesmo período de apuração para o mesmo beneficiário,
+
+133
+00:08:01.269 --> 00:08:01.640
+tá
+
+134
+00:08:01.959 --> 00:08:05.049
+e o mesmo identificador de evento adicional por beneficiário.
+
+135
+00:08:05.059 --> 00:08:10.809
+Então estamos aqui eh essa primeira regra. Que regra é ver bene benéfica?
+
+136
+00:08:10.820 --> 00:08:14.209
+A gente viu ela ali agora? Tá, então essas regras.
+
+137
+00:08:14.220 --> 00:08:17.589
+Todas são aplicadas ao grupo inteiro, daí pra baixo tá?
+
+138
+00:08:18.739 --> 00:08:24.510
+Então a gente tem aqui mais o I d tá o i d eh Ele é filho de
+
+139
+00:08:24.519 --> 00:08:29.170
+hat PF e ele é o tipo a que a é um atributo vocês tão vendo aqui oh
+
+140
+00:08:29.579 --> 00:08:32.469
+do lado direito O i D ele é um atributo né?
+
+141
+00:08:32.479 --> 00:08:37.229
+Ele é uma informação que está ali dentro do da da tag anterior.
+
+142
+00:08:37.239 --> 00:08:40.820
+Tá então o atributo dele é o i i d aí tá aqui o i e d,
+
+143
+00:08:40.830 --> 00:08:43.909
+né Mas como que a gente vai saber como que a
+
+144
+00:08:43.919 --> 00:08:47.750
+gente constrói esse i d na regra válida e d evento?
+
+145
+00:08:47.760 --> 00:08:50.109
+Tá que tá mostrando aqui que este campo
+
+146
+00:08:50.119 --> 00:08:53.510
+de informação vai ser validado com essa regra.
+
+147
+00:08:53.520 --> 00:08:55.890
+Vamos ver essa regra aqui pra gente não ficar conduta,
+
+148
+00:08:56.270 --> 00:09:01.059
+então vamos olhar aqui no documento de regras tá, Ela é a última das regras aqui oh!
+
+149
+00:09:01.070 --> 00:09:03.559
+Regra válida e d evento.
+
+150
+00:09:03.570 --> 00:09:08.239
+Então a identificação única do evento o i D é composta por trinta e seis caracteres,
+
+151
+00:09:08.250 --> 00:09:09.919
+conforme disposto a seguir.
+
+152
+00:09:09.929 --> 00:09:10.400
+Tá?
+
+153
+00:09:10.409 --> 00:09:14.719
+Então tem aqui a forma de disposição Primeiro texto fixo com t
+
+154
+00:09:14.729 --> 00:09:17.760
+n d depois tipo de inscrição do contribuinte C C N,
+
+155
+00:09:17.770 --> 00:09:25.020
+PJ c PF o número ali do C N PJ do C PF do contribuinte ano mês e dia de emissão,
+
+156
+00:09:25.030 --> 00:09:31.299
+hora minuto e segundo da geração do evento q Q q q é um número sequencial,
+
+157
+00:09:31.309 --> 00:09:34.940
+são cinco q s né Em sequência é um número sequencial do evento.
+
+158
+00:09:34.950 --> 00:09:39.659
+Quando houver mais de um evento na mesma data e hora tá
+
+159
+00:09:39.669 --> 00:09:43.700
+eh e isso aí é a validação do i D do evento.
+
+160
+00:09:43.710 --> 00:09:44.200
+Tá bom,
+
+161
+00:09:44.650 --> 00:09:50.840
+Então aqui é o e o D do evento pronto, tá bom conforme essa regra de validação.
+
+162
+00:09:50.849 --> 00:09:54.479
+Aí mais em frente temos que identificação do evento, identificação do evento,
+
+163
+00:09:56.020 --> 00:09:57.510
+um grupo de informações.
+
+164
+00:09:57.520 --> 00:10:00.989
+Então ele abre aqui pra baixo pra ter outros elementos,
+
+165
+00:10:01.000 --> 00:10:06.330
+então esse infra identificador de retificação ele é um elemento tá.
+
+166
+00:10:06.340 --> 00:10:08.489
+Então ele é um elemento identificação,
+
+167
+00:10:09.140 --> 00:10:14.590
+preencher um para o arquivo original e dois para a retificação.
+
+168
+00:10:14.599 --> 00:10:18.609
+Tá dois para arquivo de retificação Valores válidos um e dois. Então
+
+169
+00:10:19.390 --> 00:10:21.059
+tem um aqui Okay,
+
+170
+00:10:21.969 --> 00:10:25.659
+eh número do recibo Tá número do recibo é o
+
+171
+00:10:25.669 --> 00:10:29.619
+número do recibo do arquivo de eventos a ser retificado.
+
+172
+00:10:29.630 --> 00:10:33.460
+Então se fosse retificadora a gente colocaria aqui no número do recibo.
+
+173
+00:10:33.469 --> 00:10:37.619
+Tá o recibo da que estamos retificando, né?
+
+174
+00:10:37.630 --> 00:10:43.580
+Então, vamos lá tá período de apuração a gente põe aqui o período de apuração,
+
+175
+00:10:43.590 --> 00:10:44.900
+tipo do ambiente.
+
+176
+00:10:44.909 --> 00:10:47.640
+Aqui é ano e mês, né? Ano a gente pode ver o que que é ano e mês,
+
+177
+00:10:48.320 --> 00:10:53.090
+tipo de ambiente, um é produção. Dois produção restrita, né?
+
+178
+00:10:53.099 --> 00:10:55.630
+Então e aqui a gente vai, né?
+
+179
+00:10:55.640 --> 00:11:00.890
+Vamos aqui em frente nisso aí Tá, Então vamos descendo aqui!
+
+180
+00:11:00.900 --> 00:11:03.330
+Tá identificação do contribuinte.
+
+181
+00:11:03.340 --> 00:11:07.159
+Vamos procurar aqui Identificação do contribuinte, Tipo de inscrição C, n, PJ C,
+
+182
+00:11:07.169 --> 00:11:13.630
+PF um, C N PJ Número de inscrição, ou seja, o número do C N PJ, tá, tá aqui,
+
+183
+00:11:14.659 --> 00:11:15.169
+está
+
+184
+00:11:15.929 --> 00:11:20.059
+e aí, natureza jurídica tá aqui dois quatro, quatro, quatro zero!
+
+185
+00:11:20.070 --> 00:11:25.500
+Tá tem aqui natureza jurídica nas informações complementares do contribuinte Tá,
+
+186
+00:11:25.510 --> 00:11:30.500
+eh natureza jurídica, identificação do estabelecimento Tá,
+
+187
+00:11:30.510 --> 00:11:31.979
+então a gente vem aqui com a identificação
+
+188
+00:11:31.989 --> 00:11:35.020
+do estabelecimento com o número de inscrição,
+
+189
+00:11:35.030 --> 00:11:38.440
+que é o C, n, PJ, eh do estabelecimento.
+
+190
+00:11:38.710 --> 00:11:43.770
+E aqui a gente já passa aqui pro pro beneficiário, tá, então, já identificamos ali!
+
+191
+00:11:43.780 --> 00:11:45.400
+O contribuinte se é retificadora.
+
+192
+00:11:45.409 --> 00:11:48.640
+Se não é o período de apuração, formou o e d certinho.
+
+193
+00:11:48.650 --> 00:11:51.840
+E aqui a gente já passa por identificação do beneficiário.
+
+194
+00:11:51.849 --> 00:11:54.760
+Vocês estão vendo que o beneficiário ele tá aqui dentro do estabelecimento.
+
+195
+00:11:54.770 --> 00:11:57.299
+Tá estabelecimento o beneficiário.
+
+196
+00:11:57.309 --> 00:12:00.119
+Então temos aqui o C N, PJ C, PF do beneficiário, né?
+
+197
+00:12:00.130 --> 00:12:02.099
+Pagamento de pessoa física é C PF, né?
+
+198
+00:12:02.969 --> 00:12:07.260
+Eh nome do beneficiário, então tem nome do beneficiário.
+
+199
+00:12:07.270 --> 00:12:09.919
+Tem até uma regra de aplicar dar o nome lá, né.
+
+200
+00:12:09.929 --> 00:12:12.080
+Do que que pode ter o que que não pode ter no nome?
+
+201
+00:12:12.090 --> 00:12:14.520
+Vamos até dar uma olhada nisso aqui, já que estamos aqui mesmo
+
+202
+00:12:15.520 --> 00:12:19.250
+valida, nome vamos ver a valida no nome válido.
+
+203
+00:12:19.260 --> 00:12:22.330
+O nome deve OBE obedecer as seguintes regras
+
+204
+00:12:22.340 --> 00:12:25.929
+Tá não pode conter caracteres diferente de A,
+
+205
+00:12:25.940 --> 00:12:27.969
+B, c e tal, né?
+
+206
+00:12:27.979 --> 00:12:34.690
+Eh de a até z, minúsculo E a t z maiúsculo tá Não pode ter diferença disso.
+
+207
+00:12:34.700 --> 00:12:36.710
+E além dos a dos assentos é claro, tá,
+
+208
+00:12:37.200 --> 00:12:43.369
+não pode conter a barra vertical não pode conter mais de de setenta caracteres,
+
+209
+00:12:43.380 --> 00:12:46.690
+não pode conter mais de quinze partes, Tá?
+
+210
+00:12:46.700 --> 00:12:51.369
+Não, pode conter mais de três caracteres iguais consecutivos, né?
+
+211
+00:12:51.380 --> 00:12:53.590
+Exceto o terceiro e romano, né?
+
+212
+00:12:54.599 --> 00:12:57.210
+Não pode conter parte do nome de vinte e
+
+213
+00:12:57.219 --> 00:13:00.890
+um ou mais caracteres consecutivos sem separação por espaço.
+
+214
+00:13:00.900 --> 00:13:02.809
+Então não pode ter um nome maior que vinte.
+
+215
+00:13:02.820 --> 00:13:07.729
+E uma eh pa eh vinte e uma letras tá, Então, essa é a regra aqui do nome, por exemplo, tá,
+
+216
+00:13:07.739 --> 00:13:09.729
+Então vamos seguindo em frente aqui.
+
+217
+00:13:09.739 --> 00:13:11.750
+Então, tem um nome, nome válido Tá
+
+218
+00:13:12.960 --> 00:13:16.890
+o se tem dependente ou informações do dependente ou informações do dependente.
+
+219
+00:13:16.900 --> 00:13:17.390
+Tá aqui, Oh,
+
+220
+00:13:18.000 --> 00:13:21.330
+pode ter até novecentos e noventa e nove dependentes que seria muito, né?
+
+221
+00:13:21.340 --> 00:13:24.409
+Então, tem aqui identificação do dependente, né?
+
+222
+00:13:24.419 --> 00:13:29.229
+Então tem c PF do dependente tem a relação do dependente oh
+
+223
+00:13:29.809 --> 00:13:32.979
+na identificação do repende do do dependente Tá,
+
+224
+00:13:32.989 --> 00:13:36.179
+a gente tem o C PF do dependente e o tipo
+
+225
+00:13:36.190 --> 00:13:39.739
+de relação tá Então a relação do dependente pode ser cônjuge,
+
+226
+00:13:39.750 --> 00:13:45.700
+companheiro com o qual tem filho, filho ou enteado, irmão, pai, avô, bisneto?
+
+227
+00:13:45.710 --> 00:13:51.299
+Então tem o C PF do dependente e a relação do dependente.
+
+228
+00:13:51.309 --> 00:13:56.219
+Tá bom, então vamos em frente aqui pro pagamento, identificação do pagamento,
+
+229
+00:13:56.229 --> 00:13:58.239
+tá natureza do rendimento,
+
+230
+00:13:58.580 --> 00:14:03.349
+então a gente tem que informar ali eh a natureza do rendimento, Tá?
+
+231
+00:14:03.359 --> 00:14:08.419
+Então, como é que a gente vai ver aqui a natureza do rendimento Tá, tá, aqui, oh,
+
+232
+00:14:08.429 --> 00:14:11.669
+código da natureza do rendimento, conforme tabela um Tá,
+
+233
+00:14:11.679 --> 00:14:14.309
+então vamos lá dar uma olhada nessa tabela um
+
+234
+00:14:14.320 --> 00:14:16.909
+Pra gente ver a natureza do rendimento Tá?
+
+235
+00:14:16.919 --> 00:14:19.330
+Então aqui a gente tá nosso arquivo de regras.
+
+236
+00:14:19.340 --> 00:14:24.330
+E aqui tá nossa tabela oh tabela um natureza de rendimentos tá?
+
+237
+00:14:25.059 --> 00:14:27.179
+Então aqui tem os vários rendimentos, né?
+
+238
+00:14:27.190 --> 00:14:32.070
+A gente pegou aqui esse aqui, Oh dez mil e um tá rendimento decorrente de trabalho,
+
+239
+00:14:32.080 --> 00:14:33.630
+com vínculo empregatício, né?
+
+240
+00:14:33.640 --> 00:14:38.250
+Que é mais comum, aí tá, então dez mil um rendimento de trabalho,
+
+241
+00:14:38.260 --> 00:14:41.530
+mas tem essa tabela aqui, com todos os rendimentos possíveis.
+
+242
+00:14:41.880 --> 00:14:46.489
+Ah, mas o meu não tá nessa tabela, aqui eu posso colocar não, não pode.
+
+243
+00:14:46.500 --> 00:14:49.729
+Tem que colocar exatamente o que está na tabela,
+
+244
+00:14:49.739 --> 00:14:54.890
+Não se colocar um que tá fora da tabela, ele não vai aceitar, vai dar problema.
+
+245
+00:14:54.900 --> 00:14:57.729
+Então a gente tem que classificar os rendimentos que
+
+246
+00:14:57.739 --> 00:15:00.289
+a gente paga de acordo com essa tabela,
+
+247
+00:15:00.299 --> 00:15:00.809
+Tá?
+
+248
+00:15:00.820 --> 00:15:04.109
+Então, se não tiver na tabela, não pode colocar.
+
+249
+00:15:04.119 --> 00:15:08.489
+A gente tem que classificar o que a gente paga de acordo com a tabela, né?
+
+250
+00:15:08.500 --> 00:15:10.869
+Ajustar lá pra ficar correto, okay?
+
+251
+00:15:11.520 --> 00:15:15.169
+Então a gente vê que a natureza do rendimento tá aí.
+
+252
+00:15:15.179 --> 00:15:17.210
+Temos aqui informações do pagamento, né?
+
+253
+00:15:17.219 --> 00:15:20.890
+Então, informações de pagamento, data do fato gerador, que é o que foi o pagamento,
+
+254
+00:15:20.900 --> 00:15:21.130
+né?
+
+255
+00:15:21.140 --> 00:15:22.830
+Competência, né? Mês,
+
+256
+00:15:23.780 --> 00:15:28.469
+o valor bruto do rendimento eu coloquei aqui cinco mil só, pra exemplo, tá gente.
+
+257
+00:15:28.479 --> 00:15:31.270
+Então, tem aqui o valor bruto do rendimento. Foi cinco mil.
+
+258
+00:15:31.280 --> 00:15:35.030
+O valor dos rendimentos, tributáveis, né? Quatro mil e duzentos né?
+
+259
+00:15:35.039 --> 00:15:39.469
+Pra na faixa de isenção, tirando fora, né? Valor do do Imposto de Renda.
+
+260
+00:15:39.479 --> 00:15:42.690
+Aqui já coloquei o valor do Imposto de Renda Retido na fonte. Tá
+
+261
+00:15:43.929 --> 00:15:49.039
+eh residência no exterior por zero zero que não não é residente no exterior? Tá
+
+262
+00:15:49.820 --> 00:15:53.429
+aí aqui é nas deduções aqui. Oh vamos lá.
+
+263
+00:15:53.440 --> 00:15:59.710
+Nas deduções de eh das deduções indicação do tipo de dedução
+
+264
+00:15:59.719 --> 00:16:04.729
+Tá vamos lá nas deduções informações de pagamento Valor do I R
+
+265
+00:16:05.320 --> 00:16:11.270
+eh eh o de aqui. Oh deduções tá aqui mais embaixo um pouquinho
+
+266
+00:16:11.929 --> 00:16:18.059
+deduções tipo de dedução. Pus aqui sete dependentes e eh dedução dos dependentes.
+
+267
+00:16:18.070 --> 00:16:21.280
+Coloquei aqui cento e oitenta e nove e cinquenta e nove Okay
+
+268
+00:16:21.880 --> 00:16:27.210
+em entidade Não informações de entidade de previdência complementar Não, tá?
+
+269
+00:16:27.219 --> 00:16:29.820
+Botei aqui não. Se fosse assim, a gente coloca ali.
+
+270
+00:16:29.830 --> 00:16:35.309
+Se for da entidade de previdência complementar, como é dependente, coloquei Não tá
+
+271
+00:16:36.299 --> 00:16:38.229
+e vamos mais em frente.
+
+272
+00:16:38.239 --> 00:16:44.650
+A gente pode colocar agora eh as operadoras de informação do da operadora de saúde.
+
+273
+00:16:44.659 --> 00:16:47.130
+Tá dedicação da operadora de saúde,
+
+274
+00:16:48.020 --> 00:16:50.630
+né? E vamos colocar aqui o registro da N s.
+
+275
+00:16:50.640 --> 00:16:55.330
+Vamos lá procurar aqui onde está nossa operadora de saúde.
+
+276
+00:16:55.340 --> 00:17:02.309
+Vamos colocar aqui as, o eh informações da operadora de saúde, que é o C n, PJ Dela,
+
+277
+00:17:02.320 --> 00:17:06.329
+o número do registro da n s, o valor do valor do seguro de saúde, né?
+
+278
+00:17:06.339 --> 00:17:10.949
+Do plano de saúde aí informações do dependente, valor, deduzido ali do dependente.
+
+279
+00:17:10.959 --> 00:17:11.770
+Também Tá,
+
+280
+00:17:12.270 --> 00:17:16.199
+E aqui a gente acaba. O arquivo tá aqui.
+
+281
+00:17:16.209 --> 00:17:22.459
+É claro que a gente trouxe, por exemplo, né eh, um um, um extrato! Aí né?
+
+282
+00:17:22.469 --> 00:17:24.500
+Um recorte aí dessa especificação.
+
+283
+00:17:24.510 --> 00:17:27.959
+Porque às vezes nem tem sentido colocar tudo, né?
+
+284
+00:17:27.969 --> 00:17:30.400
+Então, porque tem informações judiciais aqui?
+
+285
+00:17:30.410 --> 00:17:33.900
+Às vezes um campo é incompatível também com o outro, Tá?
+
+286
+00:17:34.420 --> 00:17:38.829
+Então, pessoal é isso aí aí aqui pra baixo ele já começa outro evento aqui,
+
+287
+00:17:38.839 --> 00:17:43.170
+na especificação e aqui pra baixo é a parte mais técnica que
+
+288
+00:17:43.180 --> 00:17:44.750
+a gente tem que ver com o pessoal da t i,
+
+289
+00:17:44.760 --> 00:17:44.910
+né?
+
+290
+00:17:44.920 --> 00:17:51.609
+Que é o que a assinatura digital então daqui pra baixo oh e designa até
+
+291
+00:17:51.619 --> 00:17:57.270
+aqui essa parte que eu selecionei é a assinatura digital que ele vai fazer.
+
+292
+00:17:57.280 --> 00:18:01.189
+A assinatura digital desse arquivo, tá isso aqui. É só um exemplo, é claro.
+
+293
+00:18:01.199 --> 00:18:02.729
+Essa assinatura digital nem é válida,
+
+294
+00:18:03.000 --> 00:18:05.300
+mas a gente trouxe aqui do exemplo, então pessoal!
+
+295
+00:18:05.310 --> 00:18:08.430
+Esse é o arquivo aqui aqui vai ser transmitido ao Fisco,
+
+296
+00:18:08.439 --> 00:18:12.410
+informando aí o pagamento a esse beneficiário pessoa física, né?
+
+297
+00:18:12.420 --> 00:18:13.890
+A gente trouxe aqui um dependente,
+
+298
+00:18:13.900 --> 00:18:17.469
+Lançou aí os valores dos rendimentos dele do tributo,
+
+299
+00:18:17.479 --> 00:18:19.449
+fez uma dedução do plano de saúde,
+
+300
+00:18:19.459 --> 00:18:23.069
+dedução do dependente Tá informação do plano de saúde
+
+301
+00:18:23.849 --> 00:18:28.160
+e esse é o arquivo que vai ser enviado pra cê faz? Tá pessoal?
+
+302
+00:18:28.170 --> 00:18:33.099
+Essa parte é um pouco assim eh. É um pouco difícil, um pouco maçante, né?
+
+303
+00:18:33.109 --> 00:18:35.619
+Porque é muita informação técnica.
+
+304
+00:18:35.630 --> 00:18:38.979
+Mas assim é bom pra gente conhecer especialmente
+
+305
+00:18:38.989 --> 00:18:41.079
+que eu queria que vocês tomassem atenção aqui
+
+306
+00:18:41.359 --> 00:18:47.369
+é nas regras de validação e é também eh na informação das tabelas.
+
+307
+00:18:47.380 --> 00:18:50.160
+É de onde surge a informação de onde você vai buscar
+
+308
+00:18:50.170 --> 00:18:53.729
+a informação de categorizar aí e parametrizado os seus pagamentos.
+
+309
+00:18:53.739 --> 00:18:55.050
+Aí que você faz na empresa,
+
+310
+00:18:55.060 --> 00:18:58.810
+de acordo com o código do arquivo aqui exigido pela receita.
+
+311
+00:18:58.819 --> 00:19:02.010
+Tá, então, pessoal! Essa é a nossa parte aí da F d do ref né?
+
+312
+00:19:02.020 --> 00:19:05.204
+Que vimos aí agora é uma parte um pouco mais técnica.
+
+313
+00:19:05.214 --> 00:19:06.574
+Como eu disse pra vocês no começo,
+
+314
+00:19:06.584 --> 00:19:10.444
+não vamos preocupar em decorar Arquivo x ML em tag X ML.
+
+315
+00:19:10.454 --> 00:19:16.425
+É bom a gente saber os conceitos de onde a informação vem, como que são as tabelas,
+
+316
+00:19:16.435 --> 00:19:20.125
+as cegas, pra onde a informação vai ter um arquivo final que vai, enfim,
+
+317
+00:19:20.135 --> 00:19:21.464
+ser transmitido pro fisco.
+
+318
+00:19:21.474 --> 00:19:26.285
+Tá bom, encerramos aqui essa parte prática do F D RF e vamos em frente!

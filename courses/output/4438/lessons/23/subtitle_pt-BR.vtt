@@ -1,0 +1,385 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.639
+E com base nisso, a gente finalizou essa parte, então, teórica dos slides.
+
+3
+00:00:06.639 --> 00:00:12.599
+O que nós vamos fazer agora? Vamos para a prática e vamos ver uma planilha de cálculo do juros
+
+4
+00:00:12.599 --> 00:00:22.600
+sobre capital próprio, aonde você deve fazer o cálculo do JCP, sempre utilizando a métrica
+
+5
+00:00:22.600 --> 00:00:32.299
+e o que está nessa planilha para que possa corretamente ser apurado e calcular os juros
+
+6
+00:00:32.299 --> 00:00:33.799
+sobre o capital próprio.
+
+7
+00:00:33.799 --> 00:00:40.600
+Então, estou abrindo aqui uma planilha, onde nesta planilha a gente tem algumas abas e um exemplo,
+
+8
+00:00:40.600 --> 00:00:47.600
+até um exemplo muito parecido com um caso real, só com um nome fictício, etc.
+
+9
+00:00:47.600 --> 00:00:52.560
+Então, o que a gente tem aqui? Algumas abinhas dentro da planilha.
+
+10
+00:00:52.560 --> 00:00:52.600
+E o que a gente tem aqui? Algumas abinhas dentro da planilha.
+
+11
+00:00:52.600 --> 00:01:00.700
+E a primeira abinha aqui chama cálculo JCP, onde eu tenho, por exemplo, aqui, se eu estou olhando
+
+12
+00:01:00.700 --> 00:01:09.000
+a data base aqui de dezembro de 2025, por exemplo, numa empresa qualquer com um nome fictício
+
+13
+00:01:09.000 --> 00:01:17.099
+aqui chamado Chapecó Limitada, aí eu olho lá, eu tenho o capital social de isso,
+
+14
+00:01:17.099 --> 00:01:22.459
+se eu estou fazendo o cálculo em 31 de 12 de 2025, eu olho,
+
+15
+00:01:22.459 --> 00:01:26.859
+eu tenho o patrimônio líquido de dezembro de 2024, né?
+
+16
+00:01:27.519 --> 00:01:35.260
+Capital social, 17 milhões e meio, tem reserva de capital 2.800, um valor pequenininho,
+
+17
+00:01:35.780 --> 00:01:40.340
+reserva de lucros 22 milhões, 154 mil, um valor grande.
+
+18
+00:01:41.040 --> 00:01:46.099
+No caso aqui, dentro do patrimônio líquido tem ações em tesouraria, um valor zerado, né?
+
+19
+00:01:46.099 --> 00:01:52.359
+Mas está lá uma conta contábil no patrimônio líquido e ele tem, essa empresa também tem prejuízos,
+
+20
+00:01:52.359 --> 00:01:55.719
+acumulados no patrimônio líquido de 8 milhões.
+
+21
+00:01:55.719 --> 00:02:02.700
+O fato é que o somatório, então, de todas essas contas deu 30 milhões.
+
+22
+00:02:02.700 --> 00:02:07.000
+O total do patrimônio líquido, então, é 30.841.000.
+
+23
+00:02:07.000 --> 00:02:13.939
+Veja que aqui, até agora, eu simplesmente peguei os dados e informações que já estão na contabilidade,
+
+24
+00:02:13.939 --> 00:02:16.479
+que é o total do patrimônio líquido.
+
+25
+00:02:16.479 --> 00:02:22.319
+Como eu já sei que, na regra, eu tenho que fazer 50% do patrimônio líquido,
+
+26
+00:02:22.319 --> 00:02:30.280
+e 50% do lucro do exercício, eu pego aqui 50% desse valor aqui do total do patrimônio líquido,
+
+27
+00:02:30.280 --> 00:02:33.819
+que deu, então, 15.420.000.
+
+28
+00:02:33.819 --> 00:02:41.919
+Aí sim, eu pego o lucro do exercício de 2025, que aqui está em 16.440.000.
+
+29
+00:02:41.919 --> 00:02:46.759
+Então, veja que nesse momento eu já sei que a empresa é do lucro real
+
+30
+00:02:46.759 --> 00:02:51.680
+e que ela tem tanto lucros acumulados, que estão no patrimônio líquido,
+
+31
+00:02:51.680 --> 00:02:53.680
+quanto ela tem o lucro do exercício.
+
+32
+00:02:53.680 --> 00:03:00.680
+Por mais que ela tenha registrado prejuízos acumulados de 8 milhões,
+
+33
+00:03:00.680 --> 00:03:05.099
+perceba que tem reserva de lucros de 22 milhões.
+
+34
+00:03:05.099 --> 00:03:13.560
+Então, isso, reserva de lucros, oficetando com a parte de prejuízos acumulados,
+
+35
+00:03:13.560 --> 00:03:17.680
+é como se eu ainda tivesse lucros acumulados.
+
+36
+00:03:17.680 --> 00:03:21.180
+Então, 50% do lucro do exercício deu 8 milhões.
+
+37
+00:03:21.180 --> 00:03:26.180
+Aí, eu continuo descendo a planilha aqui, olha só o que eu tenho, o meu patrimônio líquido.
+
+38
+00:03:26.180 --> 00:03:29.979
+Então, eu reproduzo aqui o total do patrimônio líquido,
+
+39
+00:03:29.979 --> 00:03:33.979
+de novo, só pegando o dado que já está na contabilidade,
+
+40
+00:03:33.979 --> 00:03:39.780
+onde eu tenho aqui, olha que lucros acumulados aqui, ele já está aparecendo 13 milhões,
+
+41
+00:03:39.780 --> 00:03:45.780
+que já está oficetando aqui prejuízos acumulados com reserva de lucros ali.
+
+42
+00:03:45.780 --> 00:03:48.180
+Total do patrimônio líquido é o mesmo, 30.841.000, o mesmo valor aqui.
+
+43
+00:03:48.180 --> 00:03:50.180
+Total do patrimônio líquido é o mesmo, 30.841.000, o mesmo valor aqui.
+
+44
+00:03:50.180 --> 00:03:51.180
+Total do patrimônio líquido é o mesmo, 30.841.000, o mesmo valor aqui.
+
+45
+00:03:51.180 --> 00:03:53.180
+Que é o total do patrimônio líquido.
+
+46
+00:03:53.180 --> 00:03:58.180
+Aí, eu pego a TJLP de janeiro a dezembro de 2025.
+
+47
+00:03:58.180 --> 00:04:04.180
+Então, digamos que ao confirmar a taxa lá no Banco Central é 8,05.
+
+48
+00:04:04.180 --> 00:04:05.180
+Então, o que eu faço?
+
+49
+00:04:05.180 --> 00:04:10.180
+Apenas aplico 8,05 sobre o total do patrimônio líquido.
+
+50
+00:04:10.180 --> 00:04:17.180
+Olha aqui, eu já cheguei aqui então em 2.483.000.
+
+51
+00:04:17.180 --> 00:04:19.180
+O que eu preciso fazer nesse momento?
+
+52
+00:04:19.180 --> 00:04:20.180
+Nesse momento aqui,
+
+53
+00:04:20.180 --> 00:04:25.180
+eu já encontrei qual que é o valor do JCP,
+
+54
+00:04:25.180 --> 00:04:28.180
+que é 2.000.000, simplesmente isso,
+
+55
+00:04:28.180 --> 00:04:33.180
+aplicando a TJLP do período em cima do patrimônio líquido.
+
+56
+00:04:33.180 --> 00:04:36.180
+Achei aqui 2.483.000.
+
+57
+00:04:36.180 --> 00:04:42.180
+Só que veja que aqui bem grande está escrito o limite de denotibilidade.
+
+58
+00:04:42.180 --> 00:04:48.180
+Eu estou pegando aqui o maior valor entre 50% do lucro do exercício
+
+59
+00:04:48.180 --> 00:04:51.180
+ou 50% de lucros acumulados.
+
+60
+00:04:51.180 --> 00:04:55.180
+50% do lucro do exercício deu 8.220.000.
+
+61
+00:04:55.180 --> 00:04:57.180
+Não é isso que está aqui em cima?
+
+62
+00:04:57.180 --> 00:04:59.180
+Olha, 8.220.000.
+
+63
+00:04:59.180 --> 00:05:01.180
+50% de lucro do exercício.
+
+64
+00:05:01.180 --> 00:05:07.180
+E 50% de lucros acumulados deu 6.669.000.
+
+65
+00:05:07.180 --> 00:05:10.180
+Que é o que eu tenho aqui em cima.
+
+66
+00:05:10.180 --> 00:05:15.180
+Quando eu pego 13.000.000 aqui já entre reserva de lucros,
+
+67
+00:05:15.180 --> 00:05:17.180
+já descontado prejuízos acumulados.
+
+68
+00:05:17.180 --> 00:05:23.180
+50% dele já dá aqui 6.669.000.
+
+69
+00:05:23.180 --> 00:05:26.180
+Ele está somando D11 mais D13.
+
+70
+00:05:26.180 --> 00:05:31.180
+Então pegando reserva de lucros e tirando prejuízos acumulados
+
+71
+00:05:31.180 --> 00:05:33.180
+e pegando 50% dele.
+
+72
+00:05:33.180 --> 00:05:37.180
+Então eu tenho aqui 6.669.000.
+
+73
+00:05:37.180 --> 00:05:41.180
+Dos dois, o maior é o 8.220.000.
+
+74
+00:05:41.180 --> 00:05:44.180
+Então eu vou comparar entre esses dois aqui
+
+75
+00:05:44.180 --> 00:05:46.180
+com o valor dos juros do JCP.
+
+76
+00:05:46.180 --> 00:05:49.180
+Que é 2.000.000.
+
+77
+00:05:49.180 --> 00:05:52.180
+E aí eu tenho que usar o menor entre eles.
+
+78
+00:05:52.180 --> 00:05:55.180
+O menor é os 2.000.000.
+
+79
+00:05:55.180 --> 00:05:57.180
+Então o que eu já tenho nesse momento?
+
+80
+00:05:57.180 --> 00:06:02.180
+O valor dedutível da JCP a ser contabilizado como despesa
+
+81
+00:06:02.180 --> 00:06:06.180
+de 2.483.000.
+
+82
+00:06:06.180 --> 00:06:12.180
+Com isso eu já consigo saber qual que é o meu benefício de redução do IRCS.
+
+83
+00:06:12.180 --> 00:06:14.180
+Que é 844.000.
+
+84
+00:06:14.180 --> 00:06:15.180
+Olha.
+
+85
+00:06:15.180 --> 00:06:19.180
+34% diretamente sobre o JCP.
+
+86
+00:06:19.180 --> 00:06:25.180
+E aí eu já consigo calcular 17.5% do JCP.
+
+87
+00:06:25.180 --> 00:06:32.180
+Eu pego os mesmos 2.483.000 e calculo 17.5%.
+
+88
+00:06:32.180 --> 00:06:37.180
+E aí eu tenho meu benefício líquido descontando o IR fonte.
+
+89
+00:06:37.180 --> 00:06:40.180
+Que no caso aqui dá 409.000.
+
+90
+00:06:40.180 --> 00:06:44.180
+Aqui embaixo eu calculei, por exemplo, 20% sobre 409.000.
+
+91
+00:06:44.180 --> 00:06:46.180
+O que que é isso aqui, pessoal?
+
+92
+00:06:46.180 --> 00:06:50.180
+Muitas vezes você chega numa empresa do lucro real
+
+93
+00:06:50.180 --> 00:06:52.180
+e verifica essa empresa mesmo.
+
+94
+00:06:52.180 --> 00:06:55.180
+Digamos que você chegue lá na Chapecó Limitada
+
+95
+00:06:55.180 --> 00:06:58.180
+e eles não estavam usando o JCP.
+
+96
+00:06:58.180 --> 00:07:01.180
+E aí você faz esse cálculo pra eles, né?
+
+97
+00:07:01.180 --> 00:07:07.180
+E vai mostrar que eles vão ter um benefício líquido de 409.000.

@@ -1,0 +1,157 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.200
+Qual é o cenário real hoje quando o seu contribuinte emite um documento fiscal?
+
+3
+00:00:06.200 --> 00:00:14.240
+Nós temos uma ilusão da conformidade, porque existe a contabilidade, existe o SPED fiscal
+
+4
+00:00:14.240 --> 00:00:21.519
+e caso haja qualquer tipo de inconsistência entre esses dois fatores, existe a omissão de receita.
+
+5
+00:00:21.519 --> 00:00:27.660
+Então quando você vai ver, não foi a nota, mas foi o meio de pagamento.
+
+6
+00:00:27.660 --> 00:00:37.039
+A nota, dentro do documento fiscal, ela possui tags específicas para detalhar o meio de pagamento daquela operação.
+
+7
+00:00:37.039 --> 00:00:39.840
+Isso já está dentro da estrutura do XML.
+
+8
+00:00:39.840 --> 00:00:46.479
+Porém, alguns estados também tratam a obrigatoriedade do registro 1600,
+
+9
+00:00:46.479 --> 00:00:51.219
+que foi então alterado pelo registro 1601,
+
+10
+00:00:51.219 --> 00:00:57.659
+aonde o seu contribuinte passa a ter a obrigação também de declarar as informações sobre os meios de pagamento.
+
+11
+00:00:57.659 --> 00:01:03.840
+Desde esse contexto, a gente acaba também trazendo uma intimação sobre a omissão,
+
+12
+00:01:03.840 --> 00:01:08.099
+porque o fisco está recebendo as informações dessa fonte de pagamento
+
+13
+00:01:08.099 --> 00:01:13.579
+e ele não consegue cruzar a informação via o documento operacional.
+
+14
+00:01:13.579 --> 00:01:18.180
+Então trata uma rastrabilidade gigantesca.
+
+15
+00:01:18.180 --> 00:01:22.980
+Então essa obrigação acessória, vocês vão perceber que não é o seu contribuinte que vai enviar.
+
+16
+00:01:22.980 --> 00:01:26.879
+Porém, as instituições financeiras estão enviando,
+
+17
+00:01:27.659 --> 00:01:29.599
+todos os meses.
+
+18
+00:01:29.599 --> 00:01:36.900
+Ou seja, a conformidade do processo do tipo de pagamento precisa existir dentro da sua operação.
+
+19
+00:01:36.900 --> 00:01:40.140
+Então não é mais uma obrigação.
+
+20
+00:01:40.140 --> 00:01:44.780
+A DINP é um instrumento de auditoria da Receita Federal que fecha o cerco fiscal,
+
+21
+00:01:44.780 --> 00:01:50.579
+transformando o meio de pagamento numa evidência super auditável.
+
+22
+00:01:50.579 --> 00:01:54.219
+A nota fiscal, ela só é uma camada da operação.
+
+23
+00:01:54.219 --> 00:01:57.260
+E eu digo para vocês que a DINP, juntamente com a E-Financeira,
+
+24
+00:01:57.260 --> 00:02:02.359
+vem trazendo mais contexto para as fiscalizações.
+
+25
+00:02:02.359 --> 00:02:08.180
+O fisco vem então criando estratégias de trazer então um cruzamento de dados
+
+26
+00:02:08.180 --> 00:02:11.879
+sobre a perspectiva da sonegação fiscal.
+
+27
+00:02:11.879 --> 00:02:17.240
+Provavelmente você já tem escutado esse termo por aí.
+
+28
+00:02:17.240 --> 00:02:20.219
+Como por exemplo, a meia nota.
+
+29
+00:02:20.219 --> 00:02:24.919
+Ah, não vamos emitir a nota total não, porque a gente precisa fugir da tributação.
+
+30
+00:02:24.919 --> 00:02:26.080
+Pessoal,
+
+31
+00:02:26.080 --> 00:02:27.259
+Pessoal,
+
+32
+00:02:27.259 --> 00:02:32.460
+aqui está uma emissão de nota incorreta, omitindo determinado valor.
+
+33
+00:02:32.460 --> 00:02:39.900
+Se o seu contribuinte receber por uma instituição financeira ou o banco,
+
+34
+00:02:39.900 --> 00:02:42.300
+eles vão enviar o valor.
+
+35
+00:02:42.300 --> 00:02:44.840
+Eles não vão enviar o valor da meia nota,
+
+36
+00:02:44.840 --> 00:02:49.979
+eles vão enviar o valor que esteve na transação financeira.
+
+37
+00:02:49.979 --> 00:02:54.979
+Então é assim que o fisco vem buscando trazer essa auditoria de informação
+
+38
+00:02:54.979 --> 00:02:56.560
+e cruzando os dados,
+
+39
+00:02:56.560 --> 00:02:57.819
+para fazer o que?
+
+40
+00:02:57.819 --> 00:03:02.400
+Amarrar e diminuir a sonegação fiscal.

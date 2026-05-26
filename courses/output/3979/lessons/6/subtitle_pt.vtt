@@ -1,0 +1,115 @@
+WEBVTT
+
+00:00:00.162 --> 00:00:06.252
+- Quando a gente fala sobre um crédito de ativo imobilizado, quando existe uma depreciação,
+
+00:00:06.252 --> 00:00:13.259
+- essa depreciação não existe um documento comprobatório, essa depreciação vai estar na contabilidade.
+
+00:00:13.259 --> 00:00:20.134
+- Então, percebam, estou falando para vocês, então, que existem os créditos. E como vocês podem estar
+
+00:00:20.134 --> 00:00:26.813
+- analisando isso dentro da FD Contribuições? Energia Elétrica, vocês perceberam que a gente tem um
+
+00:00:26.813 --> 00:00:28.254
+- registro específico.
+
+00:00:29.282 --> 00:00:36.568
+- Para depreciação, a gente também tem o bloco F. E por não ter um documento comprobatório,
+
+00:00:36.568 --> 00:00:44.237
+- ele vai vir, essa informação vai vir da contabilidade. E onde a gente lança essas informações?
+
+00:00:44.237 --> 00:00:52.137
+- Dentro do bloco F, no registro F120. O crédito ativo imobilizado, que tem a possibilidade de crédito
+
+00:00:52.137 --> 00:00:55.358
+- de uma única parcela, o F130 fará isso.
+
+00:00:55.618 --> 00:01:02.020
+- Ele está dentro do bloco F, porque não existe um documento comprobatório para compor essa depreciação
+
+00:01:02.020 --> 00:01:08.062
+- ou compor esse direito ao crédito. Então, por isso que a gente lança dentro do bloco F. Créditos
+
+00:01:08.062 --> 00:01:14.165
+- de contraprestações que são leasing, que são escriturados também dentro da contabilidade, porque
+
+00:01:14.165 --> 00:01:19.610
+- não existe um documento comprobatório para isso, também existe dentro do F, no bloco F,
+
+00:01:19.610 --> 00:01:25.054
+- que é o F100, onde faz o lançamento dessas contraprestações de arrendamento mercantil.
+
+00:01:25.314 --> 00:01:31.538
+- Então, a gente coloca a situação 08, por físico identificar essa informação. Então, também é
+
+00:01:31.538 --> 00:01:37.640
+- um ponto importante para vocês. Quando a gente fala sobre possibilidade de crédito, de aluguéis,
+
+00:01:37.640 --> 00:01:43.742
+- também é escriturado no F100. A gente só alterna a natureza da base de cálculo e identifica. É
+
+00:01:43.742 --> 00:01:50.028
+- um aluguel de prédio? É um aluguel de máquinas e equipamentos? Vejam, a gente analisou os créditos
+
+00:01:50.028 --> 00:01:54.238
+- e agora eu estou mostrando para vocês aonde você pode identificar.
+
+00:01:54.882 --> 00:02:02.007
+- Seja você que está escriturando e fazendo apuração, seja você que quer auditar a informação,
+
+00:02:02.007 --> 00:02:09.274
+- que quer validar essa informação. Caso esteja falando de créditos de edificações de benfeitoria,
+
+00:02:09.274 --> 00:02:16.470
+- seja de imóveis de terceiros ou próprios, F100 também. Natureza de base de cálculo lançada como
+
+00:02:16.470 --> 00:02:22.526
+- 11 edificações. Outra possibilidade de crédito. Caso exista um saldo de crédito,
+
+00:02:22.946 --> 00:02:30.447
+- acumulado, eu falei para vocês sobre um registro silencioso. O registro silencioso da FD Contribuições
+
+00:02:30.447 --> 00:02:37.524
+- é o bloco 1, que precisa de parâmetro, que precisa de saldos, que precisa de escrituração. E eu
+
+00:02:37.524 --> 00:02:44.601
+- vou falar para vocês dois pontos. Primeiro, ele é importante, mesmo que você não esteja falando
+
+00:02:44.601 --> 00:02:51.678
+- de saldos. Por quê? Eu já vi acontecer de empresas que não tinham saldos, credores de Psicofins,
+
+00:02:52.098 --> 00:03:01.237
+- só porque existia um erro sistêmico. O sistema estava levando informação suja para dentro do bloco
+
+00:03:01.237 --> 00:03:09.578
+- 1. E o bloco 1 não tem comunicação com as movimentações que vocês lançaram no bloco M,
+
+00:03:09.578 --> 00:03:17.918
+- no bloco C, no A, ou no D ou no F. Isso quer dizer que, se você hoje não analisa o bloco 1,
+
+00:03:18.754 --> 00:03:26.829
+- Você pode estar enviando os seus FD contribuições com informações incorretas, porque pode ser que,
+
+00:03:26.829 --> 00:03:34.670
+- por um erro sistêmico, o seu TXT esteja enviando um saldo incorreto. Às vezes, nem existe o saldo,
+
+00:03:34.670 --> 00:03:42.590
+- mas porque existe uma sujeira no banco de dados, as informações estão lá. Então, mesmo que você
+
+00:03:42.590 --> 00:03:47.326
+- não tenha saldos credores, eu recomendo que vocês analisem
+
+00:03:47.490 --> 00:03:55.857
+- Abra o programa validador, abra o bloco 1, identifique se tem movimentação, se existe lançamento
+
+00:03:55.857 --> 00:04:04.643
+- ali. Porque o bloco 1, além de controle de créditos fiscais, existe também a questão das retenções
+
+00:04:04.643 --> 00:04:13.010
+- e que existe, infelizmente, a possibilidade de um erro de parâmetro e que ele esteja levando dados
+
+00:04:13.010 --> 00:04:14.014
+- incorretos.

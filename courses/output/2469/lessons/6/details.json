@@ -1,0 +1,33 @@
+{
+  "id": 466182,
+  "title": "Construção da carreira contábil",
+  "position": 6,
+  "duration": 452,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/73e33dc5-7378-472f-a74a-02e0dd2f5026/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73e33dc5-7378-472f-a74a-02e0dd2f5026/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73e33dc5-7378-472f-a74a-02e0dd2f5026/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73e33dc5-7378-472f-a74a-02e0dd2f5026/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73e33dc5-7378-472f-a74a-02e0dd2f5026/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

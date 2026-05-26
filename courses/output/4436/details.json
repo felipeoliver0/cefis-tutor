@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4436,
+    "title": "Devedor contumaz",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Devedor contumaz curso prático você irá aprender na prática tudo o que precisa saber sobre a legislação tributária e a prática de identificar e regularizar devedores contumazes, além de entender a LC 225-2026 e o Código de defesa do contribuinte e vários outros temas para você que deseja se atualizar ou aprender tudo sobre devedores contumazes.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/f4f41dde-f59e-47dc-b008-11b282a50cfd-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Devedor contumaz, curso prático é a capacitação para a aplicação prática da compreensão e aplicação da legislação tributária, identificação e tratamento do devedor contumaz, análise de créditos tributários e processos administrativos para a regularização de débitos."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 1741,
+    "keywords": "devedor;comtumaz",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 17,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 76,
+    "averageRating": 9.49,
+    "practiceAverage": 9.23,
+    "trailer": {
+      "id": "8ddb047a-d4ea-4853-8acb-ef179cd5ddd3",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8ddb047a-d4ea-4853-8acb-ef179cd5ddd3/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8ddb047a-d4ea-4853-8acb-ef179cd5ddd3/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8ddb047a-d4ea-4853-8acb-ef179cd5ddd3/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8ddb047a-d4ea-4853-8acb-ef179cd5ddd3/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-01T00:44:49.000Z",
+      "updatedAt": "2026-03-01T00:44:49.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-01T01:46:55.000Z",
+    "recordedAt": "2026-03-26T00:00:00.000Z",
+    "createdAt": "2026-03-01T00:11:43.000Z"
+  }
+}

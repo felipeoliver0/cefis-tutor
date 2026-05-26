@@ -1,0 +1,33 @@
+{
+  "id": 459314,
+  "title": "Escopo do sistema de gestão da qualidade",
+  "position": 18,
+  "duration": 311,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dc7fd29b-2ccc-4f1e-9d7d-c40d2e9744c0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc7fd29b-2ccc-4f1e-9d7d-c40d2e9744c0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc7fd29b-2ccc-4f1e-9d7d-c40d2e9744c0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc7fd29b-2ccc-4f1e-9d7d-c40d2e9744c0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dc7fd29b-2ccc-4f1e-9d7d-c40d2e9744c0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

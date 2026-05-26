@@ -1,0 +1,117 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:09.339
+O CNPJ alfanumérico vai ter a mesma quantidade de posições, ou seja, ele vai contar com as 14 posições.
+
+3
+00:00:09.339 --> 00:00:20.120
+As 8 primeiras posições terão os seus caracteres alfanuméricos, ou seja, os primeiros 8 caracteres vão ser compostos por letras e números
+
+4
+00:00:20.120 --> 00:00:24.620
+e identificarão ali a raiz do novo CNPJ.
+
+5
+00:00:24.620 --> 00:00:32.859
+As 4 posições seguintes destinadas ao CNPJ terão também ali a sua classificação com letras e números
+
+6
+00:00:32.859 --> 00:00:44.740
+e as 2 últimas posições terão a sua identificação numérica, ou seja, dentro dessa construção nós teremos ali os 2 primeiros blocos de números
+
+7
+00:00:44.740 --> 00:00:50.820
+sendo composto por letras e números e o dígito verificador ali os 2 finais por números.
+
+8
+00:00:50.820 --> 00:00:54.020
+O que que eu preciso observar?
+
+9
+00:00:54.020 --> 00:00:54.619
+Um baixo.
+
+10
+00:00:54.619 --> 00:01:03.619
+Um baixo de custo porque a abertura do CNPJ ela não vai alterar o seu processo e, importante, o CNPJ já é existente, nada muda.
+
+11
+00:01:03.619 --> 00:01:16.840
+Nós temos uma implementação rápida aí contando com 18 meses para sua implementação que é quando de fato nós esgotamos essa construção somente numérica.
+
+12
+00:01:16.840 --> 00:01:24.019
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+13
+00:01:24.019 --> 00:01:24.620
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+14
+00:01:24.620 --> 00:01:24.920
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+15
+00:01:24.920 --> 00:01:25.019
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+16
+00:01:25.019 --> 00:01:25.120
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+17
+00:01:25.120 --> 00:01:25.620
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+18
+00:01:25.620 --> 00:01:26.120
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+19
+00:01:26.120 --> 00:01:26.620
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+20
+00:01:26.620 --> 00:01:27.120
+Então vejam só, nós temos aqui na raiz a composição dos 8 dígitos contando com letras e números.
+
+21
+00:01:27.120 --> 00:01:32.299
+com letras e números, e os outros dois dígitos, né, vai ser somente numérico.
+
+22
+00:01:32.439 --> 00:01:35.959
+Veja que nesse exemplo, traz exatamente essa estrutura, ó,
+
+23
+00:01:36.680 --> 00:01:39.920
+raiz com oito posições, com letras e números,
+
+24
+00:01:40.840 --> 00:01:43.540
+a segunda com quatro posições, letras e números,
+
+25
+00:01:43.939 --> 00:01:47.900
+e os últimos dois dígitos, trazendo aí somente a numeração.
+
+26
+00:01:47.900 --> 00:01:52.060
+Então, pegue esse item aqui e legue para o seu departamento de tecnologia,
+
+27
+00:01:52.060 --> 00:01:57.760
+informando a necessidade de fazer a alteração.
+
+28
+00:01:57.959 --> 00:02:01.000
+Por quê? Eu preciso ter compatibilidade,
+
+29
+00:02:01.159 --> 00:02:06.859
+os sistemas devem aceitar os novos, os números, né, essa nova classificação,
+
+30
+00:02:07.459 --> 00:02:12.120
+mas nenhum CNPJ existente precisa ser alterado.

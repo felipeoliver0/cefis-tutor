@@ -1,0 +1,33 @@
+{
+  "id": 487614,
+  "title": "Natureza Jurídica",
+  "position": 17,
+  "duration": 79,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/2debdccf-8829-4683-a921-4d9531820585/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2debdccf-8829-4683-a921-4d9531820585/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2debdccf-8829-4683-a921-4d9531820585/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2debdccf-8829-4683-a921-4d9531820585/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2debdccf-8829-4683-a921-4d9531820585/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

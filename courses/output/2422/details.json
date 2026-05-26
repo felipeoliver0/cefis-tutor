@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2422,
+    "title": "Apresentação de Resultados",
+    "subtitle": "Aplicações práticas",
+    "summary": "Neste curso prático de apresentação de resultados você aprenderá desde os diferentes tipos de apresentação, até aspectos fundamentais a serem apresentados a diretores e clientes. Aprenderá sobre demonstrativos contábeis e financeiros, planejamento, preparação, indicadores de gestão, postura e muitas outras dicas para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/e5d5ddf143125a3f01a4c9f08ba6cb811728384296.jpg",
+    "goals": [
+      "Fornecer subsídios para planejar, preparar e apresentar os resultados contábeis e financeiros da empresa para seus Acionistas, Diretores e Executivos chaves. Orientar os atuais e futuros empreendedores contábeis sobre os aspectos técnicos capazes de tornar a sua apresentação um sucesso. Comentar sobre os benefícios de uma apresentação tecnicamente bem preparada e fundamentada em resultados e sua repercussão para a imagem do profissional contábil responsável pela mesma."
+    ],
+    "teacher": {
+      "id": 268532,
+      "name": "SÉRGIO LOPES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1633790201.jpeg"
+    },
+    "duration": 9101,
+    "keywords": "resultados;apresentar;apresentação;apresentação de resultados",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 29,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 665,
+    "averageRating": 9.13,
+    "practiceAverage": 9.05,
+    "trailer": {
+      "id": "fa9de27a-55f5-451b-851c-4772d7288451",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fa9de27a-55f5-451b-851c-4772d7288451/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fa9de27a-55f5-451b-851c-4772d7288451/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fa9de27a-55f5-451b-851c-4772d7288451/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/fa9de27a-55f5-451b-851c-4772d7288451/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-01-11T21:03:25.000Z",
+      "updatedAt": "2023-01-11T21:03:25.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-01-12T17:33:44.000Z",
+    "recordedAt": "2022-12-23T00:00:00.000Z",
+    "createdAt": "2022-12-26T10:42:02.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 487269,
+  "title": "Conceito de beneficiário na prática",
+  "position": 15,
+  "duration": 261,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/f746b7f2-5ba3-49fa-8b0f-2ff920bd5e3c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f746b7f2-5ba3-49fa-8b0f-2ff920bd5e3c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f746b7f2-5ba3-49fa-8b0f-2ff920bd5e3c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f746b7f2-5ba3-49fa-8b0f-2ff920bd5e3c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f746b7f2-5ba3-49fa-8b0f-2ff920bd5e3c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

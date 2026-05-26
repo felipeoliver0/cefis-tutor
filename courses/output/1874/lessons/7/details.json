@@ -1,0 +1,33 @@
+{
+  "id": 458677,
+  "title": "Cooperativas em geral x de trabalho",
+  "position": 7,
+  "duration": 55,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d6480970-f4e1-4034-ad79-baa99666a30e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d6480970-f4e1-4034-ad79-baa99666a30e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d6480970-f4e1-4034-ad79-baa99666a30e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d6480970-f4e1-4034-ad79-baa99666a30e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d6480970-f4e1-4034-ad79-baa99666a30e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

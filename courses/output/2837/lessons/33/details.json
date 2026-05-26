@@ -1,0 +1,33 @@
+{
+  "id": 470866,
+  "title": "Adiantamento de despesa de viagem",
+  "position": 33,
+  "duration": 361,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3ce0b6f5-beb7-46fb-9518-2a950f4c4921/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ce0b6f5-beb7-46fb-9518-2a950f4c4921/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ce0b6f5-beb7-46fb-9518-2a950f4c4921/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ce0b6f5-beb7-46fb-9518-2a950f4c4921/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ce0b6f5-beb7-46fb-9518-2a950f4c4921/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 480619,
+  "title": "Brasil - EUA: 200 anos de parceria Parte 1",
+  "position": 22,
+  "duration": 537,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1ebaf411-9de6-42a3-8d07-f02609e95ad2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ebaf411-9de6-42a3-8d07-f02609e95ad2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ebaf411-9de6-42a3-8d07-f02609e95ad2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ebaf411-9de6-42a3-8d07-f02609e95ad2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1ebaf411-9de6-42a3-8d07-f02609e95ad2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

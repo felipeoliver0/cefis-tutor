@@ -1,0 +1,33 @@
+{
+  "id": 464634,
+  "title": "Habilidades",
+  "position": 4,
+  "duration": 444,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/437af0f4-ae0f-4a14-bd68-2a06a3d27b9a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/437af0f4-ae0f-4a14-bd68-2a06a3d27b9a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/437af0f4-ae0f-4a14-bd68-2a06a3d27b9a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/437af0f4-ae0f-4a14-bd68-2a06a3d27b9a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/437af0f4-ae0f-4a14-bd68-2a06a3d27b9a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 487334,
+  "title": "Inciso Terceiro",
+  "position": 6,
+  "duration": 363,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/544ebac1-a83d-4e20-ab65-db08a795e4c4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/544ebac1-a83d-4e20-ab65-db08a795e4c4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/544ebac1-a83d-4e20-ab65-db08a795e4c4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/544ebac1-a83d-4e20-ab65-db08a795e4c4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/544ebac1-a83d-4e20-ab65-db08a795e4c4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

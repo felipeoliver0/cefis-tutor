@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3906,
+    "title": "Dominando a Gestão e Controle do Ativo Imobilizado",
+    "subtitle": "curso prático",
+    "summary": "Este curso oferece uma visão aprofundada e atualizada sobre a gestão e controle do ativo imobilizado, cruciais para a administração eficiente de qualquer empresa. Abordaremos desde a introdução ao conceito e reconhecimento dos ativos imobilizados até métodos de depreciação, avaliação, reavaliações, e aspectos fiscais atualizados para 2025. Explore as normas contábeis relevantes, procedimentos de controle interno, e descubra como otimizar o uso de incentivos fiscais e garantir a integridade contábil e física de seu patrimônio.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/b0d1c87a-184a-4f93-b5d1-b1ef16762d75-thumbnail.png",
+    "goals": [
+      "Capacitar profissionais a implementar práticas sólidas de gestão e controle do ativo imobilizado, assegurando precisão contábil, cumprimento regulatório e otimização fiscal."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 20773,
+    "keywords": "Ativo Imobilizado;Depreciação;CPC 27;SPED Fiscal;Gestão Patrimonial",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 57,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 279,
+    "averageRating": 9.3,
+    "practiceAverage": 9.16,
+    "trailer": {
+      "id": "227c1987-09d8-46c8-bc99-fad4011dd0e2",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/227c1987-09d8-46c8-bc99-fad4011dd0e2/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/227c1987-09d8-46c8-bc99-fad4011dd0e2/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/227c1987-09d8-46c8-bc99-fad4011dd0e2/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/227c1987-09d8-46c8-bc99-fad4011dd0e2/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-08-11T22:47:30.000Z",
+      "updatedAt": "2025-08-11T22:47:29.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-08-11T22:48:55.000Z",
+    "recordedAt": "2025-08-05T00:00:00.000Z",
+    "createdAt": "2025-08-05T01:23:33.000Z"
+  }
+}

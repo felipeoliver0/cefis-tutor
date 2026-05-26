@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2373,
+    "title": "Indicadores de Rentabilidade e Alavancagem Financeira",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso de Indicadores de Rentabilidade e Alavancagem Financeira você aprenderá aspectos relacionados ao Retorno sobre o Investimento (ROI), Giro do Ativo, Margem Líquida, Decomposição do ROI, Retorno sobre o Patrimônio Líquido, Alavancagem Financeira e muitos outros pontos para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/673ab7025be2eb6ca88541fc6f0313161728428045.jpg",
+    "goals": [
+      "Demonstrar indicadores de rentabilidade e alavancagem financeira."
+    ],
+    "teacher": {
+      "id": 296949,
+      "name": "Rosana Gonzalez Dannibale",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/d0ddb146a9f4319ac432830ad2e712611559154132.jpg"
+    },
+    "duration": 5773,
+    "keywords": "renatbilidade;finanças;alavancagem financeira",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 154,
+    "averageRating": 8.97,
+    "practiceAverage": 8.54,
+    "trailer": {
+      "id": "b5c86904-9ad2-4eef-8a3d-74e4e5752831",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b5c86904-9ad2-4eef-8a3d-74e4e5752831/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b5c86904-9ad2-4eef-8a3d-74e4e5752831/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b5c86904-9ad2-4eef-8a3d-74e4e5752831/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b5c86904-9ad2-4eef-8a3d-74e4e5752831/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-06T18:29:47.000Z",
+      "updatedAt": "2022-12-06T18:29:47.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-07T16:22:00.000Z",
+    "recordedAt": "2022-11-21T00:00:00.000Z",
+    "createdAt": "2022-11-21T09:46:03.000Z"
+  }
+}

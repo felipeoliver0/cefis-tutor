@@ -1,0 +1,33 @@
+{
+  "id": 465629,
+  "title": "Quais os produtos sujeitos a tributação?",
+  "position": 3,
+  "duration": 497,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dd6a8194-8ac1-4157-b46f-26806fa22bd6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd6a8194-8ac1-4157-b46f-26806fa22bd6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd6a8194-8ac1-4157-b46f-26806fa22bd6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd6a8194-8ac1-4157-b46f-26806fa22bd6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd6a8194-8ac1-4157-b46f-26806fa22bd6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

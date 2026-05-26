@@ -1,0 +1,33 @@
+{
+  "id": 486276,
+  "title": "Valor do benefício B31 ou B91",
+  "position": 18,
+  "duration": 74,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ce9b9eee-759b-42b8-9806-15f080b919e7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ce9b9eee-759b-42b8-9806-15f080b919e7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ce9b9eee-759b-42b8-9806-15f080b919e7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ce9b9eee-759b-42b8-9806-15f080b919e7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ce9b9eee-759b-42b8-9806-15f080b919e7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2954,
+    "title": "ICMS: regras gerais",
+    "subtitle": "Fundamentos e aplicações",
+    "summary": "Neste curso 'ICMS: regras gerais' você irá aprender na prática tudo o que precisa saber sobre ICMS. Aprenderá os fundamentos e a prática de ICMS em operações de importação e exportação, aplicações do ICMS nas operações de comércio exterior e vários outros temas para você que deseja se atualizar ou aprender tudo sobre ICMS.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/0214c904ed7249ea54d4493166eb53741728428031.jpg",
+    "goals": [
+      "O objetivo do curso ICMS: regras gerais: Fundamentos e aplicações é a capacitação para a aplicação prática das regras gerais do ICMS, abordando os fundamentos e aplicações desse imposto."
+    ],
+    "teacher": {
+      "id": 571255,
+      "name": "Sandra Cabral",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1660050985.jpeg"
+    },
+    "duration": 9050,
+    "keywords": "icms;regras gerais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 35,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 3977,
+    "averageRating": 9.27,
+    "practiceAverage": 9.18,
+    "trailer": {
+      "id": "030f7637-e6f9-4720-8b6f-a8caba314636",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/030f7637-e6f9-4720-8b6f-a8caba314636/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/030f7637-e6f9-4720-8b6f-a8caba314636/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/030f7637-e6f9-4720-8b6f-a8caba314636/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/030f7637-e6f9-4720-8b6f-a8caba314636/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-12-13T00:29:10.000Z",
+      "updatedAt": "2023-12-13T00:29:09.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-12-14T07:17:16.000Z",
+    "recordedAt": "2023-11-30T00:00:00.000Z",
+    "createdAt": "2023-12-01T18:41:04.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 462358,
+  "title": "Mapeamento de risco de compliance",
+  "position": 14,
+  "duration": 192,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8651c060-f318-40d1-bc6f-08e3bc616da5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8651c060-f318-40d1-bc6f-08e3bc616da5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8651c060-f318-40d1-bc6f-08e3bc616da5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8651c060-f318-40d1-bc6f-08e3bc616da5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8651c060-f318-40d1-bc6f-08e3bc616da5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

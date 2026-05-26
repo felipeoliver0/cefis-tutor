@@ -1,0 +1,33 @@
+{
+  "id": 482065,
+  "title": "Prazo e cancelamento",
+  "position": 7,
+  "duration": 239,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/be2ebe82-0da1-461c-b252-58fb99d78435/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be2ebe82-0da1-461c-b252-58fb99d78435/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be2ebe82-0da1-461c-b252-58fb99d78435/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be2ebe82-0da1-461c-b252-58fb99d78435/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be2ebe82-0da1-461c-b252-58fb99d78435/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 467941,
+  "title": "Serviço, Art.3°CDC - Parte 1",
+  "position": 8,
+  "duration": 249,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bf507a90-4deb-40cf-b87d-53a14019d35b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf507a90-4deb-40cf-b87d-53a14019d35b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf507a90-4deb-40cf-b87d-53a14019d35b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf507a90-4deb-40cf-b87d-53a14019d35b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf507a90-4deb-40cf-b87d-53a14019d35b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

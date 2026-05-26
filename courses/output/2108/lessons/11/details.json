@@ -1,0 +1,33 @@
+{
+  "id": 462320,
+  "title": "Relatório",
+  "position": 11,
+  "duration": 183,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0c8c8dd6-3b7b-49ce-9691-e07813e91efc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c8c8dd6-3b7b-49ce-9691-e07813e91efc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c8c8dd6-3b7b-49ce-9691-e07813e91efc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c8c8dd6-3b7b-49ce-9691-e07813e91efc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c8c8dd6-3b7b-49ce-9691-e07813e91efc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

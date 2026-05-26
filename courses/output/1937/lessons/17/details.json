@@ -1,0 +1,33 @@
+{
+  "id": 459912,
+  "title": "Contribuintes mineiros",
+  "position": 17,
+  "duration": 251,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b772c52d-96a2-4fc6-91e1-ab7056e0baa8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b772c52d-96a2-4fc6-91e1-ab7056e0baa8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b772c52d-96a2-4fc6-91e1-ab7056e0baa8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b772c52d-96a2-4fc6-91e1-ab7056e0baa8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b772c52d-96a2-4fc6-91e1-ab7056e0baa8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

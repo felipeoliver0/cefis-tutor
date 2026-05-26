@@ -1,0 +1,273 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.379
+Quais são os eventos realizados dentro do CIB?
+
+3
+00:00:04.379 --> 00:00:08.500
+Nós estamos falando muito sobre novos eventos.
+
+4
+00:00:08.500 --> 00:00:11.980
+E no CIB, professora, nós teremos eventos?
+
+5
+00:00:11.980 --> 00:00:14.240
+Vamos juntos analisar.
+
+6
+00:00:14.240 --> 00:00:18.059
+Quais são os eventos que nós vamos registrar dentro do CIB?
+
+7
+00:00:18.059 --> 00:00:21.260
+Vejam só quais são os eventos permitidos.
+
+8
+00:00:21.260 --> 00:00:27.899
+Alteração, Extinção, Anulação e Reestabelecimento.
+
+9
+00:00:27.899 --> 00:00:33.380
+Os atos cadastrais relativos à unidade imobiliária
+
+10
+00:00:33.380 --> 00:00:37.939
+serão realizados exclusivamente no cadastro de origem.
+
+11
+00:00:37.939 --> 00:00:39.740
+Lembra, nós falamos sobre isso.
+
+12
+00:00:39.740 --> 00:00:45.320
+Todas as vezes que nós precisarmos fazer algum tipo de alteração,
+
+13
+00:00:45.320 --> 00:00:48.679
+atos cadastrais relativos às unidades, eu vou fazer na onde?
+
+14
+00:00:48.679 --> 00:00:54.320
+Lá no INCRA, lá na prefeitura, pelos respectivos órgãos que são gestores.
+
+15
+00:00:54.320 --> 00:00:57.560
+E devem transmitir ao CIB
+
+16
+00:00:57.560 --> 00:00:57.899
+o resultado da unidade imobiliária,
+
+17
+00:00:57.899 --> 00:01:01.140
+o resultado desses atos realizados,
+
+18
+00:01:01.140 --> 00:01:06.840
+justamente por conta desta movimentação online que nós vimos anteriormente.
+
+19
+00:01:06.840 --> 00:01:12.319
+Os dados da inscrição no CIB serão alterados quando o cadastro de origem
+
+20
+00:01:12.319 --> 00:01:16.120
+informar o atributo da unidade imobiliária,
+
+21
+00:01:16.120 --> 00:01:19.459
+diferente do que foi informado anteriormente.
+
+22
+00:01:19.459 --> 00:01:23.560
+A vinculação da unidade imobiliária e geometria,
+
+23
+00:01:23.560 --> 00:01:27.560
+diferente da anterior e informada, não caracteriza uma alteração.
+
+24
+00:01:27.560 --> 00:01:31.400
+Mas requer a inscrição de um novo CIB.
+
+25
+00:01:31.400 --> 00:01:33.239
+Então, o que eu preciso observar?
+
+26
+00:01:33.239 --> 00:01:40.340
+Que nós podemos fazer alteração, extinção, anulação e restabelecimento.
+
+27
+00:01:40.340 --> 00:01:41.239
+Na onde?
+
+28
+00:01:41.239 --> 00:01:44.040
+Na onde eu tenho meu cadastro original.
+
+29
+00:01:44.040 --> 00:01:47.540
+E se eu tiver dados alterados de origem,
+
+30
+00:01:47.540 --> 00:01:53.120
+que vai ter um atributo diferenciado na unidade imobiliária,
+
+31
+00:01:53.120 --> 00:01:56.879
+diferente do que eu tenho, eu vou precisar criar um novo CIB.
+
+32
+00:01:56.879 --> 00:01:56.920
+E se eu tiver um atributo diferenciado na unidade imobiliária, diferente do que eu tenho, eu vou precisar criar um novo CIB.
+
+33
+00:01:57.560 --> 00:02:03.500
+Vejam que a própria receita, a própria legislação já traz muito parecido, pessoal.
+
+34
+00:02:03.500 --> 00:02:08.900
+Fazendo um adendo aqui, quem aqui faz SPED vai recordar o que eu estou dizendo, né?
+
+35
+00:02:08.900 --> 00:02:16.439
+Quando nós temos um cadastro de pessoa física ou mesmo de mercadoria lá no 0150 ou no 0200,
+
+36
+00:02:16.439 --> 00:02:25.319
+aonde nós fazemos pequenas alterações e geramos ou um 0175 ou um 0220,
+
+37
+00:02:25.319 --> 00:02:27.319
+informando aquela alteração.
+
+38
+00:02:27.319 --> 00:02:34.599
+Mas se eu tenho mudanças drásticas, eu não posso simplesmente alterar aquele cadastro.
+
+39
+00:02:34.599 --> 00:02:37.259
+Eu preciso fazer um novo cadastro.
+
+40
+00:02:37.259 --> 00:02:43.159
+O CIB muito parecido, os eventos que podem ser registrados muito parecido com isso.
+
+41
+00:02:43.159 --> 00:02:45.300
+E faz todo o sentido, né, pessoal?
+
+42
+00:02:45.300 --> 00:02:51.039
+Eu não ter essa modificação desse tamanho para fazer uma alteração cadastral.
+
+43
+00:02:51.039 --> 00:02:52.979
+Isso é super importante.
+
+44
+00:02:52.979 --> 00:02:56.639
+A inscrição da unidade imobiliária no CIB,
+
+45
+00:02:56.639 --> 00:02:57.319
+A inscrição da unidade imobiliária no CIB,
+
+46
+00:02:57.319 --> 00:03:03.500
+será extinta quando essa for excluída lá do cadastro de origem.
+
+47
+00:03:03.500 --> 00:03:06.659
+Tirei lá, excluí da prefeitura, excluí do INCRA.
+
+48
+00:03:06.659 --> 00:03:11.039
+Automaticamente essa informação será transmitida para o banco Sinter,
+
+49
+00:03:11.039 --> 00:03:14.979
+para que aí sim ela possa ser extinta do banco de dados.
+
+50
+00:03:14.979 --> 00:03:21.379
+Observando que são causas de exclusão da unidade imobiliária no CIB,
+
+51
+00:03:21.379 --> 00:03:26.639
+a junção de duas ou mais geometrias ou a divisão,
+
+52
+00:03:26.639 --> 00:03:31.020
+divisão de uma geometria em duas ou mais,
+
+53
+00:03:31.020 --> 00:03:37.860
+que sejam decorrentes de remembramento, desmembramento, loteamento,
+
+54
+00:03:37.860 --> 00:03:41.120
+desdobro ou incorporação.
+
+55
+00:03:41.120 --> 00:03:46.419
+Ou seja, se eu estiver dentro de algum desses eventos,
+
+56
+00:03:46.419 --> 00:03:49.699
+eu terei uma situação de quebra.
+
+57
+00:03:49.699 --> 00:03:52.500
+Consequentemente, um novo CIB.
+
+58
+00:03:52.500 --> 00:03:56.639
+A inscrição no CIB será anulada, nos casos em que,
+
+59
+00:03:56.639 --> 00:04:02.319
+no caso de inscrição indevida, que for decorrente de erro ou de qualquer outro vício,
+
+60
+00:04:02.319 --> 00:04:05.979
+ou no procedimento da inscrição lá na origem.
+
+61
+00:04:05.979 --> 00:04:12.020
+E o restabelecimento da inscrição da unidade no CIB somente será possível
+
+62
+00:04:12.020 --> 00:04:16.160
+se o erro ou vício for saneado no cadastro de origem.
+
+63
+00:04:16.160 --> 00:04:21.459
+Eu não vou conseguir fazer uma alteração direto no Sinter.
+
+64
+00:04:21.459 --> 00:04:26.639
+Eu vou precisar vir no meu sistema de origem,
+
+65
+00:04:26.639 --> 00:04:29.680
+no gestor de origem deste imóvel,
+
+66
+00:04:29.680 --> 00:04:33.980
+fazer as alterações que sejam novos eventos
+
+67
+00:04:33.980 --> 00:04:39.819
+para que estes transmitam essas informações diretamente para o Sinter
+
+68
+00:04:39.819 --> 00:04:42.620
+e, consequentemente, altere o CIB.
+
+69
+00:04:42.620 --> 00:04:45.699
+Isso é muito importante a gente entender.

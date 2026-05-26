@@ -1,0 +1,773 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.860
+Com isso, nós findamos os exercícios, mas ainda tem um tópico superinteressante
+
+3
+00:00:05.860 --> 00:00:13.019
+para a gente fechar com chaves de ouro, seria o ImpermanTest, ou teste de impermanente.
+
+4
+00:00:13.019 --> 00:00:19.960
+Como prometido no início da aula, que nós iremos explicar o que é, para que serve, como é que faz,
+
+5
+00:00:19.960 --> 00:00:25.399
+como é que contabiliza, como é que calcula o ImpermanTest. Vocês vão ver que não é complexo.
+
+6
+00:00:25.399 --> 00:00:33.579
+Nas empresas que são SA, de capital aberto, até capital fechado, obrigatoriamente elas têm que ter auditoria.
+
+7
+00:00:33.579 --> 00:00:42.579
+E o auditor não vai dar um parecer 100%, sem nenhuma ressalva, caso eu não faça os testes de impermanente.
+
+8
+00:00:42.579 --> 00:00:49.619
+Caso eu não faça os ajustes dos estoques. Caso eu não faça os ajustes do meu imobilizado.
+
+9
+00:00:49.619 --> 00:00:52.719
+Porque o reflexo de tudo isso é o patrimônio.
+
+10
+00:00:52.719 --> 00:00:54.840
+E o objetivo da auditoria
+
+11
+00:00:54.840 --> 00:01:00.880
+é certificar se o balanço apresenta a verdadeira situação patrimonial naquela data.
+
+12
+00:01:00.880 --> 00:01:08.280
+Se você não fez, ele não pode certificar que representa a verdade. Entendeu? É esse o objetivo.
+
+13
+00:01:08.280 --> 00:01:11.819
+As demais empresas, como não têm essa obrigatoriedade, acabam nos fazendo.
+
+14
+00:01:11.819 --> 00:01:17.519
+Principalmente pequenas e médias, haja visto que isso custa fazer os laudos.
+
+15
+00:01:17.519 --> 00:01:19.299
+Então vamos lá, vamos entender.
+
+16
+00:01:19.299 --> 00:01:22.459
+Teste de impermanente ou ImpermanTest.
+
+17
+00:01:22.459 --> 00:01:24.840
+É uma palavra em inglês que significa, em sua tradução,
+
+18
+00:01:24.840 --> 00:01:27.879
+literal, deteriorização.
+
+19
+00:01:27.879 --> 00:01:34.579
+É uma regra segundo a qual a companhia deverá efetuar periodicamente,
+
+20
+00:01:34.579 --> 00:01:38.219
+e aí periodicamente significa anualmente,
+
+21
+00:01:38.219 --> 00:01:45.859
+análise sobre a recuperação dos valores registrados no imobilizado e no intangível.
+
+22
+00:01:45.859 --> 00:01:50.540
+Está lá no parágrafo 3º do artigo 183 da Lei nº 6.404.
+
+23
+00:01:50.540 --> 00:01:54.840
+Tecnicamente, trata-se da redução do valor recuperável de um bem,
+
+24
+00:01:54.840 --> 00:01:56.939
+ativo.
+
+25
+00:01:56.939 --> 00:02:02.719
+Na prática, quer dizer que as companhias terão que avaliar periodicamente,
+
+26
+00:02:02.719 --> 00:02:07.079
+subintendis anualmente, os ativos que geram resultado,
+
+27
+00:02:07.079 --> 00:02:10.020
+antes de contabilizá-los no balanço.
+
+28
+00:02:10.020 --> 00:02:14.360
+Ou seja, nós vimos o critério de ajuste ao valor justo,
+
+29
+00:02:14.360 --> 00:02:16.419
+que leva o valor do bem para cima.
+
+30
+00:02:16.419 --> 00:02:19.939
+Nós vimos o critério de ajuste à avaliação patrimonial,
+
+31
+00:02:19.939 --> 00:02:22.300
+quando passamos da Lei Velha para a Lei Nova,
+
+32
+00:02:22.300 --> 00:02:23.860
+que leva o valor do bem para cima.
+
+33
+00:02:23.860 --> 00:02:24.840
+Já o intangível, ele vai ficar no balanço.
+
+34
+00:02:24.840 --> 00:02:29.719
+Impairment Test ou Test Impairment, só leva o valor do bem para baixo.
+
+35
+00:02:30.360 --> 00:02:32.400
+Ele nunca será positivo.
+
+36
+00:02:33.139 --> 00:02:40.300
+No máximo, você vai reverter os valores negativos que você contabilizou em anos anteriores,
+
+37
+00:02:40.819 --> 00:02:42.939
+podendo chegar no máximo a zero.
+
+38
+00:02:43.780 --> 00:02:45.139
+Nunca será positivo.
+
+39
+00:02:45.639 --> 00:02:47.180
+Esse é o Impairment Test.
+
+40
+00:02:47.699 --> 00:02:49.020
+Vamos ver como funciona.
+
+41
+00:02:49.020 --> 00:02:56.919
+Cada vez que se verificar que um ativo esteja avaliado por valor não recuperável no futuro,
+
+42
+00:02:57.500 --> 00:03:02.360
+ou seja, toda vez que houver uma projeção de geração de caixa
+
+43
+00:03:02.360 --> 00:03:06.680
+em valor inferior ao montante pelo qual o ativo está registrado,
+
+44
+00:03:07.319 --> 00:03:11.539
+a companhia terá que fazer a baixa contábil da diferença.
+
+45
+00:03:11.939 --> 00:03:12.460
+Percebem?
+
+46
+00:03:12.460 --> 00:03:16.960
+O ajuste para a perda por desvalorização decorre da obrigação
+
+47
+00:03:16.960 --> 00:03:18.960
+de avaliar os ativos...
+
+48
+00:03:19.020 --> 00:03:20.879
+Os ativos, no mínimo, anualmente,
+
+49
+00:03:21.439 --> 00:03:24.520
+para ajustá-lo a valor de sua realização,
+
+50
+00:03:25.099 --> 00:03:28.259
+caso este esteja inferior ao valor contábil.
+
+51
+00:03:28.659 --> 00:03:29.680
+É isso que diz a regra.
+
+52
+00:03:30.719 --> 00:03:34.819
+Valor contábil é o montante pelo qual o ativo está reconhecido no balanço
+
+53
+00:03:34.819 --> 00:03:40.120
+depois de deduzir todas as respectivas depreciação, amortização, exação acumulada
+
+54
+00:03:40.120 --> 00:03:41.620
+e os ajustes para a perda.
+
+55
+00:03:41.659 --> 00:03:42.819
+Aí eu tenho o valor contábil.
+
+56
+00:03:43.280 --> 00:03:45.719
+Dentre outras situações, por exemplo,
+
+57
+00:03:45.719 --> 00:03:48.539
+o ativo precisa ser avaliado,
+
+58
+00:03:48.800 --> 00:03:48.919
+endereçado,
+
+59
+00:03:49.020 --> 00:03:53.020
+em decorrência da obsolescência ou de dano físico
+
+60
+00:03:53.020 --> 00:03:55.819
+ou que o retorno esperado do ativo,
+
+61
+00:03:55.819 --> 00:03:58.819
+que é o fluxo de caixa futuro descontado,
+
+62
+00:03:58.819 --> 00:04:01.319
+é menor que o valor contábil.
+
+63
+00:04:01.319 --> 00:04:05.120
+Ele não vai me gerar maior do que o valor contábil.
+
+64
+00:04:05.120 --> 00:04:08.620
+Portanto, esse teste de redução ao valor recuperável
+
+65
+00:04:08.620 --> 00:04:13.419
+pode ser executado a qualquer momento do período de um ano,
+
+66
+00:04:13.419 --> 00:04:17.420
+desde que seja executado todo o ano no mesmo período.
+
+67
+00:04:17.420 --> 00:04:18.800
+Então, se eu fizer em setembro,
+
+68
+00:04:18.800 --> 00:04:20.199
+todo setembro eu tenho que fazer.
+
+69
+00:04:20.199 --> 00:04:21.199
+Se eu fizer em dezembro,
+
+70
+00:04:21.199 --> 00:04:22.800
+todo dezembro eu tenho que fazer.
+
+71
+00:04:22.800 --> 00:04:25.500
+Não importa quando, mas eu tenho que fazer.
+
+72
+00:04:25.500 --> 00:04:27.600
+E eu vou ser cobrado pela auditoria,
+
+73
+00:04:27.600 --> 00:04:30.899
+se eu for uma sociedade anônima, com certeza.
+
+74
+00:04:30.899 --> 00:04:34.800
+As limitadas não têm essa cobrança, então muitas não fazem.
+
+75
+00:04:34.800 --> 00:04:35.800
+Perfeito?
+
+76
+00:04:35.800 --> 00:04:40.500
+As metodologias para avaliação de recuperação dos ativos
+
+77
+00:04:40.500 --> 00:04:44.500
+são estipuladas na NBC-TG01, CPC-01,
+
+78
+00:04:44.500 --> 00:04:48.100
+que é o ativo intangível, como já comentamos.
+
+79
+00:04:48.100 --> 00:04:48.600
+Ou seja,
+
+80
+00:04:48.600 --> 00:04:54.000
+dentre as quais a estimativa do valor de uso de um ativo.
+
+81
+00:04:54.000 --> 00:04:56.000
+Nós vamos ver como fazer.
+
+82
+00:04:56.000 --> 00:05:02.600
+Desta forma, se um ativo está registrado contabilmente por 10 mil
+
+83
+00:05:02.600 --> 00:05:05.000
+e o seu valor recuperável é 8,
+
+84
+00:05:05.000 --> 00:05:06.600
+teremos que ajustar a diferença.
+
+85
+00:05:06.600 --> 00:05:09.899
+Ou seja, temos uma perda de 2 mil.
+
+86
+00:05:09.899 --> 00:05:11.500
+Aí, como é que eu vou contabilizar?
+
+87
+00:05:11.500 --> 00:05:14.600
+Vou debitar perda por desvalorização de ativo,
+
+88
+00:05:14.600 --> 00:05:16.300
+vai lá para a minha DRE,
+
+89
+00:05:16.300 --> 00:05:18.500
+e vou creditar menos perda,
+
+90
+00:05:18.600 --> 00:05:20.100
+por desvalorização.
+
+91
+00:05:20.100 --> 00:05:22.100
+Uma conta redutora do ativo do bem,
+
+92
+00:05:22.100 --> 00:05:24.600
+que ele está lá por 10, mas tem uma perda estimada de 2.
+
+93
+00:05:24.600 --> 00:05:27.600
+Obviamente, essa perda não será dedutível.
+
+94
+00:05:27.600 --> 00:05:29.600
+Eu joguei ela para a despesa, mas ela não é dedutível,
+
+95
+00:05:29.600 --> 00:05:31.100
+tem que adicionar no horário.
+
+96
+00:05:31.100 --> 00:05:32.100
+Perfeito?
+
+97
+00:05:32.100 --> 00:05:36.100
+O teste de recuperabilidade pode ser realizado pelo valor líquido de venda
+
+98
+00:05:36.100 --> 00:05:37.600
+ou pelo uso.
+
+99
+00:05:37.600 --> 00:05:39.600
+É aí que está o X da questão.
+
+100
+00:05:39.600 --> 00:05:42.600
+Eu vou fazer o impairment test
+
+101
+00:05:42.600 --> 00:05:47.899
+pelo valor líquido de venda ou uso.
+
+102
+00:05:47.899 --> 00:05:51.899
+Só que, antes disso, me passou um detalhe importante aqui,
+
+103
+00:05:51.899 --> 00:05:53.399
+essa observação.
+
+104
+00:05:53.399 --> 00:05:55.899
+Não se ajusta eventual ganho.
+
+105
+00:05:55.899 --> 00:05:58.399
+Valor recuperável superior ao valor contábil.
+
+106
+00:05:58.399 --> 00:05:59.899
+Não, não ajusto.
+
+107
+00:05:59.899 --> 00:06:00.899
+Entendeu?
+
+108
+00:06:00.899 --> 00:06:02.899
+Por isso que o impairment, no máximo, é zero.
+
+109
+00:06:02.899 --> 00:06:03.899
+Tá?
+
+110
+00:06:03.899 --> 00:06:05.899
+E aí, sim, dando continuidade,
+
+111
+00:06:05.899 --> 00:06:08.899
+o teste de recuperabilidade pode ser realizado
+
+112
+00:06:08.899 --> 00:06:11.899
+pelo valor líquido de venda ou pelo valor de uso,
+
+113
+00:06:11.899 --> 00:06:14.899
+indicado pelo valor presente nos fluxos de caixa.
+
+114
+00:06:14.899 --> 00:06:16.899
+Dos dois, o maior ou o menor?
+
+115
+00:06:16.899 --> 00:06:18.899
+Dos dois, o menor.
+
+116
+00:06:18.899 --> 00:06:20.899
+O valor líquido de venda
+
+117
+00:06:20.899 --> 00:06:23.899
+é o valor obtido pela venda de um ativo
+
+118
+00:06:23.899 --> 00:06:25.899
+ou de uma unidade geradora de caixa
+
+119
+00:06:25.899 --> 00:06:28.899
+em transações normais, menos as despesas de venda.
+
+120
+00:06:28.899 --> 00:06:30.399
+O valor líquido de venda, quanto eu vou vender,
+
+121
+00:06:30.399 --> 00:06:34.399
+tirando aí as despesas de venda, mar, comissão de vendedores, etc.
+
+122
+00:06:34.399 --> 00:06:39.399
+E o valor de uso é o valor presente de fluxo de caixa estimado
+
+123
+00:06:39.399 --> 00:06:41.899
+que deve resultar no uso de um ativo
+
+124
+00:06:41.899 --> 00:06:43.899
+ou de uma unidade geradora de caixa.
+
+125
+00:06:43.899 --> 00:06:45.399
+Isso é um pouco mais complexo,
+
+126
+00:06:45.399 --> 00:06:46.899
+porque eu preciso mensurar,
+
+127
+00:06:46.899 --> 00:06:51.899
+quanto vai ser a minha venda que esse ativo produziu?
+
+128
+00:06:51.899 --> 00:06:54.899
+E aí, trazer o valor presente é uma taxa de juros.
+
+129
+00:06:54.899 --> 00:06:57.899
+É o mais complexozinho, mas também não é difícil.
+
+130
+00:06:57.899 --> 00:06:58.899
+Entenderam?
+
+131
+00:06:58.899 --> 00:07:01.899
+Agora, o problema é que eu tenho vários ativos,
+
+132
+00:07:01.899 --> 00:07:03.899
+às vezes eu estou fazendo isso num só.
+
+133
+00:07:03.899 --> 00:07:06.899
+Então, eu preciso criar um critério para fazer isso,
+
+134
+00:07:06.899 --> 00:07:08.899
+que a legislação deveria trazer.
+
+135
+00:07:08.899 --> 00:07:10.899
+Quais são? Perfeito?
+
+136
+00:07:10.899 --> 00:07:12.899
+Valor de uso é o valor presente de fluxo,
+
+137
+00:07:12.899 --> 00:07:14.899
+porque ficou muito teórico, muito pesado.
+
+138
+00:07:14.899 --> 00:07:16.899
+Valor, né?
+
+139
+00:07:16.899 --> 00:07:18.899
+Ficou muito pesado aqui.
+
+140
+00:07:18.899 --> 00:07:21.899
+É o valor presente de fluxo de caixa estimado
+
+141
+00:07:21.899 --> 00:07:24.899
+que deve resultar do uso de um ativo
+
+142
+00:07:24.899 --> 00:07:26.899
+ou de uma unidade geradora de caixa.
+
+143
+00:07:26.899 --> 00:07:28.899
+Poderia ter um linguajar mais suave,
+
+144
+00:07:28.899 --> 00:07:31.899
+mais palatar, bem pesado a norma,
+
+145
+00:07:31.899 --> 00:07:33.899
+que é uma das minhas críticas que eu faço
+
+146
+00:07:33.899 --> 00:07:35.899
+com relação a todas elas.
+
+147
+00:07:35.899 --> 00:07:37.899
+A redação não é nada agradável,
+
+148
+00:07:37.899 --> 00:07:39.899
+a leitura dos CPCs.
+
+149
+00:07:39.899 --> 00:07:41.899
+Enfim, mas é o que nós temos.
+
+150
+00:07:41.899 --> 00:07:43.899
+Então, temos que trabalhar em cima disso.
+
+151
+00:07:43.899 --> 00:07:45.899
+Valor de venda,
+
+152
+00:07:45.899 --> 00:07:47.899
+e aí menos as despesas.
+
+153
+00:07:47.899 --> 00:07:49.899
+Não é tão simples eu também considerar
+
+154
+00:07:49.899 --> 00:07:51.899
+quais são as despesas que eu vou ter.
+
+155
+00:07:51.899 --> 00:07:53.899
+Comissão de vendedor, marketing,
+
+156
+00:07:53.899 --> 00:07:55.899
+onde é que eu vou colocar?
+
+157
+00:07:55.899 --> 00:07:57.899
+Na televisão, na revista, onde é que eu vou divulgar?
+
+158
+00:07:57.899 --> 00:07:59.899
+Tenho que saber essas despesas, perfeito?
+
+159
+00:07:59.899 --> 00:08:01.899
+Comprovação do impermanente teste.
+
+160
+00:08:01.899 --> 00:08:03.899
+Para comprovar o resultado do teste de recuperabilidade,
+
+161
+00:08:03.899 --> 00:08:05.899
+é necessário que haja documentação
+
+162
+00:08:05.899 --> 00:08:07.899
+sobre os procedimentos adotados
+
+163
+00:08:07.899 --> 00:08:09.899
+para a realização do teste.
+
+164
+00:08:09.899 --> 00:08:11.899
+Não é simplesmente fazer.
+
+165
+00:08:11.899 --> 00:08:13.899
+Eu preciso me calçar de documentação idônea.
+
+166
+00:08:13.899 --> 00:08:15.899
+Ou seja, como o laudo fornecido
+
+167
+00:08:15.899 --> 00:08:17.899
+por empresa especializada
+
+168
+00:08:17.899 --> 00:08:19.899
+ou mesmo que realizado
+
+169
+00:08:19.899 --> 00:08:21.899
+internamente, desde que a pessoa
+
+170
+00:08:21.899 --> 00:08:23.899
+tenha gabarito para isso, tenha experiência
+
+171
+00:08:23.899 --> 00:08:25.899
+para isso. Então, esse laudo para mim
+
+172
+00:08:25.899 --> 00:08:27.899
+vai ser fundamental. É ele que eu vou tomar
+
+173
+00:08:27.899 --> 00:08:29.899
+minhas decisões.
+
+174
+00:08:29.899 --> 00:08:31.899
+Comprovada a perda por documento idôneo
+
+175
+00:08:31.899 --> 00:08:33.899
+sobre a existência do ativo desvalorizado,
+
+176
+00:08:33.899 --> 00:08:35.899
+deverá mensurar
+
+177
+00:08:35.899 --> 00:08:37.899
+o valor recuperável e
+
+178
+00:08:37.899 --> 00:08:39.899
+contabilizar a diferença da perda
+
+179
+00:08:39.899 --> 00:08:41.899
+em conta de ajuste ao valor
+
+180
+00:08:41.899 --> 00:08:43.899
+recuperável, que é uma despesa
+
+181
+00:08:43.899 --> 00:08:45.899
+que deverá ser contabilizada
+
+182
+00:08:45.899 --> 00:08:47.899
+no resultado do exercício.
+
+183
+00:08:47.899 --> 00:08:49.899
+Como é uma transação em função
+
+184
+00:08:49.899 --> 00:08:51.899
+das novas normas contábeis,
+
+185
+00:08:51.899 --> 00:08:53.899
+isso não será dedutível. Obviamente, eu tenho que
+
+186
+00:08:53.899 --> 00:08:55.899
+anular o efeito. É isso que nos diz
+
+187
+00:08:55.899 --> 00:08:57.899
+aí a legislação.
+
+188
+00:08:57.899 --> 00:08:59.899
+Vou ter que
+
+189
+00:08:59.899 --> 00:09:01.899
+anular o efeito. Perfeito?
+
+190
+00:09:01.899 --> 00:09:03.899
+Então, nós vamos ter aí, para
+
+191
+00:09:03.899 --> 00:09:05.899
+comprovar o resultado
+
+192
+00:09:05.899 --> 00:09:07.899
+do teste, é necessário
+
+193
+00:09:07.899 --> 00:09:09.899
+que eu tenha documentação idônea.
+
+194
+00:09:09.899 --> 00:09:11.899
+Não tenha dúvida.

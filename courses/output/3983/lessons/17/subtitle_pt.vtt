@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00:00.450 --> 00:00:06.200
+- E lembre-se, todo e qualquer tipo de impacto do SPED Fiscal está relacionado ao documento
+
+00:00:06.200 --> 00:00:12.645
+- fiscal eletrônico. Todo e qualquer tipo de informação do documento fiscal eletrônico está dentro
+
+00:00:12.645 --> 00:00:19.027
+- do SPED Fiscal. Diferente do que a gente tem do SPED Contribuições, porque o SPED Contribuições,
+
+00:00:19.027 --> 00:00:23.134
+- ele tem a ver com a apuração de PIS e COFINS, então não são
+
+00:00:23.266 --> 00:00:29.721
+- todos os documentos comprobatórios que são lançados na FD Contribuições, diferente do SPED Fiscal.
+
+00:00:29.721 --> 00:00:35.865
+- O SPED Fiscal, ele é a matriz de conferência do FD SMS, do FD Contribuições e da própria CEF.
+
+00:00:35.865 --> 00:00:42.133
+- Por quê? Se eu quero auditar o FD Contribuições, eu olho o SPED Fiscal, porque o SPED Fiscal é o
+
+00:00:42.133 --> 00:00:48.339
+- total de todos os documentos comprobatórios que o nosso contribuinte teve, tanto de entrada quanto
+
+00:00:48.339 --> 00:00:49.022
+- de saída.
+
+00:00:49.282 --> 00:00:56.707
+- E dentro desse contexto, o SPED Fiscal, ele tem alguns registros que vão trazer as informações do
+
+00:00:56.707 --> 00:01:04.205
+- documento fiscal eletrônico de vocês. Eu falei pra vocês que o bloco zero, ele é super importante
+
+00:01:04.205 --> 00:01:09.278
+- para a análise do seu SPED Fiscal. E o bloco C é onde representa a
+
+00:01:09.378 --> 00:01:16.063
+- escrituração digital do seu cliente. O lançamento do documento fiscal, quando a gente fala em notas
+
+00:01:16.063 --> 00:01:20.542
+- com eletrônica, vai estar no bloco C, aonde vocês vão demonstrar.
+
+00:01:20.770 --> 00:01:28.877
+- o cadastro, o item, a CFLP, conforme o foco do declarante, a CST, representando a incidência
+
+00:01:28.877 --> 00:01:37.070
+- das operações, tá? E dentro do SPED fiscal, a gente consegue analisar essa triade, ou seja,
+
+00:01:37.070 --> 00:01:45.781
+- olha lá, a CST do ICMS, esse é um relatório de registro fiscal do próprio SPED fiscal. Então, a
+
+00:01:45.781 --> 00:01:49.662
+- gente consegue identificar uma totalização
+
+00:01:50.146 --> 00:01:57.275
+- analisando a CST, a CFLP, as alíquotas do ICMS utilizadas, as operações totais, a base de cálculo
+
+00:01:57.275 --> 00:02:04.264
+- do ICMS e o total do ICMS. Então, não só no seu sistema operacional, mas também dentro do ESPAD
+
+00:02:04.264 --> 00:02:11.254
+- fiscal a gente consegue fazer esse cruzamento. E o que a gente precisa analisar? Se corresponde uma
+
+00:02:11.254 --> 00:02:16.286
+- CST, corresponde a CFLP? Veja que aqui a gente está falando de uma CST
+
+00:02:17.026 --> 00:02:45.342
+- 0,0, 0,20 e 0,20. Por que a gente apareceu 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+00:02:45.922 --> 00:02:53.423
+- ele é suspenso ou não excedente? Será que foi lançada a CST correta? Será que a CFLP 1933 é isento
+
+00:02:53.423 --> 00:03:01.139
+- no estado que eu estou fazendo o fechamento? Então, veja, a gente não adentrou ainda nas características
+
+00:03:01.139 --> 00:03:08.497
+- do SPED, mas a escrituração fiscal tem relação direta com o que vocês estão enviando. E é assim
+
+00:03:08.497 --> 00:03:11.998
+- que o Fisco faz os cruzamentos de informações.

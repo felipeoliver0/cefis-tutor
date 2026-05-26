@@ -1,0 +1,33 @@
+{
+  "id": 487578,
+  "title": "Efeitos RTC comércio - Parte 2",
+  "position": 15,
+  "duration": 475,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/304567b9-54c6-4de9-bd38-ee2136c3324a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/304567b9-54c6-4de9-bd38-ee2136c3324a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/304567b9-54c6-4de9-bd38-ee2136c3324a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/304567b9-54c6-4de9-bd38-ee2136c3324a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/304567b9-54c6-4de9-bd38-ee2136c3324a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

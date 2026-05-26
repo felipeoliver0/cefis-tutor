@@ -1,0 +1,33 @@
+{
+  "id": 454155,
+  "title": "Inaplicabilidade da Lei 11.101/2005",
+  "position": 6,
+  "duration": 397,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/88a857ce-1712-4e24-b4f7-1054a7b22c43/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88a857ce-1712-4e24-b4f7-1054a7b22c43/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88a857ce-1712-4e24-b4f7-1054a7b22c43/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88a857ce-1712-4e24-b4f7-1054a7b22c43/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88a857ce-1712-4e24-b4f7-1054a7b22c43/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

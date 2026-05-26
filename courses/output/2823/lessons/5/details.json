@@ -1,0 +1,33 @@
+{
+  "id": 470485,
+  "title": "Quiz-Time Pergunta 01",
+  "position": 5,
+  "duration": 45,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/29c1a09b-19bc-411e-8fb7-2d97e9ed76db/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/29c1a09b-19bc-411e-8fb7-2d97e9ed76db/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/29c1a09b-19bc-411e-8fb7-2d97e9ed76db/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/29c1a09b-19bc-411e-8fb7-2d97e9ed76db/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/29c1a09b-19bc-411e-8fb7-2d97e9ed76db/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

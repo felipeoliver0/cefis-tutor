@@ -1,0 +1,409 @@
+WEBVTT
+
+2
+00:00:00.050 --> 00:00:04.849
+Se a empresa do Simples Nacional vende muito para outras empresas,
+
+3
+00:00:05.669 --> 00:00:13.070
+ou seja, os principais clientes de uma determinada empresa do Simples Nacional é uma outra empresa,
+
+4
+00:00:14.070 --> 00:00:20.589
+pode ser que a empresa queira tomar o máximo de crédito possível que ela puder tomar.
+
+5
+00:00:20.589 --> 00:00:28.829
+Então, é necessário ter uma conversa com as empresas, com seus principais fornecedores.
+
+6
+00:00:28.829 --> 00:00:36.750
+Se não com todos os fornecedores e com seus principais clientes e também se não com todos os seus clientes
+
+7
+00:00:36.750 --> 00:00:45.789
+para entender essa dinâmica de débito e crédito e até para ver se de repente a relação de fornecimento
+
+8
+00:00:45.789 --> 00:00:54.810
+ou de prestação do serviço não estará sendo colocada em xeque caso a empresa do Simples Nacional
+
+9
+00:00:54.810 --> 00:00:58.789
+opte por fazer o IBSCBSC.
+
+10
+00:00:58.829 --> 00:01:07.409
+Se tudo no Simples Nacional, tudo dentro da DAS e não opte por fazer um regime regular de IBSCBS.
+
+11
+00:01:07.750 --> 00:01:10.609
+Por que tem diferença? Qual é a diferença?
+
+12
+00:01:11.629 --> 00:01:16.650
+Se a empresa do Simples Nacional optar para ficar tudo dentro do Simples Nacional,
+
+13
+00:01:16.650 --> 00:01:24.650
+ela não vai poder destacar o IBSCBS nos campos próprios do documento fiscal eletrônico.
+
+14
+00:01:25.290 --> 00:01:28.650
+Dessa forma, os seus clientes não vão poder tomar o crédito.
+
+15
+00:01:28.829 --> 00:01:30.510
+O crédito da alíquota cheia.
+
+16
+00:01:31.510 --> 00:01:38.189
+O que a empresa vai poder fazer do Simples Nacional se ela optar por fazer tudo dentro do Simples?
+
+17
+00:01:38.909 --> 00:01:45.750
+Quando recolhe todos os tributos dentro do Simples é uma DAS só, um único documento de arrecadação.
+
+18
+00:01:46.829 --> 00:01:56.870
+Só que aquele valor da DAS lá dentro do EK que aparece, ele é desmembrado para cada tributo.
+
+19
+00:01:56.870 --> 00:01:57.129
+Não é?
+
+20
+00:01:57.349 --> 00:01:58.629
+Então, a empresa do Simples Nacional...
+
+21
+00:01:58.629 --> 00:02:07.549
+A empresa do Simples Nacional vai ter que verificar qual é o valor da CBS e do IBS que está lá dentro da DAS
+
+22
+00:02:07.549 --> 00:02:13.669
+e vai poder informar nos dados adicionais dos documentos fiscais eletrônicos.
+
+23
+00:02:14.370 --> 00:02:20.569
+E aí sim, os clientes vão poder tomar crédito daquele valor menor,
+
+24
+00:02:20.569 --> 00:02:25.349
+daquele valor que está dentro da DAS de IBSCBS,
+
+25
+00:02:25.729 --> 00:02:28.569
+mas ele não pode ser destacado nos campos próprios.
+
+26
+00:02:28.629 --> 00:02:30.870
+Olha a complicação aí, né?
+
+27
+00:02:31.189 --> 00:02:36.370
+Ele tem que ser informado nos dados adicionais da nota, que é um campo texto.
+
+28
+00:02:36.770 --> 00:02:38.129
+Então, veja as complicações.
+
+29
+00:02:38.289 --> 00:02:40.009
+Agora, pensa só comigo o seguinte.
+
+30
+00:02:40.849 --> 00:02:50.509
+Se uma empresa do Simples Nacional vende produtos, mercadorias ou presta serviço apenas para consumidores finais,
+
+31
+00:02:51.229 --> 00:02:53.889
+por exemplo, as empresas que trabalham no varejo,
+
+32
+00:02:54.930 --> 00:02:57.889
+consumidores finais não tomam crédito de tributos.
+
+33
+00:02:58.629 --> 00:02:59.729
+De impostos.
+
+34
+00:03:00.030 --> 00:03:08.590
+Então, não vai importar muito essa questão de que os clientes, consumidores finais, pessoas físicas,
+
+35
+00:03:08.849 --> 00:03:10.270
+não vão ter essa questão.
+
+36
+00:03:10.389 --> 00:03:11.750
+Eles não tomam crédito, né?
+
+37
+00:03:12.129 --> 00:03:14.409
+Não vai ter essa questão de querer tomar crédito.
+
+38
+00:03:15.050 --> 00:03:19.710
+Por outro lado, o que precisa ser verificado e fazer contas é
+
+39
+00:03:19.710 --> 00:03:24.789
+se a empresa do Simples Nacional optar pelo regime Regoar,
+
+40
+00:03:25.349 --> 00:03:27.789
+significa dizer que ela vai poder tomar...
+
+41
+00:03:28.629 --> 00:03:33.810
+tomar crédito de tudo o que ela compra e tudo o que ela contrata de serviços.
+
+42
+00:03:34.469 --> 00:03:35.870
+E aí fica uma questão, né?
+
+43
+00:03:36.629 --> 00:03:45.229
+De repente, vale a pena, mesmo que a empresa venda e presta serviço apenas para consumidores finais,
+
+44
+00:03:46.050 --> 00:03:48.729
+ela também optar pelo regime Regoar,
+
+45
+00:03:49.389 --> 00:03:54.689
+porque se ela for tomar crédito de tudo o que ela compra e contrata de serviço,
+
+46
+00:03:54.689 --> 00:03:58.289
+o custo dela de aquisição é menor.
+
+47
+00:03:58.629 --> 00:04:04.110
+E quando ela for fazer os seus débitos para pagar o IBS e CBS,
+
+48
+00:04:04.830 --> 00:04:08.050
+ela vai poder descontar todos esses créditos.
+
+49
+00:04:08.550 --> 00:04:17.110
+Então, não é uma resposta simples ou não tem uma fórmula de bolo para dizer,
+
+50
+00:04:17.449 --> 00:04:24.569
+ó, para as empresas B2B, que é Business to Business, é melhor de um jeito, né?
+
+51
+00:04:24.569 --> 00:04:28.569
+E para as empresas B2C, Business to Consumer,
+
+52
+00:04:28.629 --> 00:04:30.110
+é de outro, né?
+
+53
+00:04:30.209 --> 00:04:36.370
+Ou seja, quando vende entre empresas, é de um jeito e de empresas para consumidores finais é de outro.
+
+54
+00:04:36.490 --> 00:04:38.589
+Não tem uma fórmula mágica.
+
+55
+00:04:39.449 --> 00:04:43.009
+Tem que ser olhado os impactos empresa a empresa mesmo.
+
+56
+00:04:43.810 --> 00:04:45.990
+Depende de um monte de características.
+
+57
+00:04:46.930 --> 00:04:50.629
+Qual que é o total de compras e de contratação que a empresa faz,
+
+58
+00:04:51.589 --> 00:04:54.509
+de onde ela compra, de onde ela contrata,
+
+59
+00:04:55.129 --> 00:04:57.990
+e para quem ela vende, para quem ela presta serviço.
+
+60
+00:04:58.629 --> 00:05:03.370
+Então, é quase que um cálculo individual efetuado para cada empresa
+
+61
+00:05:03.370 --> 00:05:07.829
+com base na realidade de cada empresa.
+
+62
+00:05:08.029 --> 00:05:11.170
+Normalmente, os trabalhos que a gente faz atualmente,
+
+63
+00:05:11.970 --> 00:05:17.589
+pega os últimos três meses, seis meses, ou até mesmo o último ano,
+
+64
+00:05:17.769 --> 00:05:21.730
+os últimos doze meses, na realidade de cada empresa.
+
+65
+00:05:22.029 --> 00:05:26.790
+Tudo que a empresa efetivamente comprou e contratou de serviços,
+
+66
+00:05:27.290 --> 00:05:28.589
+nos últimos doze meses,
+
+67
+00:05:28.629 --> 00:05:33.029
+por exemplo, e também todas as suas vendas nos últimos doze meses.
+
+68
+00:05:33.709 --> 00:05:37.689
+E aí verifica como é o tratamento hoje, atualmente,
+
+69
+00:05:38.089 --> 00:05:42.209
+se a empresa está no simples, se ela está no presumido, se ela está no real,
+
+70
+00:05:42.829 --> 00:05:48.269
+qual que é a fotografia da carga tributária dessa empresa hoje.
+
+71
+00:05:49.110 --> 00:05:52.029
+E aí a gente pega essa mesma realidade de hoje,
+
+72
+00:05:52.769 --> 00:05:56.430
+com base nas suas compras reais, nas suas vendas reais,
+
+73
+00:05:56.430 --> 00:05:58.470
+e a gente replica,
+
+74
+00:05:58.629 --> 00:06:01.930
+essa mesma realidade para os próximos anos,
+
+75
+00:06:02.670 --> 00:06:05.649
+durante todo o período de transição.
+
+76
+00:06:05.889 --> 00:06:09.449
+E é isso que nós vamos fazer na aula de hoje.
+
+77
+00:06:09.810 --> 00:06:13.089
+Hoje, nós vamos ver, então, planilhas.
+
+78
+00:06:13.670 --> 00:06:17.550
+Nós estamos colocando aqui, impactos da reforma tributária,
+
+79
+00:06:18.230 --> 00:06:20.730
+comércios, indústrias e serviços.
+
+80
+00:06:21.129 --> 00:06:28.029
+Então, não vamos ver apenas um valor de vendas anuais,
+
+81
+00:06:28.629 --> 00:06:33.629
+a empresa, que é onde ela tem o débito do IBS e da CBS,
+
+82
+00:06:34.430 --> 00:06:39.990
+mas também vamos aproveitar e vamos olhar as compras dessa empresa,
+
+83
+00:06:40.170 --> 00:06:45.930
+porque sobre as compras é possível tomar crédito de IBS e CBS,
+
+84
+00:06:46.750 --> 00:06:50.389
+tanto para as empresas do lucro presumido, do lucro real,
+
+85
+00:06:50.389 --> 00:06:53.350
+e também do simples nacional,
+
+86
+00:06:53.610 --> 00:06:58.389
+desde que a empresa do simples nacional faça a opção,
+
+87
+00:06:58.629 --> 00:07:03.529
+pelo regime regular de apuração do IBS e CBS.
+
+88
+00:07:03.529 --> 00:07:08.629
+E lembrando que, se a opção não for pelo regime regular,
+
+89
+00:07:08.629 --> 00:07:11.829
+e for pelo regime do simples nacional normal,
+
+90
+00:07:11.829 --> 00:07:19.629
+não haverá a possibilidade de calcular com créditos nas entradas e débitos nas saídas.
+
+91
+00:07:19.629 --> 00:07:23.430
+Isso significa dizer que tudo que a empresa comprar,
+
+92
+00:07:23.430 --> 00:07:27.970
+ela não toma crédito, o seu custo de aquisição é maior,
+
+93
+00:07:27.970 --> 00:07:33.670
+e tudo que ela vender, a tributação estará tudo com base no faturamento,
+
+94
+00:07:33.810 --> 00:07:36.750
+no percentual com base no faturamento.
+
+95
+00:07:37.370 --> 00:07:40.569
+Então, tem impactos essas escolhas, né?
+
+96
+00:07:41.170 --> 00:07:45.689
+Tanto tem impacto, que na legislação da reforma tributária,
+
+97
+00:07:45.689 --> 00:07:50.670
+essa opção efetuada pelas empresas do simples nacional,
+
+98
+00:07:50.930 --> 00:07:54.990
+de ficar no regime regular de IBS e CBS,
+
+99
+00:07:55.269 --> 00:07:57.269
+ou tudo dentro do simples nacional,
+
+100
+00:07:57.970 --> 00:08:02.470
+vai poder ser modificada a cada seis meses.
+
+101
+00:08:03.170 --> 00:08:06.870
+Então, veja que para janeiro de 2027.
+
+102
+00:08:07.569 --> 00:08:13.069
+Se a data da opção é até 30 de setembro de 2026,
+
+103
+00:08:13.069 --> 00:08:18.170
+significa dizer que são três meses antes para tomar a decisão.

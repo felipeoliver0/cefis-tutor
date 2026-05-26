@@ -1,0 +1,33 @@
+{
+  "id": 461960,
+  "title": "Trabalho avulso (conceito e previsão constitucional)",
+  "position": 2,
+  "duration": 574,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4af32f42-d8bb-4c77-bea0-3c19b92178eb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4af32f42-d8bb-4c77-bea0-3c19b92178eb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4af32f42-d8bb-4c77-bea0-3c19b92178eb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4af32f42-d8bb-4c77-bea0-3c19b92178eb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4af32f42-d8bb-4c77-bea0-3c19b92178eb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

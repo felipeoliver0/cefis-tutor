@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2392,
+    "title": "Desoneração tributária para profissionais da saúde: equiparação a serviços hospitalares",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de Desoneração tributária IRPJ/CSLL para profissionais da área da saúde, você aprenderá as regras e aplicações relativas à equiparação de serviços hospitalares. Entenderá sobre manifestação da PGFN, diferença entre sociedades simples e sociedades empresariais, novas restrições, procedimentos de adaptação, recuperação, ação judicial, LTDA x ISSQN e muito mais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/d155c531-d6c0-4708-ba82-01af80add85d-thumbnail.png",
+    "goals": [
+      "Demonstrar regras e aplicações relativas à equiparação de serviços hospitalares. Entenderá sobre manifestação da PGFN, diferença entre sociedades simples e sociedades empresariais, novas restrições, procedimentos de adaptação, recuperação, ação judicial, LTDA x ISSQN e muito mais."
+    ],
+    "teacher": {
+      "id": 605370,
+      "name": "PERISSON LOPES DE ANDRADE",
+      "avatar": "https://s3.cefis.cloud/cefiscdn/uploads-v3/87530c56-2617-4e3b-b11e-0ea35570ebd7-croppedImage.jpeg"
+    },
+    "duration": 5650,
+    "keywords": "deseoneração;serviços médicos;médicos;hospitalar;hospitais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 567,
+    "averageRating": 9.42,
+    "practiceAverage": 9.31,
+    "trailer": {
+      "id": "c04e8cd9-e457-45b8-b56e-a96bcd9c4d69",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c04e8cd9-e457-45b8-b56e-a96bcd9c4d69/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c04e8cd9-e457-45b8-b56e-a96bcd9c4d69/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c04e8cd9-e457-45b8-b56e-a96bcd9c4d69/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c04e8cd9-e457-45b8-b56e-a96bcd9c4d69/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-16T19:07:11.000Z",
+      "updatedAt": "2022-12-16T19:07:11.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-27T19:36:34.000Z",
+    "recordedAt": "2022-12-06T00:00:00.000Z",
+    "createdAt": "2022-12-10T09:52:59.000Z"
+  }
+}

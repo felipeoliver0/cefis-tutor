@@ -1,0 +1,33 @@
+{
+  "id": 474354,
+  "title": "Formalizando",
+  "position": 15,
+  "duration": 604,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/334047da-7d82-47f4-963f-918f0a6b4875/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/334047da-7d82-47f4-963f-918f0a6b4875/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/334047da-7d82-47f4-963f-918f0a6b4875/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/334047da-7d82-47f4-963f-918f0a6b4875/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/334047da-7d82-47f4-963f-918f0a6b4875/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

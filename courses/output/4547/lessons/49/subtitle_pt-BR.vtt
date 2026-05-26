@@ -1,0 +1,197 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:12.000
+Então aqui nós temos o seguinte, está lá na instrução 2004, diz que nós temos que formar todos os valores que serviram de base de cálculo para o imposto de renda e para a contribuição social.
+
+3
+00:00:12.000 --> 00:00:27.000
+Então, a apresentação do demonstrativo do livro Caixa, a partir do ano-calendário de 2016, para as pessoas jurídicas optantes pelo sistema do lucro presumido,
+
+4
+00:00:27.000 --> 00:00:45.000
+que se utilizarem da prerrogativa, então é uma opção, prevista no parágrafo único do artigo 45 da Lei nº 8.981, lá de 1995, e cuja receita bruta no ano seja superior a R$ 1.200.000.
+
+5
+00:00:45.000 --> 00:00:49.000
+Porque se for abaixo disso, eu não estou nem obrigado a entregar a ICB, perfeito?
+
+6
+00:00:49.000 --> 00:00:57.000
+Então, acima de R$ 1.200.000, optei por fazer o livro Caixa, é nesse momento que eu vou criar lá no Excel um livro Caixa,
+
+7
+00:00:57.000 --> 00:01:03.000
+com data, histórico, débito, crédito e saldo, simples, e o número das notas bonitinho,
+
+8
+00:01:03.000 --> 00:01:07.000
+onde vai constar toda a minha movimentação do Caixa, toda a minha movimentação do banco.
+
+9
+00:01:07.000 --> 00:01:15.000
+Depois eu vou salvar isso em CSV para poder pendurar dentro da ECF, fazer a importação e jogar lá dentro.
+
+10
+00:01:15.000 --> 00:01:24.000
+E vai cair como se fosse o balanço que eu mostrei para vocês, as contas, do jeito que está aquilo ali, vai cair daquele formato.
+
+11
+00:01:24.000 --> 00:01:26.000
+Então, também não é complexo não.
+
+12
+00:01:26.000 --> 00:01:27.000
+Então, aqui nós temos o valor Caixa.
+
+13
+00:01:27.000 --> 00:01:34.000
+Aqui, no caso, nós temos informe os dados da nova escrituração, lá no registro 0010,
+
+14
+00:01:34.000 --> 00:01:41.000
+forma de tributação L, livro Caixa, ou não obrigada a entrega da ICB,
+
+15
+00:01:41.000 --> 00:01:46.000
+ou entrega facultativa da ICB sem recuperação dos dados anteriores.
+
+16
+00:01:46.000 --> 00:01:48.000
+Então, é o livro Caixa, né?
+
+17
+00:01:48.000 --> 00:01:53.000
+Só vai me abrir o bloco Q se eu botar L aqui, se eu não colocar aqui, não vai me abrir o bloco Q.
+
+18
+00:01:53.000 --> 00:01:56.000
+Então, é esta a importância do preenchimento.
+
+19
+00:01:56.000 --> 00:02:00.000
+A importância do preenchimento correto do bloco zero.
+
+20
+00:02:00.000 --> 00:02:03.000
+Depende do que eu informar lá que vai abrir os blocos, né?
+
+21
+00:02:03.000 --> 00:02:04.000
+Então, olha só.
+
+22
+00:02:04.000 --> 00:02:07.000
+Critério de reconhecimento da receita tem que ser Caixa, né?
+
+23
+00:02:07.000 --> 00:02:09.000
+Porque é livro Caixa, não tem jeito, né?
+
+24
+00:02:09.000 --> 00:02:11.000
+Critério, regime de Caixa.
+
+25
+00:02:11.000 --> 00:02:16.000
+Aí nós temos o Q100, que é o demonstrativo aqui do livro Caixa, né?
+
+26
+00:02:16.000 --> 00:02:19.000
+O Q100, demonstrativo do livro Caixa.
+
+27
+00:02:19.000 --> 00:02:21.000
+Eu vou ter o Q100, demonstrativo do livro Caixa.
+
+28
+00:02:21.000 --> 00:02:24.000
+O P200, apuração da base de cálculo.
+
+29
+00:02:24.000 --> 00:02:27.000
+O P300, o cálculo do imposto de renda.
+
+30
+00:02:27.000 --> 00:02:29.000
+O P400, apuração da CSL.
+
+31
+00:02:29.000 --> 00:02:33.000
+E o P500, apuração, o cálculo da CSLL, tá?
+
+32
+00:02:33.000 --> 00:02:39.000
+E aí, ao invés de eu ter balanço, ao invés de eu ter demonstração de resultado, eu vou ter o livro Caixa.
+
+33
+00:02:39.000 --> 00:02:42.000
+Contando todas as receitas.
+
+34
+00:02:42.000 --> 00:02:46.000
+Que é exatamente o que faz a base de cálculo do imposto de renda.
+
+35
+00:02:46.000 --> 00:02:52.000
+E nós estamos atendendo aí a Instrução Normativa 2004, lá de 2021, né?
+
+36
+00:02:52.000 --> 00:02:53.000
+Que é o que ela determina.
+
+37
+00:02:53.000 --> 00:02:58.000
+Apresentar todas as receitas que fizeram base para o cálculo do imposto de renda.
+
+38
+00:02:58.000 --> 00:02:59.000
+Perfeito?
+
+39
+00:02:59.000 --> 00:03:00.000
+Então, não é complexo.
+
+40
+00:03:00.000 --> 00:03:03.000
+Eu não vejo necessidade de apresentar o livro Caixa.
+
+41
+00:03:03.000 --> 00:03:05.000
+É muito melhor fazer a contabilidade.
+
+42
+00:03:05.000 --> 00:03:06.000
+Mas tem essa prerrogativa.
+
+43
+00:03:06.000 --> 00:03:12.000
+Se for acima de 1.200.000, o livro Caixa já atende às obrigatoriedades da ECD.
+
+44
+00:03:12.000 --> 00:03:14.000
+Da ECF.
+
+45
+00:03:14.000 --> 00:03:15.000
+Bacana, gente? Entenderam?
+
+46
+00:03:15.000 --> 00:03:18.000
+Vocês viram que o lucro presumido não é difícil.
+
+47
+00:03:18.000 --> 00:03:19.000
+É bem tranquilo.
+
+48
+00:03:19.000 --> 00:03:21.000
+E nas suas diversas opções.
+
+49
+00:03:21.000 --> 00:03:22.000
+Só tem que ficar atento aí.
+
+50
+00:03:22.000 --> 00:03:27.000
+Que ficar atento aí às opções que vocês acabaram fazendo aí a opção.

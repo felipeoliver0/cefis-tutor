@@ -1,0 +1,761 @@
+WEBVTT
+
+1
+00:00:00.519 --> 00:00:02.279
+Aqui nós só estamos no 4020,
+
+2
+00:00:02.400 --> 00:00:02.589
+né?
+
+3
+00:00:02.799 --> 00:00:04.038
+Nós Estamos comentando aqui,
+
+4
+00:00:04.119 --> 00:00:04.230
+né?
+
+5
+00:00:04.239 --> 00:00:05.880
+4020 já passamos 40 a 10,
+
+6
+00:00:06.199 --> 00:00:06.530
+né?
+
+7
+00:00:06.639 --> 00:00:10.590
+4020 Quem é que está- Quem é que está obrigado Pessoa física e pessoa jurídica
+
+8
+00:00:10.920 --> 00:00:12.869
+conceituada como fonte pagadora
+
+9
+00:00:13.039 --> 00:00:16.549
+e rendimentos a pessoas jurídica nos termos da legislação.
+
+10
+00:00:17.120 --> 00:00:19.760
+Então o 4010 tratou de pessoa física.
+
+11
+00:00:20.319 --> 00:00:21.469
+O 4020
+
+12
+00:00:21.860 --> 00:00:23.239
+trata de pessoa jurídica,
+
+13
+00:00:23.319 --> 00:00:23.629
+né?
+
+14
+00:00:25.260 --> 00:00:27.260
+Quem é que tá obrigado Pessoa fixo jurídica
+
+15
+00:00:27.260 --> 00:00:30.370
+ou situado como fonte pagadora a pessoa jurídica.
+
+16
+00:00:31.430 --> 00:00:33.119
+prazo de envio também dia 15,
+
+17
+00:00:33.650 --> 00:00:33.990
+né?
+
+18
+00:00:34.240 --> 00:00:35.139
+Tem que ter
+
+19
+00:00:35.599 --> 00:00:36.150
+como
+
+20
+00:00:37.380 --> 00:00:39.659
+meta que tem fechado o período,
+
+21
+00:00:39.819 --> 00:00:40.130
+né?
+
+22
+00:00:40.459 --> 00:00:41.330
+Para estar enviando.
+
+23
+00:00:42.080 --> 00:00:44.069
+Pré-requisitos enviamos o 1000
+
+24
+00:00:44.319 --> 00:00:46.130
+o 1050 o 1070.
+
+25
+00:00:46.250 --> 00:00:47.599
+Se houver as ações,
+
+26
+00:00:47.720 --> 00:00:48.000
+né?
+
+27
+00:00:48.240 --> 00:00:50.680
+Como nós já explicamos também de que remeter,
+
+28
+00:00:51.130 --> 00:00:51.360
+né?
+
+29
+00:00:52.819 --> 00:00:53.889
+Vou ter aí
+
+30
+00:00:54.540 --> 00:00:58.029
+quebra das informações por arquivo também no 4020
+
+31
+00:00:58.459 --> 00:00:59.319
+como regra geral,
+
+32
+00:00:59.380 --> 00:01:02.830
+os rendimentos pagos e acreditados a um determinado beneficiário
+
+33
+00:01:02.830 --> 00:01:05.720
+deve ser informado em um único arquivo XBL,
+
+34
+00:01:06.260 --> 00:01:08.459
+detalhando se cada um dos pagamentos não
+
+35
+00:01:08.779 --> 00:01:09.260
+efetuados,
+
+36
+00:01:09.339 --> 00:01:09.610
+né?
+
+37
+00:01:09.620 --> 00:01:11.089
+O único arquivo para cada um.
+
+38
+00:01:13.059 --> 00:01:15.209
+A única exceção a essa regra acontece.
+
+39
+00:01:16.040 --> 00:01:20.720
+eh no caso de contribuintes prestar as suas informações de forma descentralizada.
+
+40
+00:01:21.279 --> 00:01:21.480
+Então,
+
+41
+00:01:21.879 --> 00:01:22.720
+como eu disse a vocês,
+
+42
+00:01:22.760 --> 00:01:23.699
+eu prefiro centralizado.
+
+43
+00:01:23.800 --> 00:01:24.959
+Se eu começa a descentralizar,
+
+44
+00:01:25.050 --> 00:01:25.440
+eu já tenho,
+
+45
+00:01:25.559 --> 00:01:25.720
+né?
+
+46
+00:01:25.800 --> 00:01:26.099
+Ó.
+
+47
+00:01:26.970 --> 00:01:30.050
+Porque eu vou ter que informar por estabelecimento mesmo contribuinte,
+
+48
+00:01:30.129 --> 00:01:30.209
+né?
+
+49
+00:01:30.949 --> 00:01:31.790
+Em outras palavras,
+
+50
+00:01:31.830 --> 00:01:35.069
+se o contribuinte presta suas informações de forma centralizada na Matrix,
+
+51
+00:01:35.709 --> 00:01:37.470
+todos os rendimentos devem ser consolidados no
+
+52
+00:01:37.790 --> 00:01:38.709
+Gift GML.
+
+53
+00:01:39.720 --> 00:01:40.110
+né?
+
+54
+00:01:40.599 --> 00:01:42.739
+A ser transmitido pela Receita Federal.
+
+55
+00:01:43.120 --> 00:01:43.400
+Agora,
+
+56
+00:01:43.440 --> 00:01:44.669
+se ele for descentralizado,
+
+57
+00:01:44.760 --> 00:01:45.319
+cada um,
+
+58
+00:01:45.400 --> 00:01:45.650
+né?
+
+59
+00:01:46.199 --> 00:01:46.800
+Por outro lado,
+
+60
+00:01:46.879 --> 00:01:49.959
+se o contribuinte para essa informação é distribuído para o estabelecimento,
+
+61
+00:01:50.519 --> 00:01:53.199
+os rendimentos devidos ou pagos por um
+
+62
+00:01:53.199 --> 00:01:57.050
+determinado estabelecimento deve ser consolidado no arquivo XML
+
+63
+00:01:57.400 --> 00:01:59.110
+Estabelecimento gerador de informação.
+
+64
+00:01:59.669 --> 00:01:59.830
+Então.
+
+65
+00:01:59.910 --> 00:02:01.459
+Muitas vezes o mesmo
+
+66
+00:02:01.589 --> 00:02:04.940
+prestador de serviço presta serviço para várias unidades da companhia.
+
+67
+00:02:05.430 --> 00:02:06.779
+Então cada um vai entregar o seu.
+
+68
+00:02:07.080 --> 00:02:07.949
+Se for consolidado,
+
+69
+00:02:08.029 --> 00:02:08.110
+não,
+
+70
+00:02:08.190 --> 00:02:09.788
+não arquivo só com toda informações.
+
+71
+00:02:10.169 --> 00:02:11.190
+Então essa é a diferença,
+
+72
+00:02:11.270 --> 00:02:11.429
+né?
+
+73
+00:02:12.110 --> 00:02:15.509
+Prazo de envio de recolhimento dos tributos versus escrituração contável,
+
+74
+00:02:15.589 --> 00:02:15.669
+né?
+
+75
+00:02:15.710 --> 00:02:18.100
+O prazo de envio da série 4000 é sempre mensal.
+
+76
+00:02:18.889 --> 00:02:21.630
+relativo ao mês cheio mesmo nos casos que eu tenha
+
+77
+00:02:22.009 --> 00:02:24.729
+vencimentos aí semanal descendial,
+
+78
+00:02:25.490 --> 00:02:25.820
+né
+
+79
+00:02:26.179 --> 00:02:30.600
+quinzenal e et cetera A indicação do beneficiário do rendimento também,
+
+80
+00:02:31.210 --> 00:02:31.380
+né?
+
+81
+00:02:31.449 --> 00:02:33.750
+Em geral ocorre pelo número do CNPJ
+
+82
+00:02:34.229 --> 00:02:34.910
+e pelo nome.
+
+83
+00:02:36.240 --> 00:02:39.139
+apenas os casos de contribuintes domiciliado do exterior
+
+84
+00:02:39.360 --> 00:02:41.960
+não sujeito ao cadastro do CNPJ,
+
+85
+00:02:42.119 --> 00:02:42.330
+né?
+
+86
+00:02:42.899 --> 00:02:45.679
+Então normalmente ocorre pelo número do CNPJ.
+
+87
+00:02:46.490 --> 00:02:48.059
+pelo nome só quando foi exterior,
+
+88
+00:02:48.119 --> 00:02:48.649
+fez um te,
+
+89
+00:02:49.330 --> 00:02:49.460
+né?
+
+90
+00:02:50.009 --> 00:02:52.589
+Valores de base das retenções.
+
+91
+00:02:53.630 --> 00:02:55.320
+Então deve ser informado
+
+92
+00:02:55.529 --> 00:02:56.470
+nesse evento
+
+93
+00:02:56.850 --> 00:02:57.880
+os valores
+
+94
+00:02:58.210 --> 00:02:59.369
+dos tributos abaixo,
+
+95
+00:02:59.449 --> 00:03:00.679
+relacionado com
+
+96
+00:03:01.250 --> 00:03:02.570
+respectivas base,
+
+97
+00:03:02.690 --> 00:03:02.850
+né?
+
+98
+00:03:03.410 --> 00:03:04.529
+Então Aqui é meio interessante,
+
+99
+00:03:04.770 --> 00:03:04.899
+né?
+
+100
+00:03:05.050 --> 00:03:06.250
+Nós também já estamos
+
+101
+00:03:06.729 --> 00:03:07.889
+acostumado a isso,
+
+102
+00:03:07.970 --> 00:03:08.130
+né?
+
+103
+00:03:08.169 --> 00:03:08.669
+Pessoal.
+
+104
+00:03:09.610 --> 00:03:10.089
+Ou seja,
+
+105
+00:03:10.130 --> 00:03:11.169
+eu vou informar aí,
+
+106
+00:03:11.250 --> 00:03:11.500
+né?
+
+107
+00:03:12.600 --> 00:03:14.289
+base do Imposto de Renda
+
+108
+00:03:14.520 --> 00:03:16.960
+base da CSL do CofIS e do PIS,
+
+109
+00:03:17.039 --> 00:03:17.229
+né?
+
+110
+00:03:17.240 --> 00:03:18.830
+Deve ser informado nesse evento
+
+111
+00:03:19.259 --> 00:03:21.240
+os valor dos tributos abaixo relacionado,
+
+112
+00:03:21.839 --> 00:03:25.190
+bem como a respectiva base de cálculo,
+
+113
+00:03:25.320 --> 00:03:25.520
+né?
+
+114
+00:03:25.800 --> 00:03:26.470
+Formoso
+
+115
+00:03:27.000 --> 00:03:27.710
+PCC,
+
+116
+00:03:28.199 --> 00:03:28.479
+né?
+
+117
+00:03:29.320 --> 00:03:30.210
+Imposto de renda,
+
+118
+00:03:30.259 --> 00:03:30.490
+né?
+
+119
+00:03:31.059 --> 00:03:34.500
+Deve ser informados os valores dos tributos abaixo nacionado,
+
+120
+00:03:34.899 --> 00:03:37.699
+bem como os respectivas base de cálculo,
+
+121
+00:03:38.380 --> 00:03:38.669
+né?
+
+122
+00:03:39.190 --> 00:03:41.600
+Agregado e compreendo os tributos
+
+123
+00:03:41.740 --> 00:03:43.059
+elencados dos índices anterior,
+
+124
+00:03:43.139 --> 00:03:44.809
+consolidado em um único valor.
+
+125
+00:03:45.630 --> 00:03:49.589
+no todo ou em parte nos casos de agregação permitido pela legislação.
+
+126
+00:03:49.759 --> 00:03:50.910
+Então teve alguns detalhes,
+
+127
+00:03:50.949 --> 00:03:51.110
+né?
+
+128
+00:03:51.610 --> 00:03:53.869
+Que Isso também vai estar a nossa parametrização,
+
+129
+00:03:53.949 --> 00:03:54.119
+né?
+
+130
+00:03:54.869 --> 00:03:59.509
+Aqui Então nós temos rendimentos para os utilitados a PJ sujeito a imposto de renda,
+
+131
+00:04:00.149 --> 00:04:03.110
+rendimentos pagos pelos serviços prestados pessoa
+
+132
+00:04:03.110 --> 00:04:05.380
+jurídica sujeita a contribuições sociais.
+
+133
+00:04:06.089 --> 00:04:06.320
+né?
+
+134
+00:04:06.330 --> 00:04:09.529
+Do PIS da Cofis da CSL O Imposto de Renda é tranquilo,
+
+135
+00:04:09.610 --> 00:04:13.050
+está lá no artigo 714 do regulamento do Imposto de renda,
+
+136
+00:04:13.130 --> 00:04:13.300
+né?
+
+137
+00:04:13.699 --> 00:04:14.660
+Nós temos lá
+
+138
+00:04:15.210 --> 00:04:16.928
+todas as 40 profissões,
+
+139
+00:04:17.010 --> 00:04:17.260
+né?
+
+140
+00:04:17.890 --> 00:04:18.570
+Temos limpeza,
+
+141
+00:04:18.608 --> 00:04:20.178
+conservação e tal que é
+
+142
+00:04:20.608 --> 00:04:21.329
+um por cento,
+
+143
+00:04:21.369 --> 00:04:21.579
+né?
+
+144
+00:04:21.890 --> 00:04:23.250
+A Maioria estão tudo e meio,
+
+145
+00:04:23.329 --> 00:04:23.570
+né?
+
+146
+00:04:24.250 --> 00:04:25.899
+E aí as retenções de
+
+147
+00:04:26.649 --> 00:04:28.130
+PIS que eu fiz o PCC,
+
+148
+00:04:28.209 --> 00:04:28.410
+né?
+
+149
+00:04:29.899 --> 00:04:30.739
+Então Olha lá
+
+150
+00:04:31.019 --> 00:04:31.859
+quem está sujeito.
+
+151
+00:04:31.940 --> 00:04:33.619
+Eu trouxe aqui no na matéria,
+
+152
+00:04:33.700 --> 00:04:33.890
+né?
+
+153
+00:04:34.500 --> 00:04:36.839
+Exatamente essa informação que eu acho relevante.
+
+154
+00:04:37.859 --> 00:04:39.329
+É o Imposto de Renda do E-mail.
+
+155
+00:04:40.500 --> 00:04:41.589
+pela prestação de serviço,
+
+156
+00:04:41.660 --> 00:04:43.309
+caracterizando a natureza profissional.
+
+157
+00:04:44.399 --> 00:04:45.750
+aqui com 714 do veículo,
+
+158
+00:04:46.049 --> 00:04:46.250
+né?
+
+159
+00:04:47.269 --> 00:04:50.100
+Quem são essas profissões Eu trouxe todas elas aqui olha.
+
+160
+00:04:50.799 --> 00:04:52.929
+administração de bens ou negócios gerais,
+
+161
+00:04:53.160 --> 00:04:55.709
+exceto o consórcios ou fundo mútuo para aquisição.
+
+162
+00:04:56.579 --> 00:04:57.440
+Advocacia,
+
+163
+00:04:57.980 --> 00:04:58.730
+análise
+
+164
+00:04:59.299 --> 00:05:02.019
+clínica laboral la- laboratorial,
+
+165
+00:05:02.100 --> 00:05:02.299
+né?
+
+166
+00:05:03.059 --> 00:05:05.579
+Todos esses daqui eu vou reter um e meio por cento,
+
+167
+00:05:05.820 --> 00:05:06.059
+né?
+
+168
+00:05:06.589 --> 00:05:09.380
+Então facilita vocês no dia a dia aí material para consulta,
+
+169
+00:05:09.459 --> 00:05:09.649
+né?
+
+170
+00:05:09.859 --> 00:05:10.929
+Se tem que reter ou não.
+
+171
+00:05:11.380 --> 00:05:14.579
+Se é exercício de profissão legalmente regulamentada um e-mail bom,
+
+172
+00:05:14.739 --> 00:05:15.019
+né?
+
+173
+00:05:15.959 --> 00:05:17.079
+análise técnica,
+
+174
+00:05:17.200 --> 00:05:18.040
+arquitetura,
+
+175
+00:05:18.660 --> 00:05:21.200
+assessoria e consultoria técnica,
+
+176
+00:05:21.720 --> 00:05:26.549
+exceto o serviço de assistência técnica prestado a terceiros e concernente
+
+177
+00:05:26.839 --> 00:05:30.359
+a ramos industriais ou comércio explorado pelo prestador de serviço,
+
+178
+00:05:30.880 --> 00:05:31.190
+né?
+
+179
+00:05:31.679 --> 00:05:32.040
+Então.
+
+180
+00:05:32.820 --> 00:05:33.959
+Percebam vocês
+
+181
+00:05:34.489 --> 00:05:35.480
+a nossa legislação.
+
+182
+00:05:35.529 --> 00:05:36.839
+Não estou nem falando de Receita Federal.
+
+183
+00:05:36.850 --> 00:05:38.170
+Estou falando da legislação brasileira.
+
+184
+00:05:38.690 --> 00:05:42.440
+Carece um detalhamento pormenorizado desse.
+
+185
+00:05:43.239 --> 00:05:44.190
+Eu vou reter
+
+186
+00:05:44.320 --> 00:05:48.190
+um e meio por cento de assessoria e consultoria técnica ponto
+
+187
+00:05:48.600 --> 00:05:49.869
+exceto
+
+188
+00:05:50.000 --> 00:05:50.670
+Olha só
+
+189
+00:05:51.600 --> 00:05:56.970
+serviço de assistência técnica prestado a terceiros e concernente a
+
+190
+00:05:56.970 --> 00:06:00.230
+ramo indústria ou comércio explorado pelo prestador de serviço.

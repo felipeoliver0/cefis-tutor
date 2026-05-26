@@ -1,0 +1,33 @@
+{
+  "id": 462691,
+  "title": "Modalidades e tipos de licitação",
+  "position": 18,
+  "duration": 515,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ebc5e4f1-603b-40cd-b975-28e42fdbf607/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebc5e4f1-603b-40cd-b975-28e42fdbf607/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebc5e4f1-603b-40cd-b975-28e42fdbf607/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebc5e4f1-603b-40cd-b975-28e42fdbf607/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebc5e4f1-603b-40cd-b975-28e42fdbf607/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

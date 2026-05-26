@@ -1,0 +1,33 @@
+{
+  "id": 460927,
+  "title": "Lei pelé",
+  "position": 27,
+  "duration": 378,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/81f733a4-1ab4-4e58-a42b-6e5196ab9d14/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81f733a4-1ab4-4e58-a42b-6e5196ab9d14/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81f733a4-1ab4-4e58-a42b-6e5196ab9d14/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81f733a4-1ab4-4e58-a42b-6e5196ab9d14/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81f733a4-1ab4-4e58-a42b-6e5196ab9d14/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

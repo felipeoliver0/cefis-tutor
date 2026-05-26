@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2986,
+    "title": "CPC 23 - Políticas Contábeis, Mudança de Estimativa e Retificação de Erro",
+    "subtitle": "Aplicável para empresas de grande porte nos termos da Lei 11.638/07",
+    "summary": "Neste curso prático de CPC 23 - Políticas Contábeis, Mudança de Estimativa e Retificação de Erro, você vai saber identificar os principais aspectos relacionados a determinação de práticas contábeis, estimativas contábeis, mudanças de políticas contábeis ( voluntárias ou não) e correção de erros. São apresentados os conceitos do pronunciamento e principais pontos polêmicos, exemplos práticos, e exemplos de divulgações em demonstrações contábeis de empresas de capital aberto.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/82e6113104f3d324dd152ec26402b6c91703788796.jpg",
+    "goals": [
+      "Proporcionar conhecimento para que o participante possa entender os principais conceitos relacionados as práticas contábeis, e quando aplicar uma mudança de estimativa contábil, política contábil ou correção de erros."
+    ],
+    "teacher": {
+      "id": 520172,
+      "name": "Marcelo Aquino",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/e033a4a9-13ef-4c75-8b8b-1a064ee8384d-croppedImage.jpeg"
+    },
+    "duration": 3948,
+    "keywords": "cpc;cpc 23",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 4,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 345,
+    "averageRating": 9.33,
+    "practiceAverage": 9.45,
+    "trailer": {
+      "id": "550b4603-31bf-4dfd-b525-a23513950a00",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/550b4603-31bf-4dfd-b525-a23513950a00/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/550b4603-31bf-4dfd-b525-a23513950a00/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/550b4603-31bf-4dfd-b525-a23513950a00/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/550b4603-31bf-4dfd-b525-a23513950a00/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-19T06:47:50.000Z",
+      "updatedAt": "2024-01-19T06:47:50.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-01-22T17:53:32.000Z",
+    "recordedAt": "2023-12-21T00:00:00.000Z",
+    "createdAt": "2023-12-28T15:37:17.000Z"
+  }
+}

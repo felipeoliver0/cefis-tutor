@@ -1,0 +1,33 @@
+{
+  "id": 468361,
+  "title": "Cancelamento da NFC-E",
+  "position": 43,
+  "duration": 130,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/30ca2aa0-22b9-46e9-ae07-367982390e6a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30ca2aa0-22b9-46e9-ae07-367982390e6a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30ca2aa0-22b9-46e9-ae07-367982390e6a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30ca2aa0-22b9-46e9-ae07-367982390e6a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30ca2aa0-22b9-46e9-ae07-367982390e6a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 485268,
+  "title": "Planejamento tributário - Parte 2",
+  "position": 5,
+  "duration": 554,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ed9365ad-ef8e-4143-bcd2-b2c1df37548e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed9365ad-ef8e-4143-bcd2-b2c1df37548e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed9365ad-ef8e-4143-bcd2-b2c1df37548e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed9365ad-ef8e-4143-bcd2-b2c1df37548e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ed9365ad-ef8e-4143-bcd2-b2c1df37548e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

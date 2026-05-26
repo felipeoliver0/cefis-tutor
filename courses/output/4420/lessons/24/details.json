@@ -1,0 +1,33 @@
+{
+  "id": 486627,
+  "title": "Limites, faixas e hipóteses de incidência - Parte 3",
+  "position": 24,
+  "duration": 294,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/ba54f7bb-e1f1-4248-b0f0-d466eb2237c0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba54f7bb-e1f1-4248-b0f0-d466eb2237c0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba54f7bb-e1f1-4248-b0f0-d466eb2237c0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba54f7bb-e1f1-4248-b0f0-d466eb2237c0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba54f7bb-e1f1-4248-b0f0-d466eb2237c0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

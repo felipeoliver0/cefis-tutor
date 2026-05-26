@@ -1,0 +1,33 @@
+{
+  "id": 477659,
+  "title": "Top 10 Tendências globais para 2025",
+  "position": 11,
+  "duration": 397,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4392a2b4-7501-4e54-8f9f-1e041a24cc01/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4392a2b4-7501-4e54-8f9f-1e041a24cc01/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4392a2b4-7501-4e54-8f9f-1e041a24cc01/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4392a2b4-7501-4e54-8f9f-1e041a24cc01/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4392a2b4-7501-4e54-8f9f-1e041a24cc01/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

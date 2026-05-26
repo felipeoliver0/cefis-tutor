@@ -1,0 +1,301 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.000
+Pessoal, chegamos à etapa de dividir com vocês as rubricas já existentes da tabela do E-Social.
+
+3
+00:00:08.000 --> 00:00:16.000
+Sempre como referência ao E-Social, para que você possa, na verdade, pegar essa informação e parametrizar no seu sistema de folha.
+
+4
+00:00:16.000 --> 00:00:24.000
+Então nós temos aqui, planos de saúde, código 9911, assistência médica.
+
+5
+00:00:24.000 --> 00:00:38.000
+Qual é a descrição? Valor não relativo a vencimento ou desconto, relativo a assistência prestada por serviço médico ou odontológico próprio da empresa ou por ela conveniado, com benefício ao trabalhador.
+
+6
+00:00:38.000 --> 00:00:48.000
+Portanto, se a empresa paga uma assistência médica para o empregado de mil reais, você vai ter que criar uma rubrica no seu sistema de folha.
+
+7
+00:00:48.000 --> 00:00:54.000
+Lá vai ter um campinho chamado E-Social e você vai inserir o código 9911.
+
+8
+00:00:54.000 --> 00:00:56.000
+Ok?
+
+9
+00:00:56.000 --> 00:00:58.000
+Criou a rubrica? Ótimo!
+
+10
+00:00:58.000 --> 00:01:00.000
+Agora você vai para o lançamento.
+
+11
+00:01:00.000 --> 00:01:08.000
+Vai lá na variável ou no fixo e vai pegar o valor que paga ao empregado a assistência médica de mil reais.
+
+12
+00:01:08.000 --> 00:01:11.000
+Você vai lançar essa rubrica com o valor de mil reais.
+
+13
+00:01:11.000 --> 00:01:14.000
+Pronto! Ela é informativa.
+
+14
+00:01:14.000 --> 00:01:23.000
+Lembrando, tá pessoal? Quando a gente cria a rubrica, a gente vai criar ali e colocar o tipo da rubrica como informativa, que foi o quadro que a gente acabou de estudar.
+
+15
+00:01:23.000 --> 00:01:24.000
+Tá bom?
+
+16
+00:01:24.000 --> 00:01:29.000
+Esse é o parâmetro necessário para demonstração do valor.
+
+17
+00:01:29.000 --> 00:01:32.000
+Agora, a gente tem o valor do desconto.
+
+18
+00:01:32.000 --> 00:01:35.000
+9219, desconto da assistência médica.
+
+19
+00:01:35.000 --> 00:01:40.000
+Desconto referente à participação do trabalhador no custo da assistência médica ou odontológica.
+
+20
+00:01:40.000 --> 00:01:49.000
+Esse código é da tabela do E-Social e você já deve possuir uma rubrica de desconto no seu sistema de folha.
+
+21
+00:01:49.000 --> 00:01:53.000
+Você só vai conferir lá se no campo do E-Social tá o código 9219.
+
+22
+00:01:53.000 --> 00:02:00.000
+Aqui, pessoal, vocês vão lançar a participação do empregado.
+
+23
+00:02:00.000 --> 00:02:03.000
+Vamos supor que ele arca com 1% do valor do plano.
+
+24
+00:02:03.000 --> 00:02:07.000
+Vamos supor que ele paga assistência médica para o seu dependente.
+
+25
+00:02:07.000 --> 00:02:11.000
+Aí sim você tá usando esse código 9219.
+
+26
+00:02:11.000 --> 00:02:12.000
+Ok?
+
+27
+00:02:12.000 --> 00:02:15.000
+Fechamos aqui a parte da assistência médica.
+
+28
+00:02:15.000 --> 00:02:17.000
+Vamos para o próximo exemplo.
+
+29
+00:02:17.000 --> 00:02:20.000
+Vale transporte. A mesma dinâmica.
+
+30
+00:02:20.000 --> 00:02:22.000
+Você precisa possuir
+
+31
+00:02:22.000 --> 00:02:26.000
+uma rubrica de auxílio transporte.
+
+32
+00:02:26.000 --> 00:02:32.000
+Lá no campo do E-Social vai estar 1810 e a categoria dela é informativa.
+
+33
+00:02:32.000 --> 00:02:34.000
+O que que você vai lançar?
+
+34
+00:02:34.000 --> 00:02:39.000
+Você vai olhar o extrato do trabalhador, quanto que foi depositado no vale transporte dele,
+
+35
+00:02:39.000 --> 00:02:42.000
+mil reais, e vai efetuar esse lançamento.
+
+36
+00:02:42.000 --> 00:02:45.000
+Agora, para o desconto de 6%,
+
+37
+00:02:45.000 --> 00:02:49.000
+você já sabe que o sistema vai lançar automaticamente uma rubrica
+
+38
+00:02:49.000 --> 00:02:52.000
+que no campo do E-Social vai estar o código 9219.
+
+39
+00:02:52.000 --> 00:02:53.000
+16.
+
+40
+00:02:53.000 --> 00:02:55.000
+Vejam que bacana, né?
+
+41
+00:02:55.000 --> 00:02:56.000
+Muito simples.
+
+42
+00:02:56.000 --> 00:03:00.000
+Todo mês essa informação vai estar sendo atualizada.
+
+43
+00:03:00.000 --> 00:03:03.000
+Agora vamos para a alimentação.
+
+44
+00:03:03.000 --> 00:03:05.000
+Mesma dinâmica.
+
+45
+00:03:05.000 --> 00:03:07.000
+Você cria uma rubrica,
+
+46
+00:03:07.000 --> 00:03:10.000
+categoriza ela como informativa,
+
+47
+00:03:10.000 --> 00:03:15.000
+coloca lá na descrição e no campo auxílio alimentação
+
+48
+00:03:15.000 --> 00:03:19.000
+e no campo do E-Social 1801.
+
+49
+00:03:19.000 --> 00:03:20.000
+Isso aqui é parte da empresa.
+
+50
+00:03:20.000 --> 00:03:21.000
+Quanto que ela acredita?
+
+51
+00:03:21.000 --> 00:03:24.000
+Quanto que ela acreditou no cartão daquele trabalhador?
+
+52
+00:03:24.000 --> 00:03:25.000
+Mil reais.
+
+53
+00:03:25.000 --> 00:03:28.000
+Você vai lá, lança essa informação na variável,
+
+54
+00:03:28.000 --> 00:03:33.000
+automaticamente é uma informação que vai demonstrar na folha de pagamento.
+
+55
+00:03:33.000 --> 00:03:39.000
+A partir do desconto, vamos supor que na convenção coletiva estabeleça o desconto de 5%,
+
+56
+00:03:39.000 --> 00:03:43.000
+vai ter ali o código 9220 que você vai lançar normalmente.
+
+57
+00:03:43.000 --> 00:03:49.000
+Reforça, isso aqui são os códigos da tabela de rubricas do E-Social.
+
+58
+00:03:49.000 --> 00:03:53.000
+No seu sistema de folha de pagamento existem outros códigos, tá?
+
+59
+00:03:53.000 --> 00:03:56.000
+Você vai acessar no seu código do seu sistema de folha
+
+60
+00:03:56.000 --> 00:04:02.000
+e identificar que nele consta o campo do E-Social 1801 ou 9220.
+
+61
+00:04:02.000 --> 00:04:08.000
+Chegamos à etapa da demonstração dessa informação na folha de pagamento.
+
+62
+00:04:08.000 --> 00:04:12.000
+Pois bem, pessoal, aqui neste exemplo
+
+63
+00:04:12.000 --> 00:04:18.000
+a gente tem a parte de cabeçalho com os dados da empresa e do trabalhador,
+
+64
+00:04:19.000 --> 00:04:23.000
+as informações de rubricas de provento e de desconto
+
+65
+00:04:23.000 --> 00:04:29.000
+e embaixo o rodapé com as bases de cálculo.
+
+66
+00:04:29.000 --> 00:04:33.000
+Só que surgiu o campo informativa
+
+67
+00:04:33.000 --> 00:04:42.000
+com o total de lançamentos de assistência médica, odontológica, transporte e alimentação.
+
+68
+00:04:42.000 --> 00:04:46.000
+Tudo isso vai estar aqui como informação.
+
+69
+00:04:46.000 --> 00:04:49.000
+Rubricas que não compõem a mineração do trabalho.
+
+70
+00:04:49.000 --> 00:04:54.000
+Ah, professor, e por que a gente tem que separar então para ficar direitinho?
+
+71
+00:04:54.000 --> 00:04:56.000
+Porque a legislação estabelece assim.
+
+72
+00:04:56.000 --> 00:04:59.000
+E lá no E-Social vai ficar separado direitinho,
+
+73
+00:04:59.000 --> 00:05:03.000
+rubrica por rubrica, informativa por informativa,
+
+74
+00:05:03.000 --> 00:05:04.000
+quando você for consultar.
+
+75
+00:05:04.000 --> 00:05:07.000
+Mas atender a legislação é isso aqui,
+
+76
+00:05:07.000 --> 00:05:10.000
+um relatório de folha de pagamento, ok?

@@ -1,0 +1,33 @@
+{
+  "id": 455848,
+  "title": "Custos por Departamentos",
+  "position": 46,
+  "duration": 105,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/91b7946a-86a9-4294-a410-8ec6db28fb85/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91b7946a-86a9-4294-a410-8ec6db28fb85/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91b7946a-86a9-4294-a410-8ec6db28fb85/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91b7946a-86a9-4294-a410-8ec6db28fb85/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91b7946a-86a9-4294-a410-8ec6db28fb85/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4129,
+    "title": "Modelo de maturidade organizacional",
+    "subtitle": "As camadas de maturidade",
+    "summary": "Neste curso Modelo de maturidade organizacional, você irá aprender na prática tudo o que precisa saber sobre o Modelo de Maturidade Organizacional. Aprenderá os fundamentos e a prática de gerenciar a rotina, gerenciar as diretrizes e transcender os níveis de maturidade, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre o Modelo de Maturidade Organizacional.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/5fb2e0ed-180d-4822-952c-2db46b6dd824-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Modelo de maturidade organizacional: As camadas de maturidade é a capacitação para a aplicação prática de uma visão sistêmica e de gestão de maturidade organizacional, permitindo que os profissionais entendam e apliquem diferentes fases de maturidade em suas organizações, com foco na gerência de produtos, rotinas, resultados e diretrizes, e na capacidade de gerenciar crises e alcançar a transcendência dos níveis de maturidade."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 7378,
+    "keywords": "modelo;maturidade;organizacional",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      6,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 110,
+    "averageRating": 9.35,
+    "practiceAverage": 9.29,
+    "trailer": {
+      "id": "1c5ebaef-43ae-4e45-a6a8-f099f8605a4e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1c5ebaef-43ae-4e45-a6a8-f099f8605a4e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1c5ebaef-43ae-4e45-a6a8-f099f8605a4e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1c5ebaef-43ae-4e45-a6a8-f099f8605a4e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1c5ebaef-43ae-4e45-a6a8-f099f8605a4e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-12T13:25:38.000Z",
+      "updatedAt": "2025-11-12T13:25:37.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-24T14:48:44.000Z",
+    "recordedAt": "2025-10-01T00:00:00.000Z",
+    "createdAt": "2025-11-12T11:58:59.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 462083,
+  "title": "Beneficiários",
+  "position": 7,
+  "duration": 244,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7b646a23-5d17-41f6-b9e8-6926a47b1f9f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b646a23-5d17-41f6-b9e8-6926a47b1f9f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b646a23-5d17-41f6-b9e8-6926a47b1f9f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b646a23-5d17-41f6-b9e8-6926a47b1f9f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b646a23-5d17-41f6-b9e8-6926a47b1f9f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

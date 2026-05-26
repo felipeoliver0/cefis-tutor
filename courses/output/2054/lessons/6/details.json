@@ -1,0 +1,33 @@
+{
+  "id": 461875,
+  "title": "Plano plurianual",
+  "position": 6,
+  "duration": 220,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/17b4a34f-dc11-42b6-846a-a4c612fb8fee/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/17b4a34f-dc11-42b6-846a-a4c612fb8fee/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/17b4a34f-dc11-42b6-846a-a4c612fb8fee/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/17b4a34f-dc11-42b6-846a-a4c612fb8fee/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/17b4a34f-dc11-42b6-846a-a4c612fb8fee/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

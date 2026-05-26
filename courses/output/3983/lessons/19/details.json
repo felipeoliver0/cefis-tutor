@@ -1,0 +1,33 @@
+{
+  "id": 480379,
+  "title": "Carta de Correção",
+  "position": 19,
+  "duration": 151,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/183e1de3-a8f6-40ec-9a0c-249663358d39/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/183e1de3-a8f6-40ec-9a0c-249663358d39/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/183e1de3-a8f6-40ec-9a0c-249663358d39/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/183e1de3-a8f6-40ec-9a0c-249663358d39/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/183e1de3-a8f6-40ec-9a0c-249663358d39/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

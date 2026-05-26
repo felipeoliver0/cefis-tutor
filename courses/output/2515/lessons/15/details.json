@@ -1,0 +1,33 @@
+{
+  "id": 466704,
+  "title": "Admissão",
+  "position": 15,
+  "duration": 310,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5615acf8-af96-4221-854c-e6051ebec633/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5615acf8-af96-4221-854c-e6051ebec633/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5615acf8-af96-4221-854c-e6051ebec633/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5615acf8-af96-4221-854c-e6051ebec633/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5615acf8-af96-4221-854c-e6051ebec633/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

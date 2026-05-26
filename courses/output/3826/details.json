@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3826,
+    "title": "Desembaraço Aduaneiro: Fundamentos e Práticas",
+    "subtitle": "Etapas e Processos",
+    "summary": "Este curso oferece uma visão abrangente e técnica sobre os fundamentos, principais processos e pontos críticos do desembaraço aduaneiro nas operações de importação e exportação. Com base na legislação aduaneira vigente no Brasil, aborda temas como a importância do comércio exterior, os órgãos anuentes, a documentação necessária, regimes aduaneiros especiais, classificação fiscal, tributação, etapas do desembaraço, regimes tributários para empresas de comércio exterior, gestão de riscos, e tendências para o futuro do setor.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/8954f2f7-cb1f-46b7-b625-080ade0e15f7-thumbnail.png",
+    "goals": [
+      "O objetivo do curso é fornecer conhecimentos essenciais sobre os processos de desembaraço aduaneiro, capacitando os participantes a lidar eficientemente com as exigências legais e operacionais do comércio exterior, desde a documentação até o gerenciamento de riscos, promovendo assim uma maior competência na gestão das operações internacionais."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 8280,
+    "keywords": "Desembaraço Aduaneiro;Comércio Exterior;Legislação Aduaneira;NCM;Regimes Especiais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 37,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 289,
+    "averageRating": 9.2,
+    "practiceAverage": 9.11,
+    "trailer": {
+      "id": "58cc03f7-9b3d-4388-a3a7-51413089f886",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/58cc03f7-9b3d-4388-a3a7-51413089f886/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/58cc03f7-9b3d-4388-a3a7-51413089f886/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/58cc03f7-9b3d-4388-a3a7-51413089f886/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/58cc03f7-9b3d-4388-a3a7-51413089f886/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-06-19T00:51:08.000Z",
+      "updatedAt": "2025-06-19T00:51:08.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-06-17T15:58:15.000Z",
+    "recordedAt": "2025-06-06T00:00:00.000Z",
+    "createdAt": "2025-06-03T13:52:24.000Z"
+  }
+}

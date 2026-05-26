@@ -1,0 +1,33 @@
+{
+  "id": 452800,
+  "title": "Onde as empresas entram",
+  "position": 43,
+  "duration": 288,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/01001a86-1c14-4897-9e17-a5875b236759/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/01001a86-1c14-4897-9e17-a5875b236759/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/01001a86-1c14-4897-9e17-a5875b236759/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/01001a86-1c14-4897-9e17-a5875b236759/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/01001a86-1c14-4897-9e17-a5875b236759/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

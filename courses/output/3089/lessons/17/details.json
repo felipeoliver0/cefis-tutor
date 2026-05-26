@@ -1,0 +1,33 @@
+{
+  "id": 474403,
+  "title": "Custos de Aquisição",
+  "position": 17,
+  "duration": 362,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fcb5d3d7-669c-44da-a43c-c9d7e189a4fd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fcb5d3d7-669c-44da-a43c-c9d7e189a4fd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fcb5d3d7-669c-44da-a43c-c9d7e189a4fd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fcb5d3d7-669c-44da-a43c-c9d7e189a4fd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fcb5d3d7-669c-44da-a43c-c9d7e189a4fd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

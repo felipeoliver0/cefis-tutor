@@ -1,0 +1,33 @@
+{
+  "id": 463263,
+  "title": "Potencialize seu currículo com cursos online",
+  "position": 9,
+  "duration": 316,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bb12db79-0597-4ef5-a128-af04839644b9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb12db79-0597-4ef5-a128-af04839644b9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb12db79-0597-4ef5-a128-af04839644b9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb12db79-0597-4ef5-a128-af04839644b9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb12db79-0597-4ef5-a128-af04839644b9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

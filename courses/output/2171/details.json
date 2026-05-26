@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2171,
+    "title": "Plano de Contas Referencial",
+    "subtitle": "Fundamentos e aplicação prática",
+    "summary": "Neste curso prático de plano de contas referencial você vai aprender desde as características deste instrumento de gestão, até sua estrutura, aplicação e obrigatoriedade. Vai entender sobre a geração das informações para a Receita Federal, isto é, a correlação do plano de contas adotado pela empresa com o plano referencial, e muitos outros tópicos importantes para colocar os conhecimentos obtidos em prática atendendo às normas legais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/3cf4de8e3776127709f081c0956308d21728385919.jpg",
+    "goals": [
+      "Apresentar o que vem a ser o plano de contas referencial, sua aplicação, estrutura e obrigatoriedade, para atender as normas legais."
+    ],
+    "teacher": {
+      "id": 539395,
+      "name": "MAURI JOSÉ ALBERTI",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1634085836.jpeg"
+    },
+    "duration": 4698,
+    "keywords": "plano de contas;plano;contas;referencial;plano de contas referencial",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 616,
+    "averageRating": 9.19,
+    "practiceAverage": 9.06,
+    "trailer": {
+      "id": "763a1376-3fae-47d4-a2c6-502bfc8c9e75",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/763a1376-3fae-47d4-a2c6-502bfc8c9e75/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/763a1376-3fae-47d4-a2c6-502bfc8c9e75/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/763a1376-3fae-47d4-a2c6-502bfc8c9e75/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/763a1376-3fae-47d4-a2c6-502bfc8c9e75/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-08-15T09:55:00.000Z",
+      "updatedAt": "2022-08-15T09:55:00.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2022-08-22T17:00:00.000Z",
+    "recordedAt": "2022-07-23T00:00:00.000Z",
+    "createdAt": "2022-07-25T09:42:19.000Z"
+  }
+}

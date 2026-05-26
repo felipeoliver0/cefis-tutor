@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3970,
+    "title": "Contabilidade na Construção Civil",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso Contabilidade na Construção Civil, você irá aprender na prática tudo o que precisa saber sobre contabilidade no setor da construção civil. Aprenderá os fundamentos e a prática de regimes tributários aplicáveis (Lucro Real, Lucro Presumido e RET – Regime Especial de Tributação), gestão de custos de obras, reconhecimento de receitas e despesas, controle de insumos e particularidades da escrituração contábil voltada a empreendimentos imobiliários e obras por empreitada. Além disso, aprenderá sobre conceitos de atividade imobiliária, plano de contas, plano de estoques, NBC TG 1000, tributação de pessoa jurídica, receita das incorporadoras e responsabilidade da incorporadora, entre outros temas importantes para o setor.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/ce882ddd-48ff-4df1-9338-3f8476c98303-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Contabilidade na Construção Civil, Curso Prático, é a capacitação para a aplicação prática de conhecimentos contábeis e fiscais específicos para o setor da construção civil, incluindo regimes tributários, gestão de custos, reconhecimento de receitas e despesas, e controle de insumos."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 19810,
+    "keywords": "construção c;Civil",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 57,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 184,
+    "averageRating": 9.4,
+    "practiceAverage": 9.33,
+    "trailer": {
+      "id": "65792045-0e9a-4e15-bc7f-2afada433913",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/65792045-0e9a-4e15-bc7f-2afada433913/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/65792045-0e9a-4e15-bc7f-2afada433913/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/65792045-0e9a-4e15-bc7f-2afada433913/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/65792045-0e9a-4e15-bc7f-2afada433913/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-09-26T19:35:23.000Z",
+      "updatedAt": "2025-09-26T19:35:23.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-09-26T19:52:16.000Z",
+    "recordedAt": "2025-09-15T00:00:00.000Z",
+    "createdAt": "2025-09-14T22:46:06.000Z"
+  }
+}

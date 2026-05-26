@@ -1,0 +1,465 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.540
+Como que você pode, então, trazer essa conciliação para dentro da sua empresa?
+
+3
+00:00:05.540 --> 00:00:09.179
+Faça um checklist prático para evitar as intimações.
+
+4
+00:00:09.179 --> 00:00:11.880
+Mapeie os recebíveis do mês.
+
+5
+00:00:11.880 --> 00:00:17.019
+Se você hoje tem contas a receber, provavelmente você já tenha essa informação.
+
+6
+00:00:17.019 --> 00:00:19.320
+Os três números que precisam fechar.
+
+7
+00:00:19.320 --> 00:00:24.160
+DINP versus XML, que é a ponte do cruzamento.
+
+8
+00:00:24.160 --> 00:00:27.399
+Conciliação financeira versus contábil.
+
+9
+00:00:27.399 --> 00:00:30.239
+Governança de dados entre áreas.
+
+10
+00:00:30.239 --> 00:00:34.439
+Lembra-se, a governança de áreas aqui são várias pessoas envolvidas.
+
+11
+00:00:34.439 --> 00:00:38.079
+Se a gente cria uma governança de áreas, isso quer dizer que a gente está criando um processo.
+
+12
+00:00:38.079 --> 00:00:44.759
+Isso quer dizer que a gente está criando um astro, uma rastreadibilidade de informação para o nosso contribuinte.
+
+13
+00:00:44.759 --> 00:00:48.759
+Então, são três grandes cenários que a gente precisa rever o processo.
+
+14
+00:00:48.759 --> 00:00:53.299
+E, na verdade, mostrar para todos os envolvidos que existe, então,
+
+15
+00:00:53.299 --> 00:00:57.399
+uma rastreadibilidade de informação sobre os nossos recebíveis.
+
+16
+00:00:57.399 --> 00:01:03.899
+Um checklist básico para vocês sobre uma auditoria de DINP versus receita.
+
+17
+00:01:03.899 --> 00:01:08.079
+O que você vai fazer? O passo um, mapear os recebíveis do mês.
+
+18
+00:01:08.079 --> 00:01:10.920
+Nesse recebíveis do mês, o que você vai fazer?
+
+19
+00:01:10.920 --> 00:01:17.079
+Você vai identificar todos os agentes envolvidos dentro da operação com os pagamentos, tá?
+
+20
+00:01:17.079 --> 00:01:21.420
+Então, você vai colocar lá os adquirentes, os subadquirentes, marketplaces, bancos.
+
+21
+00:01:21.420 --> 00:01:26.319
+Então, assim, você vai ter todas as informações aqui que o seu contribuinte tem.
+
+22
+00:01:26.319 --> 00:01:27.239
+O segundo passo é o seguinte.
+
+23
+00:01:27.239 --> 00:01:29.000
+O segundo passo é separar por instrumento.
+
+24
+00:01:29.060 --> 00:01:35.799
+Então, primeiro, você separa por agentes envolvidos e depois você separa por instrumento.
+
+25
+00:01:35.799 --> 00:01:39.099
+Pode ser que você tenha um adquirente e um marketplace, tudo bem.
+
+26
+00:01:39.680 --> 00:01:41.159
+Aí, você vai separar o instrumento.
+
+27
+00:01:41.280 --> 00:01:47.560
+A gente recebe o instrumento por meio de cartão de crédito, débito, PIX, carteiras digitais ou vouchers.
+
+28
+00:01:48.180 --> 00:01:50.920
+Essa informação dentro do XML também existe.
+
+29
+00:01:51.099 --> 00:01:54.980
+Existe tanto o tipo de pagamento quanto o meio de pagamento.
+
+30
+00:01:55.439 --> 00:01:56.159
+Não confundam.
+
+31
+00:01:56.159 --> 00:01:58.819
+Tipo de pagamento, meio de pagamento.
+
+32
+00:01:58.939 --> 00:02:00.340
+Isso vai estar dentro do seu XML.
+
+33
+00:02:01.359 --> 00:02:03.359
+Os três números que você precisa fechar.
+
+34
+00:02:03.640 --> 00:02:09.139
+Faturamento do documento, recebido por meio de pagamento e a receita contábil.
+
+35
+00:02:09.659 --> 00:02:13.439
+Cada número tem o seu porquê e a origem diferente.
+
+36
+00:02:13.800 --> 00:02:20.180
+Então, a emissão do documento é o que, de fato, demonstra a parte comercial, a contraprestação.
+
+37
+00:02:20.740 --> 00:02:25.159
+Já o recebido do mês é o que, efetivamente, entrou na esteira financeira.
+
+38
+00:02:25.159 --> 00:02:25.240
+Certo?
+
+39
+00:02:25.240 --> 00:02:25.280
+Certo.
+
+40
+00:02:25.280 --> 00:02:25.300
+Certo.
+
+41
+00:02:25.300 --> 00:02:25.360
+Certo.
+
+42
+00:02:25.360 --> 00:02:25.419
+Certo.
+
+43
+00:02:25.419 --> 00:02:25.479
+Certo.
+
+44
+00:02:25.479 --> 00:02:25.500
+Certo.
+
+45
+00:02:25.500 --> 00:02:25.520
+Certo.
+
+46
+00:02:25.520 --> 00:02:25.580
+Certo.
+
+47
+00:02:25.580 --> 00:02:25.599
+Certo.
+
+48
+00:02:25.599 --> 00:02:25.620
+Certo.
+
+49
+00:02:25.620 --> 00:02:25.639
+Certo.
+
+50
+00:02:25.639 --> 00:02:25.699
+Certo.
+
+51
+00:02:26.159 --> 00:02:27.159
+Certo.
+
+52
+00:02:27.159 --> 00:02:28.159
+Certo.
+
+53
+00:02:28.159 --> 00:02:29.159
+Certo.
+
+54
+00:02:29.159 --> 00:02:29.199
+Certo.
+
+55
+00:02:29.199 --> 00:02:29.240
+Certo.
+
+56
+00:02:29.240 --> 00:02:29.259
+Certo.
+
+57
+00:02:29.259 --> 00:02:29.300
+Certo.
+
+58
+00:02:29.300 --> 00:02:29.319
+Certo.
+
+59
+00:02:29.319 --> 00:02:29.340
+Certo.
+
+60
+00:02:29.340 --> 00:02:29.379
+Certo.
+
+61
+00:02:29.379 --> 00:02:29.400
+Certo.
+
+62
+00:02:29.400 --> 00:02:29.419
+Certo.
+
+63
+00:02:29.419 --> 00:02:29.500
+Certo.
+
+64
+00:02:29.500 --> 00:02:29.520
+Certo.
+
+65
+00:02:29.520 --> 00:02:29.539
+Certo.
+
+66
+00:02:29.539 --> 00:02:29.560
+Certo.
+
+67
+00:02:29.560 --> 00:02:29.580
+Certo.
+
+68
+00:02:29.580 --> 00:02:29.699
+Certo.
+
+69
+00:02:29.699 --> 00:02:35.300
+E a contabilidade, ela consolida, ela trata a conciliação de todas as informações.
+
+70
+00:02:35.900 --> 00:02:42.180
+Então, essa é a ponte do cruzamento fiscal, que é necessário a gente começar a colocar em prática.
+
+71
+00:02:43.000 --> 00:02:45.039
+Declaração de operação, XML.
+
+72
+00:02:45.919 --> 00:02:48.460
+Coloquei as tags para vocês também no material para ajudar.
+
+73
+00:02:49.319 --> 00:02:51.599
+Cruzamento de dados e DIMP.
+
+74
+00:02:52.080 --> 00:02:55.400
+Existem algumas obrigações acessórias, obrigações acessórias não.
+
+75
+00:02:55.400 --> 00:02:55.419
+Existem algumas obrigações acessórias, obrigações acessórias não.
+
+76
+00:02:55.419 --> 00:03:00.759
+Existem algumas automações que já fazem esse tipo de cruzamento de dados.
+
+77
+00:03:01.360 --> 00:03:03.020
+Como, por exemplo, a ASIS.
+
+78
+00:03:03.280 --> 00:03:05.580
+A ASIS tem uma ferramenta chamada Colossus.
+
+79
+00:03:05.979 --> 00:03:08.039
+E a Colossus faz esse tipo de cruzamento.
+
+80
+00:03:08.719 --> 00:03:09.919
+Qual tipo de cruzamento?
+
+81
+00:03:10.039 --> 00:03:18.259
+Você pega o XML e também consegue, primeiro, colocar o seu próprio XML dentro das ferramentas da ASIS
+
+82
+00:03:18.259 --> 00:03:21.979
+para que você consiga ver as tags ali envolvidas.
+
+83
+00:03:21.979 --> 00:03:24.680
+E caso você tenha acesso a DIMP,
+
+84
+00:03:25.419 --> 00:03:28.280
+que você está sendo autuado ou intimado em afins,
+
+85
+00:03:28.560 --> 00:03:30.800
+você consegue fazer esse cruzamento de dados, tá?
+
+86
+00:03:31.340 --> 00:03:34.919
+Então, existem automações que podem te ajudar,
+
+87
+00:03:35.400 --> 00:03:39.560
+tanto se você quer fazer uma auditoria preventiva,
+
+88
+00:03:40.139 --> 00:03:44.680
+quanto você também queira entender o motivo da intimação.
+
+89
+00:03:45.300 --> 00:03:47.659
+A preventiva, você busca apenas o XML,
+
+90
+00:03:48.000 --> 00:03:50.939
+identifica quais são os tipos de pagamento, o meio de pagamento,
+
+91
+00:03:51.580 --> 00:03:54.419
+totaliza as informações e senta com a contabilidade.
+
+92
+00:03:54.419 --> 00:03:55.259
+Ou o financiamento.
+
+93
+00:03:55.259 --> 00:03:56.259
+O financiamento financeiro da sua empresa,
+
+94
+00:03:56.719 --> 00:03:59.620
+para que você consiga bater esses três valores.
+
+95
+00:04:00.580 --> 00:04:03.939
+Em consistência do XML, numa situação real,
+
+96
+00:04:04.860 --> 00:04:12.379
+é comum nós enxergarmos, então, o tipo de pagamento errado dentro do XML.
+
+97
+00:04:13.240 --> 00:04:14.780
+É comum isso aqui acontecer.
+
+98
+00:04:15.560 --> 00:04:19.759
+O que nós precisamos fazer é, então, trazer uma governança no sentido de que
+
+99
+00:04:19.759 --> 00:04:22.560
+isso daqui precisa ser remediado.
+
+100
+00:04:22.560 --> 00:04:24.860
+Porque dentro do contexto, a DIMP,
+
+101
+00:04:24.860 --> 00:04:27.600
+ela aprova se foi para o PIX ou se foi para o cartão de crédito.
+
+102
+00:04:27.720 --> 00:04:32.860
+Então, isso cria uma contradição do seu XML versus o que você recebeu.
+
+103
+00:04:33.199 --> 00:04:34.600
+O meio de pagamento genérico.
+
+104
+00:04:34.959 --> 00:04:36.860
+Isso também acontece na vida real, né?
+
+105
+00:04:37.639 --> 00:04:41.279
+Ao invés da gente fazer um parâmetro correto daquele tipo de pagamento,
+
+106
+00:04:41.759 --> 00:04:42.759
+você coloca outros.
+
+107
+00:04:43.519 --> 00:04:45.399
+Aí, o XML é emitido como outros.
+
+108
+00:04:46.360 --> 00:04:50.980
+Na hora da DIMP, as instituições financeiras conseguem demonstrar
+
+109
+00:04:50.980 --> 00:04:52.740
+quais foram os tipos de pagamento.
+
+110
+00:04:52.740 --> 00:04:54.000
+E aqui existe também.
+
+111
+00:04:54.000 --> 00:04:57.800
+Uma auditoria, que pode acontecer uma fiscalização.
+
+112
+00:04:58.699 --> 00:05:03.199
+Divergência do beneficiário, o pagamento entre CNPJ matriz na nota.
+
+113
+00:05:04.000 --> 00:05:06.300
+Porém, a operação aconteceu na filial.
+
+114
+00:05:06.699 --> 00:05:08.899
+E isso também pode gerar uma inconsistência.
+
+115
+00:05:09.399 --> 00:05:13.100
+Então, são formas que a gente acontece no nosso dia a dia.
+
+116
+00:05:13.100 --> 00:05:14.500
+É comum isso acontecer.
+
+117
+00:05:14.800 --> 00:05:18.100
+Só que a gente precisa trazer mais sensibilidade de informação.

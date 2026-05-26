@@ -1,0 +1,33 @@
+{
+  "id": 455831,
+  "title": "Comunicação eficiente e eficaz",
+  "position": 21,
+  "duration": 206,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d70461c8-1584-45dc-9790-a9e111f88a79/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d70461c8-1584-45dc-9790-a9e111f88a79/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d70461c8-1584-45dc-9790-a9e111f88a79/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d70461c8-1584-45dc-9790-a9e111f88a79/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d70461c8-1584-45dc-9790-a9e111f88a79/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

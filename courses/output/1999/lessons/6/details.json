@@ -1,0 +1,33 @@
+{
+  "id": 460767,
+  "title": "Pacta sunt servanda",
+  "position": 6,
+  "duration": 466,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e2d7fad4-1ec7-485e-8b91-903878df9c1e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2d7fad4-1ec7-485e-8b91-903878df9c1e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2d7fad4-1ec7-485e-8b91-903878df9c1e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2d7fad4-1ec7-485e-8b91-903878df9c1e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2d7fad4-1ec7-485e-8b91-903878df9c1e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.059
+E aí agora a gente vai efetivamente entrar na metodologia do ISO 31000,
+
+2
+00:00:04.480 --> 00:00:12.259
+que a gente entende ser a mais adequada quando a gente fala de compliance aduaneiro no Brasil e do OEA.
+
+3
+00:00:12.699 --> 00:00:15.240
+Vamos tentar passar isso de uma forma mais simples possível.
+
+4
+00:00:15.939 --> 00:00:19.059
+Então, esse padrão de gestão de riscos internacional,
+
+5
+00:00:19.920 --> 00:00:23.660
+que passa por essa identificação, análise e tratamento dos riscos,
+
+6
+00:00:23.660 --> 00:00:26.079
+a gente vai passar por cada uma dessas etapas.
+
+7
+00:00:26.500 --> 00:00:28.699
+Ela tem três pilares e princípios.
+
+8
+00:00:28.800 --> 00:00:38.280
+O primeiro são os princípios, ou seja, como criação de valor, integração e melhoria contínua.
+
+9
+00:00:38.820 --> 00:01:25.680
+Então, existe ali essa integração de valor, toda essa integração entre uma etapa e outra, e ela é contínua. FIS são cíclicas, estabelecimento de contexto, avaliação de risco,
+
+10
+00:01:26.159 --> 00:01:27.700
+identificação, análise,
+
+11
+00:01:27.840 --> 00:01:30.000
+comunicação, a gente vai passar por isso
+
+12
+00:01:30.000 --> 00:01:30.980
+tudo daqui a pouco.
+
+13
+00:01:31.760 --> 00:01:34.000
+Então, essa daqui
+
+14
+00:01:34.000 --> 00:01:35.840
+é a estrutura
+
+15
+00:01:35.840 --> 00:01:37.280
+da ISO 31000,
+
+16
+00:01:38.019 --> 00:01:40.340
+certo? Ela passa basicamente
+
+17
+00:01:40.340 --> 00:01:42.120
+por essas etapas,
+
+18
+00:01:42.359 --> 00:01:44.060
+eu acho que essa é uma
+
+19
+00:01:44.060 --> 00:01:45.700
+imagem muito importante
+
+20
+00:01:45.700 --> 00:01:49.359
+para a gente entender um pouquinho mais da metodologia do ISO 31000.
+
+21
+00:01:49.780 --> 00:01:52.140
+Então, o processo, de acordo com a norma,
+
+22
+00:01:52.500 --> 00:01:55.560
+pode ser dividido nessas etapas aqui.
+
+23
+00:01:56.019 --> 00:01:57.659
+O que vocês vão observar?
+
+24
+00:01:58.060 --> 00:02:02.099
+Que ele tem esse caráter de continuidade, está vendo?
+
+25
+00:02:02.480 --> 00:02:05.939
+Porque o monitoramento e a análise crítica,
+
+26
+00:02:06.200 --> 00:02:08.379
+ela é contínua. Você passa
+
+27
+00:02:08.379 --> 00:02:09.860
+aqui, você começa no estabelecimento,
+
+28
+00:02:10.139 --> 00:02:11.139
+você vai descendo,
+
+29
+00:02:11.860 --> 00:02:14.439
+chega em tratamento de riscos e volta
+
+30
+00:02:14.439 --> 00:02:16.139
+para o monitoramento. Então, você vai ver
+
+31
+00:02:16.139 --> 00:02:17.460
+que existe essa
+
+32
+00:02:17.460 --> 00:02:20.300
+continuidade no processo.
+
+33
+00:02:20.759 --> 00:02:22.120
+Mas a gente vai passar por cada
+
+34
+00:02:22.120 --> 00:02:24.020
+uma dessas etapas. Então, vamos
+
+35
+00:02:24.020 --> 00:02:25.180
+falar do contexto.
+
+36
+00:02:25.340 --> 00:02:27.360
+O que é o estabelecimento do contexto?
+
+37
+00:02:27.939 --> 00:02:31.960
+Então, na fase inicial, o ambiente é apresentado,
+
+38
+00:02:32.259 --> 00:02:37.599
+os objetivos devem ser identificados e o escopo delimitado.
+
+39
+00:02:38.159 --> 00:02:41.919
+A delimitação do escopo é essencial para que o processo
+
+40
+00:02:41.919 --> 00:02:45.199
+seja desenvolvido dentro dos limites definidos.
+
+41
+00:02:45.620 --> 00:02:49.000
+Então, neste caso aqui, qual que é o contexto?
+
+42
+00:02:49.520 --> 00:02:51.280
+É o operador econômico autorizado, certo?
+
+43
+00:02:51.740 --> 00:02:56.180
+É a certificação, a manutenção, ou seja, o monitoramento
+
+44
+00:02:56.180 --> 00:02:59.639
+da certificação do operador econômico autorizado.
+
+45
+00:03:00.020 --> 00:03:02.800
+Então, este é o ambiente apresentado.
+
+46
+00:03:02.800 --> 00:03:09.020
+O ambiente apresentado, o escopo é os critérios, os subcritérios
+
+47
+00:03:09.020 --> 00:03:11.560
+da certificação do operador econômico autorizado.
+
+48
+00:03:11.560 --> 00:03:17.560
+Então, esse estabelecimento de contexto dentro do nosso cenário,
+
+49
+00:03:17.900 --> 00:03:24.060
+ele tem um escopo fácil e delimitado, que é o operador econômico autorizado.
+
+50
+00:03:24.800 --> 00:03:45.780
+Então, seguindo um pouquinho mais, a gente vai para a fase aqui, FIS com potencial impacto, negativo ou positivo, nos objetivos da avaliação.
+
+51
+00:03:46.479 --> 00:03:55.639
+A cada risco identificado deve ser associado causas e efeitos possíveis caso ocorra.
+
+52
+00:03:56.099 --> 00:04:00.340
+Então, você identificou o risco, por que esse risco aconteceu, é uma causa,
+
+53
+00:04:00.900 --> 00:04:12.460
+e qual é um efeito possível. A finalidade é gerar uma ampla lista de riscos, pois um risco não identificado não
+
+54
+00:04:12.460 --> 00:04:18.680
+será analisado posteriormente e inclui-se até riscos fora do controle da organização.
+
+55
+00:04:19.199 --> 00:04:24.759
+Então, é aquilo que eu falei, a parte de identificação do risco é o momento, você
+
+56
+00:04:24.759 --> 00:04:26.540
+tem que olhar para dentro, você tem que olhar para fora,
+
+57
+00:04:27.199 --> 00:04:30.819
+você vai incluir os riscos que você pode agir e aqueles que você não pode agir,
+
+58
+00:04:30.899 --> 00:04:34.560
+porque o mais importante é você conhecer os riscos da sua operação.
+
+59
+00:04:35.100 --> 00:04:42.199
+Então é a partir dele que você vai iniciar toda a análise, a avaliação dos seus riscos.
+
+60
+00:04:42.199 --> 00:04:45.019
+Então essa é a identificação.
+
+61
+00:04:46.019 --> 00:04:46.379
+Onde você vai entender.
+
+62
+00:04:47.500 --> 00:04:48.000
+Existe esse risco.
+
+63
+00:04:51.240 --> 00:04:51.360
+Ele é causado por essa razão.
+
+64
+00:04:51.899 --> 00:04:52.319
+A causa.
+
+65
+00:04:54.980 --> 00:04:55.199
+E ele vai gerar esse impacto.
+
+66
+00:04:57.100 --> 00:04:57.839
+Seja negativo ou seja positivo.
+
+67
+00:04:59.399 --> 00:04:59.660
+Posteriormente você vem para a etapa.
+
+68
+00:05:01.019 --> 00:05:01.180
+Da análise dos riscos.
+
+69
+00:05:02.240 --> 00:05:03.360
+Então nessa etapa.
+
+70
+00:05:05.819 --> 00:05:08.060
+Causa e efeitos eles são avaliados. Então é aí que você olha, ok, identifiquei esse risco,
+
+71
+00:05:08.160 --> 00:05:09.899
+então a causa é essa, o efeito
+
+72
+00:05:09.899 --> 00:05:11.560
+é esse. Então, é um pouco
+
+73
+00:05:11.560 --> 00:05:12.800
+onde a gente faz
+
+74
+00:05:12.800 --> 00:05:15.800
+o nível de risco,
+
+75
+00:05:16.480 --> 00:05:17.500
+enfim, verificam-se
+
+76
+00:05:17.500 --> 00:05:19.879
+os controles existentes e a
+
+77
+00:05:19.879 --> 00:05:21.740
+efetividade e a
+
+78
+00:05:21.740 --> 00:05:23.899
+escolha, né? A escolha
+
+79
+00:05:23.899 --> 00:05:45.540
+do método, ele depende do contexto, objetivos e recursos disponíveis. Então, aqui, FIS vai depender do seu contexto, vai depender do que você tem disponível.
+
+80
+00:05:46.879 --> 00:05:52.579
+Então, as formas de análise de risco, conforme o ISO 31000,
+
+81
+00:05:53.500 --> 00:05:57.420
+ele varia, novamente, com base no contexto e recursos disponíveis.
+
+82
+00:05:57.639 --> 00:06:03.920
+Então, eles podem ser classificados, eles classificam o nível de risco,
+
+83
+00:06:03.920 --> 00:06:07.060
+que é exatamente a probabilidade versus a consequência,
+
+84
+00:06:07.560 --> 00:06:11.420
+de modo a priorizar tratamentos eficazes.
+
+85
+00:06:11.920 --> 00:06:16.339
+Então, quais são as principais formas de análise de risco?
+
+86
+00:06:16.720 --> 00:06:24.459
+Existe a análise de risco quantitativa, onde você usa uma escala numérica,
+
+87
+00:06:24.459 --> 00:06:27.639
+vamos dizer assim, um estatístico numérico,
+
+88
+00:06:28.079 --> 00:06:29.699
+é o quantitativo.
+
+89
+00:06:30.180 --> 00:06:36.600
+Existe uma escala qualitativa, que é onde você vai caracterizar, por exemplo, com descrição,
+
+90
+00:06:37.139 --> 00:06:41.220
+seja alta, média, baixa, provável, muito provável.
+
+91
+00:06:41.699 --> 00:06:43.740
+Então, é qualitativa.
+
+92
+00:06:43.740 --> 00:07:05.040
+E existe uma outra possibilidade que é semi-quantitativa, FIS com certa quantificação. Então, você cria os dois. Você pode botar um número associado,
+
+93
+00:07:06.980 --> 00:07:07.480
+mas você pode colocar uma terminologia.
+
+94
+00:07:10.819 --> 00:07:11.279
+Então, essas são as formas como você analisa o risco.
+
+95
+00:07:12.959 --> 00:07:13.639
+Um ponto importante é isso.
+
+96
+00:07:18.399 --> 00:07:19.399
+Sempre que eu participei de trabalhos de gestão de risco ou de OIA,
+
+97
+00:07:22.800 --> 00:07:26.620
+e a gente fazia esse mapeamento de riscos, um ponto que eu sempre via as empresas ficando receiosas
+
+98
+00:07:26.620 --> 00:07:28.500
+era no momento da identificação do risco
+
+99
+00:07:28.500 --> 00:07:29.959
+que para mim é a parte principal
+
+100
+00:07:29.959 --> 00:07:32.040
+do trabalho de gerenciamento de risco.
+
+101
+00:07:33.399 --> 00:07:35.180
+Para mim, quanto mais riscos
+
+102
+00:07:35.180 --> 00:07:36.819
+você conseguir identificar em uma empresa,
+
+103
+00:07:37.920 --> 00:07:39.439
+seja um interno, seja um externo,
+
+104
+00:07:40.279 --> 00:07:44.899
+seja controlável ou não controlável, melhor.
+
+105
+00:07:44.899 --> 00:07:45.740
+E lembrando que quando a gente fala risco, seja controlável ou não controlável, melhor.
+
+106
+00:07:47.779 --> 00:07:48.199
+E lembrando que quando a gente fala risco,
+
+107
+00:07:50.199 --> 00:07:50.379
+as pessoas chegam a tremer, né?
+
+108
+00:07:52.819 --> 00:07:53.300
+Mas risco, ele pode ser positivo.
+
+109
+00:07:55.800 --> 00:07:57.660
+O risco positivo, ele é chamado de oportunidade. Ou seja, você identifica um risco,
+
+110
+00:07:57.680 --> 00:08:00.680
+é um risco de que algo possa acontecer,
+
+111
+00:08:01.160 --> 00:08:02.620
+de que um evento possa acontecer
+
+112
+00:08:02.620 --> 00:08:04.800
+e que ele possa causar um impacto positivo.
+
+113
+00:08:04.899 --> 00:08:25.060
+Ele pode trazer uma oportunidade. Então, sempre que vocês falarem risco positivo, FIS Pode ser positivo e quanto mais riscos a gente for capaz de identificar, melhor.
+
+114
+00:08:25.540 --> 00:08:31.959
+Mesmo que ele sequer tenha tratamento, o importante é que a gente conheça e identifique os riscos inerentes à nossa operação.

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 2985,
+    "title": "Contabilidade Rural",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de contabilidade rural você vai aprender a aplicabilidade da contabilidade nas questões específicas do contexto rural. Você conhecerá os fundamentos legais que vão desde a NBC T-10 até o CPC 29 que regulamenta a contabilidade em atividades agropecuárias, até a parte prática do cotidiano contábil para as operações de um negócio rural, incluindo formas de apuração de impostos da Pessoa Física, empréstimos, benfeitorias, até aspectos referentes à Pessoa Jurídica, como LALUR, Forma de Tributação, Lucro Real, Compensação de Prejuízos fiscais, declarações acessórias e muitos outros pontos para que você domine este assunto e coloque em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/cfda8426629acebcb80b981af04b35531728384357.jpg",
+    "goals": [
+      "Dar conhecimentos da legislação e da prática para realizar corretamente a contabilidade de instituições do setor agropecuário. A atividade Agro-Pecuária é exercida tanto por Pessoas Físicas, quanto por Pessoas Jurídicas. Por isso neste curso será abordado ass duas situações. Você aprenderá como realizar a escrituração contábil e apuração dos tributos e contribuições da atividade rural, abordando também os cuidados que devem ser tomados nos registros contábeis para não distorcer os dados que irão servir de subsídios de tomada de decisões e análise da eficiência das atividades."
+    ],
+    "teacher": {
+      "id": 607145,
+      "name": "MARCOS VINICIUS DA CRUZ LEÃO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1670330251.jpeg"
+    },
+    "duration": 7696,
+    "keywords": "contabilidade rural;contabilidade;rural;produtores",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 32,
+    "materialCount": 5,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1507,
+    "averageRating": 9.3,
+    "practiceAverage": 9.31,
+    "trailer": {
+      "id": "92a10642-d2c3-413e-aae6-09ebff1b8c37",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92a10642-d2c3-413e-aae6-09ebff1b8c37/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92a10642-d2c3-413e-aae6-09ebff1b8c37/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92a10642-d2c3-413e-aae6-09ebff1b8c37/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92a10642-d2c3-413e-aae6-09ebff1b8c37/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-25T01:44:05.000Z",
+      "updatedAt": "2024-01-25T01:44:05.000Z"
+    },
+    "crcActive": true,
+    "crcCreditHours": 5,
+    "crcScore": {
+      "id": 297,
+      "courseId": 2985,
+      "crcCode": "SP-35387",
+      "data": [
+        {
+          "name": "AUD",
+          "values": [
+            5
+          ]
+        },
+        {
+          "name": "PERITO",
+          "values": [
+            5
+          ]
+        },
+        {
+          "name": "CMN",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "SUSEP",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "PREVICAUD",
+          "values": [
+            0
+          ]
+        },
+        {
+          "name": "PROGP",
+          "values": [
+            5
+          ]
+        },
+        {
+          "name": "PRORT",
+          "values": [
+            5
+          ]
+        },
+        {
+          "name": "PREVIC",
+          "values": [
+            0
+          ]
+        }
+      ],
+      "year": 2026,
+      "createdAt": "2026-01-09T18:59:33.000Z",
+      "updatedAt": "2026-01-09T18:59:33.000Z"
+    },
+    "launchDate": "2024-01-20T13:12:00.000Z",
+    "recordedAt": "2023-12-22T00:00:00.000Z",
+    "createdAt": "2023-12-28T15:34:54.000Z"
+  }
+}

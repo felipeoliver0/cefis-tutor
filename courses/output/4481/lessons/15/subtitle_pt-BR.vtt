@@ -1,0 +1,465 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.379
+Na DINP, o beneficiário nem sempre é quem emite a nota fiscal,
+
+3
+00:00:04.379 --> 00:00:07.599
+porque a gente teve intermediadores, como a gente conversou.
+
+4
+00:00:07.599 --> 00:00:10.980
+É quem, de fato, recebeu o fluxo financeiro.
+
+5
+00:00:10.980 --> 00:00:13.939
+E existe distinção na origem também,
+
+6
+00:00:13.939 --> 00:00:17.780
+e a origem pode receber dados incorretos.
+
+7
+00:00:17.780 --> 00:00:21.480
+O conceito do beneficiário na prática, marketplace.
+
+8
+00:00:21.480 --> 00:00:24.699
+Marketplace, com split, o que é?
+
+9
+00:00:24.699 --> 00:00:26.899
+Ele é responsável, ele é um intermediador,
+
+10
+00:00:26.899 --> 00:00:31.039
+e ele é responsável por repassar as informações.
+
+11
+00:00:31.039 --> 00:00:34.439
+O cliente paga, por exemplo, 100 reais no site do marketplace,
+
+12
+00:00:34.439 --> 00:00:38.640
+e o dinheiro é dividido, split, automaticamente.
+
+13
+00:00:38.640 --> 00:00:42.780
+Então, por exemplo, 90 reais para o lojista,
+
+14
+00:00:42.780 --> 00:00:46.020
+10 reais para o marketplace.
+
+15
+00:00:46.020 --> 00:00:49.960
+Esses 10 reais correspondem à comissão do marketplace.
+
+16
+00:00:49.960 --> 00:00:54.420
+Então, veja, aqui ele é o responsável pela entrega da DINP,
+
+17
+00:00:54.420 --> 00:00:56.899
+porque ele repassa, ele é o intermediador.
+
+18
+00:00:56.899 --> 00:01:00.299
+Ele é o intermediador financeiro.
+
+19
+00:01:00.299 --> 00:01:01.799
+Aonde está o erro?
+
+20
+00:01:01.799 --> 00:01:06.840
+O marketplace declara, por exemplo, os 100 reais como dele.
+
+21
+00:01:06.840 --> 00:01:08.980
+Só que, na verdade, não é dele.
+
+22
+00:01:08.980 --> 00:01:14.620
+O lojista esquece, por exemplo, de emitir a nota sobre o valor total.
+
+23
+00:01:14.620 --> 00:01:20.599
+Na DINP, deve refletir quem é o beneficiário final de cada parcela.
+
+24
+00:01:20.599 --> 00:01:24.620
+Então, novamente, um erro em cascata.
+
+25
+00:01:24.620 --> 00:01:25.099
+Existiu a venda, se não houve a nota oficial,
+
+26
+00:01:25.099 --> 00:01:25.120
+Existiu a venda, se não houve a nota oficial,
+
+27
+00:01:25.120 --> 00:01:25.599
+Existiu a venda, se não houve a nota oficial,
+
+28
+00:01:25.599 --> 00:01:26.319
+Existiu a venda, se não houve a nota oficial,
+
+29
+00:01:26.319 --> 00:01:26.819
+Existiu a venda, se não houve a nota oficial,
+
+30
+00:01:26.819 --> 00:01:26.859
+Existiu a venda, se não houve a nota oficial,
+
+31
+00:01:26.859 --> 00:01:28.900
+que eu não consegue cruzar, na hora
+
+32
+00:01:28.900 --> 00:01:30.920
+que esse Marketplace
+
+33
+00:01:30.920 --> 00:01:33.120
+vai enviar a GIMP, ele não informa o valor
+
+34
+00:01:33.120 --> 00:01:34.840
+correto, informa o valor
+
+35
+00:01:34.840 --> 00:01:37.000
+total, e assim a gente
+
+36
+00:01:37.000 --> 00:01:38.980
+vai começando a criar
+
+37
+00:01:38.980 --> 00:01:41.219
+o movimento para trazer uma autuação
+
+38
+00:01:41.219 --> 00:01:42.340
+para as empresas.
+
+39
+00:01:43.099 --> 00:01:45.420
+PIX em conta de terceiros.
+
+40
+00:01:46.420 --> 00:01:47.200
+A empresa
+
+41
+00:01:47.200 --> 00:01:48.959
+vende e emite uma nota fiscal,
+
+42
+00:01:49.540 --> 00:01:50.939
+mas o cliente
+
+43
+00:01:50.939 --> 00:01:52.799
+faz o PIX para uma
+
+44
+00:01:52.799 --> 00:01:54.459
+conta de pessoa física do
+
+45
+00:01:54.459 --> 00:01:56.780
+sócio. Conta de
+
+46
+00:01:56.780 --> 00:01:58.700
+outra empresa do grupo, por exemplo,
+
+47
+00:01:59.040 --> 00:02:00.840
+e a chave do PIX não vincula
+
+48
+00:02:00.840 --> 00:02:03.040
+ao CNPJ emissor do documento.
+
+49
+00:02:03.599 --> 00:02:04.659
+Novamente, uma
+
+50
+00:02:04.659 --> 00:02:06.700
+nova falha de
+
+51
+00:02:06.700 --> 00:02:08.699
+informação. Onde houve
+
+52
+00:02:08.699 --> 00:02:10.979
+o erro aqui, pessoal? A Receita exige
+
+53
+00:02:10.979 --> 00:02:12.199
+a nota fiscal,
+
+54
+00:02:13.400 --> 00:02:14.639
+mas na GIMP
+
+55
+00:02:14.639 --> 00:02:16.800
+não aparece o CNPJ. Por que não aparece?
+
+56
+00:02:17.319 --> 00:02:18.759
+Olha a movimentação, foi aonde?
+
+57
+00:02:19.080 --> 00:02:20.740
+No CPF. Por isso
+
+58
+00:02:20.740 --> 00:02:23.000
+que não vai aparecer. Adquirente
+
+59
+00:02:23.000 --> 00:02:24.039
+centralizado.
+
+60
+00:02:24.460 --> 00:02:26.919
+A matriz centraliza os contratos
+
+61
+00:02:26.919 --> 00:02:28.900
+com as maquininhas, ou seja,
+
+62
+00:02:29.080 --> 00:02:30.740
+adquirentes, para
+
+63
+00:02:30.740 --> 00:02:32.740
+negociar taxas melhores, mas as
+
+64
+00:02:32.740 --> 00:02:34.500
+vendas ocorrem nas filiais,
+
+65
+00:02:34.580 --> 00:02:36.479
+inclusive nas filiais de outro estado.
+
+66
+00:02:37.199 --> 00:02:38.979
+Onde está o erro? Se a GIMP
+
+67
+00:02:38.979 --> 00:02:40.719
+aponta tudo para a matriz,
+
+68
+00:02:40.819 --> 00:02:42.020
+as filiais terão venda
+
+69
+00:02:42.020 --> 00:02:44.699
+sem recebimento. Porque se as
+
+70
+00:02:44.699 --> 00:02:46.659
+filiais vendem, cadê o tipo de
+
+71
+00:02:46.659 --> 00:02:48.819
+pagamento? E a matriz
+
+72
+00:02:48.819 --> 00:02:50.740
+trata o recebimento sem
+
+73
+00:02:50.740 --> 00:02:52.460
+nota fiscal. Olha o risco.
+
+74
+00:02:53.199 --> 00:02:54.439
+Então, nós não
+
+75
+00:02:54.439 --> 00:02:56.740
+podemos fazer, por exemplo, o planejamento
+
+76
+00:02:56.740 --> 00:02:58.560
+financeiro apenas
+
+77
+00:02:58.560 --> 00:03:00.639
+olhando o financeiro. Nós
+
+78
+00:03:00.639 --> 00:03:02.919
+precisamos olhar o todo, a operação
+
+79
+00:03:02.919 --> 00:03:03.659
+como um todo.
+
+80
+00:03:04.620 --> 00:03:06.659
+O fisco não quer saber se você é
+
+81
+00:03:06.659 --> 00:03:08.740
+responsável pelo financeiro, se eu
+
+82
+00:03:08.740 --> 00:03:10.319
+sou responsável pelo contábil,
+
+83
+00:03:10.840 --> 00:03:12.719
+se a amiga do lado é responsável
+
+84
+00:03:12.719 --> 00:03:14.659
+pelo fiscal. No final
+
+85
+00:03:14.659 --> 00:03:16.659
+do dia, ele só quer receber o
+
+86
+00:03:16.659 --> 00:03:19.159
+conjunto de informação congruente.
+
+87
+00:03:19.659 --> 00:03:20.659
+Se você faz parte do
+
+88
+00:03:20.659 --> 00:03:22.659
+processo ou não, se você não entende
+
+89
+00:03:22.659 --> 00:03:24.319
+se a emissão está certa ou não,
+
+90
+00:03:24.439 --> 00:03:26.300
+no final do dia,
+
+91
+00:03:27.039 --> 00:03:28.340
+ele não quer saber.
+
+92
+00:03:28.780 --> 00:03:30.240
+Onde o time fiscal costuma
+
+93
+00:03:30.240 --> 00:03:32.439
+tropeçar? Quando a gente fala sobre o departamento
+
+94
+00:03:32.439 --> 00:03:34.840
+fiscal, tá? Quem entrega
+
+95
+00:03:34.840 --> 00:03:36.539
+e o papel do PICF?
+
+96
+00:03:37.199 --> 00:03:38.360
+As duas camadas.
+
+97
+00:03:38.840 --> 00:03:40.139
+Nota versus pagamentos,
+
+98
+00:03:40.699 --> 00:03:42.620
+divergências de dados e intimação,
+
+99
+00:03:43.180 --> 00:03:44.819
+o resumo compartilhado
+
+100
+00:03:44.819 --> 00:03:46.340
+e diferenças típicas
+
+101
+00:03:46.340 --> 00:03:47.840
+versus fraude.
+
+102
+00:03:48.719 --> 00:03:50.900
+Então, o time fiscal precisa
+
+103
+00:03:50.900 --> 00:03:52.780
+fazer esses cruzamentos de dados.
+
+104
+00:03:52.780 --> 00:03:54.419
+Ou seja, qual foi a
+
+105
+00:03:54.439 --> 00:03:56.419
+nota? Como foi a fonte de
+
+106
+00:03:56.419 --> 00:03:58.780
+pagamento? Quais são os dados
+
+107
+00:03:58.780 --> 00:04:00.840
+que nós
+
+108
+00:04:00.840 --> 00:04:02.759
+estamos enviando versus
+
+109
+00:04:02.759 --> 00:04:03.960
+a intimação que chegou?
+
+110
+00:04:04.580 --> 00:04:06.580
+E é isso que eu falei pra vocês. Às vezes a gente pensa
+
+111
+00:04:06.580 --> 00:04:08.340
+que é uma obrigação acessória e, na verdade,
+
+112
+00:04:08.819 --> 00:04:10.500
+é outra obrigação acessória que está
+
+113
+00:04:10.500 --> 00:04:12.159
+trazendo intimação pra dentro de casa.
+
+114
+00:04:13.120 --> 00:04:14.199
+Compartilhamento de dados,
+
+115
+00:04:14.360 --> 00:04:16.519
+informações de compartilhamento de
+
+116
+00:04:16.519 --> 00:04:18.399
+transações financeiras também são
+
+117
+00:04:18.399 --> 00:04:20.699
+importantes dentro do nosso processo.

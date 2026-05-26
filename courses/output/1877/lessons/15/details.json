@@ -1,0 +1,33 @@
+{
+  "id": 459438,
+  "title": "Anuidade diferida",
+  "position": 15,
+  "duration": 531,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2865c6d9-f93c-4ef1-8a63-0432b03a12d0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2865c6d9-f93c-4ef1-8a63-0432b03a12d0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2865c6d9-f93c-4ef1-8a63-0432b03a12d0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2865c6d9-f93c-4ef1-8a63-0432b03a12d0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2865c6d9-f93c-4ef1-8a63-0432b03a12d0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

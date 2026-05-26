@@ -1,0 +1,33 @@
+{
+  "id": 471214,
+  "title": "Indicadores de eficiência e eficácia",
+  "position": 15,
+  "duration": 447,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/25e48c84-8609-4fc7-abf2-00eb18b00555/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25e48c84-8609-4fc7-abf2-00eb18b00555/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25e48c84-8609-4fc7-abf2-00eb18b00555/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25e48c84-8609-4fc7-abf2-00eb18b00555/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/25e48c84-8609-4fc7-abf2-00eb18b00555/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

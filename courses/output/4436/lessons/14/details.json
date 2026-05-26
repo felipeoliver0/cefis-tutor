@@ -1,0 +1,33 @@
+{
+  "id": 486459,
+  "title": "Hipótese de pagamento",
+  "position": 14,
+  "duration": 84,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e0e1bcbe-3314-4576-9a4e-42d82f2c152c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e0e1bcbe-3314-4576-9a4e-42d82f2c152c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e0e1bcbe-3314-4576-9a4e-42d82f2c152c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e0e1bcbe-3314-4576-9a4e-42d82f2c152c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e0e1bcbe-3314-4576-9a4e-42d82f2c152c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3095,
+    "title": "Cruzamentos SPED Fiscal (EFD ICMS/IPI)",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de  você vai aprender pontos como: Conceitos do ICMS; Conceitos do IPI; Cruzamento e Revisão de Cadastro de Participantes; Cruzamento e Revisão de Cadastro de Produtos; Cruzamento e Revisão dos Livros de Entrada, Saída e Apuração; Cruzamento e Revisão do DIFAL Contribuinte e Não Contribuinte; Cruzamento e Revisão do CIAP (Bloco G) e muitos outros aspectos para você analisar e identificar erros e oportunidades com a análise do SPED Fiscal, identificação de créditos tributários, conferência e validação de registros silenciosos e buscar a conformidade tributária na entrega da obrigação acessória.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/2bf44859d614f0dd84982753d93642361728384876.jpg",
+    "goals": [
+      "Demonstrar como analisar e identificar erros e oportunidades com a análise do SPED Fiscal, bem com identificação de créditos tributários, conferência e validação de registros silenciosos e buscar a conformidade tributária na entrega da obrigação acessória."
+    ],
+    "teacher": {
+      "id": 678564,
+      "name": "Joy",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1695757367.jpeg"
+    },
+    "duration": 9424,
+    "keywords": "cruzamentos;sped;efd;icms;ipi",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 26,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 2703,
+    "averageRating": 9.52,
+    "practiceAverage": 9.47,
+    "trailer": {
+      "id": "adce8dbc-ca9a-487c-af62-04dc0ca519b4",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/adce8dbc-ca9a-487c-af62-04dc0ca519b4/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/adce8dbc-ca9a-487c-af62-04dc0ca519b4/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/adce8dbc-ca9a-487c-af62-04dc0ca519b4/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/adce8dbc-ca9a-487c-af62-04dc0ca519b4/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-04-15T08:45:53.000Z",
+      "updatedAt": "2024-04-15T08:45:53.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-04-15T08:57:08.000Z",
+    "recordedAt": "2024-03-19T00:00:00.000Z",
+    "createdAt": "2024-03-26T10:26:23.000Z"
+  }
+}

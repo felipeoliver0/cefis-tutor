@@ -1,0 +1,33 @@
+{
+  "id": 480626,
+  "title": "Tarifaço",
+  "position": 29,
+  "duration": 532,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d6d66623-6391-4af6-b217-408e7fc135ca/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d6d66623-6391-4af6-b217-408e7fc135ca/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d6d66623-6391-4af6-b217-408e7fc135ca/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d6d66623-6391-4af6-b217-408e7fc135ca/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d6d66623-6391-4af6-b217-408e7fc135ca/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

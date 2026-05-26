@@ -1,0 +1,33 @@
+{
+  "id": 461330,
+  "title": "Demonstração dos Fluxos de Caixa",
+  "position": 23,
+  "duration": 221,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6d440d55-89cc-4f1c-a654-e08cd9d10fc0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d440d55-89cc-4f1c-a654-e08cd9d10fc0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d440d55-89cc-4f1c-a654-e08cd9d10fc0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d440d55-89cc-4f1c-a654-e08cd9d10fc0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d440d55-89cc-4f1c-a654-e08cd9d10fc0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

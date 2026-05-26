@@ -1,0 +1,33 @@
+{
+  "id": 455391,
+  "title": "Finalização",
+  "position": 31,
+  "duration": 23,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7b1ea04e-58c1-471c-a134-a50170876554/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b1ea04e-58c1-471c-a134-a50170876554/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b1ea04e-58c1-471c-a134-a50170876554/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b1ea04e-58c1-471c-a134-a50170876554/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7b1ea04e-58c1-471c-a134-a50170876554/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

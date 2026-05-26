@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4407,
+    "title": "Distribuição de lucros",
+    "subtitle": "prático",
+    "summary": "Neste curso de Distribuição de lucros você irá aprender na prática tudo o que precisa saber sobre distribuição de lucros. Aprenderá os fundamentos e a prática de cálculo da distribuição de lucros x regime tributário e distribuição disfarçada de lucros e vários outros temas para você que deseja se atualizar ou aprender tudo sobre distribuição de lucros.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/7f518736-4f5d-437a-9b56-b8fb9f08bb86-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Distribuição de lucros prático é a capacitação para a aplicação prática da distribuição de lucros em empresas."
+    ],
+    "teacher": {
+      "id": 539395,
+      "name": "MAURI JOSÉ ALBERTI",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1634085836.jpeg"
+    },
+    "duration": 7022,
+    "keywords": "distribuição;lucros",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 25,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 188,
+    "averageRating": 9.39,
+    "practiceAverage": 9.26,
+    "trailer": {
+      "id": "225ff621-6e45-496e-beb7-b475db5e89bd",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/225ff621-6e45-496e-beb7-b475db5e89bd/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/225ff621-6e45-496e-beb7-b475db5e89bd/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/225ff621-6e45-496e-beb7-b475db5e89bd/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/225ff621-6e45-496e-beb7-b475db5e89bd/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-18T16:30:35.000Z",
+      "updatedAt": "2026-03-18T16:30:35.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-19T10:11:10.000Z",
+    "recordedAt": "2026-02-07T00:00:00.000Z",
+    "createdAt": "2026-02-07T03:51:57.000Z"
+  }
+}

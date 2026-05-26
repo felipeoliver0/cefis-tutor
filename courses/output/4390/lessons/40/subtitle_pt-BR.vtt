@@ -1,0 +1,729 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.120
+Os sócios integralizaram o capital de R$ 100 mil por meio de um depósito bancário.
+
+3
+00:00:04.120 --> 00:00:05.200
+Olha lá.
+
+4
+00:00:05.200 --> 00:00:09.279
+Debitei banco, lembra desse lado aqui está sempre o débito.
+
+5
+00:00:09.279 --> 00:00:11.240
+Debitei banco de R$ 100 mil.
+
+6
+00:00:11.240 --> 00:00:13.800
+Creditei capital social.
+
+7
+00:00:13.800 --> 00:00:18.320
+Isso aqui chama-se, de uma maneira simples, razonete.
+
+8
+00:00:18.320 --> 00:00:21.879
+É um P, que a gente chama de razonete.
+
+9
+00:00:21.879 --> 00:00:25.000
+Então vocês viram que eu debitei e creditei.
+
+10
+00:00:25.000 --> 00:00:26.280
+Isso é a partida desdobrada.
+
+11
+00:00:26.280 --> 00:00:28.160
+Fechou? Fechou.
+
+12
+00:00:28.160 --> 00:00:31.920
+Para facilitar o entendimento de vocês e os estudos depois,
+
+13
+00:00:31.920 --> 00:00:34.719
+eu botei os números para facilitar um em um.
+
+14
+00:00:34.719 --> 00:00:36.600
+O que eu debitei e o que eu creditei.
+
+15
+00:00:36.600 --> 00:00:38.359
+E qual foi a transação?
+
+16
+00:00:38.359 --> 00:00:42.240
+Os sócios integralizaram o capital de R$ 100 mil por meio de um depósito bancário.
+
+17
+00:00:42.240 --> 00:00:43.719
+Foi lá e fez um depósito bancário.
+
+18
+00:00:43.719 --> 00:00:46.200
+Nós já sabemos o que é integralização.
+
+19
+00:00:46.200 --> 00:00:49.359
+Nós já sabemos o que é capital, que eu já comentei no início da aula.
+
+20
+00:00:49.359 --> 00:00:50.840
+Então ficou fácil.
+
+21
+00:00:50.840 --> 00:00:54.240
+Entrou no banco R$ 100 mil porque é o capital da empresa que está no contrato social
+
+22
+00:00:54.240 --> 00:00:55.880
+que nós comentamos lá na parte jurídica.
+
+23
+00:00:55.880 --> 00:00:57.119
+Lembram?
+
+24
+00:00:57.119 --> 00:00:58.119
+Bacana.
+
+25
+00:00:58.159 --> 00:01:00.880
+Qual é o lançamento no livro diário?
+
+26
+00:01:00.880 --> 00:01:08.840
+Data do registro contábil, a conta devedora, a conta credora e o histórico dizendo o que foi.
+
+27
+00:01:08.840 --> 00:01:10.519
+Isso é o livro diário.
+
+28
+00:01:10.519 --> 00:01:19.200
+O histórico que represente a essência econômica da transação ou o código do histórico padronizado.
+
+29
+00:01:19.200 --> 00:01:24.400
+Nesse caso, baseado em tabela auxiliar, incluso em livro próprio.
+
+30
+00:01:24.400 --> 00:01:27.920
+O que é o histórico padronizado?
+
+31
+00:01:27.920 --> 00:01:34.920
+Hoje, como eu disse para vocês, a única diferença do passado para o presente
+
+32
+00:01:34.920 --> 00:01:39.079
+é que hoje, lá no passado, era rudimentar.
+
+33
+00:01:39.079 --> 00:01:43.040
+Sinais, cunhas nas cavernas, era assim.
+
+34
+00:01:43.040 --> 00:01:47.319
+Hoje está tudo automatizado, então eu preciso parametrizar o sistema.
+
+35
+00:01:47.319 --> 00:01:51.840
+Os nossos famosos ERPs, seja ele qual for.
+
+36
+00:01:51.840 --> 00:01:53.400
+Então eu posso criar um histórico.
+
+37
+00:01:53.400 --> 00:01:57.480
+Por exemplo, toda compra que tiver vai ser o histórico número um.
+
+38
+00:01:57.480 --> 00:01:59.599
+Compra conforme nota fiscal, número tal.
+
+39
+00:01:59.599 --> 00:02:00.319
+Acabou.
+
+40
+00:02:00.319 --> 00:02:02.519
+Então se eu botar um, ele já vai me trazer esse histórico.
+
+41
+00:02:02.519 --> 00:02:06.799
+Então fica uma contabilidade bonita, padronizada, todas as compras igualzinho.
+
+42
+00:02:06.799 --> 00:02:10.080
+Só trazer o nome do fornecedor da nota fiscal.
+
+43
+00:02:10.080 --> 00:02:14.639
+Do mesmo jeito, se eu vender venda de mercadoria para o cliente XPTO.
+
+44
+00:02:14.639 --> 00:02:15.680
+Do mesmo jeito.
+
+45
+00:02:15.680 --> 00:02:17.680
+Ou se eu for depositar o dinheiro no banco.
+
+46
+00:02:17.680 --> 00:02:20.120
+Depósito no banco Itaú.
+
+47
+00:02:20.120 --> 00:02:21.439
+Pá, pá, pá, pá, pá.
+
+48
+00:02:21.439 --> 00:02:22.199
+Fica padrão.
+
+49
+00:02:22.199 --> 00:02:23.599
+Eu crio o código.
+
+50
+00:02:23.599 --> 00:02:24.879
+Isso é histórico padrão.
+
+51
+00:02:24.879 --> 00:02:27.280
+Mas se eu não quiser criar, eu posso escrever a qualquer hora.
+
+52
+00:02:27.479 --> 00:02:34.639
+Mas se tiver várias pessoas fazendo a contabilidade, um escreva depósito no banco, o outro
+
+53
+00:02:34.639 --> 00:02:38.840
+vai escrever depósito no Itaú, o outro vai escrever Itaú.
+
+54
+00:02:38.840 --> 00:02:44.319
+Fica o negócio, se ele é padronizado, todo mundo vai usar o mesmo código, código 01,
+
+55
+00:02:44.319 --> 00:02:45.319
+depósito no banco Itaú.
+
+56
+00:02:45.319 --> 00:02:46.319
+Ponto.
+
+57
+00:02:46.319 --> 00:02:47.319
+Entendeu?
+
+58
+00:02:47.319 --> 00:02:51.639
+Isso é histórico padronizado, que é uma opção do contribuinte, perfeito?
+
+59
+00:02:51.639 --> 00:02:54.759
+Eu prefiro que tenha, porque fica uma contabilidade bem feita.
+
+60
+00:02:54.759 --> 00:02:55.759
+Muito bem.
+
+61
+00:02:55.759 --> 00:02:57.400
+Então é isso que nós temos que cumprir.
+
+62
+00:02:57.479 --> 00:03:01.680
+E o valor do registro, no caso, 100 mil.
+
+63
+00:03:01.680 --> 00:03:02.680
+Então olha só.
+
+64
+00:03:02.680 --> 00:03:06.479
+Pois bem, então ficou assim, né?
+
+65
+00:03:06.479 --> 00:03:09.479
+Integralização do capital de 100 mil em dinheiro.
+
+66
+00:03:09.479 --> 00:03:13.800
+Debitei banco, creditei capital, olha o histórico.
+
+67
+00:03:13.800 --> 00:03:20.699
+São Paulo, 15 de janeiro de 2026, débito banco a capital.
+
+68
+00:03:20.699 --> 00:03:23.800
+Integralização do capital do sócio João Brasileiro em dinheiro.
+
+69
+00:03:23.800 --> 00:03:24.800
+Olha lá.
+
+70
+00:03:24.800 --> 00:03:26.840
+São Paulo, 15 de janeiro de 2026.
+
+71
+00:03:26.840 --> 00:03:30.659
+Debitei banco conta corrente, creditei capital social.
+
+72
+00:03:30.659 --> 00:03:36.219
+O histórico vai ser integralização do capital social do João Brasileiro em dinheiro.
+
+73
+00:03:36.219 --> 00:03:41.060
+Então nós temos contabilizações assim, banco A ou débito e crédito.
+
+74
+00:03:41.060 --> 00:03:45.580
+Eu prefiro débito e crédito, fica mais fácil do que usar o Azinho aqui, tá?
+
+75
+00:03:45.580 --> 00:03:46.580
+Mas é a mesma coisa.
+
+76
+00:03:46.580 --> 00:03:51.599
+Então eu tenho um débito no banco e um crédito em capital social representado por aqueles
+
+77
+00:03:51.599 --> 00:03:52.599
+razonetes.
+
+78
+00:03:52.599 --> 00:03:53.599
+Perfeito?
+
+79
+00:03:53.599 --> 00:03:54.599
+Entenderam?
+
+80
+00:03:54.599 --> 00:03:56.840
+Transferência do banco para o caixa.
+
+81
+00:03:56.840 --> 00:04:00.659
+Então eu sempre vou trazer o saldo, trouxe o saldo do capital, que nós já sabemos que
+
+82
+00:04:00.659 --> 00:04:01.659
+é 100 mil.
+
+83
+00:04:01.659 --> 00:04:04.680
+O que é que nós fizemos agora?
+
+84
+00:04:04.680 --> 00:04:06.659
+Transferência do banco para o caixa.
+
+85
+00:04:06.659 --> 00:04:10.340
+Eu creditei banco, porque eu estou tirando o dinheiro.
+
+86
+00:04:10.340 --> 00:04:14.659
+Eu debitei quando entrou, creditei porque eu estou tirando.
+
+87
+00:04:14.659 --> 00:04:17.120
+E foi para onde?
+
+88
+00:04:17.120 --> 00:04:18.120
+Debitei caixa.
+
+89
+00:04:18.120 --> 00:04:22.959
+Então, tirei 20 mil do banco, botei 20 mil no caixa.
+
+90
+00:04:22.959 --> 00:04:25.060
+Caixa é um ativo, é sempre saldo devedor.
+
+91
+00:04:25.060 --> 00:04:26.060
+Aqui.
+
+92
+00:04:26.060 --> 00:04:32.879
+Aqui, o meu banco, eu tinha 100 mil devedor, tirei 80 mil credor, o saldo, 80 mil devedor.
+
+93
+00:04:32.879 --> 00:04:33.879
+Perfeito?
+
+94
+00:04:33.879 --> 00:04:38.839
+É assim que funciona, o débito e crédito, partida desdobrada, tá?
+
+95
+00:04:38.839 --> 00:04:41.560
+E tem os númerozinhos para vocês facilitarem.
+
+96
+00:04:41.560 --> 00:04:45.480
+Então, aqui eu tenho um crédito, aqui eu tenho um débito em caixa, tá?
+
+97
+00:04:45.480 --> 00:04:49.879
+E aqui são as contas que constam no plano de contas.
+
+98
+00:04:49.879 --> 00:04:54.879
+Depois, o número 3 aqui, aí eu trago o saldo do caixa, né?
+
+99
+00:04:54.879 --> 00:05:00.699
+Eu trago aqui o saldo do caixa, 20 mil, trago o saldo de capital, 100 mil e trago o saldo
+
+100
+00:05:00.699 --> 00:05:02.699
+das instalações que nós já compramos, né?
+
+101
+00:05:02.699 --> 00:05:05.699
+Nós vamos comprar agora, olha lá.
+
+102
+00:05:05.699 --> 00:05:11.259
+Compra de instalação no valor de 30 mil, sendo 10 mil à vista em cheque e o saldo
+
+103
+00:05:11.259 --> 00:05:12.259
+a prazo.
+
+104
+00:05:12.259 --> 00:05:20.500
+Então, se eu comprei instalação, debito instalação, que é um bem da empresa, debitei.
+
+105
+00:05:20.500 --> 00:05:21.500
+Creditei o quê?
+
+106
+00:05:21.500 --> 00:05:24.699
+O banco, porque eu tirei 3 mil do banco.
+
+107
+00:05:24.699 --> 00:05:26.139
+E credito o quê?
+
+108
+00:05:26.139 --> 00:05:28.019
+O resto, né?
+
+109
+00:05:28.019 --> 00:05:34.420
+Eu vou ter duplicatas a pagar, contas a pagar, qualquer coisa a pagar, tá?
+
+110
+00:05:34.420 --> 00:05:36.120
+O nome vocês criam.
+
+111
+00:05:36.120 --> 00:05:40.139
+Normalmente é duplicata a pagar ou contas a pagar, percebe?
+
+112
+00:05:40.139 --> 00:05:45.660
+Então, eu tive um débito para dois créditos.
+
+113
+00:05:45.660 --> 00:05:46.660
+Pode isso?
+
+114
+00:05:46.660 --> 00:05:48.579
+Pode, sem problema nenhum.
+
+115
+00:05:48.579 --> 00:05:51.420
+São partidas dobradas, fechou, né?
+
+116
+00:05:51.420 --> 00:05:53.519
+Se eu somar os dois créditos.
+
+117
+00:05:53.519 --> 00:05:54.519
+3 mais 27.
+
+118
+00:05:54.519 --> 00:05:57.920
+27 dá os mesmos 30 do débito que eu fiz aqui.
+
+119
+00:05:57.920 --> 00:06:03.139
+Nós já vamos ver já já os tipos de lançamento e esse é um lançamento de segunda fórmula.
+
+120
+00:06:03.139 --> 00:06:04.139
+Perfeito?
+
+121
+00:06:04.139 --> 00:06:06.139
+Nós vamos explicar já já.
+
+122
+00:06:06.139 --> 00:06:12.100
+10 mil à vista em cheque, então saiu do banco 3 mil, tá aqui os 3 mil e o saldo eu
+
+123
+00:06:12.100 --> 00:06:13.100
+vou pagar.
+
+124
+00:06:13.100 --> 00:06:14.100
+27.
+
+125
+00:06:14.100 --> 00:06:15.100
+Então, são contas a pagar.
+
+126
+00:06:15.100 --> 00:06:20.939
+Então, vocês estão percebendo, nós estamos construindo todas as contabilizações diárias.
+
+127
+00:06:20.939 --> 00:06:23.959
+No final do período, nós vamos fechar o balancete para verificar.
+
+128
+00:06:23.959 --> 00:06:27.920
+Se bateu, se está tudo certinho e qual é o resultado dessa coisa toda.
+
+129
+00:06:27.920 --> 00:06:32.180
+O quarto, compra de mercadoria à vista com cheque no valor de 50 mil.
+
+130
+00:06:32.180 --> 00:06:36.439
+Aqui eu estou trazendo os saldos do slide anterior, que eram os saldos, né?
+
+131
+00:06:36.439 --> 00:06:42.839
+A nova transação, comprei mercadoria à vista, debito mercadoria 50 mil.
+
+132
+00:06:42.839 --> 00:06:43.839
+Como é que eu paguei?
+
+133
+00:06:43.839 --> 00:06:47.519
+À vista com cheque, portanto tiro do meu banco.
+
+134
+00:06:47.519 --> 00:06:48.519
+Vocês estão vendo?
+
+135
+00:06:48.519 --> 00:06:53.379
+Eu tinha um saldo de 100 mil, já tirei 20, tirei 3, tirei mais 50, entendeu?
+
+136
+00:06:53.379 --> 00:06:55.319
+Aonde foi isso?
+
+137
+00:06:55.319 --> 00:06:58.139
+Foi para o estoque de mercadoria, 50 mil.
+
+138
+00:06:58.139 --> 00:06:59.139
+Legal, gente?
+
+139
+00:06:59.139 --> 00:07:00.139
+Entendeu?
+
+140
+00:07:00.139 --> 00:07:09.060
+Continuando aqui, o número 5, ele vendeu 60% do estoque de mercadoria com 80% de lucro
+
+141
+00:07:09.060 --> 00:07:13.259
+e isenção fiscal, vamos tirar os impostos ICM, PI para facilitar.
+
+142
+00:07:13.259 --> 00:07:17.560
+Recebendo 20% à vista em dinheiro e saldo a prazo.
+
+143
+00:07:17.560 --> 00:07:22.339
+Quando eu falo dinheiro, eu estou falando caixa, se eu falar recebeu, recebeu no banco,
+
+144
+00:07:22.339 --> 00:07:23.379
+tá?
+
+145
+00:07:23.379 --> 00:07:28.579
+Então, aqui eu trago os saldos que nós tínhamos e a transação, olha lá.
+
+146
+00:07:28.579 --> 00:07:37.480
+Se eu comprei 50 mil de mercadoria e ele vendeu 60%, 60% de 50 ele vendeu 30.
+
+147
+00:07:37.480 --> 00:07:43.600
+Se ele quer ter um lucro de 80% sobre os 30, o lucro vai ser 24, portanto o total da venda
+
+148
+00:07:43.600 --> 00:07:45.139
+é 54, entendeu?
+
+149
+00:07:45.139 --> 00:07:46.139
+54.
+
+150
+00:07:46.139 --> 00:07:50.879
+20% ele vai receber à vista, 10, 800 e o resto a prazo.
+
+151
+00:07:50.879 --> 00:07:52.220
+Então como é que eu vou contabilizar isso?
+
+152
+00:07:52.220 --> 00:07:53.220
+Olha só.
+
+153
+00:07:53.220 --> 00:08:00.000
+Eu vou contabilizar debito caixa, 10, 800, perfeito?
+
+154
+00:08:00.000 --> 00:08:03.480
+Primeiro eu contabilizei aqui, deixa eu só ver aqui.
+
+155
+00:08:03.480 --> 00:08:10.139
+Eu já contabilizei aqui, venda de 84 mil, não, não contabilizei não, vou contabilizar
+
+156
+00:08:10.139 --> 00:08:11.139
+aqui agora.
+
+157
+00:08:11.139 --> 00:08:21.259
+Então, receita de 54 mil, eu vou ter aqui caixa 10, 800 que é os 20%, vou ter um contas
+
+158
+00:08:21.259 --> 00:08:22.259
+a receber.
+
+159
+00:08:22.259 --> 00:08:30.100
+Olha só a diferença de 43,200, então 10,800 mais 43,200 vai dar os 54 mil.
+
+160
+00:08:30.100 --> 00:08:34.500
+Então debitei caixa e debitei um contas a receber, perfeito?
+
+161
+00:08:34.500 --> 00:08:36.379
+Os duas contas de ativo.
+
+162
+00:08:36.379 --> 00:08:38.759
+E aí, crédito o quê?
+
+163
+00:08:38.759 --> 00:08:41.659
+Receita de vendas, olha lá, um crédito de 54.
+
+164
+00:08:41.659 --> 00:08:46.379
+Mas fiquem tranquilos, caso você não tenha acompanhado meu raciocínio, tem aqui os números
+
+165
+00:08:46.379 --> 00:08:48.779
+para vocês acompanharem, né?
+
+166
+00:08:48.779 --> 00:08:50.139
+Número 5, 5A, está vendo?
+
+167
+00:08:50.139 --> 00:08:51.139
+Tem os números 5 para vocês acompanharem.
+
+168
+00:08:51.139 --> 00:08:52.139
+Número 5, 5A, está vendo?
+
+169
+00:08:52.139 --> 00:08:57.379
+Para você saber o que nós debitamos e o que nós creditamos, então você refaz o exercício.
+
+170
+00:08:57.379 --> 00:09:01.320
+Esse aqui eu elaborei justamente para vocês acompanharem o raciocínio, tá?
+
+171
+00:09:01.320 --> 00:09:06.240
+Que lá no estudo de caso a gente volta novamente com esse lançamento, perfeito?
+
+172
+00:09:06.240 --> 00:09:13.000
+Então recapitulando, fiz uma venda de 60% do que eu comprei com 80% de lucro, se eu
+
+173
+00:09:13.000 --> 00:09:20.720
+comprei 50, 60% é 30, quero ter um lucro de 80, sobre 30 dá 24, 30 mais 24, total
+
+174
+00:09:20.720 --> 00:09:21.980
+da minha venda é 54.
+
+175
+00:09:21.980 --> 00:09:26.879
+Que é o que entrou lá como receita de venda, perfeito?
+
+176
+00:09:26.879 --> 00:09:33.980
+Mas eu recebi isso à vista, não, recebi isso a 20%, 20% dos 54 dá 10,87, recebi o
+
+177
+00:09:33.980 --> 00:09:34.980
+quê?
+
+178
+00:09:34.980 --> 00:09:39.419
+Em dinheiro, entrou aqui ó, debitei em caixa, e o restante?
+
+179
+00:09:39.419 --> 00:09:47.320
+Eu vou receber a prazo, portanto eu debito 1 contas a receber, que é a diferença, 43,200.
+
+180
+00:09:47.320 --> 00:09:51.820
+Então eu tenho 2 débitos para 1 crédito, show de bola.
+
+181
+00:09:51.820 --> 00:09:52.820
+Entenderam?
+
+182
+00:09:52.820 --> 00:09:54.820
+Esse é o mecanismo do débito de crédito, perfeito?
+
+183
+00:09:54.820 --> 00:09:58.320
+Vocês entenderam depois na hora da gente olhar as demonstrações.

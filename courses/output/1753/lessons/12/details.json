@@ -1,0 +1,33 @@
+{
+  "id": 456846,
+  "title": "Principais alterações legislativas | parte 2",
+  "position": 12,
+  "duration": 289,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/31ffdd45-128c-472b-b896-c38c1f64925f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/31ffdd45-128c-472b-b896-c38c1f64925f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/31ffdd45-128c-472b-b896-c38c1f64925f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/31ffdd45-128c-472b-b896-c38c1f64925f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/31ffdd45-128c-472b-b896-c38c1f64925f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

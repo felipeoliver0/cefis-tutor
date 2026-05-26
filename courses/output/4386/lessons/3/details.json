@@ -1,0 +1,33 @@
+{
+  "id": 484698,
+  "title": "Administração",
+  "position": 3,
+  "duration": 103,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8bb31ba2-c05f-4304-87b2-a426ed2422a3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8bb31ba2-c05f-4304-87b2-a426ed2422a3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8bb31ba2-c05f-4304-87b2-a426ed2422a3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8bb31ba2-c05f-4304-87b2-a426ed2422a3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8bb31ba2-c05f-4304-87b2-a426ed2422a3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

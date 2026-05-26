@@ -1,0 +1,549 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:05.199
+pessoal. Essa é a segunda rejeição que mais ocorre sete sete oito
+
+2
+00:00:05.820 --> 00:00:09.710
+n C m in informado inexistente Tá bom.
+
+3
+00:00:09.720 --> 00:00:12.829
+Então quando tiver emitindo a nota fiscal eletrônica,
+
+4
+00:00:12.840 --> 00:00:15.909
+a cê faz verifica a existência do MC m o que que é
+
+5
+00:00:15.920 --> 00:00:19.010
+ANC m n c M é o código da nomenclatura comum do MERCOSUL,
+
+6
+00:00:19.020 --> 00:00:19.149
+né,
+
+7
+00:00:19.159 --> 00:00:23.309
+Uma classificação que os países do Mercosul usam pra classificar seus produtos.
+
+8
+00:00:23.319 --> 00:00:25.870
+Isso é obrigatório informar na nota fiscal eletrônica
+
+9
+00:00:25.879 --> 00:00:29.010
+E aí tem que informar um MC m válido
+
+10
+00:00:29.319 --> 00:00:31.850
+quando o contribuinte informa o MC m inválido, Ou seja,
+
+11
+00:00:31.860 --> 00:00:35.409
+o MC m que não existe um código MC m que não existe, tá?
+
+12
+00:00:35.419 --> 00:00:37.810
+A gente tem essa rejeição aqui tá bom.
+
+13
+00:00:37.819 --> 00:00:41.290
+Então isso ocorre quando a gente tá informando um
+
+14
+00:00:41.299 --> 00:00:44.810
+e c m incorretamente Aquele código NCM não existe.
+
+15
+00:00:44.819 --> 00:00:46.349
+Tá é essa rejeição aqui
+
+16
+00:00:46.650 --> 00:00:54.259
+pode ser também pessoal que essa tabela de NCM ela é. Por vezes ela é atualizada, né?
+
+17
+00:00:54.270 --> 00:00:55.180
+Que que pode ocorrer?
+
+18
+00:00:55.189 --> 00:00:58.340
+Pode ser que durante uma atualização dessa o n
+
+19
+00:00:58.349 --> 00:01:00.779
+c m que eu vi usando regularmente foi extinto,
+
+20
+00:01:00.790 --> 00:01:01.099
+né?
+
+21
+00:01:01.110 --> 00:01:04.180
+E aí eu tenho que pesquisar na tabela qual que é
+
+22
+00:01:04.190 --> 00:01:06.779
+o novo código e fazer as correções do meu sistema?
+
+23
+00:01:06.790 --> 00:01:10.959
+para que não tenha mais essa rejeição. Então ocorre nessas duas situações, né?
+
+24
+00:01:11.360 --> 00:01:15.290
+Informamos o n cem que de fato não existe ou né?
+
+25
+00:01:15.300 --> 00:01:18.690
+O N sempre que a gente vinha usando por alguma atualização da tabela,
+
+26
+00:01:18.699 --> 00:01:19.809
+ele foi descontinuado.
+
+27
+00:01:19.819 --> 00:01:20.430
+Tá bom?
+
+28
+00:01:21.389 --> 00:01:23.080
+Como que a gente vai resolver? Isso?
+
+29
+00:01:23.089 --> 00:01:26.319
+A gente vai pesquisar na tabela
+
+30
+00:01:26.330 --> 00:01:28.809
+disponibilizada lá pelo Ministério do Desenvolvimento
+
+31
+00:01:28.819 --> 00:01:31.919
+tal essa tabela N C M onde tem o código tá?
+
+32
+00:01:31.930 --> 00:01:36.800
+A gente vai dar uma dica aqui pra vocês o seguinte Essa tabela é a mesma tabela que
+
+33
+00:01:36.809 --> 00:01:42.559
+a Receita Federal usa pra tributar as mercadorias no i p i Tá então a Receita Federal?
+
+34
+00:01:42.569 --> 00:01:44.059
+Ela pega a tabela da I n C m
+
+35
+00:01:44.440 --> 00:01:47.650
+e republica. Ela como tabela do i p i tá bom.
+
+36
+00:01:47.660 --> 00:01:50.169
+Então é muito mais fácil pra gente ir no Google.
+
+37
+00:01:50.180 --> 00:01:50.690
+Por exemplo,
+
+38
+00:01:50.699 --> 00:01:55.489
+pesquisar assim oh tabela tip t tabela tipo é t i p i é
+
+39
+00:01:55.500 --> 00:01:59.010
+tabela do I p i Então a gente foi pesquisar no Google tabela tip,
+
+40
+00:01:59.019 --> 00:01:59.349
+né?
+
+41
+00:01:59.690 --> 00:02:05.580
+E a gente vai poder obter essa tabela ali em P d f mesmo e fazer uma busca ali pra
+
+42
+00:02:05.589 --> 00:02:09.919
+classificar corretamente o nosso produto tá bom aqui na CEFIS
+
+43
+00:02:09.929 --> 00:02:12.449
+nós temos um curso de Classificação Fiscal de Mercadorias.
+
+44
+00:02:12.460 --> 00:02:14.380
+Se você se interessa por esse tema, tá,
+
+45
+00:02:14.389 --> 00:02:18.899
+O curso está aqui à disposição e espero que vocês tenham a curiosidade de fazer.
+
+46
+00:02:18.910 --> 00:02:20.320
+Tá bom, então
+
+47
+00:02:21.009 --> 00:02:24.419
+a gente pode procurar no Google tabela chip tá! E aí?
+
+48
+00:02:24.429 --> 00:02:28.539
+Classificar corretamente o produto e reenviar o documento pra
+
+49
+00:02:28.550 --> 00:02:31.880
+que a nota fiscal eletrônica possa então ser autorizada
+
+50
+00:02:33.190 --> 00:02:33.639
+pessoal?
+
+51
+00:02:33.649 --> 00:02:38.539
+Mais uma rejeição aqui do top cinco das rejeições é a quinhentos e trinta e nove,
+
+52
+00:02:38.550 --> 00:02:41.220
+Essa é parecida com a duzentos e quatro,
+
+53
+00:02:41.229 --> 00:02:43.360
+Mas é a diferença essa que é a duplicidade da
+
+54
+00:02:43.369 --> 00:02:47.320
+nota fiscal eletrônica com diferença na chave de acesso,
+
+55
+00:02:47.330 --> 00:02:48.000
+tá bom?
+
+56
+00:02:48.009 --> 00:02:49.399
+Então, o que que é isso?
+
+57
+00:02:49.410 --> 00:02:54.240
+O fisco verifica se já existe uma nota fiscal autorizada com o mesmo C n PJ do m t,
+
+58
+00:02:54.250 --> 00:02:57.679
+modelo de documento série e número de documento.
+
+59
+00:02:57.690 --> 00:03:01.940
+Tá bom? Então! Esses campos identificam a nota fiscal eletrônica, né
+
+60
+00:03:02.330 --> 00:03:05.119
+C N PJ DO emite modelo, série, número Tá
+
+61
+00:03:06.029 --> 00:03:10.559
+aí o fisco verifica que existe uma chave com essa identificação.
+
+62
+00:03:10.570 --> 00:03:11.089
+Porém,
+
+63
+00:03:11.100 --> 00:03:13.720
+a chave de acesso do banco de dados do Fisco
+
+64
+00:03:13.729 --> 00:03:16.770
+pra essas informações é diferente da chave de acesso.
+
+65
+00:03:16.779 --> 00:03:18.880
+Que o contribuinte está enviando, né?
+
+66
+00:03:18.889 --> 00:03:23.139
+Então, você tem uma duplicidade, mas com a chave de acesso diferente.
+
+67
+00:03:23.729 --> 00:03:26.139
+Isso ocorre muitas vezes,
+
+68
+00:03:26.149 --> 00:03:30.339
+quando tem uma confusão na numeração das notas da empresa.
+
+69
+00:03:30.350 --> 00:03:34.419
+Às vezes, troca o sistema de emissão, às vezes inadvertidamente.
+
+70
+00:03:34.429 --> 00:03:38.380
+O funcionário vai lá e retroage a numeração ali, sem querer,
+
+71
+00:03:38.389 --> 00:03:40.335
+bota um número que já foi usado, né?
+
+72
+00:03:40.345 --> 00:03:43.214
+Acontece também. Processo de fusão, né?
+
+73
+00:03:43.225 --> 00:03:44.414
+De cisão de empresas,
+
+74
+00:03:44.425 --> 00:03:49.875
+onde as empresas são duas empresas que passam a operar sobre o mesmo c, n PJ.
+
+75
+00:03:49.884 --> 00:03:54.654
+E aí vai enviar uma nota que já foi na numeração utilizada? Também dá esse erro, né?
+
+76
+00:03:54.664 --> 00:03:59.735
+Então é comum acontecer esse erro nesses tipos de situação que eu falei com vocês.
+
+77
+00:03:59.744 --> 00:04:03.955
+Tá isso aqui a gente pra verificar. A gente
+
+78
+00:04:04.570 --> 00:04:10.460
+deve verificar se já tem documento de outros períodos emitidos com essa numeração,
+
+79
+00:04:10.470 --> 00:04:10.539
+né?
+
+80
+00:04:10.550 --> 00:04:14.220
+Certamente vai ter porque senão o Fisco não estava rejeitando.
+
+81
+00:04:14.229 --> 00:04:17.500
+Tá bom, A gente pode consultar isso na página da Sefaz.
+
+82
+00:04:17.510 --> 00:04:20.178
+Pode consultar isso no sistema emissor da empresa, né?
+
+83
+00:04:20.190 --> 00:04:24.630
+A gente tem que dar um jeito de consultar pra ver se esse número
+
+84
+00:04:24.640 --> 00:04:28.700
+e essa série já foram utilizados pra aquele c n PJ tá bom.
+
+85
+00:04:28.709 --> 00:04:33.950
+Então a gente detectando isso a gente vai poder ver qual faixa de numeração
+
+86
+00:04:33.959 --> 00:04:39.954
+foi utilizada pra então emitir em uma faixa de numeração que não foi utilizada?
+
+87
+00:04:39.964 --> 00:04:42.434
+Tá bom? Isso pode ocorrer também? Tá?
+
+88
+00:04:42.445 --> 00:04:46.994
+Eu já vi empresas também fazer o seguinte quando tem um processo de fusão e tal,
+
+89
+00:04:47.005 --> 00:04:51.494
+a empresa não sabe qual C n PJ qual numeração tinha sido utilizada e tal.
+
+90
+00:04:51.505 --> 00:04:55.075
+E a empresa não pôde recuperar isso nos sistemas de informação da empresa.
+
+91
+00:04:55.084 --> 00:04:57.875
+Então, o que que a empresa fez? Ela avançou a série de numeração, né?
+
+92
+00:04:57.885 --> 00:05:01.975
+Tava emitindo a série um passou ali pra Série dois pra não ter mais o problema, tá bom?
+
+93
+00:05:01.984 --> 00:05:03.894
+Pode ser feito também? Tá,
+
+94
+00:05:04.119 --> 00:05:07.890
+Mas o ideal é que a empresa saiba todos os documentos que utilizou,
+
+95
+00:05:07.899 --> 00:05:10.929
+porque pode também ter sido emitido o documento na Série dois tá isso aí.
+
+96
+00:05:10.940 --> 00:05:14.410
+Pode ser um problema, mas essa rejeição, como nós vamos resolver,
+
+97
+00:05:14.420 --> 00:05:19.290
+buscar descobrir qual faixa de numeração não foi utilizada ainda?
+
+98
+00:05:19.299 --> 00:05:19.600
+Tá bom.
+
+99
+00:05:19.609 --> 00:05:24.970
+Aí a gente pega e posiciona o sistema emissor pra dar continuidade na numeração.
+
+100
+00:05:24.980 --> 00:05:27.489
+Pra não haver problemas. Tá bom, Essa é a rejeição.
+
+101
+00:05:27.500 --> 00:05:31.750
+Quinhentos e trinta e nove Tá duplicidade de no eletrônica
+
+102
+00:05:32.040 --> 00:05:35.589
+com diferença na chave de acesso. Tá bom,
+
+103
+00:05:36.420 --> 00:05:39.149
+Nós temos também no top cinco das rejeições a setecentos
+
+104
+00:05:39.160 --> 00:05:43.309
+e quatro NFC e com data e hora de emissão.
+
+105
+00:05:43.320 --> 00:05:47.950
+Atrasada, né? Como que é isso, pessoal a nota fiscal do consumidor eletrônica?
+
+106
+00:05:47.959 --> 00:05:51.739
+Ela tem que ser emitida na hora, corrente, né?
+
+107
+00:05:51.750 --> 00:05:55.540
+Porque ela é uma operação de venda, o consumidor final do varejo, ou seja,
+
+108
+00:05:55.549 --> 00:05:57.570
+o consumidor, ele está ali, no caixa?
+
+109
+00:05:57.579 --> 00:06:00.200
+Naquele momento, né? Não? Está ali em outro momento.
+
+110
+00:06:00.209 --> 00:06:04.299
+E a nota tem que ser emitida no momento da ocorrência do fato gerador.
+
+111
+00:06:04.309 --> 00:06:06.559
+Tá a nota fiscal do consumidor eletrônico?
+
+112
+00:06:06.929 --> 00:06:10.239
+Ela tem que estar com a data e hora muito correta. Tá?
+
+113
+00:06:10.250 --> 00:06:13.899
+Porque vai ser verificado e tem uma sole, uma tolerância de apenas cinco minutos,
+
+114
+00:06:13.910 --> 00:06:13.940
+né?
+
+115
+00:06:13.950 --> 00:06:18.140
+Então o sistema da cê faz a hora que chega a nota fiscal do consumidor eletrônico.
+
+116
+00:06:18.149 --> 00:06:22.739
+Dá uma tolerância ali de cinco minutos e se não tiver nesse período de tempo
+
+117
+00:06:22.750 --> 00:06:27.420
+o documento vai ser rejeitado por causa da hora e data de emissão atrasado.
+
+118
+00:06:27.429 --> 00:06:31.839
+Tá bom pessoal, como que a gente vai resolver? A gente deve
+
+119
+00:06:32.079 --> 00:06:35.130
+ajustar a hora do sistema autorizador, né?
+
+120
+00:06:35.140 --> 00:06:39.269
+Então a gente tem que ir lá no sistema autorizador e ajustar a hora. Tá bom
+
+121
+00:06:40.279 --> 00:06:42.769
+como que você faz usa o parâmetro disso.
+
+122
+00:06:42.779 --> 00:06:45.339
+A Sefaz usa como parâmetro a hora legal
+
+123
+00:06:45.350 --> 00:06:49.329
+brasileira que ela é fornecida pelo Observatório Nacional.
+
+124
+00:06:49.339 --> 00:06:49.369
+É,
+
+125
+00:06:49.380 --> 00:06:52.540
+tem um órgão no Brasil que chama o Observatório Nacional
+
+126
+00:06:52.549 --> 00:06:56.649
+e esse Observatório nacional ele fornece a hora legal brasileira.
+
+127
+00:06:56.660 --> 00:06:57.089
+Tá?
+
+128
+00:06:57.100 --> 00:06:59.890
+Então A CFA se baseia na hora legal
+
+129
+00:06:59.899 --> 00:07:03.239
+brasileira do Observatório Nacional para autorizar o documento.
+
+130
+00:07:03.250 --> 00:07:03.500
+Tá bom?
+
+131
+00:07:03.510 --> 00:07:03.720
+Então,
+
+132
+00:07:03.730 --> 00:07:06.799
+se você tiver com dúvida de qual hora você
+
+133
+00:07:06.809 --> 00:07:09.399
+deve utilizar aí pra configurar seu sistema emissor,
+
+134
+00:07:09.410 --> 00:07:12.920
+você pode procurar no Google, Observatório Nacional,
+
+135
+00:07:12.929 --> 00:07:14.720
+hora ou hora legal brasileira.
+
+136
+00:07:14.730 --> 00:07:18.000
+Você vai obter aí a resposta do horário adequado pra você
+
+137
+00:07:18.010 --> 00:07:22.260
+usar o seu sistema emissor de nota fiscal do consumidor eletrônico.

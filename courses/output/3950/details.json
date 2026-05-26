@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 3950,
+    "title": "Liderança Multiplicadora e Comunicação Eficaz",
+    "subtitle": "Maximizar o Potencial da sua Equipe",
+    "summary": "Neste curso de Liderança Multiplicadora e Comunicação Eficaz, você irá aprender na prática tudo o que precisa saber sobre como se tornar um líder eficaz. Aprenderá os fundamentos e a prática de Habilidades Fundamentais, Poder x Autoridade e CHAC e vários outros temas para você que deseja se atualizar ou aprender tudo sobre liderança multiplicadora e comunicação eficaz.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/69067ebe-ea40-429c-930f-f1258f92c33e-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Liderança Multiplicadora e Comunicação Eficaz é a capacitação para a aplicação prática de desenvolver habilidades de liderança multiplicadora e comunicação eficaz, promovendo o crescimento e o sucesso de equipes e organizações."
+    ],
+    "teacher": {
+      "id": 545447,
+      "name": "GISELE ALVES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1666807674.jpeg"
+    },
+    "duration": 4508,
+    "keywords": "liderança;comunicação;gestão;desenvolvimento;multiplicador",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 13,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      6,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 797,
+    "averageRating": 9.6,
+    "practiceAverage": 9.55,
+    "trailer": {
+      "id": "de63b21c-648f-4bb1-9b80-dc8ffd43f37e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/de63b21c-648f-4bb1-9b80-dc8ffd43f37e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/de63b21c-648f-4bb1-9b80-dc8ffd43f37e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/de63b21c-648f-4bb1-9b80-dc8ffd43f37e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/de63b21c-648f-4bb1-9b80-dc8ffd43f37e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-03T00:56:18.000Z",
+      "updatedAt": "2025-10-03T00:56:18.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-03T00:44:29.000Z",
+    "recordedAt": "2025-09-01T00:00:00.000Z",
+    "createdAt": "2025-09-01T00:27:31.000Z"
+  }
+}

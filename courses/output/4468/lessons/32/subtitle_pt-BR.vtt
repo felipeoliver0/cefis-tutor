@@ -1,0 +1,125 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.179
+Uma vez verificado isso e preenchido todas as informações,
+
+3
+00:00:05.179 --> 00:00:11.919
+eu já posso vir aqui para avisos, avisos e erros.
+
+4
+00:00:11.919 --> 00:00:20.460
+Quando é só avisos, eu não tenho problema de retificar, de transmitir a declaração.
+
+5
+00:00:20.460 --> 00:00:22.920
+E quando é erro, eu tenho que ajustar.
+
+6
+00:00:22.920 --> 00:00:28.399
+E aqui está dando seis erros e nenhum aviso.
+
+7
+00:00:28.399 --> 00:00:31.199
+Quais são os erros que a gente consegue ver aqui?
+
+8
+00:00:31.199 --> 00:00:37.200
+Está faltando o CPF do prestador de serviço do item 2, que eu tenho que colocar,
+
+9
+00:00:37.200 --> 00:00:39.740
+que eu pus lá para deduzir.
+
+10
+00:00:39.740 --> 00:00:44.179
+Está faltando o CPF também do prestador de serviço do item 3,
+
+11
+00:00:44.179 --> 00:00:50.780
+CNPJ da operadora de saúde do item 4 e o CNPJ da operadora de saúde do item 5.
+
+12
+00:00:50.780 --> 00:00:58.000
+Então, eu entro em cada erro desse, coloco aqui o CNPJ e o CPF e os erros somem.
+
+13
+00:00:58.000 --> 00:00:58.399
+E aí,
+
+14
+00:00:58.399 --> 00:01:05.200
+bens e direitos, o RENAVAN do item 1, ele está inválido, eu tenho que ajustar.
+
+15
+00:01:05.200 --> 00:01:10.780
+E o cálculo do imposto, as informações bancárias não foram preenchidas.
+
+16
+00:01:10.780 --> 00:01:11.620
+Então, por quê?
+
+17
+00:01:11.620 --> 00:01:18.879
+Porque se eu clicar aqui, aparece base de cálculo 106.551,
+
+18
+00:01:18.879 --> 00:01:28.000
+imposto devido 18.447, dedução de incentivo, não fiz nenhuma doação incentivada.
+
+19
+00:01:28.000 --> 00:01:33.239
+Não tem imposto devido no rendimentos acumulados aqui.
+
+20
+00:01:33.239 --> 00:01:37.000
+E a minha alíquota efetiva está sendo 12,60.
+
+21
+00:01:37.400 --> 00:01:39.079
+E o total do imposto devido?
+
+22
+00:01:40.040 --> 00:01:45.359
+Veja que o imposto pago, já retido na fonte, foi maior do que o imposto devido.
+
+23
+00:01:45.579 --> 00:01:47.780
+Foi 29.370, né?
+
+24
+00:01:48.359 --> 00:01:52.840
+Então, eu tenho imposto a restituir, não tenho imposto a pagar.
+
+25
+00:01:54.420 --> 00:01:57.939
+E aí, eu tenho aqui as informações bancárias que eu tenho que informar.
+
+26
+00:01:58.280 --> 00:02:03.900
+Eu posso colocar aqui o PIX, a chave será o CPF, o titular da declaração.
+
+27
+00:02:03.900 --> 00:02:11.919
+Se eu clicar aqui, ele já considera PIX, e não ficou os dados do Banco Agência e Conta.
+
+28
+00:02:12.020 --> 00:02:17.120
+Se eu tirar a informação de PIX, aqui aparece embaixo o Banco Agência e Conta,
+
+29
+00:02:17.159 --> 00:02:18.319
+que eu tenho que informar.
+
+30
+00:02:18.620 --> 00:02:23.780
+Eu vou deixar o PIX, ele já sumiu, e já vai a restituição, então,
+
+31
+00:02:24.280 --> 00:02:27.900
+ser atrelada à minha conta do banco, que está...
+
+32
+00:02:28.000 --> 00:02:30.120
+atrelada ao meu CPF como PIX.

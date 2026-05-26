@@ -1,0 +1,1877 @@
+WEBVTT
+
+1
+00:00:02.319 --> 00:00:05.679
+E aí vamos aos blocos aos blocos do SPED,
+
+2
+00:00:06.000 --> 00:00:06.469
+né?
+
+3
+00:00:06.960 --> 00:00:08.630
+Que não são tantos
+
+4
+00:00:08.800 --> 00:00:10.920
+se nós compararmos com a SF,
+
+5
+00:00:11.640 --> 00:00:13.079
+mas é o coração,
+
+6
+00:00:13.600 --> 00:00:13.840
+né?
+
+7
+00:00:14.020 --> 00:00:14.979
+É o coração
+
+8
+00:00:15.319 --> 00:00:16.190
+da nossa
+
+9
+00:00:16.920 --> 00:00:17.399
+ECD,
+
+10
+00:00:17.680 --> 00:00:17.909
+né?
+
+11
+00:00:18.200 --> 00:00:19.000
+São os blocos.
+
+12
+00:00:20.129 --> 00:00:24.100
+Então Vamos entender aqui a relação de blocos do SPED da ECD
+
+13
+00:00:24.329 --> 00:00:25.280
+2025.
+
+14
+00:00:25.870 --> 00:00:28.370
+Nós não tivemos grandes mudanças,
+
+15
+00:00:28.489 --> 00:00:30.440
+só uns detalhes que nós comentamos,
+
+16
+00:00:30.530 --> 00:00:30.690
+né?
+
+17
+00:00:31.290 --> 00:00:35.569
+Em relação à ECD em relação à EP se tivemos algumas também não foram tantas,
+
+18
+00:00:35.990 --> 00:00:36.340
+não é.
+
+19
+00:00:37.779 --> 00:00:40.080
+Então nós temos aí os blocos da ECD.
+
+20
+00:00:42.110 --> 00:00:44.599
+alterações relevantes da ECD
+
+21
+00:00:44.830 --> 00:00:46.099
+o I051.
+
+22
+00:00:48.119 --> 00:00:49.400
+Até o layout 8.
+
+23
+00:00:50.409 --> 00:00:51.840
+A chave do registro
+
+24
+00:00:52.250 --> 00:00:54.590
+foi o Sbicusto e a conta referencial.
+
+25
+00:00:54.630 --> 00:00:55.229
+A partir do layout
+
+26
+00:00:56.090 --> 00:00:57.459
+será somente sendo bicusto.
+
+27
+00:00:57.970 --> 00:00:58.490
+Sendo assim,
+
+28
+00:00:58.610 --> 00:01:00.520
+caso a serb custo de uma conta contábil,
+
+29
+00:01:00.869 --> 00:01:03.369
+deverá corresponder apenas uma conta referencial.
+
+30
+00:01:03.569 --> 00:01:05.169
+Vamos dar importante só alguns detalhes,
+
+31
+00:01:05.250 --> 00:01:05.449
+né?
+
+32
+00:01:06.010 --> 00:01:07.000
+Nós trazemos.
+
+33
+00:01:09.089 --> 00:01:09.459
+A.
+
+34
+00:01:09.930 --> 00:01:10.879
+A regra
+
+35
+00:01:11.410 --> 00:01:13.919
+natureza conta diferente será tratada
+
+36
+00:01:14.250 --> 00:01:17.059
+como erro impeditivo na validação da ECB.
+
+37
+00:01:18.129 --> 00:01:21.239
+Isso significa que não será possível entregar a escrituração
+
+38
+00:01:21.529 --> 00:01:24.809
+caso haja mapeamento de contas referenciais para
+
+39
+00:01:24.809 --> 00:01:27.120
+as contas contábeis com a mesma natureza,
+
+40
+00:01:27.650 --> 00:01:28.230
+por exemplo,
+
+41
+00:01:28.330 --> 00:01:31.480
+aivo vinculado a passivo ou patrimônio líquido.
+
+42
+00:01:32.089 --> 00:01:32.650
+Portanto,
+
+43
+00:01:33.089 --> 00:01:38.160
+o mapeamento das contas referenciais deve obedecer rigorosamente
+
+44
+00:01:38.160 --> 00:01:41.209
+a mesma natureza contável entre as contas envolvidas,
+
+45
+00:01:41.849 --> 00:01:45.879
+ativo com ativo passivo com passivo e assim sucessivamente.
+
+46
+00:01:46.239 --> 00:01:48.400
+Então temos que ficar atento a esses detalhes
+
+47
+00:01:48.599 --> 00:01:50.040
+alterações relevantes.
+
+48
+00:01:50.849 --> 00:01:52.209
+J930,
+
+49
+00:01:52.410 --> 00:01:54.519
+incluído no Código 940
+
+50
+00:01:54.849 --> 00:01:56.919
+representa lá o auditor independente.
+
+51
+00:01:57.250 --> 00:02:00.760
+Nós não tínhamos um campo de signatário do auditor que assinava
+
+52
+00:02:00.949 --> 00:02:02.489
+Agora temos 940.
+
+53
+00:02:03.379 --> 00:02:08.029
+inclusão do registro usado de três novos campos no Layout 8 versão 7
+
+54
+00:02:08.710 --> 00:02:09.529
+o Capulo 21.
+
+55
+00:02:09.919 --> 00:02:10.520
+Além disso,
+
+56
+00:02:10.919 --> 00:02:14.259
+indicador de escrituração se ela é centralizado ou descentralizado.
+
+57
+00:02:15.820 --> 00:02:17.779
+Porém recomenda se cautela com essa opção,
+
+58
+00:02:17.860 --> 00:02:19.830
+pois o programa gerador DCF
+
+59
+00:02:20.419 --> 00:02:24.300
+não estava preparado para recuperar esse arquivo de excedente centralizado.
+
+60
+00:02:24.550 --> 00:02:25.729
+Hoje já está um pouco mais
+
+61
+00:02:26.100 --> 00:02:26.860
+centralizado,
+
+62
+00:02:26.979 --> 00:02:27.070
+né?
+
+63
+00:02:27.139 --> 00:02:28.610
+Mas recomendo cautela
+
+64
+00:02:29.100 --> 00:02:29.889
+nesse sentido.
+
+65
+00:02:31.649 --> 00:02:34.259
+A recomendação de Cautan tecnicamente fundamentada.
+
+66
+00:02:35.130 --> 00:02:40.119
+pois o uso da ECD descentralizada exige tratamento manual cuidadoso
+
+67
+00:02:40.449 --> 00:02:43.119
+para consolidar corretamente os dados da ICF.
+
+68
+00:02:43.770 --> 00:02:45.210
+Se não houver controle rigoroso,
+
+69
+00:02:45.330 --> 00:02:50.100
+há risco de erros de consistência ou problemas de valização nos pet.
+
+70
+00:02:50.529 --> 00:02:53.009
+Daqui a pouco nós vamos explicar nos golfa por bloco a bloco,
+
+71
+00:02:53.050 --> 00:02:53.300
+né?
+
+72
+00:02:54.190 --> 00:02:57.419
+O cargo 22 se houve ou não mudança de plano de contas.
+
+73
+00:02:57.429 --> 00:02:57.630
+Então,
+
+74
+00:02:57.910 --> 00:02:59.779
+se houve mudança de plano de contas,
+
+75
+00:03:00.149 --> 00:03:02.910
+eu vou ter que ter pelo -1 registro do I 057,
+
+76
+00:03:03.110 --> 00:03:03.460
+né?
+
+77
+00:03:04.070 --> 00:03:04.320
+Tá
+
+78
+00:03:05.190 --> 00:03:07.820
+Plano de contas O caso positivo,
+
+79
+00:03:08.210 --> 00:03:12.660
+haverá no PGE da ECD necessariamente pelo -1 registro do
+
+80
+00:03:12.949 --> 00:03:14.110
+do I157,
+
+81
+00:03:14.190 --> 00:03:14.449
+né?
+
+82
+00:03:14.910 --> 00:03:16.029
+Transferência de saldo
+
+83
+00:03:16.309 --> 00:03:17.029
+conta anterior.
+
+84
+00:03:18.110 --> 00:03:21.110
+O Campo 23 Código do Plano de Enconas referencial o
+
+85
+00:03:21.229 --> 00:03:22.279
+051
+
+86
+00:03:22.550 --> 00:03:24.559
+Campo não obrigatório deixar em branco,
+
+87
+00:03:25.350 --> 00:03:25.600
+né?
+
+88
+00:03:25.910 --> 00:03:27.910
+O programa não efetuará a validação da
+
+89
+00:03:27.910 --> 00:03:30.070
+ECD relativa ao plano de encontas referencial.
+
+90
+00:03:31.259 --> 00:03:33.470
+E aí nós temos os planos um lucro real,
+
+91
+00:03:34.020 --> 00:03:35.169
+lucro presumindo
+
+92
+00:03:35.660 --> 00:03:37.490
+cinco imune isenta e aí vai,
+
+93
+00:03:37.580 --> 00:03:37.740
+né?
+
+94
+00:03:37.779 --> 00:03:39.139
+Temos 10 tipos de planta.
+
+95
+00:03:41.710 --> 00:03:41.720
+se
+
+96
+00:03:42.559 --> 00:03:45.770
+a entidade não estiver obrigada a negar a IF.
+
+97
+00:03:46.610 --> 00:03:48.610
+e ao mapeamento do plano judicial.
+
+98
+00:03:48.649 --> 00:03:50.250
+Esse campo deverá se deixar em breve.
+
+99
+00:03:50.779 --> 00:03:51.289
+Na verdade,
+
+100
+00:03:51.449 --> 00:03:53.830
+essa situação é preferível não gerará informação do PT
+
+101
+00:03:55.029 --> 00:03:55.369
+é o caso,
+
+102
+00:03:55.449 --> 00:03:55.850
+por exemplo,
+
+103
+00:03:55.889 --> 00:03:56.729
+com o Simples Nacional,
+
+104
+00:03:56.990 --> 00:03:57.240
+né?
+
+105
+00:03:57.350 --> 00:03:59.679
+Não tem obrigatoriedade de entregar a ICF,
+
+106
+00:04:00.130 --> 00:04:03.350
+mas posso ter a obrigatoriedade de entregar a SCD
+
+107
+00:04:03.729 --> 00:04:07.279
+caso tenha recebido o aporte de investidor anjo ou
+
+108
+00:04:08.369 --> 00:04:08.919
+se
+
+109
+00:04:09.360 --> 00:04:10.889
+posso entregar espontaneamente.
+
+110
+00:04:10.970 --> 00:04:11.410
+Tá Então,
+
+111
+00:04:11.490 --> 00:04:12.350
+eu vou preencher
+
+112
+00:04:12.690 --> 00:04:14.320
+justamente para não gerar esse EF.
+
+113
+00:04:16.089 --> 00:04:19.170
+os cuidados da geração Aqui com a gente começa
+
+114
+00:04:19.369 --> 00:04:20.130
+a transitar,
+
+115
+00:04:20.250 --> 00:04:21.290
+nós vamos falar dos blocos,
+
+116
+00:04:21.369 --> 00:04:21.559
+né?
+
+117
+00:04:21.570 --> 00:04:22.799
+A transitar então.
+
+118
+00:04:24.070 --> 00:04:27.309
+conferir o fechamento contábil É um cuidado que nós temos que ter.
+
+119
+00:04:28.119 --> 00:04:30.989
+conferir os parâmetros de demonstrações contábeis
+
+120
+00:04:31.279 --> 00:04:35.399
+balanço DRE DRPA PRA DNPR et cetera.
+
+121
+00:04:36.239 --> 00:04:40.000
+verificar quem são os assinantes da escrituração potável.
+
+122
+00:04:40.320 --> 00:04:41.670
+As pessoas estão autorizadas.
+
+123
+00:04:42.510 --> 00:04:45.600
+Após validar o arquivo no programa gerador de estruturação,
+
+124
+00:04:45.950 --> 00:04:47.700
+realizar as conferências no programa.
+
+125
+00:04:48.149 --> 00:04:51.019
+Então aqui é muito importante que você sabe que
+
+126
+00:04:51.429 --> 00:04:53.440
+importar o arquivo que nós não vamos criar,
+
+127
+00:04:53.510 --> 00:04:54.589
+nós vamos sempre importar,
+
+128
+00:04:55.109 --> 00:04:55.510
+ou seja,
+
+129
+00:04:55.630 --> 00:04:57.989
+nós já fizemos a nossa CD durante o ano.
+
+130
+00:04:58.670 --> 00:05:00.279
+Nós vamos importar esses dados
+
+131
+00:05:00.549 --> 00:05:02.570
+se a parametrização foi bem feita.
+
+132
+00:05:03.630 --> 00:05:05.519
+que é uma situação sine qua non
+
+133
+00:05:05.970 --> 00:05:07.049
+para o nosso sucesso
+
+134
+00:05:07.290 --> 00:05:08.040
+pra não dar erro,
+
+135
+00:05:08.079 --> 00:05:08.750
+não dar aviso,
+
+136
+00:05:09.179 --> 00:05:11.309
+vai ser suave a nossa entrega da ECD.
+
+137
+00:05:12.480 --> 00:05:12.839
+Agora.
+
+138
+00:05:13.000 --> 00:05:15.160
+Se a parametrização não está bem feita,
+
+139
+00:05:15.559 --> 00:05:16.679
+se a coisa tá torta,
+
+140
+00:05:16.839 --> 00:05:18.769
+vai ter muitos erros pra você corrigir.
+
+141
+00:05:19.549 --> 00:05:21.670
+E aqui eu não posso nem trazer os erros que são N.
+
+142
+00:05:23.059 --> 00:05:26.290
+Então você vai clicar lá dentro e vai verificar onde está o erro para poder corrigir.
+
+143
+00:05:27.410 --> 00:05:30.549
+E aí volta aquela recomendação que eu fiz Corrige no MP
+
+144
+00:05:31.010 --> 00:05:32.410
+e não no no XME.
+
+145
+00:05:33.369 --> 00:05:34.850
+corrige e importa novamente.
+
+146
+00:05:35.940 --> 00:05:38.940
+Porque voc- a mesma informação tá no ITAIP vai
+
+147
+00:05:38.940 --> 00:05:40.329
+estar na base de dados da Receita Federal.
+
+148
+00:05:41.179 --> 00:05:43.970
+Se não você corre isso de lá tando informação e o TRPT outra
+
+149
+00:05:44.500 --> 00:05:45.489
+E nós vimos que
+
+150
+00:05:45.859 --> 00:05:47.279
+logo no início que não pode,
+
+151
+00:05:47.380 --> 00:05:47.649
+né?
+
+152
+00:05:47.660 --> 00:05:50.339
+A mesma informação que está lá é a mesma informação que está cá,
+
+153
+00:05:50.980 --> 00:05:51.190
+né?
+
+154
+00:05:51.700 --> 00:05:52.329
+Perfeito
+
+155
+00:05:52.940 --> 00:05:53.390
+Então
+
+156
+00:05:53.619 --> 00:05:56.799
+Quando eu importar todos os meus dados e não der nenhum erro,
+
+157
+00:05:57.119 --> 00:05:58.739
+não significa que está tudo certo.
+
+158
+00:05:58.940 --> 00:05:59.200
+Não,
+
+159
+00:05:59.679 --> 00:06:01.359
+porque a ECD não faz cálculo.
+
+160
+00:06:02.559 --> 00:06:04.679
+ACD é como se fosse fotografia.
+
+161
+00:06:05.239 --> 00:06:06.920
+Ela não entende o débito de crédito.
+
+162
+00:06:07.130 --> 00:06:08.790
+Ela não tem esse raciocínio lógico.
+
+163
+00:06:09.709 --> 00:06:10.950
+Diferentemente da STCF.
+
+164
+00:06:10.989 --> 00:06:12.480
+Lá ela faz os cálculos lá tributário,
+
+165
+00:06:12.950 --> 00:06:14.559
+ela vai calcular e vai chegar no imposto a pagar.
+
+166
+00:06:15.299 --> 00:06:15.929
+Aqui não
+
+167
+00:06:16.540 --> 00:06:19.500
+Então compete a gente depois que fez a importação,
+
+168
+00:06:19.899 --> 00:06:21.850
+pega o teu balancete e confere
+
+169
+00:06:22.019 --> 00:06:25.929
+total do ativo do passivo do RE sal custo tal
+
+170
+00:06:26.179 --> 00:06:27.859
+tá conferindo faz o
+
+171
+00:06:28.260 --> 00:06:28.959
+o tic.
+
+172
+00:06:29.989 --> 00:06:30.500
+Entendeu
+
+173
+00:06:30.809 --> 00:06:31.769
+Não é simplesmente
+
+174
+00:06:31.869 --> 00:06:32.429
+importado,
+
+175
+00:06:32.510 --> 00:06:33.029
+não deu erro,
+
+176
+00:06:33.070 --> 00:06:35.269
+mandou não pode ser que tenha coisa errada lá dentro.
+
+177
+00:06:36.600 --> 00:06:37.399
+Pou errado,
+
+178
+00:06:37.899 --> 00:06:42.250
+Então dá uma conferida total do balanço vai para DMPF vai para DRE
+
+179
+00:06:42.440 --> 00:06:44.470
+dá uma checada nas principais linhas.
+
+180
+00:06:45.079 --> 00:06:47.000
+Tá Isso é sempre recomendável
+
+181
+00:06:47.200 --> 00:06:49.230
+conferir todo o fechamento montado
+
+182
+00:06:49.480 --> 00:06:50.630
+e obviamente
+
+183
+00:06:51.720 --> 00:06:53.679
+esses demonstraç- essas demonstrações
+
+184
+00:06:54.000 --> 00:06:55.679
+balanço ADRIE
+
+185
+00:06:55.920 --> 00:06:58.079
+ADLPA ou DMPL
+
+186
+00:06:58.320 --> 00:07:00.950
+já está contida dentro do validador.
+
+187
+00:07:01.940 --> 00:07:04.000
+Então Se tá tudo parametrizado correto,
+
+188
+00:07:04.339 --> 00:07:06.260
+já vai montar automático o teu balanço,
+
+189
+00:07:06.540 --> 00:07:09.809
+a tua DRE e aí o teu software vai te fazer a pergunta
+
+190
+00:07:10.179 --> 00:07:10.859
+lá em dezembro,
+
+191
+00:07:10.899 --> 00:07:12.829
+quando você apertar a peca para importar
+
+192
+00:07:13.179 --> 00:07:14.380
+Dezembro estou dizendo entre aspas,
+
+193
+00:07:14.420 --> 00:07:14.500
+né?
+
+194
+00:07:14.540 --> 00:07:15.070
+Vai ser janeiro,
+
+195
+00:07:15.100 --> 00:07:15.459
+fevereiro,
+
+196
+00:07:15.500 --> 00:07:16.279
+março até junho.
+
+197
+00:07:16.739 --> 00:07:19.260
+Ele vai dizer você quer BLPA ou DMPR.
+
+198
+00:07:20.350 --> 00:07:22.230
+Entendeu É você dá um flagzinho,
+
+199
+00:07:22.309 --> 00:07:22.899
+ele vai trazer.
+
+200
+00:07:23.519 --> 00:07:23.589
+Então.
+
+201
+00:07:23.670 --> 00:07:26.369
+Nós temos três demonstrações que já está dentro do programa.
+
+202
+00:07:27.369 --> 00:07:28.089
+já vem automático,
+
+203
+00:07:28.130 --> 00:07:29.369
+que já está parametrizado.
+
+204
+00:07:30.529 --> 00:07:33.170
+e essa parametrização é de responsabilidade do votador.
+
+205
+00:07:34.239 --> 00:07:34.510
+Então.
+
+206
+00:07:34.630 --> 00:07:36.880
+Eu não aconselho a fazer muito sintético.
+
+207
+00:07:37.470 --> 00:07:38.940
+Também precisa ser muito analítico,
+
+208
+00:07:39.190 --> 00:07:41.250
+mas tem que ser um balanço bem apresentado.
+
+209
+00:07:41.989 --> 00:07:43.890
+Tem que ser uma DRE bem apresentada.
+
+210
+00:07:44.549 --> 00:07:47.010
+Sai com vocês que eu posso mandar isso para os meus clientes,
+
+211
+00:07:47.739 --> 00:07:50.260
+para os meus clientes que eu estou falando para os usuários da contabilidade.
+
+212
+00:07:51.809 --> 00:07:52.480
+físico.
+
+213
+00:07:53.420 --> 00:07:54.420
+investidor
+
+214
+00:07:54.980 --> 00:07:55.820
+fornecedor,
+
+215
+00:07:56.619 --> 00:07:57.279
+bancos,
+
+216
+00:07:57.500 --> 00:07:57.700
+né?
+
+217
+00:07:57.820 --> 00:07:59.290
+Todo mundo que está usando a contabilidade.
+
+218
+00:07:59.820 --> 00:08:00.869
+Então vê um balanço bacana.
+
+219
+00:08:00.940 --> 00:08:02.339
+A pessoa recebe do SPD,
+
+220
+00:08:02.820 --> 00:08:03.899
+que é assim que eles estão pedindo.
+
+221
+00:08:03.940 --> 00:08:05.299
+Eles não querem mais dar em papel
+
+222
+00:08:05.779 --> 00:08:09.670
+bem um balanço destado as principais linhas não vai ser muito simpático,
+
+223
+00:08:09.779 --> 00:08:11.100
+mas também não vai ser muito analítico.
+
+224
+00:08:11.579 --> 00:08:12.260
+Eu vou entender.
+
+225
+00:08:13.049 --> 00:08:15.250
+e do mesmo jeito a DRE fazer uma DRI bacana,
+
+226
+00:08:15.529 --> 00:08:16.010
+Entenderam
+
+227
+00:08:16.450 --> 00:08:17.470
+Responsabilidade nossa.
+
+228
+00:08:17.649 --> 00:08:19.929
+Uma vez feita a parlamentização bem feita,
+
+229
+00:08:20.049 --> 00:08:22.390
+tranca a contabilidade e todo ano vai dar certo,
+
+230
+00:08:22.940 --> 00:08:23.209
+né?
+
+231
+00:08:23.850 --> 00:08:25.170
+Porque já está parlamentarizado.
+
+232
+00:08:26.200 --> 00:08:28.839
+Como eu disse a vocês não é só essas demonstrações.
+
+233
+00:08:29.079 --> 00:08:31.480
+Eu vou ter que preparar as outras botas aplicativas
+
+234
+00:08:31.600 --> 00:08:32.880
+demonstração de fluxo de caixa,
+
+235
+00:08:33.119 --> 00:08:35.530
+demonstração do resultado abrangente se necessidade for,
+
+236
+00:08:36.479 --> 00:08:36.549
+né
+
+237
+00:08:37.159 --> 00:08:39.070
+Aqui na DLPA e DNPL,
+
+238
+00:08:39.080 --> 00:08:40.880
+eu prefiro a DNPR fica mais completa.
+
+239
+00:08:41.369 --> 00:08:42.489
+Se eu faço a DMPR,
+
+240
+00:08:42.500 --> 00:08:44.580
+a legislação me desobriga de fazer a DNPA.
+
+241
+00:08:44.880 --> 00:08:46.869
+Ele está contida lá dentro da DNPR,
+
+242
+00:08:47.320 --> 00:08:47.929
+entendeu
+
+243
+00:08:48.200 --> 00:08:49.289
+Mas a DLPA que mesmo,
+
+244
+00:08:50.599 --> 00:08:51.760
+principalmente para as pequenas empresas,
+
+245
+00:08:51.799 --> 00:08:52.630
+que é muito comum
+
+246
+00:08:53.000 --> 00:08:55.349
+nos escritórios contabilizar e utilizar DRPR.
+
+247
+00:08:55.900 --> 00:08:57.340
+de não ter que tanta movimentação.
+
+248
+00:08:57.419 --> 00:08:58.239
+Ela atende também.
+
+249
+00:08:58.929 --> 00:08:59.559
+Perfeito
+
+250
+00:08:59.869 --> 00:09:00.869
+Não vai ser importante.
+
+251
+00:09:02.669 --> 00:09:04.460
+E aí uma pergunta uma empresa
+
+252
+00:09:04.909 --> 00:09:07.820
+desenquadrou-se do Simples Nacional em abril de 25
+
+253
+00:09:08.030 --> 00:09:09.840
+e a partir de maio de 2025,
+
+254
+00:09:09.869 --> 00:09:11.510
+passou a a.ar o regime do lucro presumido.
+
+255
+00:09:11.989 --> 00:09:14.309
+Como deve ser tratado as contas e resultado
+
+256
+00:09:14.309 --> 00:09:16.940
+referente ao período de janeiro a abril de 25
+
+257
+00:09:17.369 --> 00:09:21.390
+e qual a orientação para a escrituração contábil digital da ECD
+
+258
+00:09:21.710 --> 00:09:23.369
+do período de maio a dezembro Tem isso
+
+259
+00:09:24.349 --> 00:09:27.109
+Tem vocês escritório de contabilidade pode se deparar com isso.
+
+260
+00:09:27.190 --> 00:09:27.659
+Pode
+
+261
+00:09:28.109 --> 00:09:29.580
+não é muito comum nas empresas,
+
+262
+00:09:29.989 --> 00:09:30.299
+mas no
+
+263
+00:09:30.400 --> 00:09:31.830
+no no escritório sim,
+
+264
+00:09:31.989 --> 00:09:32.270
+né?
+
+265
+00:09:33.059 --> 00:09:35.770
+tratando-se das contas de resultado de janeiro a abril,
+
+266
+00:09:35.979 --> 00:09:37.169
+período do Simples Nacional.
+
+267
+00:09:37.940 --> 00:09:39.349
+Mesmo estando no CIPI,
+
+268
+00:09:39.419 --> 00:09:41.409
+a empresa deve manter contabilidade.
+
+269
+00:09:42.239 --> 00:09:44.960
+Simples nacional não significa ausência de contabilidade,
+
+270
+00:09:45.039 --> 00:09:45.390
+né?
+
+271
+00:09:45.679 --> 00:09:46.719
+Contabilidade regular,
+
+272
+00:09:46.880 --> 00:09:48.760
+salvo se for optando pelo regime
+
+273
+00:09:48.919 --> 00:09:51.030
+de contabilidade simplificada
+
+274
+00:09:51.239 --> 00:09:55.169
+facultada para AEEQT que não estão obrigados a situação completa,
+
+275
+00:09:55.760 --> 00:09:56.030
+né?
+
+276
+00:09:56.700 --> 00:09:58.250
+E para mim não deveria,
+
+277
+00:09:59.020 --> 00:10:02.219
+porque contabilidade é gestão e eu uso contabilidade na gestão,
+
+278
+00:10:02.340 --> 00:10:02.570
+né?
+
+279
+00:10:03.489 --> 00:10:04.049
+Entretanto,
+
+280
+00:10:04.130 --> 00:10:05.880
+ao deixar o Simples Nacional em abril,
+
+281
+00:10:06.210 --> 00:10:09.289
+a empresa fica obrigada a encerrar as contas do resultado
+
+282
+00:10:09.650 --> 00:10:09.729
+no,
+
+283
+00:10:10.489 --> 00:10:12.840
+elaborando as demonstrações contábeis de intermediária,
+
+284
+00:10:12.969 --> 00:10:13.809
+balanço patrimonial DRI et cetera
+
+285
+00:10:16.169 --> 00:10:18.570
+segregar adequadamente os lançamentos contábeis,
+
+286
+00:10:18.650 --> 00:10:19.049
+receitas,
+
+287
+00:10:19.130 --> 00:10:19.570
+despesas,
+
+288
+00:10:19.729 --> 00:10:21.320
+custos e impostos do período
+
+289
+00:10:21.570 --> 00:10:24.010
+e que estava no Cic Nacional de janeiro a abril,
+
+290
+00:10:24.450 --> 00:10:27.020
+mantendo a consistência dos saldos patrimoniais,
+
+291
+00:10:27.450 --> 00:10:27.799
+né?
+
+292
+00:10:28.619 --> 00:10:32.289
+registrar eventuais ajustes de transação no encerramento do período,
+
+293
+00:10:32.700 --> 00:10:36.000
+com o imposto que passava a recém- incluído de forma distinta no novo regime.
+
+294
+00:10:37.059 --> 00:10:41.000
+e orientação para ECD a ECD deve abrangendo o período de maio a dezembro,
+
+295
+00:10:41.500 --> 00:10:44.520
+respeitando o início de obrigatoriedade do novo regime.
+
+296
+00:10:44.979 --> 00:10:46.580
+Então é assim que nós temos que tratar,
+
+297
+00:10:46.900 --> 00:10:47.140
+né?
+
+298
+00:10:47.380 --> 00:10:49.559
+No campo data de início da ECD,
+
+299
+00:10:50.020 --> 00:10:52.099
+nós vamos informar de um e maio até,
+
+300
+00:10:52.260 --> 00:10:52.510
+né?
+
+301
+00:10:52.900 --> 00:10:54.500
+Data de início do luto presumido
+
+302
+00:10:54.780 --> 00:10:58.460
+E a empresa deve manter o encerramento contábil parcial em 30 do 4,
+
+303
+00:10:58.900 --> 00:10:59.330
+né?
+
+304
+00:10:59.789 --> 00:11:01.890
+E A ECD do período seguinte deve
+
+305
+00:11:02.080 --> 00:11:04.390
+partir dos saltos finais desse encerramento.
+
+306
+00:11:05.919 --> 00:11:07.479
+Dão observações importantes,
+
+307
+00:11:07.559 --> 00:11:07.640
+né?
+
+308
+00:11:07.679 --> 00:11:09.200
+Vocês Vocês perceberam
+
+309
+00:11:09.479 --> 00:11:13.030
+que todos os as águas nos levam para a parte
+
+310
+00:11:13.320 --> 00:11:13.840
+fiscal,
+
+311
+00:11:13.960 --> 00:11:14.200
+né?
+
+312
+00:11:15.080 --> 00:11:19.630
+Por que que eu tenho que encerrar um período por causa do meu regime tributário.
+
+313
+00:11:20.299 --> 00:11:21.500
+Contabilidade não é isso,
+
+314
+00:11:21.580 --> 00:11:22.049
+gente
+
+315
+00:11:22.380 --> 00:11:23.719
+Contabilidade é mensal.
+
+316
+00:11:24.479 --> 00:11:26.599
+Eu vou continuando independendo do meu regime,
+
+317
+00:11:27.000 --> 00:11:27.549
+entendeu.
+
+318
+00:11:28.739 --> 00:11:29.849
+Contabilidade é isso.
+
+319
+00:11:29.969 --> 00:11:31.590
+Eu não olho para o fiscal
+
+320
+00:11:31.770 --> 00:11:32.330
+o fiscal.
+
+321
+00:11:32.409 --> 00:11:34.479
+Eu só vou olhar pra ele na hora de calcular o imposto.
+
+322
+00:11:35.640 --> 00:11:38.320
+Vocês entenderam como uma coisa a nossa corrente,
+
+323
+00:11:38.400 --> 00:11:41.159
+a nossa teia fiscal no país é muito forte.
+
+324
+00:11:41.840 --> 00:11:44.710
+Ela impacta fortemente a contabilidade não deveria.
+
+325
+00:11:45.890 --> 00:11:46.440
+Contabilidade.
+
+326
+00:11:46.559 --> 00:11:49.080
+Eu estou registrando todos os fatos para gestão mensalmente,
+
+327
+00:11:49.159 --> 00:11:50.400
+tomando decisões em cima disso,
+
+328
+00:11:50.880 --> 00:11:53.919
+calculando ampliamente os meus impostos na modalidade que seja
+
+329
+00:11:54.289 --> 00:11:55.020
+seja simples,
+
+330
+00:11:55.080 --> 00:11:55.960
+seja lucro presumido,
+
+331
+00:11:56.039 --> 00:11:56.679
+seja lucro real,
+
+332
+00:11:56.760 --> 00:11:57.640
+seja lucro arbitrado,
+
+333
+00:11:57.719 --> 00:11:58.020
+enfim,
+
+334
+00:11:58.679 --> 00:12:01.729
+mas a minha contabilidade tem que manter competência mês a mês tá,
+
+335
+00:12:01.760 --> 00:12:02.239
+tá,
+
+336
+00:12:02.280 --> 00:12:02.520
+tá,
+
+337
+00:12:02.559 --> 00:12:02.880
+tá
+
+338
+00:12:03.140 --> 00:12:03.880
+até dezembro.
+
+339
+00:12:04.880 --> 00:12:06.469
+Mas o Fisco força
+
+340
+00:12:06.640 --> 00:12:07.799
+você fechar balanço,
+
+341
+00:12:07.880 --> 00:12:09.549
+você encerrar a conta você,
+
+342
+00:12:09.719 --> 00:12:10.070
+né?
+
+343
+00:12:10.359 --> 00:12:10.919
+Ou seja,
+
+344
+00:12:11.159 --> 00:12:13.239
+é uma ganância ten- tentar arrecadar,
+
+345
+00:12:13.280 --> 00:12:13.489
+né?
+
+346
+00:12:14.880 --> 00:12:18.679
+Observações importantes recomenda-se manter o livro diário sem interrupção,
+
+347
+00:12:19.039 --> 00:12:22.030
+com destaque primeiro dos lançamentos contábeis de nota explicativa
+
+348
+00:12:22.179 --> 00:12:23.440
+para a transação de regime.
+
+349
+00:12:24.250 --> 00:12:26.419
+A ECD referito ao período de janeiro e abril,
+
+350
+00:12:26.859 --> 00:12:29.260
+não é obrigatório enquanto a empresa estava no ciclo,
+
+351
+00:12:29.340 --> 00:12:30.609
+salvo se ela manter
+
+352
+00:12:31.320 --> 00:12:32.700
+uma distração votável completa,
+
+353
+00:12:33.299 --> 00:12:33.650
+né?
+
+354
+00:12:33.979 --> 00:12:37.090
+Por opção ou por exigência específica para a porta do investidor.
+
+355
+00:12:38.250 --> 00:12:41.250
+Caso a empresa deseja distribuir lucro apurado do simples,
+
+356
+00:12:41.650 --> 00:12:44.690
+é recomendável apresentar as demonstrações contadas de intermediária,
+
+357
+00:12:45.049 --> 00:12:46.559
+o suporte na contabilidade,
+
+358
+00:12:46.570 --> 00:12:47.690
+sem sombra de dúvida.
+
+359
+00:12:48.260 --> 00:12:50.150
+E é sempre que eu recomendo quando eu tô dando
+
+360
+00:12:50.650 --> 00:12:51.330
+consultorias,
+
+361
+00:12:51.369 --> 00:12:53.250
+aí podemos distribuir lucros antecipados.
+
+362
+00:12:53.289 --> 00:12:54.200
+Claro que podemos
+
+363
+00:12:54.890 --> 00:12:57.260
+sempre levantando o balancete que está lá na ECD,
+
+364
+00:12:57.530 --> 00:13:00.559
+tá comprovando que lucro ocorreu até aquele período
+
+365
+00:13:00.690 --> 00:13:03.000
+e que eu estou estou antecipando a distribuição.
+
+366
+00:13:04.780 --> 00:13:07.590
+inclusive com obrigatoriedade de enviar
+
+367
+00:13:08.890 --> 00:13:10.159
+no EFD RI essa distribuição
+
+368
+00:13:10.830 --> 00:13:12.780
+que em setembro de 2023,
+
+369
+00:13:13.229 --> 00:13:15.630
+quando nasceu essa obrigatoriedade era no mês seguinte.
+
+370
+00:13:15.710 --> 00:13:16.150
+Depois,
+
+371
+00:13:16.650 --> 00:13:18.830
+após um pleito aí dos órgãos contábeis,
+
+372
+00:13:18.950 --> 00:13:19.669
+isso passou pro
+
+373
+00:13:20.190 --> 00:13:20.549
+pro.
+
+374
+00:13:21.669 --> 00:13:26.659
+trimestre subsequente a entrega a pagamento desses
+
+375
+00:13:27.270 --> 00:13:29.289
+desses lucros distribuídos antecipadamente.
+
+376
+00:13:30.190 --> 00:13:33.419
+Então é uma conta que eu vou abrir dentro do patrimônio líquido chamado
+
+377
+00:13:33.750 --> 00:13:36.669
+lucros distribuídos antecipadamente e é uma conta
+
+378
+00:13:36.669 --> 00:13:38.820
+redutora de lucros e prejuízos acumulados.
+
+379
+00:13:39.549 --> 00:13:42.030
+Perfeito e aí em dezembro eu vou encerrar essa conta
+
+380
+00:13:42.270 --> 00:13:44.059
+contra lucros e prejuízos acumulados.
+
+381
+00:13:45.469 --> 00:13:46.090
+Obviamente.
+
+382
+00:13:46.150 --> 00:13:48.669
+Eu não posso fechar o balanço com prejuízo,
+
+383
+00:13:48.789 --> 00:13:50.640
+tendo distribuído lucro ao longo do ano andar
+
+384
+00:13:51.309 --> 00:13:52.030
+Se isso ocorrer,
+
+385
+00:13:52.150 --> 00:13:54.330
+os sócios têm que devolver esse dinheiro para a companhia.
+
+386
+00:13:55.570 --> 00:13:57.929
+Por isso que nós temos que levantar balanço todo mês.
+
+387
+00:13:58.070 --> 00:13:59.570
+Se eu tiver distribuído mensalmente,
+
+388
+00:13:59.880 --> 00:14:00.849
+não é proibitivo,
+
+389
+00:14:01.169 --> 00:14:03.239
+mas eu tenho que provar que lucro ocorreu.
+
+390
+00:14:03.890 --> 00:14:04.010
+E.
+
+391
+00:14:04.049 --> 00:14:05.440
+Se porvetura der prejuízo,
+
+392
+00:14:05.489 --> 00:14:06.369
+eu tenho que parar de pagar.
+
+393
+00:14:07.619 --> 00:14:09.239
+Não posso mais espalhar porque dá prejuízo.
+
+394
+00:14:10.309 --> 00:14:11.969
+Entendeu É assim que funciona gente Então,
+
+395
+00:14:12.400 --> 00:14:16.210
+nós sempre temos que privilegiar a nossa contabilidade em primeiro lugar,
+
+396
+00:14:16.659 --> 00:14:18.440
+bem feita a ECD é isso.
+
+397
+00:14:19.179 --> 00:14:21.260
+para depois eu atender os anseios do Fisco.
+
+398
+00:14:21.340 --> 00:14:24.539
+Primeiro eu preciso escriturar corretamente e apurar os meus tributos
+
+399
+00:14:24.859 --> 00:14:26.369
+depois atender os assos do fisco.
+
+400
+00:14:27.239 --> 00:14:27.440
+Então.
+
+401
+00:14:27.520 --> 00:14:27.849
+Isso
+
+402
+00:14:28.200 --> 00:14:29.679
+deveria estar um pouco mais,
+
+403
+00:14:29.869 --> 00:14:30.130
+né?
+
+404
+00:14:30.479 --> 00:14:31.080
+Transparente,
+
+405
+00:14:31.119 --> 00:14:31.559
+mas enfim,
+
+406
+00:14:32.109 --> 00:14:34.320
+Então aqui nós fizemos apenas um resumo,
+
+407
+00:14:34.400 --> 00:14:34.539
+né?
+
+408
+00:14:34.979 --> 00:14:37.489
+O aspecto o período de janeiro a abril do simples
+
+409
+00:14:37.760 --> 00:14:39.000
+e depois de maio a dezembro,
+
+410
+00:14:39.590 --> 00:14:42.320
+então regime tributário simples nacional depois o presumido,
+
+411
+00:14:42.400 --> 00:14:42.609
+né?
+
+412
+00:14:43.229 --> 00:14:46.340
+Contabilidade obrigatória facultativa quando eu estava
+
+413
+00:14:46.630 --> 00:14:47.549
+de janeiro a abril.
+
+414
+00:14:47.729 --> 00:14:48.700
+Na realidade
+
+415
+00:14:49.080 --> 00:14:50.700
+aqui nós estamos com o enfoque fiscal.
+
+416
+00:14:50.989 --> 00:14:53.150
+Vocês viram que não tem nada de facultativo.
+
+417
+00:14:53.190 --> 00:14:53.739
+A lei
+
+418
+00:14:53.950 --> 00:14:56.169
+o artigo 1179 obriga
+
+419
+00:14:56.549 --> 00:14:59.590
+a NBCTG 1000 a 10001 a 1002,
+
+420
+00:14:59.989 --> 00:15:00.260
+né?
+
+421
+00:15:00.270 --> 00:15:01.450
+Tá no Conselho Federal,
+
+422
+00:15:02.010 --> 00:15:02.380
+então
+
+423
+00:15:02.690 --> 00:15:05.729
+facultativa sete ser exigida por sócios bancos,
+
+424
+00:15:06.109 --> 00:15:06.429
+ou seja,
+
+425
+00:15:06.510 --> 00:15:08.070
+você deu uma conotação muito fiscal,
+
+426
+00:15:08.150 --> 00:15:08.390
+né?
+
+427
+00:15:09.039 --> 00:15:11.760
+Aí o período obrigatório base na seleção societária,
+
+428
+00:15:11.840 --> 00:15:13.330
+o encerramento das contas
+
+429
+00:15:13.520 --> 00:15:14.580
+quando deve ocorrer
+
+430
+00:15:15.000 --> 00:15:16.359
+fiscalmente falando,
+
+431
+00:15:16.440 --> 00:15:16.650
+né?
+
+432
+00:15:17.080 --> 00:15:18.989
+As demonstrações intermediária
+
+433
+00:15:19.640 --> 00:15:22.510
+A ESD não obrigatório para o primeiro período
+
+434
+00:15:22.799 --> 00:15:23.989
+obrigatório para o segundo,
+
+435
+00:15:24.080 --> 00:15:24.289
+né?
+
+436
+00:15:24.799 --> 00:15:27.020
+E aí vai com todas as observações.
+
+437
+00:15:29.179 --> 00:15:30.450
+Se eu tivesse que
+
+438
+00:15:30.659 --> 00:15:32.780
+tomar uma decisão com relação ao cliente.
+
+439
+00:15:32.820 --> 00:15:34.770
+Vamos supor que eu sou o escritório de contabilidade
+
+440
+00:15:35.099 --> 00:15:36.119
+e vou tomar uma decisão.
+
+441
+00:15:36.500 --> 00:15:37.530
+Sabe qual é a minha decisão?
+
+442
+00:15:38.299 --> 00:15:42.570
+Eu refaço toda a contabilidade desde janeiro até vai ficar uma contabilidade única
+
+443
+00:15:42.820 --> 00:15:43.780
+dentro da minha base,
+
+444
+00:15:44.340 --> 00:15:44.770
+entendeu.
+
+445
+00:15:46.080 --> 00:15:46.549
+E aí
+
+446
+00:15:46.950 --> 00:15:47.679
+ele vai OCD.
+
+447
+00:15:48.950 --> 00:15:50.789
+Lembrando que ela vai ser obrigada a partir de maio,
+
+448
+00:15:51.349 --> 00:15:53.580
+mas eu tenho uma contabilidade única dentro da minha paz.
+
+449
+00:15:54.369 --> 00:15:54.750
+ou
+
+450
+00:15:54.890 --> 00:15:55.849
+na melhor das hipóteses,
+
+451
+00:15:55.890 --> 00:15:57.140
+faço a transferência de salto,
+
+452
+00:15:57.609 --> 00:15:57.960
+né?
+
+453
+00:15:58.130 --> 00:15:58.929
+Pra dentro da minha base,
+
+454
+00:15:58.969 --> 00:16:00.960
+mas o ideal é você ter o ano completo,
+
+455
+00:16:00.969 --> 00:16:01.469
+perfeito,
+
+456
+00:16:02.119 --> 00:16:02.909
+Tá muito mais trabalho.
+
+457
+00:16:03.150 --> 00:16:05.890
+Isso que é importante eu comentar isso com vocês
+
+458
+00:16:06.289 --> 00:16:08.729
+justamente pra base de cálculo dos honorários,
+
+459
+00:16:08.809 --> 00:16:08.960
+né?
+
+460
+00:16:09.450 --> 00:16:10.130
+Nosso serviço,
+
+461
+00:16:10.179 --> 00:16:10.840
+o nosso trabalho.
+
+462
+00:16:11.190 --> 00:16:12.840
+É importante ter mais isso em consideração
+
+463
+00:16:13.049 --> 00:16:15.520
+quando você recebe um cliente no meio da da jornada
+
+464
+00:16:15.809 --> 00:16:18.530
+e tem esse monte de obrigações acessórias para entrar.
+
+465
+00:16:19.349 --> 00:16:21.349
+e que o cliente não tem noção de que é isso
+
+466
+00:16:21.669 --> 00:16:23.909
+e nem deve saber não em função dele é nós,
+
+467
+00:16:24.510 --> 00:16:26.429
+nós só temos é que calcular o nosso preço justo,
+
+468
+00:16:26.669 --> 00:16:27.260
+perfeito
+
+469
+00:16:27.549 --> 00:16:28.820
+Fica aí a dica pessoal.

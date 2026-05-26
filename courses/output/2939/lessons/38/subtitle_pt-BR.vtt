@@ -1,0 +1,273 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:00.740
+a fase,
+
+2
+00:00:00.750 --> 00:00:05.940
+um chamada de eventos de tabela Eu comparo a
+
+3
+00:00:05.949 --> 00:00:09.979
+uma casa sendo construída Quando uma casa é construída,
+
+4
+00:00:09.989 --> 00:00:11.319
+já tem moradores nela.
+
+5
+00:00:11.329 --> 00:00:17.680
+Não, né? É lá nós estamos criando a estrutura da casa, paredes, piso,
+
+6
+00:00:18.350 --> 00:00:23.440
+teto, né, para futuramente ir gente morar lá.
+
+7
+00:00:23.450 --> 00:00:28.120
+Então, assim que acontece aqui, na fase social, na fase mundo social,
+
+8
+00:00:28.129 --> 00:00:32.229
+nós não vamos ter aquilo que é o mais comum dentro de folha de pagamento,
+
+9
+00:00:32.240 --> 00:00:33.740
+que são os trabalhadores.
+
+10
+00:00:33.750 --> 00:00:35.840
+Nós não teremos nenhum trabalhador,
+
+11
+00:00:35.849 --> 00:00:39.159
+nenhuma informação de trabalhador certo aqui.
+
+12
+00:00:39.169 --> 00:00:44.819
+Nós vamos enviar o quê? Informações cadastrais da empresa, Beleza?
+
+13
+00:00:44.830 --> 00:00:46.220
+E o primeiro evento
+
+14
+00:00:46.790 --> 00:00:53.000
+de todos que eu vou trazer pra vocês da fase um é o evento de cadastro do empregador.
+
+15
+00:00:53.009 --> 00:00:53.080
+E,
+
+16
+00:00:53.090 --> 00:00:55.779
+como eu disse que cada evento possui s e
+
+17
+00:00:55.790 --> 00:01:00.400
+mais quatro dígitos é um evento s mil professor,
+
+18
+00:01:00.409 --> 00:01:05.300
+Eu preciso decorar esses códigos, não precisa, tá, fica tranquilo que não precisa.
+
+19
+00:01:05.830 --> 00:01:08.180
+A questão é a seguinte Quando você trabalha muito com isso,
+
+20
+00:01:08.190 --> 00:01:10.760
+você vai se habituando e vai lembrando, né?
+
+21
+00:01:10.769 --> 00:01:14.180
+Esses códigos, mas não há essa necessidade? Tá bom.
+
+22
+00:01:14.190 --> 00:01:16.239
+Primeiro falando sobre a hierarquia desse evento,
+
+23
+00:01:16.250 --> 00:01:17.919
+ele é a primeira vez a ser enviado Você não
+
+24
+00:01:17.930 --> 00:01:23.040
+consegue enviar nenhum evento no esocial antes deste evento específico.
+
+25
+00:01:23.050 --> 00:01:23.620
+Tá
+
+26
+00:01:24.720 --> 00:01:28.349
+e quais são as informações constantes nesse evento?
+
+27
+00:01:28.360 --> 00:01:35.449
+S mil Nós vamos enviar o c n PJ da empresa. Tá detalhe. O C n PJ aqui é o C n PJ raiz.
+
+28
+00:01:35.459 --> 00:01:37.750
+Daqui a pouco eu volto nessa questão
+
+29
+00:01:38.190 --> 00:01:41.639
+também. A classificação tributária também.
+
+30
+00:01:41.650 --> 00:01:45.569
+A natureza jurídica tá, se a empresa é uma empresa limitada.
+
+31
+00:01:45.580 --> 00:01:50.080
+Se é uma s A, se é uma empresa individual e também alguns indicativos.
+
+32
+00:01:50.089 --> 00:01:53.239
+Se a empresa é uma cooperativa, se ela é uma construtora,
+
+33
+00:01:53.250 --> 00:01:57.930
+se ela possui desoneração da folha de pagamento, se a uma entidade educativa,
+
+34
+00:01:57.940 --> 00:01:59.839
+se ela tem trabalho temporário.
+
+35
+00:01:59.849 --> 00:02:04.500
+Então tudo isso nós vamos enviar essas informações no evento S mil
+
+36
+00:02:04.879 --> 00:02:09.610
+E você deve estar meio confuso, né, professor? Como que eu vou fazer esse envio, né?
+
+37
+00:02:09.619 --> 00:02:11.949
+Assim não não estou entendendo.
+
+38
+00:02:11.960 --> 00:02:16.669
+Primeiro pessoal, lembrando que nós vamos fazer o envio prático na próxima aula.
+
+39
+00:02:16.679 --> 00:02:20.970
+Essa aula é teórica, então, o que que eu vou chamar A atenção de vocês aqui?
+
+40
+00:02:20.979 --> 00:02:24.669
+É sobre a classificação tributária E esse termo aqui ele é importantíssimo.
+
+41
+00:02:25.199 --> 00:02:29.970
+Para que vocês entendam esse termo, eu vou abrir o site do esocial.
+
+42
+00:02:29.979 --> 00:02:33.490
+Então eu vou digitar no Google esocial, né?
+
+43
+00:02:33.500 --> 00:02:36.830
+e vou entrar nesse primeiro link que é o link do esocial oficial
+
+44
+00:02:38.429 --> 00:02:42.279
+para entrar no portal, que eu até já mostrei pra vocês eu clicar aqui.
+
+45
+00:02:42.289 --> 00:02:46.720
+Mas eu não quero entrar no portal, eu quero baixar a documentação do social,
+
+46
+00:02:46.729 --> 00:02:47.880
+Então o que que eu vou fazer?
+
+47
+00:02:47.889 --> 00:02:53.059
+Eu vou clicar aqui nessas três barras e eu vou clicar aqui em documentação técnica
+
+48
+00:02:54.490 --> 00:03:00.419
+E aí eu vou abaixar aqui a documentação técnica E existem diferentes versões, né?
+
+49
+00:03:00.429 --> 00:03:03.199
+Vou pegar essa aqui a a versão s um ponto dois
+
+50
+00:03:03.820 --> 00:03:07.690
+E aí eu vou baixar os do social em formato p d f
+
+51
+00:03:08.860 --> 00:03:13.050
+Cê pode baixar em h t m. Enfim, eu gosto de baixar em p d f.
+
+52
+00:03:16.429 --> 00:03:19.279
+Após você baixar eh em P d f.
+
+53
+00:03:19.289 --> 00:03:24.160
+Você vai ver que nesses layouts que você baixou terá três arquivos.
+
+54
+00:03:24.169 --> 00:03:27.059
+Então você vai ver que o primeiro arquivo
+
+55
+00:03:28.339 --> 00:03:34.990
+ele vai conter todos os eventos do eSocial com seus números s mil S mil e cinco.
+
+56
+00:03:35.000 --> 00:03:37.330
+Nós, inclusive estamos vendo S mil Tá
+
+57
+00:03:39.039 --> 00:03:44.149
+e é aí A gente vai no segundo arquivo o segundo arquivo pessoal.
+
+58
+00:03:44.160 --> 00:03:49.750
+Ele contém tabelas que serão util utilizadas dentro do eSocial
+
+59
+00:03:49.759 --> 00:03:54.389
+e o terceiro arquivo serão de regras de validação.
+
+60
+00:03:55.389 --> 00:04:00.779
+Então essas informações aqui, elas são de extrema importância. Tá pra você!
+
+61
+00:04:03.039 --> 00:04:08.570
+Eu vou orientar você a ler tudo isso ou vou mandar você a a decorar?
+
+62
+00:04:08.580 --> 00:04:11.850
+Isso não precisa, tá dependendo da sua prática,
+
+63
+00:04:11.860 --> 00:04:13.589
+você não vai nem precisar ficar abrindo isso
+
+64
+00:04:13.600 --> 00:04:15.610
+aqui quanto mais experiência você for tendo,
+
+65
+00:04:15.619 --> 00:04:18.890
+você vai ficar mais independente disso.
+
+66
+00:04:18.899 --> 00:04:24.450
+Agora, pode ser que eventualmente em algum caso mais eh, eh eh complexo,
+
+67
+00:04:24.459 --> 00:04:26.869
+você tenha que recorrer aqui, né?
+
+68
+00:04:26.880 --> 00:04:29.350
+Pra saber como fazer o envio correto.

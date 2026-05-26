@@ -1,0 +1,33 @@
+{
+  "id": 459930,
+  "title": "Site do CFC - Parte 2",
+  "position": 12,
+  "duration": 213,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7afd9b00-d9c6-41bf-9d5d-0f9ae05bceea/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7afd9b00-d9c6-41bf-9d5d-0f9ae05bceea/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7afd9b00-d9c6-41bf-9d5d-0f9ae05bceea/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7afd9b00-d9c6-41bf-9d5d-0f9ae05bceea/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7afd9b00-d9c6-41bf-9d5d-0f9ae05bceea/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+WEBVTT
+
+1
+00:00:00.550 --> 00:00:03.440
+falando um pouco sobre a obrigatoriedade do C F A P.
+
+2
+00:00:03.450 --> 00:00:07.670
+Ela está lá no convênio sem número de mil novecentos e setenta.
+
+3
+00:00:07.679 --> 00:00:11.880
+E nós também encontramos dentro do portal da nota fiscal. Eletrônica, né?
+
+4
+00:00:11.890 --> 00:00:13.800
+O portal da nota fiscal eletrônica ele vem
+
+5
+00:00:13.810 --> 00:00:17.319
+advindo do projeto SPED E esse portal gente,
+
+6
+00:00:17.329 --> 00:00:19.180
+ele é incrível!
+
+7
+00:00:19.190 --> 00:00:23.870
+Ele é essencial para o dia-a-dia de todo profissional da área fiscal.
+
+8
+00:00:23.879 --> 00:00:26.719
+Se você nunca acessou o Portal do SPED e eu
+
+9
+00:00:26.729 --> 00:00:31.559
+recomendo que faça porque lá nós temos diversos manuais,
+
+10
+00:00:31.569 --> 00:00:35.279
+nós temos diversas notas técnicas, nós temos tabelas,
+
+11
+00:00:35.290 --> 00:00:38.040
+portal da nota fiscal eletrônica também.
+
+12
+00:00:38.049 --> 00:00:41.159
+Eu até vou falar aqui sobre isso com vocês daqui a pouquinho
+
+13
+00:00:41.169 --> 00:00:45.779
+e vou mostrar na prática como vocês podem consultar tudo isso agora.
+
+14
+00:00:45.790 --> 00:00:49.439
+Vamos falar um pouco sobre a estrutura do C F O P
+
+15
+00:00:49.450 --> 00:00:52.240
+eu sei que você deve tá curioso e curiosa por aí,
+
+16
+00:00:52.250 --> 00:00:52.400
+né?
+
+17
+00:00:52.409 --> 00:00:58.000
+Pra entender como que funciona na prática essa estrutura, então chega de teoria,
+
+18
+00:00:58.009 --> 00:00:59.000
+vamos entender isso!
+
+19
+00:00:59.009 --> 00:01:04.239
+Na prática, o C f O p A estrutura dele é composta por quatro dígitos,
+
+20
+00:01:04.250 --> 00:01:09.190
+okay e essa estrutura de quatro dígitos ela vai trazer pra nós o seguinte
+
+21
+00:01:09.199 --> 00:01:14.269
+ele vai indicar se são operações de entrada se são operações de saída,
+
+22
+00:01:14.279 --> 00:01:19.290
+se são operações internas e se são operações interestaduais,
+
+23
+00:01:19.300 --> 00:01:23.860
+então nós teremos vários indicativos dentro da estrutura do C f o p
+
+24
+00:01:24.599 --> 00:01:28.290
+aqui Os primeiros três dígitos um,
+
+25
+00:01:28.300 --> 00:01:34.169
+dois e três significa que o c f o p é um c f o p de entrada.
+
+26
+00:01:34.180 --> 00:01:39.489
+Então toda vez que o primeiro dígito do c f o p for um, dois ou três,
+
+27
+00:01:39.500 --> 00:01:42.769
+significa que é um c f a p de entrada.
+
+28
+00:01:42.779 --> 00:01:46.669
+Operações de entrada Logo nós teremos exemplos aqui,
+
+29
+00:01:46.769 --> 00:01:51.339
+então o número um ele indica o que que são operações de
+
+30
+00:01:51.349 --> 00:01:57.699
+entrada acontecendo ali no mesmo estado são operações internas Quando o primeiro
+
+31
+00:01:57.709 --> 00:02:00.779
+dígito do c f o p for o número dois significa que
+
+32
+00:02:00.790 --> 00:02:03.019
+estamos falando de operações e prestações
+
+33
+00:02:03.029 --> 00:02:08.880
+acontecendo interestadual entre estados diferentes Quando
+
+34
+00:02:09.149 --> 00:02:12.559
+o primeiro dígito do c f a P iniciar em três,
+
+35
+00:02:12.570 --> 00:02:16.320
+significa que estamos tratando de uma operação com o exterior,
+
+36
+00:02:16.330 --> 00:02:21.039
+uma operação de importação, já que estamos falando de entrada,
+
+37
+00:02:21.050 --> 00:02:23.860
+então é importação está entrando, né?
+
+38
+00:02:23.869 --> 00:02:28.979
+Dentro do nosso estabelecimento, então recapitulando primeiro dígito, sendo um
+
+39
+00:02:29.080 --> 00:02:33.009
+são operações internas dentro do mesmo estado.
+
+40
+00:02:33.020 --> 00:02:35.289
+Quando o primeiro dígito for o número dois
+
+41
+00:02:35.300 --> 00:02:40.419
+se referem a operações interestaduais entre estados diferentes.
+
+42
+00:02:40.429 --> 00:02:43.289
+E quando o primeiro dígito começar com o número três,
+
+43
+00:02:43.300 --> 00:02:46.250
+significa que estamos falando de operações com o exterior?
+
+44
+00:02:46.259 --> 00:02:48.949
+Operações de importação
+
+45
+00:02:49.429 --> 00:02:55.220
+Na saída nós temos a segunda sequência, que é o cinco, seis e sete.
+
+46
+00:02:55.229 --> 00:02:58.639
+Toda vez que eu for emitir uma nota fiscal for fazer um
+
+47
+00:02:58.649 --> 00:03:02.520
+faturamento pro meu cliente for dar a saída de alguma mercadoria,
+
+48
+00:03:02.529 --> 00:03:04.089
+o primeiro dígito do C, f,
+
+49
+00:03:04.100 --> 00:03:06.479
+o P será o número cinco quando se
+
+50
+00:03:06.490 --> 00:03:10.020
+tratar de operações internas dentro do mesmo estado.
+
+51
+00:03:10.539 --> 00:03:15.190
+Toda vez que eu for emitir uma nota fiscal e o primeiro dígito for seis,
+
+52
+00:03:15.199 --> 00:03:17.789
+significa que eu estou trabalhando.
+
+53
+00:03:17.800 --> 00:03:21.190
+Estou realizando uma operação com estados diferentes,
+
+54
+00:03:21.199 --> 00:03:23.729
+é uma operação interestadual,
+
+55
+00:03:23.740 --> 00:03:29.110
+e toda vez que iniciar em sete significa que é uma saída para o exterior.
+
+56
+00:03:29.119 --> 00:03:33.789
+E como estamos falando de saída, então significa que é exportação.
+
+57
+00:03:33.800 --> 00:03:39.044
+Um, dois e três entradas cinco, seis e sete saídas.
+
+58
+00:03:39.054 --> 00:03:44.205
+Eu deixei um desenho pra vocês pra ficar bem mais fácil e aqui nesse desenho.
+
+59
+00:03:44.214 --> 00:03:44.945
+Olha que bacana,
+
+60
+00:03:44.955 --> 00:03:47.884
+você consegue eh através das linhas coloridas
+
+61
+00:03:47.895 --> 00:03:52.645
+identificar então entrada representa o um e
+
+62
+00:03:52.654 --> 00:03:55.764
+saída representa os cinco quando falamos de
+
+63
+00:03:55.774 --> 00:03:59.145
+operações internas dentro do mesmo estado.
+
+64
+00:03:59.440 --> 00:04:03.729
+Entrada utilizando dois saída, utilizando seis.
+
+65
+00:04:03.740 --> 00:04:08.369
+Quando nos referimos a operações interestaduais entrada,
+
+66
+00:04:08.380 --> 00:04:10.250
+iniciando em três e saída,
+
+67
+00:04:10.259 --> 00:04:13.490
+iniciando em sete quando nos referimos a operações
+
+68
+00:04:13.500 --> 00:04:16.529
+com o exterior e aí pode ser importação,
+
+69
+00:04:16.540 --> 00:04:21.988
+se for na entrada e exportação, se estivermos falando de uma operação de saída.

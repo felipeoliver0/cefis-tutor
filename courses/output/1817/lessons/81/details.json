@@ -1,0 +1,33 @@
+{
+  "id": 457861,
+  "title": "Exercício cpc 16-2",
+  "position": 82,
+  "duration": 292,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9c1601f2-0fb3-4a6c-9e9e-c1816118823e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9c1601f2-0fb3-4a6c-9e9e-c1816118823e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9c1601f2-0fb3-4a6c-9e9e-c1816118823e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9c1601f2-0fb3-4a6c-9e9e-c1816118823e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9c1601f2-0fb3-4a6c-9e9e-c1816118823e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

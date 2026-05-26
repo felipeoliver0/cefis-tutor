@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3033,
+    "title": "CPC 04 (R1) - Ativo Intangível (Atualizado 2024)",
+    "subtitle": "Reconhecimento, manutenção e mensuração de ativos intangíveis",
+    "summary": "Neste curso você conhecerá assuntos essenciais relacionados a aplicação do pronunciamento contábil CPC 04 (R1). Itens como reconhecimento, mensuração e divulgações desses ativos que são fundamentais para o entendimento dos efeitos nas demonstrações contábeis. Não se pretende esgotar todas as possíveis transações com ativos intangíveis.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b304807f6aef3a687aea4e4aa9f90f9b1728384324.jpg",
+    "goals": [
+      "Apresentar os principais aspectos de reconhecimento e mensuração relacionados aos ativos intangíveis, amortização e divulgações. São apresentados também exemplos a serem observados para reconhecimento e mensuração além de estudos pontuais de situações comuns e casos polêmicos como a 123 milhas. Considerando os inúmeros exemplos que podem surgir no dia a dia das empresas é fundamental ler com atenção o pronunciamento contábil."
+    ],
+    "teacher": {
+      "id": 520172,
+      "name": "Marcelo Aquino",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/e033a4a9-13ef-4c75-8b8b-1a064ee8384d-croppedImage.jpeg"
+    },
+    "duration": 4218,
+    "keywords": "cpc 04;ativo intangível;amortização;mensuração;divulgação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 5,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 458,
+    "averageRating": 9.19,
+    "practiceAverage": 9.12,
+    "trailer": {
+      "id": "48c44c05-6d1a-491e-9771-851a87625548",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48c44c05-6d1a-491e-9771-851a87625548/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48c44c05-6d1a-491e-9771-851a87625548/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48c44c05-6d1a-491e-9771-851a87625548/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/48c44c05-6d1a-491e-9771-851a87625548/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-03-01T00:11:47.000Z",
+      "updatedAt": "2024-03-01T00:11:47.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-03-16T08:51:59.000Z",
+    "recordedAt": "2024-01-31T00:00:00.000Z",
+    "createdAt": "2024-02-06T17:29:19.000Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 3035,
+    "title": "[podcast] Substituição Tributária na NFe",
+    "subtitle": "PodCast",
+    "summary": "O tema é o preenchimento da NF-e de Substituição Tributária. Vamos chamar a atenção para erros que são cometidos, com dicas importantes.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b415d216e952f06901bc4f5b2be86cc51728384389.jpg",
+    "goals": [
+      "O tema é o preenchimento da NF-e de Substituição Tributária. Vamos chamar a atenção para erros que são cometidos, com dicas importantes."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 772,
+    "keywords": "Substituição Tributária;nfe;podcast",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 702,
+    "averageRating": 9.03,
+    "practiceAverage": 8.92,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-03-16T12:10:42.000Z",
+    "recordedAt": "2024-01-29T00:00:00.000Z",
+    "createdAt": "2024-02-06T17:37:54.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 453488,
+  "title": "Principais pontos da lei | COBIT",
+  "position": 42,
+  "duration": 364,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/26c15a51-ccd3-49ed-8241-6ca398b7cd27/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/26c15a51-ccd3-49ed-8241-6ca398b7cd27/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/26c15a51-ccd3-49ed-8241-6ca398b7cd27/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/26c15a51-ccd3-49ed-8241-6ca398b7cd27/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/26c15a51-ccd3-49ed-8241-6ca398b7cd27/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+WEBVTT
+
+1
+00:00:01.980 --> 00:00:04.510
+pessoal Então agora eu propus, né?
+
+2
+00:00:04.519 --> 00:00:08.109
+Ainda que esse seja eh essa seja uma aula,
+
+3
+00:00:08.119 --> 00:00:10.550
+onde a gente fale dos novos processos de importação
+
+4
+00:00:10.560 --> 00:00:14.069
+dos novos processos de exportação e que tenha,
+
+5
+00:00:14.079 --> 00:00:14.250
+né?
+
+6
+00:00:14.260 --> 00:00:18.829
+Como fundo, o Portal Único de Comércio Exterior eh e, é claro,
+
+7
+00:00:18.840 --> 00:00:21.520
+a gente fala da do da do Inpe.
+
+8
+00:00:21.530 --> 00:00:24.770
+Eh, eu decidi trazer à parte, né?
+
+9
+00:00:24.780 --> 00:00:31.764
+Eh um detalhamento sobre esse módulo transversal, né, ali dentro do ambiente da da,
+
+10
+00:00:31.774 --> 00:00:34.115
+do novo processo, de importação, né?
+
+11
+00:00:34.125 --> 00:00:38.794
+Ou seja vinculado à do INPE, que é o módulo do catálogo de produtos, né?
+
+12
+00:00:38.805 --> 00:00:43.994
+Porque eu sei que esse é um módulo que gera um pouquinho mais de desconforto,
+
+13
+00:00:44.005 --> 00:00:45.935
+que gerou algumas dúvidas, né?
+
+14
+00:00:45.944 --> 00:00:50.255
+E eu chamo muita atenção pra você. Importador, né?
+
+15
+00:00:50.840 --> 00:00:54.610
+Que ainda não preparou o seu catálogo de produtos Porque, como a gente viu,
+
+16
+00:00:54.619 --> 00:01:00.970
+agora há pouco o cronograma, né de desligamento do sistema, tal qual é hoje.
+
+17
+00:01:00.979 --> 00:01:02.930
+Ele já tá muito próximo, né?
+
+18
+00:01:02.939 --> 00:01:09.370
+E o catálogo de produtos ele é uma obrigatoriedade, o que é que isso quer dizer né,
+
+19
+00:01:09.379 --> 00:01:16.930
+Que sem o catálogo de produtos não será possível Eh registrar uma do INPE, né?
+
+20
+00:01:16.940 --> 00:01:19.389
+Então, vamos lá o que que é o catálogo de produtos, né.
+
+21
+00:01:19.989 --> 00:01:22.440
+Eh bom, ele tem a ele é um módulo,
+
+22
+00:01:22.449 --> 00:01:25.620
+Dentro do portal desses a gente vai ver também daqui a pouco
+
+23
+00:01:26.220 --> 00:01:30.790
+e ele tem como finalidade auxiliar no preenchimento da do INPE,
+
+24
+00:01:30.800 --> 00:01:36.470
+Utilizando um banco de dados nos produtos e operadores estrangeiros.
+
+25
+00:01:36.480 --> 00:01:40.830
+O banco de dados ele é gerido pelo próprio importador,
+
+26
+00:01:40.839 --> 00:01:45.169
+que deve atualizá lo com novos produtos ou informações.
+
+27
+00:01:45.180 --> 00:01:49.930
+Vou explicar isso aqui. Vamos lá em Minas Gerais o catálogo de produtos Ele. É
+
+28
+00:01:50.489 --> 00:01:57.639
+uma proposta, né? DO do, do governo, da Receita Federal e dos órgãos anuentes, né?
+
+29
+00:01:57.650 --> 00:02:02.500
+Eh para que o importador ele passe a ter um repositório virtual, ou seja,
+
+30
+00:02:02.510 --> 00:02:08.899
+que ele tenha uma base de dados atualizada de todos,
+
+31
+00:02:08.910 --> 00:02:12.820
+de todos os produtos importados, né?
+
+32
+00:02:12.830 --> 00:02:14.839
+Por aquela empresa, né?
+
+33
+00:02:15.160 --> 00:02:22.110
+Eh bom até aí Vamos pensar numa empresa que importe
+
+34
+00:02:22.929 --> 00:02:29.619
+cem itens diferentes, duzentos itens diferentes. É mais ou menos fácil, né?
+
+35
+00:02:29.630 --> 00:02:34.559
+Mas a gente sabe que tem empresas que importam cinquenta mil itens, cem mil itens.
+
+36
+00:02:34.570 --> 00:02:36.039
+E quando a gente tá falando de item
+
+37
+00:02:36.630 --> 00:02:39.649
+a gente não tá falando de n c n a gente tá falando
+
+38
+00:02:39.660 --> 00:02:45.039
+de Lembra que quando a gente falou eh A A a do Inpe,
+
+39
+00:02:45.050 --> 00:02:45.559
+né?
+
+40
+00:02:45.570 --> 00:02:50.979
+Ela é vinculada por item ao e não ao n C.
+
+41
+00:02:51.419 --> 00:02:53.350
+Então até aí né?
+
+42
+00:02:53.360 --> 00:03:00.929
+Já se tornaria um pouco mais difícil à medida que você vai aumentando, né?
+
+43
+00:03:00.940 --> 00:03:03.610
+Eh o número de itens importados.
+
+44
+00:03:03.619 --> 00:03:07.990
+Ou seja, à medida que você tem mais itens importados pra que você passa, né?
+
+45
+00:03:08.000 --> 00:03:15.529
+Pra que você seja capaz de manter em dia, né? Esse cadastro, contudo, eh.
+
+46
+00:03:16.039 --> 00:03:18.809
+E daqui a pouco eu vou falar um pouquinho sobre os atributos.
+
+47
+00:03:18.820 --> 00:03:23.110
+Vamos avançar antes de eu entrar nesse detalhamento, né?
+
+48
+00:03:23.690 --> 00:03:24.559
+EH
+
+49
+00:03:25.940 --> 00:03:33.529
+o catálogo de produtos eh esse repositório. Ele servirá pra diagnosticar, né?
+
+50
+00:03:33.539 --> 00:03:39.050
+Se um produto específico ele está ou não está sujeito,
+
+51
+00:03:39.410 --> 00:03:46.539
+eh algum órgão a doente? Algum controle algum? L PC o lembra daquele ambiente?
+
+52
+00:03:46.550 --> 00:03:48.149
+Onde tem a do Inpe? No meio?
+
+53
+00:03:48.160 --> 00:03:58.360
+L PC o eh catálogo de produtos, então eh através dessa unificação, né? Desse
+
+54
+00:03:58.759 --> 00:04:05.130
+dessa consolidação de informações dentro de um único ambiente, né?
+
+55
+00:04:05.139 --> 00:04:10.929
+Com este item cadastrado será possível avaliar ou
+
+56
+00:04:10.940 --> 00:04:14.029
+não a necessidade de um licenciamento específico,
+
+57
+00:04:14.039 --> 00:04:14.089
+né?
+
+58
+00:04:14.100 --> 00:04:21.105
+Então, dentro da própria do isso será eh enfim, vai ser levantado uma um um, né?
+
+59
+00:04:21.113 --> 00:04:24.035
+Vai ser indicada ali a necessidade de algum tipo de controle.
+
+60
+00:04:24.045 --> 00:04:26.244
+Então, o modo de licenciamento ele,
+
+61
+00:04:26.255 --> 00:04:29.424
+ela será acionado a partir do catálogo de produtos.
+
+62
+00:04:29.434 --> 00:04:32.804
+Então é por isso que o L PC o né.
+
+63
+00:04:33.440 --> 00:04:37.769
+E o catálogo de produtos já estão ali. Vincula vinculados a do.
+
+64
+00:04:37.779 --> 00:04:38.570
+Então,
+
+65
+00:04:38.579 --> 00:04:40.450
+as mercadorias que não estejam sujeitas
+
+66
+00:04:40.459 --> 00:04:43.690
+ao licenciamento podem necessitar de licença,
+
+67
+00:04:43.700 --> 00:04:46.010
+devido a outras informações na operação, né?
+
+68
+00:04:46.019 --> 00:04:50.269
+Que aí a gente não sabe, mas aí vai ser específico da operação.

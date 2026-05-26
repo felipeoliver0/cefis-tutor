@@ -1,0 +1,1021 @@
+WEBVTT
+
+1
+00:00:01.899 --> 00:00:05.539
+Aí nós partimos para o bloco C Uma vez que nós fizemos todo o bloco,
+
+2
+00:00:05.980 --> 00:00:06.219
+né?
+
+3
+00:00:06.619 --> 00:00:08.859
+Já fizemos os cadastros iniciais,
+
+4
+00:00:09.500 --> 00:00:10.260
+tudo correto.
+
+5
+00:00:10.340 --> 00:00:11.899
+Partimos para o bloco C,
+
+6
+00:00:12.100 --> 00:00:12.409
+né?
+
+7
+00:00:13.430 --> 00:00:14.090
+Ou seja,
+
+8
+00:00:14.829 --> 00:00:17.149
+eles não precisam ser importados,
+
+9
+00:00:17.270 --> 00:00:17.340
+né?
+
+10
+00:00:17.389 --> 00:00:18.110
+O bloco C,
+
+11
+00:00:18.270 --> 00:00:18.290
+né?
+
+12
+00:00:19.629 --> 00:00:21.969
+Por quê O lá não precisam ser importados,
+
+13
+00:00:22.030 --> 00:00:24.530
+pois são preenchidos pelo próprio programa
+
+14
+00:00:25.350 --> 00:00:25.829
+do S,
+
+15
+00:00:25.950 --> 00:00:29.860
+após o que a recuperação das informações da SCD
+
+16
+00:00:30.110 --> 00:00:30.940
+anterior
+
+17
+00:00:31.229 --> 00:00:33.020
+feito pelos usuários do programa.
+
+18
+00:00:34.240 --> 00:00:34.560
+né?
+
+19
+00:00:35.439 --> 00:00:36.919
+Então lá no menusq da ação,
+
+20
+00:00:37.000 --> 00:00:38.599
+recuperação no ECD anterior.
+
+21
+00:00:39.159 --> 00:00:40.479
+Aí Quando eu faço isso,
+
+22
+00:00:40.799 --> 00:00:41.279
+ele vai,
+
+23
+00:00:41.479 --> 00:00:41.830
+né?
+
+24
+00:00:42.720 --> 00:00:43.799
+Dizer Onde é que está esse CD pra
+
+25
+00:00:44.799 --> 00:00:45.700
+pra que eu recupere.
+
+26
+00:00:47.000 --> 00:00:51.409
+A ECD indicada para a recuperação não pode ter o número de ordem
+
+27
+00:00:51.759 --> 00:00:53.419
+igual a outra ECD
+
+28
+00:00:53.840 --> 00:00:55.229
+do mesmo CNPJ.
+
+29
+00:00:56.490 --> 00:00:58.909
+CNPJ de SCP se houver
+
+30
+00:00:59.090 --> 00:00:59.659
+e M,
+
+31
+00:00:59.729 --> 00:01:00.200
+se houver,
+
+32
+00:01:00.330 --> 00:01:01.150
+pode ser igual
+
+33
+00:01:01.610 --> 00:01:03.619
+existente na base local do programa,
+
+34
+00:01:03.729 --> 00:01:04.650
+independentemente do.
+
+35
+00:01:05.529 --> 00:01:05.919
+Tá
+
+36
+00:01:06.089 --> 00:01:06.220
+Então,
+
+37
+00:01:06.330 --> 00:01:07.410
+tem que ser diferente,
+
+38
+00:01:07.529 --> 00:01:07.760
+né?
+
+39
+00:01:09.860 --> 00:01:10.069
+Aí,
+
+40
+00:01:10.139 --> 00:01:11.050
+nós temos
+
+41
+00:01:12.050 --> 00:01:13.900
+Aqui as tabelas que nós já comentamos,
+
+42
+00:01:14.010 --> 00:01:14.129
+né?
+
+43
+00:01:14.169 --> 00:01:15.050
+Os códigos deles,
+
+44
+00:01:15.129 --> 00:01:15.239
+né?
+
+45
+00:01:15.290 --> 00:01:17.660
+Filial coligada controlada,
+
+46
+00:01:18.010 --> 00:01:18.730
+todas elas,
+
+47
+00:01:18.849 --> 00:01:19.010
+né?
+
+48
+00:01:19.129 --> 00:01:20.830
+Os códigos de identificação
+
+49
+00:01:21.129 --> 00:01:23.599
+que vai constar do registro lá e
+
+50
+00:01:23.930 --> 00:01:25.209
+é 0180,
+
+51
+00:01:25.330 --> 00:01:25.529
+né?
+
+52
+00:01:27.629 --> 00:01:29.699
+O 50 o plano de contas.
+
+53
+00:01:30.730 --> 00:01:35.129
+E aqui meu Carlos re- eh me reserva aí fazer alguns comentários,
+
+54
+00:01:35.209 --> 00:01:35.480
+né?
+
+55
+00:01:35.849 --> 00:01:37.120
+Com vocês com relação
+
+56
+00:01:37.610 --> 00:01:38.839
+ao I050.
+
+57
+00:01:40.169 --> 00:01:41.349
+Planta de pontas.
+
+58
+00:01:42.309 --> 00:01:43.300
+é nossa.
+
+59
+00:01:44.349 --> 00:01:45.290
+Bússola
+
+60
+00:01:45.839 --> 00:01:47.370
+é a nossa carta de voo,
+
+61
+00:01:48.080 --> 00:01:48.959
+é o nosso gul.
+
+62
+00:01:49.800 --> 00:01:51.370
+um plano de contas bem feito,
+
+63
+00:01:51.480 --> 00:01:53.080
+bem elaborado e atualizado.
+
+64
+00:01:53.480 --> 00:01:57.230
+Ele já corresponde a quase 50% da nossa contabilidade.
+
+65
+00:01:58.300 --> 00:02:01.559
+Porque um plano de contas mal elaborado nos dá muito de trabalho.
+
+66
+00:02:02.230 --> 00:02:04.550
+Então o plano de contas bem feito é fundamental.
+
+67
+00:02:05.000 --> 00:02:07.080
+O plano de contas não é complicona.
+
+68
+00:02:07.559 --> 00:02:09.389
+Cada empresa tem que ser o seu
+
+69
+00:02:09.880 --> 00:02:13.639
+E aqui a Receita Federal respeitou a qual você pode ter o plano que se quiser.
+
+70
+00:02:14.389 --> 00:02:17.259
+Só que na hora de procurar os meus impostos tem que ser no meu plano.
+
+71
+00:02:17.490 --> 00:02:19.020
+Aí você faz um deparada do seu
+
+72
+00:02:19.559 --> 00:02:22.300
+paro da Receita Federal aqui dentro para CD
+
+73
+00:02:22.710 --> 00:02:23.380
+perfeito
+
+74
+00:02:23.750 --> 00:02:26.309
+Então o plano de contas é fundamental.
+
+75
+00:02:26.589 --> 00:02:30.889
+Eu pego até hoje empresas com plano de contas antes do IFRS.
+
+76
+00:02:31.869 --> 00:02:32.369
+Entendeu
+
+77
+00:02:32.910 --> 00:02:34.139
+Então o plano de contas.
+
+78
+00:02:34.149 --> 00:02:34.919
+Nós precisamos,
+
+79
+00:02:34.990 --> 00:02:36.429
+se estiver desatualizado,
+
+80
+00:02:36.550 --> 00:02:37.789
+parar e atualizar.
+
+81
+00:02:38.429 --> 00:02:39.869
+Não é uma tarefa fácil,
+
+82
+00:02:39.910 --> 00:02:41.190
+mas é muito gratificante,
+
+83
+00:02:41.229 --> 00:02:41.580
+porque
+
+84
+00:02:41.910 --> 00:02:45.350
+todas as demonstrações já saem automático se vêem parametrizado.
+
+85
+00:02:45.759 --> 00:02:47.339
+Você não precisa ficar refazendo do manual.
+
+86
+00:02:48.130 --> 00:02:51.490
+E só tem que ter cautela na hora de abrir uma nova conta contábil que mexe com tudo,
+
+87
+00:02:51.570 --> 00:02:51.649
+né?
+
+88
+00:02:51.750 --> 00:02:51.960
+Então
+
+89
+00:02:52.250 --> 00:02:54.929
+tem que saber quais são os impactos dessa nova conta contábil.
+
+90
+00:02:55.490 --> 00:02:56.059
+Então olha,
+
+91
+00:02:56.529 --> 00:02:59.160
+de acordo com o le a- com o item oito da norma.
+
+92
+00:02:59.990 --> 00:03:00.460
+do
+
+93
+00:03:00.960 --> 00:03:02.619
+CTG 2001,
+
+94
+00:03:02.710 --> 00:03:02.820
+né?
+
+95
+00:03:02.869 --> 00:03:06.160
+Comunicado técnico Geral do Conselho Federal revisão 3
+
+96
+00:03:06.550 --> 00:03:09.070
+Ela define a formalidade de cinturação contábil
+
+97
+00:03:09.429 --> 00:03:12.029
+de forma digital para fins de atendimento para PT,
+
+98
+00:03:12.309 --> 00:03:12.589
+né?
+
+99
+00:03:13.389 --> 00:03:13.740
+Então
+
+100
+00:03:14.070 --> 00:03:16.869
+plano de contas com todas as suas contas sintéticas
+
+101
+00:03:16.869 --> 00:03:20.889
+e analíticas devem conter no mínimo quatro níveis.
+
+102
+00:03:22.139 --> 00:03:22.529
+né?
+
+103
+00:03:22.860 --> 00:03:24.570
+E é parte integrante
+
+104
+00:03:24.979 --> 00:03:27.020
+da situação contábil da entidade.
+
+105
+00:03:27.919 --> 00:03:30.949
+devendo seguir a estrutura patrimonial prevista
+
+106
+00:03:31.240 --> 00:03:33.490
+lá da Lei 6404.
+
+107
+00:03:33.839 --> 00:03:35.039
+Então nós temos um regulamento,
+
+108
+00:03:35.119 --> 00:03:37.889
+no mínimo quatro níveis e depois cabe que depois
+
+109
+00:03:38.119 --> 00:03:39.679
+con- conforme o porte da empresa,
+
+110
+00:03:39.759 --> 00:03:40.880
+você vai ter nos níveis,
+
+111
+00:03:40.960 --> 00:03:41.210
+né?
+
+112
+00:03:42.860 --> 00:03:44.770
+na transmissão para o Sad.
+
+113
+00:03:45.789 --> 00:03:47.740
+juntamente com os livros de Agirá
+
+114
+00:03:48.309 --> 00:03:51.130
+e documento da titulação votável digital da entidade,
+
+115
+00:03:51.429 --> 00:03:54.940
+devem constar apenas as contas que tenham o saldo
+
+116
+00:03:55.229 --> 00:03:57.550
+ou que tiveram movimentação na ECD.
+
+117
+00:03:58.660 --> 00:04:00.830
+Então se a conta começou com o saldo zero e
+
+118
+00:04:00.830 --> 00:04:03.070
+não tem nenhuma movimentação e terminou com o saldo,
+
+119
+00:04:03.350 --> 00:04:04.020
+não vai aparecer.
+
+120
+00:04:04.929 --> 00:04:06.490
+Agora se começou com o saldo 0,
+
+121
+00:04:06.649 --> 00:04:08.800
+teve movimentação e terminou com o saldo 0.
+
+122
+00:04:09.169 --> 00:04:10.360
+Ela tem que aparecer
+
+123
+00:04:10.690 --> 00:04:11.210
+perfeito.
+
+124
+00:04:11.580 --> 00:04:12.720
+Então é assim que nós
+
+125
+00:04:12.929 --> 00:04:14.360
+enxergamos aqui a CD,
+
+126
+00:04:14.610 --> 00:04:16.410
+que é a nossa contabilidade mesmo normal,
+
+127
+00:04:16.488 --> 00:04:16.809
+né?
+
+128
+00:04:17.778 --> 00:04:18.928
+Se a empresa
+
+129
+00:04:19.218 --> 00:04:21.699
+transmitir a ECD em diversos arquivos,
+
+130
+00:04:22.259 --> 00:04:24.889
+ainda que a conta termine com saldo zero
+
+131
+00:04:25.178 --> 00:04:26.039
+em um arquivo,
+
+132
+00:04:26.428 --> 00:04:29.658
+deve constar no plano de conta de todos os arquivos
+
+133
+00:04:29.778 --> 00:04:30.389
+perfeito.
+
+134
+00:04:30.979 --> 00:04:31.748
+Aí ele termita com saldo
+
+135
+00:04:32.699 --> 00:04:33.419
+tempo movimento
+
+136
+00:04:34.239 --> 00:04:37.848
+Aqui um detalhe importante que eu dos para vocês fazendo manual,
+
+137
+00:04:38.419 --> 00:04:38.669
+né?
+
+138
+00:04:39.178 --> 00:04:41.729
+Elaborando o manual justamente para que eu montasse
+
+139
+00:04:42.058 --> 00:04:42.968
+as minhas aulas.
+
+140
+00:04:43.459 --> 00:04:43.579
+Então,
+
+141
+00:04:43.658 --> 00:04:44.139
+por exemplo,
+
+142
+00:04:44.178 --> 00:04:45.618
+eu criei aqui um plano de contas,
+
+143
+00:04:45.699 --> 00:04:45.949
+né?
+
+144
+00:04:46.410 --> 00:04:48.299
+e eu esqueci da filial Buru.
+
+145
+00:04:49.350 --> 00:04:50.260
+Então eu abri lá
+
+146
+00:04:50.829 --> 00:04:52.429
+lá no meu artigo circulante,
+
+147
+00:04:52.510 --> 00:04:52.630
+né?
+
+148
+00:04:52.709 --> 00:04:54.709
+Caixa equivalente de caixa e tal
+
+149
+00:04:55.029 --> 00:04:58.450
+e aí eu abri caixa filial combinas e faltou Bandu.
+
+150
+00:04:58.790 --> 00:05:00.549
+Aí eu lembrei foi abrir a Bandu
+
+151
+00:05:00.750 --> 00:05:01.769
+Quando eu abro,
+
+152
+00:05:02.329 --> 00:05:04.200
+depois que o meu plano já está constituído,
+
+153
+00:05:04.630 --> 00:05:05.730
+ele vai para o fim da fila.
+
+154
+00:05:06.769 --> 00:05:07.399
+Entendeu
+
+155
+00:05:07.929 --> 00:05:08.089
+Então.
+
+156
+00:05:08.369 --> 00:05:09.769
+Nós temos que tomar cuidado com isso,
+
+157
+00:05:09.890 --> 00:05:10.600
+porque eu fui enganado,
+
+158
+00:05:10.609 --> 00:05:10.619
+né?
+
+159
+00:05:11.890 --> 00:05:14.529
+Quando da criação de novas contas do plano de contas,
+
+160
+00:05:14.649 --> 00:05:17.350
+não necessariamente aparecerão em arqueológico.
+
+161
+00:05:18.450 --> 00:05:20.290
+como no exemplo citado deveria,
+
+162
+00:05:20.809 --> 00:05:21.890
+mas vai lá para o final da fila.
+
+163
+00:05:21.929 --> 00:05:23.209
+Se você tem um plano extenso,
+
+164
+00:05:23.489 --> 00:05:26.380
+você cria a conta vai na Mch cria a conta vai na MX
+
+165
+00:05:27.049 --> 00:05:28.260
+Por quê Foi lá para o final da fila.
+
+166
+00:05:28.450 --> 00:05:29.200
+Não vem nenhuma ordem,
+
+167
+00:05:29.250 --> 00:05:29.690
+coisa ótima.
+
+168
+00:05:29.769 --> 00:05:30.160
+Então
+
+169
+00:05:30.410 --> 00:05:32.239
+não sei se já corrigiram isso
+
+170
+00:05:32.489 --> 00:05:33.279
+agora tá
+
+171
+00:05:33.410 --> 00:05:33.570
+Então.
+
+172
+00:05:33.649 --> 00:05:36.320
+Fique atento aí em relação a quem for criar alguma conta
+
+173
+00:05:36.649 --> 00:05:37.799
+dentro do programa
+
+174
+00:05:37.929 --> 00:05:38.410
+manual,
+
+175
+00:05:38.489 --> 00:05:38.660
+né?
+
+176
+00:05:39.089 --> 00:05:40.329
+Pode ser que queça livas.
+
+177
+00:05:40.410 --> 00:05:42.890
+Então eu achei interessante trazer essa informação para vocês.
+
+178
+00:05:44.739 --> 00:05:46.010
+ASCD anterior.
+
+179
+00:05:47.309 --> 00:05:48.829
+Registro C50 plano de
+
+180
+00:05:49.109 --> 00:05:49.869
+recuperado,
+
+181
+00:05:50.269 --> 00:05:50.390
+né?
+
+182
+00:05:50.470 --> 00:05:51.470
+Ele identifica
+
+183
+00:05:51.709 --> 00:05:52.149
+o plano de
+
+184
+00:05:52.470 --> 00:05:53.820
+referente ao arquivo da CD,
+
+185
+00:05:53.829 --> 00:05:55.019
+que foi recuperado
+
+186
+00:05:55.269 --> 00:05:55.799
+Registro
+
+187
+00:05:56.109 --> 00:05:56.709
+bicicleta.
+
+188
+00:05:57.559 --> 00:06:01.390
+O C051 plano de conta referencial recuperado.
+
+189
+00:06:03.209 --> 00:06:05.049
+tem a finalidade de informar o plano de
+
+190
+00:06:05.049 --> 00:06:08.119
+referencial utilizado no arquivo ECD que foi recuperada
+
+191
+00:06:08.369 --> 00:06:12.329
+associada ao registro I051 tá São os números de
+
+192
+00:06:12.329 --> 00:06:14.470
+registro que nós temos aí dentro da nossa ECD.
+
+193
+00:06:16.339 --> 00:06:19.510
+Esse existe é necessário quando há recuperação do ECD
+
+194
+00:06:19.940 --> 00:06:23.820
+para garantir a compatibilidade re- a rastreabilidade,
+
+195
+00:06:23.940 --> 00:06:24.070
+né?
+
+196
+00:06:24.500 --> 00:06:26.739
+Do mapeamento de contas contadas de entidade
+
+197
+00:06:26.739 --> 00:06:28.940
+dos planos referenciais para quem fez obviamente,
+
+198
+00:06:29.019 --> 00:06:29.260
+né?
+
+199
+00:06:29.779 --> 00:06:32.350
+Que é o que eu aconselho que se faça aqui dentro da ECD.
+
+200
+00:06:33.609 --> 00:06:37.519
+O05D2 indicação do Código de aglutinação recuperados.
+
+201
+00:06:38.549 --> 00:06:41.510
+Então tem por finalidade de formar os códigos da rotinação,
+
+202
+00:06:41.589 --> 00:06:42.980
+conforme o SPD dois
+
+203
+00:06:43.269 --> 00:06:45.070
+que foram recuperados do ECD anterior,
+
+204
+00:06:45.149 --> 00:06:46.690
+associando a escrituração atual
+
+205
+00:06:47.089 --> 00:06:50.339
+Então nesse bloco aqui eu fiz questão de abrir no detalhe
+
+206
+00:06:50.589 --> 00:06:52.510
+a gente entender o coração da ECD,
+
+207
+00:06:52.589 --> 00:06:52.839
+né?
+
+208
+00:06:54.369 --> 00:06:56.290
+Esse código representa a forma como os
+
+209
+00:06:56.290 --> 00:06:59.290
+saldos contáveis foram agrupados nas demonstrações contadas.
+
+210
+00:06:59.410 --> 00:06:59.940
+Então assim,
+
+211
+00:07:00.570 --> 00:07:03.589
+quem vai montar as demonstrações dos contadores
+
+212
+00:07:04.250 --> 00:07:05.179
+o agrupamento,
+
+213
+00:07:05.250 --> 00:07:07.079
+a aglutinação das contas
+
+214
+00:07:07.410 --> 00:07:08.570
+para elaborar o balanço,
+
+215
+00:07:08.649 --> 00:07:09.739
+elaborar DRE,
+
+216
+00:07:10.010 --> 00:07:11.839
+elaborar lucros acumulados
+
+217
+00:07:12.010 --> 00:07:14.609
+DMPL fluxo de caixa et cetera,
+
+218
+00:07:15.070 --> 00:07:15.380
+né?
+
+219
+00:07:15.769 --> 00:07:17.170
+Então teve que fazer uma aglutinação.
+
+220
+00:07:17.220 --> 00:07:18.970
+O contador é responsável disso,
+
+221
+00:07:19.450 --> 00:07:20.850
+como cometeram no início,
+
+222
+00:07:20.970 --> 00:07:21.230
+né?
+
+223
+00:07:23.470 --> 00:07:26.750
+Esse registro é essencial pagado aqui da consistência nos exercícios,
+
+224
+00:07:26.829 --> 00:07:28.059
+sobretudo quando a SECEE
+
+225
+00:07:28.589 --> 00:07:31.220
+utiliza esse CD anterior como base de comparação
+
+226
+00:07:31.589 --> 00:07:32.649
+de dados recuperados.
+
+227
+00:07:32.709 --> 00:07:33.260
+Tá Então
+
+228
+00:07:33.619 --> 00:07:34.859
+os direitos estão interligadas as dois,
+
+229
+00:07:34.869 --> 00:07:34.880
+né?
+
+230
+00:07:38.109 --> 00:07:40.649
+Aí nós vamos ter os se- 650
+
+231
+00:07:40.950 --> 00:07:42.899
+saldos periódicos recuperados,
+
+232
+00:07:43.630 --> 00:07:44.989
+identificação do período,
+
+233
+00:07:45.149 --> 00:07:45.380
+né?
+
+234
+00:07:45.790 --> 00:07:49.910
+Identifica os saldos recuperados da ECD anterior está lá no 650.
+
+235
+00:07:50.869 --> 00:07:52.739
+155 detalho
+
+236
+00:07:52.989 --> 00:07:55.299
+do saldo dos periódicos recuperados.
+
+237
+00:07:56.079 --> 00:07:58.040
+demonstra saldos recuperados anterior,
+
+238
+00:07:58.079 --> 00:07:59.470
+de acordo com o período
+
+239
+00:07:59.679 --> 00:08:01.929
+informado no C150
+
+240
+00:08:02.519 --> 00:08:02.640
+Então.
+
+241
+00:08:02.720 --> 00:08:04.000
+Aí eu pergunto para vocês,
+
+242
+00:08:04.079 --> 00:08:04.160
+né?
+
+243
+00:08:04.200 --> 00:08:05.320
+Os C600
+
+244
+00:08:05.559 --> 00:08:07.920
+são as demonstrações contábeis recuperadas,
+
+245
+00:08:08.720 --> 00:08:09.040
+né?
+
+246
+00:08:09.399 --> 00:08:11.149
+Informo todas elas
+
+247
+00:08:11.559 --> 00:08:16.309
+Demonstração do resultado está no C650 traz o DRI recuperar.
+
+248
+00:08:17.609 --> 00:08:20.600
+Aí eu pergunto precisava de tanta informação assim
+
+249
+00:08:21.170 --> 00:08:21.850
+dessas coisas,
+
+250
+00:08:21.970 --> 00:08:23.250
+sendo que já ca la base,
+
+251
+00:08:23.609 --> 00:08:23.890
+né?
+
+252
+00:08:24.369 --> 00:08:24.769
+Enfim,
+
+253
+00:08:25.489 --> 00:08:26.640
+mas ela quer um cheque,
+
+254
+00:08:26.809 --> 00:08:26.929
+né?
+
+255
+00:08:27.010 --> 00:08:28.239
+Então faz a gente recupera.

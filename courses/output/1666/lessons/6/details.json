@@ -1,0 +1,33 @@
+{
+  "id": 454567,
+  "title": "Estabelecimento empresarial",
+  "position": 6,
+  "duration": 117,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c93a5900-5c1f-49ac-80eb-fcd7925e93fb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c93a5900-5c1f-49ac-80eb-fcd7925e93fb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c93a5900-5c1f-49ac-80eb-fcd7925e93fb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c93a5900-5c1f-49ac-80eb-fcd7925e93fb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c93a5900-5c1f-49ac-80eb-fcd7925e93fb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

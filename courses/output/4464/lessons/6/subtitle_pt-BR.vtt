@@ -1,0 +1,369 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.000
+Meus amigos, chegamos à parte de arquivos e transmissões.
+
+3
+00:00:04.000 --> 00:00:09.000
+O que o E-Social nos traz como construção de informação
+
+4
+00:00:09.000 --> 00:00:16.000
+e dá o tratamento de recepcionar, de armazenar esses dados para umas consultas futuras?
+
+5
+00:00:16.000 --> 00:00:22.000
+Então, os eventos, que é o que a gente considera para o E-Social,
+
+6
+00:00:22.000 --> 00:00:27.000
+serão enviados por meio de arquivos no formato XML direto do Sistema da Folha,
+
+7
+00:00:27.000 --> 00:00:31.000
+o qual será validado e armazenado no ambiente nacional
+
+8
+00:00:31.000 --> 00:00:34.000
+e disponibilizado para os partícipes do E-Social.
+
+9
+00:00:34.000 --> 00:00:40.000
+O que a gente precisa entender dessa dinâmica dos eventos do E-Social?
+
+10
+00:00:40.000 --> 00:00:46.000
+Todo acontecimento na folha de pagamento transforma-se em um evento.
+
+11
+00:00:46.000 --> 00:00:52.000
+Então, a gente tem um evento de admissão, um evento de um exame admissional,
+
+12
+00:00:52.000 --> 00:00:55.000
+um evento de uma demissão,
+
+13
+00:00:55.000 --> 00:00:57.000
+um evento de um recibo,
+
+14
+00:00:57.000 --> 00:01:02.000
+um evento de um pagamento, porque o S1200 e o S1210 é composto,
+
+15
+00:01:02.000 --> 00:01:05.000
+como se fosse um olerite do empregado,
+
+16
+00:01:05.000 --> 00:01:12.000
+são informações que vão sendo declaradas para o E-Social no decorrer do mês.
+
+17
+00:01:12.000 --> 00:01:17.000
+Então, todo acontecimento no DP se transforma em um evento.
+
+18
+00:01:17.000 --> 00:01:21.000
+E esse evento, automaticamente, fica oculto,
+
+19
+00:01:21.000 --> 00:01:25.000
+porque ele é transmitido via Sistema da Folha de Pagamento.
+
+20
+00:01:25.000 --> 00:01:27.000
+Então, se a gente pegar o exemplo,
+
+21
+00:01:27.000 --> 00:01:29.000
+de cadastrar um empregado, salvei.
+
+22
+00:01:29.000 --> 00:01:32.000
+Quando eu salvo aquele cadastro do trabalhador,
+
+23
+00:01:32.000 --> 00:01:36.000
+internamente o Sistema de Folha já gera o evento de admissão
+
+24
+00:01:36.000 --> 00:01:38.000
+e transmite para o E-Social.
+
+25
+00:01:38.000 --> 00:01:40.000
+Alguns sistemas têm lá seus indicadores,
+
+26
+00:01:40.000 --> 00:01:42.000
+dizendo que o E-Social ficou verdinho,
+
+27
+00:01:42.000 --> 00:01:45.000
+que foi ticado, que já foi transmitido,
+
+28
+00:01:45.000 --> 00:01:48.000
+mas é essa a dinâmica.
+
+29
+00:01:48.000 --> 00:01:50.000
+Por muitas vezes, na correria do dia a dia,
+
+30
+00:01:50.000 --> 00:01:53.000
+o profissional da área da folha de pagamento nem vai perceber
+
+31
+00:01:53.000 --> 00:01:56.000
+que fez a admissão, salvou e o E-Social já está transmitido.
+
+32
+00:01:57.000 --> 00:02:00.000
+Mas é assim que acontece, essa é a dinâmica.
+
+33
+00:02:00.000 --> 00:02:04.000
+Então, fica pelos bastidores, fica oculto,
+
+34
+00:02:04.000 --> 00:02:08.000
+fica no formato XML, padrão da própria Receita Federal,
+
+35
+00:02:08.000 --> 00:02:11.000
+e essa informação é transmitida sempre que acontece.
+
+36
+00:02:11.000 --> 00:02:13.000
+E essa dinâmica acontece assim,
+
+37
+00:02:13.000 --> 00:02:16.000
+software da folha de pagamento envia o XML para o E-Social,
+
+38
+00:02:16.000 --> 00:02:22.000
+o E-Social recepciona, compartilha os dados com os outros órgãos
+
+39
+00:02:22.000 --> 00:02:25.000
+e automaticamente dá um arquivo de retorno.
+
+40
+00:02:25.000 --> 00:02:28.000
+Como um arquivo XML também.
+
+41
+00:02:28.000 --> 00:02:31.000
+E aí a gente retorna para o nosso sistema de folha,
+
+42
+00:02:31.000 --> 00:02:33.000
+porque o sistema da folha de pagamento,
+
+43
+00:02:33.000 --> 00:02:38.000
+ele tem a missão de recepcionar esse arquivo de retorno
+
+44
+00:02:38.000 --> 00:02:41.000
+e automaticamente facilitar a leitura
+
+45
+00:02:41.000 --> 00:02:44.000
+para o profissional da área de departamento pessoal.
+
+46
+00:02:44.000 --> 00:02:47.000
+Então, por exemplo, você transmite um arquivo de folha,
+
+47
+00:02:47.000 --> 00:02:49.000
+automaticamente a sua folha foi fechada,
+
+48
+00:02:49.000 --> 00:02:51.000
+você já transmitiu, você já visualizou,
+
+49
+00:02:51.000 --> 00:02:54.000
+já ficou disponível para o E-Social, tudo lindo.
+
+50
+00:02:54.000 --> 00:02:57.000
+Quando o E-Social te dá um arquivo de retorno,
+
+51
+00:02:57.000 --> 00:03:00.000
+o seu sistema vai te dizer como ficou essa informação
+
+52
+00:03:00.000 --> 00:03:02.000
+no ambiente nacional.
+
+53
+00:03:02.000 --> 00:03:06.000
+Então, ali já facilita a sua conferência da sua rotina de folha.
+
+54
+00:03:06.000 --> 00:03:08.000
+Então, sempre vai ter um arquivo de retorno
+
+55
+00:03:08.000 --> 00:03:11.000
+dando ali a comprovação da transmissão.
+
+56
+00:03:11.000 --> 00:03:14.000
+O E-Social disponibiliza uma ferramenta
+
+57
+00:03:14.000 --> 00:03:18.000
+para auxiliar na gestão das informações pelos empregadores.
+
+58
+00:03:18.000 --> 00:03:21.000
+O E-Social Download permite baixar os eventos
+
+59
+00:03:21.000 --> 00:03:23.000
+transmitidos pelos empregadores
+
+60
+00:03:23.000 --> 00:03:26.000
+no formato XML.
+
+61
+00:03:26.000 --> 00:03:29.000
+O que isso significa, pessoal?
+
+62
+00:03:29.000 --> 00:03:31.000
+Eventualmente, por exemplo,
+
+63
+00:03:31.000 --> 00:03:33.000
+para uma empresa prestadora de serviço
+
+64
+00:03:33.000 --> 00:03:37.000
+pode existir a necessidade de reaproveitar
+
+65
+00:03:37.000 --> 00:03:40.000
+registros antigos do E-Social.
+
+66
+00:03:40.000 --> 00:03:44.000
+Então, se você quer trocar de contabilidade,
+
+67
+00:03:44.000 --> 00:03:46.000
+se você quer mudar o seu sistema de folha
+
+68
+00:03:46.000 --> 00:03:48.000
+e não consegue fazer a integração
+
+69
+00:03:48.000 --> 00:03:50.000
+entre softwares da folha de pagamento,
+
+70
+00:03:50.000 --> 00:03:51.000
+o que você pode fazer?
+
+71
+00:03:51.000 --> 00:03:53.000
+Você pode baixar o arquivo do XML,
+
+72
+00:03:53.000 --> 00:03:55.000
+os eventos do E-Social
+
+73
+00:03:55.000 --> 00:03:57.000
+e depois com aquele arquivo você importa
+
+74
+00:03:57.000 --> 00:03:59.000
+para o seu novo sistema de folha de pagamento.
+
+75
+00:03:59.000 --> 00:04:03.000
+Você aproveita porque é um formato único
+
+76
+00:04:03.000 --> 00:04:05.000
+para atender a exigência tanto do fisco
+
+77
+00:04:05.000 --> 00:04:07.000
+como também das próprias empresas de software.
+
+78
+00:04:07.000 --> 00:04:09.000
+Então, isso facilita demais
+
+79
+00:04:09.000 --> 00:04:11.000
+tanto na mudança de ferramenta
+
+80
+00:04:11.000 --> 00:04:13.000
+como uma empresa de software,
+
+81
+00:04:13.000 --> 00:04:15.000
+como também mudança do profissional da área contábil,
+
+82
+00:04:15.000 --> 00:04:17.000
+o prestador de serviço como o outro.
+
+83
+00:04:17.000 --> 00:04:19.000
+Então, você vai sempre utilizar
+
+84
+00:04:19.000 --> 00:04:22.000
+as informações do E-Social Download,
+
+85
+00:04:22.000 --> 00:04:24.000
+é uma ferramenta muito boa.
+
+86
+00:04:24.000 --> 00:04:26.000
+E aqui eu coloco a tela para vocês
+
+87
+00:04:26.000 --> 00:04:29.000
+que ele facilita a vida do empregador.
+
+88
+00:04:29.000 --> 00:04:32.000
+Você tem ali a opção de efetuar
+
+89
+00:04:32.000 --> 00:04:33.000
+download dos arquivos,
+
+90
+00:04:33.000 --> 00:04:34.000
+arquivos de cadastro,
+
+91
+00:04:34.000 --> 00:04:36.000
+arquivos de tabelas,
+
+92
+00:04:36.000 --> 00:04:38.000
+essas informações que ficam disponíveis
+
+93
+00:04:38.000 --> 00:04:40.000
+para o E-Social.

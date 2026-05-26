@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2477,
+    "title": "Gestão e Controle de Estoques",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de gestão e controle de estoques você vai aprender desde conceitos básicos, objetivos e benefícios até pontos como inventário de estoque, classificação ABC e XYZ, definição de obsolescência de itens, dimensionamento de estoque mínimo, de segurança e máximo, definição de ponto e lote de reposição, endereçamento de estoque, controle de movimentações (entrada e saída), arranjo físico, organização e ergonomia e muitos pontos para colocar em prática seus conhecimentos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/30a31f9a2f33f984d7a954b3b525df301728384948.jpg",
+    "goals": [
+      "Apresentar desde conceitos básicos, objetivos e benefícios até pontos como inventário de estoque, fluxo de reposição, classificação ABC e XYZ, definição de obsolescência de itens, dimensionamento de estoque mínimo, de segurança e máximo, definição de ponto e lote de reposição, endereçamento de estoque, controle de movimentações (entrada e saída), arranjo físico, organização e ergonomia e muitos pontos para colocar em prática seus conhecimentos."
+    ],
+    "teacher": {
+      "id": 551185,
+      "name": "Danilo Romão",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1640282903.jpeg"
+    },
+    "duration": 8205,
+    "keywords": "estoque;estoques;controle de estoque;gestão de estoque",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 24,
+    "materialCount": 3,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1165,
+    "averageRating": 9.52,
+    "practiceAverage": 9.49,
+    "trailer": {
+      "id": "f14a8541-83d6-4563-967a-7133c8d7b3f9",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f14a8541-83d6-4563-967a-7133c8d7b3f9/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f14a8541-83d6-4563-967a-7133c8d7b3f9/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f14a8541-83d6-4563-967a-7133c8d7b3f9/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f14a8541-83d6-4563-967a-7133c8d7b3f9/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-06-12T08:55:30.000Z",
+      "updatedAt": "2023-06-12T08:55:29.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-03-08T08:52:00.000Z",
+    "recordedAt": "2023-03-18T00:00:00.000Z",
+    "createdAt": "2023-02-24T17:44:44.000Z"
+  }
+}

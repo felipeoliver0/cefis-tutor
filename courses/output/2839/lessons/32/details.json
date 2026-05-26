@@ -1,0 +1,33 @@
+{
+  "id": 470597,
+  "title": "Atributos a compensar e recuperar - parte 2",
+  "position": 32,
+  "duration": 497,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0906aeea-9a88-4e85-805e-39faa226d6ed/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0906aeea-9a88-4e85-805e-39faa226d6ed/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0906aeea-9a88-4e85-805e-39faa226d6ed/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0906aeea-9a88-4e85-805e-39faa226d6ed/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0906aeea-9a88-4e85-805e-39faa226d6ed/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

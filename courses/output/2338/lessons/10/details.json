@@ -1,0 +1,33 @@
+{
+  "id": 464674,
+  "title": "Contabilização",
+  "position": 10,
+  "duration": 595,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/62938804-bdd8-4a8f-800e-bd95dc7e3f75/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62938804-bdd8-4a8f-800e-bd95dc7e3f75/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62938804-bdd8-4a8f-800e-bd95dc7e3f75/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62938804-bdd8-4a8f-800e-bd95dc7e3f75/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62938804-bdd8-4a8f-800e-bd95dc7e3f75/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

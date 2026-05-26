@@ -1,0 +1,33 @@
+{
+  "id": 484106,
+  "title": "Conceito de e-commerce",
+  "position": 28,
+  "duration": 146,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8db2bd0c-107e-43d0-b6ef-ac6ec5174e0e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8db2bd0c-107e-43d0-b6ef-ac6ec5174e0e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8db2bd0c-107e-43d0-b6ef-ac6ec5174e0e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8db2bd0c-107e-43d0-b6ef-ac6ec5174e0e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8db2bd0c-107e-43d0-b6ef-ac6ec5174e0e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

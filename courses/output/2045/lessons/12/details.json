@@ -1,0 +1,33 @@
+{
+  "id": 461860,
+  "title": "Compromisso com as partes interessadas",
+  "position": 12,
+  "duration": 525,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/905f9cb1-176c-4fd2-acd0-7a9f14bbead8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/905f9cb1-176c-4fd2-acd0-7a9f14bbead8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/905f9cb1-176c-4fd2-acd0-7a9f14bbead8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/905f9cb1-176c-4fd2-acd0-7a9f14bbead8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/905f9cb1-176c-4fd2-acd0-7a9f14bbead8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

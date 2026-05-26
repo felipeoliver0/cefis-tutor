@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1999,
+    "title": "Direito Internacional Público",
+    "subtitle": "Noções Gerais, Direito de Guerra e Solução de Controvérsias",
+    "summary": "Neste curso de Direito Internacional Público você aprenderá as noções gerais, diretrizes, conceitos, fontes e principais normas que regem a temática e compreenderá, principalmente, o Direito de Guerra e as soluções de controvérsias internacionais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/32df2bee8155f53ea35f41a709a3225c1728384903.jpg",
+    "goals": [
+      "Neste curso de direito internacional público você aprenderá toda a aplicação legal relacionada ao direito de guerra e soluções de controvérsias."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 9140,
+    "keywords": "direto internacional publico;direito de guerra;INTERNACIONAL;Direito;organização",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 23,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 60,
+    "averageRating": 9.23,
+    "practiceAverage": 9.17,
+    "trailer": {
+      "id": "bdda12d7-e6af-4bb5-80ab-92cbf5303312",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bdda12d7-e6af-4bb5-80ab-92cbf5303312/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bdda12d7-e6af-4bb5-80ab-92cbf5303312/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bdda12d7-e6af-4bb5-80ab-92cbf5303312/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bdda12d7-e6af-4bb5-80ab-92cbf5303312/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-03-11T19:39:07.000Z",
+      "updatedAt": "2022-03-11T19:39:06.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-03-21T19:04:05.000Z",
+    "recordedAt": "2022-03-04T00:00:00.000Z",
+    "createdAt": "2022-03-07T10:30:27.000Z"
+  }
+}

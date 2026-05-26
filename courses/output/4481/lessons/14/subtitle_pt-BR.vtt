@@ -1,0 +1,137 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.459
+O pilar 4, pessoal, é a UF, que é super importante, e para o Estado ainda mais,
+
+3
+00:00:07.459 --> 00:00:14.300
+porque ele quer entender se de fato está acontecendo as operações que estão dentro dos documentos fiscais eletrônicos.
+
+4
+00:00:14.919 --> 00:00:26.420
+Então, a DIP define o território da operação, ou seja, determina exatamente qual fisco vai enxergar o valor da operação comercial do seu contribuinte.
+
+5
+00:00:26.420 --> 00:00:34.000
+Isso trata, então, rastreamento geográfico, cada transação é vinculada a uma UF específica,
+
+6
+00:00:34.000 --> 00:00:44.380
+então, se você vende para São Paulo, o fisco de São Paulo que receberá o dado, mesmo que sua matriz seja em Minas Gerais.
+
+7
+00:00:45.380 --> 00:00:54.539
+Se, então, houve uma venda para esse Estado, isso quer dizer que ele que vai receber, mesmo que você tenha filiais em outros Estados.
+
+8
+00:00:55.200 --> 00:00:56.000
+Essa distribuição...
+
+9
+00:00:56.420 --> 00:01:04.420
+A distribuição de dados, quando a gente fala sobre Estados, os adquirentes, eles segregam os arquivos do Estado, tá?
+
+10
+00:01:04.420 --> 00:01:10.920
+Então, uma venda mal classificada pode gerar omissão em um Estado e sobrar para o outro.
+
+11
+00:01:11.920 --> 00:01:14.420
+Então, são erros em cascata.
+
+12
+00:01:14.920 --> 00:01:22.420
+Se o nosso cadastro na emissão do documento está desatualizado, isso quer dizer que você vai ter o lançamento do documento,
+
+13
+00:01:22.920 --> 00:01:24.920
+vai enviar o SPED fiscal errado,
+
+14
+00:01:25.180 --> 00:01:26.379
+vai ter enviado, então,
+
+15
+00:01:26.420 --> 00:01:27.379
+um XML errado,
+
+16
+00:01:27.379 --> 00:01:32.760
+e na hora do tipo de pagamento, a intermediadora ou a instituição financeira vai fazer o quê?
+
+17
+00:01:34.000 --> 00:01:37.379
+Classificar ou omitir a informação para um Estado.
+
+18
+00:01:37.959 --> 00:01:39.040
+Qual que é o ponto crítico?
+
+19
+00:01:39.400 --> 00:01:44.099
+O erro de cadastro de estabelecimento, ou seja, de filial, matriz,
+
+20
+00:01:44.719 --> 00:01:50.640
+na maquininha também das instituições financeiras, pode ser direcionado para a Receita,
+
+21
+00:01:51.359 --> 00:01:55.299
+na hora da entrega da DIMP, acontecer uma autuação.
+
+22
+00:01:55.299 --> 00:01:55.340
+Por quê?
+
+23
+00:01:56.420 --> 00:02:00.140
+Porque vai sobrar um valor de um Estado e omitir do outro.
+
+24
+00:02:01.239 --> 00:02:05.379
+Então, veja que é um erro de cascata, tanto da emissão do documento,
+
+25
+00:02:06.260 --> 00:02:11.439
+quanto também as informações das instituições financeiras e o seu cliente.
+
+26
+00:02:12.039 --> 00:02:16.960
+Nós precisamos entender que é uma rotina fiscal,
+
+27
+00:02:16.960 --> 00:02:25.960
+o cadastro de saneamento é um primeiro passo para, então, trazer uma compliance dentro de qualquer tipo,
+
+28
+00:02:26.419 --> 00:02:27.500
+de obrigação acessória.
+
+29
+00:02:28.139 --> 00:02:32.400
+O saneamento, e quando eu falo saneamento, é a gente olhar o todo.
+
+30
+00:02:34.340 --> 00:02:37.719
+Qual é o processo que faz parte do cadastro?
+
+31
+00:02:38.219 --> 00:02:40.180
+Quem faz parte de cadastro?
+
+32
+00:02:40.539 --> 00:02:42.680
+E quando eu falo cadastro, não é só o cadastro de produto.
+
+33
+00:02:43.319 --> 00:02:48.979
+É cadastro até mesmo do nosso cliente, do cartão CNPJ do nosso contribuinte.
+
+34
+00:02:48.979 --> 00:02:56.180
+É entender que os participantes envolvidos na operação precisam estar também atualizados dentro do nosso cadastro.
+
+35
+00:02:56.419 --> 00:03:01.580
+Então, nós precisamos rever esse processo para trazer essa compliance.

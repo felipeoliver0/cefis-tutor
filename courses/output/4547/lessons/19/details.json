@@ -1,0 +1,33 @@
+{
+  "id": 488068,
+  "title": "Blocos da ECF - Parte 2",
+  "position": 19,
+  "duration": 563,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/f2588e2c-ef4f-4daa-a296-ca8ded96ccde/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2588e2c-ef4f-4daa-a296-ca8ded96ccde/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2588e2c-ef4f-4daa-a296-ca8ded96ccde/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2588e2c-ef4f-4daa-a296-ca8ded96ccde/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f2588e2c-ef4f-4daa-a296-ca8ded96ccde/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

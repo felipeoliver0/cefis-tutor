@@ -1,0 +1,33 @@
+{
+  "id": 459897,
+  "title": "Elaboração e entrega",
+  "position": 8,
+  "duration": 271,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0715fe08-28b5-4f89-a1ca-ded742ae79f7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0715fe08-28b5-4f89-a1ca-ded742ae79f7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0715fe08-28b5-4f89-a1ca-ded742ae79f7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0715fe08-28b5-4f89-a1ca-ded742ae79f7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0715fe08-28b5-4f89-a1ca-ded742ae79f7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

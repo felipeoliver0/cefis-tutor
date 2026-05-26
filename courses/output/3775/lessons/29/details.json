@@ -1,0 +1,33 @@
+{
+  "id": 477667,
+  "title": "Inteligência Artificial",
+  "position": 29,
+  "duration": 452,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a852989f-0483-4e47-bb78-d0d1d3c5dddc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a852989f-0483-4e47-bb78-d0d1d3c5dddc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a852989f-0483-4e47-bb78-d0d1d3c5dddc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a852989f-0483-4e47-bb78-d0d1d3c5dddc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a852989f-0483-4e47-bb78-d0d1d3c5dddc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

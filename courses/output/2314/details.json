@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2314,
+    "title": "[Podcast #12] Guia de Transporte de Valores Eletrônica - GTVe",
+    "subtitle": "[Podcast #12] Guia de Transporte de Valores Eletrônica - GTVe",
+    "summary": "Neste PODCAST vamos falar sobre a GTV-e, Guia de Transporte de Valores Eletrônica - GTV-e, que visa acobertar prestações de serviço de transporte de valores.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/f057c8ad12a0d480720744484432c0141728428055.jpg",
+    "goals": [
+      "Neste PODCAST vamos falar sobre a GTV-e, Guia de Transporte de Valores Eletrônica - GTV-e, que visa acobertar prestações de serviço de transporte de valores."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 727,
+    "keywords": "podcast;gtve",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 16,
+    "averageRating": 9.75,
+    "practiceAverage": 9.6,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-08T20:30:00.000Z",
+    "recordedAt": "2022-10-13T00:00:00.000Z",
+    "createdAt": "2022-10-15T10:21:13.000Z"
+  }
+}

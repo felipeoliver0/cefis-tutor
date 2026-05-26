@@ -1,0 +1,33 @@
+{
+  "id": 458625,
+  "title": "Idoso, cota eleitoral e modalidades discriminatórias",
+  "position": 11,
+  "duration": 333,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/df922622-cb70-41a2-ac74-8f89d5e8d115/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df922622-cb70-41a2-ac74-8f89d5e8d115/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df922622-cb70-41a2-ac74-8f89d5e8d115/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df922622-cb70-41a2-ac74-8f89d5e8d115/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/df922622-cb70-41a2-ac74-8f89d5e8d115/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

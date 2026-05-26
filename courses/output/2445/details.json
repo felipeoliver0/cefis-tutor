@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2445,
+    "title": "Bancário: caracterização e direitos",
+    "subtitle": "Aplicações práticas",
+    "summary": "Neste curso sobre bancários você entenderá aspectos relativos à caracterização e direitos. Entenderá desde a previsão legal, aspectos sobre cargos de confiança, gratificação e muito mais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/01a08eb629f4d9e0a2fde958f40c9afc1728427909.jpg",
+    "goals": [
+      "Apresentar aspectos relativos à caracterização e direitos. Entenderá desde a previsão legal, aspectos sobre cargos de confiança, gratificação e muito mais."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 5043,
+    "keywords": "bancários",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 32,
+    "averageRating": 9.56,
+    "practiceAverage": 9.63,
+    "trailer": {
+      "id": "e50a1925-1e45-4bf5-b186-495a629aafb0",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e50a1925-1e45-4bf5-b186-495a629aafb0/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e50a1925-1e45-4bf5-b186-495a629aafb0/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e50a1925-1e45-4bf5-b186-495a629aafb0/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e50a1925-1e45-4bf5-b186-495a629aafb0/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-01-30T08:44:27.000Z",
+      "updatedAt": "2023-01-30T08:44:26.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-02-08T15:48:00.000Z",
+    "recordedAt": "2023-01-11T00:00:00.000Z",
+    "createdAt": "2023-01-16T18:52:59.000Z"
+  }
+}

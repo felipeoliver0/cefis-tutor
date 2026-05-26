@@ -1,0 +1,160 @@
+WEBVTT
+
+00:00:00.066 --> 00:00:06.765
+- Uma das principais dúvidas é, é necessário incluir o MIT na DCDEF Web, a forma de quitação dos
+
+00:00:06.765 --> 00:00:13.530
+- débitos informados? Porque na DCDEF convencional, a gente tinha que colocar a informação. Se houve
+
+00:00:13.530 --> 00:00:20.561
+- uma compensação, se houve um parcelamento. E, na verdade, em resposta a essa pergunta, o físico deixou
+
+00:00:20.561 --> 00:00:27.326
+- claro que o MIT não é sobre as informações de liquidação. Ele não tem função de trazer isso.
+
+00:00:27.586 --> 00:00:33.658
+- Então, por isso que ele não tem a opção de compensação ou de parcelamento, porque a ideia do MIT
+
+00:00:33.658 --> 00:00:39.906
+- é incluir os tributos e não validar aquilo que foi pago sobre os créditos tributários. Quais tributos
+
+00:00:39.906 --> 00:00:45.860
+- serão declarados no módulo MIT, inclusão dos tributos? A gente já conversou aqui dentro da aula,
+
+00:00:45.860 --> 00:00:51.755
+- das aulas, mas a própria insistão normativa 2237 nos relatou que foram todos os tributos que não
+
+00:00:51.755 --> 00:00:54.526
+- estavam relacionados ao FDR-INF e ao E-Social.
+
+00:00:55.234 --> 00:01:03.703
+- Retenção da fonte vem de onde? Do FDIMP. Então, MIT só irá incluir tributos que não estão relacionados
+
+00:01:03.703 --> 00:01:10.787
+- a essas duas obrigações acessórias, como RET, como IRPJ, como CCLL, como a própria IPI,
+
+00:01:10.787 --> 00:01:18.563
+- como PIS e COFINS. Ok? Como utilizar a funcionalidade de abater DECOMP? Isso daqui também gerou uma
+
+00:01:18.563 --> 00:01:21.566
+- prática operacional diferente, porque
+
+00:01:21.794 --> 00:01:29.460
+- No MIT, a gente pode trazer a opção de abater via PERDICOMP. O MIT começou a dar essa opção porque
+
+00:01:29.460 --> 00:01:36.904
+- existem compensações. Então, na DCTF Web, o MIT precisou ser redesenhado. E o Fisco, por meio das
+
+00:01:36.904 --> 00:01:40.958
+- suas perguntas e respostas, ele trouxe o procedimento.
+
+00:01:41.698 --> 00:01:48.113
+- Então o contribuinte pode utilizar a funcionalidade abater-perde-compe para débitos enviados perante
+
+00:01:48.113 --> 00:01:54.342
+- a Omit lá na DCTF Web. Então a funcionalidade de abater-decompe está com algumas restrições do
+
+00:01:54.342 --> 00:02:00.446
+- uso dos débitos, então o fisco está deixando uma possibilidade de lançar esse abater-decompe.
+
+00:02:01.154 --> 00:02:07.918
+- de COMPI para o IPI, SID, RET e OF. A opção é utilizar a funcionalidade de editar DARF, conforme
+
+00:02:07.918 --> 00:02:14.479
+- descrito no manual do ICTF-Web. E a outra alternativa é a emissão do DARF em ambiente do ECAQ.
+
+00:02:14.479 --> 00:02:21.513
+- Para tanto, o contribuinte deve clicar na opção Certidão, Situação Fiscal, Consulta, Dependência,
+
+00:02:21.513 --> 00:02:28.345
+- Situação Fiscal, Diagnóstico Fiscal. Então, o Fisco está fazendo, em paralelo, uma integração
+
+00:02:28.345 --> 00:02:29.630
+- via PERS de COMPI.
+
+00:02:30.050 --> 00:02:37.415
+- Então, se vocês hoje estiverem oriundos ao MIT, um saldo que será via Pé-de-Compi, ela precisa amarrar
+
+00:02:37.415 --> 00:02:44.368
+- essa rastreabilidade. E a ideia do Fisco, quando ele criou a função do MIT, não tinha desenhado a
+
+00:02:44.368 --> 00:02:51.595
+- função da Pé-de-Compi. Então, ao longo do caminho, ele veio desenhando possibilidades da gente fazer
+
+00:02:51.595 --> 00:02:54.142
+- o lançamento. Então, fazer os ARFs
+
+00:02:54.242 --> 00:03:01.457
+- manualmente, fazer o lançamento manualmente via PERDICOMP, porque a estrutura do MIT versus a ligação
+
+00:03:01.457 --> 00:03:08.329
+- das informações da PERDICOMP ainda não estava desenhada por completo. O MIT não são informados
+
+00:03:08.329 --> 00:03:15.475
+- os pagamentos? Não, o MIT não tem função de informar os pagamentos. Ele só tem função de incluir
+
+00:03:15.475 --> 00:03:20.766
+- os débitos tributários para dentro da DCTF Web. Essa é a função do MIT.
+
+00:03:21.538 --> 00:03:28.227
+- Uma das principais dúvidas também na época e que também não tinha deixado clara, até porque o
+
+00:03:28.227 --> 00:03:35.049
+- Fisco estava desenhando a estrutura do MIT, mas gerou muita ansiedade, foi sobre as cotas. Mas vocês
+
+00:03:35.049 --> 00:03:42.139
+- perceberam que o Fisco já teve a atualização das cotas. E qual é o processo? Lanço o tributo naquele
+
+00:03:42.139 --> 00:03:48.961
+- período de declarado, informo que será por contas. Nessa informação de cotas, no período que for
+
+00:03:48.961 --> 00:03:50.366
+- fazer o lançamento,
+
+00:03:50.498 --> 00:03:57.184
+- para a emissão do DARF, a gente volta nesse período e faz a emissão da segunda cota e faz a emissão
+
+00:03:57.184 --> 00:04:03.741
+- da terceira cota, assim, consequentemente. Para os períodos que ainda não tinha essa atualização,
+
+00:04:03.741 --> 00:04:10.233
+- o físico deixou a possibilidade de utilizar a emissão de DARF Web nas competências de dezembro de
+
+00:04:10.233 --> 00:04:16.726
+- 2024 e ainda lançar na DCTF convencional. Mas tudo isso foi acontecendo ao longo do processo. E aí
+
+00:04:16.726 --> 00:04:18.526
+- o físico veio respondendo.
+
+00:04:18.658 --> 00:04:25.021
+- nos seus manuais, nos perguntas frequentes em como a gente poderia fazer isso. Só que agora a gente
+
+00:04:25.021 --> 00:04:31.637
+- já tem essa função. Mas eu gosto de falar para vocês em como é feito o processo porque, na verdade,
+
+00:04:31.637 --> 00:04:38.063
+- a gente está passando por isso agora. Nesse novo sistema tributário, o que está sendo feito agora?
+
+00:04:38.063 --> 00:04:44.553
+- O momento teste. Tem 500 empresas testando a plataforma assistida. Tem 500 empresas validando as notas
+
+00:04:44.553 --> 00:04:45.246
+- técnicas.
+
+00:04:46.338 --> 00:04:53.836
+- Só que pode ter certeza que quando de fato acontecer o momento teste, que vai ser em 2026, a gente
+
+00:04:53.836 --> 00:05:01.783
+- vai ter ainda muitos e muitos questionamentos e muitas e muitas atualizações. Então, no momento surgiu
+
+00:05:01.783 --> 00:05:09.506
+- diversas dúvidas sobre prazos, sobre lançamento de cotas e ao longo do tempo o Fisco veio adaptando,
+
+00:05:09.506 --> 00:05:13.630
+- trazendo atualização, trazendo o seu posicionamento.
+
+00:05:13.730 --> 00:05:19.964
+- E é isso que a gente tem que entender, que na verdade a gente vai passar por isso diversas e diversas
+
+00:05:19.964 --> 00:05:24.867
+- vezes. Principalmente quando a gente fala sobre uma nova obrigação acessória.

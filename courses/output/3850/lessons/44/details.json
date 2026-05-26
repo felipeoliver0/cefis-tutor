@@ -1,0 +1,33 @@
+{
+  "id": 478414,
+  "title": "Registros 2099",
+  "position": 44,
+  "duration": 305,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/63850561-db78-4fa0-bb0f-83d4904a018a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/63850561-db78-4fa0-bb0f-83d4904a018a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/63850561-db78-4fa0-bb0f-83d4904a018a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/63850561-db78-4fa0-bb0f-83d4904a018a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/63850561-db78-4fa0-bb0f-83d4904a018a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

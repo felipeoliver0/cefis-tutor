@@ -1,0 +1,33 @@
+{
+  "id": 481464,
+  "title": "A Guerra das Blusinhas",
+  "position": 31,
+  "duration": 530,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9805156b-7000-478a-9de9-723f90ffab5e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9805156b-7000-478a-9de9-723f90ffab5e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9805156b-7000-478a-9de9-723f90ffab5e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9805156b-7000-478a-9de9-723f90ffab5e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9805156b-7000-478a-9de9-723f90ffab5e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

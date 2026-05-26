@@ -1,0 +1,27 @@
+{
+  "id": 456517,
+  "title": "Portal do aluno: outros recursos",
+  "position": 10,
+  "duration": 195,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b31437c8-7cae-48b8-9989-abd564a9ea6e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b31437c8-7cae-48b8-9989-abd564a9ea6e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b31437c8-7cae-48b8-9989-abd564a9ea6e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b31437c8-7cae-48b8-9989-abd564a9ea6e/720.mp4",
+      "height": 720
+    }
+  ]
+}

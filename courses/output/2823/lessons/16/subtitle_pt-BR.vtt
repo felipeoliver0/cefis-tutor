@@ -1,0 +1,225 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:03.339
+dentro do layout do X ML eu coloquei pra vocês aqui
+
+2
+00:00:03.349 --> 00:00:07.070
+pra facilitar aquele topo da tabela que baixamos do portal,
+
+3
+00:00:07.079 --> 00:00:08.489
+da nota fiscal eletrônica.
+
+4
+00:00:08.500 --> 00:00:12.939
+E aqui você vai identificar situações semelhantes e
+
+5
+00:00:12.949 --> 00:00:15.140
+que agora começa tudo a fazer sentido,
+
+6
+00:00:15.149 --> 00:00:15.340
+né?
+
+7
+00:00:15.350 --> 00:00:20.579
+Na nossa cabeça começa tudo a A a se encontrar, as informações e as engrenagens.
+
+8
+00:00:20.590 --> 00:00:22.579
+Elas vão rodando juntas.
+
+9
+00:00:22.590 --> 00:00:28.225
+Porque quando nós falamos de nota fiscal, modelo cinquenta e cinco,
+
+10
+00:00:28.235 --> 00:00:33.685
+aquele DANF nota de mercadorias, ele vai tá aqui, são C f, vão identificar compras,
+
+11
+00:00:33.694 --> 00:00:34.584
+vendas.
+
+12
+00:00:34.595 --> 00:00:37.185
+Ele vai ter que indicar lá no X ML,
+
+13
+00:00:37.194 --> 00:00:43.534
+no campo Indi N f E Se estamos falando de p relacionado à comunicação,
+
+14
+00:00:43.544 --> 00:00:49.365
+lembra que nós temos os grupos os agrupados de comunicação t que tá aqui oh no INDI,
+
+15
+00:00:49.375 --> 00:00:51.944
+comunica que é o do IN de comunicação,
+
+16
+00:00:52.369 --> 00:00:55.020
+que vai indicar uma operação realizada ali
+
+17
+00:00:55.029 --> 00:00:57.459
+de prestação de de serviço de comunicação.
+
+18
+00:00:57.470 --> 00:01:01.060
+Eu deixei exemplo aqui dos modelos dos documentos fiscais Modelo vinte e um,
+
+19
+00:01:01.069 --> 00:01:03.139
+e vinte e dois são modelos de documentos
+
+20
+00:01:03.150 --> 00:01:07.379
+fiscais que trata de comunicação e de transporte.
+
+21
+00:01:07.389 --> 00:01:11.239
+C F é o a PS que trata de transporte, geralmente modelo sessenta e sete,
+
+22
+00:01:11.319 --> 00:01:14.569
+que é o C T e o famoso C T e que vocês conhece?
+
+23
+00:01:14.580 --> 00:01:21.010
+Nota de devolução? C F é o p de devolução. O grupo A o o agrupa lá começado em dois, né?
+
+24
+00:01:21.019 --> 00:01:24.889
+O segundo dígito devolução vai tá aqui no Indi?
+
+25
+00:01:24.900 --> 00:01:30.190
+Devo de devolução Retorno Notas de retorno Remessa retorno
+
+26
+00:01:30.639 --> 00:01:32.849
+vai? Tá aqui no índice de retor!
+
+27
+00:01:32.860 --> 00:01:37.480
+Nota de anulação no indio anula nota de remessa no In
+
+28
+00:01:37.489 --> 00:01:43.290
+Rees e combustível no INDI Combe Tudo isso aqui é interessante,
+
+29
+00:01:43.300 --> 00:01:47.129
+porque se por acaso você atue na parametrização
+
+30
+00:01:47.139 --> 00:01:50.970
+de sistemas e precisava entender essa característica,
+
+31
+00:01:50.980 --> 00:01:51.050
+né,
+
+32
+00:01:51.059 --> 00:01:56.260
+Essa estrutura da classificação do c f a PS que são permitidos de acordo com a
+
+33
+00:01:56.269 --> 00:02:01.239
+operação que está sendo realizada e como isso tem que ser refletido no layout do X?
+
+34
+00:02:01.250 --> 00:02:05.800
+ML Aqui está aquilo que você precisava dentro da
+
+35
+00:02:05.809 --> 00:02:08.899
+tabela que baixamos no portal da nota fiscal eletrônica.
+
+36
+00:02:08.910 --> 00:02:13.419
+Existe todos esses campos, todas essas colunas elas estão
+
+37
+00:02:13.669 --> 00:02:19.399
+lá naquela planilha e toda vez que o c f a P indicar alguma dessas opções,
+
+38
+00:02:19.410 --> 00:02:21.649
+vai ter o número um nessa coluna.
+
+39
+00:02:21.660 --> 00:02:28.880
+Se for um C f a p de devolução um duzentos e um um duzentos e dois vai aparecer o número um
+
+40
+00:02:28.889 --> 00:02:31.679
+aqui nessa coluna de devolução Se for um C F a
+
+41
+00:02:31.690 --> 00:02:36.600
+P de remessa e retorno vai aparecer aqui no Indi retor,
+
+42
+00:02:36.610 --> 00:02:37.339
+no INDI.
+
+43
+00:02:37.406 --> 00:02:41.656
+E assim sucessivamente Fica muito mais fácil, né?
+
+44
+00:02:41.666 --> 00:02:45.395
+Essa identificação pra quem também atua nessa
+
+45
+00:02:45.406 --> 00:02:49.815
+questão da parametrização sistêmica existem muitas pessoas,
+
+46
+00:02:49.826 --> 00:02:50.016
+né?
+
+47
+00:02:50.026 --> 00:02:53.955
+Que utilizam o próprio sistema da empresa pra emitir nota fiscal.
+
+48
+00:02:53.966 --> 00:02:57.395
+Não usa aquele sistema gratuito disponibilizado pelo Sebrae.
+
+49
+00:02:57.406 --> 00:03:02.091
+Então, se você usa o sistema gratuito, isso tudo aqui já está parametrizado.
+
+50
+00:03:02.102 --> 00:03:04.031
+Mas se você usa o sistema da sua empresa,
+
+51
+00:03:04.042 --> 00:03:07.992
+alguém algum dia teve que parametrizado isso,
+
+52
+00:03:08.001 --> 00:03:13.522
+até para que você sei lá não cometa o erro de emitir uma nota de devolução,
+
+53
+00:03:13.531 --> 00:03:18.151
+Mas na tag do X ML, ao invés de tá em devolução no Indi,
+
+54
+00:03:18.162 --> 00:03:22.432
+devo está lá no índice remessa de remessa como se fosse uma remessa,
+
+55
+00:03:22.442 --> 00:03:24.811
+Então pra não correr riscos, né?
+
+56
+00:03:25.490 --> 00:03:29.320
+Temos aqui a estrutura também do layout do x ML

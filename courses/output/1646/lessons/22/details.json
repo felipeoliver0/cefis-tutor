@@ -1,0 +1,33 @@
+{
+  "id": 454664,
+  "title": "Restrição de produtos - Parte 1",
+  "position": 23,
+  "duration": 147,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e2bb7eae-2647-4907-865d-1ac1691f4197/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2bb7eae-2647-4907-865d-1ac1691f4197/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2bb7eae-2647-4907-865d-1ac1691f4197/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2bb7eae-2647-4907-865d-1ac1691f4197/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2bb7eae-2647-4907-865d-1ac1691f4197/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

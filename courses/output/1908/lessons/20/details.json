@@ -1,0 +1,33 @@
+{
+  "id": 459316,
+  "title": "Sistema de gestão da qualidade e seus processos",
+  "position": 20,
+  "duration": 174,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f082c79f-a65d-448a-bac4-ff8a74879a2f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f082c79f-a65d-448a-bac4-ff8a74879a2f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f082c79f-a65d-448a-bac4-ff8a74879a2f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f082c79f-a65d-448a-bac4-ff8a74879a2f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f082c79f-a65d-448a-bac4-ff8a74879a2f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 478267,
+  "title": "Descontinuidade",
+  "position": 22,
+  "duration": 374,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/00f855bb-e576-484f-a267-eb94d03fcbc4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00f855bb-e576-484f-a267-eb94d03fcbc4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00f855bb-e576-484f-a267-eb94d03fcbc4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00f855bb-e576-484f-a267-eb94d03fcbc4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/00f855bb-e576-484f-a267-eb94d03fcbc4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

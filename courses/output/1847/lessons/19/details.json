@@ -1,0 +1,33 @@
+{
+  "id": 458224,
+  "title": "Emissão e Funcionalidade da DECORE",
+  "position": 19,
+  "duration": 139,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b7639fa3-53a7-4694-988b-d26a497f4230/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7639fa3-53a7-4694-988b-d26a497f4230/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7639fa3-53a7-4694-988b-d26a497f4230/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7639fa3-53a7-4694-988b-d26a497f4230/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7639fa3-53a7-4694-988b-d26a497f4230/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

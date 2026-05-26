@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2273,
+    "title": "Bilhete de Passagem eletrônico (BP-e)",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de BP-e, você aprenderá as regras para emissão do Bilhete de Passagem eletrônico. Por meio de vários exemplos práticos, você conhecerá desde a definição e utilidade do BP-e, até os procedimentos relacionados a quem pode emitir, arquivo digital, certificado digital, rejeições, numeração, ciclo de vida, contingência, escrituração fiscal, bem com outros pontos importantes para que você entenda os benefícios do bilhete de passagem eletrônico e saiba como uma empresa pode se preparar para a sua implementação.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/3ad6bf21755909173974456cc909bb721728427918.jpg",
+    "goals": [
+      "Demonstrar desde a definição e utilidade do BP-e, até os procedimentos relacionados a quem pode emitir, arquivo digital, certificado digital, rejeições, numeração, ciclo de vida, contingência, escrituração fiscal, bem com outros pontos importantes para que você entenda os benefícios do bilhete de passagem eletrônico e saiba como uma empresa pode se preparar para a sua implementação."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 7031,
+    "keywords": "bilhete de passagem;bilhete;ticket;bpe;BP-e",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 45,
+    "averageRating": 9.44,
+    "practiceAverage": 9.3,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-10-04T11:01:16.000Z",
+    "recordedAt": "2022-09-22T00:00:00.000Z",
+    "createdAt": "2022-09-23T12:45:53.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 468612,
+  "title": "Críticas",
+  "position": 14,
+  "duration": 385,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/af324c43-38ac-48fb-8f23-d99fc63c0154/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/af324c43-38ac-48fb-8f23-d99fc63c0154/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/af324c43-38ac-48fb-8f23-d99fc63c0154/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/af324c43-38ac-48fb-8f23-d99fc63c0154/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/af324c43-38ac-48fb-8f23-d99fc63c0154/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

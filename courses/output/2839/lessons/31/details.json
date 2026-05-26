@@ -1,0 +1,33 @@
+{
+  "id": 470596,
+  "title": "Atributos a compensar e recuperar",
+  "position": 31,
+  "duration": 261,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bf1cc28a-d63c-40fc-8427-fd6d97e2311e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf1cc28a-d63c-40fc-8427-fd6d97e2311e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf1cc28a-d63c-40fc-8427-fd6d97e2311e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf1cc28a-d63c-40fc-8427-fd6d97e2311e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf1cc28a-d63c-40fc-8427-fd6d97e2311e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

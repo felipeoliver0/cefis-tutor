@@ -1,0 +1,33 @@
+{
+  "id": 468074,
+  "title": "Decreto Nº 10.854 Art. 107 - 108",
+  "position": 3,
+  "duration": 565,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8938ff07-7361-475a-a253-99930722c274/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8938ff07-7361-475a-a253-99930722c274/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8938ff07-7361-475a-a253-99930722c274/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8938ff07-7361-475a-a253-99930722c274/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8938ff07-7361-475a-a253-99930722c274/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

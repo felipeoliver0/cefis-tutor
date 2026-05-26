@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2093,
+    "title": "Operador Econômico Autorizado",
+    "subtitle": "Fundamentos e Aplicação",
+    "summary": "Neste curso de Operador Econômico Autorizado, você aprenderá, por meio de uma análise técnica, sobre os fundamentos, principais ritos e critérios para obtenção da certificação do Operador Econômico Autorizado nas modalidade Conformidade e Segurança, além trazer aspectos gerais sobre o OEA-Integrado.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/320f9aab391fa97cedfa79173c58f8331653947279.jpg",
+    "goals": [
+      "Promover uma análise técnica quanto aos fundamentos, principais ritos e critérios para obtenção da certificação do Operador Econômico Autorizado nas modalidade Conformidade e Segurança, além trazer aspectos gerais sobre o OEA-Integrado."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 5414,
+    "keywords": "OEA;AEO;Operador Econômico Autorizado",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 17,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 375,
+    "averageRating": 9.35,
+    "practiceAverage": 9.21,
+    "trailer": {
+      "id": "1cc6ee2b-dce5-4320-810a-b9be51a311d8",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1cc6ee2b-dce5-4320-810a-b9be51a311d8/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1cc6ee2b-dce5-4320-810a-b9be51a311d8/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1cc6ee2b-dce5-4320-810a-b9be51a311d8/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1cc6ee2b-dce5-4320-810a-b9be51a311d8/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-06-18T14:01:05.000Z",
+      "updatedAt": "2022-06-18T14:01:05.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-06-20T09:21:39.000Z",
+    "recordedAt": "2022-05-27T00:00:00.000Z",
+    "createdAt": "2022-05-30T18:41:59.000Z"
+  }
+}

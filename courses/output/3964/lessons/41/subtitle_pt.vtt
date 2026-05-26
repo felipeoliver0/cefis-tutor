@@ -1,0 +1,91 @@
+WEBVTT
+
+00:00:00.034 --> 00:00:08.362
+- Interessante, aqui nós vamos mostrar justamente o mesmo tipo de conta, só para realmente vocês terem
+
+00:00:08.362 --> 00:00:16.450
+- essa visão de forma muito clara, seja empréstimo ou seja uma aplicação financeira, o conceito é
+
+00:00:16.450 --> 00:00:23.737
+- o mesmo. A gente só tem que tomar cuidado em observar as entradas dessas informações na
+
+00:00:23.737 --> 00:00:29.342
+- HP, principalmente, e também no Excel, porque nós podemos, no caso,
+
+00:00:29.666 --> 00:00:36.899
+- ter o mesmo conceito, o mesmo tipo de análise, só que com as entradas diferentes. Então vejam que
+
+00:00:36.899 --> 00:00:43.703
+- na nossa operação aqui, que considera o mesmo fluxo, mas é uma aplicação de 30 mil e não
+
+00:00:43.703 --> 00:00:51.151
+- um empréstimo. Quando eu faço uma aplicação, eu estou desembolsando o recurso para dar esse recurso
+
+00:00:51.151 --> 00:00:55.806
+- para uma aplicação. Então está saindo dinheiro inicialmente.
+
+00:00:55.906 --> 00:01:05.002
+- não entrando. Então nesse caso nós temos aqui uma saída de 30 mil por isso aqui o nosso valor presente
+
+00:01:05.002 --> 00:01:13.589
+- ele está sendo utilizado com sinal negativo CHS que representa a saída do recurso e depois ele vai
+
+00:01:13.589 --> 00:01:22.430
+- ter rendimentos esse recurso em dois períodos. Ano 1 mês 1 e mês 2. Então considera uma aplicação
+
+00:01:22.530 --> 00:01:28.657
+- de R$ 30 mil a ser liquidada através de dois pagamentos mensais sucessivos de R$ 15,00 e R$ 500,00
+
+00:01:28.657 --> 00:01:34.968
+- cada. E qual o retorno, então, dessa operação? Qual que é a TIR dessa operação? Que a gente quer
+
+00:01:34.968 --> 00:01:41.401
+- a mesma coisa. Por quê? Não importa se eu estou doando recursos para uma aplicação, eu estou fazendo
+
+00:01:41.401 --> 00:01:48.018
+- uma captação, um empréstimo, se as taxas, melhor dizendo, se as parcelas estão definidas nesse formato,
+
+00:01:48.018 --> 00:01:49.182
+- a taxa é a mesma.
+
+00:01:49.570 --> 00:01:57.318
+- Só que na hora de realizarmos o cálculo, por meio do Excel ou da HP, nós temos que nos atentar para
+
+00:01:57.318 --> 00:02:04.990
+- a alocação correta dos dados, dos inputs, senão realmente o cálculo fica incorreto. Lembrando que
+
+00:02:04.990 --> 00:02:10.782
+- também é o mesmo caso aqui, não tem nada no ato, então temos que colocar
+
+00:02:11.010 --> 00:02:18.173
+- essa observação na HP GEND para dizer que realmente não existe nenhum tipo de entrada ou saída de
+
+00:02:18.173 --> 00:02:25.407
+- recursos a não ser a aplicação no momento da entrada. O que eu quero dizer? Às vezes se nós vamos
+
+00:02:25.407 --> 00:02:31.166
+- comprar um bem, por exemplo, um item, a loja pergunta, você vai dar uma entrada?
+
+00:02:31.618 --> 00:02:38.806
+- ou você vai financiar tudo em X parcelas. Isso que significa a gente escolher o GN ou o GBG. Quando
+
+00:02:38.806 --> 00:02:44.926
+- existe essa questão, não, eu vou comprar esse bem, mas eu vou dar uma entrada de...
+
+00:02:45.314 --> 00:02:51.942
+- X reais e o restante eu vou parcelar. Quando nós temos essa situação de dar uma entrada, por exemplo,
+
+00:02:51.942 --> 00:02:58.632
+- de você estar tomando um crédito para comprar um bem, um imóvel, enfim, qualquer tipo de bem, qualquer
+
+00:02:58.632 --> 00:03:05.070
+- loja varejista também, se você der alguma entrada, aí nós temos que considerar essa entrada, como
+
+00:03:05.070 --> 00:03:08.542
+- a gente já até apresentou, e mudar aqui para a GBIM.
+
+00:03:08.770 --> 00:03:16.058
+- No nosso caso aqui, não há nenhum tipo de valor inicial a não ser o próprio investimento, então
+
+00:03:16.058 --> 00:03:21.758
+- nós deixamos a teclinha no GEND para não ter nenhum tipo de alteração, ok?

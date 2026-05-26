@@ -1,0 +1,33 @@
+{
+  "id": 476340,
+  "title": "Fundos do direito da criança e ado adolescente - Parte 3",
+  "position": 21,
+  "duration": 537,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/30fe8d9b-25ce-4cc3-848f-1ca2c993837a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30fe8d9b-25ce-4cc3-848f-1ca2c993837a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30fe8d9b-25ce-4cc3-848f-1ca2c993837a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30fe8d9b-25ce-4cc3-848f-1ca2c993837a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/30fe8d9b-25ce-4cc3-848f-1ca2c993837a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

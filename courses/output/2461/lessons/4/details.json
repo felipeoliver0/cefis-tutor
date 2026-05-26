@@ -1,0 +1,33 @@
+{
+  "id": 465907,
+  "title": "Legislações - Parte 2",
+  "position": 4,
+  "duration": 624,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6c2e5042-cf0a-43b1-a0e6-1582897c1d9e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c2e5042-cf0a-43b1-a0e6-1582897c1d9e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c2e5042-cf0a-43b1-a0e6-1582897c1d9e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c2e5042-cf0a-43b1-a0e6-1582897c1d9e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c2e5042-cf0a-43b1-a0e6-1582897c1d9e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

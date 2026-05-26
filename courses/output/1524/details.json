@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1524,
+    "title": "Sustentabilidade Corporativa | ESG",
+    "subtitle": "Environmental, Social and Governance",
+    "summary": "Neste Curso de Sustentabilidade Corporativa você aprenderá na prática como aplicar estratégias de ESG (Environmental, Social and Governance ) nas empresas. Apesar de já ser discutido há anos, a Sustentabilidade Empresarial ou Corporativa se tornou tendência após a carta para cotistas, da Black Rock, uma das maiores companhias do mundo de gestão de investimentos. Logo foi criado no Brasil o Índice de Sustentabilidade Empresarial (ISE) da bolsa de valores brasileira (B3). As Novas Resoluções como do Conselho Monetário Nacional (CMN), determinam que as instituições autorizadas pelo Banco Central ( RESOLUÇÃO Nº 4.327 ) devem adotar uma Política de Responsabilidade Socioambiental (PRSA). Segundo a BM&FBovespa, os investidores buscam empresas sustentáveis, pois consideram que a prática gera valor, já que essas empresas são mais preparadas para correr riscos do ponto de vista social, ambiental e econômico.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/254d9692a865615651847f7aab96f57e1728428052.jpg",
+    "goals": [
+      "Transmitir o conhecimento das práticas de Sustentabilidade Corporativa  \"Environmental, Social and Governance\" (ESG). Analisar as oportunidades para as empresas. Apresentar estratégias para mitigar riscos e gerar valor no longo prazo,  integrar o ESG com estratégias corporativas, melhor governança e maior comunicação entre os acionistas e partes interessadas. Ensinar como a adoção das práticas de ESG exige adaptação das empresas a processos mais sustentáveis e práticas tradicionalmente ligadas à Economia Circular, o que pode ser uma boa forma de atrair o público crescente interessado no consumo consciente."
+    ],
+    "teacher": {
+      "id": 473660,
+      "name": "Alessandra Vasconcelos",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1606930369.jpeg"
+    },
+    "duration": 9772,
+    "keywords": "Ambiental;Sociais;ética;governança;compliance",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 58,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 993,
+    "averageRating": 9.39,
+    "practiceAverage": 9.32,
+    "trailer": {
+      "id": "d56cba25-2662-454b-bfde-71982663543e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d56cba25-2662-454b-bfde-71982663543e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d56cba25-2662-454b-bfde-71982663543e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d56cba25-2662-454b-bfde-71982663543e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/d56cba25-2662-454b-bfde-71982663543e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-10-05T22:12:33.000Z",
+      "updatedAt": "2021-10-05T22:12:33.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 6,
+    "launchDate": "2021-04-27T17:52:37.000Z",
+    "recordedAt": "2021-04-27T00:00:00.000Z",
+    "createdAt": "2021-04-27T17:47:27.000Z"
+  }
+}

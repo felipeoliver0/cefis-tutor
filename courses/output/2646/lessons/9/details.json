@@ -1,0 +1,33 @@
+{
+  "id": 468592,
+  "title": "5º passo",
+  "position": 9,
+  "duration": 557,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/798f1650-a902-43ea-88c2-f9b0abc548d8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/798f1650-a902-43ea-88c2-f9b0abc548d8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/798f1650-a902-43ea-88c2-f9b0abc548d8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/798f1650-a902-43ea-88c2-f9b0abc548d8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/798f1650-a902-43ea-88c2-f9b0abc548d8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

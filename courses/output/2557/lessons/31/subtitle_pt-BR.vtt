@@ -1,0 +1,641 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:00.860
+Olá, pessoal,
+
+2
+00:00:00.870 --> 00:00:03.180
+sejam bem vindos ao nosso módulo três do nosso
+
+3
+00:00:03.190 --> 00:00:06.000
+curso de faturamento e emissão de notas fiscais.
+
+4
+00:00:06.010 --> 00:00:10.260
+Já passamos no módulo um, onde vimos que o documento foi criado.
+
+5
+00:00:10.270 --> 00:00:13.279
+Como ele foi criado as bases legais do documento,
+
+6
+00:00:13.289 --> 00:00:16.170
+também tivemos a oportunidade de ver quem é obrigado
+
+7
+00:00:16.180 --> 00:00:18.620
+a emitir em qual situação que eu vou usar.
+
+8
+00:00:18.629 --> 00:00:21.200
+Em qual situação eu vou usar a nota do consumidor?
+
+9
+00:00:21.209 --> 00:00:25.201
+Podemos navegar pelo layout da nota fiscal? Eletrônica, né?
+
+10
+00:00:25.211 --> 00:00:26.822
+Passamos ali também no módulo dois,
+
+11
+00:00:26.832 --> 00:00:29.781
+onde podemos aprender um pouco sobre o certificado digital.
+
+12
+00:00:29.791 --> 00:00:33.582
+Conhecemos o DANF, conhecemos também os modelos de contingência.
+
+13
+00:00:33.591 --> 00:00:35.521
+Agora a gente vai para o módulo três,
+
+14
+00:00:35.532 --> 00:00:37.942
+onde a gente vai dar algumas características
+
+15
+00:00:37.951 --> 00:00:40.141
+e situações especiais da nota fiscal eletrônica.
+
+16
+00:00:40.152 --> 00:00:42.681
+Vamos conhecer também os eventos associados a
+
+17
+00:00:42.692 --> 00:00:46.903
+esse documento e vamos finalizando o nosso módulo
+
+18
+00:00:46.914 --> 00:00:50.183
+que a gente vai dar tudo sobre a nota fiscal eletrônica nesse módulo teórico.
+
+19
+00:00:50.194 --> 00:00:52.144
+Depois a gente vai partir para outras
+
+20
+00:00:52.153 --> 00:00:55.444
+situações mais práticas da emissão do documento,
+
+21
+00:00:55.453 --> 00:00:59.644
+então vamos lá nesse módulo, a gente vai ver primeiramente o fluxo de emissão,
+
+22
+00:00:59.653 --> 00:01:00.464
+fluxo de emissão.
+
+23
+00:01:00.473 --> 00:01:03.324
+É importante pra gente saber o que que acontece
+
+24
+00:01:03.333 --> 00:01:05.024
+no momento em que a gente manda o arquivo
+
+25
+00:01:05.033 --> 00:01:07.484
+da nota fiscal Eletrônica para a Secretaria da Fazenda
+
+26
+00:01:07.575 --> 00:01:09.625
+Falei pra vocês que é um arquivo de existência,
+
+27
+00:01:09.636 --> 00:01:12.765
+apenas digital, um arquivo eletrônico,
+
+28
+00:01:12.776 --> 00:01:16.265
+com assinatura eletrônica e que quando a gente vê esse arquivo que você faz,
+
+29
+00:01:16.276 --> 00:01:16.666
+você faz.
+
+30
+00:01:16.676 --> 00:01:20.026
+Tem que receber o arquivo X M da nota fiscal eletrônica, né?
+
+31
+00:01:20.036 --> 00:01:24.066
+Aqui, nesse momento do curso, a gente vai ver o que que acontece com esse arquivo,
+
+32
+00:01:24.075 --> 00:01:26.265
+quando ele chega na secretaria da Fazenda.
+
+33
+00:01:26.276 --> 00:01:30.005
+E o que acontece depois que ele é autorizado? Tá bom! Vamos lá?
+
+34
+00:01:30.269 --> 00:01:33.459
+Então primeiramente, o contribuinte,
+
+35
+00:01:33.470 --> 00:01:38.120
+ele inicia o processo enviando pra secretaria da Fazenda o arquivo
+
+36
+00:01:38.129 --> 00:01:42.260
+X ML da eletrônico com a sua assinatura Digital Tá bom,
+
+37
+00:01:43.059 --> 00:01:44.589
+então ele faz.
+
+38
+00:01:44.599 --> 00:01:48.949
+Ah, o envio para a Secretaria da Fazenda Tá bom,
+
+39
+00:01:48.959 --> 00:01:51.470
+eu vou ter esse cadeado aqui pra gente saber que a
+
+40
+00:01:51.480 --> 00:01:56.250
+conexão entre o computador do contribuinte e o computador você faz.
+
+41
+00:01:56.260 --> 00:02:00.470
+Ele é protegido por autenticação mútua, ou seja, um autentica o outro.
+
+42
+00:02:00.480 --> 00:02:03.199
+De forma que o contribuinte sabe que ele está conversando com
+
+43
+00:02:03.209 --> 00:02:05.589
+você faz e você faz sabe exatamente quem que é.
+
+44
+00:02:05.599 --> 00:02:07.000
+O contribuinte que tá enviando a nota
+
+45
+00:02:07.010 --> 00:02:09.729
+eletrônica naquele momento tá autenticação mútua.
+
+46
+00:02:10.500 --> 00:02:11.410
+Então
+
+47
+00:02:11.860 --> 00:02:14.589
+o contribuinte com esse canal de autenticação
+
+48
+00:02:14.600 --> 00:02:17.009
+mútua transmite o arquivo pra ser fácil.
+
+49
+00:02:17.020 --> 00:02:19.419
+Uma outra característica desse canal é que as
+
+50
+00:02:19.429 --> 00:02:23.270
+informações transitam criptografadas de modo que um hacker
+
+51
+00:02:23.279 --> 00:02:25.710
+alguém na internet que obtenha essa informação ele
+
+52
+00:02:25.720 --> 00:02:28.009
+não vai poder usar porque tá criptografado,
+
+53
+00:02:28.020 --> 00:02:28.149
+né?
+
+54
+00:02:28.160 --> 00:02:30.460
+E está a ser embaralhado assim,
+
+55
+00:02:30.470 --> 00:02:34.750
+de uma forma de uns algoritmos de computador que misturam a
+
+56
+00:02:34.759 --> 00:02:38.869
+informação de certa maneira que só as duas pontas conseguem decifrar.
+
+57
+00:02:38.880 --> 00:02:40.809
+Essa informação codificada tá bom,
+
+58
+00:02:41.300 --> 00:02:42.089
+então,
+
+59
+00:02:43.210 --> 00:02:46.160
+transita a nota fiscal eletrônica nesse canal seguro, né?
+
+60
+00:02:46.169 --> 00:02:50.509
+É um canal seguro pra secretaria da fazenda, de origem Ou você faz virtual,
+
+61
+00:02:50.520 --> 00:02:51.100
+tanto faz?
+
+62
+00:02:51.110 --> 00:02:56.899
+Tá bom! Chegando na Secretaria da Fazenda, esse documento vai ser processado, né?
+
+63
+00:02:56.910 --> 00:03:00.979
+Cê faz processa a solicitação do contribuinte que o contribuinte solicita,
+
+64
+00:03:00.990 --> 00:03:04.619
+o quê O contribuinte solicita a autorização de uso desse documento.
+
+65
+00:03:04.630 --> 00:03:05.160
+Tá bom?
+
+66
+00:03:05.490 --> 00:03:08.580
+O que que você faz? Verifica, verifica o credenciamento, né?
+
+67
+00:03:08.589 --> 00:03:13.399
+Essa empresa está credenciada pra emitir a nota fiscal? Eletrônica, né? Ou não, né?
+
+68
+00:03:14.149 --> 00:03:19.160
+Verifica também regras, né? Tem várias regras de validação da nota fiscal.
+
+69
+00:03:19.169 --> 00:03:19.679
+Eletrônica, né?
+
+70
+00:03:19.690 --> 00:03:20.419
+Por exemplo,
+
+71
+00:03:20.429 --> 00:03:24.179
+uma regra simples é aquela que vê se o valor unitário
+
+72
+00:03:24.190 --> 00:03:27.800
+vezes a quantidade comercial do produto é igual ao valor total.
+
+73
+00:03:27.809 --> 00:03:28.380
+por exemplo
+
+74
+00:03:28.600 --> 00:03:31.649
+se eu tô vendendo duas unidades de um produto a cinco reais,
+
+75
+00:03:31.660 --> 00:03:34.490
+o valor total desse produto na nota tem que ser dez, né?
+
+76
+00:03:34.500 --> 00:03:37.770
+Se for diferente de dez, essa regra não é satisfeita, né?
+
+77
+00:03:37.779 --> 00:03:41.809
+E aí o documento não pode ser aceito, tá bom, então tem o credenciamento,
+
+78
+00:03:41.820 --> 00:03:43.089
+Tem regras iguais que eu falei.
+
+79
+00:03:43.100 --> 00:03:46.889
+Mas temos inúmeras regras. O esquema x ML vocês lembram?
+
+80
+00:03:46.899 --> 00:03:50.289
+Quando a gente passou ali no mais cedo no curso sobre o layout do arquivo X?
+
+81
+00:03:50.300 --> 00:03:52.789
+ML com os cantos de formação e tudo mais
+
+82
+00:03:53.289 --> 00:03:59.520
+esses eh esses esquemas x ML que é o layout do arquivo X ML, tá,
+
+83
+00:03:59.529 --> 00:04:01.070
+é verificado nessa etapa?
+
+84
+00:04:01.080 --> 00:04:05.539
+Então, se o contribuinte manda um arquivo que não está dentro do layout que você faz,
+
+85
+00:04:05.550 --> 00:04:08.619
+exige esse documento vai ser rejeitado?
+
+86
+00:04:08.630 --> 00:04:09.240
+Tá bom?
+
+87
+00:04:09.720 --> 00:04:15.369
+Outra coisa que a Secretaria da Fazenda verifica, tá, é a assinatura digital,
+
+88
+00:04:15.380 --> 00:04:16.850
+a assinatura digital.
+
+89
+00:04:16.858 --> 00:04:19.329
+Ela é um pressuposto da validade do arquivo, né?
+
+90
+00:04:19.339 --> 00:04:22.369
+Porque uma nota fiscal eletrônica sem assinatura digital
+
+91
+00:04:22.380 --> 00:04:25.589
+você não consegue garantir a autoria desse documento.
+
+92
+00:04:25.600 --> 00:04:28.529
+Você não sabe quem fez o documento porque não está assinado, né?
+
+93
+00:04:28.540 --> 00:04:31.929
+É como se fosse um contrato, ele tem que ter assinatura.
+
+94
+00:04:31.940 --> 00:04:38.170
+Tá então é verificado também a assinatura digital. Tá? Então, envia e você faz?
+
+95
+00:04:38.179 --> 00:04:39.350
+Faz o processamento
+
+96
+00:04:39.619 --> 00:04:41.089
+da informação pessoal.
+
+97
+00:04:41.100 --> 00:04:44.630
+Esse processamento demora menos de meio segundo,
+
+98
+00:04:44.640 --> 00:04:47.309
+é uma coisa que quase que instantânea, muito rápido.
+
+99
+00:04:47.320 --> 00:04:50.230
+Isso não toma tempo, embora sejam muitos processos. Tá?
+
+100
+00:04:50.239 --> 00:04:53.209
+Os computadores estão com a capacidade boa e
+
+101
+00:04:53.220 --> 00:04:55.829
+consegue responder isso em menos de meio Segundo,
+
+102
+00:04:55.839 --> 00:04:58.549
+tá do resultado desse processamento.
+
+103
+00:04:58.559 --> 00:05:02.815
+Podem acontecer três coisas a autorização, que é o que o contribuinte quer,
+
+104
+00:05:02.825 --> 00:05:05.464
+o arquivo, tá tudo okay, não tem nenhum problema.
+
+105
+00:05:05.475 --> 00:05:08.894
+O contribuinte credenciado, as regras de negócios satisfeitas.
+
+106
+00:05:08.904 --> 00:05:14.035
+Tem a assinatura digital, o esquema x ML, ou seja, o layout do arquivo bateu.
+
+107
+00:05:14.045 --> 00:05:19.654
+Então tá tudo certinho. Então o documento recebe a autorização de uso? Tá bom
+
+108
+00:05:20.350 --> 00:05:25.799
+pessoal se deu algum problema em credenciamento, irregularidade fiscal,
+
+109
+00:05:25.809 --> 00:05:29.640
+contribuinte com inscrição estadual, suspense, inscrição estadual, baixada,
+
+110
+00:05:29.649 --> 00:05:29.920
+né?
+
+111
+00:05:29.929 --> 00:05:32.540
+Algum erro que não é um erro na forma do documento.
+
+112
+00:05:32.829 --> 00:05:37.260
+Esse documento vai ser denegado, né? Ou seja a forma dele Tá tudo certo, né?
+
+113
+00:05:37.269 --> 00:05:42.160
+Ele atendeu as regras, tem a assinatura digital, o esquema x m S, tá tudo certo,
+
+114
+00:05:42.170 --> 00:05:44.700
+mas o contribuinte tá com alguma irregularidade.
+
+115
+00:05:44.709 --> 00:05:46.959
+Então esse documento vai ser denegado,
+
+116
+00:05:46.970 --> 00:05:50.519
+tá bom e Se há algum problema com as regras
+
+117
+00:05:50.529 --> 00:05:54.000
+de validação com o esquema x ML ou assinatura digital,
+
+118
+00:05:54.010 --> 00:05:55.820
+esse arquivo é rejeitado por quê?
+
+119
+00:05:56.070 --> 00:05:58.339
+O arquivo sem assinatura digital não tem garantia,
+
+120
+00:05:58.350 --> 00:06:00.959
+Não tem serventia pra nada no Fisco, né?
+
+121
+00:06:00.970 --> 00:06:03.179
+Então, esse documento é rejeitado, né?
+
+122
+00:06:03.190 --> 00:06:07.950
+O arquivo que tem regras de validação não satisfeitas, feito também?
+
+123
+00:06:07.959 --> 00:06:08.880
+Ele é rejeitado?
+
+124
+00:06:08.890 --> 00:06:12.279
+Tá bom, Então vamos falar mais sobre rejeição, daqui a pouco,
+
+125
+00:06:12.290 --> 00:06:15.279
+mas o documento pode ser autorizado, é negado ou rejeitado?
+
+126
+00:06:15.290 --> 00:06:17.779
+Tá bom, nesse momento pessoal,
+
+127
+00:06:18.549 --> 00:06:24.140
+o contribuinte, quando é autorizado, ele pode iniciar o transporte, né?
+
+128
+00:06:24.149 --> 00:06:26.799
+Ele pode já botar a mercadoria no caminhão?
+
+129
+00:06:26.809 --> 00:06:29.980
+Botar dar sequência ali, no na operação comercial Tá bom.
+
+130
+00:06:29.989 --> 00:06:31.359
+Então, depois a autorização,
+
+131
+00:06:31.369 --> 00:06:35.059
+ele imprime o Duff e o transporte da mercadoria tá autorizado,
+
+132
+00:06:35.070 --> 00:06:37.440
+Ele já pode entregar a mercadoria pro seu cliente,
+
+133
+00:06:37.450 --> 00:06:40.720
+ou ele pode deixar o cliente vir buscar ou a transportadora tanto faz.
+
+134
+00:06:40.730 --> 00:06:41.170
+Tá bom!
+
+135
+00:06:41.179 --> 00:06:44.820
+Mas o que a gente tem que é importante é que oh, tá tudo, okay,
+
+136
+00:06:44.829 --> 00:06:46.630
+a operação pode seguir normalmente.
+
+137
+00:06:46.640 --> 00:06:47.179
+Tá bom
+
+138
+00:06:47.700 --> 00:06:49.950
+para o comprador, o comprador.
+
+139
+00:06:49.959 --> 00:06:51.450
+A partir desse momento,
+
+140
+00:06:51.459 --> 00:06:55.230
+ele já pode fazer a manifestação do destinatário que nós vamos
+
+141
+00:06:55.239 --> 00:06:58.290
+ver daqui a pouco tá bom e por fim pessoal.
+
+142
+00:06:58.959 --> 00:07:03.250
+O Fisco envia a Secretaria da Fazenda de Origem,
+
+143
+00:07:03.260 --> 00:07:07.489
+envia uma cópia desse documento para o ambiente nacional da nota
+
+144
+00:07:07.500 --> 00:07:10.970
+fiscal Eletrônica envia para a Secretaria da Fazenda de Destino,
+
+145
+00:07:10.980 --> 00:07:13.510
+caso seja uma operação interestadual,
+
+146
+00:07:13.920 --> 00:07:17.339
+também para Suframa, que é a superintendência da Zona Franca de Manaus.
+
+147
+00:07:17.350 --> 00:07:20.869
+Se for uma operação que tem como destino a zona incentivada lá da
+
+148
+00:07:20.880 --> 00:07:24.369
+Zona Franca de Manaus e se for uma operação de comércio exterior,
+
+149
+00:07:24.380 --> 00:07:28.279
+também envia para aduana federal, que é um órgão ali dentro da Receita Federal.
+
+150
+00:07:28.290 --> 00:07:33.429
+Tá bom esses entes todos aqui recebem uma cópia do documento autorizado, né?
+
+151
+00:07:33.700 --> 00:07:38.470
+Cumprindo aquela determinação constitucional que a gente viu lá no começo do curso
+
+152
+00:07:38.480 --> 00:07:42.049
+de que o Fisco trabalhasse de modo integrado o fisco da União,
+
+153
+00:07:42.059 --> 00:07:46.459
+estados, Distrito Federal e municípios deviam trabalhar de forma integrada.
+
+154
+00:07:46.470 --> 00:07:49.589
+Isso aqui é a realização prática daquele comando constitucional, né?
+
+155
+00:07:49.600 --> 00:07:54.549
+A integração dos entes de fiscalização, todos compartilhando a informação,
+
+156
+00:07:54.559 --> 00:07:55.029
+tá bom.
+
+157
+00:07:55.040 --> 00:08:01.470
+Então, isso aqui acontece no momento da emissão da nota fiscal eletrônica. Tá?
+
+158
+00:08:01.480 --> 00:08:02.369
+Esse processo
+
+159
+00:08:02.690 --> 00:08:07.980
+demora pouquíssimos segundos, Tá, é um processo muito rápido e muito eficiente.
+
+160
+00:08:07.989 --> 00:08:08.559
+Tá bom

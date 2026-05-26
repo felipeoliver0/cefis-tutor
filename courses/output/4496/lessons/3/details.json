@@ -1,0 +1,33 @@
+{
+  "id": 487413,
+  "title": "Tópicos que serão abordados",
+  "position": 3,
+  "duration": 594,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/e4a45ca3-fb88-4b2a-9217-9af53d112d00/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e4a45ca3-fb88-4b2a-9217-9af53d112d00/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e4a45ca3-fb88-4b2a-9217-9af53d112d00/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e4a45ca3-fb88-4b2a-9217-9af53d112d00/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e4a45ca3-fb88-4b2a-9217-9af53d112d00/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

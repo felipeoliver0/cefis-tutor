@@ -1,0 +1,33 @@
+{
+  "id": 486507,
+  "title": "Lançamento tributário",
+  "position": 14,
+  "duration": 358,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b05b5548-8d19-4840-b560-aaccfa8a92fe/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b05b5548-8d19-4840-b560-aaccfa8a92fe/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b05b5548-8d19-4840-b560-aaccfa8a92fe/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b05b5548-8d19-4840-b560-aaccfa8a92fe/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b05b5548-8d19-4840-b560-aaccfa8a92fe/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

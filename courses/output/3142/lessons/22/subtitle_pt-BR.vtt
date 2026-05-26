@@ -1,0 +1,481 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.078
+aqui eu já tenho o resultado do trabalho do que a gente vai fazer.
+
+2
+00:00:04.829 --> 00:00:09.020
+A gente vai fazer uma análise lá da movimentação de fevereiro de dois mil e quinze.
+
+3
+00:00:09.029 --> 00:00:12.359
+Bom, o que que a gente faz pessoal? Eu tenho.
+
+4
+00:00:12.369 --> 00:00:14.720
+O extrato bancário deixa eu abrir o extrato bancário aqui
+
+5
+00:00:14.729 --> 00:00:19.000
+que eu já tenho ele salvo em T X T,
+
+6
+00:00:19.010 --> 00:00:22.600
+então gerou lá um t x t do banco.
+
+7
+00:00:22.610 --> 00:00:27.319
+Deixa eu dar um zoom aqui pra gente conversar mais e lembrar e dar uma refletida.
+
+8
+00:00:27.329 --> 00:00:31.079
+Lembra que eu falei Gente, Vamos primeiro refletir sobre o arquivo!
+
+9
+00:00:31.090 --> 00:00:33.500
+Vamos entender o que que ele tá dizendo pra gente,
+
+10
+00:00:33.849 --> 00:00:42.740
+pra depois a gente começar efetivamente a testar. Bom, aqui vem um relatório T x T.
+
+11
+00:00:42.750 --> 00:00:49.540
+Exportou lá do banco que a gente tem basicamente oh, data de movimento,
+
+12
+00:00:49.549 --> 00:00:51.419
+data do balancete que é um,
+
+13
+00:00:51.430 --> 00:00:55.759
+uma data específica que o banco trouxe de informação e histórico.
+
+14
+00:00:56.209 --> 00:00:59.259
+Aí aqui a gente tem o documento eu vou até usar aqui mais pra baixo,
+
+15
+00:00:59.270 --> 00:01:01.419
+pouco pra gente ver o tamanho do número do documento, Então,
+
+16
+00:01:01.430 --> 00:01:05.379
+por mais que esteja só o documento aqui ele tem mais colunas, né?
+
+17
+00:01:05.388 --> 00:01:10.819
+Oh, e nós temos por fim valor, observe pessoal observe isso aqui,
+
+18
+00:01:10.830 --> 00:01:13.099
+que é o ponto chave que a gente tem.
+
+19
+00:01:13.110 --> 00:01:15.680
+Existem valores que a gente tem
+
+20
+00:01:16.610 --> 00:01:24.839
+a descrição de C e D, ou seja, lembrando do Banco C é crédito,
+
+21
+00:01:24.849 --> 00:01:26.959
+que na contabilidade é o débito
+
+22
+00:01:27.900 --> 00:01:33.050
+e os movimentos de no banco.
+
+23
+00:01:33.769 --> 00:01:36.779
+O crédito no banco é o débito na contabilidade e
+
+24
+00:01:36.790 --> 00:01:38.940
+o débito no banco é o crédito na contabilidade Tiago
+
+25
+00:01:38.949 --> 00:01:42.739
+do Céu Pelo amor de Deus regra básica esquece débito
+
+26
+00:01:42.750 --> 00:01:45.569
+e crédito Vamos olhar entrada e saída de dinheiro,
+
+27
+00:01:45.580 --> 00:01:46.800
+a entrada do banco,
+
+28
+00:01:47.809 --> 00:01:50.279
+coluna de débito contábil, beleza,
+
+29
+00:01:51.279 --> 00:01:56.849
+saída de de dinheiro do banco, coluna, crédito, contato tá bom, então!
+
+30
+00:01:56.860 --> 00:02:01.550
+E a gente tem algumas movimentações em que não tem a indicação do C ou do D.
+
+31
+00:02:02.800 --> 00:02:09.050
+Nesse caso específico, o que que é isso aqui? Oh depósito bloqueado um dia útil?
+
+32
+00:02:09.059 --> 00:02:12.070
+O depósito bloqueado? Ele não está o quê?
+
+33
+00:02:12.080 --> 00:02:14.449
+Liberado no extrato, ele não movimentou no extrato.
+
+34
+00:02:14.460 --> 00:02:19.570
+Então, por isso que eu não tenho c ou de quando esse valor for liberado, por exemplo,
+
+35
+00:02:19.580 --> 00:02:22.429
+aqui é o dia dois do dois oitocentos e trinta e quatro mil.
+
+36
+00:02:22.440 --> 00:02:27.600
+Bom, Então eu já entendi e estruturei o extrato. Então, o que que eu vou fazer?
+
+37
+00:02:27.610 --> 00:02:31.550
+Pessoal? Vamos lá vou pegar o meu extrato.
+
+38
+00:02:32.360 --> 00:02:35.110
+Vou fazer uma atividade nova, colei aqui
+
+39
+00:02:35.979 --> 00:02:40.669
+pessoal, quando a gente aperta o control, o control e sabe aquela rodinha do mouse?
+
+40
+00:02:40.679 --> 00:02:43.070
+É o zoom, Então eu faço isso aqui ele vai dando um zoom,
+
+41
+00:02:43.080 --> 00:02:47.369
+fica maior pra mim que que eu vou fazer pessoal, eu quero quebrar isso aqui
+
+42
+00:02:48.080 --> 00:02:50.869
+em colunas, Então lembra lá os dados
+
+43
+00:02:51.889 --> 00:02:55.500
+texto para colunas Largura fixa bom,
+
+44
+00:02:55.509 --> 00:02:58.500
+O Excel já vai tentar fazer alguma coisa pra mim,
+
+45
+00:02:58.509 --> 00:03:04.380
+mas eu vou dar uma olhadinha aqui E é sempre bom a gente ver o movimento, né?
+
+46
+00:03:04.389 --> 00:03:09.339
+E a gente tentar dar uma evoluída num pouquinho de informação como assim evoluída,
+
+47
+00:03:09.350 --> 00:03:12.339
+porque aqui oh, ele cortou lá em cima da movimentação,
+
+48
+00:03:12.350 --> 00:03:15.580
+mas eu tenho essa data do balancete eu não sei se lá pra baixo vai ter.
+
+49
+00:03:15.589 --> 00:03:20.000
+Então eu já tô tirando isso aqui bom Outro ponto
+
+50
+00:03:20.440 --> 00:03:23.649
+o histórico aqui oh, ele tá cortando o meu histórico,
+
+51
+00:03:23.660 --> 00:03:27.009
+Então eu vou chegar esse aqui mais pra frente um pouco pra onde tem o começo lá,
+
+52
+00:03:27.020 --> 00:03:28.190
+do número de documento.
+
+53
+00:03:28.860 --> 00:03:31.990
+Então o número de documento trouxe aqui certinho o valor.
+
+54
+00:03:32.000 --> 00:03:36.160
+Ele cortou certinho, Que crédito ou débito, em regra ele tá cortando certinho.
+
+55
+00:03:36.169 --> 00:03:40.610
+o que a gente vai fazer, nós vamos concluir. Será que deu certo agora é a hora né.
+
+56
+00:03:40.619 --> 00:03:43.910
+Que que a gente vai fazer, clica lá em cima do data do movimento.
+
+57
+00:03:43.919 --> 00:03:47.190
+Na verdade eu vou excluir essas informações pra cima eu sei já que é
+
+58
+00:03:47.199 --> 00:03:54.729
+fevereiro eu vou e clico aqui oh entre o a i um dados filtro bom
+
+59
+00:03:55.509 --> 00:04:01.160
+entre o A e o um eu tenho filtro, né? Se eu tenho filtro qual que é?
+
+60
+00:04:01.169 --> 00:04:02.460
+Em regra a minha informação,
+
+61
+00:04:02.470 --> 00:04:07.080
+voltando pro extrato na mesma linha em que eu tenho data,
+
+62
+00:04:07.089 --> 00:04:09.520
+eu tenho movimentação de dinheiro, então eu vou pegar.
+
+63
+00:04:09.529 --> 00:04:11.259
+Simplesmente vou filtrar aqui, Oh,
+
+64
+00:04:11.910 --> 00:04:17.140
+o que não é data, vou marcar tudo, vou desmarcar O que não é data são os digamos,
+
+65
+00:04:17.149 --> 00:04:20.170
+lixos do relatório que é a da cabeça.
+
+66
+00:04:20.178 --> 00:04:22.100
+Alguma coisa assim que que a gente vem e faz, oh,
+
+67
+00:04:23.029 --> 00:04:27.040
+tira lá, exclui dados limpar.
+
+68
+00:04:27.049 --> 00:04:33.200
+Então eu tenho basicamente o que pessoal eu tenho basicamente o que eu tenho,
+
+69
+00:04:33.209 --> 00:04:36.160
+de movimentação do banco, bom beleza.
+
+70
+00:04:36.170 --> 00:04:40.179
+Só que o banco, o meu objetivo, é uma conciliação contábil,
+
+71
+00:04:40.190 --> 00:04:44.630
+o banco não tem débito e crédito pra fins de contabilidade.
+
+72
+00:04:44.640 --> 00:04:46.459
+O que que eu vou fazer? Vou criar uma coluna aqui, oh
+
+73
+00:04:46.950 --> 00:04:52.239
+débito e vou criar um co crédito só lembrando pessoal a metodologia da nossa aula.
+
+74
+00:04:52.250 --> 00:04:55.760
+Aperta, pausa, faz aí, tira do pausa e volta aqui vê.
+
+75
+00:04:55.769 --> 00:04:58.320
+Aperta a pausa e faz aí assim Cê vai evoluir assim.
+
+76
+00:04:58.329 --> 00:05:01.369
+Cê vai aprender bom beleza,
+
+77
+00:05:01.380 --> 00:05:05.100
+Lembro aqui eu criei a coluna débito e crédito que que eu vou fazer?
+
+78
+00:05:05.549 --> 00:05:10.160
+Eu posso criar um si se igual a c, preencho aqui.
+
+79
+00:05:10.170 --> 00:05:14.059
+Se não retorno o zero, podemos fazer isso? Oh igual.
+
+80
+00:05:14.070 --> 00:05:20.820
+Se esse aqui foi igual a c lembra Que texto tem que vim entre aspas duplas?
+
+81
+00:05:20.829 --> 00:05:22.899
+Retorno esse senão eu retorno o zero.
+
+82
+00:05:23.750 --> 00:05:27.040
+Mas aí eu pus pra retornar o que o próprio C.
+
+83
+00:05:27.049 --> 00:05:27.880
+Então, na verdade,
+
+84
+00:05:27.890 --> 00:05:30.480
+eu tenho que arrumar a fórmula que eu tenho oh não é
+
+85
+00:05:30.489 --> 00:05:34.989
+retornar o F dois eu tenho retornar o e dois beleza.
+
+86
+00:05:35.000 --> 00:05:40.660
+Então em regra, toda vez que teve o valor, que é uma movimentação tipo C,
+
+87
+00:05:42.010 --> 00:05:44.279
+tipo C, eu trouxe o que pessoal
+
+88
+00:05:45.709 --> 00:05:53.399
+eu trouxe débito ou crédito, trouxe os créditos e pra os créditos no extrato,
+
+89
+00:05:53.410 --> 00:05:55.239
+que são débitos na contabilidade.
+
+90
+00:05:55.250 --> 00:06:03.339
+Isso dá uma confusão, né? Se esse aqui for igual a d eu retorno o valor
+
+91
+00:06:03.769 --> 00:06:07.019
+opa não esqueci de programa se não não retorno, nada.
+
+92
+00:06:07.029 --> 00:06:10.880
+Eu tenho um lançamento a crédito da contabilidade, com a saída de dinheiro do banco,
+
+93
+00:06:10.890 --> 00:06:16.000
+desbloqueio de depósito OPA O desbloqueio de depósito deu certo aqui
+
+94
+00:06:16.670 --> 00:06:21.260
+aqui a gente tem um problema. Olha que legal pessoal, esse aqui que eu acho top
+
+95
+00:06:22.579 --> 00:06:25.489
+na hora de montar, importar o extrato, falar.
+
+96
+00:06:25.500 --> 00:06:28.649
+Ah, thiago, Mas tá errando, é assim que a gente aprende, pessoal
+
+97
+00:06:29.399 --> 00:06:33.670
+que que eu fiz, montei e revisei, Eu não montei e passei pra frente.
+
+98
+00:06:33.679 --> 00:06:38.989
+Qual foi o nosso erro, o nosso erro? Na hora que a gente foi colar, no Excel,
+
+99
+00:06:39.809 --> 00:06:44.619
+ele colou, Ele fez o Excel, sugeriu uma divisão logo depois disso aqui,
+
+100
+00:06:44.630 --> 00:06:48.220
+Oh logo depois do C E isso tudo virou a mesma coluna.
+
+101
+00:06:48.230 --> 00:06:50.399
+Então, quando eu tenho
+
+102
+00:06:51.019 --> 00:06:56.019
+períodos, períodos em que eu apresento o saldo da conta,
+
+103
+00:06:56.029 --> 00:06:57.630
+ele tá pegando tudo isso aqui.
+
+104
+00:06:57.640 --> 00:06:57.670
+Oh!
+
+105
+00:06:57.679 --> 00:07:01.769
+Por exemplo, nesse primeiro que ele não quebrou Depois do C,
+
+106
+00:07:01.779 --> 00:07:05.209
+se ele não quebrou depois do C, qual que é a minha fórmula?
+
+107
+00:07:05.220 --> 00:07:10.429
+Se igual Se essa essa coluna, que é igual a C, eu retorno ele.
+
+108
+00:07:10.440 --> 00:07:12.859
+Se não eu retorno zero ele não é igual a C,
+
+109
+00:07:12.869 --> 00:07:15.529
+porque ele deu dois setecentos e setenta e nove
+
+110
+00:07:15.779 --> 00:07:19.850
+automaticamente eu fiz o que eu vou criar um erro se
+
+111
+00:07:19.859 --> 00:07:22.600
+o confronto total do dia que que é isso aqui oh,
+
+112
+00:07:22.609 --> 00:07:27.109
+Se o confronto total do dia dois do dois nos lançamentos a crédito,
+
+113
+00:07:27.119 --> 00:07:28.640
+pode ser que tenha uma diferença de oitenta e dois,
+
+114
+00:07:28.649 --> 00:07:31.540
+duzentos e dez deixa eu ver no no que eu já tinha feito.
+
+115
+00:07:31.549 --> 00:07:36.369
+Oh no dia dois é outra diferença, então eu pioraria a minha diferença. Então
+
+116
+00:07:36.690 --> 00:07:40.640
+Tiago E agora agora não vou ter que fazer de novo Oh Control,
+
+117
+00:07:40.649 --> 00:07:44.459
+Z Controls Control z Controls a gente volta o que
+
+118
+00:07:44.470 --> 00:07:48.660
+a gente fez aí de um excluir as informações aqui.
+
+119
+00:07:48.670 --> 00:07:53.720
+Tá quebrado antes de quebrar? Então, oh antes de quebrar na beleza!
+
+120
+00:07:53.730 --> 00:07:57.760
+Então agora que que eu vou fazer oh, vamos excluir já essas primeiras linhas aqui.

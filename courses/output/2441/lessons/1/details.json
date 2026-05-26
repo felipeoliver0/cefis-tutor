@@ -1,0 +1,33 @@
+{
+  "id": 465817,
+  "title": "Manifesto Eletrônico de Documentos Fiscais - MDF-e",
+  "position": 1,
+  "duration": 706,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b7d200b3-70c5-4460-b8c0-87e031d7d5fa/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7d200b3-70c5-4460-b8c0-87e031d7d5fa/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7d200b3-70c5-4460-b8c0-87e031d7d5fa/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7d200b3-70c5-4460-b8c0-87e031d7d5fa/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b7d200b3-70c5-4460-b8c0-87e031d7d5fa/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

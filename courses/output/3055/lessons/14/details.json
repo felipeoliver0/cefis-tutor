@@ -1,0 +1,33 @@
+{
+  "id": 473730,
+  "title": "Prática - parte 3",
+  "position": 14,
+  "duration": 512,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6b654f57-c58f-42aa-be30-1896cd15ab79/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6b654f57-c58f-42aa-be30-1896cd15ab79/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6b654f57-c58f-42aa-be30-1896cd15ab79/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6b654f57-c58f-42aa-be30-1896cd15ab79/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6b654f57-c58f-42aa-be30-1896cd15ab79/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

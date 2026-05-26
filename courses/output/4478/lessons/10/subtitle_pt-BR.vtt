@@ -1,0 +1,193 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.740
+O grupo UBI, que cria, então, as informações do IBS, da CBS e do IS dentro do documento fiscal eletrônico,
+
+3
+00:00:07.740 --> 00:00:13.480
+ele cria, então, a informação da CST, do IBS e da CBS.
+
+4
+00:00:13.480 --> 00:00:19.960
+A CST, ela continua com o mesmo propósito de trazer, então, o Código de Situação Tributária,
+
+5
+00:00:19.960 --> 00:00:25.000
+a definição, então, da incidência do regime da operação.
+
+6
+00:00:25.000 --> 00:00:29.500
+Só que agora nós temos também o CCLS-TRIB. O que é o CCLS-TRIB?
+
+7
+00:00:29.500 --> 00:00:32.340
+É o Código de Classificação Tributária.
+
+8
+00:00:32.340 --> 00:00:38.100
+Ele é baseado na legislação, na interpretação legal do contribuinte.
+
+9
+00:00:38.100 --> 00:00:42.340
+Para cada CST existe uma CCLS-TRIB.
+
+10
+00:00:42.340 --> 00:00:52.920
+Digamos que essa CCLS-TRIB, ela refere-se àquelas informações que deveriam estar no seu documento fiscal lá nos dados adicionais.
+
+11
+00:00:52.920 --> 00:00:59.500
+Nos dados adicionais do XML, seria o local onde incluiríamos essa interpretação.
+
+12
+00:00:59.500 --> 00:01:08.500
+Só que existem sistemas que não são parametrizados corretamente e os dados adicionais não representam as bases legais.
+
+13
+00:01:08.500 --> 00:01:16.579
+Eu canso de ver documentos fiscais eletrônicos, por exemplo, com uma não incidência ou com uma redução de base de cálculo.
+
+14
+00:01:16.579 --> 00:01:20.680
+E quando a gente busca os dados adicionais, nada tem ali.
+
+15
+00:01:20.680 --> 00:01:24.099
+Para que a gente confronte aquela informação.
+
+16
+00:01:24.099 --> 00:01:29.299
+Porque quando nós compramos um documento, nós compramos um documento,
+
+17
+00:01:29.500 --> 00:01:36.140
+nós compramos um item e que vem com esse documento, nós também passamos a ter uma responsabilidade solidária.
+
+18
+00:01:36.140 --> 00:01:43.719
+Será que esse emitente está emitindo corretamente via classificação tributária correta, NCM correta?
+
+19
+00:01:43.719 --> 00:01:49.819
+Um único item com três fornecedores, provavelmente você já tenha passado por isso.
+
+20
+00:01:49.819 --> 00:01:54.620
+Um único item com a mesma finalidade, igual, idêntico.
+
+21
+00:01:54.620 --> 00:01:59.500
+Só que se você compra de três fornecedores diferentes, vem com NCMs diferentes.
+
+22
+00:01:59.500 --> 00:02:02.500
+A responsabilidade só é daquele que emite?
+
+23
+00:02:02.500 --> 00:02:03.879
+Não.
+
+24
+00:02:03.879 --> 00:02:06.439
+Nós precisamos também questionar.
+
+25
+00:02:06.439 --> 00:02:07.700
+Por quê?
+
+26
+00:02:07.700 --> 00:02:12.340
+Por que, fornecedor, você coloca essa classificação dentro desse produto?
+
+27
+00:02:12.340 --> 00:02:20.860
+Então, entender que o emitente tem as suas responsabilidades, mas quem recebe o documento também.
+
+28
+00:02:20.860 --> 00:02:21.979
+O que o fisco entendeu?
+
+29
+00:02:21.979 --> 00:02:29.259
+Bom, se os dados adicionais não estão sendo incluídos, isso quer dizer que eu vou vincular essa interpretação.
+
+30
+00:02:29.259 --> 00:02:29.500
+Bom, se os dados adicionais não estão sendo incluídos, isso quer dizer que eu vou vincular essa interpretação.
+
+31
+00:02:29.500 --> 00:02:33.000
+Então, entender que o emitente tem essas responsabilidades, mas quem recebe o documento também vai fazer uma interpretação legal dentro dessa ST.
+
+32
+00:02:33.000 --> 00:02:36.780
+Ou seja, para cada ST uma CclassTrib.
+
+33
+00:02:36.780 --> 00:02:40.280
+Se existe uma exceção, existe uma interpretação.
+
+34
+00:02:40.280 --> 00:02:46.319
+E novamente falando para vocês, o objetivo do XML não é trazer conformidade.
+
+35
+00:02:46.319 --> 00:02:51.280
+Ou seja, o parâmetro deve ter sido desenvolvido certo.
+
+36
+00:02:51.280 --> 00:02:56.300
+Porque é independente se você colocar uma CclassTrib totalmente diferente, vai validar.
+
+37
+00:02:56.300 --> 00:02:57.319
+Porque o objetivo, tanto do TXT, quanto do XM, é o seguinte.
+
+38
+00:02:57.319 --> 00:02:57.919
+Porque o objetivo, tanto do TXT, quanto do XM, é o seguinte.
+
+39
+00:02:57.919 --> 00:02:58.000
+Porque o objetivo, tanto do TXT, quanto do XM, é o seguinte.
+
+40
+00:02:58.000 --> 00:02:58.460
+Porque o objetivo, tanto do TXT, quanto do XM, é o seguinte.
+
+41
+00:02:58.460 --> 00:03:00.379
+XT quanto do XML é entender
+
+42
+00:03:00.379 --> 00:03:02.520
+que existe um guia prático, que existe
+
+43
+00:03:02.520 --> 00:03:04.300
+uma nota técnica e que
+
+44
+00:03:04.300 --> 00:03:06.560
+aquela nota técnica está trazendo
+
+45
+00:03:06.560 --> 00:03:08.819
+as estruturas das informações.
+
+46
+00:03:09.639 --> 00:03:10.599
+Então, o objetivo dele
+
+47
+00:03:10.599 --> 00:03:12.580
+não é trazer conformidade,
+
+48
+00:03:13.419 --> 00:03:14.439
+é trazer, então, a
+
+49
+00:03:14.439 --> 00:03:15.419
+validação.

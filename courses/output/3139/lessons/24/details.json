@@ -1,0 +1,33 @@
+{
+  "id": 476091,
+  "title": "Registro",
+  "position": 25,
+  "duration": 232,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c4ef4ec4-6059-4dc5-b44c-6697c280dfe6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c4ef4ec4-6059-4dc5-b44c-6697c280dfe6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c4ef4ec4-6059-4dc5-b44c-6697c280dfe6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c4ef4ec4-6059-4dc5-b44c-6697c280dfe6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c4ef4ec4-6059-4dc5-b44c-6697c280dfe6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

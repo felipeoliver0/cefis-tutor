@@ -1,0 +1,305 @@
+WEBVTT
+
+1
+00:00:00.389 --> 00:00:02.259
+no que eu coloco, o que me
+
+2
+00:00:02.890 --> 00:00:06.050
+basicamente eu sei o que pessoal oh,
+
+3
+00:00:06.059 --> 00:00:10.079
+e aí eu vou criar uma outra coluna que eu vou chamar de Oh trimestre
+
+4
+00:00:11.260 --> 00:00:12.010
+a
+
+5
+00:00:13.500 --> 00:00:14.210
+um mês?
+
+6
+00:00:16.388 --> 00:00:20.479
+Bom, se eu quero selecionar o primeiro CA,
+
+7
+00:00:20.489 --> 00:00:24.438
+classificar em trimestres na hora que eu pego e seleciono o mês de janeiro,
+
+8
+00:00:24.448 --> 00:00:27.839
+Fevereiro e março tem janeiro, fevereiro e março de dois mil e quatro, cinco, seis,
+
+9
+00:00:27.849 --> 00:00:30.499
+sete, oito, dez Eu venho e coloco aqui Oh!
+
+10
+00:00:30.509 --> 00:00:31.339
+Um
+
+11
+00:00:34.540 --> 00:00:36.209
+depois eu venho aqui oh!
+
+12
+00:00:37.409 --> 00:00:39.759
+Quatro, cinco, seis,
+
+13
+00:00:41.330 --> 00:00:45.279
+Segundo trimestre Beleza, Okay,
+
+14
+00:00:46.060 --> 00:00:48.409
+depois eu venho e seleciono uns meses
+
+15
+00:00:49.430 --> 00:00:51.020
+sete oito, nove,
+
+16
+00:00:52.619 --> 00:00:53.970
+terceiro trimestre,
+
+17
+00:00:56.380 --> 00:00:57.930
+dez onze, doze
+
+18
+00:00:59.569 --> 00:01:00.840
+quarto trimestre,
+
+19
+00:01:03.470 --> 00:01:08.540
+tiro limpo, o filtro e coloco igual ano
+
+20
+00:01:09.650 --> 00:01:12.519
+e comercial, né? Um pontinho
+
+21
+00:01:15.220 --> 00:01:21.269
+Trimestre Pessoal, eu sempre gosto de utilizar primeiro ano depois, trimestre,
+
+22
+00:01:21.279 --> 00:01:23.470
+ano depois mês aí cê pergunta assim?
+
+23
+00:01:23.480 --> 00:01:28.150
+Uai Thiago mas por que isso? Porque se eu mandar classificar ele sempre vai.
+
+24
+00:01:28.160 --> 00:01:32.110
+Vim na ordem do ano mais anti do trimestre mais antigo para o mais novo.
+
+25
+00:01:32.120 --> 00:01:34.589
+Se eu coloco primeiro trimestre depois do ano, ele vai.
+
+26
+00:01:34.599 --> 00:01:38.269
+Vim todos os primeiros trimestre todo segundo todo terceiro ou quarto,
+
+27
+00:01:38.279 --> 00:01:41.389
+então acaba que não fica uma uma classificação legal.
+
+28
+00:01:41.400 --> 00:01:42.690
+Aí o que que eu vou fazer aqui? Oh,
+
+29
+00:01:43.230 --> 00:01:46.120
+tenho lá todos os anos e trimestre. Eu vou copiar.
+
+30
+00:01:46.129 --> 00:01:48.300
+Vou colar aqui do lado, por exemplo,
+
+31
+00:01:49.339 --> 00:01:52.370
+como valor, né? Especial valores!
+
+32
+00:01:53.110 --> 00:01:58.220
+Eu venho dados como tem várias vezes o mesmo trimestre, tá vendo?
+
+33
+00:01:59.699 --> 00:02:01.250
+Eu vim aqui dados,
+
+34
+00:02:02.190 --> 00:02:05.940
+remover duplicadas Okay coloca aqui oh!
+
+35
+00:02:06.580 --> 00:02:08.610
+No trimestre
+
+36
+00:02:10.089 --> 00:02:13.679
+dados! Venham classificar pra colocar em ordem igual! Eu falei
+
+37
+00:02:15.169 --> 00:02:17.639
+já pego daqui pra baixo Dados
+
+38
+00:02:18.619 --> 00:02:20.369
+classifica Okay
+
+39
+00:02:20.949 --> 00:02:21.419
+Bom,
+
+40
+00:02:21.429 --> 00:02:25.800
+então aqui oh terceiro quarto trimestre de dois mil e três depois de dois mil
+
+41
+00:02:25.809 --> 00:02:29.779
+e quatro e por aí vai que que eu vou fazer agora igual soma Assim
+
+42
+00:02:32.259 --> 00:02:36.929
+esse aqui ponto Vírgula esse ponto vírgula o valor
+
+43
+00:02:38.740 --> 00:02:44.490
+então numa organização de valores lá por trimestre, a gente tem
+
+44
+00:02:45.199 --> 00:02:50.690
+no terceiro trimestre de dois mil e três dois mil dezessete por aí vem até
+
+45
+00:02:50.699 --> 00:02:53.669
+que o terceiro trimestre de dois mil e onze a gente vem setecentos e dez
+
+46
+00:02:54.399 --> 00:02:57.250
+aqui eu tenho um total de novecentos e oitenta e três,
+
+47
+00:02:57.259 --> 00:02:58.929
+que são o total dos títulos aqui também.
+
+48
+00:02:58.940 --> 00:03:04.410
+Os novecentos e oitenta e três. Bom, qual que é a jogada daqui pessoal?
+
+49
+00:03:04.419 --> 00:03:09.649
+Eu utilizei uma fórmula que parece ser simples e inofensiva. Uma formula boba, né?
+
+50
+00:03:09.660 --> 00:03:14.470
+Que é mês, ano e mês pra poder fazer o quê Uma totalização mais rápida
+
+51
+00:03:15.410 --> 00:03:20.559
+através do que no lugar de eu ir todos os meses? Imagina eu vim aqui selecionar Oh,
+
+52
+00:03:22.259 --> 00:03:26.250
+Janeiro, fevereiro e março. Aí eu vou lá e coloco dois mil e onze primeiro trimestre
+
+53
+00:03:26.869 --> 00:03:31.080
+aí depois eu venho oh, trabalheira, Desmarca Janeiro,
+
+54
+00:03:31.089 --> 00:03:35.220
+fevereiro e março OPA aí é o que dá trabalho abril, maio e junho,
+
+55
+00:03:36.000 --> 00:03:38.830
+segundo trimestre de dois mil e onze por aí vai dessa forma,
+
+56
+00:03:38.839 --> 00:03:43.130
+usando os meses depois de filtrar só os meses, eu tive que fazer o quê?
+
+57
+00:03:43.139 --> 00:03:47.830
+Quatro filtros pra cada trimestre, pra poder classificar os trimestres aqui.
+
+58
+00:03:47.839 --> 00:03:51.389
+Nesse caso eu tenho que fazer quantos filtros. Quatro por ano,
+
+59
+00:03:52.149 --> 00:03:59.160
+anos um dois, três, quatro, cinco, seis, sete, oito, nove vezes.
+
+60
+00:03:59.169 --> 00:04:03.839
+Eu tinha que fazer nove vezes aquilo que eu fiz uma vez, então eu ganhei tempo,
+
+61
+00:04:03.850 --> 00:04:07.229
+eu ganhei tempo e rapidão tá bom.
+
+62
+00:04:07.240 --> 00:04:08.360
+Então muitas das vezes.
+
+63
+00:04:08.369 --> 00:04:12.699
+Ah, Thiago, tem aqueles recolhimentos de de antecipação de son.
+
+64
+00:04:12.710 --> 00:04:14.449
+Por trimestre você pega o Darf.
+
+65
+00:04:15.199 --> 00:04:19.350
+Gera lá o relatório de de pagamentos, né? Com comprovantes.
+
+66
+00:04:19.358 --> 00:04:24.570
+Jo Cola Ele no Excel filtra lá por por período. Joga lá um ano e meio.
+
+67
+00:04:24.579 --> 00:04:30.170
+Você já sabe qual é o trimestre, a some papa e testa e faz o negócio assim Oh rapidão,
+
+68
+00:04:30.179 --> 00:04:31.350
+rapidão pessoal
+
+69
+00:04:32.510 --> 00:04:33.220
+bom!
+
+70
+00:04:33.230 --> 00:04:37.679
+Identificaram os lançamentos por mês, trimestre,
+
+71
+00:04:37.690 --> 00:04:40.410
+tudo isso E aí a gente acabou de fazer nessas atividades
+
+72
+00:04:40.420 --> 00:04:44.179
+que a gente testou e a gente fez aí utilizando aleatoriamente.
+
+73
+00:04:44.190 --> 00:04:46.820
+Ora o o SPED contábil.
+
+74
+00:04:46.829 --> 00:04:47.200
+Ora,
+
+75
+00:04:47.209 --> 00:04:49.739
+a gente fez também com aquele relatório que a gente usou lá
+
+76
+00:04:49.750 --> 00:04:52.980
+pra fazer exercício de filtro das perdas no recebimento de créditos.

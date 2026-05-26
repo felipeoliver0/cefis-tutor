@@ -1,0 +1,33 @@
+{
+  "id": 458219,
+  "title": "Remuneração de Salários Indiretos",
+  "position": 14,
+  "duration": 211,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/efcd6e42-ff68-40c8-81cb-9c25aedce38f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/efcd6e42-ff68-40c8-81cb-9c25aedce38f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/efcd6e42-ff68-40c8-81cb-9c25aedce38f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/efcd6e42-ff68-40c8-81cb-9c25aedce38f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/efcd6e42-ff68-40c8-81cb-9c25aedce38f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

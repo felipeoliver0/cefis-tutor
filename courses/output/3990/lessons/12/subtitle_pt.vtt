@@ -1,0 +1,163 @@
+WEBVTT
+
+00:00:00.130 --> 00:00:07.174
+- Então vamos lá, vamos entender um pouco melhor, de forma bem simplificada, em números pequenos, para
+
+00:00:07.174 --> 00:00:14.218
+- entender a lógica. Vamos imaginar, que a gente já até fez ali o nosso cálculo, que esse investidor,
+
+00:00:14.218 --> 00:00:21.330
+- primeira opção, ele vai dizer assim, olha, me interessa entrar nesse negócio, a empresa tem interesse
+
+00:00:21.330 --> 00:00:23.294
+- de implementar esse projeto,
+
+00:00:23.458 --> 00:00:31.329
+- naquele projeto se eu tiver uma taxa mínima de 20% ao ano. Ok, então vamos ver se com essa taxa mínima,
+
+00:00:31.329 --> 00:00:38.979
+- se essa projeção de lucros futuros ou fluxos de caixas futuros que representam lucros futuros, quanto
+
+00:00:38.979 --> 00:00:46.409
+- ele vale na data zero para comparar com os 145 que eu estou investindo, ok? Então vamos lá, a 20%.
+
+00:00:46.409 --> 00:00:49.278
+- Nós já fizemos aquele cálculo, né?
+
+00:00:49.602 --> 00:00:54.847
+- Conseguimos trazer, só que quando a gente analisou o payback, eu não coloquei de propósito o total
+
+00:00:54.847 --> 00:01:00.246
+- dos fluxos a valor presente. Por quê? Porque naquele momento, primeiro, eu estava analisando o payback.
+
+00:01:00.246 --> 00:01:05.439
+- Não somei tudo para mostrar para vocês o valor presente líquido. É o mesmo exercício, mas agora
+
+00:01:05.439 --> 00:01:10.633
+- eu estou trazendo, agregando o valor presente líquido. E nós vamos usar o mesmo na sequência para
+
+00:01:10.633 --> 00:01:15.775
+- analisar a taxa interna de retorno do mesmo exemplo, para que vocês tenham uma condição de fazer
+
+00:01:15.775 --> 00:01:18.654
+- uma jornada de análise. Então vamos lá. Então aqui,
+
+00:01:18.754 --> 00:01:26.197
+- eu fiz a somatória das parcelas trazidas a valor presente pela taxa definida, que nós chamamos, inclusive,
+
+00:01:26.197 --> 00:01:33.025
+- de taxa mínima de atratividade, é a mesma coisa, taxa interna, perdão, a taxa de retorno exigida
+
+00:01:33.025 --> 00:01:39.853
+- de 20, eu cheguei aqui num somatório das parcelas a valor presente e tirei o quê aqui para ver se
+
+00:01:39.853 --> 00:01:46.681
+- sobrava alguma coisa? Tirei o valor investido, ou seja, aqueles fluxos de caixas futuros trazidos a
+
+00:01:46.681 --> 00:01:47.774
+- valor presente.
+
+00:01:48.066 --> 00:01:56.045
+- Tirando o que eu tenho que investir, que é o 145. Sobra dinheiro? Nesse nosso caso da situação 1,
+
+00:01:56.045 --> 00:02:03.944
+- a 20% sobra. Olha o valor presente líquido aí. Sobrou 35,96. O que quer dizer isso? Significa que
+
+00:02:03.944 --> 00:02:11.923
+- o investidor, se ele tiver que desembolsar hoje os 145 e trazer a valor presente porque ele quer ter
+
+00:02:11.923 --> 00:02:14.846
+- um mínimo de retorno de 20% ao ano,
+
+00:02:15.170 --> 00:02:23.172
+- sobra ainda R$ 35,96. Então, o que significa isso? Que ele está agregando valor ou para o seu projeto,
+
+00:02:23.172 --> 00:02:31.022
+- ou para a sua empresa, porque está trazendo para aquele investidor R$ 35,96 a mais do que o valor que
+
+00:02:31.022 --> 00:02:38.720
+- ele investiu. Então, se nós fôssemos fazer uma analogia em aplicações financeiras, a gente pode
+
+00:02:38.720 --> 00:02:43.902
+- dizer o seguinte, é como se eu aplicasse um valor de investimento,
+
+00:02:44.098 --> 00:02:50.662
+- em qualquer título, enfim, CDB, qualquer coisa, só para vocês fazerem que a analogia é a mesma,
+
+00:02:50.662 --> 00:02:57.488
+- aplico 145 e vou receber no resgate do meu título, vamos dizer, só que aqui já está valor presente,
+
+00:02:57.488 --> 00:03:04.052
+- vou receber, por exemplo, 145 mais esse valor como se fosse um rendimento. Então, a gente consegue
+
+00:03:04.052 --> 00:03:09.566
+- fazer analogia dessa forma para ficar mais fácil de entender. Então, esse projeto
+
+00:03:09.890 --> 00:03:17.745
+- Esse investimento gera um valor a mais em relação ao montante investido de 35 e hoje, eu consigo ver
+
+00:03:17.745 --> 00:03:25.371
+- hoje, com essa data, com essa taxa prevista. Tudo bem, pessoal? Muito bem. Então, gerou valor VPL,
+
+00:03:25.371 --> 00:03:33.150
+- ou Net Present Value, maior que zero, positivo. Se fosse igual a zero, se CNPV fosse igual a zero, se
+
+00:03:33.150 --> 00:03:37.726
+- eu somasse todas essas parcelinhas e elas fossem exatamente
+
+00:03:37.922 --> 00:03:46.209
+- iguais ao valor de investimento. O que significaria? Que o projeto não está criando valor, mas não
+
+00:03:46.209 --> 00:03:54.578
+- está destruindo valor, porque o projeto ou investimento vai retornar exatamente o montante investido.
+
+00:03:54.578 --> 00:04:03.271
+- Tá claro? Ok, guardem essa informação. Vamos aqui para a nossa segunda situação. Se a taxa de retorno
+
+00:04:03.271 --> 00:04:07.902
+- exigida pelo investidor, ao invés de 20% ao ano, for de
+
+00:04:08.098 --> 00:04:15.002
+- 35% ao ano, como é que fica esse valor econômico? Como é que fica esse VPL, esse valor presente?
+
+00:04:15.002 --> 00:04:21.976
+- Será que é o mesmo? Será que aumenta? Será que diminui? Vamos ver. Então veja, mesmo fluxo, só
+
+00:04:21.976 --> 00:04:28.880
+- que agora, ao invés dos 20% ao ano, nós vamos trazer a 35% ao ano. Por quê? Vamos supor que não
+
+00:04:28.880 --> 00:04:35.646
+- seja 20, seja 35 a taxa mínima que o investidor gostaria de obter. Quando nós trazemos cada uma
+
+00:04:35.810 --> 00:04:43.348
+- parcelas projetadas do fluxo respeitando os seus períodos, trazendo a um período de um ano, dois anos,
+
+00:04:43.348 --> 00:04:50.599
+- três anos e quatro anos, cada uma dos valores futuros, vejam que ao somar essas parcelas trazidas a
+
+00:04:50.599 --> 00:04:57.921
+- valor presente, tirando aquele valor do investimento, olha como é que fica o valor presente líquido
+
+00:04:57.921 --> 00:05:04.382
+- negativo em 4,24. O que é o valor presente líquido negativo? Significa que o investidor
+
+00:05:04.834 --> 00:05:12.334
+- ele vai desembolsar 145, só que ele não vai receber de volta nem os mesmos 145 que ele investiu. Ele
+
+00:05:12.334 --> 00:05:19.615
+- receberia a valores de hoje, então vejam a importância de trazer a valor presente pela taxa que o
+
+00:05:19.615 --> 00:05:25.950
+- investidor gostaria de obter para ver se ele vai realizar aquele investimento ou não.
+
+00:05:26.402 --> 00:05:33.192
+- Então, nesse caso, se ele realmente tinha em mente ganhar 35 ao ano, trazendo a valor de hoje, ele
+
+00:05:33.192 --> 00:05:40.254
+- não conseguiria, ele ia receber menos. Então, o que ele iria dizer? Se ele quer 35, ele iria rejeitar
+
+00:05:40.254 --> 00:05:47.113
+- esse projeto, porque não está trazendo aquilo que ele gostaria de retorno mínimo, que ele definiu
+
+00:05:47.113 --> 00:05:51.934
+- a 35 ao ano. Então, ele estaria perdendo o valor, destruindo o valor.

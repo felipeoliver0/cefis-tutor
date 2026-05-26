@@ -1,0 +1,365 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.179
+Agora que nós terminamos a fase um, nós vamos para a fase dois,
+
+2
+00:00:04.190 --> 00:00:08.140
+que é chamada de fase de eventos, não periódicos.
+
+3
+00:00:08.148 --> 00:00:11.420
+Como assim? Professor, que nome é esse eventos não periódicos?
+
+4
+00:00:11.430 --> 00:00:15.869
+Vamos dar, são eventos que não acontecem todo mês.
+
+5
+00:00:15.880 --> 00:00:21.139
+Por exemplo, o trabalhador, ele vai ser admitido todo mês na empresa? Não, né?
+
+6
+00:00:21.149 --> 00:00:24.280
+A empresa pode admitir trabalhadores todo mês, mas não um mês.
+
+7
+00:00:24.770 --> 00:00:29.260
+O trabalhador, todo mês ele vai entrar de férias também não o trabalhador.
+
+8
+00:00:29.270 --> 00:00:33.500
+Todo mês ele vai ter uma rescisão também não.
+
+9
+00:00:33.509 --> 00:00:36.840
+Então tudo que n que não acontece com o trabalhador
+
+10
+00:00:36.849 --> 00:00:40.240
+ou pode não acontecer com o trabalhador todo mês estará aqui
+
+11
+00:00:41.389 --> 00:00:44.139
+E eu comparo pessoal aqui,
+
+12
+00:00:44.880 --> 00:00:49.330
+aos moradores indo mudar, para morar na casa a casa.
+
+13
+00:00:49.340 --> 00:00:54.349
+Agora ela está pronta, foi feita lá na fase um e agora os moradores estão indo mudar,
+
+14
+00:00:55.009 --> 00:00:59.139
+você muda todo mês? Não. Você muda uma vez, né?
+
+15
+00:00:59.150 --> 00:01:03.200
+Então por isso que a mudança aqui, nessa analogia
+
+16
+00:01:04.910 --> 00:01:05.720
+e pessoal,
+
+17
+00:01:05.730 --> 00:01:09.000
+o primeiro evento que eu vou destacar pra vocês aqui é o
+
+18
+00:01:09.010 --> 00:01:12.940
+evento de admissão do trabalhador evento s vinte e dois zero zero
+
+19
+00:01:14.160 --> 00:01:18.610
+E quais são as informações que eu tenho que preencher aqui nesse evento pessoal?
+
+20
+00:01:18.620 --> 00:01:23.889
+eu vou ter que preencher tanto informações pessoais como por exemplo a cor,
+
+21
+00:01:23.900 --> 00:01:29.989
+por exemplo, o endereço, O Estado Civil, como também informações profissionais,
+
+22
+00:01:30.080 --> 00:01:32.290
+mais informações contratuais.
+
+23
+00:01:32.300 --> 00:01:38.129
+O car, o salário dele, a função tá a jornada de trabalho.
+
+24
+00:01:38.139 --> 00:01:43.970
+Então eu vou preencher todas todas essas informações aqui e aí eu vou fa fa,
+
+25
+00:01:43.980 --> 00:01:47.489
+vou vou te provocar o seguinte sentido O e social Ele começou
+
+26
+00:01:47.500 --> 00:01:51.389
+em dois mil e dezenove dois mil e dezoito dois mil e dezenove
+
+27
+00:01:52.550 --> 00:01:56.449
+eh antes do esocial vamos pegar em dois mil e dezessete.
+
+28
+00:01:56.459 --> 00:01:59.879
+Se uma empresa fosse registrar um trabalhador,
+
+29
+00:01:59.889 --> 00:02:05.680
+ela tinha que preencher essas essas informações pessoais e contratuais nome,
+
+30
+00:02:05.690 --> 00:02:11.100
+endereço, cor, salário, jornada de trabalho.
+
+31
+00:02:11.110 --> 00:02:15.600
+Tinha não tinha. Então não mudou nada até agora, né?
+
+32
+00:02:15.610 --> 00:02:17.539
+Então pera que eu vou abrir aqui o meu sistema
+
+33
+00:02:18.529 --> 00:02:23.759
+e eu vou simular uma admissão de um trabalhador aqui no meu sistema,
+
+34
+00:02:32.509 --> 00:02:36.940
+Então pessoal, vou simular aqui a admissão Eu vou colocar aqui o nome João
+
+35
+00:02:37.669 --> 00:02:45.139
+da Silva Santos. Aqui embaixo eu coloco o número de CPF, coloco aqui o número do PIS.
+
+36
+00:02:45.919 --> 00:02:50.070
+Aí depois eu tenho aqui o cargo do meu trabalhador,
+
+37
+00:02:52.470 --> 00:02:55.419
+eu vou ter também aqui a data de admissão.
+
+38
+00:02:59.220 --> 00:03:03.789
+Eu vou ter aqui a data de admissão lembrando a admissão tem que ser feita
+
+39
+00:03:03.800 --> 00:03:07.029
+enviada no especial com até um dia antes
+
+40
+00:03:07.039 --> 00:03:09.309
+do trabalhador iniciar suas atividades na empresa,
+
+41
+00:03:09.320 --> 00:03:09.770
+né?
+
+42
+00:03:10.929 --> 00:03:13.479
+Aqui eu coloco o valor do salário,
+
+43
+00:03:17.619 --> 00:03:20.869
+coloque também pessoal algumas informações,
+
+44
+00:03:20.880 --> 00:03:24.070
+como por exemplo a carteira de trabalho.
+
+45
+00:03:24.080 --> 00:03:29.610
+Lembrando que a carteira de trabalho digital, o número é o CPF do trabalhador, tá,
+
+46
+00:03:34.399 --> 00:03:36.949
+coloca aqui a jornada de trabalho dele
+
+47
+00:03:40.610 --> 00:03:47.179
+e coloco aqui o endereço dele, endereço e o celular dele e também data de nascimento,
+
+48
+00:03:47.190 --> 00:03:48.039
+país.
+
+49
+00:03:48.960 --> 00:03:55.750
+E agora tá feito. Percebam que eu falei pra vocês informações básicas
+
+50
+00:03:56.440 --> 00:04:00.270
+e que muitas informações eu não falei aqui porque o esocial nem pede.
+
+51
+00:04:00.279 --> 00:04:05.110
+Por exemplo, eu não falei aqui oh, coloca o nome do pai ou o nome da mãe,
+
+52
+00:04:05.119 --> 00:04:07.589
+eu sou obrigado a colocar o nome do pai e o nome da mãe.
+
+53
+00:04:07.600 --> 00:04:12.809
+Não o esocial nem pede isso lá em dois mil e dezessete quando você fazia a admissão,
+
+54
+00:04:12.820 --> 00:04:14.270
+você me informava.
+
+55
+00:04:14.279 --> 00:04:20.390
+Hoje em dia você informa se você quiser Tá, eu nem falei aqui pessoal de R G
+
+56
+00:04:21.579 --> 00:04:22.108
+Por quê?
+
+57
+00:04:22.119 --> 00:04:25.109
+Porque o R g ele também já não é um documento mais
+
+58
+00:04:25.119 --> 00:04:30.029
+mai eh já obrigatório pra me informar a carteira de trabalho.
+
+59
+00:04:30.040 --> 00:04:34.450
+Eu coloquei aqui, só que eu nem sou obrigado a me informar.
+
+60
+00:04:34.890 --> 00:04:37.779
+Tá, Eu informo ainda porque para gerar,
+
+61
+00:04:37.790 --> 00:04:40.260
+o seguro-desemprego tem que tá o número da carteira de trabalho.
+
+62
+00:04:40.269 --> 00:04:41.820
+Então, na verdade,
+
+63
+00:04:41.829 --> 00:04:47.429
+as informações elas diminuíram do que era ou do que era exigido antes.
+
+64
+00:04:47.440 --> 00:04:50.140
+Hoje eu envio menos informações do que eu enviava antes,
+
+65
+00:04:50.149 --> 00:04:53.940
+O que é ótimo pra falar que nada mudou.
+
+66
+00:04:53.950 --> 00:04:55.820
+Aqui no meu sistema,
+
+67
+00:04:55.829 --> 00:04:59.500
+tem um link que faz a consulta de qualificação cadastral direto, lembra.
+
+68
+00:04:59.510 --> 00:05:00.880
+Lá no Passo quatro
+
+69
+00:05:01.369 --> 00:05:04.380
+que eu falei oh fazer consulta de qualificação cadastral?
+
+70
+00:05:04.390 --> 00:05:09.739
+Então não é algo obrigatório pra você ter algo social. Só que eu não indico, né?
+
+71
+00:05:09.750 --> 00:05:10.500
+Então,
+
+72
+00:05:10.510 --> 00:05:15.779
+após você preencher tudo aqui existem programas que já tem
+
+73
+00:05:15.790 --> 00:05:19.859
+a consulta de qualificação cadastral integrada no seu próprio sistema.
+
+74
+00:05:19.869 --> 00:05:26.279
+O que facilita ainda mais, né? E aí, pessoal, Tirando isso, nada mudou.
+
+75
+00:05:27.070 --> 00:05:29.160
+E aí o que que eu vou fazer pessoal?
+
+76
+00:05:29.170 --> 00:05:33.079
+Após terminar de preencher todas as informações aqui eu vou clicar em
+
+77
+00:05:33.089 --> 00:05:37.920
+gravar e adivinha só o que que vai acontecer aqui nesse sistema?
+
+78
+00:05:37.929 --> 00:05:40.380
+A partir do momento em que eu clico em gravar
+
+79
+00:05:41.089 --> 00:05:46.480
+automaticamente, vai subir pro social o evento de admissão s vinte e dois zero zero.
+
+80
+00:05:47.239 --> 00:05:51.149
+Então vamos ter que startar que que é start é, Eh clicar aqui, oh!
+
+81
+00:05:51.440 --> 00:05:56.279
+Em enviar a esocial isso aqui, oh, vocês estão vendo esse esse botãozinho!
+
+82
+00:05:56.290 --> 00:06:00.730
+Eu não vou ter que fazer isso tá automaticamente Ele vai fazer isso pra mim?
+
+83
+00:06:00.739 --> 00:06:04.049
+Tá porque esse sistema não me dá essa comodidade.
+
+84
+00:06:04.059 --> 00:06:07.769
+Como eu disse pra vocês se você escolher esse sistema ele vai escolher carro, tá?
+
+85
+00:06:07.779 --> 00:06:12.290
+Vai ter carro que tem o câmbio manual, vai ter carro que tem c automático,
+
+86
+00:06:12.299 --> 00:06:14.600
+vai ter carro que vai fazer,
+
+87
+00:06:14.609 --> 00:06:17.630
+vai que vai ter ar-condicionado digital e vai ter carro que não tem.
+
+88
+00:06:17.920 --> 00:06:21.250
+Então você vai escolhendo de acordo com as comodidades que você quer.
+
+89
+00:06:21.260 --> 00:06:25.070
+Tá, esse faz automático desde que eu tenho o Certi de cada um.
+
+90
+00:06:25.079 --> 00:06:29.089
+Por isso que eu já até adianto o uso Certi de cada um, o sete de cada três.
+
+91
+00:06:29.100 --> 00:06:33.869
+Você vai ter que ficar sempre colocando a senha pra startup beleza pessoal!

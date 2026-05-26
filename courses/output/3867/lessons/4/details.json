@@ -1,0 +1,33 @@
+{
+  "id": 478485,
+  "title": "Base Legal - Legislação",
+  "position": 4,
+  "duration": 568,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d4ec755b-fcae-4b68-9e5e-2ca0c12acee0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4ec755b-fcae-4b68-9e5e-2ca0c12acee0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4ec755b-fcae-4b68-9e5e-2ca0c12acee0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4ec755b-fcae-4b68-9e5e-2ca0c12acee0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4ec755b-fcae-4b68-9e5e-2ca0c12acee0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 482615,
+  "title": "Processo de Certificação e Critérios",
+  "position": 34,
+  "duration": 638,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/988454df-c5d2-492b-8dd3-913cf97c517d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/988454df-c5d2-492b-8dd3-913cf97c517d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/988454df-c5d2-492b-8dd3-913cf97c517d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/988454df-c5d2-492b-8dd3-913cf97c517d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/988454df-c5d2-492b-8dd3-913cf97c517d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 475567,
+  "title": "Bonificação de vendas",
+  "position": 58,
+  "duration": 87,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4f7d770b-0435-478a-ab5c-dcb9a606a595/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4f7d770b-0435-478a-ab5c-dcb9a606a595/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4f7d770b-0435-478a-ab5c-dcb9a606a595/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4f7d770b-0435-478a-ab5c-dcb9a606a595/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4f7d770b-0435-478a-ab5c-dcb9a606a595/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

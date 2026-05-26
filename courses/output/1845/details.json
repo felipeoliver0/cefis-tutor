@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 1845,
+    "title": "Patrimônio líquido",
+    "subtitle": "Visão Jurídica, Contábil e Tributária",
+    "summary": "Neste curso prático de patrimônio líquido, você aprenderá desde os conceitos, quando deve ser utilizado, formalizado, contabilizado e quais as implicações tributárias, bem como conhecerá a forma de tratamento da DDA - Declaração Anual da Ajustes e muitos outros pontos importantes sobreo capital.",
+    "banner": "https://cefis.com.br/assets/images/controle/course_default_banner/6.jpg",
+    "goals": [
+      "Apresentar uma visão jurídica, contábil e tributária a respeito do patrimônio líquido."
+    ],
+    "teacher": {
+      "id": 535668,
+      "name": "Carlos Valentim",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1635957296.jpeg"
+    },
+    "duration": 2937,
+    "keywords": "capital;aumento de capital;juros sobre o capital;patrimonio;patrimonio liquido",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 17,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 518,
+    "averageRating": 9.37,
+    "practiceAverage": 9.37,
+    "trailer": {
+      "id": "f49d35fa-c8c5-4612-bf6c-5b5399a7e4da",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f49d35fa-c8c5-4612-bf6c-5b5399a7e4da/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f49d35fa-c8c5-4612-bf6c-5b5399a7e4da/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f49d35fa-c8c5-4612-bf6c-5b5399a7e4da/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f49d35fa-c8c5-4612-bf6c-5b5399a7e4da/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-11-23T18:43:23.000Z",
+      "updatedAt": "2021-11-23T19:43:23.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-11-24T13:30:42.000Z",
+    "recordedAt": "2021-11-09T00:00:00.000Z",
+    "createdAt": "2021-11-11T14:49:29.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 478608,
+  "title": "Portaria MTE nº 1.419",
+  "position": 8,
+  "duration": 315,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d351254d-92b3-48c8-aaa7-451ab022c758/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d351254d-92b3-48c8-aaa7-451ab022c758/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d351254d-92b3-48c8-aaa7-451ab022c758/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d351254d-92b3-48c8-aaa7-451ab022c758/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d351254d-92b3-48c8-aaa7-451ab022c758/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

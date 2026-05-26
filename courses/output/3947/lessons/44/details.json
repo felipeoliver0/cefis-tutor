@@ -1,0 +1,33 @@
+{
+  "id": 480268,
+  "title": "Folha de pagamento",
+  "position": 44,
+  "duration": 471,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/249e8fce-5d3a-4f03-9194-ac93708dcb99/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/249e8fce-5d3a-4f03-9194-ac93708dcb99/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/249e8fce-5d3a-4f03-9194-ac93708dcb99/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/249e8fce-5d3a-4f03-9194-ac93708dcb99/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/249e8fce-5d3a-4f03-9194-ac93708dcb99/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

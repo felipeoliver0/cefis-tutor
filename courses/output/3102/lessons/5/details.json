@@ -1,0 +1,33 @@
+{
+  "id": 474192,
+  "title": "Mensuração",
+  "position": 5,
+  "duration": 266,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ffb31d84-e6db-4dd5-b6bb-e134f8d3abdc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ffb31d84-e6db-4dd5-b6bb-e134f8d3abdc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ffb31d84-e6db-4dd5-b6bb-e134f8d3abdc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ffb31d84-e6db-4dd5-b6bb-e134f8d3abdc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ffb31d84-e6db-4dd5-b6bb-e134f8d3abdc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

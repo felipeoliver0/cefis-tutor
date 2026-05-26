@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3165,
+    "title": "Jornada de Trabalho",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Jornada de Trabalho, você aprenderá sobre os principais aspectos da legislação trabalhista brasileira, incluindo carga horária, intervalos, banco de horas, horas extras, e os diferentes tipos de jornadas, para você prática os conhecimentos adquiridos, contribuindo para a gestão eficiente das jornadas de trabalho e garantindo conformidade com as normas vigentes.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/7203f8db8e7d4496c838113e728598841728385860.jpg",
+    "goals": [
+      "Apresentar sobre os principais aspectos da legislação trabalhista brasileira, incluindo carga horária, intervalos, banco de horas, horas extras, e os diferentes tipos de jornadas, para você prática os conhecimentos adquiridos, contribuindo para a gestão eficiente das jornadas de trabalho e garantindo conformidade com as normas vigentes."
+    ],
+    "teacher": {
+      "id": 734383,
+      "name": "Solange Durães",
+      "avatar": "https://cefis.com.br/assets/images/site/svg/user-icon.svg"
+    },
+    "duration": 8224,
+    "keywords": "jornada de trabalho;jornadas",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 24,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1447,
+    "averageRating": 9.52,
+    "practiceAverage": 9.49,
+    "trailer": {
+      "id": "82a70779-4c4d-4543-a323-b87ed8ba6354",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/82a70779-4c4d-4543-a323-b87ed8ba6354/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/82a70779-4c4d-4543-a323-b87ed8ba6354/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/82a70779-4c4d-4543-a323-b87ed8ba6354/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/82a70779-4c4d-4543-a323-b87ed8ba6354/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-06-30T21:36:17.000Z",
+      "updatedAt": "2024-06-30T21:36:16.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-07-01T15:59:00.000Z",
+    "recordedAt": "2024-05-18T00:00:00.000Z",
+    "createdAt": "2024-06-01T18:00:06.000Z"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 3910,
+    "title": "SCP - Sociedade em Conta de Participação: Estratégias e Práticas",
+    "subtitle": "Desvendando as Complexidades da SCP no Cenário Brasileiro",
+    "summary": "Este curso detalha a estrutura, a constituição, as operações e o encerramento de uma Sociedade em Conta de Participação (SCP) no Brasil. Abrange desde os fundamentos jurídicos e históricos até estratégias de planejamento tributário e a análise de casos práticos. Os participantes aprenderão sobre as responsabilidades dos sócios, aspectos fiscais, e a gestão eficiente de uma SCP, com foco nas atualizações de 2025.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/7359fad7-5c20-4310-a495-51edb70d8a07-thumbnail.png",
+    "goals": [
+      "Capacitar profissionais para compreender e aplicar o modelo de Sociedade em Conta de Participação (SCP) em suas realizações empresariais, abordando desde sua constituição e operação até estratégias de dissolução."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 11876,
+    "keywords": "SCP;sociedade em conta de participação;tributação;gestão empresarial;direito societário",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 45,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 358,
+    "averageRating": 9.32,
+    "practiceAverage": 9.27,
+    "trailer": {
+      "id": "1ed7c489-f78a-4e61-9b02-1cd029363092",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1ed7c489-f78a-4e61-9b02-1cd029363092/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1ed7c489-f78a-4e61-9b02-1cd029363092/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1ed7c489-f78a-4e61-9b02-1cd029363092/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1ed7c489-f78a-4e61-9b02-1cd029363092/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-08-18T13:56:14.000Z",
+      "updatedAt": "2025-08-18T13:56:14.000Z"
+    },
+    "crcActive": true,
+    "crcCreditHours": 7,
+    "crcScore": {
+      "id": 289,
+      "courseId": 3910,
+      "crcCode": "SP-35363",
+      "data": [
+        {
+          "name": "AUD",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PERITO",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "CMN",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "SUSEP",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PREVICAUD",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PROGP",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PRORT",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PREVIC",
+          "values": [
+            7
+          ]
+        }
+      ],
+      "year": 2026,
+      "createdAt": "2026-01-09T18:19:13.000Z",
+      "updatedAt": "2026-01-09T18:19:13.000Z"
+    },
+    "launchDate": "2025-08-18T14:01:51.000Z",
+    "recordedAt": "2025-08-07T00:00:00.000Z",
+    "createdAt": "2025-08-06T22:51:27.000Z"
+  }
+}

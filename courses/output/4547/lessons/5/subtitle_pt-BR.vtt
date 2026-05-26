@@ -1,0 +1,617 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.480
+E aí, conceitos e objetivos da ECF, já iniciando aqui a nossa aula.
+
+3
+00:00:06.480 --> 00:00:13.839
+Então, orientar os participantes como preencher corretamente o programa ESPED,
+
+4
+00:00:13.839 --> 00:00:21.079
+denominado ECF, Escrituração Contábil Fiscal, que eliminou a antiga DIPJ,
+
+5
+00:00:21.079 --> 00:00:24.960
+que é a Declaração de Imposto de Renda à Pessoa Jurídica,
+
+6
+00:00:24.960 --> 00:00:32.539
+eliminou o famoso F-Code, que foi uma obrigação acessória, implantado com o advento do IFRS,
+
+7
+00:00:32.539 --> 00:00:41.039
+e também o LA-LUR, eliminou o LA-LUR de maneira física, escrita, livro, passou a ser eletrônica.
+
+8
+00:00:41.039 --> 00:00:46.240
+Tudo isso a partir do ano calendário de 2014.
+
+9
+00:00:46.240 --> 00:00:53.320
+Portanto nós estamos em 2026, nós temos 12 anos na estrada já com a ECF.
+
+10
+00:00:53.320 --> 00:00:54.679
+Diferentemente da ECD,
+
+11
+00:00:54.679 --> 00:00:54.719
+que é desde 1912, que é desde 1914, que já faz 2 anos na estrada, já com a ECF.
+
+12
+00:00:54.719 --> 00:00:54.759
+Diferentemente da ECD, que é desde 1912, que é desde 1912, que já faz 2 anos na estrada, já com a ECF.
+
+13
+00:00:54.759 --> 00:00:54.780
+Diferentemente da ECD, que é desde 1912, que é desde 1912, que já faz 2 anos na estrada, já com a ECF.
+
+14
+00:00:54.780 --> 00:01:01.320
+Desde 2010, então nós já temos aí 15 anos da ECD, perfeito?
+
+15
+00:01:02.119 --> 00:01:06.680
+O embasamento, a Instrução Normativa 2004, datada de 2021,
+
+16
+00:01:07.180 --> 00:01:12.560
+conjugado com a Lei 12.973 de 2014, uma lei extremamente importante para a nossa categoria,
+
+17
+00:01:13.239 --> 00:01:18.959
+e a Instrução Normativa 1.700 de 2017, também muito importante essas leis.
+
+18
+00:01:18.959 --> 00:01:24.840
+E, obviamente, o Decreto 9.580, que é o Regulamento do Imposto de Renda Brasileiro.
+
+19
+00:01:25.200 --> 00:01:29.239
+São as nossas bases para a elaboração da ECF.
+
+20
+00:01:29.840 --> 00:01:36.260
+Então aqui, meus caros, já convém a gente fazer aqui um comentário bem interessante,
+
+21
+00:01:36.439 --> 00:01:40.920
+preencher corretamente a escrituração contábil e fiscal.
+
+22
+00:01:42.120 --> 00:01:47.560
+Diferentemente da ECD, a ECF executa os cálculos contábeis.
+
+23
+00:01:47.560 --> 00:01:53.560
+O PGD, Programa Gerador de Declaração, ou o PGE, Programa Gerador de Escrituração,
+
+24
+00:01:54.459 --> 00:01:59.920
+ou o PVA, Programa Validador e Assinador, a receita utiliza esses termos aí de uma maneira geral.
+
+25
+00:02:00.280 --> 00:02:03.560
+O que tem predominado é o PGE, Programa Gerador de Escrituração.
+
+26
+00:02:05.299 --> 00:02:11.219
+Então ele faz os cálculos e, se houver, obviamente, inconsistência, ele aponta o erro.
+
+27
+00:02:11.639 --> 00:02:15.539
+Então já começa por aí. Se der erro, temos lá, temos que ajustar o erro.
+
+28
+00:02:15.539 --> 00:02:20.919
+Nós não conseguimos transmitir uma ECF com erro semelhante à ECD.
+
+29
+00:02:21.080 --> 00:02:23.819
+Com erro, não consigo. Com aviso, sem problema.
+
+30
+00:02:24.560 --> 00:02:27.900
+Agora, quando tem aviso, não significa que eu preciso entrar no comodismo.
+
+31
+00:02:28.240 --> 00:02:30.560
+Eu tenho que checar o porquê desse aviso.
+
+32
+00:02:31.020 --> 00:02:34.699
+Se está correto, se tem alguma anomalia, justamente para ajustar.
+
+33
+00:02:35.460 --> 00:02:41.180
+Então, meus caros, do mesmo jeito que eu comento quando dá aula da ECD,
+
+34
+00:02:41.180 --> 00:02:45.400
+a ECF eu não começo a fazê-la agora.
+
+35
+00:02:45.539 --> 00:02:46.599
+Na hora da entrega, não.
+
+36
+00:02:47.120 --> 00:02:50.280
+Eu estou fazendo a ECF diariamente.
+
+37
+00:02:51.099 --> 00:02:57.580
+Porque por trás do nosso programa, do nosso RP de gestão, tem lá as parametrizações.
+
+38
+00:02:58.460 --> 00:03:04.900
+Que o software e vocês já fizeram, de acordo com o manual de TI da Receita Federal para o desenvolvedor.
+
+39
+00:03:05.560 --> 00:03:08.599
+Então, o software e vocês já tem a parametrização.
+
+40
+00:03:08.599 --> 00:03:12.939
+Então, quando vocês estão fazendo os cálculos, estão fazendo as contabilizações,
+
+41
+00:03:12.939 --> 00:03:15.939
+tudo isso já vai construindo a ECF.
+
+42
+00:03:15.939 --> 00:03:19.939
+Nós já vamos elaborando a ECF, perfeito?
+
+43
+00:03:19.939 --> 00:03:25.939
+Ou seja, ela está fortemente ancorada na contabilidade, não tenho dúvida.
+
+44
+00:03:25.939 --> 00:03:28.939
+Que é a base de tudo para se calcular os impostos.
+
+45
+00:03:28.939 --> 00:03:34.939
+O teu faturamento, por exemplo, as tuas receitas, as tuas despesas, os teus custos,
+
+46
+00:03:34.939 --> 00:03:39.939
+a apuração dos tributos, o lucro, no caso do lucro real, etc, etc.
+
+47
+00:03:39.939 --> 00:03:41.939
+Então, ela está fortemente ancorada.
+
+48
+00:03:41.939 --> 00:03:42.560
+Então, ela está fortemente ancorada.
+
+49
+00:03:42.560 --> 00:03:42.939
+Então, ela está fortemente ancorada.
+
+50
+00:03:42.939 --> 00:03:46.939
+Então, ela está fortemente ancorada na contabilidade.
+
+51
+00:03:46.939 --> 00:03:51.939
+Uma contabilidade bem feita, consequentemente, eu terei uma ECF bem feita.
+
+52
+00:03:51.939 --> 00:03:53.939
+Essa é a consequência.
+
+53
+00:03:53.939 --> 00:03:57.939
+Se eu tiver problema contábil, eu terei problema na ECF.
+
+54
+00:03:57.939 --> 00:04:01.939
+Então, aqui, eu não vou ensinar vocês a corrigir o erro, porque eu não sei quais são os erros.
+
+55
+00:04:01.939 --> 00:04:05.939
+Tudo vai depender da sua contabilidade, da parametrização.
+
+56
+00:04:05.939 --> 00:04:08.939
+E a parametrização é a alma do negócio.
+
+57
+00:04:08.939 --> 00:04:12.560
+Uma parametrização bem feita nos dá tranquilidade.
+
+58
+00:04:12.560 --> 00:04:14.560
+Perfeito?
+
+59
+00:04:14.560 --> 00:04:16.560
+Então, nós temos aí essa conjuntura.
+
+60
+00:04:16.560 --> 00:04:18.560
+E aqui, uma crítica construtiva.
+
+61
+00:04:18.560 --> 00:04:24.560
+Uma vez que uma depende da outra, da ECF depende da ECD,
+
+62
+00:04:24.560 --> 00:04:26.560
+por que não uma única declaração?
+
+63
+00:04:26.560 --> 00:04:29.560
+Como nós tínhamos no passado, que era antiga da IPJ.
+
+64
+00:04:29.560 --> 00:04:30.560
+Era uma só.
+
+65
+00:04:30.560 --> 00:04:31.560
+Então, essa é uma crítica construtiva.
+
+66
+00:04:31.560 --> 00:04:34.560
+Poderíamos ter uma melhor e entregar uma única declaração.
+
+67
+00:04:34.560 --> 00:04:36.560
+Não, nós entregamos duas.
+
+68
+00:04:36.560 --> 00:04:40.560
+Por isso que nós temos que recuperar os dados de uma para a outra.
+
+69
+00:04:40.560 --> 00:04:41.560
+Então, eu já vou colocar.
+
+70
+00:04:41.560 --> 00:04:44.560
+Eu já vou começar aqui, no nosso objetivo,
+
+71
+00:04:44.560 --> 00:04:48.560
+dando a dica de ouro para todos vocês.
+
+72
+00:04:48.560 --> 00:04:52.560
+Como a ECF, eu sou obrigado a ter os dados contábeis,
+
+73
+00:04:52.560 --> 00:04:55.560
+justamente para fechar os cálculos tributários.
+
+74
+00:04:55.560 --> 00:05:00.560
+Quando nós entregarmos a ECD, antes da gente entregar,
+
+75
+00:05:00.560 --> 00:05:04.560
+inclusive eu até acabei não mencionando isso lá no curso da ECD,
+
+76
+00:05:04.560 --> 00:05:07.560
+mas eu dou outras dicas super importantes.
+
+77
+00:05:07.560 --> 00:05:11.560
+Quando nós elaboramos a nossa ECD,
+
+78
+00:05:11.560 --> 00:05:14.560
+antes da gente transmitir,
+
+79
+00:05:14.560 --> 00:05:17.560
+a gente vai passar por uns quatro etapas.
+
+80
+00:05:17.560 --> 00:05:20.560
+Ou seja, nós vamos conferir se tem erro,
+
+81
+00:05:20.560 --> 00:05:22.560
+nós vamos ajustar,
+
+82
+00:05:22.560 --> 00:05:27.560
+nós vamos gerar para transmissão da Receita Federal,
+
+83
+00:05:27.560 --> 00:05:29.560
+depois de tudo correto,
+
+84
+00:05:29.560 --> 00:05:31.560
+nós vamos gerar o arquivo,
+
+85
+00:05:31.560 --> 00:05:33.560
+vamos assinar o arquivo.
+
+86
+00:05:33.560 --> 00:05:35.560
+O último passo é transmitir.
+
+87
+00:05:35.560 --> 00:05:38.560
+Eu não transmito, mas eu assino o arquivo.
+
+88
+00:05:38.560 --> 00:05:40.560
+Eletronicamente.
+
+89
+00:05:40.560 --> 00:05:45.560
+E aí eu vou e faço uma cópia.
+
+90
+00:05:45.560 --> 00:05:46.560
+Faço uma cópia.
+
+91
+00:05:46.560 --> 00:05:51.560
+E venho dentro da ECF e recupero isso dentro da ECF.
+
+92
+00:05:51.560 --> 00:05:53.560
+Antes de transmitir a ECD.
+
+93
+00:05:53.560 --> 00:05:56.560
+Se deu erro, deu alguma inconsistência,
+
+94
+00:05:56.560 --> 00:05:58.560
+como nós chamamos, deu pau,
+
+95
+00:05:58.560 --> 00:06:01.560
+eu volto lá na ECD,
+
+96
+00:06:01.560 --> 00:06:03.560
+quebro a assinatura
+
+97
+00:06:03.560 --> 00:06:08.560
+e vou ajustar dentro do meu RP aonde deu problema.
+
+98
+00:06:08.560 --> 00:06:09.560
+Perfeito?
+
+99
+00:06:09.560 --> 00:06:11.560
+Aonde deu problema.
+
+100
+00:06:11.560 --> 00:06:12.560
+Muito bem.
+
+101
+00:06:12.560 --> 00:06:16.560
+Aí gero novamente, verifico os erros, os avisos,
+
+102
+00:06:16.560 --> 00:06:19.560
+vou lá, gero o arquivo para entrega,
+
+103
+00:06:19.560 --> 00:06:22.560
+assino o arquivo, gero o arquivo,
+
+104
+00:06:22.560 --> 00:06:24.560
+mas não transmito.
+
+105
+00:06:24.560 --> 00:06:27.560
+Faço a cópia, volto aqui na ECF,
+
+106
+00:06:27.560 --> 00:06:29.560
+recupero.
+
+107
+00:06:29.560 --> 00:06:32.560
+Não deu nenhum erro, está tudo bacana?
+
+108
+00:06:32.560 --> 00:06:33.560
+Legal.
+
+109
+00:06:33.560 --> 00:06:35.560
+Vou lá na ECD e aí eu transmito.
+
+110
+00:06:35.560 --> 00:06:38.560
+Porque eu já vou ter certeza
+
+111
+00:06:38.560 --> 00:06:41.560
+que a minha ECF já vai começar correta.
+
+112
+00:06:41.560 --> 00:06:42.560
+Entendeu?
+
+113
+00:06:42.560 --> 00:06:44.560
+E pasmem vocês,
+
+114
+00:06:44.560 --> 00:06:49.560
+60% da ECD será a ECF.
+
+115
+00:06:49.560 --> 00:06:53.560
+Então dentro da ECF tem 60% de dados da ECD.
+
+116
+00:06:53.560 --> 00:06:58.560
+Isso foi uma pesquisa que uma aluna minha de pós-graduação elaborou,
+
+117
+00:06:58.560 --> 00:07:02.560
+que ela fez o TCC dela exatamente com esses dados.
+
+118
+00:07:02.560 --> 00:07:04.560
+Então imagina, 60%.
+
+119
+00:07:04.560 --> 00:07:07.560
+Então se eu entrego a ECD correta,
+
+120
+00:07:07.560 --> 00:07:09.560
+sem erro nenhum,
+
+121
+00:07:09.560 --> 00:07:12.560
+eu já começo a ECF com 60% correta.
+
+122
+00:07:12.560 --> 00:07:15.560
+Porque o que eu tenho visto aí nas minhas consultorias?
+
+123
+00:07:15.560 --> 00:07:20.560
+Que muitas empresas, na hora que vai transmitir a ECF,
+
+124
+00:07:20.560 --> 00:07:22.560
+dá pau, dá erro.
+
+125
+00:07:22.560 --> 00:07:24.560
+Erro aonde? Lá na ECD.
+
+126
+00:07:24.560 --> 00:07:26.560
+Só que ele já mandou a ECD.
+
+127
+00:07:26.560 --> 00:07:30.560
+Aí ele tem que substituir, ajustar a ECD,
+
+128
+00:07:30.560 --> 00:07:33.560
+gerar de novo para poder recuperar na ECF.
+
+129
+00:07:33.560 --> 00:07:35.560
+Vocês entenderam?
+
+130
+00:07:35.560 --> 00:07:39.560
+Então para evitar esse tipo de desconforto,
+
+131
+00:07:39.560 --> 00:07:41.560
+vocês, lá na ECD,
+
+132
+00:07:41.560 --> 00:07:43.560
+fez todo o processo de conferência,
+
+133
+00:07:43.560 --> 00:07:45.560
+ajustou os erros, está tudo certinho,
+
+134
+00:07:45.560 --> 00:07:47.560
+faz todas as etapas,
+
+135
+00:07:47.560 --> 00:07:50.560
+verifica se tem pendência, erro, aviso e tal,
+
+136
+00:07:50.560 --> 00:07:55.560
+assina, gera o arquivo, mas não transmite.
+
+137
+00:07:55.560 --> 00:07:58.560
+Pega esse arquivo, traz para a ECF e recupera.
+
+138
+00:07:58.560 --> 00:08:01.560
+Faz a cópia de segurança, traz e recupera.
+
+139
+00:08:01.560 --> 00:08:04.560
+Não deu erro, bacana, volta lá e transmite.
+
+140
+00:08:04.560 --> 00:08:07.560
+Porque quando você for fazer a recuperação aqui dentro,
+
+141
+00:08:07.560 --> 00:08:09.560
+vai estar correto.
+
+142
+00:08:09.560 --> 00:08:10.560
+Entenderam?
+
+143
+00:08:10.560 --> 00:08:12.560
+Então fica aí a dica de ouro para vocês.
+
+144
+00:08:12.560 --> 00:08:16.560
+Então, esse é o grande X, já começamos aqui
+
+145
+00:08:16.560 --> 00:08:18.560
+os nossos objetivos trazendo isso,
+
+146
+00:08:18.560 --> 00:08:20.560
+porque uma depende da outra, né?
+
+147
+00:08:20.560 --> 00:08:22.560
+Então não tem como, né? Perfeito?
+
+148
+00:08:22.560 --> 00:08:24.560
+Serão abordados os principais aspectos
+
+149
+00:08:24.560 --> 00:08:26.560
+da tributação da pessoa jurídica,
+
+150
+00:08:26.560 --> 00:08:28.560
+submetida aos regimes de lucro real,
+
+151
+00:08:28.560 --> 00:08:30.560
+lucro presumido, lucro arbitrado,
+
+152
+00:08:30.560 --> 00:08:32.559
+bem como entidades imunes isentas,
+
+153
+00:08:32.559 --> 00:08:34.559
+apesar de eu não ter trazido lucro arbitrado,
+
+154
+00:08:34.559 --> 00:08:36.559
+mas vamos comentar o lucro presumido,
+
+155
+00:08:36.559 --> 00:08:38.559
+é muito parecido, muito parecido.

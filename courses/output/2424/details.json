@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 2424,
+    "title": "Averbação de obras",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de averbação de obras você aprenderá desde o conceito e finalidades da averbação, até aspectos relativos aos tipos, o que pode ser averbado, onde fazer a averbação de obras, bem como o processo e documentos necessários, para você aplicar seus conhecimentos na prática.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/8b6de139db76618840f1e1928035b2291728384311.jpg",
+    "goals": [
+      "Demonstrar desde o conceito e finalidades da averbação, até aspectos relativos aos tipos, o que pode ser averbado, onde fazer a averbação de obras, bem como o processo e documentos necessários, para você aplicar seus conhecimentos na prática."
+    ],
+    "teacher": {
+      "id": 344294,
+      "name": "CLAUDINEIA BOAVENTURA DE SOUSA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1635128699.jpeg"
+    },
+    "duration": 1606,
+    "keywords": "averbação;averbação de obras;construção civil",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 8,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 212,
+    "averageRating": 8.87,
+    "practiceAverage": 8.89,
+    "trailer": {
+      "id": "cf2877c8-9052-4d3a-8ae7-690dca387c2d",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cf2877c8-9052-4d3a-8ae7-690dca387c2d/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cf2877c8-9052-4d3a-8ae7-690dca387c2d/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cf2877c8-9052-4d3a-8ae7-690dca387c2d/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/cf2877c8-9052-4d3a-8ae7-690dca387c2d/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-28T07:47:59.000Z",
+      "updatedAt": "2022-12-28T07:47:58.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-02-02T09:01:20.000Z",
+    "recordedAt": "2022-12-21T00:00:00.000Z",
+    "createdAt": "2022-12-26T12:27:27.000Z"
+  }
+}

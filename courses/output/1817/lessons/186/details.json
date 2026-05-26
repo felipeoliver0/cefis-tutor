@@ -1,0 +1,33 @@
+{
+  "id": 458113,
+  "title": "Outras formas de consolidações",
+  "position": 187,
+  "duration": 392,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/93a01c43-540c-4e9a-8be6-818a97a2dc87/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93a01c43-540c-4e9a-8be6-818a97a2dc87/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93a01c43-540c-4e9a-8be6-818a97a2dc87/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93a01c43-540c-4e9a-8be6-818a97a2dc87/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93a01c43-540c-4e9a-8be6-818a97a2dc87/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 457012,
+  "title": "Poder empregatício",
+  "position": 2,
+  "duration": 302,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dd737ede-ce14-4a57-9bcc-1e7c4478b9aa/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd737ede-ce14-4a57-9bcc-1e7c4478b9aa/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd737ede-ce14-4a57-9bcc-1e7c4478b9aa/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd737ede-ce14-4a57-9bcc-1e7c4478b9aa/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd737ede-ce14-4a57-9bcc-1e7c4478b9aa/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

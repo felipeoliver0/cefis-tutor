@@ -1,0 +1,533 @@
+WEBVTT
+
+1
+00:00:00.280 --> 00:00:02.619
+E aí nós vamos para o caso que me interessa
+
+2
+00:00:03.000 --> 00:00:03.619
+Sandra.
+
+3
+00:00:04.380 --> 00:00:05.739
+Eu sou um RPA,
+
+4
+00:00:05.900 --> 00:00:07.260
+eu sou um simples nacional,
+
+5
+00:00:07.619 --> 00:00:10.579
+eu terei que recolher esta diferença de alíquotas.
+
+6
+00:00:11.100 --> 00:00:14.979
+A Legislação do Estado de São Paulo mudou em 2022
+
+7
+00:00:15.500 --> 00:00:16.709
+para exigir que
+
+8
+00:00:18.329 --> 00:00:19.250
+O RPA.
+
+9
+00:00:20.010 --> 00:00:21.120
+Ao pagar
+
+10
+00:00:21.409 --> 00:00:23.010
+essa diferença de alíquotas,
+
+11
+00:00:23.500 --> 00:00:24.799
+utilize
+
+12
+00:00:25.010 --> 00:00:28.069
+o que nós chamamos de base dupla.
+
+13
+00:00:28.879 --> 00:00:35.110
+Uma coisa é o ICMS calculado por dentro e o ICMS operação própria
+
+14
+00:00:35.240 --> 00:00:37.560
+é calculado por dentro do preço.
+
+15
+00:00:38.000 --> 00:00:39.509
+Outra coisa é
+
+16
+00:00:39.729 --> 00:00:43.560
+eu realizar o pagamento da diferença de alíquotas,
+
+17
+00:00:44.159 --> 00:00:46.950
+mudando a base de cálculo para esta situação
+
+18
+00:00:48.680 --> 00:00:50.860
+que aí nós vamos usar dois.
+
+19
+00:00:51.029 --> 00:00:52.069
+base de cálculo,
+
+20
+00:00:52.470 --> 00:00:56.750
+a base de cálculo que veio na nota fiscal do fornecedor
+
+21
+00:00:56.909 --> 00:00:58.310
+e a base de cálculo,
+
+22
+00:00:58.389 --> 00:01:03.060
+considerando a alíquota interna do produto aqui no estado de São Paulo.
+
+23
+00:01:03.180 --> 00:01:03.479
+Está bem.
+
+24
+00:01:04.089 --> 00:01:08.580
+Então vamos para o cálculo para logo em seguida eu fazer um desafio para você
+
+25
+00:01:08.949 --> 00:01:10.239
+ou mostrar
+
+26
+00:01:10.430 --> 00:01:14.569
+o que o estado de São Paulo entende sobre uma determinada situação
+
+27
+00:01:15.059 --> 00:01:17.250
+Então Vamos imaginar que o fornecedor
+
+28
+00:01:17.580 --> 00:01:22.010
+emitiu uma nota fiscal vendendo para mim que estou aqui em São Paulo
+
+29
+00:01:22.260 --> 00:01:24.339
+uma mercadoria por 2000 BRL
+
+30
+00:01:24.620 --> 00:01:25.839
+Se essa mercadoria
+
+31
+00:01:26.260 --> 00:01:30.089
+é uma mercadoria nacional e eu estou aqui em São Paulo.
+
+32
+00:01:30.629 --> 00:01:33.669
+A alíquota dessa operação só pode vir
+
+33
+00:01:33.819 --> 00:01:35.319
+com 12% certo.
+
+34
+00:01:35.970 --> 00:01:37.360
+Então 12%
+
+35
+00:01:37.529 --> 00:01:42.410
+sobre 2000 veio destacado na nota fiscal do fornecedor
+
+36
+00:01:42.660 --> 00:01:45.800
+o valor de CMS de 240 BRL.
+
+37
+00:01:47.300 --> 00:01:49.449
+Como que eu vou fazer o cálculo
+
+38
+00:01:49.900 --> 00:01:53.040
+para eu pagar a diferença de alíquotas.
+
+39
+00:01:53.300 --> 00:01:55.599
+O Estado de São Paulo orienta o seguinte Olha,
+
+40
+00:01:55.949 --> 00:01:57.730
+pega o valor dos 2000.
+
+41
+00:01:58.519 --> 00:02:00.099
+Tire o ICMS,
+
+42
+00:02:00.180 --> 00:02:02.080
+que veio destacado na nota fiscal,
+
+43
+00:02:02.160 --> 00:02:02.779
+ou seja,
+
+44
+00:02:03.300 --> 00:02:05.199
+tire os 240
+
+45
+00:02:05.480 --> 00:02:08.380
+Então tirando dos 2000 os 240,
+
+46
+00:02:08.720 --> 00:02:11.080
+você contribuinte vai encontrar
+
+47
+00:02:11.240 --> 00:02:14.500
+um valor de 1760 BRL.
+
+48
+00:02:15.179 --> 00:02:16.130
+contribuinte
+
+49
+00:02:16.699 --> 00:02:19.240
+Você agora vai ter que encontrar
+
+50
+00:02:19.380 --> 00:02:24.110
+qual é a alíquota do produto aqui dentro do estado de São Paulo
+
+51
+00:02:24.580 --> 00:02:26.250
+Eu Estou pressupondo
+
+52
+00:02:26.460 --> 00:02:30.250
+que a alíquota do produto aqui no estado de São Paulo seja 18%,
+
+53
+00:02:32.740 --> 00:02:33.889
+Então eu peguei lá
+
+54
+00:02:34.619 --> 00:02:36.559
+1760
+
+55
+00:02:36.940 --> 00:02:39.419
+dividi por ponto 82,
+
+56
+00:02:39.899 --> 00:02:43.699
+já que a alíquota do ICMS aqui é de 18%.
+
+57
+00:02:44.229 --> 00:02:48.029
+Dividir 1760 por ponto 82
+
+58
+00:02:48.330 --> 00:02:50.339
+Vou encontrar então
+
+59
+00:02:50.470 --> 00:02:52.979
+uma outra base de cálculo
+
+60
+00:02:53.309 --> 00:02:57.669
+Eu vou jogar a carga tributária de 18%
+
+61
+00:02:58.229 --> 00:02:58.979
+sobre
+
+62
+00:02:59.389 --> 00:03:01.460
+este valor de 1760
+
+63
+00:03:01.910 --> 00:03:04.039
+encontra então o valor de
+
+64
+00:03:04.149 --> 00:03:08.139
+214634.
+
+65
+00:03:09.360 --> 00:03:13.240
+Considerando que a alíquota interna seja de 18%,
+
+66
+00:03:13.619 --> 00:03:15.500
+eu vou pegar 18%
+
+67
+00:03:15.759 --> 00:03:20.190
+e aplicar sobre 214634.
+
+68
+00:03:20.399 --> 00:03:26.679
+Vou encontrar então um determinado valor que ainda não é a diferença de alíquotas.
+
+69
+00:03:26.720 --> 00:03:27.059
+Tá
+
+70
+00:03:27.460 --> 00:03:28.789
+Vou encontrar o valor
+
+71
+00:03:29.160 --> 00:03:31.910
+de 38 meia 14.
+
+72
+00:03:32.800 --> 00:03:36.279
+para eu encontrar a diferença de alíquotas.
+
+73
+00:03:36.559 --> 00:03:37.440
+Eu vou pegar
+
+74
+00:03:37.800 --> 00:03:43.990
+os 38 e seid 134 e tirar dos 24,
+
+75
+00:03:44.160 --> 00:03:47.369
+que veio destacado na nota fiscal do fornecedor.
+
+76
+00:03:47.899 --> 00:03:48.960
+Fazendo isto,
+
+77
+00:03:49.240 --> 00:03:50.910
+eu já vou encontrar
+
+78
+00:03:51.160 --> 00:03:55.309
+a diferença de alíquotas no valor de 114 e seid.
+
+79
+00:03:56.350 --> 00:04:02.539
+134 centavos que eu vou jogar lá em outros débitos no meu livro de apuração.
+
+80
+00:04:03.250 --> 00:04:04.250
+Este é um procedimento
+
+81
+00:04:04.899 --> 00:04:05.500
+na Cefisa.
+
+82
+00:04:05.539 --> 00:04:06.009
+Inclusive,
+
+83
+00:04:06.339 --> 00:04:07.570
+você vai encontrar
+
+84
+00:04:07.740 --> 00:04:10.580
+um curso específico falando sobre esse assunto.
+
+85
+00:04:11.100 --> 00:04:12.410
+Mas a dúvida
+
+86
+00:04:13.610 --> 00:04:15.699
+que veio para o Simples Nacional,
+
+87
+00:04:16.029 --> 00:04:18.079
+porque quando foi alterada.
+
+88
+00:04:18.738 --> 00:04:20.498
+Esta fórmula de cálculo
+
+89
+00:04:20.908 --> 00:04:28.959
+veio uma alteração por meio do artigo 49 do regulamento e o legislador falou,
+
+90
+00:04:29.109 --> 00:04:35.588
+alterou a fórmula de cálculo e não disse quem utilizaria esta fórmula de cálculo,
+
+91
+00:04:36.109 --> 00:04:37.199
+se seria
+
+92
+00:04:37.308 --> 00:04:38.938
+somente o RPA
+
+93
+00:04:39.148 --> 00:04:41.658
+ou se o Simples Nacional também
+
+94
+00:04:41.989 --> 00:04:44.908
+estaria nesta técnica de- de cálculo muito.
+
+95
+00:04:45.670 --> 00:04:48.119
+os contribuintes enquadrados como o Simples
+
+96
+00:04:48.119 --> 00:04:51.750
+Nacional fizeram essa pergunta à época
+
+97
+00:04:51.920 --> 00:04:53.959
+para a Secretaria da Fazenda de São Paulo.
+
+98
+00:04:54.679 --> 00:04:57.369
+Eu estou mostrando aí para vocês somente
+
+99
+00:04:57.480 --> 00:04:58.510
+uma das
+
+100
+00:04:58.700 --> 00:04:59.910
+das inúmeras
+
+101
+00:05:00.119 --> 00:05:02.470
+consultas que foram respondidas
+
+102
+00:05:02.760 --> 00:05:04.309
+pela Secretaria da Fazenda.
+
+103
+00:05:04.799 --> 00:05:10.709
+A resposta à consulta de número 258872022
+
+104
+00:05:11.170 --> 00:05:12.559
+e E e esta.
+
+105
+00:05:13.290 --> 00:05:14.399
+orientação
+
+106
+00:05:14.929 --> 00:05:17.420
+veio dizendo para o Simples Nacional
+
+107
+00:05:17.649 --> 00:05:20.769
+o cálculo do diferencial de alíquotas devido pelo
+
+108
+00:05:20.769 --> 00:05:22.850
+simples desculpa devido pelos contribuintes optantes pelo Simples Nacional
+
+109
+00:05:30.049 --> 00:05:32.720
+deve ser efetuado sem a inclusão.
+
+110
+00:05:33.250 --> 00:05:37.399
+do montante do ICMS devido ao estado de destino
+
+111
+00:05:37.609 --> 00:05:39.679
+na sua própria base de cálculo,
+
+112
+00:05:40.010 --> 00:05:41.200
+não importando
+
+113
+00:05:41.329 --> 00:05:43.809
+a destinação da mercadoria adquirida,
+
+114
+00:05:43.890 --> 00:05:45.200
+se é para comercialização,
+
+115
+00:05:45.529 --> 00:05:46.600
+para industrialização,
+
+116
+00:05:47.049 --> 00:05:48.070
+uso ou consumo,
+
+117
+00:05:48.250 --> 00:05:48.829
+ou seja,
+
+118
+00:05:49.209 --> 00:05:52.079
+a Secretaria da Fazenda do Estado de São Paulo disse assim.
+
+119
+00:05:52.989 --> 00:05:57.019
+cálculo da base dupla é para o contribuinte normal.
+
+120
+00:05:57.619 --> 00:05:58.859
+O Simples Nacional
+
+121
+00:05:59.070 --> 00:06:00.959
+não está nesta mudança.
+
+122
+00:06:01.480 --> 00:06:04.579
+Simples Nacional continua calculando
+
+123
+00:06:04.859 --> 00:06:07.200
+do mesmo jeito que fazia anteriormente,
+
+124
+00:06:07.630 --> 00:06:08.630
+vai considerar.
+
+125
+00:06:08.755 --> 00:06:11.065
+se o produto é um produto nacional,
+
+126
+00:06:11.475 --> 00:06:12.625
+vai considerar
+
+127
+00:06:12.834 --> 00:06:15.045
+12 na operação,
+
+128
+00:06:15.554 --> 00:06:19.744
+vai pegar a mesma base que veio do fornecedor
+
+129
+00:06:19.934 --> 00:06:21.135
+para aplicar
+
+130
+00:06:21.274 --> 00:06:23.445
+a alíquota interna do produto.
+
+131
+00:06:25.535 --> 00:06:30.095
+Este é um posicionamento aqui de São Paulo e acredito que o seu estado deva ter
+
+132
+00:06:30.234 --> 00:06:31.635
+o mesmo procedimento,
+
+133
+00:06:31.755 --> 00:06:33.204
+o mesmo entendimento.

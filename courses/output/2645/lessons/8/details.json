@@ -1,0 +1,33 @@
+{
+  "id": 468657,
+  "title": "Requisitos para utilização do POC",
+  "position": 8,
+  "duration": 341,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/68f57050-4732-4522-88bf-668c5fb13fb9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/68f57050-4732-4522-88bf-668c5fb13fb9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/68f57050-4732-4522-88bf-668c5fb13fb9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/68f57050-4732-4522-88bf-668c5fb13fb9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/68f57050-4732-4522-88bf-668c5fb13fb9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

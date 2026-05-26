@@ -1,0 +1,33 @@
+{
+  "id": 462673,
+  "title": "Exemplo de pessoa física",
+  "position": 6,
+  "duration": 395,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e90f25b3-c277-461b-bcff-81bcab8ff30d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e90f25b3-c277-461b-bcff-81bcab8ff30d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e90f25b3-c277-461b-bcff-81bcab8ff30d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e90f25b3-c277-461b-bcff-81bcab8ff30d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e90f25b3-c277-461b-bcff-81bcab8ff30d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

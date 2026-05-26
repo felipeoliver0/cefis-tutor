@@ -1,0 +1,393 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:10.320
+Vamos lá, como identificar a classificação tributária corretamente, ou seja, a CST e a CCLS-TRIB.
+
+3
+00:00:10.320 --> 00:00:16.480
+O objetivo dessa aula, pessoal, é trazer mais segurança nessa classificação fiscal.
+
+4
+00:00:16.480 --> 00:00:21.679
+Então, é importante a gente voltar um pouquinho, entender o que é uma CST,
+
+5
+00:00:21.679 --> 00:00:27.399
+entender o objetivo da CCLS-TRIB para que a gente consiga fazer uma classificação devida.
+
+6
+00:00:27.399 --> 00:00:32.500
+Como eu disse no início dessa aula, infelizmente não é um depara, ou seja,
+
+7
+00:00:32.500 --> 00:00:38.219
+se você utiliza uma CST de ICMS tributado, isso não quer dizer
+
+8
+00:00:38.219 --> 00:00:45.219
+que você também vai utilizar a CST tributada integralmente para a incidência do IBS e da CBS.
+
+9
+00:00:45.219 --> 00:00:50.960
+Sabe por quê? Porque nós não estamos falando da mesma incidência,
+
+10
+00:00:50.960 --> 00:00:56.219
+ou seja, é importante a gente voltar um pouquinho, na matriz de incidência do ICMS.
+
+11
+00:00:56.219 --> 00:00:57.399
+A matriz de incidência é a matriz de regulação,
+
+12
+00:00:57.399 --> 00:01:01.700
+A incidência do ICMS é a circulação da mercadoria ou do serviço,
+
+13
+00:01:02.060 --> 00:01:06.200
+seja transporte interestadual, intermunicipal e de comunicação.
+
+14
+00:01:06.819 --> 00:01:12.099
+Essa incidência, a matriz de incidência do ICMS, o fato gerador acontece ali.
+
+15
+00:01:13.079 --> 00:01:16.319
+Então, é importante vocês terem essa clareza para que, então,
+
+16
+00:01:16.420 --> 00:01:21.480
+você consiga demonstrar uma CST, que é a classificação tributária,
+
+17
+00:01:21.480 --> 00:01:26.640
+que, então, trata o objetivo de trazer para o fisco a incidência daquela operação
+
+18
+00:01:26.640 --> 00:01:29.319
+perante a um documento fiscal emitido.
+
+19
+00:01:29.980 --> 00:01:33.500
+Então, primeiro precisa entender o fato gerador, a matriz de incidência
+
+20
+00:01:33.500 --> 00:01:36.159
+para que a gente consiga fazer uma classificação devida.
+
+21
+00:01:36.900 --> 00:01:42.719
+Quando pensamos, então, na incidência do IBS e da CBS, as coisas mudam.
+
+22
+00:01:42.840 --> 00:01:50.719
+Por quê? Se a gente volta na LC 714, a incidência do IBS e da CBS é a onerosidade.
+
+23
+00:01:50.719 --> 00:01:56.219
+A onerosidade, pessoal, é diferente de uma circulação de um bem.
+
+24
+00:01:56.640 --> 00:01:58.920
+De uma prestação de serviço.
+
+25
+00:01:59.700 --> 00:02:04.439
+A onerosidade é um ato comercial entre o adquirente e o destinatário.
+
+26
+00:02:05.159 --> 00:02:09.439
+E quando o fisco fala sobre a não onerosidade, ele deixa muito claro
+
+27
+00:02:09.439 --> 00:02:14.180
+quais são as operações que não serão incidentes do IBS e da CBS.
+
+28
+00:02:15.460 --> 00:02:19.379
+Então, é importante vocês entenderem o porquê que não tem um D para.
+
+29
+00:02:19.379 --> 00:02:26.319
+Porque o fato gerador, a matriz de incidência do ICMS e do IBS e da CBS são,
+
+30
+00:02:26.919 --> 00:02:27.620
+diferentes.
+
+31
+00:02:28.419 --> 00:02:32.280
+O mesmo se dá se a gente pensa na incidência do PIS e COFINS.
+
+32
+00:02:33.060 --> 00:02:33.840
+É distinta.
+
+33
+00:02:34.960 --> 00:02:40.060
+A CST de PIS e COFINS define as incidências tratadas nas suas legislações.
+
+34
+00:02:40.599 --> 00:02:42.699
+A CST do IPI, da mesma forma.
+
+35
+00:02:43.379 --> 00:02:47.460
+Então, a CST, que representa, então, a incidência dos nossos tributos,
+
+36
+00:02:47.460 --> 00:02:54.800
+elas são definidas de acordo com a legislação de cada tributo.
+
+37
+00:02:54.919 --> 00:02:56.620
+E o mesmo vai se dar com o IBS.
+
+38
+00:02:56.639 --> 00:03:01.759
+Então, dentro dessa aula, eu quero deixar para vocês um guia
+
+39
+00:03:01.759 --> 00:03:05.719
+em como vocês podem, a partir do ano de 2026,
+
+40
+00:03:06.639 --> 00:03:10.120
+trazer uma classificação devida para as operações.
+
+41
+00:03:10.520 --> 00:03:15.080
+Porque, senão, nós vamos estar onerando o nosso contribuinte.
+
+42
+00:03:16.060 --> 00:03:21.639
+Porque quando o fisco vem analisar uma empresa, analisar uma operação,
+
+43
+00:03:21.639 --> 00:03:25.719
+ele não está apenas olhando a CFLP.
+
+44
+00:03:26.639 --> 00:03:29.900
+A CFLP, então, representa a natureza da operação.
+
+45
+00:03:30.280 --> 00:03:34.039
+O que aconteceu dentro da operação do seu cliente.
+
+46
+00:03:34.400 --> 00:03:37.979
+Mas a CFLP não define a incidência.
+
+47
+00:03:38.819 --> 00:03:41.860
+Então, a CFLP, ela serve, então, para quê, professora?
+
+48
+00:03:41.860 --> 00:03:46.520
+Para demonstrar para o fisco, de forma mais fácil, por meio de um código,
+
+49
+00:03:47.159 --> 00:03:47.919
+o que aconteceu?
+
+50
+00:03:48.680 --> 00:03:49.620
+Foi uma revenda?
+
+51
+00:03:50.039 --> 00:03:51.259
+É um consumo?
+
+52
+00:03:52.159 --> 00:03:53.199
+Foi uma venda?
+
+53
+00:03:53.460 --> 00:03:56.000
+Foi uma venda com substituição tributária?
+
+54
+00:03:56.639 --> 00:04:01.639
+Só que quem define a incidência daquela operação é a CST.
+
+55
+00:04:01.639 --> 00:04:06.460
+E eu recomendo que vocês, hoje, a partir de agora,
+
+56
+00:04:07.020 --> 00:04:10.759
+comecem a olhar a CST não só do ICMS,
+
+57
+00:04:11.699 --> 00:04:15.400
+a CST do PIS e COFINS, a CST do IPI.
+
+58
+00:04:16.319 --> 00:04:20.779
+Porque mesmo que não apareça no documento fiscal físico, que é a DANF,
+
+59
+00:04:21.480 --> 00:04:23.180
+elas estão dentro do XML.
+
+60
+00:04:24.040 --> 00:04:26.480
+E eu tenho para dizer para vocês que o principal,
+
+61
+00:04:26.480 --> 00:04:32.860
+o objetivo da Receita Federal, dos estados e da criação dessa nova era tributária
+
+62
+00:04:32.860 --> 00:04:38.639
+é fazer com que a apuração assistida, a conta corrente, as fiscalizações
+
+63
+00:04:38.639 --> 00:04:42.759
+aconteçam exclusivamente por meio do XML.
+
+64
+00:04:43.680 --> 00:04:46.660
+Ou seja, se hoje, no sistema tributário atual,
+
+65
+00:04:46.980 --> 00:04:51.360
+eu não olho para o meu sistema analisando o XML,
+
+66
+00:04:52.160 --> 00:04:54.240
+isso quer dizer que a CST do PIS e COFINS,
+
+67
+00:04:54.240 --> 00:04:55.699
+a CST do IPI,
+
+68
+00:04:56.480 --> 00:04:59.100
+está incorreta nas emissões do documento.
+
+69
+00:04:59.620 --> 00:05:01.459
+Mas, professora, eu entrego o espécie fiscal,
+
+70
+00:05:01.600 --> 00:05:03.899
+o FD Contribuições e eu altero lá dentro.
+
+71
+00:05:04.560 --> 00:05:07.379
+Mas esse é o objetivo do Fisco trazer a extinção.
+
+72
+00:05:08.120 --> 00:05:12.199
+Se nós já temos as tags específicas dentro do XML de CST,
+
+73
+00:05:13.360 --> 00:05:18.600
+por que, então, alterar dentro das nossas obrigações acessórias,
+
+74
+00:05:18.860 --> 00:05:24.199
+que são offline e que deveriam representar a mesma informação do XML?
+
+75
+00:05:24.860 --> 00:05:26.399
+Então, se atente-se ao XML.
+
+76
+00:05:26.480 --> 00:05:29.560
+Porque eu tenho para dizer para vocês
+
+77
+00:05:29.560 --> 00:05:34.459
+que a CST e a C-Class Trib até o momento
+
+78
+00:05:34.459 --> 00:05:38.639
+não foi incluído no layout da DANF.
+
+79
+00:05:38.860 --> 00:05:41.040
+E eu vou demonstrar para vocês de forma prática.
+
+80
+00:05:41.420 --> 00:05:42.980
+Eu trouxe para vocês um exemplo
+
+81
+00:05:42.980 --> 00:05:47.000
+para a gente olhar o XML e a DANF emitida.
+
+82
+00:05:47.660 --> 00:05:50.240
+O Fisco não alterou até o momento o layout
+
+83
+00:05:50.240 --> 00:05:54.439
+para trazer, então, na DANF, a CST e a C-Class Trib.
+
+84
+00:05:54.439 --> 00:05:55.680
+Ou seja,
+
+85
+00:05:55.680 --> 00:05:59.139
+as informações vão estar apenas no XML.
+
+86
+00:05:59.660 --> 00:06:03.160
+Mas o XML é a principal obrigação acessória.
+
+87
+00:06:03.480 --> 00:06:06.620
+É a obrigação acessória jurídica do seu contribuinte.
+
+88
+00:06:07.220 --> 00:06:08.939
+Então, atenção a ela.
+
+89
+00:06:09.699 --> 00:06:13.319
+Atenção em quem está emitindo os documentos fiscais.
+
+90
+00:06:13.740 --> 00:06:16.399
+Precisa estar congruente conforme a sua apuração.
+
+91
+00:06:17.120 --> 00:06:19.360
+Porque, senão, a rastreadibilidade de informação,
+
+92
+00:06:19.939 --> 00:06:22.379
+a fiscalização vai acontecer.
+
+93
+00:06:22.379 --> 00:06:24.800
+E eu não sei se vocês todos sabem,
+
+94
+00:06:25.480 --> 00:06:25.660
+mas,
+
+95
+00:06:25.680 --> 00:06:28.259
+agora temos até penalidades,
+
+96
+00:06:29.519 --> 00:06:32.600
+conforme a nossa Lei Complementar nº 227, de 2026,
+
+97
+00:06:33.120 --> 00:06:36.740
+sobre a omissão e a informação incorreta
+
+98
+00:06:36.740 --> 00:06:39.040
+nos nossos documentos fiscais eletrônicos.
+
+99
+00:06:39.579 --> 00:06:40.240
+Então, cuidado!

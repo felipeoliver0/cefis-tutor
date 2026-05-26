@@ -1,0 +1,33 @@
+{
+  "id": 484979,
+  "title": "IN RFB 2.305",
+  "position": 8,
+  "duration": 615,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c0395ebb-cba9-4adb-a4cb-f07e7acb9fd5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c0395ebb-cba9-4adb-a4cb-f07e7acb9fd5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c0395ebb-cba9-4adb-a4cb-f07e7acb9fd5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c0395ebb-cba9-4adb-a4cb-f07e7acb9fd5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c0395ebb-cba9-4adb-a4cb-f07e7acb9fd5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

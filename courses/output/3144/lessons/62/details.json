@@ -1,0 +1,33 @@
+{
+  "id": 475572,
+  "title": "Reembolso de despesas",
+  "position": 62,
+  "duration": 123,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/de805b8d-a0a6-46ff-ac0f-97690802166c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de805b8d-a0a6-46ff-ac0f-97690802166c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de805b8d-a0a6-46ff-ac0f-97690802166c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de805b8d-a0a6-46ff-ac0f-97690802166c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de805b8d-a0a6-46ff-ac0f-97690802166c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

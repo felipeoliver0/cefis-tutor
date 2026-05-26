@@ -1,0 +1,33 @@
+{
+  "id": 461536,
+  "title": "Tipos de Substituição Tributária",
+  "position": 7,
+  "duration": 315,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fc2788e8-aac3-4703-b802-8e119fe1259b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fc2788e8-aac3-4703-b802-8e119fe1259b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fc2788e8-aac3-4703-b802-8e119fe1259b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fc2788e8-aac3-4703-b802-8e119fe1259b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fc2788e8-aac3-4703-b802-8e119fe1259b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

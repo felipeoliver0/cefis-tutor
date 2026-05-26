@@ -1,0 +1,253 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.500
+Meus amigos, chegamos à etapa das variáveis do mês.
+
+3
+00:00:03.500 --> 00:00:07.259
+Esse nosso treinamento é extenso, você não pode desanimar.
+
+4
+00:00:07.259 --> 00:00:10.140
+A gente faz cálculos, a gente demonstra as fórmulas.
+
+5
+00:00:10.140 --> 00:00:15.160
+Vamos lá, temos indicadores, várias circunstâncias que a gente precisa considerar.
+
+6
+00:00:15.160 --> 00:00:18.559
+Variáveis do mês, quais são as principais?
+
+7
+00:00:18.559 --> 00:00:22.800
+Tudo que acontece e que tem valores sendo modificados de um mês para o outro.
+
+8
+00:00:22.800 --> 00:00:26.359
+Adicional noturno, comissão, hora extra, descanso semanal remunerado.
+
+9
+00:00:26.359 --> 00:00:28.600
+Geralmente o cliente te passa essa informação.
+
+10
+00:00:28.600 --> 00:00:32.299
+Então, vocês vão precisar conferir esses dados.
+
+11
+00:00:32.299 --> 00:00:35.359
+Por exemplo, se você lança um adicional noturno no recibo,
+
+12
+00:00:35.359 --> 00:00:39.060
+você vai ter a apuração dele, 6 horas noturnas, 9 e 18.
+
+13
+00:00:39.060 --> 00:00:46.659
+Aqui está a fórmula, porque a legislação diz que o adicional noturno corresponde a 20% da hora trabalhada do empregado.
+
+14
+00:00:46.659 --> 00:00:50.240
+Eu acho os 20% e multiplico por 6, tá bom?
+
+15
+00:00:50.240 --> 00:00:53.799
+É a aplicação do cálculo do adicional noturno.
+
+16
+00:00:53.799 --> 00:00:55.560
+Consequentemente, comissões.
+
+17
+00:00:55.560 --> 00:00:58.560
+Aqui é um pouquinho mais fácil, porque depende de uma venda, né?
+
+18
+00:00:58.560 --> 00:01:02.460
+Então, o trabalhador ganhou 687 de comissão.
+
+19
+00:01:02.460 --> 00:01:05.359
+Aí já foi assim o cálculo anterior, é o gestor que faz.
+
+20
+00:01:05.359 --> 00:01:08.659
+Houve um total de vendas, ele aplicou um percentual e repassa.
+
+21
+00:01:08.659 --> 00:01:11.159
+Você só faz o lançamento, tá bem?
+
+22
+00:01:11.159 --> 00:01:14.260
+Horas extras, aqui sim existe uma apuração.
+
+23
+00:01:14.260 --> 00:01:20.859
+Então, você faz um lançamento de 4 horas extras, aqui no nosso exemplo deu 45,82.
+
+24
+00:01:20.859 --> 00:01:21.859
+Como é feito o cálculo?
+
+25
+00:01:21.859 --> 00:01:26.060
+E aí, o salário base dividido pelas horas contratuais, vezes 4,
+
+26
+00:01:26.060 --> 00:01:28.560
+mais o acréscimo de 50,
+
+27
+00:01:28.560 --> 00:01:30.359
+por cento, tá bom?
+
+28
+00:01:30.359 --> 00:01:35.159
+A dinâmica sempre é essa, a gente colocando a fórmula para que vocês possam conferir
+
+29
+00:01:35.159 --> 00:01:39.060
+também e seguir outros exemplos que vocês tenham aí em mãos.
+
+30
+00:01:39.060 --> 00:01:41.560
+E o descanso semanal remunerado, como é feito a apuração?
+
+31
+00:01:41.560 --> 00:01:45.560
+Esse aqui, pessoal, é um cálculo automático que o sistema vai fazer,
+
+32
+00:01:45.560 --> 00:01:48.359
+com base no que você lançou de variável.
+
+33
+00:01:48.359 --> 00:01:52.159
+Pegando o mesmo exemplo do recibo anterior, da hora extra,
+
+34
+00:01:52.159 --> 00:01:57.060
+eu vou pegar o valor apurado, que é 45,82,
+
+35
+00:01:57.060 --> 00:02:00.159
+dividir pela quantidade de dias úteis no mês,
+
+36
+00:02:00.159 --> 00:02:03.659
+que dias são esses, sempre de segunda a sábado,
+
+37
+00:02:03.659 --> 00:02:07.159
+e multiplicar pelos dias não úteis, domingos e feriados.
+
+38
+00:02:07.159 --> 00:02:13.860
+Consequentemente, pessoal, vocês vão ver que ali vai sair a apuração do descanso semanal remunerado para o empregado.
+
+39
+00:02:13.860 --> 00:02:16.960
+Essa classificação de dias você faz lá no início do ano, tá?
+
+40
+00:02:16.960 --> 00:02:19.460
+Você confere no seu sistema se está tudo certinho ou não.
+
+41
+00:02:19.460 --> 00:02:20.259
+Por quê?
+
+42
+00:02:20.259 --> 00:02:25.960
+Porque existem feriados municipais, né, que podem interferir nesse cálculo, tá bom?
+
+43
+00:02:25.960 --> 00:02:26.759
+Temos aqui,
+
+44
+00:02:26.759 --> 00:02:32.759
+descontos, por exemplo, faltas, atrasos e vale-transporte são os valores que vão
+
+45
+00:02:32.759 --> 00:02:36.659
+modificar de um mês para o outro, por isso que a gente considera como variável.
+
+46
+00:02:36.659 --> 00:02:39.460
+E automaticamente, pessoal, a gente tem aqui
+
+47
+00:02:39.460 --> 00:02:45.460
+a falta do trabalhador, você lança a quantidade de um dia, o sistema vai apurar para você automaticamente.
+
+48
+00:02:45.460 --> 00:02:48.560
+Então, 1.680, salário dividido por 30.
+
+49
+00:02:48.560 --> 00:02:51.659
+Agora, o atraso, aqui o exemplo.
+
+50
+00:02:51.659 --> 00:02:54.460
+Primeiro, você precisa sempre transformar
+
+51
+00:02:54.460 --> 00:02:55.960
+os minutos de atraso em sexo agendado.
+
+52
+00:02:56.759 --> 00:02:59.659
+2 e mais, então dividir por 60.
+
+53
+00:02:59.659 --> 00:03:03.759
+Vou chegar ao valor de 0.63 e aí sim eu aplico a fórmula.
+
+54
+00:03:03.759 --> 00:03:08.759
+O salário base dividido pelo salário hora do trabalhador, quantidade de horas do mês,
+
+55
+00:03:08.759 --> 00:03:12.460
+multiplicado por 6.63, tá?
+
+56
+00:03:12.460 --> 00:03:15.759
+Eu substituo 38 minutos por 63.
+
+57
+00:03:15.759 --> 00:03:21.960
+E automaticamente eu vou chegar ao valor de 98,85 que foi apurado nesse modelo.
+
+58
+00:03:21.960 --> 00:03:26.460
+Agora, o vale-transporte você pode estar lançando com base nos dias úteis, tá?
+
+59
+00:03:26.460 --> 00:03:28.460
+Para que o trabalhador seja descontado.
+
+60
+00:03:28.460 --> 00:03:30.460
+Por isso que é variável.
+
+61
+00:03:30.460 --> 00:03:32.960
+Agora, é uma medida que algumas empresas adotam.
+
+62
+00:03:32.960 --> 00:03:40.460
+A legislação cita 6% sobre salário, mas tem vale-transporte em empresas que adotam pagamento sobre os dias úteis trabalhados, tá bom?
+
+63
+00:03:40.460 --> 00:03:44.460
+Ali o exemplo que eu dividi o salário base do trabalhador.
+
+64
+00:03:44.460 --> 00:03:50.960
+Apliquei, dividi por 30, multipliquei por 22 e aplicamos o percentual de 6%, tá bom?

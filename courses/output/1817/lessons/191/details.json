@@ -1,0 +1,33 @@
+{
+  "id": 458118,
+  "title": "Exercícios Finais",
+  "position": 192,
+  "duration": 273,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/475cf967-756a-4583-a813-78213d8f377e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/475cf967-756a-4583-a813-78213d8f377e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/475cf967-756a-4583-a813-78213d8f377e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/475cf967-756a-4583-a813-78213d8f377e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/475cf967-756a-4583-a813-78213d8f377e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

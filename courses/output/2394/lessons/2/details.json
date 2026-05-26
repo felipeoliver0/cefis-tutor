@@ -1,0 +1,33 @@
+{
+  "id": 465700,
+  "title": "Breve histórico",
+  "position": 2,
+  "duration": 279,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8f9426a6-c226-4dd0-8895-71233680fd70/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8f9426a6-c226-4dd0-8895-71233680fd70/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8f9426a6-c226-4dd0-8895-71233680fd70/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8f9426a6-c226-4dd0-8895-71233680fd70/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8f9426a6-c226-4dd0-8895-71233680fd70/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

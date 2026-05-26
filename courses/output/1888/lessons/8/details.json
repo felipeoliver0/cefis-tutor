@@ -1,0 +1,33 @@
+{
+  "id": 458622,
+  "title": "Práticas racistas e suas penas",
+  "position": 8,
+  "duration": 303,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5700f288-b932-4514-b299-f4ffa336a1ef/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5700f288-b932-4514-b299-f4ffa336a1ef/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5700f288-b932-4514-b299-f4ffa336a1ef/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5700f288-b932-4514-b299-f4ffa336a1ef/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5700f288-b932-4514-b299-f4ffa336a1ef/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

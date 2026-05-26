@@ -1,0 +1,33 @@
+{
+  "id": 463834,
+  "title": "Classificação dos títulos de crédito",
+  "position": 7,
+  "duration": 420,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c15b96c0-db35-49e5-8484-913f15bd027c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c15b96c0-db35-49e5-8484-913f15bd027c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c15b96c0-db35-49e5-8484-913f15bd027c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c15b96c0-db35-49e5-8484-913f15bd027c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c15b96c0-db35-49e5-8484-913f15bd027c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2599,
+    "title": "Mapeamento de processos para redução de custos",
+    "subtitle": "Fundamentos e aplicações",
+    "summary": "Neste curso de mapeamento de processos para redução de custos, você entenderá o que é a gestão por processos e os benefícios de sua adoção pelas organizações. Aprenderá desde os conceitos e princípios gerais até os benefícios e características do mapeamento, incluindo os passos para sua realização, levantamento de dados, fluxogramas, processo de compras, análise, ferramentas para diagnosticar e melhorar processos e muito mais para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/9843a765529fac5c6e8eea1965255cb51728074039.jpg",
+    "goals": [
+      "Proporcionar um entendimento sobre o que é a Gestão por Processos e os benefícios de sua adoção pelas Organizações. Mostrar como a Gestão por Processos se integra ao planejamento estratégico dos negócios empresariais. Capacitar os participantes a promoverem a gestão eficaz e eficiente dos processos sob sua responsabilidade. Contribuir para a capacitação dos participantes para realizarem com sucesso diagnósticos, análises e melhorias nos processos existentes em suas Organizações, promoverem reduções de custos e introduzirem indicadores de medição e controle para acompanhamento e monitoramento de seu desempenho."
+    ],
+    "teacher": {
+      "id": 268532,
+      "name": "SÉRGIO LOPES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1633790201.jpeg"
+    },
+    "duration": 5036,
+    "keywords": "mapeamento de processos;processo;redução de custos;custos",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 15,
+    "materialCount": 7,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1118,
+    "averageRating": 9.03,
+    "practiceAverage": 8.97,
+    "trailer": {
+      "id": "92ed5ee8-fc9b-4cf0-ac4d-e8d8b699c576",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92ed5ee8-fc9b-4cf0-ac4d-e8d8b699c576/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92ed5ee8-fc9b-4cf0-ac4d-e8d8b699c576/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92ed5ee8-fc9b-4cf0-ac4d-e8d8b699c576/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/92ed5ee8-fc9b-4cf0-ac4d-e8d8b699c576/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-07-17T08:52:52.000Z",
+      "updatedAt": "2023-07-17T08:52:52.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2023-07-17T13:24:17.000Z",
+    "recordedAt": "2023-06-12T00:00:00.000Z",
+    "createdAt": "2023-06-12T11:29:45.000Z"
+  }
+}

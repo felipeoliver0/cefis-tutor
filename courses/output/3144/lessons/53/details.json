@@ -1,0 +1,33 @@
+{
+  "id": 475559,
+  "title": "Operação com capital de terceiro",
+  "position": 53,
+  "duration": 638,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c3334666-d9b7-4c29-bddb-62a428f9d100/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3334666-d9b7-4c29-bddb-62a428f9d100/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3334666-d9b7-4c29-bddb-62a428f9d100/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3334666-d9b7-4c29-bddb-62a428f9d100/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c3334666-d9b7-4c29-bddb-62a428f9d100/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

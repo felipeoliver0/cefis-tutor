@@ -1,0 +1,33 @@
+{
+  "id": 486052,
+  "title": "Produtos excluídos - Parte 1",
+  "position": 3,
+  "duration": 214,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4c6d5fcf-7baf-4159-96ce-3a55ed5bb35f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c6d5fcf-7baf-4159-96ce-3a55ed5bb35f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c6d5fcf-7baf-4159-96ce-3a55ed5bb35f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c6d5fcf-7baf-4159-96ce-3a55ed5bb35f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c6d5fcf-7baf-4159-96ce-3a55ed5bb35f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.019
+Bom, agora vamos passar rapidamente sobre só o que é a taxa PTAX,
+
+2
+00:00:04.139 --> 00:00:06.280
+a taxa de câmbio PTAX é importante.
+
+3
+00:00:06.960 --> 00:00:11.320
+Então, a taxa de câmbio oficial do real frente ao dólar americano,
+
+4
+00:00:11.320 --> 00:00:15.339
+então é uma convenção, ela é apurada diariamente no Banco Central do Brasil
+
+5
+00:00:15.339 --> 00:00:20.079
+e ele serve como referência obrigatória para os contratos futuros,
+
+6
+00:00:20.179 --> 00:00:22.539
+para B3, para as operações corporativas.
+
+7
+00:00:22.719 --> 00:00:46.240
+Então, é muito comum a gente sempre falar da taxa PTAX. FIS mais usada por empresas, analistas, a própria imprensa e o governo para registro contábil,
+
+8
+00:00:46.359 --> 00:00:47.740
+estatísticas de comércio exterior.
+
+9
+00:00:48.359 --> 00:00:49.299
+Então, quando a gente fala
+
+10
+00:00:49.299 --> 00:00:52.280
+do dólar petax, da taxa de câmbio petax,
+
+11
+00:00:52.320 --> 00:00:53.979
+é disso que a gente está falando. E ele vem
+
+12
+00:00:53.979 --> 00:00:56.079
+com base em um código
+
+13
+00:00:56.079 --> 00:00:58.100
+de uma antiga transação que tinha no SISBACEN
+
+14
+00:00:58.100 --> 00:00:59.880
+que ela sequer existe mais.
+
+15
+00:00:59.960 --> 00:01:02.000
+O nome, ele advém
+
+16
+00:01:02.000 --> 00:01:04.500
+dessa transação.
+
+17
+00:01:04.500 --> 00:01:08.159
+Então, a taxa petax é calculada diariamente pelo Banco Central
+
+18
+00:01:08.159 --> 00:01:17.200
+e isso acontece em quatro consultas que são feitas entre as 10 da manhã, 1 e 10 da tarde.
+
+19
+00:01:17.420 --> 00:01:25.500
+Então, existem aí várias janelas de consulta ao longo desse período, 10 da manhã e 1 e 10 da tarde.
+
+20
+00:01:29.700 --> 00:01:34.799
+Então, o Banco Central consulta dezenas de forma múltipla e os vários dealers que estão negociando ou vendendo dólar
+
+21
+00:01:34.799 --> 00:01:37.780
+para chegar a essa taxa petaxe.
+
+22
+00:01:37.959 --> 00:01:42.000
+Então, para cada consulta que é feita dentro desse intervalo,
+
+23
+00:01:42.040 --> 00:01:47.159
+dessas quatro consultas, é eliminada as duas maiores e as duas menores taxas
+
+24
+00:01:47.159 --> 00:01:55.799
+e aí você chega a essa média aritmética das taxas restantes de cada janela.
+
+25
+00:01:55.799 --> 00:01:58.760
+Então, a petax final, seja compra ou venda,
+
+26
+00:01:59.159 --> 00:02:02.739
+ela resulta exatamente dessa média final.
+
+27
+00:02:03.500 --> 00:02:06.219
+E aí, se você for fechar uma importação,
+
+28
+00:02:06.579 --> 00:02:09.639
+você normalmente vai utilizar a taxa Petax de venda,
+
+29
+00:02:09.639 --> 00:02:14.039
+que ela vai ser exatamente a do dia útil,
+
+30
+00:02:14.500 --> 00:02:18.639
+imediatamente anterior à data do registro
+
+31
+00:02:19.460 --> 00:02:21.060
+da declaração de importação.
+
+32
+00:02:21.219 --> 00:02:24.060
+O registro da declaração de importação é o momento,
+
+33
+00:02:24.219 --> 00:02:25.039
+vamos dizer que você
+
+34
+00:02:25.039 --> 00:02:28.400
+para fins cambiais você realiza
+
+35
+00:02:28.400 --> 00:02:30.000
+por fim a exportação
+
+36
+00:02:30.000 --> 00:02:31.800
+a importação
+
+37
+00:02:31.800 --> 00:02:33.900
+então essa regra também vai
+
+38
+00:02:33.900 --> 00:02:35.960
+servir para você fazer a conversão do
+
+39
+00:02:35.960 --> 00:02:37.819
+valor do anel, para você fazer cálculo
+
+40
+00:02:37.819 --> 00:02:40.360
+de importação, IPI, PIS, COFINS
+
+41
+00:02:40.360 --> 00:02:42.180
+já no caso
+
+42
+00:02:42.180 --> 00:02:43.759
+da exportação
+
+43
+00:02:43.759 --> 00:02:46.020
+não se trata da declaração de
+
+44
+00:02:46.020 --> 00:02:47.740
+importação, mas você vai estar falando da
+
+45
+00:02:47.740 --> 00:02:50.099
+data da emissão da nota
+
+46
+00:02:50.099 --> 00:02:52.099
+fiscal, então a taxa petaxe vai ser a
+
+47
+00:02:52.099 --> 00:02:53.800
+compra do dia útil
+
+48
+00:02:53.800 --> 00:02:55.979
+imediatamente anterior à emissão da
+
+49
+00:02:55.979 --> 00:02:58.280
+nota fiscal, então fazendo essa analogia
+
+50
+00:02:58.280 --> 00:03:00.180
+com a declaração de importação
+
+51
+00:03:00.180 --> 00:03:02.520
+e ela aplica-se
+
+52
+00:03:02.520 --> 00:03:04.199
+a conversão em reais para a nota
+
+53
+00:03:04.199 --> 00:03:06.360
+fiscal, registro fiscal, estatísticas
+
+54
+00:03:06.360 --> 00:03:07.180
+e etc.

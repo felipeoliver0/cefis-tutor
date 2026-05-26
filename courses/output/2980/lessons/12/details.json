@@ -1,0 +1,33 @@
+{
+  "id": 472397,
+  "title": "A Lei SOX e o mercado de capitais brasileiros",
+  "position": 12,
+  "duration": 111,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7ff9bf22-17bf-4432-a96d-b686d92a215d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ff9bf22-17bf-4432-a96d-b686d92a215d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ff9bf22-17bf-4432-a96d-b686d92a215d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ff9bf22-17bf-4432-a96d-b686d92a215d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ff9bf22-17bf-4432-a96d-b686d92a215d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

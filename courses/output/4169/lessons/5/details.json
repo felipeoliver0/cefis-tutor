@@ -1,0 +1,33 @@
+{
+  "id": 487633,
+  "title": "Conceitos Pertinentes - Parte 1",
+  "position": 5,
+  "duration": 553,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/d4a7c227-4bab-4aef-aaee-13119d350345/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4a7c227-4bab-4aef-aaee-13119d350345/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4a7c227-4bab-4aef-aaee-13119d350345/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4a7c227-4bab-4aef-aaee-13119d350345/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4a7c227-4bab-4aef-aaee-13119d350345/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

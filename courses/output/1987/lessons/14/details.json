@@ -1,0 +1,33 @@
+{
+  "id": 460291,
+  "title": "Prestação de contas",
+  "position": 14,
+  "duration": 202,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/449d9580-c565-4769-a318-1aea620ee3be/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/449d9580-c565-4769-a318-1aea620ee3be/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/449d9580-c565-4769-a318-1aea620ee3be/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/449d9580-c565-4769-a318-1aea620ee3be/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/449d9580-c565-4769-a318-1aea620ee3be/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

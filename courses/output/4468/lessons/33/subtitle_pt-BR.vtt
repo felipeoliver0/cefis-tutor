@@ -1,0 +1,381 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.940
+Feito isso, esse verdinho aqui é sempre para verificar os avisos e erros.
+
+3
+00:00:05.940 --> 00:00:11.279
+Essa calculadora, sempre que eu clico aqui, eu consigo fazer contas aqui.
+
+4
+00:00:11.279 --> 00:00:17.760
+Então, eu ponho lá 2.500, quero fazer vezes 12 para confirmar que está ok,
+
+5
+00:00:17.760 --> 00:00:19.160
+aí eu dou ok.
+
+6
+00:00:19.160 --> 00:00:23.800
+Quando chega nesse valor, eu consigo, se eu quiser, transportar para um campo
+
+7
+00:00:23.800 --> 00:00:27.019
+específico aqui, que eu estou preenchendo.
+
+8
+00:00:27.019 --> 00:00:30.420
+Então, tem mais essa funcionalidade aqui.
+
+9
+00:00:30.420 --> 00:00:36.500
+Em cima, quando eu clico nos botões aqui, declaração, é uma nova,
+
+10
+00:00:36.500 --> 00:00:43.259
+ou abrir uma declaração já preenchida, fechar, se eu quero retificar,
+
+11
+00:00:43.259 --> 00:00:48.000
+imprimir, eu consigo imprimir a declaração completa,
+
+12
+00:00:48.000 --> 00:00:52.219
+eu consigo imprimir o recibo, quando eu já entreguei,
+
+13
+00:00:52.219 --> 00:00:56.020
+o DARF do IRPF, quando aqui gera um valor a pagar,
+
+14
+00:00:56.020 --> 00:00:57.020
+não é o caso aqui,
+
+15
+00:00:57.020 --> 00:01:00.659
+que aqui é restituir, um DARF de doações,
+
+16
+00:01:00.659 --> 00:01:04.359
+quando eu faço a doação direta aqui na declaração,
+
+17
+00:01:04.359 --> 00:01:08.439
+eu já consigo emitir um DARF aqui,
+
+18
+00:01:08.439 --> 00:01:11.900
+da criança e adolescente ou da pessoa idosa,
+
+19
+00:01:11.900 --> 00:01:18.579
+já pagar esse DARF e já abater do total de IRPF que eu tenho a pagar aqui.
+
+20
+00:01:18.579 --> 00:01:21.579
+Então, algumas funcionalidades, importações,
+
+21
+00:01:21.579 --> 00:01:26.819
+carnê leão, atividade rural, ganho de capital, eu também consigo importar.
+
+22
+00:01:26.819 --> 00:01:33.459
+Aqui eu vejo algumas fichas específicas, eu escolho a ficha específica da declaração,
+
+23
+00:01:33.459 --> 00:01:38.739
+se for da atividade rural, ganho de capital, renda variável, mesma coisa.
+
+24
+00:01:38.739 --> 00:01:45.640
+Ferramentas, eu consigo gravar uma cópia de segurança ou restaurar,
+
+25
+00:01:45.640 --> 00:01:49.340
+e sempre importante, eu acabei a declaração,
+
+26
+00:01:49.340 --> 00:01:56.620
+vejo que não tem mais erros e avisos, eu venho em declaração e venho em entregar,
+
+27
+00:01:56.620 --> 00:01:59.420
+primeiro eu salvo a declaração,
+
+28
+00:01:59.420 --> 00:02:03.120
+e aí depois eu vou transmitir ou com o certificado digital,
+
+29
+00:02:03.120 --> 00:02:07.640
+que é recomendável, ou sem o certificado digital se eu não tiver.
+
+30
+00:02:07.640 --> 00:02:13.699
+E aqui embaixo eu também tenho essa opção, entregar declaração, transmitir.
+
+31
+00:02:13.699 --> 00:02:16.900
+Só que eu só posso fazer isso depois que eu tiro os erros,
+
+32
+00:02:16.900 --> 00:02:20.979
+vocês viram que aqui eu tenho que tirar alguns erros ali,
+
+33
+00:02:20.979 --> 00:02:26.379
+mas é só de CPF, CNPJ, e aí eu ponho e já tiro todos os erros.
+
+34
+00:02:26.379 --> 00:02:31.419
+E aqui embaixo, eu tenho resumos, resumo da declaração,
+
+35
+00:02:31.419 --> 00:02:41.099
+e aí ele aparece, esse resumo aqui de todos os rendimentos recebidos tributáveis,
+
+36
+00:02:41.099 --> 00:02:47.259
+as deduções, vamos ver aqui, aparecem os valores aqui no canto,
+
+37
+00:02:47.259 --> 00:02:51.840
+estão todos os rendimentos tributáveis, as deduções,
+
+38
+00:02:51.840 --> 00:02:56.180
+e o valor total aqui que é de deduções,
+
+39
+00:02:56.180 --> 00:03:00.060
+total de rendimentos tributáveis, né? O cálculo do
+
+40
+00:03:00.060 --> 00:03:04.460
+imposto, que aqui ele já traz, né? Todo o imposto devido,
+
+41
+00:03:04.560 --> 00:03:08.240
+o imposto pago, né? Se tem a restituir
+
+42
+00:03:08.240 --> 00:03:12.560
+a pagar os dados bancários, aparece outras informações.
+
+43
+00:03:12.840 --> 00:03:15.960
+Nessas outras informações que é sempre importante aqui você
+
+44
+00:03:15.960 --> 00:03:20.060
+checar o seguinte, ó. Os bens de evolução patrimonial.
+
+45
+00:03:20.060 --> 00:03:24.199
+Isso que é super importante na declaração, né? Verificar quais
+
+46
+00:03:24.199 --> 00:03:28.099
+eram os bens e direitos em 31 de 12 de 2024, que no
+
+47
+00:03:28.099 --> 00:03:32.020
+caso aqui é 1.820.000. Os bens e direitos em 31
+
+48
+00:03:32.020 --> 00:03:36.000
+de 12 de 2025, veja que diminuiu aqui o
+
+49
+00:03:36.000 --> 00:03:39.439
+total do patrimônio, que a gente viu que foi 800.000, né?
+
+50
+00:03:40.400 --> 00:03:44.120
+Que entrou o rendimento isento e não tributável e ainda não
+
+51
+00:03:44.120 --> 00:03:47.300
+entrou o novo imóvel que foi adquirido só no ano
+
+52
+00:03:47.719 --> 00:03:51.400
+seguinte, né? Então, reduziu
+
+53
+00:03:51.400 --> 00:03:54.120
+o patrimônio e aumentou a dívida.
+
+54
+00:03:54.199 --> 00:03:57.840
+Ah, então, patrimonialmente aqui a gente enxerga isso, ó.
+
+55
+00:03:58.780 --> 00:04:02.379
+E nos rendimentos isentos e não tributáveis, teve um rendimento
+
+56
+00:04:02.379 --> 00:04:06.020
+muito grande aqui, porque recebeu dividendos,
+
+57
+00:04:06.840 --> 00:04:10.259
+recebeu também um milhão de venda
+
+58
+00:04:10.259 --> 00:04:14.020
+de imóveis, né? Que não foi tributado, ó. Então,
+
+59
+00:04:14.840 --> 00:04:18.040
+reduziu o patrimônio, aumentou a dívida,
+
+60
+00:04:18.180 --> 00:04:21.980
+mas teve um baita rendimento. Teve rendimento aqui de
+
+61
+00:04:21.980 --> 00:04:23.980
+sujeito a tributação exclusiva e
+
+62
+00:04:23.980 --> 00:04:27.959
+definitiva, além do rendimento lá em cima que a gente viu
+
+63
+00:04:27.959 --> 00:04:32.040
+que são dos tributáveis. Então, a gente enxerga a evolução patrimonial.
+
+64
+00:04:32.800 --> 00:04:35.560
+Se o patrimônio aqui aumenta ao invés de
+
+65
+00:04:35.560 --> 00:04:39.899
+diminuir, né? E o aumento do patrimônio é muito
+
+66
+00:04:39.899 --> 00:04:43.839
+maior do que o rendimento declarado, aí é pênalti.
+
+67
+00:04:44.600 --> 00:04:47.800
+Aí significa dizer que o contribuinte está tendo alguma
+
+68
+00:04:47.800 --> 00:04:52.319
+origem ou de dinheiro ou de rendimento que ele não está declarando.
+
+69
+00:04:52.319 --> 00:04:53.959
+Então, a gente sempre tem que
+
+70
+00:04:53.959 --> 00:04:58.459
+ver a consistência entre o aumento patrimonial
+
+71
+00:04:58.459 --> 00:05:02.180
+e os rendimentos. Uma vez feito
+
+72
+00:05:02.180 --> 00:05:06.060
+tudo isso, então, a gente salva a declaração
+
+73
+00:05:06.060 --> 00:05:10.060
+e grava até uma cópia, etc.,
+
+74
+00:05:10.060 --> 00:05:13.779
+e depois transmite, tá bom? E aí está finalizado.
+
+75
+00:05:14.339 --> 00:05:18.079
+Se eu venho aqui em declaração, depois que eu
+
+76
+00:05:18.079 --> 00:05:21.920
+vamos até tentar finalizar aqui rapidamente, eu vou
+
+77
+00:05:21.920 --> 00:05:23.199
+colocar um CPF aqui,
+
+78
+00:05:23.959 --> 00:05:27.600
+fictício, vamos ver se ele vai pegar aqui, tá?
+
+79
+00:05:28.319 --> 00:05:31.939
+Ó, eu pus um CPF aqui no mesmo padrão, mas ele
+
+80
+00:05:31.939 --> 00:05:35.339
+ficou vermelhinho porque ele não encontrou esse CPF, ó.
+
+81
+00:05:36.079 --> 00:05:39.800
+Então, super importante, está inválido, né? Eu tenho que pôr um
+
+82
+00:05:39.800 --> 00:05:43.980
+CPF aqui de um profissional existente na base
+
+83
+00:05:43.980 --> 00:05:47.699
+da Receita Federal compatível com o nome. Aqui eu pus o nome
+
+84
+00:05:47.699 --> 00:05:51.800
+fictício, Mauro Carneiro, até digitei
+
+85
+00:05:51.800 --> 00:05:53.939
+Carneiro, né? Então, tem que ser fictício.
+
+86
+00:05:53.939 --> 00:05:57.600
+Tem que ser um CPF válido, um CPF, né, que existe realmente
+
+87
+00:05:57.600 --> 00:06:01.720
+para ele tirar o erro. Por isso que eu, que aqui, né,
+
+88
+00:06:01.899 --> 00:06:05.920
+eu acabei deixando os erros, mas está
+
+89
+00:06:05.920 --> 00:06:10.000
+pronto, né? Venho aqui em verificar avisos e
+
+90
+00:06:10.000 --> 00:06:13.439
+erros, tiro todos os avisos e erros, salvo,
+
+91
+00:06:14.060 --> 00:06:17.120
+transmito e ele já vai gerar o recibo, tá?
+
+92
+00:06:17.639 --> 00:06:21.519
+Então, vocês verificaram que a declaração, ela não é difícil,
+
+93
+00:06:21.519 --> 00:06:23.519
+mas ela pode ser complicada.
+
+94
+00:06:23.939 --> 00:06:27.519
+Complicada e trabalhosa, dependendo da quantidade
+
+95
+00:06:27.519 --> 00:06:31.620
+de bens e direitos e de passivos e até de
+
+96
+00:06:31.620 --> 00:06:33.199
+rendimentos que a pessoa tem.

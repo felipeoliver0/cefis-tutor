@@ -1,0 +1,33 @@
+{
+  "id": 469566,
+  "title": "Cortes_Sub_17,00",
+  "position": 17,
+  "duration": 784,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/459e5381-00e5-479d-a7d9-a37f389fc317/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/459e5381-00e5-479d-a7d9-a37f389fc317/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/459e5381-00e5-479d-a7d9-a37f389fc317/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/459e5381-00e5-479d-a7d9-a37f389fc317/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/459e5381-00e5-479d-a7d9-a37f389fc317/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

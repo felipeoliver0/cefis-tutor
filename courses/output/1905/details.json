@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1905,
+    "title": "ENRON: da ascensão ao fracasso",
+    "subtitle": "Documentário",
+    "summary": "Neste documentário você conhecerá um dos maiores escândalos da história financeira. Entenderá como a sétima maior empresa dos Estados Unidos fracassou e se tornou protagonista de um dos mais complexos esquema de fraudes que envolveu manobras contábeis, informações privilegiadas, manipulação que envolveu bancos, empresas de auditoria, imprensa e fez com que o mercado financeiro global nunca mais fosse o mesmo.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/704b27084030f0e97ce3ce3e5953e9e51639568036.jpg",
+    "goals": [
+      "Apresentar alguns episódios que marcaram a incrível ascensão e o surpreendente fracasso da Enron."
+    ],
+    "teacher": {
+      "id": 127376,
+      "name": "HENRIQUE",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1662350543.jpeg"
+    },
+    "duration": 1480,
+    "keywords": "enron;fraude",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 237,
+    "averageRating": 9.02,
+    "practiceAverage": 8.79,
+    "trailer": {
+      "id": "6dd058e4-eead-4267-ad8d-83b1f285e0f0",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6dd058e4-eead-4267-ad8d-83b1f285e0f0/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6dd058e4-eead-4267-ad8d-83b1f285e0f0/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6dd058e4-eead-4267-ad8d-83b1f285e0f0/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6dd058e4-eead-4267-ad8d-83b1f285e0f0/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-01-31T12:30:04.000Z",
+      "updatedAt": "2022-01-31T12:30:03.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-02-12T12:30:29.000Z",
+    "recordedAt": "2021-12-15T00:00:00.000Z",
+    "createdAt": "2021-12-15T08:29:42.000Z"
+  }
+}

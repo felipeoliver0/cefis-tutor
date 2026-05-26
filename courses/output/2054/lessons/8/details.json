@@ -1,0 +1,33 @@
+{
+  "id": 461877,
+  "title": "Lei de diretrizes orçamentaria",
+  "position": 8,
+  "duration": 436,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/479ca1f9-38af-4786-8cc6-d759d64ce1ce/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/479ca1f9-38af-4786-8cc6-d759d64ce1ce/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/479ca1f9-38af-4786-8cc6-d759d64ce1ce/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/479ca1f9-38af-4786-8cc6-d759d64ce1ce/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/479ca1f9-38af-4786-8cc6-d759d64ce1ce/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

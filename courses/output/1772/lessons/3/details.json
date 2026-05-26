@@ -1,0 +1,27 @@
+{
+  "id": 456509,
+  "title": "Pagamento",
+  "position": 3,
+  "duration": 175,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/56d95754-cf0f-4c84-ad44-5a0dd8c44931/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/56d95754-cf0f-4c84-ad44-5a0dd8c44931/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/56d95754-cf0f-4c84-ad44-5a0dd8c44931/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/56d95754-cf0f-4c84-ad44-5a0dd8c44931/720.mp4",
+      "height": 720
+    }
+  ]
+}

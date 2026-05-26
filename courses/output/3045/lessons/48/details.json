@@ -1,0 +1,33 @@
+{
+  "id": 473659,
+  "title": "Compra e venda de veículos",
+  "position": 48,
+  "duration": 437,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/43fb96ed-4c13-4f7b-8e7d-b4b3853f2a43/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/43fb96ed-4c13-4f7b-8e7d-b4b3853f2a43/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/43fb96ed-4c13-4f7b-8e7d-b4b3853f2a43/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/43fb96ed-4c13-4f7b-8e7d-b4b3853f2a43/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/43fb96ed-4c13-4f7b-8e7d-b4b3853f2a43/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

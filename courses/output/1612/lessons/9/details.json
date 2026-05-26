@@ -1,0 +1,33 @@
+{
+  "id": 454684,
+  "title": "Tratamento dos Dados TXT - CSV - Parte 2",
+  "position": 9,
+  "duration": 370,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/05072523-2a42-4e07-81ac-ade54ac0d09d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/05072523-2a42-4e07-81ac-ade54ac0d09d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/05072523-2a42-4e07-81ac-ade54ac0d09d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/05072523-2a42-4e07-81ac-ade54ac0d09d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/05072523-2a42-4e07-81ac-ade54ac0d09d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

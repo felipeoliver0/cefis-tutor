@@ -1,0 +1,237 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.700
+dito isso, nós temos.
+
+2
+00:00:02.710 --> 00:00:11.359
+Ah, o SPED fiscal, o SPED fiscal é o chamado livro digital ICMS barra i p
+
+3
+00:00:12.010 --> 00:00:17.520
+O que que é é uma representação digital, tá, ele é um livro,
+
+4
+00:00:17.530 --> 00:00:24.360
+eh dependendo do tamanho da empresa ele é bastante robusto,
+
+5
+00:00:24.370 --> 00:00:32.380
+bastante informações levada a de dentro da empresa ao Fisco.
+
+6
+00:00:32.389 --> 00:00:34.139
+Então, como eu disse pra vocês,
+
+7
+00:00:34.150 --> 00:00:39.599
+essa representação digital traz aí todas as informações
+
+8
+00:00:39.880 --> 00:00:46.810
+que são inerentes ao quê ao estoque, o foco do SPED fiscal é estoque.
+
+9
+00:00:46.819 --> 00:00:50.970
+Eu vou até o meu computador e fazer uma
+
+10
+00:00:50.979 --> 00:00:55.090
+demonstração de qual é esse arquivo digital É importante,
+
+11
+00:00:55.099 --> 00:01:01.450
+vocês eh perceberem que aqui agora eu estou aqui
+
+12
+00:01:01.459 --> 00:01:07.410
+dentro do notebook e vou abrir apenas um arquivo,
+
+13
+00:01:07.419 --> 00:01:09.750
+ainda que seja pequeno.
+
+14
+00:01:10.110 --> 00:01:17.059
+Mas o suficiente para mostrar pra vocês o que é o livro SPED Fiscal
+
+15
+00:01:17.680 --> 00:01:25.449
+O livro SPED Fiscal é, na verdade um empacotamento de informações tributária,
+
+16
+00:01:25.459 --> 00:01:29.769
+partindo desde ali das informações cadastrais
+
+17
+00:01:29.779 --> 00:01:32.970
+da organização até passar por clientes
+
+18
+00:01:32.980 --> 00:01:40.209
+e fornecedores também as mercadorias da empresa e o foco é mercadoria.
+
+19
+00:01:40.220 --> 00:01:43.230
+O foco é produto do SPED FISCAL
+
+20
+00:01:43.550 --> 00:01:51.819
+e aí transita também para a movimentação de documentações fiscais da organização.
+
+21
+00:01:52.629 --> 00:01:59.239
+Todo documento fiscal deve transitar pelo SPED fiscal.
+
+22
+00:01:59.250 --> 00:02:04.760
+Todo documento aquele que movimenta a mercadoria.
+
+23
+00:02:04.769 --> 00:02:11.119
+Lembrando que o SPED fiscal, o foco é mercadoria,
+
+24
+00:02:11.130 --> 00:02:15.250
+porque o fato gerador dos tributos envolvidos nessa
+
+25
+00:02:15.259 --> 00:02:21.740
+obrigação acessória são eles ICMS Imposto sobre circulação
+
+26
+00:02:22.009 --> 00:02:23.399
+de Mercadoria
+
+27
+00:02:24.100 --> 00:02:26.110
+e também o IPI.
+
+28
+00:02:26.119 --> 00:02:31.869
+Imposto sobre o produto industrializado são fatos geradores
+
+29
+00:02:31.880 --> 00:02:36.869
+que ocorrem concomitantemente na saída do produto.
+
+30
+00:02:36.880 --> 00:02:43.289
+Por isso o olhar o foco é na verdade o estoque.
+
+31
+00:02:43.559 --> 00:02:45.610
+Então, para talvez,
+
+32
+00:02:45.619 --> 00:02:53.850
+colegas estão acompanhando que por ventura não operam diariamente com esse tema,
+
+33
+00:02:53.869 --> 00:02:58.050
+SPED fiscal é importante que conheça aqui como
+
+34
+00:02:58.059 --> 00:03:01.830
+eu estou demonstrando pra você um arquivo digital.
+
+35
+00:03:02.369 --> 00:03:08.779
+Assim, também muito semelhante a esse é o das contribuições PIS e COFINS.
+
+36
+00:03:08.789 --> 00:03:13.740
+Assim também é a escrituração contábil digital da empresa.
+
+37
+00:03:13.750 --> 00:03:20.479
+Assim também é Ah, o ECF, Escrituração contábil, fiscal.
+
+38
+00:03:21.229 --> 00:03:29.539
+Pois bem, dito isso está aqui um arquivo digital muito simples, aliás, será o nosso.
+
+39
+00:03:29.550 --> 00:03:37.899
+Para alguns momentos a gente fazer demonstrações, eh prática pra vocês.
+
+40
+00:03:38.250 --> 00:03:39.860
+Okay ótimo.
+
+41
+00:03:39.869 --> 00:03:45.259
+Dito isso eu volto ali para meu posicionamento pra continuar,
+
+42
+00:03:45.270 --> 00:03:50.240
+uma vez que está descrito aqui neste conteúdo teórico.
+
+43
+00:03:50.250 --> 00:03:55.639
+Eu fui ali na prática, pra mostrar pra você que o SPED fiscal,
+
+44
+00:03:56.289 --> 00:04:02.169
+de maneira simplificada é tudo aquilo que a gente entregava no livro.
+
+45
+00:04:02.179 --> 00:04:05.460
+Papel passado por um cenário digital.
+
+46
+00:04:05.470 --> 00:04:07.899
+Okay, porém, porém,
+
+47
+00:04:07.910 --> 00:04:13.020
+tem um alerta aqui não é uma transformação simples de informação.
+
+48
+00:04:13.029 --> 00:04:19.358
+Nós temos ali um conjunto bastante eh, eh, eh robusto
+
+49
+00:04:19.760 --> 00:04:27.649
+de dados da organização, como as mercadorias, descrição, unidade de medida.
+
+50
+00:04:27.660 --> 00:04:34.829
+Nós temos ali informações, por exemplo, de toda a movimentação da produção,
+
+51
+00:04:34.894 --> 00:04:40.535
+se o produto eles são produtos, que tipo de produto, qual é a destinação?
+
+52
+00:04:40.545 --> 00:04:45.184
+Se é matéria-prima, se é material intermediário, se é embalagem,
+
+53
+00:04:45.195 --> 00:04:48.984
+se é produto acabado, interessante essas questões.
+
+54
+00:04:48.994 --> 00:04:51.285
+Além disso, e aí sim,
+
+55
+00:04:52.390 --> 00:04:57.640
+o Bloco K, que é livro digital do controle da produção do estoque,
+
+56
+00:04:57.649 --> 00:05:07.959
+ainda solicita toda a informação referente ao processo de produção da organização
+
+57
+00:05:07.970 --> 00:05:14.899
+e também as movimentações que ocorrem com o estoque físico da organização.
+
+58
+00:05:15.809 --> 00:05:19.260
+Então é uma exposição de fato,
+
+59
+00:05:19.269 --> 00:05:24.359
+de tudo que acontece com o seu estoque dentro da empresa.

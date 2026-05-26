@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3144,
+    "title": "Iniciação Contábil",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de iniciação contábil você aprenderá todos os conceitos para elaborar demonstrações contábeis. Conhecerá, por meio de exemplos e em linguagem clara e objetiva, a melhor forma de realizar diversas operações: como lançamentos (débito e crédito), fechamento de balanço patrimonial, funções administrativas e econômicas, dentre outros pontos de atenção a serem considerados no momento da conciliação contábil, como por exemplo, adiantamentos, receitas operacionais, despesas, ativo imobilizado, variação monetária, renegociação de dívidas, apuração do ICMS e folha de pagamento. A partir de todo esse conteúdo, você irá dominar as mais variadas operações e saberá como realizar os lançamentos no dia a dia corretamente.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/0f3e90104254527aed3e8796346d443a1728385851.jpg",
+    "goals": [
+      "Orientar e capacitar os participantes diante das mais variadas as operações do dia-a-dia de como se proceder os lançamentos."
+    ],
+    "teacher": {
+      "id": 8,
+      "name": "THIAGO ARANTES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1679621062.jpeg"
+    },
+    "duration": 18251,
+    "keywords": "iniciação contábil;contabilidade",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 67,
+    "materialCount": 8,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 3999,
+    "averageRating": 9,
+    "practiceAverage": 8.86,
+    "trailer": {
+      "id": "4b23dc0d-2397-4c1c-8dca-444e5f16cde5",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4b23dc0d-2397-4c1c-8dca-444e5f16cde5/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4b23dc0d-2397-4c1c-8dca-444e5f16cde5/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4b23dc0d-2397-4c1c-8dca-444e5f16cde5/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4b23dc0d-2397-4c1c-8dca-444e5f16cde5/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-06-25T18:24:00.000Z",
+      "updatedAt": "2024-06-25T18:23:59.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-06-26T08:41:51.000Z",
+    "recordedAt": "2024-05-04T00:00:00.000Z",
+    "createdAt": "2024-05-05T16:04:42.000Z"
+  }
+}

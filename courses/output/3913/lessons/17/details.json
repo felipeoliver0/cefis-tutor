@@ -1,0 +1,33 @@
+{
+  "id": 479509,
+  "title": "Conceitos - sociedades de grande porte",
+  "position": 17,
+  "duration": 448,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bb4ef8bd-178d-41f9-951c-f11840d9a7fa/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb4ef8bd-178d-41f9-951c-f11840d9a7fa/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb4ef8bd-178d-41f9-951c-f11840d9a7fa/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb4ef8bd-178d-41f9-951c-f11840d9a7fa/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb4ef8bd-178d-41f9-951c-f11840d9a7fa/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

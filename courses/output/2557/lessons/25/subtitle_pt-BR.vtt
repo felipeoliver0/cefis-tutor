@@ -1,0 +1,757 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.819
+pessoal antes de adentrar na forma tradicional de
+
+2
+00:00:03.829 --> 00:00:07.139
+emissão de documentos fiscais de nota fiscal eletrônica.
+
+3
+00:00:07.150 --> 00:00:10.680
+Nós vamos dar um vislumbre de pra vocês de uma grande novidade
+
+4
+00:00:10.689 --> 00:00:13.699
+que está vindo por aí que é o p A A,
+
+5
+00:00:13.710 --> 00:00:14.180
+né?
+
+6
+00:00:14.189 --> 00:00:20.399
+P A é provedor de autenticação e assinatura tá então a gente vai
+
+7
+00:00:20.680 --> 00:00:22.950
+mostrar pra vocês o que é o P A,
+
+8
+00:00:22.959 --> 00:00:25.010
+que é uma grande novidade Hoje a gente ainda
+
+9
+00:00:25.020 --> 00:00:28.010
+não tem nenhum p a funcionando no mercado,
+
+10
+00:00:28.020 --> 00:00:32.889
+mas já temos entidades interessadas e é uma novidade que em breve vai estar aqui.
+
+11
+00:00:32.900 --> 00:00:36.770
+E quando tiver você que vê o curso aqui, você já vai estar sabendo do que se trata.
+
+12
+00:00:36.779 --> 00:00:37.209
+Tá bom.
+
+13
+00:00:37.220 --> 00:00:42.090
+Vamos falar do P A antes de falar do modo tradicional de emissão de documentos?
+
+14
+00:00:42.099 --> 00:00:43.450
+Tá bom o P,
+
+15
+00:00:43.459 --> 00:00:45.689
+a pessoal chama provedor de assinatura
+
+16
+00:00:45.700 --> 00:00:48.849
+e autorização de documentos fiscais eletrônicos.
+
+17
+00:00:48.860 --> 00:00:49.349
+Tá
+
+18
+00:00:50.299 --> 00:00:52.750
+por que que foi criado isso? Tá.
+
+19
+00:00:52.759 --> 00:00:56.830
+Isso foi criado porque tem uma lei que dispõe sobre o uso
+
+20
+00:00:56.840 --> 00:01:00.270
+de assinatura eletrônica para interação entre
+
+21
+00:01:00.279 --> 00:01:02.549
+entes públicos e pessoas jurídicas.
+
+22
+00:01:02.560 --> 00:01:07.050
+Então, essa lei mexeu um pouquinho ali na assinatura digital. Tá bom,
+
+23
+00:01:07.589 --> 00:01:10.760
+essa lei estabelece que tem três tipos
+
+24
+00:01:10.769 --> 00:01:14.900
+de assinatura digital assinatura eletrônica simples que
+
+25
+00:01:14.910 --> 00:01:18.839
+permite identificar o signatário e pode anexar
+
+26
+00:01:18.849 --> 00:01:22.080
+ou associar outros dados em formato eletrônico.
+
+27
+00:01:22.089 --> 00:01:26.839
+Tá, então, pode ser, por exemplo, uma assinatura confirmada por clique na tela,
+
+28
+00:01:26.849 --> 00:01:28.680
+assine Aqui você clicou lá,
+
+29
+00:01:28.690 --> 00:01:33.190
+tá e salva a geolocalização como informação associada e o i p.
+
+30
+00:01:33.199 --> 00:01:35.059
+Do computador como informação associada.
+
+31
+00:01:35.360 --> 00:01:37.870
+Beleza é um jeito de assinatura simples, Tá bom!
+
+32
+00:01:38.430 --> 00:01:39.959
+Outro jeito de assinatura simples.
+
+33
+00:01:39.970 --> 00:01:42.599
+Digamos que o entregador de mercadoria chegou lá na sua residência.
+
+34
+00:01:42.610 --> 00:01:44.889
+Você fez uma encomenda ele apresentou um tablet.
+
+35
+00:01:44.900 --> 00:01:47.569
+Você, com o dedo lá mesmo, fez o desenho da sua assinatura.
+
+36
+00:01:47.580 --> 00:01:51.879
+E ele tirou uma foto de você lá com o com o seu produto, né?
+
+37
+00:01:51.889 --> 00:01:57.559
+Então tem uma identificação do signatário E a informação associada é uma foto lá
+
+38
+00:01:57.569 --> 00:02:02.400
+do produto sendo entregue e a geolocalização lá do ponto GPS daquele lugar.
+
+39
+00:02:02.410 --> 00:02:06.260
+Tá isso? Seria uma assinatura eletrônica simples! Tá bom,
+
+40
+00:02:06.870 --> 00:02:08.339
+essa lei também.
+
+41
+00:02:08.350 --> 00:02:14.539
+Ela permite o tipo de assinatura avançada, tanto eletrônica, avançada
+
+42
+00:02:15.149 --> 00:02:16.600
+esse tipo de assinatura,
+
+43
+00:02:16.610 --> 00:02:22.240
+ela é um feito por um certificado não emitido pelo I C P Brasil Tá.
+
+44
+00:02:22.250 --> 00:02:25.919
+Então, ela não é um certificado emitido pelo I C P Brasil.
+
+45
+00:02:25.929 --> 00:02:28.339
+É um certificado emitido por outro meio, tá?
+
+46
+00:02:29.169 --> 00:02:32.979
+Mas ele pode conferir autoria e integridade,
+
+47
+00:02:32.990 --> 00:02:36.339
+embora não emitido pela ICP Brasil e admitido
+
+48
+00:02:36.350 --> 00:02:38.940
+entre as partes como válido e aceito né?
+
+49
+00:02:38.949 --> 00:02:42.899
+Então o ICP Brasil ele não precisa de um acordo entre as partes.
+
+50
+00:02:42.910 --> 00:02:46.240
+O certificado que ele emitiu já tem preço,
+
+51
+00:02:46.324 --> 00:02:50.335
+posto de validade de não repúdio de assinatura digital e tudo mais.
+
+52
+00:02:50.345 --> 00:02:54.175
+Tá então esse certificado da assinatura eletrônica avançada.
+
+53
+00:02:54.184 --> 00:02:57.294
+Ele pode ser o certificado não emitido pelo C P Brasil,
+
+54
+00:02:57.304 --> 00:02:58.975
+com características semelhantes,
+
+55
+00:02:58.985 --> 00:03:02.735
+mas precisa do acordo entre as partes para ser utilizado.
+
+56
+00:03:02.744 --> 00:03:06.005
+Tá bom, Então ele é associado ao signatário,
+
+57
+00:03:06.014 --> 00:03:10.095
+ou seja só uma pessoa que tiver assinando o documento pode ter esse certificado.
+
+58
+00:03:10.104 --> 00:03:13.714
+Tá, ninguém mais pode operar. Esse certificado tá bom
+
+59
+00:03:13.970 --> 00:03:19.020
+e ele permite detectar modificações anteriores como igual do C P Brasil.
+
+60
+00:03:19.029 --> 00:03:21.860
+Só que aqui é um certificado não emitido pela C P Brasil.
+
+61
+00:03:21.869 --> 00:03:24.820
+Tá então através da assinatura digital,
+
+62
+00:03:24.830 --> 00:03:28.229
+ele permite detectar modificações anteriores porque
+
+63
+00:03:28.240 --> 00:03:30.500
+ele faz também assinatura digital,
+
+64
+00:03:30.509 --> 00:03:31.199
+Tá bom,
+
+65
+00:03:31.889 --> 00:03:36.139
+Então um exemplo é um certificado digital que não foi emitido pelo C P Brasil.
+
+66
+00:03:36.149 --> 00:03:39.399
+Vocês viram! Acabei de falar pra vocês que o certificado do C P Brasil
+
+67
+00:03:39.610 --> 00:03:40.820
+tem um custo, né?
+
+68
+00:03:40.830 --> 00:03:44.539
+Esse custo do I C P Brasil é o custo que a empresa cobra por emitir o
+
+69
+00:03:44.550 --> 00:03:47.899
+certificado por te por te identificar por fazer a
+
+70
+00:03:47.910 --> 00:03:51.000
+validação dos seus documentos pra emitir o certificado.
+
+71
+00:03:51.009 --> 00:03:55.300
+E tudo mais tá nesse certificado que que não é i c P Brasil Tá,
+
+72
+00:03:55.309 --> 00:03:57.860
+Esse custo é diluído porque não precisa
+
+73
+00:03:57.869 --> 00:04:00.020
+ser emitido por uma autoridade certificadora,
+
+74
+00:04:00.029 --> 00:04:01.690
+pode ter um controle menor.
+
+75
+00:04:01.699 --> 00:04:07.399
+Ele só precisa ser aceito entre as partes. Tá? E essa lei Ela estabeleceu que o MEI
+
+76
+00:04:07.639 --> 00:04:11.910
+e o contribuinte pessoa física pode usar esse
+
+77
+00:04:11.919 --> 00:04:15.330
+tipo de certificado pra transacionar com o governo.
+
+78
+00:04:15.339 --> 00:04:15.729
+Tá?
+
+79
+00:04:15.740 --> 00:04:18.640
+Então causou uma transformação aí na nota
+
+80
+00:04:18.649 --> 00:04:20.970
+fiscal eletrônica em termos de certificado digital,
+
+81
+00:04:20.980 --> 00:04:22.160
+vocês viram que mudou um pouco.
+
+82
+00:04:22.170 --> 00:04:22.709
+Tá bom.
+
+83
+00:04:23.149 --> 00:04:28.239
+Então essa lei estabeleceu isso e é claro, o nosso certificado I C P.
+
+84
+00:04:28.250 --> 00:04:28.679
+Brasil,
+
+85
+00:04:28.690 --> 00:04:31.600
+que é utilizado por todas as demais empresas por pessoas
+
+86
+00:04:31.609 --> 00:04:33.959
+físicas que emitem nota hoje por todo mundo que emite.
+
+87
+00:04:33.970 --> 00:04:37.320
+Nota atualmente é o certificado de
+
+88
+00:04:37.329 --> 00:04:40.359
+EH Assinatura eletrônica qualificada emitido por
+
+89
+00:04:40.369 --> 00:04:44.640
+autoridade Certifica EH Autoridade certificadora credenciada
+
+90
+00:04:44.649 --> 00:04:46.459
+junto ao I C P Brasil Tá
+
+91
+00:04:46.790 --> 00:04:51.279
+Brasil é infraestrutura de Chaves Públicas do Brasil? Tá?
+
+92
+00:04:51.290 --> 00:04:54.500
+É um órgão do governo vinculado ao I T,
+
+93
+00:04:54.510 --> 00:04:57.079
+que é Instituto de Tecnologia da informação do
+
+94
+00:04:57.089 --> 00:05:00.170
+governo federal que trabalha com certificados digitais,
+
+95
+00:05:00.179 --> 00:05:03.894
+normatiza, credencia as empresas que emitem certificados.
+
+96
+00:05:03.904 --> 00:05:07.855
+Sei desde dois mil e dois tá. Já tem muito tempo, tá bom. Então?
+
+97
+00:05:07.864 --> 00:05:10.375
+O que faz a assinatura eletrônica qualificada é
+
+98
+00:05:10.385 --> 00:05:12.334
+com o Certificado digital C P Brasil.
+
+99
+00:05:12.345 --> 00:05:14.894
+Qual? Que é a novidade que a lei instituiu?
+
+100
+00:05:14.904 --> 00:05:18.535
+Que MEI e pessoa física podem usar assinatura
+
+101
+00:05:18.545 --> 00:05:21.575
+eletrônica avançada quando for tratar com o governo?
+
+102
+00:05:21.584 --> 00:05:21.915
+Tá
+
+103
+00:05:22.179 --> 00:05:24.829
+então, em virtude dessa lei,
+
+104
+00:05:24.839 --> 00:05:27.869
+tivemos que fazer modificações do sistema que
+
+105
+00:05:27.880 --> 00:05:30.630
+recebe as notas fiscais eletrônicas do contribuinte.
+
+106
+00:05:30.640 --> 00:05:34.269
+E que modificação é essa foi criar o tal do PA,
+
+107
+00:05:34.279 --> 00:05:39.230
+provedor de assinatura e autenticação da nota fiscal eletrônica.
+
+108
+00:05:39.239 --> 00:05:39.769
+Tá
+
+109
+00:05:40.809 --> 00:05:42.959
+então como que esse p a funciona?
+
+110
+00:05:43.730 --> 00:05:50.899
+O P A vai ser uma que vai fazer essa transação com o confisco em nome do contribuinte?
+
+111
+00:05:50.910 --> 00:05:55.459
+Tá então pode ser entidade pública ou privada, sem fins lucrativos,
+
+112
+00:05:55.470 --> 00:05:58.059
+tá ou confederações nacionais?
+
+113
+00:05:58.070 --> 00:05:59.839
+Representantes de categorias,
+
+114
+00:05:59.850 --> 00:06:02.739
+emissoras de documentos fiscais eletrônicos que
+
+115
+00:06:02.750 --> 00:06:06.459
+prestem os serviços de forma gratuita?
+
+116
+00:06:06.470 --> 00:06:09.779
+Tá, e também sejam habilitados pra C P A.
+
+117
+00:06:09.790 --> 00:06:15.140
+Então a empresa que quiser ser o p a ela vai se credenciar lá junto ao Confaz, né?
+
+118
+00:06:15.149 --> 00:06:17.750
+O Conselho Nacional de Política Fazendária para a C
+
+119
+00:06:17.760 --> 00:06:22.179
+i p A e se atender a esses requisitos,
+
+120
+00:06:22.190 --> 00:06:28.880
+ela pode se credenciar para ser um p a tá bom, então com o que a gente vê aí sendo p A,
+
+121
+00:06:29.109 --> 00:06:32.320
+a gente tem sinalização que o Sebrae vai fornecer
+
+122
+00:06:32.329 --> 00:06:36.519
+esse serviço para as microempresas e pequenas empresas do
+
+123
+00:06:36.529 --> 00:06:39.619
+MEI tá do microempreendedor individual e a C n
+
+124
+00:06:39.630 --> 00:06:42.920
+t A Confederação Nacional dos Transportes Autônomos né?
+
+125
+00:06:42.929 --> 00:06:44.760
+Dos transportadores autônomos,
+
+126
+00:06:44.769 --> 00:06:50.239
+ela planeja oferecer esse serviço pros TAC transportadores autônomos de carga?
+
+127
+00:06:50.250 --> 00:06:51.420
+Tá bom, então
+
+128
+00:06:51.779 --> 00:06:53.989
+esses são os p a s aí que tão se
+
+129
+00:06:54.000 --> 00:06:58.149
+credenciando para serem os primeiros provedores de assinatura e autenticação,
+
+130
+00:06:58.160 --> 00:07:00.750
+tá bom como que isso vai funcionar?
+
+131
+00:07:00.760 --> 00:07:02.230
+O contribuinte?
+
+132
+00:07:02.239 --> 00:07:07.350
+Ele vai se associar ao p a tá, então ele vai lá no p A e fala Olha,
+
+133
+00:07:07.359 --> 00:07:09.440
+eu quero me associar aí a você pra
+
+134
+00:07:09.450 --> 00:07:11.950
+você ser meu provedor de assinatura e autenticação.
+
+135
+00:07:11.959 --> 00:07:12.369
+Tá
+
+136
+00:07:12.929 --> 00:07:14.980
+o P A ele vai fornecer as
+
+137
+00:07:14.989 --> 00:07:18.459
+ferramentas tecnológicas e suporte técnico ao contribuinte,
+
+138
+00:07:18.470 --> 00:07:18.739
+né?
+
+139
+00:07:18.750 --> 00:07:22.980
+Desde de forma gratuita, tá então o p a vai fornecer lá,
+
+140
+00:07:22.989 --> 00:07:26.779
+um sistema emissor vai fornecer esse tal desse certificado dessa
+
+141
+00:07:26.790 --> 00:07:30.140
+assinatura digital que precisa ser válido entre as partes,
+
+142
+00:07:30.149 --> 00:07:30.380
+né?
+
+143
+00:07:30.390 --> 00:07:31.019
+Então o p!
+
+144
+00:07:31.029 --> 00:07:35.964
+a vai fornecer as ferramentas tecnológicas Suporte técnico Tá bom, depois disso?
+
+145
+00:07:35.975 --> 00:07:39.684
+Pessoal, o contribuinte ele informa a administração tributária,
+
+146
+00:07:39.695 --> 00:07:43.725
+qual que é o seu p a qual que é seu provedor de assinatura e autenticação, né?
+
+147
+00:07:43.734 --> 00:07:44.994
+Porque podem haver vários?
+
+148
+00:07:45.005 --> 00:07:49.635
+Então, depois de ser aceito lá pelo provedor de assinatura e autenticação,
+
+149
+00:07:49.644 --> 00:07:51.845
+pode se informar ao fisco qual?
+
+150
+00:07:51.855 --> 00:07:55.445
+Que é o seu provedor de assinatura e eu tenho? P a tá bom.
+
+151
+00:07:55.454 --> 00:08:02.665
+Então, o fisco passa a admitir. A assinatura avançada deste contribuinte tá bom
+
+152
+00:08:03.559 --> 00:08:05.649
+E o contribuinte, por sua vez,
+
+153
+00:08:05.660 --> 00:08:09.369
+assume a responsabilidade pela veracidade
+
+154
+00:08:09.380 --> 00:08:12.130
+das informações e obrigações tributárias,
+
+155
+00:08:12.140 --> 00:08:12.170
+né?
+
+156
+00:08:12.179 --> 00:08:14.410
+Então há ali um acordo que o Fisco vai
+
+157
+00:08:14.420 --> 00:08:17.410
+aceitar a sua assinatura avançada E o contribuinte também
+
+158
+00:08:17.420 --> 00:08:20.450
+vai assumir que ele é responsável pela veracidade das
+
+159
+00:08:20.459 --> 00:08:24.089
+informações prestadas ali assinadas com esse certificado digital.
+
+160
+00:08:24.100 --> 00:08:26.470
+É aquele tal daquele acordo entre as partes? Tá bom
+
+161
+00:08:29.279 --> 00:08:32.090
+de uma maneira também o P A ele vai informar
+
+162
+00:08:32.099 --> 00:08:35.369
+pra administração tributária quem que é o seu cliente?
+
+163
+00:08:35.380 --> 00:08:35.690
+Tá?
+
+164
+00:08:35.700 --> 00:08:40.808
+Então precisa ter aqui a confirmação do cliente e do p a tá,
+
+165
+00:08:40.820 --> 00:08:43.650
+então os dois precisam informar o físico, o cliente precisa informar.
+
+166
+00:08:43.659 --> 00:08:44.030
+Olha
+
+167
+00:08:44.369 --> 00:08:50.179
+a empresa x é o meu p A e a empresa X precisa falar olha aquele contribuinte ali.
+
+168
+00:08:50.190 --> 00:08:53.380
+Eu vou ser o provedor de assinatura e autorização dele. Tá bom?
+
+169
+00:08:53.390 --> 00:08:56.780
+Então precisa ter os dois informando para a
+
+170
+00:08:56.789 --> 00:08:59.340
+administração tributária que eles estão ali em acordo,
+
+171
+00:08:59.349 --> 00:09:01.500
+pra fazer emissão de documentos fiscais, eletrônicos.
+
+172
+00:09:01.510 --> 00:09:06.359
+Tá bom feito isso? Esse cadastramento inicial tá?
+
+173
+00:09:07.390 --> 00:09:10.440
+O contribuinte vai enviar vai enviar as informações de
+
+174
+00:09:10.450 --> 00:09:13.359
+documentos para o provedor de assinatura e autenticação,
+
+175
+00:09:13.369 --> 00:09:15.960
+o provedor de assinatura e autenticação,
+
+176
+00:09:15.969 --> 00:09:19.260
+ele com a assinatura qualificada tá com a
+
+177
+00:09:19.270 --> 00:09:21.679
+mesma assinatura que todos os outros contribuintes utilizam.
+
+178
+00:09:21.690 --> 00:09:23.340
+Com a assinatura qualificada,
+
+179
+00:09:23.559 --> 00:09:27.760
+ele vai enfiar as informações do contribuinte de acordo o
+
+180
+00:09:27.770 --> 00:09:31.070
+manual de orientação do contribuinte para a administração tributária.
+
+181
+00:09:31.080 --> 00:09:36.739
+Na prática pessoal, o que que é isso? O p a vai assinar com seu certificado.
+
+182
+00:09:36.750 --> 00:09:40.049
+E C P Brasil as informações daquele cliente, né?
+
+183
+00:09:40.059 --> 00:09:46.729
+E por conta desse acordo a Secretaria da Fazenda vai acreditar no P A. E vai a nota, né?
+
+184
+00:09:46.739 --> 00:09:50.929
+Então o p a vai atuar como agente pra fazer esse
+
+185
+00:09:50.940 --> 00:09:54.090
+controle de assinatura e autenticação em nome do seu cliente.
+
+186
+00:09:54.099 --> 00:09:54.609
+Tá bom?
+
+187
+00:09:54.619 --> 00:09:59.190
+Esse q i Esse é o fluxo de envio de informações e
+
+188
+00:09:59.200 --> 00:10:03.049
+assim que vai funcionar o provedor de assinatura e autenticação tá bom?
+
+189
+00:10:03.059 --> 00:10:07.710
+Nos próximos dias certamente você vai ver uma novidade sobre este tema. Tá bom?

@@ -1,0 +1,33 @@
+{
+  "id": 476348,
+  "title": "PAT - parte 2",
+  "position": 30,
+  "duration": 570,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/115d80fb-f080-4b07-8a1b-25a94b9743b0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/115d80fb-f080-4b07-8a1b-25a94b9743b0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/115d80fb-f080-4b07-8a1b-25a94b9743b0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/115d80fb-f080-4b07-8a1b-25a94b9743b0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/115d80fb-f080-4b07-8a1b-25a94b9743b0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

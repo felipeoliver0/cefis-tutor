@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2812,
+    "title": "Nota fiscal de devolução",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de nota fiscal de devolução, você vai aprender todas as características, requisitos e pontos de atenção para a emissão deste documento fiscal corretamente.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/e64b2d4634553c07155db4534c6ab9b91728383388.jpg",
+    "goals": [
+      "Demonstrar todas as características, requisitos e pontos de atenção para a emissão da nota fiscal de devolução corretamente."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 3479,
+    "keywords": "nota fiscal de devolução;devolução;cfop",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 21,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 907,
+    "averageRating": 9.31,
+    "practiceAverage": 9.31,
+    "trailer": {
+      "id": "6c1944fd-c969-4216-9a7d-3ddead3ed726",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6c1944fd-c969-4216-9a7d-3ddead3ed726/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6c1944fd-c969-4216-9a7d-3ddead3ed726/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6c1944fd-c969-4216-9a7d-3ddead3ed726/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6c1944fd-c969-4216-9a7d-3ddead3ed726/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-10-06T18:40:52.000Z",
+      "updatedAt": "2023-10-06T18:40:52.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 2,
+    "launchDate": "2023-10-24T15:39:13.000Z",
+    "recordedAt": "2023-08-31T00:00:00.000Z",
+    "createdAt": "2023-09-06T19:26:33.000Z"
+  }
+}

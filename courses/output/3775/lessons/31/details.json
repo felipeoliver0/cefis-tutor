@@ -1,0 +1,33 @@
+{
+  "id": 477669,
+  "title": "Crescimento do Comércio de Serviços",
+  "position": 31,
+  "duration": 322,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/39d073a6-14e4-428d-bf0f-6439736e04e7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/39d073a6-14e4-428d-bf0f-6439736e04e7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/39d073a6-14e4-428d-bf0f-6439736e04e7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/39d073a6-14e4-428d-bf0f-6439736e04e7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/39d073a6-14e4-428d-bf0f-6439736e04e7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

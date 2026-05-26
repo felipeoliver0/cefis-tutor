@@ -1,0 +1,33 @@
+{
+  "id": 472619,
+  "title": "Composição do CFOP",
+  "position": 4,
+  "duration": 392,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dd7bada2-14e6-49e7-ba0e-c9d59b078a0e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd7bada2-14e6-49e7-ba0e-c9d59b078a0e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd7bada2-14e6-49e7-ba0e-c9d59b078a0e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd7bada2-14e6-49e7-ba0e-c9d59b078a0e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd7bada2-14e6-49e7-ba0e-c9d59b078a0e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

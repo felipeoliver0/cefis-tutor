@@ -1,0 +1,33 @@
+{
+  "id": 466388,
+  "title": "Importância da Ncm",
+  "position": 14,
+  "duration": 208,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1c42500e-6fea-4b49-845d-d361c5d12b3a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1c42500e-6fea-4b49-845d-d361c5d12b3a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1c42500e-6fea-4b49-845d-d361c5d12b3a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1c42500e-6fea-4b49-845d-d361c5d12b3a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1c42500e-6fea-4b49-845d-d361c5d12b3a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

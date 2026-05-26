@@ -1,0 +1,33 @@
+{
+  "id": 476135,
+  "title": "Redução dos Prazos",
+  "position": 14,
+  "duration": 304,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b969460a-fd8a-432a-9e2b-f33609531e89/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b969460a-fd8a-432a-9e2b-f33609531e89/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b969460a-fd8a-432a-9e2b-f33609531e89/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b969460a-fd8a-432a-9e2b-f33609531e89/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b969460a-fd8a-432a-9e2b-f33609531e89/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

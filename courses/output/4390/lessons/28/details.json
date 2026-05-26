@@ -1,0 +1,33 @@
+{
+  "id": 485367,
+  "title": "Fatos contábeis",
+  "position": 28,
+  "duration": 253,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2122fa72-f592-4fd7-bc3b-c844dc240375/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2122fa72-f592-4fd7-bc3b-c844dc240375/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2122fa72-f592-4fd7-bc3b-c844dc240375/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2122fa72-f592-4fd7-bc3b-c844dc240375/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2122fa72-f592-4fd7-bc3b-c844dc240375/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 482502,
+  "title": "As seis Fases",
+  "position": 3,
+  "duration": 124,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b323280d-2640-4d42-9000-db768ea67947/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b323280d-2640-4d42-9000-db768ea67947/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b323280d-2640-4d42-9000-db768ea67947/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b323280d-2640-4d42-9000-db768ea67947/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b323280d-2640-4d42-9000-db768ea67947/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

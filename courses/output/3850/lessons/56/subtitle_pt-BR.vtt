@@ -1,0 +1,577 @@
+WEBVTT
+
+1
+00:00:00.750 --> 00:00:05.110
+O processamento dos lotes enviados é realizado de forma assíncrona
+
+2
+00:00:05.489 --> 00:00:06.130
+posterior,
+
+3
+00:00:06.289 --> 00:00:06.679
+né?
+
+4
+00:00:07.329 --> 00:00:08.750
+E paralelizada.
+
+5
+00:00:08.810 --> 00:00:09.369
+Sendo assim,
+
+6
+00:00:09.489 --> 00:00:11.800
+não é recomendável enviar o lote
+
+7
+00:00:12.130 --> 00:00:15.250
+que contém o evento do fechamento 4099
+
+8
+00:00:15.250 --> 00:00:18.319
+simultaneamente com os periódicos da série 4000
+
+9
+00:00:18.610 --> 00:00:19.450
+no mesmo período.
+
+10
+00:00:20.159 --> 00:00:23.180
+É o mesmo orientação do Bloco 2000
+
+11
+00:00:23.399 --> 00:00:25.319
+mando segregado separado,
+
+12
+00:00:25.399 --> 00:00:25.600
+né?
+
+13
+00:00:26.200 --> 00:00:29.440
+Pois não há garantia da ordem que os lotes são processados.
+
+14
+00:00:30.079 --> 00:00:33.049
+Então o ideal é enviar lote separado,
+
+15
+00:00:33.200 --> 00:00:33.439
+né?
+
+16
+00:00:34.939 --> 00:00:36.939
+Recomenda-se que os eventos sejam enviados
+
+17
+00:00:36.939 --> 00:00:38.889
+somente após a conferência de resultado
+
+18
+00:00:39.299 --> 00:00:45.889
+e volto a fa- a fa- a frisar que isso é uma é 111 detalhe que eu que eu
+
+19
+00:00:46.060 --> 00:00:47.619
+vivencio do dia a dia,
+
+20
+00:00:48.020 --> 00:00:48.209
+né?
+
+21
+00:00:48.220 --> 00:00:49.220
+Da nas consultorias,
+
+22
+00:00:49.299 --> 00:00:51.159
+o pessoal não confere.
+
+23
+00:00:52.700 --> 00:00:53.979
+puxou Deus mandou,
+
+24
+00:00:53.990 --> 00:00:54.500
+acabou.
+
+25
+00:00:54.509 --> 00:00:55.700
+Não tem que conferir
+
+26
+00:00:56.349 --> 00:00:57.630
+como nós comentamos,
+
+27
+00:00:57.750 --> 00:00:58.000
+né?
+
+28
+00:00:58.389 --> 00:01:00.029
+O Mundo perfeito,
+
+29
+00:01:00.110 --> 00:01:01.540
+o mundo ideal.
+
+30
+00:01:02.659 --> 00:01:04.059
+É fechou o dia
+
+31
+00:01:04.819 --> 00:01:05.650
+Confiro tudo
+
+32
+00:01:06.019 --> 00:01:07.809
+dependendo tem um movimento lá
+
+33
+00:01:08.300 --> 00:01:09.620
+confere tudo lá
+
+34
+00:01:10.099 --> 00:01:10.309
+Ah,
+
+35
+00:01:10.400 --> 00:01:11.330
+meu entra
+
+36
+00:01:11.639 --> 00:01:14.610
+10000 nota por dia vou fazer por amostragem.
+
+37
+00:01:16.519 --> 00:01:18.680
+É Vou checar toda a minha parametrização.
+
+38
+00:01:18.970 --> 00:01:21.599
+Não dá para miticar 10000 notas todo dia
+
+39
+00:01:22.000 --> 00:01:22.129
+é,
+
+40
+00:01:22.720 --> 00:01:24.519
+Mas vou fazer por amostragem.
+
+41
+00:01:26.040 --> 00:01:26.870
+Perfeito
+
+42
+00:01:27.199 --> 00:01:29.919
+Se é 11 quantidade menor.
+
+43
+00:01:30.040 --> 00:01:31.349
+Se se der pra fazer num dia,
+
+44
+00:01:31.360 --> 00:01:32.349
+seria perfeito.
+
+45
+00:01:33.870 --> 00:01:35.000
+Esse é o mundo ideal.
+
+46
+00:01:35.720 --> 00:01:37.019
+O Bernardo dos mundos
+
+47
+00:01:37.150 --> 00:01:39.819
+é que eu faça isso pelo -1 vez por mês.
+
+48
+00:01:40.720 --> 00:01:42.809
+E o pior dos mundos é não conciliar.
+
+49
+00:01:43.910 --> 00:01:44.809
+Fazer e mandar,
+
+50
+00:01:44.949 --> 00:01:45.180
+né?
+
+51
+00:01:45.910 --> 00:01:46.500
+Perfeito.
+
+52
+00:01:47.220 --> 00:01:48.809
+Então precisamos checar.
+
+53
+00:01:49.580 --> 00:01:52.730
+Esse procedimento traz maior segurança de que as informações do
+
+54
+00:01:52.730 --> 00:01:56.169
+Mês Squino seja corretamente processadas pelos servidores da Riff.
+
+55
+00:01:56.970 --> 00:01:59.370
+e a apuração dos tributos serem recolhidos,
+
+56
+00:01:59.930 --> 00:02:00.239
+né?
+
+57
+00:02:00.769 --> 00:02:01.680
+Possa ser.
+
+58
+00:02:02.610 --> 00:02:03.919
+realizada de forma
+
+59
+00:02:04.050 --> 00:02:04.809
+acertada,
+
+60
+00:02:04.889 --> 00:02:05.050
+né?
+
+61
+00:02:05.610 --> 00:02:09.929
+Essa recomendação também se aplica tanto para o bloco 2000 quanto por 4000,
+
+62
+00:02:10.008 --> 00:02:10.169
+né?
+
+63
+00:02:10.288 --> 00:02:12.320
+Se aplica aí pros dois blocos
+
+64
+00:02:12.630 --> 00:02:15.449
+após o fechamento de eventuais retificações,
+
+65
+00:02:15.649 --> 00:02:17.410
+exclusões que nós tivemos
+
+66
+00:02:17.889 --> 00:02:19.600
+inclusões de informações
+
+67
+00:02:19.850 --> 00:02:21.050
+só serão permitidas.
+
+68
+00:02:21.089 --> 00:02:22.050
+Se eu reabrir.
+
+69
+00:02:22.289 --> 00:02:22.929
+Se eu não reabrir,
+
+70
+00:02:22.979 --> 00:02:24.020
+eu consigo fazer nada,
+
+71
+00:02:24.119 --> 00:02:24.210
+né?
+
+72
+00:02:25.699 --> 00:02:26.740
+Havendo incorreções
+
+73
+00:02:27.020 --> 00:02:29.270
+detenções da fonte formado da Reninf
+
+74
+00:02:29.710 --> 00:02:30.720
+e que resultem
+
+75
+00:02:30.860 --> 00:02:33.100
+em apuração de tributos em valores incorreto.
+
+76
+00:02:33.460 --> 00:02:36.779
+Os ajustes devem ser feitos exclusivamente no ambiente da escrituração,
+
+77
+00:02:37.259 --> 00:02:38.539
+reenviando os eventos,
+
+78
+00:02:38.699 --> 00:02:38.949
+né?
+
+79
+00:02:39.350 --> 00:02:41.009
+Da série 4000 que estejam,
+
+80
+00:02:41.619 --> 00:02:41.889
+né?
+
+81
+00:02:42.419 --> 00:02:43.470
+Com incorreções.
+
+82
+00:02:43.479 --> 00:02:44.250
+Quando enviar o novo,
+
+83
+00:02:44.259 --> 00:02:45.250
+ele vai sobrepor
+
+84
+00:02:45.419 --> 00:02:47.649
+e fica avalando em novo Bacana gente
+
+85
+00:02:48.100 --> 00:02:49.089
+Volto a
+
+86
+00:02:49.419 --> 00:02:51.610
+a frisar a vocês que não há.
+
+87
+00:02:52.369 --> 00:02:55.550
+possibilidade de alteração de débitos e créditos
+
+88
+00:02:56.089 --> 00:02:59.610
+declarados na DCPF Web Lalo tem intervenção humana,
+
+89
+00:02:59.809 --> 00:02:59.919
+né?
+
+90
+00:03:00.899 --> 00:03:01.250
+Sendo.
+
+91
+00:03:01.259 --> 00:03:01.380
+Assim,
+
+92
+00:03:01.460 --> 00:03:03.809
+para correção do movimento deverá ser reaberto
+
+93
+00:03:04.220 --> 00:03:05.380
+conforme as instruções,
+
+94
+00:03:05.580 --> 00:03:05.779
+né?
+
+95
+00:03:06.139 --> 00:03:08.139
+E também depois fechar.
+
+96
+00:03:08.809 --> 00:03:10.029
+Não posso esquecer de fechar
+
+97
+00:03:10.380 --> 00:03:10.929
+perfeito
+
+98
+00:03:11.660 --> 00:03:12.089
+Então
+
+99
+00:03:12.300 --> 00:03:15.539
+eu encaro que esse processo não pode estar solto dentro das empresas,
+
+100
+00:03:15.619 --> 00:03:16.240
+não pode estar solto,
+
+101
+00:03:16.330 --> 00:03:16.820
+porque Fão vai lá,
+
+102
+00:03:16.860 --> 00:03:17.179
+faixa,
+
+103
+00:03:17.259 --> 00:03:17.500
+abre,
+
+104
+00:03:17.580 --> 00:03:17.860
+fecha,
+
+105
+00:03:17.940 --> 00:03:18.830
+manda fa- não
+
+106
+00:03:19.309 --> 00:03:19.860
+tem que ter um,
+
+107
+00:03:20.059 --> 00:03:20.419
+né?
+
+108
+00:03:21.059 --> 00:03:22.220
+Uma certa centralização.
+
+109
+00:03:22.460 --> 00:03:25.880
+O retorno dos eventos totalizadora no era 9015.
+
+110
+00:03:26.750 --> 00:03:29.190
+após o processamento com sucesso desse veto,
+
+111
+00:03:29.789 --> 00:03:29.990
+né?
+
+112
+00:03:31.649 --> 00:03:33.490
+com indicativo de fechamento.
+
+113
+00:03:33.850 --> 00:03:37.759
+O sujeito passivo receberá por meio de efeto totalizador do L9015
+
+114
+00:03:38.210 --> 00:03:41.399
+somatório dos valores que devem ser recolhido aos cofres públicos,
+
+115
+00:03:41.649 --> 00:03:42.399
+consequentemente,
+
+116
+00:03:42.449 --> 00:03:44.000
+o que vai alimentar do CTFL
+
+117
+00:03:44.690 --> 00:03:45.500
+Perfeito pessoal.
+
+118
+00:03:46.490 --> 00:03:47.490
+É assim que funciona,
+
+119
+00:03:47.610 --> 00:03:47.929
+né?
+
+120
+00:03:48.490 --> 00:03:50.080
+4099 ainda
+
+121
+00:03:50.449 --> 00:03:53.449
+a DCTF web também é alimentado pelas informações.
+
+122
+00:03:53.570 --> 00:03:54.770
+Cabe destacar
+
+123
+00:03:55.250 --> 00:03:56.399
+para efeito de apuração,
+
+124
+00:03:56.570 --> 00:03:56.740
+né?
+
+125
+00:03:56.770 --> 00:03:57.929
+Dos valores tributados
+
+126
+00:03:58.369 --> 00:04:00.800
+são considerado dois casas
+
+127
+00:04:00.970 --> 00:04:02.500
+decimais sem arredondamento.
+
+128
+00:04:02.850 --> 00:04:06.399
+Isso deu um problema fenomenal quando foi
+
+129
+00:04:06.860 --> 00:04:08.860
+é implantado o pessoal nossa,
+
+130
+00:04:09.050 --> 00:04:11.449
+todo mundo apresentava E e ninguém sabia,
+
+131
+00:04:12.250 --> 00:04:12.529
+né?
+
+132
+00:04:13.600 --> 00:04:15.960
+Até se descobrir que tá Manuel não pode ter,
+
+133
+00:04:16.079 --> 00:04:17.350
+tem que ter o truncamento
+
+134
+00:04:19.519 --> 00:04:20.720
+tranquila a última casa não,
+
+135
+00:04:20.839 --> 00:04:20.959
+não,
+
+136
+00:04:21.040 --> 00:04:22.040
+nem para mais nem para menos,
+
+137
+00:04:22.119 --> 00:04:22.269
+né?
+
+138
+00:04:22.279 --> 00:04:23.339
+Sem arredondamentos.
+
+139
+00:04:24.149 --> 00:04:27.950
+En julgamento é realizado em todos os cálculos dos eventos totalizadores.
+
+140
+00:04:28.029 --> 00:04:28.570
+Perfeito
+
+141
+00:04:28.890 --> 00:04:31.190
+Então estava dando muito problema no início,
+
+142
+00:04:31.309 --> 00:04:31.390
+né?
+
+143
+00:04:31.440 --> 00:04:32.309
+Hoje já nem tanto,
+
+144
+00:04:32.390 --> 00:04:32.549
+né?

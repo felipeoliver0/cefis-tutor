@@ -1,0 +1,33 @@
+{
+  "id": 484704,
+  "title": "Normas internacionais - Parte 1",
+  "position": 6,
+  "duration": 336,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0610566d-a96d-4793-af92-c7b778f46967/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0610566d-a96d-4793-af92-c7b778f46967/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0610566d-a96d-4793-af92-c7b778f46967/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0610566d-a96d-4793-af92-c7b778f46967/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0610566d-a96d-4793-af92-c7b778f46967/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

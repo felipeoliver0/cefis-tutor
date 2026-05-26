@@ -1,0 +1,112 @@
+WEBVTT
+
+00:00:00.706 --> 00:00:07.772
+- E os ajustes para a recepção dos débitos no MIT? Quais são eles? A DCTF Web pode apresentar seguintes
+
+00:00:07.772 --> 00:00:14.105
+- status. Em andamento, que a declaração ainda não foi transmitida. Ativa, que a declaração
+
+00:00:14.105 --> 00:00:20.972
+- foi transmitida e está sendo extratada pela Receita Federal. Retificada, porque houve uma alteração
+
+00:00:20.972 --> 00:00:26.238
+- e aí sim ela foi retificada. Excluída, a declaração excluída pela entrega
+
+00:00:26.754 --> 00:00:33.890
+- de uma declaração de exclusão, em devida a declaração excluída mediante o procedimento de ofício
+
+00:00:33.890 --> 00:00:40.821
+- vindo da Receita Federal. Então, a DCTF-WEB pode ter essas situações e dentro dessas situações,
+
+00:00:40.821 --> 00:00:47.683
+- elas obviamente precisam estar atreladas aos envios das integrações. Então, sempre tem relação
+
+00:00:47.683 --> 00:00:54.270
+- com o que foi entregue no E-Social, o que foi entregue no FDRI-INF e o que foi entregue no MIT.
+
+00:00:54.466 --> 00:01:01.339
+- Como a gente comentou, obviamente, na entrega da DCTF Web, a gente precisa validar as informações,
+
+00:01:01.339 --> 00:01:08.280
+- porque estamos lidando com uma integração de informação. Na própria DCTF Web, a gente pode fazer
+
+00:01:08.280 --> 00:01:15.085
+- os lançamentos de ajustes, caso precise. Então, antes de entregar a DCTF Web, antes de transmitir
+
+00:01:15.085 --> 00:01:21.278
+- ela, é importante entender se aquele determinado tributo existe um ajuste a ser lançado.
+
+00:01:22.146 --> 00:01:28.993
+- Na DCTF-Web, a gente tem as funções de ajustes e pode ser que a gente tenha uma inconsistência nessa
+
+00:01:28.993 --> 00:01:35.773
+- integração. Pode ser que tenha sido lançado na FDRInf e quando chegou na DCTF-Web, o valor não foi
+
+00:01:35.773 --> 00:01:42.488
+- lançado. Então, atenção, dentro da transmissão da DCTF-Web, é importante a gente identificar os
+
+00:01:42.488 --> 00:01:48.676
+- lançamentos. Os lançamentos que foram integrados para ela. Sobre o RPG-CCLL, o Fisco trouxe
+
+00:01:48.676 --> 00:01:51.902
+- uma funcionalidade sobre as quantidades de cotas
+
+00:01:52.034 --> 00:02:00.084
+- Então, podem ser divididos em cotas, VIPJXLL. Será apurado a partir do MIT no período da apuração
+
+00:02:00.084 --> 00:02:07.899
+- correspondente ao encerramento de cada trimestre. Então, vai ser informada a quantidade de cotas e
+
+00:02:07.899 --> 00:02:15.870
+- aí vocês vão informar os valores e para cada trimestre o encerramento para que haja a emissão das
+
+00:02:15.870 --> 00:02:19.934
+- cotas. Então, na DSTF Web, os ajustes tributários
+
+00:02:20.354 --> 00:02:26.814
+- são em cotas, lá quando a gente falar sobre a RPJ-6LL. Então, olha lá, olha o número de cotas.
+
+00:02:26.814 --> 00:02:33.725
+- Só vai aparecer o número de cotas se lá no MIT você tiver feito o lançamento correto, tá? A emissão
+
+00:02:33.725 --> 00:02:39.733
+- do DARF em cota será efetuada sempre na DCTF-Web, em que foram declarados. Então, declarei
+
+00:02:39.733 --> 00:02:44.190
+- nessa competência, eu preciso voltar nela para emitir a minha cota.
+
+00:02:44.290 --> 00:02:50.599
+- O sistema calcula os acréscimos legais, as hipóteses em que forem devidos, mas isso só vai acontecer
+
+00:02:50.599 --> 00:02:56.665
+- se você voltar na apuração que foi declarado o débito. Declarei o débito, coloquei em cotas, o
+
+00:02:56.665 --> 00:03:03.277
+- fisco já vai entender que vai ser pago nos meses seguintes. Quero pagar nesse período, volto na apuração
+
+00:03:03.277 --> 00:03:09.526
+- que eu declarei, automaticamente o fisco vai te dar o DARF recalculado. Diferente do que a gente fazia
+
+00:03:09.526 --> 00:03:12.862
+- na DCTAP convencional, que a gente tinha que calcular,
+
+00:03:13.346 --> 00:03:19.978
+- e fazer o lançamento, tá? Relatórios da DCTF Web a gente também tem, tá? Então ele disponibiliza
+
+00:03:19.978 --> 00:03:26.417
+- relatórios de lançamento. A DCTF convencional fazia isso e na DCTF Web a gente também pode fazer
+
+00:03:26.417 --> 00:03:32.856
+- isso. E o porquê que essa é importante, pessoal? Porque isso relata o que de fato foi entregue. E
+
+00:03:32.856 --> 00:03:39.166
+- como a DCTF Web ela pode ser feita por diversas mãos, é importante a gente ter isso salvo, tá?
+
+00:03:39.298 --> 00:03:45.345
+- E quando eu falo mãos, é porque o processo pode estar lá no departamento pessoal, no departamento
+
+00:03:45.345 --> 00:03:51.932
+- fiscal, no departamento contábil. Então, o processo de entrega do ICTF-WEB precisa ser muito bem elaborado,
+
+00:03:51.932 --> 00:03:58.398
+- porque pode ter erros de processo, erros de envio. Então, é importante a gente saber dessas definições.

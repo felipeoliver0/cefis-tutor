@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3935,
+    "title": "Reforma Tributária - Apuração Assistida",
+    "subtitle": "curso prático",
+    "summary": "A formação inclui uma introdução detalhada às fundações operacionais da apuração assistida, seus benefícios e desafios, bem como uma visão abrangente sobre o conceito de split payment e suas implicações fiscais. O curso também aborda o papel crucial da tecnologia na automação fiscal e projeta as tendências de futuro na prática fiscal digital.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/ee8b815f-69f5-44d1-b0ee-488d9f02052d-thumbnail.png",
+    "goals": [
+      "Capacitar profissionais a entenderem e implementarem as práticas de apuração assistida e split payment, utilizando tecnologia para garantir conformidade tributária, otimização de recursos e redução de riscos fiscais no ambiente digital brasileiro."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 5733,
+    "keywords": "tributos;compliance;split payment;apuração assistida;tecnologia fiscal",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 3,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1231,
+    "averageRating": 9.52,
+    "practiceAverage": 9.47,
+    "trailer": {
+      "id": "f5fe9e9c-9c1a-4140-a261-acc8eaf86b12",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f5fe9e9c-9c1a-4140-a261-acc8eaf86b12/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f5fe9e9c-9c1a-4140-a261-acc8eaf86b12/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f5fe9e9c-9c1a-4140-a261-acc8eaf86b12/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f5fe9e9c-9c1a-4140-a261-acc8eaf86b12/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-09-23T12:13:50.000Z",
+      "updatedAt": "2025-09-23T12:13:50.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-09-19T13:46:41.000Z",
+    "recordedAt": "2025-08-21T00:00:00.000Z",
+    "createdAt": "2025-08-20T23:11:57.000Z"
+  }
+}

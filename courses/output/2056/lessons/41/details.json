@@ -1,0 +1,33 @@
+{
+  "id": 462135,
+  "title": "Procurando informações específicas",
+  "position": 41,
+  "duration": 165,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cc1c63e3-bd5b-4217-80e3-d61c4b29790c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc1c63e3-bd5b-4217-80e3-d61c4b29790c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc1c63e3-bd5b-4217-80e3-d61c4b29790c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc1c63e3-bd5b-4217-80e3-d61c4b29790c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc1c63e3-bd5b-4217-80e3-d61c4b29790c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 455634,
+  "title": "Curto Prazo",
+  "position": 61,
+  "duration": 160,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/93ab206a-939a-4e77-969e-d51206948f80/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93ab206a-939a-4e77-969e-d51206948f80/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93ab206a-939a-4e77-969e-d51206948f80/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93ab206a-939a-4e77-969e-d51206948f80/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93ab206a-939a-4e77-969e-d51206948f80/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

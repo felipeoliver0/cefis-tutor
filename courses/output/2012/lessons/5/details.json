@@ -1,0 +1,33 @@
+{
+  "id": 461005,
+  "title": "Características - parte 1",
+  "position": 5,
+  "duration": 479,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4e2cb14d-31b8-40b5-8dee-1b21a27ad8bc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4e2cb14d-31b8-40b5-8dee-1b21a27ad8bc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4e2cb14d-31b8-40b5-8dee-1b21a27ad8bc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4e2cb14d-31b8-40b5-8dee-1b21a27ad8bc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4e2cb14d-31b8-40b5-8dee-1b21a27ad8bc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

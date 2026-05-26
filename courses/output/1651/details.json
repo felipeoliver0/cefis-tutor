@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1651,
+    "title": "Formação Auditor Trabalhista",
+    "subtitle": "Fundamentos e Prática",
+    "summary": "Neste curso prático de Formação Auditor Trabalhista você aprenderá a atuar na conciliação de interesses entre de empregadores e empregados. Entenderá como integrar departamentos e como realizar corretamente, bem como conciliar processos de administração de pessoal e contribuir na gestão de pessoal da empresa, e, consequentemente, alavancar os resultados da empresa, bem como sustentabilidade do negócio.",
+    "banner": "https://cefis.com.br/assets/images/controle/course_default_banner/7.jpg",
+    "goals": [
+      "Demonstrar de forma prática e com base na legislação mais atualizada as principais rotinas do auditor trabalhista."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 5022,
+    "keywords": "formação;auditor trabalhista;auditor;Auditoria Trabalhista",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 30,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 127,
+    "averageRating": 9.05,
+    "practiceAverage": 0,
+    "trailer": {
+      "id": "16db1778-c435-4b05-a612-96f891e66e8d",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/16db1778-c435-4b05-a612-96f891e66e8d/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/16db1778-c435-4b05-a612-96f891e66e8d/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/16db1778-c435-4b05-a612-96f891e66e8d/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/16db1778-c435-4b05-a612-96f891e66e8d/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-10-05T20:18:18.000Z",
+      "updatedAt": "2021-10-05T20:18:17.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-10-10T09:39:33.000Z",
+    "recordedAt": "2021-09-09T00:00:00.000Z",
+    "createdAt": "2021-09-01T11:37:01.000Z"
+  }
+}

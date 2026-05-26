@@ -1,0 +1,33 @@
+{
+  "id": 487231,
+  "title": "Principais classificações - Parte 2",
+  "position": 6,
+  "duration": 527,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/e1ecdcd5-8a52-4208-b5af-706e0a7b1664/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1ecdcd5-8a52-4208-b5af-706e0a7b1664/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1ecdcd5-8a52-4208-b5af-706e0a7b1664/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1ecdcd5-8a52-4208-b5af-706e0a7b1664/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1ecdcd5-8a52-4208-b5af-706e0a7b1664/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

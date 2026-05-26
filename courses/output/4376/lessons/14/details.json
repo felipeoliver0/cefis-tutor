@@ -1,0 +1,33 @@
+{
+  "id": 485841,
+  "title": "Lucro real anual",
+  "position": 14,
+  "duration": 294,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d4e3a8f2-aea3-4314-93cb-38ec187b71ef/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4e3a8f2-aea3-4314-93cb-38ec187b71ef/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4e3a8f2-aea3-4314-93cb-38ec187b71ef/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4e3a8f2-aea3-4314-93cb-38ec187b71ef/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d4e3a8f2-aea3-4314-93cb-38ec187b71ef/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

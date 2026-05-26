@@ -1,0 +1,33 @@
+{
+  "id": 457595,
+  "title": "Principio da autonomia",
+  "position": 7,
+  "duration": 301,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/51531488-df54-40c9-a978-deeb07d798f2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/51531488-df54-40c9-a978-deeb07d798f2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/51531488-df54-40c9-a978-deeb07d798f2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/51531488-df54-40c9-a978-deeb07d798f2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/51531488-df54-40c9-a978-deeb07d798f2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 482090,
+  "title": "Receita bruta",
+  "position": 4,
+  "duration": 573,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0a0688dc-9019-4e67-83b7-4ddb383d1207/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0a0688dc-9019-4e67-83b7-4ddb383d1207/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0a0688dc-9019-4e67-83b7-4ddb383d1207/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0a0688dc-9019-4e67-83b7-4ddb383d1207/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0a0688dc-9019-4e67-83b7-4ddb383d1207/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

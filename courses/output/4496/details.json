@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4496,
+    "title": "Distribuição de Lucros, Dividendos e JCP",
+    "subtitle": "na prática 2026",
+    "summary": "Neste curso \"Distribuição de Lucros, Dividendos e JCP na prática 2026\" você irá aprender na prática tudo o que precisa saber sobre Distribuição de Lucros, Dividendos e JCP na prática 2026. Aprenderá os fundamentos e a prática de distribuição de lucros e dividendos, operacionalização de Juros sobre Capital Próprio (JCP) e planejamento de distribuição de resultados para o cenário de 2026 e vários outros temas para você que deseja se atualizar ou aprender tudo sobre Distribuição de Lucros, Dividendos e JCP na prática 2026.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/59dce845-f85e-4637-ae39-8790b06c0228-thumbnail.png",
+    "goals": [
+      "O objetivo do curso \"Distribuição de Lucros, Dividendos e JCP na prática 2026: Gravação agendada\" é a capacitação para a aplicação prática de distribuição de lucros, dividendos e Juros sobre Capital Próprio (JCP)."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 21246,
+    "keywords": "jcp;lucros",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 56,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 121,
+    "averageRating": 9.74,
+    "practiceAverage": 9.71,
+    "trailer": {
+      "id": "b8913e11-44f9-488d-9e53-b10a48ea0cc4",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b8913e11-44f9-488d-9e53-b10a48ea0cc4/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b8913e11-44f9-488d-9e53-b10a48ea0cc4/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b8913e11-44f9-488d-9e53-b10a48ea0cc4/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b8913e11-44f9-488d-9e53-b10a48ea0cc4/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-04-16T02:32:16.000Z",
+      "updatedAt": "2026-04-16T02:32:15.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-04-16T08:22:28.000Z",
+    "recordedAt": "2026-04-06T00:00:00.000Z",
+    "createdAt": "2026-04-15T22:48:11.000Z"
+  }
+}

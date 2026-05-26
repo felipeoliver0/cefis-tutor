@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2117,
+    "title": "Compliance  Público",
+    "subtitle": "Enfase em Ética",
+    "summary": "Neste curso prático de compliance público você aprenderá desde conceitos básicos, até a diferenciação entre compliance e governança, importância da ética para o contexto público, exercício de autoridade, gestão de riscos e muito mais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/fea5a03ca41c9915201262546b7c9d9c1656368757.jpg",
+    "goals": [
+      "Apresentar conceitos básicos e características relativas ao compliance público, com ênfase na ética,  compreendendo até a diferenciação entre compliance e governança, importância da ética para o contexto público, exercício de autoridade, gestão de riscos e muito mais."
+    ],
+    "teacher": {
+      "id": 385110,
+      "name": "KLEBER  MEDRADO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/cb9d37b5777bd7869709defce6ae2f4a1562850023.png"
+    },
+    "duration": 4092,
+    "keywords": "etica;compliance;compliance público",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 9,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 114,
+    "averageRating": 9.09,
+    "practiceAverage": 8.9,
+    "trailer": {
+      "id": "8c627fda-3b7f-48cb-a596-a2d59ffd7272",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8c627fda-3b7f-48cb-a596-a2d59ffd7272/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8c627fda-3b7f-48cb-a596-a2d59ffd7272/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8c627fda-3b7f-48cb-a596-a2d59ffd7272/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8c627fda-3b7f-48cb-a596-a2d59ffd7272/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-07-06T10:34:30.000Z",
+      "updatedAt": "2022-07-06T10:34:29.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-07-06T09:54:35.000Z",
+    "recordedAt": "2022-06-24T00:00:00.000Z",
+    "createdAt": "2022-06-27T19:23:19.000Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2031,
+    "title": "Contabilidade Geral",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de contabilidade geral, você vai aprender sobre os aspectos relacionados à contabilidade e sua aplicação. Dentre os tópicos abordados, você entenderá sobre patrimônio, contas contábeis, variações patrimoniais, atos e fatos administrativos, plano de contas, partidas dobradas, lançamentos contábeis, estoques, demonstrações contábeis, balanço patrimonial, notas explicativas, bem como a aplicação das normas para Microentidades, Entidades de Pequeno, Médio e grande porte com vários exercícios para você colocar em prática o conhecimento adquirido.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/61989a682c5ffe206160824b4e9ba0c11521829356.jpg",
+    "goals": [
+      "Demonstrar de forma prática todas as características relacionadas à contabilidade e sua aplicação."
+    ],
+    "teacher": {
+      "id": 569775,
+      "name": "Ricardo Neves",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1662745826.jpeg"
+    },
+    "duration": 9447,
+    "keywords": "contabilidade;geral;contabilidade geral",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 30,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 3319,
+    "averageRating": 9.32,
+    "practiceAverage": 9.18,
+    "trailer": {
+      "id": "b95a8f6c-03e7-4db0-806a-73fa5787a553",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b95a8f6c-03e7-4db0-806a-73fa5787a553/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b95a8f6c-03e7-4db0-806a-73fa5787a553/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b95a8f6c-03e7-4db0-806a-73fa5787a553/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b95a8f6c-03e7-4db0-806a-73fa5787a553/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-04-21T23:33:19.000Z",
+      "updatedAt": "2022-04-21T23:33:19.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-04-25T16:26:17.000Z",
+    "recordedAt": "2022-04-12T00:00:00.000Z",
+    "createdAt": "2022-04-13T16:08:54.000Z"
+  }
+}

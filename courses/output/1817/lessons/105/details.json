@@ -1,0 +1,33 @@
+{
+  "id": 457914,
+  "title": "Cpc 28 - Propriedade para investimento",
+  "position": 106,
+  "duration": 174,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4fc58bff-e890-48f9-a87f-5efc70ff1494/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4fc58bff-e890-48f9-a87f-5efc70ff1494/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4fc58bff-e890-48f9-a87f-5efc70ff1494/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4fc58bff-e890-48f9-a87f-5efc70ff1494/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4fc58bff-e890-48f9-a87f-5efc70ff1494/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

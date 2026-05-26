@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4435,
+    "title": "Reforma tributária e as importações",
+    "subtitle": "Curso prático",
+    "summary": "Neste curso Reforma tributária e as importações, você irá aprender na prática tudo o que precisa saber sobre a reforma tributária e as importações. Aprenderá os fundamentos e a prática de hipóteses de importação, composição da base de cálculo e responsável solidário e vários outros temas para você que deseja se atualizar ou aprender tudo sobre a reforma tributária e as importações.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/6cb78ff0-6e90-473d-9dac-f7ca3b6cc6b6-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Reforma tributária e as importações é a capacitação para a aplicação prática da reforma tributária em importações, abordando conceitos como hipóteses de importação, contribuinte e responsável solidário, além de aspectos como fato gerador, base de cálculo e créditos, visando a compreensão da legislação tributária aplicável às importações de bens materiais e a gestão de responsabilidades e fluxogramas envolvidos."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 2173,
+    "keywords": "importação;reforma",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 237,
+    "averageRating": 9.63,
+    "practiceAverage": 9.62,
+    "trailer": {
+      "id": "89cfd225-3b82-4dfe-930c-33dda116c1db",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/89cfd225-3b82-4dfe-930c-33dda116c1db/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/89cfd225-3b82-4dfe-930c-33dda116c1db/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/89cfd225-3b82-4dfe-930c-33dda116c1db/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/89cfd225-3b82-4dfe-930c-33dda116c1db/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-01T00:15:49.000Z",
+      "updatedAt": "2026-03-01T00:15:48.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-01T03:43:52.000Z",
+    "recordedAt": "2026-02-26T00:00:00.000Z",
+    "createdAt": "2026-02-28T23:43:09.000Z"
+  }
+}

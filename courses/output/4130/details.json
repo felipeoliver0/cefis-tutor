@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4130,
+    "title": "Design organizacional",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Design Organizacional - Curso Prático você irá aprender na prática tudo o que precisa saber sobre design organizacional. Aprenderá os fundamentos e a prática de alinhar estratégias, estruturar processos e incentivar as pessoas e vários outros temas para você que deseja se atualizar ou aprender tudo sobre design organizacional.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/9026f219-0604-4319-bdd5-8ed7ab1bb417-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Design organizacional - curso prático é a capacitação para a aplicação prática de desenvolvimento de estruturas organizacionais eficazes, alinhadas com as estratégias da empresa, que promovam a melhoria contínua de processos e a motivação das pessoas, visando a maturidade organizacional."
+    ],
+    "teacher": {
+      "id": 337338,
+      "name": "LUCAS MARQUES VIEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/2d3ef0eb-9145-4630-b9f9-bdfc4f4e80bb-croppedImage.jpeg"
+    },
+    "duration": 6092,
+    "keywords": "design;organizacional",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 17,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      6
+    ],
+    "watchLater": false,
+    "ratingQuantity": 36,
+    "averageRating": 8.17,
+    "practiceAverage": 7.92,
+    "trailer": {
+      "id": "61adf756-74c7-43e4-81d0-eeaca95e185b",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/61adf756-74c7-43e4-81d0-eeaca95e185b/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/61adf756-74c7-43e4-81d0-eeaca95e185b/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/61adf756-74c7-43e4-81d0-eeaca95e185b/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/61adf756-74c7-43e4-81d0-eeaca95e185b/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-12T13:27:36.000Z",
+      "updatedAt": "2025-11-12T13:27:35.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-13T15:12:32.000Z",
+    "recordedAt": "2025-10-01T00:00:00.000Z",
+    "createdAt": "2025-11-12T11:59:15.000Z"
+  }
+}

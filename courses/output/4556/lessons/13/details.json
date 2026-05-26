@@ -1,0 +1,33 @@
+{
+  "id": 488237,
+  "title": "Comunicação ética",
+  "position": 13,
+  "duration": 167,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/f63f9dec-700a-40fa-92d6-4390e8d2537c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f63f9dec-700a-40fa-92d6-4390e8d2537c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f63f9dec-700a-40fa-92d6-4390e8d2537c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f63f9dec-700a-40fa-92d6-4390e8d2537c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f63f9dec-700a-40fa-92d6-4390e8d2537c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

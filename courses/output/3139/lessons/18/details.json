@@ -1,0 +1,33 @@
+{
+  "id": 475980,
+  "title": "Tabelas legais",
+  "position": 19,
+  "duration": 407,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/028c0250-25c3-47e4-966b-81cfe8d34479/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/028c0250-25c3-47e4-966b-81cfe8d34479/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/028c0250-25c3-47e4-966b-81cfe8d34479/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/028c0250-25c3-47e4-966b-81cfe8d34479/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/028c0250-25c3-47e4-966b-81cfe8d34479/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 460721,
+  "title": "Análise do Problema - Parte 2",
+  "position": 8,
+  "duration": 422,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5c259813-c8ae-43a8-b850-27b95ce50e3f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c259813-c8ae-43a8-b850-27b95ce50e3f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c259813-c8ae-43a8-b850-27b95ce50e3f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c259813-c8ae-43a8-b850-27b95ce50e3f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c259813-c8ae-43a8-b850-27b95ce50e3f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

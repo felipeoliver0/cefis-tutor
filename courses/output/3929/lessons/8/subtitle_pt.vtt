@@ -1,0 +1,163 @@
+WEBVTT
+
+00:00:00.546 --> 00:00:08.615
+- Documentos fiscais, importante falar disso, né? Importante. Nos documentos fiscais, pessoal, é o que
+
+00:00:08.615 --> 00:00:16.684
+- a gente fala, é onde começa a sair, a nascer o passivo tributário das empresas. Então, o documento
+
+00:00:16.684 --> 00:00:24.126
+- fiscal, ele é justamente a aplicabilidade prática daquilo que você entende sobre o tributo.
+
+00:00:24.226 --> 00:00:30.960
+- né? Sobre o tributo. Ah, eu tô falando de ICMS. Ah, eu vou ver o ICMS destacado aonde? Na nota fiscal.
+
+00:00:30.960 --> 00:00:37.565
+- Tá destacado de forma correta? Atende o perfil da operação? Aí é por isso que eu preciso entender
+
+00:00:37.565 --> 00:00:43.657
+- da parte, né? Da parte conceitual do tributo, né? E a nota fiscal eletrônica, né? Que hoje
+
+00:00:43.657 --> 00:00:50.198
+- é eletrônica, né? Não adianta, né? Há muitos anos atrás era bloco, tirava carbono, enfim, né?
+
+00:00:50.198 --> 00:00:54.046
+- Eu vivi essa época, a maioria de vocês não viveram, né?
+
+00:00:54.178 --> 00:01:01.176
+- e digam-se de passagem vocês pegaram a época boa, tá? Aquele tempo lá era mais complicado. Enfim.
+
+00:01:01.176 --> 00:01:08.173
+- Mas é na nota fiscal que a gente vê o passivo da empresa se constituindo, né? Se constituindo aí.
+
+00:01:08.173 --> 00:01:15.102
+- Então por isso que eu preciso entender bem de tributo porque ela vai ter impacto, emitir a nota tem
+
+00:01:15.102 --> 00:01:21.688
+- impacto tributário. Então nós temos aí um arquivo digital, o XML, aí tem o documento de...
+
+00:01:21.688 --> 00:01:24.158
+- É o DUNF, documento auxiliar, né?
+
+00:01:24.418 --> 00:01:30.377
+- da nota fiscal eletrônica que a gente vê, então você pega um DANF, você não está com a nota,
+
+00:01:30.377 --> 00:01:36.456
+- você está no documento auxiliar, a nota fiscal é um arquivo, um arquivo XML que vem com uma série
+
+00:01:36.456 --> 00:01:42.653
+- de informações, uma série de informações. E essa NFE, pessoal, é emitida normalmente quando você
+
+00:01:42.653 --> 00:01:48.851
+- está com operações entre contribuintes, principalmente, e operações entre não contribuintes, para
+
+00:01:48.851 --> 00:01:53.022
+- outra unidade da federação, a exigência é que seja emitida a NFE,
+
+00:01:53.474 --> 00:02:00.565
+- Bem tranquilo. Aí nós temos também, pessoal, a nota fiscal do consumidor eletrônica, que é o chamado
+
+00:02:00.565 --> 00:02:07.924
+- cupom fiscal. O pessoal denominou aí que é o cupom fiscal. Talvez vocês mais jovens que estão ingressando
+
+00:02:07.924 --> 00:02:14.948
+- agora não vão lembrar disso, mas a ideia é a mesma. Antigamente, as empresas emitiam um cupom fiscal,
+
+00:02:14.948 --> 00:02:17.022
+- o nome era cupom fiscal mesmo.
+
+00:02:17.314 --> 00:02:25.623
+- Porque a ideia é a mesma, ele sair impresso numa impressorinha pequenininha, ficar ali do lado do caixa,
+
+00:02:25.623 --> 00:02:33.461
+- igualmente é a NFCE. Só que a diferença é que antigamente ele não era um arquivo digital, hoje
+
+00:02:33.461 --> 00:02:41.535
+- ele é um arquivo digital, por isso que mudou o nome, NFCE, Nota Fiscal do Consumidor Eletrônico. Mas
+
+00:02:41.535 --> 00:02:44.670
+- está ainda enraizada na mente do povo,
+
+00:02:44.866 --> 00:02:52.264
+- dos contribuintes, e até um linguajar mais fácil, no meio contábil, fala que é o cupom fiscal, mas
+
+00:02:52.264 --> 00:02:59.590
+- ele não é. Como é que se diz? Ele é a NFCE, o modelo é a NFCE, cupom fiscal já foi um modelo de
+
+00:02:59.590 --> 00:03:02.750
+- documento fiscal que hoje não existe mais.
+
+00:03:03.330 --> 00:03:10.783
+- Não existe mais. E ela é emitida justamente nas operações internas dentro do próprio estado, vendas
+
+00:03:10.783 --> 00:03:17.882
+- para principalmente consumidor final, é emitido principalmente o consumidor final mesmo, você vai
+
+00:03:17.882 --> 00:03:25.406
+- tirar lá a nota fiscal do consumidor eletrônica. Nós temos também o manifesto eletrônico, documentos
+
+00:03:25.406 --> 00:03:27.678
+- fiscais, esse manifesto pessoal
+
+00:03:27.874 --> 00:03:36.280
+- Ele é importante, tá? Ele não é uma nota fiscal, não vai assim, valores de tributo que vai estar
+
+00:03:36.280 --> 00:03:44.934
+- pagando o tributal, né? Mas é um documento que acompanha a nota fiscal, né? E as empresas fazem muito
+
+00:03:44.934 --> 00:03:53.340
+- isso daí, principalmente nas operações interestaduais, né? Tem um convênio, né? Ou é o ajuste,
+
+00:03:53.340 --> 00:03:57.790
+- salvo erro, é o ajuste CINF 21, né? Ajuste CINF 21,
+
+00:03:57.922 --> 00:04:07.595
+- que trata, eu não vou lembrar o ano agora, mas eu sei que ele é o 21, que trata justamente da emissão
+
+00:04:07.595 --> 00:04:16.807
+- do MDFE, principalmente nas operações interestaduais. Algumas unidades da federação, o próprio
+
+00:04:16.807 --> 00:04:24.638
+- ajuste CINF, ele traz a possibilidade de que as unidades da federação podem adotar
+
+00:04:24.962 --> 00:04:31.918
+- esse MDFE para as operações internas também, tá? Mas a maioria dos casos que eu vejo é para as
+
+00:04:31.918 --> 00:04:39.013
+- operações interestaduais. E o interessante, pessoal, que vale falar aqui para vocês é o seguinte,
+
+00:04:39.013 --> 00:04:43.326
+- que esse MDFE, a não emissão dele pode ocasionar uma multa.
+
+00:04:43.746 --> 00:04:50.742
+- se o fiscal pegar, o auditor fiscal na barreira pegar a mercadoria desacompanhada do MDFE. Ele é passível
+
+00:04:50.742 --> 00:04:57.348
+- de multa. Aí a multa vai depender da UF. Tem UF que cobra 25% sobre o valor da operação, 30%. Isso
+
+00:04:57.348 --> 00:05:03.891
+- vai estar especificado no regulamento do Código Tributário. Notas fiscal de serviço. Notas fiscal
+
+00:05:03.891 --> 00:05:10.433
+- de serviço é um documento fiscal exclusivamente digital das operações de prestação de serviço
+
+00:05:10.433 --> 00:05:12.894
+- declaradas pelo prestador gerado pela
+
+00:05:13.090 --> 00:05:22.283
+- Secretaria Municipal de Finanças. Então, prestadores de serviços emitem nota fiscal eletrônica de
+
+00:05:22.283 --> 00:05:31.926
+- serviço. Então, cada prefeitura hoje tem o seu acesso para poder liberar para os prestadores de serviço
+
+00:05:31.926 --> 00:05:38.686
+- para fazer a emissão de serviço. Que serviço? Serviço de construção,
+
+00:05:38.818 --> 00:05:46.840
+- Tem serviço de hospedagem, serviço de manutenção e reparação. Então, esses serviços descritos
+
+00:05:46.840 --> 00:05:54.704
+- na lei complementar 116, que a gente vai ver isso um pouco mais pra frente, essas empresas têm que
+
+00:05:54.704 --> 00:05:56.670
+- emitir essa nota fiscal.

@@ -1,0 +1,151 @@
+WEBVTT
+
+00:00:00.130 --> 00:00:07.853
+- E aí, pessoal, vou apresentar aqui para vocês a HP. Muito prazer, HP. HP 12C. Está velhinha, mas
+
+00:00:07.853 --> 00:00:15.961
+- ela faz o serviço direitinho, viu, pessoal? Essas são as teclas que normalmente a gente utiliza. Está
+
+00:00:15.961 --> 00:00:23.684
+- aqui em amarelinho. Lembra que eu falei? Valor presente, valor futuro. Só que aqui a gente vai ver
+
+00:00:23.684 --> 00:00:29.630
+- que a gente utiliza basicamente os prazos, que são o N, o I, que é a taxa,
+
+00:00:29.730 --> 00:00:36.353
+- O PV, que é igual ao capital, que é igual ao valor investido. O PMT, e aqui está cortando,
+
+00:00:36.353 --> 00:00:43.539
+- mas é FV, o valor futuro. Então, normalmente, quando a gente vai aprender, quando nós temos fluxos
+
+00:00:43.539 --> 00:00:50.655
+- com o mesmo valor de parcela, sempre a mesma parcela, que a parcela ou fluxos de caixa não mudam, a
+
+00:00:50.655 --> 00:00:58.334
+- gente vai aprender quais são as corzinhas que nós vamos utilizar, se a gente vai usar direto aqui ou não.
+
+00:00:58.466 --> 00:01:06.015
+- Então a gente vai mostrar pra vocês como fazer o cálculo na HP. Esses são os principais botões,
+
+00:01:06.015 --> 00:01:13.863
+- vamos dizer assim, ou funções da HP. O que a gente fez agora, mostrou pra vocês, né? Tipo, mostrando
+
+00:01:13.863 --> 00:01:21.562
+- o cálculo passo a passo. Obviamente a gente não tem muito mais facilidade conseguindo conhecer essas
+
+00:01:21.562 --> 00:01:25.150
+- teclas e saber utilizar a HP, né? Então aqui,
+
+00:01:25.410 --> 00:01:32.410
+- é a questão do exponencial Y elevado a X, quando a gente tem que fazer esses cálculos exponenciais.
+
+00:01:32.410 --> 00:01:39.274
+- Quando a gente inverte essa 1 sobre X aqui, lembra que eu falei? Inverte e transforma em raiz quando
+
+00:01:39.274 --> 00:01:46.273
+- você quer fazer essa extração. O CLX é de clear, é para limpar a HP, a memória dos cálculos já
+
+00:01:46.273 --> 00:01:51.710
+- iniciados, sempre é bom limpar. A gente fala F, que a tecla amarelinha é CLX,
+
+00:01:51.906 --> 00:01:57.911
+- sempre para não ter problema de armazenar dados errados, não, de outras operações. O Recall é você
+
+00:01:57.911 --> 00:02:03.745
+- quando quer guardar algo na memória, está fazendo, ela tem essa capacidade, depois no Store, que é
+
+00:02:03.745 --> 00:02:09.636
+- armazena, aí você, é como se você deixasse aquele calculado, mas eu tenho que fazer mais uma parte
+
+00:02:09.636 --> 00:02:15.355
+- do cálculo, aí depois você faz essa parte, aí você coloca Recall STO que ele vai buscar aquilo
+
+00:02:15.355 --> 00:02:18.558
+- que você armazenou e dá continuidade ao cálculo, ok?
+
+00:02:18.658 --> 00:02:24.508
+- Você tem aqui o valor presente, o PV, o valor futuro, o valor inicial da aplicação, o valor de resgate
+
+00:02:24.508 --> 00:02:30.028
+- da aplicação. Lembrando, a gente vai depois ver se você tem uma, a gente tem sempre que inverter
+
+00:02:30.028 --> 00:02:35.933
+- o sinal, porque é tipo, se eu aplicar dinheiro, eu tenho que colocar, vai sair do meu caixa, por exemplo,
+
+00:02:35.933 --> 00:02:41.342
+- tem que colocar em sinal negativo de saída, convenciona se a gente vai ver a setinha para baixo.
+
+00:02:41.538 --> 00:02:48.610
+- Se for ao contrário, entrada de caixa, a gente deixa com sinal positivo, porque não significa negativo.
+
+00:02:48.610 --> 00:02:55.349
+- Então, sempre entre PV e FV, dependendo da situação, um a gente tem que entrar com negativo, para
+
+00:02:55.349 --> 00:03:02.087
+- o outro sair com o dado correto. Outra coisa importante, quando a gente vai falar de pagamentos, fiz
+
+00:03:02.087 --> 00:03:08.759
+- um financiamento, normalmente para financiamento. Vou dar uma entrada e mais X parcelas. O cálculo
+
+00:03:08.759 --> 00:03:11.294
+- do PV e do valor futuro é diferente.
+
+00:03:11.522 --> 00:03:17.835
+- eu vou fazer uma compra de um bem, é um financiamento, só que eu não vou dar entrada, eu só vou
+
+00:03:17.835 --> 00:03:23.706
+- pagar a partir de 30 dias. Quando a gente tiver essas situações, a gente tem que escolher,
+
+00:03:23.706 --> 00:03:30.145
+- a gente vai ver. Quando eu tenho, por exemplo, um pagamento com uma entrada no momento zero, eu tenho
+
+00:03:30.145 --> 00:03:36.521
+- que primeiro, antes de começar a fazer os caos, colocar G Bigin, que mostra primeiro o G e depois o
+
+00:03:36.521 --> 00:03:39.678
+- Bigin. E se a gente ver onde está o G e o Bigin,
+
+00:03:40.610 --> 00:03:50.369
+- A gente tá aqui, ó. G e... cadê? O begin e a7 que eu coloquei lá, porque o begin fica em azulzinho.
+
+00:03:50.369 --> 00:04:00.034
+- G begin. Se você não colocar G begin, automaticamente ele já sabe que é o G end, ou seja, ele não
+
+00:04:00.034 --> 00:04:07.166
+- considera que tem uma parcela no momento zero. Tá? Vamos voltar lá. O G7,
+
+00:04:07.522 --> 00:04:14.220
+- é o G Begin com entrada e o G End, vamos lá, é a tecla 8. Vamos ver se aparece claramente aqui. Ah,
+
+00:04:14.220 --> 00:04:20.724
+- tá aqui pessoal, desculpa, tá aqui ó. Begin é o 7 e o End é o 8, a tecla 8. Então a gente tem
+
+00:04:20.724 --> 00:04:27.227
+- que pôr G para ele assumir a função. Por que G? Tá vendo que tá em azul? Pra ele poder assumir
+
+00:04:27.227 --> 00:04:33.730
+- a função em azul que tá embaixo, porque a HP-12C ela tem várias funções. Então pra ela aqui,
+
+00:04:33.730 --> 00:04:35.486
+- ela entenda que você quer
+
+00:04:36.034 --> 00:04:42.050
+- essa função que está em azul, você tem que apertar o G. Da mesma forma, por exemplo, às vezes,
+
+00:04:42.050 --> 00:04:48.247
+- se você quer usar alguma coisa da função que está tudo aqui em laranjinha, para poder assumir essa
+
+00:04:48.247 --> 00:04:54.323
+- função, você tem que digitar o F. Muito bem. E aí, eu comentei, quando a gente quer limpar tudo,
+
+00:04:54.323 --> 00:05:00.640
+- para não ficar com nenhum cálculo, para não dar problema para futuros cálculos que nós vamos fazer,
+
+00:05:00.640 --> 00:05:05.694
+- a gente sempre dá o F, que é o amarelinho, CLX para limpar. Se eu for olhar aqui,
+
+00:05:06.146 --> 00:05:15.814
+- O F está aqui, F-C-L-X. A gente dá F-C-L-X um, depois o outro, limpa tudo que está na memória para
+
+00:05:15.814 --> 00:05:17.598
+- não ter problema.

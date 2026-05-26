@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2843,
+    "title": "Elaboração de planos de ação",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso de elaboração de planos de ação você vai aprender: Conceitos básicos: O que são Planos de Ação. Porque a execução de um Plano de Ação falha e quais suas consequências para a Organização.  Os fatores-chaves da execução dos Planos de Ação: Pessoas, estratégias, planos, objetivos e controles.  A Gestão da Execução como instrumento de mudanças e inovações nas Organizações: Como lidar com os impactos na cultura vigente. Como e porque utilizar métricas para acompanhar, controlar e avaliar a Gestão da Execução:  O que são e como definir e selecionar as métricas de desempenho.  Quando e como medir, avaliar e decidir com base nas métricas de desempenho. \nAvaliação da execução do Plano de Ação e dos resultados através de análise dos indicadores e a retroalimentação do projeto / plano de ação. Comportamentos essenciais dos Lideres requeridos para atingir plenamente os objetivos dos Planos.  Fatores Críticos de Sucesso para a execução eficaz  de um Plano de Ação.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/6bb5eb0065fea172565789148bb00dcd1728073391.jpg",
+    "goals": [
+      "Proporcionar um entendimento sobre o que é Plano de ação e como executa-lo com sucesso nas Organizações.  Apresentar conceitos, técnicas e ferramentas aplicáveis à elaboração e execução de Planos de Ação que contribuam para melhorar o desempenho dos Lideres responsáveis pelo gerenciamento de projetos e/ou processos de forma a facilitar o atendimento de seus objetivos. Mostrar como tornar efetivo o atingimento dos resultados esperados em processos de mudanças e inovações a partir da elaboração e execução de Planos de Ação."
+    ],
+    "teacher": {
+      "id": 268532,
+      "name": "SÉRGIO LOPES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1633790201.jpeg"
+    },
+    "duration": 6602,
+    "keywords": "plano de ação;plano;planejamento",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 20,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1409,
+    "averageRating": 8.97,
+    "practiceAverage": 8.89,
+    "trailer": {
+      "id": "80f16ed7-8dae-46b2-93c6-8215176280a1",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/80f16ed7-8dae-46b2-93c6-8215176280a1/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/80f16ed7-8dae-46b2-93c6-8215176280a1/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/80f16ed7-8dae-46b2-93c6-8215176280a1/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/80f16ed7-8dae-46b2-93c6-8215176280a1/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-11-17T16:26:46.000Z",
+      "updatedAt": "2023-11-17T16:26:45.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 4,
+    "launchDate": "2023-11-03T19:47:05.000Z",
+    "recordedAt": "2023-09-29T00:00:00.000Z",
+    "createdAt": "2023-09-29T08:23:18.000Z"
+  }
+}

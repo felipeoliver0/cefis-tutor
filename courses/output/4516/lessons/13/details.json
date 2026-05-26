@@ -1,0 +1,33 @@
+{
+  "id": 487987,
+  "title": "Teorias introdutórias - Parte 2",
+  "position": 13,
+  "duration": 463,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/9a29066f-ed2e-44db-9cca-28ff5849b246/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a29066f-ed2e-44db-9cca-28ff5849b246/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a29066f-ed2e-44db-9cca-28ff5849b246/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a29066f-ed2e-44db-9cca-28ff5849b246/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9a29066f-ed2e-44db-9cca-28ff5849b246/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 488124,
+  "title": "Por que a maioria desiste nos primeiros 2 anos?",
+  "position": 8,
+  "duration": 320,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/4aa0ef50-8f45-44c9-bb2d-f9c71fc57f8c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4aa0ef50-8f45-44c9-bb2d-f9c71fc57f8c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4aa0ef50-8f45-44c9-bb2d-f9c71fc57f8c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4aa0ef50-8f45-44c9-bb2d-f9c71fc57f8c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4aa0ef50-8f45-44c9-bb2d-f9c71fc57f8c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

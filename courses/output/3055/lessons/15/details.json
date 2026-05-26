@@ -1,0 +1,33 @@
+{
+  "id": 473731,
+  "title": "Procedimentos",
+  "position": 15,
+  "duration": 506,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/88c8bfe4-4f94-4a32-be2f-cbb54714d759/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88c8bfe4-4f94-4a32-be2f-cbb54714d759/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88c8bfe4-4f94-4a32-be2f-cbb54714d759/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88c8bfe4-4f94-4a32-be2f-cbb54714d759/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88c8bfe4-4f94-4a32-be2f-cbb54714d759/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

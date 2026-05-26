@@ -1,0 +1,33 @@
+{
+  "id": 466737,
+  "title": "Impostos diretos e indiretos",
+  "position": 2,
+  "duration": 258,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5c8fa50a-b3ce-4b79-ab64-3413044acedc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c8fa50a-b3ce-4b79-ab64-3413044acedc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c8fa50a-b3ce-4b79-ab64-3413044acedc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c8fa50a-b3ce-4b79-ab64-3413044acedc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5c8fa50a-b3ce-4b79-ab64-3413044acedc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

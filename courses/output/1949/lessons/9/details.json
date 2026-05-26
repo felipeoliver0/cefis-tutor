@@ -1,0 +1,33 @@
+{
+  "id": 460402,
+  "title": "Inscrição - Parte 2",
+  "position": 9,
+  "duration": 275,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c36b1d92-d2df-46d9-b028-1553ab309165/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c36b1d92-d2df-46d9-b028-1553ab309165/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c36b1d92-d2df-46d9-b028-1553ab309165/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c36b1d92-d2df-46d9-b028-1553ab309165/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c36b1d92-d2df-46d9-b028-1553ab309165/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

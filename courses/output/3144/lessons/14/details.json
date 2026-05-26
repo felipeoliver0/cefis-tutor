@@ -1,0 +1,33 @@
+{
+  "id": 475513,
+  "title": "Atos administrativos",
+  "position": 14,
+  "duration": 237,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ca4a80b9-8688-43a0-97df-3e007d143d1d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca4a80b9-8688-43a0-97df-3e007d143d1d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca4a80b9-8688-43a0-97df-3e007d143d1d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca4a80b9-8688-43a0-97df-3e007d143d1d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca4a80b9-8688-43a0-97df-3e007d143d1d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

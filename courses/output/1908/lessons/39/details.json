@@ -1,0 +1,33 @@
+{
+  "id": 459337,
+  "title": "Recursos",
+  "position": 39,
+  "duration": 345,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/60fd17a7-dae1-4631-972c-3489ce971b08/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/60fd17a7-dae1-4631-972c-3489ce971b08/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/60fd17a7-dae1-4631-972c-3489ce971b08/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/60fd17a7-dae1-4631-972c-3489ce971b08/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/60fd17a7-dae1-4631-972c-3489ce971b08/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

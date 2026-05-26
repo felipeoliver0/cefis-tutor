@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3846,
+    "title": "ECD - Escrituração Contábil Digital 2025",
+    "subtitle": "Escrituração Contábil Digital",
+    "summary": "Apresentar os detalhes operacionais e práticos para o tratamento das informações contábeis e fiscais a serem transformadas em arquivo texto conforme ADE COFIS nº 79/2020, de 18 de dezembro de 2020, a ser apresentado à RFB.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/4392a9b7-fec2-421b-a779-8102d0198211-thumbnail.png",
+    "goals": [
+      "O treinamento ECD - SPED Contábil 2025 tem como objetivo atender à necessidade tanto do profissional experiente como do iniciante. Desenvolvido com base no Leiaute 9, versão 10.3.3 do PGE – Programa Gerador de Escrituração, percorre as principais opções do menu e seus correspondentes registros e cruzamentos de dados."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 19225,
+    "keywords": "ecd 2025;ecd;escrituracao contábil Digital",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 45,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 646,
+    "averageRating": 9.37,
+    "practiceAverage": 9.26,
+    "trailer": {
+      "id": "f00e744e-da3a-466a-b21e-e0bd5a27c2f6",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f00e744e-da3a-466a-b21e-e0bd5a27c2f6/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f00e744e-da3a-466a-b21e-e0bd5a27c2f6/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f00e744e-da3a-466a-b21e-e0bd5a27c2f6/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f00e744e-da3a-466a-b21e-e0bd5a27c2f6/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-04T15:51:30.000Z",
+      "updatedAt": "2025-07-04T15:51:30.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-06-27T15:48:24.000Z",
+    "recordedAt": "2025-06-23T00:00:00.000Z",
+    "createdAt": "2025-06-23T07:29:59.000Z"
+  }
+}

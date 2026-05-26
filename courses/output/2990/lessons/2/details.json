@@ -1,0 +1,33 @@
+{
+  "id": 472428,
+  "title": "Objetivos e Programa",
+  "position": 2,
+  "duration": 209,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/141cecdb-2014-4d56-9204-648331f12274/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/141cecdb-2014-4d56-9204-648331f12274/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/141cecdb-2014-4d56-9204-648331f12274/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/141cecdb-2014-4d56-9204-648331f12274/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/141cecdb-2014-4d56-9204-648331f12274/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

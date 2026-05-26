@@ -1,0 +1,33 @@
+{
+  "id": 468666,
+  "title": "Cálculo dos tributos RET",
+  "position": 14,
+  "duration": 245,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/86da21a2-6e78-4158-afd5-5102fe1a9f73/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/86da21a2-6e78-4158-afd5-5102fe1a9f73/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/86da21a2-6e78-4158-afd5-5102fe1a9f73/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/86da21a2-6e78-4158-afd5-5102fe1a9f73/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/86da21a2-6e78-4158-afd5-5102fe1a9f73/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

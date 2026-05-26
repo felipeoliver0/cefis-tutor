@@ -1,0 +1,33 @@
+{
+  "id": 458653,
+  "title": "Iss",
+  "position": 15,
+  "duration": 81,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/13d2d0ff-d423-45e6-b10f-917892cc4e39/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13d2d0ff-d423-45e6-b10f-917892cc4e39/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13d2d0ff-d423-45e6-b10f-917892cc4e39/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13d2d0ff-d423-45e6-b10f-917892cc4e39/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13d2d0ff-d423-45e6-b10f-917892cc4e39/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

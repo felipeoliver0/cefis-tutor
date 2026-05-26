@@ -1,0 +1,33 @@
+{
+  "id": 487798,
+  "title": "Crédito de bens do imobilizado",
+  "position": 21,
+  "duration": 235,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/232f42ce-91d7-4cd6-b1e4-d8e9547c5e4c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/232f42ce-91d7-4cd6-b1e4-d8e9547c5e4c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/232f42ce-91d7-4cd6-b1e4-d8e9547c5e4c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/232f42ce-91d7-4cd6-b1e4-d8e9547c5e4c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/232f42ce-91d7-4cd6-b1e4-d8e9547c5e4c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

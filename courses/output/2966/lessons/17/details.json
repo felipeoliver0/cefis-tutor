@@ -1,0 +1,33 @@
+{
+  "id": 473214,
+  "title": "Resposta a Consulta",
+  "position": 18,
+  "duration": 441,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0338f7d6-e0eb-43fb-b700-e96f9c11951c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0338f7d6-e0eb-43fb-b700-e96f9c11951c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0338f7d6-e0eb-43fb-b700-e96f9c11951c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0338f7d6-e0eb-43fb-b700-e96f9c11951c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0338f7d6-e0eb-43fb-b700-e96f9c11951c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+WEBVTT
+
+2
+00:00:00.020 --> 00:00:08.019
+Como que vai funcionar o CIB dentro do Sinter, nessa consulta dentro do Sinter?
+
+3
+00:00:08.019 --> 00:00:16.019
+Como o número do CIB é possível eu consultar as informações que estão disponíveis dentro do Sinter?
+
+4
+00:00:16.019 --> 00:00:23.019
+Lembra que através do Sinter é que nós vamos chegar no CIB e que o CIB vai ser gerado automaticamente daqui.
+
+5
+00:00:23.019 --> 00:00:27.019
+A forma que nós vamos fazer a consulta dentro do Sinter.
+
+6
+00:00:27.019 --> 00:00:34.020
+Lembrando que eu tenho que fazer o meu acesso via GOV, isso é super importante para nós.
+
+7
+00:00:34.020 --> 00:00:40.020
+Então aqui eu vou fazer o acesso, vou digitar o número do CIB e fazer a minha pesquisa.
+
+8
+00:00:40.020 --> 00:00:46.020
+Vejam só, dados do imóvel e vem me trazer a origem dessa informação.
+
+9
+00:00:46.020 --> 00:00:49.020
+Lembra que a gente tem o INCRA e tem também as prefeituras, olha aqui.
+
+10
+00:00:49.020 --> 00:00:57.020
+Eu tenho aqui o número do CIB, o endereço, o município, a inscrição municipal e o código do INCRA.
+
+11
+00:00:57.020 --> 00:01:00.020
+E olha só que interessante, ver no mapa.
+
+12
+00:01:00.020 --> 00:01:06.019
+A gente falou sobre isso quando a gente falou da geolocalização exata dentro dos mapas.
+
+13
+00:01:06.019 --> 00:01:11.019
+Então eu faço aqui, acesso o GOV dentro do banco Sinter.
+
+14
+00:01:11.019 --> 00:01:14.019
+Acessei o Sinter através do GOV?
+
+15
+00:01:14.019 --> 00:01:20.019
+Vou consultar o meu CIB e vou trazer as informações detalhadas.
+
+16
+00:01:20.019 --> 00:01:26.019
+Professora, o CIB vai ter alguma relação com o nosso DITR?
+
+17
+00:01:26.019 --> 00:01:28.019
+Vamos analisar?
+
+18
+00:01:28.019 --> 00:01:34.019
+Vale lembrar que o número do CIB é a primeira informação que vai ser recebida,
+
+19
+00:01:34.019 --> 00:01:38.019
+vai ser preenchida para a declaração do DTIR.
+
+20
+00:01:38.019 --> 00:01:42.019
+Para os imóveis que já possuam o número, não muda nada.
+
+21
+00:01:42.019 --> 00:01:47.019
+Sempre que pedir o CIB, podem preencher com o número do NIRF.
+
+22
+00:01:47.019 --> 00:01:54.019
+Ou seja, pessoal, quem já tem a numeração do NIRF não vai ter nenhum tipo de mudança.
+
+23
+00:01:54.019 --> 00:01:55.019
+Mas que o CIB vai ter.
+
+24
+00:01:55.019 --> 00:02:00.019
+Mas que o CIB vai ser a primeira informação de consulta.
+
+25
+00:02:00.019 --> 00:02:03.019
+Professora, e para criar o CIB?
+
+26
+00:02:03.019 --> 00:02:06.019
+A gente falou que o CIB vai ser criado automaticamente.
+
+27
+00:02:06.019 --> 00:02:08.020
+Vamos entender.
+
+28
+00:02:08.020 --> 00:02:12.020
+Para criar um cadastro CIB para um imóvel que ainda não possua,
+
+29
+00:02:12.020 --> 00:02:15.020
+porque ele vem entrar naquele processo automático, lembra?
+
+30
+00:02:15.020 --> 00:02:21.020
+É necessário primeiro fazer um cadastro no INCRA com todas as informações necessárias
+
+31
+00:02:21.020 --> 00:02:23.020
+e depois acessar o CNIR.
+
+32
+00:02:23.020 --> 00:02:25.020
+O que eu observo aqui?
+
+33
+00:02:25.020 --> 00:02:27.020
+Vamos criar.
+
+34
+00:02:27.020 --> 00:02:29.020
+Teremos a criação automática.
+
+35
+00:02:29.020 --> 00:02:30.020
+Ok.
+
+36
+00:02:30.020 --> 00:02:34.020
+Se você identificou que o seu imóvel ainda não tem o número,
+
+37
+00:02:34.020 --> 00:02:39.020
+você pode fazer este cadastro através de um cadastro primário no INCRA.
+
+38
+00:02:39.020 --> 00:02:40.020
+Olha só.
+
+39
+00:02:40.020 --> 00:02:44.020
+Declaração para Cadastro de Imóveis Rurais, que é o DCR.
+
+40
+00:02:44.020 --> 00:02:47.020
+Aonde eu vou criar o CIB?
+
+41
+00:02:47.020 --> 00:02:48.020
+Por onde?
+
+42
+00:02:48.020 --> 00:02:52.020
+O que eu preciso observar dentro desse meu cadastro?
+
+43
+00:02:52.020 --> 00:02:53.020
+Se ele não está ativo?
+
+44
+00:02:53.020 --> 00:02:54.020
+Se ele não existe?
+
+45
+00:02:54.020 --> 00:02:55.020
+Eu vou criar?
+
+46
+00:02:55.020 --> 00:02:57.020
+Então vamos entender.
+
+47
+00:02:57.020 --> 00:03:02.020
+Se ele estiver ativo, quando não houver pendência, inconsistência
+
+48
+00:03:02.020 --> 00:03:09.020
+ou qualquer motivo que possa classificá-lo na situação de irregular, extinta ou nula.
+
+49
+00:03:09.020 --> 00:03:13.020
+Situação irregular dentro do nosso CIB.
+
+50
+00:03:13.020 --> 00:03:19.020
+Quando for constatado inconsistência na identificação do proprietário,
+
+51
+00:03:19.020 --> 00:03:23.020
+titular do domínio útil ou possuidor.
+
+52
+00:03:23.020 --> 00:03:26.020
+Sobreposição de geometrias.
+
+53
+00:03:26.020 --> 00:03:32.020
+Ausência de dados ou outras inconsistências nos dados cadastrais.
+
+54
+00:03:32.020 --> 00:03:38.020
+Quando o seu CIB estiver com a condição, com a identificação de irregular,
+
+55
+00:03:38.020 --> 00:03:43.020
+é porque existe alguma informação cadastral que esteja indevida.
+
+56
+00:03:43.020 --> 00:03:45.020
+Situação extinta.
+
+57
+00:03:45.020 --> 00:03:50.020
+Quando a extinção se der por exclusão do cadastro de origem,
+
+58
+00:03:50.020 --> 00:03:53.020
+lá da prefeitura, lá do INCRA.
+
+59
+00:03:53.020 --> 00:03:55.020
+Nula.
+
+60
+00:03:55.020 --> 00:04:00.020
+Quando a anulação for por inscrição indevida decorrente de erro
+
+61
+00:04:00.020 --> 00:04:07.020
+ou de qualquer outro vício no procedimento de inscrição lá no cadastro de origem.
+
+62
+00:04:07.020 --> 00:04:11.020
+Então por algum motivo você fez ali uma inclusão indevida
+
+63
+00:04:11.020 --> 00:04:15.020
+ou não existe mais aquele cadastro, aquele imóvel,
+
+64
+00:04:15.020 --> 00:04:19.019
+a gente pode encontrar a situação nula.
+
+65
+00:04:19.019 --> 00:04:23.019
+Então todas as vezes que você for consultar o seu CIB,
+
+66
+00:04:23.019 --> 00:04:25.019
+ou fazer a criação,
+
+67
+00:04:25.019 --> 00:04:28.019
+verifique as condições do imóvel.
+
+68
+00:04:28.019 --> 00:04:33.019
+Se você tem todas as informações para que este cadastro fique correto.
+
+69
+00:04:33.019 --> 00:04:34.019
+Certo?

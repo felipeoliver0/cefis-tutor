@@ -1,0 +1,293 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.420
+pessoal nós vamos falar agora da contingência CFA virtual de
+
+2
+00:00:03.430 --> 00:00:06.920
+contingência S V C Um modelo de contingência para a
+
+3
+00:00:06.929 --> 00:00:10.979
+nota fiscal eletrônica modelo cinquenta e cinco tá a S
+
+4
+00:00:10.989 --> 00:00:15.260
+V c ela é utilizada quando a Sefaz está inoperante,
+
+5
+00:00:15.270 --> 00:00:17.819
+então aqui a gente tem a primeira diferença.
+
+6
+00:00:17.829 --> 00:00:19.739
+Contingência do formulário de segurança pra
+
+7
+00:00:19.750 --> 00:00:22.000
+essa contingência da Sefaz virtual de contingência
+
+8
+00:00:22.719 --> 00:00:24.290
+Ah, cê faz o virtual de contingência?
+
+9
+00:00:24.299 --> 00:00:26.250
+É quando você faz está inoperante e o
+
+10
+00:00:26.260 --> 00:00:29.010
+formulário de segurança o contribuinte pode utilizar quando ele
+
+11
+00:00:29.020 --> 00:00:31.750
+achar necessário tá já cê faz o virtual
+
+12
+00:00:31.760 --> 00:00:34.330
+de contingência só quando cê faz está inoperante,
+
+13
+00:00:34.340 --> 00:00:34.549
+né?
+
+14
+00:00:34.880 --> 00:00:38.810
+Então a C faz quando está no operante ela ativa a cê Fase
+
+15
+00:00:38.819 --> 00:00:40.450
+virtual de contingência ela não fica o
+
+16
+00:00:40.459 --> 00:00:42.860
+tempo inteiro habilitada pro contribuinte usar,
+
+17
+00:00:42.869 --> 00:00:46.930
+então depende da ativação da CFA do seu estado.
+
+18
+00:00:46.939 --> 00:00:49.849
+Tá? Se cê faz ativar você pode usar, né?
+
+19
+00:00:49.860 --> 00:00:51.450
+Isso é muito utilizado quando vai ter
+
+20
+00:00:51.459 --> 00:00:53.819
+manutenção programada da secretaria da Fazenda,
+
+21
+00:00:53.830 --> 00:00:57.849
+do seu estado e também é claro nos momentos de falha do sistema de computador.
+
+22
+00:00:57.860 --> 00:01:04.430
+Tá bom. Então ela depende da ativação da C faz de origem Tá bom, você faz do seu estado,
+
+23
+00:01:05.379 --> 00:01:08.269
+mas você faz o fiscal de contingência quando ela está ativa,
+
+24
+00:01:08.279 --> 00:01:12.550
+ela autoriza a sua nota fiscal eletrônica em nome do seu estado, né?
+
+25
+00:01:12.559 --> 00:01:17.750
+Então esse documento tem plena validade. Está autorizado o uso dele?
+
+26
+00:01:17.760 --> 00:01:21.769
+Você pode efetuar qualquer operação que quiser com ele que ele está plenamente
+
+27
+00:01:21.779 --> 00:01:26.010
+válido e funcional tá e você não precisa de fazer mais nada depois,
+
+28
+00:01:26.650 --> 00:01:28.540
+então o contribuinte nesse modelo de
+
+29
+00:01:28.550 --> 00:01:31.120
+contingência ele envia o arquivo pra autorização
+
+30
+00:01:31.129 --> 00:01:34.419
+da se fase virtual de contingência e não tem mais nada que fazer.
+
+31
+00:01:34.430 --> 00:01:37.059
+Tá? O documento está autorizado? Tá tudo certo?
+
+32
+00:01:37.069 --> 00:01:39.819
+Pode seguir a operação, pode lançar na escrituração,
+
+33
+00:01:39.830 --> 00:01:43.099
+pode enviar pro seu cliente não tem mais nada a fazer.
+
+34
+00:01:43.110 --> 00:01:43.720
+Tá bom,
+
+35
+00:01:44.809 --> 00:01:49.120
+então recapitulando aqui depende da ativação da C, faz de origem, ou seja,
+
+36
+00:01:49.129 --> 00:01:52.180
+da c faz do seu estado tá, utiliza papel comum,
+
+37
+00:01:52.190 --> 00:01:54.660
+não precisa utilizar o formulário de segurança no mesmo
+
+38
+00:01:54.669 --> 00:01:56.459
+papel que cê faz a impressão do seu?
+
+39
+00:01:56.790 --> 00:01:59.550
+Você pode imprimir o DANF da cê fase virtual
+
+40
+00:01:59.559 --> 00:02:02.760
+de contingência E não há transmissão posterior do arquivo,
+
+41
+00:02:02.769 --> 00:02:06.400
+porque você já transferiu esse arquivo pra ser fase virtual de contingência, né?
+
+42
+00:02:06.610 --> 00:02:08.699
+Aí quando a C faz do seu estado
+
+43
+00:02:08.710 --> 00:02:11.899
+está novamente operante a CFA virtual de contingência.
+
+44
+00:02:11.910 --> 00:02:16.139
+Ela se encarrega de entregar as notas fiscais autorizadas pra ser fase virtual
+
+45
+00:02:16.149 --> 00:02:20.440
+do seu estado ou pra CFA de origem lá que você utiliza tá bom
+
+46
+00:02:20.729 --> 00:02:21.130
+pessoal,
+
+47
+00:02:21.139 --> 00:02:24.639
+nós temos duas se fases virtuais a se fase virtual do ambiente
+
+48
+00:02:24.649 --> 00:02:27.660
+nacional e a C fase virtual do Rio Grande do Sul,
+
+49
+00:02:27.669 --> 00:02:27.979
+né?
+
+50
+00:02:27.990 --> 00:02:32.860
+Então, pra se fase virtual do ambiente nacional usam os estados do Acre, Alagoas,
+
+51
+00:02:32.869 --> 00:02:37.940
+Amapá, Ceará, DF, Espírito Santo, Minas Gerais, Pará, Paraíba, Piauí,
+
+52
+00:02:37.949 --> 00:02:41.589
+Rio de Janeiro, Rio Grande do Norte, Rondônia, Roraima, Rio Grande do Sul,
+
+53
+00:02:41.600 --> 00:02:44.639
+Santa Catarina, Sergipe, São Paulo e Tocantins
+
+54
+00:02:44.929 --> 00:02:47.479
+é a grande maioria dos estados, né?
+
+55
+00:02:47.490 --> 00:02:51.899
+Porque ela é o backup da se fase virtual do Rio Grande do Sul, né?
+
+56
+00:02:51.910 --> 00:02:55.899
+Então eh tem todos os estados que autoriza no Rio Grande do Sul,
+
+57
+00:02:55.910 --> 00:03:00.979
+mas o Rio Grande do Sul autorizam aí na se fase virtual do ambiente nacional e,
+
+58
+00:03:00.990 --> 00:03:02.339
+também claro, o estado de São Paulo,
+
+59
+00:03:02.350 --> 00:03:05.479
+que tem um volume muito grande de emissão de nota modelo cinquenta e cinco.
+
+60
+00:03:05.490 --> 00:03:06.000
+Tá?
+
+61
+00:03:06.500 --> 00:03:08.990
+Já a sefa virtual do Rio Grande do Sul tá
+
+62
+00:03:09.000 --> 00:03:11.610
+a fase virtual de contingência do Rio Grande do Sul.
+
+63
+00:03:11.619 --> 00:03:17.429
+S V C R S É utilizado por Amazonas, Bahia, Goiás, Maranhão, Mato Grosso do Sul,
+
+64
+00:03:17.440 --> 00:03:19.750
+Mato Grosso, Pernambuco e Paraná.
+
+65
+00:03:19.759 --> 00:03:23.610
+Tá só os demais estados utilizam a C fase virtual do Rio Grande do Sul,
+
+66
+00:03:23.809 --> 00:03:28.509
+então você vai seguindo essa lista de estados e saber pra
+
+67
+00:03:28.520 --> 00:03:32.600
+onde você vai enviar a sua nota fiscal em contingência.
+
+68
+00:03:32.610 --> 00:03:36.979
+S b C Contingência cfa virtual de contingência Tá, então!
+
+69
+00:03:36.990 --> 00:03:39.179
+Se eu sou, por exemplo, de Pernambuco,
+
+70
+00:03:39.190 --> 00:03:42.860
+eu vou utilizar a se fase virtual de contingência do Rio Grande do Sul.
+
+71
+00:03:42.869 --> 00:03:45.429
+Se eu sou de São Paulo eu vou utilizar
+
+72
+00:03:45.440 --> 00:03:48.380
+a c fase virtual de contingência do ambiente nacional.
+
+73
+00:03:48.389 --> 00:03:51.600
+Tá bom! É assim que funciona a Sefaz, virtual de contingência.

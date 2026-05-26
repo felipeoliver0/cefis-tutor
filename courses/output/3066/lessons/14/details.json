@@ -1,0 +1,33 @@
+{
+  "id": 474137,
+  "title": "Simplificando a Legislação",
+  "position": 14,
+  "duration": 590,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/182e096e-47ac-4155-a837-46f24cecd165/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/182e096e-47ac-4155-a837-46f24cecd165/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/182e096e-47ac-4155-a837-46f24cecd165/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/182e096e-47ac-4155-a837-46f24cecd165/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/182e096e-47ac-4155-a837-46f24cecd165/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

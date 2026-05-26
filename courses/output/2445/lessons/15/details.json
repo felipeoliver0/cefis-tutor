@@ -1,0 +1,33 @@
+{
+  "id": 465878,
+  "title": "Uso de carro forte e transporte de valores",
+  "position": 15,
+  "duration": 122,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fe25d458-4ead-477b-b560-228c64a92ad3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe25d458-4ead-477b-b560-228c64a92ad3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe25d458-4ead-477b-b560-228c64a92ad3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe25d458-4ead-477b-b560-228c64a92ad3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe25d458-4ead-477b-b560-228c64a92ad3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

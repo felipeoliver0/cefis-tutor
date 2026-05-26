@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3142,
+    "title": "Excel para contadores 2025",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático e atualizado, você aprenderá a trabalhar com algumas fórmulas e ferramentas como o SOMASE, PROCV e alguns filtros, que irão otimizar a forma de selecionar e analisar informações, durante o uso do Excel no dia a dia contábil e fiscal.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/cff8750e55c77b1c1117e4e71dd4f9cc1727893083.jpg",
+    "goals": [
+      "Apresentar dicas importantíssimas para a utilização do Excel no trabalho diário de conciliação contábil e fiscal. Vamos desvendar a importação de arquivos TXT, utilização do SOMASE, PROCV, filtros e fórmulas complementares para a utilização destes."
+    ],
+    "teacher": {
+      "id": 8,
+      "name": "THIAGO ARANTES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1679621062.jpeg"
+    },
+    "duration": 13808,
+    "keywords": "excel;excel para contadores",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 33,
+    "materialCount": 31,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 3084,
+    "averageRating": 9.08,
+    "practiceAverage": 9.02,
+    "trailer": {
+      "id": "3c1e52ad-5bd8-491f-b6f7-6583caf46130",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3c1e52ad-5bd8-491f-b6f7-6583caf46130/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3c1e52ad-5bd8-491f-b6f7-6583caf46130/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3c1e52ad-5bd8-491f-b6f7-6583caf46130/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3c1e52ad-5bd8-491f-b6f7-6583caf46130/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-06-17T17:47:36.000Z",
+      "updatedAt": "2024-06-17T17:47:36.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-06-24T09:05:29.000Z",
+    "recordedAt": "2024-05-04T00:00:00.000Z",
+    "createdAt": "2024-05-05T16:03:03.000Z"
+  }
+}

@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.339
+Então, como preencher a nota fiscal eletrônica com CBS e IBS na prática?
+
+2
+00:00:10.839 --> 00:00:12.580
+Qual é o objetivo dessa aula?
+
+3
+00:00:13.060 --> 00:00:17.859
+Entender a estrutura do documento fiscal NFE com IBS e CBS,
+
+4
+00:00:18.539 --> 00:00:30.420
+aplicar corretamente dentro da sua rotina fiscal e reduzir os riscos e retrabalho. O ano de 2026 já começou, ou seja, nós estamos no momento teste.
+
+5
+00:00:30.980 --> 00:00:34.939
+Nós temos diversas notas técnicas, nós temos diversas formas
+
+6
+00:00:34.939 --> 00:00:39.100
+de então trazer a classificação tributária para o nosso contribuinte
+
+7
+00:00:39.100 --> 00:00:43.520
+para que ele consiga preencher o documento fiscal de forma correta.
+
+8
+00:00:43.939 --> 00:00:47.659
+Então, se você é da área fiscal, se você é da área contábil,
+
+9
+00:00:48.479 --> 00:00:52.939
+e se você faz parte do processo de emissão de documento,
+
+10
+00:00:52.939 --> 00:00:57.000
+ou não, convide alguém que esteja à frente dessa operação.
+
+11
+00:00:57.299 --> 00:01:00.560
+Porque o faturamento, o cadastro de produto,
+
+12
+00:01:00.899 --> 00:01:07.959
+a emissão do documento faz parte desse processo, ou seja, todos precisam estar relacionado
+
+13
+00:01:07.959 --> 00:01:13.980
+a esse novo sistema tributário. Ou seja, pessoal, antes da gente falar sobre preenchimento, nós
+
+14
+00:01:13.980 --> 00:01:20.379
+precisamos entender o contexto da reforma tributária atual. Então, nós estamos falando de um IVA dual,
+
+15
+00:01:20.819 --> 00:01:29.459
+estamos falando que alguns tributos que incidem em consumo serão de fato impactados e tratados à extinção.
+
+16
+00:01:30.019 --> 00:01:52.780
+Foi criado por meio da Emenda Constitucional, a 132 de 2003, de 2025 trazendo a operação sobre a perspectiva da instituição do IBS e da CBS.
+
+17
+00:01:52.780 --> 00:02:05.140
+E agora nós tivemos a lei complementar 227 de 2026 que trouxe algumas penalidades, ou seja, conformidade sobre a emissão do documento fiscal.
+
+18
+00:02:09.939 --> 00:02:10.400
+Então, nós já temos um belo contexto da reforma tributária.
+
+19
+00:02:14.300 --> 00:02:19.319
+IBS e CBS entram dentro dos documentos fiscais eletrônicos e a nota passa a alimentar a apuração assistida.
+
+20
+00:02:19.819 --> 00:02:24.860
+Pessoal, nós hoje, no sistema tributário atual, nós temos o SPED,
+
+21
+00:02:24.860 --> 00:02:29.740
+que de fato hoje se transformou numa constelação de obrigações acessórias.
+
+22
+00:02:30.520 --> 00:02:37.180
+Desde 2007, nós estamos falando dessa constelação, iniciou-se pelo XML e o SPED fiscal.
+
+23
+00:02:37.960 --> 00:02:45.419
+Nesse novo sistema tributário, o fisco trata então um novo conceito de apurar as informações.
+
+24
+00:02:46.259 --> 00:02:51.580
+A apuração assistida nada mais é do que uma conta corrente do seu contribuinte.
+
+25
+00:02:52.259 --> 00:02:55.659
+Emitiu o documento fiscal, existiu o débito.
+
+26
+00:02:56.319 --> 00:03:09.159
+Comprou e foi de fato pago o tributo na etapa anterior, ele terá direito ao crédito. É isso que acontece nessa não-cumulatividade plena que esse novo sistema
+
+27
+00:03:09.159 --> 00:03:16.000
+tributário nos deu. E esse é um ponto importante porque tudo muda na escrituração fiscal, tudo muda no preenchimento
+
+28
+00:03:16.659 --> 00:03:26.259
+do documento fiscal, porque quando pensamos em espete fiscal e no FD Contribuições, a escrituração é de forma offline.
+
+29
+00:03:31.419 --> 00:03:36.240
+Ou seja, precisa existir uma análise antes da gente escriturar para entender a não-cumulatividade, se haverá não-cumulatividade ou não.
+
+30
+00:03:37.620 --> 00:03:42.939
+Nós enviamos o cadastro de produto, as informações, as emissões do documento fiscal
+
+31
+00:03:42.939 --> 00:03:45.120
+depois do que aconteceu.
+
+32
+00:03:45.620 --> 00:03:46.300
+E agora não.
+
+33
+00:03:47.099 --> 00:03:52.340
+O seu contribuinte não precisará receber o item para que haja uma escrituração fiscal.
+
+34
+00:03:53.340 --> 00:03:55.560
+Só precisa emitir o documento.
+
+35
+00:03:56.020 --> 00:03:58.939
+O documento vira uma confissão de débito.
+
+36
+00:03:59.560 --> 00:04:07.460
+Assim que de fato houver a emissão do documento, a conta corrente, a apuração assistida será
+
+37
+00:04:07.460 --> 00:04:11.879
+preenchida. E nós, como profissionais da área fiscal, contábil,
+
+38
+00:04:11.960 --> 00:04:15.860
+nós não vamos conseguir alterar ou remanejar uma
+
+39
+00:04:15.860 --> 00:04:19.819
+emissão incorreta. Então, por isso que é importante a gente revisitar
+
+40
+00:04:19.819 --> 00:04:24.279
+os processos de emissão de documento do nosso contribuinte. De analisar
+
+41
+00:04:24.279 --> 00:04:25.920
+com quem está à frente das emissões de documento do nosso contribuinte. De analisar com quem está à frente das emissões
+
+42
+00:04:25.920 --> 00:04:28.339
+de documento se faz sentido
+
+43
+00:04:28.339 --> 00:04:30.180
+o que eles
+
+44
+00:04:30.180 --> 00:04:32.060
+estão fazendo. Se eles têm a
+
+45
+00:04:32.060 --> 00:04:34.319
+consciência do que é uma CST,
+
+46
+00:04:34.839 --> 00:04:36.439
+do que é uma classificação
+
+47
+00:04:36.439 --> 00:04:37.279
+tributária.
+
+48
+00:04:38.079 --> 00:04:40.100
+O que de fato é o objetivo principal
+
+49
+00:04:40.100 --> 00:04:42.459
+da CST, que é trazer a incidência
+
+50
+00:04:42.459 --> 00:04:44.220
+de determinado tributo.
+
+51
+00:04:47.819 --> 00:04:48.420
+Pessoal,
+
+52
+00:04:49.680 --> 00:04:52.360
+eu já tenho diversos cursos aqui na Cefis
+
+53
+00:04:52.360 --> 00:04:54.160
+e provavelmente você já tenha me escutado
+
+54
+00:04:54.160 --> 00:04:56.079
+falar disso, mas eu vou
+
+55
+00:04:56.079 --> 00:04:57.459
+voltar a falar isso pra vocês.
+
+56
+00:04:58.879 --> 00:05:00.240
+Nós só vamos passar
+
+57
+00:05:00.240 --> 00:05:02.319
+de forma
+
+58
+00:05:02.319 --> 00:05:06.279
+na conformidade,
+
+59
+00:05:06.360 --> 00:05:08.040
+eu nem sei te dizer a palavra,
+
+60
+00:05:08.240 --> 00:05:10.000
+mas porque o desafio vai existir.
+
+61
+00:05:11.560 --> 00:05:12.279
+Então, assim,
+
+62
+00:05:13.279 --> 00:05:14.339
+falar para vocês que
+
+63
+00:05:14.339 --> 00:05:16.139
+no meio da transição
+
+64
+00:05:16.139 --> 00:05:17.980
+nós não vamos passar por
+
+65
+00:05:17.980 --> 00:05:19.939
+grandes desafios, eu estaria mentindo
+
+66
+00:05:19.939 --> 00:05:20.639
+para vocês.
+
+67
+00:05:21.540 --> 00:05:24.060
+Mas nós só vamos passar
+
+68
+00:05:24.060 --> 00:05:35.120
+de forma mais leve se a gente tiver revisto, reavaliado os processos que nós temos
+
+69
+00:05:35.120 --> 00:05:45.959
+sobre os tributos que incidem hoje, o sistema tributário hoje. Então, eu coloco essa palavra leveza para vocês, porque o desafio vai acontecer,
+
+70
+00:05:46.879 --> 00:05:54.560
+só que se a gente tiver que rever os processos de classificação tributária do ICMS, do IPI, do PIS e COFINS,
+
+71
+00:05:55.000 --> 00:05:58.439
+vocês vão estar passando por um momento muito mais desafiador,
+
+72
+00:05:59.120 --> 00:06:06.959
+porque vai estar acontecendo simultaneamente o preenchimento desses documentos fiscais eletrônicos, a entrega das
+
+73
+00:06:06.959 --> 00:06:14.939
+obrigações acessórias e as incidências não são iguais. A incidência do ICMS então é a circulação
+
+74
+00:06:14.939 --> 00:06:26.160
+da mercadoria e do bem. A incidência do IPI é a industrialização ou a importação. Quando pensamos no IBS e na CBS,
+
+75
+00:06:26.899 --> 00:06:29.300
+é uma incidência onerosa
+
+76
+00:06:29.300 --> 00:06:33.060
+em âmbito comercial.
+
+77
+00:06:34.279 --> 00:06:37.879
+Ou seja, vocês ao longo do caminho vão precisar
+
+78
+00:06:37.879 --> 00:06:40.860
+pensar de forma diferente.
+
+79
+00:06:40.860 --> 00:06:43.920
+A não-cumulatividade plena não é igual
+
+80
+00:06:43.920 --> 00:06:46.339
+àquilo que vocês estão acostumados.
+
+81
+00:06:47.639 --> 00:06:48.100
+Então,
+
+82
+00:06:48.339 --> 00:06:50.000
+no ano de 2016, qual é
+
+83
+00:06:50.000 --> 00:06:51.839
+a minha recomendação para vocês e o que eu estou
+
+84
+00:06:51.839 --> 00:06:53.959
+recomendando para os meus alunos e para os
+
+85
+00:06:53.959 --> 00:06:56.100
+meus clientes? Rever
+
+86
+00:06:56.100 --> 00:06:58.060
+os processos internos,
+
+87
+00:06:59.259 --> 00:07:00.480
+rever os parâmetros,
+
+88
+00:07:00.639 --> 00:07:02.060
+rever quem está no processo de
+
+89
+00:07:02.060 --> 00:07:03.980
+emissão de documento. Se nós
+
+90
+00:07:03.980 --> 00:07:07.980
+estamos emitindo documento fiscal eletrônico certo hoje.
+
+91
+00:07:09.819 --> 00:07:11.959
+A CST do CMS está correta?
+
+92
+00:07:12.660 --> 00:07:14.100
+A CST do PIS e COFINS?
+
+93
+00:07:14.379 --> 00:07:15.420
+A CST do IPI?
+
+94
+00:07:18.079 --> 00:07:21.319
+E eu não estou falando para vocês revisitar e esquecer,
+
+95
+00:07:21.420 --> 00:07:26.399
+porque ao longo do caminho pode ter atualização ainda desses tributos,
+
+96
+00:07:27.060 --> 00:07:33.259
+porque eles não serão extintos de uma hora para outra, mas vai ficar mais leve.
+
+97
+00:07:33.800 --> 00:07:37.360
+Se vocês reverem os processos internos de emissão de documento agora,
+
+98
+00:07:39.100 --> 00:07:48.600
+para olhar para essa nova era, para olhar para o grupo URP, que trata então as tags dos documentos fiscais
+
+99
+00:07:48.600 --> 00:07:55.000
+eletrônicos para informação do IBS, do CBS e do IS, que possuem particularidades distintas.
+
+100
+00:07:55.680 --> 00:08:03.519
+Não existe um de para. Se o seu contribuinte hoje tem uma redução de base do ICMS,
+
+101
+00:08:03.519 --> 00:08:09.240
+isso não quer dizer que ele também terá uma redução do IBS e da CBS.
+
+102
+00:08:10.120 --> 00:08:11.439
+Não é um depara.

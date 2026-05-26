@@ -1,0 +1,33 @@
+{
+  "id": 486229,
+  "title": "Alteração do regime",
+  "position": 63,
+  "duration": 239,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d8700221-7925-4656-9c42-60f6c2f9b82b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8700221-7925-4656-9c42-60f6c2f9b82b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8700221-7925-4656-9c42-60f6c2f9b82b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8700221-7925-4656-9c42-60f6c2f9b82b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d8700221-7925-4656-9c42-60f6c2f9b82b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

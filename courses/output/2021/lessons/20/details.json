@@ -1,0 +1,33 @@
+{
+  "id": 461162,
+  "title": "Aplicação por tipo de sociedade",
+  "position": 20,
+  "duration": 362,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/40ca81ff-44fa-466c-bb07-fbed099c037d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40ca81ff-44fa-466c-bb07-fbed099c037d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40ca81ff-44fa-466c-bb07-fbed099c037d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40ca81ff-44fa-466c-bb07-fbed099c037d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40ca81ff-44fa-466c-bb07-fbed099c037d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

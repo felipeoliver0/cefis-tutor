@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4351,
+    "title": "DIRBI 2026",
+    "subtitle": "curso prático",
+    "summary": "Neste curso DIRBI - curso prático você irá aprender na prática tudo o que precisa saber sobre a implementação da DIRBI. Aprenderá os fundamentos e a prática de como entender a base legal que sustenta a medida, como aproveitar os novos benefícios e como definir o objetivo da medida, além de entender os prazos de entrega para os novos incentivos e os dados relevantes que a DIRBI traz, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre a implementação da DIRBI.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/5ab52d7a-87b5-40dd-8744-4494acef025c-thumbnail.png",
+    "goals": [
+      "O objetivo do curso DIRBI - curso prático é a capacitação para a aplicação prática da Lei de Incentivo à Cultura, abordando desde a base legal até a conclusão, passando por novos benefícios, objetivo da medida, prazo de entrega para os novos incentivos, dados relevantes e resolução de principais dúvidas, visando a efetivação de projetos culturais."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 1332,
+    "keywords": "dirbi",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 9,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 379,
+    "averageRating": 9.42,
+    "practiceAverage": 9.4,
+    "trailer": {
+      "id": "9de37108-4f90-40ff-9a86-949fc6c3c0cf",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9de37108-4f90-40ff-9a86-949fc6c3c0cf/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9de37108-4f90-40ff-9a86-949fc6c3c0cf/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9de37108-4f90-40ff-9a86-949fc6c3c0cf/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9de37108-4f90-40ff-9a86-949fc6c3c0cf/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-01-12T11:53:03.000Z",
+      "updatedAt": "2026-01-12T11:53:02.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-01-13T14:22:25.000Z",
+    "recordedAt": "2025-12-28T00:00:00.000Z",
+    "createdAt": "2026-01-07T16:25:27.000Z"
+  }
+}

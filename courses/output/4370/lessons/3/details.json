@@ -1,0 +1,33 @@
+{
+  "id": 486599,
+  "title": "O que é o RGPS",
+  "position": 3,
+  "duration": 433,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2e44cb4a-a79e-4d89-8351-711d2b3b1c6b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e44cb4a-a79e-4d89-8351-711d2b3b1c6b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e44cb4a-a79e-4d89-8351-711d2b3b1c6b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e44cb4a-a79e-4d89-8351-711d2b3b1c6b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e44cb4a-a79e-4d89-8351-711d2b3b1c6b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

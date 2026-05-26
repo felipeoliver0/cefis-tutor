@@ -1,0 +1,33 @@
+{
+  "id": 463752,
+  "title": "Atores da importação indireta",
+  "position": 5,
+  "duration": 122,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/082bbf50-a88d-4422-91db-697823d63897/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/082bbf50-a88d-4422-91db-697823d63897/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/082bbf50-a88d-4422-91db-697823d63897/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/082bbf50-a88d-4422-91db-697823d63897/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/082bbf50-a88d-4422-91db-697823d63897/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

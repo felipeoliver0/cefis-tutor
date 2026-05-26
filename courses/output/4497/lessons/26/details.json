@@ -1,0 +1,33 @@
+{
+  "id": 487526,
+  "title": "Lucro Presumido - Exemplos práticos - Parte 1",
+  "position": 26,
+  "duration": 452,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/6c0005da-6fd3-4f1d-82e8-ab899bab0701/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c0005da-6fd3-4f1d-82e8-ab899bab0701/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c0005da-6fd3-4f1d-82e8-ab899bab0701/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c0005da-6fd3-4f1d-82e8-ab899bab0701/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c0005da-6fd3-4f1d-82e8-ab899bab0701/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

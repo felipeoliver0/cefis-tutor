@@ -1,0 +1,109 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.000
+Bom pessoal, então a gente estava comentando que a multiplicação de matrizes é computacionalmente muito intensivo.
+
+3
+00:00:07.000 --> 00:00:17.000
+E aí, o que surgiu como solução? O uso da GPU, que é um processador que tem em alguns computadores
+
+4
+00:00:17.000 --> 00:00:23.000
+que é focado em fazer várias operações matemáticas de forma massivamente paralela.
+
+5
+00:00:23.000 --> 00:00:29.000
+É o Graphics Processing Unit, que é o principal produto da Nvidia, a empresa mais valiosa do mundo,
+
+6
+00:00:29.000 --> 00:00:36.000
+que por acaso, embora as GPUs não tenham sido criadas para IA, que coincidência incrível essa,
+
+7
+00:00:36.000 --> 00:00:42.000
+elas são perfeitas para IA, elas foram criadas para jogos, para processamento gráfico.
+
+8
+00:00:42.000 --> 00:00:48.000
+Anos depois, ela virou a ferramenta ideal para processamento de dados de IA.
+
+9
+00:00:48.000 --> 00:00:57.000
+Então pessoal, isso aqui gerado por IA, estamos aí na fase da IA, vamos lá na IA e pedimos para fazer uma comparação de CPU e GPU.
+
+10
+00:00:57.000 --> 00:00:59.000
+Então a CPU normalmente...
+
+11
+00:00:59.000 --> 00:01:06.000
+é muito especializada, mas ela faz um processamento serial, ela faz uma operação de cada vez.
+
+12
+00:01:06.000 --> 00:01:13.000
+Algumas vezes a gente tem CPU de 2 núcleos, 3 núcleos, 4 núcleos, 8 núcleos, é bem comum hoje,
+
+13
+00:01:13.000 --> 00:01:19.000
+mas você precisa explicitamente, o sistema operacional ou software, paralelizar os dados.
+
+14
+00:01:19.000 --> 00:01:25.000
+E não é um paralelismo tão grande, no máximo você vai ter 8, 16 núcleos.
+
+15
+00:01:25.000 --> 00:01:28.000
+A GPU, é comum você ter GPU de centenas de núcleos,
+
+16
+00:01:28.000 --> 00:01:31.000
+ou até 16 mil núcleos,
+
+17
+00:01:31.000 --> 00:01:37.000
+em que cada núcleo faz alguma operação matemática extremamente especializada,
+
+18
+00:01:37.000 --> 00:01:39.000
+de forma totalmente paralela.
+
+19
+00:01:39.000 --> 00:01:42.000
+Então você imagine uma multiplicação de matriz,
+
+20
+00:01:42.000 --> 00:01:44.000
+feita por uma CPU,
+
+21
+00:01:44.000 --> 00:01:48.000
+em que cada uma daquelas multiplicações que a gente estava fazendo é feita uma a uma,
+
+22
+00:01:48.000 --> 00:01:50.000
+uma atrás da outra,
+
+23
+00:01:50.000 --> 00:01:55.000
+enquanto você tem uma GPU fazendo, lembra que eu falei linha vezes coluna?
+
+24
+00:01:55.000 --> 00:01:57.000
+Você pode ter uma parte da GPU fazendo linha vezes coluna,
+
+25
+00:01:57.000 --> 00:02:00.000
+uma parte da GPU fazendo uma linha inteira,
+
+26
+00:02:00.000 --> 00:02:03.000
+uma outra parte da GPU fazendo outra linha inteira,
+
+27
+00:02:03.000 --> 00:02:06.000
+e no final junta-se tudo isso.
+
+28
+00:02:06.000 --> 00:02:12.000
+Então você ganha muitas vezes em velocidade de processamento.

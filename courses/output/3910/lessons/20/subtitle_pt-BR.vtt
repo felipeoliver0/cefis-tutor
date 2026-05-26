@@ -1,0 +1,753 @@
+WEBVTT
+
+1
+00:00:00.039 --> 00:00:00.899
+EFD
+
+2
+00:00:01.000 --> 00:00:02.109
+contribuições
+
+3
+00:00:02.240 --> 00:00:03.380
+outra aí também
+
+4
+00:00:03.920 --> 00:00:08.010
+deve ser transmitida FFD contribuição de pessoa jurídica só sustensiva
+
+5
+00:00:08.439 --> 00:00:10.430
+da sociedade em conta de participação,
+
+6
+00:00:10.560 --> 00:00:10.840
+né?
+
+7
+00:00:11.949 --> 00:00:16.659
+em relação aos fatos gerados ocorridos a partir de um do um de 2014.
+
+8
+00:00:17.559 --> 00:00:20.540
+no caso de pessoas jurídica só sustensiva de SCP.
+
+9
+00:00:21.399 --> 00:00:26.459
+AFD Contribuições deve ser transmitida separadamente para cada CP do mesmo jeito,
+
+10
+00:00:26.549 --> 00:00:26.739
+né?
+
+11
+00:00:27.590 --> 00:00:31.610
+além da transmissão da FD contribuição da só sustensiva Tá lá
+
+12
+00:00:32.029 --> 00:00:32.459
+artigo
+
+13
+00:00:32.830 --> 00:00:37.569
+parágrafo quatro 12521387.
+
+14
+00:00:38.209 --> 00:00:39.599
+Então nós já temos aí três,
+
+15
+00:00:39.669 --> 00:00:39.759
+né?
+
+16
+00:00:39.790 --> 00:00:41.790
+CDCFFD Contribuições,
+
+17
+00:00:41.869 --> 00:00:42.080
+né?
+
+18
+00:00:42.860 --> 00:00:44.549
+Ainda na FD contribuições
+
+19
+00:00:45.229 --> 00:00:46.299
+neste caso,
+
+20
+00:00:46.509 --> 00:00:46.869
+né?
+
+21
+00:00:47.560 --> 00:00:48.630
+Que que nós temos aí,
+
+22
+00:00:48.669 --> 00:00:48.970
+né?
+
+23
+00:00:49.669 --> 00:00:51.279
+A empresa deverá informar
+
+24
+00:00:51.950 --> 00:00:54.509
+todos os documentos da sócia ostensiva.
+
+25
+00:00:55.560 --> 00:00:55.950
+né?
+
+26
+00:00:55.959 --> 00:00:57.049
+Seja da SP,
+
+27
+00:00:57.240 --> 00:00:57.479
+né?
+
+28
+00:00:58.020 --> 00:00:58.639
+Nesse caso,
+
+29
+00:00:58.680 --> 00:01:00.659
+a empresa vai reformar todos os documentos,
+
+30
+00:01:00.830 --> 00:01:00.840
+né,
+
+31
+00:01:01.439 --> 00:01:02.860
+seja da sócio ostensiva,
+
+32
+00:01:02.959 --> 00:01:03.959
+seja da SCP.
+
+33
+00:01:05.160 --> 00:01:08.339
+o programa validador e assinador ou o PGE,
+
+34
+00:01:08.519 --> 00:01:11.639
+que já chamou PVA PVE,
+
+35
+00:01:11.720 --> 00:01:11.919
+né?
+
+36
+00:01:13.910 --> 00:01:16.959
+Programa validador e assinador irá validar ou
+
+37
+00:01:16.959 --> 00:01:19.110
+apurar a contribuição e os critérios,
+
+38
+00:01:19.930 --> 00:01:19.940
+né?
+
+39
+00:01:20.480 --> 00:01:22.209
+Se fossem da só sstensiva,
+
+40
+00:01:22.919 --> 00:01:23.940
+então temos que
+
+41
+00:01:24.790 --> 00:01:25.790
+também está entregando.
+
+42
+00:01:26.930 --> 00:01:30.480
+sócia ostensiva deverá então proceder ao ajuste no bloco M.
+
+43
+00:01:31.569 --> 00:01:36.879
+de forma manual através do seu sistema para segregar o valor das contribuições
+
+44
+00:01:37.180 --> 00:01:39.089
+e dos créditos de cada SP,
+
+45
+00:01:39.889 --> 00:01:40.750
+conforme
+
+46
+00:01:40.930 --> 00:01:42.120
+os procedimentos a seguir.
+
+47
+00:01:42.169 --> 00:01:43.440
+Vamos ver aí os procedimentos.
+
+48
+00:01:43.449 --> 00:01:43.889
+Olha lá,
+
+49
+00:01:43.930 --> 00:01:44.129
+né?
+
+50
+00:01:44.930 --> 00:01:46.180
+Primeiro procedimento aí,
+
+51
+00:01:46.209 --> 00:01:46.330
+né?
+
+52
+00:01:46.410 --> 00:01:50.980
+Procedimento um destaque dos valores referente a SP.
+
+53
+00:01:51.910 --> 00:01:52.790
+E aqui é importante,
+
+54
+00:01:52.830 --> 00:01:53.040
+né?
+
+55
+00:01:53.470 --> 00:01:56.300
+Primeiramente deve ser reduzido
+
+56
+00:01:56.669 --> 00:01:59.180
+dos valores totais de débitos
+
+57
+00:01:59.470 --> 00:02:02.019
+M210 e M610
+
+58
+00:02:02.910 --> 00:02:08.020
+e créditos M100 e M500 apurado de forma consolidada na empresa
+
+59
+00:02:08.550 --> 00:02:09.699
+sócio ostensiva
+
+60
+00:02:10.270 --> 00:02:12.509
+os valores de cada STP.
+
+61
+00:02:13.509 --> 00:02:13.639
+que,
+
+62
+00:02:13.720 --> 00:02:14.539
+como eu falei para vocês,
+
+63
+00:02:14.600 --> 00:02:15.520
+eu posso ter várias,
+
+64
+00:02:15.600 --> 00:02:15.720
+né?
+
+65
+00:02:15.800 --> 00:02:18.080
+1210SP sem problema nenhum.
+
+66
+00:02:18.929 --> 00:02:20.000
+Tá Só preciso ter o controle,
+
+67
+00:02:20.080 --> 00:02:20.229
+né?
+
+68
+00:02:21.080 --> 00:02:22.990
+E muitas vezes na contabilidade,
+
+69
+00:02:23.220 --> 00:02:24.070
+a gente acaba,
+
+70
+00:02:24.440 --> 00:02:24.559
+né?
+
+71
+00:02:24.639 --> 00:02:26.080
+Lá no bloco de investimento,
+
+72
+00:02:26.199 --> 00:02:26.970
+você abre
+
+73
+00:02:27.160 --> 00:02:28.360
+analítica cada uma delas,
+
+74
+00:02:28.440 --> 00:02:28.520
+né?
+
+75
+00:02:28.559 --> 00:02:30.199
+Pra não ficar tudo fechado numa conta só,
+
+76
+00:02:30.240 --> 00:02:30.429
+né?
+
+77
+00:02:30.800 --> 00:02:31.509
+Para facilitar.
+
+78
+00:02:31.520 --> 00:02:32.710
+Então você pode dar o nome
+
+79
+00:02:33.009 --> 00:02:34.199
+que você quiser ou número,
+
+80
+00:02:34.279 --> 00:02:37.479
+né CP número um número 2 número 3 número quatro e vai indo até,
+
+81
+00:02:37.559 --> 00:02:37.850
+né?
+
+82
+00:02:38.410 --> 00:02:40.399
+E vai abrindo essas contas conta porque você
+
+83
+00:02:40.399 --> 00:02:42.479
+vai registrar lá lá que você vai contabilizar,
+
+84
+00:02:42.559 --> 00:02:42.750
+né?
+
+85
+00:02:43.429 --> 00:02:44.990
+ficar fácil de identificação.
+
+86
+00:02:45.270 --> 00:02:45.660
+Então
+
+87
+00:02:46.309 --> 00:02:47.779
+primeiramente deve ser
+
+88
+00:02:48.029 --> 00:02:50.350
+deduzido dos valores totais de débitos,
+
+89
+00:02:50.589 --> 00:02:50.830
+né?
+
+90
+00:02:51.429 --> 00:02:54.029
+E créditos apurados de forma consolidada na empresa,
+
+91
+00:02:54.910 --> 00:02:56.830
+os valores referentes a cada SCP.
+
+92
+00:02:57.470 --> 00:02:58.580
+Para tanto,
+
+93
+00:02:58.990 --> 00:03:01.660
+informar o valor do crédito no M10
+
+94
+00:03:01.990 --> 00:03:03.190
+no M100 no M500,
+
+95
+00:03:03.330 --> 00:03:03.339
+né?
+
+96
+00:03:03.350 --> 00:03:04.179
+Campo 10.
+
+97
+00:03:05.059 --> 00:03:09.820
+e gerando um registro de ajuste e redução do M110510
+
+98
+00:03:10.220 --> 00:03:11.399
+para cada CP
+
+99
+00:03:11.820 --> 00:03:13.039
+e o valor do débito.
+
+100
+00:03:14.220 --> 00:03:17.509
+campo 10 e gerando também um registro de ajuste e redução
+
+101
+00:03:18.100 --> 00:03:21.699
+no M220 e no M620 para cada CP.
+
+102
+00:03:22.729 --> 00:03:23.639
+segregando,
+
+103
+00:03:23.690 --> 00:03:24.050
+ou seja,
+
+104
+00:03:24.149 --> 00:03:25.440
+separando assim
+
+105
+00:03:25.850 --> 00:03:28.000
+os valores referentes à sócio ostensiva
+
+106
+00:03:28.289 --> 00:03:30.809
+dos valores referentes às SP s,
+
+107
+00:03:30.850 --> 00:03:31.059
+né?
+
+108
+00:03:31.410 --> 00:03:31.529
+Então,
+
+109
+00:03:31.649 --> 00:03:33.250
+nós temos aí cada uma delas,
+
+110
+00:03:33.369 --> 00:03:33.649
+né?
+
+111
+00:03:34.800 --> 00:03:35.949
+Perfeito gente
+
+112
+00:03:36.559 --> 00:03:36.960
+Pois bem,
+
+113
+00:03:37.119 --> 00:03:38.399
+então nós nós vimos aqui,
+
+114
+00:03:38.520 --> 00:03:38.600
+né?
+
+115
+00:03:38.649 --> 00:03:39.600
+Toda essa parte,
+
+116
+00:03:39.919 --> 00:03:40.119
+né?
+
+117
+00:03:40.199 --> 00:03:42.199
+Toda essa parte teórica que é importante,
+
+118
+00:03:42.279 --> 00:03:42.529
+né?
+
+119
+00:03:43.240 --> 00:03:46.000
+Nessa obrigação acessória FD Contribuições,
+
+120
+00:03:46.119 --> 00:03:46.369
+né?
+
+121
+00:03:47.630 --> 00:03:48.610
+nós temos ainda,
+
+122
+00:03:48.619 --> 00:03:48.910
+né?
+
+123
+00:03:49.759 --> 00:03:49.990
+Aqui,
+
+124
+00:03:50.110 --> 00:03:50.270
+né?
+
+125
+00:03:50.389 --> 00:03:51.910
+O procedimento 2
+
+126
+00:03:52.389 --> 00:03:56.149
+o registro dos valores referentes às SPs
+
+127
+00:03:56.449 --> 00:03:57.860
+Então em seguida
+
+128
+00:03:58.389 --> 00:04:02.720
+gerar novos registros no M210 no M610
+
+129
+00:04:02.990 --> 00:04:03.800
+contribuições,
+
+130
+00:04:03.910 --> 00:04:04.110
+né?
+
+131
+00:04:04.669 --> 00:04:09.309
+Para as demonstrações dos créditos e débitos apurados no período de cada SP.
+
+132
+00:04:10.380 --> 00:04:12.449
+da qual seja só sustensivo
+
+133
+00:04:12.770 --> 00:04:15.610
+com os códigos específicos de contribuições da SCP,
+
+134
+00:04:15.649 --> 00:04:17.709
+o 71 ou 72,
+
+135
+00:04:18.329 --> 00:04:19.000
+juntamente
+
+136
+00:04:19.100 --> 00:04:23.850
+com os respectivos campos de registro de acréscimo M220 e M620,
+
+137
+00:04:24.089 --> 00:04:24.220
+né?
+
+138
+00:04:24.329 --> 00:04:29.200
+Eu Tenho uma crítica 1 uma aberração esse negócio de estar entregando
+
+139
+00:04:29.529 --> 00:04:30.730
+obrigação acessória,
+
+140
+00:04:30.809 --> 00:04:30.890
+né?
+
+141
+00:04:30.970 --> 00:04:32.369
+Eu costumo dizer nos meus cursos,
+
+142
+00:04:32.950 --> 00:04:32.959
+né?
+
+143
+00:04:32.970 --> 00:04:33.920
+Que isso é como se fosse uma.
+
+144
+00:04:34.070 --> 00:04:38.029
+ditadura de obrigações acessória não faz o menor sentido.
+
+145
+00:04:38.429 --> 00:04:40.989
+Nós não estamos com todas as notas fiscais eletrônicas,
+
+146
+00:04:41.070 --> 00:04:42.570
+gente para que ficar mandando
+
+147
+00:04:42.790 --> 00:04:45.350
+EFD desse detalhamento,
+
+148
+00:04:46.000 --> 00:04:46.010
+né?
+
+149
+00:04:46.309 --> 00:04:49.910
+Chega a ser um absurdo a quantidade de obrigação acessória
+
+150
+00:04:50.149 --> 00:04:51.670
+que a Receita Federal nos pede,
+
+151
+00:04:51.709 --> 00:04:51.790
+né?
+
+152
+00:04:52.239 --> 00:04:52.809
+Infelizmente,
+
+153
+00:04:52.910 --> 00:04:55.950
+isso aqui pra mim é uma perda de tempo profissional,
+
+154
+00:04:56.100 --> 00:04:56.109
+né?
+
+155
+00:04:56.269 --> 00:04:57.700
+Tanta coisa pra gente fazer
+
+156
+00:04:57.940 --> 00:04:59.290
+porque ficar preocupando.
+
+157
+00:04:59.910 --> 00:05:01.720
+Obviamente isso aqui a maioria já está
+
+158
+00:05:01.720 --> 00:05:04.040
+parametrizado no software de gestão de vocês,
+
+159
+00:05:04.119 --> 00:05:04.309
+né?
+
+160
+00:05:04.320 --> 00:05:04.440
+O
+
+161
+00:05:04.769 --> 00:05:07.279
+o manual do desenvolvedores já botou lá certinho,
+
+162
+00:05:07.359 --> 00:05:07.510
+né?
+
+163
+00:05:07.839 --> 00:05:08.720
+Mas ele precisa conferir,
+
+164
+00:05:08.799 --> 00:05:08.970
+né?
+
+165
+00:05:09.040 --> 00:05:09.829
+Antes de
+
+166
+00:05:10.000 --> 00:05:11.640
+de estar tra- transmitindo,
+
+167
+00:05:11.720 --> 00:05:11.880
+né?
+
+168
+00:05:12.410 --> 00:05:13.929
+Então é muita papagaiada.
+
+169
+00:05:14.000 --> 00:05:16.570
+A gente tinha que mandar o arquivo XML e pronto,
+
+170
+00:05:17.000 --> 00:05:17.320
+né?
+
+171
+00:05:17.799 --> 00:05:20.089
+Gera lá o arquivo e manda para eles e pronto,
+
+172
+00:05:20.200 --> 00:05:20.399
+né?
+
+173
+00:05:21.079 --> 00:05:21.399
+Mas não,
+
+174
+00:05:21.440 --> 00:05:22.670
+você tem que ficar ajustando,
+
+175
+00:05:22.760 --> 00:05:22.989
+né?
+
+176
+00:05:23.899 --> 00:05:28.320
+Para identificação das SCP s poderão ser utilizados registros conta contábil
+
+177
+00:05:28.700 --> 00:05:30.850
+informado em 0500 tá
+
+178
+00:05:31.260 --> 00:05:32.290
+Conta contábil lá.
+
+179
+00:05:32.989 --> 00:05:34.230
+De acordo com o parágrafo
+
+180
+00:05:34.630 --> 00:05:35.029
+artigo
+
+181
+00:05:35.989 --> 00:05:39.029
+da instituição normativa 12522012,
+
+182
+00:05:39.470 --> 00:05:41.890
+incluído lá pelo artigo primeiro da IN
+
+183
+00:05:42.269 --> 00:05:47.260
+1387 a partir do período de apuração janeiro de 14.
+
+184
+00:05:48.109 --> 00:05:51.019
+no caso de a pessoa juíz ser sócio ostensiva
+
+185
+00:05:51.429 --> 00:05:52.589
+de SCP,
+
+186
+00:05:53.109 --> 00:05:53.119
+né?
+
+187
+00:05:53.130 --> 00:05:54.200
+A partir de
+
+188
+00:05:54.549 --> 00:05:56.690
+janeiro de 14 então tem 11 anos.

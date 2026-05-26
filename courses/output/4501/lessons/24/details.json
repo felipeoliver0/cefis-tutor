@@ -1,0 +1,33 @@
+{
+  "id": 487851,
+  "title": "Questão 22 - Depreciação",
+  "position": 24,
+  "duration": 235,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/a66bf1a3-c205-4a3d-9b84-ea41e7cbdb78/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a66bf1a3-c205-4a3d-9b84-ea41e7cbdb78/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a66bf1a3-c205-4a3d-9b84-ea41e7cbdb78/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a66bf1a3-c205-4a3d-9b84-ea41e7cbdb78/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a66bf1a3-c205-4a3d-9b84-ea41e7cbdb78/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

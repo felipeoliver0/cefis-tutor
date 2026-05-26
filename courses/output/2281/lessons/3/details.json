@@ -1,0 +1,33 @@
+{
+  "id": 464633,
+  "title": "Proposito",
+  "position": 3,
+  "duration": 258,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/23b44459-9cb6-4850-809f-e4e910ffd3ad/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23b44459-9cb6-4850-809f-e4e910ffd3ad/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23b44459-9cb6-4850-809f-e4e910ffd3ad/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23b44459-9cb6-4850-809f-e4e910ffd3ad/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/23b44459-9cb6-4850-809f-e4e910ffd3ad/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

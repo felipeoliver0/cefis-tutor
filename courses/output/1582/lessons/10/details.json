@@ -1,0 +1,33 @@
+{
+  "id": 453456,
+  "title": "Lógica financeira",
+  "position": 10,
+  "duration": 301,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4fc8645f-8084-4115-a5be-689d51d55f0d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4fc8645f-8084-4115-a5be-689d51d55f0d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4fc8645f-8084-4115-a5be-689d51d55f0d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4fc8645f-8084-4115-a5be-689d51d55f0d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4fc8645f-8084-4115-a5be-689d51d55f0d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 474468,
+  "title": "Na prática: Valor Realizável Líquido",
+  "position": 42,
+  "duration": 609,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ddb98a3e-dfa1-4875-b9a7-2b9cb89acdd9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ddb98a3e-dfa1-4875-b9a7-2b9cb89acdd9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ddb98a3e-dfa1-4875-b9a7-2b9cb89acdd9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ddb98a3e-dfa1-4875-b9a7-2b9cb89acdd9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ddb98a3e-dfa1-4875-b9a7-2b9cb89acdd9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

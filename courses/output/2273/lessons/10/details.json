@@ -1,0 +1,33 @@
+{
+  "id": 464141,
+  "title": "Rejeições",
+  "position": 10,
+  "duration": 567,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/27f07028-54b5-4861-a8cb-7c4eadce9828/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27f07028-54b5-4861-a8cb-7c4eadce9828/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27f07028-54b5-4861-a8cb-7c4eadce9828/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27f07028-54b5-4861-a8cb-7c4eadce9828/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27f07028-54b5-4861-a8cb-7c4eadce9828/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

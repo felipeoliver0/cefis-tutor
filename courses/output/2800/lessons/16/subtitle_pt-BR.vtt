@@ -1,0 +1,377 @@
+WEBVTT
+
+1
+00:00:03.609 --> 00:00:08.600
+pronto. Eu tô na instalação do muito agora sim. Uai. Ele só tá em uma língua aqui.
+
+2
+00:00:08.609 --> 00:00:10.319
+Muito duvido duvidosa.
+
+3
+00:00:10.329 --> 00:00:16.459
+Mas eu vou selecionar o Inglês agora, isso e vamos prosseguir.
+
+4
+00:00:16.469 --> 00:00:18.979
+E que ele tá falando, perguntando se eu quero atualizar pro vinte e três.
+
+5
+00:00:18.989 --> 00:00:21.440
+Se o vinte e dois não funcionou, eu não quero jamais, né?
+
+6
+00:00:21.450 --> 00:00:23.399
+Então, continuo sem atualizar!
+
+7
+00:00:24.559 --> 00:00:27.739
+Eh daí eu acho que o teclado vou deixar o Inglês, né?
+
+8
+00:00:27.750 --> 00:00:31.750
+Eu não vou mudar pro Brasil porque senão eu não vou ter minha barra aqui
+
+9
+00:00:33.130 --> 00:00:37.860
+E aí quando eu for pô, o i p eu preciso não, não é i p.
+
+10
+00:00:37.869 --> 00:00:46.639
+Não vou ter dois pontos e eu preciso de dois pontos pra alguma coisa Que português
+
+11
+00:00:47.419 --> 00:00:51.639
+do Brasil?
+
+12
+00:00:53.860 --> 00:00:54.909
+Jon
+
+13
+00:00:57.830 --> 00:01:00.380
+aqui olha o que que ele fez ele já pegou o endereço I,
+
+14
+00:01:00.389 --> 00:01:03.040
+p v quatro porque eu tenho o d HC p ativo lá no
+
+15
+00:01:03.049 --> 00:01:05.870
+meu file mas eu quero definir o i p que a gente confira,
+
+16
+00:01:05.879 --> 00:01:12.319
+né isso exatamente que o que a gente falou que ia ser, eu não sei qual,
+
+17
+00:01:12.330 --> 00:01:15.330
+que a gente falou que ia usar mais cento e quarenta e três
+
+18
+00:01:15.629 --> 00:01:21.419
+não. Porque o d HC P tem um GE que ele já usa, entendeu
+
+19
+00:01:22.949 --> 00:01:30.400
+tipo assim isso exatamente cê nunca é bom ser um estático que faz parte do
+
+20
+00:01:30.410 --> 00:01:36.639
+r d HC p Porque o d HC p não sabe do seu estático Não,
+
+21
+00:01:36.650 --> 00:01:40.980
+não, ele só olha os i P ss que ele gerencia mesmo os estáticos ele não tá nem
+
+22
+00:01:43.120 --> 00:01:46.029
+então beleza é o cento e quarenta e três que a gente vai usar
+
+23
+00:01:46.809 --> 00:01:50.040
+que que eu vou fazer eu vou, Vim aqui
+
+24
+00:01:50.800 --> 00:01:52.510
+o edital i p v quatro
+
+25
+00:01:53.500 --> 00:01:57.910
+Ele vai ser manual agora. Isso aqui é a instalação do mundo, né? Então não vou não.
+
+26
+00:01:57.919 --> 00:02:00.089
+O dois OPA não!
+
+27
+00:02:00.099 --> 00:02:06.339
+O dois ponto um meia oito ponto cem ponto não
+
+28
+00:02:06.349 --> 00:02:08.350
+aqui é ponto zero barra vinte e quatro Por quê?
+
+29
+00:02:08.360 --> 00:02:12.570
+Isso aqui é a sub rede é que eu tô configura, né? Então
+
+30
+00:02:13.169 --> 00:02:16.880
+o endereço agora sim um nove dois ponto meia oito ponto cem ponto
+
+31
+00:02:16.889 --> 00:02:21.460
+cento e quarenta e três cento e quarenta e três Isso um nove
+
+32
+00:02:21.470 --> 00:02:26.399
+dois ponto um meia oito ponto cem ponto um O nosso e o
+
+33
+00:02:26.410 --> 00:02:30.860
+o I p do roteador Como a gente não tem um DNS interno,
+
+34
+00:02:30.869 --> 00:02:32.639
+a gente coloca geralmente o do Google
+
+35
+00:02:33.699 --> 00:02:35.929
+e o da CF
+
+36
+00:02:36.630 --> 00:02:36.979
+hum
+
+37
+00:02:40.720 --> 00:02:42.789
+Ah, tem que ser vírgula,
+
+38
+00:02:44.559 --> 00:02:46.309
+Não me lembro como é que é? É bom
+
+39
+00:02:47.210 --> 00:02:50.199
+isso como eu separei. Tem que tá escrito embaixo
+
+40
+00:02:51.919 --> 00:02:55.270
+sete, não mais nada pronto,
+
+41
+00:02:55.919 --> 00:03:00.270
+agora já tá aqui com o nosso i p fixo.
+
+42
+00:03:01.089 --> 00:03:02.880
+Não vou confiar nenhum próxi
+
+43
+00:03:03.740 --> 00:03:09.130
+eh Eu não tô usando mais o arquivo aqui, BR porque tá dando uns pau aqui na nossa rede,
+
+44
+00:03:09.139 --> 00:03:11.710
+Então tô usando os
+
+45
+00:03:12.240 --> 00:03:14.929
+globais do mundo, então só pra
+
+46
+00:03:17.529 --> 00:03:19.339
+beleza, Agora eu vou configurar o disco,
+
+47
+00:03:19.350 --> 00:03:23.139
+a gente configurou lá que o nosso dis tinha vinte gigas, né?
+
+48
+00:03:23.149 --> 00:03:24.860
+Se eu não me engano dezesseis. Vinte né?
+
+49
+00:03:24.869 --> 00:03:28.820
+Eu acho só que na instalação do mundo, se eu não me engano,
+
+50
+00:03:28.830 --> 00:03:32.380
+ele não configura os vinte giga de cara Pra você usar, ele vai usar um pedaço,
+
+51
+00:03:32.389 --> 00:03:33.669
+então a gente tem que conferir aqui.
+
+52
+00:03:33.679 --> 00:03:34.919
+Se ele tá usando tudo mesmo
+
+53
+00:03:36.009 --> 00:03:37.080
+eh
+
+54
+00:03:38.089 --> 00:03:41.039
+use o disco inteiro. Beleza deixa eu clicar aqui.
+
+55
+00:03:42.740 --> 00:03:43.570
+Okay!
+
+56
+00:03:44.509 --> 00:03:50.139
+Ah, não é não? Configuração do vinte e dois que pera aí deixa eu ver um negócio aqui?
+
+57
+00:03:51.770 --> 00:03:54.000
+Não, não, não, Não use o disco inteiro!
+
+58
+00:03:54.669 --> 00:03:58.520
+O L v sim, tá, deixa eu dar um aqui.
+
+59
+00:03:58.529 --> 00:04:01.860
+Ah, essa página aqui que eu tava procurando então olha aqui,
+
+60
+00:04:02.610 --> 00:04:05.399
+eh meu Deus, O que que ele fez aqui?
+
+61
+00:04:06.850 --> 00:04:09.279
+Ah, tá, é a tela que tá mudada
+
+62
+00:04:10.270 --> 00:04:12.699
+eh a gente configurou lá
+
+63
+00:04:15.059 --> 00:04:21.428
+a gente configurou lá vinte gigas mas olha aqui, ele criou um bloco l V de dez gigas,
+
+64
+00:04:21.440 --> 00:04:23.230
+então o disco só vai ter dez gigas.
+
+65
+00:04:23.239 --> 00:04:24.429
+Se eu deixar desse jeito,
+
+66
+00:04:24.440 --> 00:04:30.649
+então eu tenho que vir aqui configurar esse bloco aqui pra usar o espaço inteiro.
+
+67
+00:04:30.660 --> 00:04:30.929
+O Vin
+
+68
+00:04:32.579 --> 00:04:34.809
+e eu tenho que por aquele tamanho máximo ali oh
+
+69
+00:04:37.450 --> 00:04:40.440
+dezoito ponto dois dois dois
+
+70
+00:04:41.600 --> 00:04:43.829
+é isso mesmo, É isso mesmo,
+
+71
+00:04:44.910 --> 00:04:45.700
+v
+
+72
+00:04:47.500 --> 00:04:49.690
+pronto, agora sim eu tô usando o espaço inteiro.
+
+73
+00:04:50.410 --> 00:04:54.760
+Tá aqui os dezoito giga sendo usado e o ali ele criou uma perdição pra isso né?
+
+74
+00:04:57.790 --> 00:04:59.859
+E e e essa instalação
+
+75
+00:05:00.320 --> 00:05:04.440
+aqui ele tá formatando, né?
+
+76
+00:05:04.450 --> 00:05:08.220
+Se eu quisesse conectar um disco já existente nessa máquina,
+
+77
+00:05:08.230 --> 00:05:09.720
+primeiro eu crio a máquina.
+
+78
+00:05:09.730 --> 00:05:12.940
+E aí quando o sistema operacional tiver rodando, eu monto esse disco lá dentro.
+
+79
+00:05:14.179 --> 00:05:15.769
+Então vou dar um done aqui
+
+80
+00:05:17.540 --> 00:05:17.709
+Oh,
+
+81
+00:05:17.720 --> 00:05:19.950
+eu tô falando aqui que eu vai apagar tudo
+
+82
+00:05:19.959 --> 00:05:24.369
+diz que vai ser formatado Cê tem certeza tenho
+
+83
+00:05:25.850 --> 00:05:28.320
+meu nome quanto é meu nome
+
+84
+00:05:29.119 --> 00:05:31.609
+eh
+
+85
+00:05:33.339 --> 00:05:34.649
+a Vanda, não me,
+
+86
+00:05:35.630 --> 00:05:41.100
+mas é porque o é U name é aqui Oh o isso,
+
+87
+00:05:41.720 --> 00:05:43.510
+o nome do meu server
+
+88
+00:05:44.380 --> 00:05:46.709
+é porque os servidores a gente coloca nomes nele.
+
+89
+00:05:46.720 --> 00:05:50.730
+Realmente então eu vou colocar o bunda aqui também.
+
+90
+00:05:51.760 --> 00:05:56.510
+E esse servidor aqui eu vou chamar de EH
+
+91
+00:05:57.450 --> 00:05:58.579
+oito shopping,
+
+92
+00:05:59.910 --> 00:06:01.859
+nós lemos vai ser o nome dele,
+
+93
+00:06:04.260 --> 00:06:08.450
+a senha que eu vou colocar uma senha básica, eu vou colocar o também
+
+94
+00:06:10.230 --> 00:06:10.700
+e.

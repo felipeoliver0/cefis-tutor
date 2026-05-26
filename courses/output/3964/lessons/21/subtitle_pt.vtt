@@ -1,0 +1,142 @@
+WEBVTT
+
+00:00:00.034 --> 00:00:08.417
+- Eu vou trazer aqui para apresentar para vocês uma simplificação de uma operação de empréstimo
+
+00:00:08.417 --> 00:00:17.218
+- de mil reais pelo prazo de cinco anos, pagando-se juros de 10% ao ano. De forma bem simples para a gente
+
+00:00:17.218 --> 00:00:25.768
+- entender bem a diferença. Então o que nós temos aqui? Início do ano, ano zero, vamos dizer assim,
+
+00:00:25.768 --> 00:00:26.942
+- você tem lá
+
+00:00:27.458 --> 00:00:36.964
+- um empréstimo, você está devendo, você pegou emprestado R$ 1.000. Ao final do primeiro ano, como
+
+00:00:36.964 --> 00:00:46.752
+- a taxa de juros foi de 10% ao ano, nós tivemos ali R$ 1.000 efetivamente sendo a base de cálculo para
+
+00:00:46.752 --> 00:00:56.446
+- esse valor de juros a ser calculado. Então, 10% de R$ 1.000 é 100. O saldo devedor ao final do ano 1
+
+00:00:56.898 --> 00:01:04.537
+- R$1.100,00, ok? Muito bem, falando de juros simples. No final aqui, do segundo ano e início aqui do
+
+00:01:04.537 --> 00:01:12.176
+- ano 1, você tinha R$1.100,00, só que esses R$1.100,00 continuam guardadinhos ali. No caso do juros
+
+00:01:12.176 --> 00:01:19.739
+- simples, eu vou continuar aplicando 10% sobre o capital inicial que eu tomei emprestado, que foi os
+
+00:01:19.739 --> 00:01:24.126
+- R$1.000,00. Nós vamos ver que nos juros compostos eu vou
+
+00:01:24.322 --> 00:01:32.809
+- aplicar o percentual da taxa sobre o valor do capital atualizado, não no caso do juros simples. Então
+
+00:01:32.809 --> 00:01:40.969
+- vejam que eu vou continuar tanto do ano 2, 3, 4 ou 5, desculpa, até o final, aqui é o quinto ano,
+
+00:01:40.969 --> 00:01:49.619
+- só precisamos corrigir, sempre se aplica os 10% sobre o valor inicialmente contratado. Então significa,
+
+00:01:49.619 --> 00:01:54.270
+- quando eu fizer esse cálculo, por cinco anos eu vou ter
+
+00:01:54.530 --> 00:02:02.614
+- 100 reais de juros a cada ano, vocês estão vendo, totalizando total de juros de 500. Então, a dívida
+
+00:02:02.614 --> 00:02:10.313
+- ao final desse período, como é o empréstimo, seria de 1.500 reais, ok? Por quê? Esse juros mês
+
+00:02:10.313 --> 00:02:17.396
+- a mês que estava sendo calculado, ele não está sendo reaplicado a taxa de 10%, por quê?
+
+00:02:17.396 --> 00:02:21.246
+- O juros simples, a característica é essa, você
+
+00:02:21.378 --> 00:02:29.209
+- aplica o percentual sobre a base inicial do saldo devedor ou do valor aplicado. Lembrando, tá pessoal,
+
+00:02:29.209 --> 00:02:36.965
+- aqui para vocês entenderem, mas hoje não se usa essa técnica de remuneração, sejam de ativos como
+
+00:02:36.965 --> 00:02:45.172
+- rendimento, sejam de passivos que são empréstimos, tudo bem? Mas esse é o contexto. Nós sempre aplicamos
+
+00:02:45.172 --> 00:02:50.142
+- sobre a base principal, ok? Tem aqui alguns comentários só para
+
+00:02:50.498 --> 00:02:57.819
+- reforçar o que nós estamos comentando aqui. Pessoal, vamos agora verificar esse exercício dois que
+
+00:02:57.819 --> 00:03:05.570
+- eu trouxe aqui para fundamentar aqui a nossa discussão. Então, nós estamos ainda aqui na capitalização
+
+00:03:05.570 --> 00:03:11.742
+- de juros compostos. Como é que isso se dá? Vou pegar esse exemplo de um empréstimo
+
+00:03:11.970 --> 00:03:20.311
+- de mil reais pelo prazo de cinco anos, pagando-se juros compostos a razão de 10% ao ano. Como é que
+
+00:03:20.311 --> 00:03:28.652
+- ficaria, então? O saldo no início de cada ano. Então, início do primeiro ano, empréstimo foi mil
+
+00:03:28.652 --> 00:03:36.912
+- reais, então está aqui. O início é como se fosse saldo zero e o final, o início daquele ano um.
+
+00:03:36.912 --> 00:03:39.038
+- No final do primeiro ano,
+
+00:03:39.202 --> 00:03:47.321
+- Como é que nós teríamos de juros, fazendo esse cálculo, 10% sobre essa parcela do saldo devedor?
+
+00:03:47.321 --> 00:03:55.761
+- Então teríamos aqui 10% sobre 1.000. Temos aqui um juros de 100 reais que será incorporado à parcela
+
+00:03:55.761 --> 00:04:04.122
+- ao saldo devedor. Então o saldo aqui no final do ano 1 passa de 1.000 para 1.100. Nos juros compostos,
+
+00:04:04.122 --> 00:04:08.382
+- esse saldo atualizado com esses juros, ele é a base
+
+00:04:09.090 --> 00:04:16.843
+- de cálculo dos juros do próximo período, por isso que é juros sobre juros. Então nós pegamos 10%
+
+00:04:16.843 --> 00:04:24.446
+- sobre o saldo de R$ 1.100,00, chegamos aqui num valor de juros de R$ 110,00, que será incorporado a
+
+00:04:24.446 --> 00:04:32.350
+- esse saldo. Então temos ao final do segundo ano um saldo de R$ 1.210,00. E assim sucessivamente, ano 3,
+
+00:04:32.898 --> 00:04:42.355
+- o saldo de 1,210 será atualizado, calculado a 10%, vai gerar um juros de 121 que será incorporado,
+
+00:04:42.355 --> 00:04:51.812
+- ficando ao final do ano 3, um saldo de 1.331. Sucessivamente, vai ser feita a aplicação sobre esse
+
+00:04:51.812 --> 00:05:02.206
+- saldo de 10%, chegando em 133,10 será incorporado, chegando ao final do ano 4, um saldo de 1,464,10. Por fim,
+
+00:05:02.402 --> 00:05:13.111
+- no quinto ano, temos esse saldo de 1,464,10 a 10% ao ano, gerando aqui um juro de 146,41 que
+
+00:05:13.111 --> 00:05:24.510
+- será incorporado, totalizando então ao final do ano 5, 1.610,51. Então vejam que nós temos ali
+
+00:05:25.538 --> 00:05:34.083
+- juros sobre juros. Esse tipo de conceito dos juros compostos se assemelha à nossa progressão geométrica
+
+00:05:34.083 --> 00:05:42.868
+- da matemática que nós comentamos recentemente. Então nós vamos ali tendo, na verdade, essa incorporação
+
+00:05:42.868 --> 00:05:51.253
+- período a período dos juros compostos. Então, se a gente for comparar o que eu acabei de falar, total
+
+00:05:51.253 --> 00:05:55.486
+- de juros aqui, do juros simples para essa condição
+
+00:05:55.618 --> 00:06:05.470
+- de mil reais, nós teríamos de 500 e aqui nos juros compostos um total de juros de 610, tudo bem?

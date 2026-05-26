@@ -1,0 +1,33 @@
+{
+  "id": 465265,
+  "title": "Consideraçoes finais",
+  "position": 19,
+  "duration": 298,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4587184c-c366-45af-a7fb-13f57fb39141/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4587184c-c366-45af-a7fb-13f57fb39141/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4587184c-c366-45af-a7fb-13f57fb39141/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4587184c-c366-45af-a7fb-13f57fb39141/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4587184c-c366-45af-a7fb-13f57fb39141/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

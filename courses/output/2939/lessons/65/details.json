@@ -1,0 +1,33 @@
+{
+  "id": 471903,
+  "title": "Exclusão, Alteração ou Retificação de Eventos",
+  "position": 65,
+  "duration": 133,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/92837d59-435f-4c7f-9c7b-7f7f6d82175e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92837d59-435f-4c7f-9c7b-7f7f6d82175e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92837d59-435f-4c7f-9c7b-7f7f6d82175e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92837d59-435f-4c7f-9c7b-7f7f6d82175e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92837d59-435f-4c7f-9c7b-7f7f6d82175e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

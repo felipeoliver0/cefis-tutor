@@ -1,0 +1,112 @@
+WEBVTT
+
+00:00:00.258 --> 00:00:06.388
+- Lembre-se, a assiatropia, ela tem algumas características, e a característica dela é identificar
+
+00:00:06.388 --> 00:00:12.518
+- o que é entrada e o que é saída. E, obviamente, a gente tem uma tabela gigantesca de operações
+
+00:00:12.518 --> 00:00:18.832
+- para que o físico consiga observar se é uma remessa de conserto, se é uma revenda, se é uma venda,
+
+00:00:18.832 --> 00:00:25.085
+- se é uma industrialização. Só assim o físico conseguiria analisar a situação sobre o documento
+
+00:00:25.085 --> 00:00:28.702
+- fiscal eletrônico. O que a gente pode fazer para melhorar
+
+00:00:28.898 --> 00:00:35.262
+- essas análises das tabelas de CFLP que nós temos. Primeiro, os códigos de CFLP existem alguns
+
+00:00:35.262 --> 00:00:42.020
+- significados. O primeiro deles é identificar se é entrada ou saída. E dentro desse entrada e saída
+
+00:00:42.020 --> 00:00:48.580
+- tem as operações internas e as operações interestaduais. Se a gente parar para pensar dentro da
+
+00:00:48.580 --> 00:00:49.630
+- tabela de CFLP,
+
+00:00:49.858 --> 00:00:58.092
+- o dígito 2 da CFLP representa algumas características de operações e que isso pode facilitar a sua
+
+00:00:58.092 --> 00:01:06.087
+- escrituração fiscal e, consequentemente, a sua escrituração digital. Por exemplo, se o CFLP for
+
+00:01:06.087 --> 00:01:14.561
+- no dígito 2, 1, o que pode ser? Pode ser uma compra, uma industrialização e uma transferência, porque
+
+00:01:14.561 --> 00:01:19.198
+- o código de CFLPs que representam o dígito 1 representa
+
+00:01:19.330 --> 00:01:26.609
+- todas essas operações. Já se você estiver vendo uma CFLP com dois, você pode estar falando de uma
+
+00:01:26.609 --> 00:01:34.029
+- devolução, você pode estar falando de uma compra de energia elétrica, onde a gente olha o CFLP 1201,
+
+00:01:34.029 --> 00:01:41.378
+- 1202, 1252, 1253. Isso pode facilitar a sua rotina para você lembrar dos grupos de CFLP que nós temos
+
+00:01:41.378 --> 00:01:47.102
+- e não sobre a incidência de cada determinada operação. Conseguiram entender?
+
+00:01:47.650 --> 00:01:53.721
+- Três, serviços de comunicação, serviços de transporte. Serviços de comunicação, 1302, 1303.
+
+00:01:53.721 --> 00:01:59.914
+- Serviços de transporte, 1351, 1352. Está vendo? Então a gente consegue relembrar. Por que eu estou
+
+00:01:59.914 --> 00:02:06.289
+- conseguindo falar para vocês alguns CFPs? Primeiro, pelo tempo de vivência, mas segundo, porque existe
+
+00:02:06.289 --> 00:02:12.057
+- essa regra que vocês podem colocar em prática sobre a sua escrituração. Quatro, mercadoria
+
+00:02:12.057 --> 00:02:14.910
+- com substituição tributária e integração.
+
+00:02:15.490 --> 00:02:23.794
+- exportação ativo imobilizado de material de uso e consumo, o 5, pode ser um 1551 ou um 1556, por exemplo,
+
+00:02:23.794 --> 00:02:32.098
+- ativo uso e consumo. O 6 pode ser um crédito de CMS, por exemplo, que é o 1604, pode ser um ressarcimento
+
+00:02:32.098 --> 00:02:40.094
+- do CMS, pode ser uma compra de combustível que é um 1653 ou dois 1653 nas operações interestaduais.
+
+00:02:40.194 --> 00:02:46.784
+- O 9 representa outras entradas, como a mostra grátis, como a própria remessa de conserto, como outras
+
+00:02:46.784 --> 00:02:53.184
+- operações. Então, essa tabela pode ajudar vocês, de forma prática, a trazer a escrituração. E
+
+00:02:53.184 --> 00:02:59.521
+- se você não está nesse processo de escrituração, você demonstrar para quem esteja, para que o
+
+00:02:59.521 --> 00:03:05.985
+- seu fechamento saia de forma correta. Porque pode ser que você não esteja mais na parte operacional
+
+00:03:05.985 --> 00:03:09.470
+- de escrituração de documento. Só que quem escritura
+
+00:03:09.698 --> 00:03:16.466
+- Se ele não souber dar tríade, você tem um fechamento errado. E o fechamento errado tem aspecto na
+
+00:03:16.466 --> 00:03:23.637
+- obrigação principal, que é o recolhimento, e a obrigação acessória, que é o ESPED fiscal de vocês,
+
+00:03:23.637 --> 00:03:30.740
+- tá? Um, evidencia, então, se o produto tem uma atividade de entrada e de saída ou operações internas
+
+00:03:30.740 --> 00:03:37.442
+- e operações interestaduais. O dois, mostra qual é o grupo das operações referidas ao documento
+
+00:03:37.442 --> 00:03:38.782
+- fiscal eletrônico.
+
+00:03:38.946 --> 00:03:47.362
+- E o 3 e 4, porque os CFP são quatro dígitos, representa as prestações e as operações que estão
+
+00:03:47.362 --> 00:03:50.910
+- acontecendo dentro dos grupos de CFP, tá?

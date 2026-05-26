@@ -1,0 +1,33 @@
+{
+  "id": 459319,
+  "title": "Inteiração de processos contábeis",
+  "position": 23,
+  "duration": 351,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/edfaadef-15eb-4ca2-b26f-cef1829a7933/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/edfaadef-15eb-4ca2-b26f-cef1829a7933/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/edfaadef-15eb-4ca2-b26f-cef1829a7933/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/edfaadef-15eb-4ca2-b26f-cef1829a7933/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/edfaadef-15eb-4ca2-b26f-cef1829a7933/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

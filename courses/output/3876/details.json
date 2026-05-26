@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3876,
+    "title": "Due Diligence Aduaneira: Conformidade e Segurança no Comércio Exterior",
+    "subtitle": "Estratégias Práticas para Mitigação de Riscos em Importação e Exportação",
+    "summary": "Neste curso, você compreenderá profundamente o conceito de due diligence aduaneira e sua importância crucial para o compliance no comércio exterior. Exploraremos as melhores práticas e estratégias para implementar uma due diligence eficaz em operações de importação e exportação, mitigando riscos e otimizando processos. Os módulos abrangem desde a introdução à due diligence aduaneira, passando pelo planejamento e execução, até a elaboração de relatórios e implementação de melhorias. Também abordaremos o uso de tecnologias avançadas e apresentaremos estudos de caso práticos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/1e69541a-8b76-44dd-88a0-e85a1d4f182e-thumbnail.png",
+    "goals": [
+      "Capacitar profissionais do comércio exterior a implementar processos eficazes de due diligence aduaneira, garantindo a conformidade legal e a segurança nas operações de importação e exportação."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 6182,
+    "keywords": "due diligence;comércio exterior;compliance;risco aduaneiro;importação/exportação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 26,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 45,
+    "averageRating": 9.36,
+    "practiceAverage": 9.2,
+    "trailer": {
+      "id": "65c84919-bcfc-4e33-bdb5-725660f0da6b",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/65c84919-bcfc-4e33-bdb5-725660f0da6b/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/65c84919-bcfc-4e33-bdb5-725660f0da6b/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/65c84919-bcfc-4e33-bdb5-725660f0da6b/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/65c84919-bcfc-4e33-bdb5-725660f0da6b/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-29T02:27:02.000Z",
+      "updatedAt": "2025-07-29T02:27:02.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-07-29T02:31:19.000Z",
+    "recordedAt": "2025-07-15T00:00:00.000Z",
+    "createdAt": "2025-07-15T08:38:09.000Z"
+  }
+}

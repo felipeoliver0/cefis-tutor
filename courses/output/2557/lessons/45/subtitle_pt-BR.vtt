@@ -1,0 +1,313 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.779
+agora que vimos as funcionalidades da manifestação do destinatário
+
+2
+00:00:03.789 --> 00:00:06.820
+é hora de conhecermos os benefícios da manifestação,
+
+3
+00:00:06.829 --> 00:00:07.000
+né?
+
+4
+00:00:07.010 --> 00:00:09.670
+O que que a empresa pode tirar de benefício pra si ao
+
+5
+00:00:09.680 --> 00:00:14.859
+fazer a manifestação consulta simplificada das notas emitidas para a sua empresa,
+
+6
+00:00:14.869 --> 00:00:14.939
+né?
+
+7
+00:00:14.949 --> 00:00:18.959
+As notas que sua empresa é destinatário da mercadoria tá O
+
+8
+00:00:18.969 --> 00:00:23.000
+fornecedor tem a certeza do recebimento da mercadoria pelo destinatário,
+
+9
+00:00:23.010 --> 00:00:23.120
+né?
+
+10
+00:00:23.129 --> 00:00:26.520
+Quando o destinatário entra e confirma né? Ele está confirmando a operação.
+
+11
+00:00:26.530 --> 00:00:29.159
+Isso dá pro remetente lá. Pra quem enviou a mercadoria, né?
+
+12
+00:00:29.170 --> 00:00:34.439
+A confirmação da operação impede o cancelamento indevido da nota pelo emitente,
+
+13
+00:00:34.450 --> 00:00:34.520
+né?
+
+14
+00:00:34.529 --> 00:00:39.099
+Então a nota que tá confirmada ela não pode ser cancelada. Tá bom?
+
+15
+00:00:40.029 --> 00:00:42.919
+Ela serve também para notificar operações fraudulentas.
+
+16
+00:00:42.930 --> 00:00:47.319
+Quando o contribuinte entra em uma nota, marca o desconhecimento da operação,
+
+17
+00:00:47.330 --> 00:00:50.080
+ele está sinalizando que aquela operação ali está.
+
+18
+00:00:50.090 --> 00:00:51.279
+Pelo menos suspeita, né?
+
+19
+00:00:51.290 --> 00:00:53.159
+Ele não fez a encomenda,
+
+20
+00:00:53.169 --> 00:00:56.639
+ele não era o destinatário da mercadoria e apareceu ali o CNPJ,
+
+21
+00:00:56.650 --> 00:00:57.720
+dele como destinatário.
+
+22
+00:00:57.729 --> 00:01:00.259
+Essa operação é pelo menos suspeita, né?
+
+23
+00:01:01.389 --> 00:01:05.639
+Simplificação ao eliminar a assinatura do canhoto impresso do DANF, né?
+
+24
+00:01:05.650 --> 00:01:09.160
+Como eu disse pra vocês quando o destinatário confirma,
+
+25
+00:01:09.169 --> 00:01:12.849
+ele está ali dando o seu atestado que a operação ocorreu, né?
+
+26
+00:01:12.860 --> 00:01:15.910
+Isso elimina a necessidade daquele canhoto do DANF?
+
+27
+00:01:15.919 --> 00:01:20.300
+Tá, mas temos também um evento que nós vamos ver aqui pra frente um evento que
+
+28
+00:01:20.400 --> 00:01:24.410
+pode fazer a confirmação de entrega. Tá bom que também tem esse mesmo.
+
+29
+00:01:24.419 --> 00:01:26.089
+Essa mesma funcionalidade tá,
+
+30
+00:01:26.099 --> 00:01:30.610
+Mas é fora dos eventos de confirmação e de manifestação do destinatário.
+
+31
+00:01:30.620 --> 00:01:34.209
+Então, pessoal, quais são os serviços disponíveis, né? Consultas?
+
+32
+00:01:34.220 --> 00:01:35.730
+Chave de acesso? Destinadas, né?
+
+33
+00:01:35.739 --> 00:01:39.690
+A consulta é feita pelo n s U, que é número sequencial. Único, né?
+
+34
+00:01:39.699 --> 00:01:44.930
+E retorna as notas emitidas nos últimos quinze dias. Tá bom pessoal.
+
+35
+00:01:44.940 --> 00:01:49.510
+Eh que que esse negócio de I n s u imagina uma empresa que faz muitas compras, né?
+
+36
+00:01:49.779 --> 00:01:53.349
+Se ela faz muitas compras as notas dos últimos quinze dias,
+
+37
+00:01:53.360 --> 00:01:55.870
+pode ser uma relação muito numerosa, né?
+
+38
+00:01:55.879 --> 00:01:59.489
+Com muitas notas, então a empresa ela pode fazer o controle do n. S. U.
+
+39
+00:01:59.500 --> 00:02:01.790
+Por exemplo, ele tem um número sequencial único.
+
+40
+00:02:01.800 --> 00:02:05.400
+A empresa pode, por exemplo, saber que baixou até a nota número dez.
+
+41
+00:02:05.410 --> 00:02:07.330
+Tá, aí, ela guarda esse número dez.
+
+42
+00:02:07.339 --> 00:02:09.429
+Aí, quando ela vai fazer uma nova consulta,
+
+43
+00:02:09.440 --> 00:02:13.070
+ela pergunta lá no site do ambiente nacional a partir do dez.
+
+44
+00:02:13.080 --> 00:02:14.550
+Qual número tem aí? pra mim.
+
+45
+00:02:14.559 --> 00:02:17.929
+Aí, por exemplo, digamos que tem mais cinco ele avança pro quinze, tá,
+
+46
+00:02:18.210 --> 00:02:21.929
+aí ela guarda o quinze, que é o n s u, o número sequencial único dela.
+
+47
+00:02:21.940 --> 00:02:24.259
+Então a empresa pode consultar a partir do I.
+
+48
+00:02:24.270 --> 00:02:28.580
+N s u Tá pra pegar somente os documentos que ainda não pegou
+
+49
+00:02:28.589 --> 00:02:32.660
+ou pode consultar a lista completa das notas dos últimos quinze dias?
+
+50
+00:02:32.669 --> 00:02:37.740
+Tá bom Empresa que tem um movimento muito grande, né? O n s u é o instrumento adequado?
+
+51
+00:02:37.750 --> 00:02:38.240
+Tá bom!
+
+52
+00:02:39.429 --> 00:02:42.440
+Ela permite também o download de evento pras notas Confirmadas, né?
+
+53
+00:02:42.449 --> 00:02:45.419
+Você pode fazer o download da nota fiscal eletrônica do arquivo
+
+54
+00:02:45.429 --> 00:02:48.699
+X ML da nota fiscal eletrônica para as notas que você confirmou
+
+55
+00:02:49.500 --> 00:02:52.669
+e, é claro, o serviço de registro de eventos, né?
+
+56
+00:02:52.679 --> 00:02:56.869
+Que você pode dar ciência da operação ciência da emissão daquela nota?
+
+57
+00:02:56.880 --> 00:03:02.229
+Confirmação da operação desconhecimento da operação e operação não é realizada?
+
+58
+00:03:02.240 --> 00:03:07.544
+Tá esses eventos. A gente tem que sempre ter que eles são a visão do destinatário, né?
+
+59
+00:03:07.554 --> 00:03:09.445
+Então, ciência da operação,
+
+60
+00:03:09.455 --> 00:03:14.505
+ciência da emissão é que o destinatário tem ciência da emissão daquele documento.
+
+61
+00:03:14.514 --> 00:03:17.785
+Tá? Agora, nós vamos ver com detalhes, cada um desses eventos.
+
+62
+00:03:17.794 --> 00:03:23.125
+Quem pode fazer a manifestação. A pessoa física tá e a pessoa jurídica
+
+63
+00:03:23.669 --> 00:03:25.880
+da pessoa jurídica e não tem limitação?
+
+64
+00:03:25.889 --> 00:03:29.679
+Pra que mesmo não é obrigado a pessoa jurídica possa fazer a manifestação.
+
+65
+00:03:29.690 --> 00:03:33.119
+Então, mesmo se estiver fora da obrigatoriedade, a pessoa pode,
+
+66
+00:03:33.130 --> 00:03:35.460
+por espontânea vontade, fazer a confirmação.
+
+67
+00:03:36.330 --> 00:03:41.360
+Muitas empresas fazem a confirmação pra obter o download do arquivo X. ML, né?
+
+68
+00:03:42.020 --> 00:03:45.949
+É um benefício muito grande pras empresas obter diretamente do site
+
+69
+00:03:45.960 --> 00:03:49.710
+ali do Fisco o arquivo x ML das notas destinadas pra empresa
+
+70
+00:03:49.720 --> 00:03:54.029
+Esse é o maior motivador que a gente percebe pra pessoa jurídica
+
+71
+00:03:54.039 --> 00:03:58.190
+Fazer a manifestação do destinatário tá bom e uma novidade ali,
+
+72
+00:03:58.199 --> 00:03:58.330
+né?
+
+73
+00:03:58.339 --> 00:03:59.789
+A partir de dois mil e vinte,
+
+74
+00:03:59.800 --> 00:04:04.830
+as pessoas físicas também podem fazer a manifestação do destinatário.
+
+75
+00:04:04.839 --> 00:04:06.490
+Tá bom. A pessoa física também pode
+
+76
+00:04:06.979 --> 00:04:09.309
+observando as mesmas regras da pessoa jurídica?
+
+77
+00:04:09.320 --> 00:04:12.070
+Tá não, Mas não tem obrigatoriedade pra pessoa física tá.
+
+78
+00:04:12.080 --> 00:04:15.289
+A pessoa física pode fazer de modo voluntário? Tá bom?

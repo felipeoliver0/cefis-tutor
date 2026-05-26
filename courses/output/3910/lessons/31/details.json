@@ -1,0 +1,33 @@
+{
+  "id": 479476,
+  "title": "Resposta",
+  "position": 32,
+  "duration": 72,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6900258c-cd5c-471a-bc68-c6f74cdc42c5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6900258c-cd5c-471a-bc68-c6f74cdc42c5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6900258c-cd5c-471a-bc68-c6f74cdc42c5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6900258c-cd5c-471a-bc68-c6f74cdc42c5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6900258c-cd5c-471a-bc68-c6f74cdc42c5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

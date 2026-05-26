@@ -1,0 +1,33 @@
+{
+  "id": 482368,
+  "title": "Fontes do direito tributário",
+  "position": 4,
+  "duration": 111,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b8974ce9-8a8e-4180-b8bf-dd3c04d3fa2b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b8974ce9-8a8e-4180-b8bf-dd3c04d3fa2b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b8974ce9-8a8e-4180-b8bf-dd3c04d3fa2b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b8974ce9-8a8e-4180-b8bf-dd3c04d3fa2b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b8974ce9-8a8e-4180-b8bf-dd3c04d3fa2b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

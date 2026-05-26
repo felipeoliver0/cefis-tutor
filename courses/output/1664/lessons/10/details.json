@@ -1,0 +1,33 @@
+{
+  "id": 454854,
+  "title": "Reunião de Kick Off",
+  "position": 10,
+  "duration": 88,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7e8b865f-a3df-4424-b407-b1967d47b9cb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e8b865f-a3df-4424-b407-b1967d47b9cb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e8b865f-a3df-4424-b407-b1967d47b9cb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e8b865f-a3df-4424-b407-b1967d47b9cb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e8b865f-a3df-4424-b407-b1967d47b9cb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 461211,
+  "title": "Exclusão do ICMS na PIS-COFINS",
+  "position": 20,
+  "duration": 339,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2308686e-40c3-49d8-8e5a-0bb890c0ae0d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2308686e-40c3-49d8-8e5a-0bb890c0ae0d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2308686e-40c3-49d8-8e5a-0bb890c0ae0d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2308686e-40c3-49d8-8e5a-0bb890c0ae0d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2308686e-40c3-49d8-8e5a-0bb890c0ae0d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

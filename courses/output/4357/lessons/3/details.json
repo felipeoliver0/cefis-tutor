@@ -1,0 +1,33 @@
+{
+  "id": 483918,
+  "title": "Impacto na apuração assistida",
+  "position": 3,
+  "duration": 255,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3e12c8f9-ab5d-4eba-b117-ded03d791c7a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e12c8f9-ab5d-4eba-b117-ded03d791c7a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e12c8f9-ab5d-4eba-b117-ded03d791c7a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e12c8f9-ab5d-4eba-b117-ded03d791c7a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e12c8f9-ab5d-4eba-b117-ded03d791c7a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

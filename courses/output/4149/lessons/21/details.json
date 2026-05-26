@@ -1,0 +1,33 @@
+{
+  "id": 482669,
+  "title": "Dispensa sem justa causa",
+  "position": 21,
+  "duration": 338,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/416a170b-dda5-4ebf-b7c5-826779e52d3d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/416a170b-dda5-4ebf-b7c5-826779e52d3d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/416a170b-dda5-4ebf-b7c5-826779e52d3d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/416a170b-dda5-4ebf-b7c5-826779e52d3d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/416a170b-dda5-4ebf-b7c5-826779e52d3d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 471843,
+  "title": "Importância do GTIN",
+  "position": 2,
+  "duration": 125,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/09eebf95-d47b-4768-84b0-ddca07d2f052/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/09eebf95-d47b-4768-84b0-ddca07d2f052/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/09eebf95-d47b-4768-84b0-ddca07d2f052/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/09eebf95-d47b-4768-84b0-ddca07d2f052/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/09eebf95-d47b-4768-84b0-ddca07d2f052/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

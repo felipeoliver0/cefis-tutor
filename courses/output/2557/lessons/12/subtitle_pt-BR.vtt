@@ -1,0 +1,497 @@
+WEBVTT
+
+1
+00:00:00.469 --> 00:00:02.769
+pessoal Eu já falei pra vocês de nota fiscal eletrônica,
+
+2
+00:00:02.779 --> 00:00:06.139
+Nota fiscal do Consumidor eletrônico Volta e meia Eu falo isso
+
+3
+00:00:06.150 --> 00:00:08.979
+E falo também que o layout do arquivo é o mesmo,
+
+4
+00:00:08.989 --> 00:00:09.359
+né?
+
+5
+00:00:09.369 --> 00:00:14.039
+Eu falei pra vocês que o layout, ou seja, a informação do arquivo é a mesma, né?
+
+6
+00:00:14.050 --> 00:00:18.420
+Ou é o mesmo uma estrutura de dados de um documento e pra outro, né?
+
+7
+00:00:18.680 --> 00:00:23.729
+Mas se tem tanta coisa igual, o que que é diferente nesses documentos, né?
+
+8
+00:00:23.739 --> 00:00:26.610
+Isso é muito importante a gente saber quais são as diferenças
+
+9
+00:00:26.620 --> 00:00:30.469
+da nota fiscal eletrônica e da nota fiscal do consumidor eletrônico.
+
+10
+00:00:30.479 --> 00:00:32.409
+Vamos, vamos aqui de azul.
+
+11
+00:00:32.418 --> 00:00:35.349
+Aqui estão as informações da nota fiscal eletrônica e
+
+12
+00:00:35.360 --> 00:00:37.889
+ali estão as informações da nota do consumidor eletrônico.
+
+13
+00:00:37.900 --> 00:00:42.250
+A primeira é o seguinte o documento, qual que é a função típica dele?
+
+14
+00:00:42.259 --> 00:00:44.650
+Ou seja, qual que é a função pra que ele foi criado?
+
+15
+00:00:44.659 --> 00:00:47.709
+E qual que é a função que ele é mais usado? Tá
+
+16
+00:00:48.729 --> 00:00:51.139
+a nota fiscal eletrônica, o modelo cinquenta e cinco.
+
+17
+00:00:51.150 --> 00:00:54.540
+Ela é pra transações entre empresas, ou seja,
+
+18
+00:00:54.549 --> 00:00:57.779
+uma empresa vendendo pra outra empresa, Tá?
+
+19
+00:00:57.790 --> 00:01:02.540
+Por que isso? Porque esse esse documento, ele transfere crédito fiscal.
+
+20
+00:01:02.549 --> 00:01:06.260
+Tá então ou seja o imposto que uma empresa pagou,
+
+21
+00:01:06.269 --> 00:01:10.779
+ele pode ser deduzido do imposto que a empresa compradora tem a pagar, né?
+
+22
+00:01:10.790 --> 00:01:15.779
+Isso chama crédito de imposto? Tá? E esse documento n f e modelo cinquenta e cinco!
+
+23
+00:01:15.790 --> 00:01:17.959
+Ele transfere crédito de imposto, tá
+
+24
+00:01:18.199 --> 00:01:22.449
+já a nota modelo meia cinco a nota fiscal do consumidor eletrônico.
+
+25
+00:01:22.459 --> 00:01:27.730
+Ela foi criada para operação presencial no varejo né?
+
+26
+00:01:27.739 --> 00:01:30.989
+Ou seja, a venda varejo ali, do contribuinte presencial,
+
+27
+00:01:31.000 --> 00:01:32.620
+o contribuinte tá dentro da farmácia.
+
+28
+00:01:32.629 --> 00:01:35.930
+O contribuinte está no posto de gasolina, está na padaria.
+
+29
+00:01:35.940 --> 00:01:40.485
+Então essa é a operação típica da nota presencial
+
+30
+00:01:40.495 --> 00:01:43.684
+da nota fiscal do consumidor eletrônico essa nota pessoal.
+
+31
+00:01:43.694 --> 00:01:46.404
+Ela não transfere crédito de imposto,
+
+32
+00:01:46.415 --> 00:01:50.364
+então ela não é a nota recomendada pra fazer transações entre as empresas.
+
+33
+00:01:50.375 --> 00:01:53.125
+Tá? Então, essa é uma diferença.
+
+34
+00:01:53.135 --> 00:01:56.504
+A nossa primeira diferença entre esses dois documentos tá bom.
+
+35
+00:01:57.860 --> 00:02:02.190
+Segunda diferença é o seguinte a nota fiscal eletrônica modelo cinquenta e cinco.
+
+36
+00:02:02.199 --> 00:02:04.050
+Ela é o documento obrigatório.
+
+37
+00:02:04.059 --> 00:02:04.389
+Ou seja,
+
+38
+00:02:04.400 --> 00:02:06.589
+só pode ser esse documento não pode ser
+
+39
+00:02:06.599 --> 00:02:09.990
+outro de jeito nenhum para operações interestaduais,
+
+40
+00:02:10.000 --> 00:02:13.710
+ou seja, operação que começa em um Estado e termina do outro, né?
+
+41
+00:02:13.720 --> 00:02:15.830
+Vamos supor que eu fiz uma compra na internet.
+
+42
+00:02:15.839 --> 00:02:19.729
+A mercadoria saiu de São Paulo pra entregar pra mim, lá em Goiânia?
+
+43
+00:02:19.815 --> 00:02:21.744
+Isso é uma operação interestadual.
+
+44
+00:02:21.755 --> 00:02:25.544
+Minha empresa, que está situada no Rio Grande do Sul fez uma operação,
+
+45
+00:02:25.554 --> 00:02:27.514
+uma operação de venda lá de vinho.
+
+46
+00:02:27.524 --> 00:02:31.664
+Lá pro Paraná vai sair do Rio Grande do Sul e vai pro Paraná.
+
+47
+00:02:31.675 --> 00:02:33.384
+É uma operação interestadual.
+
+48
+00:02:33.395 --> 00:02:38.664
+Tá bom esse tipo de operação exclusivamente nota fiscal eletrônica modelo
+
+49
+00:02:38.675 --> 00:02:41.184
+cinquenta e cinco não pode ser o a outra nota.
+
+50
+00:02:41.195 --> 00:02:41.684
+Tá bom
+
+51
+00:02:43.369 --> 00:02:47.139
+outra coisa que tem que ser exclusivamente n f a modelo cinquenta e cinco.
+
+52
+00:02:47.149 --> 00:02:50.789
+Operação de comércio exterior que que é comércio exterior,
+
+53
+00:02:50.800 --> 00:02:53.580
+importação e exportação né?
+
+54
+00:02:53.589 --> 00:02:55.380
+Comércio exterior Então,
+
+55
+00:02:55.389 --> 00:02:58.979
+operação de importação de mercadoria e operação de
+
+56
+00:02:58.990 --> 00:03:04.100
+exportação necessariamente precisa ser nota fiscal eletrônica,
+
+57
+00:03:04.110 --> 00:03:06.320
+modelo cinquenta e cinco, tá?
+
+58
+00:03:06.330 --> 00:03:12.160
+E o que mais venda a órgão? Público, né? Então vou fazer uma licitação de entregar.
+
+59
+00:03:12.380 --> 00:03:16.990
+Sei lá Merenda na escola, Nota fiscal eletrônica, modelo cinquenta e cinco. Ah, tá.
+
+60
+00:03:17.000 --> 00:03:18.979
+Vou fazer uma ganhe uma licitação?
+
+61
+00:03:18.990 --> 00:03:23.309
+Vou fornecer computadores lá pra administração pública,
+
+62
+00:03:23.320 --> 00:03:25.910
+Nota fiscal eletrônica modelo cinquenta e cinco.
+
+63
+00:03:25.919 --> 00:03:26.149
+Então,
+
+64
+00:03:26.160 --> 00:03:28.509
+pra esses três tipos de operações tá
+
+65
+00:03:28.520 --> 00:03:32.100
+exclusivamente só pode ser nota fiscal eletrônica,
+
+66
+00:03:32.110 --> 00:03:33.429
+modelo cinquenta e cinco.
+
+67
+00:03:33.440 --> 00:03:34.050
+Tá bom!
+
+68
+00:03:35.289 --> 00:03:37.259
+Já a nota do consumidor eletrônica.
+
+69
+00:03:37.270 --> 00:03:41.660
+Ela é um documento feito pra agilidade pra comércio,
+
+70
+00:03:41.669 --> 00:03:46.360
+rápido operação ali no na frente de caixa, que não pode perder muito tempo.
+
+71
+00:03:46.369 --> 00:03:52.619
+Por isso, ela tem um DANF resumido, né? O NFE dela ele pode ser menor E outra coisa, né?
+
+72
+00:03:52.630 --> 00:03:54.300
+Ela tem o q r code, né?
+
+73
+00:03:54.309 --> 00:03:57.179
+O q r code é o que é aquele Q R code
+
+74
+00:03:57.190 --> 00:04:00.279
+Aquele código de barras retangular que vem lá embaixo da nota,
+
+75
+00:04:00.550 --> 00:04:03.240
+que facilita a consulta pelo cidadão comum, né?
+
+76
+00:04:03.250 --> 00:04:07.520
+Por quem tem o celular já aponta ali e pode conferir, autenticidade do documento,
+
+77
+00:04:07.529 --> 00:04:07.759
+né?
+
+78
+00:04:07.770 --> 00:04:11.720
+Então, isso é uma coisa muito útil importante na nota do consumidor eletrônico,
+
+79
+00:04:11.729 --> 00:04:15.860
+que não seria tão útil numa nota de transação entre empresas, né?
+
+80
+00:04:16.940 --> 00:04:19.149
+A nota do consumidor eletrônico também tem
+
+81
+00:04:19.160 --> 00:04:21.750
+possibilidade do DANF ser puramente eletrônico,
+
+82
+00:04:21.760 --> 00:04:21.869
+né?
+
+83
+00:04:21.880 --> 00:04:25.269
+As vezes você vai em determinados estabelecimentos Você pode? Não.
+
+84
+00:04:25.279 --> 00:04:26.140
+Eu quero que você manda.
+
+85
+00:04:26.149 --> 00:04:30.429
+O DANF pro meu e-mail é uma é uma forma, por exemplo, de um DANF eletrônico.
+
+86
+00:04:30.440 --> 00:04:31.029
+Tá bom,
+
+87
+00:04:31.040 --> 00:04:36.670
+Então esse DANF eletrônico q R code DANF resumido são da
+
+88
+00:04:36.679 --> 00:04:41.809
+nota fiscal do consumidor eletrônico NFC e modelo meia cinco Tá bom
+
+89
+00:04:42.769 --> 00:04:46.980
+Nota fiscal eletrônica Modelo cinquenta e cinco tem consulta pública no portal
+
+90
+00:04:46.989 --> 00:04:51.820
+Nacional Tá e também ela tem na consulta do portal local.
+
+91
+00:04:51.829 --> 00:04:52.179
+Tá?
+
+92
+00:04:52.190 --> 00:04:55.339
+Então tem o portal nacional que a gente viu
+
+93
+00:04:55.350 --> 00:04:57.140
+aqui agora há pouco o Portal Nacional da Nota
+
+94
+00:04:57.149 --> 00:05:02.320
+Fiscal Eletrônica tá Q n f e ponto fazenda ponto gov ponto BR Ele é o Portal Nacional.
+
+95
+00:05:02.630 --> 00:05:05.760
+Ele contém a consulta pública de todos os documentos,
+
+96
+00:05:05.769 --> 00:05:08.200
+Nota fiscal eletrônico Modelo cinquenta e cinco emitidos no
+
+97
+00:05:08.209 --> 00:05:12.079
+Brasil Tá disponível nesse portal nacional e é claro,
+
+98
+00:05:12.089 --> 00:05:15.679
+a consulta no portal local, que é o portal da Secretaria da Fazenda do seu estado.
+
+99
+00:05:15.690 --> 00:05:16.220
+Tá bom?
+
+100
+00:05:16.850 --> 00:05:20.480
+Isso é a nota fiscal eletrônica modelo cinquenta e cinco.
+
+101
+00:05:20.489 --> 00:05:21.100
+Já na meia,
+
+102
+00:05:21.109 --> 00:05:25.660
+cinco não temos um portal nacional da nota fiscal do consumidor eletrônica.
+
+103
+00:05:25.670 --> 00:05:26.059
+Tá?
+
+104
+00:05:26.070 --> 00:05:30.480
+Então não tem o portal que vai consultar todas as notas
+
+105
+00:05:30.489 --> 00:05:32.700
+do Brasil igual a gente tem na modelo cinquenta e cinco.
+
+106
+00:05:32.709 --> 00:05:39.119
+Por esse motivo, a gente tem uma consulta somente no portal local, né? E
+
+107
+00:05:39.380 --> 00:05:44.149
+o portal do estado aonde ocorreu a transação como que é pra venda presencial?
+
+108
+00:05:44.160 --> 00:05:48.540
+E como é proibido em operação interestadual toda nota do consumidor eletrônica.
+
+109
+00:05:48.549 --> 00:05:51.829
+Ela é daquele estado ali onde ela foi emitida, né?
+
+110
+00:05:51.839 --> 00:05:57.989
+Então por esse motivo, tá deve ser consultado no estado onde ocorreu a transação.
+
+111
+00:05:58.000 --> 00:05:58.269
+Então,
+
+112
+00:05:58.279 --> 00:06:01.510
+todos os estados que emitem a nota fiscal do consumidor eletrônica
+
+113
+00:06:01.519 --> 00:06:05.029
+tem ali no seu portal a consulta pública desses documentos.
+
+114
+00:06:05.040 --> 00:06:08.570
+Tá bom, então essa é a nota fiscal do consumidor eletrônico.
+
+115
+00:06:08.980 --> 00:06:13.029
+Essas são as principais diferenças, mas se fosse pra me elencar uma só,
+
+116
+00:06:13.040 --> 00:06:15.329
+a mais importante de todas é isso aqui
+
+117
+00:06:15.859 --> 00:06:19.750
+N F e o modelo cinquenta e cinco Transações entre empresas e
+
+118
+00:06:19.760 --> 00:06:25.029
+Nota fiscal eletrônica Modelo meia cinco transações para o consumidor final.
+
+119
+00:06:25.040 --> 00:06:28.029
+Tá assim é a. É o jeito mais fácil da gente fazer.
+
+120
+00:06:28.040 --> 00:06:30.970
+Desagua dos documentos e saber qual documento que
+
+121
+00:06:30.980 --> 00:06:32.950
+a gente precisa usar naquele momento Tá bom,
+
+122
+00:06:32.959 --> 00:06:33.429
+então?
+
+123
+00:06:33.440 --> 00:06:36.829
+Essas são as diferenças das notas fiscais modelo cinquenta e
+
+124
+00:06:36.839 --> 00:06:40.649
+cinco e as notas fiscais Modelo Meia cinco Tá bom

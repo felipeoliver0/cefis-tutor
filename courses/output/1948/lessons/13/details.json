@@ -1,0 +1,33 @@
+{
+  "id": 460386,
+  "title": "Hipóteses de obrigatoriedade",
+  "position": 13,
+  "duration": 200,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3e546dd8-32ac-43a3-89bc-95b8bac708aa/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e546dd8-32ac-43a3-89bc-95b8bac708aa/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e546dd8-32ac-43a3-89bc-95b8bac708aa/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e546dd8-32ac-43a3-89bc-95b8bac708aa/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e546dd8-32ac-43a3-89bc-95b8bac708aa/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

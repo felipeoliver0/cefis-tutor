@@ -1,0 +1,33 @@
+{
+  "id": 465502,
+  "title": "Evolução Jurídico-Institucional",
+  "position": 15,
+  "duration": 165,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/781dd34a-ecb3-43df-bc49-f291617a03ae/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/781dd34a-ecb3-43df-bc49-f291617a03ae/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/781dd34a-ecb3-43df-bc49-f291617a03ae/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/781dd34a-ecb3-43df-bc49-f291617a03ae/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/781dd34a-ecb3-43df-bc49-f291617a03ae/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

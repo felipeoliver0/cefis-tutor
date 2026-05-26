@@ -1,0 +1,33 @@
+{
+  "id": 471387,
+  "title": "Hierarquias | Parte 2",
+  "position": 6,
+  "duration": 455,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/efa39dec-0402-46a2-838a-6959e88fdf3b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/efa39dec-0402-46a2-838a-6959e88fdf3b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/efa39dec-0402-46a2-838a-6959e88fdf3b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/efa39dec-0402-46a2-838a-6959e88fdf3b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/efa39dec-0402-46a2-838a-6959e88fdf3b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

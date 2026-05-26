@@ -1,0 +1,33 @@
+{
+  "id": 473606,
+  "title": "Juros sobre o capital próprio",
+  "position": 26,
+  "duration": 285,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5208f21b-b476-4929-a88f-815fb909ab95/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5208f21b-b476-4929-a88f-815fb909ab95/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5208f21b-b476-4929-a88f-815fb909ab95/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5208f21b-b476-4929-a88f-815fb909ab95/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5208f21b-b476-4929-a88f-815fb909ab95/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

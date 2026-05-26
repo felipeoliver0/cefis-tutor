@@ -1,0 +1,33 @@
+{
+  "id": 481280,
+  "title": "Estrutura das demonstrações contábeis Parte 1",
+  "position": 14,
+  "duration": 392,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c8708a34-e9fa-447e-b953-3f4d69bdaf72/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c8708a34-e9fa-447e-b953-3f4d69bdaf72/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c8708a34-e9fa-447e-b953-3f4d69bdaf72/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c8708a34-e9fa-447e-b953-3f4d69bdaf72/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c8708a34-e9fa-447e-b953-3f4d69bdaf72/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 486516,
+  "title": "Hipótese de incidências",
+  "position": 23,
+  "duration": 283,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7761dd7b-c5aa-4d3a-9363-47904684ddbb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7761dd7b-c5aa-4d3a-9363-47904684ddbb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7761dd7b-c5aa-4d3a-9363-47904684ddbb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7761dd7b-c5aa-4d3a-9363-47904684ddbb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7761dd7b-c5aa-4d3a-9363-47904684ddbb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

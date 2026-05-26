@@ -1,0 +1,33 @@
+{
+  "id": 480477,
+  "title": "Reconhecimentos das receitas",
+  "position": 32,
+  "duration": 265,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8054ace5-c3a1-4b73-b2b5-06556a17863d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8054ace5-c3a1-4b73-b2b5-06556a17863d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8054ace5-c3a1-4b73-b2b5-06556a17863d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8054ace5-c3a1-4b73-b2b5-06556a17863d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8054ace5-c3a1-4b73-b2b5-06556a17863d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 481035,
+  "title": "Porque é importante?",
+  "position": 3,
+  "duration": 380,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/24baaaa9-caa6-4a91-b966-2de8229109d0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24baaaa9-caa6-4a91-b966-2de8229109d0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24baaaa9-caa6-4a91-b966-2de8229109d0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24baaaa9-caa6-4a91-b966-2de8229109d0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24baaaa9-caa6-4a91-b966-2de8229109d0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

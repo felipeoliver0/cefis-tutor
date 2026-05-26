@@ -1,0 +1,33 @@
+{
+  "id": 462078,
+  "title": "Modalidades",
+  "position": 3,
+  "duration": 139,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/10c64881-d4f8-43ae-8f92-f4034b631402/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10c64881-d4f8-43ae-8f92-f4034b631402/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10c64881-d4f8-43ae-8f92-f4034b631402/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10c64881-d4f8-43ae-8f92-f4034b631402/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10c64881-d4f8-43ae-8f92-f4034b631402/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

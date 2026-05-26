@@ -1,0 +1,473 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.419
+Agora nós temos o próximo tópico, reconhecimento após reconhecimento, após os nossos cálculos
+
+3
+00:00:07.419 --> 00:00:09.560
+das depreciações.
+
+4
+00:00:09.560 --> 00:00:17.500
+Vamos lá, quando a opção pelo método de reavaliação for permitida por lei, hoje
+
+5
+00:00:17.500 --> 00:00:24.440
+não é mais, foi revogada pela Lei nº 11.638 de 2007, a entidade deve optar pelo método
+
+6
+00:00:24.440 --> 00:00:31.019
+de custo ou pelo método de reavaliação como sua política contábil e deve aplicar
+
+7
+00:00:31.019 --> 00:00:35.560
+essa política a uma classe inteira dos ativos imobilizados.
+
+8
+00:00:35.560 --> 00:00:41.780
+A reavaliação de bens tangíveis e intangíveis não é mais permitida, devido às disposições
+
+9
+00:00:41.780 --> 00:00:46.820
+contidas na Lei nº 11.638, que alterou a Lei nº 6.404.
+
+10
+00:00:46.820 --> 00:00:53.079
+Então pessoal, apesar de a reavaliação não existir mais, nós temos outros mecanismos
+
+11
+00:00:53.079 --> 00:00:54.399
+que vieram com a nova legislação.
+
+12
+00:00:54.399 --> 00:00:54.420
+Então pessoal, apesar de a reavaliação não existir mais, nós temos outros mecanismos que vieram com a nova legislação.
+
+13
+00:00:54.420 --> 00:00:54.920
+Então pessoal, apesar de a reavaliação não existir mais, nós temos outros mecanismos que vieram com a nova legislação.
+
+14
+00:00:54.920 --> 00:01:02.420
+Um pouco mais amplo, que é exatamente o que eu já expliquei para vocês, o ajuste de avaliação patrimonial e o ajuste a valor justo.
+
+15
+00:01:02.420 --> 00:01:07.120
+Eu não posso falar que é semelhante a reavaliação, mas é bem próximo dela.
+
+16
+00:01:07.560 --> 00:01:11.260
+É como se fosse, mas tem uma amplitude maior.
+
+17
+00:01:11.799 --> 00:01:16.200
+Por exemplo, hoje eu ajusto todos os meus ativos, todos os meus passivos a valor justo.
+
+18
+00:01:16.859 --> 00:01:22.099
+Antigamente não, a reavaliação era limitada ao ativo permanente, o antigo ativo permanente.
+
+19
+00:01:22.959 --> 00:01:23.439
+Entendeu?
+
+20
+00:01:23.439 --> 00:01:25.040
+Então nós temos essa diferença.
+
+21
+00:01:25.420 --> 00:01:30.340
+Mas são os mecanismos semelhantes de nós atualizarmos os nossos bens do imobilizado.
+
+22
+00:01:30.459 --> 00:01:32.599
+Então continua a mesma prerrogativa.
+
+23
+00:01:33.439 --> 00:01:35.040
+Método de custo primeiro.
+
+24
+00:01:36.060 --> 00:01:43.739
+No método de custo, após o reconhecimento como ativo, o item do imobilizado deve ser apresentado ao custo
+
+25
+00:01:43.739 --> 00:01:47.900
+menos qualquer depreciação e perda por redução ao valor recuperável.
+
+26
+00:01:47.980 --> 00:01:50.959
+Nós vamos ver quando formos calcular o teste de impermant.
+
+27
+00:01:52.140 --> 00:01:52.780
+Acumulados.
+
+28
+00:01:52.780 --> 00:01:53.420
+Está lá.
+
+29
+00:01:53.439 --> 00:01:56.140
+Está no CPC 01, que é o teste de impermant.
+
+30
+00:01:56.579 --> 00:01:59.640
+Depois nós vamos ter aqui o método de reavaliação.
+
+31
+00:01:59.719 --> 00:02:06.219
+Após o reconhecimento como ativo, o item do imobilizado, cujo valor possa ser mensurado confiavelmente,
+
+32
+00:02:07.000 --> 00:02:13.919
+pode ser apresentado, se permitido por lei, pelo seu valor reavaliado correspondente ao seu valor justo
+
+33
+00:02:13.919 --> 00:02:19.020
+à data da reavaliação, menos qualquer depreciação e perda por redução ao valor recuperável.
+
+34
+00:02:19.020 --> 00:02:23.419
+Então aqui eu já estou utilizando o termo reavaliação como valor justo.
+
+35
+00:02:23.419 --> 00:02:30.520
+Depois eu vou até eliminar esse termo de reavaliação, ficar só valor justo, valor justo de reavaliação patrimonial.
+
+36
+00:02:30.719 --> 00:02:33.280
+Para ficar mais fácil o entendimento didático para vocês.
+
+37
+00:02:33.879 --> 00:02:40.419
+Porque eu me preocupo muito com a didática, justamente para ser fácil vocês me fazerem entender com relação a esses tópicos.
+
+38
+00:02:40.939 --> 00:02:44.719
+Porque nós temos aqui na Cefis, nós temos alunos de diversas formações.
+
+39
+00:02:45.219 --> 00:02:46.659
+Nem sempre todos são contadores.
+
+40
+00:02:47.259 --> 00:02:50.960
+Então seja muito bem-vindo administradores, financeiros, advogados, etc.
+
+41
+00:02:50.960 --> 00:02:51.639
+Para entender.
+
+42
+00:02:51.639 --> 00:02:58.639
+Técnicos de informática que utilizam muito as minhas aulas, seja muito bem-vindo, eu agradeço pela preferência.
+
+43
+00:02:58.639 --> 00:03:01.639
+Por quê? Porque eles precisam parametrizar o sistema.
+
+44
+00:03:01.639 --> 00:03:04.639
+Então não são contadores, mas tem que entender o mecanismo.
+
+45
+00:03:04.639 --> 00:03:07.639
+Porque facilita o trabalho deles de parametrização.
+
+46
+00:03:07.639 --> 00:03:08.639
+Entenderam?
+
+47
+00:03:08.639 --> 00:03:10.639
+Então eu também me dirijo a vocês.
+
+48
+00:03:10.639 --> 00:03:12.639
+Sejam muito bem-vindos, é um prazer tê-los conosco.
+
+49
+00:03:12.639 --> 00:03:13.639
+Não é?
+
+50
+00:03:13.639 --> 00:03:14.639
+Então olha lá.
+
+51
+00:03:14.639 --> 00:03:21.139
+A reavaliação deve ser realizada com suficiente regularidade para assegurar que o valor contábil do ativo
+
+52
+00:03:21.139 --> 00:03:26.639
+não apresente divergência relevante em relação ao seu valor justo na data do balanço.
+
+53
+00:03:26.639 --> 00:03:35.639
+Ou seja, se você porventura promoveu a reavaliação a valor justo, qual é o bom senso?
+
+54
+00:03:35.639 --> 00:03:42.139
+Quando você pratica o valor justo, significa que você mudou de custo histórico para valor de mercado.
+
+55
+00:03:42.139 --> 00:03:43.639
+E o mercado oscila.
+
+56
+00:03:43.639 --> 00:03:50.139
+Portanto, você constantemente vai ter que fazer novas reavaliações a valor justo.
+
+57
+00:03:50.139 --> 00:03:52.139
+Isso custa recursos.
+
+58
+00:03:52.139 --> 00:03:55.139
+Por isso que os pequenos e médios acabam não fazendo.
+
+59
+00:03:55.139 --> 00:03:56.139
+Não é?
+
+60
+00:03:56.139 --> 00:03:58.139
+Ou mesmo por opção da gestão.
+
+61
+00:03:58.139 --> 00:04:05.139
+E você, analista de dados que faz as programações, é importante entender isso.
+
+62
+00:04:05.139 --> 00:04:08.139
+Como contabilizar a conta separada para parametrizar.
+
+63
+00:04:08.139 --> 00:04:13.639
+Quando tiver para o usuário somente alimentar o valor, ele já dá o tratamento correto de contabilizações.
+
+64
+00:04:13.639 --> 00:04:14.639
+Perfeito?
+
+65
+00:04:14.639 --> 00:04:15.639
+É muito importante.
+
+66
+00:04:15.639 --> 00:04:16.639
+Tá?
+
+67
+00:04:16.639 --> 00:04:19.639
+Então nós temos aí o exemplo.
+
+68
+00:04:20.139 --> 00:04:22.139
+Aqui de todos os valores, né?
+
+69
+00:04:22.139 --> 00:04:24.139
+Que nós já comentamos.
+
+70
+00:04:24.139 --> 00:04:26.139
+Importação de um veículo com os seguintes gastos.
+
+71
+00:04:26.139 --> 00:04:28.139
+Uma fatura do despachante.
+
+72
+00:04:28.139 --> 00:04:33.139
+A de janeiro eu tenho despesa de guia de seguros e outros de R$ 200.
+
+73
+00:04:33.139 --> 00:04:36.139
+Tenho lá o imposto sobre importação, que é o II.
+
+74
+00:04:36.139 --> 00:04:38.139
+Tenho o IPI de 25%.
+
+75
+00:04:38.139 --> 00:04:40.139
+Tenho o ICMS de 18%.
+
+76
+00:04:40.139 --> 00:04:42.139
+Tenho tarifa do janeiro de R$ 140.
+
+77
+00:04:42.139 --> 00:04:44.139
+Tenho no horário do despachante de 1,5%.
+
+78
+00:04:44.139 --> 00:04:45.139
+R$ 105 mil.
+
+79
+00:04:45.139 --> 00:04:50.139
+Portanto, o total da minha fatura, número 50, hipoteticamente, pago com cheque.
+
+80
+00:04:50.139 --> 00:04:52.139
+Hoje ninguém paga mais com cheque, né?
+
+81
+00:04:52.139 --> 00:04:55.139
+Pago com cheque é de R$ 8.355.
+
+82
+00:04:55.139 --> 00:04:57.139
+Qual é meu lançamento contábil?
+
+83
+00:04:57.139 --> 00:05:02.139
+Debitei importação em andamento e creditei banco quanto a movimento.
+
+84
+00:05:02.139 --> 00:05:12.139
+Então, se for rotina da empresa importar imobilizado, devido ao tipo de empresa, o porte, etc.
+
+85
+00:05:12.139 --> 00:05:17.139
+Eu vou abrir essa conta dentro do meu imobilizado, ou seja, importação em andamento imobilizado.
+
+86
+00:05:17.139 --> 00:05:20.139
+Se não, se for algo esporádico, pode ficar fora do imobilizado.
+
+87
+00:05:20.139 --> 00:05:21.139
+Imobilizado sem problema.
+
+88
+00:05:21.139 --> 00:05:24.139
+E aí eu vou imobilizar quando eu tiver o bem.
+
+89
+00:05:24.139 --> 00:05:35.139
+Depois eu vou ter aqui no recebimento a fatura de importação, número 49.764, no valor de R$ 7.526,87.
+
+90
+00:05:35.139 --> 00:05:41.139
+E na ocasião representava R$ 1,43 para cada dólar.
+
+91
+00:05:41.139 --> 00:05:45.139
+Eu precisava de R$ 1,43 para comprar um dólar.
+
+92
+00:05:45.139 --> 00:05:49.139
+Portanto, a minha contabilização, o cálculo em reais,
+
+93
+00:05:49.139 --> 00:05:55.139
+eu vou pegar R$ 7.526,88 vezes R$ 1,43.
+
+94
+00:05:55.139 --> 00:05:59.139
+Vai corresponder R$ 10.763,44.
+
+95
+00:05:59.139 --> 00:06:06.139
+Debito importação em andamento, credito fornecedor exterior, R$ 10.763,44.
+
+96
+00:06:06.139 --> 00:06:10.139
+Depois, liquidação do contrato de câmbio. Estou pagando.
+
+97
+00:06:10.139 --> 00:06:16.139
+Quando eu fui pagar, o dólar já tinha subido para R$ 1,88, o real frente ao dólar.
+
+98
+00:06:16.139 --> 00:06:18.139
+Portanto, eu paguei com cheque.
+
+99
+00:06:18.139 --> 00:06:24.139
+Cálculo em reais, pego R$ 7.526,88, que é o que eu devo, multiplico pelo dólar atual.
+
+100
+00:06:24.139 --> 00:06:28.139
+Isso vai me dar R$ 14.150,33.
+
+101
+00:06:28.139 --> 00:06:32.139
+Menos o valor da fatura contabilizada de R$ 10,
+
+102
+00:06:32.139 --> 00:06:36.139
+eu vou ter que contabilizar uma variação cambial passiva.
+
+103
+00:06:36.139 --> 00:06:43.139
+Ou seja, uma despesa com variação cambial R$ 3.387,09.
+
+104
+00:06:43.139 --> 00:06:46.139
+Contabilização, despesa com variação cambial,
+
+105
+00:06:46.139 --> 00:06:49.139
+crédito fornecedor exterior.
+
+106
+00:06:49.139 --> 00:06:53.139
+Estou atualizando meu passivo mediante a variação do dólar.
+
+107
+00:06:53.139 --> 00:06:58.139
+Depois, pela baixa da importação e contabilização do veículo.
+
+108
+00:06:58.139 --> 00:07:03.139
+Debitei veículo, R$ 8.355,00 mais os R$ 10.763,00.
+
+109
+00:07:03.139 --> 00:07:06.139
+R$ 19.718,44.
+
+110
+00:07:06.139 --> 00:07:08.139
+É isso que eu estou imobilizando.
+
+111
+00:07:08.139 --> 00:07:09.139
+Você viu?
+
+112
+00:07:09.139 --> 00:07:11.139
+Crédito importação em andamento.
+
+113
+00:07:11.139 --> 00:07:14.139
+Pelo pagamento do fornecedor exterior.
+
+114
+00:07:14.139 --> 00:07:16.139
+Fornecedor exterior.
+
+115
+00:07:16.139 --> 00:07:21.139
+Vou pagar R$ 14.150,53 e acreditar o banco quanto a movimento.
+
+116
+00:07:21.139 --> 00:07:24.139
+Entendeu o raciocínio que nós temos?
+
+117
+00:07:24.139 --> 00:07:26.139
+Se você tiver 2, 3, 4, 5, 6 meses aí,
+
+118
+00:07:26.139 --> 00:07:29.139
+todo mês você tem que fazer a variação cambial.
+
+119
+00:07:29.139 --> 00:07:30.139
+Perfeito?

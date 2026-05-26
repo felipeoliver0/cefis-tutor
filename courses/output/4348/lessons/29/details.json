@@ -1,0 +1,33 @@
+{
+  "id": 484107,
+  "title": "E-commerce x marketplace",
+  "position": 29,
+  "duration": 125,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9c61f19e-fda1-4782-948e-855ed43f0b82/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9c61f19e-fda1-4782-948e-855ed43f0b82/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9c61f19e-fda1-4782-948e-855ed43f0b82/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9c61f19e-fda1-4782-948e-855ed43f0b82/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9c61f19e-fda1-4782-948e-855ed43f0b82/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

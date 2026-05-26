@@ -1,0 +1,157 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:29.199
+Bom, pessoal, então, como eu coloquei, né, um cluster, né, um cluster são vários computadores ligados em conjunto, né, você pode precisar de muitos desses para fazer um treinamento e, se você quer fazer, eventualmente, algo para a sua empresa focado nisso, talvez não valha a pena você ter sua própria estrutura, mas você pode usar a nuvem, para vários motivos, né, tanto para você não precisar ter um data center, você não ter que fazer um investimento grande,
+
+3
+00:00:29.199 --> 00:00:44.979
+quanto para algumas outras aplicações de IA, e aí, pessoal, quando a gente fala em nuvem, só colocando aqui o conceito de nuvem, alguns anos atrás, era muito comum que a gente tivesse servidores nas empresas, e o que é um servidor?
+
+4
+00:00:44.979 --> 00:00:56.399
+É um computador, normalmente o pessoal pegava um computador velho, que ninguém mais estava usando, e falava, ah, esse é o servidor de impressão, todo mundo pode usar a mesma impressora através do servidor de impressão,
+
+5
+00:00:56.399 --> 00:01:25.739
+a gente tem um servidor de arquivos, todo mundo põe um arquivo no mesmo servidor, e consegue compartilhar, a gente tem um servidor de e-mail, tem um servidor de internet, e por aí vai, ou vários desses numa mesma máquina, né, então era comum você ter ali no cantinho de uma casa, ou de uma empresa, um computador antigo só com cabo de rede, só com cabo de energia ligado na tomada, sendo o servidor de alguma funcionalidade.
+
+6
+00:01:26.400 --> 00:01:45.280
+Você pode comprar plaquinhas, como a Raspberry, bem compacta e barata, e fazer seu próprio servidor, deixar 24 horas por dia ligado, ou você pode ter aqui um rack, como está ali na imagem, num data center, fazendo um serviço um pouco mais robusto, né.
+
+7
+00:01:46.500 --> 00:01:56.379
+Bom, pessoal, quando a gente fala nesse aspecto de ter esse servidor, o que pode acontecer? Então, você tem um servidor lá na sua empresa, antigamente, pessoal,
+
+8
+00:01:56.379 --> 00:02:25.819
+falava o CPD da empresa, Centro de Processamento de Dados da empresa, ou da universidade, ou do banco, e aí pode acabar a energia, pode ter uma catástrofe, pode pegar fogo, então você começa a ter várias responsabilidades para manter tudo aquilo funcionando dentro da sua instituição, você precisa de uma equipe de suporte, TI, para manter esses servidores funcionando, pode ter invasão, questões de cibersegurança,
+
+9
+00:02:26.379 --> 00:02:47.020
+e aí o pessoal começou a notar que, de repente, você pode terceirizar isso, você pode terceirizar toda essa operação para uma empresa que já está cuidando de todas as máquinas na nuvem, já está cuidando do gerador, do no-break, proteção de incêndio, backup, segurança, etc.
+
+10
+00:02:47.020 --> 00:02:55.419
+E algumas empresas perceberam que isso é um bom negócio e começaram a oferecer isso como serviço, então, daí surge a nuvem, pessoal.
+
+11
+00:02:55.520 --> 00:02:56.360
+Então, a gente tem o data center.
+
+12
+00:02:56.379 --> 00:03:10.699
+O data center é um lugar que tem vários servidores, esses servidores você pode eventualmente alugar uma máquina física, mas aí o pessoal criou um conceito de um mesmo servidor poder ter várias dessas máquinas de forma virtual,
+
+13
+00:03:10.699 --> 00:03:26.080
+e você pode alugar uma maquininha ali para você fazer sua aplicação por, por exemplo, um dado real, R$39,00 por mês, então você evita ter que cuidar da manutenção, segurança, no-break,
+
+14
+00:03:26.379 --> 00:03:34.400
+gerador, você paga R$39,00 por mês e alguém está cuidando de tudo isso, você tem sua máquina para rodar sua aplicação 24 horas por dia com tranquilidade.
+
+15
+00:03:34.699 --> 00:03:39.580
+Pode ser seu site, seu servidor de e-mail, seu servidor de aplicação e várias outras coisas.
+
+16
+00:03:40.319 --> 00:03:48.860
+E aí, pessoal, tem também uma outra questão que você sempre vai ver na questão de nuvem, data center, que é o SLA, o Service Level Agreement.
+
+17
+00:03:48.860 --> 00:03:54.620
+Então, muitas empresas, por exemplo, um banco ou uma operadora de telefonia,
+
+18
+00:03:54.620 --> 00:04:03.939
+cada minuto que algum serviço está fora do ar, pode gerar milhões, talvez bilhões de prejuízos, dependendo do serviço, claro.
+
+19
+00:04:04.360 --> 00:04:13.800
+Então, existem contratos que você tem com o data center, que você tem com a nuvem, para garantia do nível de serviço, a gente chama isso de SLA.
+
+20
+00:04:14.439 --> 00:04:18.579
+Então, você pode ver, eu quero um computador com sistema Linux, eu quero um computador com sistema Windows,
+
+21
+00:04:20.399 --> 00:04:24.579
+automaticamente você coloca lá seus dados de pagamento e o sistema...
+
+22
+00:04:24.620 --> 00:04:27.720
+Então, sobe ali um computador que você acessa remotamente.
+
+23
+00:04:28.279 --> 00:04:33.639
+Então, você pode ter aquilo rodando 24 horas por dia, fazendo algo que você programou,
+
+24
+00:04:33.939 --> 00:04:38.939
+ou sendo um servidor de alguma aplicação sua, por R$39,00 por mês.
+
+25
+00:04:40.199 --> 00:04:44.120
+Então, tem algumas palavras-chave que é legal todo mundo saber, pessoal.
+
+26
+00:04:44.319 --> 00:04:48.160
+Então, a gente tem a palavra-chave aqui, on-premise.
+
+27
+00:04:48.399 --> 00:04:53.800
+On-premise é quando você não tem os seus servidores na nuvem, você tem os seus servidores na própria empresa, com você.
+
+28
+00:04:54.620 --> 00:04:58.019
+Então, antigamente era assim, mas não tinha esse nome bonito.
+
+29
+00:04:58.139 --> 00:05:04.519
+Então, a gente está na fase de dar nome bonito para as coisas, on-premise, você tem os servidores com você fisicamente.
+
+30
+00:05:06.759 --> 00:05:11.860
+Cloud Exit é esse movimento de estar saindo da nuvem, que está acontecendo com algumas instituições.
+
+31
+00:05:12.759 --> 00:05:17.939
+E no Brasil, em alguns países, a gente tem um movimento que se chama nuvem soberana.
+
+32
+00:05:18.800 --> 00:05:24.600
+Muitas empresas hoje, pessoal, estão preocupadas com onde estão meus dados.
+
+33
+00:05:24.620 --> 00:05:28.259
+Quem cuida dos meus dados e se acontecer alguma coisa, como que fica?
+
+34
+00:05:28.980 --> 00:05:39.220
+Então, alguns países, como Malásia, tem leis que exigem que todos os dados daquele país ou de empresas daquele país estejam no próprio país.
+
+35
+00:05:40.079 --> 00:05:51.339
+Isso fez com que a Amazon, por exemplo, construa data centers regionais em cada país para atender as demandas legislativas, as normas de cada país.
+
+36
+00:05:51.600 --> 00:05:54.600
+Então, quando a gente fala de nuvem soberana, é um movimento que tem...
+
+37
+00:05:54.620 --> 00:06:02.500
+O próprio Brasil, de ter uma nuvem nacional, com tecnologia nacional, instalada no Brasil, mantida,
+
+38
+00:06:03.000 --> 00:06:10.480
+que se você, por exemplo, desconectar cabos da internet do Brasil para fora, cabos transoceânicos,
+
+39
+00:06:10.600 --> 00:06:13.500
+se você tiver internet rodando no país, você ainda consegue acessar esses dados.
+
+40
+00:06:13.879 --> 00:06:16.060
+Os dados estão no solo brasileiro.

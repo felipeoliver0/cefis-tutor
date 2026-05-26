@@ -1,0 +1,33 @@
+{
+  "id": 464142,
+  "title": "Sequência de numeração",
+  "position": 11,
+  "duration": 224,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8e2ef9f0-447f-4403-8ad3-186a05d81a8d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8e2ef9f0-447f-4403-8ad3-186a05d81a8d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8e2ef9f0-447f-4403-8ad3-186a05d81a8d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8e2ef9f0-447f-4403-8ad3-186a05d81a8d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8e2ef9f0-447f-4403-8ad3-186a05d81a8d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

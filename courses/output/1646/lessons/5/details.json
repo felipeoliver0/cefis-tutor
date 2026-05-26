@@ -1,0 +1,33 @@
+{
+  "id": 454647,
+  "title": "Por que é preciso exportar?",
+  "position": 6,
+  "duration": 139,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9902dcac-c27b-4785-9dcb-1983a90e421a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9902dcac-c27b-4785-9dcb-1983a90e421a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9902dcac-c27b-4785-9dcb-1983a90e421a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9902dcac-c27b-4785-9dcb-1983a90e421a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9902dcac-c27b-4785-9dcb-1983a90e421a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

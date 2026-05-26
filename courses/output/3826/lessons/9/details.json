@@ -1,0 +1,33 @@
+{
+  "id": 478145,
+  "title": "Janela Única",
+  "position": 9,
+  "duration": 285,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/71f07874-bc74-44f6-81e8-12d99d77823b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/71f07874-bc74-44f6-81e8-12d99d77823b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/71f07874-bc74-44f6-81e8-12d99d77823b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/71f07874-bc74-44f6-81e8-12d99d77823b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/71f07874-bc74-44f6-81e8-12d99d77823b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

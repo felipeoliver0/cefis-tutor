@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4473,
+    "title": "Formação em analista do Departamento Pessoal",
+    "subtitle": "2026",
+    "summary": "Neste curso 'Formação em analista do Departamento Pessoal 2026' você irá aprender na prática tudo o que precisa saber sobre gestão de RH. Aprenderá os fundamentos e a prática de instrumentos normativos, indicadores do empregador, tabelas trabalhistas e vários outros temas para você que deseja se atualizar ou aprender tudo sobre gestão de RH.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/d628360f-0765-4945-8c7d-d3b9ea8d398b-thumbnail.png",
+    "goals": [
+      "O objetivo do curso `Formação em analista do Departamento Pessoal 2026: Gravação agendada` é a capacitação para a aplicação prática de conhecimentos sobre legislação trabalhista, processos admissionais, gestão de benefícios, controle de jornada e folha de pagamento, além de outros tópicos relacionados ao Departamento Pessoal."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 10455,
+    "keywords": "departamento;pessoal;Formação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 55,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 167,
+    "averageRating": 9.47,
+    "practiceAverage": 9.28,
+    "trailer": {
+      "id": "3266eaab-9ea8-4438-adf3-2ad71391b4fc",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3266eaab-9ea8-4438-adf3-2ad71391b4fc/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3266eaab-9ea8-4438-adf3-2ad71391b4fc/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3266eaab-9ea8-4438-adf3-2ad71391b4fc/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3266eaab-9ea8-4438-adf3-2ad71391b4fc/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-28T23:23:46.000Z",
+      "updatedAt": "2026-03-28T23:23:46.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-28T23:41:05.000Z",
+    "recordedAt": "2026-03-19T00:00:00.000Z",
+    "createdAt": "2026-03-28T19:34:24.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 467924,
+  "title": "Fusão",
+  "position": 6,
+  "duration": 430,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8cb69557-460f-41b6-9751-a318a329c775/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8cb69557-460f-41b6-9751-a318a329c775/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8cb69557-460f-41b6-9751-a318a329c775/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8cb69557-460f-41b6-9751-a318a329c775/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8cb69557-460f-41b6-9751-a318a329c775/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

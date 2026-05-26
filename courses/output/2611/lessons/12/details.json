@@ -1,0 +1,33 @@
+{
+  "id": 468158,
+  "title": "Comércio eletrônico - Parte 1",
+  "position": 12,
+  "duration": 257,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1b4f9041-e8d9-4abc-9486-163184ccb770/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1b4f9041-e8d9-4abc-9486-163184ccb770/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1b4f9041-e8d9-4abc-9486-163184ccb770/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1b4f9041-e8d9-4abc-9486-163184ccb770/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1b4f9041-e8d9-4abc-9486-163184ccb770/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

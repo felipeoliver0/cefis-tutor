@@ -1,0 +1,33 @@
+{
+  "id": 472016,
+  "title": "Viabilidade",
+  "position": 6,
+  "duration": 187,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e07e2d69-1d62-481e-9955-64cf44558fb5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e07e2d69-1d62-481e-9955-64cf44558fb5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e07e2d69-1d62-481e-9955-64cf44558fb5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e07e2d69-1d62-481e-9955-64cf44558fb5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e07e2d69-1d62-481e-9955-64cf44558fb5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

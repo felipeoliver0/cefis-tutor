@@ -1,0 +1,33 @@
+{
+  "id": 463525,
+  "title": "Hierarquia das normas",
+  "position": 10,
+  "duration": 352,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3a6b85f6-cf4f-4e74-9dd9-85ac5e6804f3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3a6b85f6-cf4f-4e74-9dd9-85ac5e6804f3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3a6b85f6-cf4f-4e74-9dd9-85ac5e6804f3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3a6b85f6-cf4f-4e74-9dd9-85ac5e6804f3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3a6b85f6-cf4f-4e74-9dd9-85ac5e6804f3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 459329,
+  "title": "Ações para abordar riscos e oportunidades",
+  "position": 32,
+  "duration": 262,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7aa2551a-f624-4a71-813a-e6cacfb2f07f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7aa2551a-f624-4a71-813a-e6cacfb2f07f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7aa2551a-f624-4a71-813a-e6cacfb2f07f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7aa2551a-f624-4a71-813a-e6cacfb2f07f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7aa2551a-f624-4a71-813a-e6cacfb2f07f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 464272,
+  "title": "Tributação no Lucro Presumido",
+  "position": 47,
+  "duration": 377,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ca8984c4-44b2-4b48-9c8c-51ee7a147752/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca8984c4-44b2-4b48-9c8c-51ee7a147752/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca8984c4-44b2-4b48-9c8c-51ee7a147752/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca8984c4-44b2-4b48-9c8c-51ee7a147752/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca8984c4-44b2-4b48-9c8c-51ee7a147752/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

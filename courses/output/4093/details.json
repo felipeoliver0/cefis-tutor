@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4093,
+    "title": "Cefis informe",
+    "subtitle": "2025",
+    "summary": "A partir de 1º de novembro de 2025, entra em vigor a NFCom (Nota Fiscal Fatura de Serviço de Comunicação Eletrônica, modelo 62) — o novo padrão digital que substituirá definitivamente os modelos 21 e 22 para empresas de telecomunicações e serviços de comunicação.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/03c52e62-ae70-4681-a6d1-1badf0b16987-thumbnail.png",
+    "goals": [
+      "Informar e preparar as equipes responsáveis pela emissão fiscal para a adoção da NFCom."
+    ],
+    "teacher": {
+      "id": 209469,
+      "name": "CEFIS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1608122381.jpeg"
+    },
+    "duration": 2302,
+    "keywords": "cefis;informe;nfcom",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 4,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 67,
+    "averageRating": 9.33,
+    "practiceAverage": 9.13,
+    "trailer": {
+      "id": "29507283-78cd-4b93-ba3f-31749bf961b1",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/29507283-78cd-4b93-ba3f-31749bf961b1/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/29507283-78cd-4b93-ba3f-31749bf961b1/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/29507283-78cd-4b93-ba3f-31749bf961b1/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/29507283-78cd-4b93-ba3f-31749bf961b1/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-14T17:18:47.000Z",
+      "updatedAt": "2025-11-14T17:18:47.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "recordedAt": "2025-10-30T00:00:00.000Z",
+    "createdAt": "2025-10-30T17:29:26.000Z"
+  }
+}

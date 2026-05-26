@@ -1,0 +1,185 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.879
+IBS e CBS exigem nova lógica de classificação tributária, como vocês perceberam.
+
+3
+00:00:05.879 --> 00:00:11.480
+Não existe conversão automática do que vocês utilizam com a CST do ICMS,
+
+4
+00:00:11.480 --> 00:00:16.519
+CST do PIS e COFINS para a CST do IBS e da CBS.
+
+5
+00:00:16.519 --> 00:00:20.320
+Não é igual, não é idêntico, não é o depara.
+
+6
+00:00:20.320 --> 00:00:23.199
+O sistema precisa ser orientado.
+
+7
+00:00:23.199 --> 00:00:24.660
+E como eu oriento?
+
+8
+00:00:24.660 --> 00:00:28.160
+Pega a tabela, brinca com os filtros,
+
+9
+00:00:28.160 --> 00:00:30.859
+busca os segmentos de vocês.
+
+10
+00:00:30.859 --> 00:00:37.000
+Tanto nos dados do Portal da Conformidade Fácil quanto no Excel a gente já consegue fazer isso.
+
+11
+00:00:37.000 --> 00:00:42.579
+E além disso, nós temos também ferramentas pagas que a gente também consegue desenvolver.
+
+12
+00:00:42.579 --> 00:00:46.539
+E eu vou demonstrar para vocês uma hoje também que nós utilizamos aqui.
+
+13
+00:00:46.539 --> 00:00:52.820
+Então, você precisa obviamente entender que se faz necessária uma nova classificação,
+
+14
+00:00:52.820 --> 00:00:57.359
+independente se você tem então uma redução de alíquota de ICMS,
+
+15
+00:00:57.359 --> 00:00:58.159
+isso não faz nada.
+
+16
+00:00:58.159 --> 00:01:03.060
+Faz com que você mantenha essa redução no IBS e na CBS.
+
+17
+00:01:03.060 --> 00:01:10.799
+E isso faz com que a gente volte à etapa anterior e comece a analisar novamente as operações dos nossos contribuintes.
+
+18
+00:01:10.799 --> 00:01:14.180
+Eu mostrei para vocês aqui, olha o Portal da Conformidade.
+
+19
+00:01:14.180 --> 00:01:21.519
+Vou deixar no material para vocês até mesmo o link para vocês estarem utilizando essa ferramenta.
+
+20
+00:01:21.519 --> 00:01:27.900
+É uma ferramenta gratuita que você pode agrupar pelo CST e pelo código de classificação.
+
+21
+00:01:27.900 --> 00:01:30.700
+Oriente o que você utiliza pelo agrupamento do CST.
+
+22
+00:01:30.700 --> 00:01:32.280
+Fica mais limpo, né?
+
+23
+00:01:32.280 --> 00:01:36.780
+E aí, com o maiszinho ali, vocês conseguem então identificar as classificações tributárias.
+
+24
+00:01:36.780 --> 00:01:38.620
+Quer fazer mais mão na massa?
+
+25
+00:01:38.620 --> 00:01:40.540
+Vai lá no portal da Nota Fiscal Eletrônica.
+
+26
+00:01:40.540 --> 00:01:42.579
+Baixe o Excel.
+
+27
+00:01:42.579 --> 00:01:43.920
+Filtre.
+
+28
+00:01:43.920 --> 00:01:45.760
+Desenhe se for necessário.
+
+29
+00:01:45.760 --> 00:01:49.120
+Utilize os dois para cruzar a informação.
+
+30
+00:01:49.120 --> 00:01:53.120
+Até porque esse daqui tem um dado que lá no Excel não tem,
+
+31
+00:01:53.120 --> 00:01:55.700
+que são os documentos fiscais congruentes com a classificação tributária.
+
+32
+00:01:55.700 --> 00:01:57.700
+Que são os documentos fiscais congruentes com a classificação tributária.
+
+33
+00:01:57.700 --> 00:01:57.719
+Até porque esse daqui tem um dado que lá no Excel não tem, que são os documentos fiscais congruentes com a classificação tributária.
+
+34
+00:01:57.719 --> 00:01:58.560
+Que são os documentos fiscais congruentes com a classificação tributária.
+
+35
+00:01:58.560 --> 00:02:01.760
+Que também faz muito sentido para vocês.
+
+36
+00:02:01.760 --> 00:02:04.599
+Não adianta a gente estar querendo colocar uma classificação tributária
+
+37
+00:02:04.599 --> 00:02:08.300
+que o documento fiscal eletrônico não comporte.
+
+38
+00:02:08.300 --> 00:02:13.099
+Então, talvez a gente esteja pensando em classificar o nosso contribuinte daquela forma,
+
+39
+00:02:13.099 --> 00:02:18.900
+porém, não faz sentido porque o documento fiscal eletrônico que ele emite não é o mesmo.
+
+40
+00:02:18.900 --> 00:02:23.879
+Uma operação hoje isenta pode gerar débito automático do IBS amanhã.
+
+41
+00:02:23.879 --> 00:02:27.520
+Se a classificação não for revista, não tem o que se fazer.
+
+42
+00:02:27.520 --> 00:02:30.360
+O XML emitido vai para apuração.
+
+43
+00:02:30.360 --> 00:02:33.360
+Erro de código vira imposto a pagar.
+
+44
+00:02:33.360 --> 00:02:37.360
+Porque o XML emitido já é uma confissão de débito.
+
+45
+00:02:37.360 --> 00:02:42.360
+O documento fiscal emitido vira uma confissão de débito.
+
+46
+00:02:42.360 --> 00:02:46.360
+Por isso que é importante a gente rever a escrituração fiscal,
+
+47
+00:02:46.360 --> 00:02:52.360
+que é a base para qualquer tipo de operação, para qualquer tipo de obrigação acessória que nós vamos fazer.

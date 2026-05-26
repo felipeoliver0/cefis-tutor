@@ -1,0 +1,33 @@
+{
+  "id": 465212,
+  "title": "Cadastro da pessoa",
+  "position": 13,
+  "duration": 442,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/849147ca-46bd-49fa-b8f7-ed2a2ca8cea7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/849147ca-46bd-49fa-b8f7-ed2a2ca8cea7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/849147ca-46bd-49fa-b8f7-ed2a2ca8cea7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/849147ca-46bd-49fa-b8f7-ed2a2ca8cea7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/849147ca-46bd-49fa-b8f7-ed2a2ca8cea7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

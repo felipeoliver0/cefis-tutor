@@ -1,0 +1,33 @@
+{
+  "id": 475534,
+  "title": "Inventario periódico",
+  "position": 32,
+  "duration": 569,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d84141aa-08a5-4d94-ae62-737718f60ee0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d84141aa-08a5-4d94-ae62-737718f60ee0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d84141aa-08a5-4d94-ae62-737718f60ee0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d84141aa-08a5-4d94-ae62-737718f60ee0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d84141aa-08a5-4d94-ae62-737718f60ee0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

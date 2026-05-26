@@ -1,0 +1,33 @@
+{
+  "id": 461004,
+  "title": "Legislação específica",
+  "position": 3,
+  "duration": 102,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/339ed808-10bc-4f25-9dd1-4ce784b70ca2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/339ed808-10bc-4f25-9dd1-4ce784b70ca2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/339ed808-10bc-4f25-9dd1-4ce784b70ca2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/339ed808-10bc-4f25-9dd1-4ce784b70ca2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/339ed808-10bc-4f25-9dd1-4ce784b70ca2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

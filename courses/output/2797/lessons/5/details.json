@@ -1,0 +1,33 @@
+{
+  "id": 469577,
+  "title": "Contribuintes",
+  "position": 5,
+  "duration": 167,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/20ef41c8-f574-4f15-ae60-c87aadf8f076/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/20ef41c8-f574-4f15-ae60-c87aadf8f076/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/20ef41c8-f574-4f15-ae60-c87aadf8f076/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/20ef41c8-f574-4f15-ae60-c87aadf8f076/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/20ef41c8-f574-4f15-ae60-c87aadf8f076/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

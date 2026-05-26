@@ -1,0 +1,33 @@
+{
+  "id": 472495,
+  "title": "Tributos diretos",
+  "position": 5,
+  "duration": 145,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/61f1098e-df35-44d7-9b43-c9bacd664e39/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/61f1098e-df35-44d7-9b43-c9bacd664e39/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/61f1098e-df35-44d7-9b43-c9bacd664e39/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/61f1098e-df35-44d7-9b43-c9bacd664e39/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/61f1098e-df35-44d7-9b43-c9bacd664e39/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

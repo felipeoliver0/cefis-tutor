@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3090,
+    "title": "Microempreendedor Individual - MEI",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de microempreendedor individual - MEI, você entenderá todas as características e procedimentos relacionados a essa modalidade empresarial. Aprenderá desde as regras, e aspectos como Simples Nacional, acesso e prazo de entrega da Declaração Anual Simplificada para o Microempreendedor Individual – DASN-SIMEI, o que fazer em caso de baixa, declaração à Receita Federal, transmissão, limite da receita, comunicação de desenquadramento, PLP 108/2021, MEI Caminhoneiro, retenções e muitos outros pontos práticos para que você aplique no dia a dia os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/ec26cb5145b60caaab76a058d8b3329a1728385887.jpg",
+    "goals": [
+      "Apresentar todas as características da atividade do Microempreendedor individual, bem como todos os procedimentos relacionados à Declaração Anual Simplificada para o Microempreendedor Individual."
+    ],
+    "teacher": {
+      "id": 539395,
+      "name": "MAURI JOSÉ ALBERTI",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1634085836.jpeg"
+    },
+    "duration": 8622,
+    "keywords": "MEI;microempreendedor individual",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 36,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 4330,
+    "averageRating": 9.44,
+    "practiceAverage": 9.42,
+    "trailer": {
+      "id": "bbb94d34-1acc-49f2-b3d8-db826fdb7cfc",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bbb94d34-1acc-49f2-b3d8-db826fdb7cfc/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bbb94d34-1acc-49f2-b3d8-db826fdb7cfc/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bbb94d34-1acc-49f2-b3d8-db826fdb7cfc/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bbb94d34-1acc-49f2-b3d8-db826fdb7cfc/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-04-12T11:22:45.000Z",
+      "updatedAt": "2024-04-12T11:22:45.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-04-12T16:49:43.000Z",
+    "recordedAt": "2024-03-23T00:00:00.000Z",
+    "createdAt": "2024-03-20T17:51:25.000Z"
+  }
+}

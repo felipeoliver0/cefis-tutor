@@ -1,0 +1,33 @@
+{
+  "id": 471767,
+  "title": "Suspenção",
+  "position": 32,
+  "duration": 344,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b796935f-147c-4ada-98a0-73fd05870d7f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b796935f-147c-4ada-98a0-73fd05870d7f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b796935f-147c-4ada-98a0-73fd05870d7f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b796935f-147c-4ada-98a0-73fd05870d7f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b796935f-147c-4ada-98a0-73fd05870d7f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

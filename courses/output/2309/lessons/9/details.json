@@ -1,0 +1,33 @@
+{
+  "id": 465210,
+  "title": "Recibos eleitorais",
+  "position": 9,
+  "duration": 92,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/36bac6d3-1283-452a-8a41-b42f2110d355/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/36bac6d3-1283-452a-8a41-b42f2110d355/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/36bac6d3-1283-452a-8a41-b42f2110d355/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/36bac6d3-1283-452a-8a41-b42f2110d355/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/36bac6d3-1283-452a-8a41-b42f2110d355/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,833 @@
+WEBVTT
+
+1
+00:00:01.990 --> 00:00:03.660
+Essa é a tela que você vai ter
+
+2
+00:00:04.150 --> 00:00:05.019
+inicial
+
+3
+00:00:05.269 --> 00:00:07.010
+assim que você logar no Rede Sim
+
+4
+00:00:07.630 --> 00:00:12.119
+Daqui a pouquinho a gente vai fazer uma uma simulação ali de entrada no
+
+5
+00:00:13.029 --> 00:00:15.789
+no VRE como você loga quem pode fazer o login e tudo mais
+
+6
+00:00:16.790 --> 00:00:17.209
+Então
+
+7
+00:00:17.500 --> 00:00:19.549
+a tela que você vai ver é essa daqui
+
+8
+00:00:20.030 --> 00:00:22.950
+Então a gente tem ali primeiro item viabilidade,
+
+9
+00:00:23.270 --> 00:00:25.420
+o segundo item coletor nacional,
+
+10
+00:00:25.790 --> 00:00:27.510
+o terceiro item registro
+
+11
+00:00:28.110 --> 00:00:28.270
+o
+
+12
+00:00:28.739 --> 00:00:29.250
+item.
+
+13
+00:00:29.559 --> 00:00:29.569
+eh
+
+14
+00:00:30.819 --> 00:00:34.439
+inscrição municipal e o último item é o licenciamento
+
+15
+00:00:34.759 --> 00:00:35.540
+E quando a gente faz
+
+16
+00:00:36.439 --> 00:00:37.840
+um processo societário,
+
+17
+00:00:38.479 --> 00:00:43.959
+essa ordem aqui realmente é seguida no passo a passo da forma que está aqui.
+
+18
+00:00:44.659 --> 00:00:44.900
+Então.
+
+19
+00:00:45.020 --> 00:00:46.080
+Se eu faço uma abertura,
+
+20
+00:00:46.139 --> 00:00:48.409
+eu vou utilizar todos esses itens,
+
+21
+00:00:48.740 --> 00:00:50.500
+mas no caso do distrato social,
+
+22
+00:00:50.580 --> 00:00:51.610
+eu vou utilizar
+
+23
+00:00:51.740 --> 00:00:52.439
+a partir
+
+24
+00:00:52.619 --> 00:00:53.930
+do coletor nacional
+
+25
+00:00:54.419 --> 00:00:57.139
+porque a viabilidade ela só serve quando você
+
+26
+00:00:57.139 --> 00:00:59.779
+está pedindo uma abertura de uma nova empresa,
+
+27
+00:01:00.189 --> 00:01:02.770
+ela não é necessária quando você vai fazer
+
+28
+00:01:03.099 --> 00:01:04.529
+um distrato social,
+
+29
+00:01:04.860 --> 00:01:05.209
+tá.
+
+30
+00:01:06.199 --> 00:01:07.910
+ou quando você está fazendo uma alteração
+
+31
+00:01:07.910 --> 00:01:10.279
+também a viabilidade às vezes é necessária.
+
+32
+00:01:10.400 --> 00:01:11.519
+Então no coletor nacional.
+
+33
+00:01:11.639 --> 00:01:12.919
+Quando a gente clica nele,
+
+34
+00:01:13.040 --> 00:01:16.000
+você vai fazer o preenchimento do formulário do DBE,
+
+35
+00:01:16.080 --> 00:01:17.989
+que tem uma série de informações
+
+36
+00:01:18.440 --> 00:01:19.599
+sobre a empresa,
+
+37
+00:01:19.959 --> 00:01:20.720
+o endereço,
+
+38
+00:01:20.839 --> 00:01:22.000
+o quadro societário,
+
+39
+00:01:22.400 --> 00:01:24.400
+a participação de cada sócio,
+
+40
+00:01:24.470 --> 00:01:26.040
+o endereço de cada sócio,
+
+41
+00:01:26.559 --> 00:01:27.750
+endereço de contato,
+
+42
+00:01:27.919 --> 00:01:30.900
+e-mail de contato tanto dos sócios quanto da empresa.
+
+43
+00:01:31.629 --> 00:01:33.480
+e-mail de contato e endereço
+
+44
+00:01:33.610 --> 00:01:36.180
+e dados pessoais do contador da empresa.
+
+45
+00:01:36.250 --> 00:01:38.410
+Tudo isso tem que aparecer na DB.
+
+46
+00:01:38.449 --> 00:01:40.529
+Tudo isso vai ser obrigatório você preencher.
+
+47
+00:01:41.330 --> 00:01:41.769
+Tá Então,
+
+48
+00:01:41.930 --> 00:01:43.760
+eu vou mostrar aqui para vocês agora
+
+49
+00:01:44.370 --> 00:01:47.160
+é um pouquinho de como faz na prática
+
+50
+00:01:47.370 --> 00:01:48.639
+esse destrato social.
+
+51
+00:01:49.839 --> 00:01:53.599
+e algumas telas que vão aparecer quando você estiver fazendo o processo.
+
+52
+00:01:54.430 --> 00:01:56.900
+Então Quando você enviou a DBE
+
+53
+00:01:57.199 --> 00:01:58.569
+e a DBE já foi
+
+54
+00:01:58.680 --> 00:01:59.459
+deferida.
+
+55
+00:01:59.940 --> 00:02:00.830
+Ela já foi
+
+56
+00:02:01.260 --> 00:02:04.430
+eh analisada por todos os órgãos pela junta comercial,
+
+57
+00:02:04.540 --> 00:02:05.300
+pela Receita,
+
+58
+00:02:05.379 --> 00:02:06.209
+pelo Estado,
+
+59
+00:02:06.339 --> 00:02:07.360
+pela prefeitura.
+
+60
+00:02:07.910 --> 00:02:09.419
+Quando você vai fazer um destrato,
+
+61
+00:02:09.619 --> 00:02:13.220
+todos esses órgãos avaliam a sua DBE,
+
+62
+00:02:13.660 --> 00:02:13.929
+Então
+
+63
+00:02:14.259 --> 00:02:16.539
+se familiarize com esse termo DBE,
+
+64
+00:02:16.580 --> 00:02:20.250
+porque você vai sempre utilizar isso nos processos societários.
+
+65
+00:02:22.320 --> 00:02:25.639
+No distrato de uma empresa que foi registrada na junta comercial.
+
+66
+00:02:25.759 --> 00:02:27.330
+Eu vou entrar lá no registro.
+
+67
+00:02:27.520 --> 00:02:29.360
+Depois a DB é já aprovada
+
+68
+00:02:29.809 --> 00:02:31.240
+Eu vou entrar no registro
+
+69
+00:02:31.399 --> 00:02:33.440
+e vou acessar a junta comercial
+
+70
+00:02:33.880 --> 00:02:37.440
+Ah Eu estou fazendo um distrato de uma empresa que foi registrada em cartório,
+
+71
+00:02:37.559 --> 00:02:38.960
+então não vou clicar na junta.
+
+72
+00:02:39.039 --> 00:02:40.229
+Vou clicar no cartório
+
+73
+00:02:40.679 --> 00:02:44.240
+certo Cliquei na junta o nosso caso aqui que a
+
+74
+00:02:44.240 --> 00:02:47.720
+gente está analisando é uma baixa de uma empresa realizada
+
+75
+00:02:48.000 --> 00:02:49.309
+com o registro na junta.
+
+76
+00:02:49.639 --> 00:02:49.949
+Tá.
+
+77
+00:02:50.559 --> 00:02:51.789
+Então aqui quando eu tenho
+
+78
+00:02:52.160 --> 00:02:54.160
+eh junta comercial do Estado de São Paulo,
+
+79
+00:02:54.199 --> 00:02:56.080
+eu posso acessar o VRE digital,
+
+80
+00:02:56.119 --> 00:02:57.179
+que é o nosso caso,
+
+81
+00:02:57.399 --> 00:02:59.070
+que é o processo que a gente está fazendo
+
+82
+00:02:59.679 --> 00:03:02.600
+Eu posso acessar o VRE que não é o digital,
+
+83
+00:03:02.639 --> 00:03:04.710
+é o do processo presencial
+
+84
+00:03:04.919 --> 00:03:09.550
+e em alguns casos pode ser necessário fazer o processo presencial.
+
+85
+00:03:11.529 --> 00:03:13.740
+Estão cobertos no VRE digital.
+
+86
+00:03:14.000 --> 00:03:15.479
+Só pra gente ter uma noção aqui,
+
+87
+00:03:15.559 --> 00:03:17.940
+mais ou menos do que que a gente pode fazer no digital
+
+88
+00:03:18.600 --> 00:03:19.240
+abertura,
+
+89
+00:03:19.639 --> 00:03:20.380
+alteração,
+
+90
+00:03:20.800 --> 00:03:25.789
+arquivamento e baixa de empresário individual ou de limitada
+
+91
+00:03:26.479 --> 00:03:28.869
+de sociedade limitada no caso.
+
+92
+00:03:29.529 --> 00:03:31.240
+arquivamentos de atas
+
+93
+00:03:31.490 --> 00:03:32.050
+jornal,
+
+94
+00:03:32.169 --> 00:03:34.119
+documento de interesse da empresa,
+
+95
+00:03:34.130 --> 00:03:36.039
+balanço procuração
+
+96
+00:03:36.330 --> 00:03:38.979
+Isso é o arquivamento desses documentos na junta.
+
+97
+00:03:39.050 --> 00:03:39.610
+Tá gente
+
+98
+00:03:39.970 --> 00:03:40.550
+Não é
+
+99
+00:03:40.729 --> 00:03:42.800
+elaborar esses documentos
+
+100
+00:03:42.940 --> 00:03:43.559
+na junta.
+
+101
+00:03:44.410 --> 00:03:47.089
+alteração de outras cláusulas do contrato
+
+102
+00:03:47.839 --> 00:03:49.839
+eh arquivamento de dados de filial
+
+103
+00:03:50.289 --> 00:03:52.929
+consolidação contratual da matriz
+
+104
+00:03:53.600 --> 00:03:55.559
+a consolidação contratual
+
+105
+00:03:55.729 --> 00:03:57.639
+de uma matriz para SA
+
+106
+00:03:57.970 --> 00:03:59.330
+é uma transformação,
+
+107
+00:03:59.449 --> 00:03:59.570
+né?
+
+108
+00:03:59.610 --> 00:04:00.350
+No caso
+
+109
+00:04:01.279 --> 00:04:02.190
+e
+
+110
+00:04:02.639 --> 00:04:05.619
+empresa estrangeira e coopera- cooperativa também
+
+111
+00:04:05.619 --> 00:04:07.690
+pode fazer registro de atos aqui,
+
+112
+00:04:08.240 --> 00:04:08.839
+por exemplo,
+
+113
+00:04:08.960 --> 00:04:10.279
+empresas SA
+
+114
+00:04:10.720 --> 00:04:14.119
+que precisam publicar anualmente as suas demonstrações contábeis.
+
+115
+00:04:14.199 --> 00:04:17.390
+Ela pode fazer o registro através do registro digital.
+
+116
+00:04:17.640 --> 00:04:18.019
+Tá
+
+117
+00:04:18.480 --> 00:04:18.640
+Então.
+
+118
+00:04:18.720 --> 00:04:20.329
+Quando eu falo publicar
+
+119
+00:04:20.630 --> 00:04:21.720
+na junta comercial,
+
+120
+00:04:21.959 --> 00:04:23.709
+nada mais é que um registro
+
+121
+00:04:23.880 --> 00:04:25.109
+do documento na junta.
+
+122
+00:04:25.660 --> 00:04:26.589
+e alguns documentos,
+
+123
+00:04:26.619 --> 00:04:28.769
+eles nem dependem de validação da junta.
+
+124
+00:04:28.980 --> 00:04:29.350
+É mero
+
+125
+00:04:30.339 --> 00:04:33.239
+arquivamento para que se torne oficial
+
+126
+00:04:33.899 --> 00:04:34.059
+Então,
+
+127
+00:04:34.140 --> 00:04:34.540
+por exemplo,
+
+128
+00:04:34.619 --> 00:04:39.320
+uma ata de reunião dos sócios aonde a diretoria é definida
+
+129
+00:04:39.660 --> 00:04:42.929
+ou aonde é estabelecido o cargos da empresa,
+
+130
+00:04:43.059 --> 00:04:44.570
+o organograma e tudo mais.
+
+131
+00:04:44.649 --> 00:04:45.700
+E a empresa quer
+
+132
+00:04:45.899 --> 00:04:49.019
+registrar isso de alguma forma para se tornar oficial.
+
+133
+00:04:49.470 --> 00:04:53.410
+É possível ser feito ali no item de documento de interesse da empresa.
+
+134
+00:04:55.369 --> 00:04:57.570
+Clicamos então no VRE digital,
+
+135
+00:04:57.649 --> 00:04:59.929
+que é o nosso caso de exemplo aqui Essa tela
+
+136
+00:04:59.929 --> 00:05:03.600
+aparece para você consultar o processo que já existe ou
+
+137
+00:05:04.440 --> 00:05:06.119
+iniciar um novo registro.
+
+138
+00:05:06.170 --> 00:05:07.000
+No nosso caso,
+
+139
+00:05:07.049 --> 00:05:09.059
+a gente vai iniciar um novo registro.
+
+140
+00:05:09.089 --> 00:05:09.559
+Por quê?
+
+141
+00:05:09.970 --> 00:05:10.779
+Relembrando
+
+142
+00:05:11.079 --> 00:05:12.290
+a gente fez a DBE
+
+143
+00:05:12.769 --> 00:05:14.679
+para fazer o pedido de
+
+144
+00:05:14.959 --> 00:05:17.329
+de entrada do processo de extrato.
+
+145
+00:05:17.929 --> 00:05:20.880
+A gente está indo para o registro na junta comercial.
+
+146
+00:05:21.339 --> 00:05:24.619
+O DBL já foi validado por todos os órgãos,
+
+147
+00:05:24.980 --> 00:05:25.459
+ou seja,
+
+148
+00:05:25.500 --> 00:05:25.790
+o-,
+
+149
+00:05:25.809 --> 00:05:27.059
+os órgãos já estão cientes.
+
+150
+00:05:27.179 --> 00:05:30.589
+Eu quero fazer um destrato social OK Agora me manda os documentos.
+
+151
+00:05:30.899 --> 00:05:32.440
+Então é essa a etapa que a gente está.
+
+152
+00:05:33.450 --> 00:05:37.220
+Então a gente vai clicar em iniciar registro iniciando o registro.
+
+153
+00:05:37.410 --> 00:05:40.100
+Ele vai te remeter para essa tela
+
+154
+00:05:40.410 --> 00:05:44.970
+e te perguntar se já existe um protocolo rede sim para o processo que você quer fazer
+
+155
+00:05:45.450 --> 00:05:45.929
+E sim,
+
+156
+00:05:46.049 --> 00:05:47.130
+já existe por quê
+
+157
+00:05:47.489 --> 00:05:49.369
+A partir do momento que a gente fez oDBE.
+
+158
+00:05:49.799 --> 00:05:53.510
+Eu já tenho um número de protocolo que precisa ser guardado,
+
+159
+00:05:53.519 --> 00:05:54.730
+precisa ser salvo
+
+160
+00:05:55.239 --> 00:05:58.399
+Então todos os documentos que você gerar através do processo
+
+161
+00:05:58.399 --> 00:06:02.079
+societário lembre-se sempre de ir salvando os PDF s,
+
+162
+00:06:02.559 --> 00:06:06.309
+porque inclusive o número do processo ele é o mesmo desde o início
+
+163
+00:06:06.839 --> 00:06:11.359
+E do início até o término da do distrato social vai ser o mesmo número.
+
+164
+00:06:11.760 --> 00:06:12.000
+Tá
+
+165
+00:06:12.679 --> 00:06:16.899
+Então aqui qua- quando ele te pergunta possui proce- protocolo rede sim.
+
+166
+00:06:17.359 --> 00:06:17.790
+É
+
+167
+00:06:18.239 --> 00:06:19.829
+sim que você vai clicar.
+
+168
+00:06:21.429 --> 00:06:22.510
+e na sequência.
+
+169
+00:06:22.790 --> 00:06:24.920
+Ele vai pedir então o número do protocolo
+
+170
+00:06:25.359 --> 00:06:26.899
+Então no número do aqui
+
+171
+00:06:27.339 --> 00:06:31.350
+nesse campo você vai colocar o número do protocolo e clicar em consultar.
+
+172
+00:06:31.670 --> 00:06:33.269
+Assim que você clicar em consultar,
+
+173
+00:06:33.470 --> 00:06:35.980
+ele vai perguntar se a empresa já possui o NIR
+
+174
+00:06:36.390 --> 00:06:40.559
+NIRi nada mais é que o número de registro da empresa na junta comercial
+
+175
+00:06:41.190 --> 00:06:41.910
+Então nesse caso,
+
+176
+00:06:42.029 --> 00:06:45.029
+como é uma empresa que já existia registrada na junta comercial,
+
+177
+00:06:45.149 --> 00:06:47.350
+eu já o tenho o NIR dessa empresa.
+
+178
+00:06:48.399 --> 00:06:48.640
+Então,
+
+179
+00:06:48.700 --> 00:06:49.269
+a gente
+
+180
+00:06:50.119 --> 00:06:51.070
+coloca aqui
+
+181
+00:06:51.519 --> 00:06:54.309
+o número do NIRI lá no campo que ele vai pedir.
+
+182
+00:06:55.510 --> 00:06:55.690
+E.
+
+183
+00:06:55.750 --> 00:06:57.750
+Assim que a gente preencher com o número do NIR,
+
+184
+00:06:57.829 --> 00:06:58.570
+ele vai consultar
+
+185
+00:06:59.149 --> 00:07:03.510
+o DBE que eu já enviei e vai trazer alguns dados do pré-preenchido do DBE.
+
+186
+00:07:04.269 --> 00:07:05.260
+Então aqui eu já tenho
+
+187
+00:07:05.549 --> 00:07:07.920
+eh a maioria dos dados que eu preciso para
+
+188
+00:07:07.920 --> 00:07:11.700
+o processo de extrato já são trazidos do DBE.
+
+189
+00:07:12.589 --> 00:07:13.859
+E nessa tela,
+
+190
+00:07:13.869 --> 00:07:15.100
+eu só vou conferir
+
+191
+00:07:15.390 --> 00:07:16.100
+alguns dados.
+
+192
+00:07:16.670 --> 00:07:18.670
+Se tiver algum erro aqui nessa tela,
+
+193
+00:07:18.750 --> 00:07:19.730
+você vai ter que voltar
+
+194
+00:07:20.149 --> 00:07:20.910
+ao DBE,
+
+195
+00:07:21.029 --> 00:07:23.850
+cancelar o protocolo e gerar um novo.
+
+196
+00:07:24.100 --> 00:07:24.670
+Então nessa tela,
+
+197
+00:07:24.709 --> 00:07:28.350
+nós temos o resumo do processo descendo a barra de rolagem.
+
+198
+00:07:28.429 --> 00:07:32.260
+Você vai ver o nome do responsável pelos livros da empresa
+
+199
+00:07:32.630 --> 00:07:35.739
+o capital social da empresa que já está registrado
+
+200
+00:07:35.989 --> 00:07:37.630
+o responsável legal da empresa,
+
+201
+00:07:37.709 --> 00:07:38.920
+o seu CPF.
+
+202
+00:07:40.670 --> 00:07:41.880
+descendo ainda.
+
+203
+00:07:42.910 --> 00:07:44.750
+Tem um botãozinho lá no final
+
+204
+00:07:45.269 --> 00:07:46.269
+para você avançar
+
+205
+00:07:47.070 --> 00:07:47.309
+Então,
+
+206
+00:07:47.589 --> 00:07:48.720
+estando tudo certo aqui,
+
+207
+00:07:48.790 --> 00:07:50.989
+não precisa fazer nenhuma retificação da DBE.
+
+208
+00:07:51.029 --> 00:07:52.179
+É só avançarmos.

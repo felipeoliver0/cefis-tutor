@@ -1,0 +1,33 @@
+{
+  "id": 486472,
+  "title": "Objetivo do curso",
+  "position": 2,
+  "duration": 86,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ebdbb40d-3213-46af-b9f9-35b9186a6e1b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebdbb40d-3213-46af-b9f9-35b9186a6e1b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebdbb40d-3213-46af-b9f9-35b9186a6e1b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebdbb40d-3213-46af-b9f9-35b9186a6e1b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ebdbb40d-3213-46af-b9f9-35b9186a6e1b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

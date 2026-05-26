@@ -1,0 +1,33 @@
+{
+  "id": 488254,
+  "title": "Comunicação virtual e imagem profissional",
+  "position": 30,
+  "duration": 302,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/66c49c1b-ce47-49a4-94f7-74cd5349b3ce/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/66c49c1b-ce47-49a4-94f7-74cd5349b3ce/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/66c49c1b-ce47-49a4-94f7-74cd5349b3ce/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/66c49c1b-ce47-49a4-94f7-74cd5349b3ce/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/66c49c1b-ce47-49a4-94f7-74cd5349b3ce/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

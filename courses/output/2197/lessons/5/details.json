@@ -1,0 +1,33 @@
+{
+  "id": 463508,
+  "title": "Disposições legais",
+  "position": 5,
+  "duration": 287,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f988bb50-ebf5-40f1-b4ea-8c32c004b40e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f988bb50-ebf5-40f1-b4ea-8c32c004b40e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f988bb50-ebf5-40f1-b4ea-8c32c004b40e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f988bb50-ebf5-40f1-b4ea-8c32c004b40e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f988bb50-ebf5-40f1-b4ea-8c32c004b40e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

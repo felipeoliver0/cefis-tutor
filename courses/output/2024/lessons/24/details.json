@@ -1,0 +1,33 @@
+{
+  "id": 461241,
+  "title": "Trade Dress, casos concretos e concorrência desleal",
+  "position": 24,
+  "duration": 357,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/413d79ed-e296-47ac-9d88-fd52432495f5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/413d79ed-e296-47ac-9d88-fd52432495f5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/413d79ed-e296-47ac-9d88-fd52432495f5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/413d79ed-e296-47ac-9d88-fd52432495f5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/413d79ed-e296-47ac-9d88-fd52432495f5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

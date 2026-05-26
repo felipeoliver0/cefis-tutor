@@ -1,0 +1,385 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.940
+Os objetivos do nosso treinamento de hoje é capacitar contadores, analistas, assistentes
+
+3
+00:00:06.940 --> 00:00:13.119
+e auxiliares das áreas contábeis e fiscal para a correta elaboração, validação e
+
+4
+00:00:13.119 --> 00:00:21.519
+transmissão da ECF, com foco nas exigências fiscais vigentes, na integração da ECD e
+
+5
+00:00:21.519 --> 00:00:25.600
+na apuração do imposto de renda e da contribuição social.
+
+6
+00:00:25.600 --> 00:00:28.379
+Esse é o nosso grande objetivo geral.
+
+7
+00:00:28.379 --> 00:00:36.380
+E como objetivo específico, nós temos aí compreender a estrutura, finalidade e obrigatoriedade
+
+8
+00:00:36.380 --> 00:00:43.219
+da ECF no contexto do ESPED, Sistema Público de Escrituração Digital, identificar os
+
+9
+00:00:43.219 --> 00:00:49.579
+principais impactos da ECF na rotina contábil e tributária das empresas, principalmente
+
+10
+00:00:49.579 --> 00:00:54.299
+quando nós temos saldo negativo de imposto de renda e contribuição social, e que depois
+
+11
+00:00:54.299 --> 00:00:58.299
+nós vamos elaborar uma perda e-comp e isso tem cruzamento.
+
+12
+00:00:58.299 --> 00:00:58.359
+O que é isso?
+
+13
+00:00:58.359 --> 00:01:04.799
+O fisco vai checar, vai analisar blocos, registros e regras de preenchimento da obrigação
+
+14
+00:01:04.799 --> 00:01:11.120
+acessória, entender a integração entre ECD e ECF, vou estar dando uma dica de ouro
+
+15
+00:01:11.120 --> 00:01:17.299
+agora para vocês, já gravamos e atualizamos a ECD, então também já comentamos sobre
+
+16
+00:01:17.299 --> 00:01:20.859
+a ECD e agora vamos ter comentar sobre a ECF.
+
+17
+00:01:21.200 --> 00:01:25.140
+Elas se complementam, tanto a ECD quanto a ECF.
+
+18
+00:01:25.140 --> 00:01:28.140
+Então aqui incluindo recuperação de saldos e vinculação.
+
+19
+00:01:28.359 --> 00:01:36.959
+Olha a importância primeiro da contabilidade, das informações da contabilização desses
+
+20
+00:01:36.959 --> 00:01:37.959
+tributos.
+
+21
+00:01:37.959 --> 00:01:44.680
+Serão recepcionados pela ECF e aí sim eu tenho um quadro demonstrando os cálculos
+
+22
+00:01:44.680 --> 00:01:49.760
+tributários que vai ser entregue para a Receita Federal.
+
+23
+00:01:49.760 --> 00:01:54.920
+Aplicar corretamente os controles do ELALUR e o ELAX, então nós temos que escriturar
+
+24
+00:01:54.920 --> 00:01:58.280
+ou trimestralmente ou mensalmente.
+
+25
+00:01:58.280 --> 00:01:59.959
+Estar comentando também.
+
+26
+00:01:59.959 --> 00:02:05.079
+Revisar procedimentos relacionados à apuração do imposto de rede, da contribuição social,
+
+27
+00:02:05.079 --> 00:02:08.020
+do lucro real e do lucro presumido.
+
+28
+00:02:08.020 --> 00:02:12.120
+Vamos falar das demais também, mas principalmente lucro real e presumido.
+
+29
+00:02:12.120 --> 00:02:18.520
+Identificar inconsistências, advertências e erros mais comuns apresentados pelo programa
+
+30
+00:02:18.520 --> 00:02:23.159
+validador, que nós fazemos o download lá da Receita Federal.
+
+31
+00:02:23.159 --> 00:02:27.879
+Desenvolver maior segurança técnica na conferência das informações.
+
+32
+00:02:28.280 --> 00:02:30.099
+Transmitidas ao fisco.
+
+33
+00:02:30.099 --> 00:02:32.099
+Tudo isso são nossos objetivos.
+
+34
+00:02:32.099 --> 00:02:38.139
+Reduzir risco de autuações fiscais decorrente de falhas nessa escrituração.
+
+35
+00:02:38.139 --> 00:02:44.740
+Como também aperfeiçoar práticas de complágio tributário relacionado às obrigações acessórias
+
+36
+00:02:44.740 --> 00:02:45.740
+digitais.
+
+37
+00:02:45.740 --> 00:02:49.879
+Então, vocês estão percebendo, nós temos muito objetivo, temos muito material, temos
+
+38
+00:02:49.879 --> 00:02:54.520
+muitos que comentar hoje com vocês sobre a entrega da ECF.
+
+39
+00:02:54.520 --> 00:02:56.879
+O nosso público-alvo, né?
+
+40
+00:02:56.879 --> 00:02:57.960
+E o aprendizado.
+
+41
+00:02:57.960 --> 00:03:03.879
+O aprendizado esperado para esse curso é direcionado, obviamente, a contadores, analistas
+
+42
+00:03:03.879 --> 00:03:11.379
+contábeis, assistentes contábeis, auxiliares também, fiscal e contábil, bem como profissionais
+
+43
+00:03:11.379 --> 00:03:18.460
+que atuam com rotinas tributárias, societárias e obrigações acessórias relacionado ao
+
+44
+00:03:18.460 --> 00:03:20.900
+ESPED de uma maneira geral.
+
+45
+00:03:20.900 --> 00:03:26.960
+Também é recomendado para consultores, auditores, empresários, gestores e demais responsáveis
+
+46
+00:03:26.960 --> 00:03:27.960
+que pretendem elaborar o curso.
+
+47
+00:03:27.960 --> 00:03:37.460
+Então, aqui nós damos alguns toques no dia a dia, trazemos o chão de fábrica para exemplificar,
+
+48
+00:03:37.460 --> 00:03:41.379
+para que vocês desempenhem com maestria aí o trabalho de vocês.
+
+49
+00:03:41.379 --> 00:03:45.340
+O curso também se estende a estudantes, sem sombra de dúvida.
+
+50
+00:03:45.340 --> 00:03:51.340
+Sejam muito bem-vindos, os estudantes de Ciências Contábeis que desejam atualizar e aprofundar
+
+51
+00:03:51.340 --> 00:03:56.879
+o seu conhecimento nessa área tributária, nessa área de obrigações acessórias, especialmente,
+
+52
+00:03:56.879 --> 00:03:57.840
+no que se refere à matéria de contabilidade.
+
+53
+00:03:57.840 --> 00:04:03.900
+Se refere à integração com a ECD, o interlaçamento entre as duas.
+
+54
+00:04:03.900 --> 00:04:09.340
+Aos controles do ELALUR e do ELAX e apuração do imposto de renda e contribuição social
+
+55
+00:04:09.340 --> 00:04:13.780
+nas empresas tributado pelo lucro real e lucro presumido.
+
+56
+00:04:13.780 --> 00:04:19.079
+Mas vamos falar também das imunes e isentas também, vamos estar comentando, porque nós
+
+57
+00:04:19.079 --> 00:04:26.519
+vamos abordar quais são os tipos de empresas que são obrigados a entregar a ECF, qual
+
+58
+00:04:26.519 --> 00:04:27.839
+é a função dela.
+
+59
+00:04:27.839 --> 00:04:30.459
+Principalmente com a evolução do tempo.
+
+60
+00:04:30.459 --> 00:04:37.139
+Ao final, espera-se que todos vocês sejam capazes de compreender e estruturar a estrutura
+
+61
+00:04:37.139 --> 00:04:44.920
+e a finalidade da ECF, identificando sua importância no contexto geral do SPED, que é quem mais
+
+62
+00:04:44.920 --> 00:04:51.660
+bomba informação para todos os demais, e da fiscalização eletrônica que são realizadas
+
+63
+00:04:51.660 --> 00:04:52.959
+pela Receita Federal.
+
+64
+00:04:52.959 --> 00:04:57.339
+Então, nós temos aí realmente muita informação sobre esses detalhes.
+
+65
+00:04:57.839 --> 00:05:05.160
+Os participantes deverão desenvolver maior segurança técnica para elaborar, revisar,
+
+66
+00:05:05.160 --> 00:05:08.720
+transmitir e por que não interpretar?
+
+67
+00:05:08.720 --> 00:05:14.139
+Nós temos que ter um senso crítico do que nós remetemos ao fisco.
+
+68
+00:05:14.139 --> 00:05:17.720
+Não é simplesmente importar os dados e transmitir, não.
+
+69
+00:05:17.720 --> 00:05:22.779
+Tenho que conferir, tenho que analisar, tenho que ter críticas com relação ao que nós
+
+70
+00:05:22.779 --> 00:05:24.459
+estamos remetendo.
+
+71
+00:05:24.459 --> 00:05:27.459
+Justamente para que seja corretamente.
+
+72
+00:05:27.459 --> 00:05:28.459
+Não é?
+
+73
+00:05:28.459 --> 00:05:35.220
+Enviar os principais blocos, registros, regras e toda a exigência da legislação.
+
+74
+00:05:35.220 --> 00:05:36.220
+Não é?
+
+75
+00:05:36.220 --> 00:05:37.220
+Esse é o nosso objetivo.
+
+76
+00:05:37.220 --> 00:05:42.560
+Além disso, esperamos que consigam relacionar as informações contábeis e tributárias
+
+77
+00:05:42.560 --> 00:05:48.420
+utilizadas entre as duas principais demonstrações, ECD e ECF, compreendendo os mecanismos de
+
+78
+00:05:48.420 --> 00:05:54.779
+recuperação de saldos, vinculação das contas e controle do LALUR e do LAX.
+
+79
+00:05:54.779 --> 00:05:56.819
+Também busca capacitar os profissionais.
+
+80
+00:05:56.819 --> 00:05:57.259
+Como?
+
+81
+00:05:57.259 --> 00:06:02.560
+Os profissionais para identificar inconsistências, prevenir erros frequentes na transmissão e
+
+82
+00:06:02.560 --> 00:06:08.720
+analisar os impactos tributários relacionados ao imposto de renda e contribuição social
+
+83
+00:06:08.720 --> 00:06:10.899
+no lucro real e lucro presumido.
+
+84
+00:06:10.899 --> 00:06:17.300
+E por fim, como resultado, os participantes deverão estar mais preparados justamente
+
+85
+00:06:17.300 --> 00:06:23.519
+para atuar de forma técnica, preventiva e estratégica no cumprimento das obrigações
+
+86
+00:06:23.519 --> 00:06:25.019
+acessórias digitais.
+
+87
+00:06:25.019 --> 00:06:26.620
+Com isso?
+
+88
+00:06:26.620 --> 00:06:31.600
+Contribuindo para a redução de riscos fiscais, que é tudo o que nós corremos atrás no
+
+89
+00:06:31.600 --> 00:06:33.240
+dia a dia, né?
+
+90
+00:06:33.240 --> 00:06:40.699
+Maior conformidade tributária, melhoria na qualidade das informações entregues à Receita
+
+91
+00:06:40.699 --> 00:06:41.699
+Federal.
+
+92
+00:06:41.699 --> 00:06:49.899
+Então, esse é o grande objetivo, que a gente minimize ao máximo o risco de ser notificado,
+
+93
+00:06:49.899 --> 00:06:56.620
+de termos que explicar, de termos erros, justamente para maximizar o lucro dos nossos empresários,
+
+94
+00:06:56.620 --> 00:06:57.620
+dos nossos empreendedores.
+
+95
+00:06:57.620 --> 00:06:59.379
+Esse é o grande objetivo, né?
+
+96
+00:06:59.379 --> 00:07:04.379
+Então, entregar corretamente faz parte da nossa profissão, principalmente o pessoal
+
+97
+00:07:04.379 --> 00:07:07.199
+da área fiscal, que trabalha fortemente aí, né?

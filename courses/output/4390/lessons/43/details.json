@@ -1,0 +1,33 @@
+{
+  "id": 485391,
+  "title": "Quiz - Parte 1",
+  "position": 43,
+  "duration": 314,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/13932bea-be06-4d72-8dde-2e131a4a41c0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13932bea-be06-4d72-8dde-2e131a4a41c0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13932bea-be06-4d72-8dde-2e131a4a41c0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13932bea-be06-4d72-8dde-2e131a4a41c0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13932bea-be06-4d72-8dde-2e131a4a41c0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 454573,
+  "title": "Voto plural e administração na SA",
+  "position": 13,
+  "duration": 270,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/200ca77f-132b-443f-8452-d7f222e3a212/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/200ca77f-132b-443f-8452-d7f222e3a212/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/200ca77f-132b-443f-8452-d7f222e3a212/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/200ca77f-132b-443f-8452-d7f222e3a212/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/200ca77f-132b-443f-8452-d7f222e3a212/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

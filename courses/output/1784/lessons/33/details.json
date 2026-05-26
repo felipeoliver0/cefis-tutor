@@ -1,0 +1,33 @@
+{
+  "id": 457581,
+  "title": "Investigação interna",
+  "position": 33,
+  "duration": 310,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c2880db4-3817-4130-a0e9-db2a95a9917a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2880db4-3817-4130-a0e9-db2a95a9917a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2880db4-3817-4130-a0e9-db2a95a9917a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2880db4-3817-4130-a0e9-db2a95a9917a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2880db4-3817-4130-a0e9-db2a95a9917a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 480826,
+  "title": "Regimes Diferenciados - CBS",
+  "position": 17,
+  "duration": 82,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/34d13124-600c-4f36-8396-23c134f9d9e4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34d13124-600c-4f36-8396-23c134f9d9e4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34d13124-600c-4f36-8396-23c134f9d9e4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34d13124-600c-4f36-8396-23c134f9d9e4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34d13124-600c-4f36-8396-23c134f9d9e4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 460294,
+  "title": "Associações especificas e Fundação",
+  "position": 17,
+  "duration": 300,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c1859ec8-6731-4558-ba0a-b8d27bda7550/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c1859ec8-6731-4558-ba0a-b8d27bda7550/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c1859ec8-6731-4558-ba0a-b8d27bda7550/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c1859ec8-6731-4558-ba0a-b8d27bda7550/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c1859ec8-6731-4558-ba0a-b8d27bda7550/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

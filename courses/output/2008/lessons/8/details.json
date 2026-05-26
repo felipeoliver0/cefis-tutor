@@ -1,0 +1,33 @@
+{
+  "id": 461105,
+  "title": "Art. 167 - A restituição",
+  "position": 8,
+  "duration": 257,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/65268d9b-3ed2-4c8e-9dd3-c4d10494eb54/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65268d9b-3ed2-4c8e-9dd3-c4d10494eb54/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65268d9b-3ed2-4c8e-9dd3-c4d10494eb54/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65268d9b-3ed2-4c8e-9dd3-c4d10494eb54/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65268d9b-3ed2-4c8e-9dd3-c4d10494eb54/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

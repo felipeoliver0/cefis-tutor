@@ -1,0 +1,33 @@
+{
+  "id": 482851,
+  "title": "Diferença de taxas de juros",
+  "position": 19,
+  "duration": 249,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/92133f49-4d22-4f34-816e-5ecdb3b2026e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92133f49-4d22-4f34-816e-5ecdb3b2026e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92133f49-4d22-4f34-816e-5ecdb3b2026e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92133f49-4d22-4f34-816e-5ecdb3b2026e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/92133f49-4d22-4f34-816e-5ecdb3b2026e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

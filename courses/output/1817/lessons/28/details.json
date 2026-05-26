@@ -1,0 +1,33 @@
+{
+  "id": 457719,
+  "title": "Informações que devem ser divulgadas",
+  "position": 29,
+  "duration": 181,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/49303cd6-f62f-4055-b84d-3c4593a17181/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49303cd6-f62f-4055-b84d-3c4593a17181/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49303cd6-f62f-4055-b84d-3c4593a17181/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49303cd6-f62f-4055-b84d-3c4593a17181/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/49303cd6-f62f-4055-b84d-3c4593a17181/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

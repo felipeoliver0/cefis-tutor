@@ -1,0 +1,453 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.259
+beleza, Então vamos lá.
+
+2
+00:00:01.269 --> 00:00:03.740
+Eu vou fazer um exercício com vocês de preço de venda
+
+3
+00:00:03.750 --> 00:00:07.099
+e pra calcular margem bruta não é margem de contribuição.
+
+4
+00:00:07.110 --> 00:00:13.119
+Margem bruta, que é a nossa d r zinha, que nós verificamos ali. Então, nós temos aqui
+
+5
+00:00:13.750 --> 00:00:17.030
+um exemplo aonde nós temos aqui que uma empresa ela precisa,
+
+6
+00:00:17.040 --> 00:00:18.559
+precificar seus produtos ok,
+
+7
+00:00:18.569 --> 00:00:24.340
+ela quer obter uma margem bruta de quarenta por cento em relação às vendas,
+
+8
+00:00:24.350 --> 00:00:27.120
+considerando os custos e despesas variáveis e também os
+
+9
+00:00:27.129 --> 00:00:30.020
+custos fixos necessários para a fabricação do produto.
+
+10
+00:00:30.030 --> 00:00:33.919
+Aqui gente, só uma observação, custos ou despesas variáveis aqui, No fundo,
+
+11
+00:00:33.930 --> 00:00:37.000
+você pode fazer a leitura de custos, porque normalmente as despesas, né.
+
+12
+00:00:37.009 --> 00:00:38.639
+Nomenclatura tá lá embaixo.
+
+13
+00:00:38.650 --> 00:00:44.634
+Mas aquela despesa é mais a fixa, como eu dei pra exemplo pra vocês, em há um plano,
+
+14
+00:00:44.645 --> 00:00:47.154
+uma, uma campanha grande de marketing.
+
+15
+00:00:47.165 --> 00:00:49.994
+Aqui até pode ser considerado despesa,
+
+16
+00:00:50.005 --> 00:00:55.154
+mas ela entra em como custo porque é tudo que é atrelado à produção, tá?
+
+17
+00:00:55.165 --> 00:00:59.715
+E a fórmula do preço de venda é assim, preço de venda é igual custo dos produtos,
+
+18
+00:00:59.724 --> 00:01:03.154
+dividido por um menos a margem bruta que a gente quer obter.
+
+19
+00:01:03.165 --> 00:01:05.364
+Então a gente vai ter uma simulação de variável que Eu já quero oh,
+
+20
+00:01:05.375 --> 00:01:07.114
+eu quero obter uma margem bruta de tanto.
+
+21
+00:01:07.125 --> 00:01:07.654
+Por quê?
+
+22
+00:01:08.129 --> 00:01:09.879
+Porque de repente eu sei que as minhas despesas
+
+23
+00:01:09.889 --> 00:01:12.620
+fixas representam X por cento daquela margem bruta,
+
+24
+00:01:12.629 --> 00:01:14.599
+e eu quero ter um lucro líquido de Y.
+
+25
+00:01:14.610 --> 00:01:21.819
+Então se eu conheço a margem bruta, eu sei que eu vou conseguir. Precificar, claro.
+
+26
+00:01:21.830 --> 00:01:22.139
+Gente.
+
+27
+00:01:22.150 --> 00:01:26.580
+Sempre a gente fala precificar, mas claro, tem que ver o mercado ter uma ideia,
+
+28
+00:01:26.589 --> 00:01:28.779
+né dos preços de mercados.
+
+29
+00:01:28.790 --> 00:01:30.139
+Porque a concorrência tá aí.
+
+30
+00:01:30.150 --> 00:01:31.459
+Mas isso é legal,
+
+31
+00:01:31.470 --> 00:01:34.900
+porque se você perceber que de alguma forma você faz um cálculo e fala assim ah,
+
+32
+00:01:34.910 --> 00:01:36.239
+eu precisava precificar
+
+33
+00:01:36.589 --> 00:01:40.000
+o meu produto tanto porque pra ter essa margem com essa margem que é
+
+34
+00:01:40.010 --> 00:01:44.580
+suficiente pra dar resultado positivo lá no final de um boto online de lucro.
+
+35
+00:01:44.589 --> 00:01:46.239
+E se eu falar que eu preciso de um preço de
+
+36
+00:01:46.250 --> 00:01:48.720
+venda maior que eu eu perceber que o mercado tá praticando,
+
+37
+00:01:48.730 --> 00:01:50.419
+eu vou perceber que eu tenho uma ineficiência
+
+38
+00:01:50.430 --> 00:01:54.339
+ou no custo ou aqui na despesa operacional.
+
+39
+00:01:54.349 --> 00:01:57.639
+Isso é legal porque, apesar de você tá usando dados contábil,
+
+40
+00:01:57.650 --> 00:02:00.760
+você consegue fazer alguns algumas análises legais e importantes pra
+
+41
+00:02:00.769 --> 00:02:02.400
+isso que é isso que a gente quer trazer.
+
+42
+00:02:02.410 --> 00:02:05.500
+tá bom. Então aqui, nesse exemplo,
+
+43
+00:02:05.860 --> 00:02:07.050
+a gente tá dizendo que
+
+44
+00:02:07.730 --> 00:02:09.940
+a empresa definiu uma margem bruta de quarenta.
+
+45
+00:02:09.949 --> 00:02:12.220
+E aí, a princípio,
+
+46
+00:02:12.229 --> 00:02:15.949
+se ela quer quarenta por cento de margens e
+
+47
+00:02:15.960 --> 00:02:20.100
+ela tem aqui um custo de produção de noventa,
+
+48
+00:02:20.110 --> 00:02:21.539
+qual seria o preço de venda?
+
+49
+00:02:21.550 --> 00:02:26.399
+E a gente faz um cálculo matemático e a gente pode olhar ali onde eu tenho, na verdade,
+
+50
+00:02:26.729 --> 00:02:31.820
+um custo que representa sessenta por cento das minhas
+
+51
+00:02:31.830 --> 00:02:33.860
+vendas ou do meu preço de venda ou das
+
+52
+00:02:33.869 --> 00:02:37.720
+minhas vendas totais de forma que eu consigo por
+
+53
+00:02:37.729 --> 00:02:40.139
+essa fórmula calcular que o preço de venda,
+
+54
+00:02:40.149 --> 00:02:43.699
+se for uma unidade aqui nesse exemplo hipotético,
+
+55
+00:02:43.710 --> 00:02:49.279
+eu tenho que esse um menos a minha margem definida de quarenta,
+
+56
+00:02:49.289 --> 00:02:51.240
+sendo o meu custo de produção
+
+57
+00:02:51.529 --> 00:02:54.419
+noventa por cento noventa, eu consigo chegar.
+
+58
+00:02:54.429 --> 00:02:58.020
+Então nessa precificação, imaginando que seja um produto.
+
+59
+00:02:58.029 --> 00:03:03.179
+Então, o que que a gente consegue ver aqui nessa planilha em Excel eu deixei já aqui,
+
+60
+00:03:03.190 --> 00:03:10.419
+pra vocês, a margem bruta, que essa empresa gostaria de obter quarenta por cento.
+
+61
+00:03:10.429 --> 00:03:14.820
+E nós iremos aqui determinar o preço de venda.
+
+62
+00:03:14.830 --> 00:03:20.600
+Só que eu consigo identificar justamente que se na minha fórmula aqui,
+
+63
+00:03:21.199 --> 00:03:22.690
+o preço de venda, né?
+
+64
+00:03:22.699 --> 00:03:26.570
+É o custo dos produtos dividido por um menos a margens eu
+
+65
+00:03:26.580 --> 00:03:30.710
+já tenho aqui se o meu custo de produção aqui é noventa.
+
+66
+00:03:30.720 --> 00:03:32.509
+E a Priore,
+
+67
+00:03:32.899 --> 00:03:35.690
+eu quero uma margem de quarenta por cento.
+
+68
+00:03:35.699 --> 00:03:38.309
+Vocês estão vendo que a forma me traz aqui,
+
+69
+00:03:38.320 --> 00:03:41.330
+pra um preço de venda de cento e cinquenta nesse exemplo?
+
+70
+00:03:41.339 --> 00:03:47.190
+Tá. E nessa que a gente chama análise vertical Aqui é quanto representa, né?
+
+71
+00:03:47.199 --> 00:03:50.350
+A margem em relação ao preço de venda ou à venda?
+
+72
+00:03:50.360 --> 00:03:52.649
+Supondo dessa unidade, é cento e cinquenta?
+
+73
+00:03:53.399 --> 00:03:56.070
+Então nós temos, aqui olha aqui. A margem
+
+74
+00:03:56.649 --> 00:04:01.580
+bruta de sessenta representa exatamente quando eu divido um pelo outro, né?
+
+75
+00:04:01.589 --> 00:04:04.220
+Eu representa quarenta por cento das minhas vendas.
+
+76
+00:04:04.229 --> 00:04:09.460
+Então eu consegui determinar o preço de venda, fazendo essa conta simples,
+
+77
+00:04:09.470 --> 00:04:14.720
+que é custo da produção, dividido por um menos a margem que eu quero obter.
+
+78
+00:04:15.119 --> 00:04:19.529
+Vamos lá no slide sessenta e quatro Eu vou primeiro apresentar
+
+79
+00:04:19.540 --> 00:04:23.929
+aqui pra vocês o cálculo que nós vamos fazer no Excel.
+
+80
+00:04:23.940 --> 00:04:25.230
+Aqui, o que que eu quero trazer aqui?
+
+81
+00:04:25.239 --> 00:04:30.029
+É um exemplo pra nós podermos exercitar esse conceito,
+
+82
+00:04:30.609 --> 00:04:34.380
+uma empresa pretende obter uma margem bruta de cinquenta e
+
+83
+00:04:34.390 --> 00:04:36.980
+cinco por cento sobre as vendas sobre as vendas,
+
+84
+00:04:36.989 --> 00:04:39.059
+qual deve ser seu preço de venda,
+
+85
+00:04:39.070 --> 00:04:43.100
+sabendo que o custo de produção é cinquenta por unidade, né?
+
+86
+00:04:43.109 --> 00:04:48.660
+Por peça, e o total das peças vendidas são de trezentas unidades.
+
+87
+00:04:48.670 --> 00:04:52.140
+Então ali depois eu vou mostrar o Excel. Mas eu quero comentar com vocês, eu tenho.
+
+88
+00:04:52.149 --> 00:04:55.019
+Eu tenho o custo por unidade de cinquenta que me foi dado.
+
+89
+00:04:55.029 --> 00:04:58.519
+As unidades vendidas serão trezentas nesse período.
+
+90
+00:04:58.779 --> 00:05:02.809
+Eu tenho aqui um custo de produção de
+
+91
+00:05:03.429 --> 00:05:04.720
+quinze mil.
+
+92
+00:05:04.730 --> 00:05:07.959
+É como se fosse um custo fixo da produção, já se conhece,
+
+93
+00:05:07.970 --> 00:05:11.109
+eu quero uma margem de cinquenta e cinco por cento.
+
+94
+00:05:11.119 --> 00:05:14.279
+Qual deve ser um preço de venda? É uma continha matemática muito simples.
+
+95
+00:05:14.290 --> 00:05:19.119
+Mas assim, se você conseguir planilhar e fazer uma análise né,
+
+96
+00:05:19.130 --> 00:05:21.589
+consistente da evolução do resultado da empresa,
+
+97
+00:05:21.600 --> 00:05:24.480
+você vai conseguir ter um pouco melhor essa visão.
+
+98
+00:05:24.489 --> 00:05:29.420
+Então, o preço de venda que a gente vai conseguir trazer pra que a gente obtenha
+
+99
+00:05:30.059 --> 00:05:35.149
+com essa quantidade vendida e que esse custo fixo um, um preço mínimo exigido,
+
+100
+00:05:35.160 --> 00:05:36.670
+eu vou ter que fazer essa continha.
+
+101
+00:05:36.679 --> 00:05:37.980
+O preço de venda é igual.
+
+102
+00:05:37.989 --> 00:05:41.390
+O custo da produção é dividido por um menos a margem que eu quero obter.
+
+103
+00:05:41.399 --> 00:05:44.859
+Como eu quero obter uma margem de cinquenta e cinco E o meu custo,
+
+104
+00:05:44.869 --> 00:05:47.410
+teoricamente tá mais ou menos fixo da produção.
+
+105
+00:05:47.420 --> 00:05:51.309
+Eu quero dizer que o meu preço de venda é cento e onze vírgula onze.
+
+106
+00:05:51.320 --> 00:05:55.149
+E de fato, na hora que eu jogo o cálculo, aqui o que que eu tenho?
+
+107
+00:05:55.160 --> 00:05:57.089
+Eu tenho que a minha receita
+
+108
+00:05:57.410 --> 00:06:00.700
+precisa ser em torno de T trinta e três, Trezentos e trinta e três.
+
+109
+00:06:00.709 --> 00:06:02.799
+Por que o preço de venda de cento e onze
+
+110
+00:06:02.809 --> 00:06:06.980
+vírgula onze por trezentas unidades vai gerar essa receita de
+
+111
+00:06:06.989 --> 00:06:10.100
+forma então que com esse custo eu vou obter essa
+
+112
+00:06:10.109 --> 00:06:13.579
+margem que representa cinquenta e cinco por cento né?
+
+113
+00:06:13.589 --> 00:06:16.239
+Da minha receita pessoal, vamos no Excel, ficou claro.

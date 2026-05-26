@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3929,
+    "title": "Formação Analista Fiscal",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso de Formação Analista Fiscal, você irá aprender na prática tudo o que precisa saber sobre análise fiscal. Aprenderá os fundamentos e a prática de regimes de tributação, impostos como ICMS, IPI e ISS, além de exigências do SPED e interpretação dos convênios e protocolos, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre análise fiscal.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/0d3b038b-9410-4f1d-b9a1-079f3fbc6349-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Formação Analista Fiscal: Curso Prático é a capacitação para a aplicação prática de conhecimentos técnicos e práticos sobre tributação no Brasil, incluindo impostos indiretos e diretos, retenções na fonte e obrigações acessórias digitais."
+    ],
+    "teacher": {
+      "id": 418635,
+      "name": "JOÃO OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1595429175.jpeg"
+    },
+    "duration": 16431,
+    "keywords": "Tributação;ICMS;IRPJ;SPED;PIS/COFINS",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 46,
+    "materialCount": 31,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1303,
+    "averageRating": 9.19,
+    "practiceAverage": 9.09,
+    "trailer": {
+      "id": "355ece85-df7f-4dc4-9115-e5b78203b4c3",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/355ece85-df7f-4dc4-9115-e5b78203b4c3/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/355ece85-df7f-4dc4-9115-e5b78203b4c3/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/355ece85-df7f-4dc4-9115-e5b78203b4c3/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/355ece85-df7f-4dc4-9115-e5b78203b4c3/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-06T16:47:16.000Z",
+      "updatedAt": "2025-11-06T16:47:16.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-06T16:48:24.000Z",
+    "recordedAt": "2025-08-19T00:00:00.000Z",
+    "createdAt": "2025-08-18T22:30:35.000Z"
+  }
+}

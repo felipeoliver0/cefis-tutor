@@ -1,0 +1,33 @@
+{
+  "id": 470585,
+  "title": "Numerário em trânsito",
+  "position": 19,
+  "duration": 70,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ff44458c-2c32-46e5-a472-e397eb617856/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff44458c-2c32-46e5-a472-e397eb617856/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff44458c-2c32-46e5-a472-e397eb617856/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff44458c-2c32-46e5-a472-e397eb617856/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff44458c-2c32-46e5-a472-e397eb617856/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

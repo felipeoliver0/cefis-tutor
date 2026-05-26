@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1949,
+    "title": "Cadastro de Atividade Econômica da Pessoas Física (CAEPF)",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de CAEPF você vai aprender todas as características e o passo a passo para a realização do Cadastro de Atividade Econômica da Pessoas Física, que agrega informações das atividades econômicas exercidas pela pessoa física quando dispensadas de inscrição no CNPJ.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/814a638003e2102868eac90efde6707a1728427927.jpg",
+    "goals": [
+      "Apresentar todas as características e o passo a passo para a realização do Cadastro de Atividade Econômica da Pessoas Física (CAEPF)."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 2666,
+    "keywords": "Cadastro de Atividade Econômica da Pessoas Física;CAEPF",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 12,
+    "materialCount": 6,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 108,
+    "averageRating": 9.38,
+    "practiceAverage": 9.31,
+    "trailer": {
+      "id": "24765fb2-d1a6-4e3b-8aeb-6ac3af668eab",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/24765fb2-d1a6-4e3b-8aeb-6ac3af668eab/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/24765fb2-d1a6-4e3b-8aeb-6ac3af668eab/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/24765fb2-d1a6-4e3b-8aeb-6ac3af668eab/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/24765fb2-d1a6-4e3b-8aeb-6ac3af668eab/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-02-23T21:41:34.000Z",
+      "updatedAt": "2022-02-23T21:41:34.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-03-08T14:37:51.000Z",
+    "recordedAt": "2022-01-26T00:00:00.000Z",
+    "createdAt": "2022-01-28T07:54:37.000Z"
+  }
+}

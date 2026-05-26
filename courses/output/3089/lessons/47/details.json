@@ -1,0 +1,33 @@
+{
+  "id": 474486,
+  "title": "Na prática: Divulgação",
+  "position": 47,
+  "duration": 314,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e0cd2648-b5d8-4e93-b518-e7cc06dc7f14/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e0cd2648-b5d8-4e93-b518-e7cc06dc7f14/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e0cd2648-b5d8-4e93-b518-e7cc06dc7f14/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e0cd2648-b5d8-4e93-b518-e7cc06dc7f14/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e0cd2648-b5d8-4e93-b518-e7cc06dc7f14/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

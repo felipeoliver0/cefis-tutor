@@ -1,0 +1,33 @@
+{
+  "id": 463903,
+  "title": "Socialização de novos membros",
+  "position": 6,
+  "duration": 90,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/10a4d8a4-b532-4188-ac18-2b3f12e372ac/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10a4d8a4-b532-4188-ac18-2b3f12e372ac/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10a4d8a4-b532-4188-ac18-2b3f12e372ac/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10a4d8a4-b532-4188-ac18-2b3f12e372ac/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10a4d8a4-b532-4188-ac18-2b3f12e372ac/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

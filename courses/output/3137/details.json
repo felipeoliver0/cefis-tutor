@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 3137,
+    "title": "Auditoria: interna e externa",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso de Auditoria Interna e Externa você aprender pontos que compreenderão deste: o que é, importância, pilares, normas, documentação, responsabilidade e muitos outros pontos para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/c953ef4a4c9e7170201a968db81534381728384307.jpg",
+    "goals": [
+      "Apresentar aspectos teórico e aplicáveis sobre a auditoria interna e externa."
+    ],
+    "teacher": {
+      "id": 722650,
+      "name": "Fabiana",
+      "avatar": "https://cefis.com.br/assets/images/site/svg/user-icon.svg"
+    },
+    "duration": 5626,
+    "keywords": "auditoria Sped Fiscal;auditoria externa",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 26,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1895,
+    "averageRating": 9.24,
+    "practiceAverage": 9.2,
+    "trailer": {
+      "id": "1b180c6c-5a0a-475a-ac80-b3730afdbdb1",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1b180c6c-5a0a-475a-ac80-b3730afdbdb1/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1b180c6c-5a0a-475a-ac80-b3730afdbdb1/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1b180c6c-5a0a-475a-ac80-b3730afdbdb1/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1b180c6c-5a0a-475a-ac80-b3730afdbdb1/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-05-07T10:52:33.000Z",
+      "updatedAt": "2024-05-07T10:52:32.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-05-08T16:27:46.000Z",
+    "recordedAt": "2024-04-26T00:00:00.000Z",
+    "createdAt": "2024-04-29T13:54:33.000Z"
+  }
+}

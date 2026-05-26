@@ -1,0 +1,33 @@
+{
+  "id": 480632,
+  "title": "Eixo 1 Parte 1",
+  "position": 35,
+  "duration": 218,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/59c4cea3-f544-4eec-90e4-2690373287c6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59c4cea3-f544-4eec-90e4-2690373287c6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59c4cea3-f544-4eec-90e4-2690373287c6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59c4cea3-f544-4eec-90e4-2690373287c6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59c4cea3-f544-4eec-90e4-2690373287c6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

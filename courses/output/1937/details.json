@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 1937,
+    "title": "Declaração Anual do Movimento Econômico e Fiscal - DAMEF",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático você vai aprender todas as características e procedimentos para elaboração dessa obrigação acessória do contribuinte mineiro, que tem, entre outros objetivos o de fornecer subsídios para que o estado possa apurar a parcela do ICMS a ser repassada aos municípios. Dentre os tópicos apresentados, você entenderá as novidades na entrega da DAMEF, dispensa de validação anual, prazo, regras de preenchimento, registros e muitos outros aspectos importantes para aplicar no dia a dia os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/33d614dcf166a04ca96eb792b254e6a71728427965.jpg",
+    "goals": [
+      "Demonstrar todas as características e procedimentos para elaboração da Declaração Anual do Movimento Econômico e Fiscal - DAMEF."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 4425,
+    "keywords": "Declaração Anual do Movimento Econômico e Fiscal;DAMEF;declaração",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 154,
+    "averageRating": 9.42,
+    "practiceAverage": 9.48,
+    "trailer": {
+      "id": "41c01c06-d4c6-48c5-b125-a0a36965a2c0",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/41c01c06-d4c6-48c5-b125-a0a36965a2c0/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/41c01c06-d4c6-48c5-b125-a0a36965a2c0/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/41c01c06-d4c6-48c5-b125-a0a36965a2c0/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/41c01c06-d4c6-48c5-b125-a0a36965a2c0/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-02-04T00:33:46.000Z",
+      "updatedAt": "2022-02-04T00:33:46.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-02-12T12:28:53.000Z",
+    "recordedAt": "2022-01-19T00:00:00.000Z",
+    "createdAt": "2022-01-21T07:39:43.000Z"
+  }
+}

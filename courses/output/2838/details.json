@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2838,
+    "title": "Assistente Contábil",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso de assistente contábil você irá adquirir os conhecimentos práticos para iniciar na rotina contábil de qualquer empresa ou escritório de contabilidade, de pequeno, médio ou grande porte. Ao final do curso você terá aprendido os fundamentados sobre o ciclo contábil, como efetuar os lançamentos contábeis das principais operações de uma empresa, os principais relatórios contábeis, apresentar o balanço patrimonial, a demonstração do resultado e as mutações do patrimônio líquido, Estoques e operações com mercadorias, Folha de pagamento, Ativo imobilizado e depreciação, Imposto de renda das empresas, Operações financeiras, além de outros tópicos. Em geral, este curso irá lhe preparar para o ingresso no dia a dia da rotina de um escritório contábil.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/02642b1e941a2e7b63a27c629dcde79e1728384300.jpg",
+    "goals": [
+      "Capacitar os participantes de forma que estejam aptos a processarem as operações, conferir os registros, elaborar papéis de trabalho úteis e apresentar/analisar as demonstrações contábeis/financeiras geradas."
+    ],
+    "teacher": {
+      "id": 8,
+      "name": "THIAGO ARANTES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1679621062.jpeg"
+    },
+    "duration": 9623,
+    "keywords": "assistente;assistente contabil",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 40,
+    "materialCount": 6,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 2980,
+    "averageRating": 8.91,
+    "practiceAverage": 8.81,
+    "trailer": {
+      "id": "8328445b-7bf1-48d4-a5cf-eabeb19d818a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8328445b-7bf1-48d4-a5cf-eabeb19d818a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8328445b-7bf1-48d4-a5cf-eabeb19d818a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8328445b-7bf1-48d4-a5cf-eabeb19d818a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/8328445b-7bf1-48d4-a5cf-eabeb19d818a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-11-09T03:14:11.000Z",
+      "updatedAt": "2023-11-09T03:14:10.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-11-20T14:45:31.000Z",
+    "recordedAt": "2023-09-24T00:00:00.000Z",
+    "createdAt": "2023-09-26T16:37:42.000Z"
+  }
+}

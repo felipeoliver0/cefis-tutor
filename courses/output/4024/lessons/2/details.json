@@ -1,0 +1,33 @@
+{
+  "id": 480577,
+  "title": "Pesquisa sobre Má Comunicação",
+  "position": 2,
+  "duration": 424,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/766d4411-513d-47a8-8481-ea575cb43159/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/766d4411-513d-47a8-8481-ea575cb43159/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/766d4411-513d-47a8-8481-ea575cb43159/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/766d4411-513d-47a8-8481-ea575cb43159/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/766d4411-513d-47a8-8481-ea575cb43159/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

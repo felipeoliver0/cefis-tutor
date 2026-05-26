@@ -1,0 +1,785 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:07.799
+Exemplo prático. Recálculo do imposto de renda retido na fonte sob lucros e dividendos.
+
+3
+00:00:07.799 --> 00:00:17.500
+A mesma pessoa jurídica realiza dois pagamentos de lucros e dividendos à mesma pessoa física no mesmo mês.
+
+4
+00:00:17.500 --> 00:00:22.699
+Como eu disse a vocês, não é comum, não é o trivial nosso do dia a dia. Não, não é.
+
+5
+00:00:22.699 --> 00:00:25.399
+Perfeito? Mas pode ocorrer? Pode.
+
+6
+00:00:25.399 --> 00:00:27.899
+Particularmente em função do fluxo de caixa.
+
+7
+00:00:27.899 --> 00:00:30.000
+Particularmente em função do fluxo de caixa.
+
+8
+00:00:30.000 --> 00:00:34.700
+Mas antes de eu mostrar isso aqui, deixa eu só comentar com relação a lucros e dividendos.
+
+9
+00:00:34.700 --> 00:00:42.500
+Nós tivemos mudanças relevantes, pessoal, a partir do ano de 2024, setembro de 2024,
+
+10
+00:00:42.500 --> 00:00:51.200
+quando entrou em vigor as retenções de imposto de renda e do PCC, do PIS, COFIS e Contribuição Social,
+
+11
+00:00:51.200 --> 00:00:55.600
+sobre lá no EFD Reinfe. Perfeito?
+
+12
+00:00:55.600 --> 00:00:57.600
+Então, naquela ocasião,
+
+13
+00:00:57.600 --> 00:01:05.599
+a própria Reinfe, ela solicitou que no mês subsequente ao pagamento de lucros e dividendos,
+
+14
+00:01:05.599 --> 00:01:07.700
+eu deveria informar na Reinfe.
+
+15
+00:01:07.700 --> 00:01:10.099
+Aí foi aquele tumulto todo, né?
+
+16
+00:01:10.099 --> 00:01:16.299
+Houve aí um pleito do Sescon, juntou-se aí outros órgãos contábeis,
+
+17
+00:01:16.299 --> 00:01:21.200
+e aí a Receita Federal acatou parcialmente esse pleito e aí ela mudou a data.
+
+18
+00:01:21.200 --> 00:01:27.500
+Ao invés de ser mensal, passou a ser no primeiro mês subsequente ao encerramento do trimestre.
+
+19
+00:01:27.500 --> 00:01:29.200
+De cada trimestre.
+
+20
+00:01:29.200 --> 00:01:35.299
+Você é obrigado a informar na EFD Reinfe quanto você distribuiu de lucro nos meses anteriores.
+
+21
+00:01:35.299 --> 00:01:40.599
+Só que aí nós temos aquela famosa contabilização e controle.
+
+22
+00:01:40.599 --> 00:01:44.299
+Posso distribuir lucros ao longo do ano?
+
+23
+00:01:44.299 --> 00:01:48.000
+Claro que posso, sem problema algum, né?
+
+24
+00:01:48.000 --> 00:01:53.400
+Desde que se faça constar no contrato social, nos estatutos,
+
+25
+00:01:53.400 --> 00:01:57.299
+que a empresa levantará balanços,
+
+26
+00:01:57.299 --> 00:02:00.700
+esporádicos ou balanços rotineiros,
+
+27
+00:02:00.700 --> 00:02:03.299
+ou balanços intermediários,
+
+28
+00:02:03.299 --> 00:02:06.099
+para a distribuição desse lucro que os sócios vão viver disso.
+
+29
+00:02:06.099 --> 00:02:07.200
+Perfeito.
+
+30
+00:02:07.200 --> 00:02:09.699
+Todo mês eu levanto o balanço.
+
+31
+00:02:09.699 --> 00:02:11.599
+Na DRE, eu apuro o lucro.
+
+32
+00:02:11.599 --> 00:02:16.400
+E apurando o lucro, eu distribuo e contabilizo.
+
+33
+00:02:16.400 --> 00:02:18.599
+Como eu contabilizo?
+
+34
+00:02:18.599 --> 00:02:21.500
+Eu abro uma conta lá dentro do patrimônio líquido,
+
+35
+00:02:21.500 --> 00:02:26.000
+chamado lucros distribuídos antecipadamente.
+
+36
+00:02:26.000 --> 00:02:27.099
+É uma conta redutora.
+
+37
+00:02:27.099 --> 00:02:31.199
+Redutora de lucros ou prejuízos acumulados,
+
+38
+00:02:31.199 --> 00:02:33.800
+que fica dentro do patrimônio líquido.
+
+39
+00:02:33.800 --> 00:02:37.199
+Que é diferente de antecipação de lucros,
+
+40
+00:02:37.199 --> 00:02:38.900
+como muitos contabilizam.
+
+41
+00:02:38.900 --> 00:02:40.900
+E contabilizam lá no ativo.
+
+42
+00:02:40.900 --> 00:02:41.900
+Está errado isso.
+
+43
+00:02:41.900 --> 00:02:43.599
+Não existe isso.
+
+44
+00:02:43.599 --> 00:02:45.900
+Não existe antecipação de lucro.
+
+45
+00:02:45.900 --> 00:02:50.300
+O que existe são lucros distribuídos antecipadamente,
+
+46
+00:02:50.300 --> 00:02:52.599
+desde que eu levante o balanço.
+
+47
+00:02:52.599 --> 00:02:55.000
+Então eu estou antecipando, perfeito.
+
+48
+00:02:55.000 --> 00:02:56.800
+Quando eu levantar, porque os balanços,
+
+49
+00:02:56.800 --> 00:02:58.199
+os balancetes são acumulados.
+
+50
+00:02:58.199 --> 00:03:01.199
+Quando eu levantar um acumulado que constar prejuízo,
+
+51
+00:03:01.199 --> 00:03:04.099
+eu paro de pagar.
+
+52
+00:03:04.099 --> 00:03:05.900
+Eu não distribuo mais lucro.
+
+53
+00:03:05.900 --> 00:03:10.099
+E eu não posso fechar o meu balanço ao final do período,
+
+54
+00:03:10.099 --> 00:03:13.099
+com prejuízo, tendo distribuído lucros antecipados.
+
+55
+00:03:13.099 --> 00:03:13.699
+Não.
+
+56
+00:03:13.699 --> 00:03:17.500
+Aí o sócio tem que devolver isso para a empresa.
+
+57
+00:03:17.500 --> 00:03:19.300
+Esse é o procedimento correto.
+
+58
+00:03:19.300 --> 00:03:20.500
+Ele vai devolver?
+
+59
+00:03:20.500 --> 00:03:23.000
+Claro que não, ele já torrou isso.
+
+60
+00:03:23.000 --> 00:03:24.300
+Ele não vai devolver.
+
+61
+00:03:24.300 --> 00:03:24.900
+Vocês entenderam?
+
+62
+00:03:24.900 --> 00:03:26.699
+Então tem que ter um controle orçamentário,
+
+63
+00:03:26.800 --> 00:03:27.900
+correto.
+
+64
+00:03:27.900 --> 00:03:31.300
+Eu estou falando isso na posição correta.
+
+65
+00:03:31.300 --> 00:03:33.800
+Eu sei que muitas vezes não é fácil para vocês aplicar,
+
+66
+00:03:33.800 --> 00:03:35.300
+faça aos seus clientes.
+
+67
+00:03:35.300 --> 00:03:37.199
+Mas é assim que tem que funcionar.
+
+68
+00:03:37.199 --> 00:03:39.099
+Ter um orçamento, prever lucro,
+
+69
+00:03:39.099 --> 00:03:42.099
+e distribuí-lo conforme você vai apurando.
+
+70
+00:03:42.099 --> 00:03:44.500
+E obviamente quando encerra o trimestre,
+
+71
+00:03:44.500 --> 00:03:47.300
+no mês subsequente você vai informar no REINF.
+
+72
+00:03:47.300 --> 00:03:49.500
+Agora imagina se você fecha com prejuízo.
+
+73
+00:03:49.500 --> 00:03:51.500
+Você tem que retificar todos os REINF, gente.
+
+74
+00:03:51.500 --> 00:03:54.099
+É um absurdo, é uma loucura isso.
+
+75
+00:03:54.099 --> 00:03:56.500
+Mas é assim que funciona, tá?
+
+76
+00:03:56.800 --> 00:04:00.800
+Primeiro nós calçamos isso juridicamente e contabilmente.
+
+77
+00:04:00.800 --> 00:04:02.800
+No final do período, no final do ano,
+
+78
+00:04:02.800 --> 00:04:04.300
+você fecha o balanço, deu lucro,
+
+79
+00:04:04.300 --> 00:04:06.300
+você vai jogar em lucros acumulados,
+
+80
+00:04:06.300 --> 00:04:07.800
+lá dentro do seu patrimônio,
+
+81
+00:04:07.800 --> 00:04:12.300
+já tem essa conta redutora de lucros pagos antecipados ao longo do ano,
+
+82
+00:04:12.300 --> 00:04:15.300
+vai sobrar um saldo que você vai distribuir no ano seguinte.
+
+83
+00:04:15.300 --> 00:04:17.300
+Perfeito, sem problema, entendeu?
+
+84
+00:04:17.300 --> 00:04:19.300
+É assim que tem que funcionar.
+
+85
+00:04:19.300 --> 00:04:21.800
+Então vamos aqui agora ao nosso dividendo.
+
+86
+00:04:21.800 --> 00:04:25.899
+A mesma pessoa jurídica realiza dois pagamentos de lucros e dividendos,
+
+87
+00:04:25.899 --> 00:04:29.899
+lucros para a limitada e dividendos para a SA.
+
+88
+00:04:29.899 --> 00:04:31.899
+A mesma pessoa física.
+
+89
+00:04:31.899 --> 00:04:35.399
+Portanto, nós já sabemos que lá no contrato social,
+
+90
+00:04:35.399 --> 00:04:37.899
+que lá nos estatutos sociais,
+
+91
+00:04:37.899 --> 00:04:41.899
+constam que a empresa levantará balanço intermediário
+
+92
+00:04:41.899 --> 00:04:43.899
+para a distribuição desses lucros.
+
+93
+00:04:43.899 --> 00:04:47.899
+E aí eu posso pagar numa única vez, em duas, em três, em quatro e etc.
+
+94
+00:04:47.899 --> 00:04:49.899
+Não é comum eu fracionar.
+
+95
+00:04:49.899 --> 00:04:52.899
+Normalmente eu pago numa vez só, mas vamos supor que fracionou.
+
+96
+00:04:52.899 --> 00:04:54.899
+Como é que a coisa vai acontecer?
+
+97
+00:04:54.899 --> 00:04:57.899
+10 de fevereiro de 2026.
+
+98
+00:04:57.899 --> 00:05:00.899
+Pagou 35 mil de distribuição de lucro.
+
+99
+00:05:00.899 --> 00:05:01.899
+Por quê?
+
+100
+00:05:01.899 --> 00:05:04.899
+Porque eu tenho um balanço, um balancete assinado por um contador
+
+101
+00:05:04.899 --> 00:05:06.899
+que demonstrou que lucro ocorreu.
+
+102
+00:05:06.899 --> 00:05:12.899
+Normalmente essa distribuição é proporcional à participação de cada sócio
+
+103
+00:05:12.899 --> 00:05:16.899
+na empresa, na limitada ou nas SAs.
+
+104
+00:05:16.899 --> 00:05:20.899
+Porém, o Código Civil, apenas para as limitadas,
+
+105
+00:05:20.899 --> 00:05:23.899
+permite que você pague desproporcional.
+
+106
+00:05:23.899 --> 00:05:28.899
+Também se faz necessário constar nos contratos sociais.
+
+107
+00:05:28.899 --> 00:05:30.899
+Na SA não permite, tá?
+
+108
+00:05:30.899 --> 00:05:33.899
+Mas na limitada, que é regida pelo Código Civil,
+
+109
+00:05:33.899 --> 00:05:37.899
+lá você pode distribuir lucro desproporcional.
+
+110
+00:05:37.899 --> 00:05:40.899
+Principalmente quando um sócio trabalha na atividade
+
+111
+00:05:40.899 --> 00:05:41.899
+e outro não trabalha.
+
+112
+00:05:41.899 --> 00:05:43.899
+Por exemplo, é mais investidor.
+
+113
+00:05:43.899 --> 00:05:45.899
+Então normalmente pode ter um acordo de cotista
+
+114
+00:05:45.899 --> 00:05:47.899
+para um receber mais do que o outro.
+
+115
+00:05:47.899 --> 00:05:49.899
+Então eu posso distribuir lucro desproporcional.
+
+116
+00:05:49.899 --> 00:05:52.899
+Vou fazer menção à alteração contratual
+
+117
+00:05:52.899 --> 00:05:53.899
+e vou respeitar.
+
+118
+00:05:53.899 --> 00:05:57.899
+E aí, paguei no dia 10 do 2, 35 mil. Perfeito.
+
+119
+00:05:57.899 --> 00:05:59.899
+No dia 20 não paguei nada.
+
+120
+00:05:59.899 --> 00:06:02.899
+Total pago no mês, 35 mil.
+
+121
+00:06:02.899 --> 00:06:07.899
+Como meu limite é 50 mil, não vou ter nada de 10%.
+
+122
+00:06:07.899 --> 00:06:08.899
+Zero.
+
+123
+00:06:08.899 --> 00:06:10.899
+Porque distribuí até 35 mil.
+
+124
+00:06:10.899 --> 00:06:12.899
+E vai ser o caso de muitos pequenos empresários.
+
+125
+00:06:12.899 --> 00:06:14.899
+Muitos, muitos.
+
+126
+00:06:14.899 --> 00:06:16.899
+Vocês sabem melhor do que eu, né?
+
+127
+00:06:16.899 --> 00:06:19.899
+Aí nós vamos ter o segundo tópico.
+
+128
+00:06:19.899 --> 00:06:21.899
+Ele pagou no dia 10, 35 mil.
+
+129
+00:06:22.899 --> 00:06:26.899
+E aí no dia 20 ele pagou 15 mil.
+
+130
+00:06:26.899 --> 00:06:30.899
+Ou seja, o total pago no mês foi 50 mil.
+
+131
+00:06:30.899 --> 00:06:34.899
+O limite mensal para isenção conforme o governo é 50.
+
+132
+00:06:34.899 --> 00:06:38.899
+Portanto, ele não vai pagar nada de 10%.
+
+133
+00:06:38.899 --> 00:06:40.899
+Nada de tributação, nada.
+
+134
+00:06:40.899 --> 00:06:41.899
+Perfeito?
+
+135
+00:06:41.899 --> 00:06:45.899
+Zero de imposto de renda retido.
+
+136
+00:06:45.899 --> 00:06:46.899
+Perfeito?
+
+137
+00:06:46.899 --> 00:06:48.899
+Totalmente isento, zero.
+
+138
+00:06:48.899 --> 00:06:49.899
+Muito bom.
+
+139
+00:06:49.899 --> 00:06:51.899
+O terceiro exemplo,
+
+140
+00:06:51.899 --> 00:06:55.899
+ele pagou no dia 10, 35 mil.
+
+141
+00:06:55.899 --> 00:06:58.899
+E pagou no dia 20, 40 mil.
+
+142
+00:06:58.899 --> 00:07:01.899
+Somando os dois, 75.
+
+143
+00:07:01.899 --> 00:07:02.899
+Qual é o limite de isenção?
+
+144
+00:07:02.899 --> 00:07:04.899
+50.
+
+145
+00:07:04.899 --> 00:07:07.899
+Portanto, qual é a base de tributação?
+
+146
+00:07:07.899 --> 00:07:10.899
+Não será 25, não.
+
+147
+00:07:10.899 --> 00:07:13.899
+Não é sobre o excedente, é sobre o total pago.
+
+148
+00:07:13.899 --> 00:07:15.899
+Eu paguei 75.
+
+149
+00:07:15.899 --> 00:07:18.899
+10% de 75, 7,5.
+
+150
+00:07:18.899 --> 00:07:20.899
+Que a empresa vai fazer a retenção.
+
+151
+00:07:20.899 --> 00:07:22.899
+Eu até esqueci de trazer o código,
+
+152
+00:07:22.899 --> 00:07:24.899
+mas já tem um código específico,
+
+153
+00:07:24.899 --> 00:07:26.899
+que já existia antigamente,
+
+154
+00:07:26.899 --> 00:07:28.899
+ele só veio à tona.
+
+155
+00:07:28.899 --> 00:07:32.899
+Vou pagar 7.500 reais de imposto de renda retido na fonte.
+
+156
+00:07:32.899 --> 00:07:33.899
+Perfeito?
+
+157
+00:07:33.899 --> 00:07:36.899
+E aí vou promover as minhas contabilizações normais,
+
+158
+00:07:36.899 --> 00:07:38.899
+como eu citei para vocês.
+
+159
+00:07:38.899 --> 00:07:41.899
+Por se tratar de antecipação,
+
+160
+00:07:41.899 --> 00:07:43.899
+lucro distribuído antecipadamente,
+
+161
+00:07:43.899 --> 00:07:45.899
+eu vou contabilizar lá no PL.
+
+162
+00:07:45.899 --> 00:07:46.899
+Perfeito.
+
+163
+00:07:46.899 --> 00:07:49.899
+Vou contabilizar o imposto de renda retido na fonte.
+
+164
+00:07:49.899 --> 00:07:52.899
+Que vai lá para o meu passivo e vou recolher.
+
+165
+00:07:52.899 --> 00:07:53.899
+Entendeu?
+
+166
+00:07:53.899 --> 00:07:55.899
+É assim que vai funcionar.
+
+167
+00:07:55.899 --> 00:07:59.899
+Então, para pequenos e médios empresários vale a pena,
+
+168
+00:07:59.899 --> 00:08:04.899
+se você for pagar para ele 55.000 de distribuição de lucro,
+
+169
+00:08:04.899 --> 00:08:07.899
+haverá uma retenção de 5.500 reais.
+
+170
+00:08:07.899 --> 00:08:13.899
+Portanto, o líquido no bolso dele, 45.500 reais.
+
+171
+00:08:13.899 --> 00:08:14.899
+É isso, né?
+
+172
+00:08:14.899 --> 00:08:16.899
+50 menos...
+
+173
+00:08:16.899 --> 00:08:18.899
+É 55, né?
+
+174
+00:08:18.899 --> 00:08:21.899
+Você ia pagar 55,
+
+175
+00:08:21.899 --> 00:08:24.899
+vai ter uma retenção de 5.500, né?
+
+176
+00:08:24.899 --> 00:08:29.899
+Portanto, ele vai receber 55 menos 5.500.
+
+177
+00:08:29.899 --> 00:08:31.899
+49.500.
+
+178
+00:08:31.899 --> 00:08:34.899
+Se você pagar 50.000 para ele,
+
+179
+00:08:34.899 --> 00:08:36.899
+ele vai receber os 50.000.
+
+180
+00:08:36.899 --> 00:08:39.899
+Vamos supor que você pague 60.000 para ele.
+
+181
+00:08:39.899 --> 00:08:41.899
+Vai pagar 6.000 de imposto de renda.
+
+182
+00:08:41.899 --> 00:08:46.899
+Se você pagar 50, não vai tributar nada.
+
+183
+00:08:46.899 --> 00:08:48.899
+Então, vale a pena fazer essa análise,
+
+184
+00:08:48.899 --> 00:08:49.899
+fazer esse planejamento.
+
+185
+00:08:49.899 --> 00:08:53.899
+Até 600.000 isento ao ano,
+
+186
+00:08:53.899 --> 00:08:54.899
+sendo 50.000 por mês.
+
+187
+00:08:54.899 --> 00:08:56.899
+Então, a gente precisa estudar bem isso.
+
+188
+00:08:56.899 --> 00:08:59.899
+O que ultrapassa, eu vou pagar cheio.
+
+189
+00:08:59.899 --> 00:09:03.899
+Então, 75, vou pagar 7,5
+
+190
+00:09:03.899 --> 00:09:09.899
+e vou ter aí no meu bolso 75 menos 7,5.
+
+191
+00:09:09.899 --> 00:09:10.899
+Perfeito?
+
+192
+00:09:10.899 --> 00:09:14.899
+Então, fica fácil da gente configurar e contabilizar
+
+193
+00:09:14.899 --> 00:09:17.899
+com esses detalhes técnicos que eu já expliquei para vocês.
+
+194
+00:09:17.899 --> 00:09:20.899
+Isso aí vai ser informado lá no FD Reinf
+
+195
+00:09:20.899 --> 00:09:22.899
+quando encerrar o trimestre.
+
+196
+00:09:22.899 --> 00:09:23.899
+Perfeito?
+
+197
+00:09:23.899 --> 00:09:25.899
+Legal, gente? Entenderam como funciona?

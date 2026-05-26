@@ -1,0 +1,33 @@
+{
+  "id": 479316,
+  "title": "Na Prática",
+  "position": 10,
+  "duration": 471,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/027d7e9f-1aac-4a1f-9dc1-d38b29833dea/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/027d7e9f-1aac-4a1f-9dc1-d38b29833dea/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/027d7e9f-1aac-4a1f-9dc1-d38b29833dea/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/027d7e9f-1aac-4a1f-9dc1-d38b29833dea/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/027d7e9f-1aac-4a1f-9dc1-d38b29833dea/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

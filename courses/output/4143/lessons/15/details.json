@@ -1,0 +1,33 @@
+{
+  "id": 482476,
+  "title": "Operador Econômico Autorizado",
+  "position": 15,
+  "duration": 327,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5bc578a6-843e-4be5-8e6b-6899ee64e4d3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5bc578a6-843e-4be5-8e6b-6899ee64e4d3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5bc578a6-843e-4be5-8e6b-6899ee64e4d3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5bc578a6-843e-4be5-8e6b-6899ee64e4d3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5bc578a6-843e-4be5-8e6b-6899ee64e4d3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

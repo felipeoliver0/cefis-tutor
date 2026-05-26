@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3774,
+    "title": "Zona Franca de Manaus 2025",
+    "subtitle": "Curso Prático",
+    "summary": "Neste Curso Você aprenderá na prática sobre a Zona Franca de Manaus ( ZFM ). Conhecerá como realizar corretamente ás operações e procedimentos fiscais nas operações com a Zona Franca de Manaus, Área de Livre Comércio ou Amazônia Ocidental, bem como a aplicabilidade dos benefícios fiscais no âmbito Estadual e Federal.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/acae31da-f137-412e-b3e9-7d976d5dfbe4-thumbnail.png",
+    "goals": [
+      "O curso tem por objetivo, desenvolver competências técnicas e gerenciais para atuar na gestão financeira e tributária empresarial, especialmente no modelo Zona Franca de Manaus, qualificando e especializando profissionais em gestão de tributos, inteligência procedimentais fiscais, administração de impostos, visão estratégica e compreensão cenário econômico e contexto dos negócios das empresas que atuam e se relacionam com o modelo Zona Franca de Manaus."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 7229,
+    "keywords": "ZFM;Zona franca;Manaus",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 33,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 278,
+    "averageRating": 9,
+    "practiceAverage": 8.83,
+    "trailer": {
+      "id": "286f4020-a534-4e6b-aeff-1e40c2f8c787",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/286f4020-a534-4e6b-aeff-1e40c2f8c787/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/286f4020-a534-4e6b-aeff-1e40c2f8c787/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/286f4020-a534-4e6b-aeff-1e40c2f8c787/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/286f4020-a534-4e6b-aeff-1e40c2f8c787/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-05-08T15:21:33.000Z",
+      "updatedAt": "2025-05-08T15:21:33.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "recordedAt": "2025-05-01T00:00:00.000Z",
+    "createdAt": "2025-04-30T20:51:30.000Z"
+  }
+}

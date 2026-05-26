@@ -1,0 +1,33 @@
+{
+  "id": 472954,
+  "title": "Prática 4",
+  "position": 24,
+  "duration": 175,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/350a35ff-9949-435f-a943-6771479f9a9b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/350a35ff-9949-435f-a943-6771479f9a9b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/350a35ff-9949-435f-a943-6771479f9a9b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/350a35ff-9949-435f-a943-6771479f9a9b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/350a35ff-9949-435f-a943-6771479f9a9b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

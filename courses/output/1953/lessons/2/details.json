@@ -1,0 +1,33 @@
+{
+  "id": 460716,
+  "title": "Problema",
+  "position": 2,
+  "duration": 371,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f8ef4783-1bb8-42cb-a74b-72950687a4cb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f8ef4783-1bb8-42cb-a74b-72950687a4cb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f8ef4783-1bb8-42cb-a74b-72950687a4cb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f8ef4783-1bb8-42cb-a74b-72950687a4cb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f8ef4783-1bb8-42cb-a74b-72950687a4cb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

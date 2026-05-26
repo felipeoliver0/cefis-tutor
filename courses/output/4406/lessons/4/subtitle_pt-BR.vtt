@@ -1,0 +1,497 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.500
+Pessoal, essa é uma visão geral de altíssimo nível, do que a gente chama de arquitetura de um computador ou de um celular.
+
+3
+00:00:08.500 --> 00:00:21.500
+E aí, pessoal, uma das coisas geniais que foi inventado pelos designers de computadores é o fato da CPU ser um chip extremamente genérico.
+
+4
+00:00:21.500 --> 00:00:28.500
+Ele tem um conjunto de instruções que a gente fala, cada instrução pode fazer uma tarefa,
+
+5
+00:00:28.500 --> 00:00:32.500
+mas antigamente o pessoal fazia um chip para cada coisa.
+
+6
+00:00:32.500 --> 00:00:38.500
+Então você podia fazer um chip para controlar, por exemplo, uma bomba de gasolina,
+
+7
+00:00:38.500 --> 00:00:45.500
+você podia fazer um chip para controlar um ar condicionado, você podia fazer um chip para controlar a iluminação pública,
+
+8
+00:00:45.500 --> 00:00:53.500
+só que como o processo de fabricação de chip é muito caro e economias de escala ajudam,
+
+9
+00:00:53.500 --> 00:00:56.500
+quanto mais chip você fizer, mais barato fica.
+
+10
+00:00:56.500 --> 00:00:58.500
+Qual que foi a sacada?
+
+11
+00:00:58.500 --> 00:01:05.500
+Eu vou criar uma CPU, uma unidade central de processamento que é suficientemente genérica para,
+
+12
+00:01:05.500 --> 00:01:08.500
+conforme eu mudo o programa, mudar a função.
+
+13
+00:01:08.500 --> 00:01:18.500
+Então a mesma CPU pode ser um MP3 player, pode ser um DVD player, pode ser um daquele set-top box de você assistir TV,
+
+14
+00:01:18.500 --> 00:01:21.500
+pode ser um computador, pode estar num carro.
+
+15
+00:01:21.500 --> 00:01:26.500
+Então os mesmos chips, os mesmos processadores podem fazer milhares de coisas diferentes em milhares de aplicações.
+
+16
+00:01:26.500 --> 00:01:27.500
+Então os mesmos chips, os mesmos processadores podem fazer milhares de coisas diferentes em milhares de aplicações.
+
+17
+00:01:27.500 --> 00:01:29.500
+Então os mesmos chips, os mesmos processadores podem fazer milhares de coisas diferentes em milhares de aplicações.
+
+18
+00:01:29.500 --> 00:01:34.500
+Trocando o software, o programa, e ai você pode fazer milhões, bilhões do .
+
+19
+00:01:34.500 --> 00:01:38.500
+E trocando o software é você muda o comportamento.
+
+20
+00:01:38.500 --> 00:01:47.500
+Então colocamos aqui, CPU é uma super calculadora é que tem um programa armazenado, o programa normalmente está numa memória
+
+21
+00:01:47.500 --> 00:01:49.500
+quando você liga a CPU ela tem lá aquele Cloak.
+
+22
+00:01:49.500 --> 00:01:51.500
+Quando você liga a CPU ela tem lá aquele Cloak.
+
+23
+00:01:51.500 --> 00:01:52.500
+Ah, eu tenho um computador de 2 GHz.
+
+24
+00:01:52.500 --> 00:01:53.500
+Ah, eu tenho um computador de 2 GHz.
+
+25
+00:01:53.500 --> 00:01:54.500
+Então ele executa da ordem de duas bilhões dePN grade em um CPU.
+
+26
+00:01:54.500 --> 00:01:55.500
+Então ele executa da ordem de duas bilhões dePN grade em um CPU.
+
+27
+00:01:55.500 --> 00:01:59.159
+da ordem de 2 bilhões de instruções por segundo.
+
+28
+00:02:00.099 --> 00:02:04.099
+Ele vai lá na memória, pega cada instrução, executa, pega a próxima, executa,
+
+29
+00:02:04.540 --> 00:02:09.979
+e normalmente são instruções de cálculo, soma, subtração, manda um dado para a tela, etc.
+
+30
+00:02:09.979 --> 00:02:17.159
+E aí, pessoal, a gente está subindo uma pirâmide aqui até chegar na IA, tá?
+
+31
+00:02:17.659 --> 00:02:22.039
+E uma ferramenta importante, muito usada em computação, muito usada em IA,
+
+32
+00:02:22.580 --> 00:02:25.180
+é a parte de matrizes, tá?
+
+33
+00:02:25.180 --> 00:02:29.520
+Então, falando um pouquinho aqui de matemática mesmo, a parte de matrizes em matemática,
+
+34
+00:02:30.159 --> 00:02:36.060
+a gente usa muito matrizes em robótica e em imagens, tanto vídeo quanto imagens estáticas.
+
+35
+00:02:37.419 --> 00:02:42.120
+E aí, aqui é um exemplo de um robô industrial, que a gente fala um manipulador robótico,
+
+36
+00:02:42.439 --> 00:02:48.500
+e a gente costuma dizer que os robôs industriais têm eixos, que é onde ele faz movimento,
+
+37
+00:02:48.840 --> 00:02:50.099
+o grau de liberdade.
+
+38
+00:02:50.199 --> 00:02:52.819
+Então, ele tem um eixo aqui, um eixo aqui, um eixo aqui.
+
+39
+00:02:53.159 --> 00:02:54.819
+Cada um desses eixos...
+
+40
+00:02:55.180 --> 00:02:58.479
+Normalmente, embora existem várias formas de fazer isso,
+
+41
+00:02:58.879 --> 00:03:04.419
+a gente usa uma matriz, tanto para representar o estado desse eixo, quanto para mover ele.
+
+42
+00:03:04.680 --> 00:03:06.599
+Então, a gente tem aqui...
+
+43
+00:03:06.599 --> 00:03:12.080
+A gente pode multiplicar uma matriz que tem a posição dele por uma matriz de rotação
+
+44
+00:03:12.080 --> 00:03:15.060
+para saber qual posição ele vai chegar.
+
+45
+00:03:15.439 --> 00:03:18.120
+A gente pode multiplicar por uma matriz de translação,
+
+46
+00:03:18.639 --> 00:03:20.780
+pode multiplicar por uma matriz de escala.
+
+47
+00:03:21.120 --> 00:03:24.900
+Então, cada matriz vai ter um efeito aqui para depois,
+
+48
+00:03:24.900 --> 00:03:26.860
+vai ser enviado um comando para o motor se mover.
+
+49
+00:03:27.400 --> 00:03:28.819
+Mas você já sabe...
+
+50
+00:03:28.819 --> 00:03:32.479
+Por exemplo, você precisa que esse braço robótico chegue em uma certa posição.
+
+51
+00:03:33.099 --> 00:03:38.099
+Para ele chegar nessa posição, em qual ângulo eu tenho que pôr cada eixo?
+
+52
+00:03:38.860 --> 00:03:44.199
+Então, a gente faz várias operações matriciais para chegar nesse resultado.
+
+53
+00:03:44.840 --> 00:03:46.840
+Imagem da mesma forma, tá, pessoal?
+
+54
+00:03:47.099 --> 00:03:48.060
+Toda imagem, tá?
+
+55
+00:03:48.099 --> 00:03:50.340
+Aqui a gente tem um telão gigante da Cephis,
+
+56
+00:03:50.340 --> 00:03:54.340
+de altíssima resolução, com não sei quantos mil pontos,
+
+57
+00:03:54.900 --> 00:03:57.219
+tem nesse telão aqui da Cephis,
+
+58
+00:03:57.580 --> 00:04:00.639
+mas tem um monte de pontinhos, um monte de LEDs,
+
+59
+00:04:01.259 --> 00:04:04.979
+que tem vários LEDs, é representado por uma matriz,
+
+60
+00:04:05.379 --> 00:04:08.419
+onde os números dizem a intensidade de cada cor,
+
+61
+00:04:08.539 --> 00:04:13.900
+de zero, apagado, escuro, até 255, que é o brilho máximo branco.
+
+62
+00:04:15.099 --> 00:04:20.540
+Então, a gente representa qualquer imagem de computador através de uma matriz.
+
+63
+00:04:20.939 --> 00:04:23.899
+Se você tem uma imagem colorida, normalmente são três matrizes,
+
+64
+00:04:23.899 --> 00:04:24.439
+três matrizes.
+
+65
+00:04:24.899 --> 00:04:28.420
+Uma para a cor vermelha, uma para a cor verde e uma para a cor azul,
+
+66
+00:04:28.519 --> 00:04:31.220
+que é o tal do RGB, Red, Green and Blue.
+
+67
+00:04:31.879 --> 00:04:36.800
+Então, essa é uma visão geral do que a representação matricial está fazendo.
+
+68
+00:04:37.300 --> 00:04:39.459
+E aqui são exemplos que eu já comentei.
+
+69
+00:04:39.959 --> 00:04:43.259
+Temos, por exemplo, matriz de translação, matriz de escala.
+
+70
+00:04:43.920 --> 00:04:47.540
+Vamos supor que você tem uma imagem e você quer aumentar o tamanho de uma imagem.
+
+71
+00:04:48.040 --> 00:04:52.959
+Ou você tem uma imagem lá no seu celular e você quer rotacionar a imagem.
+
+72
+00:04:53.579 --> 00:04:54.620
+Imaginem, pessoal.
+
+73
+00:04:54.899 --> 00:05:01.379
+Que cada ponto XY que tem aqui nessa tela, quando eu mando rotacionar,
+
+74
+00:05:02.139 --> 00:05:07.560
+essa tela aqui tem milhares, talvez, sei lá, dezenas de milhares de pontos.
+
+75
+00:05:08.439 --> 00:05:14.680
+O nosso computador tem que aplicar essa matriz aqui de rotação em cada ponto
+
+76
+00:05:14.680 --> 00:05:20.519
+para recalcular a posição XY, por exemplo, desses pixels aqui.
+
+77
+00:05:21.139 --> 00:05:24.079
+Cada pontinho aqui na tela que está na matriz a gente chama de pixel.
+
+78
+00:05:24.079 --> 00:05:24.740
+Então, a gente tem que aplicar.
+
+79
+00:05:24.740 --> 00:05:24.779
+Então, a gente tem que aplicar.
+
+80
+00:05:24.779 --> 00:05:24.819
+Então, a gente tem que aplicar.
+
+81
+00:05:24.819 --> 00:05:24.860
+Então, a gente tem que aplicar.
+
+82
+00:05:24.860 --> 00:05:24.879
+Então, a gente tem que aplicar.
+
+83
+00:05:24.879 --> 00:05:24.899
+Então, a gente tem que aplicar.
+
+84
+00:05:24.899 --> 00:05:27.259
+Por exemplo, quando a gente manda rodar essa tela,
+
+85
+00:05:27.459 --> 00:05:29.319
+esse pixel de repente vai vir parar aqui.
+
+86
+00:05:30.000 --> 00:05:33.079
+E para isso a gente tem que percorrer todos os pixels da tela
+
+87
+00:05:33.079 --> 00:05:36.079
+e multiplicar cada um por essa matriz de rotação.
+
+88
+00:05:36.079 --> 00:05:40.540
+Então isso computacionalmente é extremamente intensivo,
+
+89
+00:05:40.720 --> 00:05:42.519
+consome muito processamento.
+
+90
+00:05:42.879 --> 00:05:47.800
+E aí pessoal, a operação de multiplicação matricial,
+
+91
+00:05:48.620 --> 00:05:50.660
+só para a gente mostrar rapidamente,
+
+92
+00:05:51.019 --> 00:05:54.319
+em geral, uma revisão rápida aqui,
+
+93
+00:05:54.319 --> 00:05:56.339
+a gente faz a tal da linha por coluna.
+
+94
+00:05:56.500 --> 00:05:58.899
+Então a gente pega cada número de uma linha
+
+95
+00:05:58.899 --> 00:06:01.660
+e multiplica por cada número de uma coluna,
+
+96
+00:06:01.660 --> 00:06:08.060
+5 vezes 3, 6 vezes 8, 7 vezes 3, 8 vezes 8.
+
+97
+00:06:08.740 --> 00:06:10.980
+Então a gente vai fazendo nessa sequência
+
+98
+00:06:10.980 --> 00:06:13.959
+para cada linha dessa de origem,
+
+99
+00:06:14.040 --> 00:06:16.339
+com cada coluna dessa segunda matriz,
+
+100
+00:06:16.420 --> 00:06:17.759
+a gente está multiplicando essa por essa
+
+101
+00:06:17.759 --> 00:06:20.920
+e o resultado a gente coloca nessa matriz que a gente chamou de C.
+
+102
+00:06:21.779 --> 00:06:24.259
+O objetivo hoje, pessoal, não é falar de multiplicar,
+
+103
+00:06:24.319 --> 00:06:25.240
+multiplicação de matriz,
+
+104
+00:06:25.339 --> 00:06:28.379
+mas é mostrar o quanto isso demanda processamento.
+
+105
+00:06:29.139 --> 00:06:30.100
+E aí a gente foi,
+
+106
+00:06:30.980 --> 00:06:32.399
+hoje é uma aula de IA,
+
+107
+00:06:32.399 --> 00:06:34.959
+a gente foi lá na IA e fez uma pergunta para a IA,
+
+108
+00:06:35.579 --> 00:06:40.220
+quantas multiplicações de matriz a gente precisa fazer
+
+109
+00:06:40.220 --> 00:06:45.399
+para rotacionar uma imagem de alta definição HD de 1920x1080,
+
+110
+00:06:46.120 --> 00:06:49.100
+que é o padrão nas televisões hoje, mais comuns.
+
+111
+00:06:49.339 --> 00:06:54.300
+E a resposta foi que a gente precisa de mais de 2 milhões,
+
+112
+00:06:54.300 --> 00:06:57.920
+de operações de multiplicação de matriz.
+
+113
+00:06:58.439 --> 00:07:03.120
+É impressionante, tudo isso para rotacionar uma imagem.
+
+114
+00:07:03.680 --> 00:07:06.279
+Agora imagina que você está assistindo um vídeo no seu celular
+
+115
+00:07:06.279 --> 00:07:07.899
+e você gira o celular assim,
+
+116
+00:07:08.939 --> 00:07:12.060
+e você está fazendo isso 30 vezes por segundo
+
+117
+00:07:12.060 --> 00:07:15.759
+para dar a sensação de um vídeo fluído.
+
+118
+00:07:16.519 --> 00:07:20.040
+Então toda essa operação está acontecendo 30 vezes por segundo.
+
+119
+00:07:20.800 --> 00:07:23.720
+Lembrando que como a gente falou agora há pouco,
+
+120
+00:07:23.720 --> 00:07:24.279
+na aula de IA,
+
+121
+00:07:24.279 --> 00:07:29.160
+em alguns casos você tem um processador de 2 GHz
+
+122
+00:07:29.160 --> 00:07:32.160
+fazendo 2 bilhões de instruções,
+
+123
+00:07:32.300 --> 00:07:34.540
+2 bilhões de processamentos por segundo.
+
+124
+00:07:34.879 --> 00:07:38.600
+Não quer dizer que cada uma dessas instruções é uma multiplicação,
+
+125
+00:07:38.740 --> 00:07:41.420
+às vezes você precisa de várias instruções para fazer uma multiplicação.

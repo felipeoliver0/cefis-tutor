@@ -1,0 +1,33 @@
+{
+  "id": 475782,
+  "title": "Atraso e faltas",
+  "position": 14,
+  "duration": 446,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0c4473ee-6541-4d31-a1c7-b74868416818/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c4473ee-6541-4d31-a1c7-b74868416818/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c4473ee-6541-4d31-a1c7-b74868416818/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c4473ee-6541-4d31-a1c7-b74868416818/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c4473ee-6541-4d31-a1c7-b74868416818/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

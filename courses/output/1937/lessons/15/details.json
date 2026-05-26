@@ -1,0 +1,33 @@
+{
+  "id": 459908,
+  "title": "Resgistro 1400 no Guia Prático",
+  "position": 15,
+  "duration": 148,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8ea7b50a-5dc3-4a91-8c43-42a9bf538883/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8ea7b50a-5dc3-4a91-8c43-42a9bf538883/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8ea7b50a-5dc3-4a91-8c43-42a9bf538883/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8ea7b50a-5dc3-4a91-8c43-42a9bf538883/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8ea7b50a-5dc3-4a91-8c43-42a9bf538883/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

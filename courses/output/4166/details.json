@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4166,
+    "title": "Trabalho da mulher",
+    "subtitle": "Curso Prático",
+    "summary": "Este curso apresenta de forma clara e prática os principais direitos trabalhistas da mulher, abordando legislação, estabilidade provisória, licença maternidade, igualdade salarial e programas de incentivo à empregabilidade. Além disso, inclui momentos interativos com quizzes para fixação do conteúdo.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/5bdd37ba-0f75-4731-8c9e-c1b198deedd0-thumbnail.png",
+    "goals": [
+      "Capacitar profissionais e estudantes a compreenderem os direitos trabalhistas da mulher, promovendo conhecimento sobre legislação, programas de incentivo à empregabilidade, igualdade salarial e garantias específicas como estabilidade e licença maternidade. O curso busca fortalecer a consciência crítica e prática sobre equidade de gênero no mercado de trabalho."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 1752,
+    "keywords": "trabalho;mulher",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 9,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 86,
+    "averageRating": 9.4,
+    "practiceAverage": 9.38,
+    "trailer": {
+      "id": "f88e04ac-a9e0-4002-9632-f3f7619c7872",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f88e04ac-a9e0-4002-9632-f3f7619c7872/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f88e04ac-a9e0-4002-9632-f3f7619c7872/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f88e04ac-a9e0-4002-9632-f3f7619c7872/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f88e04ac-a9e0-4002-9632-f3f7619c7872/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-02T16:36:00.000Z",
+      "updatedAt": "2025-12-02T16:36:00.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-02T16:37:21.000Z",
+    "recordedAt": "2025-11-27T00:00:00.000Z",
+    "createdAt": "2025-12-02T15:17:00.000Z"
+  }
+}

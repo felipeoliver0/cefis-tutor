@@ -1,0 +1,33 @@
+{
+  "id": 475793,
+  "title": "Prática de cálculos",
+  "position": 19,
+  "duration": 168,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3f4fb56c-6460-448b-938a-53fbff43157d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3f4fb56c-6460-448b-938a-53fbff43157d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3f4fb56c-6460-448b-938a-53fbff43157d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3f4fb56c-6460-448b-938a-53fbff43157d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3f4fb56c-6460-448b-938a-53fbff43157d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

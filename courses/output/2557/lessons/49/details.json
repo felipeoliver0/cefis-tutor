@@ -1,0 +1,33 @@
+{
+  "id": 468367,
+  "title": "Eventos de Transporte",
+  "position": 49,
+  "duration": 253,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e7ea863a-a4c2-4a9b-9bf1-b0dcd7f9e42b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e7ea863a-a4c2-4a9b-9bf1-b0dcd7f9e42b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e7ea863a-a4c2-4a9b-9bf1-b0dcd7f9e42b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e7ea863a-a4c2-4a9b-9bf1-b0dcd7f9e42b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e7ea863a-a4c2-4a9b-9bf1-b0dcd7f9e42b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

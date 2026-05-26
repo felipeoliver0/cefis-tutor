@@ -1,0 +1,33 @@
+{
+  "id": 487178,
+  "title": "Período de transição",
+  "position": 7,
+  "duration": 68,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/bb4a6234-5c41-4b75-bea5-3fff57379e70/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb4a6234-5c41-4b75-bea5-3fff57379e70/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb4a6234-5c41-4b75-bea5-3fff57379e70/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb4a6234-5c41-4b75-bea5-3fff57379e70/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bb4a6234-5c41-4b75-bea5-3fff57379e70/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

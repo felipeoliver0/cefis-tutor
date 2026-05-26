@@ -1,0 +1,489 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.120
+Hoje vamos abordar um tema que impacta todas as empresas que emitem notas fiscais no Brasil.
+
+2
+00:00:06.280 --> 00:00:12.099
+É a exigência da inclusão do IBS e da CBS nas notas fiscais já agora, a partir de 2026.
+
+3
+00:00:12.380 --> 00:00:12.880
+Vamos lá?
+
+4
+00:00:16.339 --> 00:00:21.800
+Então, pessoal, a partir de janeiro de 2026, as empresas que emitem documentos fiscais eletrônicos,
+
+5
+00:00:22.320 --> 00:00:46.219
+nota fiscal eletrônica, conhecimento de transporte, bilhete de passagem, FISCAL ELETRÔNICO reforma tributária sobre o consumo e visa substituir os impostos como ICMS, SS, PIS e COFINS
+
+6
+00:00:46.219 --> 00:00:50.119
+por novos impostos mais simplificados, um IVA mais moderno,
+
+7
+00:00:50.640 --> 00:00:54.159
+ao exemplo do que a gente tem em vários países do mundo.
+
+8
+00:00:54.619 --> 00:01:00.899
+No entanto, essa transição exige adaptações tecnológicas, fiscais e operacionais
+
+9
+00:01:00.899 --> 00:01:03.619
+e por isso é urgente se preparar logo.
+
+10
+00:01:03.979 --> 00:01:06.420
+Vamos ver agora as principais alterações que terão que ser feitas FISCAL E OPERACIONAIS E POR ISSO É URGENTE SE PREPARAR LOGO TÁ VAMOS VER AGORA AS PRINCIPAIS
+
+11
+00:01:06.420 --> 00:01:10.859
+ALTERAÇÕES QUE TERÃO QUE SER FEITAS PARA EDITIR OS DOCUMENTOS FISCAIS COM ESSES NOVOS
+
+12
+00:01:10.859 --> 00:01:15.840
+IMPOSTOS NÉ ENTÃO AGORA A GENTE TEM CAMPOS OBRIGATÓRIOS DO DOCUMENTO FISCAL PARA DESTACAR
+
+13
+00:01:15.840 --> 00:01:21.900
+TANTO O IBS QUANTO A CBS NÉ CAMPO DE VALOR DE ALÍQUOTA BASE CÁLCULO VALOR DO ITA ALÍQUOTA
+
+14
+00:01:21.900 --> 00:01:26.319
+DO MUNICÍPIO ALÍQUOTA DO F TODOS ESSES CAMPOS TÃO LÁ AGORA E PRECISAM SER PRENCHIDOS TÁ E JÁ valor do ITA, a líquida do município, a líquida do EF, todos esses campos estão lá agora e precisam ser preenchidos.
+
+15
+00:01:27.079 --> 00:01:30.200
+E já tem também regras de validação, por exemplo,
+
+16
+00:01:30.299 --> 00:01:34.019
+se você mandar um documento que não tiver um valor mínimo ali,
+
+17
+00:01:34.060 --> 00:01:36.680
+por exemplo, da CBS, você vai tomar uma rejeição.
+
+18
+00:01:37.159 --> 00:01:41.700
+Se tiver ausência do IBS na nota, você vai tomar outra rejeição,
+
+19
+00:01:41.840 --> 00:01:44.000
+ou seja, isso vai impedir o faturamento da empresa,
+
+20
+00:01:44.340 --> 00:02:25.080
+que é algo muito grave, que a empresa não pode ficar sem faturar. FATURA FIS em produção e homologação. Vamos ver aqui. Então vamos lá pessoal, se você quiser acompanhar comigo,
+
+21
+00:02:25.219 --> 00:02:29.039
+você pode abrir a nota técnica 2025-002.
+
+22
+00:02:29.199 --> 00:02:31.360
+A gente está tratando aqui da versão 1.30.
+
+23
+00:02:32.080 --> 00:02:36.199
+Aqui a gente tem um acompanhamento dessa nota técnica
+
+24
+00:02:36.199 --> 00:02:37.919
+desde a sua primeira versão inicial,
+
+25
+00:02:38.180 --> 00:02:41.199
+mas já foram feitas bastante modificações.
+
+26
+00:02:41.340 --> 00:02:43.680
+Vamos focar aqui na nossa versão 1.30.
+
+27
+00:02:43.680 --> 00:02:48.819
+1.30 é a última versão, a versão atual, tá?
+
+28
+00:02:49.780 --> 00:02:51.900
+Então vamos lá, pessoal, versão 1.30 aqui.
+
+29
+00:02:52.139 --> 00:02:56.120
+Entrada do esquema das regras de validação e dos eventos, né?
+
+30
+00:02:56.620 --> 00:02:59.460
+Com exceção das regras de validação listadas no item a seguir,
+
+31
+00:02:59.800 --> 00:03:01.780
+o item a seguir é esse aqui embaixo, tá?
+
+32
+00:03:01.879 --> 00:03:03.199
+Então vamos focar aqui em cima primeiro.
+
+33
+00:03:03.919 --> 00:03:07.259
+Então isso aqui, pessoal, esquema, regras de validação e eventos.
+
+34
+00:03:07.780 --> 00:03:14.719
+29 do 10 em homologação em teste, na coluna aqui, implantação de teste, tá?
+
+35
+00:03:14.800 --> 00:03:16.659
+29 do 10, implantação em teste.
+
+36
+00:03:17.419 --> 00:03:21.400
+E 10 do 11, 2025, em produção, tá?
+
+37
+00:03:21.780 --> 00:03:25.759
+Mas em produção, pessoal, está aqui para o contribuinte testar. Você pode testar à vontade, mas não é exigido ainda, tá? Mas em produção, pessoal, está aqui para o contribuinte testar.
+
+38
+00:03:25.840 --> 00:03:27.840
+Você pode testar à vontade, mas não é
+
+39
+00:03:27.840 --> 00:03:29.180
+exigido ainda, tá?
+
+40
+00:03:29.860 --> 00:03:31.759
+Ele vai ser exigido a partir aqui, ó,
+
+41
+00:03:32.099 --> 00:03:33.699
+de 5 de 1 de
+
+42
+00:03:33.699 --> 00:03:35.719
+2026, com o
+
+43
+00:03:35.719 --> 00:03:37.620
+início da obrigatoriedade da informação dos novos
+
+44
+00:03:37.620 --> 00:03:39.879
+tributos, tá? Então isso aqui, pessoal,
+
+45
+00:03:40.280 --> 00:03:41.840
+a partir de 5 de 1 de 2026
+
+46
+00:03:41.840 --> 00:03:43.780
+vão ser exigidos aí
+
+47
+00:03:43.780 --> 00:03:45.680
+os campos dos novos tributos. E a partir de 2 de fevereiro de 2026 vão ser exigidos aí os campos dos novos tributos.
+
+48
+00:03:45.800 --> 00:03:47.960
+E a partir de 2 de fevereiro de 2026
+
+49
+00:03:47.960 --> 00:03:49.599
+vão ser exigidos em produção
+
+50
+00:03:49.599 --> 00:03:51.900
+essas novas regras de validação aqui.
+
+51
+00:03:52.280 --> 00:03:54.139
+Vamos focar aqui, pessoal, no que é mais importante
+
+52
+00:03:54.139 --> 00:03:55.719
+para a empresa não parar de faturar.
+
+53
+00:03:56.620 --> 00:03:59.039
+Em 5 de 1 de 2026
+
+54
+00:03:59.039 --> 00:04:01.560
+tem que ter esses campos do documento fiscal
+
+55
+00:04:01.560 --> 00:04:02.919
+para não ser rejeitado.
+
+56
+00:04:03.599 --> 00:04:06.879
+E aí depois a gente ganha um tempinho para ver o que acontece aqui
+
+57
+00:04:06.879 --> 00:04:09.080
+com essas outras regras de validação.
+
+58
+00:04:09.460 --> 00:04:15.400
+Embora a nota técnica aqui, que ela traz o prazo 5 de 1 de 2026 para a entrada,
+
+59
+00:04:15.500 --> 00:04:18.839
+da exigência disso em produção, a gente tem que estar atento
+
+60
+00:04:18.839 --> 00:04:20.920
+que o comando legal que vale a lei, né?
+
+61
+00:04:21.040 --> 00:04:23.759
+A nota técnica não vale mais lá que uma lei complementar.
+
+62
+00:04:23.759 --> 00:04:26.040
+A lei complementar determina que seja a partir
+
+63
+00:04:26.040 --> 00:04:27.939
+De 1º de janeiro
+
+64
+00:04:27.939 --> 00:04:28.800
+De 2026
+
+65
+00:04:28.800 --> 00:04:31.560
+Ah, e por que a nota técnica está com dia 5?
+
+66
+00:04:32.000 --> 00:04:33.699
+Pessoal, 1º de janeiro é feriado
+
+67
+00:04:33.699 --> 00:04:36.019
+Tem as equipes
+
+68
+00:04:36.019 --> 00:04:37.879
+Técnicas dos estados não vão
+
+69
+00:04:37.879 --> 00:04:40.000
+Estar disponíveis, parte da equipe
+
+70
+00:04:40.000 --> 00:04:42.000
+Das empresas também não vai estar disponível
+
+71
+00:04:42.000 --> 00:04:44.339
+Empresas prestadoras de serviço
+
+72
+00:04:44.339 --> 00:04:46.199
+De tecnologia lá para os seus clientes
+
+73
+00:04:46.199 --> 00:04:47.360
+não vão estar disponíveis
+
+74
+00:04:47.360 --> 00:04:50.120
+e se tiver algum problema não vai ter ninguém
+
+75
+00:04:50.120 --> 00:04:52.079
+para socorrer, então por isso
+
+76
+00:04:52.079 --> 00:04:53.600
+se postergou essa data
+
+77
+00:04:53.600 --> 00:04:55.800
+para que fosse feita uma transição segura
+
+78
+00:04:55.800 --> 00:04:58.160
+não entrar em colapso
+
+79
+00:04:58.160 --> 00:05:00.279
+o sistema por causa que tem muita rejeição
+
+80
+00:05:00.279 --> 00:05:01.980
+muitas empresas sem faturar
+
+81
+00:05:01.980 --> 00:05:04.339
+isso em determinadas situações pode provocar
+
+82
+00:05:04.339 --> 00:06:06.279
+até um desabastecimento e para fazer uma transição suave, segura FIS FIS as informações dos tributos novos no documento fiscal, ela pode ter que recolher o valor desse tributo.
+
+83
+00:06:06.560 --> 00:06:08.399
+Ao passo que se ela fornecer as informações
+
+84
+00:06:08.399 --> 00:06:10.279
+dos tributos novos nos documentos
+
+85
+00:06:10.279 --> 00:06:11.959
+fiscais, ela está isenta de
+
+86
+00:06:11.959 --> 00:06:14.019
+recolher qualquer valor. A empresa
+
+87
+00:06:14.019 --> 00:06:16.000
+tem que ficar atenta a isso para não ter um
+
+88
+00:06:16.000 --> 00:06:17.899
+aumento das suas despesas
+
+89
+00:06:17.899 --> 00:06:20.019
+tributárias, sendo que essa é
+
+90
+00:06:20.019 --> 00:06:22.120
+uma despesa tributária totalmente evitável.
+
+91
+00:06:22.259 --> 00:06:24.100
+É só emitir o documento em conformidade.
+
+92
+00:06:24.680 --> 00:06:26.000
+Então, não tem que pagar. Então, emitir o documento em conformidade, então não tem que pagar.
+
+93
+00:06:26.220 --> 00:06:28.439
+Então, emitiu o documento corretamente,
+
+94
+00:06:28.560 --> 00:06:30.839
+com os novos impostos, a empresa não tem que pagar.
+
+95
+00:06:31.300 --> 00:06:35.579
+Ou seja, se ela não informar o IBS e a CBS do documento fiscal,
+
+96
+00:06:35.920 --> 00:06:39.519
+ela vai ter que fazer o recolhimento do valor de IBS e CBS
+
+97
+00:06:39.519 --> 00:06:40.660
+devido naquela operação.
+
+98
+00:06:41.000 --> 00:06:44.680
+Ao passo que se ela informar as informações de IBS e CBS,
+
+99
+00:06:44.680 --> 00:07:07.120
+ela não tem que recolher esses valores, ela está isenta desse recolhimento, tá bom? FISCAIS COM OS NOVOS IMPOSTOS, TÁ? ENTÃO, A PRIMEIRA COISA É VERIFICAR SE O SISTEMA DA EMPRESA ESTÁ APTO A FAZER EMISSÃO
+
+100
+00:07:07.120 --> 00:07:11.680
+DE DOCUMENTO FISCAL COM O IBS E COM A CBS, ENTÃO, TEM QUE VER LÁ COM O PESSOAL DO
+
+101
+00:07:11.680 --> 00:07:15.720
+SISTEMA, SEJA O SISTEMA INTERNO, O SISTEMA CONTRATADO, SE AS ADAPTAÇÕES JÁ FORAM
+
+102
+00:07:15.720 --> 00:07:21.040
+FEITAS, SE VOCÊ JÁ PODE COMEÇAR A UTILIZAR ESSAS INFORMAÇÕES AÍ PARA FAZER A EMISSÃO,
+
+103
+00:07:21.100 --> 00:08:06.579
+ENTÃO, ATUALIZA SEU SISTEMA, VEJA COM O PESSOAL DO TI SE JÁ ESTÁ TUDO CERTO, SE FISCAL CONTÁBIO as novas regras de validação e entender os conceitos por trás desse novo modelo de emissão
+
+104
+00:08:06.579 --> 00:08:07.660
+de documentos fiscais.
+
+105
+00:08:08.139 --> 00:08:10.459
+E é claro, fazer muito teste,
+
+106
+00:08:10.680 --> 00:08:12.540
+fazer em ambiente de homologação com todas as
+
+107
+00:08:12.540 --> 00:08:14.540
+operações que você puder. Cada operação
+
+108
+00:08:14.540 --> 00:08:16.480
+testada, se passou no ambiente de
+
+109
+00:08:16.480 --> 00:08:18.420
+homologação, muito provavelmente
+
+110
+00:08:18.420 --> 00:08:20.500
+vai passar também no ambiente de produção
+
+111
+00:08:20.500 --> 00:08:22.339
+que o ambiente é meio que uma cópia do outro.
+
+112
+00:08:22.759 --> 00:08:24.560
+Então você pode utilizar
+
+113
+00:08:24.560 --> 00:08:45.039
+esse sistema. Outra coisa importante é que a gente siga monitorando FIS Então, com essas publicações legislativas, pode vir alguma novidade que vai afetar a sua empresa.
+
+114
+00:08:49.960 --> 00:08:50.419
+Então, é importante ficar de olho aí, acompanhando as publicações legislativas também, tá bom?
+
+115
+00:09:00.480 --> 00:09:00.940
+Então, isso é muito importante para que você faça a transição aí tranquila para o novo modelo de tributação do IBS e da CBS, tá bom?
+
+116
+00:09:05.360 --> 00:09:08.320
+Então, pessoal, em resumo, a exigência dos novos impostos a partir de 2026 é uma mudança radical no sistema tributário brasileiro,
+
+117
+00:09:08.740 --> 00:09:12.840
+implantada tão sonhada a reforma tributária, tão discutida, tão desejada,
+
+118
+00:09:13.200 --> 00:09:14.759
+tão planejada por muitos anos.
+
+119
+00:09:15.179 --> 00:09:18.139
+É mais com a atualização de layout do documento fiscal.
+
+120
+00:09:18.559 --> 00:09:21.679
+Ela traz novos conceitos, novas formas de cálculo,
+
+121
+00:09:21.960 --> 00:09:23.940
+o imposto que era por dentro agora é por fora.
+
+122
+00:09:24.320 --> 00:00:00.000
+Então é uma alteração significativa. Então a empresa tem que agir com proatividade, FIS

@@ -1,0 +1,145 @@
+WEBVTT
+
+00:00:00.258 --> 00:00:07.751
+- E quando a gente pensa numa falta de lançamento, estamos falando de um caráter sobre a sonegação
+
+00:00:07.751 --> 00:00:15.689
+- fiscal, porque se eu deixar de lançar ou omitir uma operação, é caracterizado como sonegação fiscal.
+
+00:00:15.689 --> 00:00:23.256
+- O inciso 2 da lei fala o seguinte, inserir elementos inexatos ou omitir rendimentos ou operações de
+
+00:00:23.256 --> 00:00:25.630
+- qualquer natureza em documentos
+
+00:00:25.730 --> 00:00:32.744
+- ou livros exigidos pelas leis fiscais com a intenção de exonerar-se do pagamento de tributos devido
+
+00:00:32.744 --> 00:00:39.826
+- à fazenda. Novamente, falando sobre a escrituração, quando a gente inserir elementos errados em uma
+
+00:00:39.826 --> 00:00:46.702
+- escrituração digital, estamos dizendo que temos características de sonegação fiscal. Mesmo que
+
+00:00:46.702 --> 00:00:49.246
+- esses sentimentos, essas operações
+
+00:00:50.114 --> 00:00:56.722
+- tenham um não à intenção, no final do dia, o físico não vai te questionar se foi intencional ou
+
+00:00:56.722 --> 00:01:03.394
+- não. O que de fato ele vai questionar é por que esse documento fiscal eletrônico não foi lançado.
+
+00:01:03.394 --> 00:01:10.067
+- E o por que eu estou falando isso pra vocês dentro de uma aula de ESPED Fiscal? Porque o ESPED Fiscal
+
+00:01:10.067 --> 00:01:13.630
+- é uma escrituração digital, é onde a gente analisa
+
+00:01:14.210 --> 00:01:20.749
+- e lança todos os documentos fiscais do seu contribuinte, todos os documentos fiscais operacionais.
+
+00:01:20.749 --> 00:01:27.288
+- Então, isso quer dizer que a gente tem também uma responsabilidade sobre aquilo que a gente está
+
+00:01:27.288 --> 00:01:33.892
+- lançando ou não lançando ou lançando de forma errada. Por isso que eu volto a dizer para vocês,
+
+00:01:33.892 --> 00:01:40.823
+- hoje o meu objetivo não é falar para vocês quais são apenas os blocos que a gente tem no SPED Fiscal,
+
+00:01:40.823 --> 00:01:44.158
+- mas eu quero que vocês encarem o SPED Fiscal como
+
+00:01:44.322 --> 00:01:50.777
+- uma auditoria, como aquilo que a gente possa, de fato, trazer até resultado para o nosso cliente. A
+
+00:01:50.777 --> 00:01:57.296
+- gente vai olhar os cadastros, identificar o que, de fato, essa escrituração digital pode interferir
+
+00:01:57.296 --> 00:02:03.816
+- numa fiscalização. Porque o fisco, hoje, ele não precisa bater na porta do nosso contribuinte, nem
+
+00:02:03.816 --> 00:02:10.207
+- no nosso escritório. E ele nem precisa cruzar as informações. E vocês vão perceber isso dentro
+
+00:02:10.207 --> 00:02:10.974
+- dessa aula.
+
+00:02:11.330 --> 00:02:17.466
+- Ele não precisa cruzar as informações. Se o fiscal quiser auditar uma empresa ou fiscalizar uma empresa
+
+00:02:17.466 --> 00:02:23.372
+- utilizando apenas o SPED fiscal, ele consegue. E eu vou demonstrar pra vocês como isso vai acontecer.
+
+00:02:23.372 --> 00:02:29.106
+- E como vocês, como profissionais da área fiscal, contábil, pode fazer isso também dentro de uma
+
+00:02:29.106 --> 00:02:34.955
+- compliance, dentro de uma conformidade fiscal, tá? Lembre-se, estruturação digital tem a ver, sim,
+
+00:02:34.955 --> 00:02:36.446
+- com a sonegação fiscal.
+
+00:02:36.706 --> 00:02:42.645
+- A sonegação fiscal não está apenas relacionada ao falta de recolhimento, mas também sobre
+
+00:02:42.645 --> 00:02:49.396
+- características de lançamento. Alterar faturas e quaisquer documentos relativos às operações mercantis
+
+00:02:49.396 --> 00:02:53.022
+- com o propósito de fraudar a Fazenda Pública também é
+
+00:02:53.442 --> 00:02:59.797
+- caracterizado como uma sonegação fiscal. Claro que aqui a gente está falando de documentos fiscais
+
+00:02:59.797 --> 00:03:05.591
+- digitais, mas mesmo assim, hoje a gente ainda tem documentos fraudulentos. Então, atenção
+
+00:03:05.591 --> 00:03:12.320
+- com a autorização dos documentos fiscais eletrônicos. Será que hoje eu estou escriturando os documentos
+
+00:03:12.320 --> 00:03:18.987
+- fiscais eletrônicos de forma manual? Ou estou validando a chave de acesso juntamente com a autorização?
+
+00:03:18.987 --> 00:03:22.974
+- Ou buscando o próprio XML assinado? Porque se eu estou fazendo
+
+00:03:23.234 --> 00:03:29.568
+- uma escrituração física, a gente ainda pode passar por essa inconsistência. O outro inciso que a
+
+00:03:29.568 --> 00:03:35.903
+- lei fala, fornecer ou omitir documentos graciosos ou alterar despesas majorando-as com o objetivo de
+
+00:03:35.903 --> 00:03:42.174
+- obter dedução de tributos devidos à fazenda pública sem prejuízo às sanções administrativas
+
+00:03:42.174 --> 00:03:48.446
+- também são sonegações fiscais. Então, alterar os documentos para trazer uma dedução também.
+
+00:03:48.642 --> 00:03:56.073
+- Exigir, pagar ou receber para si ou para o contribuinte beneficiário do pagamento de qualquer porcentagem
+
+00:03:56.073 --> 00:04:03.156
+- sobre a parcela dedutiva ou deduzida do imposto sobre a renda como incentivo fiscal. Ou seja, exigir,
+
+00:04:03.156 --> 00:04:09.684
+- pagar ou receber qualquer tipo de benefício que não está atrelado à sua atividade também
+
+00:04:09.684 --> 00:04:12.670
+- é caracterizado a uma sonegação fiscal.
+
+00:04:12.802 --> 00:04:19.118
+- A pena para o crime é de detenção de 6 meses e 2 anos e multa de 2 a 5 vezes o valor do tributo que
+
+00:04:19.118 --> 00:04:25.249
+- deixou de ser recolhido. Então, por que eu trouxe isso para vocês? Para uma reflexão do que nós
+
+00:04:25.249 --> 00:04:31.135
+- estamos fazendo com a nossa escrituração digital e a nossa responsabilidade como profissional
+
+00:04:31.135 --> 00:04:37.328
+- na escrituração digital. Para qualquer tipo de fechamento que ele seja bom, a gente precisa de uma
+
+00:04:37.328 --> 00:04:38.800
+- escrituração digital.

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4167,
+    "title": "Tributação na importação de serviços",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso Tributação na importação de serviços - Curso Prático você irá aprender na prática tudo o que precisa saber sobre tributação na importação de serviços. Aprenderá os fundamentos e a prática de aspectos tributários da importação, CIDE e vários outros temas para você que deseja se atualizar ou aprender tudo sobre tributação na importação de serviços.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/9cb9407a-c67e-454e-84f0-a4054f1b14dd-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Tributação na importação de serviços: Curso Prático é a capacitação para a aplicação prática da Tributação na importação de serviços, abordando os aspectos tributários da importação de serviços, a CIDE e a prática da tributação em diferentes situações, visando à conclusão de casos práticos e à aquisição de conhecimentos sólidos para aplicação no mercado de trabalho."
+    ],
+    "teacher": {
+      "id": 418635,
+      "name": "JOÃO OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1595429175.jpeg"
+    },
+    "duration": 1865,
+    "keywords": "tributação;importação;serviço",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 7,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 138,
+    "averageRating": 9.22,
+    "practiceAverage": 9.24,
+    "trailer": {
+      "id": "18f3e18d-ede0-496a-9e52-bab79e22b757",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/18f3e18d-ede0-496a-9e52-bab79e22b757/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/18f3e18d-ede0-496a-9e52-bab79e22b757/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/18f3e18d-ede0-496a-9e52-bab79e22b757/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/18f3e18d-ede0-496a-9e52-bab79e22b757/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-02T22:21:37.000Z",
+      "updatedAt": "2025-12-02T22:21:37.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-08T14:46:07.000Z",
+    "recordedAt": "2025-11-20T00:00:00.000Z",
+    "createdAt": "2025-12-02T15:55:09.000Z"
+  }
+}

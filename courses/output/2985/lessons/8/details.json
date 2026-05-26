@@ -1,0 +1,33 @@
+{
+  "id": 472938,
+  "title": "Culturas temporárias",
+  "position": 8,
+  "duration": 252,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/247ed84a-58dd-4b5b-8487-393ff15a94e3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/247ed84a-58dd-4b5b-8487-393ff15a94e3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/247ed84a-58dd-4b5b-8487-393ff15a94e3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/247ed84a-58dd-4b5b-8487-393ff15a94e3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/247ed84a-58dd-4b5b-8487-393ff15a94e3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

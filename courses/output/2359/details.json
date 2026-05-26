@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2359,
+    "title": "Direito e Economia",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso de direito e economia, você aprenderá sobre as características do direito econômico, bem como a análise Econômica do Direito e aspectos relacionados ao direito concorrencial, de modo a estabelecer uma relação histórico fatual, mediante o arcabouço legal apresentado para que você identifique e resolva os problemas práticos decorrentes da análise econômica do Direito.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/970de87f0c49944543e2e14e5f95dbd91727451384.jpg",
+    "goals": [
+      "Apresentar conhecimento de institutos econômicos e do funcionamento dos mercados contribui para a aproximação das normas jurídicas à realidade econômica."
+    ],
+    "teacher": {
+      "id": 580640,
+      "name": "DENISE EVANGELISTA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/b21ad5ae-ade9-41fd-8716-3cf76576c936-croppedImage.jpeg"
+    },
+    "duration": 4478,
+    "keywords": "direito;direito e economia;economia",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 126,
+    "averageRating": 9.31,
+    "practiceAverage": 9.27,
+    "trailer": {
+      "id": "f777fecb-d345-4ec5-8241-671397f01b4c",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f777fecb-d345-4ec5-8241-671397f01b4c/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f777fecb-d345-4ec5-8241-671397f01b4c/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f777fecb-d345-4ec5-8241-671397f01b4c/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f777fecb-d345-4ec5-8241-671397f01b4c/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-03-17T14:10:55.000Z",
+      "updatedAt": "2023-03-17T14:10:55.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-14T15:01:00.000Z",
+    "recordedAt": "2022-11-28T00:00:00.000Z",
+    "createdAt": "2022-11-14T18:38:13.000Z"
+  }
+}

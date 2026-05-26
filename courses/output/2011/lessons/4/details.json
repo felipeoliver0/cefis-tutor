@@ -1,0 +1,33 @@
+{
+  "id": 461582,
+  "title": "Preocupações da gestão financeira",
+  "position": 4,
+  "duration": 279,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c78e900f-6746-499e-9c5f-a1f1f7d40f36/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c78e900f-6746-499e-9c5f-a1f1f7d40f36/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c78e900f-6746-499e-9c5f-a1f1f7d40f36/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c78e900f-6746-499e-9c5f-a1f1f7d40f36/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c78e900f-6746-499e-9c5f-a1f1f7d40f36/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

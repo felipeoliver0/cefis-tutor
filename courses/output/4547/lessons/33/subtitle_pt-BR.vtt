@@ -1,0 +1,145 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.000
+Alteração em relação ao manual anexo ao Apto Declaratório Executivo COFIS 52-2018,
+
+3
+00:00:08.000 --> 00:00:10.400
+lançamento extemporâneo.
+
+4
+00:00:10.400 --> 00:00:16.199
+Então aqui, pessoal, o lançamento extemporâneo realmente é algo bem trabalhoso
+
+5
+00:00:16.199 --> 00:00:19.000
+quando nós fazemos o lançamento extemporâneo.
+
+6
+00:00:19.000 --> 00:00:23.600
+Não por ele em si, pelas providências que têm que ser tomadas,
+
+7
+00:00:23.600 --> 00:00:27.600
+porque se você omitir uma receita, omitir uma despesa,
+
+8
+00:00:27.600 --> 00:00:33.000
+suas contas contábeis mudam, seus impostos mudam, suas obrigações acessórias mudam,
+
+9
+00:00:33.000 --> 00:00:36.000
+então dá um trabalho considerável.
+
+10
+00:00:36.000 --> 00:00:42.799
+Isso começa a partir de 2018, no layout 7 foi criado o registro I-200,
+
+11
+00:00:42.799 --> 00:00:48.200
+que é o lançamento tipo X, que é extemporâneo, ou seja, fora do prazo,
+
+12
+00:00:48.200 --> 00:00:55.399
+que abrange, entre outros, o lançamento previsto na ITG-2000 de 2014.
+
+13
+00:00:55.399 --> 00:00:56.799
+Então aqui,
+
+14
+00:00:56.799 --> 00:00:59.000
+nós vamos ter aqui o seguinte.
+
+15
+00:00:59.000 --> 00:01:00.799
+Exemplos, né?
+
+16
+00:01:00.799 --> 00:01:06.799
+O M300A na linha 9140, ajuste de exercícios anteriores, lançamento extemporâneo.
+
+17
+00:01:06.799 --> 00:01:12.599
+O M300A linha 16635, ajuste de exercícios anteriores, lançamento extemporâneo.
+
+18
+00:01:12.599 --> 00:01:18.200
+Então eu tenho as linhas aí, os reflexos na ECF, se eu fizer lançamento extemporâneo.
+
+19
+00:01:18.200 --> 00:01:22.599
+Então eu citei as linhas aí e quais são os modos no M300.
+
+20
+00:01:22.599 --> 00:01:26.200
+E aqui ressalta-se que a pessoa jurídica que entregar
+
+21
+00:01:26.200 --> 00:01:32.000
+a ECF retificadora, alterando imposto de renda e contribuição social,
+
+22
+00:01:32.000 --> 00:01:37.400
+que já havia informado da DCTF, deverá retificar a DCTF também, tá?
+
+23
+00:01:37.400 --> 00:01:41.000
+Então nós comentamos esse detalhe que é fundamental,
+
+24
+00:01:41.000 --> 00:01:44.599
+porque não basta eu mexer só na ECD e na ECF,
+
+25
+00:01:44.599 --> 00:01:49.400
+eu vou ter que alterar também aí as demais obrigações acessórias,
+
+26
+00:01:49.400 --> 00:01:51.400
+nesse caso a DCTF, né?
+
+27
+00:01:51.400 --> 00:01:56.000
+E aqui finalizando esse bloco, plano de contas e mapeamento,
+
+28
+00:01:56.200 --> 00:02:02.799
+a ECF recupera o plano de contas do último período existente na ECD.
+
+29
+00:02:02.799 --> 00:02:07.000
+No plano de contas deve constar apenas as contas que têm um saldo
+
+30
+00:02:07.000 --> 00:02:09.199
+e tiveram movimentação no período.
+
+31
+00:02:09.199 --> 00:02:12.400
+Se não teve movimentação nenhuma e está zero, não aparece.
+
+32
+00:02:12.400 --> 00:02:17.400
+Mas se teve movimentação e mesmo que terminou com saldo zero, tem que aparecer.
+
+33
+00:02:17.400 --> 00:02:20.000
+Se a empresa transmitir esse CD em diversos arquivos,
+
+34
+00:02:20.000 --> 00:02:23.599
+ainda que a conta termine em saldo zero, em um arquivo,
+
+35
+00:02:23.599 --> 00:02:26.000
+deve constar no plano de contas de todos os arquivos.
+
+36
+00:02:26.199 --> 00:02:28.800
+Porque teve movimentação em algum período, né?
+
+37
+00:02:28.800 --> 00:02:31.199
+Perfeito? Bacana, gente?

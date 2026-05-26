@@ -1,0 +1,33 @@
+{
+  "id": 480651,
+  "title": "Críticas e desafios",
+  "position": 51,
+  "duration": 379,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0df04f8b-9a87-4bf3-ac68-f937516c9673/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0df04f8b-9a87-4bf3-ac68-f937516c9673/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0df04f8b-9a87-4bf3-ac68-f937516c9673/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0df04f8b-9a87-4bf3-ac68-f937516c9673/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0df04f8b-9a87-4bf3-ac68-f937516c9673/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

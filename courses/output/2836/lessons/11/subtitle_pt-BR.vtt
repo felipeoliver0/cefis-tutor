@@ -1,0 +1,313 @@
+WEBVTT
+
+1
+00:00:00.709 --> 00:00:05.840
+Agora vamos avançar em mais uma característica pra definir aí.
+
+2
+00:00:05.849 --> 00:00:06.719
+No final de tudo,
+
+3
+00:00:06.730 --> 00:00:13.680
+a correlação entre o c F A p e o C s t dentro da emissão de um documento fiscal c s t
+
+4
+00:00:13.689 --> 00:00:21.479
+do i p i C S t do i p i ele é composto por apenas dois dígitos e ele indicará a tributação.
+
+5
+00:00:21.489 --> 00:00:27.860
+A tabela C s t do I P i ela é dividida em duas partes Tabela de entrada,
+
+6
+00:00:28.379 --> 00:00:30.190
+tabela de saídas.
+
+7
+00:00:30.200 --> 00:00:36.060
+Então, sempre que você for relacionar uma operação primeiro,
+
+8
+00:00:36.069 --> 00:00:39.069
+pense Essa operação é uma operação de entrada ou
+
+9
+00:00:39.080 --> 00:00:41.290
+é uma operação de saída pra minha empresa e
+
+10
+00:00:41.299 --> 00:00:49.229
+aí sim você vai identificar se você vai usar a tabela de entrada ou a tabela de saída.
+
+11
+00:00:49.240 --> 00:00:53.064
+Lembrando que o F P i, ele vai ser utilizado e aplicado, né?
+
+12
+00:00:53.075 --> 00:00:57.145
+Para estabelecimentos que são contribuintes desse imposto,
+
+13
+00:00:57.154 --> 00:01:02.185
+geralmente a indústria ou o equiparado à indústria que vai ser ali, em regra geral,
+
+14
+00:01:02.194 --> 00:01:06.154
+o importador aquele que faz a industrialização por encomenda,
+
+15
+00:01:06.165 --> 00:01:08.004
+vamos a um exemplo prático.
+
+16
+00:01:08.014 --> 00:01:12.845
+Seguimos ainda na minha indústria que eu fabrico produtos com e C, S T
+
+17
+00:01:13.349 --> 00:01:16.680
+e como eu sou fabricante, né? Eu sou a indústria.
+
+18
+00:01:16.690 --> 00:01:22.459
+Eu sou o contribuinte do i p i nas minhas saídas eu tenho que tributar o i p i opa,
+
+19
+00:01:22.470 --> 00:01:23.580
+acabei de dar uma dica,
+
+20
+00:01:23.589 --> 00:01:27.720
+falei nas minhas saídas então eu vou olhar nas saídas
+
+21
+00:01:27.730 --> 00:01:32.660
+aqui oh na tabela de saídas pra identificar a tributação o
+
+22
+00:01:32.669 --> 00:01:37.699
+c s t que eu tenho que colocar tá lá no x ML porque no DANF eu não vejo o c
+
+23
+00:01:37.709 --> 00:01:44.580
+s t de i p i Se o meu produto é um produto fabricado aqui normal e ANC m não tem
+
+24
+00:01:44.589 --> 00:01:50.120
+nenhuma característica especial o c s t do I p I da minha saída vai ser o C S t cinquenta,
+
+25
+00:01:50.129 --> 00:01:56.599
+porque é uma saída tributada normalmente, dependendo se for, por exemplo,
+
+26
+00:01:56.839 --> 00:01:58.370
+em algumas operações.
+
+27
+00:01:58.379 --> 00:02:02.089
+Operação de transferência Em alguns casos eu não tenho a tributação do I P I,
+
+28
+00:02:02.099 --> 00:02:05.050
+porque eu tô falando de matrizes e filiais,
+
+29
+00:02:05.059 --> 00:02:09.369
+e aí eu não vou usar a a saída tributada eu vou ter ali uma
+
+30
+00:02:09.380 --> 00:02:14.259
+saída com suspensão do ISS do imposto é um outro exemplo pode ser também tá?
+
+31
+00:02:14.270 --> 00:02:16.179
+Eu vou usar o cinquenta e cinco.
+
+32
+00:02:16.190 --> 00:02:19.589
+Se eu tiver um produto que é isento ou se eu estiver
+
+33
+00:02:19.600 --> 00:02:22.649
+realizando uma operação que não é tributada pelo I P i.
+
+34
+00:02:22.660 --> 00:02:26.630
+Então sempre preciso analisar a tabela aqui de saída,
+
+35
+00:02:26.714 --> 00:02:30.845
+porque eu estou dando uma saída e classificar de acordo com
+
+36
+00:02:30.854 --> 00:02:35.365
+o que essa mercadoria tem de especificação dentro da tip,
+
+37
+00:02:35.375 --> 00:02:37.445
+que é a tabela ali do I p I.
+
+38
+00:02:37.455 --> 00:02:41.005
+Se, por exemplo, lá no Tip minha mercadoria for alíquota zero,
+
+39
+00:02:41.014 --> 00:02:45.125
+eu vou utilizar o c s t cinquenta e um eh pra identificar, né?
+
+40
+00:02:45.134 --> 00:02:48.645
+A tributação do i p i nas minhas saídas é tributado,
+
+41
+00:02:48.654 --> 00:02:51.884
+mas é tributado a alíquota zero então eu não vou ter ali i p
+
+42
+00:02:51.895 --> 00:02:56.505
+i a pagar numa operação como essa E agora um exemplo com entradas.
+
+43
+00:02:57.080 --> 00:03:02.850
+Imagina que eu estou comprando uma mercadoria insumos produtivos.
+
+44
+00:03:02.860 --> 00:03:07.990
+Imagine que eu sou uma fabricante de imóveis e aí eu estou comprando
+
+45
+00:03:08.000 --> 00:03:14.089
+insumos produtivos para fabricar os meus móveis e aí eu comprei parafusos,
+
+46
+00:03:14.100 --> 00:03:17.210
+comprei prego, comprei madeira, comprei lixa,
+
+47
+00:03:17.220 --> 00:03:20.449
+comprei verniz pra indenizar os meus móveis.
+
+48
+00:03:20.460 --> 00:03:22.490
+Comprei vários produtos que,
+
+49
+00:03:22.500 --> 00:03:27.429
+na minha característica aqui são insumos produtivos e os meus, os pregos,
+
+50
+00:03:27.440 --> 00:03:28.149
+os parafusos.
+
+51
+00:03:28.160 --> 00:03:30.990
+Eu comprei, direto da fábrica, as dobradiças.
+
+52
+00:03:31.000 --> 00:03:34.389
+Comprei direto da fábrica porque sai mais barato.
+
+53
+00:03:34.399 --> 00:03:34.770
+E aí,
+
+54
+00:03:34.779 --> 00:03:39.949
+quando eu compro dessa fábrica essa fábrica por também ser fabricante ela
+
+55
+00:03:39.960 --> 00:03:43.429
+vai ter a tributação do I P I na nota fiscal dele o
+
+56
+00:03:43.440 --> 00:03:47.089
+meu fornecedor vai usar o C s t de i p i cinquenta
+
+57
+00:03:47.100 --> 00:03:52.029
+Na saída dele eu comprei aqui e dei entrada no meu estabelecimento.
+
+58
+00:03:52.039 --> 00:03:56.490
+Quando eu dou entrada no meu estabelecimento, eu vou verificar
+
+59
+00:03:56.949 --> 00:03:58.160
+aqui a entrada.
+
+60
+00:03:58.169 --> 00:04:01.880
+O C S, t de acordo com o que representa pra minha empresa,
+
+61
+00:04:01.889 --> 00:04:06.460
+Se são insumos produtivos que eu vou usar na minha fabricação de imóveis,
+
+62
+00:04:06.470 --> 00:04:11.139
+eu vou escolher na tabela de entradas, porque eu estou dando uma entrada.
+
+63
+00:04:11.149 --> 00:04:14.160
+O C S T, que me representa direito a crédito,
+
+64
+00:04:14.169 --> 00:04:18.220
+que é o zero zero entrada com recuperação de crédito.
+
+65
+00:04:18.579 --> 00:04:21.470
+Se a mercadoria fosse tributada com alíquota zero,
+
+66
+00:04:21.480 --> 00:04:27.190
+e do meu fornecedor viesse aqui com cinquenta e um, a minha entrada seria com zero um.
+
+67
+00:04:27.200 --> 00:04:31.109
+Aqui nós começamos a fazer essa correlação E, mais uma vez,
+
+68
+00:04:31.119 --> 00:04:33.910
+reforçamos aquele aquela premissa né Que eu tenho
+
+69
+00:04:33.920 --> 00:04:37.089
+que olhar sobre a ótica da minha empresa,
+
+70
+00:04:37.100 --> 00:04:38.320
+tanto para definir o C,
+
+71
+00:04:38.329 --> 00:04:42.644
+f o p como para definir o c f o P o C f o p e o C s
+
+72
+00:04:42.654 --> 00:04:45.864
+t Nós temos que olhar sobre a ótica da nossa
+
+73
+00:04:45.875 --> 00:04:49.725
+empresa sobre a ótica de quem está realizando ali,
+
+74
+00:04:49.734 --> 00:04:52.045
+operando com aquilo, com aquela nota,
+
+75
+00:04:52.054 --> 00:04:55.144
+com aquela natureza específica que tá acontecendo,
+
+76
+00:04:55.154 --> 00:04:57.864
+o meu fornecedor vai olhar sobre a ótica dele e
+
+77
+00:04:57.875 --> 00:05:00.484
+vai mandar o a nota fiscal sobre a ótica dele.
+
+78
+00:05:00.494 --> 00:05:04.885
+Na hora de eu dar entrada, eu vou olhar sobre a ótica da minha empresa combinado.

@@ -1,0 +1,257 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.579
+algo muito importante que vocês precisam saber sobre o C. F. O p existe, né?
+
+2
+00:00:04.590 --> 00:00:08.100
+Dentro da tabela c F a p inúmeras opções
+
+3
+00:00:08.109 --> 00:00:11.319
+de código pra você classificar a sua operação.
+
+4
+00:00:11.329 --> 00:00:15.920
+E muitas vezes, vai acontecer de você pegar uma nota fiscal,
+
+5
+00:00:15.930 --> 00:00:20.420
+receber uma nota fiscal do teu fornecedor ou você mesmo emitir uma nota fiscal.
+
+6
+00:00:20.430 --> 00:00:25.305
+E dentro da mesma nota, você encontrar mais de um C F a p.
+
+7
+00:00:25.315 --> 00:00:30.504
+Isso é normal e está correto, desde que esses c f,
+
+8
+00:00:30.514 --> 00:00:32.625
+o PS que tenham dentro de uma mesma nota
+
+9
+00:00:32.634 --> 00:00:36.715
+fiscal sejam relacionados à mesma natureza da operação.
+
+10
+00:00:36.724 --> 00:00:39.064
+Explico vamos dar um exemplo prático.
+
+11
+00:00:39.075 --> 00:00:42.665
+Imagine que você é uma indústria e você vai
+
+12
+00:00:42.674 --> 00:00:45.965
+fazer a venda de um produto industrializado por você.
+
+13
+00:00:46.270 --> 00:00:49.840
+Esse produto industrializado você tem dentro da sua cadeia ali,
+
+14
+00:00:49.849 --> 00:00:51.750
+de produtos da sua fábrica,
+
+15
+00:00:51.759 --> 00:00:56.279
+produtos eletrônicos e produtos que são sem substituição
+
+16
+00:00:56.290 --> 00:01:00.200
+tributária e produtos que são com substituição tributária.
+
+17
+00:01:00.209 --> 00:01:03.959
+Você, como indústria, é o substituto tributário,
+
+18
+00:01:03.970 --> 00:01:07.139
+então você precisa recolher a s t naqueles
+
+19
+00:01:07.150 --> 00:01:10.160
+produtos que estão devido à substituição tributária.
+
+20
+00:01:10.169 --> 00:01:13.180
+Imagine que um cliente comprou de você
+
+21
+00:01:13.860 --> 00:01:20.410
+alguns produtos e dentre eles está misturado ali ele comprou produtos com e sem s t,
+
+22
+00:01:20.750 --> 00:01:26.480
+como o c F o p e Uma das características dele é justamente é um código fiscal, né?
+
+23
+00:01:26.489 --> 00:01:30.120
+É definir tributação. Nós teremos c F o p diferentes.
+
+24
+00:01:30.129 --> 00:01:35.879
+Nessa nota fiscal, teremos o C F, o P cinco cento e um, se for uma operação interna.
+
+25
+00:01:35.889 --> 00:01:37.680
+Cinco vendas, né?
+
+26
+00:01:37.690 --> 00:01:42.080
+As saídas para o mesmo estado cinco cento e um o cento
+
+27
+00:01:42.089 --> 00:01:46.739
+e um porque é venda de uma produção do meu estabelecimento interna.
+
+28
+00:01:46.750 --> 00:01:52.120
+E também teremos o cinco quatrocentos e um, que é uma venda interna,
+
+29
+00:01:52.129 --> 00:01:55.500
+uma saída dentro do meu estado, mais quatrocentos e um,
+
+30
+00:01:55.510 --> 00:01:57.779
+porque tem substituição tributária.
+
+31
+00:01:57.790 --> 00:01:59.459
+Então, na mesma nota fiscal,
+
+32
+00:01:59.470 --> 00:02:01.699
+eu tenho o c F a P cinco cento e um
+
+33
+00:02:01.709 --> 00:02:06.019
+e cinco quatrocentos e um porque eu sou indústria substituto tributário.
+
+34
+00:02:06.029 --> 00:02:10.059
+Fabrique produtos que s t produtos que não tem s t e
+
+35
+00:02:10.070 --> 00:02:14.440
+na minha venda o cliente comprou das duas modalidades de produtos.
+
+36
+00:02:14.449 --> 00:02:19.160
+Isso é perfeitamente possível e plenamente correto,
+
+37
+00:02:19.169 --> 00:02:23.800
+mas o que eu não poderia ter na mesma nota fiscal, por exemplo,
+
+38
+00:02:23.809 --> 00:02:30.580
+seriam C F a PS diferentes, mas com natureza de operação que não se conversa.
+
+39
+00:02:30.649 --> 00:02:31.699
+Exemplo prático.
+
+40
+00:02:31.710 --> 00:02:35.850
+Estou vendendo aqui minha mesma mercadoria produzida no meu estabelecimento.
+
+41
+00:02:35.860 --> 00:02:40.539
+Então eu tenho lá o C f o p cinco cento e um na minha venda Operação de venda
+
+42
+00:02:40.550 --> 00:02:43.580
+e aí do nada eu resolvo que eu vou colocar
+
+43
+00:02:43.589 --> 00:02:47.179
+dentro dessa nota aqui também uma mercadoria pra conserto.
+
+44
+00:02:47.190 --> 00:02:50.080
+Aí eu coloco lá um c f o p de remessa pra conserto
+
+45
+00:02:50.089 --> 00:02:53.880
+um c f o p de remessa pra demonstração junto com uma venda
+
+46
+00:02:54.240 --> 00:02:57.740
+isso não pode porque estamos falando de operações
+
+47
+00:02:57.750 --> 00:03:01.389
+distintas a natureza da operação não se conversa.
+
+48
+00:03:01.399 --> 00:03:03.949
+Posso ter mais de um C f a p Na mesma nota,
+
+49
+00:03:03.960 --> 00:03:07.770
+posso desde que a natureza da operação se conversa,
+
+50
+00:03:07.779 --> 00:03:10.800
+seja coerente uma com a outra combinado.
+
+51
+00:03:10.809 --> 00:03:15.710
+E uma outra coisa importante com relação ao c f a p, sempre quando você estiver
+
+52
+00:03:15.960 --> 00:03:18.250
+iniciando e analisando uma operação,
+
+53
+00:03:18.259 --> 00:03:24.330
+você precisa lembrar que na tabela C f a p existem inúmeras opções
+
+54
+00:03:24.339 --> 00:03:29.190
+pra você escolher que se adeque à operação fiscal que você está realizando.
+
+55
+00:03:29.199 --> 00:03:31.270
+Nada de sair colocando o c f a,
+
+56
+00:03:31.279 --> 00:03:37.889
+p nove quatro nove sem de fato saber se não existe em
+
+57
+00:03:37.899 --> 00:03:42.309
+nenhum caso nenhum c f a p adequado pra sua operação.
+
+58
+00:03:42.410 --> 00:03:47.940
+O nove quatro nove que é aquele c f a p de outras, é só quando você não sabe eh, não,
+
+59
+00:03:47.949 --> 00:03:52.279
+não tem mesmo dentro da tabela c, F a P nada que represente a tua operação.
+
+60
+00:03:52.289 --> 00:03:56.419
+Aí você usa o nove quatro nove e quando usar o nove, quatro nove lá,
+
+61
+00:03:56.429 --> 00:03:59.580
+no campo de natureza da operação tem que existir.
+
+62
+00:03:59.589 --> 00:04:04.020
+Qual é a operação que está acontecendo combinado a partir de agora,
+
+63
+00:04:04.029 --> 00:04:05.979
+sem sair usando o nove quatro nove, hein?
+
+64
+00:04:05.990 --> 00:04:08.800
+Tem que olhar a tabela e ver se tem um c F a p adequado.

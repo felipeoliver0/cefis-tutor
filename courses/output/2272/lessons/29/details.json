@@ -1,0 +1,33 @@
+{
+  "id": 464254,
+  "title": "Forma de alienação",
+  "position": 29,
+  "duration": 389,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e500c074-cf84-4b51-b377-b4e4c916f801/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e500c074-cf84-4b51-b377-b4e4c916f801/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e500c074-cf84-4b51-b377-b4e4c916f801/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e500c074-cf84-4b51-b377-b4e4c916f801/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e500c074-cf84-4b51-b377-b4e4c916f801/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

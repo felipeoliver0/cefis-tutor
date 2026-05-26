@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2440,
+    "title": "[podcast] Documento Eletrônico de Transporte - DT-e",
+    "subtitle": "PodCast",
+    "summary": "Este PODCAST é especial para falar do DT-E, esse novo documento no segmento de transporte. Vamos fazer aqui uma distinção entre o DT-e documento de transporte, e DT-e, domicílio tributário eletrônico.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/528453f8d07f49659e9b553ab2a1ecdf1728428065.jpg",
+    "goals": [
+      "Falar sobre este novo documento no segmento de transporte, o DT-e."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 786,
+    "keywords": "podcast;Documento Eletrônico de Transporte;dte;dt-e",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 82,
+    "averageRating": 9.3,
+    "practiceAverage": 9.25,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-02-04T16:07:55.000Z",
+    "recordedAt": "2023-01-16T00:00:00.000Z",
+    "createdAt": "2023-01-16T18:10:00.000Z"
+  }
+}

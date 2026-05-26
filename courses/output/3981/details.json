@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3981,
+    "title": "SST no Departamento Pessoal",
+    "subtitle": "curso prático",
+    "summary": "O participante aprende sobre programas obrigatórios como PPRA/PGR, PCMSO, LTCAT e eSocial, além da gestão de exames admissionais, periódicos, demissionais e de retorno ao trabalho. Também são explorados os impactos da SST na folha de pagamento, como adicionais de insalubridade e periculosidade, afastamentos e benefícios previdenciários.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/6552914c-c38a-45c8-9f59-ce520106849b-thumbnail.png",
+    "goals": [
+      "O objetivo é preparar profissionais para atuar de forma preventiva, garantindo a segurança jurídica da empresa, a integridade física dos colaboradores e a correta transmissão das informações ao eSocial. Trata-se de um curso essencial para quem deseja dominar a interface entre saúde, segurança e gestão de pessoas."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 2381,
+    "keywords": "sst;departamento;pessoal;saúde;segurança",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 13,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 330,
+    "averageRating": 9.36,
+    "practiceAverage": 9.3,
+    "trailer": {
+      "id": "bf4ad892-becd-43de-8c97-22bb27da80bb",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bf4ad892-becd-43de-8c97-22bb27da80bb/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bf4ad892-becd-43de-8c97-22bb27da80bb/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bf4ad892-becd-43de-8c97-22bb27da80bb/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/bf4ad892-becd-43de-8c97-22bb27da80bb/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-09-25T19:42:52.000Z",
+      "updatedAt": "2025-09-25T19:42:52.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-09-25T19:43:47.000Z",
+    "recordedAt": "2025-09-15T00:00:00.000Z",
+    "createdAt": "2025-09-25T01:06:48.000Z"
+  }
+}

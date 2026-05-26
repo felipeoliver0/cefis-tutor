@@ -1,0 +1,33 @@
+{
+  "id": 483922,
+  "title": "Base legal",
+  "position": 2,
+  "duration": 155,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/027977fa-f4bd-4c9d-8206-140b1b06acb9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/027977fa-f4bd-4c9d-8206-140b1b06acb9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/027977fa-f4bd-4c9d-8206-140b1b06acb9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/027977fa-f4bd-4c9d-8206-140b1b06acb9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/027977fa-f4bd-4c9d-8206-140b1b06acb9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

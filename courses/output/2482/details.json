@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2482,
+    "title": "Conhecimento de Transporte Eletrônico (CT-e)",
+    "subtitle": "Fundamentos e aplicações",
+    "summary": "Neste curso prático de Conhecimento de Transporte Eletrônico - CTE você vai aprender desde os aspectos gerais do CT-e e do CT-E OS, preparação para emissão contingência DACTE e Escrituração Digital, bem como os aspectos tributários, glossário de transporte e emissão do CT-e para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/19b1582d56950e7d8c5ad90658b1bdb61728427942.jpg",
+    "goals": [
+      "Este curso foi planejado para que o aluno tenha total conhecimento para entender os processos que envolvem o Conhecimento de Transporte Eletrônico e o Conhecimento de Transporte Eletrônico para Outros Serviços."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 12335,
+    "keywords": "Conhecimento de transporte eletrônico;cte;ct-e;ct-e os;outros serviços",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 40,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1029,
+    "averageRating": 9.09,
+    "practiceAverage": 9.03,
+    "trailer": {
+      "id": "07223ef6-2b0b-4360-9a52-7b50501d6ac3",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/07223ef6-2b0b-4360-9a52-7b50501d6ac3/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/07223ef6-2b0b-4360-9a52-7b50501d6ac3/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/07223ef6-2b0b-4360-9a52-7b50501d6ac3/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/07223ef6-2b0b-4360-9a52-7b50501d6ac3/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-03-18T18:00:30.000Z",
+      "updatedAt": "2023-03-18T18:00:30.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 6,
+    "launchDate": "2023-03-31T14:07:50.000Z",
+    "recordedAt": "2023-03-04T00:00:00.000Z",
+    "createdAt": "2023-03-04T16:42:09.000Z"
+  }
+}

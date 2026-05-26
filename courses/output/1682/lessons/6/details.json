@@ -1,0 +1,33 @@
+{
+  "id": 455579,
+  "title": "Componente de custos",
+  "position": 6,
+  "duration": 43,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/95570f23-0b10-483c-b6e1-3b03f42f8577/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/95570f23-0b10-483c-b6e1-3b03f42f8577/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/95570f23-0b10-483c-b6e1-3b03f42f8577/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/95570f23-0b10-483c-b6e1-3b03f42f8577/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/95570f23-0b10-483c-b6e1-3b03f42f8577/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

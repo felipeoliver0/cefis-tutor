@@ -1,0 +1,33 @@
+{
+  "id": 452234,
+  "title": "IFRS 16",
+  "position": 45,
+  "duration": 335,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fd97aaf8-3b2d-42f6-85fe-002b11995f77/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fd97aaf8-3b2d-42f6-85fe-002b11995f77/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fd97aaf8-3b2d-42f6-85fe-002b11995f77/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fd97aaf8-3b2d-42f6-85fe-002b11995f77/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fd97aaf8-3b2d-42f6-85fe-002b11995f77/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

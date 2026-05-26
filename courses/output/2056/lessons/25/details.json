@@ -1,0 +1,33 @@
+{
+  "id": 462115,
+  "title": "Dicionários e tradutores | Praticando",
+  "position": 25,
+  "duration": 438,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/34358d04-c800-4cae-98c6-865b09e2ba64/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34358d04-c800-4cae-98c6-865b09e2ba64/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34358d04-c800-4cae-98c6-865b09e2ba64/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34358d04-c800-4cae-98c6-865b09e2ba64/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/34358d04-c800-4cae-98c6-865b09e2ba64/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

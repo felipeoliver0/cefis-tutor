@@ -1,0 +1,33 @@
+{
+  "id": 462446,
+  "title": "Diferimento",
+  "position": 22,
+  "duration": 282,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/69e9594d-8ae6-4df2-a85e-ef878834f7e1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/69e9594d-8ae6-4df2-a85e-ef878834f7e1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/69e9594d-8ae6-4df2-a85e-ef878834f7e1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/69e9594d-8ae6-4df2-a85e-ef878834f7e1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/69e9594d-8ae6-4df2-a85e-ef878834f7e1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

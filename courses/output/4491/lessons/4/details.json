@@ -1,0 +1,33 @@
+{
+  "id": 487332,
+  "title": "Lei complementar",
+  "position": 4,
+  "duration": 180,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/273b3732-5d9f-43d9-a4eb-3cea80754fb0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/273b3732-5d9f-43d9-a4eb-3cea80754fb0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/273b3732-5d9f-43d9-a4eb-3cea80754fb0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/273b3732-5d9f-43d9-a4eb-3cea80754fb0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/273b3732-5d9f-43d9-a4eb-3cea80754fb0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

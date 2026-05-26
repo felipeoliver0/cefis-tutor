@@ -1,0 +1,613 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.359
+Agora, a gente estudando esse exercício de pedido de demissão,
+
+2
+00:00:03.520 --> 00:00:05.639
+sem cumprimento do aviso, o que a gente observa?
+
+3
+00:00:05.700 --> 00:00:08.640
+Vamos verificar primeiro o enunciado do exercício, tá?
+
+4
+00:00:09.199 --> 00:00:12.419
+É importante, pessoal, vocês estarem aí com a calculadorinha do lado,
+
+5
+00:00:12.759 --> 00:00:14.939
+porque aí vocês vão acompanhando o que eu estou dizendo,
+
+6
+00:00:15.060 --> 00:00:17.980
+vão fazendo os testes aí, vão validando o exercício.
+
+7
+00:00:18.440 --> 00:00:23.079
+É super importante para vocês fixarem os conceitos que a gente estudou, tá?
+
+8
+00:00:23.460 --> 00:00:26.079
+De qualquer forma, qualquer dúvida que vocês tenham,
+
+9
+00:00:26.160 --> 00:00:27.679
+por favor, nos pontue, será
+
+10
+00:00:27.679 --> 00:00:30.100
+uma grande alegria tirar qualquer dúvida
+
+11
+00:00:30.100 --> 00:00:32.020
+de vocês, tá bom? Vamos lá.
+
+12
+00:00:33.200 --> 00:00:34.560
+O José da Silva,
+
+13
+00:00:34.659 --> 00:00:36.240
+né? Ele foi admitido
+
+14
+00:00:36.240 --> 00:00:38.399
+em janeiro de 2025
+
+15
+00:00:38.399 --> 00:00:40.359
+e foi dispensado no dia
+
+16
+00:00:40.359 --> 00:00:42.579
+em 15 de agosto
+
+17
+00:00:42.579 --> 00:00:44.520
+de 2025. Esse caso
+
+18
+00:00:44.520 --> 00:00:45.820
+agora é 2025 mesmo,
+
+19
+00:00:46.020 --> 00:00:47.820
+não tem um ano de empresa ainda.
+
+20
+00:00:48.500 --> 00:00:51.240
+O salário do José é um salário de R$ 1.600.
+
+21
+00:00:52.600 --> 00:00:54.560
+No dia 15, pessoal,
+
+22
+00:00:54.640 --> 00:00:57.820
+ele recebeu um adiantamento salarial de 40%.
+
+23
+00:00:57.820 --> 00:01:01.740
+Ele possui 10 horas extras
+
+24
+00:01:01.740 --> 00:01:04.900
+que devem ser remuneradas a 70%.
+
+25
+00:01:04.900 --> 00:01:07.379
+Da onde eu tirei essa informação, pessoal?
+
+26
+00:01:07.680 --> 00:01:09.739
+Da convenção coletiva, tá?
+
+27
+00:01:10.459 --> 00:01:16.840
+Ele tem uma falta e essa empresa utiliza a política de descontar um DSR, tá?
+
+28
+00:01:17.280 --> 00:01:18.939
+Ok, vamos seguir na rescisão.
+
+29
+00:01:20.159 --> 00:01:22.200
+Carga horária mensal, 220.
+
+30
+00:01:22.819 --> 00:01:27.200
+DSR de agosto de 2025, 26 por 5.
+
+31
+00:01:27.280 --> 00:01:28.579
+O que é o DSR, pessoal?
+
+32
+00:01:29.439 --> 00:01:34.120
+São os dias semanais remunerados, os domingos e os feriados, ok?
+
+33
+00:01:34.439 --> 00:01:38.500
+Então, vamos olhar aqui os cálculos agora, conforme enunciado do exercício.
+
+34
+00:01:38.500 --> 00:01:39.260
+Muito bem.
+
+35
+00:01:40.180 --> 00:01:45.560
+Lá no exercício estava dizendo que eu dispensei esse funcionário no dia 15 de agosto, ok?
+
+36
+00:01:46.040 --> 00:01:48.640
+Então como é que eu calculei o saldo de salários?
+
+37
+00:01:48.780 --> 00:01:56.659
+Eu peguei o salário dele, que era R$ 1.600,00, dividi por 30, eu descobri o valor de um dia de salário.
+
+38
+00:01:57.659 --> 00:02:02.180
+Multipliquei por 15 dias, eu tive o valor de salário de R$ 800,00.
+
+39
+00:02:02.780 --> 00:02:05.959
+Lá no exercício dizia que esse funcionário tinha
+
+40
+00:02:05.959 --> 00:02:07.739
+10 horas extras a receber
+
+41
+00:02:07.739 --> 00:02:09.520
+a título de 70%.
+
+42
+00:02:09.520 --> 00:02:11.819
+Esse 70% eu extraí essa informação
+
+43
+00:02:11.819 --> 00:02:13.860
+da convenção coletiva. E lá
+
+44
+00:02:13.860 --> 00:02:15.800
+me falava que a carga horária dele também
+
+45
+00:02:15.800 --> 00:02:17.539
+era uma carga horária de R$ 220,00.
+
+46
+00:02:18.219 --> 00:02:19.819
+Então como é que eu faço para calcular
+
+47
+00:02:19.819 --> 00:02:21.319
+hora extra? Vamos recapitular.
+
+48
+00:02:21.939 --> 00:02:23.539
+A regra de cálculo de hora extra.
+
+49
+00:02:24.560 --> 00:02:47.199
+Salário dividido por R$ 220,00 Vamos recapitular. Multiplico pela quantidade de horas realizadas, no caso 10 horas, eu tenho o valor de hora extra, ok?
+
+50
+00:02:48.300 --> 00:02:53.439
+Salário dividido por 220, eu tenho o valor de uma hora de trabalho, que é a hora seca.
+
+51
+00:02:54.139 --> 00:02:58.919
+Acrescento o percentual inserido, que no caso é 70%, tenho o valor da hora atualizada
+
+52
+00:02:58.919 --> 00:03:02.340
+e aí eu multiplico pela quantidade de horas realizadas.
+
+53
+00:03:02.639 --> 00:03:05.879
+Só recapitulando aqui a racional do exercício.
+
+54
+00:03:06.580 --> 00:03:10.280
+Sobre toda variável de natureza salarial,
+
+55
+00:03:10.479 --> 00:03:12.939
+eu tenho incidência de DSR, pessoal.
+
+56
+00:03:13.199 --> 00:03:16.000
+Hora extra, comissão, adicional noturno,
+
+57
+00:03:16.819 --> 00:03:19.400
+sobre todas elas eu tenho DSR.
+
+58
+00:03:19.539 --> 00:03:23.300
+Então, nessa condição, sobre 123,64,
+
+59
+00:03:23.539 --> 00:03:26.419
+qual é a regra de cálculo de DSR, pessoal?
+
+60
+00:03:27.159 --> 00:03:34.460
+Eu pego o meu total calculado, no caso 123,64, do mês de agosto, é um mês de 31 dias,
+
+61
+00:03:35.139 --> 00:03:44.819
+eu divido por 26, que são os meus dias úteis, e multiplico por 5, que são os meus dias de DSR.
+
+62
+00:03:44.819 --> 00:03:45.219
+Nesse caso, eu vou os meus dias de DSR.
+
+63
+00:03:48.300 --> 00:03:49.300
+Nesse caso, eu vou ter o valor de R$ 23,78.
+
+64
+00:03:50.879 --> 00:03:51.340
+Aviso prévio, pessoal.
+
+65
+00:03:52.699 --> 00:03:53.340
+Cabe aviso prévio aqui?
+
+66
+00:03:55.479 --> 00:03:56.099
+Não cabe, porque é um pedido de demissão.
+
+67
+00:03:58.159 --> 00:03:58.879
+Então, aqui não cabe aviso prévio.
+
+68
+00:04:00.379 --> 00:04:00.580
+Décimo terceiro salário.
+
+69
+00:04:01.419 --> 00:04:27.839
+Vamos olhar lá. Tem também, porque ele foi dispensado exatamente no dia 15. Se ele tivesse sido dispensado no dia 14, ele não teria direito a esse avo.
+
+70
+00:04:28.019 --> 00:04:32.240
+Então, aqui eu tenho 8 dozeavos de décimo terceiro.
+
+71
+00:04:32.279 --> 00:04:34.100
+E como é que eu descubro o valor de um avo?
+
+72
+00:04:34.379 --> 00:04:38.560
+Eu pego o salário dele de 1.600 reais, divido por 12.
+
+73
+00:04:38.899 --> 00:04:40.319
+Eu tenho o valor de um mês.
+
+74
+00:04:40.759 --> 00:04:46.240
+Um mês multiplicado por 8 dozeavos, eu tenho o valor de 1.066,67.
+
+75
+00:04:47.180 --> 00:04:47.540
+Ok?
+
+76
+00:04:48.459 --> 00:04:50.199
+Férias proporcionais, pessoal.
+
+77
+00:04:50.519 --> 00:04:52.959
+Férias proporcionais, ele não tem 8 dozeavos.
+
+78
+00:04:53.060 --> 00:04:53.980
+Vamos entender por quê?
+
+79
+00:04:54.160 --> 00:04:54.660
+Olha só.
+
+80
+00:04:55.399 --> 00:04:59.439
+10 de janeiro, 10 de fevereiro, 1 avo.
+
+81
+00:04:59.579 --> 00:05:06.759
+10 de março, 10 de abril, 10 de maio, 10 de junho, 10 de julho, 10 de agosto.
+
+82
+00:05:07.100 --> 00:05:10.379
+Então, na minha contagem, eu tenho 7 dozeavos.
+
+83
+00:05:10.540 --> 00:05:11.980
+A mesma regra para cálculo.
+
+84
+00:05:12.519 --> 00:05:17.420
+Eu pego o salário 1.600, divido por 12, eu descubro o valor de um avo.
+
+85
+00:05:17.959 --> 00:05:22.800
+Multiplicado por 7, eu tenho 933 de férias.
+
+86
+00:05:22.920 --> 00:05:26.620
+E sobre todo e qualquer cálculo de férias,
+
+87
+00:05:26.959 --> 00:05:29.120
+eu vou acrescer de um terço proporcional.
+
+88
+00:05:29.480 --> 00:05:33.060
+O valor calculado, eu divido por 3, eu tenho o valor de um terço.
+
+89
+00:05:34.040 --> 00:05:35.379
+Tem multas estabilidades?
+
+90
+00:05:35.459 --> 00:05:37.040
+Nesse caso, não temos nada.
+
+91
+00:05:37.319 --> 00:05:41.959
+Ele tem total de proventos, o valor de 3.258,52.
+
+92
+00:05:42.180 --> 00:05:44.500
+Façam os testes aí na calculadora com vocês.
+
+93
+00:05:46.019 --> 00:05:47.759
+Descontos,os pessoal INSS
+
+94
+00:05:47.759 --> 00:05:50.819
+eu tenho um valor de INSS de 60 reais
+
+95
+00:05:50.819 --> 00:05:52.339
+ali que foi aplicado
+
+96
+00:05:52.339 --> 00:05:53.399
+sobre uma alíquota de
+
+97
+00:05:53.399 --> 00:05:56.600
+7,5%, vamos olhar aqui
+
+98
+00:05:56.600 --> 00:05:58.519
+saldo de salários é base?
+
+99
+00:05:59.060 --> 00:06:00.540
+é base, vou considerar
+
+100
+00:06:00.540 --> 00:06:02.160
+aqui, horas extras
+
+101
+00:06:02.160 --> 00:06:03.879
+evento de natureza salarial
+
+102
+00:06:03.879 --> 00:06:27.839
+paga no decorrência do mês junto com DSR, ambos são eventos de natureza salarial considerar aqui. sobre o evento específico de 13º de NSS. Férias, qualquer tipo de férias, pague em rescisão,
+
+103
+00:06:28.240 --> 00:06:30.800
+não no contrato de trabalho, de forma diferente,
+
+104
+00:06:31.199 --> 00:06:34.759
+pague em rescisão, não sofre incidência de NSS, tá?
+
+105
+00:06:34.860 --> 00:06:38.420
+Ela entra como características de verbas indenizatórias.
+
+106
+00:06:38.560 --> 00:06:39.800
+Então, não cabe aqui.
+
+107
+00:06:39.959 --> 00:06:44.300
+No exercício, eu também falava, pessoal, que ele tinha faltas.
+
+108
+00:06:44.300 --> 00:06:46.980
+Então, como é que eu faço para o desconto de falta?
+
+109
+00:06:46.980 --> 00:06:53.439
+Eu pego o salário, R$ 1.600,00, divido por 30, eu descubro o valor de um dia de trabalho.
+
+110
+00:06:53.540 --> 00:06:59.899
+Como eu estou falando de uma falta inteira, R$ 1.600,00 dividido por 30 representa o valor de R$ 53,33,
+
+111
+00:07:00.560 --> 00:07:05.240
+que é o que eu estou descontando aqui, o DSR de falta que é o mesmo valor.
+
+112
+00:07:06.540 --> 00:07:09.899
+Imposto de renda não é base de cálculo,
+
+113
+00:07:10.899 --> 00:07:14.019
+ou seja, o valor apurado de base de cálculo
+
+114
+00:07:14.019 --> 00:07:17.560
+não atingiu a faixa para tributação,
+
+115
+00:07:17.720 --> 00:07:18.819
+então a gente não tem o que falar.
+
+116
+00:07:19.560 --> 00:07:22.060
+Só que ele está dizendo que esse funcionário
+
+117
+00:07:22.060 --> 00:07:26.100
+recebeu um adiantamento de 40%,
+
+118
+00:07:26.100 --> 00:07:27.779
+sobre o salário, né?
+
+119
+00:07:28.100 --> 00:07:33.360
+Então, R$ 1.600, 40% no dia 15, está aqui o desconto do adiantamento.
+
+120
+00:07:33.939 --> 00:07:37.779
+E nesse caso, pessoal, o enunciado do exercício dizia
+
+121
+00:07:37.779 --> 00:07:41.360
+pedido de demissão sem cumprimento de aviso.
+
+122
+00:07:41.740 --> 00:07:47.240
+Nesse caso, o empregador tem o direito de descontar o aviso prévio dele.
+
+123
+00:07:47.240 --> 00:07:57.560
+Então, ele teve um total de descontos de R$ 2.486,00, recebendo um líquido de rescisão de R$ 771,86.
+
+124
+00:07:57.959 --> 00:08:05.819
+Bases de cálculo, pessoal. Base de cálculo de INSS. Só o que eu considerei foi salário, mas aquelas horas extras. A base
+
+125
+00:08:05.819 --> 00:08:07.560
+de cálculo do INSS.
+
+126
+00:08:08.120 --> 00:08:09.600
+Base de cálculo do IR.
+
+127
+00:08:10.000 --> 00:08:11.699
+É as bases de remuneração menos
+
+128
+00:08:11.699 --> 00:08:13.180
+os descontos da Previdências,
+
+129
+00:08:13.779 --> 00:08:15.959
+menos dependentes caso houvesse.
+
+130
+00:08:16.100 --> 00:08:17.259
+Aqui não teve, né?
+
+131
+00:08:17.860 --> 00:08:19.379
+Base de cálculo de
+
+132
+00:08:19.379 --> 00:08:21.600
+décimo terceiro segue o mesmo
+
+133
+00:08:21.600 --> 00:08:22.540
+preceito, tá?
+
+134
+00:08:23.639 --> 00:08:25.579
+FGTS do mês da rescisão.
+
+135
+00:08:26.160 --> 00:08:28.439
+Então, vamos olhar o que é base de FGTS.
+
+136
+00:08:28.759 --> 00:08:32.820
+Saldo de salários é base, hora extra é base, DSR é base.
+
+137
+00:08:34.220 --> 00:08:40.080
+13º é base, férias paguem rescisão, não é base de cálculo.
+
+138
+00:08:40.240 --> 00:08:45.500
+Verbas de natureza indenizatória, que dá uma base de R$ 1.907,00,
+
+139
+00:08:45.639 --> 00:08:50.620
+aplicado o 8%, eu tenho o valor de R$ 152,59.
+
+140
+00:08:51.480 --> 00:08:55.759
+Nesse caso, no pedido de demissão, quais as considerações?
+
+141
+00:08:56.080 --> 00:09:01.600
+Não há liberação de guias para seguro-desemprego, não há multa de FGTS de 40%,
+
+142
+00:09:01.600 --> 00:09:05.779
+sempre tem que analisar a convenção coletiva, tá?
+
+143
+00:09:05.899 --> 00:09:07.899
+Para validar. O pagamento
+
+144
+00:09:07.899 --> 00:09:10.399
+das verbas recisórias também acontecem
+
+145
+00:09:10.399 --> 00:09:11.759
+dentro do prazo de 10 dias
+
+146
+00:09:11.759 --> 00:09:14.399
+para não ocorrer a multa dos 477.
+
+147
+00:09:15.139 --> 00:09:16.460
+Validar a necessidade
+
+148
+00:09:16.460 --> 00:09:18.100
+para a realização do exame demissional.
+
+149
+00:09:18.299 --> 00:09:19.580
+A mesma coisa, tá?
+
+150
+00:09:20.220 --> 00:09:21.500
+90 dias para
+
+151
+00:09:21.500 --> 00:09:23.639
+empresas de graus de risco 1 e 2
+
+152
+00:09:23.639 --> 00:09:26.120
+e 135 dias para empresas de grau
+
+153
+00:09:26.120 --> 00:09:26.940
+3 e 4.

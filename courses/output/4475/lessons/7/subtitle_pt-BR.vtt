@@ -1,0 +1,261 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.400
+Pessoal, chegamos à etapa onde vamos construir uma informação
+
+3
+00:00:04.400 --> 00:00:08.000
+para que seja tomada a decisão através de indicadores.
+
+4
+00:00:08.000 --> 00:00:11.000
+Vou usar como exemplo a área de departamento pessoal novamente.
+
+5
+00:00:11.000 --> 00:00:16.000
+E aqui, uma simples planilha com as tarefas de um DP.
+
+6
+00:00:16.000 --> 00:00:21.000
+O que a gente consegue controlar e medir para que, lá na frente,
+
+7
+00:00:21.000 --> 00:00:24.000
+sejam feitas algumas modificações na equipe?
+
+8
+00:00:24.000 --> 00:00:28.000
+Processamento. O que um profissional da área da folha de pagamento faz?
+
+9
+00:00:28.000 --> 00:00:32.000
+Está aqui. Adiantamento, folha de pagamento, E-social, Prolabor, INSS,
+
+10
+00:00:32.000 --> 00:00:33.000
+tudo nesse campo.
+
+11
+00:00:33.000 --> 00:00:36.000
+Total de empresas que esse profissional pode movimentar.
+
+12
+00:00:36.000 --> 00:00:41.000
+E aqui temos um exemplo. 20 empresas, 50 empresas e por aí vai.
+
+13
+00:00:41.000 --> 00:00:46.000
+em 20 de 07 de 2021. Quanto que foi?
+
+14
+00:00:46.000 --> 00:00:48.000
+Quais os números que a pessoa trabalhou?
+
+15
+00:00:48.000 --> 00:00:53.000
+em 04 de 08 de 2021. Qual o número que ela atingiu?
+
+16
+00:00:53.000 --> 00:00:57.000
+E aqui, o feito até dia 27 de junho
+
+17
+00:00:57.000 --> 00:01:00.000
+e feito até o dia 04 de 08 de 2021.
+
+18
+00:01:00.000 --> 00:01:05.000
+Vocês vão identificar se houve ou não alguma realização do trabalho
+
+19
+00:01:05.000 --> 00:01:07.000
+após a data estabelecida.
+
+20
+00:01:07.000 --> 00:01:13.000
+Se todo mundo fez até o objetivo, a data do objetivo que foi tracejada,
+
+21
+00:01:13.000 --> 00:01:16.000
+a quantidade, vocês vão ter a meta atingida.
+
+22
+00:01:16.000 --> 00:01:19.000
+E aí, a entrega 100% ou não.
+
+23
+00:01:19.000 --> 00:01:22.000
+Agora, se você enfrenta dificuldade, consequentemente,
+
+24
+00:01:22.000 --> 00:01:26.000
+você vai ter que medir isso e identificar se pode ou não
+
+25
+00:01:26.000 --> 00:01:30.000
+adquirir um treinamento para colocar a pessoa para fazer,
+
+26
+00:01:30.000 --> 00:01:34.000
+se você vai ter que investir ali em treinamento, em leitura,
+
+27
+00:01:34.000 --> 00:01:37.000
+fazendo com que a pessoa interprete um pouco mais aquela rotina
+
+28
+00:01:37.000 --> 00:01:40.000
+que, de fato, está perdendo tempo para ser processado
+
+29
+00:01:40.000 --> 00:01:43.000
+e tudo isso vai te auxiliar na tomada de decisão.
+
+30
+00:01:43.000 --> 00:01:47.000
+Claro, pessoal, esse indicador fica muito mais rápido
+
+31
+00:01:47.000 --> 00:01:49.000
+se acompanhado por um software.
+
+32
+00:01:49.000 --> 00:01:53.000
+Se você tiver um software que vai te auxiliar nessa tomada de decisão,
+
+33
+00:01:53.000 --> 00:01:55.000
+nesse mapeamento desses dados com a quantidade,
+
+34
+00:01:55.000 --> 00:01:58.000
+com a quantidade de processamentos esperados,
+
+35
+00:01:58.000 --> 00:02:01.000
+com a data estabelecida, o percentual realizado,
+
+36
+00:02:01.000 --> 00:02:04.000
+isso vai te facilitar bastante.
+
+37
+00:02:04.000 --> 00:02:07.000
+Aqui, eu vou aprofundar uma determinada tarefa
+
+38
+00:02:07.000 --> 00:02:11.000
+para que vocês tenham acesso a medir a tarefa realizada pelo trabalhador.
+
+39
+00:02:11.000 --> 00:02:14.000
+Atividade, rescisões, quantidade, 8.
+
+40
+00:02:14.000 --> 00:02:16.000
+A meta era quanto? 8.
+
+41
+00:02:16.000 --> 00:02:19.000
+Por mês, a gente espera que aquela meta seja atingida.
+
+42
+00:02:19.000 --> 00:02:22.000
+Realizado em até 3 dias, as 8.
+
+43
+00:02:22.000 --> 00:02:24.000
+Portanto, nenhum foi realizado após a meta.
+
+44
+00:02:24.000 --> 00:02:26.000
+Conclusão, 100%.
+
+45
+00:02:26.000 --> 00:02:30.000
+E assim, utilizo o mesmo indicador para processamento de férias também.
+
+46
+00:02:30.000 --> 00:02:35.000
+Vocês estão sempre trabalhando com dados que foram processados,
+
+47
+00:02:35.000 --> 00:02:38.000
+mas sempre com um stepzinho e o que foi entregue.
+
+48
+00:02:38.000 --> 00:02:42.000
+Automaticamente, você avalia o nível de entrega daquele profissional.
+
+49
+00:02:42.000 --> 00:02:45.000
+Agora, pessoal, eu vou pegar uma variável que envolve,
+
+50
+00:02:45.000 --> 00:02:47.000
+por exemplo, uma gestão de RH.
+
+51
+00:02:47.000 --> 00:02:49.000
+Temos aqui os treinamentos, né?
+
+52
+00:02:49.000 --> 00:02:53.000
+Se você tem a empresa, que é uma empresa escola, vamos dizer assim,
+
+53
+00:02:53.000 --> 00:02:56.000
+que assina, promove treinamento, tem calendário, tudo organizado,
+
+54
+00:02:56.000 --> 00:02:59.000
+você tem ali atividades, estudos.
+
+55
+00:02:59.000 --> 00:03:02.000
+Total de treinamentos produzidos, 12.
+
+56
+00:03:02.000 --> 00:03:04.000
+Mas a meta eram 12.
+
+57
+00:03:04.000 --> 00:03:08.000
+Feitos até dia 31 de maio, os 12, após a meta nenhum, foram realizados.
+
+58
+00:03:08.000 --> 00:03:11.000
+Então, o aproveitamento da entrega da meta foi de 100%.
+
+59
+00:03:11.000 --> 00:03:16.000
+Sempre você vai estar trabalhando de acordo com as informações
+
+60
+00:03:16.000 --> 00:03:19.000
+que você mesmo estabeleceu como objetivo a ser atingido.
+
+61
+00:03:19.000 --> 00:03:22.000
+Então, eu tenho admissões, avisos prévios emitidos.
+
+62
+00:03:22.000 --> 00:03:23.000
+Então, eu tenho admissões, avisos prévios emitidos.
+
+63
+00:03:23.000 --> 00:03:27.000
+E CNDs, por exemplo, que o cliente tanto necessita
+
+64
+00:03:27.000 --> 00:03:30.000
+para atualizar um contrato, participar ali de um certame,
+
+65
+00:03:30.000 --> 00:03:35.000
+tudo isso envolve a parte de informações
+
+66
+00:03:35.000 --> 00:03:39.000
+que um profissional da área de departamento pessoal movimenta mensalmente.

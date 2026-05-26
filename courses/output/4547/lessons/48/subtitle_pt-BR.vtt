@@ -1,0 +1,693 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.900
+Então, vocês viram, eu calculei o tributo, eu preenchi o DARF com o código,
+
+3
+00:00:06.900 --> 00:00:10.800
+eu contabilizei isso e eu vou recolher no banco.
+
+4
+00:00:10.800 --> 00:00:12.900
+O cruzamento final é ICF.
+
+5
+00:00:12.900 --> 00:00:20.399
+Portanto, todas essas informações que aqui estão serão transportadas para dentro da ICF.
+
+6
+00:00:20.399 --> 00:00:23.899
+Se a sua parametrização estiver correta, isso cai automático,
+
+7
+00:00:23.899 --> 00:00:28.899
+porque vai buscar as suas linhas de contabilizações, os impostos retidos, das receitas,
+
+8
+00:00:28.899 --> 00:00:35.899
+vai fazer os cálculos da presunção, vai adicionar tudo e vai calcular e vai chegar exatamente no 8.940
+
+9
+00:00:35.899 --> 00:00:39.899
+de contribuição social e 13.610.
+
+10
+00:00:39.899 --> 00:00:41.100
+Entenderam, pessoal?
+
+11
+00:00:41.100 --> 00:00:43.500
+Você viu que não é difícil calcular o lucro presumido.
+
+12
+00:00:43.500 --> 00:00:47.899
+Mas se você ainda ficou com dúvida, assista o meu curso gravado lá do lucro presumido.
+
+13
+00:00:47.899 --> 00:00:52.500
+Eu detalho lá, passo a passo, todas as alíquotas, como se elabora.
+
+14
+00:00:52.500 --> 00:00:57.100
+Aqui é muito mais enxuto com o objetivo de vocês entenderem a ICF.
+
+15
+00:00:57.100 --> 00:00:58.799
+Eu estou utilizando essa mulher,
+
+16
+00:00:58.799 --> 00:01:04.599
+para explicar para a hora que cair adentro o porquê desse conhecimento, perfeito?
+
+17
+00:01:04.599 --> 00:01:09.299
+Então vamos lá para a nossa ICF, olha lá, olha que bacaninha.
+
+18
+00:01:09.299 --> 00:01:14.799
+Aqui ele não me traz os meses, ele me traz trimestre, primeiro, segundo, terceiro e quarto.
+
+19
+00:01:14.799 --> 00:01:20.599
+E ele já me traz, está pronto dentro do software, todas as contas, olha que beleza.
+
+20
+00:01:20.599 --> 00:01:24.799
+Então, se a minha parametrização está bem feita, quando eu estiver contabilizando,
+
+21
+00:01:24.799 --> 00:01:27.799
+já vai caindo nessa parametrização.
+
+22
+00:01:27.799 --> 00:01:30.200
+Por isso que eu vou importar.
+
+23
+00:01:30.200 --> 00:01:34.599
+Eu não crio uma ICF, eu importo os dados do meu ERP.
+
+24
+00:01:34.599 --> 00:01:39.599
+Então, os percentuais sobre a receita bruta que eu disse a vocês, olha aqui.
+
+25
+00:01:39.599 --> 00:01:44.599
+Eu tenho 1,6 para combustíveis, lubrificantes, óleos e derivados.
+
+26
+00:01:44.599 --> 00:01:47.299
+Eu tenho 8% para comércio e indústria.
+
+27
+00:01:47.299 --> 00:01:52.200
+Eu tenho 16% exclusivamente para prestação de serviço,
+
+28
+00:01:52.200 --> 00:01:57.599
+menos profissão regulamentada, nem serviço de carga, nem serviço hospitalar.
+
+29
+00:01:57.799 --> 00:02:04.599
+Eu tenho 32% para a receita bruta, para as demais receitas brutas,
+
+30
+00:02:04.599 --> 00:02:09.599
+prestação de serviço, e tenho 38% para as receitas financeiras.
+
+31
+00:02:09.599 --> 00:02:12.599
+Então, são essas as presunções.
+
+32
+00:02:12.599 --> 00:02:16.599
+Quando eu alimento isso aqui manual, esses valores aqui manual,
+
+33
+00:02:16.599 --> 00:02:20.599
+ou mesmo importado, o próprio programa já vai calcular o imposto.
+
+34
+00:02:20.599 --> 00:02:27.599
+Então aqui, diferentemente da ECD, que são fotografias,
+
+35
+00:02:27.800 --> 00:02:30.800
+aqui não, aqui tem cálculo, o sistema calcula.
+
+36
+00:02:30.800 --> 00:02:34.800
+Então, essas são as linhas, aqui são várias contas,
+
+37
+00:02:34.800 --> 00:02:38.800
+juros sobre capital próprio, rendimento de aplicação de renda variável, etc.
+
+38
+00:02:38.800 --> 00:02:43.800
+Então, nós pegamos aquele exemplo que eu elaborei e trouxemos para cá.
+
+39
+00:02:43.800 --> 00:02:46.800
+Porque o objetivo é saber qual é o imposto.
+
+40
+00:02:46.800 --> 00:02:52.800
+Então, vamos lá. Nós vamos ter aqui os 500 mil que eu comentei com vocês.
+
+41
+00:02:52.800 --> 00:02:55.800
+500 mil, percentual de 8%.
+
+42
+00:02:55.800 --> 00:02:57.699
+Já tiramos o IPI, os 50 mil.
+
+43
+00:02:57.699 --> 00:03:04.699
+Então, tem lá o 500 mil e tenho o 100 mil aqui de prestação de serviço.
+
+44
+00:03:04.699 --> 00:03:08.699
+Você vê que o próprio programa já calculou o 72.
+
+45
+00:03:08.699 --> 00:03:13.699
+O próprio programa já trouxe a minha renda variável de 2 mil,
+
+46
+00:03:13.699 --> 00:03:16.699
+porque está parametizada a conta contábil com isso daqui,
+
+47
+00:03:16.699 --> 00:03:18.699
+ou então eu posso digitar os 2 mil.
+
+48
+00:03:18.699 --> 00:03:26.699
+Eu tenho aqui os 6 mil reais com relação às demais receitas e ganho de capital.
+
+49
+00:03:26.699 --> 00:03:29.699
+6 mil reais, perfeito?
+
+50
+00:03:29.699 --> 00:03:33.699
+Ou seja, a minha base de cálculo do imposto do lucro presumido é 80 mil.
+
+51
+00:03:33.699 --> 00:03:38.699
+Foi exatamente o que nós calculamos lá manual, o que nós fizemos o cálculo.
+
+52
+00:03:38.699 --> 00:03:41.699
+É exatamente esses 80 mil.
+
+53
+00:03:41.699 --> 00:03:48.699
+Se vocês olharem aí, vocês vão chegar exatamente no 80 mil que é a base de cálculo.
+
+54
+00:03:48.699 --> 00:03:53.699
+Então, esses 80 mil, está vendo? Aqui nós estamos dentro da ficha da ICF.
+
+55
+00:03:53.699 --> 00:03:55.699
+Vocês perceberam que é os mesmos...
+
+56
+00:03:55.699 --> 00:04:00.699
+Com a minha memória de cálculo, eu vou conferir se tudo isso aqui está correto.
+
+57
+00:04:00.699 --> 00:04:03.699
+E tem que ser, o cara quer achar, né?
+
+58
+00:04:03.699 --> 00:04:10.699
+Aí, olha lá, os 500 mil, ele transporta para cá, eu estou já no bloco P300,
+
+59
+00:04:10.699 --> 00:04:15.699
+que é exatamente o quê? O cálculo do imposto de renda no lucro presumido.
+
+60
+00:04:15.699 --> 00:04:20.699
+Então, os 80 mil, ele aplica 15% da 12 mil, ele calcula o adicional,
+
+61
+00:04:20.699 --> 00:04:23.699
+que nós explicamos como é que calcula, olha lá, os 2 mil.
+
+62
+00:04:23.699 --> 00:04:24.699
+Né?
+
+63
+00:04:24.699 --> 00:04:28.699
+E aí, ele sai deduzindo o que eu posso deduzir,
+
+64
+00:04:28.699 --> 00:04:35.699
+que é os 390 mil do imposto de renda retido na fonte, sobre aplicação,
+
+65
+00:04:35.699 --> 00:04:38.699
+e eu vou chegar exatamente no que eles querem enxergar,
+
+66
+00:04:38.699 --> 00:04:46.699
+que é, nada mais é do que o imposto de renda a pagar, 13.610.
+
+67
+00:04:46.699 --> 00:04:53.699
+Então, esta linha tem cruzamento com a DCTF, tem cruzamento com o DARF emitido,
+
+68
+00:04:53.699 --> 00:04:59.699
+que foi recolhido no banco, e tem cruzamento com a nossa declaração DCTF,
+
+69
+00:04:59.699 --> 00:05:01.699
+Declaração de Tributos Federais.
+
+70
+00:05:01.699 --> 00:05:02.699
+Perfeito?
+
+71
+00:05:02.699 --> 00:05:04.699
+Então, é isso que nós temos que conferir.
+
+72
+00:05:04.699 --> 00:05:08.699
+Então, vocês viram que eu entrei com todas as receitas principais,
+
+73
+00:05:08.699 --> 00:05:13.699
+o programa calcula a presunção, acrescentei as demais receitas,
+
+74
+00:05:13.699 --> 00:05:15.699
+e excluí o que eu posso excluir.
+
+75
+00:05:15.699 --> 00:05:18.699
+Exatamente como está na memória de cálculo.
+
+76
+00:05:18.699 --> 00:05:19.699
+Entenderam, gente?
+
+77
+00:05:19.699 --> 00:05:22.699
+Não é difícil, o lucro presumido é tranquilo.
+
+78
+00:05:23.699 --> 00:05:25.699
+Você vê que é bem na carinha.
+
+79
+00:05:25.699 --> 00:05:26.699
+13.610.
+
+80
+00:05:26.699 --> 00:05:31.699
+Aí, ele vai fazer o batimento com o banco, se realmente esse valor entrou na Receita Federal.
+
+81
+00:05:31.699 --> 00:05:32.699
+Compreenderam?
+
+82
+00:05:32.699 --> 00:05:33.699
+Tranquilo, né?
+
+83
+00:05:33.699 --> 00:05:34.699
+Não é difícil.
+
+84
+00:05:34.699 --> 00:05:35.699
+Perfeito?
+
+85
+00:05:35.699 --> 00:05:38.699
+Se eu tivesse algum imposto de renda para descontar, ia descontar ele também.
+
+86
+00:05:38.699 --> 00:05:42.699
+Aí, o cálculo da contribuição social, o raciocínio é o mesmo.
+
+87
+00:05:42.699 --> 00:05:47.699
+Você está vendo lá os mesmos 500 mil programas de atuais, que é 12% para comércio,
+
+88
+00:05:47.699 --> 00:05:52.699
+e os 100 mil programas de atuais, que é 32%, o percentual de presunção,
+
+89
+00:05:52.699 --> 00:05:55.699
+chegando lá em 92 mil.
+
+90
+00:05:55.699 --> 00:05:59.699
+Aí, eu tenho a renda variável, que é acrescida, de mais 2 mil reais.
+
+91
+00:05:59.699 --> 00:06:05.699
+Tenho variações aqui dos 6 mil reais, que é demais receitas e ganho de capital.
+
+92
+00:06:05.699 --> 00:06:07.699
+Ou seja, a minha base é 100 mil.
+
+93
+00:06:07.699 --> 00:06:10.699
+É exatamente o que está na nossa memória de cálculo.
+
+94
+00:06:10.699 --> 00:06:12.699
+100 mil de base de cálculo.
+
+95
+00:06:12.699 --> 00:06:17.699
+Que nada mais é do que os 500 mil vezes 12%,
+
+96
+00:06:17.699 --> 00:06:20.699
+e os 100 mil vezes 32%.
+
+97
+00:06:20.699 --> 00:06:25.699
+Aí, ele transporta essas informações, os 500 aqui, os 100 mil, para onde?
+
+98
+00:06:25.699 --> 00:06:31.699
+Para cá, para a pura cálculo da contribuição social.
+
+99
+00:06:31.699 --> 00:06:37.699
+Então, 100 mil, 9%, é 9 mil, total da contribuição.
+
+100
+00:06:37.699 --> 00:06:45.699
+Aí, ele faz as deduções, que é os 60 mil que foi retido, chegando em 8.940 a recolher.
+
+101
+00:06:45.699 --> 00:06:49.699
+Que é exatamente o mesmo valor que nós fizemos,
+
+102
+00:06:49.699 --> 00:06:51.699
+lá na memória de cálculo.
+
+103
+00:06:51.699 --> 00:06:56.699
+Que ele vai cruzar com o DARF, que foi pago, ou será pago.
+
+104
+00:06:56.699 --> 00:06:59.699
+Ele vai cruzar com a contabilidade, que eu tenho que ter lá,
+
+105
+00:06:59.699 --> 00:07:05.699
+8.940 de contribuição social a recolher, lá no meu balancete.
+
+106
+00:07:05.699 --> 00:07:09.699
+E ele vai cruzar com a DCTF, que foi o mesmo número informado.
+
+107
+00:07:09.699 --> 00:07:10.699
+Entenderam como é que funciona?
+
+108
+00:07:10.699 --> 00:07:12.699
+Então, aqui é na prática.
+
+109
+00:07:12.699 --> 00:07:16.699
+Perceberam a importância de eu guardar as memórias de cálculo para a conferência?
+
+110
+00:07:16.699 --> 00:07:18.699
+É isso que eu preciso fazer.
+
+111
+00:07:18.699 --> 00:07:23.699
+Então, aqui, obviamente, uma empresa dificilmente vai ter todas as linhas.
+
+112
+00:07:23.699 --> 00:07:25.699
+Você vai ter algumas linhas para alimentar.
+
+113
+00:07:25.699 --> 00:07:27.699
+Então, esse aqui dá para fazer manual.
+
+114
+00:07:27.699 --> 00:07:29.699
+Se for uma única empresa.
+
+115
+00:07:29.699 --> 00:07:34.699
+Se você é um escritório de contabilidade, obviamente, quanto mais eu automatizar, melhor.
+
+116
+00:07:34.699 --> 00:07:37.699
+Entenderam, gente, como funciona?
+
+117
+00:07:37.699 --> 00:07:43.699
+E aqui, olha, informa os dados da nova escrituração e, em seguida, criar a escrituração.
+
+118
+00:07:43.699 --> 00:07:46.699
+Se eu optei pelo livro caixa, aí é o L.
+
+119
+00:07:46.699 --> 00:07:47.699
+Não é o C.
+
+120
+00:07:47.699 --> 00:07:49.699
+É o L.
+
+121
+00:07:49.699 --> 00:07:51.699
+Aí faço a opção pelo L.
+
+122
+00:07:51.699 --> 00:07:54.699
+E aí eu vou ter que preencher o 672.
+
+123
+00:07:54.699 --> 00:07:56.699
+Quem que é o 672?
+
+124
+00:07:56.699 --> 00:08:01.699
+São as informações de quem fez a opção pelo L.
+
+125
+00:08:01.699 --> 00:08:03.699
+Olha lá.
+
+126
+00:08:03.699 --> 00:08:06.699
+Outras informações, lucro presumido ou arbitrado.
+
+127
+00:08:06.699 --> 00:08:11.699
+Como eu disse a vocês, o lucro arbitrado é muito semelhante ao lucro presumido.
+
+128
+00:08:11.699 --> 00:08:13.699
+O que muda é a variação das alíquotas.
+
+129
+00:08:13.699 --> 00:08:15.699
+Então, ele me pede o quê?
+
+130
+00:08:15.699 --> 00:08:16.699
+Ano anterior.
+
+131
+00:08:16.699 --> 00:08:18.699
+E o ano da declaração.
+
+132
+00:08:18.699 --> 00:08:20.699
+O atual e o anterior.
+
+133
+00:08:20.699 --> 00:08:21.699
+Aí ele vai me pedir.
+
+134
+00:08:21.699 --> 00:08:23.699
+Qual é o capital registrado?
+
+135
+00:08:23.699 --> 00:08:24.699
+Qual é o estoque?
+
+136
+00:08:24.699 --> 00:08:26.699
+Qual é o saldo de caixa em banco?
+
+137
+00:08:26.699 --> 00:08:27.699
+Por quê?
+
+138
+00:08:27.699 --> 00:08:28.699
+Porque não tem contabilidade.
+
+139
+00:08:28.699 --> 00:08:30.699
+Eu estou pelo livro caixa.
+
+140
+00:08:30.699 --> 00:08:35.700
+Então, vocês estão percebendo que é inviável fazer opção pelo livro caixa.
+
+141
+00:08:35.700 --> 00:08:36.700
+É muito mais trabalho.
+
+142
+00:08:36.700 --> 00:08:38.700
+Como é que eu vou responder essas questões?
+
+143
+00:08:38.700 --> 00:08:40.700
+Eu tenho que ter uma contabilidade.
+
+144
+00:08:40.700 --> 00:08:42.700
+Se eu tenho uma contabilidade, para que livro caixa?
+
+145
+00:08:42.700 --> 00:08:43.700
+Entenderam?
+
+146
+00:08:43.700 --> 00:08:44.700
+Para que livro caixa?
+
+147
+00:08:44.700 --> 00:08:45.700
+Então...
+
+148
+00:08:45.700 --> 00:08:47.700
+Capital registrado.
+
+149
+00:08:47.700 --> 00:08:48.700
+Estoque.
+
+150
+00:08:48.700 --> 00:08:49.700
+Saldo do caixa em banco.
+
+151
+00:08:49.700 --> 00:08:51.700
+Saldo de aplicações financeiras.
+
+152
+00:08:51.700 --> 00:08:52.700
+Saldo de contas a receber.
+
+153
+00:08:52.700 --> 00:08:53.700
+Saldo de contas a pagar.
+
+154
+00:08:53.700 --> 00:08:56.700
+Compra de mercadorias no ano.
+
+155
+00:08:56.700 --> 00:08:59.700
+Compra de elementos do ativo no ano calendário,
+
+156
+00:08:59.700 --> 00:09:02.700
+exceto classificado como ativo circulante de longo prazo.
+
+157
+00:09:02.700 --> 00:09:05.700
+Receitas e rendimentos não tributáveis.
+
+158
+00:09:05.700 --> 00:09:06.700
+Está vendo?
+
+159
+00:09:06.700 --> 00:09:07.700
+Total do ativo.
+
+160
+00:09:07.700 --> 00:09:10.700
+Ou seja, eu preciso de uma contabilidade para responder isso.
+
+161
+00:09:10.700 --> 00:09:14.700
+Se eu preciso de uma contabilidade, por que eu vou optar pelo livro caixa?
+
+162
+00:09:14.700 --> 00:09:15.700
+Entenderam?
+
+163
+00:09:15.700 --> 00:09:17.700
+Essa é a nossa visão, tá?
+
+164
+00:09:17.700 --> 00:09:22.700
+Então, aqui você tem lucro presumido, opção pela escrituração do livro caixa.
+
+165
+00:09:22.700 --> 00:09:27.700
+As demais fichas do lucro presumido são idênticas ao lucro real, né?
+
+166
+00:09:27.700 --> 00:09:30.700
+Ou seja, eu vou aqui, né?
+
+167
+00:09:30.700 --> 00:09:34.700
+Eu vou preencher o bloco X e o bloco Y, se eu tiver.
+
+168
+00:09:34.700 --> 00:09:39.700
+O que eu tiver, que eu coloco sim lá no bloco zero, vai me abrir aqui as faixas.
+
+169
+00:09:39.700 --> 00:09:41.700
+São as mesmas do lucro real.
+
+170
+00:09:41.700 --> 00:09:42.700
+Perfeito?
+
+171
+00:09:42.700 --> 00:09:44.700
+Tanto o bloco X quanto o bloco Y.
+
+172
+00:09:44.700 --> 00:09:48.700
+Pode ser que eu não tenha nada, mas pode ser que eu tenha muita coisa a ser informada.
+
+173
+00:09:48.700 --> 00:09:51.700
+Então, fichas idênticas ao lucro real.
+
+174
+00:09:51.700 --> 00:09:52.700
+Entenderam, pessoal?

@@ -1,0 +1,136 @@
+WEBVTT
+
+00:00:00.322 --> 00:00:10.295
+- Quando chega em 2032, e reparem que a cada mudança de ano, como muda o ICMS, o ISS e o IBS, tem que
+
+00:00:10.295 --> 00:00:20.170
+- mudar preços. Então as empresas que têm contratos de longo prazo já precisam rever os contratos
+
+00:00:20.170 --> 00:00:28.958
+- já, porque o preço final com tributos vai mudando em relação ao preço sem tributos.
+
+00:00:29.250 --> 00:00:37.383
+- Importantíssimo isso aí, tá? Então, reprecificação. Quer contar comigo rapidamente? Pelo menos
+
+00:00:37.383 --> 00:00:45.597
+- seis períodos de grande mudança de preços por conta da reforma tributária. Anota aí, que eu acho
+
+00:00:45.597 --> 00:00:54.052
+- que isso eu não pus aqui nos slides, né? Mas é que vem da lógica de toda essa transição da reforma
+
+00:00:54.052 --> 00:00:58.078
+- tributária. Seis momentos de mudança de preço.
+
+00:00:58.466 --> 00:01:07.904
+- A primeira delas, em janeiro de 2027, quando acaba o PIS e CONFINS e entra a CBS, sendo cobrada na sua
+
+00:01:07.904 --> 00:01:17.066
+- totalidade. Mudança de preço por conta de mudança tributária. A segunda, a partir de janeiro de
+
+00:01:17.066 --> 00:01:24.030
+- 2029, quando o ICMSSS começa a reduzir, o ISE e o IBS começam a aumentar.
+
+00:01:24.898 --> 00:01:37.566
+- Essa mudança de 2029, ela se reproduz em janeiro de 2030, então terceira, janeiro de 31 quarta mudança,
+
+00:01:37.566 --> 00:01:49.406
+- janeiro de 32 quinta mudança e janeiro de 2033 sexta mudança de preço, porque em janeiro de 2033
+
+00:01:49.406 --> 00:01:52.958
+- não vai existir mais o ICMS.
+
+00:01:53.378 --> 00:02:03.300
+- nem o ISS e o IBS vai ser cobrado com a sua alíquota cheia. Então, seis grandes mudanças de preço.
+
+00:02:03.300 --> 00:02:13.029
+- Todo ano, renegociando, mudando o preço, verificando o preço sem tributos e o preço com tributos.
+
+00:02:13.029 --> 00:02:20.350
+- Super importante, hein? Muitos sistemas, muitos RPs, é necessário colocar
+
+00:02:20.578 --> 00:02:29.448
+- item a item, preço a preço, serviço a serviço, sem os tributos, para que o próprio sistema calcule
+
+00:02:29.448 --> 00:02:38.574
+- os tributos e venha no pedido de compra o preço corretamente com os tributos. Daí a extrema importância
+
+00:02:38.574 --> 00:02:47.359
+- de fazer a configuração, a discussão com todas as áreas, aquele time de trabalho que eu disse aqui
+
+00:02:47.359 --> 00:02:50.174
+- para conversar sobre os preços.
+
+00:02:50.306 --> 00:03:01.344
+- E até mais porque o IBS-CBS vai ter aquela questão que é o financeiro e não o fiscal que terá os
+
+00:03:01.344 --> 00:03:12.165
+- impactos no fluxo de caixa da empresa. 2032 reduz 60%, não é reduz, é pago 60% do total do ICMS.
+
+00:03:12.165 --> 00:03:16.926
+- A redução é de 40% em relação ao ICMS.
+
+00:03:17.218 --> 00:03:27.641
+- Os benefícios fiscais, mesma coisa, de CMS, o ISS, os benefícios fiscais de ISS, tem tudo uma redução,
+
+00:03:27.641 --> 00:03:37.383
+- ele é pago tudo em 60% do total dele apurado, ou seja, uma redução de 40%, só que aí também o
+
+00:03:37.383 --> 00:03:45.566
+- IBS já é cobrado a 40% da sua alíquota total no ano de 2032. E aí imagina, né?
+
+00:03:46.210 --> 00:03:55.194
+- todo ano olhando, mudando, convivendo com os velhos tributos e o mesmo tributo. Na mesma nota fiscal,
+
+00:03:55.194 --> 00:04:04.177
+- você vai ter ICMS, você vai ter CBS, você vai ter IBS, tudo na mesma nota fiscal. Se o item for um
+
+00:04:04.177 --> 00:04:09.726
+- produto produzido na Zona Franca de Manaus, você vai ter IPI,
+
+00:04:09.826 --> 00:04:18.907
+- Se ele for produzido, se ele estiver entre os itens que prejudiquem a saúde humana e o meio ambiente,
+
+00:04:18.907 --> 00:04:27.724
+- vai ter imposto seletivo. Em uma única nota fiscal, você vai poder ter diversos tributos. No novo
+
+00:04:27.724 --> 00:04:37.598
+- sistema e no velho sistema. Então é um período que aumenta a quantidade de análise, aumenta a quantidade de
+
+00:04:38.178 --> 00:04:49.605
+- de olhar, interpretar uma única nota fiscal, imagine várias notas fiscais, com todos os tributos que
+
+00:04:49.605 --> 00:05:00.921
+- estão ali, sendo que IBS sendo recolhido para o destino e CNS na origem, a CBS já desde 2027 na sua
+
+00:05:00.921 --> 00:05:07.134
+- totalidade para receita federal, o ISS no município de
+
+00:05:08.034 --> 00:05:17.526
+- origem quando tiver nos itens de serviços da Lei Complementar 116, onde o ISS é devido no domicílio
+
+00:05:17.526 --> 00:05:26.741
+- do prestador e no domicílio do tomador, quando também tiver os serviços na Lei Complementar 116,
+
+00:05:26.741 --> 00:05:36.232
+- dizendo que o ISS deve ser recolhido no domicílio do tomador ou da prestação de serviço. Já o IBS
+
+00:05:36.232 --> 00:05:37.246
+- municipal,
+
+00:05:37.858 --> 00:05:46.814
+- que o IBS substitui não só o ICMS, mas o ISS também, sempre sendo recolhido para o destino, mas nunca
+
+00:05:46.814 --> 00:05:55.513
+- diretamente para uma prefeitura, e sim diretamente para o Comitê Gestor do IBS. Olha a quantidade de
+
+00:05:55.513 --> 00:06:04.213
+- coisas ao longo de todos os anos. Quando chegar em 2032, o pessoal vai estar assim, ufa! Atravessamos
+
+00:06:04.213 --> 00:06:07.710
+- todo esse longo período de transição.
+
+00:06:08.226 --> 00:06:18.795
+- E aí para 2033, então, vai fazer as últimas mudanças dessa reforma tributária para janeiro de 2033,
+
+00:06:18.795 --> 00:06:25.438
+- que é fim do ICMS. Tudo o que você conhece de ICMS terá o fim.

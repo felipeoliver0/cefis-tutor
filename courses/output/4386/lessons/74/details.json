@@ -1,0 +1,33 @@
+{
+  "id": 484772,
+  "title": "Exercício ABC S.A. - Parte 2",
+  "position": 74,
+  "duration": 439,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/465988ab-c94d-49c7-a0da-2317010d0aa4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/465988ab-c94d-49c7-a0da-2317010d0aa4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/465988ab-c94d-49c7-a0da-2317010d0aa4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/465988ab-c94d-49c7-a0da-2317010d0aa4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/465988ab-c94d-49c7-a0da-2317010d0aa4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2203,
+    "title": "Audiência Judicial Trabalhista",
+    "subtitle": "Noções gerais para prepostos, testemunhas e interessados",
+    "summary": "Neste curso de audiência judicial trabalhista você aprenderá noções gerais importantes para que possa participar de audiência judicial trabalhista na condição de preposto da empresa como parte no processo. Entenderá aspectos relacionados aos tipos de audiência, comparecimento ou ausência das partes, confissão, acordos, poder de polícia do juiz e outros assuntos referentes a essa sessão judicial.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/ee2b77878690a662eae8c847d07c763e1728384309.jpg",
+    "goals": [
+      "Fornecer noções gerais para potenciais participantes de audiência judicial trabalhista, como coordenadores de RH, analista de departamentos pessoal, supervisores, gerentes, sócios e para qualquer pessoa que comumente participa de audiência judicial trabalhista na condição de preposto da empresa parte no processo."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 8873,
+    "keywords": "audiência;direito Trabalhista;trabalho;recursos humanos;Departamento Pessoal",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 24,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 133,
+    "averageRating": 9.29,
+    "practiceAverage": 9.03,
+    "trailer": {
+      "id": "953e2dd5-ecad-46d8-9157-5ac89cc9e38c",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/953e2dd5-ecad-46d8-9157-5ac89cc9e38c/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/953e2dd5-ecad-46d8-9157-5ac89cc9e38c/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/953e2dd5-ecad-46d8-9157-5ac89cc9e38c/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/953e2dd5-ecad-46d8-9157-5ac89cc9e38c/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-09-01T10:49:54.000Z",
+      "updatedAt": "2022-09-01T10:49:53.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-09-12T19:05:25.000Z",
+    "recordedAt": "2022-08-25T00:00:00.000Z",
+    "createdAt": "2022-08-22T16:14:10.000Z"
+  }
+}

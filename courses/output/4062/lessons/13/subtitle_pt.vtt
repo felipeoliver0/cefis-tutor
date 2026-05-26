@@ -1,0 +1,761 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.099
+Dentro dele tem ICMS e FIS e COFINS, que para a empresa ela fica como uma intermediadora,
+
+2
+00:00:05.179 --> 00:00:08.460
+ela tem que pegar esse dinheiro de ICMS, de FIS e COFINS e repassar para o FIS.
+
+3
+00:00:08.699 --> 00:00:14.820
+O preço dela, no final das contas, aquilo que fica para ela, não é esse valor de 472.
+
+4
+00:00:15.080 --> 00:00:21.059
+Então a reforma tributária vem nessa linha de simplificação, de transparência, de tributação por fora,
+
+5
+00:00:21.059 --> 00:00:45.579
+como nós aprendemos no último módulo aqui, falando das diretrizes, as novas diretrizes, DBS, CBS, FISCOFILS.COM.BR de tributos onde dentro do meu preço vem o ICMS, vem o Fisco Fios
+
+6
+00:00:45.579 --> 00:00:47.600
+e eu tenho que pegar isso e repassar
+
+7
+00:00:47.600 --> 00:00:49.420
+para o Fisco para que agora eu não
+
+8
+00:00:49.420 --> 00:00:51.359
+precise mais fazer isso. Eu tenha
+
+9
+00:00:51.359 --> 00:00:53.679
+um preço limpo que seja suficiente
+
+10
+00:00:53.679 --> 00:00:55.640
+para eu cobrir realmente os meus custos
+
+11
+00:00:55.640 --> 00:00:57.679
+e a minha margem
+
+12
+00:00:57.679 --> 00:00:59.759
+de lucro e resultar na minha margem de lucro
+
+13
+00:00:59.759 --> 00:01:01.640
+e os tributos, o IBS
+
+14
+00:01:01.640 --> 00:01:03.780
+e a CIRBS já são calculados por fora
+
+15
+00:01:03.780 --> 00:01:08.659
+e se o pagamento for eletrônico o o split payment já vai fazer até essa separação,
+
+16
+00:01:09.040 --> 00:01:11.459
+levando aquilo que é IBS e CBS para o fisco
+
+17
+00:01:11.459 --> 00:01:15.019
+e trazendo aquilo que de fato é o meu preço de venda para mim.
+
+18
+00:01:15.400 --> 00:01:20.200
+Então, essa é a clareza e a limpeza que a reforma tributária traz.
+
+19
+00:01:20.680 --> 00:01:23.019
+E aí entra pontos que vocês precisam se atentar.
+
+20
+00:01:23.599 --> 00:01:26.840
+Imagina, aqui eu dei um exemplo como se fosse um produto,
+
+21
+00:01:27.260 --> 00:01:29.459
+mas imagina uma empresa que tem vários produtos,
+
+22
+00:01:30.299 --> 00:01:33.060
+que a alíquota do ICNS muda de um produto para o outro,
+
+23
+00:01:33.459 --> 00:01:37.700
+que a alíquota do ICNS, dependendo do estado que essa pessoa comercializa esse produto,
+
+24
+00:01:37.780 --> 00:01:39.420
+vai mudar de um estado para o outro.
+
+25
+00:01:39.420 --> 00:01:45.379
+Então, essa aplicação deve ser feita, deveria ser feita,
+
+26
+00:01:45.739 --> 00:01:50.420
+para todos os produtos e, de preferência, em todo o período de transição.
+
+27
+00:01:50.420 --> 00:01:56.340
+Porque, imagina só, se você não arrumar o preço em 2027, 2028,
+
+28
+00:01:56.480 --> 00:02:01.500
+que sai o PIS e COFINS, a partir de 2029, que o ICMS vai diminuindo,
+
+29
+00:02:01.819 --> 00:02:04.280
+o teu preço pode ficar guinchado.
+
+30
+00:02:04.620 --> 00:02:06.379
+E falando em preço inchado,
+
+31
+00:02:07.019 --> 00:02:09.360
+vamos para o nosso próximo módulo,
+
+32
+00:02:09.460 --> 00:02:12.180
+nossa próxima etapa, onde nós vamos
+
+33
+00:02:12.180 --> 00:02:15.080
+simular deixar os tributos,
+
+34
+00:02:15.319 --> 00:02:17.879
+mesmo que eles são calculados por fora,
+
+35
+00:02:18.379 --> 00:02:20.639
+deixá-los dentro da precificação.
+
+36
+00:02:21.300 --> 00:02:23.979
+Olha só o impacto que vai
+
+37
+00:02:23.979 --> 00:02:45.419
+acontecer se eu colocar, deixar os tributos por dentro. FISIAL não, deixa do jeito que está. Será mesmo que vale a pena deixar do jeito que está?
+
+38
+00:02:46.199 --> 00:02:48.159
+Olha o que vai acontecer com os
+
+39
+00:02:48.159 --> 00:02:50.139
+preços se deixarmos
+
+40
+00:02:50.139 --> 00:02:52.020
+do jeito que está e não
+
+41
+00:02:52.020 --> 00:02:54.120
+considerarmos a nova sistemática
+
+42
+00:02:54.120 --> 00:02:55.800
+de cálculo da reforma tributária.
+
+43
+00:02:56.300 --> 00:02:58.259
+Vamos lá. Aqui em cima
+
+44
+00:02:58.259 --> 00:03:00.500
+nós permanecemos com a mesma estrutura,
+
+45
+00:03:00.659 --> 00:03:01.840
+a fórmula do markup,
+
+46
+00:03:02.240 --> 00:03:04.199
+nossas despesas fixas serão de 20%,
+
+47
+00:03:04.840 --> 00:03:05.639
+aqui na linha de despesas fixas serão de 20%. Aqui
+
+48
+00:03:05.639 --> 00:03:07.719
+na linha de despesas variáveis,
+
+49
+00:03:07.919 --> 00:03:09.900
+para o nosso exemplo, nós vamos deixar
+
+50
+00:03:09.900 --> 00:03:12.240
+apenas os tributos, mas não esquece
+
+51
+00:03:12.240 --> 00:03:13.960
+que nessa linha tem que constar
+
+52
+00:03:13.960 --> 00:03:16.000
+todas as despesas variáveis que a empresa
+
+53
+00:03:16.000 --> 00:03:18.000
+tem. Eu vou deixar só os tributos
+
+54
+00:03:18.000 --> 00:03:19.879
+para vocês verem com clareza
+
+55
+00:03:19.879 --> 00:03:22.199
+essa diferença discrepante
+
+56
+00:03:22.199 --> 00:03:24.159
+entre uma forma e outra.
+
+57
+00:03:25.000 --> 00:03:27.960
+E minha margem de lucro continua sendo 15%.
+
+58
+00:03:27.960 --> 00:03:31.900
+Muito bem, no primeiro ano, nós não temos alteração.
+
+59
+00:03:32.520 --> 00:03:39.819
+Nós permanecemos aqui com 472.056,58 de preço de venda.
+
+60
+00:03:39.819 --> 00:03:42.860
+E por que nós não temos alteração nesse primeiro ano?
+
+61
+00:03:43.240 --> 00:03:49.520
+Porque o FIS, a COFINS e a CNS continuam normal aqui em 2025 e 2026.
+
+62
+00:03:50.500 --> 00:03:54.000
+A partir de 2027, o PIS e COFINS vai embora.
+
+63
+00:03:54.539 --> 00:04:01.819
+Mas aí, eu considerei que nós teremos uma CBS de 10% substituindo o PIS e a COFINS.
+
+64
+00:04:01.819 --> 00:04:05.280
+Ainda não temos a alíquota oficial de CBS,
+
+65
+00:04:07.879 --> 00:04:11.379
+mas estou usando uma alíquota estimativa que nós temos visto aí dentro dos estudos do Ministério da Fazenda,
+
+66
+00:04:11.659 --> 00:04:16.100
+que a alíquota da CBS vai ficar entre 9, 9,5, 10%.
+
+67
+00:04:16.100 --> 00:04:18.420
+Então, estou usando 10 aqui para o nosso exemplo.
+
+68
+00:04:19.259 --> 00:04:22.800
+Mesmo que a CBS seja calculada por fora,
+
+69
+00:04:23.519 --> 00:04:25.839
+eu estou deixando ela aqui dentro
+
+70
+00:04:25.839 --> 00:04:28.040
+do preço para vocês verem
+
+71
+00:04:28.040 --> 00:04:30.180
+o impacto. Vejam que o índice
+
+72
+00:04:30.180 --> 00:04:32.160
+acaba aumentando de um ano
+
+73
+00:04:32.160 --> 00:04:34.040
+para o outro. Então, eu tirei o
+
+74
+00:04:34.040 --> 00:04:36.319
+PIS e COFINS, coloquei a CBS no lugar,
+
+75
+00:04:36.459 --> 00:04:38.000
+como a gente aprendeu no comecinho aqui
+
+76
+00:04:38.000 --> 00:04:39.160
+desse módulo, que
+
+77
+00:04:39.160 --> 00:04:42.420
+a CBS vai substituir o PIS e COFINS
+
+78
+00:04:42.420 --> 00:04:44.459
+e deixei o ICLS
+
+79
+00:04:44.459 --> 00:04:46.720
+que ele ainda está na sua totalidade.
+
+80
+00:04:47.339 --> 00:04:49.000
+Então, olha só o que acontece
+
+81
+00:04:49.000 --> 00:04:51.519
+quando a gente aplica o novo índice do markup
+
+82
+00:04:51.519 --> 00:04:52.680
+sobre o nosso custo.
+
+83
+00:04:53.459 --> 00:04:57.959
+O preço de venda sobe para 486 mil reais.
+
+84
+00:04:58.839 --> 00:05:01.300
+Aqui, nada mais justo da gente tirar,
+
+85
+00:05:01.660 --> 00:05:03.259
+fazer a conta inversa.
+
+86
+00:05:03.699 --> 00:05:09.620
+Chegamos nos mesmos 15% de margem de lucro, fazendo a provinha dos nove.
+
+87
+00:05:10.040 --> 00:05:12.500
+Só que nós não podemos esquecer daquele princípio.
+
+88
+00:05:13.259 --> 00:05:18.319
+Se eu deixar a CBS aqui dentro, considerando ela dentro do meu preço,
+
+89
+00:05:18.759 --> 00:05:20.920
+o meu preço já fica um pouco mais alto.
+
+90
+00:05:20.920 --> 00:05:25.839
+Ele vai para R$ 486 mil, 486 com 49
+
+91
+00:05:25.839 --> 00:05:27.939
+centavos, e eu tenho
+
+92
+00:05:27.939 --> 00:05:29.819
+que lembrar o seguinte, esse aqui
+
+93
+00:05:29.819 --> 00:05:31.879
+não é o total da nota, porque
+
+94
+00:05:31.879 --> 00:05:33.779
+IBS e CBS está calculado
+
+95
+00:05:33.779 --> 00:05:35.740
+por fora, então daqui
+
+96
+00:05:35.740 --> 00:05:37.600
+eu ainda teria que calcular
+
+97
+00:05:37.600 --> 00:05:39.759
+IBS e CBS, e o
+
+98
+00:05:39.759 --> 00:05:41.279
+valor total da minha nota
+
+99
+00:05:41.279 --> 00:05:43.420
+iria lá para o teto, olha só,
+
+100
+00:05:44.079 --> 00:06:05.540
+pensa como que a gente tem que refletir quando o cliente não quiser mexer na precificação, quiser deixar tudo como está, FIS o preço e depois calculando ela fora de novo, meu preço de venda ficou
+
+101
+00:06:05.540 --> 00:06:08.120
+486 mil. Ao passo
+
+102
+00:06:08.120 --> 00:06:10.019
+que quando eu volto naquela outra planilha,
+
+103
+00:06:10.439 --> 00:06:12.120
+tirando o tributo de dentro,
+
+104
+00:06:12.220 --> 00:06:13.620
+porque ele não é mais
+
+105
+00:06:13.620 --> 00:06:15.920
+um tributo calculado por dentro, o meu preço
+
+106
+00:06:15.920 --> 00:06:18.160
+era 382 mil.
+
+107
+00:06:18.480 --> 00:06:19.879
+Olha a diferença.
+
+108
+00:06:20.620 --> 00:06:21.879
+O preço, vamos fazer
+
+109
+00:06:21.879 --> 00:06:23.819
+até uma continha aqui. Olha isso aqui.
+
+110
+00:06:24.180 --> 00:06:26.259
+Vamos fazer uma continha, só pra gente ter
+
+111
+00:06:26.259 --> 00:06:28.740
+uma ideia, 103 mil
+
+112
+00:06:28.740 --> 00:06:30.279
+reais a mais
+
+113
+00:06:30.279 --> 00:06:31.759
+dentro do preço
+
+114
+00:06:31.759 --> 00:06:34.019
+e que obviamente depois
+
+115
+00:06:34.019 --> 00:06:35.720
+quando eu for calcular a CBS
+
+116
+00:06:35.720 --> 00:06:38.139
+fora o valor total da minha nota
+
+117
+00:06:38.139 --> 00:06:40.000
+a gente vai lá pro teto
+
+118
+00:06:40.000 --> 00:06:41.920
+se um concorrente
+
+119
+00:06:41.920 --> 00:06:44.420
+fizer bonitinho, fizer certinho
+
+120
+00:06:44.420 --> 00:06:46.220
+tirando os tributos de dentro
+
+121
+00:06:46.220 --> 00:06:47.879
+porque realmente eles tem que sair
+
+122
+00:06:47.879 --> 00:06:50.060
+o princípio diz isso, o princípio da
+
+123
+00:06:50.060 --> 00:06:52.220
+transparência, o princípio da neutralidade
+
+124
+00:06:52.779 --> 00:06:54.360
+se eu não
+
+125
+00:06:54.360 --> 00:06:56.220
+fizer essa alteração e um concorrente
+
+126
+00:06:56.220 --> 00:06:58.199
+meu fizer, é óbvio que o meu
+
+127
+00:06:58.199 --> 00:07:00.279
+cliente vai comprar do concorrente, porque o valor
+
+128
+00:07:00.279 --> 00:07:01.879
+total da nota dele vai ser menor
+
+129
+00:07:01.879 --> 00:07:03.980
+é isso que a gente precisa se atentar
+
+130
+00:07:03.980 --> 00:07:05.019
+quando o cliente quiser.
+
+131
+00:07:05.439 --> 00:07:07.579
+Ah, não, vou deixar essa gordurinha aí.
+
+132
+00:07:08.139 --> 00:07:14.300
+Daqui para frente, uma vez que o ICMS começa a ser reduzido gradualmente,
+
+133
+00:07:14.620 --> 00:07:19.480
+mais o IBS começa também a ser inserido na mesma proporção,
+
+134
+00:07:19.920 --> 00:07:22.139
+então a gente só toca 6 por meia dúzia.
+
+135
+00:07:22.139 --> 00:07:27.120
+É por isso que daqui de 2029 para frente, em todos os anos eu tenho 28%.
+
+136
+00:07:27.120 --> 00:07:32.839
+Por quê? Vai reduzindo o ICIS, mas ao mesmo tempo vai entrando o IBS proporcional.
+
+137
+00:07:33.279 --> 00:07:36.620
+E eu estou considerando que nosso IBS seria de 18%.
+
+138
+00:07:36.620 --> 00:07:41.959
+Também não temos a alíquota ainda, mas estou considerando 18% pelos estudos que temos visto aqui.
+
+139
+00:07:41.959 --> 00:07:45.100
+E como ele vai entrar em 10%,
+
+140
+00:07:45.100 --> 00:07:47.720
+primeiro 10% de 18, dá 1,80.
+
+141
+00:07:48.519 --> 00:07:51.879
+E aí, consequentemente, vai mantendo o mesmo índice,
+
+142
+00:07:52.000 --> 00:07:53.199
+porque vai trocando, né?
+
+143
+00:07:53.579 --> 00:07:56.699
+Sai um pouquinho de ICMS, entra um pouquinho de IBS.
+
+144
+00:07:57.180 --> 00:08:00.399
+Sai um pouquinho de ICMS, entra um pouquinho de IBS,
+
+145
+00:08:00.399 --> 00:08:06.220
+até que em 2033 fica 100% aqui
+
+146
+00:08:06.220 --> 00:08:07.420
+de
+
+147
+00:08:07.420 --> 00:08:09.680
+IBS e CBS.
+
+148
+00:08:10.360 --> 00:08:11.339
+Mas, repito,
+
+149
+00:08:11.899 --> 00:08:13.779
+nós precisamos lembrar
+
+150
+00:08:13.779 --> 00:08:15.879
+que se colocar isso aqui
+
+151
+00:08:15.879 --> 00:08:17.959
+dentro do preço, não
+
+152
+00:08:17.959 --> 00:08:20.019
+pode esquecer que depois a gente ainda
+
+153
+00:08:20.019 --> 00:08:21.779
+vai ter que calcular de novo
+
+154
+00:08:21.779 --> 00:08:23.639
+o IBS e CBS por fora,
+
+155
+00:08:23.920 --> 00:08:26.259
+porque o preço de venda é uma coisa que está escondido,
+
+156
+00:08:26.379 --> 00:08:28.220
+né? O cliente não sabe
+
+157
+00:08:28.220 --> 00:08:30.120
+o que eu coloquei ali dentro do meu
+
+158
+00:08:30.120 --> 00:08:32.220
+preço de venda. Mas IBS e CBS
+
+159
+00:08:32.220 --> 00:08:34.279
+vai ser calculado por fora
+
+160
+00:08:34.279 --> 00:08:36.220
+sobre aquela estrutura de base de
+
+161
+00:08:36.220 --> 00:08:38.159
+cálculo que a gente já trabalhou aqui
+
+162
+00:08:38.159 --> 00:08:39.759
+nos módulos anteriores.
+
+163
+00:08:40.419 --> 00:08:42.120
+Vou ter que calcular IBS e CBS
+
+164
+00:08:42.120 --> 00:08:43.960
+e somar ele no total da nota.
+
+165
+00:08:44.460 --> 00:08:46.820
+O total da nota vai para o TEP.
+
+166
+00:08:47.360 --> 00:08:51.179
+O mais importante, então, vai ser alertar os clientes
+
+167
+00:08:51.179 --> 00:08:54.679
+que se ele não quer mexer no preço,
+
+168
+00:08:55.120 --> 00:08:57.700
+se ele quer manter os tributos por dentro,
+
+169
+00:08:58.159 --> 00:09:01.039
+deixar esse cenário e jeito que está aqui,
+
+170
+00:09:01.480 --> 00:09:03.320
+ele precisa ter um pouquinho de cuidado.
+
+171
+00:09:03.820 --> 00:09:06.080
+Porque se o concorrente fizer certinho
+
+172
+00:09:06.080 --> 00:09:08.019
+e for limpando de fato
+
+173
+00:09:08.019 --> 00:09:10.179
+o preço, porque os tributos
+
+174
+00:09:10.179 --> 00:09:11.539
+estão saindo de dentro,
+
+175
+00:09:12.019 --> 00:09:14.120
+no final das contas o concorrente vai ter
+
+176
+00:09:14.120 --> 00:09:16.059
+um preço muito mais atrativo
+
+177
+00:09:16.059 --> 00:09:16.960
+do que ele.
+
+178
+00:09:17.240 --> 00:09:18.720
+Para nós irmos para a nossa
+
+179
+00:09:18.720 --> 00:09:21.279
+última etapa aqui,
+
+180
+00:09:21.480 --> 00:09:23.059
+prática de planilhas,
+
+181
+00:09:23.440 --> 00:09:27.220
+vamos visualizar como que ficaria um cenário dentro da nota fiscal?
+
+182
+00:09:27.779 --> 00:09:30.779
+Como que ficariam os campos de IBS, CBS,
+
+183
+00:09:31.559 --> 00:09:34.179
+essa história de base de cálculo limpa,
+
+184
+00:09:34.620 --> 00:09:37.240
+fora do preço, sem tributo por dentro,
+
+185
+00:09:37.659 --> 00:09:39.159
+dentro do cenário de nota fiscal?
+
+186
+00:09:39.879 --> 00:09:43.460
+Como eu sou adepta de refazer o preço
+
+187
+00:09:43.460 --> 00:09:48.159
+e tirar os tributos que realmente vão ir embora de dentro do preço
+
+188
+00:09:48.159 --> 00:09:54.860
+para calcular IBS, CBS por fora, então eu vou seguir essa sistemática aqui dentro da nota fiscal,
+
+189
+00:09:55.039 --> 00:09:59.679
+considerando o refazimento do preço, tirando os tributos por dentro,
+
+190
+00:09:59.679 --> 00:10:08.019
+porque de fato eles vão embora aos poucos, eles vão deixando de resistir e IBS, CBS calculado por fora.

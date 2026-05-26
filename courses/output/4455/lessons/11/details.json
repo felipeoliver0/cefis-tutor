@@ -1,0 +1,33 @@
+{
+  "id": 486791,
+  "title": "Quem está obrigado a declarar? - Parte 1",
+  "position": 11,
+  "duration": 547,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/311438f2-5ee1-4a91-a893-6fb4236f979b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/311438f2-5ee1-4a91-a893-6fb4236f979b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/311438f2-5ee1-4a91-a893-6fb4236f979b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/311438f2-5ee1-4a91-a893-6fb4236f979b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/311438f2-5ee1-4a91-a893-6fb4236f979b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

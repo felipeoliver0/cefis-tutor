@@ -1,0 +1,33 @@
+{
+  "id": 476141,
+  "title": "Novo Processo de Exportação",
+  "position": 19,
+  "duration": 434,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/06b93b9b-1899-480d-9951-eff019f3f86e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/06b93b9b-1899-480d-9951-eff019f3f86e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/06b93b9b-1899-480d-9951-eff019f3f86e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/06b93b9b-1899-480d-9951-eff019f3f86e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/06b93b9b-1899-480d-9951-eff019f3f86e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

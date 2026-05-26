@@ -1,0 +1,805 @@
+WEBVTT
+
+1
+00:00:02.720 --> 00:00:03.410
+Nsa planilha,
+
+2
+00:00:03.490 --> 00:00:05.619
+vocês vão encontrar dois abas.
+
+3
+00:00:05.889 --> 00:00:08.319
+A primeira aba trata a NCM,
+
+4
+00:00:08.590 --> 00:00:10.590
+que está incidindo o imposto seletivo.
+
+5
+00:00:11.170 --> 00:00:15.560
+Essa informação foi retirada dentro da lista anexa da lei complementar
+
+6
+00:00:15.729 --> 00:00:17.409
+214 de 2025,
+
+7
+00:00:17.850 --> 00:00:20.000
+aquela que a gente discutiu perante a nossa aula.
+
+8
+00:00:20.809 --> 00:00:22.250
+da planilha de Excel,
+
+9
+00:00:22.260 --> 00:00:27.620
+vai ficar mais fácil de vocês buscarem tanto pela descrição quanto também pela NCM.
+
+10
+00:00:27.930 --> 00:00:32.000
+Então é uma forma de vocês conseguirem já levar a prática para o seu
+
+11
+00:00:32.369 --> 00:00:32.930
+cliente.
+
+12
+00:00:33.529 --> 00:00:34.049
+Além disso,
+
+13
+00:00:34.090 --> 00:00:34.369
+pessoal,
+
+14
+00:00:34.450 --> 00:00:34.990
+atenção,
+
+15
+00:00:35.049 --> 00:00:37.290
+porque essa planilha ela não será atualizada,
+
+16
+00:00:37.369 --> 00:00:37.650
+ou seja,
+
+17
+00:00:37.689 --> 00:00:40.099
+pode ser que a gente tenha atualizações nessa lista
+
+18
+00:00:40.490 --> 00:00:43.650
+e você continue com esse essa planilha em mãos.
+
+19
+00:00:43.770 --> 00:00:44.169
+Tá Então,
+
+20
+00:00:44.250 --> 00:00:45.360
+sempre que houver atualização,
+
+21
+00:00:45.930 --> 00:00:49.549
+corre e venha atualizar ela aqui também pra vocês utilizarem.
+
+22
+00:00:50.270 --> 00:00:51.080
+segunda,
+
+23
+00:00:51.220 --> 00:00:52.169
+ela representa
+
+24
+00:00:52.819 --> 00:00:53.459
+o cálculo,
+
+25
+00:00:53.750 --> 00:00:53.759
+né?
+
+26
+00:00:53.819 --> 00:00:54.970
+A estimativa
+
+27
+00:00:55.220 --> 00:00:57.139
+do cálculo sobre o imposto seletivo.
+
+28
+00:00:57.580 --> 00:00:59.310
+Por que que está como estimativa?
+
+29
+00:00:59.459 --> 00:00:59.830
+Primeiro,
+
+30
+00:00:59.900 --> 00:01:03.099
+porque nós não temos as alíquotas definidas
+
+31
+00:01:03.459 --> 00:01:06.580
+aqui são as alíquotas utilizadas como uma presunção.
+
+32
+00:01:07.300 --> 00:01:07.459
+Então,
+
+33
+00:01:07.699 --> 00:01:08.300
+de fato,
+
+34
+00:01:08.379 --> 00:01:11.529
+as alíquotas não são as que nós vamos usar.
+
+35
+00:01:11.970 --> 00:01:13.730
+na transição da reforma tributária,
+
+36
+00:01:13.769 --> 00:01:14.290
+porque na verdade,
+
+37
+00:01:14.330 --> 00:01:16.610
+a gente não tem ainda as alíquotas.
+
+38
+00:01:16.980 --> 00:01:18.199
+Como vocês viram
+
+39
+00:01:18.489 --> 00:01:21.680
+a alíquota do IS precisará ter uma lei ordinária.
+
+40
+00:01:22.879 --> 00:01:24.919
+e ainda não temos essa lei ordinária.
+
+41
+00:01:25.360 --> 00:01:28.029
+Como ele de fato vai começar em 2027.
+
+42
+00:01:28.400 --> 00:01:31.230
+Vamos aguardar os próximos posicionamentos.
+
+43
+00:01:32.019 --> 00:01:35.620
+vocês vão perceber que a planilha ela tem notas explicativas,
+
+44
+00:01:35.779 --> 00:01:36.339
+ou seja,
+
+45
+00:01:36.739 --> 00:01:40.699
+ela foi construída com um repertório com a fundamentação legal.
+
+46
+00:01:41.300 --> 00:01:42.480
+Tudo aquilo que está aqui,
+
+47
+00:01:43.139 --> 00:01:44.980
+a gente já tem fundamentação legal.
+
+48
+00:01:45.580 --> 00:01:47.610
+Então a teoria se transformando na prática.
+
+49
+00:01:47.989 --> 00:01:48.209
+Okay.
+
+50
+00:01:48.910 --> 00:01:50.819
+Quando a gente pensa no cálculo do IS,
+
+51
+00:01:51.069 --> 00:01:53.819
+descobrimos que ele tem a sistemática por fora,
+
+52
+00:01:54.019 --> 00:01:54.459
+ou seja,
+
+53
+00:01:55.459 --> 00:02:00.949
+coloquei uma presunção de 20% nessa alíquota e o produto base de 1000 BRL
+
+54
+00:02:02.260 --> 00:02:02.720
+essa planilha,
+
+55
+00:02:02.739 --> 00:02:05.900
+ela já vai estar com um cálculo com a fórmula do cálculo,
+
+56
+00:02:06.059 --> 00:02:06.459
+ou seja,
+
+57
+00:02:06.540 --> 00:02:11.520
+ela já vai estar fazendo 1000 BRL vezes 20% para chegar no valor do IS total.
+
+58
+00:02:12.270 --> 00:02:12.389
+Então,
+
+59
+00:02:12.509 --> 00:02:14.139
+se você quiser utilizar
+
+60
+00:02:14.429 --> 00:02:18.229
+essa planilha para fazer esses cálculos e essas estimativas,
+
+61
+00:02:18.350 --> 00:02:19.500
+você também pode
+
+62
+00:02:19.830 --> 00:02:19.949
+E.
+
+63
+00:02:19.990 --> 00:02:20.550
+Além disso,
+
+64
+00:02:20.710 --> 00:02:22.389
+quando as alíquotas de fato saírem,
+
+65
+00:02:22.710 --> 00:02:25.259
+vocês vão poder continuar utilizando essa planilha.
+
+66
+00:02:26.020 --> 00:02:27.460
+subtotal com o IS.
+
+67
+00:02:27.669 --> 00:02:30.850
+Nesse exemplo chega ao valor de 1200 BRL
+
+68
+00:02:31.229 --> 00:02:33.850
+e qual que é a nota explicativa que eu deixei aqui para vocês
+
+69
+00:02:35.029 --> 00:02:37.070
+primeiro lembrar do artigo 414,
+
+70
+00:02:37.149 --> 00:02:39.960
+que dispõe sobre a sua base de cálculo do imposto seletivo,
+
+71
+00:02:40.389 --> 00:02:42.669
+que é o valor da operação de venda,
+
+72
+00:02:43.570 --> 00:02:43.580
+né?
+
+73
+00:02:44.350 --> 00:02:49.470
+Na arremetação da incorporação ou da transferência ou qualquer tipo de operações,
+
+74
+00:02:49.589 --> 00:02:50.330
+digamos assim,
+
+75
+00:02:50.470 --> 00:02:52.649
+que tem prejuízo à saúde e ao meio ambiente.
+
+76
+00:02:53.330 --> 00:02:55.119
+e o artigo 415 que
+
+77
+00:02:55.529 --> 00:02:57.750
+a base de cálculo não integra
+
+78
+00:02:58.089 --> 00:02:59.029
+o próprio valor.
+
+79
+00:02:59.509 --> 00:02:59.619
+Então,
+
+80
+00:02:59.729 --> 00:03:03.759
+por isso que vocês estão vendo aqui o valor de base de 1000 BRL
+
+81
+00:03:04.330 --> 00:03:07.960
+sem o valor do IS total dentro da sua composição.
+
+82
+00:03:08.820 --> 00:03:10.830
+encontrando su total com o IS.
+
+83
+00:03:11.110 --> 00:03:13.139
+Nós partimos para a segunda etapa,
+
+84
+00:03:13.550 --> 00:03:16.500
+que é o cálculo do CBS e da IBS.
+
+85
+00:03:17.089 --> 00:03:21.429
+O CBS e o IBS também tem uma sistemática de cálculo por fora,
+
+86
+00:03:22.070 --> 00:03:22.729
+ou seja,
+
+87
+00:03:23.130 --> 00:03:23.910
+temos uma presa.
+
+88
+00:03:23.994 --> 00:03:25.095
+de alíquotas.
+
+89
+00:03:25.414 --> 00:03:30.675
+Coloquei uma presunção de alíquota de CBS de nove por cento e do IBS 17%.
+
+90
+00:03:31.175 --> 00:03:33.625
+Peguei o valor de 1200 BRL porque
+
+91
+00:03:34.214 --> 00:03:35.395
+conforme
+
+92
+00:03:35.975 --> 00:03:37.054
+a legislação,
+
+93
+00:03:37.164 --> 00:03:39.335
+o artigo 153 fala que
+
+94
+00:03:40.619 --> 00:03:41.649
+irá compor
+
+95
+00:03:41.750 --> 00:03:44.860
+também a base de cálculo do CBS IBS,
+
+96
+00:03:45.179 --> 00:03:45.699
+ou seja,
+
+97
+00:03:46.020 --> 00:03:49.309
+os 1200 são a base de cálculo do CBS da IBS.
+
+98
+00:03:50.220 --> 00:03:54.000
+Então isso quer dizer que se o seu contribuinte estiver na incidência do IS,
+
+99
+00:03:54.309 --> 00:03:56.809
+aquele já tem um aumento de carga tributária
+
+100
+00:03:57.300 --> 00:04:01.649
+no cálculo do CBS e do I do IBS e da CBS,
+
+101
+00:04:01.979 --> 00:04:04.339
+por conta do valor ser incluído o IS.
+
+102
+00:04:05.979 --> 00:04:09.419
+a planilha vai estar fazendo o cálculo automaticamente
+
+103
+00:04:09.419 --> 00:04:11.009
+pra vocês o que que ele está fazendo,
+
+104
+00:04:11.059 --> 00:04:13.889
+pegando o valor de base com o IS,
+
+105
+00:04:14.380 --> 00:04:16.890
+multiplicando pela alíquota que eu coloquei aqui
+
+106
+00:04:17.178 --> 00:04:18.100
+dentro da planilha,
+
+107
+00:04:19.858 --> 00:04:21.160
+tanto para o CBS quanto para o IBS.
+
+108
+00:04:22.260 --> 00:04:26.480
+chegamos numa nova base de cálculo para o cálculo do ICMS
+
+109
+00:04:27.010 --> 00:04:29.890
+e dentro da nota explicativa eu coloquei aqui pra vocês,
+
+110
+00:04:29.970 --> 00:04:30.200
+né?
+
+111
+00:04:30.209 --> 00:04:30.480
+Que
+
+112
+00:04:30.809 --> 00:04:34.420
+existe uma exceção está dentro do artigo 153,
+
+113
+00:04:34.649 --> 00:04:36.380
+que autoriza que o IS
+
+114
+00:04:37.649 --> 00:04:39.970
+integre as bases de cálculo do ICMS,
+
+115
+00:04:40.250 --> 00:04:41.010
+do ISS,
+
+116
+00:04:41.209 --> 00:04:42.859
+do IBS e da CBPS.
+
+117
+00:04:44.649 --> 00:04:45.890
+Esse ponto ele é constitucional,
+
+118
+00:04:46.670 --> 00:04:46.950
+ele vai
+
+119
+00:04:47.089 --> 00:04:47.920
+sofrer debate.
+
+120
+00:04:47.970 --> 00:04:49.450
+Ele já está sofrendo debate,
+
+121
+00:04:49.649 --> 00:04:49.820
+né?
+
+122
+00:04:50.380 --> 00:04:51.890
+a prática operacional,
+
+123
+00:04:52.429 --> 00:04:52.459
+né?
+
+124
+00:04:52.470 --> 00:04:53.980
+Do IS estar incluído
+
+125
+00:04:54.630 --> 00:04:55.950
+nas demais bases de cálculo.
+
+126
+00:04:56.829 --> 00:04:57.709
+Na terceira etapa,
+
+127
+00:04:58.109 --> 00:05:00.950
+nós começamos a pensar na base de cálculo do ICMS,
+
+128
+00:05:01.260 --> 00:05:04.200
+até porque o ICMS será extinto apenas em 2032,
+
+129
+00:05:04.989 --> 00:05:05.670
+ou seja.
+
+130
+00:05:06.579 --> 00:05:07.739
+o cálculo do ICMS.
+
+131
+00:05:07.779 --> 00:05:09.179
+E não é por fora,
+
+132
+00:05:09.260 --> 00:05:10.170
+ele é por dentro
+
+133
+00:05:11.100 --> 00:05:13.820
+e infelizmente a nossa lei complementar,
+
+134
+00:05:13.989 --> 00:05:20.809
+ela não nos dá claramente que o IBSCBS não faz parte da base de cálculo do ICMS também.
+
+135
+00:05:21.420 --> 00:05:21.540
+Então,
+
+136
+00:05:21.619 --> 00:05:24.470
+além dele fazer parte da sua própria base,
+
+137
+00:05:24.940 --> 00:05:28.579
+o IBSCBS também faz parte da base de cálculo do ICMS.
+
+138
+00:05:29.100 --> 00:05:29.179
+Então,
+
+139
+00:05:29.260 --> 00:05:30.140
+como vocês viram aí,
+
+140
+00:05:30.220 --> 00:05:30.549
+na verdade,
+
+141
+00:05:30.660 --> 00:05:31.670
+a base de cálculo do CMS,
+
+142
+00:05:31.709 --> 00:05:33.540
+ela explode sobre a carga tributária.
+
+143
+00:05:33.720 --> 00:05:34.070
+Por quê?
+
+144
+00:05:34.899 --> 00:05:36.529
+eu coloquei uma alíquota de 18%,
+
+145
+00:05:36.609 --> 00:05:37.570
+que é uma alíquota padrão.
+
+146
+00:05:38.209 --> 00:05:42.329
+Busquei o valor de 1512 que faz o cálculo do IBS da CBS,
+
+147
+00:05:42.500 --> 00:05:43.890
+que está dentro da base de cálculo.
+
+148
+00:05:44.649 --> 00:05:45.410
+Como ele é por dentro,
+
+149
+00:05:45.519 --> 00:05:48.959
+eu tenho que incluir o próprio CMStre dentro da sua própria base de cálculo
+
+150
+00:05:49.369 --> 00:05:52.540
+e o valor total da operação de 1000 BRL
+
+151
+00:05:52.970 --> 00:05:56.500
+chegou no final por 1742 BRL 64,
+
+152
+00:05:57.329 --> 00:05:57.869
+ou seja.
+
+153
+00:05:58.570 --> 00:06:03.970
+chega a 20% a mais quando o seu cliente está na incidência
+
+154
+00:06:04.209 --> 00:06:05.450
+do imposto seletivo
+
+155
+00:06:05.690 --> 00:06:06.190
+novamente,
+
+156
+00:06:06.250 --> 00:06:08.359
+trazendo o objetivo do imposto seletivo
+
+157
+00:06:08.890 --> 00:06:09.600
+de punir.
+
+158
+00:06:10.700 --> 00:06:11.170
+trazer
+
+159
+00:06:11.630 --> 00:06:13.739
+a questão de não uso
+
+160
+00:06:13.959 --> 00:06:14.989
+do consumidor,
+
+161
+00:06:15.890 --> 00:06:15.899
+né?
+
+162
+00:06:15.910 --> 00:06:17.480
+De desestimular o uso.
+
+163
+00:06:18.269 --> 00:06:21.589
+Essa é a ideia principal do imposto seletivo e ele consegue,
+
+164
+00:06:21.630 --> 00:06:21.869
+porque,
+
+165
+00:06:21.910 --> 00:06:22.230
+na verdade,
+
+166
+00:06:22.309 --> 00:06:23.820
+ele aumenta uma carga tributária,
+
+167
+00:06:24.510 --> 00:06:24.519
+né?
+
+168
+00:06:24.829 --> 00:06:28.420
+Ele aumenta a carga tributária para que para que não seja utilizado.
+
+169
+00:06:29.940 --> 00:06:32.500
+nota explicativa sobre a composição do ICMS.
+
+170
+00:06:32.779 --> 00:06:33.540
+Durante a transição,
+
+171
+00:06:33.660 --> 00:06:37.329
+o ICMS continuará existindo com alíquotas decrescentes.
+
+172
+00:06:38.230 --> 00:06:43.040
+ele será calculado com a base em valores que já estão incluídas no IBS CBS tá
+
+173
+00:06:44.070 --> 00:06:46.470
+o resultado a carga tributária efetiva.
+
+174
+00:06:46.480 --> 00:06:47.959
+Ela é aumentada
+
+175
+00:06:48.429 --> 00:06:49.380
+temporariamente,
+
+176
+00:06:49.390 --> 00:06:51.220
+ainda temporariamente
+
+177
+00:06:51.750 --> 00:06:55.130
+e a inclusão desses tributos na base de cálculo do ICMS
+
+178
+00:06:56.070 --> 00:06:57.890
+contraria as decisões do STF.
+
+179
+00:06:59.220 --> 00:07:01.790
+faz a gente refletir sobre o tema 69,
+
+180
+00:07:01.820 --> 00:07:03.940
+que trouxe a tese do século,
+
+181
+00:07:04.059 --> 00:07:07.290
+quando o ICMS era incluído na base de cálculo de Psicofix.
+
+182
+00:07:08.140 --> 00:07:10.619
+Então aqui nos dá um alerta que provavelmente nós
+
+183
+00:07:10.619 --> 00:07:14.100
+teremos muitas discussões ainda à frente desse tema.
+
+184
+00:07:14.380 --> 00:07:14.660
+Tá,
+
+185
+00:07:15.179 --> 00:07:16.209
+Mas o que temos
+
+186
+00:07:16.820 --> 00:07:17.529
+até agora é
+
+187
+00:07:18.260 --> 00:07:21.019
+essa sistemática de cálculo para o imposto seletivos.
+
+188
+00:07:21.720 --> 00:07:22.230
+Além disso,
+
+189
+00:07:22.320 --> 00:07:26.829
+eu deixei todos os instrumentos legislativos que corresponde ao cálculo,
+
+190
+00:07:27.160 --> 00:07:27.630
+ou seja,
+
+191
+00:07:27.910 --> 00:07:29.959
+como que chegamos a base de cálculo do IS,
+
+192
+00:07:30.170 --> 00:07:30.989
+do IBS,
+
+193
+00:07:31.109 --> 00:07:32.059
+do CBS
+
+194
+00:07:32.940 --> 00:07:33.890
+e do ICMS,
+
+195
+00:07:34.190 --> 00:07:37.510
+pra que vocês consigam trazer repertórios para o cliente de vocês.
+
+196
+00:07:37.980 --> 00:07:39.190
+Espero que vocês tenham entendido.
+
+197
+00:07:39.390 --> 00:07:40.829
+Usem a planilha,
+
+198
+00:07:41.149 --> 00:07:41.589
+mantenha,
+
+199
+00:07:41.630 --> 00:07:43.019
+obviamente ela atualizada,
+
+200
+00:07:43.250 --> 00:07:45.549
+conforme as NCM do imposto seletivo,
+
+201
+00:07:45.709 --> 00:07:50.059
+conforme até mesmo os serviços que serão incluídos nessa incidência.

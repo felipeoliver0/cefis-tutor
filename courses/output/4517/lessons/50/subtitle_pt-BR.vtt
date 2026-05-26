@@ -1,0 +1,621 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.480
+E aqui eu estou trazendo para vocês um modelo em TXT, que é assim que vocês vão importar.
+
+3
+00:00:06.480 --> 00:00:08.039
+Exemplo de balanço.
+
+4
+00:00:08.039 --> 00:00:10.080
+Olha o J100 aqui, está vendo?
+
+5
+00:00:10.080 --> 00:00:15.240
+Então eu tenho lá todas as minhas contas, 1001, 1002, 1003, 1005.
+
+6
+00:00:15.240 --> 00:00:21.160
+Tenho lá o ativo, tenho lá o grau dela, tem o nome da conta, tem o número da conta,
+
+7
+00:00:21.160 --> 00:00:25.800
+tem o nome da conta, tem o valor, tudo certinho, se é débito, se é crédito.
+
+8
+00:00:25.800 --> 00:00:32.679
+Esse é o TXT, que estão divididos em pipers, esses pauzinhos aí.
+
+9
+00:00:32.679 --> 00:00:35.479
+Então é assim que a gente importa para dentro da ECD.
+
+10
+00:00:35.479 --> 00:00:40.439
+Então, muitas vezes vocês vão detectar erro, vai vir aqui e vai mudar aqui.
+
+11
+00:00:40.439 --> 00:00:42.039
+Eu não aconselho.
+
+12
+00:00:42.039 --> 00:00:46.759
+Vai lá no teu software e muda lá, para quando você importar vir correto.
+
+13
+00:00:46.759 --> 00:00:49.520
+Dá para mudar aqui, é mais rápido, professor, dá.
+
+14
+00:00:49.520 --> 00:00:51.799
+Mas você tem que mudar aqui e tem que mudar lá, entendeu?
+
+15
+00:00:51.799 --> 00:00:55.560
+Então eu prefiro mudar lá e importar de novo para trazer o correto, sem erro.
+
+16
+00:00:55.560 --> 00:00:58.920
+Do que ficar mexendo no TXT aqui.
+
+17
+00:00:58.920 --> 00:01:01.079
+A probabilidade de errar aqui é muito grande.
+
+18
+00:01:01.079 --> 00:01:04.280
+Qualquer coisinha que você desvia para cima ou para baixo, de um lado ou para o outro,
+
+19
+00:01:04.280 --> 00:01:06.040
+já dá diferença.
+
+20
+00:01:06.040 --> 00:01:07.640
+Bacana? Pense nisso.
+
+21
+00:01:07.640 --> 00:01:11.519
+Aí aqui ainda o balanço, aqui o lado passivo, 2 é passivo.
+
+22
+00:01:11.519 --> 00:01:16.439
+Então eu tenho lá passivo, passivo circulante, arrendamento, aí a gente entra nas contas analíticas.
+
+23
+00:01:16.439 --> 00:01:22.200
+Está aqui, juros a transcorrer, ICMS a recuperar, PIS, COFINS.
+
+24
+00:01:22.200 --> 00:01:25.439
+Então, tem todas as contas, o número das contas.
+
+25
+00:01:25.560 --> 00:01:27.159
+É assim que virá.
+
+26
+00:01:27.159 --> 00:01:29.400
+E do mesmo jeito, a DRE.
+
+27
+00:01:29.400 --> 00:01:33.640
+Então, como eu disse, ela começa com o resultado do período, o lucro bruto,
+
+28
+00:01:33.640 --> 00:01:41.000
+aí vem receita líquida de venda, receita bruta, receita de venda, as deduções, ICM, PIS, COFINS, entendeu?
+
+29
+00:01:41.000 --> 00:01:44.079
+Então, cada um monta a sua demonstração, né?
+
+30
+00:01:44.079 --> 00:01:47.319
+Poderia colocar imposto sobre venda? Poderia.
+
+31
+00:01:47.319 --> 00:01:51.959
+Mas às vezes posso abrir, enfim, fica a critério de cada um aí, tá?
+
+32
+00:01:51.959 --> 00:01:54.920
+Despesa operacional, depreciação e etc.
+
+33
+00:01:55.560 --> 00:01:58.120
+Então, isso é o famoso TXT, né?
+
+34
+00:01:58.120 --> 00:01:59.560
+Bacana, gente?
+
+35
+00:01:59.560 --> 00:02:04.799
+A ideia para DLPA é a mesma coisa, só que é no bloco J210.
+
+36
+00:02:04.799 --> 00:02:12.319
+Então, vimos o balanço, vimos a DRE, aqui a DLPA, demonstração de lucros prejuízos acumulados, ou DMPL.
+
+37
+00:02:12.319 --> 00:02:17.719
+Nesse que existe, deverá ser informada a DLPA ou DMPL, é aqui dentro.
+
+38
+00:02:17.719 --> 00:02:25.159
+O 215, fato contábil que altera a conta lucros acumulados ou a conta de prejuízos acumulados,
+
+39
+00:02:25.159 --> 00:02:26.919
+ou todo o PL.
+
+40
+00:02:26.919 --> 00:02:35.360
+Então, nesse registro, deverão ser informados fatos contábeis que alteram a conta lucros acumulados
+
+41
+00:02:35.360 --> 00:02:40.000
+ou a conta prejuízos acumulados, ou quaisquer outras contas do patrimônio líquido.
+
+42
+00:02:40.000 --> 00:02:47.280
+Lembrando que, se for uma SA, não existe mais essa conta lucros ou prejuízos acumulados, tá?
+
+43
+00:02:47.280 --> 00:02:54.280
+O que vai existir é prejuízos acumulados, porque o lucro eu tenho que destinar, então ela não vai existir mais.
+
+44
+00:02:54.280 --> 00:02:54.759
+Então, ela não vai existir mais.
+
+45
+00:02:54.759 --> 00:02:58.419
+Limitadas, existe, porque não foi alterado o Código Civil, tá?
+
+46
+00:02:58.979 --> 00:03:00.219
+Então, temos esse detalhe aí.
+
+47
+00:03:00.780 --> 00:03:09.180
+A ordem de apresentação do registro J215 representará a ordem de exibição dos fatos contábeis da DMPL.
+
+48
+00:03:09.939 --> 00:03:18.400
+Portanto, o primeiro registro, J215, deve conter o saldo inicial do Código de Aglutinação do Registro J210, tá?
+
+49
+00:03:18.639 --> 00:03:24.740
+Então, uma vez que você parametrizou isso corretamente, todo ano vai ser igual, tá pronto.
+
+50
+00:03:24.759 --> 00:03:29.740
+Só será diferente se você criar novas contas contábeis ou suprimir algumas contas.
+
+51
+00:03:30.159 --> 00:03:37.180
+Se não, se já está certo, se a sua exceder é incorreto, é só manter, fazer a conciliação e manter, entenderam?
+
+52
+00:03:37.659 --> 00:03:40.840
+Nós não temos que elaborar nada, nós vamos só migrar os dados.
+
+53
+00:03:41.319 --> 00:03:48.360
+Eu tenho, sim, que despejar todo o esforço necessário para fazer uma contabilidade bem feita, conciliada, tudo em ordem.
+
+54
+00:03:49.139 --> 00:03:50.780
+Automaticamente, minha excedente está pronta.
+
+55
+00:03:51.580 --> 00:03:52.319
+Perfeito, gente?
+
+56
+00:03:52.319 --> 00:03:54.599
+O J800, como eu disse a você...
+
+57
+00:03:54.759 --> 00:04:03.439
+Outras informações, outras, diversas, permite que seja anexado um arquivo em formato RTF, como eu disse a vocês,
+
+58
+00:04:03.599 --> 00:04:11.759
+Read Text Format, formato de texto, na escrituração, que se destina a receber informações que devam constar do livro,
+
+59
+00:04:12.460 --> 00:04:20.699
+tais como notas explicativas, outras demonstrações contábeis, pareceres, relatórios, laudos técnicos,
+
+60
+00:04:20.699 --> 00:04:24.680
+cartas de responsabilidade, tudo isso vem no J800.
+
+61
+00:04:24.759 --> 00:04:32.740
+Um detalhe muito importante que o pessoal acaba esquecendo e ganhou uma conotação especial em 2025.
+
+62
+00:04:33.259 --> 00:04:38.339
+A ata de deliberação do resultado do exercício.
+
+63
+00:04:38.860 --> 00:04:45.199
+Isso é muito importante e eu venho falando isso há mais de 10 anos, com os meus clientes, com os meus alunos.
+
+64
+00:04:45.879 --> 00:04:54.060
+Fechou o balanço, elabore a ata, dizendo qual foi o resultado do exercício, como ele será destinado,
+
+65
+00:04:54.060 --> 00:04:59.139
+se será proporcional ou desproporcional, se nós iremos aumentar a capital ou não,
+
+66
+00:04:59.259 --> 00:05:01.699
+se haverá aporte, o que vai fazer com esse resultado.
+
+67
+00:05:02.519 --> 00:05:08.480
+Esta ata é a ata que aprova as demonstrações, que está correto o trabalho que você fez como contador.
+
+68
+00:05:09.240 --> 00:05:11.560
+E aí todos os sócios assinam essa ata.
+
+69
+00:05:12.540 --> 00:05:14.860
+Estão dando conferência a tudo que você fez.
+
+70
+00:05:15.199 --> 00:05:20.600
+Inclusive, se porventura ocorreu mútuo entre sócios, coligadas, descontroladas,
+
+71
+00:05:20.860 --> 00:05:22.660
+faça menção nessa ata.
+
+72
+00:05:23.019 --> 00:05:23.899
+Qual foi o mútuo?
+
+73
+00:05:24.060 --> 00:05:24.699
+Qual foi o valor?
+
+74
+00:05:24.819 --> 00:05:25.819
+Qual é o prazo de pagamento?
+
+75
+00:05:25.920 --> 00:05:26.839
+Qual é a taxa de juros?
+
+76
+00:05:27.259 --> 00:05:28.019
+Põe na ata.
+
+77
+00:05:28.759 --> 00:05:31.060
+Você está fechando um ano contábil.
+
+78
+00:05:32.139 --> 00:05:33.720
+Não tem pecado nenhum.
+
+79
+00:05:34.379 --> 00:05:35.779
+Precisa registrar essa ata?
+
+80
+00:05:36.019 --> 00:05:37.540
+Não, não precisa registrar.
+
+81
+00:05:38.199 --> 00:05:45.600
+Precisou em 2025 devido à distribuição de lucro que ocorreu uma majoração,
+
+82
+00:05:45.600 --> 00:05:50.899
+uma tributação a partir de janeiro de 10% do valor que ultrapassar 50 mil por mês.
+
+83
+00:05:51.540 --> 00:05:54.040
+Então, se você declarou, fez a ata.
+
+84
+00:05:54.060 --> 00:05:59.879
+E deliberou, e levou ela a registro, em até 31 de dezembro de 2025,
+
+85
+00:05:59.879 --> 00:06:05.680
+todo o lucro acumulado de 2025 e de anos anteriores serão isentos de tributação.
+
+86
+00:06:05.680 --> 00:06:07.680
+Desde que esteja na ata.
+
+87
+00:06:07.680 --> 00:06:10.259
+E teria que estar registrado.
+
+88
+00:06:10.259 --> 00:06:12.259
+Mas isso foi uma exceção à regra.
+
+89
+00:06:12.259 --> 00:06:14.259
+A ata não precisa registrar.
+
+90
+00:06:14.259 --> 00:06:15.540
+A lei não obriga isso.
+
+91
+00:06:15.540 --> 00:06:20.660
+Mas eu aconselho vocês pendurarem dentro do bloco J800 para dar veracidade pública.
+
+92
+00:06:20.660 --> 00:06:22.019
+Está lá dentro.
+
+93
+00:06:22.019 --> 00:06:23.019
+Todo o ato.
+
+94
+00:06:23.019 --> 00:06:23.899
+Então, capricha.
+
+95
+00:06:23.899 --> 00:06:25.899
+Caprichem na redação.
+
+96
+00:06:25.899 --> 00:06:27.899
+O J800 é para isso.
+
+97
+00:06:27.899 --> 00:06:30.899
+Para recepcionar as informações adicionais.
+
+98
+00:06:30.899 --> 00:06:34.899
+Como eu disse a vocês, serve de um bom backup de informações.
+
+99
+00:06:34.899 --> 00:06:36.899
+Você não vai lembrar no detalhe.
+
+100
+00:06:36.899 --> 00:06:38.899
+Então, capriche para você lembrar amanhã ou depois.
+
+101
+00:06:38.899 --> 00:06:39.899
+Entendeu?
+
+102
+00:06:39.899 --> 00:06:41.899
+Essa é a função do J800.
+
+103
+00:06:41.899 --> 00:06:43.899
+Aqui o procedimento.
+
+104
+00:06:43.899 --> 00:06:44.899
+O próprio manual traz.
+
+105
+00:06:44.899 --> 00:06:45.899
+Eu trago aqui para vocês.
+
+106
+00:06:45.899 --> 00:06:47.899
+O procedimento para anexar é o seguinte.
+
+107
+00:06:47.899 --> 00:06:49.899
+Digite o documento em Word.
+
+108
+00:06:49.899 --> 00:06:51.899
+Salva o documento em RTF.
+
+109
+00:06:51.899 --> 00:06:52.899
+Abra o bloco de notas.
+
+110
+00:06:52.899 --> 00:06:54.899
+Copie todo o documento do bloco de notas.
+
+111
+00:06:54.899 --> 00:06:57.899
+Cole o conteúdo copiado no J800.
+
+112
+00:06:57.899 --> 00:07:01.899
+Importe o arquivo de acordo com o layout da ECD para o programa.
+
+113
+00:07:01.899 --> 00:07:05.899
+Ou seja, é o mesmo procedimento do termo de verificação.
+
+114
+00:07:05.899 --> 00:07:07.899
+Vale a mesma coisa.
+
+115
+00:07:07.899 --> 00:07:10.899
+Eu trouxe aqui repetindo para vocês terem uma ideia.
+
+116
+00:07:10.899 --> 00:07:11.899
+Perfeito, gente?
+
+117
+00:07:11.899 --> 00:07:13.899
+Aí a ECD de vocês vai estar completa.
+
+118
+00:07:13.899 --> 00:07:15.899
+Não tenho dúvida.
+
+119
+00:07:15.899 --> 00:07:21.899
+J801 deve ser utilizado obrigatoriamente no caso de substituição do arquivo da ECD.
+
+120
+00:07:21.899 --> 00:07:23.899
+Como já abordamos.
+
+121
+00:07:23.899 --> 00:07:25.899
+Está lá na gestão normativa.
+
+122
+00:07:25.899 --> 00:07:29.899
+A entidade deverá preencher o registro J801.
+
+123
+00:07:29.899 --> 00:07:33.899
+Termo de verificação para fim de substituição da ECD.
+
+124
+00:07:33.899 --> 00:07:37.899
+Detalhando os erros que deram motivo à substituição.
+
+125
+00:07:37.899 --> 00:07:39.899
+Com as seguintes informações.
+
+126
+00:07:39.899 --> 00:07:42.899
+Identificação da escrituração.
+
+127
+00:07:42.899 --> 00:07:44.899
+Temos aí.
+
+128
+00:07:44.899 --> 00:07:47.899
+Descrição pormenorizada dos erros.
+
+129
+00:07:47.899 --> 00:07:50.899
+Identificação dos registros que contêm erros.
+
+130
+00:07:50.899 --> 00:07:52.899
+Autorização para o Conselho Federal.
+
+131
+00:07:52.899 --> 00:07:56.899
+Descrição dos procedimentos pelos auditores.
+
+132
+00:07:56.899 --> 00:08:02.899
+E a entidade deverá preencher o J801.
+
+133
+00:08:02.899 --> 00:08:04.899
+Detalhando todos os motivos.
+
+134
+00:08:04.899 --> 00:08:10.899
+Ou seja, esse termo de verificação para fim de substituição deve ser assinado.
+
+135
+00:08:10.899 --> 00:08:16.899
+Os dados dos assinantes serão preenchidos no J935.
+
+136
+00:08:16.899 --> 00:08:19.899
+O profissional de contabilidade que assinou os livros.
+
+137
+00:08:19.899 --> 00:08:21.899
+E substituto.
+
+138
+00:08:21.899 --> 00:08:25.899
+Quando as demonstrações tenham sido auditadas por auditores independentes.
+
+139
+00:08:25.899 --> 00:08:28.899
+Pelo próprio profissional da contabilidade que assina os livros.
+
+140
+00:08:28.899 --> 00:08:30.899
+E também pelo auditor.
+
+141
+00:08:30.899 --> 00:08:31.899
+É aqui que eles estão cobrando.
+
+142
+00:08:31.899 --> 00:08:35.899
+A manifestação do profissional de contabilidade que não assina a escrituração.
+
+143
+00:08:35.899 --> 00:08:41.899
+Se restringe às modificações relatadas no termo de verificação para fim de substituição.
+
+144
+00:08:41.899 --> 00:08:43.899
+E aí as notas. Olha lá.
+
+145
+00:08:43.899 --> 00:08:45.899
+Nota 1.
+
+146
+00:08:45.899 --> 00:08:47.899
+Só é admitida.
+
+147
+00:08:47.899 --> 00:08:54.899
+A subição da ECD até o fim do prazo da entrega relativa ao ano-calendário subsequente.
+
+148
+00:08:54.899 --> 00:08:56.899
+Nota 2.
+
+149
+00:08:56.899 --> 00:09:04.899
+São nulas as alterações efetuado em desacordo com as regras supramencionadas.
+
+150
+00:09:04.899 --> 00:09:09.899
+Ou com o termo de verificação para fim de substituição.
+
+151
+00:09:09.899 --> 00:09:13.899
+Se eu não tiver o termo, tudo que eu fizer não vale nada.
+
+152
+00:09:13.899 --> 00:09:15.899
+Entendeu? Não vale nada.
+
+153
+00:09:15.899 --> 00:09:16.899
+Tem que ter o termo.
+
+154
+00:09:16.899 --> 00:09:18.899
+Procedimento é o mesmo.
+
+155
+00:09:18.899 --> 00:09:25.899
+Digitar no Word, salvar no RTF, abrir o bloco de notas, copiar, colar e importar o arquivo.
+
+156
+00:09:25.899 --> 00:09:27.899
+Então isso nós já sabemos como fazer.

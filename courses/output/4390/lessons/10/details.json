@@ -1,0 +1,33 @@
+{
+  "id": 485339,
+  "title": "Usuários externos da contabilidade",
+  "position": 10,
+  "duration": 419,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0c300b97-e204-4c5d-ad6b-18ba3007039b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c300b97-e204-4c5d-ad6b-18ba3007039b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c300b97-e204-4c5d-ad6b-18ba3007039b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c300b97-e204-4c5d-ad6b-18ba3007039b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0c300b97-e204-4c5d-ad6b-18ba3007039b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

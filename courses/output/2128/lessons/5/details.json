@@ -1,0 +1,33 @@
+{
+  "id": 462713,
+  "title": "Crédito e cálculo",
+  "position": 5,
+  "duration": 336,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/979e9cd6-0aa3-4597-be68-eef3fc727ab5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/979e9cd6-0aa3-4597-be68-eef3fc727ab5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/979e9cd6-0aa3-4597-be68-eef3fc727ab5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/979e9cd6-0aa3-4597-be68-eef3fc727ab5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/979e9cd6-0aa3-4597-be68-eef3fc727ab5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2250,
+    "title": "Valoração aduaneira",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de valoração aduaneira você vai aprender desde os conceitos fundamentais relacionados ao valor aduaneiro, até as regras de valoração aduaneira e os diferentes métodos aplicáveis, bem como o detalhamento de condições para enquadramento e utilização de cada um dos métodos apresentados, para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/6fa238b0c50dab89b577172e9f6c25481728385983.jpg",
+    "goals": [
+      "Promover uma análise técnica quanto aos fundamentos, principais conceitos, critérios, e pontos de atenção quanto aos métodos de Valoração Aduaneira na Importação com base na legislação aduaneira vigente."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 4535,
+    "keywords": "valoração aduaneira;valor aduaneiro",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 258,
+    "averageRating": 9.41,
+    "practiceAverage": 9.3,
+    "trailer": {
+      "id": "ec145e9f-34b1-4e20-8ee9-f902c9bac1c7",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ec145e9f-34b1-4e20-8ee9-f902c9bac1c7/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ec145e9f-34b1-4e20-8ee9-f902c9bac1c7/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ec145e9f-34b1-4e20-8ee9-f902c9bac1c7/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ec145e9f-34b1-4e20-8ee9-f902c9bac1c7/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-09-26T10:03:33.000Z",
+      "updatedAt": "2022-09-26T10:03:32.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-10-06T15:00:00.000Z",
+    "recordedAt": "2022-09-17T00:00:00.000Z",
+    "createdAt": "2022-09-19T09:52:23.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 464546,
+  "title": "Embalagens",
+  "position": 15,
+  "duration": 162,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1aee91b3-2582-4154-9d0c-2702f5ad29fd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1aee91b3-2582-4154-9d0c-2702f5ad29fd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1aee91b3-2582-4154-9d0c-2702f5ad29fd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1aee91b3-2582-4154-9d0c-2702f5ad29fd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1aee91b3-2582-4154-9d0c-2702f5ad29fd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

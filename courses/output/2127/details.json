@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2127,
+    "title": "Greve",
+    "subtitle": "Direitos, deveres e conflitos coletivos",
+    "summary": "O estudo do instituto da greve é necessário não somente em razão dos anúncios nos jornais das paralisações grevistas nos transportes públicos que impactam a vida de todos que dependem de mobilidade urbana, mas também em virtude do conhecimento indispensável para o trabalho cotidiano do aluno que trabalha na área privada ou no serviço público. Logo, sobre a greve abordaremos sua caracterização, requisitos, direitos, deveres, limites, distinções, tipologia etc, além de temas correlatos como conflitos coletivos, liberdade sindical, lockout, representantes dos trabalhadores e comissão de empresa.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/727738fd852ee13945eff915a1e967761727451416.jpg",
+    "goals": [
+      "Demonstrar tópicos pertinentes ao instituto da greve como a caracterização, requisitos, direitos, deveres, limites, distinções, tipologia etc, além de temas correlatos como conflitos coletivos, liberdade sindical, lockout, representantes dos trabalhadores e comissão de empresa."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 7371,
+    "keywords": "greve;direito Trabalhista;Departamento Pessoal;trabalho;recursos humanos",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 37,
+    "averageRating": 9.19,
+    "practiceAverage": 9,
+    "trailer": {
+      "id": "0208ef60-da88-4220-902f-72701b909b8a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0208ef60-da88-4220-902f-72701b909b8a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0208ef60-da88-4220-902f-72701b909b8a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0208ef60-da88-4220-902f-72701b909b8a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0208ef60-da88-4220-902f-72701b909b8a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-08-10T16:56:00.000Z",
+      "updatedAt": "2022-08-10T16:55:59.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-09-14T18:46:38.000Z",
+    "recordedAt": "2022-07-13T00:00:00.000Z",
+    "createdAt": "2022-07-05T07:06:59.000Z"
+  }
+}

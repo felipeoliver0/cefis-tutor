@@ -1,0 +1,33 @@
+{
+  "id": 462715,
+  "title": "Principais teses e discussões jurídicas",
+  "position": 7,
+  "duration": 349,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a2e33eb1-64d2-4087-9017-b1480db6b001/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a2e33eb1-64d2-4087-9017-b1480db6b001/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a2e33eb1-64d2-4087-9017-b1480db6b001/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a2e33eb1-64d2-4087-9017-b1480db6b001/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a2e33eb1-64d2-4087-9017-b1480db6b001/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 479168,
+  "title": "Ilícitos sem intenção",
+  "position": 31,
+  "duration": 404,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5cb59471-64f8-46fc-b4bb-9d1fc5111401/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5cb59471-64f8-46fc-b4bb-9d1fc5111401/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5cb59471-64f8-46fc-b4bb-9d1fc5111401/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5cb59471-64f8-46fc-b4bb-9d1fc5111401/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5cb59471-64f8-46fc-b4bb-9d1fc5111401/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

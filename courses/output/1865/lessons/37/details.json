@@ -1,0 +1,33 @@
+{
+  "id": 458542,
+  "title": "Demais incisos",
+  "position": 38,
+  "duration": 295,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/24af8cbf-36da-49e0-bfd8-f7bf92ddebd8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24af8cbf-36da-49e0-bfd8-f7bf92ddebd8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24af8cbf-36da-49e0-bfd8-f7bf92ddebd8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24af8cbf-36da-49e0-bfd8-f7bf92ddebd8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/24af8cbf-36da-49e0-bfd8-f7bf92ddebd8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3869,
+    "title": "Aprofundamento em SPE e SCP para Empreendimentos Imobiliários",
+    "subtitle": "Estruturas societárias e tributárias para o sucesso de projetos imobiliários",
+    "summary": "Este curso aborda a estruturação e a legislação de SPEs (Sociedades de Propósito Específico) e SCPs (Sociedades em Conta de Participação) no contexto de empreendimentos imobiliários. Os participantes entenderão as características, diferenças e aplicações de cada uma, explorarão aspectos societários e tributários, e descobrirão como essas sociedades são regulamentadas legalmente no Brasil. Além disso, serão discutidas as implicações financeiras, desde a constituição até a dissolução dessas entidades, incluindo práticas de governança, planejamento tributário e análise de viabilidade econômica.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/e6e7af35-a31b-4f7e-9450-9dffb7df64cf-thumbnail.png",
+    "goals": [
+      "Levar os participantes a entenderem profunda e detalhadamente as estruturas de SPE e SCP, capacitando-os a implementar, gerir e otimizar essas sociedades para o sucesso em empreendimentos imobiliários."
+    ],
+    "teacher": {
+      "id": 471993,
+      "name": "SIDNEY D'AGÁZIO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1606057066.jpeg"
+    },
+    "duration": 7493,
+    "keywords": "SPE;SCP;empreendimentos imobiliários;estruturas societárias;tributação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 179,
+    "averageRating": 8.74,
+    "practiceAverage": 8.66,
+    "trailer": {
+      "id": "4714c7fd-38d7-4bb9-9112-1de7e1384d0d",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4714c7fd-38d7-4bb9-9112-1de7e1384d0d/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4714c7fd-38d7-4bb9-9112-1de7e1384d0d/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4714c7fd-38d7-4bb9-9112-1de7e1384d0d/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4714c7fd-38d7-4bb9-9112-1de7e1384d0d/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-24T17:56:04.000Z",
+      "updatedAt": "2025-07-24T17:56:04.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-07-24T17:59:35.000Z",
+    "recordedAt": "2025-07-11T00:00:00.000Z",
+    "createdAt": "2025-07-11T14:10:04.000Z"
+  }
+}

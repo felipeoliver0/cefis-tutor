@@ -1,0 +1,33 @@
+{
+  "id": 487240,
+  "title": "Jurisprudência STJ - Parte 1",
+  "position": 21,
+  "duration": 302,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/bbeb6c2b-23f9-4858-bb8d-a6f8c069f168/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbeb6c2b-23f9-4858-bb8d-a6f8c069f168/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbeb6c2b-23f9-4858-bb8d-a6f8c069f168/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbeb6c2b-23f9-4858-bb8d-a6f8c069f168/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbeb6c2b-23f9-4858-bb8d-a6f8c069f168/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

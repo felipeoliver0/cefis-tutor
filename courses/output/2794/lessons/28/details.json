@@ -1,0 +1,33 @@
+{
+  "id": 469510,
+  "title": "Pratica",
+  "position": 28,
+  "duration": 319,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d1cee31c-d4df-4f60-9683-a27ff551e6fe/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1cee31c-d4df-4f60-9683-a27ff551e6fe/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1cee31c-d4df-4f60-9683-a27ff551e6fe/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1cee31c-d4df-4f60-9683-a27ff551e6fe/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1cee31c-d4df-4f60-9683-a27ff551e6fe/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

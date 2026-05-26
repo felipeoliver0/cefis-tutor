@@ -1,0 +1,33 @@
+{
+  "id": 486503,
+  "title": "Marcos legislativos da reforma",
+  "position": 10,
+  "duration": 126,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e95b2280-6a38-45da-9740-b9e1341bc978/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e95b2280-6a38-45da-9740-b9e1341bc978/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e95b2280-6a38-45da-9740-b9e1341bc978/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e95b2280-6a38-45da-9740-b9e1341bc978/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e95b2280-6a38-45da-9740-b9e1341bc978/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

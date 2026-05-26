@@ -1,0 +1,33 @@
+{
+  "id": 482882,
+  "title": "Novos tributos",
+  "position": 3,
+  "duration": 239,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a589f2c0-1816-486a-b9af-4ef032040fe0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a589f2c0-1816-486a-b9af-4ef032040fe0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a589f2c0-1816-486a-b9af-4ef032040fe0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a589f2c0-1816-486a-b9af-4ef032040fe0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a589f2c0-1816-486a-b9af-4ef032040fe0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

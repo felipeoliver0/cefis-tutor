@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2588,
+    "title": "Vale transporte e Vale combustível",
+    "subtitle": "Aplicações práticas",
+    "summary": "Neste curso prático de vale transporte e vale combustível você entenderá desde a legislação reativa à ambos os casos, bem como as diferenciações aplicáveis, bem como pontos referentes à multa pela não concessão do benefício, rubricas informativas no esocial, concessão, convenção coletiva, concessão e muitos outros aspectos para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/d2032f48dfcdeaafb9a23da2ccf0c1df1728428698.jpg",
+    "goals": [
+      "Apresentar desde a legislação reativa à ambos os casos, bem como as diferenciações aplicáveis, bem como pontos referentes à multa pela não concessão do benefício, rubricas informativas no esocial, concessão, convenção coletiva, concessão e muitos outros aspectos para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 3142,
+    "keywords": "vale transporte;vale combustível",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 516,
+    "averageRating": 9.4,
+    "practiceAverage": 9.39,
+    "trailer": {
+      "id": "79fecb80-5901-4704-9243-941b0b3cadd3",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/79fecb80-5901-4704-9243-941b0b3cadd3/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/79fecb80-5901-4704-9243-941b0b3cadd3/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/79fecb80-5901-4704-9243-941b0b3cadd3/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/79fecb80-5901-4704-9243-941b0b3cadd3/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-06-14T11:50:49.000Z",
+      "updatedAt": "2023-06-14T11:50:49.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-06-28T15:26:00.000Z",
+    "recordedAt": "2023-05-31T00:00:00.000Z",
+    "createdAt": "2023-06-07T16:56:38.000Z"
+  }
+}

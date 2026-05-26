@@ -1,0 +1,1245 @@
+WEBVTT
+
+1
+00:00:02.910 --> 00:00:03.990
+Pois bem pessoal.
+
+2
+00:00:04.460 --> 00:00:07.550
+Agora nós vamos para o nosso módulo 3,
+
+3
+00:00:08.430 --> 00:00:08.619
+né?
+
+4
+00:00:08.630 --> 00:00:10.829
+Que nós vamos falar do lucro presumido.
+
+5
+00:00:11.470 --> 00:00:14.510
+Vocês perceberam quanto tempo nós demandamos para lucro real,
+
+6
+00:00:14.590 --> 00:00:14.699
+né?
+
+7
+00:00:14.750 --> 00:00:15.939
+É o mais robusto.
+
+8
+00:00:16.530 --> 00:00:16.979
+Não é
+
+9
+00:00:17.399 --> 00:00:19.319
+Até daria para me simular
+
+10
+00:00:19.489 --> 00:00:20.649
+uma operação inteira,
+
+11
+00:00:20.690 --> 00:00:23.479
+mas a gente demandar aqui pelo menos uns dois dias aqui para
+
+12
+00:00:23.770 --> 00:00:24.450
+para explicar,
+
+13
+00:00:24.530 --> 00:00:24.700
+né?
+
+14
+00:00:24.809 --> 00:00:25.090
+Então
+
+15
+00:00:25.370 --> 00:00:29.170
+Vocês viram que muitas das informações que nós colocamos
+
+16
+00:00:29.530 --> 00:00:31.370
+do bloco X e do bloco Y.
+
+17
+00:00:31.489 --> 00:00:33.240
+Ela é comum a todos os módulos.
+
+18
+00:00:33.430 --> 00:00:34.000
+Se assim.
+
+19
+00:00:34.090 --> 00:00:34.569
+eu tiver,
+
+20
+00:00:34.849 --> 00:00:35.209
+se não,
+
+21
+00:00:35.490 --> 00:00:36.979
+não vou informar nada perfeito
+
+22
+00:00:37.409 --> 00:00:40.880
+Mas o bloco do lucro real é o que demanda mais tempo,
+
+23
+00:00:41.450 --> 00:00:41.610
+né?
+
+24
+00:00:41.689 --> 00:00:43.369
+Na confecção de conferência,
+
+25
+00:00:43.689 --> 00:00:48.650
+porque tem todo um arcabouço tributário e fiscal e contábil ligado
+
+26
+00:00:48.650 --> 00:00:51.439
+a essas linhas que nós vamos informar dentro da ICF.
+
+27
+00:00:52.060 --> 00:00:53.500
+que está tudo parametrizado.
+
+28
+00:00:53.540 --> 00:00:54.369
+Deveria estar.
+
+29
+00:00:54.619 --> 00:00:55.340
+Se houver erro,
+
+30
+00:00:55.380 --> 00:00:57.180
+vamos arrumar o nosso software
+
+31
+00:00:57.540 --> 00:00:58.830
+para que isso venha corretamente.
+
+32
+00:00:58.939 --> 00:00:59.400
+Perfeito.
+
+33
+00:00:59.759 --> 00:01:01.580
+Então é muito detalhe o lucro real
+
+34
+00:01:02.099 --> 00:01:02.939
+Os demais,
+
+35
+00:01:03.180 --> 00:01:04.569
+como nós vamos ver agora
+
+36
+00:01:05.220 --> 00:01:06.180
+o lucro presumido,
+
+37
+00:01:06.220 --> 00:01:06.620
+por exemplo,
+
+38
+00:01:06.680 --> 00:01:07.980
+ele é bem mais tranquilo.
+
+39
+00:01:08.959 --> 00:01:11.819
+inclusive é um módulo que dá para se preencher manual.
+
+40
+00:01:12.790 --> 00:01:13.220
+né?
+
+41
+00:01:13.510 --> 00:01:17.370
+Porque aqui é cálculo do tributo com base nas nossas receitas.
+
+42
+00:01:18.160 --> 00:01:22.870
+Aqui eu não vou buscar os dados da contabilidade para tal são as nossas receitas,
+
+43
+00:01:22.989 --> 00:01:24.470
+apesar que os dados também virão,
+
+44
+00:01:24.550 --> 00:01:24.769
+né?
+
+45
+00:01:25.269 --> 00:01:26.940
+Perfeito Então o lucro presumido,
+
+46
+00:01:26.949 --> 00:01:28.080
+ele é muito mais tranquilo.
+
+47
+00:01:28.110 --> 00:01:29.879
+Aqui eu simulei para vocês
+
+48
+00:01:30.150 --> 00:01:32.519
+111 exercício prático,
+
+49
+00:01:32.629 --> 00:01:32.819
+né?
+
+50
+00:01:33.110 --> 00:01:35.379
+Como é que nós colocamos lá dentro da ICF.
+
+51
+00:01:35.635 --> 00:01:37.985
+passo a passo como ele aparece lá nas linhas
+
+52
+00:01:38.235 --> 00:01:39.864
+O lucro real é muita informação
+
+53
+00:01:40.235 --> 00:01:42.035
+não daria para a gente montar um aqui
+
+54
+00:01:42.285 --> 00:01:43.194
+exemplificando,
+
+55
+00:01:43.275 --> 00:01:43.394
+né?
+
+56
+00:01:43.474 --> 00:01:44.504
+Então o objetivo
+
+57
+00:01:44.635 --> 00:01:44.904
+foi,
+
+58
+00:01:45.035 --> 00:01:45.305
+né?
+
+59
+00:01:45.714 --> 00:01:49.474
+Explicar para vocês detalhadamente se porventura ocorreu algum problema,
+
+60
+00:01:49.595 --> 00:01:50.394
+vocês saberem
+
+61
+00:01:50.694 --> 00:01:52.165
+aonde vocês vão se recorrer,
+
+62
+00:01:52.235 --> 00:01:52.474
+né?
+
+63
+00:01:53.949 --> 00:01:55.419
+Vamos lá o lucro presumido,
+
+64
+00:01:55.550 --> 00:01:55.779
+né?
+
+65
+00:01:56.190 --> 00:01:57.519
+Que é o nosso módulo 3.
+
+66
+00:01:58.260 --> 00:02:01.620
+Então é é uma outra opção para as empresas industriais,
+
+67
+00:02:01.660 --> 00:02:04.059
+comerciais e de prestação de serviços
+
+68
+00:02:04.379 --> 00:02:08.330
+apurar trimestralmente o Imposto de renda e a contribuição social,
+
+69
+00:02:08.899 --> 00:02:12.649
+tomando como base o percentual sobre a receita presumida,
+
+70
+00:02:13.179 --> 00:02:14.770
+mas outros ganhos,
+
+71
+00:02:14.820 --> 00:02:16.910
+obtendo o lucro a ser tributado.
+
+72
+00:02:17.300 --> 00:02:18.460
+Então esse é o lucro presumido.
+
+73
+00:02:18.539 --> 00:02:19.639
+O próprio nome diz presumido
+
+74
+00:02:21.100 --> 00:02:22.339
+Quem presume o governo,
+
+75
+00:02:22.460 --> 00:02:24.929
+cabe a mim aceitar ou não o lucro presumido.
+
+76
+00:02:25.309 --> 00:02:26.190
+Se eu aceitei,
+
+77
+00:02:26.470 --> 00:02:29.160
+tenho que saber que existem alíquotas de presunção
+
+78
+00:02:29.470 --> 00:02:32.940
+sobre a minha receita da atividade principal
+
+79
+00:02:33.190 --> 00:02:35.160
+ou das atividades principais
+
+80
+00:02:35.389 --> 00:02:36.509
+porque eu posso ser um comércio,
+
+81
+00:02:36.589 --> 00:02:37.050
+uma indústria,
+
+82
+00:02:37.110 --> 00:02:38.929
+uma prestação de serviço concomitante
+
+83
+00:02:39.389 --> 00:02:39.940
+para cada uma.
+
+84
+00:02:39.990 --> 00:02:41.800
+Eu tenho uma alíquota de presunção diferente
+
+85
+00:02:42.190 --> 00:02:44.979
+Então eu vou presumir o lucro com essas atividades.
+
+86
+00:02:45.389 --> 00:02:46.550
+Depois dessa presunção,
+
+87
+00:02:46.630 --> 00:02:49.740
+eu vou adicionar todas as demais receitas.
+
+88
+00:02:50.710 --> 00:02:50.910
+Então.
+
+89
+00:02:51.119 --> 00:02:52.860
+Isso é importante no lucro presumido.
+
+90
+00:02:53.360 --> 00:02:56.860
+Tudo o que for receita há que ser tributado perfeito
+
+91
+00:02:57.149 --> 00:03:00.110
+E todas essas informações vêm para dentro da ICF.
+
+92
+00:03:00.729 --> 00:03:00.830
+Então,
+
+93
+00:03:00.910 --> 00:03:01.660
+de uma certa maneira,
+
+94
+00:03:01.710 --> 00:03:04.130
+eu vou cruzar esse dado da contabilidade também
+
+95
+00:03:04.509 --> 00:03:05.100
+perfeito
+
+96
+00:03:05.470 --> 00:03:06.940
+Então é assim que nós calculamos,
+
+97
+00:03:07.029 --> 00:03:07.259
+né?
+
+98
+00:03:08.619 --> 00:03:09.220
+a apuração.
+
+99
+00:03:09.300 --> 00:03:11.059
+Ela é feita por períodos trimestrais,
+
+100
+00:03:11.130 --> 00:03:14.009
+que já é um grande ganho em termos de proteção do fluxo de caixa.
+
+101
+00:03:14.429 --> 00:03:15.809
+Então você tem os períodos
+
+102
+00:03:15.940 --> 00:03:16.369
+março,
+
+103
+00:03:16.460 --> 00:03:16.740
+junho,
+
+104
+00:03:16.839 --> 00:03:17.759
+setembro e dezembro,
+
+105
+00:03:17.820 --> 00:03:18.300
+ou seja,
+
+106
+00:03:18.699 --> 00:03:19.500
+são os períodos,
+
+107
+00:03:19.660 --> 00:03:19.830
+né?
+
+108
+00:03:20.380 --> 00:03:23.139
+É do ano calendário corretos os trimestres,
+
+109
+00:03:23.220 --> 00:03:23.470
+né?
+
+110
+00:03:23.860 --> 00:03:28.100
+Cada trimestres e tudo isso vai estar dentro da SF por trimestre.
+
+111
+00:03:28.399 --> 00:03:28.770
+Tá.
+
+112
+00:03:31.309 --> 00:03:33.259
+Quem pode optar pelo lucro presumido.
+
+113
+00:03:33.350 --> 00:03:38.139
+Todas as pessoas jurídicas não enquadrado o regime de lucro real.
+
+114
+00:03:39.160 --> 00:03:41.940
+E aí a minha receita bruta no ano calendário
+
+115
+00:03:42.190 --> 00:03:43.339
+anterior.
+
+116
+00:03:44.110 --> 00:03:48.270
+igual ou inferior ao limite de 78000000
+
+117
+00:03:48.509 --> 00:03:52.649
+ou na sua proporcionalidade 6000000 e meio por mês,
+
+118
+00:03:53.110 --> 00:03:55.660
+multiplicado pelas quantidades de meses perfeito
+
+119
+00:03:55.949 --> 00:03:56.110
+Então.
+
+120
+00:03:56.190 --> 00:03:57.229
+Se eu mantiver isso,
+
+121
+00:03:57.910 --> 00:03:58.779
+esse faturamento
+
+122
+00:03:59.029 --> 00:03:59.770
+no ano seguinte,
+
+123
+00:03:59.869 --> 00:04:00.389
+eu continuo.
+
+124
+00:04:00.554 --> 00:04:01.404
+sendo lucro presumido
+
+125
+00:04:01.735 --> 00:04:04.895
+Se eu ultrapassar esse limite de 78000000
+
+126
+00:04:05.175 --> 00:04:05.884
+no ano seguinte,
+
+127
+00:04:05.975 --> 00:04:09.744
+obrigatoriamente eu caio na primeira cláusula do lucro real,
+
+128
+00:04:10.255 --> 00:04:13.854
+que é receita no ano anterior superior aos 78000000
+
+129
+00:04:14.095 --> 00:04:14.505
+perfeito,
+
+130
+00:04:14.615 --> 00:04:15.085
+entenderam
+
+131
+00:04:15.494 --> 00:04:16.415
+É assim que funciona,
+
+132
+00:04:16.535 --> 00:04:16.785
+né?
+
+133
+00:04:18.440 --> 00:04:22.649
+Esse limite foi estabelecido pela Lei 12814 lá de 2013
+
+134
+00:04:23.760 --> 00:04:27.369
+não é Então o limite de 780000002013.
+
+135
+00:04:27.380 --> 00:04:29.440
+Estamos falando em 2025,
+
+136
+00:04:29.799 --> 00:04:33.019
+Então nós temos 12 anos aí com esse limite defasado,
+
+137
+00:04:33.140 --> 00:04:33.390
+né?
+
+138
+00:04:33.829 --> 00:04:35.049
+Já era para estar muito mais.
+
+139
+00:04:35.459 --> 00:04:37.260
+Isso é aumento de carga tributária,
+
+140
+00:04:37.299 --> 00:04:37.890
+obviamente
+
+141
+00:04:38.059 --> 00:04:39.250
+porque o lucro presumido
+
+142
+00:04:39.500 --> 00:04:40.420
+é uma boa opção,
+
+143
+00:04:40.540 --> 00:04:41.859
+uma boa economia tributária,
+
+144
+00:04:42.019 --> 00:04:42.269
+né?
+
+145
+00:04:42.549 --> 00:04:43.500
+Depende do seu negócio,
+
+146
+00:04:43.579 --> 00:04:44.500
+mas via de regra
+
+147
+00:04:44.779 --> 00:04:45.899
+ele é bem benéfico,
+
+148
+00:04:45.980 --> 00:04:46.170
+né?
+
+149
+00:04:48.869 --> 00:04:50.290
+período de apuração.
+
+150
+00:04:51.380 --> 00:04:52.089
+Conforme
+
+151
+00:04:52.260 --> 00:04:58.519
+o artigo 587 do nosso regulamento do Imposto de Renda o Decreto 700050095802018.
+
+152
+00:04:59.230 --> 00:05:02.940
+A pessoa jurídica tributada pelo lucro presumido poderá a.ar
+
+153
+00:05:03.549 --> 00:05:06.170
+ao seu critério a sua opção
+
+154
+00:05:06.549 --> 00:05:07.500
+a apuração
+
+155
+00:05:07.869 --> 00:05:12.019
+da receita bruta pelo regime de caixa ou regime de competência
+
+156
+00:05:12.630 --> 00:05:12.750
+Então.
+
+157
+00:05:12.869 --> 00:05:17.839
+Nós já afirmamos que não existe contabilidade por regime de caixa no Brasil não
+
+158
+00:05:18.350 --> 00:05:21.989
+Toda a contabilidade brasileira é tão somente pela competência,
+
+159
+00:05:22.350 --> 00:05:24.239
+inclusive a contabilidade pública.
+
+160
+00:05:24.720 --> 00:05:26.119
+que nós temos aí uns
+
+161
+00:05:26.489 --> 00:05:29.480
+um jargão no mercado que a contabilidade pública é o regime misto,
+
+162
+00:05:29.600 --> 00:05:29.869
+não
+
+163
+00:05:30.440 --> 00:05:34.230
+contabilidade pública é regime de caixa t- é regime de competência também.
+
+164
+00:05:35.040 --> 00:05:35.799
+O que é misto.
+
+165
+00:05:35.880 --> 00:05:38.279
+O caixa de competência é o balanço orçamentário deles,
+
+166
+00:05:38.359 --> 00:05:39.709
+mas a contabilidade não
+
+167
+00:05:40.160 --> 00:05:40.510
+tá
+
+168
+00:05:41.079 --> 00:05:43.010
+Agora para fins tributário.
+
+169
+00:05:44.410 --> 00:05:48.690
+o contribuinte tem a prerrogativa de optar ou caixa ou competência.
+
+170
+00:05:49.130 --> 00:05:51.329
+O caixa via de regra é um dos melhores,
+
+171
+00:05:51.450 --> 00:05:53.209
+porém mais trabalhoso para controlar.
+
+172
+00:05:53.929 --> 00:05:54.380
+É melhor,
+
+173
+00:05:54.489 --> 00:05:56.790
+porque quando eu faço a opção pelo caixa,
+
+174
+00:05:57.149 --> 00:06:00.369
+eu só vou pagar o tributo à medida que eu recebo dos meus clientes.
+
+175
+00:06:00.850 --> 00:06:03.440
+Então não deixa de ser o planejamento tributário bem interessante,
+
+176
+00:06:03.970 --> 00:06:04.160
+né?
+
+177
+00:06:04.730 --> 00:06:04.890
+Então.
+
+178
+00:06:05.010 --> 00:06:05.880
+Nós temos aí
+
+179
+00:06:06.130 --> 00:06:08.480
+a opção pelo regime de caixa deverá.
+
+180
+00:06:08.959 --> 00:06:09.829
+emitir
+
+181
+00:06:10.040 --> 00:06:11.149
+a nota fiscal
+
+182
+00:06:11.399 --> 00:06:14.640
+quando da entrega do bem ou direito ou da conclusão do serviço.
+
+183
+00:06:14.679 --> 00:06:15.720
+Mas só vou tributar
+
+184
+00:06:16.040 --> 00:06:17.910
+quando o meu cliente pagar,
+
+185
+00:06:18.079 --> 00:06:18.390
+né?
+
+186
+00:06:18.959 --> 00:06:19.760
+Perfeito
+
+187
+00:06:20.160 --> 00:06:22.679
+indicar no livro caixa e registro individual a
+
+188
+00:06:22.679 --> 00:06:25.410
+nota fiscal a que corresponde a cada recebimento.
+
+189
+00:06:25.760 --> 00:06:27.950
+Então o controle é muito mais acirrado.
+
+190
+00:06:29.200 --> 00:06:31.519
+opção pela competência deverá controlar os
+
+191
+00:06:31.519 --> 00:06:34.350
+recebimentos de suas receitas em conta específica
+
+192
+00:06:34.839 --> 00:06:37.000
+na qual em cada lançamento será indicada a
+
+193
+00:06:37.000 --> 00:06:39.869
+nota fiscal a que corresponde ao recebimento.
+
+194
+00:06:40.859 --> 00:06:42.420
+é a famosa conta de clientes
+
+195
+00:06:42.829 --> 00:06:43.559
+perfeito
+
+196
+00:06:44.070 --> 00:06:45.910
+Você não tem uma conta só de cliente,
+
+197
+00:06:45.950 --> 00:06:47.010
+mas você tem o
+
+198
+00:06:47.709 --> 00:06:48.269
+o A list,
+
+199
+00:06:48.390 --> 00:06:48.540
+né?
+
+200
+00:06:48.589 --> 00:06:49.420
+O famoso
+
+201
+00:06:49.630 --> 00:06:54.500
+razão auxiliar de cliente que está lá no financeiro Nota nota cliente é cliente
+
+202
+00:06:54.790 --> 00:06:55.399
+perfeito,
+
+203
+00:06:55.640 --> 00:06:57.029
+mas na nossa contabilidade.
+
+204
+00:06:57.149 --> 00:06:58.679
+Se eu optei pelo livro G
+
+205
+00:06:58.910 --> 00:07:01.140
+que nós comentamos lá no início do livro G,
+
+206
+00:07:01.670 --> 00:07:04.700
+a minha contabilidade é completa analítica no último nível.
+
+207
+00:07:05.709 --> 00:07:09.220
+Não importa é que eu só tenho uma conta de clientes ou um conto de receber,
+
+208
+00:07:09.470 --> 00:07:13.299
+mas a minha contabilização é nota nota entendeu Dia a dia
+
+209
+00:07:13.640 --> 00:07:15.790
+Eu não posso fazer um lançamento só no final do mês,
+
+210
+00:07:16.309 --> 00:07:17.929
+sendo optado pelo livro G não.
+
+211
+00:07:18.720 --> 00:07:19.739
+Se for esse caso,
+
+212
+00:07:19.790 --> 00:07:23.970
+se fizer um lançamento só aí é o livro R que eu tenho que apresentar
+
+213
+00:07:24.200 --> 00:07:26.730
+e anexar o livro A ou razão auxiliar
+
+214
+00:07:27.160 --> 00:07:28.709
+que tem nota nota perfeito
+
+215
+00:07:29.100 --> 00:07:30.079
+Eu Acho que é trabalho dobrado,
+
+216
+00:07:30.119 --> 00:07:31.799
+mas tem algumas empresas que preferem
+
+217
+00:07:32.320 --> 00:07:34.429
+a questão do de cada um perfeito
+
+218
+00:07:34.779 --> 00:07:36.670
+Então Esse é o regime de competência.
+
+219
+00:07:38.079 --> 00:07:41.019
+O cálculo do Imposto de Renda da contribuição social.
+
+220
+00:07:42.100 --> 00:07:42.799
+Ele é realizado,
+
+221
+00:07:42.880 --> 00:07:43.029
+né?
+
+222
+00:07:43.040 --> 00:07:45.459
+Através da multiplicação dos percentuais.
+
+223
+00:07:46.799 --> 00:07:48.630
+sobre a receita bruta trimestral,
+
+224
+00:07:49.079 --> 00:07:52.119
+variando de acordo com a atividade da pessoa jurídica,
+
+225
+00:07:52.679 --> 00:07:57.350
+mas demais receitas e essa aqui é que dá cruzamento forte demais receitas,
+
+226
+00:07:57.959 --> 00:07:58.130
+né?
+
+227
+00:07:58.200 --> 00:07:59.339
+E ganhos da atividade,
+
+228
+00:07:59.440 --> 00:08:02.899
+tais como rendimento de aplicações financeiras,
+
+229
+00:08:03.640 --> 00:08:07.200
+ganhos de capital da alienação de bens do ativos circulantes,
+
+230
+00:08:07.279 --> 00:08:08.079
+dentre outros.
+
+231
+00:08:09.179 --> 00:08:09.880
+Então pessoal.
+
+232
+00:08:09.890 --> 00:08:12.450
+É muito importante a gente se atentar
+
+233
+00:08:12.640 --> 00:08:14.839
+no lucro presumido na SF
+
+234
+00:08:15.200 --> 00:08:16.649
+das receitas financeiras,
+
+235
+00:08:16.920 --> 00:08:17.230
+né?
+
+236
+00:08:17.619 --> 00:08:19.070
+Que Eu detalho essa explicação
+
+237
+00:08:19.399 --> 00:08:21.339
+lá no nosso curso aqui do lucro presumido.
+
+238
+00:08:21.359 --> 00:08:22.799
+Mas é importante que vocês saibam,
+
+239
+00:08:23.040 --> 00:08:24.459
+principalmente você que está começando.
+
+240
+00:08:25.290 --> 00:08:28.519
+as receitas financeiras no lucro presumido,
+
+241
+00:08:29.250 --> 00:08:30.200
+elas são
+
+242
+00:08:30.559 --> 00:08:31.440
+e devem
+
+243
+00:08:31.809 --> 00:08:32.280
+ser
+
+244
+00:08:32.489 --> 00:08:33.479
+tributadas
+
+245
+00:08:33.650 --> 00:08:34.909
+quando do resgate.
+
+246
+00:08:35.989 --> 00:08:36.239
+né?
+
+247
+00:08:36.390 --> 00:08:36.799
+Ou seja,
+
+248
+00:08:36.909 --> 00:08:37.710
+quando eu resgato,
+
+249
+00:08:37.750 --> 00:08:38.960
+o banco faz a re- a
+
+250
+00:08:39.140 --> 00:08:40.229
+a retenção
+
+251
+00:08:40.590 --> 00:08:43.020
+do imposto faz a retenção do Imposto de Renda
+
+252
+00:08:43.308 --> 00:08:43.780
+e
+
+253
+00:08:44.109 --> 00:08:44.419
+me
+
+254
+00:08:44.789 --> 00:08:46.460
+libera o rendimento financeiro.
+
+255
+00:08:47.750 --> 00:08:48.869
+Então percebo que
+
+256
+00:08:49.559 --> 00:08:51.599
+nesse trimestre que eu resgatei,
+
+257
+00:08:51.719 --> 00:08:52.750
+eu tenho que informar.
+
+258
+00:08:53.159 --> 00:08:56.429
+Tenho que tributar melhor dizendo o rendimento
+
+259
+00:08:57.080 --> 00:08:58.789
+que obtive no trimestre
+
+260
+00:08:59.440 --> 00:09:05.119
+e compensar o imposto de renda retido sobre essa aplicação dentro desse trimestre.
+
+261
+00:09:06.549 --> 00:09:08.030
+e fazer as devidas contabilizações.
+
+262
+00:09:08.109 --> 00:09:09.520
+Obviamente que vai ter cruzamento
+
+263
+00:09:09.989 --> 00:09:11.539
+Se assim eu não o fizer.
+
+264
+00:09:12.979 --> 00:09:14.039
+Eu não posso.
+
+265
+00:09:14.729 --> 00:09:15.159
+né?
+
+266
+00:09:15.809 --> 00:09:19.200
+Compensar esse imposto de renda em mês subsequente
+
+267
+00:09:19.809 --> 00:09:20.770
+automático.
+
+268
+00:09:21.010 --> 00:09:23.140
+Aí eu terei que fazer perderom.
+
+269
+00:09:24.289 --> 00:09:24.440
+E.
+
+270
+00:09:24.450 --> 00:09:25.929
+Aí eu tenho que mudar toda a minha contabilidade.
+
+271
+00:09:26.010 --> 00:09:27.940
+Tenho que refazer a minha contabilidade porque está errada,
+
+272
+00:09:28.530 --> 00:09:29.159
+entendeu
+
+273
+00:09:30.280 --> 00:09:31.700
+Então eu reconheço,
+
+274
+00:09:31.969 --> 00:09:32.289
+ou melhor,
+
+275
+00:09:32.369 --> 00:09:34.890
+eu tributo a receita financeira
+
+276
+00:09:35.299 --> 00:09:36.789
+quando do resgate
+
+277
+00:09:37.369 --> 00:09:40.570
+e no mesmo trimestre que eu que eu que eu ofereci para a tributação,
+
+278
+00:09:40.900 --> 00:09:43.130
+eu compenso o imposto de renda retido na fonte.
+
+279
+00:09:43.859 --> 00:09:45.419
+Se eu não fizer isso dentro do trimestre,
+
+280
+00:09:45.780 --> 00:09:47.489
+eu só posso compensar via perde compra
+
+281
+00:09:48.140 --> 00:09:48.380
+Agora.
+
+282
+00:09:48.419 --> 00:09:50.010
+Eu tenho que tomar muito cuidado porque a
+
+283
+00:09:50.010 --> 00:09:53.099
+contabilização dessas receitas ela é por competência.
+
+284
+00:09:53.840 --> 00:09:55.179
+Então eu vou contabilizando todo mês
+
+285
+00:09:55.450 --> 00:09:58.799
+Então tem que ter um controle em relação às receitas financeiras.
+
+286
+00:09:59.280 --> 00:09:59.869
+Perfeito
+
+287
+00:10:00.080 --> 00:10:02.159
+Isso é um dificultômetro é do lucro presumido
+
+288
+00:10:02.440 --> 00:10:04.890
+e eu tenho que oferecer isso a tributação.
+
+289
+00:10:05.200 --> 00:10:07.710
+Foi aí que muita gente caiu na malha fiscal
+
+290
+00:10:08.000 --> 00:10:10.960
+da Receita Federal não estava tributando a receita financeira.
+
+291
+00:10:12.369 --> 00:10:15.809
+Só que os bancos fizeram a retenção informaram a receita via DIIF
+
+292
+00:10:16.090 --> 00:10:16.950
+ou GFD Ren
+
+293
+00:10:17.890 --> 00:10:19.289
+E aí tem cruzamento de dados,
+
+294
+00:10:19.539 --> 00:10:19.780
+né?
+
+295
+00:10:20.010 --> 00:10:20.880
+Receita pega
+
+296
+00:10:21.130 --> 00:10:21.770
+perfeito
+
+297
+00:10:22.010 --> 00:10:24.690
+Então todas as receitas ganho de capital,
+
+298
+00:10:24.809 --> 00:10:25.690
+receita financeira,
+
+299
+00:10:25.799 --> 00:10:26.780
+receita de aluguel
+
+300
+00:10:26.969 --> 00:10:32.479
+quando não for a atividade principal e et cetera são tributados Descontos obtidos
+
+301
+00:10:32.849 --> 00:10:33.719
+é tributado.
+
+302
+00:10:34.940 --> 00:10:36.330
+Sim é uma receita financeira.
+
+303
+00:10:36.739 --> 00:10:37.770
+Obtive o desconto.
+
+304
+00:10:38.099 --> 00:10:39.099
+É um absurdo tributar,
+
+305
+00:10:39.140 --> 00:10:39.609
+mas é.
+
+306
+00:10:40.059 --> 00:10:43.419
+Saibam que no lucro presumido todas as receitas são tributado,
+
+307
+00:10:43.739 --> 00:10:46.250
+sendo que eu vou apenas presumir
+
+308
+00:10:46.419 --> 00:10:47.739
+as atividades principais.
+
+309
+00:10:47.780 --> 00:10:49.010
+As demais é 100%,
+
+310
+00:10:49.059 --> 00:10:49.820
+não tem presunção,
+
+311
+00:10:50.140 --> 00:10:50.460
+tá.

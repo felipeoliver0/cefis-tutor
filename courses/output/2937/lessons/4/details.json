@@ -1,0 +1,33 @@
+{
+  "id": 471608,
+  "title": "NFF o que é na prática",
+  "position": 4,
+  "duration": 287,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a0235ca0-4820-40e9-ad73-2554bb3497c3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a0235ca0-4820-40e9-ad73-2554bb3497c3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a0235ca0-4820-40e9-ad73-2554bb3497c3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a0235ca0-4820-40e9-ad73-2554bb3497c3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a0235ca0-4820-40e9-ad73-2554bb3497c3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

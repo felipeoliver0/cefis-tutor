@@ -1,0 +1,501 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.320
+Aí eu vou para o bloco C, são recuperadas da escrituração contábil anterior.
+
+3
+00:00:06.320 --> 00:00:12.960
+Então, nesse bloco aqui, olha lá, o registro do bloco C não precisa ser importado, não,
+
+4
+00:00:12.960 --> 00:00:18.820
+pois são preenchidos pelo próprio programa gerador de inscrição do SPED contábil,
+
+5
+00:00:18.820 --> 00:00:25.780
+após a recuperação das informações da ECD anterior feita pelo usuário do programa
+
+6
+00:00:25.780 --> 00:00:29.140
+no menu escrituração, recuperar a escrituração anterior.
+
+7
+00:00:29.140 --> 00:00:34.979
+Então, quando eu recupero, o próprio PGE vai preencher o bloco C, então eu não tenho
+
+8
+00:00:34.979 --> 00:00:41.439
+mando no bloco C, e não poderia ser diferente, porque ele está confrontando se aquilo que
+
+9
+00:00:41.439 --> 00:00:46.539
+eu entreguei é realmente, se o saldo final daquilo que nós entregamos é o saldo inicial
+
+10
+00:00:46.539 --> 00:00:52.079
+daquilo que eu vou entregar agora, no mínimo, tem que bater, se eu não mexer no programa.
+
+11
+00:00:52.079 --> 00:00:59.119
+Está lá a observação, a ECD indica para recuperar, a ECD indicada para recuperar
+
+12
+00:00:59.119 --> 00:01:07.719
+a recuperação, não pode ter o mesmo número de ordem igual a outra ECD, do mesmo CNPJ,
+
+13
+00:01:07.719 --> 00:01:14.560
+CNPJ de ACP, se houver, e MIRI, se houver, não pode ser o mesmo, não tem como, existente
+
+14
+00:01:14.560 --> 00:01:20.159
+na base local do programa, independentemente do ano-calendário, então temos que tomar
+
+15
+00:01:20.159 --> 00:01:22.200
+essa cautela também.
+
+16
+00:01:22.200 --> 00:01:28.959
+Aqui novamente o registro 180, identificação dos participantes, como nós comentamos, matriz, filial,
+
+17
+00:01:28.959 --> 00:01:34.799
+coligada, controladora, controlada, controlada, exceto subsidiaria integral, subsidiaria
+
+18
+00:01:34.799 --> 00:01:42.359
+integral, em conjunto, propósito específico, participante do conglomerado e vinculadas.
+
+19
+00:01:42.359 --> 00:01:47.900
+E temos aí o número 11, localizado em país com tributação favorecida, são os famosos
+
+20
+00:01:47.900 --> 00:01:54.219
+paraísos fiscais, está lá o artigo 24 da Lei nº 9.430, exceto as que se enquadrem
+
+21
+00:01:54.219 --> 00:01:58.319
+nos tipos precedentes, é importante.
+
+22
+00:01:58.319 --> 00:02:03.140
+Tem o comentário de alguns códigos, então, isso está simples lá para vocês, como eu
+
+23
+00:02:03.140 --> 00:02:08.500
+estou explicando, vocês não vão manipular isso, já está tudo parametrizado, vocês
+
+24
+00:02:08.500 --> 00:02:13.180
+vão recorrer a essa teoria, caso tenha erro, caso tenha algum problema com os códigos,
+
+25
+00:02:13.180 --> 00:02:14.639
+vocês vão lá para verificar.
+
+26
+00:02:14.639 --> 00:02:20.740
+Então o código, o primeiro código, o registro I-050 é o plano de contas, que já está
+
+27
+00:02:20.740 --> 00:02:27.199
+cadastrado, parametrizado, tudo, mas enfim, de acordo com o item 8 da norma contábil
+
+28
+00:02:27.199 --> 00:02:28.199
+CTG 2001,
+
+29
+00:02:28.319 --> 00:02:34.080
+como revisão 3, ela define as formalidades de escrituração contábil em forma digital
+
+30
+00:02:34.080 --> 00:02:40.280
+para fins de atendimento do SPED, essa é a grande verdade, então o Conselho Federal
+
+31
+00:02:40.280 --> 00:02:45.719
+tem uma norma para fins do SPED, que é o plano de contas, com todas as suas contas
+
+32
+00:02:45.719 --> 00:02:53.599
+sintéticas e analíticas, deve conter no mínimo quatro níveis e é parte integrante
+
+33
+00:02:53.599 --> 00:02:57.139
+da escrituração contábil da empresa, devendo seguir a estrutura patrimonial prevista pela
+
+34
+00:02:57.139 --> 00:02:58.139
+Lei nº 9.430.
+
+35
+00:02:58.319 --> 00:03:14.020
+Então, eu tenho lá um ativo, 1.1 ativo circulante, 1.1.1 caixa equivalente de caixa, 1.1.1.1.2
+
+36
+00:03:14.020 --> 00:03:19.419
+seria caixa, então no mínimo quatro níveis, esses são os níveis, entendeu?
+
+37
+00:03:19.419 --> 00:03:25.319
+Então até eu chegar na analítica eu tenho três níveis sintéticos, perfeito?
+
+38
+00:03:25.319 --> 00:03:27.960
+Posso ter dez, doze, no mínimo quatro.
+
+39
+00:03:28.319 --> 00:03:31.759
+Aí depende do porte da empresa, do plano de contas, etc.
+
+40
+00:03:31.759 --> 00:03:34.259
+É isso que são os níveis, perfeito?
+
+41
+00:03:34.259 --> 00:03:42.180
+Na transmissão para o SPED do plano de contas, juntamente com o diário e auxiliares e documentos
+
+42
+00:03:42.180 --> 00:03:47.199
+da escrituração contábil digital da entidade, deve constar apenas as contas que têm um
+
+43
+00:03:47.199 --> 00:03:51.879
+saldo ou que tiveram movimentação no período completo da ECD.
+
+44
+00:03:51.879 --> 00:03:56.319
+Então, se eu tenho uma conta que não ocorreu movimentação nenhuma durante o ano, ela
+
+45
+00:03:56.319 --> 00:03:57.319
+não vai aparecer.
+
+46
+00:03:57.319 --> 00:04:02.139
+Agora, se ela teve uma movimentação, mesmo que ela terminou com saldo zero, ela tem que
+
+47
+00:04:02.139 --> 00:04:04.939
+aparecer, porque tem movimentação, entendeu?
+
+48
+00:04:04.939 --> 00:04:09.939
+Então é isso que nós queremos dizer aqui, lá no registro I-050, que é o plano de contas.
+
+49
+00:04:09.939 --> 00:04:16.339
+Se a empresa transmitir a ECD em diversos arquivos, ainda que a conta termine com saldo
+
+50
+00:04:16.339 --> 00:04:20.759
+zero em um arquivo, deve constar no plano de contas de todos os arquivos, perfeito?
+
+51
+00:04:20.759 --> 00:04:25.079
+Que é aquilo que nós comentamos, tem a movimentação, tem que constar, não tem como.
+
+52
+00:04:25.079 --> 00:04:26.759
+E aqui é bem interessante.
+
+53
+00:04:26.759 --> 00:04:27.319
+Né?
+
+54
+00:04:27.319 --> 00:04:30.939
+Porque eu descobri isso aqui quando eu estava fazendo o curso presencial.
+
+55
+00:04:30.939 --> 00:04:36.540
+Então, eu criei um plano de contas, manual, aqui manual, para eu fazer o teste.
+
+56
+00:04:36.540 --> 00:04:40.420
+Criei plano de contas, criei centro de custo, criei histórico padrão, é simples para
+
+57
+00:04:40.420 --> 00:04:41.420
+você criar.
+
+58
+00:04:41.420 --> 00:04:45.319
+O problema é fazer a contabilização, depois tem que fazer o débito, o crédito, preencher
+
+59
+00:04:45.319 --> 00:04:46.319
+um monte de dados.
+
+60
+00:04:46.319 --> 00:04:52.180
+É muito demorado, é muito demorado, e um dos principais problemas que eu encontrava
+
+61
+00:04:52.180 --> 00:04:57.319
+nas minhas aulas presenciais, que eram aulas práticas, com vários computadores de laboratório,
+
+62
+00:04:57.319 --> 00:05:03.079
+é que eu tinha as pessoas, um era mais rápido, outro era mais lento, outro era muito lento,
+
+63
+00:05:03.079 --> 00:05:05.720
+então acabava atrapalhando o andamento das aulas, né?
+
+64
+00:05:05.720 --> 00:05:09.519
+E cada um fazia do seu jeito, então ficava complicado.
+
+65
+00:05:09.519 --> 00:05:12.860
+Aí, a partir que eu montei isso aqui, ficou igual para todo mundo.
+
+66
+00:05:12.860 --> 00:05:21.220
+Então assim, eu montei aqui um plano de contas, você vê um ativo, um arquivo, 2.1.1 ativo,
+
+67
+00:05:21.220 --> 00:05:25.459
+3.1.1 ativo circulante, depois caixa equivalente, aí vai, né?
+
+68
+00:05:25.459 --> 00:05:26.459
+Então, ó.
+
+69
+00:05:26.459 --> 00:05:33.839
+Eu criei aqui o 4.1.1.1.2, caixa equivalente de caixa filial Campinas, tá?
+
+70
+00:05:33.839 --> 00:05:36.180
+É uma conta analítica.
+
+71
+00:05:36.180 --> 00:05:43.139
+Depois, eu esqueci da filial Bauru, aí eu fui abrir, olha onde ela me joga lá, ela
+
+72
+00:05:43.139 --> 00:05:46.959
+não joga em sequência, ela jogou lá embaixo, ó.
+
+73
+00:05:46.959 --> 00:05:51.079
+E aí eu fazia, fazia como tinha muitas contas, né, e eu não vi, eu falei, mas eu criei
+
+74
+00:05:51.079 --> 00:05:52.699
+e não aparecia, né?
+
+75
+00:05:52.699 --> 00:05:53.699
+Por quê?
+
+76
+00:05:53.699 --> 00:05:56.459
+Porque ele ordena por ordem de criação das contas.
+
+77
+00:05:56.459 --> 00:05:57.459
+Tá?
+
+78
+00:05:57.459 --> 00:06:00.720
+Então ele joga lá embaixo, ó, filial Bauru.
+
+79
+00:06:00.720 --> 00:06:08.939
+Ou seja, eu comento aqui que quando dá criação de novas contas no plano de contas, não necessariamente
+
+80
+00:06:08.939 --> 00:06:14.740
+elas aparecerão em ordem cronológica, como no exemplo citado, deveria, né?
+
+81
+00:06:14.740 --> 00:06:18.939
+Deveria vir logo aqui abaixo, mas não, foi lá para baixo, lá no último, entenderam?
+
+82
+00:06:18.939 --> 00:06:23.180
+Só para vocês ficarem atentos com relação a isso, tá?
+
+83
+00:06:23.180 --> 00:06:25.879
+O C050, o que que é esse registro?
+
+84
+00:06:25.879 --> 00:06:26.879
+Plano de contas recuperado.
+
+85
+00:06:26.879 --> 00:06:33.519
+O registro C050 identifica o plano de contas referente ao arquivo da ECD que foi recuperado
+
+86
+00:06:33.519 --> 00:06:36.240
+lá no registro I050.
+
+87
+00:06:36.240 --> 00:06:42.800
+O C051, plano de contas referencial recuperado, é o plano de contas da ECD Federal, né?
+
+88
+00:06:42.800 --> 00:06:49.439
+O registro C051 identifica o plano de contas referencial referente ao arquivo da ECD que
+
+89
+00:06:49.439 --> 00:06:53.879
+foi recuperado lá no registro I051, tá?
+
+90
+00:06:53.879 --> 00:06:54.879
+Depois, nós temos o C051.
+
+91
+00:06:54.879 --> 00:06:55.879
+C051.
+
+92
+00:06:55.879 --> 00:07:01.379
+C052, identificação do código de aglutinação recuperado.
+
+93
+00:07:01.379 --> 00:07:06.759
+O C052 identifica o código de aglutinação referente aos arquivos da ECD recuperado.
+
+94
+00:07:06.759 --> 00:07:12.120
+O código de aglutinação é o código que eu vou utilizar no exemplo que eu dei dos
+
+95
+00:07:12.120 --> 00:07:13.120
+bancos, né?
+
+96
+00:07:13.120 --> 00:07:16.160
+Itaú, Bradesco, Caixa Econômica, Banco do Brasil, Santander.
+
+97
+00:07:16.160 --> 00:07:20.279
+Eu vou usar um código de aglutinação que eu vou colocar todos eles para uma única
+
+98
+00:07:20.279 --> 00:07:24.879
+conta lá no referencial, chamado bancos nacional, bancos no país.
+
+99
+00:07:24.879 --> 00:07:27.500
+Então, eu vou usar esse código de aglutinação.
+
+100
+00:07:27.500 --> 00:07:32.899
+O C052, ele está resgatando os códigos recuperados, perfeito?
+
+101
+00:07:32.899 --> 00:07:37.339
+Que é nesses códigos de aglutinação que eu monto o balanço do jeito que eu quiser,
+
+102
+00:07:37.339 --> 00:07:43.120
+que eu monto a DRE, que eu defendo que seja uma DRE não muito sintética, mas também
+
+103
+00:07:43.120 --> 00:07:46.139
+não muito analítica, um meio termo.
+
+104
+00:07:46.139 --> 00:07:51.379
+Do mesmo jeito, o balanço, não vou fazer muito sintético, mas também não muito analítico.
+
+105
+00:07:51.379 --> 00:07:52.379
+Por quê?
+
+106
+00:07:52.379 --> 00:07:53.879
+Porque esses documentos eu posso mandar para um banco.
+
+107
+00:07:53.879 --> 00:07:54.879
+Por quê?
+
+108
+00:07:54.879 --> 00:07:59.420
+Porque posso mandar para uma licitação, posso mandar para um fornecedor, posso servir
+
+109
+00:07:59.420 --> 00:08:04.040
+para a diretoria para análise, então tem que ser um pouquinho mais aberto, não muito.
+
+110
+00:08:04.040 --> 00:08:09.759
+Quem aglutina e quem elabora é você, a tua parametrização, perfeito?
+
+111
+00:08:09.759 --> 00:08:10.759
+Então é sempre assim.
+
+112
+00:08:10.759 --> 00:08:16.860
+O C150, saldos periódicos recuperados, identificação do período.
+
+113
+00:08:16.860 --> 00:08:24.540
+O registro C150 identifica o período dos saldos recuperados da ECD anterior, tá?
+
+114
+00:08:24.540 --> 00:08:29.480
+O C155 é o detalhe dos saldos dos períodos recuperados.
+
+115
+00:08:29.480 --> 00:08:33.340
+Demonstra saldo recuperado da ECD anterior de acordo com o período, o famoso débito
+
+116
+00:08:33.340 --> 00:08:34.340
+de crédito.
+
+117
+00:08:34.340 --> 00:08:40.600
+O C600, demonstrações contábeis recuperadas, informa as demonstrações contábeis que foram
+
+118
+00:08:40.600 --> 00:08:44.600
+recuperadas, balanço, DRE, balancetes, etc.
+
+119
+00:08:44.600 --> 00:08:52.019
+O C650, demonstração do resultado, então aqui demonstrações contábeis e aqui a DRE
+
+120
+00:08:52.019 --> 00:08:53.700
+recuperada da ECD anterior.
+
+121
+00:08:53.700 --> 00:08:54.379
+C155.
+
+122
+00:08:54.379 --> 00:08:59.899
+Então vocês viram que ali são alguns blocos, pra que serve cada um?
+
+123
+00:08:59.899 --> 00:09:05.200
+Então se tiver algum erro e aparecer o bloco, opa, você clicando em cima ele vai te levar
+
+124
+00:09:05.200 --> 00:09:09.559
+pra lá e você vai analisar mediante essas informações qual é o tipo de erro, porque
+
+125
+00:09:09.559 --> 00:09:10.960
+que tá dando erro, né?
+
+126
+00:09:10.960 --> 00:09:12.580
+E aí ajustar, tá?

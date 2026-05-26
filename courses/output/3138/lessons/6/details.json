@@ -1,0 +1,33 @@
+{
+  "id": 475079,
+  "title": "O Que é o Bloco K?",
+  "position": 6,
+  "duration": 118,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8d6ca167-8e4b-4e42-8e9f-72f696c3b595/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d6ca167-8e4b-4e42-8e9f-72f696c3b595/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d6ca167-8e4b-4e42-8e9f-72f696c3b595/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d6ca167-8e4b-4e42-8e9f-72f696c3b595/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d6ca167-8e4b-4e42-8e9f-72f696c3b595/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

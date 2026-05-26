@@ -1,0 +1,217 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:29.980
+Continuando nossa aula pessoal, temos aqui uma outra condição de contorno que é usar a IA para resumir textos fornecidos e conferir uma fonte oficial, então isso aqui está conectado um pouquinho ali com a última parte que eu falei, a IA entende a legislação atual e automaticamente, como eu disse a IA pode estar desatualizada em relação às mais novas legislações e aí podemos usar a IA para resumir textos e vamos sempre conferir a fonte oficial.
+
+3
+00:00:30.000 --> 00:00:57.000
+Um outro ponto aqui pessoal, entre aspas, se eu mandar dados do cliente, não tem problema, isso a gente vai explorar ainda mais, ainda na aula de hoje, é um assunto importantíssimo de LGPD e colocamos aqui, realidade, risco de LGPD, sigilo, vazamento e compliance.
+
+4
+00:00:57.000 --> 00:00:59.000
+Então temos um contorno oficial.
+
+5
+00:01:00.000 --> 00:01:24.700
+Um outro contorno para isso, uma forma de trabalhar com isso que é anonimizar os dados, então você tem lá cliente, você tem lá o nome do cliente, antes de mandar para a IA você troca por cliente X, cliente 1, cliente 2, tem uma política interna definida para isso e cria controles para garantir que isso aconteça.
+
+6
+00:01:24.700 --> 00:01:29.700
+Pessoal, isso é uma abordagem muito importante.
+
+7
+00:01:30.000 --> 00:01:58.959
+Lembrem que você como contador, você como dono de escritório contábil é responsável pelos documentos que estão em sua posse, pelas informações contábeis do cliente e eventualmente você pode acabar por uma facilidade ou outra querendo enviar isso para uma IA para fazer um resumo, uma análise, alguma outra operação.
+
+8
+00:01:58.959 --> 00:01:59.959
+E pessoal...
+
+9
+00:02:00.000 --> 00:02:29.099
+Pessoal, você está mandando essa informação para os servidores da IA que estão na nuvem, inclusive podem e provavelmente estão fora do Brasil, a partir desse momento você não tem controle total desses dados, e aí que vem a questão de LGPD que nós estávamos conversando, eventualmente por uma questão legal, a empresa da IA pode ser obrigada a liberar esses dados e esses dados podem estar juntos.
+
+10
+00:02:30.000 --> 00:02:32.340
+E quando isso acontecer, nós vamos ver o que pode acontecer.
+
+11
+00:02:32.340 --> 00:02:36.240
+Pessoal, o fato é que esses dados foram para uma outra máquina.
+
+12
+00:02:36.240 --> 00:02:43.539
+Eventualmente pode ter um ataque cibernético e esses dados vazarem, e foi você que forneceu.
+
+13
+00:02:43.539 --> 00:02:59.159
+Então, o que a gente tá reforçando aqui é que os dados saem do seu controle, os dados vão estar hospedados em um lugar que por N motivos fora do nosso controle podem eventualmente vazarem, serem disponibilizados ou pior…
+
+14
+00:02:59.159 --> 00:03:07.439
+E o pior, acidentalmente, eventualmente, serem usados na IA para IA aprender algo.
+
+15
+00:03:08.099 --> 00:03:14.599
+E agora imagine uma situação que hoje é difícil de acontecer, mas em algum cenário poderia acontecer,
+
+16
+00:03:15.120 --> 00:03:21.599
+alguém fazer uma pergunta para IA e ela lembrar do documento que você mandou e falar
+
+17
+00:03:21.599 --> 00:03:29.620
+Ah, me dê um exemplo de uma empresa que está no lucro real e teve faturamento de tanto,
+
+18
+00:03:29.840 --> 00:03:32.020
+embora esses dados sejam públicos, né pessoal?
+
+19
+00:03:32.719 --> 00:03:38.680
+Mas você pode fazer uma pergunta ali para IA e de repente ela pergunta com o dado que você tinha fornecido.
+
+20
+00:03:39.500 --> 00:03:43.379
+Hoje, pessoal, as IAs têm isolado os dados.
+
+21
+00:03:43.939 --> 00:03:50.360
+O dado que você mandou não vai ser usado para ser disponibilizado para outros usuários, em geral.
+
+22
+00:03:50.360 --> 00:03:55.719
+Mas você mandou os dados e, eventualmente, uma falha pode ocasionar isso.
+
+23
+00:03:56.219 --> 00:04:02.840
+Bom, pessoal, seguindo aqui no nosso fluxo da nossa aula de IA para contadores,
+
+24
+00:04:03.379 --> 00:04:04.879
+temos uma outra afirmação aqui.
+
+25
+00:04:05.259 --> 00:04:09.080
+A IA resolve o processo complexo sozinha.
+
+26
+00:04:09.960 --> 00:04:16.540
+A realidade é que ela não garante a consistência de ponta a ponta sem um desenho do processo.
+
+27
+00:04:16.540 --> 00:04:19.220
+A IA não vai ter essa visão geral.
+
+28
+00:04:19.220 --> 00:04:21.680
+E não vai conseguir garantir isso para você.
+
+29
+00:04:22.920 --> 00:04:27.800
+Como contorno, podemos quebrar isso em etapas e instruir a IA.
+
+30
+00:04:28.439 --> 00:04:32.220
+Podemos passar essas instruções para a IA e colocar pontos de validação,
+
+31
+00:04:33.079 --> 00:04:40.259
+inclusive com humanos, pessoas, analisando resultados intermediários, fazendo registros,
+
+32
+00:04:40.600 --> 00:04:45.500
+para garantir que o resultado seja coerente.
+
+33
+00:04:46.019 --> 00:04:49.139
+Então, aqui temos uma frase de ouro desse módulo.
+
+34
+00:04:49.459 --> 00:04:50.600
+De IA para contadores.
+
+35
+00:04:51.240 --> 00:04:53.899
+IA não é um piloto automático.
+
+36
+00:04:54.620 --> 00:04:56.860
+É um copiloto com checklist.
+
+37
+00:04:58.279 --> 00:05:00.500
+Então, vejam como isso é interessante.
+
+38
+00:05:00.660 --> 00:05:03.360
+É uma frase simples, mas bastante profunda.
+
+39
+00:05:03.959 --> 00:05:08.920
+Você não vai pedir para a IA ficar fazendo tudo sozinha.
+
+40
+00:05:09.720 --> 00:05:12.720
+Embora já existam tecnologias que fazem isso.
+
+41
+00:05:12.720 --> 00:05:16.720
+Mas ainda existe muita cautela no uso dessas tecnologias.
+
+42
+00:05:17.920 --> 00:05:18.720
+A IA, de fato...
+
+43
+00:05:19.220 --> 00:05:24.740
+De forma confiável e produtiva, pode ser usada como um copiloto.
+
+44
+00:05:24.899 --> 00:05:29.439
+Em que você passa instruções, supervisiona, passa um checklist
+
+45
+00:05:29.439 --> 00:05:36.639
+e ela vai fazer um trabalho que pode economizar muito tempo do seu escritório.
+
+46
+00:05:37.220 --> 00:05:39.879
+Está em desenvolvimento, estudo e testes.
+
+47
+00:05:39.939 --> 00:05:43.720
+IAs que funcionam como se fosse um piloto automático para você.
+
+48
+00:05:43.720 --> 00:05:48.699
+E já estão acontecendo algumas coisas um pouco estranhas.
+
+49
+00:05:48.839 --> 00:05:48.920
+Críticas.
+
+50
+00:05:49.759 --> 00:05:56.379
+Então, algumas pessoas já estão testando IAs que funcionam de forma parecida com um piloto automático.
+
+51
+00:05:56.480 --> 00:05:58.420
+A IA está fazendo compra para a pessoa.
+
+52
+00:05:58.800 --> 00:06:02.120
+A IA está respondendo em nome da pessoa que a pessoa não queria.
+
+53
+00:06:02.699 --> 00:06:07.800
+Então, ainda tem um pouquinho de tempo de amadurecimento dessas tecnologias.
+
+54
+00:06:07.800 --> 00:06:13.879
+Que, em breve, talvez também estejam acessíveis para os escritórios contábeis.
+
+55
+00:06:14.339 --> 00:06:17.500
+E traremos aqui para uma próxima aula na Cefis.

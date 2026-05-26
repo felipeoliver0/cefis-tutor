@@ -1,0 +1,33 @@
+{
+  "id": 479443,
+  "title": "Registros contábeis",
+  "position": 28,
+  "duration": 533,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/81e1b9e6-9d7f-4ab5-a150-6d857d4e2862/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81e1b9e6-9d7f-4ab5-a150-6d857d4e2862/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81e1b9e6-9d7f-4ab5-a150-6d857d4e2862/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81e1b9e6-9d7f-4ab5-a150-6d857d4e2862/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81e1b9e6-9d7f-4ab5-a150-6d857d4e2862/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

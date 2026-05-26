@@ -1,0 +1,112 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.840
+-  Qual a comparação entre os processos? A gente conversou já sobre isso, né?
+
+00:00:04.840 --> 00:00:08.720
+-  Falando sobre a DCTF convencional e a DCTF web.
+
+00:00:08.720 --> 00:00:15.400
+-  O que mudou, de fato, foi a gente, na verdade, utilizar o MIT para incluir os tributos
+
+00:00:15.400 --> 00:00:20.360
+-  que não estavam dentro da composição da DCTF web.
+
+00:00:20.360 --> 00:00:25.240
+-  Porque era uma integração vinda do UFD-REINF e vinda do E-Social.
+
+00:00:25.240 --> 00:00:30.480
+-  E o UFD-Contribuições ECF, o ESPED Fiscal, não tinha integração web.
+
+00:00:30.480 --> 00:00:33.920
+-  Então por isso que o Fisco criou essa nova funcionalidade.
+
+00:00:33.920 --> 00:00:39.720
+-  Então o MIT substitui a DCTF mensal, que era a DCTF convencional.
+
+00:00:39.720 --> 00:00:47.000
+-  Então todas as empresas que estavam na obrigatoriedade de enviar a DCTF convencional via programa
+
+00:00:47.000 --> 00:00:51.880
+-  passam a trazer a obrigatoriedade para a DCTF web.
+
+00:00:51.880 --> 00:00:53.680
+-  E as empresas do Simples?
+
+00:00:53.680 --> 00:01:00.920
+-  As empresas do Simples, elas só são obrigadas a declarar a DCTF web se ela tiver a particularidade
+
+00:01:00.920 --> 00:01:06.560
+-  de folha de pagamento em fazer o cálculo por fora das contribuições, porque todos
+
+00:01:06.560 --> 00:01:13.680
+-  os tributos que incidem em Fisco, Fins, IPI e RPJC-CLL estão na unificação do PGDAS.
+
+00:01:13.680 --> 00:01:19.440
+-  Então não teria motivo pelo qual o Fisco colocar as empresas do Simples Nacional para
+
+00:01:19.440 --> 00:01:21.160
+-  dentro do MIT.
+
+00:01:21.160 --> 00:01:26.760
+-  Então, apenas se o seu cliente tiver uma particularidade de recolher as contribuições
+
+00:01:26.760 --> 00:01:33.400
+-  previdenciárias e os tributos federais por fora, que aí sim ele passa a ter a obrigatoriedade
+
+00:01:33.400 --> 00:01:37.280
+-  de entrega da DCTF web e, consequentemente, ao MIT.
+
+00:01:37.280 --> 00:01:42.560
+-  E para ele entregar, por exemplo, uma contribuição previdenciária fora do CPP no Simples, ele
+
+00:01:42.560 --> 00:01:44.920
+-  precisa ter entrega via social.
+
+00:01:44.920 --> 00:01:50.800
+-  Então veja que é tudo em conjunto, tudo existe uma restabilidade de informação.
+
+00:01:50.800 --> 00:01:57.680
+-  O que eu vou fazer aqui com vocês, eu vou deixar alguns relatórios também em paralelo
+
+00:01:57.680 --> 00:02:03.680
+-  para que vocês consigam analisar os relatórios do MIT na DCTF web e que consiga facilitar
+
+00:02:03.680 --> 00:02:04.680
+-  o seu processo.
+
+00:02:04.680 --> 00:02:09.960
+-  Então, eu vou deixar em anexo aqui também, dentro dessa aula, alguns materiais complementares
+
+00:02:09.960 --> 00:02:12.920
+-  para que vocês consigam validar os seus fechamentos.
+
+00:02:12.920 --> 00:02:18.560
+-  E eu espero que eu tenha conseguido contribuir com vocês para essa análise do que foi a
+
+00:02:18.560 --> 00:02:25.800
+-  DCTF convencional, do que de fato está sendo válida para a DCTF web, que ela saiu o objetivo
+
+00:02:25.800 --> 00:02:31.240
+-  dela em trazer apenas as confissões e os débitos, mas ela também é uma ferramenta
+
+00:02:31.240 --> 00:02:35.440
+-  de incluir os DARFs para pagamento.
+
+00:02:35.440 --> 00:02:40.280
+-  Então, a gente teve que passar por um processo de adaptação e o fisco também.
+
+00:02:40.280 --> 00:02:45.400
+-  E além disso, a nova funcionalidade que podemos chamar de obrigação acessória chamada MIT.
+
+00:02:45.400 --> 00:02:52.280
+-  Então, agora provavelmente você tem entendido o motivo pelo qual o fisco criou o MIT dentro
+
+00:02:52.280 --> 00:02:59.680
+-  da DCTF web, porque temos obrigações acessórias, porém de forma offline e o fisco vem trabalhando
+
+00:02:59.680 --> 00:03:02.440
+-  a cada dia com obrigações acessórias web.
+
+00:03:02.440 --> 00:03:07.320
+-  A nova era tributária está chegando e ele está fazendo isso usando o XML do nosso contribuinte.

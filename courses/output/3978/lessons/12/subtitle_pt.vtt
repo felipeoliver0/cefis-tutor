@@ -1,0 +1,202 @@
+WEBVTT
+
+00:00:00.130 --> 00:00:05.412
+- Vamos falar de fixos salariais? Todas aquelas rúbricas que a gente amarra no sistema, ele vai apurar
+
+00:00:05.412 --> 00:00:11.056
+- pra gente, a gente só faz a consulta. Então vamos lá, pessoal. Proventos, salário adiantamento adicional
+
+00:00:11.056 --> 00:00:16.338
+- noturno em situações que o trabalhador só atua naquela jornada entre 22h e 5h da manhã. Adicional
+
+00:00:16.338 --> 00:00:21.672
+- de insalubridade, periculosidade e salário família. Tudo isso eu marco no meu sistema, o parâmetro,
+
+00:00:21.672 --> 00:00:25.918
+- ele já vai calcular automático. Não precisa ficar digitando variável no mês.
+
+00:00:26.498 --> 00:00:33.849
+- Nós temos também aqui um recibo de pagamento que vai facilitar o seu entendimento. Lembrando, o recibo
+
+00:00:33.849 --> 00:00:41.200
+- é dividido em três partes, o cabeçalho, a parte das rúbricas e o rodapé. O que a gente vai começar
+
+00:00:41.200 --> 00:00:48.621
+- a interpretar? Salário normal, referência e provento. Neste exemplo, o trabalhador tem 680 de salário.
+
+00:00:48.621 --> 00:00:54.782
+- Aqui embaixo, no rodapé, vocês já sabem que ele busca essa informação do cadastro.
+
+00:00:55.458 --> 00:01:00.821
+- Logo em seguida, pessoal, vamos ver aqui um fixo também, que é uma apuração automática
+
+00:01:00.821 --> 00:01:06.651
+- de um adiantamento. Olha que legal. Eu tenho o lançamento do adiantamento, referência 40% sobre o
+
+00:01:06.651 --> 00:01:12.948
+- salário e vocês vão ver que vai estar lá na parte de provento. Ainda abaixo, a gente coloca a fórmula,
+
+00:01:12.948 --> 00:01:18.836
+- 40% sobre R$ 1.680, a informação sempre no rodapé. Vocês podem ver que é uma dinâmica, a gente
+
+00:01:18.836 --> 00:01:23.966
+- está tendo um treinamento aqui muito simplificado para facilitar o nosso entendimento.
+
+00:01:24.674 --> 00:01:32.842
+- Agora nós vamos para a parte do adicional da insalubridade. Primeiro, recordada a legislação.
+
+00:01:32.842 --> 00:01:41.683
+- Mínimo 10%, médio 20% e máximo 40%. A insalubridade já colocou a legislação, ela é aplicada sobre
+
+00:01:41.683 --> 00:01:49.598
+- o salário mínimo. Ok, pessoal? Então vamos lá. Nós temos aqui salário R$ 1.680, porém,
+
+00:01:50.210 --> 00:01:58.151
+- Essa insalubridade é mínima, é de 10%. 10% sobre R$ 1.518,00, vai dar R$ 1,5180,00, ok? Então vocês
+
+00:01:58.151 --> 00:02:05.789
+- vão poder ver que está lá, salário mínimo 10%. Agora eu vou trazer um outro exemplo, um exemplo
+
+00:02:05.789 --> 00:02:13.729
+- que a gente tem que se atentar, que é a apuração proporcional que muitas empresas percebem no direito
+
+00:02:13.729 --> 00:02:15.166
+- de querer aplicar.
+
+00:02:15.746 --> 00:02:21.139
+- A apuração proporcional para o adicional de insalubridade não é permitida de acordo com
+
+00:02:21.139 --> 00:02:27.118
+- essa jurisprudência. O trabalhador não fica exposto apenas um momento a um ambiente insalubre e ele
+
+00:02:27.118 --> 00:02:32.980
+- vai ganhar proporcional ao momento que ele fica exposto. Se ele fica exposto é porque faz parte da
+
+00:02:32.980 --> 00:02:39.018
+- responsabilidade de cargo que ele é atribuído. Então, essa incidência, esse pagamento do adicional
+
+00:02:39.018 --> 00:02:41.246
+- de insalubridade sempre será de modo
+
+00:02:41.346 --> 00:02:47.491
+- integral e nunca proporcional de acordo com esta jurisprudência que eu coloco à disposição para
+
+00:02:47.491 --> 00:02:54.251
+- vocês. Logo em seguida, pessoal, nós vamos ver agora a periculosidade. Periculosidade, que é a exposição
+
+00:02:54.251 --> 00:03:00.397
+- do trabalhador ao perigo. Isso faz com que ele tenha um percentual de 30% sobre o salário. E aqui,
+
+00:03:00.397 --> 00:03:06.542
+- alguns cargos que vão exigir essa apuração. Vejam que legal, né? Nesse recibo, a gente tem aqui
+
+00:03:06.542 --> 00:03:09.246
+- a insalubridade, a periculosidade, perdão,
+
+00:03:09.826 --> 00:03:16.401
+- de 504 reais, que significa 30% sobre o salário base do empregado. Fácil entendimento, é uma pura
+
+00:03:16.401 --> 00:03:22.975
+- ação que a gente coloca no recibo do empregado. A gente está fazendo essa dinâmica utilizando um
+
+00:03:22.975 --> 00:03:29.745
+- modelo de recibo de pagamento para facilitar o entendimento de vocês. Mas se vocês quiserem trabalhar
+
+00:03:29.745 --> 00:03:34.302
+- com o relatório da Folha, também facilita a interpretação. Agora,
+
+00:03:34.530 --> 00:03:41.241
+- Eu trago a mesma súmula com o mesmo instrumento normativo, que é uma súmula com uma outra enumeração
+
+00:03:41.241 --> 00:03:47.889
+- sobre periculosidade. Não é permitido o cálculo proporcional, tá? Então, o trabalhador fica exposto
+
+00:03:47.889 --> 00:03:54.411
+- ao perigo, ele vai ter direito 30% sobre o seu salário base, com base nessa súmula. Sempre pagamento
+
+00:03:54.411 --> 00:04:01.502
+- de modo integral, ok, pessoal? Agora falaremos sobre o salário família. E olha que legal o salário família.
+
+00:04:01.602 --> 00:04:09.193
+- depende daquela remuneração, né? Até R$ 1.980 e pouquinhos. Isso vai fazer com que o empregado tenha
+
+00:04:09.193 --> 00:04:16.639
+- direito a R$ 65,00. Essa informação no recibo, ela aparece assim, como provento. No resumo da folha,
+
+00:04:16.639 --> 00:04:23.869
+- ela vai vir abatendo o valor da guia, tá? O empregado só tem ali a responsabilidade de demonstrar
+
+00:04:23.869 --> 00:04:28.062
+- a certidão de nascimento do seu dependente. Ok, pessoal?
+
+00:04:28.962 --> 00:04:35.467
+- Vamos para o próximo? Fixos salariais agora desconto. Nós temos o adiantamento que vai ser feito o
+
+00:04:35.467 --> 00:04:42.035
+- lançamento automático, INSS, Impor de Renda ou Vale Transporte e a mensalidade sindical. Vamos ver?
+
+00:04:42.035 --> 00:04:48.862
+- Então olha lá, nós temos o recibo, o adiantamento agora sendo demonstrado como desconto. A diferença?
+
+00:04:48.994 --> 00:04:55.755
+- adiantamento, referência e o desconto do trabalhador, ok? Isso vai acontecer quando, pessoal? Quando
+
+00:04:55.755 --> 00:05:02.450
+- você fechar a folha mensal. Aqui vai ter o salário, aqui vai ter outras rubricas, mas vai aparecer
+
+00:05:02.450 --> 00:05:09.278
+- o desconto lá do adiantamento, porque o funcionário recebeu no meados do mês, ok? Próximo exemplo,
+
+00:05:09.278 --> 00:05:16.702
+- nós temos o desconto do INSS. E aqui, pessoal, é bem bacana a gente poder trabalhar com a tabela progressiva.
+
+00:05:16.866 --> 00:05:23.166
+- porque muitas pessoas ainda interpretavam que a gente aplica um percentual sobre o salário do empregado,
+
+00:05:23.166 --> 00:05:29.227
+- e não é bem assim, né? A gente trabalha de modo progressivo. Então, com um funcionário que ganha
+
+00:05:29.227 --> 00:05:35.170
+- 2.500 reais, a gente primeiro precisa fazer a apuração da faixa 1. Então, no INSS, você vai ver
+
+00:05:35.170 --> 00:05:39.806
+- que 1.518 vezes 7,5% vai dar 113 reais. Logo em seguida, essa diferença até
+
+00:05:40.130 --> 00:05:47.851
+- O salário do empregado vai dar R$ 9,82. Consequentemente, eu vou apurar 9%, vou ter R$ 88,38.
+
+00:05:47.851 --> 00:05:56.223
+- Consequentemente, eu chego ao valor de apuração desse INSS, que é R$ 202,23. Ah, professor, a gente
+
+00:05:56.223 --> 00:06:03.294
+- não faz a conferência dessa fórmula. Eu aplico um percentual e faço uma redução.
+
+00:06:03.618 --> 00:06:09.793
+- Ok, isso não tem problemas, eu tô colocando aqui pra vocês, inclusive, uma planilha que faz essa
+
+00:06:09.793 --> 00:06:16.339
+- mesma operação que vocês utilizam pra conferir o que tá sendo aplicado na folha de pagamento. Porém,
+
+00:06:16.339 --> 00:06:23.008
+- a minha explicação na fórmula anterior é com base no que a legislação estabelece. Faixas de salário.
+
+00:06:23.008 --> 00:06:29.369
+- Ok, pessoal? Essa planilha também já tá disponível aí pra vocês na plataforma Cefix. Agora, nós
+
+00:06:29.369 --> 00:06:30.110
+- vamos olhar
+
+00:06:30.242 --> 00:06:38.298
+- o que nós temos de imposto de renda e a gente reforça o entendimento que tudo depende da data do pagamento
+
+00:06:38.298 --> 00:06:45.690
+- de salário do empregado. Pois bem, nós vamos ver aqui, pessoal, por exemplo, o pagamento da folha
+
+00:06:45.690 --> 00:06:53.303
+- de maio acontece dentro do mês de maio. A apuração vai acontecer normalmente e essa guia vai vencer
+
+00:06:53.303 --> 00:06:58.846
+- no dia 20 do mês de junho. Por quê? Porque a legislação estabelece que
+
+00:06:59.298 --> 00:07:03.902
+- é sempre no dia 20 do mês subsequente à data do pagamento de salário.

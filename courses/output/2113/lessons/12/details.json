@@ -1,0 +1,33 @@
+{
+  "id": 462568,
+  "title": "Modelo de estrutura",
+  "position": 12,
+  "duration": 421,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/778effbe-0c5d-4895-957a-1d7daef0caee/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/778effbe-0c5d-4895-957a-1d7daef0caee/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/778effbe-0c5d-4895-957a-1d7daef0caee/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/778effbe-0c5d-4895-957a-1d7daef0caee/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/778effbe-0c5d-4895-957a-1d7daef0caee/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 472749,
+  "title": "IBS e CBS",
+  "position": 17,
+  "duration": 504,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/78fb5fc6-549e-40a2-9c5e-85d63d951aff/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78fb5fc6-549e-40a2-9c5e-85d63d951aff/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78fb5fc6-549e-40a2-9c5e-85d63d951aff/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78fb5fc6-549e-40a2-9c5e-85d63d951aff/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/78fb5fc6-549e-40a2-9c5e-85d63d951aff/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

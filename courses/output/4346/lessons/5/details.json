@@ -1,0 +1,33 @@
+{
+  "id": 486046,
+  "title": "Base de cálculo",
+  "position": 5,
+  "duration": 285,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8edbca11-3d25-473e-a841-8be33c70a91e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8edbca11-3d25-473e-a841-8be33c70a91e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8edbca11-3d25-473e-a841-8be33c70a91e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8edbca11-3d25-473e-a841-8be33c70a91e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8edbca11-3d25-473e-a841-8be33c70a91e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.160
+Vamos entrar agora no nosso primeiro CPC, uma vez que nós já conhecemos toda a estrutura,
+
+3
+00:00:06.160 --> 00:00:11.759
+já fixamos os conceitos, já dominamos quando começou, por que começou, quais os objetivos,
+
+4
+00:00:11.759 --> 00:00:16.480
+quem faz parte, tudo isso nós já sabemos. Agora vamos ao trabalho.
+
+5
+00:00:16.480 --> 00:00:27.440
+CPC 01, redução dos valores recuperáveis de ativos. Olha lá, pessoal, 01 é o primeiro deles.
+
+6
+00:00:27.440 --> 00:00:33.280
+Antes deles, nós temos a estrutura conceitual, que é o 00, que eu vou trazer em uma outra oportunidade.
+
+7
+00:00:33.280 --> 00:00:39.600
+Agora vamos começar com o 01 aqui. Então, redução ao valor recuperado dos ativos,
+
+8
+00:00:39.600 --> 00:00:46.799
+que nós conhecemos no mercado em geral como teste de impairment ou impairment test,
+
+9
+00:00:46.799 --> 00:00:52.240
+no inglês, impairment test. Eu prefiro teste de impairment no bom e velho português.
+
+10
+00:00:52.240 --> 00:00:56.880
+Perfeito? Então é isso que nós vamos entender, o que é, para que serve,
+
+11
+00:00:56.880 --> 00:00:57.439
+como é que faz.
+
+12
+00:00:57.439 --> 00:01:03.840
+Tem a norma aí. Será que nós estamos aplicando o teste de impairment nos nossos clientes
+
+13
+00:01:03.840 --> 00:01:08.000
+do escritório de contabilidade? Não. Será que nós estamos? Não. Por que?
+
+14
+00:01:08.000 --> 00:01:16.400
+Muitas vezes porque não tem como aplicar. E ainda mais depois que a contabilidade foi esquartejada.
+
+15
+00:01:16.400 --> 00:01:22.239
+Nós temos contabilidade para a sociedade de grande porte, que é o IFRS completo,
+
+16
+00:01:22.239 --> 00:01:26.879
+conhecido como IFRS full, em inglês. Prefiro completo.
+
+17
+00:01:26.879 --> 00:01:32.000
+IFRS completo, todos os IFRS, para sociedades de grande porte.
+
+18
+00:01:32.000 --> 00:01:38.079
+O que são sociedades de grande porte? Quem faturou no ano anterior acima de R$ 300 milhões.
+
+19
+00:01:38.079 --> 00:01:46.079
+Quem faturou, teve faturamento. Ou quem tem um ativo total superior a R$ 240 milhões,
+
+20
+00:01:46.879 --> 00:01:53.680
+seja isolado ou no conglomerado econômico, do grupo econômico. Se ultrapassou R$ 300 milhões
+
+21
+00:01:54.400 --> 00:01:56.319
+ou tem o ativo total superior a R$ 240 milhões, seja isolado ou no conglomerado econômico, do grupo econômico.
+
+22
+00:01:56.319 --> 00:01:57.280
+Quem faturou, teve faturamento. Ou quem faturou, teve faturamento.
+
+23
+00:01:57.280 --> 00:01:57.680
+Quem faturou, teve faturamento. Ou quem faturou, teve faturamento.
+
+24
+00:01:57.680 --> 00:02:02.959
+É considerado sociedade de grande porte, com obrigatoriedade de publicação dos balanços
+
+25
+00:02:02.959 --> 00:02:06.959
+e auditoria independente. Ter auditoria independente.
+
+26
+00:02:08.159 --> 00:02:11.840
+Esse tipo de empresa tem que utilizar todos os IFRS.
+
+27
+00:02:12.000 --> 00:02:21.840
+Depois foi criado a NBCTG1000, conhecida como contabilidade para PNE,
+
+28
+00:02:21.840 --> 00:02:26.240
+pequenas e médias empresas, que não vai aplicar o IFRS completo.
+
+29
+00:02:26.319 --> 00:02:28.379
+Vai aplicar ele parcialmente.
+
+30
+00:02:29.000 --> 00:02:30.240
+Pode fazer o completo? Pode.
+
+31
+00:02:30.680 --> 00:02:33.819
+Mas a norma libera algumas coisas.
+
+32
+00:02:33.819 --> 00:02:40.620
+Então, quem fatura de R$ 78 milhões até R$ 300 milhões
+
+33
+00:02:40.620 --> 00:02:43.340
+é considerado pequena e média empresa no Brasil.
+
+34
+00:02:43.819 --> 00:02:46.900
+Portanto, vai aplicar a NBCTG mil.
+
+35
+00:02:47.020 --> 00:02:48.780
+Norma Brasileira de Contabilidade Técnica mil.
+
+36
+00:02:48.780 --> 00:02:56.639
+Quem faturar de R$ 4,8 milhões até R$ 78 milhões
+
+37
+00:02:56.639 --> 00:02:59.780
+vai aplicar a NBCTG mil e um.
+
+38
+00:03:00.340 --> 00:03:02.099
+Contabilidade para média empresa.
+
+39
+00:03:02.599 --> 00:03:04.960
+Então, quanto mais vai diminuindo o grau,
+
+40
+00:03:05.620 --> 00:03:09.199
+menos obrigação que aplicar o IFRS.
+
+41
+00:03:10.139 --> 00:03:10.599
+Perfeito?
+
+42
+00:03:11.060 --> 00:03:14.599
+Então, a NBCTG mil e um é para média empresa
+
+43
+00:03:14.599 --> 00:03:18.599
+que fatura de R$ 4,8 milhões até R$ 78 milhões.
+
+44
+00:03:18.780 --> 00:03:23.120
+Depois, quem fatura de R$ 78 milhões até R$ 300 milhões
+
+45
+00:03:23.120 --> 00:03:24.639
+é a NBCTG mil.
+
+46
+00:03:25.199 --> 00:03:29.060
+E se não bastasse, foi criada a NBCTG mil e dois,
+
+47
+00:03:29.800 --> 00:03:31.340
+que é para microentidades.
+
+48
+00:03:32.039 --> 00:03:34.759
+Quem fatura de R$ 0 a R$ 4,8 milhões
+
+49
+00:03:34.759 --> 00:03:36.419
+aplica a mil e dois.
+
+50
+00:03:36.699 --> 00:03:39.439
+Só tem obrigatoriedade de balanço e DRE.
+
+51
+00:03:39.960 --> 00:03:42.500
+Nem nota explicativa tem obrigatoriedade de publicar.
+
+52
+00:03:43.419 --> 00:03:45.860
+Então, nós esquartejamos a contabilidade em quatro.
+
+53
+00:03:46.360 --> 00:03:48.539
+Fato que eu, particularmente, não concordei.
+
+54
+00:03:48.539 --> 00:03:50.520
+Mas respeito. Está lá na norma. Tem que cumprir.
+
+55
+00:03:51.439 --> 00:03:53.860
+Nada impede que uma pequena empresa
+
+56
+00:03:53.860 --> 00:03:55.699
+pode utilizar o IFRS completo.
+
+57
+00:03:55.780 --> 00:03:57.379
+Se tiver elementos, sem problema nenhum.
+
+58
+00:03:57.759 --> 00:04:00.340
+Mas a lei não diz isso. Ela não obriga.
+
+59
+00:04:00.840 --> 00:04:02.580
+Então, é um fato que, no meu entender,
+
+60
+00:04:02.699 --> 00:04:03.840
+joga contra a contabilidade.
+
+61
+00:04:04.280 --> 00:04:06.319
+No meu entender, deveria ser uma contabilidade única.
+
+62
+00:04:06.939 --> 00:04:07.879
+IFRS. Ponto.
+
+63
+00:04:08.379 --> 00:04:11.719
+Se eu não tenho corpo suficiente para aplicar o IFRS,
+
+64
+00:04:11.819 --> 00:04:12.419
+não aplico.
+
+65
+00:04:13.240 --> 00:04:15.099
+Como, por exemplo, os tópicos que nós vamos ver aqui.
+
+66
+00:04:15.719 --> 00:04:18.240
+Mas eu acho importante que todo contador saiba tudo.
+
+67
+00:04:18.540 --> 00:04:20.000
+E não fica como
+
+68
+00:04:20.000 --> 00:04:22.620
+sou contador de PME, contador de ME.
+
+69
+00:04:22.939 --> 00:04:24.100
+Não, não existe isso.
+
+70
+00:04:24.199 --> 00:04:26.079
+Contabilidade é uma só. É uma ciência.
+
+71
+00:04:26.980 --> 00:04:28.759
+Ciência contábil. Ciência não se divide.
+
+72
+00:04:28.860 --> 00:04:29.439
+Na minha visão.
+
+73
+00:04:29.759 --> 00:04:31.519
+Mas eu respeito a norma que foi tomada.
+
+74
+00:04:32.199 --> 00:04:34.100
+Foi com o objetivo, talvez,
+
+75
+00:04:34.300 --> 00:04:37.199
+de trazer as empresas para praticar a contabilidade.
+
+76
+00:04:37.860 --> 00:04:39.459
+Não sei se isso foi alcançado.
+
+77
+00:04:39.639 --> 00:04:40.740
+Em princípio, eu creio que não.
+
+78
+00:04:40.899 --> 00:04:41.939
+Mas a gente respeita.
+
+79
+00:04:42.639 --> 00:04:43.040
+Perfeito?
+
+80
+00:04:43.720 --> 00:04:45.920
+Então, nós temos aí o primeiro CPC01.
+
+81
+00:04:45.920 --> 00:04:47.959
+Redução a valor recuperável de ativo.
+
+82
+00:04:48.540 --> 00:04:50.899
+A colocação da norma...
+
+83
+00:04:50.899 --> 00:04:52.399
+Correlação, melhor dizendo,
+
+84
+00:04:52.459 --> 00:04:53.519
+as normas internacionais,
+
+85
+00:04:53.800 --> 00:04:56.000
+ele corresponde ao IAS 36.
+
+86
+00:04:56.660 --> 00:04:59.019
+International Account Standard.
+
+87
+00:04:59.680 --> 00:05:01.079
+Norma de Contabilidade Internacional.
+
+88
+00:05:01.420 --> 00:05:01.959
+36.
+
+89
+00:05:02.459 --> 00:05:04.500
+Que corresponde para a gente o CPC01.
+
+90
+00:05:05.360 --> 00:05:07.620
+Data da aprovação, 6 de agosto de 2010.
+
+91
+00:05:08.360 --> 00:05:10.680
+Data da divulgação, 7 de 10 de 2010.
+
+92
+00:05:11.100 --> 00:05:12.240
+Desde lá, está valendo.
+
+93
+00:05:12.839 --> 00:05:14.800
+Já estamos na revisão 1.
+
+94
+00:05:15.019 --> 00:05:15.379
+R1.
+
+95
+00:05:15.379 --> 00:05:17.860
+Então, CPC01, revisão 1.
+
+96
+00:05:18.180 --> 00:05:18.519
+Perfeito?
+
+97
+00:05:18.540 --> 00:05:18.639
+Perfeito.

@@ -1,0 +1,785 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:03.349
+Então meus Carlos
+
+2
+00:00:03.880 --> 00:00:05.639
+é antes da gente entrar no bloco nove
+
+3
+00:00:05.639 --> 00:00:08.350
+que cerramente vamos ter mais alguns detalhes aí sobre
+
+4
+00:00:08.560 --> 00:00:10.029
+cruzamento de dados.
+
+5
+00:00:10.359 --> 00:00:11.529
+O bloco K.
+
+6
+00:00:11.960 --> 00:00:14.159
+A primeira coisa que nós temos que ter
+
+7
+00:00:14.159 --> 00:00:16.440
+em mente é se nós estamos obrigados a apresentar
+
+8
+00:00:16.680 --> 00:00:18.989
+e a segunda coisa que nós temos que fazer
+
+9
+00:00:19.260 --> 00:00:22.780
+caso essa obrigator- essa obrigatoriedade exista
+
+10
+00:00:22.959 --> 00:00:24.670
+é fazer a consolidação
+
+11
+00:00:24.799 --> 00:00:26.799
+em planilhas ecéricos você montar a
+
+12
+00:00:26.799 --> 00:00:29.270
+consolidação e chegar no resultado consolidado.
+
+13
+00:00:29.750 --> 00:00:31.239
+a sua ECD
+
+14
+00:00:31.469 --> 00:00:34.459
+vai ter que ser cara crachá dessa consolidação.
+
+15
+00:00:35.110 --> 00:00:38.110
+Só que nós temos os termos técnicos de parametrização.
+
+16
+00:00:38.549 --> 00:00:40.770
+Aí é sentar com o TI e fazer a parametrização
+
+17
+00:00:41.180 --> 00:00:41.779
+perfeito.
+
+18
+00:00:42.349 --> 00:00:45.740
+Normalmente isso já isso não vem no nos nos
+
+19
+00:00:46.060 --> 00:00:46.939
+nos EIT s tá.
+
+20
+00:00:48.849 --> 00:00:51.450
+e o bloco 9 o controle de encerramento.
+
+21
+00:00:51.569 --> 00:00:54.849
+Depois de todos esses blocos que não são muitos voc vam que são
+
+22
+00:00:55.130 --> 00:00:56.090
+meia dúzia deles,
+
+23
+00:00:56.169 --> 00:00:57.610
+mas nem todos nós preenchemos,
+
+24
+00:00:58.090 --> 00:00:59.770
+mas as informações são bastantes,
+
+25
+00:00:59.950 --> 00:00:59.959
+né?
+
+26
+00:01:00.009 --> 00:01:01.240
+São muitas informações.
+
+27
+00:01:02.020 --> 00:01:03.580
+nós vamos ter a abertura do bloco,
+
+28
+00:01:03.659 --> 00:01:04.339
+os registros,
+
+29
+00:01:04.419 --> 00:01:05.370
+o encerramento
+
+30
+00:01:05.699 --> 00:01:06.730
+do arquivo digital,
+
+31
+00:01:06.739 --> 00:01:08.129
+que é o bloco 9 Então
+
+32
+00:01:08.669 --> 00:01:09.139
+e aqui,
+
+33
+00:01:09.300 --> 00:01:13.080
+antes que fazermos o encerramento e comentarmos aí da sobre as
+
+34
+00:01:13.620 --> 00:01:14.900
+as ah.
+
+35
+00:01:17.389 --> 00:01:19.550
+as dicas de de cruzamento de informações.
+
+36
+00:01:20.120 --> 00:01:22.699
+Eu vou deixar aqui a dica de ouro para vocês.
+
+37
+00:01:22.830 --> 00:01:23.139
+Então,
+
+38
+00:01:23.510 --> 00:01:24.940
+inicialmente parabéns a todos,
+
+39
+00:01:24.949 --> 00:01:25.459
+conseguiu
+
+40
+00:01:25.769 --> 00:01:27.550
+me assistir até o final dessa aula.
+
+41
+00:01:27.750 --> 00:01:28.750
+Não sei que é uma aula demorada,
+
+42
+00:01:28.830 --> 00:01:31.739
+mas são detalhes importantes que nós comentamos ao longo do dia
+
+43
+00:01:32.150 --> 00:01:36.690
+e a regra de ouro que vocês não podem deixar de fazer é exatamente isso.
+
+44
+00:01:37.010 --> 00:01:37.569
+Olha só.
+
+45
+00:01:38.449 --> 00:01:41.529
+orientações antes da transmissão da ECB.
+
+46
+00:01:42.870 --> 00:01:43.029
+É.
+
+47
+00:01:43.150 --> 00:01:45.190
+Nós estamos aqui hoje nós estamos
+
+48
+00:01:45.540 --> 00:01:47.230
+no finalzinho já de maio.
+
+49
+00:01:47.349 --> 00:01:48.389
+falta aí junho,
+
+50
+00:01:48.470 --> 00:01:48.650
+né?
+
+51
+00:01:48.989 --> 00:01:52.660
+Falta aí +1 semana praticamente para terminar,
+
+52
+00:01:52.949 --> 00:01:54.099
+mas dá tempo ainda.
+
+53
+00:01:55.339 --> 00:01:57.699
+antes de nós mandarmos a ICT.
+
+54
+00:01:58.930 --> 00:02:00.589
+Nós vamos assinar a ECT,
+
+55
+00:02:01.209 --> 00:02:03.050
+mas não vamos transmitir de imediato.
+
+56
+00:02:04.110 --> 00:02:06.970
+Lá no nosso programa gerador
+
+57
+00:02:07.300 --> 00:02:09.300
+de estruturação BDPGE.
+
+58
+00:02:09.820 --> 00:02:13.449
+Vocês viram que lá no do bloco inicial nós temos cinco passos.
+
+59
+00:02:14.759 --> 00:02:16.070
+importar os dados.
+
+60
+00:02:16.830 --> 00:02:18.750
+conferir pendências e erros,
+
+61
+00:02:19.509 --> 00:02:21.429
+gerar o arquivo para a transmissão,
+
+62
+00:02:21.990 --> 00:02:24.889
+assinar o arquivo digitalmente e transmitir
+
+63
+00:02:25.089 --> 00:02:26.220
+São cinco passos.
+
+64
+00:02:27.190 --> 00:02:28.860
+Você vai fazer quatro dedes.
+
+65
+00:02:29.899 --> 00:02:30.529
+Você vai
+
+66
+00:02:31.369 --> 00:02:33.929
+importar o arquivo do CORP para dentro da ECB.
+
+67
+00:02:35.339 --> 00:02:38.600
+verificar se contém erros ou avisos e ajustá-los.
+
+68
+00:02:40.139 --> 00:02:41.479
+gerar o arquivo
+
+69
+00:02:41.610 --> 00:02:42.970
+para a entrega da escrituração,
+
+70
+00:02:43.729 --> 00:02:45.649
+assinar o arquivo digitalmente,
+
+71
+00:02:45.770 --> 00:02:47.759
+mas não vai transmitir para por aí.
+
+72
+00:02:48.889 --> 00:02:50.529
+gera uma cópia de segurança.
+
+73
+00:02:51.750 --> 00:02:52.369
+abre
+
+74
+00:02:52.750 --> 00:02:54.720
+o PGE da SF
+
+75
+00:02:55.029 --> 00:02:56.910
+Programa gerador de titulação da ECF.
+
+76
+00:02:58.470 --> 00:03:00.710
+recupera essa cópia de segurança
+
+77
+00:03:01.270 --> 00:03:03.020
+verifica se deu pau.
+
+78
+00:03:05.619 --> 00:03:07.820
+se deu problema da da ICF.
+
+79
+00:03:08.899 --> 00:03:10.160
+Volta na ECD
+
+80
+00:03:10.750 --> 00:03:12.729
+quebra a assinatura que você fez.
+
+81
+00:03:13.539 --> 00:03:14.679
+e corrija o erro.
+
+82
+00:03:16.059 --> 00:03:18.559
+Porque normalmente esses erros dão a contabilidade.
+
+83
+00:03:20.309 --> 00:03:23.009
+refaça todo o processo novamente
+
+84
+00:03:23.550 --> 00:03:25.179
+Importe os dados do teu RP.
+
+85
+00:03:26.000 --> 00:03:27.639
+Confira se deu erro o aviso.
+
+86
+00:03:28.740 --> 00:03:31.380
+G o arquivo para a transmissão assina o arquivo,
+
+87
+00:03:31.460 --> 00:03:32.339
+mas não transmita.
+
+88
+00:03:33.259 --> 00:03:35.960
+gera a cópia de segurança recupera dentro da SNCF.
+
+89
+00:03:36.919 --> 00:03:38.320
+baixou não deu erro,
+
+90
+00:03:38.399 --> 00:03:39.919
+não deu pau ótimo,
+
+91
+00:03:40.559 --> 00:03:42.559
+Volta na SCD e transmite.
+
+92
+00:03:43.619 --> 00:03:45.089
+Por que isso meus caros
+
+93
+00:03:45.460 --> 00:03:49.110
+Porque a ECF é 62% do ECD.
+
+94
+00:03:50.169 --> 00:03:53.690
+N62% do IDD está tendo ICF.
+
+95
+00:03:54.210 --> 00:03:55.970
+Então se não deu problema nenhum,
+
+96
+00:03:56.210 --> 00:03:59.449
+eu já começo a minha ICF com 60% correto.
+
+97
+00:04:00.130 --> 00:04:00.869
+Vocês entenderam
+
+98
+00:04:01.009 --> 00:04:02.729
+da importância desse passo a passo.
+
+99
+00:04:03.820 --> 00:04:05.600
+Se eu assim não proceder.
+
+100
+00:04:06.399 --> 00:04:08.869
+e mandar a ECD sem fazer esse procedimento
+
+101
+00:04:09.160 --> 00:04:12.360
+E quando eu for fazer a SCF que eu recupero um tá pau,
+
+102
+00:04:12.880 --> 00:04:15.119
+muitas vezes o problema está na contabilidade.
+
+103
+00:04:15.839 --> 00:04:17.559
+Aí você vai ter que voltar.
+
+104
+00:04:18.598 --> 00:04:20.968
+Substituir a ECP
+
+105
+00:04:21.519 --> 00:04:23.438
+transmitir novamente
+
+106
+00:04:23.919 --> 00:04:26.968
+para depois voltar da ECEE Olha o que tá bailo como é dobrado,
+
+107
+00:04:27.278 --> 00:04:27.878
+entendeu
+
+108
+00:04:28.158 --> 00:04:31.058
+Então Eu fiz questão de colocar aqui como regra de ouro,
+
+109
+00:04:31.438 --> 00:04:31.808
+né?
+
+110
+00:04:32.359 --> 00:04:33.069
+Assina,
+
+111
+00:04:33.158 --> 00:04:34.998
+mas não transmita de imediato.
+
+112
+00:04:35.359 --> 00:04:37.878
+Após finalizar a escrituração da ECD,
+
+113
+00:04:38.199 --> 00:04:40.598
+realiza a assinatura digital do arquivo
+
+114
+00:04:40.598 --> 00:04:42.989
+com o certificado digital válido da empresa
+
+115
+00:04:43.158 --> 00:04:44.319
+ou do responsável.
+
+116
+00:04:44.639 --> 00:04:46.848
+Não transmita ainda nesse momento,
+
+117
+00:04:47.598 --> 00:04:47.998
+né?
+
+118
+00:04:49.320 --> 00:04:50.000
+Ou seja,
+
+119
+00:04:50.359 --> 00:04:52.040
+faça uma cópia de segurança,
+
+120
+00:04:52.510 --> 00:04:55.630
+salve uma cópia de segurança do arquivo assinado
+
+121
+00:04:55.839 --> 00:04:56.839
+em local seguro,
+
+122
+00:04:56.959 --> 00:04:58.829
+preferencialmente em mais de um
+
+123
+00:04:59.040 --> 00:05:00.519
+dispositivo ou em nuvo.
+
+124
+00:05:01.119 --> 00:05:01.959
+Isso garante que,
+
+125
+00:05:02.049 --> 00:05:03.480
+em caso de necessidade de ajuste,
+
+126
+00:05:03.519 --> 00:05:04.230
+você tenha
+
+127
+00:05:04.540 --> 00:05:07.720
+um.de restauração super importante,
+
+128
+00:05:07.959 --> 00:05:08.369
+né?
+
+129
+00:05:09.119 --> 00:05:12.130
+Recupera esse CD no programa da ICF.
+
+130
+00:05:13.750 --> 00:05:16.510
+Importe o arquivo da ECD no programa DCF.
+
+131
+00:05:17.730 --> 00:05:22.959
+Esse processo é essencial para verificar se os dados da ECD estão corretamente
+
+132
+00:05:23.170 --> 00:05:24.660
+integrados à EF.
+
+133
+00:05:26.279 --> 00:05:28.959
+verifique possíveis erros ou inconsistência.
+
+134
+00:05:29.790 --> 00:05:32.070
+após a recuperação da ECD na E,
+
+135
+00:05:32.109 --> 00:05:33.980
+verifique se existem erros.
+
+136
+00:05:34.920 --> 00:05:36.200
+de importação,
+
+137
+00:05:36.600 --> 00:05:38.679
+cruzamento ou validações.
+
+138
+00:05:39.119 --> 00:05:40.519
+Caso não haja erro,
+
+139
+00:05:40.720 --> 00:05:42.959
+a ECD está apta para ser transmitida.
+
+140
+00:05:43.329 --> 00:05:43.880
+Então meu caro,
+
+141
+00:05:43.920 --> 00:05:45.630
+se você não transmitiu ainda
+
+142
+00:05:45.880 --> 00:05:47.119
+faça esse passo a passo.
+
+143
+00:05:47.440 --> 00:05:48.390
+Se já transmitiu,
+
+144
+00:05:49.000 --> 00:05:53.510
+vamos torcer para que esteja tudo correto e que você não tenha problema na ECF
+
+145
+00:05:53.880 --> 00:05:55.109
+É +1 motivo
+
+146
+00:05:55.380 --> 00:05:58.839
+que eu não vejo necessidade de ter dois demonstrações poderia ser uma só.
+
+147
+00:05:59.529 --> 00:05:59.929
+é
+
+148
+00:06:00.059 --> 00:06:01.730
+enxugando várias informações
+
+149
+00:06:02.480 --> 00:06:03.049
+da minha visão.
+
+150
+00:06:03.670 --> 00:06:06.500
+Mas isso só vamos conseguir esses órgãos se engaxarem,
+
+151
+00:06:06.579 --> 00:06:06.750
+né?
+
+152
+00:06:07.059 --> 00:06:09.299
+Sentarem à mesa com a Receita Federal e falar olha,
+
+153
+00:06:10.339 --> 00:06:10.489
+né?
+
+154
+00:06:10.540 --> 00:06:11.890
+Vamos ponderar aqui
+
+155
+00:06:12.179 --> 00:06:14.339
+com a necessidade de tanta informação assim,
+
+156
+00:06:14.420 --> 00:06:14.649
+né?
+
+157
+00:06:15.119 --> 00:06:16.059
+Isso vai ser muito difícil,
+
+158
+00:06:16.799 --> 00:06:16.809
+mas
+
+159
+00:06:17.179 --> 00:06:17.540
+enfim,
+
+160
+00:06:17.899 --> 00:06:19.119
+vocês entenderam a regra de ouro.
+
+161
+00:06:19.799 --> 00:06:21.339
+Isso é fundamental para a gente,
+
+162
+00:06:21.459 --> 00:06:21.709
+né?
+
+163
+00:06:22.339 --> 00:06:22.940
+Se houver ler,
+
+164
+00:06:23.100 --> 00:06:24.329
+revise a ECD.
+
+165
+00:06:24.660 --> 00:06:26.029
+retorne ao programa
+
+166
+00:06:26.420 --> 00:06:28.459
+quebre a assinatura digital do arquivo,
+
+167
+00:06:28.500 --> 00:06:32.380
+pois qualquer correção só poderá ser feita em um arquivo não assinado.
+
+168
+00:06:33.510 --> 00:06:35.619
+corrija os erros identificados.
+
+169
+00:06:36.410 --> 00:06:42.049
+Reassine digitalmente o aquilo corrigido Rços passo a passo anteriores,
+
+170
+00:06:42.489 --> 00:06:44.959
+cópia de segurança e recuperação na ICF
+
+171
+00:06:45.410 --> 00:06:49.660
+até que nem o erro seja identificado na importação para SCF.
+
+172
+00:06:50.230 --> 00:06:51.760
+Então Essa é a regra de ouro
+
+173
+00:06:51.890 --> 00:06:53.480
+que eu gostaria de deixar pra vocês
+
+174
+00:06:53.929 --> 00:06:56.010
+Somente após a validação total,
+
+175
+00:06:56.130 --> 00:06:57.410
+transmita a ECD
+
+176
+00:06:57.649 --> 00:06:59.010
+para a Receita Federal.
+
+177
+00:06:59.649 --> 00:07:00.450
+Entendeu gente,
+
+178
+00:07:00.850 --> 00:07:01.730
+isso é fundamental,
+
+179
+00:07:01.809 --> 00:07:02.760
+ajuda bastante,
+
+180
+00:07:03.170 --> 00:07:05.959
+porque o nosso objetivo aqui é evitar a retrapalha de vocês.
+
+181
+00:07:06.920 --> 00:07:08.320
+Nós não temos muito tempo.
+
+182
+00:07:08.399 --> 00:07:09.920
+Por mais que eu não gosto dessa palavra,
+
+183
+00:07:09.959 --> 00:07:10.709
+eu não tenho tempo.
+
+184
+00:07:11.200 --> 00:07:13.359
+O computador trabalha em demasia,
+
+185
+00:07:13.720 --> 00:07:15.079
+trabalha em demasia.
+
+186
+00:07:16.130 --> 00:07:17.149
+Não tem folga
+
+187
+00:07:17.609 --> 00:07:19.209
+e muitas vezes entrega
+
+188
+00:07:19.489 --> 00:07:20.690
+a ECD só em junho.
+
+189
+00:07:20.730 --> 00:07:21.380
+Agora por quê?
+
+190
+00:07:21.410 --> 00:07:25.730
+Porque vira o ano tinha RAIS tinha DIF que agora a gente já não tem mais nenhuma das 2,
+
+191
+00:07:26.170 --> 00:07:26.420
+né?
+
+192
+00:07:27.130 --> 00:07:28.690
+Mas tem Imposto de Renda Pessoa Física,
+
+193
+00:07:28.730 --> 00:07:30.890
+mas o prazo está espichado até maio.
+
+194
+00:07:31.329 --> 00:07:32.369
+Então nós temos mais tempo.
+
+195
+00:07:32.410 --> 00:07:34.790
+Então é meio que a gente reorganizar agora com
+
+196
+00:07:34.790 --> 00:07:38.690
+a extinção de algumas obrigações essa história totalmente superbos.

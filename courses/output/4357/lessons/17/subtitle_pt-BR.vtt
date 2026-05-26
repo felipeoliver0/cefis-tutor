@@ -1,0 +1,177 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:08.000
+Classificação dos eventos. Como que vai acontecer essa classificação? Vamos entender melhor.
+
+3
+00:00:08.000 --> 00:00:17.000
+O terceiro carácter da nomenclatura, que é a letra P, define três grandes blocos lógicos dos eventos,
+
+4
+00:00:17.000 --> 00:00:23.000
+que em conjunto constituem uma declaração completa do contribuinte.
+
+5
+00:00:23.000 --> 00:00:30.000
+O evento de periodicidade eventual. O que contém nesse evento? Contém os dados cadastrais
+
+6
+00:00:30.000 --> 00:00:39.000
+e as tabelas de informações dos contribuintes, que são pré-requisitos para a apuração contábil fiscal,
+
+7
+00:00:39.000 --> 00:00:48.000
+que devem ser enviadas no início da obrigatoriedade da DERI, ou caso exista algum tipo de alteração.
+
+8
+00:00:48.000 --> 00:00:51.000
+Eventos de periodicidade mensal.
+
+9
+00:00:51.000 --> 00:00:53.000
+Destinam-se ao cliente.
+
+10
+00:00:53.000 --> 00:01:00.000
+É o cálculo do débito agregado do IBS e da CBS, utilizando o balancete como insumo,
+
+11
+00:01:00.000 --> 00:01:04.000
+utilizando o balancete como fonte das informações.
+
+12
+00:01:04.000 --> 00:01:12.000
+Temos aqui também, como periodicidade transacional, os que possuem a maior granularidade,
+
+13
+00:01:12.000 --> 00:01:19.000
+trazendo a captura das informações em níveis das operações. Para quê?
+
+14
+00:01:19.000 --> 00:01:21.000
+Para trazer a identificação do crédito para o adquirido.
+
+15
+00:01:21.000 --> 00:01:22.000
+Para que? Para trazer a identificação do crédito para o adquirido.
+
+16
+00:01:22.000 --> 00:01:24.000
+Para que? Para trazer a identificação do crédito para o adquirido.
+
+17
+00:01:24.000 --> 00:01:26.000
+Trazendo ali o direito creditório.
+
+18
+00:01:26.000 --> 00:01:32.000
+Trazendo aqui a permissão e a distribuição da arrecadação do IBS
+
+19
+00:01:32.000 --> 00:01:37.000
+e também de viabilizar o processo de cashback e programas de incentivo.
+
+20
+00:01:37.000 --> 00:01:45.000
+Logo, os nossos eventos podem ter diversas classificações, diversas periodicidades.
+
+21
+00:01:45.000 --> 00:01:48.000
+Eventos de periodicidade transacional.
+
+22
+00:01:48.000 --> 00:01:50.000
+Ele pode ter maior granularidade.
+
+23
+00:01:50.000 --> 00:01:53.000
+Ele pode ser diário, pode ser contínuo.
+
+24
+00:01:53.000 --> 00:02:00.000
+Ele tem as informações destinadas a mensurar o crédito, o cashback.
+
+25
+00:02:00.000 --> 00:02:07.000
+Então, eu preciso observar quais são os eventos que eu preciso fazer as nossas entregas.
+
+26
+00:02:07.000 --> 00:02:10.000
+Com isso, o que eu consigo observar?
+
+27
+00:02:10.000 --> 00:02:13.000
+Já verifiquei aqui a classificação dos eventos.
+
+28
+00:02:13.000 --> 00:02:17.000
+Eu vou ter as regras de manutenção e informação.
+
+29
+00:02:17.000 --> 00:02:18.000
+Eu vou ter a inclusão de eventos.
+
+30
+00:02:18.000 --> 00:02:23.000
+Eu vou ter a inclusão de eventos observando as minhas operações.
+
+31
+00:02:23.000 --> 00:02:27.000
+Eu vou ter aqui a validação da unicidade.
+
+32
+00:02:27.000 --> 00:02:32.000
+Os sistemas trazendo, acoplando todas essas informações.
+
+33
+00:02:32.000 --> 00:02:35.000
+Eu vou ter aqui uma vigência temporal.
+
+34
+00:02:35.000 --> 00:02:42.000
+Vou verificar o cenário observando o período de competência daquela apuração.
+
+35
+00:02:42.000 --> 00:02:47.000
+Vou verificar a necessidade de estruturar o meu plano de contas.
+
+36
+00:02:47.000 --> 00:02:50.000
+Que fica aqui para nós, essa observação.
+
+37
+00:02:50.000 --> 00:02:54.000
+E vou trazer aqui os nossos procedimentos internos.
+
+38
+00:02:54.000 --> 00:02:59.000
+Como que eu posso organizar as minhas operações.
+
+39
+00:02:59.000 --> 00:03:04.000
+Como que eu posso identificar a melhor forma de fazer a apuração da minha DERI.
+
+40
+00:03:04.000 --> 00:03:07.000
+Trazendo mapas de tributação.
+
+41
+00:03:07.000 --> 00:03:09.000
+Observando a minha contabilidade.
+
+42
+00:03:09.000 --> 00:03:13.000
+As minhas informações que eu tenho dentro dos regimes específicos.
+
+43
+00:03:13.000 --> 00:03:16.000
+Que nós já temos conhecimento de quais são.
+
+44
+00:03:16.000 --> 00:03:17.000
+E os conhecimentos de quais são.
+
+45
+00:03:17.000 --> 00:03:18.000
+E os conhecimentos de quais são.

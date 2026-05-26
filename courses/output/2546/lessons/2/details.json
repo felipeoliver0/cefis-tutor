@@ -1,0 +1,33 @@
+{
+  "id": 466846,
+  "title": "Princípios básico do Seguro",
+  "position": 2,
+  "duration": 429,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b5757bda-37cd-4824-af40-316d29d1bf7e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5757bda-37cd-4824-af40-316d29d1bf7e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5757bda-37cd-4824-af40-316d29d1bf7e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5757bda-37cd-4824-af40-316d29d1bf7e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5757bda-37cd-4824-af40-316d29d1bf7e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

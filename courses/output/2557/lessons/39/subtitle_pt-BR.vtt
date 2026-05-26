@@ -1,0 +1,273 @@
+WEBVTT
+
+1
+00:00:00.100 --> 00:00:00.509
+pessoal.
+
+2
+00:00:00.519 --> 00:00:02.230
+Agora nós vamos apresentar pra vocês os
+
+3
+00:00:02.240 --> 00:00:05.550
+web serviços os serviços web disponíveis no sistema
+
+4
+00:00:05.559 --> 00:00:08.750
+autorizador de notas Fiscais eletrônicos das Secretarias da
+
+5
+00:00:08.760 --> 00:00:10.949
+Fazenda do Estado e da SEFA Virtual.
+
+6
+00:00:10.960 --> 00:00:16.549
+Tá bom! Esses serviços web são de importante conhecimento pra você!
+
+7
+00:00:16.559 --> 00:00:20.909
+Eh poder orientar o programador pra você saber as funcionalidades
+
+8
+00:00:20.920 --> 00:00:23.870
+que o sistema emissor da nota fiscal eletrônica te proporciona,
+
+9
+00:00:23.879 --> 00:00:24.170
+né?
+
+10
+00:00:24.510 --> 00:00:28.719
+E é muito importante também pro programador se orientar sobre as atividades que
+
+11
+00:00:28.729 --> 00:00:33.159
+ele vai ter que fazer no desenvolvimento aí do sistema autorizador de uso.
+
+12
+00:00:33.169 --> 00:00:37.639
+Tá bom a primeira O primeiro serviço disponível é o serviço de autorização de uso,
+
+13
+00:00:37.650 --> 00:00:37.799
+né?
+
+14
+00:00:37.810 --> 00:00:40.479
+O serviço que o contribuinte envia a nota pra
+
+15
+00:00:40.490 --> 00:00:43.680
+ser autorizada da Secretaria da Fazenda tá bom.
+
+16
+00:00:43.689 --> 00:00:46.959
+Nós temos também o retorno da autorização de uso.
+
+17
+00:00:46.970 --> 00:00:50.240
+Onde ele busca a informação que foi enviada aqui,
+
+18
+00:00:50.250 --> 00:00:53.560
+ele pega o resultado do processamento em outro serviço.
+
+19
+00:00:53.569 --> 00:00:54.220
+Tá bom,
+
+20
+00:00:54.590 --> 00:00:58.319
+A gente tem também o serviço daquilo que a gente acabou de falar, de inutilização,
+
+21
+00:00:58.330 --> 00:00:59.040
+de numeração.
+
+22
+00:00:59.049 --> 00:01:01.560
+Quando a gente precisa inutilizar a numeração,
+
+23
+00:01:01.569 --> 00:01:05.360
+a gente aciona o serviço de inutilização de numeração.
+
+24
+00:01:05.370 --> 00:01:06.040
+Tá,
+
+25
+00:01:06.050 --> 00:01:09.739
+nós temos também o serviço pra ser consumido por web CSS por
+
+26
+00:01:09.750 --> 00:01:13.930
+computadores de consulta de N F e esse serviço é especialmente importante.
+
+27
+00:01:13.940 --> 00:01:16.739
+Vocês lembram que eu falei pra vocês a numeração
+
+28
+00:01:17.080 --> 00:01:19.580
+duplicada que dava a rejeição? Número dois, cem?
+
+29
+00:01:19.589 --> 00:01:24.129
+Quatro a rejeição também por duplicidade, com chave de acesso distinta.
+
+30
+00:01:24.139 --> 00:01:26.089
+Como que eu vou consultar aquela chave de acesso
+
+31
+00:01:26.099 --> 00:01:27.690
+pra ver se ela está autorizada ou não?
+
+32
+00:01:27.699 --> 00:01:31.089
+Como que eu vou saber o número do protocolo de autorização da nota?
+
+33
+00:01:31.099 --> 00:01:34.629
+Então, por exemplo, se eu enviei uma nota e deu a rejeição dois cem quatro,
+
+34
+00:01:34.639 --> 00:01:37.360
+que é a rejeição mais comum, e foi rejeitada,
+
+35
+00:01:37.370 --> 00:01:41.260
+eu posso consultar aquela chave de acesso nesse serviço de consulta
+
+36
+00:01:41.269 --> 00:01:44.339
+n F e vou obter o número do protocolo de autorização.
+
+37
+00:01:44.349 --> 00:01:45.160
+E posso então,
+
+38
+00:01:45.169 --> 00:01:49.000
+atualizar o status dessa nota fiscal eletrônica no banco de dados da minha empresa?
+
+39
+00:01:49.010 --> 00:01:49.319
+Tá?
+
+40
+00:01:49.330 --> 00:01:51.919
+Então tem o serviço também de consulta n F e
+
+41
+00:01:51.930 --> 00:01:54.919
+pra ser usado via web ser por sistemas de computação,
+
+42
+00:01:54.930 --> 00:01:59.040
+tá bom, a gente tem o serviço de distribuição de documentos e eventos.
+
+43
+00:01:59.050 --> 00:02:01.900
+Nós vamos falar mais sobre esse serviço de distribuição de documentos e eventos.
+
+44
+00:02:01.910 --> 00:02:05.559
+Vocês vão ver que é um serviço sensacional, que a empresa ganha muito em utilizar.
+
+45
+00:02:05.569 --> 00:02:06.059
+Tá,
+
+46
+00:02:07.440 --> 00:02:09.889
+temos o serviço de status do serviço ou seja,
+
+47
+00:02:09.899 --> 00:02:13.490
+um serviço que o contribuinte aciona pra saber se essa fase está ativa ou não.
+
+48
+00:02:13.500 --> 00:02:17.690
+Se tá com algum problema ou não tá e nela retorna o tempo de autorização,
+
+49
+00:02:17.699 --> 00:02:22.059
+a gente pode ver se há alguma lentidão no sistema, utilizando este serviço, lembra.
+
+50
+00:02:22.070 --> 00:02:23.929
+Quando eu apresentei pra vocês o C C C,
+
+51
+00:02:23.940 --> 00:02:28.675
+Cada central de contribuintes que pode causar inclusive rejeição nos documentos,
+
+52
+00:02:28.684 --> 00:02:31.845
+a gente tem o serviço, né, Pra fazer via web ser de consulta,
+
+53
+00:02:31.854 --> 00:02:34.705
+cadastro que a gente pode consultar pra gente certificar que os
+
+54
+00:02:34.714 --> 00:02:39.074
+nossos clientes que os nossos fornecedores estão com o cadastro ativo,
+
+55
+00:02:39.085 --> 00:02:43.434
+que tá tudo certinho com eles, tá bom, e temos um registro de eventos,
+
+56
+00:02:43.445 --> 00:02:44.695
+um sistema de registro,
+
+57
+00:02:44.705 --> 00:02:48.274
+de eventos que nós vamos tratar aqui no curso sobre os eventos, mas um evento.
+
+58
+00:02:48.285 --> 00:02:49.095
+Mas como é um evento,
+
+59
+00:02:49.104 --> 00:02:51.815
+por exemplo do cancelamento que nós vamos ver logo em sequência, tá bom,
+
+60
+00:02:52.059 --> 00:02:54.410
+então esses são os serviços web disponíveis.
+
+61
+00:02:54.419 --> 00:02:57.309
+E é bom você saber da existência porque você pode
+
+62
+00:02:57.320 --> 00:02:59.990
+eh cobrar do seu programador aí da sua empresa,
+
+63
+00:03:00.000 --> 00:03:02.070
+que disponibilize esse serviço pra você,
+
+64
+00:03:02.080 --> 00:03:04.729
+porque todos esses serviços estão disponíveis a
+
+65
+00:03:04.740 --> 00:03:06.820
+todos os emitentes de documentos fiscais eletrônicos.
+
+66
+00:03:06.830 --> 00:03:09.149
+Todos os emitentes de nota fiscal eletrônica Tá bom?
+
+67
+00:03:09.160 --> 00:03:11.309
+Esses são os serviços web disponíveis do
+
+68
+00:03:11.320 --> 00:03:13.729
+sistema autorizador de nota fiscal eletrônica.

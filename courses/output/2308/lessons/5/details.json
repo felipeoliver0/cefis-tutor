@@ -1,0 +1,33 @@
+{
+  "id": 464526,
+  "title": "Etapas",
+  "position": 5,
+  "duration": 106,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/52700876-7076-4be3-b62e-e07d4e70d92f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52700876-7076-4be3-b62e-e07d4e70d92f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52700876-7076-4be3-b62e-e07d4e70d92f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52700876-7076-4be3-b62e-e07d4e70d92f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/52700876-7076-4be3-b62e-e07d4e70d92f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 459326,
+  "title": "Política",
+  "position": 28,
+  "duration": 136,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/331906db-6b9c-4938-9582-4530ab6bb90e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/331906db-6b9c-4938-9582-4530ab6bb90e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/331906db-6b9c-4938-9582-4530ab6bb90e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/331906db-6b9c-4938-9582-4530ab6bb90e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/331906db-6b9c-4938-9582-4530ab6bb90e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

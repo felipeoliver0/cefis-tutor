@@ -1,0 +1,33 @@
+{
+  "id": 458513,
+  "title": "Decisões normativas",
+  "position": 8,
+  "duration": 68,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e4b2fb5a-06bf-4f11-affe-f558b296af51/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e4b2fb5a-06bf-4f11-affe-f558b296af51/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e4b2fb5a-06bf-4f11-affe-f558b296af51/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e4b2fb5a-06bf-4f11-affe-f558b296af51/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e4b2fb5a-06bf-4f11-affe-f558b296af51/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

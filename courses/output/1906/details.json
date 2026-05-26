@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 1906,
+    "title": "Compliance em RH: aspectos práticos",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Compliance em RH você vai adquirir uma visão prática sobre o assunto. Dentre os temas abordados, você aprenderá desde os conceitos a legislação aplicada, como as adoções do RH para proteção da organização, formas de preparação desse departamento para a auditoria e muitos outros pontos importantes para aplicar no dia a dia os conhecimentos obtidos.",
+    "banner": "https://cefis.com.br/assets/images/controle/course_default_banner/14.jpg",
+    "goals": [
+      "Difundir os conceitos, características e benefícios do Compliance em Recursos Humanos nas Organizações.\nInstrumentalizar os participantes para adotarem nas Áreas de RH de suas Organizações medidas de controles internos que auxiliem na identificação e correção de falhas, erros, equívocos e similares que se constituam em riscos trabalhistas para estas. Fornecer aos participantes conhecimentos básicos das práticas fundamentais de Compliance e orienta-los em sua aplicação nas Áreas de RH de suas Organizações. Contribuir para a redução dos riscos trabalhistas com o quadro de pessoal e demais profissionais não vinculados que atuam nas organizações."
+    ],
+    "teacher": {
+      "id": 268532,
+      "name": "SÉRGIO LOPES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1633790201.jpeg"
+    },
+    "duration": 6654,
+    "keywords": "compliance;rh;recursos humanos",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 33,
+    "materialCount": 8,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 389,
+    "averageRating": 9.28,
+    "practiceAverage": 9.26,
+    "trailer": {
+      "id": "a8dbbb2b-13ce-4650-855b-c8ce471e888a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a8dbbb2b-13ce-4650-855b-c8ce471e888a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a8dbbb2b-13ce-4650-855b-c8ce471e888a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a8dbbb2b-13ce-4650-855b-c8ce471e888a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a8dbbb2b-13ce-4650-855b-c8ce471e888a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-01-05T19:33:30.000Z",
+      "updatedAt": "2022-01-05T20:33:30.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-01-10T10:00:00.000Z",
+    "recordedAt": "2021-12-16T00:00:00.000Z",
+    "createdAt": "2021-12-20T18:20:12.000Z"
+  }
+}

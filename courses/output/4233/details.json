@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4233,
+    "title": "Desenvolvimento de equipes",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Desenvolvimento de equipes - curso prático você irá aprender na prática tudo o que precisa saber sobre como desenvolver equipes eficazes. Aprenderá os fundamentos e a prática de comunicação não violenta, gestão de conflitos e liderança, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre desenvolvimento de equipes.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/ca0f3df7-b2f0-435f-91a8-447979456417-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Desenvolvimento de equipes: curso prático é a capacitação para a aplicação prática de habilidades de comunicação eficaz, gestão de conflitos e liderança para o desenvolvimento de equipes eficazes."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 2964,
+    "keywords": "equipes;desenvolvimento;fiscal",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 277,
+    "averageRating": 9.33,
+    "practiceAverage": 9.34,
+    "trailer": {
+      "id": "85ccfbb8-6d36-437a-884e-eb272cd5485e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/85ccfbb8-6d36-437a-884e-eb272cd5485e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/85ccfbb8-6d36-437a-884e-eb272cd5485e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/85ccfbb8-6d36-437a-884e-eb272cd5485e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/85ccfbb8-6d36-437a-884e-eb272cd5485e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-30T18:03:44.000Z",
+      "updatedAt": "2025-12-30T18:03:44.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-31T15:17:03.000Z",
+    "recordedAt": "2025-12-01T00:00:00.000Z",
+    "createdAt": "2025-12-26T14:25:48.000Z"
+  }
+}

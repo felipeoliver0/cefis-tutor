@@ -1,0 +1,33 @@
+{
+  "id": 457736,
+  "title": "Atividades operacionais",
+  "position": 44,
+  "duration": 287,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dcb74387-541a-4431-ac63-c85c190da647/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dcb74387-541a-4431-ac63-c85c190da647/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dcb74387-541a-4431-ac63-c85c190da647/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dcb74387-541a-4431-ac63-c85c190da647/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dcb74387-541a-4431-ac63-c85c190da647/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 461355,
+  "title": "Características da informação | O que melhora",
+  "position": 7,
+  "duration": 461,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5e9ffda1-ce33-44ad-9091-eee950657694/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e9ffda1-ce33-44ad-9091-eee950657694/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e9ffda1-ce33-44ad-9091-eee950657694/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e9ffda1-ce33-44ad-9091-eee950657694/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e9ffda1-ce33-44ad-9091-eee950657694/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

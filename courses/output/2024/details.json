@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2024,
+    "title": "Direito de Propriedade Industrial",
+    "subtitle": "Marcas, Patentes, Desenho Industrial e outros temas.",
+    "summary": "Nesse curso iremos aprender os aspectos jurídicos sobre o Direito de Propriedade Intelectual especialmente quanto ao Direito de Propriedade Industrial, abordando as marcas, as patentes, os desenhos industriais, as indicações geográficas e outros temas.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/e98527da6388f6472142bf6fb5f908281728427987.jpg",
+    "goals": [
+      "Demonstrar aspectos jurídicos sobre o Direito de Propriedade Intelectual especialmente quanto ao Direito de Propriedade Industrial."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 7465,
+    "keywords": "marcas;registro;empresa;comercial;industria",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 25,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 70,
+    "averageRating": 9.26,
+    "practiceAverage": 9.5,
+    "trailer": {
+      "id": "2f1c923d-86f3-42af-afde-886a26d1e72a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2f1c923d-86f3-42af-afde-886a26d1e72a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2f1c923d-86f3-42af-afde-886a26d1e72a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2f1c923d-86f3-42af-afde-886a26d1e72a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2f1c923d-86f3-42af-afde-886a26d1e72a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-04-13T14:17:25.000Z",
+      "updatedAt": "2022-04-13T14:17:24.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-05-02T10:52:12.000Z",
+    "recordedAt": "2022-04-01T00:00:00.000Z",
+    "createdAt": "2022-04-01T10:07:27.000Z"
+  }
+}

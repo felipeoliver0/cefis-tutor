@@ -1,0 +1,33 @@
+{
+  "id": 461540,
+  "title": "Enquadramento",
+  "position": 11,
+  "duration": 335,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fe2d19ce-6c36-43ee-a778-f1f97f765d1d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe2d19ce-6c36-43ee-a778-f1f97f765d1d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe2d19ce-6c36-43ee-a778-f1f97f765d1d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe2d19ce-6c36-43ee-a778-f1f97f765d1d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe2d19ce-6c36-43ee-a778-f1f97f765d1d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 475965,
+  "title": "FPAS",
+  "position": 16,
+  "duration": 337,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/aeb9600f-d4c1-45d6-9c18-6c4d091c13d3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aeb9600f-d4c1-45d6-9c18-6c4d091c13d3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aeb9600f-d4c1-45d6-9c18-6c4d091c13d3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aeb9600f-d4c1-45d6-9c18-6c4d091c13d3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aeb9600f-d4c1-45d6-9c18-6c4d091c13d3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+WEBVTT
+
+2
+00:00:00.110 --> 00:00:09.169
+E não tem como, né? A tecnologia tem que ser aliada, a tecnologia tem que ser usada, tem que ser testada
+
+3
+00:00:09.169 --> 00:00:17.730
+e é um desafio grande fazer a tecnologia trazer e tratar todas essas questões, né?
+
+4
+00:00:18.449 --> 00:00:25.390
+Tem sim os impactos nos sistemas, nos ERPs, mudanças diretas em regras de apuração,
+
+5
+00:00:25.390 --> 00:00:34.329
+layouts, principalmente aqui, né? Layouts de documentos fiscais eletrônicos, os campos, né?
+
+6
+00:00:34.770 --> 00:00:44.270
+Em um XML que tem vários campos, vários dados, várias informações, então layouts e cadastros de produtos,
+
+7
+00:00:44.270 --> 00:00:51.630
+os serviços e regras tributárias também. Automação fiscal, aqui é extremamente importante, né?
+
+8
+00:00:52.189 --> 00:00:54.429
+Indispensável, eu diria.
+
+9
+00:00:55.189 --> 00:00:55.369
+Para...
+
+10
+00:00:55.390 --> 00:01:01.210
+Para processar o alto volume de dados e as novas regras fiscais e tributárias, né?
+
+11
+00:01:01.810 --> 00:01:06.730
+Tanto para os tributos que já existem, quanto para os novos tributos, né?
+
+12
+00:01:07.390 --> 00:01:14.150
+Reduz retrabalho e dá visibilidade em tempo real para tomada de decisões.
+
+13
+00:01:14.769 --> 00:01:22.329
+Já que a apuração assistida do programa da reforma tributária vai entrar um volume de notas,
+
+14
+00:01:22.329 --> 00:01:25.189
+à medida que vai entrando, o sistema já vai...
+
+15
+00:01:25.189 --> 00:01:26.750
+Vai reapurando, né?
+
+16
+00:01:27.349 --> 00:01:28.870
+Praticamente em tempo real.
+
+17
+00:01:29.409 --> 00:01:36.870
+É importante que a empresa também consiga ter essa visibilidade dentro do sistema dela, né?
+
+18
+00:01:37.230 --> 00:01:41.890
+E até para, eventualmente, poder ir comparando com o sistema do governo,
+
+19
+00:01:42.450 --> 00:01:47.069
+que é a apuração assistida, para verificar se está abatendo ou não, né?
+
+20
+00:01:47.569 --> 00:01:49.030
+Todas essas questões.
+
+21
+00:01:49.189 --> 00:01:50.650
+Então, super importante aqui.
+
+22
+00:01:51.450 --> 00:01:54.650
+Governança de dados mais do que nunca, né?
+
+23
+00:01:54.650 --> 00:01:56.269
+O que é governança de dados?
+
+24
+00:01:56.390 --> 00:02:07.430
+Em 2026, inclusive, a gente vai ter aí, em meados de 2026, o início de CNPJs alfanuméricos, né?
+
+25
+00:02:07.469 --> 00:02:14.409
+Até então, eu falei que a gente tem aí por volta de 24 milhões de CNPJs ativos, né?
+
+26
+00:02:15.250 --> 00:02:19.689
+Se a gente for contar os inativos, esse número vai lá para cima.
+
+27
+00:02:19.930 --> 00:02:23.969
+Mas até então, todos os CNPJs existentes,
+
+28
+00:02:23.969 --> 00:02:25.810
+eles são formados por números.
+
+29
+00:02:26.490 --> 00:02:28.650
+Só que esses números estão chegando ao fim.
+
+30
+00:02:29.090 --> 00:02:32.009
+A combinação dos números está chegando ao fim.
+
+31
+00:02:32.650 --> 00:02:38.030
+E aí, vai acontecer mais ou menos o que aconteceu com as placas de automóveis,
+
+32
+00:02:38.469 --> 00:02:42.689
+que até um determinado tempo atrás eram todas com base em números,
+
+33
+00:02:43.509 --> 00:02:47.349
+e aí passaram a ser com base em letras e números, né?
+
+34
+00:02:47.349 --> 00:02:52.270
+E em meados agora de 2026, as novas empresas,
+
+35
+00:02:52.270 --> 00:02:57.729
+que passarem a serem constituídas a partir de junho e julho,
+
+36
+00:02:58.370 --> 00:03:02.009
+passarão a ter o CNPJ formado por letras e números.
+
+37
+00:03:02.710 --> 00:03:06.449
+De forma que as empresas que existirem até então,
+
+38
+00:03:06.870 --> 00:03:10.030
+continuam com seus CNPJs com números e não muda nada.
+
+39
+00:03:10.669 --> 00:03:15.949
+Mas para as novas empresas, já nascem com letras e números, né?
+
+40
+00:03:16.909 --> 00:03:19.009
+Às vezes isso não parece nada,
+
+41
+00:03:19.009 --> 00:03:21.330
+mas em vários sistemas,
+
+42
+00:03:21.330 --> 00:03:25.129
+onde a gente tem base de dados de CNPJs,
+
+43
+00:03:25.129 --> 00:03:28.930
+que são todo sistema tem que ter CNPJ,
+
+44
+00:03:28.930 --> 00:03:35.629
+vai ter que estar preparado os sistemas para aceitar só números,
+
+45
+00:03:35.629 --> 00:03:38.330
+ou aceitar números e letras.
+
+46
+00:03:38.330 --> 00:03:45.129
+Tem sistemas que se não forem corretamente parametrizados,
+
+47
+00:03:45.129 --> 00:03:48.930
+ele não aceita outro carácter que não número.
+
+48
+00:03:48.930 --> 00:03:49.430
+Então, parece uma alteração sutil, mas...
+
+49
+00:03:49.430 --> 00:03:49.729
+Então, parece uma alteração sutil, mas...
+
+50
+00:03:49.729 --> 00:03:50.430
+Então, parece uma alteração sutil, mas...
+
+51
+00:03:50.430 --> 00:03:50.930
+Então, parece uma alteração sutil, mas...
+
+52
+00:03:50.930 --> 00:03:51.430
+Então, parece uma alteração sutil, mas...
+
+53
+00:03:51.430 --> 00:03:51.930
+Então, parece uma alteração sutil, mas...
+
+54
+00:03:51.930 --> 00:03:53.229
+muitas vezes não é.
+
+55
+00:03:53.229 --> 00:03:56.430
+Então, tem que ter uma governança de dados
+
+56
+00:03:56.430 --> 00:03:59.430
+a tratar todos os dados adequadamente.
+
+57
+00:03:59.430 --> 00:04:02.830
+No caso de CNPJs que são clientes e fornecedores,
+
+58
+00:04:02.830 --> 00:04:08.729
+então vamos ter os clientes e fornecedores ativos, né?
+
+59
+00:04:08.729 --> 00:04:14.930
+Os inativos é importante às vezes deixar de stand-by
+
+60
+00:04:14.930 --> 00:04:17.129
+ou nem trazer na base,
+
+61
+00:04:17.129 --> 00:04:20.029
+para a base não ficar muito poluída e muito cheia.
+
+62
+00:04:20.029 --> 00:04:25.329
+E as novas empresas, os novos cadastros de clientes e fornecedores
+
+63
+00:04:25.329 --> 00:04:29.529
+já estarem preparados para aceitar letras e números, por exemplo.
+
+64
+00:04:29.529 --> 00:04:31.829
+Mas é só cadastro de CNPJ?
+
+65
+00:04:31.829 --> 00:04:34.730
+Não, cadastro de CNPJ é um dos, né?
+
+66
+00:04:34.730 --> 00:04:39.430
+Aí tem descrição de produtos, mercadorias,
+
+67
+00:04:39.430 --> 00:04:44.329
+as NCMs corretamente parametrizadas,
+
+68
+00:04:44.329 --> 00:04:49.629
+até porque em alguns casos vai ter redução de alíquotas, padrão geral.
+
+69
+00:04:49.629 --> 00:04:52.230
+E tem que ser com base nas NCMs.
+
+70
+00:04:52.230 --> 00:04:53.430
+Serviços, né?
+
+71
+00:04:53.430 --> 00:04:59.230
+O código da Lei Complementar 116 para o ISS, como já é hoje,
+
+72
+00:04:59.230 --> 00:05:04.529
+e os códigos da NBS para o IBS e CBS.
+
+73
+00:05:04.529 --> 00:05:09.829
+E o CCLS-TRIB, os CSTs, né?
+
+74
+00:05:09.829 --> 00:05:13.230
+Então, governança de dados,
+
+75
+00:05:13.230 --> 00:05:19.430
+mas no que nunca é como se fosse a locomotiva do trem,
+
+76
+00:05:19.629 --> 00:05:25.129
+tem que vir puxando todo o restante para que tudo dê certo.
+
+77
+00:05:25.129 --> 00:05:29.129
+Então, essencial para garantir a integridade,
+
+78
+00:05:29.129 --> 00:05:33.730
+transparência e segurança das informações fiscais
+
+79
+00:05:33.730 --> 00:05:37.129
+em um cenário de mudanças constantes, né?
+
+80
+00:05:37.129 --> 00:05:40.129
+Durante o período de transição de sete anos,
+
+81
+00:05:40.129 --> 00:05:44.230
+várias mudanças que vão ocorrendo ao longo do caminho
+
+82
+00:05:44.230 --> 00:05:48.730
+e que precisam estar todas equacionadas, né?
+
+83
+00:05:48.730 --> 00:05:51.029
+Integração, né?
+
+84
+00:05:51.029 --> 00:05:55.730
+Governança de riscos e compliance, chamada GRC,
+
+85
+00:05:55.730 --> 00:05:58.029
+a gestão integrada, né?
+
+86
+00:05:58.029 --> 00:06:02.029
+De GRC, governança de riscos e compliance,
+
+87
+00:06:02.029 --> 00:06:07.329
+ganha eficiência e fortalece a tomada de decisão.
+
+88
+00:06:07.329 --> 00:06:11.930
+Como eu disse, não é apenas uma narrativa, um blá-blá-blá,
+
+89
+00:06:11.930 --> 00:06:16.829
+mas um controle efetivo dentro da empresa
+
+90
+00:06:16.829 --> 00:06:18.529
+para fazer toda essa governança,
+
+91
+00:06:18.529 --> 00:06:23.329
+controle de riscos e de compliance dentro da empresa.

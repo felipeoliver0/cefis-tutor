@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 2974,
+    "title": "Reforma Tributária: texto final",
+    "subtitle": "Entenda os detalhes de todas as mudanças ocorridas na tributação do consumo",
+    "summary": "Neste curso você aprenderá sobre os princípios nos quais se baseia o novo modelo tributário, os seus objetivos, as alterações e as novas regras a serem aplicadas, os pontos positivos e negativos do texto final aprovado, o período de transição e as complexidades geradas às empresas, as características do novo IVA (IBS e CBS) e como serão definidas as suas alíquotas, o novo regime de creditamento, as tratativas para os saldos credores acumulados dos tributos que serão extintos, as características do novo Imposto Seletivo, as atividades e os produtos que terão tratamentos diferenciados, as funções do Comitê Gestor do IBS, os pontos de atenção quanto ao Fundo de Compensação de Benefícios fiscais do ICMS, as tratativas para a Zona Franca de Manaus, Área de Livre Comércio e Simples Nacional e quais serão os próximos passos da reforma tributária.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b962df6ac54e9aa0d114d696f1eaa02c1728385944.jpg",
+    "goals": [
+      "Apresentar de forma detalhada e prática o texto final da Reforma Tributária e preparar/alertar os profissionais para os desafios a serem enfrentados com a implementação do novo sistema tributário."
+    ],
+    "teacher": {
+      "id": 571177,
+      "name": "Wellington Santos",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1651070560.jpeg"
+    },
+    "duration": 10420,
+    "keywords": "reforma;tributaria;reforma tributaria",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 39,
+    "materialCount": 3,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 10090,
+    "averageRating": 9.31,
+    "practiceAverage": 9.29,
+    "trailer": {
+      "id": "ab15d36c-fb0f-461d-b021-abeec447f0f5",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ab15d36c-fb0f-461d-b021-abeec447f0f5/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ab15d36c-fb0f-461d-b021-abeec447f0f5/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ab15d36c-fb0f-461d-b021-abeec447f0f5/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ab15d36c-fb0f-461d-b021-abeec447f0f5/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-12-21T17:57:12.000Z",
+      "updatedAt": "2023-12-21T17:57:12.000Z"
+    },
+    "crcActive": true,
+    "crcCreditHours": 6,
+    "crcScore": {
+      "id": 294,
+      "courseId": 2974,
+      "crcCode": "SP-35372",
+      "data": [
+        {
+          "name": "AUD",
+          "values": [
+            6
+          ]
+        },
+        {
+          "name": "PERITO",
+          "values": [
+            6
+          ]
+        },
+        {
+          "name": "CMN",
+          "values": [
+            6
+          ]
+        },
+        {
+          "name": "SUSEP",
+          "values": [
+            6
+          ]
+        },
+        {
+          "name": "PREVICAUD",
+          "values": [
+            6
+          ]
+        },
+        {
+          "name": "PROGP",
+          "values": [
+            6
+          ]
+        },
+        {
+          "name": "PRORT",
+          "values": [
+            6
+          ]
+        },
+        {
+          "name": "PREVIC",
+          "values": [
+            6
+          ]
+        }
+      ],
+      "year": 2026,
+      "createdAt": "2026-01-09T18:45:59.000Z",
+      "updatedAt": "2026-01-09T18:45:59.000Z"
+    },
+    "launchDate": "2023-12-21T17:59:02.000Z",
+    "recordedAt": "2023-12-19T00:00:00.000Z",
+    "createdAt": "2023-12-19T07:41:42.000Z"
+  }
+}

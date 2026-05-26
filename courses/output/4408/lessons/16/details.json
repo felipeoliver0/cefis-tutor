@@ -1,0 +1,33 @@
+{
+  "id": 486182,
+  "title": "Período de apuração",
+  "position": 16,
+  "duration": 158,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c2a3814f-d0c8-4064-8500-171ecc69759a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2a3814f-d0c8-4064-8500-171ecc69759a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2a3814f-d0c8-4064-8500-171ecc69759a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2a3814f-d0c8-4064-8500-171ecc69759a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2a3814f-d0c8-4064-8500-171ecc69759a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

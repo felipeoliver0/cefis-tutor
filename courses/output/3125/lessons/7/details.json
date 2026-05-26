@@ -1,0 +1,33 @@
+{
+  "id": 475207,
+  "title": "Principais tributos",
+  "position": 7,
+  "duration": 366,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/656796f9-ccdc-4b9e-b0fc-fb40ec700ab3/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/656796f9-ccdc-4b9e-b0fc-fb40ec700ab3/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/656796f9-ccdc-4b9e-b0fc-fb40ec700ab3/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/656796f9-ccdc-4b9e-b0fc-fb40ec700ab3/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/656796f9-ccdc-4b9e-b0fc-fb40ec700ab3/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

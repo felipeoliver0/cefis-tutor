@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4032,
+    "title": "Contabilidade para peritos",
+    "subtitle": "A prática da perícia",
+    "summary": "Neste curso de Contabilidade para peritos, você irá aprender na prática tudo o que precisa saber sobre perícia contábil. Aprenderá os fundamentos e a prática da perícia contábil, como capacitar um perito contábil, as demonstrações financeiras e contábeis obrigatórias, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre contabilidade para peritos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/7b47a768-2f09-4717-b27c-79f951d8fc02-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Contabilidade para peritos é a capacitação para a aplicação prática da perícia contábil, abordando conceitos e práticas essenciais para a avaliação e análise contábil em diferentes contextos."
+    ],
+    "teacher": {
+      "id": 468511,
+      "name": "CAMILA OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1636328395.jpeg"
+    },
+    "duration": 6954,
+    "keywords": "contabilidade;peritos",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 27,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 76,
+    "averageRating": 9.34,
+    "practiceAverage": 9.23,
+    "trailer": {
+      "id": "839dc818-7ed9-412e-819a-b0a4f6127a93",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/839dc818-7ed9-412e-819a-b0a4f6127a93/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/839dc818-7ed9-412e-819a-b0a4f6127a93/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/839dc818-7ed9-412e-819a-b0a4f6127a93/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/839dc818-7ed9-412e-819a-b0a4f6127a93/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-31T12:04:27.000Z",
+      "updatedAt": "2025-10-31T12:04:26.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-05T11:47:09.000Z",
+    "recordedAt": "2025-10-07T00:00:00.000Z",
+    "createdAt": "2025-10-07T08:55:40.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 488208,
+  "title": "Irregularidades em Regimes Especiais",
+  "position": 26,
+  "duration": 221,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/a1dd8712-ab45-41c1-8df4-d3a847345a70/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1dd8712-ab45-41c1-8df4-d3a847345a70/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1dd8712-ab45-41c1-8df4-d3a847345a70/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1dd8712-ab45-41c1-8df4-d3a847345a70/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1dd8712-ab45-41c1-8df4-d3a847345a70/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

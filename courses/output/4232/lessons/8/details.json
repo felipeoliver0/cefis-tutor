@@ -1,0 +1,33 @@
+{
+  "id": 483510,
+  "title": "Acidentes de trabalho e auxilio doença",
+  "position": 8,
+  "duration": 140,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a1318941-c85d-4bf7-9b60-95f355852c69/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1318941-c85d-4bf7-9b60-95f355852c69/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1318941-c85d-4bf7-9b60-95f355852c69/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1318941-c85d-4bf7-9b60-95f355852c69/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a1318941-c85d-4bf7-9b60-95f355852c69/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 460826,
+  "title": "PIS e COFINS",
+  "position": 26,
+  "duration": 306,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ca8834c4-971c-420b-a0f1-f54940be93ab/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca8834c4-971c-420b-a0f1-f54940be93ab/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca8834c4-971c-420b-a0f1-f54940be93ab/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca8834c4-971c-420b-a0f1-f54940be93ab/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ca8834c4-971c-420b-a0f1-f54940be93ab/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

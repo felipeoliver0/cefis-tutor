@@ -1,0 +1,33 @@
+{
+  "id": 486518,
+  "title": "Local da operação",
+  "position": 25,
+  "duration": 231,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/64fa083c-91ea-4a75-b2e6-eb9dfef9e144/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/64fa083c-91ea-4a75-b2e6-eb9dfef9e144/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/64fa083c-91ea-4a75-b2e6-eb9dfef9e144/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/64fa083c-91ea-4a75-b2e6-eb9dfef9e144/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/64fa083c-91ea-4a75-b2e6-eb9dfef9e144/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

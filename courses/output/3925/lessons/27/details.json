@@ -1,0 +1,33 @@
+{
+  "id": 480054,
+  "title": "Análise por atividade - parte 2",
+  "position": 27,
+  "duration": 204,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d9b0082b-6321-4c90-b7dc-2df23ca2d482/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d9b0082b-6321-4c90-b7dc-2df23ca2d482/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d9b0082b-6321-4c90-b7dc-2df23ca2d482/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d9b0082b-6321-4c90-b7dc-2df23ca2d482/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d9b0082b-6321-4c90-b7dc-2df23ca2d482/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

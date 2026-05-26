@@ -1,0 +1,33 @@
+{
+  "id": 488209,
+  "title": "Descrição de mercadorias",
+  "position": 27,
+  "duration": 195,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/38756920-d40f-4f14-ad32-9c20d77952c9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/38756920-d40f-4f14-ad32-9c20d77952c9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/38756920-d40f-4f14-ad32-9c20d77952c9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/38756920-d40f-4f14-ad32-9c20d77952c9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/38756920-d40f-4f14-ad32-9c20d77952c9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

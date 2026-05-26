@@ -1,0 +1,33 @@
+{
+  "id": 482890,
+  "title": "Prática",
+  "position": 11,
+  "duration": 516,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/96403b15-e265-4201-879b-5d292eeae838/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96403b15-e265-4201-879b-5d292eeae838/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96403b15-e265-4201-879b-5d292eeae838/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96403b15-e265-4201-879b-5d292eeae838/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/96403b15-e265-4201-879b-5d292eeae838/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

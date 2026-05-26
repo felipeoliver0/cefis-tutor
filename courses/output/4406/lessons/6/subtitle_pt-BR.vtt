@@ -1,0 +1,225 @@
+WEBVTT
+
+2
+00:00:00.110 --> 00:00:07.309
+pessoal nossa ideia aqui hoje falamos um pouquinho de areia virar chip o chip virar uma CPU que vira
+
+3
+00:00:07.309 --> 00:00:13.970
+um computador podemos ter a GPU e agora a gente quer conectar isso um pouquinho com inteligência
+
+4
+00:00:13.970 --> 00:00:19.429
+artificial que é a nossa principal motivação de hoje e aí pessoal não podemos deixar de comentar
+
+5
+00:00:19.429 --> 00:00:27.109
+que a não é necessariamente uma coisa nova temos um tipo de a muito antigo já que é o reconhecimento
+
+6
+00:00:27.109 --> 00:00:34.670
+de padrões e isso já tá amplamente divulgado e usado em muitos lugares em muitas aplicações
+
+7
+00:00:34.670 --> 00:00:43.250
+em que você treina modelos esses modelos observam dados e fazem inferências naqueles dados por
+
+8
+00:00:43.250 --> 00:00:49.250
+exemplo reconhecimento de voz é algo que já existe há bastante tempo reconhecimento de imagens
+
+9
+00:00:49.250 --> 00:00:56.149
+reconhecimento de placa de carro né hoje a gente tem nas estradas uma coisa que se chama free flow
+
+10
+00:00:56.149 --> 00:00:57.090
+especialmente na área de educação e de educação de educação de educação de educação de educação de educação de educação de educação de educação
+
+11
+00:00:57.090 --> 00:01:01.710
+é diferente para quem mora no estado de São Paulo isso é mais comum embora isso já esteja
+
+12
+00:01:01.710 --> 00:01:08.430
+no Brasil inteiro que é o pagamento de pedágio sem cabine nenhuma de pedágio pelo reconhecimento da
+
+13
+00:01:08.430 --> 00:01:14.409
+placa dos carros o que eu ressalto aqui isso não é uma tecnologia nova claro que ela
+
+14
+00:01:14.409 --> 00:01:21.150
+amadureceu a gente tem computadores mais poderosos câmeras melhores melhor resolução da imagem Mas a
+
+15
+00:01:21.150 --> 00:01:26.849
+técnica é uma técnica já consolidada há muito tempo e a gente tem isso para áudio a gente tem isso para
+
+16
+00:01:26.849 --> 00:01:29.750
+a gente tem isso para imagem, a gente tem isso para imagens médicas.
+
+17
+00:01:30.290 --> 00:01:34.409
+Muitas empresas fazem detecção de várias doenças a partir de imagens médicas.
+
+18
+00:01:34.409 --> 00:01:41.489
+O que se tornou a grande novidade do momento, pessoal, é a IA generativa.
+
+19
+00:01:42.409 --> 00:01:47.930
+Então essa IA é uma IA que reconhece padrões, mas ela não gera dados, não gera um texto.
+
+20
+00:01:48.329 --> 00:01:54.230
+A IA generativa, através do que a gente chama de LLM, as Large Language Models,
+
+21
+00:01:54.230 --> 00:02:00.709
+elas são capazes de gerar dados conforme você pedir no que a gente chama de Prompt.
+
+22
+00:02:01.430 --> 00:02:06.450
+Então, por favor, IA, gere uma imagem de uma pessoa admirando uma planta.
+
+23
+00:02:06.549 --> 00:02:10.430
+IA, gere um texto sobre inteligência artificial.
+
+24
+00:02:11.409 --> 00:02:20.129
+E é muito curioso, pessoal, que às vezes a gente vê os resultados da IA e eles são surpreendentemente bons,
+
+25
+00:02:20.129 --> 00:02:24.129
+mas basicamente o que foi feito para viabilizar...
+
+26
+00:02:24.750 --> 00:02:28.250
+O pessoal brinca que eles pegaram tudo que está na internet,
+
+27
+00:02:29.009 --> 00:02:33.729
+todo o conteúdo da internet, de livros, artigos científicos e sites,
+
+28
+00:02:34.469 --> 00:02:37.590
+e colocaram no modelo, eles chamam isso de modelo,
+
+29
+00:02:38.069 --> 00:02:41.789
+e treinaram um sistema que quando você pede alguma coisa,
+
+30
+00:02:42.610 --> 00:02:48.250
+é um sistema meramente estatístico, que com base nas suas palavras,
+
+31
+00:02:48.250 --> 00:02:52.250
+do que você pediu no Prompt, ele tenta ver a probabilidade
+
+32
+00:02:54.229 --> 00:02:58.469
+de gerar uma nova palavra entre duas palavras do seu Prompt.
+
+33
+00:02:58.469 --> 00:03:01.990
+E ele vai expandindo isso, expandindo isso, até gerar todo o texto.
+
+34
+00:03:01.990 --> 00:03:05.229
+E aí tem algumas condições para ele falar, agora terminei, preciso parar.
+
+35
+00:03:05.229 --> 00:03:12.229
+Então, pessoal, é muito curioso isso, mas assim, e de forma bastante impressionante,
+
+36
+00:03:12.229 --> 00:03:16.229
+a gente está falando de toda a internet, como que você treina isso,
+
+37
+00:03:16.229 --> 00:03:20.229
+e como que você consegue fazer, gerar dados com base nisso.
+
+38
+00:03:20.229 --> 00:03:22.849
+Basicamente, as GPUs, com todas as multiplicações que a gente tem,
+
+39
+00:03:22.849 --> 00:03:23.870
+com todas as multiplicações que a gente tem, com todas as multiplicações que a gente tem,
+
+40
+00:03:23.870 --> 00:03:24.009
+com todas as multiplicações que a gente tem, com todas as multiplicações que a gente tem,
+
+41
+00:03:24.009 --> 00:03:26.770
+todas as multiplicações de matriz paralelas que a gente consegue fazer,
+
+42
+00:03:26.770 --> 00:03:28.770
+têm viabilizado esses modelos.
+
+43
+00:03:28.770 --> 00:03:35.629
+Então, pessoal, toda a parte de IA, seja com imagem, seja com texto,
+
+44
+00:03:35.629 --> 00:03:41.710
+seja com vídeo, seja com áudio, a gente tem muitas multiplicação de matriz.
+
+45
+00:03:41.710 --> 00:03:46.629
+Podemos ter uma outra aula, falando dessas multiplicação de matriz,
+
+46
+00:03:46.629 --> 00:03:52.449
+mas se você fizer um estudo, para treinar, para ensinar um LLM,
+
+47
+00:03:52.449 --> 00:03:53.650
+quando a gente fala em LLM,
+
+48
+00:03:53.650 --> 00:04:00.689
+pode ser ali o chat GPT, pode ser o Google Gemini, o Cloud, o Grok.
+
+49
+00:04:01.389 --> 00:04:08.710
+Para você fazer um treinamento com GPUs, isso já leva semanas.
+
+50
+00:04:09.210 --> 00:04:12.270
+Com GPUs das mais sofisticadas.
+
+51
+00:04:12.650 --> 00:04:15.949
+Se a gente fosse fazer esse treinamento com CPUs,
+
+52
+00:04:16.149 --> 00:04:18.870
+sem todo aquele paralelismo que nós comentamos,
+
+53
+00:04:18.870 --> 00:04:24.970
+o treinamento poderia levar anos e talvez, sem exagero, milhares de anos.
+
+54
+00:04:25.509 --> 00:04:30.850
+Imagina você ter um processador treinando um modelo matemático
+
+55
+00:04:30.850 --> 00:04:33.750
+com todo o conteúdo da internet.
+
+56
+00:04:34.170 --> 00:04:37.850
+Então isso poderia levar dezenas, centenas, milhares de anos.
+
+57
+00:04:38.290 --> 00:04:43.370
+Então as GPUs acabam sendo fundamentais para a IA generativa.

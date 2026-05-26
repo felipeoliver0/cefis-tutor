@@ -1,0 +1,33 @@
+{
+  "id": 482575,
+  "title": "Compreendendo as Reações Parte 01",
+  "position": 16,
+  "duration": 333,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/39d571d1-b933-473e-91e4-e731b04bc3aa/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/39d571d1-b933-473e-91e4-e731b04bc3aa/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/39d571d1-b933-473e-91e4-e731b04bc3aa/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/39d571d1-b933-473e-91e4-e731b04bc3aa/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/39d571d1-b933-473e-91e4-e731b04bc3aa/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

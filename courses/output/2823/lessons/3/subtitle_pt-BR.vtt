@@ -1,0 +1,393 @@
+WEBVTT
+
+1
+00:00:00.680 --> 00:00:05.090
+aqui vamos determinar em tópicos de uma forma bem resumida,
+
+2
+00:00:05.099 --> 00:00:06.500
+pra que que serve o C F é o P.
+
+3
+00:00:06.510 --> 00:00:08.289
+Então, primeiro de tudo,
+
+4
+00:00:08.300 --> 00:00:12.810
+ele vai servir pra classificar a natureza da operação e da prestação.
+
+5
+00:00:12.819 --> 00:00:15.609
+Então nós teremos até um exemplo prático aqui.
+
+6
+00:00:15.619 --> 00:00:19.930
+Toda vez que você olhar um documento fiscal, que você receber uma nota,
+
+7
+00:00:19.940 --> 00:00:22.629
+a partir de agora olha se o se F é o
+
+8
+00:00:22.702 --> 00:00:27.392
+se relaciona com o campo natureza de operação em cima,
+
+9
+00:00:27.402 --> 00:00:32.292
+na nota fiscal, logo abaixo dos dados da sua empresa, tem um campo escrito assim,
+
+10
+00:00:32.302 --> 00:00:34.013
+natureza da operação.
+
+11
+00:00:34.022 --> 00:00:38.472
+Nesse campo precisa existir um texto curto, uma frase,
+
+12
+00:00:38.483 --> 00:00:40.673
+identificando que natureza de operação que está
+
+13
+00:00:40.682 --> 00:00:44.652
+acontecendo venda de mercadoria remessa para demonstração,
+
+14
+00:00:44.726 --> 00:00:46.736
+remessa pra conserto,
+
+15
+00:00:46.745 --> 00:00:49.655
+venda de mercadoria com produto sujeito à substituição
+
+16
+00:00:49.666 --> 00:00:54.055
+tributária precisa existir uma frase e essa frase precisa
+
+17
+00:00:54.066 --> 00:00:59.645
+combinar precisa se relacionar com o c f o p que nós temos no documento fiscal,
+
+18
+00:00:59.655 --> 00:01:03.936
+afinal, o C F o P é que vai classificar a natureza da operação.
+
+19
+00:01:03.945 --> 00:01:06.676
+Então os dois têm que tá falando a mesma linguagem.
+
+20
+00:01:07.239 --> 00:01:12.050
+O c F A P. Ele também vai determinar a tributação por incrível que pareça, né?
+
+21
+00:01:12.059 --> 00:01:16.209
+Esse código ele é um código que vai falar da natureza da operação,
+
+22
+00:01:16.220 --> 00:01:20.169
+mas também vai ditar algumas questões da tributação.
+
+23
+00:01:20.180 --> 00:01:24.319
+Nós temos a possibilidade de identificar até mesmo
+
+24
+00:01:24.330 --> 00:01:27.769
+determinadas características tributárias através do C F A.
+
+25
+00:01:27.779 --> 00:01:29.755
+P. Atualmente nós temos C F.
+
+26
+00:01:29.765 --> 00:01:31.356
+O PS específicos, por exemplo,
+
+27
+00:01:31.365 --> 00:01:35.555
+de substituição tributária já há muito tempo vem sendo prorrogada, né?
+
+28
+00:01:35.566 --> 00:01:37.716
+A extinção desse C f A PS específicos
+
+29
+00:01:37.725 --> 00:01:40.515
+de substituição tributária A previsão é que a partir
+
+30
+00:01:40.526 --> 00:01:44.316
+de abril de dois mil e vinte e quatro não tenhamos mais esse C f o PS,
+
+31
+00:01:44.325 --> 00:01:48.316
+mas por enquanto eles existem e através deles
+
+32
+00:01:48.325 --> 00:01:51.302
+nós já conseguimos identificar um quesito de tributação.
+
+33
+00:01:51.311 --> 00:01:54.891
+Porque se o c f o P está indicando substituição tributária,
+
+34
+00:01:54.902 --> 00:01:59.092
+significa que nessa operação nós teremos essa tributação.
+
+35
+00:01:59.101 --> 00:02:03.382
+Existirá essa característica da A S T. Então o C f o P.
+
+36
+00:02:03.391 --> 00:02:07.662
+Ele também vai trazer essa indicação da
+
+37
+00:02:07.671 --> 00:02:10.241
+tributação que será aplicada na nota fiscal.
+
+38
+00:02:10.687 --> 00:02:12.848
+Outra coisa importante o c f a,
+
+39
+00:02:12.858 --> 00:02:17.039
+p ele vai ser determinante pra classificar se esse
+
+40
+00:02:17.048 --> 00:02:20.539
+documento é um documento de entrada ou é um documento
+
+41
+00:02:20.548 --> 00:02:26.378
+de saída quando nós falamos dos dígitos do C f a P em breve vocês vão ver aqui.
+
+42
+00:02:26.389 --> 00:02:31.529
+Nós temos essa identificação onde temos c F o p de entrada e de saída.
+
+43
+00:02:31.539 --> 00:02:34.998
+Se for de entrada, teremos que classificar no livro de entrada.
+
+44
+00:02:35.065 --> 00:02:38.354
+Se for de saída, teremos que se classificar no livro de Saídas.
+
+45
+00:02:38.365 --> 00:02:42.475
+Então, essa é mais uma indicação de serventia, né?
+
+46
+00:02:42.485 --> 00:02:45.934
+Do C F A P e por último, através do c, f a P.
+
+47
+00:02:45.945 --> 00:02:49.755
+Nós também conseguimos identificar se essa operação
+
+48
+00:02:49.764 --> 00:02:51.794
+vai movimentar ou não o estoque.
+
+49
+00:02:51.804 --> 00:02:54.554
+Vou dar um exemplo prático aqui pra vocês.
+
+50
+00:02:54.565 --> 00:02:59.375
+Se eu estou recebendo uma nota fiscal de compra de mercadoria,
+
+51
+00:03:00.210 --> 00:03:06.559
+uso e consumo, eu comprei, Sei lá produtos de limpeza, produtos de higiene,
+
+52
+00:03:06.570 --> 00:03:08.419
+material de escritório.
+
+53
+00:03:08.429 --> 00:03:13.070
+Isso não vai movimentar o meu estoque de mercadorias pra revenda. Por quê?
+
+54
+00:03:13.080 --> 00:03:17.899
+Porque eu tô comprando mercadorias que vão ser de utilidade na minha empresa,
+
+55
+00:03:17.910 --> 00:03:20.940
+pra uso e consumo ou pra um ativo imobilizado.
+
+56
+00:03:20.949 --> 00:03:23.964
+Comprei um computador, comprei uma impressora.
+
+57
+00:03:23.975 --> 00:03:24.964
+Agora,
+
+58
+00:03:24.975 --> 00:03:29.764
+se eu estou comprando uma mercadoria e essa mercadoria que eu estou comprando é
+
+59
+00:03:29.774 --> 00:03:33.645
+pra revenda o C f o P vai indicar isso pra nós e,
+
+60
+00:03:33.654 --> 00:03:38.115
+automaticamente, ele também indica que vai movimentar o meu estoque, certo.
+
+61
+00:03:38.125 --> 00:03:39.684
+Então, de uma forma bem prática,
+
+62
+00:03:39.695 --> 00:03:43.304
+nós teremos vários exemplos aqui no decorrer da nossa aula
+
+63
+00:03:44.020 --> 00:03:48.789
+aqui eu tenho um exemplo, né? Deixei até grandão aqui pra vocês verem.
+
+64
+00:03:48.800 --> 00:03:51.149
+Olha só na natureza da operação,
+
+65
+00:03:51.160 --> 00:03:53.070
+que é aquele campo bem no início da nota
+
+66
+00:03:53.080 --> 00:03:57.050
+fiscal eu tenho aqui oh venda de mercadorias adquirida
+
+67
+00:03:57.059 --> 00:04:03.169
+ou recebida de terceiros e embaixo eu tenho um C f o P seis cento e dois.
+
+68
+00:04:03.179 --> 00:04:06.570
+Ou seja, tá combinando se f O p seis
+
+69
+00:04:06.673 --> 00:04:10.542
+entre dois significa justamente venda de mercadoria adquirida,
+
+70
+00:04:10.552 --> 00:04:11.882
+recebida de terceiros.
+
+71
+00:04:11.893 --> 00:04:16.803
+A famosa revenda, Então, a partir de agora, quando pegar uma nota fiscal em mãos,
+
+72
+00:04:16.812 --> 00:04:20.562
+a primeira coisa que você vai olhar é a natureza da operação,
+
+73
+00:04:20.572 --> 00:04:24.583
+está combinando com o c f a p opa, Joy, Tá tudo combinando.
+
+74
+00:04:24.592 --> 00:04:29.222
+Então, correto segue a vida! Mais uma coisa interessante
+
+75
+00:04:29.325 --> 00:04:34.716
+pode acontecer de você verificar mais de um C f A P Numa nota fiscal.
+
+76
+00:04:34.726 --> 00:04:39.855
+Às vezes, pode acontecer de você ter esse produto aqui seis cento e dois,
+
+77
+00:04:39.865 --> 00:04:44.816
+que é uma venda ali de mercadoria recebida de terceiros ou adquirida de terceiros.
+
+78
+00:04:44.825 --> 00:04:48.036
+E na linha de baixo você tem um outro produto com o C F A P,
+
+79
+00:04:48.045 --> 00:04:51.915
+Por exemplo seis novecentos e dez que é uma bonificação.
+
+80
+00:04:52.570 --> 00:04:56.420
+Pode isso. Jo E ter mais de um C F A p numa mesma nota fiscal?
+
+81
+00:04:56.429 --> 00:05:01.450
+Sim, Podemos, Desde que se relacione a natureza da operação,
+
+82
+00:05:01.459 --> 00:05:05.700
+imagina que nessa operação de venda esse cliente tenha comprado cem unidades,
+
+83
+00:05:05.709 --> 00:05:08.739
+mas eu quero eu quero unificá lo com mais dez.
+
+84
+00:05:08.750 --> 00:05:09.700
+Então,
+
+85
+00:05:09.709 --> 00:05:14.835
+dentro da operação comercial que tá acontecendo dentro da operação de venda,
+
+86
+00:05:14.846 --> 00:05:21.656
+nós temos C f a P de venda e de bonificação porque se relaciona um outro exemplo.
+
+87
+00:05:21.665 --> 00:05:27.735
+Eu estou fazendo uma venda de mercadoria sem s t e uma venda de mercadoria com s t,
+
+88
+00:05:27.746 --> 00:05:31.816
+esse cliente tá comprando dois itens da minha empresa sem problema nenhum.
+
+89
+00:05:31.825 --> 00:05:33.256
+Os dois não são venda,
+
+90
+00:05:33.265 --> 00:05:38.691
+então eu posso ter mais de um C F A dentro da nota fiscal um c F a p de venda comum um c
+
+91
+00:05:38.701 --> 00:05:41.891
+f a p de venda com s t Na natureza da operação
+
+92
+00:05:41.902 --> 00:05:45.332
+lá em cima vai Tá escrito venda de mercadorias e tudo certo?
+
+93
+00:05:45.342 --> 00:05:48.891
+O que não podemos eh ter dentro da nota fiscal.
+
+94
+00:05:48.902 --> 00:05:53.812
+Imagina só numa operação dessa aqui venda de mercadoria e ao mesmo
+
+95
+00:05:53.821 --> 00:05:57.372
+tempo ter um c f a p aqui de remessa pra conserto.
+
+96
+00:05:57.381 --> 00:06:02.752
+Nossa, essa natureza da operação não se combina, então isso não pode acontecer.
+
+97
+00:06:03.070 --> 00:06:06.359
+Mas Se a natureza da operação combinar,
+
+98
+00:06:06.369 --> 00:06:10.299
+podemos sim ter mais de um C F a p dentro da mesma nota fiscal.

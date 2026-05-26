@@ -1,0 +1,33 @@
+{
+  "id": 458309,
+  "title": "Profissional declarante",
+  "position": 42,
+  "duration": 132,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e62a27b5-243e-4612-b2fc-512e83545662/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e62a27b5-243e-4612-b2fc-512e83545662/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e62a27b5-243e-4612-b2fc-512e83545662/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e62a27b5-243e-4612-b2fc-512e83545662/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e62a27b5-243e-4612-b2fc-512e83545662/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:29.640
+Vamos analisar agora definições e conceitos, gosto muito, estou trazendo nessa aula, trazendo definições e conceitos porque é importante a gente saber cada item da apuração para que a gente não tenha dúvidas, vamos começar pelo conceito dos eventos, eventos é algo que a gente já conhece, um conceito que nós já conhecemos não somente por conta do IBS e da CBS,
+
+3
+00:00:30.000 --> 00:00:51.859
+mas também por conta dos nossos antigos tributos, a gente já registra eventos na NFE a decorrer das nossas operações, cartas de correção, cancelamento, desconhecimento, então o evento ele é um ato que traz uma informação, registra um evento naquele documento, naquela operação.
+
+4
+00:00:51.859 --> 00:00:59.859
+No contexto da DERI, considera-se evento o arquivo eletrônico em formato específico estruturado.
+
+5
+00:01:00.000 --> 00:01:28.299
+Estruturado conforme layout, conforme a tabela do contribuinte, as tabelas dos contribuintes vão armazenar os dados cadastrais e estruturais de referência essencial para que a gente possa parametrizar e validar os eventos periódicos das nossas apurações, essas tabelas são gerenciadas e preenchidas mediante o envio dos eventos gerados e transmitidos pelo contribuinte.
+
+6
+00:01:28.299 --> 00:01:29.879
+Me conta.
+
+7
+00:01:30.000 --> 00:01:46.379
+Até aqui, você entrega o RE-INF? Se você entrega o RE-INF, a gente entende muito bem o que está dizendo aqui, né? Vou fazer as minhas apurações, vou parametrizar as minhas operações e vou enviar os meus eventos, igual a gente faz no RE-INF.
+
+8
+00:01:46.379 --> 00:01:58.420
+O envio deve ocorrer no início da obrigatoriedade da entrega da DERI ou em caso de manutenção, permitindo a gestão do ciclo de vida das informações. Quais informações?
+
+9
+00:01:58.920 --> 00:01:59.680
+Inclusão.
+
+10
+00:02:00.000 --> 00:02:01.599
+Alteração e exclusão.
+
+11
+00:02:02.000 --> 00:02:17.300
+Como o histórico das nossas informações dos contribuintes, ou seja, nós vamos registrando os eventos, observando as operações, observando os fatos geradores e vamos fazendo as nossas transmissões.
+
+12
+00:02:18.300 --> 00:02:20.919
+Sistemática das tabelas, né?
+
+13
+00:02:20.919 --> 00:02:29.000
+As tabelas dos sistemas também são denominadas como tabelas de domínio ou tabelas de códigos auxiliares.
+
+14
+00:02:29.000 --> 00:02:32.460
+E são um conjunto de valores e códigos padronizados.
+
+15
+00:02:33.060 --> 00:02:35.840
+Também conhecemos o conceito das tabelas.
+
+16
+00:02:36.599 --> 00:02:39.219
+Utilizamos, né? Você que apura ICMS, me conta.
+
+17
+00:02:39.400 --> 00:02:41.219
+Você utiliza as tabelas do SPED?
+
+18
+00:02:42.120 --> 00:02:45.879
+Vira e mexe, né? Se você ainda cuida de muitos estados, mais ainda.
+
+19
+00:02:46.280 --> 00:02:51.060
+A gente tem ali todo um detalhamento das tabelas, do que o estado permite ou não.
+
+20
+00:02:51.060 --> 00:02:58.560
+Então, o conceito aqui de tabelas, que vem trazendo para nós os códigos padronizados, é algo que nós já estamos habituados.
+
+21
+00:02:59.000 --> 00:03:04.860
+Para demonstrar as operações a partir dos códigos das tabelas.
+
+22
+00:03:05.520 --> 00:03:20.680
+Temos aqui os repositórios oficiais e centralizadores dos códigos, classificações e parâmetros que são utilizados para validar as regras de negócio e para também a correta apuração dos tributos.
+
+23
+00:03:20.680 --> 00:03:27.680
+O conteúdo dessas tabelas é alterado somente mediante publicação de novo ato administrativo.
+
+24
+00:03:29.000 --> 00:03:35.120
+Diferente do que nós temos hoje nas atualizações das tabelas do SPED.
+
+25
+00:03:35.439 --> 00:03:37.360
+Como é que funciona a tabela do SPED, pessoal?
+
+26
+00:03:37.560 --> 00:03:42.060
+Quem apura o SPED, me conta aqui se você faz isso aí no seu estado, né?
+
+27
+00:03:42.379 --> 00:03:46.300
+Me conta o estado que você está, que a gente vai saber as tabelas também, né?
+
+28
+00:03:47.080 --> 00:03:51.159
+Os estados, eles vão atualizando as tabelas lá no portal do SPED.
+
+29
+00:03:51.500 --> 00:03:58.159
+Quero saber os ajustes que eu faço na apuração do ICMS de Rondônia.
+
+30
+00:03:59.000 --> 00:04:02.340
+Do Tocantins, do Acre, do Maranhão.
+
+31
+00:04:02.620 --> 00:04:03.719
+Como que eu fico sabendo disso?
+
+32
+00:04:03.719 --> 00:04:23.959
+Eu entro no portal do SPED, clico lá, tabelas do SPED, escolho o meu estado, escolho o tipo de tabela que eu vou utilizar, se é de apuração, se é de documentos fiscais e seleciono o código para fazer a aderência com as nossas operações.
+
+33
+00:04:23.959 --> 00:04:27.959
+Aqui nós teremos a emissão de novos códigos.
+
+34
+00:04:29.000 --> 00:04:33.579
+Novas tabelas a partir de ato administrativo.
+
+35
+00:04:34.139 --> 00:04:41.600
+Então, a dinâmica de consulta das tabelas da DERI vai ser diferente da forma de consulta da tabela do SPED.
+
+36
+00:04:42.040 --> 00:04:50.420
+A tabela do SPED, eu entro no SPED, baixo a tabela do estado, verifico se é de apuração, se é de documento e ajusto ali a minha operação.
+
+37
+00:04:50.420 --> 00:04:56.600
+A DERI, as tabelas serão alteradas conforme ato administrativo em conjunto.
+
+38
+00:04:56.819 --> 00:04:58.980
+Da Receita Federal com o Comitê.
+
+39
+00:04:59.000 --> 00:04:59.639
+Comitê Gestor.
+
+40
+00:04:59.920 --> 00:05:02.800
+Então, fica aqui a atenção de fazer o quê?
+
+41
+00:05:02.980 --> 00:05:04.220
+O acompanhamento.
+
+42
+00:05:04.939 --> 00:05:07.000
+São exemplos de tabelas do sistema.
+
+43
+00:05:07.459 --> 00:05:14.620
+Tabela de códigos auxiliares, código de tributação e tabela dos planos de contas referenciais.
+
+44
+00:05:15.060 --> 00:05:17.259
+E aqui, pessoal, até um ponto de atenção para nós, né?
+
+45
+00:05:17.860 --> 00:05:21.920
+Nós teremos da COSIF, da ENF e da SUSEP.
+
+46
+00:05:21.920 --> 00:05:28.920
+Além, claro, da nossa tabela comum do plano de contas usada normalmente nas empresas comerciais.
+
+47
+00:05:29.000 --> 00:05:34.139
+Essa aqui é a que a gente já tem no plano referenciado da Receita Federal.
+
+48
+00:05:34.420 --> 00:05:41.899
+Então, veja que temos até as tabelas dos planos de contas referenciais trazendo específicos.
+
+49
+00:05:42.300 --> 00:05:45.019
+COSIF, ANS, SUSEP.
+
+50
+00:05:45.420 --> 00:05:54.779
+Porque as informações, lembra do começo da nossa aula, elas irão partir também, não só do fiscal, mas da contabilidade.

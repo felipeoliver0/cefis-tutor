@@ -1,0 +1,33 @@
+{
+  "id": 479019,
+  "title": "Diferenças",
+  "position": 13,
+  "duration": 172,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c81de493-6688-4ed8-87a5-140e2ac65788/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c81de493-6688-4ed8-87a5-140e2ac65788/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c81de493-6688-4ed8-87a5-140e2ac65788/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c81de493-6688-4ed8-87a5-140e2ac65788/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c81de493-6688-4ed8-87a5-140e2ac65788/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

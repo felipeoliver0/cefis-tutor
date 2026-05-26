@@ -1,0 +1,33 @@
+{
+  "id": 463750,
+  "title": "Terceirização do comércio exterior",
+  "position": 2,
+  "duration": 91,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/59406a56-209b-4683-808a-6138dca00a90/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59406a56-209b-4683-808a-6138dca00a90/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59406a56-209b-4683-808a-6138dca00a90/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59406a56-209b-4683-808a-6138dca00a90/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/59406a56-209b-4683-808a-6138dca00a90/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

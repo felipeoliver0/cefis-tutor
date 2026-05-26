@@ -1,0 +1,1741 @@
+WEBVTT
+
+1
+00:00:02.440 --> 00:00:03.369
+Olá pessoal,
+
+2
+00:00:03.380 --> 00:00:08.189
+Vamos aqui continuar nosso curso de F D Escrituração fiscal digital aqui pela CFIS.
+
+3
+00:00:08.199 --> 00:00:14.310
+Agora vamos dar início ao módulo prático da F D ICMS IPI.
+
+4
+00:00:14.319 --> 00:00:17.290
+A gente vai aqui cadastrar uma empresa,
+
+5
+00:00:17.299 --> 00:00:22.329
+lançar as operações e finalizar a escrituração tá bom, Então vamos lá.
+
+6
+00:00:22.340 --> 00:00:23.190
+Vamos começar
+
+7
+00:00:23.819 --> 00:00:27.090
+então pessoal, primeiramente eh, a gente vai fazer o download
+
+8
+00:00:28.229 --> 00:00:33.639
+EFD p v A é o programa! Validador é assinar tá?
+
+9
+00:00:33.650 --> 00:00:37.360
+Então a gente o p v l tá aqui no site do SPED
+
+10
+00:00:37.369 --> 00:00:42.900
+Programa validador e assinar p v a versão quatro zero três tá,
+
+11
+00:00:43.540 --> 00:00:44.990
+ele tá no portal do SPED.
+
+12
+00:00:45.000 --> 00:00:47.990
+Nós mostramos pra vocês o Portal do SPED lá já durante o
+
+13
+00:00:48.000 --> 00:00:52.849
+curso Tá aqui em downloads é a primeira opção validador F d,
+
+14
+00:00:52.860 --> 00:00:57.150
+ICMS IPI Tá bom, então é um programa muito fácil!
+
+15
+00:00:57.159 --> 00:00:59.930
+Cê faz o o download instala ele tá
+
+16
+00:01:00.610 --> 00:01:06.300
+E aí a gente inicia o programa validador ele vai tá mais ou menos aí com essa carinha,
+
+17
+00:01:06.309 --> 00:01:08.330
+pra gente tá bom, Então vamos aqui!
+
+18
+00:01:08.339 --> 00:01:11.099
+Um contribuinte cadastrar contribuinte,
+
+19
+00:01:11.110 --> 00:01:15.559
+então vamos lançar aqui o nome da empresa tá é a nossa empresa aqui
+
+20
+00:01:19.129 --> 00:01:22.580
+eh, vamos lá o c n, PJ, da empresa.
+
+21
+00:01:22.589 --> 00:01:29.339
+Vamos colocar aqui esse C N PJ Pessoal a gente fez um uma geração de C N PJ em um
+
+22
+00:01:29.349 --> 00:01:36.580
+site Eh de geração de C N PJ Tá depois você pode botar no Google em gerador de C N,
+
+23
+00:01:36.589 --> 00:01:39.900
+PJ, a gente gera isso aí pra pra fazer testes?
+
+24
+00:01:39.910 --> 00:01:43.099
+Tá com esse propósito de teste exclusivamente? Tá?
+
+25
+00:01:43.110 --> 00:01:46.319
+Então a gente gera C N PJ Descrição estadual Tá,
+
+26
+00:01:46.330 --> 00:01:48.839
+então vamos aqui para uma empresa de São Paulo
+
+27
+00:01:49.620 --> 00:01:50.330
+Okay
+
+28
+00:01:50.980 --> 00:01:55.449
+São Paulo Município é São Paulo mesmo capital vamos
+
+29
+00:01:55.459 --> 00:02:00.610
+aqui buscar na nossa listinha aqui o São Paulo
+
+30
+00:02:02.190 --> 00:02:04.620
+e passo um pouquinho não passo ainda, não!
+
+31
+00:02:06.750 --> 00:02:08.619
+São Paulo
+
+32
+00:02:09.339 --> 00:02:12.789
+Oh, tem dois aqui, não sei a São Pedro, Outro é São Pedro.
+
+33
+00:02:12.800 --> 00:02:14.770
+Tá errando o santo aqui vamos lá São Paulo
+
+34
+00:02:16.330 --> 00:02:17.899
+inscrição estadual é a mesma coisa.
+
+35
+00:02:17.910 --> 00:02:25.779
+A gente gerou essa inscrição no no no site que faz a geração de inscrição estadual.
+
+36
+00:02:25.789 --> 00:02:27.240
+Tá? Vamos lá?
+
+37
+00:02:28.570 --> 00:02:30.139
+Não Tá dando pra digitar aqui.
+
+38
+00:02:30.149 --> 00:02:34.339
+Vamos ver o que que está acontecendo, Então vamos lá,
+
+39
+00:02:34.350 --> 00:02:37.240
+dando sequência aqui digitando a inscrição estadual
+
+40
+00:02:37.899 --> 00:02:43.529
+eh a gente gerou lá no gerador na internet,
+
+41
+00:02:45.360 --> 00:02:49.649
+tá, você pode gerar aí pra você testar caso seja necessário a inscrição municipal.
+
+42
+00:02:49.660 --> 00:02:52.929
+Não vou colocar a Suframa também não indicador de atividade.
+
+43
+00:02:52.940 --> 00:02:56.970
+Vou colocar aqui, outros não é industrial, tá outros e salvar.
+
+44
+00:02:56.979 --> 00:02:57.410
+Então,
+
+45
+00:02:57.419 --> 00:03:00.330
+a gente já tem aqui o nosso primeiro contribuinte
+
+46
+00:03:00.339 --> 00:03:02.050
+aparece aqui do lado do cadastro do contribuinte,
+
+47
+00:03:02.059 --> 00:03:02.160
+né?
+
+48
+00:03:02.169 --> 00:03:03.910
+Informações do contribuinte
+
+49
+00:03:04.509 --> 00:03:06.500
+tá, e aí A gente já pode!
+
+50
+00:03:06.509 --> 00:03:09.479
+Vamos ampliar aqui um pouco a tela pra ficar mais
+
+51
+00:03:09.490 --> 00:03:14.119
+fácil da gente visualizar as informações que fomos digitando aqui.
+
+52
+00:03:14.130 --> 00:03:14.460
+Tá,
+
+53
+00:03:15.070 --> 00:03:20.399
+Então vocês vocês tão vendo que aqui oh na tela, Tá o registro zero zero zero.
+
+54
+00:03:20.410 --> 00:03:24.710
+Então ele já começa aqui a montar aqueles blocos de informação,
+
+55
+00:03:24.720 --> 00:03:29.399
+os registros que a gente viu lá no decorrer do nosso curso, né?
+
+56
+00:03:29.410 --> 00:03:34.860
+Então aqui já tá o registro zero zero zero e aqui tá a identificação.
+
+57
+00:03:35.660 --> 00:03:41.990
+Complemento ainda não tem zero zero cinco Indicação de S, T e contabilista Tá,
+
+58
+00:03:42.000 --> 00:03:46.869
+Então a gente vai colocar aqui aqui os dados básicos já tem complemento,
+
+59
+00:03:46.880 --> 00:03:50.889
+a gente pode colocar nome, fantasia, CEP, número vamos colocar aqui tá
+
+60
+00:03:51.669 --> 00:03:56.660
+nome fantasia. Eu vou colocar empresa comercial
+
+61
+00:04:01.289 --> 00:04:03.000
+de vinhos, Tá
+
+62
+00:04:04.520 --> 00:04:09.949
+o CEP? O CEP é uma identificação obrigatória. Cê tá vendo que ele exige o CEP lá.
+
+63
+00:04:09.960 --> 00:04:11.169
+Vamos colocar o CEP.
+
+64
+00:04:11.179 --> 00:04:16.589
+Vamos colocar o CEP Básico de São Paulo aqui tá pra gente dar sequência tá
+
+65
+00:04:20.850 --> 00:04:23.000
+beleza Logradouro
+
+66
+00:04:23.850 --> 00:04:29.920
+o número um dois seis quatro Que complemento não precisa Bairro centro
+
+67
+00:04:30.859 --> 00:04:35.489
+Telefone onze nove, oito sete, seis cinco quatro três dois um
+
+68
+00:04:36.380 --> 00:04:39.950
+Oh, não deixa eu botar telefone com mais aqueles celulares novos.
+
+69
+00:04:39.959 --> 00:04:44.829
+Aí né fax Não vamos colocar e-mail vamos colocar e-mail
+
+70
+00:04:44.839 --> 00:04:51.829
+arroba empresa empresa empresarial ponto com ponto BR Tá,
+
+71
+00:04:51.839 --> 00:04:54.549
+esse aqui é todo dado fictício que a gente colocou aqui pra fazer teste.
+
+72
+00:04:54.559 --> 00:04:54.890
+Tá?
+
+73
+00:04:55.519 --> 00:04:59.230
+Então já temos aqui informações complementares, o registro zero zero cinco
+
+74
+00:05:00.119 --> 00:05:02.109
+Indicação de S T Não vamos colocar
+
+75
+00:05:02.709 --> 00:05:06.079
+e o contabilista vamos aqui preencher os dados do contabilista?
+
+76
+00:05:06.089 --> 00:05:11.920
+A gente clica aqui no mais tá e vamos colocar aqui os dados do contabilista Tá?
+
+77
+00:05:11.929 --> 00:05:13.700
+Vamos botar aqui
+
+78
+00:05:14.420 --> 00:05:15.529
+contador
+
+79
+00:05:16.380 --> 00:05:23.190
+pulando o edital? Tá, conta qualquer CEP. Vamos precisar de um CEP Vamos aqui c PF.
+
+80
+00:05:23.200 --> 00:05:27.609
+Vamos aqui gerador desse C PF igual a gente fez lá pro C N PJ vamos fazer aqui
+
+81
+00:05:28.269 --> 00:05:33.179
+ao vivo, então a gente gera um c PF, aqui, vamos copiar ele e
+
+82
+00:05:33.850 --> 00:05:39.760
+vamos ver se dá pra colar aqui oh tranquilinho, C n, PJ Não vamos, vamos,
+
+83
+00:05:39.769 --> 00:05:43.869
+digamos que seja uma pessoa física, tá CEP.
+
+84
+00:05:43.880 --> 00:05:46.519
+Vamos botar o mesmo CEP lá de São Paulo.
+
+85
+00:05:48.769 --> 00:05:50.200
+Okay O criadouro
+
+86
+00:05:51.600 --> 00:05:52.630
+por acaso
+
+87
+00:05:53.690 --> 00:05:56.519
+um dois seis quatro Bairro Centro
+
+88
+00:05:58.299 --> 00:06:02.369
+Telefone Vamos botar aqui só pra gente preencher nos cantos? Tá pessoal
+
+89
+00:06:04.809 --> 00:06:06.160
+a meio c
+
+90
+00:06:07.589 --> 00:06:09.059
+Tá o
+
+91
+00:06:11.690 --> 00:06:13.279
+ponto com ponto BR
+
+92
+00:06:14.059 --> 00:06:15.570
+Código do município
+
+93
+00:06:16.359 --> 00:06:23.070
+aqui abre todos os municípios, vamos achar nossa São Paulo aqui
+
+94
+00:06:24.059 --> 00:06:26.489
+São Miguel
+
+95
+00:06:27.160 --> 00:06:30.029
+São Paulo, vamos procurar aqui pessoal,
+
+96
+00:06:33.250 --> 00:06:35.559
+então pessoal, achamos aqui
+
+97
+00:06:36.160 --> 00:06:37.510
+São Paulo
+
+98
+00:06:38.079 --> 00:06:40.950
+a lista é meio grande, vem pro estrada aqui, Oh,
+
+99
+00:06:42.220 --> 00:06:44.170
+vamos pegar aqui de SP
+
+100
+00:06:46.040 --> 00:06:47.230
+a SP
+
+101
+00:06:49.679 --> 00:06:53.450
+São Paulo, São Paulo Okay, Tá,
+
+102
+00:06:53.459 --> 00:06:57.369
+então vamos lá salvar e já temos aqui os dados do contador.
+
+103
+00:06:57.380 --> 00:07:01.670
+Então esse gente do registro zero cem temos identificação.
+
+104
+00:07:01.679 --> 00:07:04.869
+Contabilista é o zero cem que nós estamos editando agora Tá,
+
+105
+00:07:04.880 --> 00:07:07.730
+já temos a identificação, o complemento,
+
+106
+00:07:07.739 --> 00:07:13.250
+inscrição de S T A gente não vai colocar e os dados do contador, tá,
+
+107
+00:07:13.260 --> 00:07:14.869
+então a gente já finalizou.
+
+108
+00:07:14.880 --> 00:07:17.589
+Essa primeira parte de informações tá
+
+109
+00:07:19.000 --> 00:07:20.730
+aqui. Nós temos as tabelas, né.
+
+110
+00:07:20.739 --> 00:07:22.130
+Que eu falei no curso,
+
+111
+00:07:22.140 --> 00:07:25.209
+lá das tabelas do participante Tabelas externas
+
+112
+00:07:25.220 --> 00:07:27.850
+Essas são as tabelas do contribuinte,
+
+113
+00:07:27.859 --> 00:07:28.170
+né?
+
+114
+00:07:28.179 --> 00:07:32.390
+As tabelas de informação que ele tem que fazer, que são participantes,
+
+115
+00:07:32.399 --> 00:07:37.769
+unidades de medida, itens de produtos, natureza da operação,
+
+116
+00:07:37.779 --> 00:07:42.269
+informações complementares e observações do lançamento fiscal,
+
+117
+00:07:43.459 --> 00:07:45.589
+então pessoal, quem são os participantes?
+
+118
+00:07:45.600 --> 00:07:49.640
+Os participantes são aquelas empresas que eu efetuo comércio efetuo,
+
+119
+00:07:49.649 --> 00:07:53.450
+compra venda, seja meus fornecedores, meus clientes,
+
+120
+00:07:53.459 --> 00:07:56.029
+unidades de medida são nas unidades de medida dos produtos
+
+121
+00:07:56.040 --> 00:07:59.450
+que eu transas aqui vão os itens de produto.
+
+122
+00:07:59.459 --> 00:08:01.390
+Eh natureza da operação,
+
+123
+00:08:01.399 --> 00:08:06.149
+informações complementares que a gente vai lançando e observações de
+
+124
+00:08:06.160 --> 00:08:09.570
+lançamento do fisco ou ter alguma observação especial do lançamento.
+
+125
+00:08:09.959 --> 00:08:13.609
+A gente vai colocar aqui tá, temos que preencher essas tabelas.
+
+126
+00:08:13.619 --> 00:08:15.089
+De onde vem a informação?
+
+127
+00:08:15.100 --> 00:08:16.329
+Vocês lembram que eu falei lá no curso
+
+128
+00:08:16.339 --> 00:08:18.850
+que as informações vinham dos documentos fiscais?
+
+129
+00:08:18.859 --> 00:08:23.290
+Então os participantes vão estar aonde? Nas notas fiscais? Tá?
+
+130
+00:08:23.299 --> 00:08:27.850
+Então, vamos pegar as notas para lançar aqui os participantes, unidade de medida,
+
+131
+00:08:27.859 --> 00:08:30.649
+itens de produto e natureza da operação.
+
+132
+00:08:30.660 --> 00:08:35.359
+Informações complementares A gente não vai lançar, mas se tiver lançaria aqui tá.
+
+133
+00:08:35.369 --> 00:08:39.109
+E lançamento fisico é a mesma coisa. Então, vamos lá, Vamos começar.
+
+134
+00:08:40.419 --> 00:08:42.989
+Então eh pessoal por propósito do curso.
+
+135
+00:08:42.999 --> 00:08:45.648
+O que que a gente pensou, tá, vamos fazer aqui
+
+136
+00:08:46.239 --> 00:08:50.450
+eh uma empresa que ela efetuou uma compra e efetuou uma venda, né?
+
+137
+00:08:50.460 --> 00:08:54.369
+Ela comprou a mercadoria pra revender e revendeu! Tá, e aí! A gente!
+
+138
+00:08:54.380 --> 00:08:58.650
+A gente tem as notas do fornecedor e a nota do cliente.
+
+139
+00:08:58.659 --> 00:09:02.809
+Então os participantes que eu tenho aqui são um fornecedor e um cliente.
+
+140
+00:09:02.820 --> 00:09:10.030
+Então então vamos pô assim Código participante zero um Tá nome empresa fornecedora
+
+141
+00:09:10.960 --> 00:09:16.250
+S A Okay o C N PJ do participante aqui da empresa fornecedora,
+
+142
+00:09:16.260 --> 00:09:19.830
+né gerado daquele mesmo jeito que a gente gerou os outros, vamos lá
+
+143
+00:09:20.570 --> 00:09:23.640
+oito meia oito oito nove sete
+
+144
+00:09:24.440 --> 00:09:30.489
+zero oito Okay, não tem c PF Inscrição estadual A gente colocou cinco, três, zero,
+
+145
+00:09:30.500 --> 00:09:36.070
+oito, dezenove, quinhentos e vinte uma empresa do Espírito Santo Tá.
+
+146
+00:09:37.289 --> 00:09:40.059
+Porque a gente trouxe do Espírito Santo o Espírito Santo,
+
+147
+00:09:40.070 --> 00:09:47.840
+te tem feito muita muita operação lá de desen Desembaraçado, começo,
+
+148
+00:09:47.849 --> 00:09:54.219
+eh essas operações que vem de fora, desembaraço lá e segue pra outros estados.
+
+149
+00:09:54.229 --> 00:09:57.340
+A gente tem visto um aumento lá, a gente colocou aqui.
+
+150
+00:09:57.349 --> 00:10:01.840
+Eh da do Espírito Santo, Tá, vamos colocar aqui. Vamos ver se a gente acha
+
+151
+00:10:02.080 --> 00:10:07.030
+vitória aqui na lista do Espírito Santo, já achamos aqui Viana Vitória, Oh,
+
+152
+00:10:07.039 --> 00:10:08.549
+vitória tá aqui, Okay
+
+153
+00:10:09.250 --> 00:10:12.580
+inscrição Suframa Não vamos colocar logradouro. A gente é obrigado a colocar.
+
+154
+00:10:12.590 --> 00:10:13.880
+Vamos colocar a rua central.
+
+155
+00:10:17.590 --> 00:10:24.599
+A gente descobriu apenas o e tudo que a empresa vende em unidade, então o unidade tá?
+
+156
+00:10:24.609 --> 00:10:30.020
+Então, essa é a nossa unidade de medida, Já entrou aqui pra lista aqui, o n tá unidade,
+
+157
+00:10:30.030 --> 00:10:30.880
+beleza.
+
+158
+00:10:30.890 --> 00:10:34.880
+Então já fizemos o cadastro participante e da unidade de medida.
+
+159
+00:10:34.890 --> 00:10:38.640
+Agora nós vamos colocar os itens de produto, né?
+
+160
+00:10:38.650 --> 00:10:43.359
+Que são os itens que a gente trans acionou aqui neste período, né?
+
+161
+00:10:43.369 --> 00:10:45.900
+Então vamos lá vamos lançar o item aqui.
+
+162
+00:10:46.409 --> 00:10:48.739
+Código do item Esse código do item pessoal é o
+
+163
+00:10:48.750 --> 00:10:52.059
+código do item pra o nosso uso aqui na empresa.
+
+164
+00:10:52.070 --> 00:10:55.260
+Tá? Então esse é o código que vai lá na nota fiscal.
+
+165
+00:10:55.270 --> 00:11:00.969
+É o código do item lá, da mercadoria para a de acordo com a visão da empresa. Tá?
+
+166
+00:11:00.979 --> 00:11:04.960
+É o código do item. A gente vai acontecer aqui Okay
+
+167
+00:11:05.919 --> 00:11:10.929
+Descrição do item vamos botar aqui. Eu falei pra vocês que é uma empresa de vinhos.
+
+168
+00:11:10.940 --> 00:11:14.010
+Vamos colocar aqui uma descrição de um vinho.
+
+169
+00:11:14.020 --> 00:11:19.229
+Tá o código de barra que seria o código g TIM do do item tá
+
+170
+00:11:20.000 --> 00:11:22.169
+código GTIN do item código anterior.
+
+171
+00:11:22.179 --> 00:11:25.969
+Pessoal é se eu estou fazendo uma reclassificação, se eu tinha um código,
+
+172
+00:11:25.979 --> 00:11:27.369
+estou colocando outro código.
+
+173
+00:11:27.380 --> 00:11:28.429
+Não é o caso, tá
+
+174
+00:11:29.330 --> 00:11:32.159
+unidade de medida, tem a nossa UE que já está aqui
+
+175
+00:11:32.969 --> 00:11:40.539
+tipo do item eh mercadoria para revenda Okay mercadoria Código NCM da desse item.
+
+176
+00:11:40.549 --> 00:11:44.590
+A gente já classificou aqui que é o este código.
+
+177
+00:11:44.599 --> 00:11:50.320
+Aqui não tem e X, né, E X é uma especialização lá da tabela Tip lá pra tributação,
+
+178
+00:11:50.909 --> 00:11:54.840
+código de tributação, código de gênero do item.
+
+179
+00:11:54.849 --> 00:11:59.340
+Eh, vamos procurar aqui o nosso código de gênero do item.
+
+180
+00:12:01.500 --> 00:12:05.750
+Então, no código de gênero, vamos procurar a bebida aqui, né, bebida?
+
+181
+00:12:05.760 --> 00:12:10.010
+Bebida, tá aqui oh, bebida, líquidos alcoólicos e vinagre
+
+182
+00:12:10.880 --> 00:12:15.409
+Código de serviço do item a gente não tem, né? Um não é um ser é um, é um não.
+
+183
+00:12:15.419 --> 00:12:20.169
+É um serviço, não é uma mercadoria, né? E a alíquota do ICMS é quatro por cento.
+
+184
+00:12:20.179 --> 00:12:20.950
+Por quê?
+
+185
+00:12:20.960 --> 00:12:26.210
+É um vinho importado tá e a alíquota interestadual pra produtos importados, né?
+
+186
+00:12:26.219 --> 00:12:28.890
+Eu tô fazendo interestadual do Espírito Santo pra São Paulo.
+
+187
+00:12:28.900 --> 00:12:33.969
+A alíquota interestadual de produtos importados é quatro por cento. Tá?
+
+188
+00:12:33.979 --> 00:12:38.469
+Então vamos salvar aqui E está okay,
+
+189
+00:12:39.659 --> 00:12:43.429
+então já temos nosso primeiro item já tá cadastrado aqui.
+
+190
+00:12:43.440 --> 00:12:50.770
+Tá e vamos assim por diante, cadastrando os demais itens. Tá? Então vamos lá
+
+191
+00:12:51.469 --> 00:12:52.419
+mais um item
+
+192
+00:12:53.289 --> 00:12:54.919
+código do item tá
+
+193
+00:12:55.820 --> 00:12:58.250
+Descrição do item
+
+194
+00:13:00.010 --> 00:13:00.799
+o quê?
+
+195
+00:13:02.190 --> 00:13:03.020
+Ah,
+
+196
+00:13:04.260 --> 00:13:09.609
+vamos ver aqui. Eh código de Barra do item, que seria o que é o GTIN, né?
+
+197
+00:13:09.619 --> 00:13:14.809
+Código anterior Como eu falei pra vocês não tem unidade? Tá, já tá aqui
+
+198
+00:13:15.539 --> 00:13:23.989
+do item Vamos botar aqui, que é mercadoria para revenda código NCM deste item.
+
+199
+00:13:24.000 --> 00:13:28.609
+Vamos colocar aqui gênero do item Já vimos aqui é o vinte e dois
+
+200
+00:13:29.229 --> 00:13:35.140
+okay vinte e dois bebidas e líquidos vinagres e a alíquota é quatro por cento. Okay!
+
+201
+00:13:35.900 --> 00:13:37.409
+Então vamos salvar
+
+202
+00:13:38.229 --> 00:13:41.619
+e vamos lançando mais itens aqui que
+
+203
+00:13:42.770 --> 00:13:45.239
+vamos lançando mais itens. Vamos lançar
+
+204
+00:13:45.820 --> 00:13:49.849
+todos os itens da nossa da que vamos comercializar, né?
+
+205
+00:13:49.859 --> 00:13:55.729
+Que vamos ter aqui nas nossas operações, Okay! Então vamos para o item três aqui
+
+206
+00:13:56.460 --> 00:13:59.450
+Okay. Então vamos aqui para
+
+207
+00:14:00.179 --> 00:14:01.090
+mais um vinho.
+
+208
+00:14:02.340 --> 00:14:03.010
+Okay
+
+209
+00:14:03.880 --> 00:14:05.750
+Código de barras,
+
+210
+00:14:08.650 --> 00:14:12.479
+o código anterior digito e não tem, A gente tem a unidade aqui,
+
+211
+00:14:13.539 --> 00:14:15.969
+tipo do item A mercadoria para revenda
+
+212
+00:14:16.760 --> 00:14:20.030
+Código NCM para o vinho é este aqui.
+
+213
+00:14:20.619 --> 00:14:23.570
+Gênero do vinho é o vinte e dois.
+
+214
+00:14:24.260 --> 00:14:27.409
+Pra quem entrou errado aqui vinte e dois
+
+215
+00:14:28.330 --> 00:14:31.000
+tá é a alíquota de quatro por cento. Okay
+
+216
+00:14:31.640 --> 00:14:34.020
+a líquido de quatro por cento por se tratar
+
+217
+00:14:34.030 --> 00:14:39.289
+de um produto importado em operação ali interestadual.
+
+218
+00:14:39.299 --> 00:14:43.349
+Tá? Vamos colocar mais um item aqui? Já tá acabando? Tá
+
+219
+00:14:44.429 --> 00:14:46.340
+Então vamos colocar os itens aqui.
+
+220
+00:14:47.059 --> 00:14:53.330
+Código de barra é o nosso querido GTIN que tá lá no campo C e a N da nossa querida NFE
+
+221
+00:14:54.090 --> 00:14:55.479
+Unidade de medida
+
+222
+00:14:56.369 --> 00:15:00.039
+O n tipo do item mercadoria para revenda
+
+223
+00:15:00.729 --> 00:15:06.380
+Código NCM do item tá gênero do item é o vinte e dois.
+
+224
+00:15:06.390 --> 00:15:12.280
+Como já vimos ali anteriormente é alí também de quatro por cento. Okay
+
+225
+00:15:13.580 --> 00:15:16.450
+Alíquota de quatro por cento. Okay,
+
+226
+00:15:17.239 --> 00:15:22.510
+então temos apenas mais um item. Tá esse item é um pouquinho diferente.
+
+227
+00:15:22.520 --> 00:15:26.429
+Nós vamos cadastrar aqui, né? Esse outro produto,
+
+228
+00:15:27.830 --> 00:15:29.219
+descrição do item
+
+229
+00:15:30.580 --> 00:15:33.929
+eh uma revistinha que a gente manda junto. Okay!
+
+230
+00:15:34.539 --> 00:15:38.469
+Eh não tem código anterior em unidade, não tem código de barras,
+
+231
+00:15:38.479 --> 00:15:41.849
+tá O tipo do item é a mercadoria também pra revenda.
+
+232
+00:15:42.700 --> 00:15:47.130
+E agora a gente vai procurar aqui o Código NCM do item
+
+233
+00:15:49.669 --> 00:15:50.700
+e por fim
+
+234
+00:15:51.380 --> 00:15:54.489
+eh o código de gênero do item okay.
+
+235
+00:15:56.630 --> 00:16:00.299
+Então aqui o código de gênero
+
+236
+00:16:01.210 --> 00:16:04.080
+a gente já deu uma olhadinha no quarenta e nove. Tá,
+
+237
+00:16:05.179 --> 00:16:10.710
+então Agora a alíquota é zero, porque a alíquota de ICMS é zero porque é livro.
+
+238
+00:16:10.719 --> 00:16:15.609
+Jornal periódico Revista tem a nossa imunidade tributária do ICMS.
+
+239
+00:16:15.619 --> 00:16:19.429
+Temos aqui o nosso querido cadastro de itens e produtos,
+
+240
+00:16:19.440 --> 00:16:24.510
+então já fizemos os participantes, unidade de medida e itens de produto.
+
+241
+00:16:24.520 --> 00:16:26.909
+Tá então, já fizemos isso aqui.
+
+242
+00:16:26.919 --> 00:16:31.849
+Agora vamos avançar aqui pra nossa natureza da operação. Tá
+
+243
+00:16:32.919 --> 00:16:34.289
+pessoal a natureza da operação.
+
+244
+00:16:34.299 --> 00:16:38.929
+Ela é um texto que vai lá na nota tá, e é um texto livre, né?
+
+245
+00:16:38.940 --> 00:16:41.150
+A pessoa pode colocar qualquer coisa.
+
+246
+00:16:41.159 --> 00:16:46.750
+O pessoal muitas vezes coloca o que é um de descrição semelhante ao CFOP, né?
+
+247
+00:16:46.760 --> 00:16:49.549
+Venda de mercadoria recebido, adquirido de terceiros Tá?
+
+248
+00:16:50.369 --> 00:16:54.739
+É o nosso que nós vamos utilizar aqui pra todas as notas que a gente for transacionar.
+
+249
+00:16:54.750 --> 00:16:59.760
+Então cadastramos o participante, unidade de medida, item de produto,
+
+250
+00:16:59.770 --> 00:17:01.020
+natureza da operação,
+
+251
+00:17:01.030 --> 00:17:04.979
+informações complementares e observações do lançamento fiscal.
+
+252
+00:17:04.989 --> 00:17:06.500
+Nós não vamos fazer agora.
+
+253
+00:17:06.510 --> 00:17:09.979
+Tá bom, vamos fazer aqui agora somente essa primeira parte.
+
+254
+00:17:09.989 --> 00:17:14.560
+Então já temos aqui o participante tá, são meus clientes, meus fornecedores,
+
+255
+00:17:14.569 --> 00:17:18.920
+unidade de medida dos produtos, os produtos todos que eu vou transacionar.
+
+256
+00:17:19.468 --> 00:17:24.598
+Natureza da operação tá bom, os produtos pessoal, a gente quando a gente abre aqui,
+
+257
+00:17:24.608 --> 00:17:28.798
+o participante, a gente tem aqui as alterações do participante.
+
+258
+00:17:28.808 --> 00:17:33.159
+A gente pode ver que sempre que entre parentes. Tá o número do registro.
+
+259
+00:17:33.168 --> 00:17:35.639
+Então eu posso, se eu tiver com dúvida ah,
+
+260
+00:17:35.649 --> 00:17:39.619
+como é que essa alteração aqui do participante eu vou lá, no Guia Prático do F D
+
+261
+00:17:39.930 --> 00:17:44.619
+Vou abrir lá e vou ver como que é aí a alteração do participante Tá Então,
+
+262
+00:17:44.630 --> 00:17:47.699
+se eu tiver que alterar um participante, isso vai no decorrer do ano.
+
+263
+00:17:47.709 --> 00:17:50.479
+Aí e tal, às vezes tem que alterar, mas muitas vezes não tá.
+
+264
+00:17:51.209 --> 00:17:53.420
+A gente tem também aqui no item de produto, Tá,
+
+265
+00:17:53.430 --> 00:17:57.099
+A gente tem as alterações do item de produto, tá código de produto,
+
+266
+00:17:57.109 --> 00:17:58.020
+conforme a tabela N?
+
+267
+00:17:58.030 --> 00:18:00.020
+P Isso é o quê? Combustíveis, né?
+
+268
+00:18:00.030 --> 00:18:04.099
+Quando é combustível a gente tem eh um código fornecido
+
+269
+00:18:04.109 --> 00:18:06.300
+lá pra n p que tem que fazer o enquadramento.
+
+270
+00:18:06.310 --> 00:18:08.119
+A gente teria que enquadrar aqui. Tá
+
+271
+00:18:09.099 --> 00:18:14.589
+eh na, no como Se no n P tá Fatores de conversão de unidade, de medida, né?
+
+272
+00:18:14.599 --> 00:18:16.660
+Às vezes, sei lá, eu compro em tonelada e vendo em quilo,
+
+273
+00:18:16.670 --> 00:18:20.670
+então eu tenho que fazer essa conversão aí de tonelada pra aquilo, né?
+
+274
+00:18:20.680 --> 00:18:24.910
+Então tem diversos fatores compra em mil e vende unidade vende indústria?
+
+275
+00:18:24.920 --> 00:18:27.709
+Eu não sei. Cada negócio tem uma particularidade.
+
+276
+00:18:27.719 --> 00:18:32.130
+Sempre que tiver conversão de unidade de medida, a gente tem que informar aqui.
+
+277
+00:18:32.140 --> 00:18:32.689
+Okay.
+
+278
+00:18:33.339 --> 00:18:37.430
+Então é isso pessoal aqui sobre os itens de produto, tá bom.
+
+279
+00:18:37.439 --> 00:18:39.709
+Então já fizemos essa parte desse primeiro cadastro.
+
+280
+00:18:39.719 --> 00:18:44.949
+Então temos o que aqui registro zero zero zero com identificação do contribuinte.
+
+281
+00:18:44.959 --> 00:18:48.469
+Complemento das informações do contribuinte Inscrição S T que
+
+282
+00:18:48.479 --> 00:18:51.550
+a gente optou por não colocar informações do contabilista,
+
+283
+00:18:51.560 --> 00:18:52.089
+tá
+
+284
+00:18:52.689 --> 00:18:56.800
+a gente! Depois veio aqui para registro cem quinze, onde temos o participante
+
+285
+00:18:57.750 --> 00:18:59.380
+unidade de medida,
+
+286
+00:19:00.339 --> 00:19:01.729
+itens de produtos,
+
+287
+00:19:02.329 --> 00:19:05.420
+natureza da operação tá e pode ter
+
+288
+00:19:05.430 --> 00:19:08.219
+informação complementar e observações do lançamento fiscal.
+
+289
+00:19:08.229 --> 00:19:08.719
+Okay
+
+290
+00:19:09.750 --> 00:19:13.400
+Então pessoal, agora nós temos aqui eh os dados contábeis, né?
+
+291
+00:19:13.410 --> 00:19:15.020
+O registro zero quinhentos tá
+
+292
+00:19:15.719 --> 00:19:19.410
+eh zero trezentos perdão que é os bens do ativo imobilizado.
+
+293
+00:19:19.420 --> 00:19:27.089
+A gente não vai lançar agora porque eh não fica muito. Eh fora do propósito do curso.
+
+294
+00:19:27.099 --> 00:19:29.609
+Tá, vamos colocar os registros obrigatórios e o registro.
+
+295
+00:19:29.619 --> 00:19:33.329
+Zero quinhentos é um desses registros obrigatórios.
+
+296
+00:19:33.339 --> 00:19:33.469
+Tá,
+
+297
+00:19:33.479 --> 00:19:37.130
+Vamos lançar aqui um plano de custos bastante simplificado aqui
+
+298
+00:19:37.140 --> 00:19:41.930
+só pra gente cumprir com o requisito da informação obrigatória,
+
+299
+00:19:41.939 --> 00:19:41.959
+né?
+
+300
+00:19:41.969 --> 00:19:44.550
+Na apresentação da EFD
+
+301
+00:19:44.760 --> 00:19:49.540
+ICMS P I tá, Então, vamos colocar aqui um plano de curso bastante simples.
+
+302
+00:19:49.550 --> 00:19:53.790
+Vamos colocar aqui uma conta do ativo Tá, vamos fazer aqui.
+
+303
+00:19:53.800 --> 00:20:00.329
+Eh um centro de é um plano de plano, de contas bem simples e de três níveis apenas.
+
+304
+00:20:00.339 --> 00:20:04.640
+Tá duas contas eh sintéticas, né?
+
+305
+00:20:04.650 --> 00:20:07.130
+E uma conta analítica aqui que vai ser a última conta.
+
+306
+00:20:07.140 --> 00:20:11.469
+Então essa primeira aqui a gente vai fazer o grupo de contas aqui do ativo tá
+
+307
+00:20:11.880 --> 00:20:12.849
+e dando sequência.
+
+308
+00:20:12.859 --> 00:20:19.270
+Agora nós vamos fazer eh, eh que a conta do ativo vamos fazer aqui um
+
+309
+00:20:20.170 --> 00:20:23.119
+um banco, contas, movimento, por exemplo, tá
+
+310
+00:20:23.760 --> 00:20:28.709
+Então esse aqui já é nível dois, Tá, Vamos colocar aqui.
+
+311
+00:20:29.339 --> 00:20:31.449
+Eh nível dois nessa
+
+312
+00:20:32.079 --> 00:20:38.890
+nessa conta aqui que a gente vai, tá criando agora, Aqui tá, eh o código,
+
+313
+00:20:38.900 --> 00:20:41.329
+vamos seguir ali na na ou na outra.
+
+314
+00:20:41.339 --> 00:20:43.949
+Foi um, vamos lançar aqui o um ponto um,
+
+315
+00:20:44.619 --> 00:20:50.050
+né? E o nome da conta vai ser banco, conta Movimento Okay.
+
+316
+00:20:50.890 --> 00:20:55.750
+Então vamos bancos, conta movimento e beleza Já temos aqui.
+
+317
+00:20:55.760 --> 00:21:01.020
+Ah, tem um erro, oh, deu um erro, vamos, vou até fazer de novo pra gente ver,
+
+318
+00:21:01.030 --> 00:21:01.900
+ver o erro aqui.
+
+319
+00:21:01.910 --> 00:21:05.180
+Oh o registro quando tem erros e não poderá ser salvo.
+
+320
+00:21:05.189 --> 00:21:07.619
+Então é porque faltou a data, né?
+
+321
+00:21:07.630 --> 00:21:10.290
+Então vamos colocar a data ali tá de vermelhinho ali na direita.
+
+322
+00:21:10.300 --> 00:21:12.359
+Tá que que tá faltando aí salvar.
+
+323
+00:21:12.369 --> 00:21:16.400
+Já temos aí a nossa segunda conta do nosso planinho de contas! Tá!
+
+324
+00:21:17.160 --> 00:21:17.770
+E agora?
+
+325
+00:21:17.780 --> 00:21:23.810
+A gente vai aqui pra nossa conta analítica que tá, vamos botar aqui conta do ativo.
+
+326
+00:21:23.819 --> 00:21:25.469
+Vamos continuar aqui no ativo
+
+327
+00:21:26.079 --> 00:21:29.750
+eh tipo de conta agora nossa conta analítica,
+
+328
+00:21:29.760 --> 00:21:32.890
+nível agora que eu falei pra vocês vão fazer só com três
+
+329
+00:21:32.900 --> 00:21:35.930
+níveis esse nível três O código um ponto um ponto um,
+
+330
+00:21:35.939 --> 00:21:36.089
+né?
+
+331
+00:21:36.099 --> 00:21:42.930
+Que é o último nível ensinava um pouquinho um banco, banco a banco A e salvar tá?
+
+332
+00:21:42.939 --> 00:21:46.250
+Então já temos aqui nossas contas do ativo.
+
+333
+00:21:46.260 --> 00:21:52.229
+E vamos dar sequência aí agora, pras nossas contas aqui, agora, do do passivo, Tá,
+
+334
+00:21:52.709 --> 00:21:54.640
+vamos fazer agora o Pacífico pessoal,
+
+335
+00:21:54.650 --> 00:22:00.099
+exatamente no mesmo esquema que a gente fez o ativo ali tá, vamos fazer.
+
+336
+00:22:00.109 --> 00:22:04.520
+Eh duas contas sintéticas, uma conta analítica só pra fazer um plano de custo aqui.
+
+337
+00:22:04.530 --> 00:22:07.439
+Bem simples pra gente eh cumprir aqui com
+
+338
+00:22:07.449 --> 00:22:10.800
+os requisitos de de obrigatoriedade de informação,
+
+339
+00:22:10.810 --> 00:22:12.619
+do registro da F D, tá?
+
+340
+00:22:13.229 --> 00:22:18.459
+Então, essa é a conta nível, um código da conta é dois. É o passivo, né?
+
+341
+00:22:19.099 --> 00:22:24.949
+Então já temos aqui o passivo e vamos agora colocar aqui um fornecedores aqui,
+
+342
+00:22:24.959 --> 00:22:28.650
+por exemplo, vamos lá, eh conta do passivo.
+
+343
+00:22:29.579 --> 00:22:34.449
+Eh agora o indicador do tipo de conta sintética.
+
+344
+00:22:35.140 --> 00:22:39.189
+Esse já é agora nível dois, Tá código da conta.
+
+345
+00:22:39.199 --> 00:22:43.310
+Vamos botar um dois ponto um e aqui vamos botar um fornecedores,
+
+346
+00:22:43.319 --> 00:22:47.290
+Tá fornecedores Okay, Então vamos lá salvar
+
+347
+00:22:47.900 --> 00:22:51.530
+e já tá começando a parecer bonitinho, nosso plano de contas aí vamos em frente!
+
+348
+00:22:52.229 --> 00:22:57.760
+Vamos colocar aqui agora eh a última conta do passivo, né?
+
+349
+00:22:57.770 --> 00:23:01.760
+EH, Agora é a nossa conta nossa conta analítica!
+
+350
+00:23:01.770 --> 00:23:06.060
+Tá nível três, que é o último nível nosso aqui de contas.
+
+351
+00:23:06.069 --> 00:23:08.979
+E o código da conta vai ser dois ponto dois ponto um,
+
+352
+00:23:09.650 --> 00:23:13.060
+né? Dois ponto um ponto um Perdão ficou errado ali nome da conta.
+
+353
+00:23:13.069 --> 00:23:16.780
+Vamos colocar aqui fornecedor a, por exemplo, igual A gente colocou no banco. Lá.
+
+354
+00:23:16.790 --> 00:23:21.280
+Vamos colocar aqui, pro fornecedor, tá bom e salvar
+
+355
+00:23:21.959 --> 00:23:27.569
+e por fim vamos vamos lá agora pro vamos pro nosso P L, né?
+
+356
+00:23:27.619 --> 00:23:32.510
+Então vamos lá patrimônio líquido, vamos lá. Patrimônio líquido
+
+357
+00:23:33.199 --> 00:23:38.530
+indicador de tipo de conta, conta sintética é o nível da conta.
+
+358
+00:23:38.540 --> 00:23:43.650
+É o nível um que é a primeira conta do P L que a gente coloca então vamos colocar aqui,
+
+359
+00:23:43.660 --> 00:23:47.089
+nível, um código da conta Vai ser três né?
+
+360
+00:23:47.099 --> 00:23:52.229
+Botar aqui três e o nome da conta? Vamos colocar p? L, né?
+
+361
+00:23:52.239 --> 00:23:54.089
+Já temos a nossa primeira conta do P L.
+
+362
+00:23:54.099 --> 00:23:57.589
+Agora vamos dando sequência Vamos botar aqui um capital social.
+
+363
+00:23:58.640 --> 00:23:58.869
+Tá?
+
+364
+00:23:58.880 --> 00:24:04.209
+Vamos botar aqui uma conta do patrimônio líquido que é
+
+365
+00:24:04.219 --> 00:24:08.589
+o tipo da conta é conta Ana é sintética,
+
+366
+00:24:09.319 --> 00:24:13.050
+nível da conta é dois. Essa conta é a nossa segunda conta.
+
+367
+00:24:13.060 --> 00:24:14.670
+Vai ser nosso capital social
+
+368
+00:24:15.579 --> 00:24:19.010
+Código da conta três ponto um
+
+369
+00:24:20.079 --> 00:24:27.430
+e o nome da conta vai ser capital social. Capital social tá salvar e agora?
+
+370
+00:24:27.439 --> 00:24:32.709
+Vamos botar a nossa última conta do P L pra gente ir seguindo em frente.
+
+371
+00:24:32.719 --> 00:24:37.250
+Aí eh data de inclusão, vamos botar primeiro de janeiro, vinte e quatro.
+
+372
+00:24:37.260 --> 00:24:41.569
+Conta do patrimônio líquido. É agora é uma conta analítica.
+
+373
+00:24:41.579 --> 00:24:44.010
+O nível da conta agora já é o nível três,
+
+374
+00:24:44.020 --> 00:24:47.989
+o código da conta três ponto um ponto um e o nome da conta.
+
+375
+00:24:48.300 --> 00:24:53.930
+Vamos colocar aqui capital subscrito, capital subscrito e salvar tá?
+
+376
+00:24:54.550 --> 00:24:59.040
+Vamos também colocar umas contas de resultado aí só pra
+
+377
+00:24:59.050 --> 00:25:01.739
+pra completar aqui nosso plano de contas e pronto?
+
+378
+00:25:01.750 --> 00:25:05.739
+Então vamos lá porque já tá acabando vamos botar a conta de resultado?
+
+379
+00:25:06.689 --> 00:25:13.280
+Tá, eh? Vamos botar aqui, eh, conta sintética. O nível vai ser um
+
+380
+00:25:13.959 --> 00:25:20.349
+é o código, vai ser quatro e o nome da conta vai ser resultado. Okay salvar.
+
+381
+00:25:21.810 --> 00:25:24.699
+Então vamos dando sequência aí pra ficar organizadinho igual aos outros.
+
+382
+00:25:24.709 --> 00:25:27.079
+Vamos por vinte e quatro.
+
+383
+00:25:27.699 --> 00:25:33.969
+Eh Código da natureza da conta eh conta de resultado indicador do tipo da conta,
+
+384
+00:25:33.979 --> 00:25:35.329
+conta Eh.
+
+385
+00:25:35.339 --> 00:25:37.209
+É sintética,
+
+386
+00:25:38.030 --> 00:25:40.619
+vai ser agora. Já estamos no nível dois, né?
+
+387
+00:25:41.349 --> 00:25:44.760
+Nós estamos agora no nível dois o código da conta vai ser
+
+388
+00:25:44.770 --> 00:25:48.199
+quatro ponto um e o nome da conta vai ser receitas,
+
+389
+00:25:48.209 --> 00:25:50.260
+receitas, né?
+
+390
+00:25:51.489 --> 00:25:54.880
+E por fim, pra finalizar nosso pla de contas já tá acabando!
+
+391
+00:25:54.890 --> 00:25:59.660
+Vamos lá um dum vinte e quatro eh o código
+
+392
+00:25:59.670 --> 00:26:02.040
+da natureza da conta é uma conta de resultado?
+
+393
+00:26:02.050 --> 00:26:09.079
+Eh o indicador do tipo de conta é uma conta eh analítica. O nível da conta já é
+
+394
+00:26:09.790 --> 00:26:16.640
+nível três quatro ponto um ponto um e vamos botar aqui receita de vendas.
+
+395
+00:26:16.650 --> 00:26:18.939
+Tá bom receita de vendas? Tá bom.
+
+396
+00:26:18.949 --> 00:26:21.920
+E aí finalizamos nosso nosso querido plano de contas.
+
+397
+00:26:21.930 --> 00:26:26.880
+Aí tá bom, então bens ativos mobilizados a gente não colocou né?
+
+398
+00:26:26.890 --> 00:26:28.920
+A gente vamos dizer que a empresa não
+
+399
+00:26:28.930 --> 00:26:32.239
+tem informação pra inserir nesse campo de informações.
+
+400
+00:26:32.250 --> 00:26:37.780
+Tá aí a gente preencheu o nosso registro zero quinhentos do nosso plano de contas!
+
+401
+00:26:38.109 --> 00:26:42.300
+E agora vamos eh pro nosso centro de custos, tá?
+
+402
+00:26:42.310 --> 00:26:45.869
+Esse centro de curso é obrigatório também. Então vamos colocar aqui?
+
+403
+00:26:45.880 --> 00:26:52.619
+Centro de custo aqui eh um centro de custo operacional, né?
+
+404
+00:26:52.630 --> 00:26:54.099
+Centro de custo operacional
+
+405
+00:26:54.750 --> 00:26:59.479
+E não tem de produção! Digamos que a gente não indústria, vai só revender.
+
+406
+00:26:59.489 --> 00:27:03.020
+Bota aqui um centro de custos administrativos também não
+
+407
+00:27:03.930 --> 00:27:06.000
+cento Custos vinte e quatro
+
+408
+00:27:06.599 --> 00:27:08.310
+é dois aqui.
+
+409
+00:27:08.949 --> 00:27:14.300
+Eh Código dois e centro de custos. Administrativos, né?
+
+410
+00:27:15.380 --> 00:27:19.469
+Centro de custos administrativos pra gente finalizar
+
+411
+00:27:19.479 --> 00:27:21.489
+aqui o nosso centro de custos.
+
+412
+00:27:21.500 --> 00:27:26.810
+Registro zero seiscentos da f f, d ICMS P I.
+
+413
+00:27:26.819 --> 00:27:28.910
+Então, a gente já tem aqui os dados do contribuinte prontos.
+
+414
+00:27:28.920 --> 00:27:30.069
+É bom a gente lembrar que a gente só vai
+
+415
+00:27:30.079 --> 00:27:32.310
+fazer isso uma vez não precisa fazer isso todo mês,
+
+416
+00:27:32.319 --> 00:27:32.750
+né?
+
+417
+00:27:32.760 --> 00:27:35.510
+Isso fica salvo aí então aí pra fechar, né,
+
+418
+00:27:35.520 --> 00:27:40.369
+A gente colocou aqui as informações gerais do do contribuinte.
+
+419
+00:27:40.650 --> 00:27:45.300
+A gente colocou também aqui as tabelas, tabelas de participante, de unidades,
+
+420
+00:27:45.310 --> 00:27:46.199
+de medida.
+
+421
+00:27:46.209 --> 00:27:49.819
+Colocamos aqui os itens de produtos que transacionar natureza
+
+422
+00:27:49.829 --> 00:27:52.699
+da operação que utilizamos nos nossos documentos fiscais,
+
+423
+00:27:52.709 --> 00:27:55.699
+informação complementar, esses outros aqui de lançamentos fiscais,
+
+424
+00:27:55.709 --> 00:27:59.819
+não colocamos e colocamos os dados contábeis, bens do ativo imobilizado.
+
+425
+00:27:59.829 --> 00:28:02.270
+Optamos por não colocar. Digamos que a empresa não tinha.
+
+426
+00:28:02.280 --> 00:28:06.239
+Fizemos nosso planinho de contas aí. Uma coisa bem simples pra
+
+427
+00:28:06.589 --> 00:28:08.479
+pra gente cumprir com a obrigatoriedade de prestar
+
+428
+00:28:08.489 --> 00:28:10.959
+atenção na informação e também centros de custos.
+
+429
+00:28:10.969 --> 00:28:14.660
+Tá bom, então encerramos aqui essa parte do cadastro contribuintes.
+
+430
+00:28:14.670 --> 00:28:17.359
+É bom lembrar que esse cadastro de contribuinte a gente só faz uma vez.
+
+431
+00:28:17.369 --> 00:28:21.680
+Não precisa fazer. Ele toda vez Tá. Fez uma vez e é claro, né?
+
+432
+00:28:21.689 --> 00:28:22.959
+Sempre que for ter alguma alteração,
+
+433
+00:28:22.969 --> 00:28:25.520
+a gente volta aqui pra pra mexer em alguma coisa.
+
+434
+00:28:25.530 --> 00:28:26.800
+Mas encerramos aqui.
+
+435
+00:28:26.810 --> 00:28:31.060
+Essa parte do cadastro do contribuinte Tá, mas já vamos em frente também! Okay!

@@ -1,0 +1,33 @@
+{
+  "id": 464692,
+  "title": "Fundamento Legal",
+  "position": 12,
+  "duration": 669,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2bcd4082-072c-4d12-8d92-602bedff0365/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2bcd4082-072c-4d12-8d92-602bedff0365/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2bcd4082-072c-4d12-8d92-602bedff0365/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2bcd4082-072c-4d12-8d92-602bedff0365/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2bcd4082-072c-4d12-8d92-602bedff0365/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

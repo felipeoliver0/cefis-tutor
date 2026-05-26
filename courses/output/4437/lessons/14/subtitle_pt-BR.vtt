@@ -1,0 +1,465 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.360
+Então entendemos aqui serviços. Agora a gente vai fazer a mesma métrica que vocês vão ver na
+
+3
+00:00:06.360 --> 00:00:13.919
+próxima aba da planilha, mas são os efeitos da reforma tributária sobre o comércio. Então estou
+
+4
+00:00:13.919 --> 00:00:20.160
+na mesma planilha, vou para a segunda aba, que aqui já mudou então uma empresa de comércio do
+
+5
+00:00:20.160 --> 00:00:27.359
+lucro real. Então acompanhem comigo aqui o período dela. Deixa eu só aumentar um pouquinho mais aqui,
+
+6
+00:00:27.359 --> 00:00:34.380
+diminuir um pouquinho mais. Vamos ver isso, deixar todos os anos aqui, tá? Então olha só,
+
+7
+00:00:34.380 --> 00:00:44.399
+olhe agora só na coluna G e na linha 5. A empresa faturou 600 mil no ano, janeiro a dezembro. Eu estou
+
+8
+00:00:44.399 --> 00:00:50.520
+considerando uma empresa de São Paulo. Uma empresa de São Paulo, ICMS, que agora é comercial, ela
+
+9
+00:00:50.520 --> 00:00:57.179
+tem ICMS. ICMS é 18%. Então veja que eu estou aplicando. Digamos que essa empresa
+
+10
+00:00:57.179 --> 00:00:57.320
+só vende no ano de janeiro a dezembro. Então veja que eu estou aplicando. Digamos que essa empresa só
+
+11
+00:00:57.320 --> 00:00:57.340
+veja que essa empresa só vende no ano de janeiro a dezembro. Então veja que essa empresa só vende no ano de janeiro a dezembro. Então veja que essa empresa só
+
+12
+00:00:57.340 --> 00:01:01.619
+é venda dentro de São Paulo. Aí o que você tem que verificar é se a empresa
+
+13
+00:01:01.619 --> 00:01:09.439
+tem CFOPs de venda dentro do estado e CFOPs de venda fora do estado. Porque aí a
+
+14
+00:01:09.439 --> 00:01:19.200
+alíquota de ICMS não vai ser só 18%. A empresa pode ter 18% nas vendas internas, pode ter 7% nas
+
+15
+00:01:19.200 --> 00:01:27.159
+vendas interestaduais para os estados do centro-oeste, norte a nordeste. Pode ter 12%
+
+16
+00:01:27.159 --> 00:01:31.459
+nas vendas interestaduais para o sul e sudeste
+
+17
+00:01:31.459 --> 00:01:35.760
+e pode até mesmo ter 4% de alíquota interestadual
+
+18
+00:01:35.760 --> 00:01:39.560
+se for uma venda de itens importados
+
+19
+00:01:39.560 --> 00:01:44.140
+ou com conhecimentos, com conteúdo de importação
+
+20
+00:01:44.140 --> 00:01:48.620
+acima de 40% também vai ter 4%.
+
+21
+00:01:48.620 --> 00:01:53.840
+É todas aquelas loucuras de CMS, de alíquotas interestaduais.
+
+22
+00:01:53.840 --> 00:02:00.760
+Aqui, nesse exemplo, está sendo considerado apenas vendas
+
+23
+00:02:00.760 --> 00:02:03.019
+dentro do estado de São Paulo.
+
+24
+00:02:03.739 --> 00:02:10.500
+Então, é 18% diretamente sobre o faturamento de venda de mercadorias.
+
+25
+00:02:10.740 --> 00:02:16.000
+Então, se você tem uma empresa ou analisa uma empresa
+
+26
+00:02:16.000 --> 00:02:19.300
+que tem outras saídas interestaduais,
+
+27
+00:02:19.300 --> 00:02:23.060
+é importante pegar o controle por CFOP
+
+28
+00:02:23.060 --> 00:02:23.300
+que...
+
+29
+00:02:23.840 --> 00:02:25.319
+que está no SPED fiscal
+
+30
+00:02:25.319 --> 00:02:29.659
+e deixar separadinho, bonitinho, para ter o efeito
+
+31
+00:02:29.659 --> 00:02:33.740
+considerando as especificidades do CMS.
+
+32
+00:02:34.199 --> 00:02:41.780
+Ou seja, saídas a 18%, saídas a 12%, saídas a 7%, saídas a 4%,
+
+33
+00:02:41.780 --> 00:02:43.860
+depois comparando com todo o IBS.
+
+34
+00:02:44.159 --> 00:02:44.479
+Tá bom?
+
+35
+00:02:44.840 --> 00:02:46.039
+Está importante isso aqui.
+
+36
+00:02:46.039 --> 00:02:50.039
+Aqui, no caso, é só interno e é só 18%.
+
+37
+00:02:50.699 --> 00:02:52.979
+O PIS e COFINS no lucro real, né?
+
+38
+00:02:53.060 --> 00:02:53.740
+O PIS já é uma...
+
+39
+00:02:53.840 --> 00:02:56.740
+uma alíquota de 1,65%.
+
+40
+00:02:56.740 --> 00:02:59.360
+No entanto, olha aqui o que eu estou fazendo aqui.
+
+41
+00:02:59.939 --> 00:03:03.259
+Pegando o faturamento bruto menos o ICMS,
+
+42
+00:03:03.439 --> 00:03:07.039
+porque pode excluir o ICMS da base do PIS e COFINS.
+
+43
+00:03:07.639 --> 00:03:10.180
+E aí, aplicando 1,65%.
+
+44
+00:03:10.180 --> 00:03:10.740
+Legal.
+
+45
+00:03:10.979 --> 00:03:13.159
+Então, cheguei em 1,65%.
+
+46
+00:03:13.159 --> 00:03:14.800
+A COFINS, a mesma coisa.
+
+47
+00:03:15.719 --> 00:03:19.800
+Faturamento menos o ICMS, só que é vezes 7,6%.
+
+48
+00:03:20.599 --> 00:03:22.800
+Então, o total de tributos, eu tenho...
+
+49
+00:03:23.840 --> 00:03:26.199
+53.510.
+
+50
+00:03:26.419 --> 00:03:29.180
+Estou somando o ICMS, PIS e COFINS.
+
+51
+00:03:29.659 --> 00:03:35.539
+E o meu rendimento líquido, perceba que é a receita bruta menos o total de tributos.
+
+52
+00:03:35.719 --> 00:03:38.340
+E olha aqui qual que é a minha carga tributária, então.
+
+53
+00:03:38.539 --> 00:03:45.419
+Lembrando que a carga tributária é a divisão do total de tributos pelo total do faturamento.
+
+54
+00:03:45.740 --> 00:03:47.259
+Alguém pode falar, né?
+
+55
+00:03:47.879 --> 00:03:51.520
+Mas no exemplo anterior tinha IRPJ e CSLL.
+
+56
+00:03:51.900 --> 00:03:52.860
+E aí não tem, né?
+
+57
+00:03:53.240 --> 00:03:53.419
+Justamente...
+
+58
+00:03:53.840 --> 00:03:54.259
+Justamente por quê?
+
+59
+00:03:54.379 --> 00:03:56.659
+Porque aqui é o lucro real.
+
+60
+00:03:57.199 --> 00:04:03.879
+E no lucro real, o IRPJ e a CSLL não incidem sobre o faturamento.
+
+61
+00:04:04.500 --> 00:04:07.580
+Eles incidem sobre o resultado contábil.
+
+62
+00:04:08.280 --> 00:04:14.219
+Então, olhando só entre receita bruta e receita líquida, eu não tenho IRCS.
+
+63
+00:04:14.860 --> 00:04:17.860
+Vai ser só sobre o resultado contábil depois.
+
+64
+00:04:18.120 --> 00:04:18.480
+Tudo bem?
+
+65
+00:04:18.860 --> 00:04:22.699
+Aqui estão os tributos que incidem sobre o faturamento.
+
+66
+00:04:22.699 --> 00:04:23.699
+Então, a minha carga tributária...
+
+67
+00:04:23.839 --> 00:04:27.120
+A minha carga tributária é de 25,59%.
+
+68
+00:04:27.120 --> 00:04:33.240
+Daqui pra frente, vocês vão reparar que a métrica e as regras da reforma tributária
+
+69
+00:04:33.240 --> 00:04:34.740
+é mais ou menos a mesma, né?
+
+70
+00:04:35.300 --> 00:04:41.040
+Repara que em 2026, aqui na coluna H, a carga tributária é a mesma, ó.
+
+71
+00:04:41.199 --> 00:04:42.600
+25,59%.
+
+72
+00:04:42.600 --> 00:04:46.740
+Não mudou o mesmo rendimento líquido e o mesmo total de tributos.
+
+73
+00:04:46.860 --> 00:04:47.240
+Por quê?
+
+74
+00:04:47.680 --> 00:04:53.680
+Porque no total de tributos em 2026, eu não estou somando CBS e BRB,
+
+75
+00:04:53.839 --> 00:04:56.839
+porque é um ano apenas de teste.
+
+76
+00:04:57.779 --> 00:05:03.240
+E o PIS e COFINS não mudou em 2026 e o ICMS também não.
+
+77
+00:05:04.180 --> 00:05:12.160
+Então, a única coisa que muda aqui em 2026 é que eu passo a calcular 0,9% de CBS,
+
+78
+00:05:12.339 --> 00:05:17.779
+onde eu pego o faturamento bruto e excluo o ICMS e o PIS e COFINS.
+
+79
+00:05:18.180 --> 00:05:23.779
+Aí, eu calco, aplico 0,9% e chego no...
+
+80
+00:05:23.839 --> 00:05:28.339
+No valor de CBS, que no caso aqui é 4.018,41.
+
+81
+00:05:29.220 --> 00:05:31.120
+Para IBS, eu faço a mesma coisa.
+
+82
+00:05:31.420 --> 00:05:37.899
+Fatoramento bruto, menos ICMS, menos PIS e COFINS e aplico 0,1%.
+
+83
+00:05:37.899 --> 00:05:45.019
+Reparou que aqui em 2026 é apenas 0,9 e 0,1,
+
+84
+00:05:45.120 --> 00:05:48.180
+que somando os dois dá 1% de IVA dual.
+
+85
+00:05:48.180 --> 00:05:53.420
+Mas como eu não somo no total de tributos, a carga tributária é a mesma.
+
+86
+00:05:53.839 --> 00:05:57.120
+É apenas para destaque nas notas fiscais.
+
+87
+00:05:57.399 --> 00:06:02.180
+Quando chega em 2027, aí sim, a regra é a mesma para todas as empresas.
+
+88
+00:06:02.560 --> 00:06:09.319
+Olha o buraco que o PIS e COFINS já ocasiona a partir de 2027 e para sempre,
+
+89
+00:06:10.019 --> 00:06:12.959
+que é quando não vai existir mais o PIS e COFINS.
+
+90
+00:06:13.319 --> 00:06:16.680
+E a CBS, então, ela já entra na totalidade.
+
+91
+00:06:16.680 --> 00:06:22.680
+Veja que aqui a gente está pegando o faturamento bruto menos o ICMS e aplicando 8,4%.
+
+92
+00:06:23.839 --> 00:06:26.759
+Por que é 8,4% a mesma regra?
+
+93
+00:06:27.399 --> 00:06:37.160
+Em 2027 e em 2028 está sendo dado um desconto de 0,1%, que é o 0,1% do IBS.
+
+94
+00:06:37.500 --> 00:06:43.680
+Então aqui, tanto em 2027 quanto em 2028, é 8,4% de CBS.
+
+95
+00:06:43.680 --> 00:06:50.920
+E o IBS também nos dois anos é 0,1%, nos dois anos.
+
+96
+00:06:51.180 --> 00:06:53.680
+E aí por isso que é tudo igual, 2027 e 2028.
+
+97
+00:06:53.839 --> 00:07:02.939
+O total de tributos, aí já somando IBS e CBS, é 149.820.
+
+98
+00:07:03.720 --> 00:07:09.800
+Então o rendimento líquido é o mesmo, porque o total de tributos e o faturamento é o mesmo,
+
+99
+00:07:10.420 --> 00:07:16.339
+de forma que a carga tributária dos dois anos também é a mesma de 24,97.
+
+100
+00:07:16.879 --> 00:07:23.180
+Mas repara só um fenômeno aqui quando eu comparo 2027 contra 2026.
+
+101
+00:07:23.839 --> 00:07:32.639
+A minha carga tributária de um ano para o outro, ela reduziu pouco, mas reduziu 0,62%.
+
+102
+00:07:32.639 --> 00:07:35.300
+Por que que reduziu essa carga tributária?
+
+103
+00:07:36.220 --> 00:07:38.079
+O ICMS não mudou nada, né?
+
+104
+00:07:38.079 --> 00:07:47.540
+Inclusive, se você reparar, aquela mesma regra do ISS, até o ano de 2028, nada muda em relação ao ICMS.
+
+105
+00:07:48.339 --> 00:07:52.079
+É a mesma alíquota, o mesmo valor, nenhuma mudança.
+
+106
+00:07:52.079 --> 00:07:54.720
+A mesma mudança até dezembro de 2028.
+
+107
+00:07:55.180 --> 00:08:00.920
+No entanto, não mudou o ICMS, o PIS e COFINS é que deixou de existir, né?
+
+108
+00:08:01.720 --> 00:08:09.019
+Só que aí em 2027 eu passei a ter 8,4 de CBS.
+
+109
+00:08:09.519 --> 00:08:12.439
+Só que o PIS e COFINS era 9,25.
+
+110
+00:08:13.620 --> 00:08:19.060
+Então veja, se eu tiro 9,25 de PIS e COFINS, que inclusive é por dentro,
+
+111
+00:08:19.060 --> 00:08:21.060
+e aí eu tenho 8,4.
+
+112
+00:08:22.079 --> 00:08:28.300
+E fora, quer dizer que a alíquota de 8,4 é menor do que 9,25.
+
+113
+00:08:28.620 --> 00:08:34.960
+Então isso vai trazer um impacto de redução na carga tributária.
+
+114
+00:08:35.120 --> 00:08:39.159
+E é o que aconteceu aqui, 0,62.
+
+115
+00:08:39.659 --> 00:08:45.240
+Basicamente aí a diferença de 9,25 para 8,5.
+
+116
+00:08:45.700 --> 00:08:46.159
+Perfeito?
+
+117
+00:08:46.159 --> 00:08:49.820
+Então, reduziu a carga tributária ao invés de aumentar.

@@ -1,0 +1,33 @@
+{
+  "id": 466847,
+  "title": "PPNG - exemplo prático",
+  "position": 5,
+  "duration": 255,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e068e21f-683d-4899-8d25-c388008e033c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e068e21f-683d-4899-8d25-c388008e033c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e068e21f-683d-4899-8d25-c388008e033c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e068e21f-683d-4899-8d25-c388008e033c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e068e21f-683d-4899-8d25-c388008e033c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.078
+então, na prática, eu quero trazer pra vocês aqui uma simulação.
+
+2
+00:00:05.239 --> 00:00:09.529
+Imagine que nós estamos aqui eh vendendo uma
+
+3
+00:00:09.539 --> 00:00:12.890
+mercadoria que foi produção do meu estabelecimento,
+
+4
+00:00:12.899 --> 00:00:14.359
+natureza da operação.
+
+5
+00:00:14.369 --> 00:00:17.370
+Então é venda de produção do estabelecimento.
+
+6
+00:00:17.379 --> 00:00:23.079
+Aqui no meu exemplo, eu coloquei que o Estado aqui do remetente é São Paulo,
+
+7
+00:00:23.090 --> 00:00:24.049
+então a indústria,
+
+8
+00:00:24.059 --> 00:00:28.270
+a minha fábrica de móveis está estabelecida no estado de São Paulo.
+
+9
+00:00:28.889 --> 00:00:30.559
+O meu cliente
+
+10
+00:00:31.250 --> 00:00:35.240
+está no Rio de Janeiro e esse meu cliente
+
+11
+00:00:35.250 --> 00:00:39.099
+é um comércio e está comprando para revender.
+
+12
+00:00:39.110 --> 00:00:42.860
+Então ele compra as minhas mesas em grandes quantidades,
+
+13
+00:00:42.869 --> 00:00:46.900
+porque ele vai revender e ele prefere comprar aqui da minha indústria em São Paulo,
+
+14
+00:00:46.909 --> 00:00:49.139
+porque eu tenho um preço mais competitivo.
+
+15
+00:00:49.150 --> 00:00:51.634
+Mesmo com os custos logísticos pra ele compensa
+
+16
+00:00:51.645 --> 00:00:54.134
+comprar aqui da minha indústria em São Paulo.
+
+17
+00:00:54.145 --> 00:00:57.235
+Então eu estou vendendo uma operação,
+
+18
+00:00:57.244 --> 00:01:01.595
+um produto fabricado por mim aqui no meu estado.
+
+19
+00:01:01.604 --> 00:01:06.355
+Eu estou vendendo do dos de São Paulo como indústria para o Rio de Janeiro,
+
+20
+00:01:06.364 --> 00:01:07.514
+que é o meu cliente.
+
+21
+00:01:07.525 --> 00:01:10.224
+É um comércio e ele está comprando pra revenda,
+
+22
+00:01:10.235 --> 00:01:13.635
+e aqui temos uma observação importante.
+
+23
+00:01:13.644 --> 00:01:17.175
+O produto é fabricado com matéria-prima cem por cento nacional.
+
+24
+00:01:18.029 --> 00:01:19.919
+Por que que eu tenho essa informação?
+
+25
+00:01:19.930 --> 00:01:23.639
+por que que é importante eu saber se a mercadoria, nacional, ou não,
+
+26
+00:01:23.650 --> 00:01:28.660
+porque lá no C s t do I, C m s eu vou ter que definir a origem no primeiro dígito.
+
+27
+00:01:29.379 --> 00:01:33.949
+E, por último, ele fala que não tem substituição tributária.
+
+28
+00:01:33.959 --> 00:01:38.949
+Eu quero fazer uma pausa com vocês aqui antes da gente resolver esse caso prático,
+
+29
+00:01:38.959 --> 00:01:43.769
+porque aqui tem que sempre se formar na cabeça de vocês.
+
+30
+00:01:43.779 --> 00:01:49.110
+Essa ideia toda vez que você for analisar uma operação de saída ou
+
+31
+00:01:49.120 --> 00:01:52.239
+uma operação de entrada aqui vai ser uma saída no nosso exemplo,
+
+32
+00:01:52.250 --> 00:01:55.650
+pra vamos imaginar que você tá trabalhando no faturamento e você
+
+33
+00:01:55.660 --> 00:01:58.930
+vai emitir a nota de venda aí da tua empresa.
+
+34
+00:01:58.940 --> 00:02:03.870
+Primeira coisa que você tem que se perguntar, que operação que eu vou realizar,
+
+35
+00:02:03.879 --> 00:02:04.910
+se pergunte isso?
+
+36
+00:02:04.919 --> 00:02:09.309
+Anota aí no seu caderno primeira coisa que eu preciso me perguntar na hora
+
+37
+00:02:09.320 --> 00:02:12.910
+de definir c f o p e C S t E tem número um.
+
+38
+00:02:12.919 --> 00:02:15.529
+Qual é a operação que eu vou realizar?
+
+39
+00:02:15.880 --> 00:02:18.330
+Faça essa pergunta a aqui.
+
+40
+00:02:18.339 --> 00:02:22.500
+A resposta nesse caso é venda de um produto que eu mesmo fabrique.
+
+41
+00:02:22.509 --> 00:02:26.089
+Você pode ter outras respostas pra essa pergunta.
+
+42
+00:02:26.100 --> 00:02:30.250
+Remessa pra demonstração eh venda de produto que eu
+
+43
+00:02:30.259 --> 00:02:33.949
+fabrique com s t eh remessa pra conserto.
+
+44
+00:02:33.960 --> 00:02:39.570
+Você pode ter diversas outras situações Devolução aqui no caso é uma venda,
+
+45
+00:02:39.580 --> 00:02:44.389
+então primeiro sempre se pergunte qual é a operação que eu vou realizar.
+
+46
+00:02:45.110 --> 00:02:51.500
+Depois você se pergunta quem sou eu onde eu estou? Em que estado eu estou?
+
+47
+00:02:52.389 --> 00:02:54.720
+Em que estado está o meu cliente?
+
+48
+00:02:54.729 --> 00:02:59.839
+Terceira pergunta porque essa definição do estado onde eu
+
+49
+00:02:59.850 --> 00:03:03.580
+estou e onde o meu cliente está vai definir o
+
+50
+00:03:03.589 --> 00:03:08.759
+primeiro dígito do C f o P porque nós aprendemos que o primeiro dígito do C f o p,
+
+51
+00:03:08.770 --> 00:03:13.460
+se ele for uma saída cinco é uma saída interna no mesmo
+
+52
+00:03:13.470 --> 00:03:18.679
+estado iniciado em seis é uma saída interestadual entre estados diferente.
+
+53
+00:03:18.690 --> 00:03:21.179
+Sete É uma exportação
+
+54
+00:03:21.690 --> 00:03:26.020
+então, Segunda e terceira pergunta em que estado eu estou?
+
+55
+00:03:26.029 --> 00:03:30.960
+Em que estado meu cliente está? Façam essas perguntas Anota aí no seu caderno?
+
+56
+00:03:30.970 --> 00:03:34.500
+Então primeiro, qual é a operação que eu vou realizar? Segundo?
+
+57
+00:03:34.509 --> 00:03:38.919
+Em qual estado eu estou? E terceiro, qual estado o meu cliente está?
+
+58
+00:03:39.570 --> 00:03:41.300
+Depois se pergunte,
+
+59
+00:03:41.309 --> 00:03:45.740
+coloca lá na sua lista de perguntas número quatro Qual é
+
+60
+00:03:45.750 --> 00:03:49.559
+a destinação que o meu cliente vai dar nessa mercadoria?
+
+61
+00:03:50.929 --> 00:03:52.960
+Pra que que esse cliente tá comprando
+
+62
+00:03:53.630 --> 00:03:57.300
+isso também vai determinar o c f o P.
+
+63
+00:03:57.309 --> 00:04:03.399
+Isso também vai determinar inclusive até a base de cálculo do I c M S.
+
+64
+00:04:03.410 --> 00:04:04.600
+Isso vai deter,
+
+65
+00:04:04.610 --> 00:04:09.050
+fazer ser fator determinante pras escolhas que você vai colocar na NA no c,
+
+66
+00:04:09.059 --> 00:04:12.559
+f a p e no c s T vai ser fator determinante.
+
+67
+00:04:12.570 --> 00:04:17.238
+Se o seu cliente estiver comprando pra revender o c f a P vai ser um.
+
+68
+00:04:17.250 --> 00:04:23.260
+Agora, se o seu cliente está comprando pra uso interno, ele vai ser consumidor final
+
+69
+00:04:23.730 --> 00:04:29.320
+o c f O P pode ser outro se caso ele não seja contribuinte do I C M s, por exemplo,
+
+70
+00:04:30.190 --> 00:04:31.959
+depois você vai colocar,
+
+71
+00:04:31.970 --> 00:04:39.119
+adiciona aí mais uma pergunta esse produto ele é de qual origem ele é nacional?
+
+72
+00:04:39.130 --> 00:04:40.440
+Ele é importado,
+
+73
+00:04:40.450 --> 00:04:43.559
+coloca essa pergunta aí pra você responder toda
+
+74
+00:04:43.570 --> 00:04:46.320
+vez que for fazer uma operação fiscal.
+
+75
+00:04:46.329 --> 00:04:50.920
+E por último esse produto tem substituição tributária?
+
+76
+00:04:50.929 --> 00:04:55.500
+Eu tenho que pesquisar ANC m e identificar se tem ou não
+
+77
+00:04:56.079 --> 00:04:58.489
+substituição tributária na legislação.
+
+78
+00:04:58.500 --> 00:05:03.250
+Então, se fazendo essas perguntas, o que eu vou realizar?
+
+79
+00:05:03.260 --> 00:05:05.929
+Qual é a natureza da Operação? Dois.
+
+80
+00:05:05.940 --> 00:05:08.010
+Onde eu estou em que Estado,
+
+81
+00:05:08.019 --> 00:05:10.609
+em que estado o meu cliente está pra que que
+
+82
+00:05:10.619 --> 00:05:14.649
+ele está comprando a mercadoria nacional ou é importada?
+
+83
+00:05:14.660 --> 00:05:16.570
+Tem substituição tributária?
+
+84
+00:05:16.579 --> 00:05:21.390
+Respondendo todas essas perguntas, você começa a montar o quebra-cabeça.

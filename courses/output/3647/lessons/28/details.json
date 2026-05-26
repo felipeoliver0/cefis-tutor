@@ -1,0 +1,33 @@
+{
+  "id": 478122,
+  "title": "Enquadramentos tributário",
+  "position": 28,
+  "duration": 541,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9d21a453-53ac-4f4a-93c6-9a8d8eebc097/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9d21a453-53ac-4f4a-93c6-9a8d8eebc097/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9d21a453-53ac-4f4a-93c6-9a8d8eebc097/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9d21a453-53ac-4f4a-93c6-9a8d8eebc097/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9d21a453-53ac-4f4a-93c6-9a8d8eebc097/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

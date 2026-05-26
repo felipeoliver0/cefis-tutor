@@ -1,0 +1,94 @@
+WEBVTT
+
+00:00:00.034 --> 00:00:09.192
+- Voltando aqui nesse conceito que nós estamos trabalhando, nós vamos verificar esse exemplo de série
+
+00:00:09.192 --> 00:00:18.438
+- uniforme de pagamentos. Um exemplo aqui prático para que a gente possa memorizar o conceito. Considere
+
+00:00:18.438 --> 00:00:28.574
+- um empréstimo de 30 mil reais a ser liquidado através de dois pagamentos mensais sucessivos de 15.500, cada um.
+
+00:00:29.026 --> 00:00:37.448
+- Qual o custo desta operação calculado pelo método da taxa interna de retorno? Então vejam, nós
+
+00:00:37.448 --> 00:00:45.364
+- aqui temos um primeiro montante, que é o valor empréstimo contratado nesse momento, que tem
+
+00:00:45.364 --> 00:00:53.786
+- como prerrogativa o pagamento em duas parcelas de R$ 15.500. Vamos verificar qual a taxa interna de
+
+00:00:53.786 --> 00:00:58.334
+- retorno embutida nesse empréstimo, nessa operação?
+
+00:00:59.170 --> 00:01:07.208
+- O que nós temos que fazer? Podemos usar aqui a nossa HP 12C, seguindo sempre algumas observações
+
+00:01:07.208 --> 00:01:15.407
+- importantes. Significa o seguinte, aqui não há, não houve, como é um empréstimo, nenhuma parcela
+
+00:01:15.407 --> 00:01:23.848
+- no momento zero. As parcelas estão definidas no momento um e dois, no ano dois. Então, como no momento
+
+00:01:23.848 --> 00:01:28.510
+- zero realmente só foi feito ali a captação do recurso,
+
+00:01:28.866 --> 00:01:37.772
+- Então nós temos que deixar aqui a nossa teclinha apertar o GEND, que o GEND é o G aquele em azulzinho,
+
+00:01:37.772 --> 00:01:46.259
+- tecla 8 da nossa HP. Por quê? Para comprovar que as parcelas efetivamente estão iniciando no final
+
+00:01:46.259 --> 00:01:54.661
+- de um ano, não é no momento em que está sendo feita a operação. Então feita essa escolha aqui
+
+00:01:54.661 --> 00:01:58.526
+- na nossa HP-12C, nós podemos usar aqui essas
+
+00:01:59.394 --> 00:02:06.936
+- teclas, o PV valor presente é 30 mil, o N que é o número de anos, no caso, ou meses. Não tem problema
+
+00:02:06.936 --> 00:02:14.477
+- nenhum, se você tiver com todos os números para ano, você vai colocar automaticamente, se for período
+
+00:02:14.477 --> 00:02:21.592
+- de dois anos, coloca dois e vai trazer ali a informação. Então não tem problema, sempre tem que
+
+00:02:21.592 --> 00:02:27.070
+- só observar se todos os demais itens estão, vamos dizer, análogos àquela
+
+00:02:27.394 --> 00:02:35.225
+- aquele período. Se aqui está em meses, não está falando nada, a gente pode usar. Então, 30.000,
+
+00:02:35.225 --> 00:02:43.212
+- N2, dois meses, dois períodos, nós temos que inverter aqui a parcela com CHS PMT com sinal negativo.
+
+00:02:43.212 --> 00:02:51.198
+- Por quê? Se nós não colocarmos o valor de entrada do empréstimo com sinal negativo, nós temos que
+
+00:02:51.298 --> 00:02:58.161
+- fazer isso nas parcelas. Ou se nós tivéssemos escolhido colocar o PV negativo, CHS PV, nós
+
+00:02:58.161 --> 00:03:05.607
+- não precisaríamos mudar o sinal da parcela. Mas é para obedecer, né? Isso é questão dos fluxos,
+
+00:03:05.607 --> 00:03:13.346
+- né? Entradas e saídas, tudo bem? Então, muito bem. Fizemos esse ajuste. O valor futuro é zero, porque
+
+00:03:13.346 --> 00:03:17.726
+- ele vai estar liquidado. E qual que é a taxa interna, né?
+
+00:03:18.242 --> 00:03:25.584
+- dentro dessa operação a gente consegue calcular então que essa taxa corresponde a 2,21% que é o
+
+00:03:25.584 --> 00:03:33.146
+- mês porque nós estamos aqui com meses. Então vejam nós podemos usar as teclas aqui da nossa HP-12C
+
+00:03:33.146 --> 00:03:39.166
+- ou podemos realizar o cálculo manualmente só que é meio chato tirar raiz aqui.
+
+00:03:39.682 --> 00:03:45.412
+- de raiz quadrada, de uma isolar a taxa, é mais chato fazer esse tipo de cálculo. Tem que ser feito,
+
+00:03:45.412 --> 00:03:50.300
+- eu digo na mão, tem que ser feito ou na HP ou na Excel que fica muito mais tranquilo.

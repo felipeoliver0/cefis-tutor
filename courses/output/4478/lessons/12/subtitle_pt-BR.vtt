@@ -1,0 +1,641 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.279
+A camada 4 trata, então, a escrituração.
+
+3
+00:00:03.279 --> 00:00:09.740
+Qual que vai ser, então, o fluxo futuro de uma escrituração?
+
+4
+00:00:09.740 --> 00:00:12.580
+Primeiro, vamos pensar o que acontece hoje.
+
+5
+00:00:12.580 --> 00:00:16.780
+Hoje, pessoal, quando a gente fala sobre uma escrituração fiscal,
+
+6
+00:00:16.780 --> 00:00:21.460
+ela só deve acontecer se houve o recebimento, então,
+
+7
+00:00:21.460 --> 00:00:27.019
+houve o recebimento do item, foi verificado se esse recebimento está de acordo com o pedido.
+
+8
+00:00:27.019 --> 00:00:30.219
+Está de acordo? Há uma escrituração fiscal.
+
+9
+00:00:30.219 --> 00:00:34.420
+A escrituração fiscal, ela vai validar a CST, vai validar o item,
+
+10
+00:00:34.420 --> 00:00:38.899
+vai validar a CFOP e lançar no sistema operacional o contado.
+
+11
+00:00:38.899 --> 00:00:44.579
+Após isso, vocês vão apurar. Apura o ICMS, apura PIS e COFINS.
+
+12
+00:00:44.579 --> 00:00:48.939
+E o quarto passo é emitir a guia, trazer a arrecadação.
+
+13
+00:00:48.939 --> 00:00:53.579
+É assim que acontece a escrituração fiscal nesse sistema tributário atual.
+
+14
+00:00:53.579 --> 00:00:57.020
+No novo sistema tributário, as coisas vão mudar
+
+15
+00:00:57.020 --> 00:01:00.619
+e a gente vai ter que fazer o que? A escrituração.
+
+16
+00:01:00.619 --> 00:01:03.799
+Na verdade, a gente começa a refletir que a escrituração fiscal,
+
+17
+00:01:03.799 --> 00:01:07.700
+ela passa até ser reconsiderada.
+
+18
+00:01:07.700 --> 00:01:13.239
+Talvez não extinta, porque nós precisamos das movimentações das notas
+
+19
+00:01:13.239 --> 00:01:19.239
+por conta de estoque, por conta de inventário, por conta de contabilidade, por conta do financeiro.
+
+20
+00:01:19.239 --> 00:01:24.219
+Só que pensando no braço fiscal, a escrituração não faz mais sentido.
+
+21
+00:01:24.219 --> 00:01:24.819
+Por quê?
+
+22
+00:01:24.819 --> 00:01:26.219
+Se o XML é emitido,
+
+23
+00:01:26.219 --> 00:01:28.280
+a conta corrente já foi preenchida.
+
+24
+00:01:28.280 --> 00:01:33.659
+A escrituração, independente se o seu contribuinte recebeu ou não o item,
+
+25
+00:01:33.659 --> 00:01:38.060
+se ele recebeu, a conta corrente já foi preenchida.
+
+26
+00:01:38.060 --> 00:01:43.040
+XML emitido, lançamento automático na apuração assistida.
+
+27
+00:01:43.040 --> 00:01:46.400
+Cancelamento feito, automaticamente atualiza.
+
+28
+00:01:46.400 --> 00:01:51.140
+Ou seja, o fluxo de escrituração fiscal para a área fiscal muda.
+
+29
+00:01:51.140 --> 00:01:55.319
+A apuração, ela será feita em cima do XML
+
+30
+00:01:55.319 --> 00:01:57.959
+que está retratado na conta corrente.
+
+31
+00:01:57.959 --> 00:02:01.659
+A integração com o financeiro vai existir.
+
+32
+00:02:01.659 --> 00:02:04.659
+E aqui eu deixo uma reflexão para você,
+
+33
+00:02:04.659 --> 00:02:08.400
+principalmente você que é profissional da área fiscal.
+
+34
+00:02:08.400 --> 00:02:14.139
+Profissional da área fiscal precisa entender de conciliação financeira
+
+35
+00:02:14.139 --> 00:02:17.139
+e de conciliação contábil.
+
+36
+00:02:17.139 --> 00:02:23.379
+E pode ser que, ao longo do caminho, nesse mercado de trabalho,
+
+37
+00:02:23.379 --> 00:02:25.180
+você nunca tenha sido exigido.
+
+38
+00:02:25.180 --> 00:02:28.080
+Exigido essa competência de você.
+
+39
+00:02:28.080 --> 00:02:32.759
+Algumas empresas não tratam a conciliação contábil e financeira
+
+40
+00:02:32.759 --> 00:02:34.819
+para dentro do departamento fiscal.
+
+41
+00:02:34.819 --> 00:02:37.919
+E que fazia sentido até o momento.
+
+42
+00:02:37.919 --> 00:02:43.060
+Se você tem um departamento contábil, a contabilidade fazia a conciliação.
+
+43
+00:02:43.060 --> 00:02:47.800
+Se você tem, então, um financeiro de contas a pagar e contas a receber,
+
+44
+00:02:47.800 --> 00:02:49.699
+ela fazia a conciliação.
+
+45
+00:02:49.699 --> 00:02:54.039
+Só que agora, quando eu falo para vocês que a apuração assistida e a conta corrente
+
+46
+00:02:54.039 --> 00:02:57.979
+vai ser, então, automaticamente preenchida,
+
+47
+00:02:57.979 --> 00:03:00.939
+isso quer dizer que você, profissional da área fiscal,
+
+48
+00:03:00.939 --> 00:03:04.580
+vai precisar ter uma competência de trazer,
+
+49
+00:03:04.580 --> 00:03:09.460
+ao invés daquela validação de escrituração, de validação do CFOP,
+
+50
+00:03:09.460 --> 00:03:14.759
+uma análise de conciliação financeira e contábil.
+
+51
+00:03:14.759 --> 00:03:19.360
+E não apenas de escrituração fiscal, de validação do CFOP,
+
+52
+00:03:19.360 --> 00:03:21.599
+de identificação de crédito.
+
+53
+00:03:21.599 --> 00:03:24.039
+Então, muda a perspectiva de escrituração.
+
+54
+00:03:24.039 --> 00:03:32.020
+O Split Payment, da mesma forma, existe em empresas já considerando um departamento para isso,
+
+55
+00:03:32.020 --> 00:03:34.479
+porque vai ficar difícil a gente validar.
+
+56
+00:03:34.479 --> 00:03:39.319
+Só que, ao mesmo tempo, se você já tiver contas a receber,
+
+57
+00:03:39.319 --> 00:03:42.620
+essa pessoa é o Split Payment.
+
+58
+00:03:42.659 --> 00:03:49.560
+Ela já sabe de quem é o devedor para entender essa contraprestação comercial...
+
+59
+00:03:49.560 --> 00:03:52.039
+tanto no recebimento quanto a pagar.
+
+60
+00:03:52.039 --> 00:03:54.039
+O Split Payment nada mais...
+
+61
+00:03:54.039 --> 00:03:56.000
+que a gente trazer uma antecipação
+
+62
+00:03:56.000 --> 00:03:57.699
+da nossa arrecadação
+
+63
+00:03:57.699 --> 00:04:00.199
+o split já acontece no nosso dia a dia
+
+64
+00:04:00.199 --> 00:04:01.300
+quando você pega um Uber
+
+65
+00:04:01.300 --> 00:04:04.240
+quando você pega alguma comida no iFood
+
+66
+00:04:04.240 --> 00:04:06.000
+quando você compra da Amazon
+
+67
+00:04:06.000 --> 00:04:08.280
+quando você compra do Mercado Livre
+
+68
+00:04:08.280 --> 00:04:10.659
+é repassado para todos os envolvidos
+
+69
+00:04:10.659 --> 00:04:12.819
+o split permite da mesma forma
+
+70
+00:04:12.819 --> 00:04:14.259
+é uma forma de antecipar
+
+71
+00:04:14.259 --> 00:04:15.319
+a arrecadação ao fisco
+
+72
+00:04:15.319 --> 00:04:17.879
+o banco simplesmente vai te passar o líquido
+
+73
+00:04:17.879 --> 00:04:19.800
+porque ele já vai ter retirado
+
+74
+00:04:19.800 --> 00:04:22.199
+os tributos para repassar
+
+75
+00:04:22.199 --> 00:04:23.399
+para os cofres públicos
+
+76
+00:04:23.399 --> 00:04:25.980
+então o fiscal deixa de ser isolado
+
+77
+00:04:25.980 --> 00:04:28.660
+e passa a depender do financeiro
+
+78
+00:04:28.660 --> 00:04:30.199
+então por isso que eu trouxe
+
+79
+00:04:30.199 --> 00:04:31.779
+para você, profissional da área fiscal
+
+80
+00:04:31.779 --> 00:04:34.339
+principalmente, que é importante
+
+81
+00:04:34.339 --> 00:04:36.319
+você começar a reavaliar
+
+82
+00:04:36.319 --> 00:04:37.620
+as suas competências
+
+83
+00:04:37.620 --> 00:04:40.019
+porque o mercado vai exigir isso de vocês
+
+84
+00:04:40.019 --> 00:04:41.920
+então como que vai acontecer
+
+85
+00:04:41.920 --> 00:04:44.300
+a escrituração fiscal
+
+86
+00:04:44.300 --> 00:04:45.860
+antes de apurar
+
+87
+00:04:45.860 --> 00:04:48.560
+a gente vai precisar analisar os dados que foram emitidos
+
+88
+00:04:48.560 --> 00:04:49.519
+porque
+
+89
+00:04:49.519 --> 00:04:51.819
+vai existir um dado do XML
+
+90
+00:04:51.819 --> 00:04:53.319
+dentro do XML
+
+91
+00:04:53.399 --> 00:04:56.079
+nós vamos ter os eventos vinculados a ele
+
+92
+00:04:56.079 --> 00:04:58.439
+então existe um XML oficial
+
+93
+00:04:58.439 --> 00:05:00.060
+hoje nós temos
+
+94
+00:05:00.060 --> 00:05:01.860
+novos eventos
+
+95
+00:05:01.860 --> 00:05:03.120
+que vai vincular então
+
+96
+00:05:03.120 --> 00:05:05.939
+informações importantes para a operação
+
+97
+00:05:05.939 --> 00:05:06.500
+do ILA Dual
+
+98
+00:05:06.500 --> 00:05:10.060
+caso haja um ajuste dentro da operação
+
+99
+00:05:10.060 --> 00:05:12.139
+você vai precisar emitir o documento fiscal
+
+100
+00:05:12.139 --> 00:05:14.220
+para trazer a finalidade
+
+101
+00:05:14.220 --> 00:05:15.899
+ou de débito ou de crédito
+
+102
+00:05:15.899 --> 00:05:17.579
+para ajustar a operação
+
+103
+00:05:17.579 --> 00:05:19.639
+e aí sim
+
+104
+00:05:19.639 --> 00:05:21.420
+você encerra
+
+105
+00:05:21.420 --> 00:05:23.259
+percebeu que aqui a gente não passa
+
+106
+00:05:23.399 --> 00:05:25.079
+uma escrituração, um recebimento
+
+107
+00:05:25.079 --> 00:05:26.959
+todo esse contexto que a gente vive hoje
+
+108
+00:05:26.959 --> 00:05:28.259
+mas atenção
+
+109
+00:05:28.259 --> 00:05:30.519
+o que nós vivemos hoje
+
+110
+00:05:30.519 --> 00:05:32.939
+vai perdurar por mais sete anos
+
+111
+00:05:32.939 --> 00:05:35.279
+então você vai vivenciar
+
+112
+00:05:35.279 --> 00:05:36.480
+uma escrituração fiscal
+
+113
+00:05:36.480 --> 00:05:39.019
+totalmente distinta uma da outra
+
+114
+00:05:39.019 --> 00:05:41.399
+pode ser que lá na apuração assistida
+
+115
+00:05:41.399 --> 00:05:42.420
+você tenha o XML
+
+116
+00:05:42.420 --> 00:05:44.680
+que na verdade você nem escriturou ainda
+
+117
+00:05:44.680 --> 00:05:45.579
+porque não recebeu
+
+118
+00:05:45.579 --> 00:05:48.620
+porque o procedimento para o ICMS
+
+119
+00:05:48.620 --> 00:05:50.680
+quando a gente fala sobre a circulação do item
+
+120
+00:05:50.680 --> 00:05:53.079
+é ter recebido, é ter identificado a penalidade
+
+121
+00:05:53.399 --> 00:05:55.100
+então o processo
+
+122
+00:05:55.100 --> 00:05:56.319
+da apuração assistida
+
+123
+00:05:56.319 --> 00:05:58.699
+ela desenvolve novas etapas
+
+124
+00:05:58.699 --> 00:06:00.959
+e isso muda totalmente
+
+125
+00:06:00.959 --> 00:06:03.459
+o que nós fazemos hoje na nossa rotina
+
+126
+00:06:03.459 --> 00:06:05.379
+a nota passa a ser
+
+127
+00:06:05.379 --> 00:06:06.500
+fiscalizada
+
+128
+00:06:06.500 --> 00:06:09.060
+não que hoje já não acontecia
+
+129
+00:06:09.060 --> 00:06:11.339
+porque o XML já assim que emitido
+
+130
+00:06:11.339 --> 00:06:12.480
+o fisco já tem informação
+
+131
+00:06:12.480 --> 00:06:15.240
+mas agora ela passa a ser
+
+132
+00:06:15.240 --> 00:06:17.019
+de forma antecipada
+
+133
+00:06:17.019 --> 00:06:17.779
+fiscalizada
+
+134
+00:06:17.779 --> 00:06:19.819
+a principal obrigação acessória
+
+135
+00:06:19.819 --> 00:06:21.959
+do nosso sistema tributário atual
+
+136
+00:06:21.959 --> 00:06:23.079
+é o XML
+
+137
+00:06:23.399 --> 00:06:26.699
+XML de todos os nossos documentos fiscais
+
+138
+00:06:26.699 --> 00:06:29.480
+não existe parametrizar
+
+139
+00:06:29.480 --> 00:06:31.019
+só a nota fiscal
+
+140
+00:06:31.019 --> 00:06:33.279
+vocês viram que a gente tem camadas
+
+141
+00:06:33.279 --> 00:06:35.899
+não adianta a gente só olhar
+
+142
+00:06:35.899 --> 00:06:36.779
+a Cplp
+
+143
+00:06:36.779 --> 00:06:37.980
+só olhar a Cct
+
+144
+00:06:37.980 --> 00:06:41.100
+tem que fazer os parâmetros processuais
+
+145
+00:06:41.100 --> 00:06:42.660
+de cadastro, de validação
+
+146
+00:06:42.660 --> 00:06:45.360
+de cadastro de fornecedor de cliente
+
+147
+00:06:45.360 --> 00:06:47.100
+cadastro errado gera
+
+148
+00:06:47.100 --> 00:06:48.540
+nota errada
+
+149
+00:06:48.540 --> 00:06:50.800
+eu falo o seguinte, como a gente está falando
+
+150
+00:06:50.800 --> 00:06:52.439
+de uma não-cronatividade viva
+
+151
+00:06:52.439 --> 00:06:55.620
+meia nota, meio, crédito
+
+152
+00:06:55.620 --> 00:06:57.879
+nota errada gera escrituração
+
+153
+00:06:57.879 --> 00:06:59.399
+errada
+
+154
+00:06:59.399 --> 00:07:01.920
+escrituração errada vira risco
+
+155
+00:07:01.920 --> 00:07:02.839
+real
+
+156
+00:07:02.839 --> 00:07:05.680
+tudo vai se dar no meio da
+
+157
+00:07:05.680 --> 00:07:07.740
+emissão do documento
+
+158
+00:07:07.740 --> 00:07:10.100
+e antes da emissão do documento
+
+159
+00:07:10.100 --> 00:07:11.519
+como a gente viu nessa aula
+
+160
+00:07:11.519 --> 00:07:14.040
+nós temos outras camadas
+
+161
+00:07:14.040 --> 00:07:16.100
+outros passos que a gente precisa rever

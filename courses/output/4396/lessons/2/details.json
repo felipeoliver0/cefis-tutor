@@ -1,0 +1,33 @@
+{
+  "id": 486495,
+  "title": "Objetivos do treinamento",
+  "position": 2,
+  "duration": 563,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/be7b481d-4686-4b0b-8413-9416b367bf68/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be7b481d-4686-4b0b-8413-9416b367bf68/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be7b481d-4686-4b0b-8413-9416b367bf68/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be7b481d-4686-4b0b-8413-9416b367bf68/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/be7b481d-4686-4b0b-8413-9416b367bf68/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

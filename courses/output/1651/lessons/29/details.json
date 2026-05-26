@@ -1,0 +1,33 @@
+{
+  "id": 455764,
+  "title": "Saúde e segurança do trabalho",
+  "position": 29,
+  "duration": 151,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1b8cf679-8b69-4009-9a1f-ae65fd9b708c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1b8cf679-8b69-4009-9a1f-ae65fd9b708c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1b8cf679-8b69-4009-9a1f-ae65fd9b708c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1b8cf679-8b69-4009-9a1f-ae65fd9b708c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1b8cf679-8b69-4009-9a1f-ae65fd9b708c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

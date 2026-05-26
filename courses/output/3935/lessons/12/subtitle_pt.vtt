@@ -1,0 +1,112 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.360
+-  Qual que é a visão geral da arquitetura dessas informações?
+
+00:00:04.360 --> 00:00:09.040
+-  As operações fiscais, quando a gente pensa no CBS, serão automatizadas pelo ROC.
+
+00:00:09.040 --> 00:00:15.160
+-  E aí sim ele vai passar por todos os critérios que a gente comentou, como devoluções, cancelamentos,
+
+00:00:15.160 --> 00:00:20.200
+-  a liquidação financeira, por exemplo, do split payment, caso haja um cashback também,
+
+00:00:20.200 --> 00:00:23.840
+-  a forma de pagamento, a trazer a confissão do débito, enfim.
+
+00:00:23.840 --> 00:00:30.680
+-  Tudo isso vai acontecer seguindo as informações do projeto que nós já temos.
+
+00:00:30.680 --> 00:00:36.080
+-  Quando o sistema começar, o seu contribuinte emite o documento fiscal eletrônico, o ROC
+
+00:00:36.080 --> 00:00:41.400
+-  vai fazer a interpretação, em seguida o motor de regra vai fazer todas as questões
+
+00:00:41.400 --> 00:00:47.800
+-  de cálculo e ajustes, caso haja necessidade, e a calculadora vai ser disponível para vocês
+
+00:00:47.800 --> 00:00:53.800
+-  para que vocês consigam observar quais são os saldos, seja de crédito ou seja de débito.
+
+00:00:53.800 --> 00:00:56.920
+-  Débito, crédito e coordenação de cadeia.
+
+00:00:56.920 --> 00:01:03.080
+-  Com o cálculo pronto, tudo entra no fluxo contínuo de apuração assistida.
+
+00:01:03.080 --> 00:01:10.840
+-  A apuração assistida, pessoal, identifica quem vendeu e quem comprou, tá?
+
+00:01:10.840 --> 00:01:14.240
+-  E quando a gente fala comprou, eu tô falando de prestador de serviço também, então pode
+
+00:01:14.240 --> 00:01:18.600
+-  ser um prestador de serviço que presta e toma o serviço, tá?
+
+00:01:18.600 --> 00:01:23.480
+-  Porque dentro desse contexto, estamos falando deles estarem no regime regular também.
+
+00:01:23.480 --> 00:01:27.560
+-  Essa coordenação de cadeia tributária, ela é de falto automática, ela vai entrar
+
+00:01:27.560 --> 00:01:28.560
+-  no fluxo.
+
+00:01:28.560 --> 00:01:31.840
+-  Vendeu, comprou, apuração assistida.
+
+00:01:31.840 --> 00:01:34.560
+-  Prestou serviço, tomou serviço, apuração assistida.
+
+00:01:34.560 --> 00:01:41.040
+-  Se o seu cliente vendeu e emitiu uma nota fiscal e gerou um débito, isso será lançado
+
+00:01:41.040 --> 00:01:44.040
+-  na sua conta corrente como um débito.
+
+00:01:44.040 --> 00:01:50.160
+-  Então se você olhar no seu contribuinte, vai aparecer um débito pra vocês.
+
+00:01:50.160 --> 00:01:57.840
+-  Do outro lado, se o comprador, ele não tem débito, se o seu contribuinte fazer o recolhimento,
+
+00:01:57.840 --> 00:01:58.840
+-  ele terá um crédito.
+
+00:01:58.840 --> 00:02:06.440
+-  Então o comprador só terá direito ao crédito quando, de fato, ocorrer o pagamento do débito.
+
+00:02:06.440 --> 00:02:12.200
+-  Esse controle é feito dentro da apuração assistida, que alimenta todas as contas correntes
+
+00:02:12.200 --> 00:02:16.760
+-  de todos os CNPJs envolvidos dentro da apuração.
+
+00:02:16.760 --> 00:02:21.840
+-  A plataforma do CBS e do IBS serão separadas, como eu comentei com vocês.
+
+00:02:21.840 --> 00:02:27.680
+-  Lembre-se, quando a gente fala de característica do IBS e da CBS, eles são idênticos, porém
+
+00:02:27.680 --> 00:02:30.720
+-  estamos falando de administração distinta.
+
+00:02:30.720 --> 00:02:35.640
+-  Quando falamos do projeto piloto que já está no ar, que é o CBS, estamos falando do ROC.
+
+00:02:35.640 --> 00:02:40.240
+-  Agora, quando a gente fala sobre a criação desse mesmo intérprete para a plataforma
+
+00:02:40.240 --> 00:02:46.120
+-  do IBS, estamos falando do IPA, que vai trazer as informações para a apuração.
+
+00:02:46.120 --> 00:02:53.940
+-  Ele vai ter o mesmo desenvolvimento, a mesma questão que o ROC faz, mas dentro da plataforma
+
+00:02:53.940 --> 00:02:58.120
+-  contida dos estados e dos municípios.
+
+00:02:58.120 --> 00:03:04.440
+-  No final do dia, teremos duas apurações, seja do CBS e do IBS, para controlar.

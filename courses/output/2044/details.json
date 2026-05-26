@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2044,
+    "title": "ICMS: aspectos constitucionais e práticos",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de ICMS, você vai aprender desde os aspectos constitucionais e aplicáveis relacionados ao Imposto sobre Circulação de Mercadorias e Serviços. Você entenderá desde as fontes do direito tributário, limitações, código tributário nacional, espécie tributária,  lançamento de crédito, nota fiscal, CFOP, CST, CSOSN, para compreender a regra matriz do ICMS, bem como o regime de compensação, alíquotas, fato gerador, não incidência, benefícios fiscais, regra de interpretação, livros fiscais e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/3c028a439c920fabe004667fc5ec4c9f1505844493.jpg",
+    "goals": [
+      "Demonstrar aspectos constitucionais e práticos relacionados ao  ICMS (Imposto sobre Circulação de Mercadorias e Serviços)."
+    ],
+    "teacher": {
+      "id": 418635,
+      "name": "JOÃO OLIVEIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1595429175.jpeg"
+    },
+    "duration": 9130,
+    "keywords": "ICMS;REGRAS;MATRIZ",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 31,
+    "materialCount": 17,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1755,
+    "averageRating": 9.25,
+    "practiceAverage": 9.21,
+    "trailer": {
+      "id": "10981f75-95f4-499e-96b9-7f60a6247078",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/10981f75-95f4-499e-96b9-7f60a6247078/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/10981f75-95f4-499e-96b9-7f60a6247078/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/10981f75-95f4-499e-96b9-7f60a6247078/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/10981f75-95f4-499e-96b9-7f60a6247078/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-05-09T19:34:34.000Z",
+      "updatedAt": "2022-05-09T19:34:33.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-05-10T18:48:07.000Z",
+    "recordedAt": "2022-04-22T00:00:00.000Z",
+    "createdAt": "2022-04-25T17:01:50.000Z"
+  }
+}

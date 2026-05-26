@@ -1,0 +1,33 @@
+{
+  "id": 482588,
+  "title": "Decisões",
+  "position": 9,
+  "duration": 200,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bfb9db24-50cd-482c-bc19-9ddb3dd2ceb8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bfb9db24-50cd-482c-bc19-9ddb3dd2ceb8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bfb9db24-50cd-482c-bc19-9ddb3dd2ceb8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bfb9db24-50cd-482c-bc19-9ddb3dd2ceb8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bfb9db24-50cd-482c-bc19-9ddb3dd2ceb8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

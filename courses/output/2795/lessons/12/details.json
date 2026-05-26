@@ -1,0 +1,33 @@
+{
+  "id": 469820,
+  "title": "Tributação Sobre os Clubes de Futebol",
+  "position": 12,
+  "duration": 410,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cbfa62c9-56aa-4faf-aac7-70e6edb13fe4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbfa62c9-56aa-4faf-aac7-70e6edb13fe4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbfa62c9-56aa-4faf-aac7-70e6edb13fe4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbfa62c9-56aa-4faf-aac7-70e6edb13fe4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbfa62c9-56aa-4faf-aac7-70e6edb13fe4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

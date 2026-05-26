@@ -1,0 +1,33 @@
+{
+  "id": 454751,
+  "title": "Custo da importação de serviços",
+  "position": 33,
+  "duration": 369,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/acdb9078-df62-41ee-a920-7e804abc4794/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/acdb9078-df62-41ee-a920-7e804abc4794/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/acdb9078-df62-41ee-a920-7e804abc4794/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/acdb9078-df62-41ee-a920-7e804abc4794/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/acdb9078-df62-41ee-a920-7e804abc4794/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

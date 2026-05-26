@@ -1,0 +1,33 @@
+{
+  "id": 469745,
+  "title": "Facilidades",
+  "position": 27,
+  "duration": 175,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5ac37ba4-6b8f-4467-98ee-843bd58b5bff/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ac37ba4-6b8f-4467-98ee-843bd58b5bff/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ac37ba4-6b8f-4467-98ee-843bd58b5bff/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ac37ba4-6b8f-4467-98ee-843bd58b5bff/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ac37ba4-6b8f-4467-98ee-843bd58b5bff/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

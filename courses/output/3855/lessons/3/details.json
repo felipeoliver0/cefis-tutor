@@ -1,0 +1,33 @@
+{
+  "id": 478463,
+  "title": "Objetivos",
+  "position": 3,
+  "duration": 190,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ad018f24-8132-40b7-af7b-b99726d01804/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad018f24-8132-40b7-af7b-b99726d01804/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad018f24-8132-40b7-af7b-b99726d01804/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad018f24-8132-40b7-af7b-b99726d01804/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ad018f24-8132-40b7-af7b-b99726d01804/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

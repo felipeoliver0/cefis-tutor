@@ -1,0 +1,601 @@
+WEBVTT
+
+1
+00:00:00.360 --> 00:00:02.750
+No tocante esses departamentos,
+
+2
+00:00:03.119 --> 00:00:05.519
+as empresas terão uma simplificação dos seus
+
+3
+00:00:05.519 --> 00:00:07.719
+processos de cumprimento de obrigações acessórias.
+
+4
+00:00:08.279 --> 00:00:08.579
+Porém,
+
+5
+00:00:08.760 --> 00:00:11.949
+isso exige que não só a organização das informações,
+
+6
+00:00:12.479 --> 00:00:16.030
+mas também o engajamento dos departamento responsável
+
+7
+00:00:16.250 --> 00:00:18.340
+pela inserção dos dados no sistema.
+
+8
+00:00:19.190 --> 00:00:19.389
+Então,
+
+9
+00:00:19.510 --> 00:00:20.819
+nós não entregamos.
+
+10
+00:00:21.430 --> 00:00:23.989
+Nós estamos fazendo FDI no dia a dia,
+
+11
+00:00:24.329 --> 00:00:25.670
+umas demais obrigações,
+
+12
+00:00:25.790 --> 00:00:25.989
+né?
+
+13
+00:00:26.350 --> 00:00:30.120
+Já está parametrizado em nosso sistema à medida que nós vamos
+
+14
+00:00:30.350 --> 00:00:30.680
+eh
+
+15
+00:00:30.950 --> 00:00:32.029
+contabilizando,
+
+16
+00:00:32.110 --> 00:00:33.470
+dando entrada nas notas,
+
+17
+00:00:33.509 --> 00:00:34.900
+dando saída nas notas.
+
+18
+00:00:35.189 --> 00:00:37.669
+Tudo isso já está gerando informações
+
+19
+00:00:37.990 --> 00:00:39.270
+que são capsulada,
+
+20
+00:00:39.630 --> 00:00:39.830
+né?
+
+21
+00:00:40.029 --> 00:00:41.759
+Em arquivo XML
+
+22
+00:00:41.919 --> 00:00:44.659
+justamente para a gente transmitir pro pro Rífe
+
+23
+00:00:45.310 --> 00:00:45.939
+Perfeito.
+
+24
+00:00:46.529 --> 00:00:48.169
+E aí nós temos uma grande,
+
+25
+00:00:48.369 --> 00:00:49.450
+uma grande diferença,
+
+26
+00:00:49.569 --> 00:00:49.729
+né?
+
+27
+00:00:52.459 --> 00:00:52.490
+Dessa forma,
+
+28
+00:00:52.500 --> 00:00:55.650
+para que os dados sejam captados de forma correta em tempo hábil.
+
+29
+00:00:56.049 --> 00:01:00.119
+É imprescindível que a comunicação entre os vários departamentos envolvidos
+
+30
+00:01:00.369 --> 00:01:02.610
+e aí nós podemos citar o Departamento jurídico,
+
+31
+00:01:02.680 --> 00:01:03.650
+o Departamento contábel,
+
+32
+00:01:03.770 --> 00:01:04.900
+Departamento financeiro,
+
+33
+00:01:05.260 --> 00:01:06.250
+o Departamento de Compras,
+
+34
+00:01:06.370 --> 00:01:07.940
+Departamento de contrato etc
+
+35
+00:01:08.489 --> 00:01:10.639
+seja transparente e efetivo.
+
+36
+00:01:11.430 --> 00:01:13.050
+Então aqui muda
+
+37
+00:01:13.279 --> 00:01:15.510
+drasticamente a maneira da gente
+
+38
+00:01:15.620 --> 00:01:16.839
+catalogar os dados,
+
+39
+00:01:17.000 --> 00:01:18.650
+inclusive com a segregação
+
+40
+00:01:19.000 --> 00:01:21.309
+com a separação que antes ficava num único
+
+41
+00:01:21.569 --> 00:01:22.199
+departamento.
+
+42
+00:01:22.319 --> 00:01:22.800
+Hoje não,
+
+43
+00:01:23.000 --> 00:01:23.309
+né?
+
+44
+00:01:23.319 --> 00:01:24.470
+Está bem centralizado.
+
+45
+00:01:25.250 --> 00:01:25.940
+Inclusive
+
+46
+00:01:26.250 --> 00:01:27.720
+é uma das perguntas que
+
+47
+00:01:28.089 --> 00:01:30.610
+muitos alunos me faziam nas palestras,
+
+48
+00:01:30.690 --> 00:01:31.000
+né?
+
+49
+00:01:31.489 --> 00:01:33.589
+Quando nós tínhamos que entregar DIF
+
+50
+00:01:33.930 --> 00:01:34.510
+e a TI
+
+51
+00:01:35.019 --> 00:01:39.000
+era um dos maior dedo duro em termos de cruzamento de formações
+
+52
+00:01:39.250 --> 00:01:41.430
+que ela começou sorrateiramente
+
+53
+00:01:41.650 --> 00:01:44.209
+com o objetivo de atender o 05 meia um,
+
+54
+00:01:44.650 --> 00:01:46.559
+que é o Imposto de Renda retido
+
+55
+00:01:46.769 --> 00:01:49.959
+na fonte sobre o trabalho assalariado na folha de pagamento.
+
+56
+00:01:50.239 --> 00:01:52.559
+Esse foi o objetivo da Dif quando ela nasceu,
+
+57
+00:01:53.040 --> 00:01:53.339
+né?
+
+58
+00:01:53.720 --> 00:01:57.750
+Porque o governo não tinha um mecanismo de cruzar os dados
+
+59
+00:01:58.120 --> 00:02:01.069
+das informações das pessoas físicas
+
+60
+00:02:01.389 --> 00:02:03.489
+na declaração do Imposto de Renda Pessoa Física.
+
+61
+00:02:03.839 --> 00:02:05.319
+Então o governo não tinha como cruzar,
+
+62
+00:02:05.440 --> 00:02:06.290
+então ele viu a DIF.
+
+63
+00:02:07.169 --> 00:02:08.610
+Como ela foi muito eficiente.
+
+64
+00:02:08.690 --> 00:02:10.570
+Ele foi colocando coisas lá dentro,
+
+65
+00:02:10.649 --> 00:02:13.449
+retenções PISFIS et cetera,
+
+66
+00:02:14.190 --> 00:02:14.199
+né?
+
+67
+00:02:14.210 --> 00:02:16.929
+A distribuição de lucro e formação de prolabor e tal.
+
+68
+00:02:17.009 --> 00:02:18.210
+Então ela foi colocando lá dentro.
+
+69
+00:02:18.690 --> 00:02:21.929
+Ela ficou um grande dedo duro e ela era entregue anualmente,
+
+70
+00:02:22.089 --> 00:02:22.360
+né?
+
+71
+00:02:22.850 --> 00:02:24.419
+E aí o pessoal me perguntava
+
+72
+00:02:24.970 --> 00:02:25.369
+professor,
+
+73
+00:02:25.449 --> 00:02:28.330
+uma vez que começou a entrar agora as retenções,
+
+74
+00:02:28.529 --> 00:02:28.809
+né?
+
+75
+00:02:29.610 --> 00:02:33.440
+Diversas retenções de quem é a responsabilidade de entregar a DIF.
+
+76
+00:02:34.000 --> 00:02:37.729
+É do departamento pessoal ou é do Departamento fiscal contábil.
+
+77
+00:02:38.850 --> 00:02:41.160
+E a minha resposta sempre foi a mesma
+
+78
+00:02:41.619 --> 00:02:44.779
+A responsabilidade é do departamento pessoal.
+
+79
+00:02:45.410 --> 00:02:45.610
+Ah,
+
+80
+00:02:45.729 --> 00:02:47.679
+Por que professor do departamento pessoal
+
+81
+00:02:48.050 --> 00:02:50.330
+Porque a DIRF quando ela nasceu,
+
+82
+00:02:50.410 --> 00:02:52.339
+é exatamente para atender o 05 meia um.
+
+83
+00:02:53.130 --> 00:02:56.160
+Eu não posso mandar essa DIF para os outros departamentos.
+
+84
+00:02:56.889 --> 00:03:00.100
+Eu vou quebrar o sigilo salarial do pessoal
+
+85
+00:03:00.479 --> 00:03:01.580
+e vai gerar
+
+86
+00:03:01.809 --> 00:03:02.610
+obviamente,
+
+87
+00:03:03.050 --> 00:03:03.259
+né?
+
+88
+00:03:03.410 --> 00:03:05.770
+Problemas pro pro pros administradores,
+
+89
+00:03:06.130 --> 00:03:06.419
+né?
+
+90
+00:03:07.050 --> 00:03:07.479
+Então.
+
+91
+00:03:08.089 --> 00:03:08.479
+É a
+
+92
+00:03:08.960 --> 00:03:10.529
+tem que ficar no departamento pessoal,
+
+93
+00:03:11.029 --> 00:03:16.639
+então o Conta o fiscal gerava as informações dele de pagamento por labor,
+
+94
+00:03:16.720 --> 00:03:17.919
+distribuição de lucro,
+
+95
+00:03:18.279 --> 00:03:20.279
+retenções de PCC et cetera
+
+96
+00:03:20.600 --> 00:03:22.199
+mandava para o departamento pessoal.
+
+97
+00:03:22.229 --> 00:03:26.350
+O Departamento pessoal encapsulava isso e transmitia
+
+98
+00:03:26.919 --> 00:03:30.429
+gerava os informes de rendimento e distribuía depois para
+
+99
+00:03:30.839 --> 00:03:32.440
+os seus devidos departamentos.
+
+100
+00:03:32.639 --> 00:03:33.839
+Então era assim que funcionava,
+
+101
+00:03:34.000 --> 00:03:34.399
+né?
+
+102
+00:03:34.800 --> 00:03:35.869
+Centralizado
+
+103
+00:03:36.190 --> 00:03:37.679
+no departamento pessoal.
+
+104
+00:03:38.149 --> 00:03:38.869
+Na minha visão
+
+105
+00:03:39.309 --> 00:03:41.660
+nada que impeça também que ficasse no fiscal,
+
+106
+00:03:41.710 --> 00:03:43.470
+depende de cada critério de empresa,
+
+107
+00:03:43.910 --> 00:03:44.770
+mas na minha visão,
+
+108
+00:03:45.309 --> 00:03:47.259
+sempre departamento pessoal muito bem
+
+109
+00:03:47.789 --> 00:03:49.669
+Qual a implantação do Reife.
+
+110
+00:03:49.830 --> 00:03:51.259
+Isso se destacou.
+
+111
+00:03:52.210 --> 00:03:55.869
+Porque Vocês perceberam que não tem relação com o trabalho.
+
+112
+00:03:56.410 --> 00:03:59.020
+Então o Imposto de renda retido na fonte o
+
+113
+00:03:59.020 --> 00:04:02.089
+05 meia um ficou lá no departamento pessoal,
+
+114
+00:04:02.190 --> 00:04:03.210
+então acabou a briga
+
+115
+00:04:03.330 --> 00:04:04.119
+ficou lá
+
+116
+00:04:04.330 --> 00:04:04.460
+no RH
+
+117
+00:04:05.490 --> 00:04:06.520
+o 05 meia um
+
+118
+00:04:06.690 --> 00:04:07.839
+lá no e social
+
+119
+00:04:08.380 --> 00:04:10.399
+e os demais ficou no fiscal
+
+120
+00:04:10.850 --> 00:04:11.369
+perfeito.
+
+121
+00:04:11.729 --> 00:04:14.169
+Também podemos ter parte da contabilidade.
+
+122
+00:04:15.050 --> 00:04:16.410
+Então na atualidade,
+
+123
+00:04:16.589 --> 00:04:17.089
+quem
+
+124
+00:04:17.369 --> 00:04:21.000
+deve ser responsável pelo Reife Eu entendo Departamento fiscal.
+
+125
+00:04:21.390 --> 00:04:22.989
+Perfeito Departamento fiscal o
+
+126
+00:04:23.109 --> 00:04:28.700
+o con- o RH ficou lá com o dele e o fiscal e que então eu preciso ter,
+
+127
+00:04:29.559 --> 00:04:29.839
+né?
+
+128
+00:04:30.149 --> 00:04:32.549
+Um bom interrelacionamento
+
+129
+00:04:32.790 --> 00:04:35.549
+desses departamentos para evitar dor de cabeça.
+
+130
+00:04:36.049 --> 00:04:38.750
+Então escrever o o procedimento.
+
+131
+00:04:39.089 --> 00:04:42.450
+Quem é o responsável quando nós devemos enviar se houver erro,
+
+132
+00:04:42.730 --> 00:04:44.049
+quem vai ajustar,
+
+133
+00:04:44.450 --> 00:04:44.709
+né?
+
+134
+00:04:45.290 --> 00:04:47.000
+Porque o Rif
+
+135
+00:04:47.209 --> 00:04:48.739
+junto com o E-social,
+
+136
+00:04:49.170 --> 00:04:52.220
+vão alimentar a DCTFA e junto com o MITT,
+
+137
+00:04:53.149 --> 00:04:53.160
+né?
+
+138
+00:04:53.170 --> 00:04:54.799
+Eles que alimentam a DCTF.
+
+139
+00:04:54.970 --> 00:04:57.570
+Então tem que ter uma sincronia de informações,
+
+140
+00:04:57.730 --> 00:04:58.640
+datas
+
+141
+00:04:58.929 --> 00:05:01.920
+nome aos bois responsável do envio
+
+142
+00:05:02.170 --> 00:05:02.799
+perfeito.
+
+143
+00:05:03.160 --> 00:05:04.200
+Essa é a nossa visão.
+
+144
+00:05:04.239 --> 00:05:05.230
+Por isso que eu trago
+
+145
+00:05:05.519 --> 00:05:08.720
+aqui no nosso treinamento essa importância entre os departamentos,
+
+146
+00:05:08.760 --> 00:05:09.869
+a comunicação
+
+147
+00:05:10.320 --> 00:05:12.160
+entre os departamentos e obviamente,
+
+148
+00:05:12.239 --> 00:05:13.880
+a formalização é fundamental.
+
+149
+00:05:14.239 --> 00:05:14.829
+Perfeito
+
+150
+00:05:15.059 --> 00:05:16.970
+Então é essa a grande dica que nós deixamos.

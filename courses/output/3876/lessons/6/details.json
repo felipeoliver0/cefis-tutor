@@ -1,0 +1,33 @@
+{
+  "id": 479057,
+  "title": "Riscos",
+  "position": 6,
+  "duration": 275,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/91d89531-edbe-4d9a-b562-3b50fb9650f4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d89531-edbe-4d9a-b562-3b50fb9650f4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d89531-edbe-4d9a-b562-3b50fb9650f4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d89531-edbe-4d9a-b562-3b50fb9650f4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d89531-edbe-4d9a-b562-3b50fb9650f4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

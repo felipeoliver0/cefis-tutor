@@ -1,0 +1,33 @@
+{
+  "id": 454849,
+  "title": "Projeto e Operação",
+  "position": 5,
+  "duration": 115,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1d37b1f1-8219-4dfc-b1e1-aff5a1138e38/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1d37b1f1-8219-4dfc-b1e1-aff5a1138e38/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1d37b1f1-8219-4dfc-b1e1-aff5a1138e38/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1d37b1f1-8219-4dfc-b1e1-aff5a1138e38/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1d37b1f1-8219-4dfc-b1e1-aff5a1138e38/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

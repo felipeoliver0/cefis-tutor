@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4390,
+    "title": "Contabilidade para não contadores",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Contabilidade para não contadores, você irá aprender na prática tudo o que precisa saber sobre contabilidade. Aprenderá os fundamentos e a prática de Princípios de contabilidade, Plano de contas e Fórmulas de lançamentos e vários outros temas para você que deseja se atualizar ou aprender tudo sobre contabilidade.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/cf202a66-502c-4287-add2-4fc0b2c27004-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Contabilidade para não contadores, curso prático, é a capacitação para a aplicação prática de conceitos fundamentais da contabilidade, incluindo a compreensão dos princípios, usuários, tipos de usuários, evolução da contabilidade, escrituração contábil, técnicas contábeis básicas, estrutura do plano de contas, práticas de contabilização e composição do patrimônio."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 19486,
+    "keywords": "contabilidae;contadores;contabilidade",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 62,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 280,
+    "averageRating": 9.64,
+    "practiceAverage": 9.56,
+    "trailer": {
+      "id": "39453a9e-ac33-4a97-837d-473ab73d7de5",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/39453a9e-ac33-4a97-837d-473ab73d7de5/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/39453a9e-ac33-4a97-837d-473ab73d7de5/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/39453a9e-ac33-4a97-837d-473ab73d7de5/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/39453a9e-ac33-4a97-837d-473ab73d7de5/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-02-14T03:27:36.000Z",
+      "updatedAt": "2026-02-14T03:27:36.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-02-19T15:00:14.000Z",
+    "recordedAt": "2026-01-30T00:00:00.000Z",
+    "createdAt": "2026-01-29T22:39:34.000Z"
+  }
+}

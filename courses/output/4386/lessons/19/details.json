@@ -1,0 +1,33 @@
+{
+  "id": 484717,
+  "title": "Entidades x DCs",
+  "position": 19,
+  "duration": 233,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/81704210-2a7f-4fe6-86af-ef5b2d855e36/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81704210-2a7f-4fe6-86af-ef5b2d855e36/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81704210-2a7f-4fe6-86af-ef5b2d855e36/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81704210-2a7f-4fe6-86af-ef5b2d855e36/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/81704210-2a7f-4fe6-86af-ef5b2d855e36/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

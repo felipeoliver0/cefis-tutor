@@ -1,0 +1,33 @@
+{
+  "id": 473204,
+  "title": "Código Tributário Nacional - Parte 2",
+  "position": 8,
+  "duration": 443,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c6bd9745-831f-428c-9333-19d6a55f1428/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c6bd9745-831f-428c-9333-19d6a55f1428/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c6bd9745-831f-428c-9333-19d6a55f1428/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c6bd9745-831f-428c-9333-19d6a55f1428/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c6bd9745-831f-428c-9333-19d6a55f1428/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2309,
+    "title": "Sistema de Prestação de Contas Eleitorais - SPCE",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de SPCE, você aprenderá sobre o Sistema de Prestação de Contas Eleitorais. Entenderá, desde as características básicas e principais recursos, bem como as funções para que você saiba como usar o sistema, realizar os lançamentos dentro da plataforma oficial da justiça Eleitoral, em conformidade com o previsto na norma que regulamenta a Prestação de contas de campanhas eleitorais dos candidatos e partidos políticos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/a2e1e0b586161a1b4c2c27963e56213e1728428690.jpg",
+    "goals": [
+      "Apresentar as características básicas e explicar os principais recursos, funções e comandos do sistema SPCE - Sistema de Prestação de Contas Eleitorais, previsto na norma que regulamenta a Prestação de contas de campanha Prestação de contas de campanha, é um programa desenvolvido pela Justiça Eleitoral para auxiliar na elaboração da prestação de contas de campanhas eleitorais dos candidatos e partidos políticos."
+    ],
+    "teacher": {
+      "id": 577919,
+      "name": "TATIANA GOMES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1673061389.jpeg"
+    },
+    "duration": 13000,
+    "keywords": "SPCE;CONTABILIDADE ELEITORAL;CONTAS DE CAMPANHA;DIREITO ELEITORAL;CONTAS ELEITORAIS",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 42,
+    "materialCount": 4,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 292,
+    "averageRating": 9.45,
+    "practiceAverage": 9.18,
+    "trailer": {
+      "id": "4d8fabb2-43fe-4d63-b4fa-4f51a7cfc086",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4d8fabb2-43fe-4d63-b4fa-4f51a7cfc086/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4d8fabb2-43fe-4d63-b4fa-4f51a7cfc086/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4d8fabb2-43fe-4d63-b4fa-4f51a7cfc086/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/4d8fabb2-43fe-4d63-b4fa-4f51a7cfc086/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-12T13:25:29.000Z",
+      "updatedAt": "2022-12-12T13:25:28.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-03T20:30:00.000Z",
+    "recordedAt": "2022-11-22T00:00:00.000Z",
+    "createdAt": "2022-10-14T23:54:53.000Z"
+  }
+}

@@ -1,0 +1,145 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.599
+Dando continuidade ao registro I-250, nós temos o quê? Partida de lançamento.
+
+3
+00:00:04.599 --> 00:00:10.599
+Esse registro identifica todas as contas partidas do valor do lançamento informado no I-200.
+
+4
+00:00:10.599 --> 00:00:15.599
+Como eu acabei de mostrar para vocês, cabeçalho do lançamento, ou seja,
+
+5
+00:00:15.599 --> 00:00:21.000
+somatório de todas as contas partidas a crédito e o somatório de todas as contas partidas a débito.
+
+6
+00:00:21.000 --> 00:00:24.600
+Deve ser igual ao valor do lançamento informado no I-200, tá?
+
+7
+00:00:24.600 --> 00:00:31.600
+Então, o I-250, voltando aqui, isso aqui é o I-250 partida e contrapartida, tá vendo?
+
+8
+00:00:31.600 --> 00:00:34.600
+Isto é o I-250, tá?
+
+9
+00:00:34.600 --> 00:00:39.600
+O I-300, balancetes diários. Aqui são para os bancos, mas são financeiros.
+
+10
+00:00:39.600 --> 00:00:43.600
+Identificação da data, registro I-300 traz balancete diário.
+
+11
+00:00:43.600 --> 00:00:48.600
+Esse registro será utilizado apenas quando o tipo de escrituração é B.
+
+12
+00:00:48.600 --> 00:00:53.600
+Livro B, que nós já sabemos o que é, para as instituições financeiras, não é isso?
+
+13
+00:00:53.600 --> 00:00:54.600
+Olha lá.
+
+14
+00:00:54.600 --> 00:00:56.600
+Registro de balancetes diários.
+
+15
+00:00:56.600 --> 00:01:00.600
+Então, se você é nosso aluno nas instituições financeiras, cooperativas, etc.,
+
+16
+00:01:00.600 --> 00:01:03.600
+sabe do que nós estamos comentando aqui, tá?
+
+17
+00:01:03.600 --> 00:01:10.599
+O I-350, saldo das contas do resultado antes do encerramento e identificação da data.
+
+18
+00:01:10.599 --> 00:01:15.599
+Ele identifica o período relativo aos saldos contábeis das contas de resultado
+
+19
+00:01:15.599 --> 00:01:17.599
+antes de você encerrar, superimportante.
+
+20
+00:01:17.599 --> 00:01:23.599
+A periodicidade do saldo é no máximo mensal, mas poderá conter fração de mês
+
+21
+00:01:23.599 --> 00:01:28.599
+em casos de situações especiais, fusão, cisão, incorporação, etc.
+
+22
+00:01:28.599 --> 00:01:31.599
+Poderia ser um pouco mais objetivo? Poderia.
+
+23
+00:01:31.599 --> 00:01:35.599
+Simplesmente eu pegar meu TXT e botar lá dentro, mas tem toda a parametrização.
+
+24
+00:01:35.599 --> 00:01:40.599
+Então, isso aqui está explicando a parametrização que foi feita pelos softwares, né?
+
+25
+00:01:40.599 --> 00:01:46.599
+O I-355, detalhes dos saldos das contas de resultado antes do encerramento.
+
+26
+00:01:46.599 --> 00:01:51.599
+Então, o I-355 traz o detalhe das contas de resultado antes de você encerrar, isto é,
+
+27
+00:01:51.599 --> 00:01:55.599
+o valor do saldo final de cada conta antes de encerramento, adepte e acrédito.
+
+28
+00:01:55.599 --> 00:01:57.599
+E nós só encerramos contas de resultado.
+
+29
+00:01:57.599 --> 00:02:01.599
+Contas patrimoniais permanecem, são carregadas para o ano seguinte.
+
+30
+00:02:01.599 --> 00:02:03.599
+Conta de resultado nós encerramos.
+
+31
+00:02:03.599 --> 00:02:09.599
+Inclusive, o próprio resultado do período é uma conta de resultado que ela é encerrada também.
+
+32
+00:02:09.599 --> 00:02:13.599
+Para isso, utilizamos a conta 9, a conta transitória,
+
+33
+00:02:13.599 --> 00:02:16.599
+que é a apuração do resultado do exercício, o famoso ARE,
+
+34
+00:02:16.599 --> 00:02:19.599
+aquilo que vocês aprenderam lá na contabilidade.
+
+35
+00:02:19.599 --> 00:02:21.599
+Aqui é do mesmo jeito, só que de maneira...
+
+36
+00:02:21.599 --> 00:02:24.599
+eletrônica, totalmente automatizada.
+
+37
+00:02:24.599 --> 00:02:25.599
+Perfeito?

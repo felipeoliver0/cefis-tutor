@@ -1,0 +1,33 @@
+{
+  "id": 479561,
+  "title": "Certidão de Baixa",
+  "position": 10,
+  "duration": 93,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d743c0c6-04d0-4828-909f-c63dff25e4aa/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d743c0c6-04d0-4828-909f-c63dff25e4aa/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d743c0c6-04d0-4828-909f-c63dff25e4aa/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d743c0c6-04d0-4828-909f-c63dff25e4aa/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d743c0c6-04d0-4828-909f-c63dff25e4aa/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

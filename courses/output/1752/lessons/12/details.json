@@ -1,0 +1,33 @@
+{
+  "id": 456633,
+  "title": "Stakeholders",
+  "position": 12,
+  "duration": 401,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8949faa6-ef9d-4c4f-8f15-461b605e812e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8949faa6-ef9d-4c4f-8f15-461b605e812e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8949faa6-ef9d-4c4f-8f15-461b605e812e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8949faa6-ef9d-4c4f-8f15-461b605e812e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8949faa6-ef9d-4c4f-8f15-461b605e812e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

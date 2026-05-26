@@ -1,0 +1,33 @@
+{
+  "id": 482703,
+  "title": "Dispensa por justa causa - Parte 1",
+  "position": 23,
+  "duration": 538,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d407c00d-9410-4fd4-bfe9-1d7ef336ae23/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d407c00d-9410-4fd4-bfe9-1d7ef336ae23/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d407c00d-9410-4fd4-bfe9-1d7ef336ae23/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d407c00d-9410-4fd4-bfe9-1d7ef336ae23/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d407c00d-9410-4fd4-bfe9-1d7ef336ae23/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 471863,
+  "title": "Obrigações do eSocial",
+  "position": 21,
+  "duration": 590,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e1eb6165-6c0c-4539-b19f-15de28bd7520/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1eb6165-6c0c-4539-b19f-15de28bd7520/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1eb6165-6c0c-4539-b19f-15de28bd7520/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1eb6165-6c0c-4539-b19f-15de28bd7520/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1eb6165-6c0c-4539-b19f-15de28bd7520/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 487241,
+  "title": "ITCMD com a LC 227-2026 - Parte 1",
+  "position": 25,
+  "duration": 371,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/795388d2-d31d-4e6b-b8f3-4ec167bdf523/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/795388d2-d31d-4e6b-b8f3-4ec167bdf523/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/795388d2-d31d-4e6b-b8f3-4ec167bdf523/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/795388d2-d31d-4e6b-b8f3-4ec167bdf523/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/795388d2-d31d-4e6b-b8f3-4ec167bdf523/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+WEBVTT
+
+2
+00:00:00.180 --> 00:00:06.280
+Receita isenta e outros tipos de componentes da receita, incluindo, por exemplo, os tributos
+
+3
+00:00:06.280 --> 00:00:13.580
+que são incidentes na operação, logo trazendo os valores que influenciam o cálculo da margem.
+
+4
+00:00:13.580 --> 00:00:21.660
+Veja que o sistema da desclassificação tributária e das contas contábeis, juntos, trazem a
+
+5
+00:00:21.660 --> 00:00:25.820
+segurança na formação da base.
+
+6
+00:00:25.820 --> 00:00:30.800
+Aqui também identifica se a operação é financeira, de saúde ou de prognósticos.
+
+7
+00:00:30.800 --> 00:00:36.859
+Lembra que, anteriormente, no evento cadastral, nós identificamos quem é o contribuinte
+
+8
+00:00:36.859 --> 00:00:41.979
+e ele vai aparecer aqui, trazendo a obrigatoriedade de classificação das contas contábeis.
+
+9
+00:00:41.979 --> 00:00:50.060
+O contribuinte tem a responsabilidade de atribuir um código TRIB a cada conta analítica,
+
+10
+00:00:50.060 --> 00:00:55.000
+ou seja, qual que é a minha regra fiscal, qual que é a minha regra fiscal, que é o
+
+11
+00:00:55.000 --> 00:00:55.799
+código TRIB.
+
+12
+00:00:55.799 --> 00:00:58.399
+Qual a minha conta contábil analítica.
+
+13
+00:00:58.399 --> 00:01:05.060
+É preciso aqui, pessoal, ter uma contabilidade super detalhada e regras tributárias bem
+
+14
+00:01:05.060 --> 00:01:10.099
+definidas para que você consiga fazer a entrega da DERI, então isso aqui é um ponto super
+
+15
+00:01:10.099 --> 00:01:11.099
+importante.
+
+16
+00:01:11.099 --> 00:01:15.560
+O sistema da DERI não realiza esse mapeamento automaticamente.
+
+17
+00:01:15.560 --> 00:01:23.700
+O código TRIB não pode ser utilizado em contas contábeis sintéticas.
+
+18
+00:01:23.700 --> 00:01:24.980
+Olha isso aqui, pessoal.
+
+19
+00:01:24.980 --> 00:01:25.980
+De novo.
+
+20
+00:01:25.980 --> 00:01:30.920
+A DERI não realiza mapeamento automático.
+
+21
+00:01:30.920 --> 00:01:37.560
+O código de tributação não pode estar vinculado a uma conta sintética, tem que estar vinculado
+
+22
+00:01:37.560 --> 00:01:39.659
+a uma conta analítica.
+
+23
+00:01:39.659 --> 00:01:43.439
+A DERI é muito contábil junto com o fiscal.
+
+24
+00:01:43.439 --> 00:01:48.780
+Ela não é somente fiscal, ela tem todo um viés contábil nela também.
+
+25
+00:01:48.780 --> 00:01:49.780
+Tratamento das contas.
+
+26
+00:01:49.780 --> 00:01:54.319
+Para as contas analíticas é obrigatório o preenchimento da DERI.
+
+27
+00:01:54.319 --> 00:02:01.079
+É necessário a descrição detalhada, que deve ser clara o suficiente para permitir
+
+28
+00:02:01.079 --> 00:02:06.319
+a identificação da natureza exata daquela operação que foi contabilizada.
+
+29
+00:02:06.319 --> 00:02:07.319
+Por que?
+
+30
+00:02:07.319 --> 00:02:08.319
+Ela é analítica.
+
+31
+00:02:08.319 --> 00:02:11.639
+É preciso ter o detalhamento da conta analítica.
+
+32
+00:02:11.639 --> 00:02:14.680
+Então aqui já fica a lição de casa para vocês.
+
+33
+00:02:14.680 --> 00:02:20.319
+O plano de contas que vocês estão utilizando, eles estão totalmente aderentes à DERI?
+
+34
+00:02:20.319 --> 00:02:22.319
+Você já identificou o seu código TRIB?
+
+35
+00:02:22.319 --> 00:02:23.319
+Não.
+
+36
+00:02:23.319 --> 00:02:31.560
+Isso é uma forte, um intenso trabalho aqui de validação das informações.
+
+37
+00:02:31.560 --> 00:02:37.319
+Para fins do manual, as contas de natureza tributária mista serão denominadas como
+
+38
+00:02:37.319 --> 00:02:43.840
+contas mistas, que representam as contas contábeis que em sua escrituração interna agregam
+
+39
+00:02:43.840 --> 00:02:52.319
+lançamentos com natureza fiscal distinta, exemplo, receita tributável ou receita isenta,
+
+40
+00:02:52.319 --> 00:02:53.319
+ou não dedutível.
+
+41
+00:02:53.319 --> 00:03:01.319
+Então eu preciso observar se eu estou trazendo o tratamento dessas contas corretas.
+
+42
+00:03:01.319 --> 00:03:02.319
+Elas são mistas.
+
+43
+00:03:02.319 --> 00:03:06.139
+Elas estão classificadas como mistas porque eu tenho receita que é tributável e receita
+
+44
+00:03:06.139 --> 00:03:07.639
+que não é tributável.
+
+45
+00:03:07.639 --> 00:03:11.819
+Isso precisa estar detalhado no nosso plano de contas.
+
+46
+00:03:11.819 --> 00:03:18.560
+Para garantir a segregação fiscal e permitir a correta aplicação das regras tributárias,
+
+47
+00:03:18.560 --> 00:03:21.560
+a DERI exige o desdobramento fiscal.
+
+48
+00:03:21.560 --> 00:03:24.979
+Fiscal dessas contas.
+
+49
+00:03:24.979 --> 00:03:25.979
+De que forma?
+
+50
+00:03:25.979 --> 00:03:27.219
+Olha aqui o detalhamento.
+
+51
+00:03:27.219 --> 00:03:31.840
+O desdobramento é realizado através do campo das contas mistas.
+
+52
+00:03:31.840 --> 00:03:36.080
+Eu preciso fazer a abertura da conta mista.
+
+53
+00:03:36.080 --> 00:03:44.199
+a conta original mista que será desdobrada deve utilizar o código 00 e os desdobramentos
+
+54
+00:03:44.199 --> 00:03:49.560
+devem ser preenchidos sequencialmente de 01 a 99.
+
+55
+00:03:49.560 --> 00:03:50.560
+Ou seja.
+
+56
+00:03:50.560 --> 00:03:56.379
+Se na sua contabilidade você tem uma conta contábil mista, ela vai vir para a DERI como
+
+57
+00:03:56.379 --> 00:03:57.919
+mista e você vai fazer o que?
+
+58
+00:03:57.919 --> 00:04:04.800
+O desdobramento dela e trazer as corretas classificações e identificações.
+
+59
+00:04:04.800 --> 00:04:12.280
+Cada subconta desdobrada deve conter um atributo fiscal único e ser mapeada como um único
+
+60
+00:04:12.280 --> 00:04:18.980
+código específico de tributação, trazendo ali de fato a abertura da conta.
+
+61
+00:04:18.980 --> 00:04:24.220
+Então, se lá na sua contabilidade você tinha conta mista, na DERI ela vai vir mista,
+
+62
+00:04:24.220 --> 00:04:30.519
+mas você vai fazer a abertura, a identificação, a classificação, trazendo aqui uma especificidade
+
+63
+00:04:30.519 --> 00:04:31.519
+tributária.
+
+64
+00:04:31.519 --> 00:04:34.220
+Ponto super de atenção pra gente aqui.
+
+65
+00:04:34.220 --> 00:04:35.639
+Chave da conta.
+
+66
+00:04:35.639 --> 00:04:42.360
+O código final da conta que será utilizada no plano geral de contas é a concatenação
+
+67
+00:04:42.360 --> 00:04:48.980
+do código da conta interna e o desdobramento da conta mista, formando assim o campo que
+
+68
+00:04:48.980 --> 00:04:54.220
+vai dar a sequência única para o nosso plano de contas.
+
+69
+00:04:54.220 --> 00:05:00.019
+Veja que a gente tem aqui esse desdobramento, ele é super importante da gente entender
+
+70
+00:05:00.019 --> 00:05:04.339
+e analisar as nossas operações que nós temos dentro de casa.

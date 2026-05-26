@@ -1,0 +1,33 @@
+{
+  "id": 486198,
+  "title": "Alíquotas e base de cálculo do IRPJ",
+  "position": 32,
+  "duration": 387,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f5e19534-01f1-48fe-9551-2126e73c9e98/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f5e19534-01f1-48fe-9551-2126e73c9e98/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f5e19534-01f1-48fe-9551-2126e73c9e98/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f5e19534-01f1-48fe-9551-2126e73c9e98/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f5e19534-01f1-48fe-9551-2126e73c9e98/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

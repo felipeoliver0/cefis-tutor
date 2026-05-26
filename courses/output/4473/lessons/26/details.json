@@ -1,0 +1,33 @@
+{
+  "id": 487006,
+  "title": "Contrato de trabalho",
+  "position": 26,
+  "duration": 482,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/dff3dc4a-8a32-4886-b475-fd53c837f2c1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dff3dc4a-8a32-4886-b475-fd53c837f2c1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dff3dc4a-8a32-4886-b475-fd53c837f2c1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dff3dc4a-8a32-4886-b475-fd53c837f2c1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dff3dc4a-8a32-4886-b475-fd53c837f2c1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

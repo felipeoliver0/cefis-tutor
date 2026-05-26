@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4363,
+    "title": "Planejamento Tributário com a Reforma Tributária ",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Planejamento Tributário com a Reforma Tributária - curso prático você irá aprender na prática tudo o que precisa saber sobre planejamento tributário e reforma tributária. Aprenderá os fundamentos e a prática de como é feito o planejamento tributário, fundamentos legais e propósito negocial e substância econômica e vários outros temas para você que deseja se atualizar ou aprender tudo sobre planejamento tributário e reforma tributária.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/1166feb6-300f-4419-b32a-12ae64b0b1ef-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Planejamento Tributário com a Reforma Tributária, curso prático, é a capacitação para a aplicação prática da gestão tributária eficiente e da compreensão da reforma tributária brasileira, com foco na prática e na resolução de questões práticas."
+    ],
+    "teacher": {
+      "id": 483386,
+      "name": "RICARDO PRADO",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIBiWZEcL31dEGm4fQDN4Cq3TGt-BsNCOj91c6SwTQj58qlWO76=s96-c"
+    },
+    "duration": 10951,
+    "keywords": "planejamento",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 34,
+    "materialCount": 3,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 214,
+    "averageRating": 9.63,
+    "practiceAverage": 9.63,
+    "trailer": {
+      "id": "f8051379-ac82-4a85-8a6e-d8eaf181357f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f8051379-ac82-4a85-8a6e-d8eaf181357f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f8051379-ac82-4a85-8a6e-d8eaf181357f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f8051379-ac82-4a85-8a6e-d8eaf181357f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f8051379-ac82-4a85-8a6e-d8eaf181357f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-02-11T16:23:50.000Z",
+      "updatedAt": "2026-02-11T16:23:50.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-02-17T12:12:37.000Z",
+    "recordedAt": "2026-01-12T00:00:00.000Z",
+    "createdAt": "2026-01-12T14:16:35.000Z"
+  }
+}

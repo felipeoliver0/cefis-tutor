@@ -1,0 +1,245 @@
+WEBVTT
+
+1
+00:00:00.560 --> 00:00:01.029
+aqui,
+
+2
+00:00:01.039 --> 00:00:08.140
+então lá no bloco zero nós temos as informações do cadastro do ativo imobilizado.
+
+3
+00:00:08.148 --> 00:00:12.210
+Visualizem aqui olha cadastros do ativo imobilizado
+
+4
+00:00:12.220 --> 00:00:14.630
+no zero trezentos Nós temos aqui o bem
+
+5
+00:00:14.850 --> 00:00:19.700
+e nós temos olha a categoria dele e o código da conta contábil
+
+6
+00:00:19.709 --> 00:00:24.659
+e o número de parcelas que vai ser quarenta e oito vezes aqui.
+
+7
+00:00:24.670 --> 00:00:27.059
+Fiquem atentos nos cruzamentos.
+
+8
+00:00:27.069 --> 00:00:30.139
+Visualizem se os produtos que estão aqui,
+
+9
+00:00:30.149 --> 00:00:35.240
+realmente faz sentido ser um bem que deu direito ao crédito do CIAP
+
+10
+00:00:35.830 --> 00:00:37.779
+e lembrem do registro Filho.
+
+11
+00:00:37.790 --> 00:00:40.200
+Olha o registro filho aqui Oh o zero trezentos e
+
+12
+00:00:40.209 --> 00:00:43.639
+cinco ele pergunta da utilização Esse bem é o quê?
+
+13
+00:00:43.650 --> 00:00:46.599
+Olha, ele vem do centro de custo do ativo imobilizado,
+
+14
+00:00:46.610 --> 00:00:51.200
+então okay e a função dele é ser um ativo imobilizado da produção.
+
+15
+00:00:51.209 --> 00:00:55.119
+Isso veio correto no cadastro, então oh faz sentido,
+
+16
+00:00:55.130 --> 00:00:57.040
+mas temos um ponto de atenção aqui.
+
+17
+00:00:57.049 --> 00:00:58.700
+Cadê a vida útil do bem?
+
+18
+00:00:59.259 --> 00:01:00.549
+Se é um ativo imobilizado,
+
+19
+00:01:00.560 --> 00:01:04.190
+ele tem vida útil e isso tem que estar preenchido na quantidade de meses.
+
+20
+00:01:04.199 --> 00:01:10.150
+Aqui, a vida útil em meses pode ver que tá zero e esse arquivo não tá com erro.
+
+21
+00:01:10.160 --> 00:01:13.470
+Pode olhar aqui que não tem nada apontando o erro,
+
+22
+00:01:13.480 --> 00:01:17.389
+mesmo estando preenchido o número zero, então é um ponto de atenção.
+
+23
+00:01:17.400 --> 00:01:22.370
+Tem que estar preenchido a quantidade de meses pessoal, Plano de contas
+
+24
+00:01:22.889 --> 00:01:24.059
+zero quinhentos.
+
+25
+00:01:24.069 --> 00:01:29.120
+Quais são as contas contábeis que estão cadastradas a esses ativos? Imobilizados?
+
+26
+00:01:29.129 --> 00:01:29.940
+Cuidado!
+
+27
+00:01:29.949 --> 00:01:30.220
+Olha,
+
+28
+00:01:30.230 --> 00:01:33.180
+só lembra que eu falei dos veículos Será que
+
+29
+00:01:33.190 --> 00:01:37.339
+tem algum carro aqui tomando crédito de CIAP aqui?
+
+30
+00:01:37.349 --> 00:01:40.680
+Quando nós olhamos não tem nenhum opa opa,
+
+31
+00:01:40.690 --> 00:01:45.360
+tem um veículo aqui oh uma BMW tomando crédito do CIAP
+
+32
+00:01:46.099 --> 00:01:52.160
+BMW Essa BMW aqui será que é pra ela? Tá no cadastro do SEP.
+
+33
+00:01:52.169 --> 00:01:57.069
+A BMW gera crédito do ativo imobilizado da produção
+
+34
+00:01:57.080 --> 00:01:59.569
+e ainda tá como ativo imobilizado da produção,
+
+35
+00:01:59.580 --> 00:01:59.750
+hein?
+
+36
+00:01:59.760 --> 00:02:04.709
+Olha o cruzamento avisa o cliente que a BMW não dá creche do CP não.
+
+37
+00:02:04.720 --> 00:02:10.250
+Esse arquivo aqui tá recebendo informação que não tá legal e o centro de custos
+
+38
+00:02:10.720 --> 00:02:14.210
+você cadastra qual que é o centro de custos desses bens.
+
+39
+00:02:14.220 --> 00:02:17.210
+Então, são esses três registros, né?
+
+40
+00:02:17.220 --> 00:02:23.309
+O zero, trezentos, zero, quinhentos e zero seiscentos que vão resultar no bloco G.
+
+41
+00:02:23.320 --> 00:02:25.449
+Cliquei no bloco G tá preenchido.
+
+42
+00:02:25.460 --> 00:02:31.889
+Ufa, Tá preenchido, então aqui ele vai trazer o no g cento e dez o resumo, né?
+
+43
+00:02:31.899 --> 00:02:37.645
+O total o valor do crédito, A parcela total das saídas, saídas tributadas,
+
+44
+00:02:37.654 --> 00:02:43.725
+trouxe o índice aqui e a parcela que a gente vai tomar o crédito e aqui ele traz.
+
+45
+00:02:43.735 --> 00:02:48.684
+Olha a composição do histórico desse crédito.
+
+46
+00:02:48.695 --> 00:02:52.125
+Pode ver que esse aqui, por exemplo, que é aquele primeiro produto,
+
+47
+00:02:52.134 --> 00:02:54.085
+tá na parcela trinta.
+
+48
+00:02:54.095 --> 00:02:54.945
+Olha lá,
+
+49
+00:02:55.839 --> 00:02:58.270
+vamos pegar um outro aqui, oh, tá na parcela!
+
+50
+00:02:58.279 --> 00:03:03.809
+Dezessete a BMW, olha só a, é quarenta e oito meses já tá na parcela dezessete,
+
+51
+00:03:03.820 --> 00:03:05.110
+já tá acabando?
+
+52
+00:03:05.119 --> 00:03:11.009
+Oh, esse aqui, quarenta e um é novo. Então aqui oh, ele mostra o detalhamento do bem.
+
+53
+00:03:11.020 --> 00:03:13.869
+Qual? Que era o C o ICMS, a operação própria
+
+54
+00:03:14.509 --> 00:03:19.940
+e qual que é a parcela que se encontra nesse momento? Então, fiquem atentos.
+
+55
+00:03:19.949 --> 00:03:24.000
+O bloco G tem que tá preenchido e atentos ao cadastro.
+
+56
+00:03:24.009 --> 00:03:27.679
+Se realmente estão trazendo informações corretas porque aqui a
+
+57
+00:03:27.690 --> 00:03:29.960
+gente já viu que tem uma coisa estranha,
+
+58
+00:03:29.970 --> 00:03:30.360
+né?
+
+59
+00:03:30.369 --> 00:03:35.369
+BMW? Não é pra gerar crédito de SMS sobre P, não é mesmo?
+
+60
+00:03:35.380 --> 00:03:41.399
+Então espero que vocês tenham aqui aproveitado muito essas fontes de cruzamentos e
+
+61
+00:03:41.410 --> 00:03:47.380
+apliquem na prática pra levar sempre a solução para os clientes de vocês

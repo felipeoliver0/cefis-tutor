@@ -1,0 +1,33 @@
+{
+  "id": 486681,
+  "title": "Cálculo da distribuição de lucros",
+  "position": 7,
+  "duration": 441,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/8a37250c-27f5-41e9-b28d-c3fc785faf60/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8a37250c-27f5-41e9-b28d-c3fc785faf60/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8a37250c-27f5-41e9-b28d-c3fc785faf60/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8a37250c-27f5-41e9-b28d-c3fc785faf60/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8a37250c-27f5-41e9-b28d-c3fc785faf60/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

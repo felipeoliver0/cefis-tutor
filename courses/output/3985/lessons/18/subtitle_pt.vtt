@@ -1,0 +1,175 @@
+WEBVTT
+
+00:00:00.066 --> 00:00:07.950
+- Dentro dos dados iniciais, quais são as informações que a gente vai lançar? Se ela é uma pessoa
+
+00:00:07.950 --> 00:00:15.756
+- jurídica em geral, se ela é de regime caixa ou regime de competência, qual é a tributação e a
+
+00:00:15.756 --> 00:00:23.874
+- sistemática, cumulativo ou não cumulativo, lucro presumido, lucro arbitrado ou lucro real, e os dados
+
+00:00:23.874 --> 00:00:29.182
+- dos responsáveis sobre a apuração. Esses são os dados iniciais.
+
+00:00:29.314 --> 00:00:37.169
+- bem parecido com o que a gente já tinha na DCTF convencional. Então, dentro do MIT, a gente também
+
+00:00:37.169 --> 00:00:44.869
+- tem essas informações. Então, pessoa jurídica em geral, forma de tributação presumido, regime
+
+00:00:44.869 --> 00:00:52.108
+- de caixa e acumulativo. Quando vocês forem incluir os débitos, vocês vão vir em cada aba.
+
+00:00:52.108 --> 00:00:59.038
+- Se for IRPJ, vai vincular os códigos relacionados ao IRPJ, CSLL, IOF, IPI, físico-fins,
+
+00:00:59.586 --> 00:01:06.572
+- Então, cada um vai ser lançado em cada abinha. Se você for lançar, por exemplo, PIS e COFINS, ele
+
+00:01:06.572 --> 00:01:13.626
+- vai atribuir quais foram os débitos que foram lançados. Se não foi lançado, vai ter nenhum débito
+
+00:01:13.626 --> 00:01:20.817
+- informado. Você vai precisar informar o débito dando novos detalhes. Clica na nova, faz o lançamento,
+
+00:01:20.817 --> 00:01:25.406
+- vincula o débito que você quer para fazer a gravação do valor.
+
+00:01:25.634 --> 00:01:32.379
+- Então, ele é super fácil, na verdade, eu considero ele muito parecido com o que a gente já tinha
+
+00:01:32.379 --> 00:01:39.058
+- na DCTF convencional. Olha, se a gente lançar o PIS, a gente tem os códigos lá prescritos, quais
+
+00:01:39.058 --> 00:01:45.937
+- são os códigos que nós temos para vocês identificarem qual a sua empresa está atrelada para você
+
+00:01:45.937 --> 00:01:50.078
+- fazer o lançamento, como acontecia já na DCTF convencional.
+
+00:01:50.626 --> 00:01:57.534
+- Feito o lançamento, coloquei um código de PIS de faturamento de pessoa jurídica em geral, é uma
+
+00:01:57.534 --> 00:02:04.167
+- periodicidade mensal, coloquei a competência e coloquei o lançamento. Na hora que eu coloquei
+
+00:02:04.167 --> 00:02:11.420
+- o lançamento, eu vou dar confirmar para que o MIT seja incluído o valor do lançamento do PIS. Então,
+
+00:02:11.420 --> 00:02:18.398
+- fiz isso no COFINS também. Peguei um código de COFINS de faturamento de pessoa jurídica em geral,
+
+00:02:18.658 --> 00:02:27.082
+- Coloquei uma prioridade mensal, competência e valor. Confirmei. Depois que eu confirmo o valor do débito,
+
+00:02:27.082 --> 00:02:34.960
+- aí sim eu posso vir para a quarta aba de informações. Se houver suspensão, obviamente, você faz
+
+00:02:34.960 --> 00:02:42.760
+- o lançamento. E na quarta opção vai ter as pendências, ou seja, se foi lançado algo incorreto,
+
+00:02:42.760 --> 00:02:46.270
+- o MIT tem essa inteligência de te informar.
+
+00:02:46.562 --> 00:02:53.789
+- e aí vai dar nos pendências. Se não tiver, vai vir sem pendências. Lembre-se, se tiver alguma suspensão,
+
+00:02:53.789 --> 00:03:00.490
+- a gente precisa lançar antes, tá? Vem no pendências, não tem nenhum tipo de pendência, aí você
+
+00:03:00.490 --> 00:03:07.650
+- vai para o fechamento, aí você faz o lançamento. A suspensão, na hora que a gente clica nas suspensões,
+
+00:03:07.650 --> 00:03:11.198
+- a gente tem que colocar os números dessa suspensão.
+
+00:03:11.778 --> 00:03:18.438
+- Número de processo judicial administrativo, a data da decisão, o valor da suspensão, o qual tipo
+
+00:03:18.438 --> 00:03:25.630
+- da suspensão, se é uma decipação tributária, se é uma liminar, instância. Então, esse é o objetivo
+
+00:03:25.630 --> 00:03:32.689
+- também de informar no MIT. Compensação, não informa mais. Parcelamento, também não. Mas suspensão,
+
+00:03:32.689 --> 00:03:39.348
+- o fisco ainda precisa saber. Por isso que ele deixou ainda no MIT essa informação. Feito, então,
+
+00:03:39.348 --> 00:03:40.414
+- dados iniciais.
+
+00:03:40.930 --> 00:03:48.759
+- débitos, lançamentos, identificar se tem suspensão, identificar se tem pendências, eu posso trazer
+
+00:03:48.759 --> 00:03:56.361
+- o encerramento do MIT. Não basta a gente só lançar, a gente tem que encerrar também, porque só
+
+00:03:56.361 --> 00:04:04.190
+- no encerramento que a gente vai validar as informações lá na DCTF web. Então, fez os lançamentos,
+
+00:04:04.354 --> 00:04:11.771
+- faz o encerramento, encerrou a apuração, aí sim essas informações vão para a DCTF Web. Então,
+
+00:04:11.771 --> 00:04:18.748
+- dentro da prática de encerramento, vocês vão validar os valores que foram lançados e fazer
+
+00:04:18.748 --> 00:04:26.386
+- uma confirmação. Depois da confirmação, lá na DCTF Web, aí sim a gente consegue identificar todos
+
+00:04:26.386 --> 00:04:33.950
+- os valores lançados. Então, o fluxo de apuração foi feito sem pendências e houve um encerramento.
+
+00:04:34.178 --> 00:04:41.256
+- No próprio momento, você pode clicar em acessar o DCTF Web para identificar os valores lançados.
+
+00:04:41.256 --> 00:04:48.334
+- Aí, na DCTF Web, você vai verificar se os valores foram lançados, se todos os débitos ali foram
+
+00:04:48.334 --> 00:04:56.048
+- incluídos para vocês enviarem a DCTF Web. Então, visualizar todos os débitos, você consegue identificar
+
+00:04:56.048 --> 00:05:02.206
+- de onde veio, se já veio do E-Social, se o pessoal do FD Reinf já fez o lançamento,
+
+00:05:02.338 --> 00:05:08.238
+- Porque pode ser que no processo da sua empresa, cada um fica responsável por um processo. O E-Social
+
+00:05:08.238 --> 00:05:14.023
+- fica com a folha de pagamento, o pessoal do departamento pessoal, a retenção fica parte contábil
+
+00:05:14.023 --> 00:05:19.808
+- e parte fiscal, e o MIT fica com a sua responsabilidade. Então, antes de sair fazendo a do CTF Web
+
+00:05:19.808 --> 00:05:25.593
+- e integrar, é importante a gente validar esse processo, porque na origem vai estar aparecendo para
+
+00:05:25.593 --> 00:05:31.262
+- vocês. Veio, então, valores do E-Social, do FDRe-INF sobre as contribuições previdenciárias,
+
+00:05:31.394 --> 00:05:39.409
+- da retenção na fonte do FDRInf e também do lançamento do MIT. Se a sua empresa for inativa, a gente
+
+00:05:39.409 --> 00:05:47.270
+- já identificou que existe a informação de lançar uma única vez. Se você não tiver uma DCTF Web
+
+00:05:47.270 --> 00:05:55.363
+- inativa válida, você pode fazer por meio do MIT. Você vai entrar no MIT, fazer a apuração, exemplo,
+
+00:05:55.363 --> 00:06:01.374
+- janeiro de 2025, vai informar a apuração sem movimento, informar quais são
+
+00:06:01.506 --> 00:06:09.198
+- as responsáveis pelo preenchimento e enviar. Então, vai vir sem pendências porque você informou
+
+00:06:09.198 --> 00:06:17.121
+- sem movimento e vai confirmar. Depois que tiver essa inatividade lançada, não precisa mais entregar.
+
+00:06:17.121 --> 00:06:24.890
+- O fisco tirou a obrigatoriedade. Ok? Então, novamente trazendo uma simplificação para as empresas
+
+00:06:24.890 --> 00:06:27.582
+- inativas e empresas sem movimento.
+
+00:06:28.386 --> 00:06:34.590
+- O que a gente precisa se atentar é se de fato a gente já tem uma DCTF web entregue ativa.

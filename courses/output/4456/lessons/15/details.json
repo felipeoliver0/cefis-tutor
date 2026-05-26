@@ -1,0 +1,33 @@
+{
+  "id": 487690,
+  "title": "Ferramentas para usar hoje",
+  "position": 15,
+  "duration": 231,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/62a5244e-c7d0-4175-a1fb-ddee69b785e9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62a5244e-c7d0-4175-a1fb-ddee69b785e9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62a5244e-c7d0-4175-a1fb-ddee69b785e9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62a5244e-c7d0-4175-a1fb-ddee69b785e9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/62a5244e-c7d0-4175-a1fb-ddee69b785e9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

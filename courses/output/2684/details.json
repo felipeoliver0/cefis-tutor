@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2684,
+    "title": "Benefícios Fiscais no comércio exterior",
+    "subtitle": "Fundamentos e aplicações",
+    "summary": "Neste curso prático de benefícios fiscais aplicados às operações de comércio exterior você vai aprender desde os aspectos fundamentais, até os princípios e lógica da tributação no comércio exterior, os tributos incidentes, a tributação na importação e na exportação, os benefícios aplicáveis ao comércio exterior, a guerra Fiscal, a Lei Complementar 160/2017 e o Convênio ICMS – CONFAZ 190/2017, principais incentivos fiscais aplicáveis às importações (por Estado) bem como reflexões para aplicar na prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/da8187dcb8535724619c072e068a1a091728427913.jpg",
+    "goals": [
+      "Demonstrar desde os aspectos fundamentais, até os princípios e lógica da tributação no comércio exterior, os tributos incidentes, a tributação na importação e na exportação, os benefícios aplicáveis ao comércio exterior, a guerra Fiscal, a Lei Complementar 160/2017 e o Convênio ICMS – CONFAZ 190/2017, principais incentivos fiscais aplicáveis às importações (por Estado) bem como reflexões para aplicar na prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 8128,
+    "keywords": "benefícios fiscais;benefícios;comércio exterior;comércio;exterior",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 35,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 287,
+    "averageRating": 9.34,
+    "practiceAverage": 9.36,
+    "trailer": {
+      "id": "63ecf8b3-c87e-4fd0-8eb1-d669fc2a4365",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/63ecf8b3-c87e-4fd0-8eb1-d669fc2a4365/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/63ecf8b3-c87e-4fd0-8eb1-d669fc2a4365/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/63ecf8b3-c87e-4fd0-8eb1-d669fc2a4365/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/63ecf8b3-c87e-4fd0-8eb1-d669fc2a4365/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-08-24T21:53:30.000Z",
+      "updatedAt": "2023-08-24T21:53:29.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 5,
+    "launchDate": "2023-09-12T13:00:55.000Z",
+    "recordedAt": "2023-08-05T00:00:00.000Z",
+    "createdAt": "2023-08-05T11:07:19.000Z"
+  }
+}

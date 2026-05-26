@@ -1,0 +1,27 @@
+{
+  "id": 478169,
+  "title": "Canais De Parametrização",
+  "position": 33,
+  "duration": 289,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/218d005d-59ad-44b2-b9c5-36350d023411/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/218d005d-59ad-44b2-b9c5-36350d023411/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/218d005d-59ad-44b2-b9c5-36350d023411/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/218d005d-59ad-44b2-b9c5-36350d023411/720.mp4",
+      "height": 720
+    }
+  ]
+}

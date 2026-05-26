@@ -1,0 +1,33 @@
+{
+  "id": 484253,
+  "title": "O fim de documentos conhecidos",
+  "position": 5,
+  "duration": 189,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bf6179d3-50ba-4166-ab38-1a348d03f070/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf6179d3-50ba-4166-ab38-1a348d03f070/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf6179d3-50ba-4166-ab38-1a348d03f070/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf6179d3-50ba-4166-ab38-1a348d03f070/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bf6179d3-50ba-4166-ab38-1a348d03f070/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 2197,
+    "title": "DCTFWEB na prática",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de DCTFWEB você vai aprender, com base na legislação mais atual sobre o tema (IN RFB 2.094/2022), desde os conceitos gerais relacionados às obrigações tributárias, acessórias e administração e controle da arrecadação, confissão de dívida, quitação, controle eletrônico, até pontos relativos ao cronograma, obrigatoriedade, compensação cruzada, retificação e muito mais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/f9486fc66de762e66648602c836bea451660561415.jpg",
+    "goals": [
+      "Demonstrar, com base na legislação mais atual sobre o tema (IN RFB 2.094/2022), todas as características e aplicações da DCTFWeb."
+    ],
+    "teacher": {
+      "id": 179223,
+      "name": "PAULO GOMES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/64a4c05f3dd3a1e440647a1ba96dab741532034738.jpg"
+    },
+    "duration": 5405,
+    "keywords": "dctfweb",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 16,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 2958,
+    "averageRating": 9.13,
+    "practiceAverage": 9.04,
+    "trailer": {
+      "id": "f4240a30-49b0-4790-99ce-ed29e45332c6",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f4240a30-49b0-4790-99ce-ed29e45332c6/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f4240a30-49b0-4790-99ce-ed29e45332c6/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f4240a30-49b0-4790-99ce-ed29e45332c6/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f4240a30-49b0-4790-99ce-ed29e45332c6/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-08-17T18:51:46.000Z",
+      "updatedAt": "2022-08-17T18:51:45.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2022-08-19T17:06:23.000Z",
+    "recordedAt": "2022-08-13T00:00:00.000Z",
+    "createdAt": "2022-08-15T07:46:02.000Z"
+  }
+}

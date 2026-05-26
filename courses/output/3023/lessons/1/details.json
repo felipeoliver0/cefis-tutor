@@ -1,0 +1,33 @@
+{
+  "id": 473616,
+  "title": "O que é uma propriedade para investimento",
+  "position": 1,
+  "duration": 207,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5277b6ed-8a28-4dd4-aa9a-3050211bde65/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5277b6ed-8a28-4dd4-aa9a-3050211bde65/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5277b6ed-8a28-4dd4-aa9a-3050211bde65/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5277b6ed-8a28-4dd4-aa9a-3050211bde65/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5277b6ed-8a28-4dd4-aa9a-3050211bde65/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

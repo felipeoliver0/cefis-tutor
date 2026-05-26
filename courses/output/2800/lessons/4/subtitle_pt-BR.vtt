@@ -1,0 +1,385 @@
+WEBVTT
+
+1
+00:00:00.170 --> 00:00:03.700
+então legal? Quais são os benefícios da gente viralizar? Um servidor, né?
+
+2
+00:00:03.710 --> 00:00:05.940
+Então talvez é um pouco na cara.
+
+3
+00:00:05.949 --> 00:00:09.399
+Algumas dessas coisas aqui, consolidação dos servidores,
+
+4
+00:00:10.220 --> 00:00:14.350
+que que é esse negócio de consolidação, é eu conseguir,
+
+5
+00:00:14.359 --> 00:00:19.190
+a partir de um grupo de servidores físicos consolidar eles, digamos assim,
+
+6
+00:00:19.200 --> 00:00:20.750
+em recursos computacionais,
+
+7
+00:00:20.760 --> 00:00:24.409
+em pedaços menores que eu consigo utilizar de uma maneira menor.
+
+8
+00:00:24.979 --> 00:00:25.829
+Então, consolidar,
+
+9
+00:00:25.840 --> 00:00:28.260
+seria eu realmente utilizar o potencial máximo desse
+
+10
+00:00:28.270 --> 00:00:30.709
+servidor físico que que seria o contrário.
+
+11
+00:00:30.719 --> 00:00:33.709
+Eu tenho um servidor gigantesco que eu uso dez por cento dele.
+
+12
+00:00:33.720 --> 00:00:37.630
+O restante fica inútil, porque eu só ele é só um único cinema operacional,
+
+13
+00:00:37.639 --> 00:00:42.270
+só consigo Então, um dos benefícios, outros benefícios, isolamento e segurança.
+
+14
+00:00:42.279 --> 00:00:46.490
+A gente falou lá da um pouco, agora das redes definidas por software, né?
+
+15
+00:00:47.380 --> 00:00:51.069
+Quando eu tô falando de computação, c, p, u e memória é a mesma coisa, né?
+
+16
+00:00:51.080 --> 00:00:55.349
+Se o ISO, o espaço de memória ali que tá sendo usado por uma aplicação,
+
+17
+00:00:55.360 --> 00:00:59.349
+se tem um vírus rodando ali nessa aplicação nesse sistema operacional,
+
+18
+00:00:59.360 --> 00:01:03.470
+ele nem sabe que existe outro pedaço de R M que tá ali do do mesmo lado.
+
+19
+00:01:03.479 --> 00:01:06.449
+Mas pra eles não existe. É impossível ele chegar lá,
+
+20
+00:01:07.739 --> 00:01:12.480
+Facilidade implantação e gerenciamento é muito mais fácil.
+
+21
+00:01:12.489 --> 00:01:14.150
+Eu garanto muito, muito, muito,
+
+22
+00:01:14.160 --> 00:01:17.150
+muito mais fácil você configurar uma máquina virtual
+
+23
+00:01:17.160 --> 00:01:20.860
+do que você configurar um servidor físico mais fácil
+
+24
+00:01:20.870 --> 00:01:23.389
+configurar mais fácil instalar um sistema operacional mais
+
+25
+00:01:23.400 --> 00:01:27.470
+fácil configurar as redes mais fácil você desligar,
+
+26
+00:01:27.480 --> 00:01:30.569
+ligar mais fácil você migrar de um lugar pro outro,
+
+27
+00:01:31.550 --> 00:01:35.760
+por exemplo, pensa num servidor físico como que seria migrar um servidor físico?
+
+28
+00:01:35.769 --> 00:01:38.739
+Não existe isso? Não tem como você tirar ele dele mesmo.
+
+29
+00:01:39.510 --> 00:01:43.639
+Então tipo, assim você teria que ter um trabalho gigantesco de de cópia.
+
+30
+00:01:43.650 --> 00:01:45.919
+Na verdade cê não tem migração, cê tem cópia.
+
+31
+00:01:45.930 --> 00:01:48.459
+Ah, eu quero migrar esse servidor a pro servidor B não,
+
+32
+00:01:48.470 --> 00:01:50.379
+você vai copiar o que tá no ar e por no B.
+
+33
+00:01:50.389 --> 00:01:53.959
+Então essa migração é quando a gente tá trabalhando com máquina virtual.
+
+34
+00:01:53.970 --> 00:01:56.279
+Isso já tem uma série de ferramentas que te
+
+35
+00:01:56.290 --> 00:01:59.180
+ajudam a fazer tudo em cima dessa máquina virtual
+
+36
+00:02:00.309 --> 00:02:02.300
+recuperação de desastres
+
+37
+00:02:02.930 --> 00:02:07.220
+back é infinitamente mais fácil novamente você fazer um backup de uma
+
+38
+00:02:07.230 --> 00:02:10.360
+máquina virtual do que você fazer um baca num servidor inteiro.
+
+39
+00:02:10.369 --> 00:02:15.000
+Primeiro pelo tamanho, o servidor físico de um data center como a gente viu,
+
+40
+00:02:15.009 --> 00:02:15.820
+ele é gigante.
+
+41
+00:02:15.830 --> 00:02:19.320
+Ele tem muito recurso vai ter muito espaço de disco pra você
+
+42
+00:02:19.330 --> 00:02:23.000
+fazer um backup desse negócio demora muito se você fizer dele inteiro.
+
+43
+00:02:23.399 --> 00:02:25.589
+Agora, se você dividir ele em pequenos pedaços,
+
+44
+00:02:25.600 --> 00:02:27.970
+você pode fazer de acordo com a demanda desses pedaços.
+
+45
+00:02:27.979 --> 00:02:29.300
+Pode ser que tenha um pedacinho ali,
+
+46
+00:02:29.309 --> 00:02:33.350
+uma máquina virtual que cê não quer Deca porque não tem nada ali que não vale a pena
+
+47
+00:02:33.360 --> 00:02:38.690
+ou se perder o que tá ali é simplesmente replantar rodar um script lá que rein planta.
+
+48
+00:02:38.699 --> 00:02:42.220
+Então cê ganha também na recuperação de de desastres.
+
+49
+00:02:42.229 --> 00:02:44.270
+Flexibilidade, escalabilidade.
+
+50
+00:02:45.240 --> 00:02:49.210
+Quando a gente tá trazendo agora pro monte de microserv contêiner,
+
+51
+00:02:49.220 --> 00:02:54.449
+não sei o que não tem como você escalar um servidor físico, Tipo assim Ah, não.
+
+52
+00:02:54.460 --> 00:02:57.330
+Minha aplicação aqui com one não tá aguentando o tranco.
+
+53
+00:02:57.339 --> 00:03:00.289
+Vou colocar mais dez máquina virtual dez contêiner aqui
+
+54
+00:03:00.300 --> 00:03:02.539
+rodando Cê vai lá dar um comando pronto,
+
+55
+00:03:02.550 --> 00:03:04.169
+o negócio já subiu.
+
+56
+00:03:04.179 --> 00:03:07.750
+Ah, nossa minha aplicação física aqui não tá aguentando,
+
+57
+00:03:08.009 --> 00:03:11.380
+eh Alô de eu queria comprar dois servidor aqui.
+
+58
+00:03:11.389 --> 00:03:16.380
+Ah, o prazo de entrega é dez meses porque a Tesla comprou o chip todo mundo,
+
+59
+00:03:16.389 --> 00:03:18.440
+então assim não tem como né?
+
+60
+00:03:19.410 --> 00:03:20.720
+Escalabilidade,
+
+61
+00:03:21.389 --> 00:03:23.720
+conservação de energia.
+
+62
+00:03:23.729 --> 00:03:30.279
+Isso aqui entra novamente no o quão mais otimizado é eu utilizar
+
+63
+00:03:30.289 --> 00:03:33.710
+pequenos pedaços de um servidor do que usar o servidor inteiro,
+
+64
+00:03:33.720 --> 00:03:39.199
+porque muitas vezes eu estaria ali só usando dez por cento da carga de um servidor.
+
+65
+00:03:39.210 --> 00:03:43.339
+Lógico que quando eu uso um servidor físico, eu estou falando nesse momento,
+
+66
+00:03:44.050 --> 00:03:47.460
+menos do que a capacidade total dele ele consome menos energia,
+
+67
+00:03:47.470 --> 00:03:48.850
+mas ele tem quase que for.
+
+68
+00:03:48.860 --> 00:03:53.479
+Que seja um consumo de energia basal que ele sempre vai consumir, só dele tá ligado.
+
+69
+00:03:54.259 --> 00:03:54.589
+Agora,
+
+70
+00:03:54.600 --> 00:03:57.309
+se eu dividir esse servidor em pequenas caixinhas
+
+71
+00:03:57.320 --> 00:04:00.550
+e eu não estou deixando ele ficar ocioso,
+
+72
+00:04:00.559 --> 00:04:02.210
+eu tô otimizando o meu uso de energia.
+
+73
+00:04:03.570 --> 00:04:06.740
+E esse é um ponto super importante que a gente tá falando de data center,
+
+74
+00:04:06.750 --> 00:04:11.679
+Servidor ocioso, é dinheiro indo pro ralo, Então é otimizar ao máximo
+
+75
+00:04:12.580 --> 00:04:17.029
+tudo é virtualização. Então eu dei lá os três tipos de virtualização.
+
+76
+00:04:17.040 --> 00:04:20.570
+Servidor soft eh redes e armazenamento
+
+77
+00:04:21.528 --> 00:04:25.218
+Todas as se preocupam com isso e é o delas.
+
+78
+00:04:25.229 --> 00:04:29.299
+Se elas dominam esse negócio elas conseguem fazer praticamente qualquer coisa.
+
+79
+00:04:29.308 --> 00:04:33.639
+Quando eu digo qualquer coisa é fazer os serviços gerenciados mais do mundo,
+
+80
+00:04:33.648 --> 00:04:38.579
+que vocês pensar funcionar simplesmente porque eles têm o alicerce sólido.
+
+81
+00:04:38.588 --> 00:04:39.239
+Então ah,
+
+82
+00:04:39.248 --> 00:04:40.658
+eu consigo aqui ter uma inteligência de
+
+83
+00:04:40.669 --> 00:04:42.889
+um treinador de modelo de inteligência artificial,
+
+84
+00:04:42.898 --> 00:04:45.799
+pra traduzir do mandarim pro sei lá, em qualquer língua.
+
+85
+00:04:46.880 --> 00:04:51.929
+Onde que esse negócio roda é c, p u eh R e tá usando espaço em disco.
+
+86
+00:04:51.940 --> 00:04:54.010
+Então, se eu dominei essas três coisas,
+
+87
+00:04:54.019 --> 00:04:59.010
+eu estou livre pra deixar a minha imaginação de software fazer o que ela quiser,
+
+88
+00:04:59.019 --> 00:05:00.730
+porque o custo é baixíssimo, né?
+
+89
+00:05:00.739 --> 00:05:04.910
+Então todas as CSS, na verdade, elas tão te vendendo é isso. Virtualização
+
+90
+00:05:07.109 --> 00:05:08.459
+inclusive a C C s.
+
+91
+00:05:08.470 --> 00:05:11.880
+Virtualização então no C, C S a gente tá focado agora,
+
+92
+00:05:11.890 --> 00:05:14.820
+lógico em escalar a primeira etapa da virtualização,
+
+93
+00:05:14.829 --> 00:05:16.880
+que é a virtualização dos servidores que a gente já usa.
+
+94
+00:05:16.890 --> 00:05:19.279
+A gente já usa também virtualização de armazenamento.
+
+95
+00:05:19.290 --> 00:05:21.579
+Começamos a usar uns dois meses atrás
+
+96
+00:05:22.209 --> 00:05:26.440
+e vamos chegar, com certeza, na virtualização de redes, né, Um pouco mais pra frente

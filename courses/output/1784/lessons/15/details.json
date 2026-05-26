@@ -1,0 +1,33 @@
+{
+  "id": 457563,
+  "title": "Caso Extra e Protection",
+  "position": 15,
+  "duration": 186,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cbd00e53-d377-4283-83c1-c21cc8451c6f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbd00e53-d377-4283-83c1-c21cc8451c6f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbd00e53-d377-4283-83c1-c21cc8451c6f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbd00e53-d377-4283-83c1-c21cc8451c6f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cbd00e53-d377-4283-83c1-c21cc8451c6f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 484255,
+  "title": "O fim da FS-DA, REDF E NFVC",
+  "position": 8,
+  "duration": 279,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3d7c5503-80b5-4af5-8f5b-9168b39d2472/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3d7c5503-80b5-4af5-8f5b-9168b39d2472/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3d7c5503-80b5-4af5-8f5b-9168b39d2472/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3d7c5503-80b5-4af5-8f5b-9168b39d2472/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3d7c5503-80b5-4af5-8f5b-9168b39d2472/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

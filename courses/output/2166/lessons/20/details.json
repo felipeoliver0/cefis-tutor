@@ -1,0 +1,33 @@
+{
+  "id": 463540,
+  "title": "Rescisão",
+  "position": 20,
+  "duration": 414,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2ad44047-16a6-4778-8da9-8887fee785af/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2ad44047-16a6-4778-8da9-8887fee785af/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2ad44047-16a6-4778-8da9-8887fee785af/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2ad44047-16a6-4778-8da9-8887fee785af/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2ad44047-16a6-4778-8da9-8887fee785af/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

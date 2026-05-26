@@ -1,0 +1,613 @@
+WEBVTT
+
+1
+00:00:00.100 --> 00:00:00.469
+pessoal.
+
+2
+00:00:00.479 --> 00:00:04.750
+Agora vamos citar algumas regras de emissão dos documentos fiscais eletrônicos.
+
+3
+00:00:04.760 --> 00:00:09.630
+Tá bom indicação da data e hora de saída Tá bom?
+
+4
+00:00:09.640 --> 00:00:12.289
+Deve sempre ser indicada a data e hora de saída da
+
+5
+00:00:12.300 --> 00:00:15.819
+mercadoria do estabelecimento em campo próprio da nota fiscal eletrônica.
+
+6
+00:00:15.829 --> 00:00:17.690
+Caso não seja indicada, a hora de saída
+
+7
+00:00:17.940 --> 00:00:21.670
+é considerada a hora de emissão do documento.
+
+8
+00:00:21.680 --> 00:00:26.069
+Hora de saída pessoal é quando tem se uma emissão programada do documento, né?
+
+9
+00:00:26.079 --> 00:00:29.989
+Nós sabemos que o documento ele tem um prazo de validade para circulação, né?
+
+10
+00:00:30.000 --> 00:00:32.549
+Eu não posso emitir uma nota hoje, ficar aguardando ela aqui.
+
+11
+00:00:32.560 --> 00:00:34.889
+Mês que vem, da saída dessa mercadoria, né?
+
+12
+00:00:34.900 --> 00:00:37.549
+Porque vocês lembram quando eu expliquei do fato gerador,
+
+13
+00:00:37.560 --> 00:00:41.979
+a nota deve ser emitida no momento ali da ocorrência do fato gerador, porém,
+
+14
+00:00:41.990 --> 00:00:44.470
+você pode programar uma operação.
+
+15
+00:00:44.479 --> 00:00:46.409
+Digamos que eu tenho uma loja aqui.
+
+16
+00:00:46.709 --> 00:00:50.040
+Eu vou fazer meu faturamento aqui na sexta-feira,
+
+17
+00:00:50.049 --> 00:00:53.880
+mas a mercadoria vai ser pega aqui no domingo de manhã pelo transportador.
+
+18
+00:00:53.889 --> 00:00:56.959
+Então eu posso indicar na nota fiscal eletrônica aquela mercadoria
+
+19
+00:00:56.970 --> 00:00:59.790
+vai sair do meu estabelecimento no domingo de manhã.
+
+20
+00:00:59.799 --> 00:01:04.779
+Então de sexta-feira Até domingo de manhã, o documento não tem validade ainda,
+
+21
+00:01:04.790 --> 00:01:07.959
+porque não iniciou ali o momento da saída do estabelecimento.
+
+22
+00:01:07.970 --> 00:01:08.199
+Então,
+
+23
+00:01:08.209 --> 00:01:10.959
+o documento passa a ter validade a partir do domingo
+
+24
+00:01:10.970 --> 00:01:12.599
+de manhã que eu indiquei como hora de saída?
+
+25
+00:01:12.610 --> 00:01:13.180
+Tá bom?
+
+26
+00:01:13.800 --> 00:01:17.569
+Isso acontece muito em operações de contribuintes.
+
+27
+00:01:17.580 --> 00:01:20.370
+Que transacionar com transportadores, né?
+
+28
+00:01:20.379 --> 00:01:23.370
+Acontece também em operações com produtores rurais.
+
+29
+00:01:23.379 --> 00:01:27.349
+Tá então indicação da hora e data de saída quando
+
+30
+00:01:27.360 --> 00:01:29.449
+a hora e a data de saída da mercadoria.
+
+31
+00:01:29.459 --> 00:01:31.970
+Não for naquele momento de emissão do documento,
+
+32
+00:01:31.980 --> 00:01:33.970
+quando vai ser em momento posterior,
+
+33
+00:01:33.980 --> 00:01:37.330
+a gente tem que informar isso do documento fiscal pra ficar tudo certinho.
+
+34
+00:01:37.339 --> 00:01:41.870
+Aí com o prazo de validade de circulação desse documento fiscal, tá bom,
+
+35
+00:01:42.809 --> 00:01:43.940
+Natureza da operação.
+
+36
+00:01:43.949 --> 00:01:47.790
+Nós já falamos pra vocês, mas em cor em texto simples,
+
+37
+00:01:47.800 --> 00:01:51.779
+você vai se dizer você vai dizer o que se trata aquela operação, não uma venda,
+
+38
+00:01:51.790 --> 00:01:54.120
+a transferência, uma compra, tudo mais Tá bom,
+
+39
+00:01:55.120 --> 00:01:59.050
+vamos com as regras de emissão, tá a descrição dos produtos.
+
+40
+00:01:59.059 --> 00:02:00.970
+Tá pra emitir um documento fiscal.
+
+41
+00:02:00.980 --> 00:02:04.889
+A descrição dos produtos deve ser compreendendo nome, marca tipo modelo, série,
+
+42
+00:02:04.900 --> 00:02:09.130
+espécie, né, que permitam sua perfeita identificação tá!
+
+43
+00:02:09.139 --> 00:02:13.009
+E também tem que formar a unidade de medida usada para quantificar os produtos.
+
+44
+00:02:13.020 --> 00:02:14.289
+Tá pessoal,
+
+45
+00:02:14.300 --> 00:02:16.210
+isso aí a gente tem que ter em mente
+
+46
+00:02:16.220 --> 00:02:19.649
+a gente escrever claramente tá a descrição dos produtos,
+
+47
+00:02:19.660 --> 00:02:20.029
+tá
+
+48
+00:02:20.270 --> 00:02:23.000
+a gente. Eu já vi nota fiscal eletrônica que o produto era assim.
+
+49
+00:02:23.009 --> 00:02:27.399
+X treze, traço PT, que que é isso? Ninguém sabe que que é isso, né?
+
+50
+00:02:27.410 --> 00:02:32.800
+É um uma mercadoria que não dá pra você identificar lendo, né? Às vezes tem só número.
+
+51
+00:02:32.809 --> 00:02:37.639
+Mercadoria zero, doze é um código, aquilo ali não é uma descrição de mercadoria, né?
+
+52
+00:02:37.649 --> 00:02:40.809
+Às vezes também, eles põem nomes assim que não dá pra você.
+
+53
+00:02:40.820 --> 00:02:44.539
+Intelig também nomes que não são referentes àquele produto.
+
+54
+00:02:44.770 --> 00:02:47.460
+Isso pode caracterizar embaraço a fiscalização, né?
+
+55
+00:02:47.470 --> 00:02:49.139
+Pode ser que o Fisco ache que você tá
+
+56
+00:02:49.149 --> 00:02:53.740
+colocando aquilo ali pra não identificar o produto propositalmente.
+
+57
+00:02:53.750 --> 00:02:56.660
+Tá isso aí, Pode até sofrer sanção por isso. Então, qual?
+
+58
+00:02:56.669 --> 00:03:00.539
+Que é a regra aqui de emissão pra descrição dos produtos?
+
+59
+00:03:00.550 --> 00:03:04.779
+Colocar o produto com o nome próprio, a marca própria, tudo certinho?
+
+60
+00:03:04.789 --> 00:03:07.419
+Pra quem pegue o documento fiscal, seja o Fisco,
+
+61
+00:03:07.429 --> 00:03:10.580
+seja o seu cliente qualquer pessoa que tenha acesso a esse documento,
+
+62
+00:03:10.589 --> 00:03:14.520
+saiba prontamente Identificar aquele produto tá bom,
+
+63
+00:03:14.869 --> 00:03:18.639
+então pode colocar o nome do produto, a marca dele, O modelo, né?
+
+64
+00:03:18.649 --> 00:03:23.080
+Por exemplo, caneta da marca Bik Esferográfica Azul tal Pode colocar isso aí,
+
+65
+00:03:23.089 --> 00:03:24.160
+tudo no nome do produto?
+
+66
+00:03:24.169 --> 00:03:27.360
+Isso é uma maneira boa de você identificar o seu produto.
+
+67
+00:03:27.369 --> 00:03:31.660
+Tá bom e, é claro, sempre informar a unidade de medida adequada, né?
+
+68
+00:03:31.910 --> 00:03:34.759
+Então a gente vai colocar ali sempre o produto,
+
+69
+00:03:34.770 --> 00:03:37.080
+relacionando com a sua unidade de medida.
+
+70
+00:03:37.089 --> 00:03:38.800
+Tá bom, Então o cadastro do produto é.
+
+71
+00:03:38.809 --> 00:03:43.679
+É bom a gente ter muita atenção pra gente ser claro e preciso ali,
+
+72
+00:03:43.690 --> 00:03:44.960
+na identificação do produto,
+
+73
+00:03:44.970 --> 00:03:49.320
+pra que não gere dúvidas nos processos aí subsequentes que vão ter
+
+74
+00:03:49.330 --> 00:03:51.960
+a sua nota fiscal na sua Nota Fiscal da SA sua empresa,
+
+75
+00:03:51.970 --> 00:03:54.850
+ela vai pro seu destinatário, ela vai pro Fisco,
+
+76
+00:03:54.860 --> 00:03:57.490
+sua operação interestadual vai pro fisco de outro estado, né?
+
+77
+00:03:57.500 --> 00:03:57.929
+Então,
+
+78
+00:03:57.940 --> 00:04:01.210
+essa nota aí vai circular em uma grande quantidade de
+
+79
+00:04:01.220 --> 00:04:05.169
+lugares e precisa ter a clara descrição dos produtos.
+
+80
+00:04:05.179 --> 00:04:06.770
+Tá bom, Isso é muito importante! Pessoal.
+
+81
+00:04:06.779 --> 00:04:10.449
+Outra regra, momento da emissão, tá o momento da emissão.
+
+82
+00:04:10.460 --> 00:04:14.449
+É o momento da ocorrência, do fato gerador fato gerador do I C M s,
+
+83
+00:04:14.460 --> 00:04:16.108
+como nós vimos ali atrás, tá
+
+84
+00:04:16.980 --> 00:04:21.548
+saída, ou seja, a mercadoria vai sair do meu estabelecimento, Tá?
+
+85
+00:04:21.559 --> 00:04:25.750
+Então é o momento da saída da mercadoria. do estabelecimento. O que que é uma saída?
+
+86
+00:04:25.760 --> 00:04:29.230
+É uma venda, por exemplo, tá bom. Eu tô fazendo uma venda.
+
+87
+00:04:29.239 --> 00:04:30.410
+Estou vendendo a mercadoria,
+
+88
+00:04:30.420 --> 00:04:34.089
+a mercadoria vai sair do meu estabelecimento e vai lá pro comprador Okay
+
+89
+00:04:35.119 --> 00:04:37.290
+momento da ocorrência do fato,
+
+90
+00:04:37.299 --> 00:04:40.929
+gerador de entrada Momento da entrada da mercadoria do estabelecimento, né?
+
+91
+00:04:40.940 --> 00:04:41.350
+Então,
+
+92
+00:04:41.359 --> 00:04:45.570
+vamos supor que eu tô comprando a mercadoria do MEI microempreendedor individual.
+
+93
+00:04:45.579 --> 00:04:47.130
+Ele não é obrigado a emitir nota, né?
+
+94
+00:04:47.140 --> 00:04:50.589
+E eu posso fazer a nota de entrada a nota de compra dessa mercadoria, né?
+
+95
+00:04:50.820 --> 00:04:51.470
+Então,
+
+96
+00:04:51.480 --> 00:04:54.269
+a nota de compra a nota de entrada dessa mercadoria vai
+
+97
+00:04:54.279 --> 00:04:58.350
+ser no momento da emissão da entrada da mercadoria no estabelecimento?
+
+98
+00:04:58.359 --> 00:04:58.750
+Tá bom?
+
+99
+00:04:58.760 --> 00:05:01.109
+É nesse momento que deve emitir a nota Eu falei
+
+100
+00:05:01.119 --> 00:05:03.149
+pra vocês quando eu falei de data de emissão,
+
+101
+00:05:03.160 --> 00:05:06.970
+se se é uma operação programada, que o frete vai ocorrer, daqui a um ou dois dias,
+
+102
+00:05:06.980 --> 00:05:12.410
+eu posso colocar isso no documento fiscal com a data de saída posterior, né?
+
+103
+00:05:12.420 --> 00:05:16.390
+E o documento passa a ter validade apenas no momento da data de saída.
+
+104
+00:05:16.399 --> 00:05:17.649
+Dali pra frente, tá bom,
+
+105
+00:05:19.019 --> 00:05:22.269
+Momento da assinatura do canhoto é aquele canhoto de entrega, né?
+
+106
+00:05:22.279 --> 00:05:24.470
+Agora, mas recentemente, né?
+
+107
+00:05:24.480 --> 00:05:28.250
+Mo momento de fazer aquele evento de confirmação da entrega? Tá
+
+108
+00:05:28.970 --> 00:05:34.260
+a confirmação de entrega, assim como a assinatura do canhoto é o aceite da operação.
+
+109
+00:05:34.269 --> 00:05:38.579
+Tá bom, Ele é regido ali pelo Código Civil, não pela pelo código tributário.
+
+110
+00:05:38.589 --> 00:05:39.899
+Mas você tem que fazer isso.
+
+111
+00:05:39.910 --> 00:05:43.019
+Quando você concordar com aquela operação, está tudo certo, né.
+
+112
+00:05:43.029 --> 00:05:46.820
+Ou seja, quando eu recebo minha mercadoria, confiro, tá tudo certinho.
+
+113
+00:05:46.829 --> 00:05:49.559
+Eu vou fazer ali o preenchimento do canhoto de entrega.
+
+114
+00:05:49.790 --> 00:05:51.720
+Quando, se tiver tudo certinho,
+
+115
+00:05:51.730 --> 00:05:55.970
+o o entregador pode me entregar um tablet pra que eu faça ali uma assinatura.
+
+116
+00:05:55.980 --> 00:05:59.519
+Pode tirar uma foto ali da da fachada, do edifício que ele fez. A entrega, né?
+
+117
+00:05:59.529 --> 00:06:04.359
+Põe a localização também no momento que a operação foi concluída, né?
+
+118
+00:06:04.369 --> 00:06:06.980
+No momento do aceite da operação tá bom,
+
+119
+00:06:08.059 --> 00:06:09.790
+Vamos com mais regras de emissão,
+
+120
+00:06:09.799 --> 00:06:13.549
+a nota conjugada que que é a nota conjugada que tem I c m s.
+
+121
+00:06:13.559 --> 00:06:17.390
+E! I S S né? Eu dei mais cedo aqui um exemplo pra vocês.
+
+122
+00:06:17.399 --> 00:06:21.230
+Que eh uma pessoa leva o carro na oficina,
+
+123
+00:06:21.239 --> 00:06:26.549
+Aí nessa oficina troca-se algumas peças e também é feito lá o serviço de manutenção,
+
+124
+00:06:26.559 --> 00:06:26.850
+né?
+
+125
+00:06:27.220 --> 00:06:31.910
+A troca de peças é sujeita ao ICMS porque as peças são mercadorias,
+
+126
+00:06:31.920 --> 00:06:36.869
+o serviço é sujeito ao ISS porque é uma prestação de serviço,
+
+127
+00:06:36.880 --> 00:06:38.109
+um serviço de manutenção.
+
+128
+00:06:38.119 --> 00:06:42.429
+Então essa operação lá do carro na na oficina,
+
+129
+00:06:42.440 --> 00:06:46.890
+ela é fato tirador de dois impostos do ICMS e do ISS, né?
+
+130
+00:06:47.190 --> 00:06:48.450
+Então pra isso pessoal,
+
+131
+00:06:48.459 --> 00:06:50.859
+pode ser feito a emissão de uma nota que a gente chama de
+
+132
+00:06:50.869 --> 00:06:56.760
+nota conjugada essa nota conjugada ela tem serviço e ela tem mercadoria,
+
+133
+00:06:56.769 --> 00:06:56.880
+tá?
+
+134
+00:06:56.890 --> 00:06:58.179
+É uma nota fiscal eletrônica?
+
+135
+00:06:58.190 --> 00:07:01.559
+O modelo cinquenta e cinco tem ali a descrição dos produtos,
+
+136
+00:07:01.570 --> 00:07:05.119
+mas tem também os serviços ali em um único documento.
+
+137
+00:07:05.130 --> 00:07:08.920
+Tá bom a n f e permite que sejam emitidas notas conjugadas,
+
+138
+00:07:08.929 --> 00:07:12.359
+tá que tem i c m s e itens também com i s s.
+
+139
+00:07:12.369 --> 00:07:13.100
+Tá bom,
+
+140
+00:07:13.510 --> 00:07:16.760
+Mas a legislação do I s S tem que ser vista na esfera municipal, né?
+
+141
+00:07:16.769 --> 00:07:20.209
+Então você aí tem que procurar aí na prefeitura do seu município.
+
+142
+00:07:20.220 --> 00:07:22.519
+Se você tem uma operação desse tipo, né?
+
+143
+00:07:22.529 --> 00:07:24.920
+Que incide serviço e produto,
+
+144
+00:07:24.929 --> 00:07:28.000
+você tem que procurar aí a secretaria de Finanças do seu município,
+
+145
+00:07:28.010 --> 00:07:31.640
+pra gente ver se é autorizado a emissão desse tipo de nota.
+
+146
+00:07:31.649 --> 00:07:32.140
+Tá,
+
+147
+00:07:32.829 --> 00:07:36.679
+então como o I s S é de competência da prefeitura municipal.
+
+148
+00:07:36.690 --> 00:07:39.339
+Você tem que ver isso com a prefeitura do seu município.
+
+149
+00:07:39.350 --> 00:07:43.640
+A N F e Nota Fiscal eletrônica modelo cinquenta e cinco dá o suporte pra isso.
+
+150
+00:07:43.649 --> 00:07:46.920
+Tem os campos pra você fazer isso lá pra fazer esse tipo de nota? Tá?
+
+151
+00:07:46.929 --> 00:07:49.079
+Mas verifiquemos com a prefeitura municipal,
+
+152
+00:07:49.089 --> 00:07:52.279
+que tem a competência tributária sobre o serviço?
+
+153
+00:07:52.290 --> 00:07:52.899
+Tá bom?

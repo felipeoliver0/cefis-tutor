@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4517,
+    "title": "ECD 2026",
+    "subtitle": "curso prático",
+    "summary": "Neste curso \"ECD 2026\" você irá aprender na prática tudo o que precisa saber sobre ECD 2026. Aprenderá os fundamentos e a prática de obrigatoriedade de apresentação, estruturação dos blocos da ECD e cruzamentos para auditoria fiscal e vários outros temas para você que deseja se atualizar ou aprender tudo sobre ECD 2026.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/5992f4d5-9cf5-44fb-b2a9-e0436991d6ff-thumbnail.png",
+    "goals": [
+      "O objetivo do curso \"ECD 2026: curso prático\" é a capacitação para a aplicação prática da Escrituração Contábil Digital (ECD), abrangendo desde a legislação e obrigatoriedades até o preenchimento de blocos, transmissão de dados e conformidade fiscal no âmbito do SPED."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 22020,
+    "keywords": "ecdc;escrituração;fiscal",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 60,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 114,
+    "averageRating": 9.61,
+    "practiceAverage": 9.6,
+    "trailer": {
+      "id": "6801f599-663a-448a-a03d-112e27bdf8c1",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6801f599-663a-448a-a03d-112e27bdf8c1/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6801f599-663a-448a-a03d-112e27bdf8c1/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6801f599-663a-448a-a03d-112e27bdf8c1/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6801f599-663a-448a-a03d-112e27bdf8c1/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-05-07T08:58:10.000Z",
+      "updatedAt": "2026-05-07T08:58:10.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-05-07T11:28:04.000Z",
+    "recordedAt": "2026-04-28T00:00:00.000Z",
+    "createdAt": "2026-05-06T23:39:45.000Z"
+  }
+}

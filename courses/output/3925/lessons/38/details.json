@@ -1,0 +1,33 @@
+{
+  "id": 480084,
+  "title": "16 dica",
+  "position": 38,
+  "duration": 102,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0149418e-7b19-4744-ba09-1c004830c512/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0149418e-7b19-4744-ba09-1c004830c512/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0149418e-7b19-4744-ba09-1c004830c512/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0149418e-7b19-4744-ba09-1c004830c512/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0149418e-7b19-4744-ba09-1c004830c512/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

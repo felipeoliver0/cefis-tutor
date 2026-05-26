@@ -1,0 +1,33 @@
+{
+  "id": 458012,
+  "title": "Divulgação da remuneração",
+  "position": 143,
+  "duration": 21,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b2cdf405-95ea-40d0-98ab-8782a070215e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b2cdf405-95ea-40d0-98ab-8782a070215e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b2cdf405-95ea-40d0-98ab-8782a070215e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b2cdf405-95ea-40d0-98ab-8782a070215e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b2cdf405-95ea-40d0-98ab-8782a070215e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

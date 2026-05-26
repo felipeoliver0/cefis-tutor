@@ -1,0 +1,33 @@
+{
+  "id": 452141,
+  "title": "Obrigatoriedade para CST e CSONS",
+  "position": 7,
+  "duration": 180,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f7cf2ee3-4471-415c-8111-bde5ce3f3779/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7cf2ee3-4471-415c-8111-bde5ce3f3779/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7cf2ee3-4471-415c-8111-bde5ce3f3779/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7cf2ee3-4471-415c-8111-bde5ce3f3779/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f7cf2ee3-4471-415c-8111-bde5ce3f3779/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

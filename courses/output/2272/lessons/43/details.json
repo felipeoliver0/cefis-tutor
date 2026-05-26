@@ -1,0 +1,33 @@
+{
+  "id": 464268,
+  "title": "Permuta na base de cálculo",
+  "position": 43,
+  "duration": 268,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c2dcd43d-5010-4e81-a90e-5d09b1338879/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2dcd43d-5010-4e81-a90e-5d09b1338879/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2dcd43d-5010-4e81-a90e-5d09b1338879/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2dcd43d-5010-4e81-a90e-5d09b1338879/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c2dcd43d-5010-4e81-a90e-5d09b1338879/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

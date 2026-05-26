@@ -1,0 +1,33 @@
+{
+  "id": 478869,
+  "title": "Dedução do imposto apurado",
+  "position": 18,
+  "duration": 568,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b5a6b552-886d-4475-9b97-dafd47fda761/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5a6b552-886d-4475-9b97-dafd47fda761/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5a6b552-886d-4475-9b97-dafd47fda761/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5a6b552-886d-4475-9b97-dafd47fda761/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b5a6b552-886d-4475-9b97-dafd47fda761/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

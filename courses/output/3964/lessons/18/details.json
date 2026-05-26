@@ -1,0 +1,33 @@
+{
+  "id": 480842,
+  "title": "Produtos e Serviços financeiros Parte 3",
+  "position": 18,
+  "duration": 391,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c5ce86fb-1025-488e-974e-c1b4ac8977ac/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5ce86fb-1025-488e-974e-c1b4ac8977ac/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5ce86fb-1025-488e-974e-c1b4ac8977ac/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5ce86fb-1025-488e-974e-c1b4ac8977ac/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c5ce86fb-1025-488e-974e-c1b4ac8977ac/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

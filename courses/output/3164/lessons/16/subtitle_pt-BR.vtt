@@ -1,0 +1,661 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.800
+então, pessoal? Como que fica isso aqui, né Eu trouxe como que fica isso aqui,
+
+2
+00:00:05.650 --> 00:00:09.020
+na prática, lá no arquivo digital da F D, né?
+
+3
+00:00:09.039 --> 00:00:14.399
+Então fica aqui Abertura do bloco tem aquele caractere lá da barra vertical, né?
+
+4
+00:00:15.020 --> 00:00:21.750
+C cem não C zero zero um fechou Então isso aqui é o primeiro campo deste registro?
+
+5
+00:00:21.760 --> 00:00:23.389
+Tá, e por aí vai.
+
+6
+00:00:23.399 --> 00:00:26.549
+Então aqui eu tenho a nota fiscal um E aqui
+
+7
+00:00:26.559 --> 00:00:29.790
+eu tenho a nota fiscal dois nessa nota fiscal.
+
+8
+00:00:29.799 --> 00:00:31.590
+Um. Eu tenho somente um item, né?
+
+9
+00:00:31.600 --> 00:00:38.590
+Aparece o item um lá tá e vai lá pro cento e noventa na nota fiscal Eh dois eu tenho,
+
+10
+00:00:38.599 --> 00:00:42.669
+lanço aqui a nota fiscal, Essa nota vocês já tão vendo que tem três itens, né?
+
+11
+00:00:42.680 --> 00:00:44.450
+E tem um tem o dois e tem três
+
+12
+00:00:44.889 --> 00:00:49.819
+aí que eu tenho o cento e noventa e a totalização por CST c x p A. Líquido, né?
+
+13
+00:00:49.830 --> 00:00:55.680
+Vocês vão ver que que eu tenho itens com CST zero zero e itens com CST sessenta, né?
+
+14
+00:00:56.340 --> 00:00:57.950
+E o CFOP também é diferente?
+
+15
+00:00:57.959 --> 00:01:03.110
+Então eh esses são os itens, o registro analítico desses três itens, né?
+
+16
+00:01:03.119 --> 00:01:09.910
+Só sobre esses dois aqui, okay e por fim, o encerramento do bloco C Tá por que?
+
+17
+00:01:09.919 --> 00:01:14.339
+Que aqui eu tenho três E aqui eu só tenho dois Porque esse o c
+
+18
+00:01:14.349 --> 00:01:20.449
+cento e setenta ele é cada item da nota vai gerar um registro cento e setenta
+
+19
+00:01:21.029 --> 00:01:24.639
+o sessenta e noventa. Ele é um agrupado por CFOP CST.
+
+20
+00:01:24.650 --> 00:01:31.660
+Alíquota Então nesses aqui dois desses itens eles vão ter o mesmo CST. CFOP, né?
+
+21
+00:01:31.669 --> 00:01:38.839
+E outro deles vai ter esse CFOP c eh CST sessenta e CFOP cinco quatro zero cinco.
+
+22
+00:01:38.849 --> 00:01:41.309
+Esse aí foi eh já foi.
+
+23
+00:01:41.319 --> 00:01:46.919
+Eh su retenção por substituição tributária retido eh anteriormente CST sessenta,
+
+24
+00:01:46.930 --> 00:01:47.239
+né?
+
+25
+00:01:47.250 --> 00:01:48.139
+Então
+
+26
+00:01:48.639 --> 00:01:54.169
+é assim que é totalizado. Tá aqui na CFIS pessoal nós temos um curso de CST.
+
+27
+00:01:54.180 --> 00:01:57.129
+Se você ficar mais curioso aí pra saber desse CST,
+
+28
+00:01:57.139 --> 00:01:59.050
+que é código de situação tributária,
+
+29
+00:01:59.059 --> 00:02:03.910
+você pode procurar o nosso curso lá de CST pra ver isso aqui com mais detalhes tá.
+
+30
+00:02:03.980 --> 00:02:08.550
+E por fim, é claro o encerramento do bloco C fechou o bloco C aí tá bom.
+
+31
+00:02:08.559 --> 00:02:16.149
+Então esse é um exemplo de como que fica o arquivo T x T da F d ICMS P i EFD Contribuições,
+
+32
+00:02:16.160 --> 00:02:16.229
+né?
+
+33
+00:02:16.240 --> 00:02:19.250
+Lançando aí os campos de informação! Tá bom,
+
+34
+00:02:21.149 --> 00:02:24.559
+Então pessoal, a gente falou dos blocos e dos registros, né?
+
+35
+00:02:24.570 --> 00:02:26.740
+Então, chegou a hora de nós falarmos dos campos, né?
+
+36
+00:02:26.750 --> 00:02:32.639
+O campo é a última unidade de informação presente ali no Arquivo Digital? Tá? Então?
+
+37
+00:02:32.649 --> 00:02:37.119
+Eu trouxe aqui, por exemplo, uma na na tabela lá dos participantes, né?
+
+38
+00:02:37.130 --> 00:02:40.520
+A primeira posição eu tenho o registro.
+
+39
+00:02:40.529 --> 00:02:46.039
+A segunda o nome terceira C N, PJ quatro Inscrição estadual, né?
+
+40
+00:02:46.050 --> 00:02:50.440
+Então, vocês vê que essa primeira empresa aqui oh registro, sempre vai ser o mesmo,
+
+41
+00:02:50.449 --> 00:02:50.779
+né?
+
+42
+00:02:51.360 --> 00:02:56.990
+Nome José Silva irmãos C N, PJ Aquele lá, a inscrição estadual, esse outro aqui.
+
+43
+00:02:57.000 --> 00:03:03.460
+Maurício Portugal, né? Ele não tem C n, PJ Lançou aqui, c! Eh inscrição estadual?
+
+44
+00:03:03.470 --> 00:03:08.169
+Muito Provavelmente né? Maurício Portugal Ele seja um produtor rural, que tenha C.
+
+45
+00:03:08.179 --> 00:03:09.309
+PF, tá,
+
+46
+00:03:09.690 --> 00:03:14.259
+E aqui nós temos também essa outra empresa que é a Armando Silva M e ele tem o C. N.
+
+47
+00:03:14.270 --> 00:03:17.619
+PJ Vocês estão vendo que aqui encerrou e terminou
+
+48
+00:03:17.630 --> 00:03:20.580
+demonstrando que ele não tem a inscrição estadual.
+
+49
+00:03:20.589 --> 00:03:25.119
+Tá? Porque muito provavelmente é um prestador de serviço. Tá? Então é assim
+
+50
+00:03:25.360 --> 00:03:30.649
+que os campos de informação são dispostos dentro do registro, né?
+
+51
+00:03:30.660 --> 00:03:34.529
+Então, eu tenho o registro mil quinhentos e cinquenta aqui e aqui,
+
+52
+00:03:34.539 --> 00:03:38.089
+as informações dispostas dentro desse registro.
+
+53
+00:03:38.100 --> 00:03:43.149
+Tá assim que é organizado o arquivo, né? A gente viu ali partindo do bloco, né?
+
+54
+00:03:43.160 --> 00:03:47.289
+Do bloco, nós fomos pro registro, vimos ali a organização hierárquica,
+
+55
+00:03:47.300 --> 00:03:49.490
+do registro tá e do registro.
+
+56
+00:03:49.500 --> 00:03:53.389
+Nós passamos agora para os campos de informação. Tá bom?
+
+57
+00:03:54.649 --> 00:03:59.160
+Então pessoal, a gente trouxe aqui pra fazer uma parte mais prática, né?
+
+58
+00:03:59.169 --> 00:04:04.679
+A gente pegou um registro lá da F D, né? O registro zero zero zero
+
+59
+00:04:05.460 --> 00:04:08.789
+Pegamos isso lá no manual, no Guia Prático,
+
+60
+00:04:08.800 --> 00:04:12.449
+e trouxemos aqui pra ver como que fica o registro.
+
+61
+00:04:12.460 --> 00:04:13.229
+Partindo aqui,
+
+62
+00:04:13.240 --> 00:04:18.428
+que a gente vai ver a especificação do registro e como fica ali no final das contas?
+
+63
+00:04:18.440 --> 00:04:19.570
+Tá bom, então vamos lá.
+
+64
+00:04:20.468 --> 00:04:26.118
+Então o primeiro eh campo número um, campo número um do registro.
+
+65
+00:04:26.128 --> 00:04:31.299
+É um texto fixo contendo uma sequência de quatro zeros. Tá lá! Zero zero zero zero tá?
+
+66
+00:04:33.000 --> 00:04:36.589
+O segundo campo é código da versão, né?
+
+67
+00:04:36.600 --> 00:04:41.410
+Código da versão do layout conforme tabela indicada. Versão um Tá?
+
+68
+00:04:41.420 --> 00:04:46.269
+Então a gente pode ver aqui oh, que é um campo obrigatório? Tá?
+
+69
+00:04:46.279 --> 00:04:49.369
+Daqui a pouco, nós vamos destrinchar essa coluna pra vocês.
+
+70
+00:04:49.380 --> 00:04:52.250
+Por enquanto vocês precisam ver que ele é obrigatório.
+
+71
+00:04:52.260 --> 00:04:55.230
+Tá do tamanho de três Então o campo numérico
+
+72
+00:04:55.850 --> 00:04:58.880
+com três posições oh zero zero um tá
+
+73
+00:05:00.239 --> 00:05:05.130
+vamos avançando aqui. Código de finalidade qual Que é a finalidade desse arquivo?
+
+74
+00:05:05.140 --> 00:05:07.959
+É a remessa do arquivo original ou a remessa
+
+75
+00:05:07.970 --> 00:05:09.890
+do arquivo substituto mais pra frente no curso?
+
+76
+00:05:09.899 --> 00:05:12.329
+Nós vamos tratar em detalhes da retificação.
+
+77
+00:05:12.339 --> 00:05:14.489
+Vocês vão ver isso aqui com mais detalhes? Tá.
+
+78
+00:05:14.500 --> 00:05:17.450
+Mas, por enquanto, a gente vai ver que é um arquivo substituto, né?
+
+79
+00:05:17.459 --> 00:05:18.970
+Tá corrigindo alguma coisa.
+
+80
+00:05:18.980 --> 00:05:22.609
+Não é o primeiro arquivo de escrituração que o contribuinte manda pra esse período?
+
+81
+00:05:22.619 --> 00:05:24.149
+Tá então,
+
+82
+00:05:24.459 --> 00:05:27.670
+tipo numérico, né? Só pode ser zero ou um.
+
+83
+00:05:27.679 --> 00:05:32.209
+Tá com tamanho de um apresentação obrigatória? Tá
+
+84
+00:05:33.160 --> 00:05:34.570
+data de início, né?
+
+85
+00:05:34.579 --> 00:05:39.769
+Data inicial das informações contidas no arquivo, essa aqui é de zero um zero!
+
+86
+00:05:39.779 --> 00:05:40.809
+Um vinte e três, né?
+
+87
+00:05:40.820 --> 00:05:44.929
+Dia com duas posições, mês com duas posições e ano com quatro posições.
+
+88
+00:05:44.940 --> 00:05:51.489
+Então iniciou em primeiro de vinte e três E terminou eh trinta e um do doze,
+
+89
+00:05:51.500 --> 00:05:51.940
+vinte e três.
+
+90
+00:05:51.950 --> 00:05:54.529
+Então esse arquivo aqui vai ser de informações de
+
+91
+00:05:54.540 --> 00:05:56.869
+dezembro de dois mil e vinte e três Okay,
+
+92
+00:05:56.880 --> 00:05:58.390
+vamos dando sequência aí!
+
+93
+00:05:59.850 --> 00:06:06.540
+Nome da entidade zero seis nome da entidade Empresa teste tá é o nome da empresa Okay.
+
+94
+00:06:06.549 --> 00:06:12.220
+Então ele é caractere até cem. Esse aqui tem tamanho variável.
+
+95
+00:06:12.230 --> 00:06:16.720
+Vocês tão vendo ele que até cem poderia ser maior ou menor, né?
+
+96
+00:06:16.730 --> 00:06:18.640
+Até cem caracteres okay
+
+97
+00:06:19.339 --> 00:06:21.809
+e numérico c caracter, beleza
+
+98
+00:06:22.690 --> 00:06:25.239
+até cem posições obrigatório.
+
+99
+00:06:26.329 --> 00:06:29.019
+Agora a gente tem o quê? C n PJ, né?
+
+100
+00:06:29.029 --> 00:06:37.579
+Número de inscrição da entidade no C N PJ, tá é um campo numérico de catorze posições,
+
+101
+00:06:37.589 --> 00:06:41.339
+Tá o C n, PJ e o C PF.
+
+102
+00:06:41.350 --> 00:06:46.760
+Eles estão com o C ali, né? Nós vamos ver o que isso significa ali. Daqui a pouco tá,
+
+103
+00:06:47.000 --> 00:06:51.769
+mas vocês vão ver que o que tá com a seta preta aqui, oh, é porque não tem.
+
+104
+00:06:51.779 --> 00:06:57.790
+Então não tem c PF. Por quê? Ou é uma empresa? C n, PJ ou, é um produtor rural?
+
+105
+00:06:57.799 --> 00:06:59.609
+C PF Ali, fazendo a sua declaração, né?
+
+106
+00:06:59.619 --> 00:07:02.670
+E não tem os dois, é um ou outro, né,
+
+107
+00:07:02.679 --> 00:07:04.970
+A gente tem que lembrar que isso aqui é referente a um contribuinte.
+
+108
+00:07:04.980 --> 00:07:06.880
+O contribuinte pode ser um condom de pessoa física
+
+109
+00:07:06.890 --> 00:07:09.459
+ou contribuinte de pessoa jurídica Tá pessoa jurídica.
+
+110
+00:07:09.470 --> 00:07:14.309
+C n, PJ, pessoa física c PF, nunca vai ter os dois, sempre vai ter um ou outro, né?
+
+111
+00:07:15.589 --> 00:07:19.679
+Sigla da unidade Federada Acre Unidade federada aqui dessa
+
+112
+00:07:19.690 --> 00:07:23.420
+empresa teste ela do Acre tá com duas posições
+
+113
+00:07:24.059 --> 00:07:27.950
+no carácter inscrição estadual da entidade, né?
+
+114
+00:07:27.959 --> 00:07:30.989
+Inscrição estadual, Código do Município, né?
+
+115
+00:07:31.000 --> 00:07:35.890
+Então, o Código do município de acordo da tabela do I B G e é um código do município,
+
+116
+00:07:35.899 --> 00:07:39.029
+nós temos aqui Inscrição municipal, veio com a seta preta aqui.
+
+117
+00:07:39.040 --> 00:07:43.390
+Então não tem inscrição municipal, Tá? Não tem inscrição Suframa? Tá?
+
+118
+00:07:43.399 --> 00:07:44.690
+Veio com seta preta também
+
+119
+00:07:45.529 --> 00:07:52.980
+eh o indicador de perfil eh, ele é do perfil A, B ou C tá, essa aqui é do perfil,
+
+120
+00:07:52.989 --> 00:07:57.059
+A gente vai ver um pouquinho sobre o perfil de entrega lá na frente, tá,
+
+121
+00:07:57.070 --> 00:08:03.140
+Mas o perfil a é o perfil mais completo tá e o indicador de atividade.
+
+122
+00:08:03.149 --> 00:08:05.660
+Se ele é um industrial ou equiparado industrial ou
+
+123
+00:08:05.670 --> 00:08:08.899
+outros tá Então esse aqui é outro contribuinte.
+
+124
+00:08:08.910 --> 00:08:12.619
+Pode ser uma empresa comercia, eh comercial atacadista, por exemplo, Tá,
+
+125
+00:08:12.630 --> 00:08:14.760
+Então é assim que
+
+126
+00:08:15.239 --> 00:08:20.829
+está no manual da da F D nosso guia prático E o
+
+127
+00:08:20.839 --> 00:08:23.529
+registro fica desse jeito que eu te mostrei aqui em cima.
+
+128
+00:08:23.540 --> 00:08:29.089
+Agora tá é assim, que da da especificação chega lá no registro, tá bom.
+
+129
+00:08:29.100 --> 00:08:34.308
+Então esses são os campos do registro zero, zero, zero zero Tá bom
+
+130
+00:08:35.390 --> 00:08:39.239
+pessoal, vamos em frente. Então eu trouxe aqui pra encerrar esse esse bloco.
+
+131
+00:08:39.250 --> 00:08:42.469
+Tá o formato de um documento eletrônico.
+
+132
+00:08:42.479 --> 00:08:45.479
+Isso aqui vai ficar no material, não vou ficar passando aqui porque eh.
+
+133
+00:08:45.489 --> 00:08:47.119
+Não vale a pena muito!
+
+134
+00:08:47.130 --> 00:08:51.359
+Mas isso aqui é um arquivo completo de uma escrituração fiscal digital.
+
+135
+00:08:51.369 --> 00:08:55.140
+Vocês notam que inicia lá no registro zero zero zero zero ali, né?
+
+136
+00:08:55.150 --> 00:08:58.059
+O primeiro empresa test e tudo mais tá,
+
+137
+00:08:58.869 --> 00:08:59.960
+aí, vem aqui.
+
+138
+00:08:59.969 --> 00:09:05.200
+Tem aqui o cento e noventa das notas C cento e setenta, sessenta né,
+
+139
+00:09:05.210 --> 00:09:06.520
+das notas fiscais.
+
+140
+00:09:06.530 --> 00:09:09.750
+Vai, faz a apuração aqui e termina o arquivo aqui embaixo.
+
+141
+00:09:09.760 --> 00:09:12.599
+No nove nove nove nove, Tá Então esse aqui é o arquivo completo.
+
+142
+00:09:12.609 --> 00:09:15.880
+Fica no material pra gente ver como curiosidade que a gente precisa saber,
+
+143
+00:09:15.890 --> 00:09:17.859
+né que a gente vai fazer um curso de F d, um curso completo.
+
+144
+00:09:17.960 --> 00:09:21.309
+Esse não sabe como é que é um arquivo de F D, né? É assim, tá bom.
+
+145
+00:09:21.320 --> 00:09:24.409
+E depois disso aqui é claro que isso que é a parte das informações.
+
+146
+00:09:24.419 --> 00:09:26.169
+Depois ali vai a assinatura digital,
+
+147
+00:09:26.179 --> 00:09:28.530
+lá embaixo tá pra fazer a transmissão desse arquivo.
+
+148
+00:09:28.539 --> 00:09:35.559
+Mas isso seria mais ou menos assim que fica um arquivo da nossa F D do ICMS P I E da F D,
+
+149
+00:09:35.570 --> 00:09:36.989
+Contribuições, okay
+
+150
+00:09:39.640 --> 00:09:48.130
+pessoal e o formato do documento f DRF, né? O F D RF Ele é um arquivo x ML.
+
+151
+00:09:48.140 --> 00:09:52.669
+Então ele é igual ao dos outros documentos fiscais eletrônicos todos, né.
+
+152
+00:09:52.880 --> 00:09:56.150
+Então ele tem aqui um elemento raiz, né?
+
+153
+00:09:56.159 --> 00:09:59.890
+E esse elemento aqui tem eh um lote de eventos,
+
+154
+00:09:59.900 --> 00:10:03.090
+tá e temos aqui a identificação do contribuinte, né?
+
+155
+00:10:03.099 --> 00:10:07.780
+O tipo de inscrição, o número de inscrição, temos aqui Por fim os eventos.
+
+156
+00:10:07.789 --> 00:10:10.409
+O contribuinte vai informar tá?
+
+157
+00:10:10.419 --> 00:10:12.409
+Então, eh os eventos aqui,
+
+158
+00:10:12.419 --> 00:10:13.960
+ele pode informar vocês tão vendo que nesse
+
+159
+00:10:13.969 --> 00:10:16.250
+lote aqui ele pode informar até cinquenta eventos.
+
+160
+00:10:16.260 --> 00:10:16.789
+Tá.
+
+161
+00:10:17.559 --> 00:10:22.530
+E aqui estão os eventos da RAF. Okay, Então, eh.
+
+162
+00:10:22.539 --> 00:10:29.530
+Seria mais ou menos o que os eventos eles são como se fossem os registros. Tá?
+
+163
+00:10:29.539 --> 00:10:33.549
+Então, eh, As informações vão estar aqui pra gente.
+
+164
+00:10:34.280 --> 00:10:38.570
+Eh ver direitinho. Nós vamos viver um evento de pagamento, pessoa, física.
+
+165
+00:10:38.580 --> 00:10:41.750
+Eu vou dar uma olhada nele aqui pra fazer um pouquinho mais prático. Vamos lá

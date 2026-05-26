@@ -1,0 +1,33 @@
+{
+  "id": 479361,
+  "title": "Termos e definições - parte 2",
+  "position": 12,
+  "duration": 592,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/908f85f4-3813-49f1-a109-d8735fb7c231/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/908f85f4-3813-49f1-a109-d8735fb7c231/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/908f85f4-3813-49f1-a109-d8735fb7c231/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/908f85f4-3813-49f1-a109-d8735fb7c231/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/908f85f4-3813-49f1-a109-d8735fb7c231/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

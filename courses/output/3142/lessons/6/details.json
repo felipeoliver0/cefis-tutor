@@ -1,0 +1,33 @@
+{
+  "id": 475296,
+  "title": "Filtros",
+  "position": 6,
+  "duration": 596,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/263d6e03-aa72-4d55-a5c5-34d8efb0c2ec/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/263d6e03-aa72-4d55-a5c5-34d8efb0c2ec/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/263d6e03-aa72-4d55-a5c5-34d8efb0c2ec/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/263d6e03-aa72-4d55-a5c5-34d8efb0c2ec/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/263d6e03-aa72-4d55-a5c5-34d8efb0c2ec/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

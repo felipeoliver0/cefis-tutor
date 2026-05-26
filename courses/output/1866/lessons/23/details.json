@@ -1,0 +1,33 @@
+{
+  "id": 457804,
+  "title": "Remuneração e recompensa",
+  "position": 23,
+  "duration": 54,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/995bc6f7-a87e-4fa8-bbed-bc13b24362ac/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/995bc6f7-a87e-4fa8-bbed-bc13b24362ac/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/995bc6f7-a87e-4fa8-bbed-bc13b24362ac/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/995bc6f7-a87e-4fa8-bbed-bc13b24362ac/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/995bc6f7-a87e-4fa8-bbed-bc13b24362ac/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

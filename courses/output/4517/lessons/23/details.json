@@ -1,0 +1,33 @@
+{
+  "id": 487932,
+  "title": "Transmissão, cancelamento e substituição da ECD - Parte 1",
+  "position": 23,
+  "duration": 572,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/779a4d6b-5b20-41bb-90d9-5e81065b9a5f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/779a4d6b-5b20-41bb-90d9-5e81065b9a5f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/779a4d6b-5b20-41bb-90d9-5e81065b9a5f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/779a4d6b-5b20-41bb-90d9-5e81065b9a5f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/779a4d6b-5b20-41bb-90d9-5e81065b9a5f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

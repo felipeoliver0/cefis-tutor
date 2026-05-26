@@ -1,0 +1,33 @@
+{
+  "id": 456662,
+  "title": "Comunicação digital",
+  "position": 17,
+  "duration": 168,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7da72204-00f0-4a31-b3a7-802722b778bd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7da72204-00f0-4a31-b3a7-802722b778bd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7da72204-00f0-4a31-b3a7-802722b778bd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7da72204-00f0-4a31-b3a7-802722b778bd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7da72204-00f0-4a31-b3a7-802722b778bd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

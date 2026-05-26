@@ -1,0 +1,757 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.400
+Situações especiais, prazo de entrega.
+
+3
+00:00:04.400 --> 00:00:09.880
+Aqui são as situações que nós comentamos, combinação de negócios,
+
+4
+00:00:09.880 --> 00:00:14.919
+ou seja, aqui nós estamos falando de fusão, cisão, incorporação, são situações especiais.
+
+5
+00:00:14.919 --> 00:00:19.780
+Vamos ver em que prazo e como nós temos que entregar a ECD.
+
+6
+00:00:19.780 --> 00:00:25.460
+Então, para situações especiais de cisão parcial ou incorporação,
+
+7
+00:00:25.460 --> 00:00:31.160
+se for incorporadora, são geradas duas escriturações.
+
+8
+00:00:31.160 --> 00:00:34.100
+Olha como faz todo sentido se a gente for analisar.
+
+9
+00:00:34.100 --> 00:00:39.380
+Escrituração 1, do início do ano-calendário ou data posterior,
+
+10
+00:00:39.380 --> 00:00:43.820
+caso o contribuinte tenha iniciado suas atividades no próprio ano-calendário,
+
+11
+00:00:43.820 --> 00:00:47.880
+vale essa data, até a data da situação especial.
+
+12
+00:00:47.880 --> 00:00:51.820
+Perfeito. Do início até a data, entrega 1.
+
+13
+00:00:51.820 --> 00:00:55.259
+No caso de cisão, será informado no código 1,
+
+14
+00:00:55.259 --> 00:00:57.899
+cisão, lá na página inicial que eu vou mostrar,
+
+15
+00:00:57.899 --> 00:01:01.539
+no campo indicador de situação especial do registro 0.
+
+16
+00:01:01.539 --> 00:01:06.879
+No caso de incorporação, será informado o código 3,
+
+17
+00:01:06.879 --> 00:01:10.840
+incorporação, no campo indicador de situação especial do registro 0.
+
+18
+00:01:10.840 --> 00:01:13.120
+Eu vou mostrar já já quando eu abrir as abas, tá?
+
+19
+00:01:13.120 --> 00:01:15.280
+Então é importante que vocês saibam disso.
+
+20
+00:01:15.280 --> 00:01:20.579
+O campo indicador de situação do início do período do registro 0
+
+21
+00:01:20.579 --> 00:01:24.359
+será preenchido com o código 0, normal. Perfeito?
+
+22
+00:01:24.359 --> 00:01:25.000
+Então é um detalhe.
+
+23
+00:01:25.000 --> 00:01:28.379
+Passo a passo aí, prático para vocês, se tiverem essas situações,
+
+24
+00:01:28.379 --> 00:01:32.040
+como que vocês têm que proceder, tá? Prático, um a um.
+
+25
+00:01:32.040 --> 00:01:38.980
+A segunda escrituração vai ser da data da situação especial até o final do ano.
+
+26
+00:01:38.980 --> 00:01:41.879
+Somando as duas, né? Fecha o ano completo.
+
+27
+00:01:41.879 --> 00:01:46.560
+Nesse arquivo não há situação especial a ser informada, porque é uma nova, né?
+
+28
+00:01:46.560 --> 00:01:50.760
+O campo indicador de situação especial não será preenchido, deixa em branco.
+
+29
+00:01:50.760 --> 00:01:54.659
+Por outro lado, o campo indicador de situação no início do período,
+
+30
+00:01:54.659 --> 00:01:58.400
+será preenchido com código 02.
+
+31
+00:01:58.560 --> 00:02:05.200
+Resultante, decisão, fusão ou remanescente de cisão ou realizou incorporação.
+
+32
+00:02:05.200 --> 00:02:06.040
+Entenderam aí?
+
+33
+00:02:06.040 --> 00:02:06.840
+Passo a passo?
+
+34
+00:02:06.840 --> 00:02:08.039
+Tranquilo isso aqui.
+
+35
+00:02:08.039 --> 00:02:11.280
+Lá no início da declaração nós temos que fazer, tá?
+
+36
+00:02:11.879 --> 00:02:13.120
+Situação 02.
+
+37
+00:02:13.120 --> 00:02:14.780
+Vamos por exemplo prático.
+
+38
+00:02:14.780 --> 00:02:19.960
+Uma empresa iniciou sua atividade em 15 de março de 2025.
+
+39
+00:02:19.960 --> 00:02:24.659
+E ocorreu um evento de situação especial, uma cisão, no dia PGN.
+
+40
+00:02:24.659 --> 00:02:29.759
+28 de junho de 2025, e a empresa prosseguiu as atividades.
+
+41
+00:02:30.039 --> 00:02:33.860
+Foi uma cisão parcial, uma parte foi, uma parte ficou.
+
+42
+00:02:34.159 --> 00:02:38.180
+Muito bem, duas escriturações de ECD têm que ser entregues.
+
+43
+00:02:38.180 --> 00:02:44.520
+A primeira eu vou entregar de 15 de março, quando ela nasceu, até o dia 28 do 6.
+
+44
+00:02:44.520 --> 00:02:55.659
+A data limite para entrega desta ECD será o último dia útil do mês subsequente ao ato,
+
+45
+00:02:55.699 --> 00:03:00.740
+subsequente ao ato, ou seja, o mês de julho, porque ocorreu em junho,
+
+46
+00:03:00.740 --> 00:03:05.199
+a gente chama de fato gerador, ocorreu em junho, eu entrego em julho.
+
+47
+00:03:05.740 --> 00:03:11.379
+O campo situação especial do registro zero será preenchido com o código 1, cisão.
+
+48
+00:03:11.939 --> 00:03:14.500
+E o campo indicador de situação do início do percurso,
+
+49
+00:03:14.520 --> 00:03:17.280
+do período, será preenchido com o código 1, abertura.
+
+50
+00:03:17.699 --> 00:03:25.319
+Perfeito? Então, a escrituração A2 vai do dia 29 do 6 até o resto do ano, 31 do 12.
+
+51
+00:03:26.080 --> 00:03:30.479
+Data limite para entrega será o último dia do mês de junho normal,
+
+52
+00:03:31.020 --> 00:03:34.080
+porque é um ano normal, começou do mês 6 e vai até junho.
+
+53
+00:03:34.439 --> 00:03:38.560
+O campo indicador de situação especial do registro zero não será preenchido,
+
+54
+00:03:39.080 --> 00:03:43.039
+deixar em branco, e o campo indicador de situação no início do período
+
+55
+00:03:43.039 --> 00:03:44.500
+será preenchido com o código 2.
+
+56
+00:03:44.520 --> 00:03:46.000
+Resultante de cisão.
+
+57
+00:03:46.780 --> 00:03:48.879
+Entendeu? Então, deu toda a amarração aí.
+
+58
+00:03:48.979 --> 00:03:51.699
+Você vê que não é difícil, né? Deu toda a amarração.
+
+59
+00:03:52.479 --> 00:03:53.080
+Observação.
+
+60
+00:03:53.780 --> 00:03:57.900
+A exceção para esses casos, cisão parcial ou incorporação,
+
+61
+00:03:58.379 --> 00:04:03.639
+quando é incorporadora, ocorre se a data da situação especial
+
+62
+00:04:03.639 --> 00:04:07.000
+ocorrer no último dia do ano, que ninguém merece, né?
+
+63
+00:04:07.419 --> 00:04:10.280
+Fazer uma transação dessa no dia 31 do 12, né?
+
+64
+00:04:10.539 --> 00:04:13.460
+Nesse caso, será gerada apenas uma escrituração
+
+65
+00:04:13.460 --> 00:04:19.160
+com data de 1 do 1 a 31 do 12 e a situação especial informada em 31 do 12.
+
+66
+00:04:19.540 --> 00:04:20.019
+Perfeito?
+
+67
+00:04:20.819 --> 00:04:23.420
+Então, aí ninguém merece, né? Mas pode ter, pode ter.
+
+68
+00:04:23.980 --> 00:04:27.680
+Por exemplo, uma empresa iniciou a atividade em 15 de março.
+
+69
+00:04:28.579 --> 00:04:31.839
+Ocorreu um evento de cisão em 31 do 12 de 2025.
+
+70
+00:04:32.300 --> 00:04:35.360
+E a empresa prosseguiu as atividades, foi uma cisão parcial.
+
+71
+00:04:36.000 --> 00:04:39.480
+Uma escrituração deve ser entregue de 15 de março a 31 do 12.
+
+72
+00:04:39.759 --> 00:04:43.300
+A data limite para entrega será o último dia do mês de janeiro.
+
+73
+00:04:43.779 --> 00:04:48.379
+Percebam-se, no último dia útil do mês subsequente é o fato gerador.
+
+74
+00:04:49.000 --> 00:04:51.860
+O fato gerador foi 31 do 12, perfeito?
+
+75
+00:04:52.560 --> 00:04:56.240
+Então, eu entrego em janeiro. Não é em julho, não. Em junho, não.
+
+76
+00:04:57.000 --> 00:04:59.959
+O campo indicador de situação especial no registro 0
+
+77
+00:04:59.959 --> 00:05:02.500
+será preenchido com o código 1, cisão.
+
+78
+00:05:03.060 --> 00:05:05.480
+E o campo indicador de situação do início do período
+
+79
+00:05:05.480 --> 00:05:07.740
+será preenchido com o código 1, abertura.
+
+80
+00:05:08.220 --> 00:05:08.639
+Perfeito?
+
+81
+00:05:08.639 --> 00:05:12.899
+Então, ficamos aí na parte prática, nesses exemplos,
+
+82
+00:05:12.899 --> 00:05:16.560
+que ajudam muito, no caso, se vocês tiverem alguma dúvida,
+
+83
+00:05:16.680 --> 00:05:20.540
+vocês consultarem esse material aí que temos aí detalhando.
+
+84
+00:05:21.180 --> 00:05:26.500
+Eu coloco bem detalhado justamente para facilitar o entendimento de vocês aí.
+
+85
+00:05:27.040 --> 00:05:27.519
+Perfeito?
+
+86
+00:05:28.120 --> 00:05:30.279
+Então, são situações, né?
+
+87
+00:05:31.139 --> 00:05:32.540
+Fusão, cisão e etc.
+
+88
+00:05:32.959 --> 00:05:34.379
+E no caso de encerramento?
+
+89
+00:05:34.379 --> 00:05:39.379
+Caso a situação especial ocasione a extinção da pessoa jurídica,
+
+90
+00:05:39.939 --> 00:05:42.819
+incorporação, no caso de incorporada ou cisão,
+
+91
+00:05:42.899 --> 00:05:44.060
+total ou fusão,
+
+92
+00:05:44.740 --> 00:05:48.639
+só haverá escrituração do início do ano-calendário
+
+93
+00:05:48.639 --> 00:05:52.040
+ou data posterior, caso o contribuinte tenha iniciado
+
+94
+00:05:52.040 --> 00:05:54.720
+suas atividades no próprio ano-calendário,
+
+95
+00:05:55.279 --> 00:05:57.500
+até a data da situação especial.
+
+96
+00:05:57.600 --> 00:05:59.100
+Uma só, porque fechou ali, né?
+
+97
+00:05:59.660 --> 00:06:00.839
+Então, nós temos, por exemplo,
+
+98
+00:06:01.420 --> 00:06:05.560
+iniciou a atividade em 15 de março e ocorreu um evento de fusão em 28 de junho.
+
+99
+00:06:05.560 --> 00:06:08.480
+28 de junho, a empresa desapareceu.
+
+100
+00:06:08.980 --> 00:06:12.720
+Uma escrituração deve ser entregue de 15 de março até 28 de junho.
+
+101
+00:06:12.959 --> 00:06:17.519
+E a data limite vai ser o último dia útil do mês subsequente.
+
+102
+00:06:17.620 --> 00:06:21.360
+Como foi junho, eu vou entregar até o último dia de julho.
+
+103
+00:06:22.319 --> 00:06:26.779
+Então, na ECD, todos esses eventos eu sempre vou entregar
+
+104
+00:06:26.779 --> 00:06:29.560
+no último dia útil do mês seguinte.
+
+105
+00:06:30.300 --> 00:06:33.980
+Na ECF, vai ser no terceiro mês seguinte, tá?
+
+106
+00:06:33.980 --> 00:06:36.759
+Essa é a diferença da ECD para a ECF.
+
+107
+00:06:37.379 --> 00:06:42.459
+Eu estou comentando na ECF porque essas duas demonstrações se sobrepõem.
+
+108
+00:06:43.040 --> 00:06:46.000
+E nós temos também aqui o curso gravado da ECF.
+
+109
+00:06:46.120 --> 00:06:48.680
+Então, para vocês fazerem os links entre elas, tá perfeito?
+
+110
+00:06:49.060 --> 00:06:52.560
+Então, a ECF é no terceiro mês subsequente ao fato gerador.
+
+111
+00:06:52.959 --> 00:06:57.000
+Aqui não, é no último dia útil do mês subsequente ao fato gerador, tá?
+
+112
+00:06:57.579 --> 00:06:59.259
+Ficou bem claro aqui para vocês.
+
+113
+00:06:59.920 --> 00:07:02.860
+O campo indicador de situação especial no registro zero,
+
+114
+00:07:02.860 --> 00:07:04.800
+que é o primeiro registro quando a gente cria uma ECD,
+
+115
+00:07:05.500 --> 00:07:07.779
+será preenchido com o código 2, fusão.
+
+116
+00:07:08.459 --> 00:07:11.420
+E o campo indicador de situação do início do período
+
+117
+00:07:11.420 --> 00:07:12.860
+será preenchido com o código 1.
+
+118
+00:07:12.899 --> 00:07:14.959
+1, que é a abertura, perfeito?
+
+119
+00:07:15.300 --> 00:07:19.339
+Aí fica fácil para vocês operacionalizar isso no dia a dia, né?
+
+120
+00:07:19.860 --> 00:07:23.100
+Que é exatamente esse o nosso objetivo aqui, tá?
+
+121
+00:07:23.720 --> 00:07:25.800
+Vamos aí aos outros exemplos aí.
+
+122
+00:07:26.120 --> 00:07:26.480
+Olha lá.
+
+123
+00:07:27.120 --> 00:07:31.060
+Havendo mais de um mês, não pode haver descontinuidade da sequência de meses.
+
+124
+00:07:31.100 --> 00:07:32.160
+Já comentamos, né?
+
+125
+00:07:33.100 --> 00:07:36.740
+Uma escrituração contábil, por exemplo, de janeiro a maio,
+
+126
+00:07:37.319 --> 00:07:39.579
+não pode estar faltando o mês de fevereiro.
+
+127
+00:07:39.720 --> 00:07:40.500
+Não tem como, né?
+
+128
+00:07:40.500 --> 00:07:42.019
+Isso é de janeiro a maio, né?
+
+129
+00:07:42.160 --> 00:07:42.399
+Então...
+
+130
+00:07:42.899 --> 00:07:45.620
+Mesmo que eu não tenha movimentação em fevereiro,
+
+131
+00:07:45.680 --> 00:07:47.399
+eu tenho saldos, perfeito?
+
+132
+00:07:48.079 --> 00:07:49.660
+Posso não ter movimentação no mês,
+
+133
+00:07:49.720 --> 00:07:51.980
+mas ela faz parte de janeiro a maio, perfeito?
+
+134
+00:07:52.500 --> 00:07:54.240
+E aqui, apuração trimestral.
+
+135
+00:07:54.379 --> 00:07:57.720
+Como eu disse a vocês, nós não temos contabilidade trimestral.
+
+136
+00:07:58.620 --> 00:07:59.560
+Contabilidade é anual.
+
+137
+00:07:59.800 --> 00:08:00.459
+Mas olha só.
+
+138
+00:08:01.319 --> 00:08:03.040
+Apuração trimestral do imposto de renda.
+
+139
+00:08:03.980 --> 00:08:04.379
+Apuração.
+
+140
+00:08:05.339 --> 00:08:06.800
+Respeitando os limites descritos,
+
+141
+00:08:06.980 --> 00:08:09.620
+ainda que a apuração do imposto de renda seja trimestral,
+
+142
+00:08:09.620 --> 00:08:11.439
+o livro pode ser anual.
+
+143
+00:08:11.860 --> 00:08:12.620
+A legislação...
+
+144
+00:08:12.980 --> 00:08:16.819
+Quando o imposto de renda obriga a elaboração e transcrição das demonstrações
+
+145
+00:08:16.819 --> 00:08:19.620
+na data do fato gerador do tributo.
+
+146
+00:08:20.660 --> 00:08:22.939
+Nada impede que no mesmo livro existam
+
+147
+00:08:22.939 --> 00:08:26.000
+quatro conjuntos de demonstrações trimestrais de anual.
+
+148
+00:08:26.639 --> 00:08:27.139
+Perfeito?
+
+149
+00:08:28.199 --> 00:08:30.079
+Contabilidade, 12 meses.
+
+150
+00:08:30.220 --> 00:08:30.720
+Anual.
+
+151
+00:08:31.319 --> 00:08:33.639
+Encerro no final de 12 meses.
+
+152
+00:08:34.100 --> 00:08:36.019
+Não necessariamente dezembro.
+
+153
+00:08:36.100 --> 00:08:38.220
+Como nós comentamos aqui, é contábil.
+
+154
+00:08:38.860 --> 00:08:40.740
+Pode ser em qualquer mês do ano
+
+155
+00:08:40.740 --> 00:08:42.879
+e a ICD já está preparada para você.
+
+156
+00:08:42.899 --> 00:08:44.740
+Fazer isso, tá?
+
+157
+00:08:45.419 --> 00:08:47.240
+Na ICF, diferentemente,
+
+158
+00:08:47.360 --> 00:08:49.879
+a ICF tem que ser de janeiro a dezembro,
+
+159
+00:08:50.159 --> 00:08:51.879
+que é o ano fiscal brasileiro.
+
+160
+00:08:52.500 --> 00:08:52.860
+Perfeito?
+
+161
+00:08:53.200 --> 00:08:55.379
+Então, a minha contabilidade que é anual,
+
+162
+00:08:55.539 --> 00:08:57.639
+o meu software transforma em trimestral
+
+163
+00:08:57.639 --> 00:08:58.940
+e o joga lá na ICF.
+
+164
+00:08:59.340 --> 00:09:00.200
+É assim que funciona.
+
+165
+00:09:00.320 --> 00:09:01.899
+Ah, meu software não faz isso.
+
+166
+00:09:02.539 --> 00:09:03.340
+Fez errado.
+
+167
+00:09:04.039 --> 00:09:06.059
+Não encerra no trimestre, não.
+
+168
+00:09:06.480 --> 00:09:07.120
+Não é assim.
+
+169
+00:09:07.519 --> 00:09:09.340
+É apenas apuração fiscal.
+
+170
+00:09:09.740 --> 00:09:12.519
+Meus caros, na contabilidade mandamos nós,
+
+171
+00:09:12.519 --> 00:09:13.539
+mas não é a Receita Federal.
+
+172
+00:09:14.179 --> 00:09:14.480
+Não.
+
+173
+00:09:14.840 --> 00:09:16.240
+Quem manda é nós, contadores.
+
+174
+00:09:17.220 --> 00:09:18.000
+Mediante o quê?
+
+175
+00:09:18.259 --> 00:09:20.639
+As informações do Conselho Federal de Contabilidade,
+
+176
+00:09:20.820 --> 00:09:22.259
+as normas brasileiras de contabilidade,
+
+177
+00:09:22.559 --> 00:09:24.139
+o Comitê de Pronunciamentos Contábeis,
+
+178
+00:09:24.179 --> 00:09:25.279
+as normas internacionais.
+
+179
+00:09:25.700 --> 00:09:27.500
+É isso que manda na contabilidade.
+
+180
+00:09:27.620 --> 00:09:28.440
+Não é a Receita Federal.
+
+181
+00:09:29.299 --> 00:09:32.179
+Receita Federal é um órgão fiscalizador e arrecadatório.
+
+182
+00:09:32.259 --> 00:09:32.940
+É a função dele.
+
+183
+00:09:33.100 --> 00:09:35.080
+Arrecadar os tributos e fiscalizar.
+
+184
+00:09:35.820 --> 00:09:38.659
+Agora, como contabilizar é nós, não é eles.
+
+185
+00:09:38.659 --> 00:09:39.919
+Eles não vão litar a regra do jogo.
+
+186
+00:09:40.500 --> 00:09:40.899
+Entenderam?
+
+187
+00:09:41.279 --> 00:09:42.500
+Com todo respeito a eles.
+
+188
+00:09:43.519 --> 00:09:44.200
+Perfeito?
+
+189
+00:09:44.340 --> 00:09:47.559
+Então, apuração trimestral do imposto.
+
+190
+00:09:47.860 --> 00:09:48.840
+Contabilidade anual.

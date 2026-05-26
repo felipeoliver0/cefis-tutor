@@ -1,0 +1,33 @@
+{
+  "id": 480263,
+  "title": "Auxilio doença",
+  "position": 37,
+  "duration": 443,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/055d99e1-3f89-459b-b526-0fa9ce31ee38/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/055d99e1-3f89-459b-b526-0fa9ce31ee38/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/055d99e1-3f89-459b-b526-0fa9ce31ee38/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/055d99e1-3f89-459b-b526-0fa9ce31ee38/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/055d99e1-3f89-459b-b526-0fa9ce31ee38/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

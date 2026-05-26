@@ -1,0 +1,33 @@
+{
+  "id": 464065,
+  "title": "Prescrição",
+  "position": 18,
+  "duration": 419,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d1d8f3b9-d092-44c0-b3af-0f9f9db56c81/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1d8f3b9-d092-44c0-b3af-0f9f9db56c81/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1d8f3b9-d092-44c0-b3af-0f9f9db56c81/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1d8f3b9-d092-44c0-b3af-0f9f9db56c81/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d1d8f3b9-d092-44c0-b3af-0f9f9db56c81/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

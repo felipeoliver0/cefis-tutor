@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2570,
+    "title": "Dropshipping",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso de Dropshipping você aprenderá desde o conceito até características e aspectos relativos às vantagens, desvantagens, seleção de produtos, fornecedores e parceiros, construção, gestão de pedidos, marketing e promoção, fluxo de caixa, margem de lucro, impostos, contas a pagar e a receber e muitos outros pontos importantes para aplicar seus conhecimentos na prática do dia a dia.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/bd39d63461024c7fcdd96eb21ea6876c1685314334.jpg",
+    "goals": [
+      "Apresentar todas as características e aplicações relacionadas ao Dropshipping."
+    ],
+    "teacher": {
+      "id": 652662,
+      "name": "LUCIMAR GOMES FERREIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1686000323.jpeg"
+    },
+    "duration": 5254,
+    "keywords": "dropshipping",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 17,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 434,
+    "averageRating": 9.14,
+    "practiceAverage": 9.11,
+    "trailer": {
+      "id": "e4b6c84c-e338-46b7-89a5-0eb74ca4e877",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e4b6c84c-e338-46b7-89a5-0eb74ca4e877/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e4b6c84c-e338-46b7-89a5-0eb74ca4e877/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e4b6c84c-e338-46b7-89a5-0eb74ca4e877/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e4b6c84c-e338-46b7-89a5-0eb74ca4e877/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-06-12T15:14:43.000Z",
+      "updatedAt": "2023-06-12T15:14:43.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2023-06-10T12:25:00.000Z",
+    "recordedAt": "2023-05-25T00:00:00.000Z",
+    "createdAt": "2023-05-28T19:50:48.000Z"
+  }
+}

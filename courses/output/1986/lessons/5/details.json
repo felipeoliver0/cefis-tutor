@@ -1,0 +1,33 @@
+{
+  "id": 460905,
+  "title": "Previsão normativa nacional - Lista TIP",
+  "position": 5,
+  "duration": 688,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/164d9610-4a5b-4c18-8f45-5bb108c0d91c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/164d9610-4a5b-4c18-8f45-5bb108c0d91c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/164d9610-4a5b-4c18-8f45-5bb108c0d91c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/164d9610-4a5b-4c18-8f45-5bb108c0d91c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/164d9610-4a5b-4c18-8f45-5bb108c0d91c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

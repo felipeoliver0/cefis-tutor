@@ -1,0 +1,33 @@
+{
+  "id": 466351,
+  "title": "Aspectos gerais dos tributos | parte 3",
+  "position": 30,
+  "duration": 436,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/287ab342-87a5-4ae5-b540-7512ee316a61/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/287ab342-87a5-4ae5-b540-7512ee316a61/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/287ab342-87a5-4ae5-b540-7512ee316a61/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/287ab342-87a5-4ae5-b540-7512ee316a61/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/287ab342-87a5-4ae5-b540-7512ee316a61/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

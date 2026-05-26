@@ -1,0 +1,509 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.160
+Como funciona as compensações na DCTF web?
+
+2
+00:00:03.170 --> 00:00:09.079
+Vamos pensar o seguinte pra quem é do ambiente g f V Pra quem conhecia a Gfip,
+
+3
+00:00:09.090 --> 00:00:13.699
+vai se lembrar que nós tínhamos um campo de compensação na Gfip.
+
+4
+00:00:13.710 --> 00:00:20.000
+Ali você poderia até inventar número porque não tinha nenhuma checagem, né?
+
+5
+00:00:20.010 --> 00:00:22.979
+Então, você ir lá informava que tinha uma compensação.
+
+6
+00:00:22.989 --> 00:00:26.239
+O sistema aceitava e não te cobrava aquele valor, né?
+
+7
+00:00:26.959 --> 00:00:34.450
+Aí veio a DCTF web e inovou. Nesse ponto ela vai dizer o seguinte oh não é permitido?
+
+8
+00:00:34.459 --> 00:00:36.470
+Eu não tenho campo de compensação,
+
+9
+00:00:36.479 --> 00:00:40.220
+ela vai dizer isso aí não temos tempo campo de compensação,
+
+10
+00:00:40.229 --> 00:00:44.779
+Como é que se faz compensação no ambiente e social no ambiente
+
+11
+00:00:44.790 --> 00:00:49.590
+de C t f webb obrigatoriamente com o de compra e web
+
+12
+00:00:49.869 --> 00:00:57.380
+ou perde compra web é o único capaz de fazer a quitação de uma DCTF Web Okay
+
+13
+00:00:57.799 --> 00:01:04.150
+Então eu tenho a necessidade de ter compra e web. Então gente é outro.
+
+14
+00:01:04.160 --> 00:01:08.250
+É outra situação que eu convido vocês a a
+
+15
+00:01:08.260 --> 00:01:12.529
+assistir os nossos cursos aqui de compra e web.
+
+16
+00:01:12.540 --> 00:01:17.849
+Tá? Por quê? Porque não dá mais pra viver sem saber. Perde compra e web.
+
+17
+00:01:17.860 --> 00:01:20.870
+Lembra aquela história de que todo mundo falava? Assim?
+
+18
+00:01:20.879 --> 00:01:25.059
+Ah Hoje em dia todo mundo precisa estudar inglês, né? Por quê?
+
+19
+00:01:25.069 --> 00:01:27.709
+Porque quem não estuda inglês, fica pra trás, né?
+
+20
+00:01:27.930 --> 00:01:30.620
+Então era assim agora tão dizendo não.
+
+21
+00:01:30.629 --> 00:01:34.730
+Agora, cê tem que ter duas línguas pra você ser competitivo no mercado,
+
+22
+00:01:34.739 --> 00:01:39.419
+tem que conhecer inglês e espanhol fluente, inglês e alemão.
+
+23
+00:01:39.430 --> 00:01:43.739
+Dependendo da empresa que você tá trabalhando ou pretende trabalhar.
+
+24
+00:01:43.750 --> 00:01:48.860
+Eu tenho um amigo que trabalha na nestlê. Ele ele sabia inglês fluentemente.
+
+25
+00:01:48.870 --> 00:01:50.519
+E tal foi morar no México.
+
+26
+00:01:50.529 --> 00:01:54.720
+Aprendeu naturalmente o espanhol tá trabalhando no dia-a-dia,
+
+27
+00:01:54.730 --> 00:01:56.574
+mas ele não satisfeito.
+
+28
+00:01:56.584 --> 00:01:58.214
+Uma vez que ele tava na nestlê,
+
+29
+00:01:58.224 --> 00:02:02.495
+ele foi estudar francês porque ele achou que era uma necessidade.
+
+30
+00:02:02.504 --> 00:02:06.154
+Aqui também compra web. É uma necessidade.
+
+31
+00:02:06.165 --> 00:02:10.794
+Você precisa conhecer porque é o único documento,
+
+32
+00:02:10.804 --> 00:02:16.695
+único documento capaz de trazer créditos do passado
+
+33
+00:02:16.705 --> 00:02:19.455
+para o presente no ambiente de C,
+
+34
+00:02:19.464 --> 00:02:23.595
+T, F web No ambiente previdenciário, por exemplo.
+
+35
+00:02:24.139 --> 00:02:28.710
+Aí chegou um outro assunto também, que tá com a validade contada, né?
+
+36
+00:02:28.720 --> 00:02:30.910
+Todo mundo quer saber o que é a compensação cruzada.
+
+37
+00:02:30.919 --> 00:02:34.169
+Daqui a pouco ninguém mais vai querer saber, né? É tudo.
+
+38
+00:02:34.179 --> 00:02:38.070
+É uma moda esse negócio da compensação cruzada. Por que isso?
+
+39
+00:02:38.080 --> 00:02:39.949
+Porque no passado, gente,
+
+40
+00:02:39.960 --> 00:02:43.350
+nós tínhamos uma secretaria da receita previdenciária
+
+41
+00:02:43.360 --> 00:02:46.410
+e uma secretaria da Receita Federal,
+
+42
+00:02:46.820 --> 00:02:50.729
+né? Então, eh tudo que era INSS. Era do lado de cá.
+
+43
+00:02:50.740 --> 00:02:55.410
+Tudo que era, eh tributos federais, não INSS do lado de lá.
+
+44
+00:02:56.100 --> 00:03:00.509
+Aí eu te pergunto pode fazer uma compensação de um lado pro outro?
+
+45
+00:03:00.520 --> 00:03:05.449
+Ou seja, eu tenho crédito de INSS, posso quitar Imposto de renda.
+
+46
+00:03:05.460 --> 00:03:09.169
+Eu tenho crédito de imposto de renda. Posso quitar INSS.
+
+47
+00:03:09.179 --> 00:03:11.630
+Isso é o que a gente chama de compensação cruzada.
+
+48
+00:03:11.639 --> 00:03:16.929
+Ou seja, pegar créditos de um tipo e quitar débitos de outro tipo.
+
+49
+00:03:17.300 --> 00:03:23.190
+Aqui vai ter a fundamentação legal que conta essa história da compensação Cruzada.
+
+50
+00:03:23.199 --> 00:03:25.910
+O artigo setenta e quatro vai dizer que a
+
+51
+00:03:25.919 --> 00:03:31.770
+gente pode compensar débitos próprios relativos a qualquer tributo
+
+52
+00:03:32.380 --> 00:03:35.240
+e contribuições administradas pelo órgão.
+
+53
+00:03:35.250 --> 00:03:38.270
+Então eu tenho um crédito tributário,
+
+54
+00:03:38.279 --> 00:03:43.330
+eu posso usar ele pra quitar qualquer outro crédito débito tributário.
+
+55
+00:03:43.339 --> 00:03:49.889
+EH Federal Sim, posso. Tá escrito aqui que eu posso, não pode Não
+
+56
+00:03:50.179 --> 00:03:55.750
+além das hipóteses previstas na nas leis específicas de cada tributo,
+
+57
+00:03:55.759 --> 00:04:00.289
+não poderão ser objeto de compensação media
+
+58
+00:04:00.300 --> 00:04:04.960
+mediante entrega pelo sujeito passivo da declaração.
+
+59
+00:04:04.970 --> 00:04:09.009
+Eh referida no parágrafo primeiro? Tá?
+
+60
+00:04:09.869 --> 00:04:17.320
+Então ele vai limitar esta esta compensação?
+
+61
+00:04:17.329 --> 00:04:23.500
+Então eh essa compensação cruzada era vedada por lei
+
+62
+00:04:23.959 --> 00:04:27.690
+Okay Mas qual lei que vedava isso aqui?
+
+63
+00:04:27.700 --> 00:04:32.489
+O parágrafo único do artigo vinte e seis da Lei onze, quatro, cinco, sete,
+
+64
+00:04:32.500 --> 00:04:35.170
+dois mil e sete ele vai dizer o seguinte o disposto
+
+65
+00:04:35.179 --> 00:04:38.010
+no artigo setenta e quatro da Lei nove quatro três zero,
+
+66
+00:04:38.019 --> 00:04:42.369
+que eu mostrei na tela anterior não se aplica às contribuições
+
+67
+00:04:42.380 --> 00:04:45.859
+sociais que se refere ao artigo segundo da dessa lei.
+
+68
+00:04:45.869 --> 00:04:48.950
+Então aqui no setenta e quatro
+
+69
+00:04:49.529 --> 00:04:50.500
+ele diz o quê?
+
+70
+00:04:50.510 --> 00:04:54.739
+Que eu posso quitar quaisquer tributos e
+
+71
+00:04:54.750 --> 00:04:58.079
+contribuições administradas pelo por aquele órgão?
+
+72
+00:04:58.089 --> 00:05:06.239
+Aqui ele diz que pode tudo, mas aqui ele vai dizer que não pode nada né
+
+73
+00:05:06.540 --> 00:05:09.790
+Porque ele vai dizer que esse disposto nesse artigo não
+
+74
+00:05:09.799 --> 00:05:14.609
+se aplica a compensação cruzada não pode a pode existir?
+
+75
+00:05:14.619 --> 00:05:15.619
+Quem disse isso?
+
+76
+00:05:15.630 --> 00:05:23.290
+Artigo vinte e seis Parágrafo único da Lei onze quatro cinco sete Só que acontece
+
+77
+00:05:23.769 --> 00:05:27.059
+que no esocial isso cai por terra,
+
+78
+00:05:27.070 --> 00:05:31.739
+Então eu vou ter agora o artigo vinte e seis a vinte e seis a
+
+79
+00:05:31.750 --> 00:05:37.920
+vai dar oh aplica-se a compensação das contribuições a que se refere a esses artigos
+
+80
+00:05:38.359 --> 00:05:41.910
+efetuado pelo seja pacífico, escriturar e social.
+
+81
+00:05:41.920 --> 00:05:42.950
+Ou seja,
+
+82
+00:05:42.959 --> 00:05:47.010
+ele tá dizendo na lei oito onze quatro cinco sete que
+
+83
+00:05:47.019 --> 00:05:52.010
+basta você estar no e social para fazer a compensação cruzada,
+
+84
+00:05:52.019 --> 00:05:57.910
+Ou seja, quitar INSS com Piss, COFINS, Itar PIS COFINS com INSS.
+
+85
+00:05:58.339 --> 00:06:02.670
+E isso é muito importante pras empresas que tem hoje aquela aquele
+
+86
+00:06:02.679 --> 00:06:07.160
+direito a exclusão do ICMS na base do PIS da COFINS.
+
+87
+00:06:07.170 --> 00:06:10.350
+Então a empresa entrou com ação lá atrás em dois mil e dez,
+
+88
+00:06:10.359 --> 00:06:15.170
+vai recuperar crédito de dois mil e cinco pra cá, então é muito crédito.
+
+89
+00:06:15.179 --> 00:06:18.309
+Como é que faz pra fazer a utilização desses créditos?
+
+90
+00:06:18.320 --> 00:06:23.929
+Seria bom fazer compensação também com o INSS certo? Certo?
+
+91
+00:06:23.940 --> 00:06:25.690
+Mas ele vai dizer assim Oh,
+
+92
+00:06:25.950 --> 00:06:29.839
+é só depois que você entra no esocial que você
+
+93
+00:06:29.850 --> 00:06:33.059
+pode fazer essa bagunça de quitar uma coisa com outra,
+
+94
+00:06:33.070 --> 00:06:38.019
+mas eu vou dizer uma coisa pra você tá errado essa te esse texto
+
+95
+00:06:38.720 --> 00:06:39.850
+tá errado.
+
+96
+00:06:39.859 --> 00:06:49.630
+Esse texto porque não é simplesmente estar apurando, eh os débitos pelo esocial.
+
+97
+00:06:49.640 --> 00:06:56.390
+Você tem que estar entregando desse t F web que é diferente de estar no esocial.
+
+98
+00:06:56.399 --> 00:06:57.220
+Por quê?
+
+99
+00:06:57.230 --> 00:07:05.910
+Porque foi sempre assim a gente encerrava eh a gente tinha lá um prazo pra fazer
+
+100
+00:07:06.339 --> 00:07:09.089
+pra faz pra entrar no esocial, né?
+
+101
+00:07:09.100 --> 00:07:13.910
+Você vai tinha fazendo cumprir as várias etapas e a última
+
+102
+00:07:13.920 --> 00:07:17.839
+etapa era a da entrega da de C T F Web.
+
+103
+00:07:17.850 --> 00:07:21.089
+Portanto eu posso estar no esocial,
+
+104
+00:07:21.100 --> 00:07:28.170
+mas posso ter a limitação por não estar ainda obrigado a entregar de CF WEB certo
+
+105
+00:07:28.179 --> 00:07:31.799
+aí eu pergunto pra provocar mas essa compensação
+
+106
+00:07:31.809 --> 00:07:35.450
+cruzada já não existia na compensação de ofício.
+
+107
+00:07:35.769 --> 00:07:41.420
+O que que é a compensação de ofício? É assim você pede restituição para receita.
+
+108
+00:07:41.429 --> 00:07:48.500
+Ao invés dela te pagar ela percebe que você está devendo pra o fisco que que ela faz?
+
+109
+00:07:48.510 --> 00:07:54.674
+Ela te propõe fazer uma compra compensação por ofício de ofício, ou seja,
+
+110
+00:07:54.684 --> 00:08:01.095
+eh que a própria receita faça a compensação desses créditos com desses débitos,
+
+111
+00:08:01.105 --> 00:08:03.614
+com os créditos que você possui.
+
+112
+00:08:03.625 --> 00:08:05.755
+Tá Então
+
+113
+00:08:06.059 --> 00:08:10.630
+a receita pode fazer a compensação cruzada. Quem não pode é você, né?
+
+114
+00:08:10.640 --> 00:08:12.369
+Nessas condições,
+
+115
+00:08:12.380 --> 00:08:17.750
+então a receita propunha a compensação cruzada toda vez que ela vinha
+
+116
+00:08:17.760 --> 00:08:22.250
+via que tinha lá um um crédito a a pagar o contribuinte,
+
+117
+00:08:22.260 --> 00:08:25.690
+mas de outro lado o contribuinte estava inadimplente,
+
+118
+00:08:25.700 --> 00:08:27.850
+então ele fazia isso essa proposta.
+
+119
+00:08:27.924 --> 00:08:32.155
+Cunha a compensação de ofício chega a cartinha pra você dizendo assim oh,
+
+120
+00:08:32.164 --> 00:08:39.094
+eh você tem até quinze dias para EH pra contestar a
+
+121
+00:08:39.104 --> 00:08:43.794
+compensação de ofício Se você nesses quinze dias não se pronunciar.
+
+122
+00:08:43.804 --> 00:08:49.715
+Nós vamos fazer a compensação de ofício automaticamente. É assim que a receita fala
+
+123
+00:08:49.960 --> 00:08:54.849
+é da compensação cruzada. Gera muitas oportunidades. Por quê?
+
+124
+00:08:54.859 --> 00:09:01.609
+Porque justamente eh pra quem sabe fazer essa jogada toda.
+
+125
+00:09:01.619 --> 00:09:04.609
+Você tem um diferencial aí no mercado O mercado
+
+126
+00:09:04.619 --> 00:09:08.169
+quer saber os segredos de como fazer as coisas.
+
+127
+00:09:08.179 --> 00:09:10.630
+Se você sabe, você sai na frente.

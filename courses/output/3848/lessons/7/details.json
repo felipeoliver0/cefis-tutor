@@ -1,0 +1,33 @@
+{
+  "id": 478319,
+  "title": "Certificado Digital e Penalidades",
+  "position": 7,
+  "duration": 562,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bfe1b8b1-71aa-4efc-a63f-9598e636308c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bfe1b8b1-71aa-4efc-a63f-9598e636308c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bfe1b8b1-71aa-4efc-a63f-9598e636308c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bfe1b8b1-71aa-4efc-a63f-9598e636308c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bfe1b8b1-71aa-4efc-a63f-9598e636308c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

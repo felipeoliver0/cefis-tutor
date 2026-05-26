@@ -1,0 +1,33 @@
+{
+  "id": 485863,
+  "title": "Simples Nacional",
+  "position": 24,
+  "duration": 166,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7eed4223-3f06-41b6-9480-e7b4b41413b9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7eed4223-3f06-41b6-9480-e7b4b41413b9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7eed4223-3f06-41b6-9480-e7b4b41413b9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7eed4223-3f06-41b6-9480-e7b4b41413b9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7eed4223-3f06-41b6-9480-e7b4b41413b9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

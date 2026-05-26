@@ -1,0 +1,33 @@
+{
+  "id": 477691,
+  "title": "Atos normativos",
+  "position": 2,
+  "duration": 62,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/88927c98-22e9-4cf0-9128-b3b548e205a0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88927c98-22e9-4cf0-9128-b3b548e205a0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88927c98-22e9-4cf0-9128-b3b548e205a0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88927c98-22e9-4cf0-9128-b3b548e205a0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/88927c98-22e9-4cf0-9128-b3b548e205a0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

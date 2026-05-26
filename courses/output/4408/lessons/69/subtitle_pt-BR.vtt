@@ -1,0 +1,301 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:09.220
+Dito isso, vamos entender aqui, o exemplo prático, venda em 1 de 1 de 2025 de mercadoria
+
+3
+00:00:09.220 --> 00:00:11.660
+para receber a longo prazo.
+
+4
+00:00:11.660 --> 00:00:16.019
+O desconto relativo ao valor presente deverá ser registrado no mesmo momento em que for
+
+5
+00:00:16.019 --> 00:00:21.079
+reconhecido a receita de vendas, por competência do momento zero.
+
+6
+00:00:21.079 --> 00:00:25.800
+Valor da negociação fixada, 385 mil reais.
+
+7
+00:00:25.800 --> 00:00:32.799
+O recebimento será em uma única parcela no final de 15 meses, portanto, longo prazo.
+
+8
+00:00:32.799 --> 00:00:36.439
+Acima de 12 meses, longo prazo.
+
+9
+00:00:36.439 --> 00:00:41.340
+Taxa de juros acordada entre as partes, 2,85 ao mês.
+
+10
+00:00:41.340 --> 00:00:48.479
+Show de bola, gente, nós temos aqui valor, prazo e taxa, acabou, é o que nós precisamos
+
+11
+00:00:48.479 --> 00:00:49.479
+para fazer análise.
+
+12
+00:00:49.479 --> 00:00:53.240
+O problema é que nós não encontramos isso no cotidiano.
+
+13
+00:00:53.240 --> 00:00:55.780
+Será que os seus clientes passam para você os contratos?
+
+14
+00:00:55.780 --> 00:01:00.259
+Eles não passam, muitas vezes nem contrato tem, mas você sabe que tem juros lá dentro,
+
+15
+00:01:00.259 --> 00:01:05.140
+e muitas vezes é para longo prazo, e você está amarrado em fazê-lo, perfeito?
+
+16
+00:01:05.140 --> 00:01:07.739
+Vamos entender como é que nós fazemos os cálculos.
+
+17
+00:01:07.739 --> 00:01:15.480
+Olha só, utilizando aí uma calculadora HP, nós vamos fazer o cálculo, 385 dividido
+
+18
+00:01:15.480 --> 00:01:22.420
+1 mais i, elevado a n, dividido por 15, não apareceu aqui no elevado, mas está elevado
+
+19
+00:01:22.420 --> 00:01:23.420
+a m.
+
+20
+00:01:23.420 --> 00:01:24.780
+Onde é a taxa de juros?
+
+21
+00:01:24.780 --> 00:01:25.780
+E n é o preço.
+
+22
+00:01:25.780 --> 00:01:26.780
+É o período.
+
+23
+00:01:26.780 --> 00:01:34.680
+Então nós fazendo todos os cálculos, o nosso ajuste a valor presente vai ser 252.578,45.
+
+24
+00:01:34.680 --> 00:01:39.340
+Ou seja, eu vou receber dele daqui 15 meses, 385.
+
+25
+00:01:39.340 --> 00:01:44.180
+Se ele me pagasse à vista, seria 252,578, entendeu?
+
+26
+00:01:44.180 --> 00:01:46.640
+Então eu sou obrigado a trazer isso a valor presente.
+
+27
+00:01:46.640 --> 00:01:55.099
+Que, ao meu entender, foi o CPC que mais contribuiu com essa nova legislação, mais contribuiu
+
+28
+00:01:55.099 --> 00:01:59.200
+na contabilidade brasileira, foi o ajuste a valor presente.
+
+29
+00:01:59.200 --> 00:02:04.079
+Isso modificou muitas demonstrações de resultado do exercício, muitas.
+
+30
+00:02:04.079 --> 00:02:09.439
+Como nós vamos ver já já, eu vou tecer a minha opinião com relação a isso, tá?
+
+31
+00:02:09.439 --> 00:02:14.860
+Muito bem, aqui eu trouxe para facilitar vocês, na HP, como é que nós calculamos,
+
+32
+00:02:14.860 --> 00:02:15.860
+né?
+
+33
+00:02:15.860 --> 00:02:21.259
+Olha lá, conforme o artigo 4 da Lei nº 12.973, de 2014, o ajuste a valor presente deve ser
+
+34
+00:02:21.259 --> 00:02:24.099
+registrado contabilmente em conta separada, que é a subcontas.
+
+35
+00:02:24.099 --> 00:02:27.479
+Subcontas do ativo com destaque.
+
+36
+00:02:27.479 --> 00:02:29.280
+E a lei societária diz o mesmo.
+
+37
+00:02:29.280 --> 00:02:35.340
+Então, nesse nosso exemplo, você vai pegar 385, vai apertar o Enter, depois o FV, que
+
+38
+00:02:35.340 --> 00:02:38.699
+é valor futuro, FV.
+
+39
+00:02:38.699 --> 00:02:42.439
+Depois você vai colocar 285, vai apertar o I, que é a taxa.
+
+40
+00:02:42.439 --> 00:02:48.319
+Depois o 15, que você vai apertar o N, que é o PV, ou seja, present value, ou valor
+
+41
+00:02:48.319 --> 00:02:49.319
+presente.
+
+42
+00:02:49.319 --> 00:02:53.000
+E aí, vai dar igual, aperta o PV, 252.578.
+
+43
+00:02:53.000 --> 00:02:54.000
+Certo?
+
+44
+00:02:54.000 --> 00:02:55.000
+285.578.
+
+45
+00:02:55.000 --> 00:02:57.580
+Se você fizer na sua calculadora, vai dar exatamente isso.
+
+46
+00:02:57.580 --> 00:03:01.199
+É assim que eu descapitalizo algo que tem juros embutidos.
+
+47
+00:03:01.199 --> 00:03:02.199
+Juros compostos.
+
+48
+00:03:02.199 --> 00:03:03.199
+Entendeu?
+
+49
+00:03:03.199 --> 00:03:04.199
+Estou trazendo o valor presente.
+
+50
+00:03:04.199 --> 00:03:06.419
+Estou expurgando o juros para saber quanto vale hoje.
+
+51
+00:03:06.419 --> 00:03:07.819
+O famoso fluxo de caixa descontada.
+
+52
+00:03:07.819 --> 00:03:08.819
+Entendeu?
+
+53
+00:03:08.819 --> 00:03:10.819
+É assim que funciona.
+
+54
+00:03:10.819 --> 00:03:11.819
+Perfeito.
+
+55
+00:03:11.819 --> 00:03:12.819
+Então nós sabemos.
+
+56
+00:03:12.819 --> 00:03:13.819
+Valor futuro, 385.
+
+57
+00:03:13.819 --> 00:03:15.240
+Valor presente, 252.
+
+58
+00:03:15.240 --> 00:03:17.699
+Portanto, eu vou contabilizar.
+
+59
+00:03:17.699 --> 00:03:19.639
+Primeiro a minha venda.
+
+60
+00:03:19.639 --> 00:03:23.379
+Debito contas a receber, ativo não circulante, porque é para 15 meses.
+
+61
+00:03:23.379 --> 00:03:26.300
+Credito, receita bruta de vendas.
+
+62
+00:03:26.300 --> 00:03:29.099
+Conta de resultado, 385.
+
+63
+00:03:29.099 --> 00:03:35.719
+Nós fizemos isso a nossa vida inteira, desde 15 de dezembro de 1976, quando foi promulgado
+
+64
+00:03:35.719 --> 00:03:36.719
+a Lei nº 6.404.
+
+65
+00:03:36.719 --> 00:03:38.759
+É assim que nós contabilizávamos.
+
+66
+00:03:38.759 --> 00:03:46.180
+Porém, com o advento do IFRS, que começou obrigatoriamente a partir de 2010, nós temos
+
+67
+00:03:46.180 --> 00:03:47.819
+aí o seguinte.
+
+68
+00:03:47.819 --> 00:03:49.039
+Eu sou obrigado.
+
+69
+00:03:49.039 --> 00:03:52.379
+Vocês viram que a diferença dos 252 para o 385?
+
+70
+00:03:52.379 --> 00:03:53.379
+Não.
+
+71
+00:03:53.379 --> 00:03:55.259
+O 355 é 132 mil.
+
+72
+00:03:55.259 --> 00:04:01.659
+Eu vou debitar ajuste a valor presente de clientes, é uma conta redutora de vendas
+
+73
+00:04:01.659 --> 00:04:10.860
+da nossa DRE, 132421555, e vou acreditar ajuste a valor presente, juros a transcorrer,
+
+74
+00:04:10.860 --> 00:04:18.379
+juros a apropriar, juros a vencer, o nome que você melhor agradar, lá no ativo não
+
+75
+00:04:18.379 --> 00:04:19.379
+circulante.
+
+76
+00:04:19.379 --> 00:04:21.379
+Entendeu?

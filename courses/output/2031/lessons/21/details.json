@@ -1,0 +1,33 @@
+{
+  "id": 461328,
+  "title": "Balanço Patrimonial - Parte 2",
+  "position": 21,
+  "duration": 183,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/449e9cc3-6c63-451c-9550-b0345cad6d88/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/449e9cc3-6c63-451c-9550-b0345cad6d88/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/449e9cc3-6c63-451c-9550-b0345cad6d88/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/449e9cc3-6c63-451c-9550-b0345cad6d88/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/449e9cc3-6c63-451c-9550-b0345cad6d88/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.859
+e eu vou te convidar agora a visualizar dentro do programa.
+
+2
+00:00:03.869 --> 00:00:07.239
+Vamos partir para uma prática pra gente trabalhar
+
+3
+00:00:07.250 --> 00:00:10.180
+essa dinâmica e entender como funcionam os blocos,
+
+4
+00:00:10.189 --> 00:00:11.500
+os registros,
+
+5
+00:00:11.510 --> 00:00:16.000
+ver como que funciona o registro filho e então adentrar na prática dos
+
+6
+00:00:16.010 --> 00:00:23.879
+cruzamentos da F d SMS P Então vamos conhecer essa estrutura dentro do programa
+
+7
+00:00:24.239 --> 00:00:30.709
+quando nós abrimos o programa o p v A que a gente chama aqui da do SPED fiscal da F
+
+8
+00:00:30.719 --> 00:00:35.169
+d SMS p i nós temos duas abas principais que
+
+9
+00:00:35.180 --> 00:00:39.110
+é a aba de relatórios e a aba de escrituração
+
+10
+00:00:39.450 --> 00:00:40.819
+a de relatórios.
+
+11
+00:00:40.830 --> 00:00:48.020
+Ela vai trazer resumos muito importantes para a nossa utilização pra conferência,
+
+12
+00:00:48.029 --> 00:00:51.139
+pra fazer cruzamento com os livros fiscais emitidos pelo
+
+13
+00:00:51.150 --> 00:00:54.979
+sistema pra validar resumos de valores a recolher.
+
+14
+00:00:54.990 --> 00:01:01.380
+Então é um campo que nós vamos utilizar muito dentro dos cruzamentos e a
+
+15
+00:01:01.389 --> 00:01:06.040
+segunda aba que é a aba escrituração que ela vem assim de forma,
+
+16
+00:01:06.139 --> 00:01:10.669
+mas quando você clica ela faz a abertura dos blocos,
+
+17
+00:01:10.680 --> 00:01:16.669
+então veja que nós temos aqui o bloco zero Nós temos os blocos C e D,
+
+18
+00:01:16.680 --> 00:01:21.790
+que é relacionado aos documentos fiscais, tanto de entrada como de saídas.
+
+19
+00:01:21.800 --> 00:01:24.389
+Lembrando que o bloco C ele fala
+
+20
+00:01:24.400 --> 00:01:27.949
+dos documentos fiscais relacionados a mercadorias e o
+
+21
+00:01:27.959 --> 00:01:31.750
+Bloco D dos documentos fiscais relacionados aos serviços
+
+22
+00:01:31.760 --> 00:01:36.440
+de transporte interestadual e de comunicação que,
+
+23
+00:01:36.449 --> 00:01:41.300
+por mais que sejam serviços, são serviços sujeitos ao ICMS.
+
+24
+00:01:41.309 --> 00:01:45.730
+Apurações que é o bloco e o bloco G, que é o bloco do SEP,
+
+25
+00:01:45.739 --> 00:01:51.519
+do crédito do ICMS sobre o ativo permanente, o bloco h, que é um bloco de inventário.
+
+26
+00:01:51.529 --> 00:01:57.919
+O bloco K, que é o bloco do estoque, e o Bloco um, que é um bloco de informações gerais.
+
+27
+00:01:57.930 --> 00:01:59.419
+Então essa é a
+
+28
+00:01:59.519 --> 00:02:03.730
+dos blocos e então quando clicamos ele abre
+
+29
+00:02:03.739 --> 00:02:07.370
+a estrutura que nós vamos visualizar os registros.
+
+30
+00:02:07.379 --> 00:02:12.690
+Então quando eu clico aqui no primeiro, que é o registro zero zero zero zero,
+
+31
+00:02:12.699 --> 00:02:16.339
+ele traz o registro da identificação cadastral.
+
+32
+00:02:16.350 --> 00:02:18.970
+Quando eu abro esse registro,
+
+33
+00:02:18.979 --> 00:02:22.770
+eu já vejo preenchido a identificação do contribuinte,
+
+34
+00:02:22.779 --> 00:02:25.050
+a data a que nós estamos utilizando
+
+35
+00:02:25.059 --> 00:02:29.190
+dados fictícios pra demonstração dentro da aula.
+
+36
+00:02:29.199 --> 00:02:34.460
+Vejam que aqui o perfil é o perfil a que esse contribuinte está obrigado.
+
+37
+00:02:34.470 --> 00:02:39.919
+Então é aquele perfil de detalhamento máximo que nós aprendemos juntos na
+
+38
+00:02:39.929 --> 00:02:44.559
+quando estávamos falando da estrutura da F D ICMS P I.
+
+39
+00:02:44.570 --> 00:02:49.139
+Essa empresa é uma empresa industrial ou equiparada à indústria.
+
+40
+00:02:49.149 --> 00:02:52.839
+Então nós teremos aqui o máximo de detalhamento possível.
+
+41
+00:02:53.259 --> 00:02:59.130
+Temos aqui um registro de complemento, temos aqui o complemento do endereço,
+
+42
+00:02:59.139 --> 00:02:59.539
+então oh!
+
+43
+00:02:59.550 --> 00:03:03.610
+O registro zero zero zero cinco é o endereço do contribuinte,
+
+44
+00:03:03.619 --> 00:03:05.910
+também com dados fictícios.
+
+45
+00:03:05.919 --> 00:03:10.110
+Os dados do contador Aqui eu já vou deixar um
+
+46
+00:03:10.119 --> 00:03:13.729
+ponto de atenção cuidado com os dados do contador.
+
+47
+00:03:13.740 --> 00:03:18.990
+Também deixei dados aqui, eh fictícios pra vocês conhecerem aqui.
+
+48
+00:03:19.000 --> 00:03:23.110
+Então o nome do contador é CFIS, então com bastante cuidado,
+
+49
+00:03:23.119 --> 00:03:27.210
+porque o zero cem é o registro do contabilista.
+
+50
+00:03:27.220 --> 00:03:32.070
+Voltando aqui pra estrutura, nós vemos as tabelas do contribuinte,
+
+51
+00:03:32.080 --> 00:03:35.669
+já parte para o registro OH zero cento e cinquenta.
+
+52
+00:03:35.679 --> 00:03:40.070
+A gente sempre pode fechar aqui pra ficar mais fácil a visualização,
+
+53
+00:03:40.080 --> 00:03:44.110
+e eu quero chamar a atenção pra mostrar pra vocês alguns exemplos.
+
+54
+00:03:44.119 --> 00:03:47.149
+Veja que aqui o zero duzentos é um registro.
+
+55
+00:03:47.160 --> 00:03:50.029
+Então nós temos o Bloco Grandão, que é o bloco zero,
+
+56
+00:03:50.039 --> 00:03:52.910
+o registro que é o zero duzentos e quando a
+
+57
+00:03:52.919 --> 00:03:56.070
+gente entra dentro do registro que é o zero duzentos,
+
+58
+00:03:56.080 --> 00:03:58.229
+que é o registro do produto,
+
+59
+00:03:58.240 --> 00:04:02.029
+vejam que ele habilita embaixo os registros filhos
+
+60
+00:04:02.039 --> 00:04:05.410
+que podem existir com relação a esse produto,
+
+61
+00:04:05.500 --> 00:04:06.529
+o zero,
+
+62
+00:04:06.539 --> 00:04:11.789
+duzentos e cinco como eu tinha dado exemplo que é relacionado à descrição do bem,
+
+63
+00:04:11.800 --> 00:04:16.269
+que pode ter mudado desse produto o registro zero, duzentos e seis,
+
+64
+00:04:16.279 --> 00:04:19.369
+que é um código de produto de acordo com a tabela publicada da
+
+65
+00:04:19.380 --> 00:04:24.910
+N P Consumo específico padronizado zero duzentos e dez Fator de conversão,
+
+66
+00:04:24.920 --> 00:04:26.589
+que é o zero, duzentos e vinte.
+
+67
+00:04:26.600 --> 00:04:29.489
+Fator de conversão é um registro filho muito importante,
+
+68
+00:04:29.579 --> 00:04:34.190
+que fica dentro do cadastro de produtos porque trata é quando nós temos
+
+69
+00:04:34.200 --> 00:04:39.160
+ali casos onde o contribuinte compra um produto por uma unidade de medida,
+
+70
+00:04:39.170 --> 00:04:42.869
+mas ele pode comercializar com outra unidade de medida.
+
+71
+00:04:42.880 --> 00:04:49.540
+Exemplo Eu compro uma caixa com dez itens, dez unidades dentro,
+
+72
+00:04:49.549 --> 00:04:53.570
+então a nota do meu fornecedor vem com a unidade de medida Caixa,
+
+73
+00:04:53.859 --> 00:04:59.149
+mas eu comercializo isso ou uso no meu processo industrial por unidade,
+
+74
+00:04:59.160 --> 00:05:03.109
+então eu utilizo aquilo que era a caixa pra mim é a unidade,
+
+75
+00:05:03.119 --> 00:05:07.730
+porque eu uso a unidade individual, então o fator de comer tem que tá preenchido.
+
+76
+00:05:07.739 --> 00:05:12.929
+Toda vez que a gente falar da caixa, ele transforma aqui em doze unidades,
+
+77
+00:05:12.940 --> 00:05:15.910
+porque é uma caixa que vem doze de doze peças
+
+78
+00:05:15.920 --> 00:05:18.626
+e aí eu vou usar doze e unidades separados.
+
+79
+00:05:18.635 --> 00:05:22.665
+Então essa conversão de unidades de medida tem que constar aqui,
+
+80
+00:05:22.675 --> 00:05:28.645
+quando acontece esse tipo aí de transformação dentro da empresa,
+
+81
+00:05:28.656 --> 00:05:30.585
+entre a unidade ser dividida,
+
+82
+00:05:30.596 --> 00:05:33.385
+utilizada internamente ser diferente da unidade de
+
+83
+00:05:33.395 --> 00:05:36.395
+medida da aquisição que vem do fornecedor.
+
+84
+00:05:36.406 --> 00:05:43.011
+Então aqui temos essa exemplificação do bloco do registro do
+
+85
+00:05:43.022 --> 00:05:46.721
+registro filho que só abre quando eu tenho o bloco.
+
+86
+00:05:46.731 --> 00:05:51.342
+Se eu não tiver o bloco, o registro filho, ele não vai aparecer,
+
+87
+00:05:51.351 --> 00:05:55.742
+pode ver que só aparece quando eu clico em cima de alguma alguma ação aqui,
+
+88
+00:05:55.752 --> 00:05:58.981
+do registro pai que nós chamamos tá certo.
+
+89
+00:05:58.992 --> 00:06:04.082
+Então bloco são os grupos que nós temos aqui nessa lateral,
+
+90
+00:06:05.119 --> 00:06:12.970
+os grupos e cada grupo tem os seus registros, que são os o os agrupados menores,
+
+91
+00:06:12.980 --> 00:06:17.049
+e dentro de cada registro, temos os registros filhos,
+
+92
+00:06:17.059 --> 00:06:21.149
+que abrem somente quando o registro pai é acionado.

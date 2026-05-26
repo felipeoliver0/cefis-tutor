@@ -1,0 +1,33 @@
+{
+  "id": 458027,
+  "title": "Exercício Cpc 22",
+  "position": 158,
+  "duration": 143,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/497437c3-4a25-4c4a-a4cd-250033758d0b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/497437c3-4a25-4c4a-a4cd-250033758d0b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/497437c3-4a25-4c4a-a4cd-250033758d0b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/497437c3-4a25-4c4a-a4cd-250033758d0b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/497437c3-4a25-4c4a-a4cd-250033758d0b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

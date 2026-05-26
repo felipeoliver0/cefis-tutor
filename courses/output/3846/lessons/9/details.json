@@ -1,0 +1,33 @@
+{
+  "id": 478254,
+  "title": "Qual a função da ECD",
+  "position": 9,
+  "duration": 304,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1da34daa-ad67-452f-ba69-d60e9dcd0f62/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1da34daa-ad67-452f-ba69-d60e9dcd0f62/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1da34daa-ad67-452f-ba69-d60e9dcd0f62/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1da34daa-ad67-452f-ba69-d60e9dcd0f62/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1da34daa-ad67-452f-ba69-d60e9dcd0f62/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

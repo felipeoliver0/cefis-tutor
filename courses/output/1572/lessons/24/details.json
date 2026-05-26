@@ -1,0 +1,33 @@
+{
+  "id": 454024,
+  "title": "Custo para abertura de capital | parte 4",
+  "position": 24,
+  "duration": 344,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9898023b-ba92-4693-a59e-09b6b5745912/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9898023b-ba92-4693-a59e-09b6b5745912/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9898023b-ba92-4693-a59e-09b6b5745912/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9898023b-ba92-4693-a59e-09b6b5745912/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9898023b-ba92-4693-a59e-09b6b5745912/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 471737,
+  "title": "Consulta no Portal Local",
+  "position": 4,
+  "duration": 499,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/904a4db3-c003-4f2b-9654-992597c04839/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/904a4db3-c003-4f2b-9654-992597c04839/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/904a4db3-c003-4f2b-9654-992597c04839/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/904a4db3-c003-4f2b-9654-992597c04839/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/904a4db3-c003-4f2b-9654-992597c04839/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

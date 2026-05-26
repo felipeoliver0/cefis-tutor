@@ -1,0 +1,33 @@
+{
+  "id": 482519,
+  "title": "Olhar para Dentro",
+  "position": 5,
+  "duration": 519,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b88df93a-791c-46a2-a7ed-3b68278aabdf/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b88df93a-791c-46a2-a7ed-3b68278aabdf/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b88df93a-791c-46a2-a7ed-3b68278aabdf/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b88df93a-791c-46a2-a7ed-3b68278aabdf/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b88df93a-791c-46a2-a7ed-3b68278aabdf/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

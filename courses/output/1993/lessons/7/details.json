@@ -1,0 +1,33 @@
+{
+  "id": 460695,
+  "title": "Liderança e motivação",
+  "position": 7,
+  "duration": 380,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/85516e7f-9995-4b38-97e3-eecd2e070fac/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85516e7f-9995-4b38-97e3-eecd2e070fac/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85516e7f-9995-4b38-97e3-eecd2e070fac/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85516e7f-9995-4b38-97e3-eecd2e070fac/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/85516e7f-9995-4b38-97e3-eecd2e070fac/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 486860,
+  "title": "Quiz time - Parte 2",
+  "position": 34,
+  "duration": 262,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/7ce895a1-dc8f-4b94-883b-ec2903d18317/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ce895a1-dc8f-4b94-883b-ec2903d18317/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ce895a1-dc8f-4b94-883b-ec2903d18317/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ce895a1-dc8f-4b94-883b-ec2903d18317/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ce895a1-dc8f-4b94-883b-ec2903d18317/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

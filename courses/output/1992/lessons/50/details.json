@@ -1,0 +1,33 @@
+{
+  "id": 460852,
+  "title": "Proibição de compensação e multas",
+  "position": 50,
+  "duration": 100,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e8ad0192-f321-4976-a132-5725b26eec25/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e8ad0192-f321-4976-a132-5725b26eec25/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e8ad0192-f321-4976-a132-5725b26eec25/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e8ad0192-f321-4976-a132-5725b26eec25/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e8ad0192-f321-4976-a132-5725b26eec25/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

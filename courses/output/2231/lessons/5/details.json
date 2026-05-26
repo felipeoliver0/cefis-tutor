@@ -1,0 +1,33 @@
+{
+  "id": 463902,
+  "title": "Formação de uma cultura organizacional - Parte 2",
+  "position": 5,
+  "duration": 303,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1f2e1137-cad4-47e8-8a84-3f8aa6687943/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1f2e1137-cad4-47e8-8a84-3f8aa6687943/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1f2e1137-cad4-47e8-8a84-3f8aa6687943/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1f2e1137-cad4-47e8-8a84-3f8aa6687943/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1f2e1137-cad4-47e8-8a84-3f8aa6687943/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

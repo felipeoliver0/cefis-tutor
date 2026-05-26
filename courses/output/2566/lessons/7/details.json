@@ -1,0 +1,33 @@
+{
+  "id": 467169,
+  "title": "Os efeitos do sistema tributário",
+  "position": 7,
+  "duration": 452,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6c866a41-105a-4e5b-8af6-95cb6e3f2faf/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c866a41-105a-4e5b-8af6-95cb6e3f2faf/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c866a41-105a-4e5b-8af6-95cb6e3f2faf/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c866a41-105a-4e5b-8af6-95cb6e3f2faf/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c866a41-105a-4e5b-8af6-95cb6e3f2faf/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

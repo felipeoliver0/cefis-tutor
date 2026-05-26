@@ -1,0 +1,33 @@
+{
+  "id": 474006,
+  "title": "Exclusões",
+  "position": 13,
+  "duration": 379,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8d5eea50-f20a-406b-aec6-9597fab7e2f4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d5eea50-f20a-406b-aec6-9597fab7e2f4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d5eea50-f20a-406b-aec6-9597fab7e2f4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d5eea50-f20a-406b-aec6-9597fab7e2f4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d5eea50-f20a-406b-aec6-9597fab7e2f4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

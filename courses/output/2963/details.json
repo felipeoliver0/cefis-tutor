@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2963,
+    "title": "Omissão de documentos nas obrigações acessórias",
+    "subtitle": "Fundamentos e aplicações",
+    "summary": "Neste curso de omissão de documentos nas obrigações acessórias você vai aprender desde os aspectos legais relacionados à sonegação fiscal, até pontos relativos às legislações das principais obrigações acessórias (REINF, EFD-ICMS-IPI EFD-CONTRIBUIÇÕES, ECF, ECD) quanto à omissão de documentos para aplicar na prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/23b7fa498c4fb2d44de19eb89db224031728385905.jpg",
+    "goals": [
+      "Apresentar desde os aspectos legais relacionados à sonegação fiscal, até pontos relativos às legislações das principais obrigações acessórias (REINF, EFD-ICMS-IPI EFD-CONTRIBUIÇÕES, ECF, ECD) quanto à omissão de documentos para aplicar na prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 4156,
+    "keywords": "omissão;obrigações acessórias;documentos",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 19,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 383,
+    "averageRating": 9.28,
+    "practiceAverage": 9.33,
+    "trailer": {
+      "id": "1f01ad45-65f7-41af-bfd5-7fab9097d00c",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1f01ad45-65f7-41af-bfd5-7fab9097d00c/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1f01ad45-65f7-41af-bfd5-7fab9097d00c/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1f01ad45-65f7-41af-bfd5-7fab9097d00c/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1f01ad45-65f7-41af-bfd5-7fab9097d00c/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-05T15:55:40.000Z",
+      "updatedAt": "2024-01-05T15:55:40.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-01-09T08:17:40.000Z",
+    "recordedAt": "2023-12-07T00:00:00.000Z",
+    "createdAt": "2023-12-08T08:58:52.000Z"
+  }
+}

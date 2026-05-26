@@ -1,0 +1,281 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.339
+Na sequência a gente tem o cronograma do projeto.
+
+2
+00:00:02.540 --> 00:00:06.139
+Agora que eu já aliei o scope, eu vou aliar um cronograma.
+
+3
+00:00:06.160 --> 00:00:09.060
+Mas eu nunca vou conseguir aliar um cronograma sem ter o scope claro,
+
+4
+00:00:09.119 --> 00:00:13.660
+porque eu preciso da lista de atividades para eu conseguir desdobrar ela no tempo.
+
+5
+00:00:14.039 --> 00:00:16.440
+Então você já fez a definição das atividades,
+
+6
+00:00:16.920 --> 00:00:19.140
+você vai fazer o sequenciamento das atividades
+
+7
+00:00:19.140 --> 00:00:21.980
+e uma estimativa de duração de cada uma dessas atividades.
+
+8
+00:00:22.820 --> 00:00:23.899
+E aí você vai pensar assim,
+
+9
+00:00:24.300 --> 00:01:05.120
+ah, beleza, eu tenho aqui duas semanas para entregar o projeto. FIS tava pensando que vai trabalhar o dia inteiro e vai terminar tudo em 3 dias só que aí precisa entrar na negociação
+
+10
+00:01:05.120 --> 00:01:06.439
+porque se ninguém conversa com ninguém
+
+11
+00:01:06.439 --> 00:01:08.219
+fala quantas horas trabalha, tantas
+
+12
+00:01:08.219 --> 00:01:09.560
+aí depois de tantas horas ele vai te cobrar
+
+13
+00:01:09.560 --> 00:01:12.060
+não, mas eu trabalho só à tarde pra esse projeto de manhã
+
+14
+00:01:12.060 --> 00:01:13.480
+tô dando as coisas do meu setor aqui
+
+15
+00:01:13.480 --> 00:01:15.079
+tem que trabalhar também
+
+16
+00:01:15.079 --> 00:01:18.060
+na rotina, nos processos do dia a dia
+
+17
+00:01:18.060 --> 00:01:20.299
+e aí você vai ter que ter um alinhamento
+
+18
+00:01:20.299 --> 00:01:21.540
+entre a expectativa do gestor
+
+19
+00:01:21.540 --> 00:01:24.219
+e a expectativa do recurso que tava lá
+
+20
+00:01:24.219 --> 00:01:26.140
+e aí às vezes você vai conseguindo
+
+21
+00:01:26.140 --> 00:01:28.280
+encaixar. Encaixa aqui, encaixa ali,
+
+22
+00:01:28.420 --> 00:01:29.980
+vou fazer isso aqui, vou fazer lá.
+
+23
+00:01:30.340 --> 00:01:32.140
+E aí eu não entrego nem com 3 dias
+
+24
+00:01:32.140 --> 00:01:34.120
+nem com 2 semanas. Nesse caso
+
+25
+00:01:34.120 --> 00:01:36.140
+aqui, eu entrego com 1 dia
+
+26
+00:01:36.140 --> 00:01:37.900
+6 dias úteis.
+
+27
+00:01:38.959 --> 00:01:40.299
+Eu vou até o sábado,
+
+28
+00:01:40.540 --> 00:01:42.219
+até a sexta ali, só.
+
+29
+00:01:42.920 --> 00:01:44.120
+5 dias úteis, aliás.
+
+30
+00:01:44.659 --> 00:02:06.680
+E aí você vai desenhar isso tudo dentro de um gráfico gigante. E essa parte aqui do gráfico gigante PBS E qual tarefa depende de qual? Essas são as setinhas, né? Se uma tarefa depende da outra. Então, você tem o PBS do lado de cá
+
+31
+00:02:06.680 --> 00:02:08.919
+e o cronograma do lado de lá.
+
+32
+00:02:09.319 --> 00:02:11.180
+E aí, tem uma outra ferramenta para cronograma
+
+33
+00:02:11.180 --> 00:02:12.620
+que é bem interessante de analisar também,
+
+34
+00:02:12.939 --> 00:02:14.280
+que é o PERT-CPM, né?
+
+35
+00:02:14.699 --> 00:02:17.560
+O PERT é a média de estimativa, né?
+
+36
+00:02:17.560 --> 00:02:19.439
+Você faz o otimista, o provável e o pessimista
+
+37
+00:02:19.439 --> 00:02:20.840
+e você coloca os três caminhos ali.
+
+38
+00:02:21.340 --> 00:02:23.219
+O CPM é o caminho crítico.
+
+39
+00:02:23.319 --> 00:02:46.819
+Dentro de todas as atividades que a gente precisa fazer, qual que é o caminho que demora mais? Porque eu tenho que prestar atenção nesse caminho FIS Se uma só dali atrasar, ela atrasa o projeto inteiro, né? Então, o perto-CPM é sobre isso. Geralmente a gente faz esse diagrama de rede aqui
+
+40
+00:02:46.819 --> 00:02:49.580
+pra enxergar o perto-CPM na frase.
+
+41
+00:02:50.020 --> 00:02:50.659
+Qual que é o caminho?
+
+42
+00:02:50.780 --> 00:02:52.219
+Cada bolinha dessa é uma atividade, tá?
+
+43
+00:02:52.580 --> 00:02:56.680
+E o numerozinho aqui é a média estimativa de tempo de duração de cada um deles.
+
+44
+00:02:56.780 --> 00:02:58.460
+Otimista, pessimista e realista.
+
+45
+00:02:58.939 --> 00:03:00.539
+E aí, você pega o caminho.
+
+46
+00:03:00.599 --> 00:03:01.879
+O caminho crítico é esse aqui, ó.
+
+47
+00:03:02.240 --> 00:03:03.060
+Só que pensa aqui, ó.
+
+48
+00:03:03.280 --> 00:03:04.419
+Essa atividade foi pra cá.
+
+49
+00:03:04.479 --> 00:03:25.280
+Essa vai demorar 5. Tinha uma outra aqui que demora 4. Se essa aqui demora 4 e o passado demora 5, FISIOS O meu projeto realmente anda. De onde que é o caminho mais crítico que eu tenho que estar em cima. Com certeza.
+
+50
+00:03:26.080 --> 00:03:26.199
+Olha só esse projeto.
+
+51
+00:03:26.939 --> 00:03:27.439
+Tinha algumas atividades.
+
+52
+00:03:28.740 --> 00:03:28.800
+E aí eu planejei.
+
+53
+00:03:30.099 --> 00:03:30.139
+Fiz todo o cronograma ali.
+
+54
+00:03:30.719 --> 00:03:31.199
+O gancho dela.
+
+55
+00:03:32.599 --> 00:03:33.259
+Só que na execução.
+
+56
+00:03:35.039 --> 00:03:35.539
+Eu tenho mapeado o caminho crítico.
+
+57
+00:03:38.659 --> 00:03:39.180
+Aquela outra atividade não faz parte necessariamente do caminho crítico.
+
+58
+00:03:40.979 --> 00:03:42.599
+No dia 1 eu chequei e estava tudo certo. Eu tinha executado ali a primeira.
+
+59
+00:03:43.159 --> 00:03:44.840
+No dia 2 quando eu fui checar.
+
+60
+00:04:05.060 --> 00:04:06.319
+As duas atividades já ficaram atrasadas. Essa atrasou muito. Essa atrasou um pouquinho. FIS o que vai atrasar no projeto é essa aqui é essa atividade aqui que vai gerar um atraso
+
+61
+00:04:06.319 --> 00:04:08.819
+então é esse aqui, de fazer a parte
+
+62
+00:04:08.819 --> 00:04:11.000
+do caminho crítico, é esse pedaço
+
+63
+00:04:11.000 --> 00:04:12.740
+que vai gerar uma atraso no projeto
+
+64
+00:04:12.740 --> 00:04:14.979
+esse outro aqui, ele é um consumo
+
+65
+00:04:14.979 --> 00:04:16.980
+só de folga, da minha operação
+
+66
+00:04:16.980 --> 00:04:18.939
+por isso que eu tenho que olhar sempre o caminho
+
+67
+00:04:18.939 --> 00:04:20.779
+crítico, e aí eu vou a cada
+
+68
+00:04:20.779 --> 00:04:23.019
+medição, que pode ser diária, semanal
+
+69
+00:04:23.019 --> 00:04:24.660
+eu vou reajustando
+
+70
+00:04:24.660 --> 00:00:00.000
+o cronograma do meu projeto e você vai preencher ele FIS

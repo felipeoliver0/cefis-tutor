@@ -1,0 +1,33 @@
+{
+  "id": 458313,
+  "title": "Recuperação de senha",
+  "position": 46,
+  "duration": 73,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/011be3ad-4fb7-4ffb-8003-ee5834ad4729/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/011be3ad-4fb7-4ffb-8003-ee5834ad4729/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/011be3ad-4fb7-4ffb-8003-ee5834ad4729/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/011be3ad-4fb7-4ffb-8003-ee5834ad4729/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/011be3ad-4fb7-4ffb-8003-ee5834ad4729/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

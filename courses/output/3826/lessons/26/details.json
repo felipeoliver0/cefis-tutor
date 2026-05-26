@@ -1,0 +1,27 @@
+{
+  "id": 478163,
+  "title": "Análise Fiscal E Tributária",
+  "position": 27,
+  "duration": 266,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0673bb6f-f533-4727-a2e7-1fec6a16124e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0673bb6f-f533-4727-a2e7-1fec6a16124e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0673bb6f-f533-4727-a2e7-1fec6a16124e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0673bb6f-f533-4727-a2e7-1fec6a16124e/720.mp4",
+      "height": 720
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+WEBVTT
+
+00:00:00.130 --> 00:00:07.352
+- Pessoal, vamos olhar aqui esse slide e a gente na sequência vou apresentar com dados de exercício
+
+00:00:07.352 --> 00:00:15.224
+- para ficar mais fácil a observação dos conceitos. Mas vale a pena só trazer aqui para vocês relembrarem
+
+00:00:15.224 --> 00:00:22.591
+- que nós temos aquela taxa que nós queremos transformar em taxa equivalente, tá certo? E nós temos
+
+00:00:22.591 --> 00:00:24.830
+- que tentar sempre utilizar uma
+
+00:00:25.442 --> 00:00:32.620
+- o mecanismo da matemática para tentar sempre tirar tudo da raiz. E quando a gente quer tirar da raiz,
+
+00:00:32.620 --> 00:00:39.729
+- se for quadrada, a gente sempre eleva aquele número a 1 sobre meio. Se eu tiver, por exemplo, a raiz
+
+00:00:39.729 --> 00:00:46.907
+- quadrada de 4, só relembrando para vocês, para eu tirar eu tenho que, é a mesma coisa que eu chegar
+
+00:00:46.907 --> 00:00:48.510
+- e levar 2 ao quadrado.
+
+00:00:48.674 --> 00:00:55.660
+- Então eu consigo saber que a raiz de 4 é o número 2. Por que? Porque 2 elevado ao quadrado dá 4.
+
+00:00:55.660 --> 00:01:02.784
+- Então tem umas técnicas onde para extrairmos da raiz quadrada basta a gente fazer o cálculo correto
+
+00:01:02.784 --> 00:01:09.978
+- elevando a um expoente. Só relembrando essa regrinha. Então aqui a gente vai tentar sempre tirar essa
+
+00:01:09.978 --> 00:01:12.606
+- raiz fazendo o que? Pegando e fazendo
+
+00:01:12.866 --> 00:01:19.153
+- transformando em exponencial. Só que a gente vai ver agora essa simplificação, extraindo a raiz,
+
+00:01:19.153 --> 00:01:25.691
+- mas a gente vai usar os números que vai ficar mais fácil de absorver, tá bom? E lembrando que o I.Q.
+
+00:01:25.691 --> 00:01:32.419
+- é a taxa para o prazo que eu quero. Então fica até fácil pra gente usar essa convenção pra relembrar
+
+00:01:32.419 --> 00:01:38.014
+- que é o que eu quero e ter a taxa que eu tenho. Por exemplo, se eu tinha uma taxa anual
+
+00:01:38.338 --> 00:01:46.069
+- e eu quiser transformar em taxa bimestral, vou ter que usar sempre a fórmula adequada, sempre lembrando
+
+00:01:46.069 --> 00:01:53.431
+- que a taxa que eu tenho vai estar exemplificada com IT e a que eu quero EQ. E o Q é o prazo que eu
+
+00:01:53.431 --> 00:02:00.793
+- quero sempre e o T é o prazo que eu tenho. Aí vamos brincar com essas informações que vai ficar
+
+00:02:00.793 --> 00:02:04.990
+- mais fácil olhando os números, acho que a gente sempre
+
+00:02:05.186 --> 00:02:14.404
+- absorve melhor. Então pegar um exemplo prático, taxas equivalentes. Um exemplo, instituição divulga
+
+00:02:14.404 --> 00:02:24.862
+- que a rentabilidade oferecida por determinada aplicação financeira é de 12% ao semestre, 12% ao semestre, ou seja,
+
+00:02:25.666 --> 00:02:32.814
+- Posso também dizer 2% ao mês. Sabemos que as aplicações financeiras utilizam o critério de juros
+
+00:02:32.814 --> 00:02:40.172
+- compostos, então cuidado com essa afirmativa, é agora que a gente vai entender. Essa afirmação está
+
+00:02:40.172 --> 00:02:47.250
+- correta? Ou seja, eu posso dizer que uma taxa de 12% ao semestre é a mesma coisa que uma taxa de 2%
+
+00:02:47.250 --> 00:02:50.334
+- ao mês, simplesmente dividindo o 12 por 6?
+
+00:02:50.626 --> 00:02:57.143
+- Se eu dividir assim de forma simplificada, vou estar incorrendo naquela análise de juros simples, lenda?
+
+00:02:57.143 --> 00:03:03.292
+- Então, nós sabemos que as instituições financeiras todas trabalham com juros compostos. Então,
+
+00:03:03.292 --> 00:03:09.747
+- a gente já vai perceber que essa afirmação, essa afirmativa não está correta. Mas a gente vai agora
+
+00:03:09.747 --> 00:03:16.203
+- comprovar em termos de números. Eu tenho que a taxa é 12% ao semestre. E aí eu tenho que saber, não,
+
+00:03:16.203 --> 00:03:19.646
+- mas eu quero encontrar qual que é a minha taxa mensal.
+
+00:03:19.778 --> 00:03:28.866
+- equivalente a essa taxa de 12% ao semestre, sabendo que eu estou trabalhando com números de juros compostos.
+
+00:03:28.866 --> 00:03:30.270
+- A minha fórmula
+
+00:03:31.010 --> 00:03:38.368
+- é essa aqui, vamos dizer que é aquela fórmula que nós temos. E aí a gente tem uma fórmula, que
+
+00:03:38.368 --> 00:03:46.090
+- é o que eu falei, a gente pode transitar com uma fórmula dentro do conceito de raiz, aqui a raiz sexta,
+
+00:03:46.090 --> 00:03:53.958
+- não é nem quadrada, porque eu tenho que, na verdade, transformar, encontrar essa taxa mensal equivalente,
+
+00:03:53.958 --> 00:03:58.110
+- a taxa mensal equivalente para o período de seis meses.
+
+00:03:58.242 --> 00:04:04.859
+- porque é o semestre, eu tenho que achar uma taxa mensal equivalente a seis meses, ok? E se é realmente
+
+00:04:04.859 --> 00:04:11.413
+- 2% ao mês. Então, quando eu tenho... vocês querem que vocês memorizem, se for o caso, essa, se não
+
+00:04:11.413 --> 00:04:17.714
+- for usar o Excel diretamente, nem o HP, que nós vamos ver como é que a gente usa, essa é a forma
+
+00:04:17.714 --> 00:04:23.134
+- que eu quero que vocês memorizem, se for o caso, dizendo aqui, ó, e essa taxa aqui,
+
+00:04:23.618 --> 00:04:30.825
+- equivalente, por isso que ela tem um i e um ezinho aqui, ela é igual ao quê? É um mais a taxa de
+
+00:04:30.825 --> 00:04:38.321
+- juros, que a gente vai dizer qual é logo, dividido por 100 mais elevado a quê? A única taxa de juros
+
+00:04:38.321 --> 00:04:45.673
+- que eu tenho aqui é de 12% ao semestre. Muito bem. O prazo que eu quero não é o prazo em meses, eu
+
+00:04:45.673 --> 00:04:51.006
+- quero para um mês. Só que o prazo que eu tenho qual é? É o prazo para
+
+00:04:51.650 --> 00:04:59.570
+- um semestre então veja que interessante sempre no numerador aqui desse expoente eu vou ter prazo que
+
+00:04:59.570 --> 00:05:06.014
+- eu quero dividido por prazo que eu tenho menos um então fica assim pessoal a taxa
+
+00:05:06.786 --> 00:05:13.102
+- de 0,12, de 12% dividido por 100 fica 1 mais 0,12. Eu levo sempre ao período que eu quero, eu não
+
+00:05:13.102 --> 00:05:19.544
+- quero para um mês, então a taxa que eu vou buscar ou esse está aqui calculado, é equivalente para
+
+00:05:19.544 --> 00:05:25.986
+- o período 1 de um mês, vou ter no numerador o prazo que eu quero, que é 1, no denominador o que eu
+
+00:05:25.986 --> 00:05:32.681
+- tenho, o prazo que eu tenho são de 6 meses, correspondente ao semestre. Então essa taxa para o período
+
+00:05:32.681 --> 00:05:35.902
+- 1, que é um período de um mês, a gente usa essa
+
+00:05:36.066 --> 00:05:48.974
+- essa forma de registro e um que é um mês é 0,01907 que multiplicado por 100 vai dar uma taxa de 1,91%
+
+00:05:48.974 --> 00:05:58.686
+- ao mês. Então vejam, a taxa mensal equivalente a uma taxa de 12% ao semestre
+
+00:05:59.234 --> 00:06:06.490
+- Como é juros sobre juros, ela é um pouquinho mais baixa. Por que é mais baixa? Porque ela remunera
+
+00:06:06.490 --> 00:06:14.173
+- também os juros. Ela não precisa ser 2% ao mês para, ao final, gerar aquele montante de 12% no semestre.
+
+00:06:14.173 --> 00:06:21.500
+- Por quê? Como ela é uma taxa composta juros sobre juros, ela pode ser um pouquinho mais baixa porque
+
+00:06:21.500 --> 00:06:28.542
+- ela está remunerando também os juros mensais que estão sendo produzidos. Ok? Então, sugestão.
+
+00:06:28.962 --> 00:06:36.607
+- Trouxe aqui uma série de dados como desdobra as formas, mas só para que vocês peguem aquela que é
+
+00:06:36.607 --> 00:06:39.230
+- importante caso queiram exercitar.

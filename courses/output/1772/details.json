@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 1772,
+    "title": "Plataforma CEFIS",
+    "subtitle": "Recursos e funcionalidades",
+    "summary": "Aprenda como utilizar a plataforma CEFIS para extrair o máximo no seu aprendizado e o da sua equipe.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/ada1d97aa98eec48cdc17ec9dc4d6a4e1728383395.jpg",
+    "goals": [
+      "Demonstrar como os usuários podem se beneficiar com todos os recursos e funcionalidades da CEFIS."
+    ],
+    "teacher": {
+      "id": 127376,
+      "name": "HENRIQUE",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1662350543.jpeg"
+    },
+    "duration": 5277,
+    "keywords": "plataforma;cefis;recursos;funcionalidades;demonstração",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 15,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 86,
+    "averageRating": 8.85,
+    "practiceAverage": 8.5,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-10-26T08:18:12.000Z",
+    "recordedAt": "2021-10-21T00:00:00.000Z",
+    "createdAt": "2021-10-21T17:36:07.000Z"
+  }
+}

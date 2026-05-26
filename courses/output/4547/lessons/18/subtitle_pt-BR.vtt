@@ -1,0 +1,621 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.899
+E aí entramos nos blocos da ECF.
+
+3
+00:00:03.899 --> 00:00:06.599
+Como eu disse a vocês que eu vou apresentar todos eles,
+
+4
+00:00:06.599 --> 00:00:09.900
+mas vamos trabalhar apenas alguns deles, não vamos entrar em todos,
+
+5
+00:00:09.900 --> 00:00:13.400
+senão a gente ficaria aqui pelo menos uns três dias, né?
+
+6
+00:00:13.400 --> 00:00:17.500
+Mas o objetivo é esse, é dar uma visão ampla para vocês da ECF.
+
+7
+00:00:17.500 --> 00:00:20.600
+Tudo começa com o bloco zero.
+
+8
+00:00:20.600 --> 00:00:24.000
+Entre o registro inicial e o registro final,
+
+9
+00:00:24.000 --> 00:00:26.800
+o arquivo digital é constituído de blocos,
+
+10
+00:00:26.800 --> 00:00:30.399
+referindo-se cada um deles a um agrupamento de informações.
+
+11
+00:00:30.399 --> 00:00:35.000
+Então, a Receita Federal criou um bloco para facilitar o entendimento,
+
+12
+00:00:35.000 --> 00:00:38.100
+a recepção dessas informações.
+
+13
+00:00:38.100 --> 00:00:42.000
+O bloco zero é a abertura e identificação.
+
+14
+00:00:42.000 --> 00:00:48.700
+Abre o arquivo, identifica a pessoa jurídica e referências o período da ECF.
+
+15
+00:00:48.700 --> 00:00:52.100
+Parece banal, mas é um dos blocos mais importantes.
+
+16
+00:00:52.100 --> 00:00:56.700
+É onde eu vou determinar quem eu sou,
+
+17
+00:00:56.700 --> 00:01:01.299
+quais são minhas operações, o que pertence a mim, o que não pertence.
+
+18
+00:01:01.299 --> 00:01:03.399
+Tudo está no bloco zero,
+
+19
+00:01:03.399 --> 00:01:08.599
+que obviamente já deve estar parametrizado no teu software de gestão.
+
+20
+00:01:08.599 --> 00:01:12.000
+Por isso que eu disse que nós vamos constituindo a ECF
+
+21
+00:01:12.000 --> 00:01:15.299
+à medida que nós vamos praticando os atos da empresa.
+
+22
+00:01:15.299 --> 00:01:20.299
+Contabilizações, recolhimento dos impostos, apuração, recolhimento, etc.
+
+23
+00:01:20.299 --> 00:01:23.500
+Então, o bloco zero, como eu vou mostrar logo no início,
+
+24
+00:01:23.500 --> 00:01:25.900
+são as principais informações.
+
+25
+00:01:25.900 --> 00:01:29.200
+Tem que ser alguém que conheça a empresa,
+
+26
+00:01:29.200 --> 00:01:33.500
+que conheça o negócio para poder responder aquilo.
+
+27
+00:01:33.500 --> 00:01:37.599
+Normalmente, o contador, o gerente, são pessoas que têm o conhecimento.
+
+28
+00:01:37.599 --> 00:01:42.299
+Não é um simples auxiliar que vai deter todo esse conhecimento.
+
+29
+00:01:42.299 --> 00:01:46.500
+Lembre-se, se eu não flegar determinados itens,
+
+30
+00:01:46.500 --> 00:01:51.099
+eu posso estar obtindo, mesmo que não proposital,
+
+31
+00:01:51.099 --> 00:01:53.500
+informações para a Receita Federal.
+
+32
+00:01:53.500 --> 00:01:55.700
+E os outros órgãos já enviaram essas informações.
+
+33
+00:01:55.700 --> 00:02:00.700
+Consequentemente, vai dar uma área fiscal, vai dar notificação,
+
+34
+00:02:00.700 --> 00:02:02.700
+vamos ter que prestar esclarecimento.
+
+35
+00:02:02.700 --> 00:02:04.700
+Que é tudo o que a gente não quer.
+
+36
+00:02:04.700 --> 00:02:06.700
+Parar para ficar atendendo o fisco.
+
+37
+00:02:06.700 --> 00:02:07.700
+Entenderam?
+
+38
+00:02:07.700 --> 00:02:12.699
+Então, o bloco zero, a abertura, identifica e as referências.
+
+39
+00:02:12.699 --> 00:02:14.699
+Depois, nós temos o bloco C.
+
+40
+00:02:14.699 --> 00:02:16.699
+O que é o bloco C?
+
+41
+00:02:16.699 --> 00:02:19.699
+Bloco recuperado pelo sistema.
+
+42
+00:02:19.699 --> 00:02:22.699
+Não é importado e não é editado.
+
+43
+00:02:22.699 --> 00:02:23.699
+Eu não consigo mexer.
+
+44
+00:02:23.699 --> 00:02:24.699
+Né?
+
+45
+00:02:24.699 --> 00:02:30.699
+Ou seja, o bloco C armazena as informações do plano de contas
+
+46
+00:02:30.699 --> 00:02:34.699
+e dos saldos mensais recuperados da ECD.
+
+47
+00:02:34.699 --> 00:02:36.699
+Portanto, não mexo.
+
+48
+00:02:36.699 --> 00:02:40.699
+As ECDs recuperadas devem corresponder ao período da ECF,
+
+49
+00:02:40.699 --> 00:02:42.699
+sem sombra de dúvida.
+
+50
+00:02:42.699 --> 00:02:47.699
+Os seguintes registros da ECD são recuperados na ECF.
+
+51
+00:02:47.699 --> 00:02:52.699
+Olha só, aqui eu estou certificando a vocês o porquê
+
+52
+00:02:52.699 --> 00:02:56.699
+que 60% da ECF é a ECD.
+
+53
+00:02:56.699 --> 00:02:57.699
+Olha lá.
+
+54
+00:02:57.699 --> 00:03:00.699
+Eu vou recuperar o I-050, que é o plano de contas.
+
+55
+00:03:00.699 --> 00:03:06.699
+O I-051, que é o mapeamento das contas referenciais.
+
+56
+00:03:06.699 --> 00:03:08.699
+Mapeamento da conta referencial.
+
+57
+00:03:08.699 --> 00:03:14.699
+O I-053, que é subcontas correlatas para quem tem subcontas.
+
+58
+00:03:14.699 --> 00:03:18.699
+Que foi criado pela Lei 12.973, de 2014.
+
+59
+00:03:18.699 --> 00:03:20.699
+Nós temos o I-100, que é centro de custo para quem tem.
+
+60
+00:03:20.699 --> 00:03:23.699
+Que é uma gestão, centro de custo.
+
+61
+00:03:23.699 --> 00:03:26.699
+150, datas e saldos periódicos.
+
+62
+00:03:26.699 --> 00:03:29.699
+Saldos periódicos 155, 157.
+
+63
+00:03:29.699 --> 00:03:33.699
+Eu explico no detalhe, lá no curso da ECD.
+
+64
+00:03:33.699 --> 00:03:37.699
+Que são transferência de saldo de plano de contas anterior.
+
+65
+00:03:37.699 --> 00:03:39.699
+Mudança de contador.
+
+66
+00:03:39.699 --> 00:03:41.699
+Consequentemente, mudança de plano de contas.
+
+67
+00:03:41.699 --> 00:03:44.699
+Como nós devemos proceder isso.
+
+68
+00:03:44.699 --> 00:03:46.699
+Então, lá eu explico direitinho.
+
+69
+00:03:46.699 --> 00:03:48.699
+Data de apuração do resultado.
+
+70
+00:03:48.699 --> 00:03:49.699
+O I-355.
+
+71
+00:03:49.699 --> 00:03:53.699
+O I-355, saldo das contas antes do encerramento.
+
+72
+00:03:53.699 --> 00:03:56.699
+Ou seja, contabilidade na veia aqui.
+
+73
+00:03:56.699 --> 00:04:00.699
+Estão obrigadas a efetuar a recuperação da ECD.
+
+74
+00:04:00.699 --> 00:04:02.699
+Com todos esses dados.
+
+75
+00:04:02.699 --> 00:04:07.699
+Todas as pessoas jurídicas que são obrigadas à entrega da ECD.
+
+76
+00:04:07.699 --> 00:04:11.699
+Conforme a Instrução Normativa 2003-2021.
+
+77
+00:04:11.699 --> 00:04:14.699
+Que é a Instrução Normativa que trata da ECD.
+
+78
+00:04:14.699 --> 00:04:15.699
+Perfeito?
+
+79
+00:04:15.699 --> 00:04:17.699
+A 2004 trata da ECF.
+
+80
+00:04:17.699 --> 00:04:18.699
+Ambas saíram juntas.
+
+81
+00:04:18.699 --> 00:04:19.699
+Perfeito?
+
+82
+00:04:19.699 --> 00:04:20.699
+Então, esse é o bloco C.
+
+83
+00:04:20.699 --> 00:04:23.699
+Eu não consigo manipular, alterar nada.
+
+84
+00:04:23.699 --> 00:04:28.699
+O bloco E são informações recuperadas da ECF.
+
+85
+00:04:28.699 --> 00:04:31.699
+Então, vocês viram que o bloco C eu recuperei a ECD.
+
+86
+00:04:31.699 --> 00:04:36.699
+O bloco F, o bloco E, eu recupero a ECF anterior.
+
+87
+00:04:36.699 --> 00:04:40.699
+E o cálculo fiscal dos dados recuperados da ECD.
+
+88
+00:04:40.699 --> 00:04:42.699
+Cálculo fiscal.
+
+89
+00:04:42.699 --> 00:04:43.699
+Olha só.
+
+90
+00:04:43.699 --> 00:04:44.699
+Recupero o sistema.
+
+91
+00:04:44.699 --> 00:04:46.699
+Não é importado e não é editado.
+
+92
+00:04:46.699 --> 00:04:48.699
+Também não mexo.
+
+93
+00:04:48.699 --> 00:04:53.699
+Armazena da ECF recuperada do período imediatamente anterior.
+
+94
+00:04:53.699 --> 00:04:56.699
+Saldos finais das contas referenciais.
+
+95
+00:04:56.699 --> 00:05:00.699
+E da parte B do ELALUR e do ELAX.
+
+96
+00:05:00.699 --> 00:05:04.699
+Calculo os saldos contábeis de acordo com o período de apuração do tributo.
+
+97
+00:05:04.699 --> 00:05:06.699
+Porque eu já defini no bloco 0.
+
+98
+00:05:06.699 --> 00:05:10.699
+Se eu sou lucro real, lucro presumido, lucro arbitrado, imune isenta.
+
+99
+00:05:10.699 --> 00:05:12.699
+Se eu sou trimestral, se eu sou anual.
+
+100
+00:05:12.699 --> 00:05:14.699
+Se eu sou por caixa, se eu sou por competência.
+
+101
+00:05:14.699 --> 00:05:17.699
+Tudo isso já foi definido lá no bloco 0.
+
+102
+00:05:17.699 --> 00:05:20.699
+Por isso que ele começa a me abrir os blocos.
+
+103
+00:05:20.699 --> 00:05:22.699
+Depende do que eu defini no bloco 0.
+
+104
+00:05:22.699 --> 00:05:24.699
+Olha a importância do bloco 0.
+
+105
+00:05:24.699 --> 00:05:27.699
+E aqui, quando nós comentamos aqui.
+
+106
+00:05:27.699 --> 00:05:30.699
+Saldos finais das contas referenciais.
+
+107
+00:05:30.699 --> 00:05:32.699
+O que é isso?
+
+108
+00:05:32.699 --> 00:05:35.699
+É o plano de contas da Receita Federal.
+
+109
+00:05:35.699 --> 00:05:38.699
+Contas referenciais.
+
+110
+00:05:38.699 --> 00:05:43.699
+Eu tenho que fazer um depara do meu plano de contas para o plano que a Receita quer.
+
+111
+00:05:43.699 --> 00:05:45.699
+E ela nos elenca 10 tipos de plano.
+
+112
+00:05:45.699 --> 00:05:46.699
+Lucro real.
+
+113
+00:05:46.699 --> 00:05:47.699
+Lucro presumido.
+
+114
+00:05:47.699 --> 00:05:49.699
+Então, ela dá os tipos de plano.
+
+115
+00:05:49.699 --> 00:05:50.699
+Perfeito?
+
+116
+00:05:50.699 --> 00:05:57.699
+Então, os cálculos fiscais que a ICF faz é com base no plano referencial.
+
+117
+00:05:57.699 --> 00:05:59.699
+E não no meu plano de contas.
+
+118
+00:05:59.699 --> 00:06:01.699
+Perfeito, gente?
+
+119
+00:06:01.699 --> 00:06:05.699
+Então, esta é a função das contas referenciais.
+
+120
+00:06:05.699 --> 00:06:07.699
+Está lá os cálculos do imposto.
+
+121
+00:06:07.699 --> 00:06:09.699
+Parte B do LALUR também.
+
+122
+00:06:09.699 --> 00:06:12.699
+Que o saldo final de um ano é o saldo final do outro.
+
+123
+00:06:12.699 --> 00:06:15.699
+Então, a recuperação desse bloco E.
+
+124
+00:06:15.699 --> 00:06:17.699
+Que são os dados.
+
+125
+00:06:17.699 --> 00:06:22.699
+É exatamente para certificar se os saldos anteriores estão corretos com o saldo atual.
+
+126
+00:06:22.699 --> 00:06:23.699
+Perfeito?
+
+127
+00:06:23.699 --> 00:06:24.699
+Bloco J.
+
+128
+00:06:24.699 --> 00:06:27.699
+Plano de contas e mapeamento.
+
+129
+00:06:27.699 --> 00:06:32.699
+Apresenta o mapeamento do plano de contas contábil para o plano de contas referencial.
+
+130
+00:06:32.699 --> 00:06:37.699
+Caso a ECD recuperada possua o mapeamento para o plano de contas referencial.
+
+131
+00:06:37.699 --> 00:06:39.699
+Válido na E.C.F.
+
+132
+00:06:39.699 --> 00:06:44.699
+O bloco J pode ser construído automaticamente e é permitido sua edição.
+
+133
+00:06:44.699 --> 00:06:54.699
+Ou seja, o grande X da questão é que lá na ECD não é obrigado eu fazer o referenciamento.
+
+134
+00:06:54.699 --> 00:06:56.699
+É optativo.
+
+135
+00:06:56.699 --> 00:06:58.699
+Mas como vocês vão ver lá no curso.
+
+136
+00:06:58.699 --> 00:07:01.699
+Eu aconselho a fazer o referenciamento lá.
+
+137
+00:07:01.699 --> 00:07:04.699
+Para quando vier para cá já está pronto.
+
+138
+00:07:04.699 --> 00:07:06.699
+Senão você vai ter que fazer aqui.
+
+139
+00:07:06.699 --> 00:07:07.699
+Entendeu?
+
+140
+00:07:07.699 --> 00:07:09.699
+Então, ele é feito lá na ECD.
+
+141
+00:07:09.699 --> 00:07:13.699
+E aí na ECD eu já trago pronto para cá para evitar ter que fazer aqui na E.C.F.
+
+142
+00:07:13.699 --> 00:07:16.699
+Então, é o plano de contas e mapeamento.
+
+143
+00:07:16.699 --> 00:07:20.699
+É o depara do meu plano para o plano da Receita Federal.
+
+144
+00:07:20.699 --> 00:07:21.699
+Do jeito que ela quer.
+
+145
+00:07:21.699 --> 00:07:22.699
+Perfeito?
+
+146
+00:07:22.699 --> 00:07:26.699
+O bloco K são os saldos contábeis referenciais.
+
+147
+00:07:26.699 --> 00:07:29.699
+Ele apresenta saldo das contas contábeis,
+
+148
+00:07:29.699 --> 00:07:33.699
+patrimoniais de resultado do período de apuração
+
+149
+00:07:33.699 --> 00:07:35.699
+e o seu mapeamento para as contas referenciais.
+
+150
+00:07:35.699 --> 00:07:37.699
+Essa é a função.
+
+151
+00:07:37.699 --> 00:07:39.699
+Caso haja recuperação da ECD,
+
+152
+00:07:39.699 --> 00:07:42.699
+o bloco K pode ser construído automaticamente
+
+153
+00:07:42.699 --> 00:07:46.699
+e também permite você editar e fazer as parametrizações.
+
+154
+00:07:46.699 --> 00:07:52.699
+O bloco K também pode ser importado independentemente da recuperação da ECD.
+
+155
+00:07:52.699 --> 00:07:54.699
+São os saldos referenciais.
+
+156
+00:07:54.699 --> 00:07:57.699
+Então, temos aí uma flexibilidade do bloco K.

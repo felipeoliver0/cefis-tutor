@@ -1,0 +1,33 @@
+{
+  "id": 459300,
+  "title": "Família ISO 9000",
+  "position": 3,
+  "duration": 167,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7ad9afe2-7095-49ce-a50d-06246149385d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ad9afe2-7095-49ce-a50d-06246149385d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ad9afe2-7095-49ce-a50d-06246149385d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ad9afe2-7095-49ce-a50d-06246149385d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7ad9afe2-7095-49ce-a50d-06246149385d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

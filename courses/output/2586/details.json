@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2586,
+    "title": "Compensação de Jornada e Banco de Horas",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de compensação de jornada e banco de horas você aprenderá desde os aspectos legais que regulamentam essa prática até pontos relacionados à gestão do banco de horas, esocial, indenizações, compensação na semana, modelo de acordo de compensação e banco de horas, compensação intrajornada e muito mais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/2eb396da8c639e5b36627f8a549f61061728427936.jpg",
+    "goals": [
+      "Apresentar desde os aspectos legais que regulamentam essa prática até pontos relacionados à gestão do banco de horas, esocial, indenizações, compensação na semana, modelo de acordo de compensação e banco de horas, compensação intrajornada e muito mais."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 2231,
+    "keywords": "jornada;banco de horas;jornada de trabalho;jornadas;compensação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 10,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 560,
+    "averageRating": 9.28,
+    "practiceAverage": 9.28,
+    "trailer": {
+      "id": "9036f8da-f49b-4038-9968-6b6c6f9566f9",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9036f8da-f49b-4038-9968-6b6c6f9566f9/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9036f8da-f49b-4038-9968-6b6c6f9566f9/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9036f8da-f49b-4038-9968-6b6c6f9566f9/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9036f8da-f49b-4038-9968-6b6c6f9566f9/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2023-06-12T09:47:07.000Z",
+      "updatedAt": "2023-06-12T09:47:07.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-06-26T15:26:00.000Z",
+    "recordedAt": "2023-05-31T00:00:00.000Z",
+    "createdAt": "2023-06-07T15:47:57.000Z"
+  }
+}

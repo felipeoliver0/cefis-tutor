@@ -1,0 +1,33 @@
+{
+  "id": 482995,
+  "title": "Características da empresa",
+  "position": 6,
+  "duration": 462,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dd51f689-fb1e-47f5-9b4d-971cafe56f3e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd51f689-fb1e-47f5-9b4d-971cafe56f3e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd51f689-fb1e-47f5-9b4d-971cafe56f3e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd51f689-fb1e-47f5-9b4d-971cafe56f3e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd51f689-fb1e-47f5-9b4d-971cafe56f3e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

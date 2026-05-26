@@ -1,0 +1,33 @@
+{
+  "id": 468982,
+  "title": "Decisões Julgadas pelo Carf - Parte 2",
+  "position": 8,
+  "duration": 240,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cc103b8e-844f-41e3-affe-569657680a8b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc103b8e-844f-41e3-affe-569657680a8b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc103b8e-844f-41e3-affe-569657680a8b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc103b8e-844f-41e3-affe-569657680a8b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc103b8e-844f-41e3-affe-569657680a8b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

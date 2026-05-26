@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1612,
+    "title": "Power BI",
+    "subtitle": "Fundamentos e Aplicação",
+    "summary": "Neste curso prático de Power BI, você aprenderá como aplicar essa ferramenta no seu cotidiano. Conhecerá desde os objetivos deste instrumento, até exemplos de aplicação dos recursos, para colocar em prática o conteúdo aprendido.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b8207c4a9e5e7853d67a068eaa30b7381627997280.jpg",
+    "goals": [
+      "Apresentar fundamentos e aplicações práticas do Power BI."
+    ],
+    "teacher": {
+      "id": 524864,
+      "name": "ALEXANDRE SILVA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/1a2ebbcb3c97455e734a2e62d4fb91331628772060.jpg"
+    },
+    "duration": 10111,
+    "keywords": "power BI;Power;BI",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 31,
+    "materialCount": 17,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 906,
+    "averageRating": 9.23,
+    "practiceAverage": 9.23,
+    "trailer": {
+      "id": "5702390f-5832-461b-9488-7911511725a8",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5702390f-5832-461b-9488-7911511725a8/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5702390f-5832-461b-9488-7911511725a8/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5702390f-5832-461b-9488-7911511725a8/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5702390f-5832-461b-9488-7911511725a8/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-08-30T16:10:07.000Z",
+      "updatedAt": "2021-08-30T16:10:07.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-08-03T10:29:20.000Z",
+    "recordedAt": "2021-08-02T00:00:00.000Z",
+    "createdAt": "2021-08-02T18:23:04.000Z"
+  }
+}

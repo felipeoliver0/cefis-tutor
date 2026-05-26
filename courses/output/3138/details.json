@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3138,
+    "title": "Bloco K - Controle da Produção e do Estoque",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Bloco K - Controle da Produção de estoques, você aprenderá pontos que vão desde: cenário digital; Livro Digital - ICMS/IPI; Estrutura do Arquivo; Obrigatoriedade; Cadastros; Registros; Classificação; Movimentações; Itens produzidos; Insumos Consumidos; Remessa; Industrialização em terceiros; Garantia e Reprocessamento bem como muitos outros pontos para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/0b45c5e513a80fb99843b5ee35b2717c1728384316.jpg",
+    "goals": [
+      "Apresentar pontos que vão desde: cenário digital; Livro Digital - ICMS/IPI; Estrutura do Arquivo; Obrigatoriedade; Cadastros; Registros; Classificação; Movimentações; Itens produzidos; Insumos Consumidos; Remessa; Industrialização em terceiros; Garantia e Reprocessamento bem como muitos outros pontos para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 723404,
+      "name": "JOSUÉ PEREIRA",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1716562482.jpeg"
+    },
+    "duration": 11483,
+    "keywords": "bloco k;estoque",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 37,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 791,
+    "averageRating": 9.37,
+    "practiceAverage": 9.25,
+    "trailer": {
+      "id": "54c5771b-82c6-452d-ae43-5511d5adefa2",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/54c5771b-82c6-452d-ae43-5511d5adefa2/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/54c5771b-82c6-452d-ae43-5511d5adefa2/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/54c5771b-82c6-452d-ae43-5511d5adefa2/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/54c5771b-82c6-452d-ae43-5511d5adefa2/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-05-24T14:38:51.000Z",
+      "updatedAt": "2024-05-24T14:38:50.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-05-24T11:20:34.000Z",
+    "recordedAt": "2024-04-25T00:00:00.000Z",
+    "createdAt": "2024-04-29T13:59:20.000Z"
+  }
+}

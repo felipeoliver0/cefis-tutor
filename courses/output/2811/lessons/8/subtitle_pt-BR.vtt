@@ -1,0 +1,357 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:05.960
+os prazos de cancelamento. Existe o cancelamento extemporâneo.
+
+2
+00:00:06.599 --> 00:00:11.930
+O que que fica de atenção pra nós, como a gente tratou os cancelamentos?
+
+3
+00:00:11.939 --> 00:00:14.130
+A gente tem que olhar os estados, né?
+
+4
+00:00:14.140 --> 00:00:18.510
+Alguns estados não dão a opção de cancelamento extemporâneo
+
+5
+00:00:19.219 --> 00:00:21.809
+em regra geral, a gente fala sobre cancelamento,
+
+6
+00:00:21.819 --> 00:00:25.309
+extemporâneo de até quatrocentos e oitenta horas tá,
+
+7
+00:00:25.319 --> 00:00:28.750
+Mas existem estados que trabalham de forma diferente.
+
+8
+00:00:28.760 --> 00:00:32.668
+O cancelamento extemporâneo E o que eu quero trazer aqui pra vocês também tá,
+
+9
+00:00:32.680 --> 00:00:35.990
+Eu fiz um levantamento de como os Estados se posicionam e
+
+10
+00:00:36.000 --> 00:00:38.860
+eu vou trazer isso pra vocês aqui na prática também,
+
+11
+00:00:38.869 --> 00:00:41.229
+mas o cancelamento extemporâneo.
+
+12
+00:00:41.240 --> 00:00:44.549
+É importante comentar com vocês que um cancelamento
+
+13
+00:00:44.560 --> 00:00:47.849
+extemporâneo é a gente bater na porta do fisco
+
+14
+00:00:48.150 --> 00:00:53.259
+mostrando pro fisco que a gente tem uma inconsistência. Concorda que isso?
+
+15
+00:00:53.270 --> 00:00:58.400
+Se o Fisco hoje ele já te dá um primeiro passo de te dar um prazo, por exemplo,
+
+16
+00:00:58.409 --> 00:01:01.240
+de vinte e quatro horas pra cancelar e no segundo momento,
+
+17
+00:01:01.250 --> 00:01:03.959
+ele te dá mais um prazo de um cancelamento extemporâneo.
+
+18
+00:01:03.970 --> 00:01:07.319
+Ele está te dando a permissão de dizer que você
+
+19
+00:01:07.330 --> 00:01:12.279
+ultrapassou o primeiro prazo e você está cancelando extemporaneidade.
+
+20
+00:01:12.290 --> 00:01:15.900
+Ou seja, você está cancelando após o prazo.
+
+21
+00:01:16.160 --> 00:01:19.709
+Normal, né? Que está instituído no seu regulamento.
+
+22
+00:01:19.720 --> 00:01:21.849
+Isso é uma forma da gente demonstrar
+
+23
+00:01:21.860 --> 00:01:24.489
+que existe uma inconsistência naquela operação.
+
+24
+00:01:24.500 --> 00:01:28.489
+Se constantemente a gente dentro da operação do nosso cliente de
+
+25
+00:01:28.500 --> 00:01:33.050
+estar solicitando cancelamento extemporâneo pro nosso fisco pro nosso Estado,
+
+26
+00:01:33.059 --> 00:01:35.529
+a gente está demonstrando que existe uma falha,
+
+27
+00:01:35.540 --> 00:01:38.529
+então tomem muito cuidado quanto aos cancelamentos
+
+28
+00:01:38.540 --> 00:01:42.010
+extemporâneos e não só aos cancelamentos extemporâneos,
+
+29
+00:01:42.019 --> 00:01:44.190
+Mas os cancelamentos também.
+
+30
+00:01:44.430 --> 00:01:47.919
+Os cancelamentos são eventos da nota fiscal eletrônica,
+
+31
+00:01:47.930 --> 00:01:50.440
+assim como as manifestações do destinatário.
+
+32
+00:01:50.449 --> 00:01:53.639
+A gente tem a vinculação dessas desses eventos.
+
+33
+00:01:53.650 --> 00:01:57.629
+Dentro da nota fiscal eletrônica, os cancelamentos as inutiliza.
+
+34
+00:01:57.639 --> 00:02:04.120
+As cartas de correções também são vinculadas às notas fiscais eletrônicas.
+
+35
+00:02:04.129 --> 00:02:08.199
+Ou seja, são eventos que a gente bate na porta do Fisco,
+
+36
+00:02:08.210 --> 00:02:11.500
+no entendimento de que fisco estamos errando.
+
+37
+00:02:12.000 --> 00:02:17.850
+Acontecer esporadicamente, tudo bem, porque existe de fato falhas, né?
+
+38
+00:02:17.860 --> 00:02:23.490
+Existe de fato eh uma inconsistência na operação logística e que a gente precisa,
+
+39
+00:02:23.500 --> 00:02:26.850
+por exemplo, emitir uma um evento de cancelamento.
+
+40
+00:02:26.860 --> 00:02:32.589
+Mas, se isso está constante, a gente tem que retomar o processo da empresa,
+
+41
+00:02:32.600 --> 00:02:34.669
+porque a gente pode estar
+
+42
+00:02:34.770 --> 00:02:36.419
+chamando a atenção do fisco.
+
+43
+00:02:36.429 --> 00:02:41.059
+Então, tomem cuidado quando a gente utilizar o evento de cancelamento,
+
+44
+00:02:41.070 --> 00:02:44.740
+o evento de cancelamento extemporâneo ainda mais tá,
+
+45
+00:02:44.750 --> 00:02:46.899
+então o cancelamento extemporâneo pra alguns
+
+46
+00:02:46.910 --> 00:02:49.259
+estados que permitem o cancelamento extemporâneo.
+
+47
+00:02:49.270 --> 00:02:53.539
+Não são todos, mas alguns estados permitem o cancelamento extemporâneo,
+
+48
+00:02:53.550 --> 00:02:57.440
+é ainda mais grave porque ele te dá o primeiro prazo e o segundo prazo,
+
+49
+00:02:57.539 --> 00:02:59.869
+ele te dá um prazo ainda maior, né?
+
+50
+00:02:59.880 --> 00:03:02.710
+Mas você vai ter que demonstrar pro estado
+
+51
+00:03:02.720 --> 00:03:06.630
+o porquê que você tá ultrapassando o prazo,
+
+52
+00:03:06.639 --> 00:03:06.869
+né?
+
+53
+00:03:06.880 --> 00:03:07.449
+Então,
+
+54
+00:03:07.460 --> 00:03:10.869
+você pode estar dando margem pra que o Fisco comece
+
+55
+00:03:10.880 --> 00:03:12.919
+a olhar o seu cliente de uma outra forma.
+
+56
+00:03:12.929 --> 00:03:13.190
+Então,
+
+57
+00:03:13.199 --> 00:03:20.529
+a atenção quanto a esses prazos de cancelamento tá eh o pedido de cancelamento eh,
+
+58
+00:03:20.539 --> 00:03:23.169
+após o prazo de vinte e quatro horas ou até
+
+59
+00:03:23.380 --> 00:03:29.759
+o cancelamento. Extemporâneo, né? Ele deve seguir algumas informações aqui.
+
+60
+00:03:29.770 --> 00:03:32.669
+No estado de São Paulo, por exemplo, a gente tem a decisão normativa cinco,
+
+61
+00:03:32.679 --> 00:03:35.729
+de dois mil e dezenove aqui em São Paulo.
+
+62
+00:03:35.740 --> 00:03:37.830
+A gente tem a permissão sim do cancelamento,
+
+63
+00:03:37.839 --> 00:03:41.789
+extemporâneo e que tem o prazo de quatrocentos e oitenta horas.
+
+64
+00:03:41.800 --> 00:03:44.350
+Mas existem alguns tipos de penalidades.
+
+65
+00:03:44.360 --> 00:03:46.990
+Tá dos contribuintes que operam pro cancelamento
+
+66
+00:03:47.000 --> 00:03:50.410
+fora desses prazos estabelecidos no regulamento.
+
+67
+00:03:50.699 --> 00:03:54.330
+Então, falta de solicitação de cancelamento de documento fiscal.
+
+68
+00:03:54.339 --> 00:03:58.580
+A gente tem uma multa equivalente a dez por cento sobre o valor da operação e,
+
+69
+00:03:58.589 --> 00:04:01.910
+caso a solicitação após o transcurso do prazo,
+
+70
+00:04:01.919 --> 00:04:04.419
+regulamentar um por cento do valor da
+
+71
+00:04:04.429 --> 00:04:07.669
+operação ou prestação constante no documento.
+
+72
+00:04:07.679 --> 00:04:10.509
+Então o Fisco ele te dá aqui no estado de São Paulo,
+
+73
+00:04:10.520 --> 00:04:14.789
+ele te dá duas opções o cancelamento padrão de vinte e quatro horas.
+
+74
+00:04:14.800 --> 00:04:16.589
+Ele te dá um cancelamento contemporâneo pra
+
+75
+00:04:16.600 --> 00:04:18.970
+você identificar o porquê que você não conseguiu
+
+76
+00:04:19.278 --> 00:04:25.128
+fazer o cancelamento inicial. Se você ultrapassar isso, ele já te trata muito.
+
+77
+00:04:25.139 --> 00:04:28.088
+Tá de em penalidades, como eu comentei com vocês.
+
+78
+00:04:28.098 --> 00:04:30.188
+Então, muito cuidado quanto a isso,
+
+79
+00:04:30.199 --> 00:04:33.289
+a gente pode estar onerando o nosso cliente quanto às penalidades.
+
+80
+00:04:33.299 --> 00:04:33.989
+Mas
+
+81
+00:04:34.700 --> 00:04:37.279
+a gente também pode estar batendo na porta do
+
+82
+00:04:37.290 --> 00:04:40.829
+Fisco e demonstrando uma inconsistência dentro do nosso processo,
+
+83
+00:04:40.839 --> 00:04:41.489
+tá?
+
+84
+00:04:41.500 --> 00:04:47.510
+E novamente alguns estados não permitem o cancelamento extemporâneo, tudo bem.
+
+85
+00:04:47.519 --> 00:04:47.989
+Então,
+
+86
+00:04:48.000 --> 00:04:51.209
+quando a gente fala sobre ultrapassar o prazo
+
+87
+00:04:51.220 --> 00:04:53.350
+e o seu estado não permite o cancelamento,
+
+88
+00:04:53.359 --> 00:04:57.850
+extemporâneo a gente precisa ir até o Sefaz do estado, né?
+
+89
+00:04:57.859 --> 00:05:01.170
+E identificar como a gente pode tratar essa inconsistência

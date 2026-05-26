@@ -1,0 +1,33 @@
+{
+  "id": 486868,
+  "title": "CPC 03 - Apresentação dos fluxos de caixa - Parte 2",
+  "position": 42,
+  "duration": 495,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/e6325496-2f01-4623-bfa1-d2f835715546/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e6325496-2f01-4623-bfa1-d2f835715546/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e6325496-2f01-4623-bfa1-d2f835715546/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e6325496-2f01-4623-bfa1-d2f835715546/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e6325496-2f01-4623-bfa1-d2f835715546/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

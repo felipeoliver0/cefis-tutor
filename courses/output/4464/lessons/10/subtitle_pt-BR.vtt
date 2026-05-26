@@ -1,0 +1,333 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.440
+Pessoal, chegamos à etapa dos eventos de retorno do E-Social,
+
+3
+00:00:05.440 --> 00:00:10.279
+que é uma rotina fundamental para o dia a dia da área de departamento pessoal.
+
+4
+00:00:10.279 --> 00:00:12.519
+O que isso tem a ver?
+
+5
+00:00:12.519 --> 00:00:15.679
+Imagina você toda vez simular o fechamento de uma folha,
+
+6
+00:00:15.679 --> 00:00:17.480
+transmitir os dados para o E-Social
+
+7
+00:00:17.480 --> 00:00:20.820
+e ter que acessar a plataforma para fazer a conferência.
+
+8
+00:00:20.820 --> 00:00:24.019
+Calma, o teu sistema da folha de pagamento pode te dar esse retorno,
+
+9
+00:00:24.019 --> 00:00:28.399
+pode fazer a leitura desses dados que constam no portal do E-Social.
+
+10
+00:00:28.399 --> 00:00:31.899
+Por isso que a gente fala das praticidades desse treinamento.
+
+11
+00:00:31.899 --> 00:00:35.740
+Você precisa explorar as rotinas do seu software de folha.
+
+12
+00:00:35.740 --> 00:00:42.539
+Então, gente, S5001, Contribuições Sociais por Trabalhador.
+
+13
+00:00:42.539 --> 00:00:46.979
+Então, ele vai ler todas as informações da folha,
+
+14
+00:00:46.979 --> 00:00:52.259
+o S1200, 1299, que são os eventos de desligamento do trabalhador,
+
+15
+00:00:52.259 --> 00:00:54.619
+como também do trabalhador sem vínculo de emprego,
+
+16
+00:00:54.619 --> 00:00:57.460
+e vai trazer os dados da parte previdenciária
+
+17
+00:00:57.460 --> 00:00:58.399
+desse empregado,
+
+18
+00:00:58.399 --> 00:01:01.039
+ou desse trabalhador sem vínculo.
+
+19
+00:01:01.039 --> 00:01:04.579
+Automaticamente, você pode ver que é por trabalhador.
+
+20
+00:01:04.579 --> 00:01:07.640
+E aí, você vai conferir se aquela base de cálculo,
+
+21
+00:01:07.640 --> 00:01:10.239
+por exemplo, de um empregado que está afastado pelo INSS,
+
+22
+00:01:10.239 --> 00:01:12.079
+está certa ou não, tá?
+
+23
+00:01:12.079 --> 00:01:14.879
+Então, você vai ter essa facilidade.
+
+24
+00:01:14.879 --> 00:01:19.420
+Esse S5001 é gerado pelo E-Social, não é gerado pelo seu sistema.
+
+25
+00:01:19.420 --> 00:01:24.099
+O E-Social gera ele, devolve para o sistema de folha
+
+26
+00:01:24.099 --> 00:01:27.739
+e em alguma rotina, você vai abrir e vai conferir essa informação
+
+27
+00:01:27.739 --> 00:01:29.500
+no seu sistema, tá?
+
+28
+00:01:29.500 --> 00:01:32.719
+S5002 é o imposto de renda retido na fonte.
+
+29
+00:01:32.719 --> 00:01:35.379
+Então, você vai ter ali os dados do empregado
+
+30
+00:01:35.379 --> 00:01:38.480
+para poder analisar essas informações e conferir
+
+31
+00:01:38.480 --> 00:01:41.319
+se estão batendo ou não, ok?
+
+32
+00:01:41.319 --> 00:01:43.560
+Por fim, o S5003.
+
+33
+00:01:43.560 --> 00:01:47.959
+Olha aí, informação por trabalhador do fundo de garantia.
+
+34
+00:01:47.959 --> 00:01:53.099
+Então, aqui a gente já tem as três apurações por empregado.
+
+35
+00:01:53.099 --> 00:01:56.000
+Lembrando que essa dinâmica de conferência por empregado
+
+36
+00:01:56.000 --> 00:01:57.739
+é centralizada no CPF.
+
+37
+00:01:57.739 --> 00:02:01.079
+Então, você vai ver o que consta no portal do E-Social
+
+38
+00:02:01.079 --> 00:02:03.519
+para aquele movimento daquele mês, tá?
+
+39
+00:02:03.519 --> 00:02:07.280
+Tanto parte previdenciária, fundo de garantia e imposto de renda.
+
+40
+00:02:07.280 --> 00:02:09.460
+Então, nós vimos empregador.
+
+41
+00:02:09.460 --> 00:02:12.960
+Agora, eu quero fazer uma conferência por empresa, Jack.
+
+42
+00:02:12.960 --> 00:02:14.759
+É só para ganhar tempo, é possível?
+
+43
+00:02:14.759 --> 00:02:15.719
+Sim.
+
+44
+00:02:15.719 --> 00:02:22.539
+Existe um evento S5011 de contribuições sociais consolidadas da empresa,
+
+45
+00:02:22.539 --> 00:02:26.800
+onde você vai conferir a parte previdenciária que foi apurada, tá?
+
+46
+00:02:26.800 --> 00:02:27.599
+E aí, envolve...
+
+47
+00:02:27.599 --> 00:02:32.599
+Contribuição previdenciária patronal, alíquota RAT, terceiros...
+
+48
+00:02:32.599 --> 00:02:36.099
+O que você teve de apuração com base na sua folha
+
+49
+00:02:36.099 --> 00:02:38.680
+que você transmitiu que o E-Social recepcionou.
+
+50
+00:02:38.680 --> 00:02:42.240
+Então, você está conferindo o que o E-Social tem como dado.
+
+51
+00:02:42.240 --> 00:02:46.819
+Agora, o S5012 trata do imposto de renda
+
+52
+00:02:46.819 --> 00:02:53.020
+e o S5013 trata como FGTS consolidado também.
+
+53
+00:02:53.020 --> 00:02:54.819
+Qual é a dinâmica desse trabalho?
+
+54
+00:02:54.819 --> 00:02:57.099
+Você vai pegar o seu relatório da folha de pagamento,
+
+55
+00:02:57.099 --> 00:02:59.560
+vai direto para a última página, resumo geral.
+
+56
+00:02:59.560 --> 00:03:02.139
+Quanto que eu tenho da parte previdenciária?
+
+57
+00:03:02.139 --> 00:03:03.539
+R$ 32 mil.
+
+58
+00:03:03.539 --> 00:03:07.379
+Você já vai poder consultar as informações do empregador
+
+59
+00:03:07.379 --> 00:03:09.340
+consolidados ali da parte previdenciária.
+
+60
+00:03:09.340 --> 00:03:10.280
+Tem que estar batendo.
+
+61
+00:03:10.280 --> 00:03:12.280
+Quanto que eu tenho de fundo de garantia?
+
+62
+00:03:12.280 --> 00:03:13.919
+R$ 16 mil.
+
+63
+00:03:13.919 --> 00:03:16.520
+Eu vou lá e conferir se o meu resumo geral
+
+64
+00:03:16.520 --> 00:03:19.319
+está batendo com esse arquivo de retorno do E-Social.
+
+65
+00:03:19.319 --> 00:03:22.360
+Quanto que eu tenho também de imposto de renda retido na fonte?
+
+66
+00:03:22.360 --> 00:03:23.659
+Que eu vou lá e vou fazer a conferência.
+
+67
+00:03:23.659 --> 00:03:27.099
+Resumo geral e essa rotina da sua folha de pagamento.
+
+68
+00:03:27.099 --> 00:03:30.240
+O meu sistema não achei essa rotina.
+
+69
+00:03:30.240 --> 00:03:31.879
+É possível consultar no portal?
+
+70
+00:03:31.879 --> 00:03:35.699
+Sim, é possível também consultar no portal do E-Social.
+
+71
+00:03:35.699 --> 00:03:41.379
+Só que o E-Social é uma ferramenta apenas de receber os dados
+
+72
+00:03:41.379 --> 00:03:43.479
+e deixar disponível para o fisco,
+
+73
+00:03:43.479 --> 00:03:47.080
+como também disponibilizar algumas informações para o trabalhador.
+
+74
+00:03:47.080 --> 00:03:51.699
+Então, não tem tanta dinâmica de demonstrar dados, de tirar relatório,
+
+75
+00:03:51.699 --> 00:03:54.620
+mas você consegue consultar algumas informações.
+
+76
+00:03:54.620 --> 00:03:57.099
+Portanto, estou trazendo aqui na tela para você,
+
+77
+00:03:57.099 --> 00:03:59.800
+se vocês transmitirem a folha de pagamento,
+
+78
+00:03:59.800 --> 00:04:01.300
+vocês vão seguir esse caminho.
+
+79
+00:04:01.300 --> 00:04:06.139
+Folha de pagamento, trabalhador e R por trabalhador.
+
+80
+00:04:06.139 --> 00:04:07.439
+Porque está muito comum nessa época,
+
+81
+00:04:07.439 --> 00:04:09.319
+a gente está consultando imposto de renda.
+
+82
+00:04:09.319 --> 00:04:12.379
+Então, vocês podem seguir essa rotina, essa tela.
+
+83
+00:04:12.379 --> 00:04:14.120
+E você vai inserir o CPF do empregado,
+
+84
+00:04:14.120 --> 00:04:17.660
+você vai ter ali a movimentação de apuração dele do imposto de renda.

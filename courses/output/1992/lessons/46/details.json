@@ -1,0 +1,33 @@
+{
+  "id": 460848,
+  "title": "Exemplo cálculo lucro real - Parte 2",
+  "position": 46,
+  "duration": 272,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8268e756-b6b8-40e0-b03b-50f3ac6c6905/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8268e756-b6b8-40e0-b03b-50f3ac6c6905/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8268e756-b6b8-40e0-b03b-50f3ac6c6905/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8268e756-b6b8-40e0-b03b-50f3ac6c6905/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8268e756-b6b8-40e0-b03b-50f3ac6c6905/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

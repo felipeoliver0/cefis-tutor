@@ -1,0 +1,545 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.099
+lucro real é um formato de apuração de Imposto
+
+2
+00:00:03.109 --> 00:00:07.239
+de Renda e Contribuição social baseado no resultado contábil,
+
+3
+00:00:07.250 --> 00:00:12.420
+após os ajustes decorrentes da legislação tributária, adições e exclusões.
+
+4
+00:00:12.430 --> 00:00:17.040
+Então para que eu todo o cálculo do Imposto de Renda,
+
+5
+00:00:17.049 --> 00:00:20.200
+eu utilizo um negócio que chama Lau,
+
+6
+00:00:20.870 --> 00:00:23.120
+que é o livro de apuração do Lucro real
+
+7
+00:00:23.129 --> 00:00:26.700
+e para a contribuição social S Apuro através do LAX
+
+8
+00:00:27.649 --> 00:00:32.479
+que livro de apuração da contribuição social muito interessante? Por quê?
+
+9
+00:00:33.259 --> 00:00:39.630
+Até antes da criação da S F A gente tinha o LALUR, mas tinha o LAX,
+
+10
+00:00:39.639 --> 00:00:42.069
+mas o LAX não era formalizado como um livro.
+
+11
+00:00:42.080 --> 00:00:46.189
+Aí a gente tinha D I PJ que pegava e fazia os cálculos dos impostos,
+
+12
+00:00:46.200 --> 00:00:50.189
+mas nunca foi formalizado o cálculo da contribuição social como
+
+13
+00:00:50.200 --> 00:00:52.590
+um livro tá e a gente tinha lá o LALUR,
+
+14
+00:00:52.599 --> 00:00:57.590
+a anteriormente e aí a S F veio e substituiu a obrigatoriedade do LALUR.
+
+15
+00:00:57.599 --> 00:00:59.490
+Tá bom beleza.
+
+16
+00:01:00.099 --> 00:01:05.690
+Tudo isso aqui é apresentado hoje num tal do negócio que chama e C F,
+
+17
+00:01:06.370 --> 00:01:10.699
+que é a escrituração contábil fiscal, o LALUR e o LAX.
+
+18
+00:01:10.709 --> 00:01:14.339
+Eles partem do resultado antes dos tributos.
+
+19
+00:01:14.349 --> 00:01:18.419
+Se você for lá no LALUR, ele fala assim oh lucro antes do imposto de renda.
+
+20
+00:01:18.430 --> 00:01:22.319
+E aí no meio dos itens lá ele vai e adiciona a contribuição social
+
+21
+00:01:23.040 --> 00:01:25.849
+que chega no valor efetivo dos impostos,
+
+22
+00:01:25.860 --> 00:01:29.569
+do lucro contábil antes dos impostos adições.
+
+23
+00:01:29.580 --> 00:01:36.449
+Eu tenho um valor que reduziu o meu resultado, mas a Receita Federal não aceita.
+
+24
+00:01:36.459 --> 00:01:41.069
+Por exemplo, vou fazer o básico doações. Fiz uma doação pra igreja.
+
+25
+00:01:42.449 --> 00:01:47.120
+A doação é uma despesa da empresa, mas ela não é dedutível. Eu vou lá e adiciono
+
+26
+00:01:48.940 --> 00:01:53.209
+bom beleza. Tomei uma multa por infração. Adiciono
+
+27
+00:01:54.940 --> 00:01:55.910
+re aumentando.
+
+28
+00:01:55.919 --> 00:02:00.610
+Então tudo isso eu estou fazendo o que estou aumentando o meu resultado tributável.
+
+29
+00:02:01.269 --> 00:02:01.680
+Bom,
+
+30
+00:02:01.690 --> 00:02:03.550
+a gente tem uma discussão muito grande
+
+31
+00:02:03.559 --> 00:02:06.279
+rodando aí que chama subvenções para investimento.
+
+32
+00:02:06.290 --> 00:02:09.800
+As subvenções para o investimento é o que é
+
+33
+00:02:09.809 --> 00:02:12.619
+um item que está aumentando o meu resultado.
+
+34
+00:02:12.630 --> 00:02:16.080
+Entretanto, entretanto, pela legislação tributária,
+
+35
+00:02:16.089 --> 00:02:17.740
+eu posso fazer o que pessoal?
+
+36
+00:02:18.490 --> 00:02:21.399
+Eu posso excluir do meu resultado Eu vou e
+
+37
+00:02:21.410 --> 00:02:24.029
+lanço aqui aí ele reduz o meu resultado tributável.
+
+38
+00:02:24.039 --> 00:02:24.979
+Bom,
+
+39
+00:02:24.990 --> 00:02:29.800
+vamos imaginar que a nossa depreciação societária é maior do
+
+40
+00:02:29.809 --> 00:02:32.759
+que a depreciação que eu posso Pela legislação fiscal,
+
+41
+00:02:32.770 --> 00:02:37.039
+eu vou adiciono a depreciação societária e excluo
+
+42
+00:02:37.820 --> 00:02:39.490
+a depreciação tributária
+
+43
+00:02:40.500 --> 00:02:41.369
+leasing.
+
+44
+00:02:41.380 --> 00:02:42.669
+A gente falou sobre o leasing,
+
+45
+00:02:42.679 --> 00:02:50.190
+O valor da depreciação do bem adquirido mediante leasing e os juros do contrato.
+
+46
+00:02:50.199 --> 00:02:52.169
+Mediante leasing, eu adiciono
+
+47
+00:02:53.339 --> 00:02:58.369
+a contraprestação que é o pagamento mensal que é tido como aluguel. Eu excluo
+
+48
+00:02:59.880 --> 00:03:02.770
+então pra isso que serve aí tudo que a
+
+49
+00:03:02.779 --> 00:03:06.050
+gente falou agora há pouco de diferença temporária.
+
+50
+00:03:06.059 --> 00:03:11.169
+Arrasta pra frente, joga pra frente, isso e aquilo. É isso que a gente tá falando.
+
+51
+00:03:11.179 --> 00:03:13.850
+Lógico que existem outras situações também,
+
+52
+00:03:13.860 --> 00:03:17.869
+mas hoje a gente tem muito isso aqui E é o que a norma
+
+53
+00:03:17.880 --> 00:03:22.509
+tava explicando pra nós E agora a gente entrou na parte tributária e nós vamos
+
+54
+00:03:22.889 --> 00:03:25.160
+reforçar e entender melhor isso aqui.
+
+55
+00:03:25.169 --> 00:03:28.860
+Então de uma forma bem simples, pessoal, lucro real é o lucro contábil.
+
+56
+00:03:28.869 --> 00:03:29.960
+Antes dos impostos,
+
+57
+00:03:30.729 --> 00:03:34.720
+mais as adições, menos as exclusões. Achei a base de cálculo do imposto.
+
+58
+00:03:34.729 --> 00:03:37.039
+Pode acontecer daqui, tá positivo,
+
+59
+00:03:37.970 --> 00:03:40.979
+mas na hora que eu jogar as exclusões, isso aqui fica negativo.
+
+60
+00:03:40.990 --> 00:03:43.149
+Então o que qual que é o grande problema hoje,
+
+61
+00:03:43.160 --> 00:03:47.059
+que muita gente deve tá ouvindo falar das subvenções aí pra investimento é que na
+
+62
+00:03:47.070 --> 00:03:52.419
+hora que eu pego o meu resultado contábil antes dos impostos jogo as subvenções,
+
+63
+00:03:52.429 --> 00:03:55.960
+zera a minha base de cálculo ou ela fica negativa.
+
+64
+00:03:55.970 --> 00:03:57.360
+A empresa não paga imposto
+
+65
+00:03:59.009 --> 00:04:04.220
+segmentos altamente beneficiados, por exemplo, agronegócio,
+
+66
+00:04:04.229 --> 00:04:07.119
+segmento relacionado a itens da cesta básica.
+
+67
+00:04:07.809 --> 00:04:10.460
+Gente praticamente não tem mais imposto pra
+
+68
+00:04:10.470 --> 00:04:12.020
+pagar imposto de Renda e contribuição social.
+
+69
+00:04:12.029 --> 00:04:14.979
+Lógico que aí tem outras regras específicas que a legislação diz.
+
+70
+00:04:14.990 --> 00:04:17.540
+A gente não vai entrar nesse método que não é meu objetivo aqui,
+
+71
+00:04:17.548 --> 00:04:19.070
+mas essa é a grande sacada.
+
+72
+00:04:19.079 --> 00:04:22.059
+Então empresa deu lucro, mas não tem imposto.
+
+73
+00:04:22.070 --> 00:04:27.220
+Empresa deu lucro e tem tributo de ferido ativo benefício,
+
+74
+00:04:27.230 --> 00:04:29.329
+porque a base de carro ficou negativa.
+
+75
+00:04:29.339 --> 00:04:34.559
+Mas, pode, Thiago pode, assim como a empresa pode. Tá apurando prejuízo,
+
+76
+00:04:34.920 --> 00:04:36.250
+mas eu dou o imposto a pagar.
+
+77
+00:04:36.260 --> 00:04:39.450
+Vamos imaginar que a empresa tá com prejuízo, mas na hora que eu olho,
+
+78
+00:04:39.459 --> 00:04:45.589
+as multas que ela teve tributária, de que teve autuação e tudo mais, foi gigante.
+
+79
+00:04:45.600 --> 00:04:48.890
+Eu vou lá e tenho que adicionar ela pra tirar do efeito do imposto.
+
+80
+00:04:48.899 --> 00:04:51.809
+E eu ainda, além de ter que pagar a multa por coisa que eu errei.
+
+81
+00:04:51.820 --> 00:04:55.910
+Ainda vou ter o que o Imposto de Renda e a contribuição social a serem pagos.
+
+82
+00:04:56.570 --> 00:04:57.720
+Tá bom, Então, vamos seguir.
+
+83
+00:04:59.190 --> 00:05:02.619
+Todas as pessoas jurídicas podem optar pelo lucro real,
+
+84
+00:05:02.630 --> 00:05:06.839
+sendo que algumas delas são obrigadas a esse regime, ficando, portanto,
+
+85
+00:05:06.850 --> 00:05:10.420
+impedida de se enquadrarem no lucro presumido ou simples nacional.
+
+86
+00:05:12.279 --> 00:05:16.049
+Quem são, a partir de primeiro de janeiro de dois mil, e quatorze,
+
+87
+00:05:16.059 --> 00:05:19.929
+com a publicação da Lei doze oitocentos e quatorze dois mil e treze, foi aumentado.
+
+88
+00:05:19.940 --> 00:05:23.170
+O limite pra opção do regime de tributação com base presumido
+
+89
+00:05:23.179 --> 00:05:26.790
+era quarenta e oito foi pra setenta e oito milhões.
+
+90
+00:05:26.799 --> 00:05:33.369
+Quem tem receita nesse num exercício acima de setenta e oito milhões no próximo ano,
+
+91
+00:05:33.380 --> 00:05:36.390
+ele já é de Ele, já é obrigado ao lucro real.
+
+92
+00:05:36.399 --> 00:05:41.470
+Ah, mas eu não vou chegar na receita de setenta e oito. Foi um acaso. A regra, diz isso
+
+93
+00:05:44.380 --> 00:05:50.369
+opa cuja atividade sejam bancos comerciais, de investimento, desenvolvimento,
+
+94
+00:05:50.380 --> 00:05:51.329
+caixa econômica,
+
+95
+00:05:51.339 --> 00:05:55.269
+sociedade de crédito relacionado ao mercado financeiro pessoal.
+
+96
+00:05:55.279 --> 00:05:57.790
+Obrigado ao lucro real.
+
+97
+00:05:57.799 --> 00:06:02.670
+Tem uma situação específica que vincula ao Simples Nacional, mas é bem específico.
+
+98
+00:06:02.679 --> 00:06:03.290
+Tá
+
+99
+00:06:03.709 --> 00:06:08.079
+que tiveram lucros, rendimentos ou ganhos de capital oriundos do exterior que,
+
+100
+00:06:08.089 --> 00:06:10.320
+autorizadas pela legislação tributária,
+
+101
+00:06:10.329 --> 00:06:14.059
+usufruem de benefícios fiscais relativos a isenção ou redução de impostos.
+
+102
+00:06:14.070 --> 00:06:18.480
+Sudene Sudam, por aí vai que no decorrer do ano,
+
+103
+00:06:18.489 --> 00:06:22.980
+o calendário tem efetivado pagamento mensal pelo regime de estimativa.
+
+104
+00:06:23.559 --> 00:06:27.250
+Quando que eu faço a opção pelo lucro real ou presumido
+
+105
+00:06:27.260 --> 00:06:30.869
+com o pagamento do primeiro imposto que apurar no no ano.
+
+106
+00:06:31.920 --> 00:06:34.929
+Se por algum motivo eu fui lá e paguei uma
+
+107
+00:06:34.940 --> 00:06:38.750
+estimativa com o Darf com um código de lucro real,
+
+108
+00:06:39.649 --> 00:06:43.000
+tô no lucro real. Não! Thiago Errei, Vou fazer um reda. Esquece?
+
+109
+00:06:43.010 --> 00:06:45.160
+Esse é a única situação que cê não muda
+
+110
+00:06:45.760 --> 00:06:49.170
+que explorem as atividades de prestação cumulativa e
+
+111
+00:06:49.179 --> 00:06:52.730
+contínua de serviço de assessoria creditícia mercadológica,
+
+112
+00:06:52.739 --> 00:06:54.250
+gestão de crédito,
+
+113
+00:06:54.260 --> 00:06:59.649
+seleção de risco e administração de contas a pagar e receber compras de direito
+
+114
+00:06:59.660 --> 00:07:03.670
+creditório e resultante de vendas mercantis a prazo ou prestação de serviço de FC,
+
+115
+00:07:03.679 --> 00:07:06.470
+também muito vinculado a parte financeira, né?
+
+116
+00:07:07.119 --> 00:07:10.609
+Que dediquem a construção e corporação compre e venda
+
+117
+00:07:10.619 --> 00:07:13.369
+de imóveis que tenham registro de custo orçado,
+
+118
+00:07:13.380 --> 00:07:15.790
+nos termos das normas aplicáveis a essas atividades.
+
+119
+00:07:15.799 --> 00:07:18.429
+Aí tem que pegar a norma lá específica e ver
+
+120
+00:07:19.260 --> 00:07:23.010
+que sejam sociedade de propósito específico formada por microempresas
+
+121
+00:07:23.019 --> 00:07:25.570
+e empresas de pequeno porte optante pelo Simples Nacional
+
+122
+00:07:26.220 --> 00:07:30.350
+que explorem as atividades de securitização de créditos imobiliários,
+
+123
+00:07:30.359 --> 00:07:32.970
+financeiros e do agronegócio.
+
+124
+00:07:34.309 --> 00:07:35.029
+Bom.
+
+125
+00:07:35.040 --> 00:07:39.839
+Então a gente entendeu ali que são vários segmentos que tem algumas travas,
+
+126
+00:07:39.850 --> 00:07:42.119
+principalmente relacionada ao mercado financeiro.
+
+127
+00:07:42.130 --> 00:07:42.679
+Tá bom,
+
+128
+00:07:42.690 --> 00:07:46.299
+tem uma parte lá do mercado imobiliário e a questão da
+
+129
+00:07:46.309 --> 00:07:50.309
+receita ultrapassar setenta e oito milhões no de neste ex-,
+
+130
+00:07:50.320 --> 00:07:51.859
+num exercício que antecede
+
+131
+00:07:53.329 --> 00:07:56.820
+Thiago, a minha empresa estourou setenta e oito milhões.
+
+132
+00:07:56.829 --> 00:08:01.029
+Nesse a num ano X um, aí ele foi de ele.
+
+133
+00:08:01.040 --> 00:08:04.779
+Te foi obrigado no ano seguinte a ser lucro real, mas aí não bateu.
+
+134
+00:08:04.790 --> 00:08:07.339
+Setenta e oito milhões nesse exercício no próximo
+
+135
+00:08:07.350 --> 00:08:11.000
+eu posso voltar pro presumido sim tranquilamente,
+
+136
+00:08:12.470 --> 00:08:15.779
+mas a gente vai ter que ficar um ano, um ano no lucro real.

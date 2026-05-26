@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3067,
+    "title": "Retenções Tributárias na Fonte (ISS – IRRF – CSRF – INSS)",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Retenções Tributárias na Fonte você vai aprender tópicos como Introdução Retenções na Fonte; Retenção do ISS; Retenção do IRRF; Retenção da CSRF; Cruzamento do IRRF e CSRF nas Obrigações Acessórias; Retenção do INSS; Retenções no Simples Nacional; Dispensa de valores menores que R$ 10,00 e muitos outros pontos para colocar na prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/0123e55d4ab41d8a2b65e98f2c0f7c4b1728385952.jpg",
+    "goals": [
+      "Apresentar tópicos como Introdução Retenções na Fonte; Retenção do ISS; Retenção do IRRF; Retenção da CSRF; Cruzamento do IRRF e CSRF nas Obrigações Acessórias; Retenção do INSS; Retenções no Simples Nacional; Dispensa de valores menores que R$ 10,00 e muitos outros pontos para colocar na prática os conhecimentos obtidos."
+    ],
+    "teacher": {
+      "id": 678564,
+      "name": "Joy",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1695757367.jpeg"
+    },
+    "duration": 8094,
+    "keywords": "retenções tributarias;retenções tributárias na fonte",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 55,
+    "materialCount": 3,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 7771,
+    "averageRating": 9.61,
+    "practiceAverage": 9.58,
+    "trailer": {
+      "id": "6d899817-6e91-43ab-805a-f2b443fea5db",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6d899817-6e91-43ab-805a-f2b443fea5db/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6d899817-6e91-43ab-805a-f2b443fea5db/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6d899817-6e91-43ab-805a-f2b443fea5db/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/6d899817-6e91-43ab-805a-f2b443fea5db/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-04-05T06:38:25.000Z",
+      "updatedAt": "2024-04-05T06:38:24.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-04-11T11:53:54.000Z",
+    "recordedAt": "2024-03-01T00:00:00.000Z",
+    "createdAt": "2024-03-06T22:51:31.000Z"
+  }
+}

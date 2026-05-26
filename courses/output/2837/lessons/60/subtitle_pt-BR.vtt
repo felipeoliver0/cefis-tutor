@@ -1,0 +1,317 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.960
+obrigações tributárias a pagar pessoal.
+
+2
+00:00:03.970 --> 00:00:07.179
+Bom, quando a gente fala de obrigações tributárias a pagar, a gente fala assim.
+
+3
+00:00:07.190 --> 00:00:11.739
+Nossa Thiago é uma infinidade de obrigações sim uma infinidade.
+
+4
+00:00:11.750 --> 00:00:16.600
+Eu posso ter imposto de renda? I C, M S PIS COFINS i P i
+
+5
+00:00:17.340 --> 00:00:21.430
+i O f por aí vai diversas diversas, dependendo do tipo de operação,
+
+6
+00:00:21.440 --> 00:00:23.750
+mas sempre sempre eu vou ter o quê?
+
+7
+00:00:23.760 --> 00:00:27.690
+Uma obrigação acessória que me mostra o valor que foi apurado aquele imposto,
+
+8
+00:00:28.639 --> 00:00:31.350
+eu vou ter uma planilha, um relatório do sistema,
+
+9
+00:00:31.360 --> 00:00:34.509
+alguma coisa que me mostra o que a memória de cálculo
+
+10
+00:00:35.979 --> 00:00:39.630
+e eu vou ter ainda os comprovantes de recolhimento, por exemplo,
+
+11
+00:00:39.639 --> 00:00:44.310
+o Imposto de Renda e a contribuição social no fechamento mensal.
+
+12
+00:00:44.319 --> 00:00:49.130
+Eu não vou ter obrigação acessória, porque a C F é só depois que a gente manda certo.
+
+13
+00:00:49.709 --> 00:00:55.599
+Agora no simples tá aqui o dan que é a declaração lá de apuração do Simples Nacional.
+
+14
+00:00:55.610 --> 00:00:56.080
+Bom,
+
+15
+00:00:56.090 --> 00:00:59.680
+então eu tenho depois pra validar se foi pago ou não o imposto
+
+16
+00:00:59.689 --> 00:01:02.229
+que o Darf e o Dário do A que é o Darf,
+
+17
+00:01:02.240 --> 00:01:04.410
+que é o documento de reputação federal da área,
+
+18
+00:01:04.419 --> 00:01:08.000
+que é o documento de arrecadação estadual docu, e o do A,
+
+19
+00:01:08.010 --> 00:01:11.220
+que é o documento único de arrecadação municipal, né?
+
+20
+00:01:11.550 --> 00:01:14.160
+A reforma tributária vai dar uma mudada nisso aí, um pouquinho, né?
+
+21
+00:01:14.169 --> 00:01:15.959
+Mas vamos manter esse mesmo critério.
+
+22
+00:01:15.970 --> 00:01:20.940
+Em regra, é o que é a obrigação acessória que calculou ou uma memória de cálculo,
+
+23
+00:01:20.949 --> 00:01:22.739
+e o documento comprovando
+
+24
+00:01:24.569 --> 00:01:28.480
+bom que que a gente precisa pra gente fazer algumas validações,
+
+25
+00:01:28.489 --> 00:01:31.239
+pegar também os extratos de comprovante de recolhimento
+
+26
+00:01:31.250 --> 00:01:33.300
+através do certificado digital que aí AH,
+
+27
+00:01:33.309 --> 00:01:35.180
+pagou, vou lá pelo E!
+
+28
+00:01:35.190 --> 00:01:37.959
+C A que t o relatório do que foi pago de impostos.
+
+29
+00:01:39.809 --> 00:01:42.739
+Que tipo de confirmação que a gente faz confirma.
+
+30
+00:01:42.750 --> 00:01:45.300
+O saldo contábil Com as obrigações acessórias
+
+31
+00:01:45.309 --> 00:01:47.540
+testa os lançamentos com as memórias de
+
+32
+00:01:47.550 --> 00:01:52.419
+cálculo e comprovante de recolhimento e testa os juros de pagamentos em atraso,
+
+33
+00:01:52.430 --> 00:01:54.260
+caso exista tributo em atraso.
+
+34
+00:01:54.269 --> 00:02:00.339
+Testar a atualização do saldo se deixou de pagar o tributo tá atrasado todo mês,
+
+35
+00:02:00.349 --> 00:02:01.919
+ali tem um juros e tem uma multa.
+
+36
+00:02:01.930 --> 00:02:05.279
+Precisa se saber esses juros, essa multa e registrá lo Tá bom
+
+37
+00:02:05.940 --> 00:02:08.850
+bom, vamos dar uma olhada no modelo que a gente tem ali de
+
+38
+00:02:09.538 --> 00:02:13.529
+obrigações tributárias a pagar só um minutinho pessoal,
+
+39
+00:02:14.199 --> 00:02:16.070
+vamos aqui, oh, pessoal, olha só
+
+40
+00:02:17.169 --> 00:02:19.720
+especificamente uma determinada empresa
+
+41
+00:02:20.369 --> 00:02:23.160
+gerou lá um débito de I R. De
+
+42
+00:02:24.529 --> 00:02:29.009
+três milhões e vinte e cinco e contribuição social de um milhão e noventa. E um. Como?
+
+43
+00:02:29.020 --> 00:02:33.250
+Lembrando que grande parte dos boa parte dos lançamentos, dos impostos,
+
+44
+00:02:33.259 --> 00:02:37.300
+quem faz somos nós mesmo, da contabilidade na nossa conciliação,
+
+45
+00:02:37.309 --> 00:02:39.800
+no nosso processo, aqui a gente já traz o quê?
+
+46
+00:02:40.539 --> 00:02:44.149
+Uma uma memória De qual conta eu vou debitar e creditar
+
+47
+00:02:44.160 --> 00:02:47.119
+quais são os históricos contábeis que a gente vai registrar?
+
+48
+00:02:47.130 --> 00:02:51.229
+OPA beleza No caso do Imposto de Renda, fui lá e lancei a despesa de imposto de Renda.
+
+49
+00:02:51.240 --> 00:02:52.589
+O passivo de Imposto de Renda,
+
+50
+00:02:52.600 --> 00:02:55.729
+Despesa de contribuição social passivo de contribuição social.
+
+51
+00:02:56.330 --> 00:03:00.940
+Bom, eu sei que essa empresa aqui tinha um prejuízo fiscal de um exercício anterior.
+
+52
+00:03:00.949 --> 00:03:07.860
+Eu já opa, reduzi o valor a pagar, abatendo de deduzi esse imposto,
+
+53
+00:03:07.869 --> 00:03:09.440
+esse prejuízo fiscal.
+
+54
+00:03:10.399 --> 00:03:13.830
+Sei também que lá no meu ativo tive uns resgates,
+
+55
+00:03:13.839 --> 00:03:16.839
+uns i referentes aos resgates de aplicação.
+
+56
+00:03:16.850 --> 00:03:22.250
+Já vou e faço o abatimento, Então sobra o valor a pagar saldo final na conta de I,
+
+57
+00:03:22.259 --> 00:03:25.429
+R de contribuição de dois milhões e novecentos e setenta e quatro
+
+58
+00:03:26.059 --> 00:03:30.050
+beleza para ter a segurança que que a gente faz?
+
+59
+00:03:30.059 --> 00:03:33.309
+Esse é o tipo de conciliação que a gente fecha, ela aqui.
+
+60
+00:03:33.320 --> 00:03:36.630
+Mas a gente dá continuidade depois dos pagamentos.
+
+61
+00:03:36.639 --> 00:03:40.949
+Então, quando chegou lá no início do mês seguinte, no final do mês seguinte,
+
+62
+00:03:40.960 --> 00:03:44.669
+a gente fez compensação de boa parte dos débitos,
+
+63
+00:03:44.679 --> 00:03:49.330
+através de de MPs sobrando um saldo ali de
+
+64
+00:03:49.690 --> 00:03:52.520
+de quatrocentos e trinta e cinco e de quinhentos e
+
+65
+00:03:52.529 --> 00:03:55.589
+setenta e quatro a pagar foi pago mediante darf.
+
+66
+00:03:55.600 --> 00:04:01.119
+Então a gente teve lá a liquidação de todos os tributos. Então, observa,
+
+67
+00:04:01.759 --> 00:04:07.009
+eu lidei uma parte com prejuízo fiscal. Eu liquide uma parte com retenção.
+
+68
+00:04:07.020 --> 00:04:09.369
+Eu liquide uma parte com compensação.
+
+69
+00:04:09.380 --> 00:04:13.110
+Tudo isso aqui foi feito onde dentro da contabilidade
+
+70
+00:04:13.860 --> 00:04:19.149
+nós fizemos, nós rodamos as obrigações acessórias, nós contabilizamos,
+
+71
+00:04:19.160 --> 00:04:21.428
+geramos um saldo pra pagamento em Darf.
+
+72
+00:04:21.440 --> 00:04:24.869
+Aí o financeiro lá remetemos o darf pra área específica.
+
+73
+00:04:24.880 --> 00:04:30.829
+Então esta é uma atividade compartilhada, da contabilidade com as outras áreas.
+
+74
+00:04:30.839 --> 00:04:33.149
+Então isso que a gente tem que observar muito.
+
+75
+00:04:33.160 --> 00:04:35.170
+Quando a gente fala da parte de impostos
+
+76
+00:04:35.459 --> 00:04:39.309
+somos nós que calculamos, somos nós que contabilizamos.
+
+77
+00:04:39.320 --> 00:04:41.709
+E parte das liquidações,
+
+78
+00:04:41.720 --> 00:04:46.070
+compensações deduções é efetuada dentro do time da contabilidade,
+
+79
+00:04:46.079 --> 00:04:51.170
+então a gente tem uma atividade operacional ali pra essas contas tá

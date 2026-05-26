@@ -1,0 +1,33 @@
+{
+  "id": 479151,
+  "title": "SAFE",
+  "position": 14,
+  "duration": 390,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4c8bcdb7-680c-4326-b416-74ad8a989235/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c8bcdb7-680c-4326-b416-74ad8a989235/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c8bcdb7-680c-4326-b416-74ad8a989235/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c8bcdb7-680c-4326-b416-74ad8a989235/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4c8bcdb7-680c-4326-b416-74ad8a989235/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

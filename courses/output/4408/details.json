@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4408,
+    "title": "Lucro presumido",
+    "subtitle": "Guia Completo com as Mudanças Recentes",
+    "summary": "Neste curso Lucro Presumido: Guia Completo com as Mudanças Recentes você irá aprender na prática tudo o que precisa saber sobre a tributação do lucro presumido. Aprenderá os fundamentos e a prática de Regimes e periodicidade, Distribuição das empresas por regime tributário e Alíquotas e base de cálculo do IRPJ e CSLL, além de vários outros temas para você que deseja se atualizar ou aprender tudo sobre a tributação do lucro presumido.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/b43afefd-8c24-4cc3-a80f-e52b6c583ed1-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Lucro Presumido: Guia Completo com as Mudanças Recentes é a capacitação para a aplicação prática de compreender as mudanças recentes e os conceitos fundamentais do regime de lucro presumido, incluindo a distribuição das empresas por regime tributário, exercício social, evolução histórica, opção pelo lucro presumido, ajuste a valor justo, escrituração contábil, livros contábeis, alíquotas e base de cálculo do IRPJ e CSLL, dedução do imposto apurado, percentuais de presunção, atividades diversificadas, alteração na forma de tributação, venda de ativo imobilizado, acréscimo das demais receitas, lucro presumido, tributação das receitas financeiras, regime de caixa, alteração do regime, tributação da variação cambial, controle da variação cambial, bônus de adimplência fiscal, ajuste a valor presente, tributação do PIS e COFINS, PIS e COFINS - Deduções permitidas, distribuição de lucros e dividendos, tipos de impostos e principais alterações na legislação para 2026."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 29424,
+    "keywords": "lucro;presumido",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 92,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 206,
+    "averageRating": 9.48,
+    "practiceAverage": 9.46,
+    "trailer": {
+      "id": "383b2ae4-a914-48db-af12-54ee23d57bcb",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/383b2ae4-a914-48db-af12-54ee23d57bcb/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/383b2ae4-a914-48db-af12-54ee23d57bcb/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/383b2ae4-a914-48db-af12-54ee23d57bcb/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/383b2ae4-a914-48db-af12-54ee23d57bcb/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-02-27T10:55:57.000Z",
+      "updatedAt": "2026-02-27T10:55:57.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-02-27T23:34:47.000Z",
+    "recordedAt": "2026-02-09T00:00:00.000Z",
+    "createdAt": "2026-02-08T23:09:13.000Z"
+  }
+}

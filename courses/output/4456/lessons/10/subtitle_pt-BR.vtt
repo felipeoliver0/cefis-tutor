@@ -1,0 +1,165 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.440
+Bom pessoal, dando sequência à nossa aula sobre IA para contadores,
+
+3
+00:00:06.440 --> 00:00:12.019
+vamos falar agora sobre transparência e segurança.
+
+4
+00:00:12.019 --> 00:00:19.320
+Esse é um princípio bastante importante, onde o titular dos dados deve ter acesso claro
+
+5
+00:00:19.320 --> 00:00:26.260
+às informações sobre o tratamento dos seus dados, inclusive sobre os usos de soluções de IA
+
+6
+00:00:26.260 --> 00:00:32.600
+quando elas forem aplicadas ao tratamento de dados pessoais.
+
+7
+00:00:32.600 --> 00:00:41.600
+Resumindo pessoal, você deve deixar o seu cliente, o seu parceiro, ciente do uso desses dados
+
+8
+00:00:41.600 --> 00:00:45.420
+e se ele vai ser usado por IA e de que forma.
+
+9
+00:00:45.420 --> 00:00:51.020
+Pessoal, a gente costuma brincar que o combinado não sai caro.
+
+10
+00:00:51.020 --> 00:00:53.719
+Então não custa nada você avisar.
+
+11
+00:00:53.719 --> 00:00:56.259
+Eventualmente, se depois acontecer
+
+12
+00:00:56.259 --> 00:01:01.259
+alguma coisa, estava avisado, estava tudo combinado.
+
+13
+00:01:01.259 --> 00:01:10.140
+Embora a lei geral de proteção de dados, a LGPD, não exija que o escritório revele detalhes técnicos
+
+14
+00:01:10.140 --> 00:01:16.319
+de como a IA funciona, de fato não exige, é necessário que os clientes saibam
+
+15
+00:01:16.319 --> 00:01:20.560
+quando os seus dados estão sendo usados, com qual finalidade e que medidas de segurança
+
+16
+00:01:20.560 --> 00:01:26.260
+foram implementadas e quais os direitos do titular em relação a esse tratamento.
+
+17
+00:01:26.260 --> 00:01:32.760
+Normalmente a gente não lê pessoal, mas a maior parte dos sistemas e sites tem lá os termos de uso
+
+18
+00:01:32.760 --> 00:01:36.439
+que normalmente a gente simplesmente confirma.
+
+19
+00:01:36.439 --> 00:01:41.480
+Você não precisa chegar nesse nível de detalhamento, mas é bom que isso seja claro.
+
+20
+00:01:41.480 --> 00:01:44.120
+Essa clareza é muito importante.
+
+21
+00:01:44.120 --> 00:01:50.480
+Então a própria estrutura de responsabilização, a accountability,
+
+22
+00:01:50.480 --> 00:01:56.159
+responsabilização prevista na LGPD, coloca sobre o escritório a obrigação de demonstrar
+
+23
+00:01:56.159 --> 00:02:04.159
+que medidas técnicas e organizacionais adequadas foram adotadas para proteger os dados pessoais
+
+24
+00:02:04.159 --> 00:02:07.840
+sob controle seu ou do seu escritório.
+
+25
+00:02:07.840 --> 00:02:12.840
+Isso inclui não apenas políticas internas documentadas, mas registros de decisão,
+
+26
+00:02:12.840 --> 00:02:19.979
+avaliação de risco, fluxo de tratamento de dados e evidência de que verificações foram feitas
+
+27
+00:02:19.979 --> 00:02:25.020
+antes da adoção de qualquer solução automatizada.
+
+28
+00:02:25.020 --> 00:02:26.159
+Então falando um pouquinho mais
+
+29
+00:02:26.159 --> 00:02:30.840
+aqui no contexto da Lei Geral de Proteção de Dados, da LGPD,
+
+30
+00:02:30.840 --> 00:02:35.800
+a IA não transfere responsabilidade técnica.
+
+31
+00:02:35.800 --> 00:02:39.599
+O responsável continua sendo o contador.
+
+32
+00:02:39.599 --> 00:02:46.340
+Então, como nós falamos, a IA não é um piloto automático, é um copiloto.
+
+33
+00:02:46.340 --> 00:02:48.979
+O responsável continua sendo o piloto.
+
+34
+00:02:48.979 --> 00:02:53.819
+A IA é seu copiloto, mas o responsável é o contador.
+
+35
+00:02:53.819 --> 00:02:56.159
+Quando falamos da LGPD aplicada à rotina,
+
+36
+00:02:56.159 --> 00:03:03.699
+contábil com IA, temos que tomar cuidado com os dados pessoais, dados sensíveis.
+
+37
+00:03:03.699 --> 00:03:08.599
+E aqui estão alguns exemplos, nome, CPF, e-mail, endereço,
+
+38
+00:03:08.599 --> 00:03:13.240
+dados até eventualmente mais sensíveis, folha de pagamento,
+
+39
+00:03:13.240 --> 00:03:20.080
+questões de saúde, uma ficha médica, processos, questões sindicais
+
+40
+00:03:20.080 --> 00:03:24.759
+e outras informações que possam identificar uma pessoa ou dados
+
+41
+00:03:24.759 --> 00:03:26.159
+sobre essa pessoa.
+
+42
+00:03:26.159 --> 00:03:26.599
+Então, a IA não é um piloto automático, é um copiloto automático.

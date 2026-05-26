@@ -1,0 +1,33 @@
+{
+  "id": 453482,
+  "title": "Diretoria executiva",
+  "position": 36,
+  "duration": 74,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2e18a555-8e8c-4ab6-91b0-ca4b5281b4d5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e18a555-8e8c-4ab6-91b0-ca4b5281b4d5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e18a555-8e8c-4ab6-91b0-ca4b5281b4d5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e18a555-8e8c-4ab6-91b0-ca4b5281b4d5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e18a555-8e8c-4ab6-91b0-ca4b5281b4d5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

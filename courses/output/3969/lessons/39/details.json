@@ -1,0 +1,33 @@
+{
+  "id": 480636,
+  "title": "Relembrando o DrawBack - Parte 1",
+  "position": 39,
+  "duration": 415,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/de2fb9cd-207f-49db-9abd-306df499db75/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de2fb9cd-207f-49db-9abd-306df499db75/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de2fb9cd-207f-49db-9abd-306df499db75/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de2fb9cd-207f-49db-9abd-306df499db75/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de2fb9cd-207f-49db-9abd-306df499db75/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

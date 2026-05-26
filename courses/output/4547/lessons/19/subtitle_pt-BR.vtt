@@ -1,0 +1,837 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.240
+E aí começamos os blocos específicos.
+
+3
+00:00:03.240 --> 00:00:09.179
+Vocês viram que alguns blocos vai ser comum para todo e qualquer tipo de tributação.
+
+4
+00:00:09.179 --> 00:00:12.740
+Mas tem bloco que vai ser específico, perfeito?
+
+5
+00:00:12.740 --> 00:00:14.919
+O bloco zero, por exemplo, é comum para todos.
+
+6
+00:00:14.919 --> 00:00:18.320
+Todo mundo tem que ter os dados cadastrais, o endereço, o nome,
+
+7
+00:00:18.320 --> 00:00:20.660
+o que a empresa faz, esse tipo de coisa.
+
+8
+00:00:20.660 --> 00:00:27.660
+Já o bloco L só será habilitado se lá no bloco zero eu botei que eu sou lucro real.
+
+9
+00:00:27.660 --> 00:00:29.320
+Aí ele vai me abrir o bloco L.
+
+10
+00:00:29.320 --> 00:00:30.280
+O que é o bloco L?
+
+11
+00:00:30.280 --> 00:00:32.859
+Lucro líquido, lucro real.
+
+12
+00:00:32.859 --> 00:00:37.619
+Ele apresenta o balanço, ADRE e apura o lucro líquido da pessoa
+
+13
+00:00:37.619 --> 00:00:39.159
+gerindo tributário pelo lucro real.
+
+14
+00:00:39.159 --> 00:00:41.259
+Vai lá, tudo certinho.
+
+15
+00:00:41.259 --> 00:00:42.560
+Por que cai tudo certinho?
+
+16
+00:00:42.560 --> 00:00:46.799
+Porque já foi parametrizado as contas contábeis com toda a parametrização da receita.
+
+17
+00:00:46.799 --> 00:00:48.899
+Então entra fácil, perfeito?
+
+18
+00:00:48.899 --> 00:00:53.079
+O bloco M está intimamente ligado ao bloco L.
+
+19
+00:00:53.079 --> 00:00:57.579
+É o ELALUR e o ELAC, só quem tem isso é lucro real, perfeito?
+
+20
+00:00:57.579 --> 00:00:59.320
+Apresenta os livros eletrônicos.
+
+21
+00:00:59.320 --> 00:01:03.619
+Os livros eletrônicos da escrituração e apuração, do imposto de renda, que é o ELALUR,
+
+22
+00:01:03.619 --> 00:01:09.099
+da contribuição social, que é o ELACS, da pessoa jurídica e tributado pelo lucro real.
+
+23
+00:01:09.099 --> 00:01:11.060
+Parte A e parte B.
+
+24
+00:01:11.060 --> 00:01:11.859
+Entendeu?
+
+25
+00:01:11.859 --> 00:01:17.000
+Então por isso que eu trago o conceito de cada bloco para vocês terem essa noção.
+
+26
+00:01:17.000 --> 00:01:19.900
+Vocês estão entendendo da importância dessa informação?
+
+27
+00:01:19.900 --> 00:01:26.140
+Aqui não é pegar na mão e preencher uma ECF, porque cada um tem a sua metodologia.
+
+28
+00:01:26.140 --> 00:01:29.260
+E nós temos muitos alunos no Brasil e no exterior,
+
+29
+00:01:29.260 --> 00:01:30.260
+aqui na CFIS.
+
+30
+00:01:30.260 --> 00:01:35.359
+Então não dá para mim abrir uma e preencher uma daqueles, não, é amplo para todo mundo.
+
+31
+00:01:35.359 --> 00:01:39.239
+E aí cada um trabalha na sua particularidade, entenderam?
+
+32
+00:01:39.239 --> 00:01:42.659
+Esse é o objetivo dos nossos cursos DCD e DCF.
+
+33
+00:01:42.659 --> 00:01:49.439
+Então nós temos aqui o lucro real, o bloco N vai calcular, o bloco N, a função dele
+
+34
+00:01:49.439 --> 00:01:53.980
+é o cálculo do imposto de renda e da contribuição social, no lucro real.
+
+35
+00:01:53.980 --> 00:01:58.599
+Então esses três blocos, com certeza, se eu fleguei lá no início que eu sou lucro
+
+36
+00:01:58.599 --> 00:02:01.560
+real, ele vai me abrir esses blocos.
+
+37
+00:02:01.560 --> 00:02:06.159
+E você vai entender isso que eu estou falando quando eu abrir o bloco zero, mostrar onde
+
+38
+00:02:06.159 --> 00:02:08.960
+é que nós vamos dizer sim ou não.
+
+39
+00:02:08.960 --> 00:02:13.419
+Inclusive se eu sou lucro real, se eu sou lucro presumido, lá no bloco zero.
+
+40
+00:02:13.419 --> 00:02:17.719
+Tudo isso que eu estou falando para vocês, raramente vocês vão mexer manual, porque
+
+41
+00:02:17.719 --> 00:02:20.099
+já está na parametrização de vocês.
+
+42
+00:02:20.099 --> 00:02:24.939
+A não ser que não esteja parametrizado correto, dê algum erro, então vocês já
+
+43
+00:02:24.939 --> 00:02:26.599
+sabem aonde corrigir.
+
+44
+00:02:26.599 --> 00:02:27.599
+Vão clicar no erro.
+
+45
+00:02:27.599 --> 00:02:28.599
+Ele vai direcionar.
+
+46
+00:02:28.599 --> 00:02:30.719
+Ele vai direcionar vocês para o bloco zero e lá vocês vão alterar.
+
+47
+00:02:30.719 --> 00:02:31.719
+Entendeu?
+
+48
+00:02:31.719 --> 00:02:33.719
+É assim que eu corrijo o erro.
+
+49
+00:02:33.719 --> 00:02:37.439
+E são N possibilidades de erro.
+
+50
+00:02:37.439 --> 00:02:40.939
+Vamos ficar abordando os erros aqui, mas são N possibilidades.
+
+51
+00:02:40.939 --> 00:02:47.060
+O grande objetivo aqui é dar o caminho das pedras para vocês, para vocês ir desviando
+
+52
+00:02:47.060 --> 00:02:48.500
+e acertando.
+
+53
+00:02:48.500 --> 00:02:49.500
+Simples assim.
+
+54
+00:02:49.500 --> 00:02:50.500
+Entendeu?
+
+55
+00:02:50.500 --> 00:02:57.560
+N, cálculo do imposto de renda e da contribuição social, com base no lucro real, estimativa
+
+56
+00:02:57.560 --> 00:03:00.680
+mensal e ajuste anual, valor trimestral.
+
+57
+00:03:00.680 --> 00:03:05.240
+Vou explicar um pouquinho já já, quando eu chegar nas fichas, mas nós temos um curso
+
+58
+00:03:05.240 --> 00:03:08.199
+específico aí para vocês entenderem, tá?
+
+59
+00:03:08.199 --> 00:03:12.259
+Então uma vez que eu tenho o lucro líquido, o balanço, o DRE, que eu tenho o LALUR, aqui
+
+60
+00:03:12.259 --> 00:03:13.259
+eu estou calculando.
+
+61
+00:03:13.259 --> 00:03:15.620
+Então, estão todos interligados.
+
+62
+00:03:15.620 --> 00:03:21.379
+Já o bloco P só vai abrir para quem é lucro presumido, se ele optou lá no início e botou
+
+63
+00:03:21.379 --> 00:03:22.879
+lucro presumido.
+
+64
+00:03:22.879 --> 00:03:27.520
+Então não vai abrir o bloco L, não vai abrir o bloco M, não vai abrir o bloco N, vai abrir
+
+65
+00:03:27.520 --> 00:03:29.500
+o bloco P.
+
+66
+00:03:29.500 --> 00:03:36.039
+Lucro presumido apresenta o balanço e a DRE e apura o imposto de renda e contribuição
+
+67
+00:03:36.039 --> 00:03:38.319
+com base no lucro presumido.
+
+68
+00:03:38.319 --> 00:03:42.680
+Por ser de menor extensão, eu montei um exemplo prático.
+
+69
+00:03:42.680 --> 00:03:48.400
+Calculamos o lucro presumido, o imposto de renda, o adicional do imposto de renda, calculamos
+
+70
+00:03:48.400 --> 00:03:54.460
+a contribuição social, compensamos alguns impostos retidos, tanto o imposto de renda
+
+71
+00:03:54.460 --> 00:03:56.639
+quanto a contribuição social.
+
+72
+00:03:56.639 --> 00:04:02.400
+Chegamos no imposto de renda a pagar, só não fizemos o DARF, chegamos no imposto...
+
+73
+00:04:02.400 --> 00:04:08.639
+E aí nós demonstramos como aparecem todos esses meus cálculos, que obviamente foram
+
+74
+00:04:08.639 --> 00:04:12.400
+contabilizados dentro da ECF, nas fichas da ECF.
+
+75
+00:04:12.400 --> 00:04:18.879
+Eu vou mostrar na prática quando nós chegarmos no terceiro bloco, que eu abordo o bloco P,
+
+76
+00:04:18.879 --> 00:04:20.360
+que é o lucro presumido.
+
+77
+00:04:20.360 --> 00:04:21.360
+Perfeito?
+
+78
+00:04:21.360 --> 00:04:25.339
+Não fizemos lucro real porque é muito extenso, é muito amplo, não daria tempo para a gente
+
+79
+00:04:25.339 --> 00:04:26.339
+estar falando.
+
+80
+00:04:26.639 --> 00:04:34.139
+O bloco Q também é do lucro presumido, é o livro caixa, para quem optou pelo livro
+
+81
+00:04:34.139 --> 00:04:35.139
+caixa.
+
+82
+00:04:35.139 --> 00:04:39.699
+E no lucro presumido você pode optar pelo caixa ou contabilidade, se você tem uma receita
+
+83
+00:04:39.699 --> 00:04:44.680
+superior a 1 milhão e 200, você está obrigado a fazer o livro caixa ou a contabilidade.
+
+84
+00:04:44.680 --> 00:04:49.839
+Apresento o demonstrativo do livro caixa para os casos previstos na legislação a partir
+
+85
+00:04:49.839 --> 00:04:51.480
+do layout 2.
+
+86
+00:04:51.480 --> 00:04:56.319
+E aí obviamente é um livro caixa mesmo, você vai fazer uma planilha em Excel, vai
+
+87
+00:04:56.319 --> 00:05:04.959
+botar as codificações lá bonitinho, que é a data, a descrição, se é recebimento
+
+88
+00:05:04.959 --> 00:05:09.480
+ou pagamento, porque o caixa é só isso, é dinheiro que entra e dinheiro que sai.
+
+89
+00:05:09.480 --> 00:05:14.680
+Aí você vai ter a coluna adepta, a coluna crédito e o saldo, dia a dia.
+
+90
+00:05:14.680 --> 00:05:18.620
+Depois você importa essa planilha para dentro do bloco K, entendeu?
+
+91
+00:05:18.620 --> 00:05:23.439
+E aí parece lá bonitinho, como se fosse um balanço para ali, mas é o fluxo de caixa,
+
+92
+00:05:23.439 --> 00:05:25.319
+para quem optou, é o bloco K.
+
+93
+00:05:25.319 --> 00:05:26.319
+Então, ele está disponível.
+
+94
+00:05:26.319 --> 00:05:29.120
+Essa taxa é intimamente ligada ao lucro presumido, tá?
+
+95
+00:05:29.120 --> 00:05:30.500
+É para o lucro presumido.
+
+96
+00:05:30.500 --> 00:05:31.939
+Não é que vai abrir os dois.
+
+97
+00:05:31.939 --> 00:05:37.439
+Depende do que eu coloquei lá no bloco 0, qual foi a indicação que eu botei.
+
+98
+00:05:37.439 --> 00:05:42.639
+Vocês entenderam o porquê que quem está preenchendo o bloco 0 tem que ter conhecimento
+
+99
+00:05:42.639 --> 00:05:45.720
+da empresa, tem que ter conhecimento da tributação?
+
+100
+00:05:45.720 --> 00:05:50.019
+Porque depende do que ele colocar lá que vai me abrir os blocos, se ele colocar errado
+
+101
+00:05:50.019 --> 00:05:51.019
+não vai abrir os blocos, entendeu?
+
+102
+00:05:51.019 --> 00:05:52.980
+É assim que funciona gente.
+
+103
+00:05:52.980 --> 00:05:53.980
+Tá?
+
+104
+00:05:53.980 --> 00:05:55.800
+Você vê que não é difícil a exceder e a..."
+
+105
+00:05:55.800 --> 00:05:55.839
+Lógico, né?
+
+106
+00:05:55.839 --> 00:05:56.019
+Eu não vou tirar aqui não vou precisar participar porque,udam?
+
+107
+00:05:56.019 --> 00:05:56.180
+É bom.
+
+108
+00:05:56.180 --> 00:05:56.279
+É bom, é bom, muito obrigado.
+
+109
+00:05:56.279 --> 00:05:58.839
+tem um raciocínio lógico
+
+110
+00:05:58.839 --> 00:06:00.939
+poderia ser mais simples? Claro
+
+111
+00:06:00.939 --> 00:06:02.220
+não tenha dúvida
+
+112
+00:06:02.220 --> 00:06:04.879
+gerar o meu TXT e mandar eles se virarem
+
+113
+00:06:04.879 --> 00:06:06.920
+mas é muito cômodo
+
+114
+00:06:06.920 --> 00:06:08.819
+para eles, eles querem do jeito
+
+115
+00:06:08.819 --> 00:06:10.879
+que eles querem, no prazo que eles
+
+116
+00:06:10.879 --> 00:06:12.699
+querem, com o software que eles querem
+
+117
+00:06:12.699 --> 00:06:14.160
+e nós temos que se virar
+
+118
+00:06:14.160 --> 00:06:16.339
+deveria simplesmente eles mandar
+
+119
+00:06:16.339 --> 00:06:17.920
+o layout para a gente
+
+120
+00:06:17.920 --> 00:06:20.779
+ter a parametrização pelo nosso TI
+
+121
+00:06:20.779 --> 00:06:22.879
+e aí gerar o TXT e mandar
+
+122
+00:06:22.879 --> 00:06:24.019
+acabou, simples assim
+
+123
+00:06:24.019 --> 00:06:26.339
+deveria ser isso
+
+124
+00:06:26.339 --> 00:06:27.980
+não esse mundo em detalhes
+
+125
+00:06:27.980 --> 00:06:30.420
+eles deveriam tratar isso
+
+126
+00:06:30.420 --> 00:06:33.100
+e isso é uma crítica construtiva
+
+127
+00:06:33.100 --> 00:06:35.139
+porque a gente perde muito tempo
+
+128
+00:06:35.139 --> 00:06:36.439
+para atender tudo isso
+
+129
+00:06:36.439 --> 00:06:39.000
+e a contabilidade acabou ficando
+
+130
+00:06:39.000 --> 00:06:40.339
+renegada para o segundo plano
+
+131
+00:06:40.339 --> 00:06:42.720
+essa é a minha visão como contador, como gestor
+
+132
+00:06:42.720 --> 00:06:44.920
+a gente tem tanta coisa
+
+133
+00:06:44.920 --> 00:06:46.920
+importante para tomar decisão
+
+134
+00:06:46.920 --> 00:06:48.399
+a gente fica amarrado nisso aqui
+
+135
+00:06:48.399 --> 00:06:51.060
+quantos colaboradores você não tem no escritório
+
+136
+00:06:51.060 --> 00:06:52.279
+para tomar conta disso aqui
+
+137
+00:06:52.279 --> 00:06:55.319
+quantas horas por dia é dispendida
+
+138
+00:06:55.319 --> 00:06:55.899
+por isso aqui
+
+139
+00:06:55.899 --> 00:06:58.139
+com isso eu não estou me negando
+
+140
+00:06:58.139 --> 00:07:01.500
+a prestar informações de obrigação
+
+141
+00:07:01.500 --> 00:07:03.079
+acessória, não, faz parte
+
+142
+00:07:03.079 --> 00:07:03.819
+da nossa profissão
+
+143
+00:07:03.819 --> 00:07:07.279
+agora o excesso, essa riqueza
+
+144
+00:07:07.279 --> 00:07:08.160
+de detalhes
+
+145
+00:07:08.160 --> 00:07:11.100
+nós estamos trabalhando por eles, vocês entenderam?
+
+146
+00:07:11.860 --> 00:07:13.220
+mas enfim, então nós temos
+
+147
+00:07:13.220 --> 00:07:14.199
+aqui o bloco Q
+
+148
+00:07:14.199 --> 00:07:16.439
+aí nós temos o bloco T
+
+149
+00:07:16.439 --> 00:07:18.800
+o bloco T é exclusivo
+
+150
+00:07:18.800 --> 00:07:19.980
+para lucro arbitrado
+
+151
+00:07:19.980 --> 00:07:22.120
+se eu botar lá no início que eu sou
+
+152
+00:07:22.120 --> 00:07:24.180
+lucro arbitrado, não vai me abrir o bloco L
+
+153
+00:07:24.180 --> 00:07:25.720
+o bloco M, o bloco N
+
+154
+00:07:25.720 --> 00:07:27.860
+não vai me abrir o bloco P, não vai
+
+155
+00:07:27.860 --> 00:07:28.959
+vai me abrir o bloco T
+
+156
+00:07:28.959 --> 00:07:31.920
+apuro o imposto de renda e a contribuição social
+
+157
+00:07:31.920 --> 00:07:33.879
+com base no lucro arbitrado, perfeito?
+
+158
+00:07:34.540 --> 00:07:35.019
+agora
+
+159
+00:07:35.019 --> 00:07:37.860
+só para a gente botar um pouquinho de
+
+160
+00:07:37.860 --> 00:07:39.540
+tempero nesse caldo
+
+161
+00:07:39.540 --> 00:07:41.540
+tem situações
+
+162
+00:07:41.540 --> 00:07:43.699
+que eu sou lucro real
+
+163
+00:07:43.699 --> 00:07:46.100
+depois eu opto pelo lucro
+
+164
+00:07:46.100 --> 00:07:48.240
+arbitrado, depois volto
+
+165
+00:07:48.240 --> 00:07:48.879
+para o lucro real
+
+166
+00:07:48.879 --> 00:07:51.480
+tem situação que eu posso ser lucro real
+
+167
+00:07:51.480 --> 00:07:53.399
+vou para o lucro arbitrado
+
+168
+00:07:53.399 --> 00:07:54.860
+depois posso ir para o lucro presumido
+
+169
+00:07:54.860 --> 00:07:57.379
+tem situação que eu sou lucro presumido
+
+170
+00:07:57.379 --> 00:07:59.459
+vou para o lucro arbitrado, depois posso ir para o real
+
+171
+00:07:59.459 --> 00:08:01.899
+ou seja, tudo isso
+
+172
+00:08:01.899 --> 00:08:03.699
+já está preparado
+
+173
+00:08:03.699 --> 00:08:05.879
+para recepcionar qualquer uma
+
+174
+00:08:05.879 --> 00:08:08.060
+dessas alterações que ocorrer
+
+175
+00:08:08.060 --> 00:08:09.860
+durante o ano, seja na ECD
+
+176
+00:08:09.860 --> 00:08:10.920
+seja na ECF
+
+177
+00:08:10.920 --> 00:08:14.300
+é muito mais na ECF que a ECD é contábil
+
+178
+00:08:14.300 --> 00:08:15.980
+é muito mais na ECF
+
+179
+00:08:15.980 --> 00:08:17.920
+a ECF já tem essas possibilidades
+
+180
+00:08:17.920 --> 00:08:19.800
+como eu vou mostrar a todos vocês
+
+181
+00:08:19.800 --> 00:08:21.220
+vocês entenderam?
+
+182
+00:08:21.480 --> 00:08:22.699
+porque eu estou sendo para o fisco
+
+183
+00:08:22.699 --> 00:08:24.259
+estou sendo a favor do fisco
+
+184
+00:08:24.259 --> 00:08:27.279
+então eu estou no lucro real, de repente eu não faço a contabilidade
+
+185
+00:08:27.279 --> 00:08:29.000
+preciso de uma certidão negativa
+
+186
+00:08:29.000 --> 00:08:30.360
+vou lá e arbitro um trimestre
+
+187
+00:08:30.360 --> 00:08:32.980
+porque o lucro arbitrado é trimestral
+
+188
+00:08:32.980 --> 00:08:34.639
+semelhante ao lucro presumido
+
+189
+00:08:34.639 --> 00:08:36.860
+só que ele é mais caro
+
+190
+00:08:36.860 --> 00:08:38.379
+então eu arbitro um trimestre
+
+191
+00:08:38.379 --> 00:08:40.399
+vou lá, pago o imposto
+
+192
+00:08:40.399 --> 00:08:41.879
+bacana, regularizei
+
+193
+00:08:41.879 --> 00:08:44.799
+no trimestre seguinte eu faço a opção, lucro real ou lucro presumido
+
+194
+00:08:44.799 --> 00:08:46.799
+então durante o ano eu posso ter sido
+
+195
+00:08:46.799 --> 00:08:49.279
+lucro real, lucro arbitrado ou lucro presumido
+
+196
+00:08:49.279 --> 00:08:51.399
+lucro real, lucro arbitrado ou lucro real
+
+197
+00:08:51.480 --> 00:08:54.600
+já está preparado para recepcionar isso
+
+198
+00:08:54.600 --> 00:08:55.460
+perfeito?
+
+199
+00:08:55.799 --> 00:08:56.940
+nós vamos ver já já
+
+200
+00:08:56.940 --> 00:08:59.779
+aí nesse caso, sem sombra de dúvida
+
+201
+00:08:59.779 --> 00:09:03.679
+vai abrir os blocos correspondentes a essa tributação
+
+202
+00:09:03.679 --> 00:09:06.419
+essas alterações que ocorreram com relação ao ano
+
+203
+00:09:06.419 --> 00:09:08.519
+então eu posso ter um bloco T
+
+204
+00:09:08.519 --> 00:09:10.980
+e posso ter um bloco P, por exemplo
+
+205
+00:09:10.980 --> 00:09:12.879
+de um determinado trimestre
+
+206
+00:09:12.879 --> 00:09:16.299
+posso ter um bloco L, M, N
+
+207
+00:09:16.299 --> 00:09:18.600
+e posso ter um bloco T nesse meio
+
+208
+00:09:18.600 --> 00:09:20.159
+também podemos, tá?
+
+209
+00:09:20.799 --> 00:09:21.460
+só para vocês verem a diferença
+
+210
+00:09:21.480 --> 00:09:22.700
+e a possibilidade que existe

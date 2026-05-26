@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4147,
+    "title": "Carta de Correção Eletrônica",
+    "subtitle": "CC - e",
+    "summary": "Neste curso de Carta de Correção Eletrônica (CC-e) você irá aprender na prática tudo o que precisa saber sobre a emissão e transmissão de CC-e. Aprenderá os fundamentos e a prática de XML e DANFE, limites da CC-e e prazo e cancelamento, além de outros temas para você que deseja se atualizar ou aprender tudo sobre CC-e.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/b5b882c5-9706-4514-9381-e2cb41be8173-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Carta de Correção Eletrônica (CC-e) é a capacitação para a aplicação prática de simplificar e otimizar o processo de correção de documentos eletrônicos, permitindo que os profissionais da área de Taxas (TAX) e outros envolvidos no processo possam realizar suas atividades de forma mais eficiente e segura."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 3735,
+    "keywords": "cce;carta;carta de correção;eletronica",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 205,
+    "averageRating": 9.43,
+    "practiceAverage": 9.43,
+    "trailer": {
+      "id": "c7687d5d-5628-43c6-b4c1-71553a824bf5",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c7687d5d-5628-43c6-b4c1-71553a824bf5/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c7687d5d-5628-43c6-b4c1-71553a824bf5/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c7687d5d-5628-43c6-b4c1-71553a824bf5/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/c7687d5d-5628-43c6-b4c1-71553a824bf5/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-20T09:37:21.000Z",
+      "updatedAt": "2025-11-20T09:37:21.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-20T09:38:27.000Z",
+    "recordedAt": "2025-11-07T00:00:00.000Z",
+    "createdAt": "2025-11-19T16:50:00.000Z"
+  }
+}

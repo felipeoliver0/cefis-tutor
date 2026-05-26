@@ -1,0 +1,33 @@
+{
+  "id": 460742,
+  "title": "Índice de satisfação",
+  "position": 14,
+  "duration": 173,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ff3b69d3-c277-4e6e-a1d0-055ca95076d9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff3b69d3-c277-4e6e-a1d0-055ca95076d9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff3b69d3-c277-4e6e-a1d0-055ca95076d9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff3b69d3-c277-4e6e-a1d0-055ca95076d9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff3b69d3-c277-4e6e-a1d0-055ca95076d9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

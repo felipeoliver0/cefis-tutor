@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3867,
+    "title": "Contrato de Trabalho Intermitente: Domine as Novidades para 2025",
+    "subtitle": "Novo Cenário Trabalhista",
+    "summary": "Neste curso, abordaremos a formalização de contratações na modalidade de contrato intermitente, onde você aprenderá a elaborar contratos, apurar recibos e garantir todos os direitos trabalhistas para esta modalidade. Exploraremos a legislação atualizada para 2025, os procedimentos de formalização, as formas de pagamento e convocação, e os direitos e obrigações dos empregadores e empregados. Destinado a profissionais de recursos humanos, gestores e estudantes de direito do trabalho, o curso oferece um guia completo e atualizado sobre o contrato intermitente no Brasil.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/7ed184b9-595b-472d-9fbc-233731861fd1-thumbnail.png",
+    "goals": [
+      "Capacitar profissionais para formalizar, gerir e assegurar direitos no contrato intermitente, abordando legislações atualizadas, práticas de convocação, pagamento e rescisão em 2025."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 3369,
+    "keywords": "Contrato Intermitente;Trabalho Temporário;Legislação 2025;Recibo de Pagamento;Direitos Trabalhistas",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 18,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 144,
+    "averageRating": 9.52,
+    "practiceAverage": 9.43,
+    "trailer": {
+      "id": "b0ea5319-1878-4ec7-9901-5c71dc9959c0",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b0ea5319-1878-4ec7-9901-5c71dc9959c0/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b0ea5319-1878-4ec7-9901-5c71dc9959c0/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b0ea5319-1878-4ec7-9901-5c71dc9959c0/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b0ea5319-1878-4ec7-9901-5c71dc9959c0/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-09T17:17:12.000Z",
+      "updatedAt": "2025-07-09T17:17:11.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-01-08T15:37:29.000Z",
+    "recordedAt": "2025-07-04T00:00:00.000Z",
+    "createdAt": "2025-07-09T17:14:50.000Z"
+  }
+}

@@ -1,0 +1,445 @@
+WEBVTT
+
+1
+00:00:01.379 --> 00:00:03.529
+o se vamos acessar ele aqui.
+
+2
+00:00:04.690 --> 00:00:08.300
+Como que eu sei qual que é o i p do c f Vamos aqui no nosso d sim,
+
+3
+00:00:08.310 --> 00:00:11.479
+que é onde tá todas as informações, né?
+
+4
+00:00:13.500 --> 00:00:15.750
+Que dec
+
+5
+00:00:16.870 --> 00:00:19.360
+se tá aqui oh um sete um
+
+6
+00:00:21.389 --> 00:00:21.860
+sim.
+
+7
+00:00:22.489 --> 00:00:26.659
+Então aqui o CEF também é uma aplicação que tá rodando dentro do data center.
+
+8
+00:00:26.670 --> 00:00:29.620
+Então ele tá acessível aqui no i p privado, né?
+
+9
+00:00:29.629 --> 00:00:34.080
+Eu acesso a interface, ele vai pedir a autenticação. Então no PE
+
+10
+00:00:35.029 --> 00:00:37.020
+ixi se eu tomar camomila agora
+
+11
+00:00:37.630 --> 00:00:40.099
+v de leis
+
+12
+00:00:40.750 --> 00:00:44.419
+na situação que eu vou tá aqui
+
+13
+00:00:46.299 --> 00:00:48.169
+se eu fechar aqui, né?
+
+14
+00:00:50.049 --> 00:00:55.759
+Essa aqui é a interface do sef que que ele tá me falando aqui que o meu
+
+15
+00:00:55.770 --> 00:01:01.200
+cluster de se tem três no o cluster tá okay significa que não tem nenhum erro,
+
+16
+00:01:01.209 --> 00:01:05.440
+nenhum disco com um problema e não tá tendo perda de pacote, não tá tendo nada,
+
+17
+00:01:05.449 --> 00:01:06.760
+tá suave?
+
+18
+00:01:08.099 --> 00:01:09.290
+Oi,
+
+19
+00:01:09.300 --> 00:01:14.639
+Isso os são os servidores isso dentro dos servidores eu tenho alguns caras
+
+20
+00:01:14.650 --> 00:01:19.110
+chamados o SD s e manager são coisas internas do SE F.
+
+21
+00:01:19.120 --> 00:01:22.489
+Não vou explicar tanto, mas é Eles funcionam com com contêineres,
+
+22
+00:01:22.500 --> 00:01:24.849
+aplicações rodando em contêineres.
+
+23
+00:01:25.519 --> 00:01:28.379
+Você vê que interessante o sef usa contêiner pra virtualização.
+
+24
+00:01:28.389 --> 00:01:29.750
+O armazenamento é muito doido,
+
+25
+00:01:30.440 --> 00:01:33.849
+cabe ao SD. É um disco físico real.
+
+26
+00:01:33.860 --> 00:01:37.150
+Então você vê que que esse cluster aqui tá com doze discos físicos reais
+
+27
+00:01:37.839 --> 00:01:41.150
+e aqui embaixo a gente tem a capacidade total
+
+28
+00:01:42.480 --> 00:01:45.050
+e aqui a gente tem algumas métricas de leitura.
+
+29
+00:01:45.059 --> 00:01:46.290
+Então, por exemplo,
+
+30
+00:01:46.300 --> 00:01:49.510
+o nosso cluster hoje tá com treze telas de
+
+31
+00:01:49.519 --> 00:01:52.529
+armazenamento e ele tá com setenta por cento ocupado.
+
+32
+00:01:52.540 --> 00:01:54.510
+Ainda tem quatro telas disponíveis. Ainda
+
+33
+00:01:55.489 --> 00:01:58.860
+eh esses objetos aqui que ele tá falando que tem dois milhões.
+
+34
+00:01:58.870 --> 00:02:01.180
+É porque ele quebra objetos grandes em
+
+35
+00:02:01.190 --> 00:02:03.430
+pequenos pedaços e distribui entre o cluster.
+
+36
+00:02:03.440 --> 00:02:05.639
+Ele teve então por isso que tem dois milhões
+
+37
+00:02:06.239 --> 00:02:09.570
+esses dois milhões de objetos não tem nenhum que tá com problema.
+
+38
+00:02:09.580 --> 00:02:12.490
+Ele monitora cada pedacinho pra saber se tem algum
+
+39
+00:02:12.500 --> 00:02:14.690
+que tá corrompido pra ele fazer uma cópia.
+
+40
+00:02:14.699 --> 00:02:16.990
+Então tá todos aqui cem por cento beleza,
+
+41
+00:02:18.419 --> 00:02:23.190
+esses pedacinhos dos objetos ele coloca em como se fossem bolsas,
+
+42
+00:02:23.199 --> 00:02:29.949
+que são esses PG s chama de, ou seja, a posição de um grupo de pedaços,
+
+43
+00:02:29.960 --> 00:02:31.830
+então tá todos aqui também limpos.
+
+44
+00:02:31.839 --> 00:02:32.970
+Não tem nenhum problema
+
+45
+00:02:34.690 --> 00:02:37.139
+aqui em baixo, a gente tem métricas de leitura.
+
+46
+00:02:37.149 --> 00:02:39.139
+Então, por exemplo, nesse exato momento,
+
+47
+00:02:39.149 --> 00:02:42.660
+o C tá servindo aqui quinhentos Kbytes por segundo de dados.
+
+48
+00:02:42.669 --> 00:02:46.720
+Ou seja, tem tá tranquilo assim não tá tendo esforço nenhum tranquilo,
+
+49
+00:02:46.729 --> 00:02:48.899
+mas aí você pensa assim oh não tem ninguém assistindo
+
+50
+00:02:48.910 --> 00:02:50.860
+os vídeos das se fis O que que tá acontecendo?
+
+51
+00:02:50.869 --> 00:02:54.919
+Não Na verdade os vídeos da CFIS passam primeiro pelo
+
+52
+00:02:54.929 --> 00:02:58.440
+CD N e depois chega aqui no no no armazenamento.
+
+53
+00:02:59.190 --> 00:03:01.100
+O SEF é o disco
+
+54
+00:03:02.440 --> 00:03:05.350
+O CD n é outra aplicação,
+
+55
+00:03:06.009 --> 00:03:09.740
+então quando ele chega no CD N e já está em cache no CD N,
+
+56
+00:03:09.750 --> 00:03:12.820
+ele nunca chega aqui no disco ele já é retornado de lá,
+
+57
+00:03:12.830 --> 00:03:15.660
+então por isso que essa leitura aqui é menor né?
+
+58
+00:03:15.669 --> 00:03:19.899
+CD e outro curso o CD n é uma aplicação separada.
+
+59
+00:03:19.910 --> 00:03:23.119
+No nosso caso a gente usa também compenso,
+
+60
+00:03:24.259 --> 00:03:27.169
+eh a
+
+61
+00:03:28.210 --> 00:03:30.940
+esse cara aqui vocês tão vendo Aí eu já falei a pa um monte de
+
+62
+00:03:30.949 --> 00:03:34.860
+coisa A pah é uma das maiores empresas de produtos ofensores do do mundo,
+
+63
+00:03:34.869 --> 00:03:39.779
+mesmo assim, então esse aqui é o nosso serviço de CD n que a gente utiliza, né?
+
+64
+00:03:39.789 --> 00:03:43.580
+Uma parte server e tal tem uma documentação gigante
+
+65
+00:03:43.589 --> 00:03:47.899
+eh Quem criou esse negócio aqui foi o Yahoo!
+
+66
+00:03:47.910 --> 00:03:49.929
+E era o CD é o CD n que o Yahoo!
+
+67
+00:03:49.940 --> 00:03:52.860
+Usa pra servir grande parte do conteúdo que ele serve, ou seja,
+
+68
+00:03:52.869 --> 00:03:56.479
+é um negócio super parrudo, Assim é feito pra aguentar a carga mesmo.
+
+69
+00:03:57.220 --> 00:04:00.449
+Aqui está mais vivo
+
+70
+00:04:02.199 --> 00:04:03.509
+é porque tipo assim o yahoo!
+
+71
+00:04:03.520 --> 00:04:08.309
+Ele tem outras coisas assim sem ser a marca Yahoo em si, né? Mas mas legal?
+
+72
+00:04:09.009 --> 00:04:16.339
+Eh bom, é isso aqui, A parte de Bucks fica aqui em objeto aí,
+
+73
+00:04:16.350 --> 00:04:18.260
+só que eu não sei se ele vai deixar eu acessar aqui.
+
+74
+00:04:18.269 --> 00:04:20.119
+Agora os bucks deixa eu ver aqui.
+
+75
+00:04:21.269 --> 00:04:27.140
+Ah deixou Então então beleza olha aqui tem um bunker chamado l m s
+
+76
+00:04:27.149 --> 00:04:31.079
+S C C S É onde estão todos os vídeos que você fez?
+
+77
+00:04:31.089 --> 00:04:33.940
+Tá aqui nesse banke? Oh l m s vídeo sto
+
+78
+00:04:34.609 --> 00:04:38.359
+Então tá aqui tá usando seis ponto um, que vinte
+
+79
+00:04:39.350 --> 00:04:43.579
+A gente tem replicação, A gente tem duas dois back em outros dos vídeos
+
+80
+00:04:44.799 --> 00:04:45.850
+eh
+
+81
+00:04:46.989 --> 00:04:50.559
+quero criar um banke! Posso criar por aqui? Posso criar v c lá.
+
+82
+00:04:50.570 --> 00:04:53.160
+E tem várias maneiras de eu interagir com esse
+
+83
+00:04:53.170 --> 00:04:57.000
+negócio aqui pra eu criar e armazenar meus objetos.
+
+84
+00:04:57.010 --> 00:05:03.200
+Se a gente exatamente lembra quando a gente usou o Ô pra criar uns banks,
+
+85
+00:05:03.209 --> 00:05:04.200
+a ideia é que é a mesma,
+
+86
+00:05:04.209 --> 00:05:11.359
+só que o Ô é nada se tipo assim nenhum data center usa minha pra fazer armazenamento,
+
+87
+00:05:11.369 --> 00:05:13.420
+mas todo mundo que usou o peso se usa.
+
+88
+00:05:13.429 --> 00:05:13.700
+Se f
+
+89
+00:05:14.329 --> 00:05:16.320
+é outro nível,
+
+90
+00:05:17.510 --> 00:05:22.739
+exatamente é isso. O C F é
+
+91
+00:05:23.000 --> 00:05:29.040
+é exatamente você pode usar a Liebe da Amazon pra conectar nesse bucket aqui e
+
+92
+00:05:29.049 --> 00:05:33.929
+fazer essas corporações Cê não precisa nem trocar o que você já tem pronto.
+
+93
+00:05:33.940 --> 00:05:36.019
+Você só muda o endereço exatamente
+
+94
+00:05:36.399 --> 00:05:36.730
+aqui.
+
+95
+00:05:36.739 --> 00:05:38.609
+Assim ele traz nossa, é gigante,
+
+96
+00:05:38.619 --> 00:05:41.489
+esse negócio aqui ele traz muitas informações aqui.
+
+97
+00:05:41.500 --> 00:05:45.890
+Eu posso monitorar cada um dos discos aqui que tá no meu câncer, por exemplo,
+
+98
+00:05:45.899 --> 00:05:47.850
+que eu sei até a marca dos discos Oh!
+
+99
+00:05:47.859 --> 00:05:53.730
+Que h g s t del tamanho qual que é o hardware que tá provendo esse disco?
+
+100
+00:05:53.739 --> 00:05:54.089
+Por exemplo,
+
+101
+00:05:54.100 --> 00:05:56.660
+eu sei que esses dois discos aqui eu tenho uma
+
+102
+00:05:56.670 --> 00:06:00.890
+controladora rodando eles esses aqui não tá direto o disco,
+
+103
+00:06:00.899 --> 00:06:02.829
+Então assim é muita informação
+
+104
+00:06:03.420 --> 00:06:07.350
+pra você ter uma ideia eu eu consigo piscar o LED do disco por aqui.
+
+105
+00:06:07.359 --> 00:06:11.070
+Sabe aqueles led Zinho que fica lá piscando eu controlo aqui nesse negócio?
+
+106
+00:06:11.079 --> 00:06:18.750
+Então é é um absurdo exatamente porque é difícil quando você tem muitos discos.
+
+107
+00:06:18.760 --> 00:06:20.000
+É difícil você achar o disco,
+
+108
+00:06:20.010 --> 00:06:26.029
+então tem esses negócios pra você achar o disco exatamente, então é isso aí.
+
+109
+00:06:26.040 --> 00:06:29.329
+Mas é sensacional o negócio aqui
+
+110
+00:06:30.660 --> 00:06:35.309
+muito bom, muito bom, então tô finalizando por aqui agora.
+
+111
+00:06:35.320 --> 00:06:39.850
+Depois a gente dá um chute down no nosso sistema aqui e aí.

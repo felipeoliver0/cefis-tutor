@@ -1,0 +1,68 @@
+{
+  "data": {
+    "id": 3775,
+    "title": "Tendências do Comércio Exterior para 2025",
+    "subtitle": "Tendências do Comércio Exterior para 2025",
+    "summary": "Este curso vai te mostrar as principais tendências globais e brasileiras para 2025, destacando a importância do comércio exterior para empresas, como aumento de produtividade e acesso a tecnologias. Explora temas como a balança comercial, tensões geopolíticas, protecionismo e novos acordos, como o Mercosul-UE. Discute a digitalização, sustentabilidade (CBAM, créditos de carbono) e o crescimento do e-commerce e IA. No Brasil, foca na consolidação do Portal Único (DUIMP), expansão do OEA e preparação para a reforma tributária. Ideal para profissionais de importação, exportação e logística que buscam se adaptar às mudanças do mercado global.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/3e3f3a16-10f9-43f6-b71a-6a99bd629853-thumbnail.png",
+    "goals": [
+      "Este curso é para você que atua ou pretende atuar nas áreas de importação, exportação, logística internacional, compliance aduaneiro ou gestão de negócios globais, este curso vai te preparar para os desafios e oportunidades do mercado."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 11453,
+    "keywords": "Comex,comércio,exterior,importação,exportação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 53,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 43,
+    "averageRating": 9.12,
+    "practiceAverage": 8.86,
+    "trailer": {
+      "id": "2e6f6467-ec9c-4d7a-b21f-745e23ca4867",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2e6f6467-ec9c-4d7a-b21f-745e23ca4867/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2e6f6467-ec9c-4d7a-b21f-745e23ca4867/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2e6f6467-ec9c-4d7a-b21f-745e23ca4867/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/2e6f6467-ec9c-4d7a-b21f-745e23ca4867/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-05-09T16:05:13.000Z",
+      "updatedAt": "2025-05-09T16:05:13.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "recordedAt": "2025-05-01T00:00:00.000Z",
+    "createdAt": "2025-04-30T20:52:50.000Z"
+  }
+}

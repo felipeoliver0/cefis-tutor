@@ -1,0 +1,33 @@
+{
+  "id": 487645,
+  "title": "PLP 108-24 - Parte 6",
+  "position": 14,
+  "duration": 390,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/7c2d0422-f3b5-4a4f-82f9-2b2b088422a8/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7c2d0422-f3b5-4a4f-82f9-2b2b088422a8/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7c2d0422-f3b5-4a4f-82f9-2b2b088422a8/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7c2d0422-f3b5-4a4f-82f9-2b2b088422a8/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7c2d0422-f3b5-4a4f-82f9-2b2b088422a8/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

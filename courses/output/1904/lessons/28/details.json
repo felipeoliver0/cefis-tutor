@@ -1,0 +1,33 @@
+{
+  "id": 458666,
+  "title": "Indicadores de desempenho",
+  "position": 28,
+  "duration": 456,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6d8b1c68-343b-4ed2-9ee7-7dd5253b7f70/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d8b1c68-343b-4ed2-9ee7-7dd5253b7f70/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d8b1c68-343b-4ed2-9ee7-7dd5253b7f70/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d8b1c68-343b-4ed2-9ee7-7dd5253b7f70/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6d8b1c68-343b-4ed2-9ee7-7dd5253b7f70/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

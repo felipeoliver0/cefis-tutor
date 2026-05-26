@@ -1,0 +1,33 @@
+{
+  "id": 462165,
+  "title": "Acordos de reconhecimento mútuo - Parte 2",
+  "position": 9,
+  "duration": 158,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2d34cac6-67cb-4b31-b909-48b6aa50e278/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2d34cac6-67cb-4b31-b909-48b6aa50e278/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2d34cac6-67cb-4b31-b909-48b6aa50e278/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2d34cac6-67cb-4b31-b909-48b6aa50e278/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2d34cac6-67cb-4b31-b909-48b6aa50e278/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

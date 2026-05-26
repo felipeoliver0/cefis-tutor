@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2295,
+    "title": "EVTE - Estudo de Viabilidade Técnica e Econômica",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de EVTE, você aprenderá sobre as características e aplicações deste Estudo de viabilidade Técnica e Econômica, que tem a finalidade de atestar as possibilidades de sucesso (ou fracasso) de um negócio ou produto, considerando aspectos técnicos, comerciais, operacionais e econômicos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/a99a6bb86a9744f54d7d983c1a32c6c31728427994.jpg",
+    "goals": [
+      "Demonstrar de forma prática as características e aplicações de um Estudo de viabilidade Técnica e Econômica (EVTE)."
+    ],
+    "teacher": {
+      "id": 551185,
+      "name": "Danilo Romão",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1640282903.jpeg"
+    },
+    "duration": 4868,
+    "keywords": "evte;planejamento;estudo de viabilidade técnica e econômica;estudo de viabilidade",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 285,
+    "averageRating": 9.15,
+    "practiceAverage": 9.19,
+    "trailer": {
+      "id": "a7e608c1-f370-4f04-9a1e-f2f3501492c2",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a7e608c1-f370-4f04-9a1e-f2f3501492c2/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a7e608c1-f370-4f04-9a1e-f2f3501492c2/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a7e608c1-f370-4f04-9a1e-f2f3501492c2/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a7e608c1-f370-4f04-9a1e-f2f3501492c2/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-10-17T18:13:35.000Z",
+      "updatedAt": "2022-10-17T18:13:34.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-10-30T22:43:25.000Z",
+    "recordedAt": "2022-10-08T00:00:00.000Z",
+    "createdAt": "2022-10-08T12:52:09.000Z"
+  }
+}

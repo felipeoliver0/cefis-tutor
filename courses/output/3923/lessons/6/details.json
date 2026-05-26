@@ -1,0 +1,33 @@
+{
+  "id": 479998,
+  "title": "Comitê Gestor do IBS - Parte 1",
+  "position": 6,
+  "duration": 393,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a33282a8-ba48-44f6-b245-99d17da3a129/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a33282a8-ba48-44f6-b245-99d17da3a129/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a33282a8-ba48-44f6-b245-99d17da3a129/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a33282a8-ba48-44f6-b245-99d17da3a129/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a33282a8-ba48-44f6-b245-99d17da3a129/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

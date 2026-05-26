@@ -1,0 +1,605 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.940
+bom, vamos falar sobre documentos fiscais agora.
+
+2
+00:00:02.950 --> 00:00:06.940
+Então, primeiramente, nós vamos abordar o documento fiscal manual,
+
+3
+00:00:06.949 --> 00:00:11.260
+que é aquele tipo de documento que hoje basicamente nós nem enxergamos mais, né?
+
+4
+00:00:11.270 --> 00:00:16.459
+É o documento que sofria a maior parte das negligências lá atrás,
+
+5
+00:00:16.469 --> 00:00:20.620
+porque nem todos os campos eles eram preenchidos, tá o contribuinte?
+
+6
+00:00:20.629 --> 00:00:25.420
+Ele basicamente colocava ali o que era os um pouco dos dados dos produtos,
+
+7
+00:00:25.430 --> 00:00:29.440
+um pouco dos dados dos tributos e um pouco dos dados dos valores, né?
+
+8
+00:00:29.770 --> 00:00:30.760
+Ou seja,
+
+9
+00:00:30.770 --> 00:00:32.979
+nós tínhamos ali um documento que ele era
+
+10
+00:00:32.990 --> 00:00:36.810
+muito complicado tanto pro contribuinte quanto pro físico.
+
+11
+00:00:36.819 --> 00:00:38.689
+No momento da fiscalização,
+
+12
+00:00:38.700 --> 00:00:43.819
+precisava ser ou um formulário contínuo ou um talão de notas.
+
+13
+00:00:43.830 --> 00:00:48.759
+Ou ah, de certa forma precisava não ou não, não precisava, de certa forma,
+
+14
+00:00:48.770 --> 00:00:50.979
+passar por uma gráfica pra aprovação.
+
+15
+00:00:50.990 --> 00:00:54.619
+Precisava de uma aprovação do governo do Estado, do governo,
+
+16
+00:00:54.630 --> 00:00:58.439
+dos governos estaduais pra liberar esse tipo de documento.
+
+17
+00:00:58.840 --> 00:01:02.369
+Ele tinha em média de trinta e cinco a quarenta e cinco campos.
+
+18
+00:01:02.380 --> 00:01:06.209
+Isso variava pelo layout que a gráfica disponibilizava,
+
+19
+00:01:06.220 --> 00:01:09.970
+e também pela legislação dos estados com o advento do SPED.
+
+20
+00:01:09.980 --> 00:01:13.809
+Esses documentos manuais eles foram caindo em desuso justamente porque
+
+21
+00:01:13.819 --> 00:01:17.550
+o primeiro projeto do Iped é a nota fiscal eletrônica,
+
+22
+00:01:17.559 --> 00:01:22.805
+justamente pra que o documento manual pra ele ser fiscalizado o governo, os fi,
+
+23
+00:01:22.815 --> 00:01:26.004
+os fiscalizadores eles precisavam solicitar esses
+
+24
+00:01:26.014 --> 00:01:28.764
+documentos E aí o governo vinha,
+
+25
+00:01:28.775 --> 00:01:31.845
+pegava esses documentos ou era entregue pra eles E aí
+
+26
+00:01:31.855 --> 00:01:35.324
+eles faziam validação manual com o advinda com eletrônico.
+
+27
+00:01:35.334 --> 00:01:38.245
+Isso acabava que não existia mais o governo.
+
+28
+00:01:38.254 --> 00:01:42.985
+Ele passa a ter a informação cem por cento real em tempo real na mão. Tá?
+
+29
+00:01:43.430 --> 00:01:46.660
+Ah, e também pra que uma nota fiscal manual fosse cancelada?
+
+30
+00:01:46.669 --> 00:01:52.260
+Era necessário juntar todas as vias todas as partes da daquele
+
+31
+00:01:52.269 --> 00:01:57.400
+documento pra sim fazer o cancelamento e se caso fosse extraviado,
+
+32
+00:01:57.410 --> 00:02:01.800
+precisava então fazer uma publicação no Diário Oficial informando data,
+
+33
+00:02:01.809 --> 00:02:05.750
+número série daquele do daquele talonário daquele valor
+
+34
+00:02:05.760 --> 00:02:08.619
+daquela nota fiscal pra fazer o cancelamento.
+
+35
+00:02:09.070 --> 00:02:12.619
+Tá bom como ele não possuía nenhum registro eletrônico, como eu disse,
+
+36
+00:02:12.630 --> 00:02:15.630
+ficava muito complexo pra que o governo aplicasse a
+
+37
+00:02:15.639 --> 00:02:20.000
+legislação de fato em cima do do documento.
+
+38
+00:02:20.009 --> 00:02:21.960
+E aí com a nota fiscal eletrônica,
+
+39
+00:02:21.970 --> 00:02:26.639
+nós passamos então a ter o primeiro passo do projeto, SPED, um documento fiscal,
+
+40
+00:02:26.649 --> 00:02:31.740
+cem por cento eletrônica com assinatura eletrônica, validada digitalmente,
+
+41
+00:02:31.750 --> 00:02:32.899
+esse documento,
+
+42
+00:02:33.160 --> 00:02:37.869
+naturalmente ele é agora utilizado pra tudo e ele
+
+43
+00:02:37.880 --> 00:02:41.630
+foi sendo espalhado pra outros tipos de documentos fiscais,
+
+44
+00:02:41.639 --> 00:02:45.440
+como, por exemplo, o conhecimento de transporte eletrônico, como, por exemplo,
+
+45
+00:02:45.449 --> 00:02:47.289
+a Nota Fiscal de Consumidor Eletrônico,
+
+46
+00:02:47.300 --> 00:02:50.309
+o cupom fiscal eletrônico ou a nota fiscal de consumi?
+
+47
+00:02:50.320 --> 00:02:51.729
+Eh NFC e né?
+
+48
+00:02:51.740 --> 00:02:54.889
+O C T e E também agora mais recentemente,
+
+49
+00:02:54.899 --> 00:02:57.009
+a nota Fiscal de serviços eletrônica por parte
+
+50
+00:02:57.020 --> 00:03:01.630
+federal e também a Nota Fiscal de Energia Elétrica
+
+51
+00:03:02.080 --> 00:03:05.550
+Eletrônica. E, naturalmente, todos os estados.
+
+52
+00:03:05.559 --> 00:03:10.410
+Eles foram aderindo a esse documento porque era muito mais vantajoso ter os
+
+53
+00:03:10.419 --> 00:03:14.369
+dados em tempo real na mão do que ficar solicitando ao contribuinte.
+
+54
+00:03:14.380 --> 00:03:15.490
+Essa Ah,
+
+55
+00:03:15.500 --> 00:03:18.649
+essa solicitação e os motivos pelos quais
+
+56
+00:03:18.660 --> 00:03:22.029
+o fisco fala que ele utilizou esse documento
+
+57
+00:03:22.130 --> 00:03:24.139
+é justamente o que ele fala que agora ele
+
+58
+00:03:24.149 --> 00:03:26.320
+vai ter um aumento na confiabilidade da emissão,
+
+59
+00:03:26.330 --> 00:03:28.860
+melhora no processo do controle fiscal,
+
+60
+00:03:28.869 --> 00:03:31.380
+possibilitando melhor intercâmbio e compartilhamento
+
+61
+00:03:31.389 --> 00:03:32.740
+das informações entre os físicos,
+
+62
+00:03:32.750 --> 00:03:35.490
+redução nos custos de processo e controle
+
+63
+00:03:35.500 --> 00:03:37.960
+de notas fiscais capturados pela fiscalização,
+
+64
+00:03:37.970 --> 00:03:39.460
+dentre outras situações.
+
+65
+00:03:39.470 --> 00:03:42.119
+Mas o fato é que ficou mais fácil pra eles, Tá?
+
+66
+00:03:42.539 --> 00:03:42.710
+Ah,
+
+67
+00:03:42.720 --> 00:03:45.949
+e nós partimos de trinta e cinco a quarenta e
+
+68
+00:03:45.960 --> 00:03:49.339
+cinco campos em média pra duzentos e cinquenta campos preenchido,
+
+69
+00:03:49.350 --> 00:03:54.070
+variando aí pelo tipo de nota fiscal que vai ser emitida naturalmente.
+
+70
+00:03:54.080 --> 00:03:59.410
+A nota fiscal que tem se mais campos pra preenchimento é a nota fiscal de importação,
+
+71
+00:04:01.490 --> 00:04:05.779
+então o DANF que é o documento fiscal auxiliar da nota com eletrônica,
+
+72
+00:04:05.789 --> 00:04:09.800
+ele é um documento de fato que vai auxiliar no transporte tá,
+
+73
+00:04:09.809 --> 00:04:11.020
+ele não é uma nota fiscal.
+
+74
+00:04:11.029 --> 00:04:15.259
+De fato com a nota manual nós tínhamos o no o documento em papel,
+
+75
+00:04:15.270 --> 00:04:16.720
+mesmo aquele que equivalia
+
+76
+00:04:16.998 --> 00:04:22.509
+agora o DANF ele só é auxiliar o papel. Ele é simplesmente auxiliar pra quê?
+
+77
+00:04:22.519 --> 00:04:26.248
+Pra fazer o transporte do pro daquele produto da mercadoria em si?
+
+78
+00:04:26.259 --> 00:04:30.848
+Quem vale de fato em toda essa operação é o x ML.
+
+79
+00:04:30.859 --> 00:04:34.368
+Tá então lá no x ML nós vamos ter o acesso pelo DANF,
+
+80
+00:04:34.378 --> 00:04:38.049
+que é um código composto ali por quarenta e quatro dígitos,
+
+81
+00:04:38.058 --> 00:04:40.399
+aonde nós temos a seguinte configuração Os dois
+
+82
+00:04:40.410 --> 00:04:43.160
+primeiros é o código da unidade federativa,
+
+83
+00:04:43.170 --> 00:04:48.799
+os outros os próximos quatro mês e ano e mês depois c n PJ demite, modelo,
+
+84
+00:04:48.809 --> 00:04:52.760
+documento fiscal, série, número do documento, forma de emissão,
+
+85
+00:04:52.769 --> 00:04:56.779
+código numérico da chave de acesso e o dígito verificador.
+
+86
+00:04:56.790 --> 00:05:00.260
+Cada chave de cada documento fiscal emitido tem uma
+
+87
+00:05:00.630 --> 00:05:04.459
+cada documento fiscal emitido ele tem uma chave de acesso diferente.
+
+88
+00:05:04.470 --> 00:05:06.519
+O modelo operacional de emissão,
+
+89
+00:05:06.529 --> 00:05:10.779
+basicamente se dá da seguinte forma o vendedor faz a nota fiscal eletrônica.
+
+90
+00:05:10.790 --> 00:05:12.859
+Ele valida ela com o certificado digital e
+
+91
+00:05:12.869 --> 00:05:15.760
+envia pra Secretaria da Fazenda do seu estado.
+
+92
+00:05:15.769 --> 00:05:20.720
+Alguns estados, por condições técnicas, não conseguem enviar pro pro pro Estado.
+
+93
+00:05:20.730 --> 00:05:21.899
+Acabam enviando ou
+
+94
+00:05:22.190 --> 00:05:25.320
+geralmente pro Rio Grande do Sul ou pro Pernambuco, Tá,
+
+95
+00:05:25.329 --> 00:05:26.959
+Então ele envia pro próprio Estado.
+
+96
+00:05:26.970 --> 00:05:31.220
+A Secretaria da Fazenda, faz a validação da assinatura, esquema, numeração.
+
+97
+00:05:31.230 --> 00:05:32.940
+E se o ite tá autorizado,
+
+98
+00:05:32.950 --> 00:05:37.640
+ele não faz a validação em hipótese alguma dos dados que estão ali preenchidos.
+
+99
+00:05:37.649 --> 00:05:40.730
+Em hipótese alguma tá, Por que que ele não faz,
+
+100
+00:05:40.739 --> 00:05:44.640
+porque cabe ao contribuinte preencher a nota fiscal de forma correta.
+
+101
+00:05:44.649 --> 00:05:46.859
+Então, ele faz essa validação
+
+102
+00:05:48.459 --> 00:05:49.950
+depois da validação.
+
+103
+00:05:49.959 --> 00:05:53.850
+Cada operação que o contribuinte fizer vai ser uma validação diferente.
+
+104
+00:05:53.859 --> 00:05:59.190
+Não é um uma pessoa humana ali, fazendo é um sistema, Ou seja, é um parâmetro.
+
+105
+00:05:59.200 --> 00:06:03.390
+É um código ah, desenvolvido pra fazer essas validações automáticas.
+
+106
+00:06:03.399 --> 00:06:07.269
+Por isso que quando nós tentamos emitir uma nota de um número que já foi emitido,
+
+107
+00:06:07.279 --> 00:06:08.690
+nós não conseguimos emitir
+
+108
+00:06:11.769 --> 00:06:13.480
+depois que foi validado.
+
+109
+00:06:14.369 --> 00:06:17.619
+A Secretaria da Fazenda desse estado devolve a
+
+110
+00:06:17.630 --> 00:06:19.739
+autorização de uso com a chave de acesso
+
+111
+00:06:19.750 --> 00:06:23.100
+e ela automaticamente comunica a Sefaz de Destino
+
+112
+00:06:23.109 --> 00:06:25.760
+se for outro estado e a Receita Federal,
+
+113
+00:06:25.769 --> 00:06:29.480
+e aí então o o vendedor ele pode, né?
+
+114
+00:06:29.489 --> 00:06:32.720
+Se a análise for positiva, se tiver tudo certo, ele pode então
+
+115
+00:06:33.519 --> 00:06:36.809
+liberar pra fazer o transporte dessa mercadoria
+
+116
+00:06:36.820 --> 00:06:39.260
+e também enviar pro comprador ambos.
+
+117
+00:06:39.269 --> 00:06:41.269
+Tanto o comprador quanto o vendedor precisam
+
+118
+00:06:41.279 --> 00:06:43.690
+guardar essa nota fiscal por cinco anos.
+
+119
+00:06:43.700 --> 00:06:46.230
+Guardar nota sua nota fiscal. Eu digo guardar o x ML
+
+120
+00:06:48.019 --> 00:06:52.549
+e aí o fisco tem aí cinco anos pra fazer as veri as verificações,
+
+121
+00:06:52.559 --> 00:06:56.589
+as validações necessárias com relação à manifestação.
+
+122
+00:06:56.600 --> 00:06:57.149
+Seja cien.
+
+123
+00:06:57.160 --> 00:06:59.989
+Nós temos alguns tipos de manifestações de operação,
+
+124
+00:07:00.000 --> 00:07:05.470
+tá uma é a confirmação da operação aonde o contribuinte comprador né o recebedor,
+
+125
+00:07:05.480 --> 00:07:09.049
+o o destinatário, ele confirma essa operação.
+
+126
+00:07:09.059 --> 00:07:12.410
+Ou seja, ele dá a ciência na operação e aceita ela.
+
+127
+00:07:12.679 --> 00:07:15.679
+Ou então ele desconhece essa operação,
+
+128
+00:07:15.690 --> 00:07:18.410
+aonde ele fala que ele aquele documento foi emitido
+
+129
+00:07:18.420 --> 00:07:20.890
+pra ele de forma fria ou de forma inidônea.
+
+130
+00:07:20.899 --> 00:07:24.790
+E isso aí ampara ele juridicamente de qualquer problema no futuro
+
+131
+00:07:25.869 --> 00:07:29.040
+operação não realizada, ou seja, ele conhece aquela operação,
+
+132
+00:07:29.049 --> 00:07:31.100
+mas ela não chegou até ele, tá?
+
+133
+00:07:31.109 --> 00:07:35.239
+Também protege ele com relação a controles de estoque com relação à
+
+134
+00:07:35.250 --> 00:07:40.140
+escrituração de documento fiscal também e ciência da operação e da emissão,
+
+135
+00:07:40.149 --> 00:07:44.059
+esse evento destinatário, ele dá a clara ter ciência de determinada operação,
+
+136
+00:07:44.070 --> 00:07:45.760
+mas não possui os elementos suficientes
+
+137
+00:07:45.769 --> 00:07:48.279
+para apresentar a manifestação conclusiva.
+
+138
+00:07:48.290 --> 00:07:49.619
+Ele sabe que ela existe,
+
+139
+00:07:49.630 --> 00:07:52.390
+mas ainda ele pode trocar a manifestação
+
+140
+00:07:52.399 --> 00:07:54.700
+pra uma dessas que nós falamos anteriormente,
+
+141
+00:07:56.019 --> 00:07:59.570
+tá, o evento de ciência é um evento opcional? Tá.
+
+142
+00:07:59.579 --> 00:08:00.790
+Ele pode ser evitado,
+
+143
+00:08:00.799 --> 00:08:03.269
+já que normalmente o destinatário deve possuir o arquivo x
+
+144
+00:08:03.279 --> 00:08:07.230
+ML da nossa eletrônica enviado ou disponibilizado pelo emitente.
+
+145
+00:08:07.239 --> 00:08:08.570
+Tá a ciência!
+
+146
+00:08:08.579 --> 00:08:11.269
+Você pode dizer é como se você dissesse oh, eu sei que existe,
+
+147
+00:08:11.279 --> 00:08:12.690
+mas ainda não chegou pra mim
+
+148
+00:08:14.440 --> 00:08:19.750
+tá, Nós podemos mudar. Tá a ciência como eu acabei dizendo já
+
+149
+00:08:20.350 --> 00:08:20.640
+E aí?
+
+150
+00:08:20.649 --> 00:08:25.040
+Nós podemos também consultar aqui a a ciência da operação tá Como que
+
+151
+00:08:25.049 --> 00:08:29.260
+está a ciência ou realizar a ciência também pelo sistema da nota fiscal eletrônica

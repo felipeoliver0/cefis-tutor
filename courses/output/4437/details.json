@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4437,
+    "title": "Impactos da Reforma Tributária sobre o Comércio, indústria e Serviços ",
+    "subtitle": "Cálculo durante o Período de Transição ",
+    "summary": "Neste curso \"Impactos da Reforma Tributária sobre o Comércio, indústria e Serviços\" você irá aprender na prática tudo o que precisa saber sobre Impactos da Reforma Tributária sobre o Comércio, indústria e Serviços. Aprenderá os fundamentos e a prática de cálculos durante o período de transição, análise dos efeitos da reforma sobre o comércio e aplicação de estudos de caso práticos e vários outros temas para você que deseja se atualizar ou aprender tudo sobre Impactos da Reforma Tributária sobre o Comércio, indústria e Serviços.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/d568d7a2-e3cb-4711-9690-a953b168ba25-thumbnail.png",
+    "goals": [
+      "O objetivo do curso \"Impactos da Reforma Tributária sobre o Comércio, indústria e Serviços: Cálculo durante o Período de Transição\" é a capacitação para a aplicação prática dos impactos da reforma tributária nos setores de comércio, indústria e serviços, com foco nos cálculos e análises necessários durante o período de transição."
+    ],
+    "teacher": {
+      "id": 483386,
+      "name": "RICARDO PRADO",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIBiWZEcL31dEGm4fQDN4Cq3TGt-BsNCOj91c6SwTQj58qlWO76=s96-c"
+    },
+    "duration": 9128,
+    "keywords": "reforma;impactos",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 22,
+    "materialCount": 4,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 241,
+    "averageRating": 9.55,
+    "practiceAverage": 9.53,
+    "trailer": {
+      "id": "ef8e114b-eb6d-462d-bf9a-e8b122cc932a",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ef8e114b-eb6d-462d-bf9a-e8b122cc932a/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ef8e114b-eb6d-462d-bf9a-e8b122cc932a/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ef8e114b-eb6d-462d-bf9a-e8b122cc932a/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ef8e114b-eb6d-462d-bf9a-e8b122cc932a/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-04-21T16:04:49.000Z",
+      "updatedAt": "2026-04-21T16:04:48.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-04-22T16:13:16.000Z",
+    "recordedAt": "2026-03-01T00:00:00.000Z",
+    "createdAt": "2026-03-01T15:43:54.000Z"
+  }
+}

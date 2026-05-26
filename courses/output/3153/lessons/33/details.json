@@ -1,0 +1,33 @@
+{
+  "id": 475283,
+  "title": "Exercícios de Fixação",
+  "position": 33,
+  "duration": 376,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fe292678-257a-484f-b922-54261de02716/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe292678-257a-484f-b922-54261de02716/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe292678-257a-484f-b922-54261de02716/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe292678-257a-484f-b922-54261de02716/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fe292678-257a-484f-b922-54261de02716/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

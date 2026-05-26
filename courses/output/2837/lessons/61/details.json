@@ -1,0 +1,33 @@
+{
+  "id": 470892,
+  "title": "Pagamento de Salários e PRÓ - LABORE",
+  "position": 61,
+  "duration": 516,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/305450dc-5cdb-4817-ab16-9e24975ad9fe/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/305450dc-5cdb-4817-ab16-9e24975ad9fe/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/305450dc-5cdb-4817-ab16-9e24975ad9fe/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/305450dc-5cdb-4817-ab16-9e24975ad9fe/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/305450dc-5cdb-4817-ab16-9e24975ad9fe/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

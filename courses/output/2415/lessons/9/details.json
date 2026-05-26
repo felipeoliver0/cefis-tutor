@@ -1,0 +1,33 @@
+{
+  "id": 465717,
+  "title": "Exercício 1 Mapa Estratégico - Parte 3",
+  "position": 9,
+  "duration": 351,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ba897f24-d667-4773-b291-6eef2cb9f748/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba897f24-d667-4773-b291-6eef2cb9f748/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba897f24-d667-4773-b291-6eef2cb9f748/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba897f24-d667-4773-b291-6eef2cb9f748/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ba897f24-d667-4773-b291-6eef2cb9f748/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 487529,
+  "title": "Demais atividades - Parte 1",
+  "position": 29,
+  "duration": 274,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/bd163d9a-c498-4972-8da0-81256936d76b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd163d9a-c498-4972-8da0-81256936d76b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd163d9a-c498-4972-8da0-81256936d76b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd163d9a-c498-4972-8da0-81256936d76b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bd163d9a-c498-4972-8da0-81256936d76b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

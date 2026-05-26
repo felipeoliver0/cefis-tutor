@@ -1,0 +1,33 @@
+{
+  "id": 457026,
+  "title": "Critérios para aplicação da sanção disciplinar",
+  "position": 15,
+  "duration": 348,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/293371f2-089a-401e-b5c7-55259d443c6c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/293371f2-089a-401e-b5c7-55259d443c6c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/293371f2-089a-401e-b5c7-55259d443c6c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/293371f2-089a-401e-b5c7-55259d443c6c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/293371f2-089a-401e-b5c7-55259d443c6c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

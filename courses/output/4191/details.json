@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4191,
+    "title": "Gestão de riscos cambiais",
+    "subtitle": "para exportadores e importadores",
+    "summary": "Fundamentos cambiais e financiamento para exportações e imporFundamentos cambiais e financiamento para exportações e imporFundamentos cambiais e financiamento para exportações e imporFundamentos cambiais e financiamento para exportações e impor",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/21aa04b6-9b6c-4950-8d83-d8c5c659619c-thumbnail.png",
+    "goals": [
+      "Fundamentos cambiais e financiamento para exportações e imporFundamentos cambiais e financiamento para exportações e imporFundamentos cambiais e financiamento para exportações e imporFundamentos cambiais e financiamento para exportações e impor"
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 9918,
+    "keywords": "financiamento",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 43,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 39,
+    "averageRating": 9.38,
+    "practiceAverage": 9.31,
+    "trailer": {
+      "id": "697cd3cb-d8ce-4e90-afb8-32bdf17053f0",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/697cd3cb-d8ce-4e90-afb8-32bdf17053f0/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/697cd3cb-d8ce-4e90-afb8-32bdf17053f0/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/697cd3cb-d8ce-4e90-afb8-32bdf17053f0/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/697cd3cb-d8ce-4e90-afb8-32bdf17053f0/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-15T10:22:34.000Z",
+      "updatedAt": "2025-12-15T10:22:34.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-16T14:44:16.000Z",
+    "recordedAt": "2025-12-10T00:00:00.000Z",
+    "createdAt": "2025-12-15T10:20:29.000Z"
+  }
+}

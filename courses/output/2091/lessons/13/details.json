@@ -1,0 +1,33 @@
+{
+  "id": 462045,
+  "title": "Comunicação",
+  "position": 13,
+  "duration": 534,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e482dced-37ae-4ac0-968b-54b2253f7e79/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e482dced-37ae-4ac0-968b-54b2253f7e79/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e482dced-37ae-4ac0-968b-54b2253f7e79/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e482dced-37ae-4ac0-968b-54b2253f7e79/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e482dced-37ae-4ac0-968b-54b2253f7e79/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 472013,
+  "title": "Impedimentos",
+  "position": 3,
+  "duration": 115,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e1e5a88b-30f0-420d-944a-1a3ee9062607/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1e5a88b-30f0-420d-944a-1a3ee9062607/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1e5a88b-30f0-420d-944a-1a3ee9062607/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1e5a88b-30f0-420d-944a-1a3ee9062607/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e1e5a88b-30f0-420d-944a-1a3ee9062607/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

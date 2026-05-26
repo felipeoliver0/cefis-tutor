@@ -1,0 +1,33 @@
+{
+  "id": 475943,
+  "title": "Princípios do direito do trabalho",
+  "position": 7,
+  "duration": 592,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/40f2e0b3-f188-44b3-8d76-05fc6f5b4a1a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40f2e0b3-f188-44b3-8d76-05fc6f5b4a1a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40f2e0b3-f188-44b3-8d76-05fc6f5b4a1a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40f2e0b3-f188-44b3-8d76-05fc6f5b4a1a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/40f2e0b3-f188-44b3-8d76-05fc6f5b4a1a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

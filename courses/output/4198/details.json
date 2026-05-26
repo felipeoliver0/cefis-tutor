@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 4198,
+    "title": "Relações sindicais",
+    "subtitle": "curso prático",
+    "summary": "Neste curso Relações Sindicais - Curso Prático você irá aprender na prática tudo o que precisa saber sobre relações sindicais. Aprenderá os fundamentos e a prática de interpretação de leis trabalhistas, como a CLT, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre relações sindicais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/33c3ec4c-f24a-4dda-b862-58dd9b556252-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Relações sindicais, curso prático é a capacitação para a aplicação prática de conhecimentos sobre as relações entre sindicatos, empregadores e empregados, abordando aspectos legais e contratuais, como a legislação trabalhista, convenções coletivas, acordos coletivos e outros tópicos relevantes para a gestão de conflitos e negociações laborais."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 3544,
+    "keywords": "relações sindicais",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 15,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 56,
+    "averageRating": 9.54,
+    "practiceAverage": 9.47,
+    "trailer": {
+      "id": "37070f6c-9c33-4388-8d0a-82e6d7fd5629",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/37070f6c-9c33-4388-8d0a-82e6d7fd5629/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/37070f6c-9c33-4388-8d0a-82e6d7fd5629/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/37070f6c-9c33-4388-8d0a-82e6d7fd5629/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/37070f6c-9c33-4388-8d0a-82e6d7fd5629/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-12-19T16:43:39.000Z",
+      "updatedAt": "2025-12-19T16:43:38.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-12-26T14:05:32.000Z",
+    "recordedAt": "2025-12-01T00:00:00.000Z",
+    "createdAt": "2025-12-19T14:38:13.000Z"
+  }
+}

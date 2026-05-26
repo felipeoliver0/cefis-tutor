@@ -1,0 +1,657 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:03.509
+pessoal sejam bem-vindos ao módulo quatro nesse módulo quatro.
+
+2
+00:00:03.519 --> 00:00:05.949
+Nós vamos nos módulos anteriores.
+
+3
+00:00:05.960 --> 00:00:08.310
+A gente viu tudo sobre a nota fiscal eletrônica
+
+4
+00:00:08.319 --> 00:00:11.149
+sobre os eventos sobre o DANF sobre a contingência,
+
+5
+00:00:11.159 --> 00:00:11.510
+né?
+
+6
+00:00:11.760 --> 00:00:15.109
+Vimos também da manifestação dos destinatários, eventos do Fisco, né?
+
+7
+00:00:15.119 --> 00:00:19.440
+Então, foi um todas as informações a respeito do documento fiscal,
+
+8
+00:00:19.450 --> 00:00:24.049
+da nota fiscal eletrônica em si TÁ, mas a gente sabe que, pra emitir o documento,
+
+9
+00:00:24.059 --> 00:00:26.010
+a gente precisa de outras informações, né?
+
+10
+00:00:26.020 --> 00:00:28.489
+Então tem aspectos tributários que é bom a gente saber
+
+11
+00:00:28.500 --> 00:00:31.450
+para emitir o documento pra quando a gente prestar informação,
+
+12
+00:00:31.459 --> 00:00:33.049
+prestar aquela informação,
+
+13
+00:00:33.099 --> 00:00:36.659
+a gente saber o que é exigido da gente no momento de emitir
+
+14
+00:00:36.669 --> 00:00:38.590
+o documento e a gente poder transcorrer
+
+15
+00:00:38.599 --> 00:00:41.029
+com tranquilidade na emissão desse documento.
+
+16
+00:00:41.040 --> 00:00:43.849
+Vamos falar um pouquinho de i SMS um pouco de
+
+17
+00:00:43.860 --> 00:00:46.630
+todos os códigos que vão ali na nota fiscal eletrônica,
+
+18
+00:00:46.639 --> 00:00:49.369
+pra gente poder fazer a emissão do documento, né?
+
+19
+00:00:49.380 --> 00:00:52.110
+Quando a gente for solicitado prestar uma informação
+
+20
+00:00:52.119 --> 00:00:53.709
+a gente saber exatamente o que que é.
+
+21
+00:00:53.720 --> 00:00:54.400
+Tá bom?
+
+22
+00:00:54.810 --> 00:00:57.939
+Esses tópicos eles servem pra todos os documentos, fiscais,
+
+23
+00:00:57.950 --> 00:00:59.840
+não só pra nota fiscal eletrônica, tá?
+
+24
+00:00:59.849 --> 00:01:01.779
+São aspectos tributários, aspectos,
+
+25
+00:01:01.790 --> 00:01:05.400
+acessórios que precisamos saber pra emissão do documento tá bom.
+
+26
+00:01:06.410 --> 00:01:10.760
+Então, pessoal! Primeiramente vamos aqui, né? Contribuinte, né?
+
+27
+00:01:10.769 --> 00:01:13.750
+Muitas vezes a gente fala contribuinte, contribuinte, contribuinte.
+
+28
+00:01:13.760 --> 00:01:18.639
+O contribuinte é quem é quem tem uma relação direta com o fato gerador, né.
+
+29
+00:01:18.650 --> 00:01:23.139
+E que a lei ponha ele a obrigação de pagar o imposto? Tá bom
+
+30
+00:01:23.349 --> 00:01:26.279
+o contribuinte que emite a nota fiscal eletrônica e a
+
+31
+00:01:26.290 --> 00:01:29.639
+nota fiscal do consumidor eletrônica é o contribuinte do ICMS.
+
+32
+00:01:29.650 --> 00:01:34.000
+Tá o contribuinte do ICMS, que é o Imposto de Circulação de Mercadorias e serviços,
+
+33
+00:01:34.010 --> 00:01:34.239
+né.
+
+34
+00:01:34.250 --> 00:01:39.000
+Então, quando eu vou vender uma mercadoria, eu tenho que pagar, ICMS tá bom.
+
+35
+00:01:40.319 --> 00:01:45.709
+O serviço de transporte também é no ICMS. Por isso que é mercadorias e serviços, né?
+
+36
+00:01:45.720 --> 00:01:51.779
+Então, serviço de transporte de telecomunicação, ICMS, mercadorias, ICMS, okay,
+
+37
+00:01:52.279 --> 00:01:55.730
+temos também o IPI, que é o Imposto sobre Produtos Industrializados.
+
+38
+00:01:55.739 --> 00:01:59.250
+Tá que são pras pessoas que fazem industrialização.
+
+39
+00:01:59.260 --> 00:02:04.110
+Tá pessoas que industrializam, né? Ou seja, as indústrias tá, e o S s?
+
+40
+00:02:04.120 --> 00:02:05.910
+Que é o prestador de serviços, né?
+
+41
+00:02:05.919 --> 00:02:11.008
+Os serviços não compreendidos aqui no SMS tá, então, os outros serviços. Todos, né?
+
+42
+00:02:11.020 --> 00:02:15.970
+São os serviços do ISS. Por exemplo hotel, hospedagem em hotel, né?
+
+43
+00:02:15.979 --> 00:02:21.300
+Serviço de salão de cabeleireiro, Serviço de oficina mecânica tá
+
+44
+00:02:21.720 --> 00:02:23.529
+ISS. Okay,
+
+45
+00:02:24.149 --> 00:02:25.880
+esses são os contribuintes,
+
+46
+00:02:25.889 --> 00:02:30.360
+então quem emite a nota fiscal eletrônica é o contribuinte do ICMS, Okay,
+
+47
+00:02:30.369 --> 00:02:32.559
+mas quando eu falei pro contribuinte,
+
+48
+00:02:32.570 --> 00:02:34.639
+eu falei que é a pessoa que tem relação com o fato.
+
+49
+00:02:34.649 --> 00:02:39.600
+Gerador, né? Que que é fato do gerador É o motivo da incidência do tributo, né?
+
+50
+00:02:39.610 --> 00:02:44.380
+Então, o fato gerador do ICMS é a saída da mercadoria do estabelecimento, né?
+
+51
+00:02:44.389 --> 00:02:48.600
+Ou seja, quando você vendeu a mercadoria, quando a mercadoria vai circular, né?
+
+52
+00:02:48.610 --> 00:02:51.039
+Vai sair do estabelecimento quando ela passa de
+
+53
+00:02:51.050 --> 00:02:52.880
+propriedade de um dono pro outro dono,
+
+54
+00:02:52.889 --> 00:02:53.470
+né?
+
+55
+00:02:53.520 --> 00:02:55.410
+Configura a circulação de mercadoria.
+
+56
+00:02:55.419 --> 00:02:55.960
+Então,
+
+57
+00:02:55.970 --> 00:02:59.369
+ele é o fato gerador do ICMS TÁ e também
+
+58
+00:02:59.380 --> 00:03:02.750
+do início da prestação do serviço de transporte e comunicação,
+
+59
+00:03:02.759 --> 00:03:02.889
+né?
+
+60
+00:03:02.899 --> 00:03:05.789
+Então no início da prestação do serviço de transporte, ou seja,
+
+61
+00:03:05.800 --> 00:03:08.160
+o transportador pegou a mercadoria em São Paulo,
+
+62
+00:03:08.169 --> 00:03:12.570
+vai entregar no Paraná o exposto fato gerador ocorreu em São Paulo porque
+
+63
+00:03:12.580 --> 00:03:16.210
+em São Paulo se deu o início do serviço de transporte okay,
+
+64
+00:03:17.490 --> 00:03:23.139
+mas o ICMS tem um foco muito grande também na mercadoria tá bom ICMS Fato gerador,
+
+65
+00:03:23.149 --> 00:03:26.419
+circulação da mercadoria início da prestação do serviço de transporte.
+
+66
+00:03:26.429 --> 00:03:32.759
+O IPI é o que a saída do do produto industrializado tá do ambiente lá da indústria.
+
+67
+00:03:32.770 --> 00:03:34.259
+Então, no momento da saída,
+
+68
+00:03:34.270 --> 00:03:38.529
+é o momento da incidência do IPI no momento do fato gerador do IPI, okay
+
+69
+00:03:39.100 --> 00:03:43.089
+e do ISS, né? É quando ocorre a prestação de serviço? Tá?
+
+70
+00:03:43.100 --> 00:03:45.350
+Então, esses são os fatos geradores do imposto.
+
+71
+00:03:45.360 --> 00:03:48.589
+Okay É bom a gente saber porque isso o fato
+
+72
+00:03:48.600 --> 00:03:50.869
+do gerador ter uma relação direta com o documento fiscal,
+
+73
+00:03:50.880 --> 00:03:51.369
+porque
+
+74
+00:03:51.919 --> 00:03:55.910
+o documento fiscal tem que ser emitido no momento do fato gerador.
+
+75
+00:03:55.919 --> 00:03:58.289
+Então, quando for haver a mercadoria,
+
+76
+00:03:58.300 --> 00:04:02.250
+a circulação da mercadoria e nos documentos de transporte,
+
+77
+00:04:02.259 --> 00:04:05.130
+quando for haver o início do serviço de transporte,
+
+78
+00:04:05.139 --> 00:04:08.904
+okay pessoal Outra coisa que é muito importante fiscal é o quê?
+
+79
+00:04:08.914 --> 00:04:10.884
+Base de cálculo tá bom?
+
+80
+00:04:10.895 --> 00:04:16.113
+Base de cálculo é o que é o conjunto de valores utilizado para o cálculo de tributos.
+
+81
+00:04:16.125 --> 00:04:16.695
+Tá bom?
+
+82
+00:04:16.704 --> 00:04:21.355
+Então, a base de cálculo ali é todo o valor ali que entra ali pra cobrar o tributo.
+
+83
+00:04:21.363 --> 00:04:25.045
+Por exemplo, o preço da mercadoria, né? No ICMS,
+
+84
+00:04:25.589 --> 00:04:30.140
+se for haver frete seguro né alguma outra despesa acessória tudo
+
+85
+00:04:30.149 --> 00:04:32.799
+isso entra pra base de cálculo do imposto e é aonde vai
+
+86
+00:04:32.809 --> 00:04:38.279
+ser Calculado o imposto Okay o IPI tá é a base do
+
+87
+00:04:38.290 --> 00:04:40.440
+A base de cálculo do IPI é o valor do produto?
+
+88
+00:04:40.450 --> 00:04:43.609
+Tá, mas também é a mesma coisa, né, Se for haver frete e tudo mais,
+
+89
+00:04:43.619 --> 00:04:46.230
+tudo isso aí entra pra base de cálculo.
+
+90
+00:04:46.239 --> 00:04:49.640
+E o a base de cálculo do imposto sobre Serviço é o valor do serviço prestado,
+
+91
+00:04:49.649 --> 00:04:50.440
+tá bom e o A.
+
+92
+00:04:50.450 --> 00:04:52.549
+O imposto é calculado como
+
+93
+00:04:52.869 --> 00:04:57.640
+multiplicando a base de cálculo por uma alíquota, né?
+
+94
+00:04:57.649 --> 00:05:01.279
+Então, a alíquota é um valor que você multiplica a base de cálculo,
+
+95
+00:05:01.290 --> 00:05:04.380
+tá pra haver o recolhimento imposto.
+
+96
+00:05:04.390 --> 00:05:09.739
+Então, a alíquota pode ser percentual, né, que é o a forma mais comum, de alíquota,
+
+97
+00:05:09.750 --> 00:05:10.359
+né?
+
+98
+00:05:10.369 --> 00:05:15.820
+Pode ser fixa, por exemplo, a Cide Combustível, né? Pode ser variável, né?
+
+99
+00:05:15.829 --> 00:05:20.149
+Uma alíquota variável, conforme o ICMS, pode ser uma alíquota também
+
+100
+00:05:20.679 --> 00:05:24.869
+essa nova alíquota do ICMS, monofásico de combustíveis, que o pessoal chama a RENE,
+
+101
+00:05:24.880 --> 00:05:28.440
+que é um valor fixo, independente do valor da base de cálculo, tá bom
+
+102
+00:05:29.420 --> 00:05:33.109
+e pode ser uma alíquota progressiva também, como no caso do Imposto de Renda, né.
+
+103
+00:05:33.119 --> 00:05:34.950
+O Imposto de Renda tem faixas isentas.
+
+104
+00:05:34.959 --> 00:05:37.630
+Tem faixa que paga sete e meio por cento, quinze por cento.
+
+105
+00:05:37.640 --> 00:05:43.079
+Vinte e três por cento, e por aí vai. Tá bom? Essa seria uma alíquota progressiva, tá.
+
+106
+00:05:43.089 --> 00:05:46.350
+Então as alíquotas são os valores,
+
+107
+00:05:46.359 --> 00:05:50.850
+que a gente multiplica a base de cálculo pra obter ali o valor do imposto a pagar.
+
+108
+00:05:50.859 --> 00:05:55.910
+Tá bom, pessoal aqui Nós vamos falar sobre a incidência do ICMS, né?
+
+109
+00:05:55.920 --> 00:06:00.089
+Quando que o ICMS vai ser cobrado? Quando ele não vai ser cobrado? Tá bom.
+
+110
+00:06:00.100 --> 00:06:03.429
+Então, a gente, por exemplo, tem esse quadro maior aqui,
+
+111
+00:06:03.440 --> 00:06:07.190
+que é o das coisas todas que podem acontecer, né?
+
+112
+00:06:07.200 --> 00:06:10.190
+Então pode acontecer, por exemplo, a prestação de serviço.
+
+113
+00:06:10.200 --> 00:06:13.790
+Pode acontecer um aluguel, pode acontecer uma venda de mercadoria,
+
+114
+00:06:13.799 --> 00:06:15.059
+pode acontecer um monte de coisa.
+
+115
+00:06:15.070 --> 00:06:15.690
+Tá bom
+
+116
+00:06:15.929 --> 00:06:18.260
+dessas coisas todas que podem ocorrer.
+
+117
+00:06:18.269 --> 00:06:22.559
+A gente tem esse ciclo aqui que a gente fala que é o campo da incidência do imposto.
+
+118
+00:06:22.570 --> 00:06:26.670
+Ou seja, quando o imposto pode ser cobrado no ICMS, por exemplo,
+
+119
+00:06:26.679 --> 00:06:30.019
+é uma venda de mercadorias, uma venda de computadores.
+
+120
+00:06:30.029 --> 00:06:30.619
+Então,
+
+121
+00:06:30.630 --> 00:06:32.559
+tudo isso tem incidência de imposto que eu falei pra
+
+122
+00:06:32.570 --> 00:06:36.279
+vocês que o o ICMS incide sobre circulação de mercadorias,
+
+123
+00:06:36.290 --> 00:06:39.600
+prestação do serviço de transporte e comunicação tá bom,
+
+124
+00:06:39.609 --> 00:06:45.079
+Então aqui dentro é serviço de transporte, comunicação e venda de mercadorias,
+
+125
+00:06:45.089 --> 00:06:45.579
+Tá bom?
+
+126
+00:06:45.589 --> 00:06:48.089
+então, nós temos a incidência tá bom,
+
+127
+00:06:49.070 --> 00:06:53.500
+dentro da incidência pessoal, nós temos o campo da isenção, né.
+
+128
+00:06:53.510 --> 00:06:59.339
+O que que é isenção A isenção é um dispositivo legal, que é colocado, né?
+
+129
+00:06:59.350 --> 00:07:01.920
+Tirando a tributação daquele campo.
+
+130
+00:07:01.929 --> 00:07:07.019
+Tá então, por exemplo, a venda de tomate, a venda de hortifruti na operação interna,
+
+131
+00:07:07.029 --> 00:07:08.410
+ou seja, dentro do Estado,
+
+132
+00:07:08.579 --> 00:07:12.910
+destinada ao consumo, né, Na maioria dos estados do Brasil, isso é isento, né?
+
+133
+00:07:12.920 --> 00:07:18.149
+Não paga imposto sobre isso, né? Então, venda de hortifruti na operação interna.
+
+134
+00:07:18.160 --> 00:07:21.250
+Embora esteja dentro do campo, da incidência, ou seja,
+
+135
+00:07:21.260 --> 00:07:25.670
+poderia cobrar tributo disso, porque tem o fato gerador correto,
+
+136
+00:07:25.679 --> 00:07:26.869
+Tem a mercadoria correta.
+
+137
+00:07:26.880 --> 00:07:28.829
+A venda de mercadoria poderia cobrar tributo.
+
+138
+00:07:28.839 --> 00:07:33.369
+Mas a lei falou que não pode cobrar tributo. Tá bom.
+
+139
+00:07:33.380 --> 00:07:35.959
+Vocês vê que tá dentro do campo da isenção.
+
+140
+00:07:36.489 --> 00:07:40.980
+E essa lei, uma vez revogada aquela operação, volta para a incidência do imposto,
+
+141
+00:07:40.989 --> 00:07:41.220
+né?
+
+142
+00:07:41.230 --> 00:07:43.769
+Então, essa lei, ela pode ser revogada a qualquer momento
+
+143
+00:07:43.959 --> 00:07:46.690
+e, por exemplo, quando a gente trouxe o exemplo aqui, venda de tomate,
+
+144
+00:07:46.700 --> 00:07:48.619
+pode ser que amanhã o legislador fala não.
+
+145
+00:07:48.630 --> 00:07:50.130
+A partir do ano que vem,
+
+146
+00:07:50.140 --> 00:07:54.119
+o tomate vai ser tributado na operação interna pra consumidor final.
+
+147
+00:07:54.130 --> 00:07:56.989
+Então, ele sai da isenção e volta pra incidência, Tá bom,
+
+148
+00:07:57.000 --> 00:08:00.010
+então esse é o campo da isenção, Tá!
+
+149
+00:08:00.019 --> 00:08:02.149
+E também nós temos o campo da imunidade,
+
+150
+00:08:02.160 --> 00:08:04.320
+O Campo da imunidade você pode ver que ele foi
+
+151
+00:08:04.329 --> 00:08:07.369
+recortado aqui de dentro da incidência e trazido pra cá.
+
+152
+00:08:07.380 --> 00:08:07.750
+Tá
+
+153
+00:08:07.980 --> 00:08:10.070
+a imunidade, a imunidade constitucional.
+
+154
+00:08:10.079 --> 00:08:11.839
+Por exemplo, a venda de livros,
+
+155
+00:08:11.850 --> 00:08:17.269
+a venda de jornais foi recortado da incidência e tirado aqui pra não incidência.
+
+156
+00:08:17.279 --> 00:08:17.839
+Tá bom
+
+157
+00:08:18.459 --> 00:08:23.529
+esse recorte ele desistiu Por quê? Porque não pode voltar isso pra incidência?
+
+158
+00:08:23.540 --> 00:08:25.269
+Porque tem uma imunidade constitucional.
+
+159
+00:08:25.279 --> 00:08:29.230
+Então não pode haver lei alguma, que vai falar que agora, a partir do ano que vem,
+
+160
+00:08:29.239 --> 00:08:31.470
+a venda de livros vai ser tributada, não pode.
+
+161
+00:08:31.480 --> 00:08:34.659
+Isso tá fora da incidência, Foi recortado,
+
+162
+00:08:34.669 --> 00:08:38.349
+tirado aqui pro campo da imunidade por uma norma legal constitucional,
+
+163
+00:08:38.359 --> 00:08:39.669
+que não pode ser revogada.
+
+164
+00:08:39.679 --> 00:08:45.330
+Tá bom, então esse é o a incidência não incidência, isenção e imunidade. Tá bom!

@@ -1,0 +1,33 @@
+{
+  "id": 459448,
+  "title": "TIR",
+  "position": 25,
+  "duration": 396,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a57f82bf-d617-44bb-9655-4422a35c6e5a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a57f82bf-d617-44bb-9655-4422a35c6e5a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a57f82bf-d617-44bb-9655-4422a35c6e5a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a57f82bf-d617-44bb-9655-4422a35c6e5a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a57f82bf-d617-44bb-9655-4422a35c6e5a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

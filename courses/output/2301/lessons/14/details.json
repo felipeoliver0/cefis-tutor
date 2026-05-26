@@ -1,0 +1,33 @@
+{
+  "id": 464695,
+  "title": "Tributação sobre Crédito Presumido",
+  "position": 14,
+  "duration": 361,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/17e475c9-c42d-4f6a-8247-8804acb57803/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/17e475c9-c42d-4f6a-8247-8804acb57803/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/17e475c9-c42d-4f6a-8247-8804acb57803/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/17e475c9-c42d-4f6a-8247-8804acb57803/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/17e475c9-c42d-4f6a-8247-8804acb57803/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 488102,
+  "title": "Principais cruzamentos",
+  "position": 53,
+  "duration": 550,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/851de8ce-f103-4f84-8229-c059db8cfc56/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/851de8ce-f103-4f84-8229-c059db8cfc56/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/851de8ce-f103-4f84-8229-c059db8cfc56/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/851de8ce-f103-4f84-8229-c059db8cfc56/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/851de8ce-f103-4f84-8229-c059db8cfc56/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

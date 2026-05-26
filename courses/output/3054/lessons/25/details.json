@@ -1,0 +1,33 @@
+{
+  "id": 474018,
+  "title": "Insumos",
+  "position": 25,
+  "duration": 447,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c975fc91-1813-4934-8651-1a1435ef1129/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c975fc91-1813-4934-8651-1a1435ef1129/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c975fc91-1813-4934-8651-1a1435ef1129/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c975fc91-1813-4934-8651-1a1435ef1129/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c975fc91-1813-4934-8651-1a1435ef1129/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

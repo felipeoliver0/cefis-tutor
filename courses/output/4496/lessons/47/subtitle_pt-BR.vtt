@@ -1,0 +1,437 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.799
+Agora vamos ao patrimônio líquido dela. Como é que é composto o patrimônio líquido?
+
+3
+00:00:03.799 --> 00:00:11.599
+1 do 1 de x₀ é composto capital realizado, 12 milhões, reserva de capital, 3 milhões,
+
+4
+00:00:11.599 --> 00:00:19.399
+reserva de lucros, 2 milhões, lucros acumulados, 1 milhão, reserva de reavaliação, 2 milhões.
+
+5
+00:00:19.399 --> 00:00:23.800
+Então nós temos 20 milhões de patrimônio líquido. Muito bem.
+
+6
+00:00:23.800 --> 00:00:26.800
+Eu vou utilizar os 20 para o cálculo dos juros?
+
+7
+00:00:26.800 --> 00:00:33.000
+Não. Como nós vimos, tem conta aqui que não entra para a base. Eu preciso ajustar esse PL.
+
+8
+00:00:33.000 --> 00:00:36.200
+Então, olha só. Algumas anotações.
+
+9
+00:00:36.200 --> 00:00:41.000
+Não houve alteração do patrimônio líquido durante o período base de x₀.
+
+10
+00:00:41.000 --> 00:00:44.799
+Importante isso. Não aumentou o capital, não reduziu nada disso.
+
+11
+00:00:44.799 --> 00:00:52.600
+Foram capitalizados 500 mil de reserva de reavaliação de bens imóveis não realizados.
+
+12
+00:00:52.600 --> 00:00:54.399
+O que significa dizer isso?
+
+13
+00:00:54.399 --> 00:00:56.399
+Que eu aumentei capital.
+
+14
+00:00:56.399 --> 00:01:02.600
+Com reserva de reavaliação de 500 mil, porém eu não tributei, porque não foi realizado.
+
+15
+00:01:02.600 --> 00:01:04.400
+Está lá dentro dos meus 12.
+
+16
+00:01:04.400 --> 00:01:10.599
+O lucro líquido apurado em 31 do 12 de x₀ após a contribuição social
+
+17
+00:01:10.599 --> 00:01:15.000
+e antes do imposto de renda foi de 2.457.000.
+
+18
+00:01:15.000 --> 00:01:17.400
+Está lá na DRE. Vamos ver?
+
+19
+00:01:17.400 --> 00:01:25.599
+Olha aqui na DRE. 2.457.000 após a contribuição social,
+
+20
+00:01:25.599 --> 00:01:29.799
+mas antes do imposto de renda. Perfeito? Vi de DRE.
+
+21
+00:01:29.799 --> 00:01:36.400
+A sociedade possui dois sócios com participações iguais, 50 e 50.
+
+22
+00:01:36.400 --> 00:01:42.799
+Temos a companhia ABC e temos o sócio Valdomiro Gomes como pessoa física.
+
+23
+00:01:42.799 --> 00:01:48.200
+Então, tem uma pessoa jurídica e uma pessoa física que são sócios da Companhia Brasil.
+
+24
+00:01:48.200 --> 00:01:54.799
+Perfeito? Com participações iguais, ou seja, 50% para cada um. Bacana?
+
+25
+00:01:54.799 --> 00:01:59.599
+Então, temos aí o resultado, temos o cálculo do imposto de renda,
+
+26
+00:01:59.599 --> 00:02:04.000
+temos aí as informações e vamos ao cálculo.
+
+27
+00:02:04.000 --> 00:02:08.000
+Primeira coisa, vamos já ajustar o nosso patrimônio líquido.
+
+28
+00:02:08.000 --> 00:02:14.400
+O nosso PL é 20.000.000, mas nós vimos que 2.000.000 é reserva de reavaliação,
+
+29
+00:02:14.400 --> 00:02:17.800
+não tributado, portanto eu tenho que excluir, não entra na base.
+
+30
+00:02:17.800 --> 00:02:24.599
+E também que dentro dos 20.000.000 lá, nós temos uma reserva de reavaliação que foi capitalizada,
+
+31
+00:02:24.599 --> 00:02:27.800
+ou seja, eu aumentei capital com a reserva, mas não tributei.
+
+32
+00:02:27.800 --> 00:02:31.800
+Em quanto? Em 500.000, então também tenho que excluir.
+
+33
+00:02:31.800 --> 00:02:37.400
+Portanto, meu patrimônio líquido ajustado é 17.500.000.
+
+34
+00:02:37.400 --> 00:02:38.800
+Estão acompanhando, pessoal?
+
+35
+00:02:38.800 --> 00:02:42.800
+Estou fazendo bem devagarzinho para que todos peguem no detalhe.
+
+36
+00:02:42.800 --> 00:02:44.800
+Tenho lá 17.500.000.
+
+37
+00:02:44.800 --> 00:02:48.800
+Qual é a taxa TJLP exponencial?
+
+38
+00:02:48.800 --> 00:02:52.199
+10,75% ao ano.
+
+39
+00:02:52.199 --> 00:02:54.099
+Taxa de juros?
+
+40
+00:02:54.099 --> 00:02:55.599
+Exponencial.
+
+41
+00:02:55.599 --> 00:02:58.500
+Portanto, quanto é que eu posso pagar de juros?
+
+42
+00:02:58.500 --> 00:03:01.699
+1.881.250.
+
+43
+00:03:01.699 --> 00:03:08.300
+Que nada mais é do que 10,75 vezes 17.500.000, que é o patrimônio líquido ajustado.
+
+44
+00:03:08.300 --> 00:03:09.500
+Todos captaram aí?
+
+45
+00:03:09.500 --> 00:03:10.699
+Tranquilo, né?
+
+46
+00:03:10.699 --> 00:03:16.300
+Perfeito, então posso pagar 1.881.250.
+
+47
+00:03:16.300 --> 00:03:17.300
+Muito bem.
+
+48
+00:03:17.300 --> 00:03:21.300
+Já temos aqui o cálculo, agora vamos lá verificar se eu posso pagar isso.
+
+49
+00:03:21.300 --> 00:03:23.900
+Nós temos que comparar os 50% do...
+
+50
+00:03:24.099 --> 00:03:28.699
+lucros acumulados mais reservas ou lucro do exercício.
+
+51
+00:03:28.699 --> 00:03:29.900
+Dos dois, o maior.
+
+52
+00:03:29.900 --> 00:03:31.900
+Lembram que nós comentamos?
+
+53
+00:03:31.900 --> 00:03:33.699
+Falamos lá na teoria.
+
+54
+00:03:33.699 --> 00:03:37.900
+Então, lucros acumulados mais reservas de lucro, eu tenho 3.000.000.
+
+55
+00:03:37.900 --> 00:03:39.099
+Vamos lá ver?
+
+56
+00:03:39.099 --> 00:03:42.500
+Lucros acumulados mais reservas de lucro.
+
+57
+00:03:42.500 --> 00:03:48.300
+Reserva de capital, ou melhor, reserva de lucro 2.000.000 e lucros acumulados, está vendo?
+
+58
+00:03:48.300 --> 00:03:50.300
+2 mais 1, 3, né?
+
+59
+00:03:50.300 --> 00:03:53.099
+Reservas de lucro e lucros acumulados.
+
+60
+00:03:53.099 --> 00:03:55.500
+Então, eu tenho lá 3.000.000.
+
+61
+00:03:55.500 --> 00:03:59.300
+50% dele corresponde a 1.500.000.
+
+62
+00:03:59.300 --> 00:04:00.900
+Até aí, show de bola, né gente?
+
+63
+00:04:00.900 --> 00:04:02.099
+Tranquilo, né?
+
+64
+00:04:02.099 --> 00:04:05.900
+Então, 50% dele, nós temos aqui 1.500.000, muito bem.
+
+65
+00:04:05.900 --> 00:04:07.900
+Aí, nós vamos ter o quê?
+
+66
+00:04:07.900 --> 00:04:08.699
+O que nós vamos ter?
+
+67
+00:04:08.699 --> 00:04:14.300
+Nós vamos ter o lucro do exercício, 2.457.000.
+
+68
+00:04:14.300 --> 00:04:18.100
+Vamos ver lá na nossa DRE os 2.457?
+
+69
+00:04:18.100 --> 00:04:19.300
+Olha lá.
+
+70
+00:04:19.300 --> 00:04:21.699
+Vamos ver aqui na nossa DRE.
+
+71
+00:04:21.699 --> 00:04:23.500
+2.457.000.
+
+72
+00:04:23.500 --> 00:04:25.100
+Olha onde ele está.
+
+73
+00:04:25.100 --> 00:04:33.100
+Então, é os juros após a contribuição social e antes do imposto de renda.
+
+74
+00:04:33.100 --> 00:04:37.500
+Você vê que eu calculei a contribuição social, mas é antes do imposto de renda.
+
+75
+00:04:37.500 --> 00:04:40.100
+2.457.000.
+
+76
+00:04:40.100 --> 00:04:44.899
+Portanto, voltando aqui, 2.457.000.
+
+77
+00:04:44.899 --> 00:04:49.100
+50% dele, 1.228.500.000.
+
+78
+00:04:49.100 --> 00:04:51.500
+Dos dois, eu posso...
+
+79
+00:04:51.500 --> 00:04:52.899
+Pagar o maior.
+
+80
+00:04:52.899 --> 00:04:54.100
+Qual é o maior?
+
+81
+00:04:54.100 --> 00:04:56.100
+1.500.000.
+
+82
+00:04:56.100 --> 00:04:59.899
+Valor a pagar dedutível, 1.500.000.
+
+83
+00:04:59.899 --> 00:05:01.899
+Mas, professor, nós calculamos mais.
+
+84
+00:05:01.899 --> 00:05:03.899
+Sim, quanto é que nós calculamos?
+
+85
+00:05:03.899 --> 00:05:06.699
+1.881.250.
+
+86
+00:05:06.699 --> 00:05:08.899
+Mas eu só posso pagar 1.500.000.
+
+87
+00:05:08.899 --> 00:05:09.699
+Por quê?
+
+88
+00:05:09.699 --> 00:05:11.300
+Porque dos dois, o maior.
+
+89
+00:05:11.300 --> 00:05:15.100
+Lucros acumulados mais reserva de lucro ou lucro do exercício.
+
+90
+00:05:15.100 --> 00:05:17.699
+50% de cada um dos dois, o maior.
+
+91
+00:05:17.699 --> 00:05:19.300
+E o maior foi lucros acumulados.
+
+92
+00:05:19.300 --> 00:05:20.100
+Olha lá.
+
+93
+00:05:20.100 --> 00:05:21.300
+A observação.
+
+94
+00:05:21.300 --> 00:05:26.300
+Dos dois resultados, os limites apurados, utilizaram o que for maior.
+
+95
+00:05:26.300 --> 00:05:34.100
+O valor apurado de 1.881.850.000 excede os limites para fins de dedutibilidade.
+
+96
+00:05:34.100 --> 00:05:38.100
+A DRE, antes e depois da remuneração do capital próprio, ficou assim.
+
+97
+00:05:38.100 --> 00:05:40.500
+Então, vamos ver a vantagem.
+
+98
+00:05:40.500 --> 00:05:44.899
+Agora, eu poderia pagar 1.881.250.000?
+
+99
+00:05:44.899 --> 00:05:45.899
+Posso.
+
+100
+00:05:45.899 --> 00:05:47.500
+Sem problema algum.
+
+101
+00:05:47.500 --> 00:05:49.899
+Mas, para fins de dedutibilidade do lucro real,
+
+102
+00:05:49.899 --> 00:05:51.899
+eu só posso deduzir 1.500.000.
+
+103
+00:05:51.899 --> 00:05:56.899
+Significa que 381.250.000 eu tenho que adicionar na parte A do LARUR.
+
+104
+00:05:56.899 --> 00:05:58.899
+Minha base de imposto de renda vai ser maior.
+
+105
+00:05:58.899 --> 00:05:59.899
+Entendendo?
+
+106
+00:05:59.899 --> 00:06:00.899
+É assim que funciona.
+
+107
+00:06:00.899 --> 00:06:04.899
+Então, vamos ver, depois de todos esses cálculos do que eu posso pagar,
+
+108
+00:06:04.899 --> 00:06:08.899
+qual é a vantagem tributária, qual é o planejamento tributário
+
+109
+00:06:08.899 --> 00:06:10.899
+de se pagar o juros sobre capital próprio.
+
+110
+00:06:10.899 --> 00:06:11.899
+Nesse exemplo.

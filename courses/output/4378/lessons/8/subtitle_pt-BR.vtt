@@ -1,0 +1,365 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.160
+Nós temos uma tag, uma tag chamada CRT.
+
+2
+00:00:07.120 --> 00:00:08.480
+O que significa essa tag?
+
+3
+00:00:08.859 --> 00:00:13.099
+Essa tag representa o código do regime tributário do seu contribuinte.
+
+4
+00:00:15.000 --> 00:00:17.640
+Mostra para o fisco qual é o regime tributário que ele está.
+
+5
+00:00:18.579 --> 00:00:22.699
+E essa tag está no documento fiscal eletrônico há muito tempo.
+
+6
+00:00:23.920 --> 00:00:29.140
+Digo para vocês que essa CRT existe desde 2007, quando foi estruturado o XML.
+
+7
+00:00:31.820 --> 00:00:35.880
+E talvez só agora nós vamos ter a consciência
+
+8
+00:00:35.880 --> 00:00:41.240
+do objetivo da CRT dentro do XML.
+
+9
+00:00:43.240 --> 00:00:55.659
+A CRT hoje, nós temos quatro CRTs. Um, dois, três e o quatro. A CRT 4, ela só foi criada no ano de 2005.
+
+10
+00:00:56.939 --> 00:01:05.859
+E quando foi criada, na hora que foi criada por meio de um ajuste, na hora eu pensei é por conta da reforma. Porque pensa comigo, a 1
+
+11
+00:01:05.859 --> 00:01:07.079
+representa a simples nacional.
+
+12
+00:01:07.900 --> 00:01:10.120
+O CRT 2 representa o simples nacional
+
+13
+00:01:10.120 --> 00:01:11.799
+com sublimite estadual
+
+14
+00:01:11.799 --> 00:01:12.560
+ou municipal.
+
+15
+00:01:13.700 --> 00:01:15.799
+A CRT 3 representa empresas do lucro real
+
+16
+00:01:15.799 --> 00:01:16.939
+e do lucro presumido.
+
+17
+00:01:17.659 --> 00:01:19.799
+E a CRT 4, o MEI.
+
+18
+00:01:20.239 --> 00:01:22.140
+Nós não tínhamos uma CRT
+
+19
+00:01:22.140 --> 00:01:24.099
+para discriminar esse regime tributário
+
+20
+00:01:24.099 --> 00:01:31.180
+diferenciado que é o MEI. então o Fisco criou em 2025 a CRT 4.
+
+21
+00:01:31.980 --> 00:01:46.079
+O artigo 348 da LC 214 de 2025 fala então do momento teste, que é o ano de 2026, e ele dispensa as empresas do Simples Nacional para esse momento.
+
+22
+00:01:52.959 --> 00:01:53.840
+Ou seja, as notas técnicas precisaram então olhar esse regulamento e trazer isso para sua validação.
+
+23
+00:01:58.400 --> 00:01:59.959
+Ou seja, se você tivesse esse material aí em mãos,
+
+24
+00:02:05.099 --> 00:02:06.620
+como que vocês iriam tratar a obrigatoriedade do IBS-ACBS no ano de 2026?
+
+25
+00:02:12.740 --> 00:02:13.219
+A CRT 1, Simples Nacional, tem a obrigatoriedade em 2026?
+
+26
+00:02:13.479 --> 00:02:14.120
+Não.
+
+27
+00:02:19.620 --> 00:02:20.080
+A CRT 2, que representa as empresas do Simples Nacional, com sublimite ultrapassado,
+
+28
+00:02:22.159 --> 00:02:22.759
+entram na obrigatoriedade de 2026?
+
+29
+00:02:23.039 --> 00:02:23.379
+Não.
+
+30
+00:02:23.840 --> 00:02:24.180
+Por quê?
+
+31
+00:02:28.159 --> 00:02:32.919
+O artigo 348 da LC nos diz que é dispensado às empresas do Simples Nacional em iniciar os testes em 2026.
+
+32
+00:02:33.780 --> 00:02:37.319
+Agora, se você atua com uma empresa com CRT3,
+
+33
+00:02:37.719 --> 00:02:41.139
+ela é do lucro real ou ela é do lucro presumido
+
+34
+00:02:41.139 --> 00:02:48.860
+e passam a ter a obrigatoriedade de informar o IBS a CBS a partir de janeiro de 2026.
+
+35
+00:02:51.639 --> 00:03:02.400
+O CRT4 é o MEI e o MEI também fica dispensado do momento teste, conforme o artigo 348, ou seja,
+
+36
+00:03:02.400 --> 00:03:06.860
+nós precisamos analisar a tag que o nosso contribuinte
+
+37
+00:03:06.860 --> 00:03:09.819
+está utilizando para emissão do documento fiscal.
+
+38
+00:03:10.419 --> 00:03:15.620
+E eu falo isso para vocês porque pode ser que o seu contribuinte,
+
+39
+00:03:15.900 --> 00:03:20.199
+sendo do Simples Nacional, esteja na emissão do documento
+
+40
+00:03:20.199 --> 00:03:26.240
+colocando a CRT 3 e que, na verdade verdade ele estaria na 1 ou na 2.
+
+41
+00:03:26.960 --> 00:03:34.000
+E se ele estiver fazendo isso, pode ser que ele esteja sendo exigido a emissão do IBS da CBS.
+
+42
+00:03:34.000 --> 00:03:49.819
+A nota técnica retirou a rejeição, mas pode ser que ele esteja informando de forma indevida essas tags. Então, olha como é importante nós analisarmos as tags, as descrições que estão
+
+43
+00:03:49.819 --> 00:04:06.199
+nas notas técnicas. E essa tag não é nova, ela já existe há 19 anos. 2007 até 2026, completa-se 19 anos anos de XML de espécie fiscal. O que foi criado foi uma nova CRT,
+
+44
+00:04:06.500 --> 00:04:07.539
+que foi a CRT4,
+
+45
+00:04:08.060 --> 00:04:10.020
+só que a 1, a 2 e a 3
+
+46
+00:04:10.020 --> 00:04:11.740
+já existia.
+
+47
+00:04:13.340 --> 00:04:14.759
+A nota técnica,
+
+48
+00:04:14.960 --> 00:04:16.459
+ela só trouxe a observação
+
+49
+00:04:16.459 --> 00:04:16.939
+que
+
+50
+00:04:16.939 --> 00:04:19.980
+empresas do Simples Nacional,
+
+51
+00:04:20.139 --> 00:04:22.220
+empresas do Simples Nacional com excesso
+
+52
+00:04:22.220 --> 00:04:24.399
+de limite e a CRT4,
+
+53
+00:04:24.399 --> 00:04:35.139
+elas só serão obrigatórias a partir de 4 de janeiro de 2027, ou seja, não passa na obrigatoriedade do ano de 2026.
+
+54
+00:04:38.459 --> 00:04:41.199
+Nós temos hoje uma CST.
+
+55
+00:04:42.060 --> 00:04:46.000
+A CST que nós temos hoje é o Código de Situação Tributária.
+
+56
+00:04:46.639 --> 00:04:53.879
+Nós temos a CST de ICMS, temos a CST de PIS e COFINS e temos a CST de IPI.
+
+57
+00:04:55.420 --> 00:04:59.579
+Cada uma CST representa as incidências desses tributos.
+
+58
+00:05:00.660 --> 00:05:08.240
+Para a nova era, o Fisco também criou CSTs que tratam então as incidências do IBS e da CBS.
+
+59
+00:05:09.560 --> 00:05:16.620
+Para que ele não criasse diversas CSTs para demonstrar as particularidades da L614,
+
+60
+00:05:17.459 --> 00:05:20.860
+ele criou um código chamado C-Class Trib.
+
+61
+00:05:21.680 --> 00:05:25.680
+Para cada CST, existirá uma C-Class Trib. Para cada CST, existirá uma C-Class Trib.
+
+62
+00:05:26.439 --> 00:05:31.600
+O principal objetivo da C-Class Trib é demonstrar para o contribuinte e para o fisco
+
+63
+00:05:31.600 --> 00:05:34.660
+que existe uma particularidade naquela operação.
+
+64
+00:05:36.500 --> 00:05:45.839
+Ou seja, nós temos um campo no XML chamado dados adicionais ou informações complementares.
+
+65
+00:05:49.620 --> 00:05:49.800
+E que, na verdade, o principal objetivo deles, dessa tag,
+
+66
+00:05:53.519 --> 00:05:54.180
+é demonstrar para o fisco se existe alguma particularidade na operação,
+
+67
+00:05:56.120 --> 00:05:57.459
+se existe uma fundamentação diferente.
+
+68
+00:06:00.980 --> 00:06:02.420
+É uma comunicação entre contribuinte e fisco.
+
+69
+00:06:09.160 --> 00:06:18.660
+Para facilitar o cruzamento de dados, o fisco cria, então, uma forma da gente trazer essa fundamentação legal por meio de um código e esse é o objetivo da Ciclastrib. Para cada CST, uma Ciclastrib.
+
+70
+00:06:19.259 --> 00:06:28.560
+É a mesma sistemática do que nós temos com o FD Reinfe. Com a vinda do FD Reinfe, nós temos a família R4000.
+
+71
+00:06:29.199 --> 00:06:32.459
+E a família R4000 traz as retenções na fonte.
+
+72
+00:06:34.060 --> 00:06:38.500
+E o que aconteceu em 2024, lá na emissão do documento?
+
+73
+00:06:38.540 --> 00:06:40.540
+O Fisco criou naturezas de rendimento.
+
+74
+00:06:41.180 --> 00:06:44.720
+Então, para cada código de serviço da LC116,
+
+75
+00:06:56.040 --> 00:06:57.680
+o Fisco criou uma natureza de rendimento para você e o seu contribuinte informar a particularidade e a operação do que está acontecendo naquele documento, naquele rendimento.
+
+76
+00:07:01.600 --> 00:07:02.759
+Então, para cada código de serviço existe uma natureza de rendimento.
+
+77
+00:07:09.620 --> 00:07:09.980
+Agora, nós, olhando a perspectiva da sistemática, nós vemos o mesmo.
+
+78
+00:07:14.420 --> 00:07:25.579
+Por quê? Para cada CST, nós temos ciclastrib. E pode ser que uma CST tenha diversas ciclastribes, porque existem particularidades.
+
+79
+00:07:26.100 --> 00:07:32.600
+E é isso que o Fisco quer que nós analisemos para lançar dentro do documento fiscal eletrônico.
+
+80
+00:07:33.040 --> 00:07:38.360
+E como que a gente consegue ter acesso a essas CSTs e a essas ciclastribes?
+
+81
+00:07:38.939 --> 00:07:45.939
+Se vocês forem no portal da nota fiscal eletrônica, vocês cliquem então na aba documentos,
+
+82
+00:07:46.339 --> 00:07:49.100
+dentro dos documentos tem uma aba chamada diversos.
+
+83
+00:07:49.579 --> 00:07:54.040
+Na hora que vocês clicarem na aba diversos, vocês vão ter essas relações,
+
+84
+00:07:54.439 --> 00:07:57.800
+que são diversas tabelas, não só da reforma tributária,
+
+85
+00:07:58.300 --> 00:08:03.899
+mas tabelas que podem ajudar vocês a apurarem o ICMS, o PIS e COFINS e afins.
+
+86
+00:08:04.620 --> 00:08:09.300
+Dentro da perspectiva, o Fisco deixou então uma tabela de código de classificação tributária
+
+87
+00:08:09.300 --> 00:08:10.800
+do IBS e da CBS.
+
+88
+00:08:11.899 --> 00:08:19.660
+Então nós já temos em planilha em Excel as CSTs e as C-Class Tribes para utilizar
+
+89
+00:08:19.660 --> 00:08:22.160
+na emissão do documento fiscal eletrônico.
+
+90
+00:08:23.740 --> 00:08:27.000
+E eu vou demonstrar isso para vocês de forma prática.
+
+91
+00:08:27.300 --> 00:08:27.680
+Vamos lá?

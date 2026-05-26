@@ -1,0 +1,33 @@
+{
+  "id": 469860,
+  "title": "Exemplo de SAFI mal sucedida",
+  "position": 23,
+  "duration": 200,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d2ed2b18-65dd-46c1-9e15-dc1e10ff6d62/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2ed2b18-65dd-46c1-9e15-dc1e10ff6d62/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2ed2b18-65dd-46c1-9e15-dc1e10ff6d62/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2ed2b18-65dd-46c1-9e15-dc1e10ff6d62/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d2ed2b18-65dd-46c1-9e15-dc1e10ff6d62/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 479013,
+  "title": "07 - Desvantagens da SPE",
+  "position": 7,
+  "duration": 190,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e306251a-3bb5-4686-9a10-13cab0fe6f0b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e306251a-3bb5-4686-9a10-13cab0fe6f0b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e306251a-3bb5-4686-9a10-13cab0fe6f0b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e306251a-3bb5-4686-9a10-13cab0fe6f0b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e306251a-3bb5-4686-9a10-13cab0fe6f0b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

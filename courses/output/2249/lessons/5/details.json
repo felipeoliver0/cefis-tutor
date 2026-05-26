@@ -1,0 +1,33 @@
+{
+  "id": 464054,
+  "title": "Legetimidade Passiva",
+  "position": 5,
+  "duration": 544,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/10c47c64-5d61-42ca-b19a-d152f663fef5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10c47c64-5d61-42ca-b19a-d152f663fef5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10c47c64-5d61-42ca-b19a-d152f663fef5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10c47c64-5d61-42ca-b19a-d152f663fef5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/10c47c64-5d61-42ca-b19a-d152f663fef5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

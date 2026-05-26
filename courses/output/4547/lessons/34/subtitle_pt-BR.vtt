@@ -1,0 +1,465 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.000
+Pois bem, pessoal, agora nós vamos, então, entrar no coração, que é o bloco L.
+
+3
+00:00:05.000 --> 00:00:09.000
+Balanço DRE no lucro real.
+
+4
+00:00:09.000 --> 00:00:14.000
+Aqui é o coração da apuração do Imposto de Renda e Contribuição Social.
+
+5
+00:00:14.000 --> 00:00:16.000
+Então, vamos lá.
+
+6
+00:00:16.000 --> 00:00:24.000
+O plano de contas deverão estar de acordo com a Lei nº 12973 e com as normas contábeis.
+
+7
+00:00:24.000 --> 00:00:31.000
+eu tenho lá ajuste a valor justo, por exemplo, uma conta, subconta, ajuste a valor presente.
+
+8
+00:00:31.000 --> 00:00:35.000
+Mobiliários no país, perda estimada por redução ao valor recuperável,
+
+9
+00:00:35.000 --> 00:00:38.000
+impermanente, estoque de mercadorias.
+
+10
+00:00:38.000 --> 00:00:42.000
+Tenho lá subconta, ajuste a valor justo, propriedade para investimento.
+
+11
+00:00:42.000 --> 00:00:45.000
+E aí vai, né? Tenho as contas contábeis.
+
+12
+00:00:45.000 --> 00:00:50.000
+Então, um exemplo aí de como deve estar os nossos planos de contas.
+
+13
+00:00:50.000 --> 00:00:53.000
+Na importação dos saldos contábeis,
+
+14
+00:00:53.000 --> 00:01:00.000
+balanço e DRE, o sistema fará automaticamente a importação da ECF do plano de contas referencial,
+
+15
+00:01:00.000 --> 00:01:05.000
+que é o plano de contas utilizado para todos os cálculos tributários da ECF.
+
+16
+00:01:05.000 --> 00:01:08.000
+É o referencial, não é o da empresa.
+
+17
+00:01:08.000 --> 00:01:10.000
+Será o referencial, né?
+
+18
+00:01:10.000 --> 00:01:16.000
+Então, aqui nós temos aqui o Imposto de Renda e Contribuição Social no lucro real.
+
+19
+00:01:16.000 --> 00:01:20.000
+O L100 é o balanço patrimonial, como nós já comentamos,
+
+20
+00:01:20.000 --> 00:01:22.000
+que é isso que os bancos pedem.
+
+21
+00:01:22.000 --> 00:01:23.000
+Me manda o L100.
+
+22
+00:01:23.000 --> 00:01:25.000
+É o balanço do lucro real.
+
+23
+00:01:25.000 --> 00:01:28.000
+O L200 é a metodologia de estoque.
+
+24
+00:01:28.000 --> 00:01:30.000
+O EPS, média apoderada.
+
+25
+00:01:30.000 --> 00:01:33.000
+O EPS não pode mais, né? O EPS, média apoderada.
+
+26
+00:01:33.000 --> 00:01:38.000
+O EB210, informativo da composição de custos.
+
+27
+00:01:38.000 --> 00:01:44.000
+O 300 é a DRE, demonstração do resultado do lucro líquido fiscal.
+
+28
+00:01:44.000 --> 00:01:48.000
+Sempre fiscal aqui. Aqui estamos falando em plano referencial.
+
+29
+00:01:48.000 --> 00:01:50.000
+Você tem o LALUR, você tem o LAX abaixo, né?
+
+30
+00:01:50.000 --> 00:01:52.000
+Mas o cálculo aqui é do Imposto de Renda.
+
+31
+00:01:52.000 --> 00:01:53.000
+Olha lá, ó.
+
+32
+00:01:53.000 --> 00:01:56.000
+Saldos extraídos do plano de contas referencial.
+
+33
+00:01:56.000 --> 00:01:59.000
+Já está todo no formato para calcular os tributos, né?
+
+34
+00:01:59.000 --> 00:02:02.000
+Bloco L, lucro real, apuração do lucro líquido,
+
+35
+00:02:02.000 --> 00:02:06.000
+para fins da base de cálculo do Imposto de Renda e Contribuição Social.
+
+36
+00:02:06.000 --> 00:02:10.000
+Então, isso tem que ser conferido com as nossas memórias de cálculo.
+
+37
+00:02:10.000 --> 00:02:11.000
+Perfeito?
+
+38
+00:02:11.000 --> 00:02:16.000
+Aqui eu trago para vocês o exemplo como o sistema vai trazer isso para nós.
+
+39
+00:02:16.000 --> 00:02:21.000
+Então, eu tenho lá de janeiro, fevereiro, março, abril, maio e até dezembro,
+
+40
+00:02:21.000 --> 00:02:25.000
+porque eu coloquei lucro real anual, né?
+
+41
+00:02:25.000 --> 00:02:27.000
+E tem o modelo de contas.
+
+42
+00:02:27.000 --> 00:02:31.000
+Esse aqui é o plano referencial do governo para esse tipo de lucro real.
+
+43
+00:02:31.000 --> 00:02:33.000
+Então, são todos bem semelhantes.
+
+44
+00:02:33.000 --> 00:02:37.000
+Ativos, circulantes, disponibilidade, caixa geral, matriz, filial.
+
+45
+00:02:37.000 --> 00:02:40.000
+E aí eu venho no depósito bancário, venho aqui, ó.
+
+46
+00:02:40.000 --> 00:02:42.000
+Depósito bancário no país e no exterior.
+
+47
+00:02:42.000 --> 00:02:46.000
+Ele não está interessado em saber se eu tenho conta no Itaú, no Bradesco, não.
+
+48
+00:02:46.000 --> 00:02:49.000
+No referencial, não. Está no meu, da empresa.
+
+49
+00:02:49.000 --> 00:02:52.000
+No referencial, ele é, né?
+
+50
+00:02:52.000 --> 00:02:55.000
+Só quer saber todos os meus bancos no país e no exterior.
+
+51
+00:02:55.000 --> 00:02:59.000
+Então, se eu tiver cinco bancos, eu vou direcionar os cinco para essa conta referencial,
+
+52
+00:02:59.000 --> 00:03:03.000
+que é a conta 1.010102001.
+
+53
+00:03:03.000 --> 00:03:04.000
+Perfeito?
+
+54
+00:03:04.000 --> 00:03:07.000
+Digas de passagem está muito bem elaborado.
+
+55
+00:03:07.000 --> 00:03:10.000
+Então, se você tiver que rever o seu plano de contas,
+
+56
+00:03:10.000 --> 00:03:15.000
+dá uma olhada, tem boas ideias, tem boas contas, tem boas nomenclaturas.
+
+57
+00:03:15.000 --> 00:03:18.000
+Não que dê você um copia e cola, mas dá para você ter boas ideias, tá?
+
+58
+00:03:19.000 --> 00:03:24.000
+Aí você tem o tipo, se é analítica, sintética, o nível dela, cá, né?
+
+59
+00:03:24.000 --> 00:03:29.000
+Você tem o saldo inicial, débito e crédito, saldo final, débito e crédito final, tá?
+
+60
+00:03:29.000 --> 00:03:32.000
+Então, esse é o plano de contas que nós temos.
+
+61
+00:03:32.000 --> 00:03:33.000
+Está lá, ó.
+
+62
+00:03:33.000 --> 00:03:36.000
+Balanço patrimonial referencial.
+
+63
+00:03:36.000 --> 00:03:39.000
+É o que será a base para todos os tributos.
+
+64
+00:03:39.000 --> 00:03:43.000
+Registro destinado à informação do balanço patrimonial obrigatório.
+
+65
+00:03:43.000 --> 00:03:47.000
+Apresenta o balanço patrimonial com base nas contas referenciais
+
+66
+00:03:47.000 --> 00:03:49.000
+para o período de apuração.
+
+67
+00:03:49.000 --> 00:03:55.000
+O saldo inicial pode ser replicado do registro E010 e do E015,
+
+68
+00:03:55.000 --> 00:03:57.000
+ou preenchido, tanto faz, né?
+
+69
+00:03:57.000 --> 00:03:59.000
+Aqui, mais contas, exemplo, né?
+
+70
+00:03:59.000 --> 00:04:02.000
+O estoque, por exemplo, o insumo de matérias-primas,
+
+71
+00:04:02.000 --> 00:04:05.000
+outros materiais, produto em elaboração, produto acabado,
+
+72
+00:04:05.000 --> 00:04:07.000
+menos perdas estimada.
+
+73
+00:04:07.000 --> 00:04:11.000
+Aí eu tenho as subcontas, ajuste a valor justo, presente,
+
+74
+00:04:11.000 --> 00:04:12.000
+adoção inicial do estoque.
+
+75
+00:04:12.000 --> 00:04:14.000
+Então, tudo bonitinho.
+
+76
+00:04:14.000 --> 00:04:17.000
+Tem boas ideias aqui de plano de contas, né?
+
+77
+00:04:17.000 --> 00:04:19.000
+Ativos diferidos nós não temos mais.
+
+78
+00:04:19.000 --> 00:04:21.000
+Tem passivo, passivo circulante,
+
+79
+00:04:21.000 --> 00:04:24.000
+todo o meu passivo, os impostos a recolher, os encargos,
+
+80
+00:04:24.000 --> 00:04:27.000
+a natureza, se é devedora ou credora.
+
+81
+00:04:27.000 --> 00:04:29.000
+Aqui os fornecedores também,
+
+82
+00:04:29.000 --> 00:04:32.000
+adiantamento de cliente, juros a apropriar,
+
+83
+00:04:32.000 --> 00:04:35.000
+empréstimos e financiamentos, né?
+
+84
+00:04:35.000 --> 00:04:38.000
+Obrigações fiscais, imposto de renda,
+
+85
+00:04:38.000 --> 00:04:40.000
+fundo de garantia, etc.
+
+86
+00:04:40.000 --> 00:04:42.000
+Então, está muito bem montado, né?
+
+87
+00:04:42.000 --> 00:04:44.000
+E aí chegamos aqui no patrimônio líquido, né?
+
+88
+00:04:44.000 --> 00:04:46.000
+O capital social, o capital subscrito,
+
+89
+00:04:46.000 --> 00:04:47.000
+a integralizar.
+
+90
+00:04:47.000 --> 00:04:50.000
+Então, temos todo aqui o capital, reservas.
+
+91
+00:04:50.000 --> 00:04:52.000
+Então, você vê um balanço, um plano de contas,
+
+92
+00:04:52.000 --> 00:04:54.000
+um balanço aqui com um plano de contas referencial
+
+93
+00:04:54.000 --> 00:04:56.000
+muito bem elaborado, né?
+
+94
+00:04:56.000 --> 00:04:59.000
+E mês a mês, de janeiro a dezembro, perfeito?
+
+95
+00:04:59.000 --> 00:05:01.000
+Depois, o método de estoque.
+
+96
+00:05:01.000 --> 00:05:02.000
+Olha lá.
+
+97
+00:05:02.000 --> 00:05:04.000
+Aí eu vou ter que dizer,
+
+98
+00:05:04.000 --> 00:05:07.000
+é custo médio, que a maioria é,
+
+99
+00:05:07.000 --> 00:05:09.000
+é o PEPS, é um arbitramento,
+
+100
+00:05:09.000 --> 00:05:11.000
+está lá o artigo 296,
+
+101
+00:05:11.000 --> 00:05:13.000
+é custo específico,
+
+102
+00:05:13.000 --> 00:05:16.000
+onde eu tenho bens de valor desagregado,
+
+103
+00:05:16.000 --> 00:05:17.000
+dados elevados,
+
+104
+00:05:17.000 --> 00:05:19.000
+eu utilizo o custo específico.
+
+105
+00:05:19.000 --> 00:05:22.000
+Por exemplo, se eu vendo Porsche,
+
+106
+00:05:22.000 --> 00:05:24.000
+cada Porsche tem o seu custo, acabou.
+
+107
+00:05:24.000 --> 00:05:26.000
+Não vou usar o médio nem o PEPS,
+
+108
+00:05:26.000 --> 00:05:28.000
+cada um é o seu custo,
+
+109
+00:05:28.000 --> 00:05:30.000
+custo específico, né?
+
+110
+00:05:30.000 --> 00:05:31.000
+Perfeito? Se eu vendo veículos,
+
+111
+00:05:31.000 --> 00:05:33.000
+normalmente é custo específico.
+
+112
+00:05:33.000 --> 00:05:35.000
+Valor realizado líquido,
+
+113
+00:05:35.000 --> 00:05:37.000
+inventário periódico, outros, etc.
+
+114
+00:05:37.000 --> 00:05:41.000
+Aqui, olha, informaram o método de avaliação do estoque.
+
+115
+00:05:41.000 --> 00:05:44.000
+Eu vou clicar lá no drop-down e vou dizer qual é o método.
+
+116
+00:05:44.000 --> 00:05:46.000
+Você vê como eles controlam tudo, né?
+
+117
+00:05:46.000 --> 00:05:47.000
+Eu vou clicar no topo.

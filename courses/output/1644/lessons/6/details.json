@@ -1,0 +1,33 @@
+{
+  "id": 454345,
+  "title": "Aula 6 - Medidas Provisórias - Decretos Legislativos - Resoluções",
+  "position": 6,
+  "duration": 299,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1414d0cd-0e38-4071-993e-4e55106d4f96/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1414d0cd-0e38-4071-993e-4e55106d4f96/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1414d0cd-0e38-4071-993e-4e55106d4f96/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1414d0cd-0e38-4071-993e-4e55106d4f96/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1414d0cd-0e38-4071-993e-4e55106d4f96/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

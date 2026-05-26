@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2012,
+    "title": "Contratos Administrativos",
+    "subtitle": "Lei 14.133/2021",
+    "summary": "Neste curso sobre a Nova Lei de Contratos Administrativos (Lei 14.133/2021) você vai aprender todas as características e aplicações legais relacionadas ao assunto, para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/0cc08bd50a7c1294cb9b1ac5e7b303d61728384369.jpg",
+    "goals": [
+      "Apresentar todas as características e aplicações legais relacionadas à Nova Lei de Contratos Administrativos (Lei 14.133/2021)."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 8721,
+    "keywords": "lei;contratos;administrativos;Licitação;administração",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 26,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 191,
+    "averageRating": 9.23,
+    "practiceAverage": 9.08,
+    "trailer": {
+      "id": "5dbea89d-de2e-49a5-acb7-1d10e2fd5257",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5dbea89d-de2e-49a5-acb7-1d10e2fd5257/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5dbea89d-de2e-49a5-acb7-1d10e2fd5257/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5dbea89d-de2e-49a5-acb7-1d10e2fd5257/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/5dbea89d-de2e-49a5-acb7-1d10e2fd5257/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-03-28T18:15:04.000Z",
+      "updatedAt": "2022-03-28T18:15:04.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-04-06T14:15:57.000Z",
+    "recordedAt": "2022-03-21T00:00:00.000Z",
+    "createdAt": "2022-03-21T19:10:37.000Z"
+  }
+}

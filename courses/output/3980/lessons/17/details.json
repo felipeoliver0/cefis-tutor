@@ -1,0 +1,33 @@
+{
+  "id": 480727,
+  "title": "Exclusões da base de cálculo e ICMS",
+  "position": 17,
+  "duration": 206,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/13d11f9b-16f0-45be-9278-6cc332741996/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13d11f9b-16f0-45be-9278-6cc332741996/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13d11f9b-16f0-45be-9278-6cc332741996/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13d11f9b-16f0-45be-9278-6cc332741996/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/13d11f9b-16f0-45be-9278-6cc332741996/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

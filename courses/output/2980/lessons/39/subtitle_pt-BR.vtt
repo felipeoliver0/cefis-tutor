@@ -1,0 +1,285 @@
+WEBVTT
+
+1
+00:00:02.509 --> 00:00:07.719
+custos da SOx pessoal. Todo o controle tem custo.
+
+2
+00:00:07.730 --> 00:00:12.180
+Isso a gente viu num curso de auditoria, encoraja a todos que assistam
+
+3
+00:00:12.800 --> 00:00:18.250
+e só que tem custo tem custo de implementação, tem custo de treinamento,
+
+4
+00:00:18.260 --> 00:00:22.110
+tem custo da operação, né?
+
+5
+00:00:23.059 --> 00:00:26.329
+Muitos têm falado e reclamado os altíssimos
+
+6
+00:00:26.340 --> 00:00:29.510
+custos de implantação e manutenção da SOx,
+
+7
+00:00:29.520 --> 00:00:32.869
+porém são inegáveis os ganhos que uma estrutura
+
+8
+00:00:32.880 --> 00:00:35.770
+de controles internos baseada em um frame work.
+
+9
+00:00:35.779 --> 00:00:38.930
+Como COSO pode promover, A gente vai falar sobre Coso, né?
+
+10
+00:00:38.939 --> 00:00:45.090
+Que é o W de controles internos é algo que que tá muito ligado a X.
+
+11
+00:00:45.930 --> 00:00:50.340
+Outro ponto a lembrar é que a maneira pragmática os
+
+12
+00:00:50.349 --> 00:00:54.799
+saltos de qualidade na governança tem obedecido os marcos regulatórios.
+
+13
+00:00:54.810 --> 00:00:59.139
+Temos Basileia três pessoal, Basileia dois Basileia três.
+
+14
+00:00:59.150 --> 00:01:04.440
+Ah, e novamente não existe uma mágica.
+
+15
+00:01:05.050 --> 00:01:12.360
+Infelizmente, a criatividade dos gestores, elas ultrapassam qualquer lei.
+
+16
+00:01:12.370 --> 00:01:17.620
+Eh qualquer regra. Ah, mas é por isso que existe.
+
+17
+00:01:17.629 --> 00:01:20.620
+Pô, tinha Basileia um, Basileia dois e Basileia três,
+
+18
+00:01:20.629 --> 00:01:23.660
+agora que é justamente a evolução, né?
+
+19
+00:01:23.669 --> 00:01:25.199
+E a Fox não é diferente.
+
+20
+00:01:26.080 --> 00:01:30.569
+Muito desse alto custo se deve ao excesso de controles não chave,
+
+21
+00:01:30.580 --> 00:01:36.150
+incluído no escopo e consequente esforço pra documentá los e testá-lo novamente.
+
+22
+00:01:37.080 --> 00:01:40.330
+Vamos ter controle sim, Todo controle tem custo.
+
+23
+00:01:40.339 --> 00:01:45.050
+Tem que se analisar pra que que eu quero aquele controle e qual que é o meu objetivo.
+
+24
+00:01:45.059 --> 00:01:48.980
+Caso contrário, nós vamos sobrecarregar de controle.
+
+25
+00:01:48.989 --> 00:01:53.190
+Nós vamos aumentar substancialmente todo o custo.
+
+26
+00:01:53.199 --> 00:01:57.199
+E aí, eu pergunto o que vamos fazer com essa informação?
+
+27
+00:01:57.209 --> 00:02:02.269
+Tá, Temos que ter controle, sim. Temos que ter excesso de controle, não
+
+28
+00:02:02.599 --> 00:02:07.989
+devido. Nós já falamos aí sobre os excesso de controles, não chaves
+
+29
+00:02:09.600 --> 00:02:12.490
+bem prioridade aos controles chaves.
+
+30
+00:02:12.500 --> 00:02:18.380
+Caso necessite alguma coisa suplementar acaba indo pro não chave.
+
+31
+00:02:18.389 --> 00:02:20.589
+Tá bem, mas lembre-se,
+
+32
+00:02:21.279 --> 00:02:28.550
+como eu já expliquei de forma prática comigo no Brasil, nós tivemos uma relevância.
+
+33
+00:02:28.559 --> 00:02:35.410
+Países que tinham maior maturidade em termos processuais, em termos de equipe,
+
+34
+00:02:35.419 --> 00:02:36.949
+era uma outra relevância.
+
+35
+00:02:36.960 --> 00:02:42.309
+Esses fatores, eles devem ser levados em consideração também.
+
+36
+00:02:44.089 --> 00:02:46.389
+A extensão dos trabalhos de auditoria interna
+
+37
+00:02:46.399 --> 00:02:51.119
+externa também pesou no preço da certificação.
+
+38
+00:02:52.410 --> 00:02:57.559
+A certificação em si tem custo, né? E aí isso acaba impactando.
+
+39
+00:02:57.570 --> 00:02:58.539
+Nos últimos anos,
+
+40
+00:02:58.550 --> 00:03:03.919
+as empresas têm reavaliado suas estratégias e abordagens quanto a sox e
+
+41
+00:03:03.929 --> 00:03:08.619
+tem conseguido uma redução importante nos números de contatos chave e,
+
+42
+00:03:08.630 --> 00:03:12.500
+consequentemente dos testes, sem prejuízo da qualidade.
+
+43
+00:03:12.509 --> 00:03:14.440
+Uma coisa é importante.
+
+44
+00:03:14.449 --> 00:03:17.600
+Já foi falado que vários controles são manuais,
+
+45
+00:03:17.610 --> 00:03:20.360
+tentem automatizar esses controles.
+
+46
+00:03:21.110 --> 00:03:27.460
+Quanto mais automatizado, menos infere humana, menos custos de processamento,
+
+47
+00:03:27.470 --> 00:03:31.059
+menos custos de verificação
+
+48
+00:03:31.830 --> 00:03:34.259
+e mais segurança e menos riscos
+
+49
+00:03:37.009 --> 00:03:37.839
+aqui.
+
+50
+00:03:37.850 --> 00:03:40.220
+Valor agregado uma, um,
+
+51
+00:03:40.229 --> 00:03:46.460
+um um Esquema valor agregado por gerenciamento de maturidade Primeiro ano repara
+
+52
+00:03:46.470 --> 00:03:50.220
+que o gerenciamento da maturidade ele vai aumentando e ano a ano,
+
+53
+00:03:50.229 --> 00:03:53.919
+melhoria contínua requer um mínimo de implementação,
+
+54
+00:03:54.770 --> 00:03:56.119
+controle
+
+55
+00:03:56.910 --> 00:03:59.940
+do e acesso da informação.
+
+56
+00:04:00.860 --> 00:04:03.710
+Operacionalização Aí teve o segundo ano.
+
+57
+00:04:03.720 --> 00:04:08.570
+Eu verifico tudo que eu tive no primeiro ano e eu melhoro um pouco mais. No segundo ano
+
+58
+00:04:09.429 --> 00:04:14.660
+eu faço essas atividades de soque, Análise de risco financeiro,
+
+59
+00:04:15.740 --> 00:04:19.428
+depois integração de risco operacional e financeira.
+
+60
+00:04:19.440 --> 00:04:21.450
+Não tô olhando só pra um olhando só pra outro.
+
+61
+00:04:22.040 --> 00:04:26.549
+Eu tenho maturidade de governança em t i. A gente vai falar de cobit daqui a pouco
+
+62
+00:04:27.440 --> 00:04:28.329
+depois.
+
+63
+00:04:28.339 --> 00:04:29.649
+Monitoramento contínuo,
+
+64
+00:04:29.660 --> 00:04:34.630
+análise de risco tempo real possibilitado por tecnologia.
+
+65
+00:04:34.640 --> 00:04:37.950
+Ou seja, eu tenho auditoria interna,
+
+66
+00:04:39.250 --> 00:04:42.799
+gestão de risco, planejamento, tesouraria legal,
+
+67
+00:04:42.809 --> 00:04:47.200
+operações Todas essas áreas trabalham em conjunto
+
+68
+00:04:48.799 --> 00:04:53.549
+e ano a ano a melhoria contínua. Claro que
+
+69
+00:04:54.570 --> 00:05:01.119
+quando eu quero ter uma melhoria de escala é fundamental que eu tenha a tecnologia,
+
+70
+00:05:01.130 --> 00:05:04.779
+racionalizando o que eu posso fazer diferente,
+
+71
+00:05:04.790 --> 00:05:08.640
+O que eu posso fazer com mais eficiência com mais eficácia

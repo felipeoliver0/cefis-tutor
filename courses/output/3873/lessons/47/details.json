@@ -1,0 +1,33 @@
+{
+  "id": 478977,
+  "title": "Passivo circulante e não circulante",
+  "position": 47,
+  "duration": 482,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/76d72d15-a9f9-49b3-9e05-04b80b850d7f/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/76d72d15-a9f9-49b3-9e05-04b80b850d7f/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/76d72d15-a9f9-49b3-9e05-04b80b850d7f/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/76d72d15-a9f9-49b3-9e05-04b80b850d7f/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/76d72d15-a9f9-49b3-9e05-04b80b850d7f/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

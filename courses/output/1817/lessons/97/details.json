@@ -1,0 +1,33 @@
+{
+  "id": 457886,
+  "title": "Depreciação",
+  "position": 98,
+  "duration": 265,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/0b263e19-51f6-4dff-8588-a360f410792a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0b263e19-51f6-4dff-8588-a360f410792a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0b263e19-51f6-4dff-8588-a360f410792a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0b263e19-51f6-4dff-8588-a360f410792a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/0b263e19-51f6-4dff-8588-a360f410792a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

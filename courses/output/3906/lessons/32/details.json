@@ -1,0 +1,33 @@
+{
+  "id": 479382,
+  "title": "Itens de reposição e substituição - parte 4",
+  "position": 32,
+  "duration": 450,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/91d346ba-4ce2-45c8-93c6-da07c4d63304/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d346ba-4ce2-45c8-93c6-da07c4d63304/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d346ba-4ce2-45c8-93c6-da07c4d63304/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d346ba-4ce2-45c8-93c6-da07c4d63304/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/91d346ba-4ce2-45c8-93c6-da07c4d63304/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

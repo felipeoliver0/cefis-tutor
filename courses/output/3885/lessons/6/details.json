@@ -1,0 +1,33 @@
+{
+  "id": 479312,
+  "title": "Fato Gerador do IPI vs Imposto Seletivo",
+  "position": 6,
+  "duration": 482,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1881a1ae-e5a1-4a81-b860-a5292eb26206/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1881a1ae-e5a1-4a81-b860-a5292eb26206/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1881a1ae-e5a1-4a81-b860-a5292eb26206/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1881a1ae-e5a1-4a81-b860-a5292eb26206/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1881a1ae-e5a1-4a81-b860-a5292eb26206/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 485293,
+  "title": "Quiz - Pergunta",
+  "position": 28,
+  "duration": 24,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ecc4acec-994d-4623-918e-88c4151b8fda/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ecc4acec-994d-4623-918e-88c4151b8fda/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ecc4acec-994d-4623-918e-88c4151b8fda/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ecc4acec-994d-4623-918e-88c4151b8fda/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ecc4acec-994d-4623-918e-88c4151b8fda/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

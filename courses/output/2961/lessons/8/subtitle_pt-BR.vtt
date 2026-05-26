@@ -1,0 +1,245 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:00.740
+pessoal.
+
+2
+00:00:00.750 --> 00:00:03.779
+Agora falando sobre o terceiro evento dessa série,
+
+3
+00:00:03.789 --> 00:00:07.699
+que é o evento s trinta e cinco zero zero, esse evento é o mais simples de todos.
+
+4
+00:00:07.710 --> 00:00:07.980
+Por que?
+
+5
+00:00:07.989 --> 00:00:10.600
+Porque ele serve pra excluir os eventos s vinte e
+
+6
+00:00:10.609 --> 00:00:12.619
+cinco zero zero e o S vinte e cinco zero,
+
+7
+00:00:12.630 --> 00:00:15.159
+um evento de exclusão e pessoal.
+
+8
+00:00:15.170 --> 00:00:15.869
+Por fim,
+
+9
+00:00:15.880 --> 00:00:19.180
+o último dos quatro eventos é o evento S cinco
+
+10
+00:00:19.190 --> 00:00:21.799
+cinco zero um e esse é um evento de retorno
+
+11
+00:00:21.902 --> 00:00:23.792
+que que são os eventos de retorno.
+
+12
+00:00:23.802 --> 00:00:27.353
+Vamos lembrar lá do Esocial, Inclusive tem curso aqui na CFIS, comigo,
+
+13
+00:00:27.363 --> 00:00:31.632
+falando sobre isso tá eventos de retorno É quando o esocial,
+
+14
+00:00:31.642 --> 00:00:35.743
+Por meio das informações que você tinha enviado anteriormente,
+
+15
+00:00:35.752 --> 00:00:39.472
+ele vai te dizer o quanto que foi calculado de INSS F GTS Imposto de
+
+16
+00:00:39.483 --> 00:00:42.042
+renda para ser recolhido e esse evento
+
+17
+00:00:42.053 --> 00:00:43.693
+de retorno serve pra você fazer uma conferência
+
+18
+00:00:43.796 --> 00:00:47.125
+pra ver se os valores que o esocial calculou está
+
+19
+00:00:47.136 --> 00:00:49.805
+batendo com os valores que estão dentro do seu software.
+
+20
+00:00:49.816 --> 00:00:50.405
+Certo?
+
+21
+00:00:50.416 --> 00:00:53.085
+Esse é um evento de retorno e aqui da mesma forma
+
+22
+00:00:53.096 --> 00:00:56.035
+você vai receber um evento de retorno s cinco cinco zero
+
+23
+00:00:56.046 --> 00:00:59.566
+um pra visualizar qual é o valor lá que o s
+
+24
+00:00:59.576 --> 00:01:03.326
+vinte e cinco zero um Está gerando e aqui agora pessoal,
+
+25
+00:01:03.335 --> 00:01:05.625
+um resumo desses quatro eventos, né?
+
+26
+00:01:05.839 --> 00:01:06.569
+Então, primeiro,
+
+27
+00:01:06.580 --> 00:01:09.129
+o evento s vinte e cinco zero zero Quem está obrigado
+
+28
+00:01:09.139 --> 00:01:12.910
+os declarantes em processos trabalhistas ou em demandas apresentadas ao C,
+
+29
+00:01:12.919 --> 00:01:14.470
+C, P ou no Inter.
+
+30
+00:01:14.480 --> 00:01:16.970
+Caso seja necessário reconhecer ou alterar
+
+31
+00:01:16.980 --> 00:01:19.449
+informações relacionadas a vínculo empregatício,
+
+32
+00:01:19.459 --> 00:01:24.629
+é preciso recolher o F G, TSE a contribuição previdenciária correspondente, tá.
+
+33
+00:01:24.639 --> 00:01:25.029
+Ah,
+
+34
+00:01:25.040 --> 00:01:27.519
+qual que é o prazo de envio dia quinze
+
+35
+00:01:27.529 --> 00:01:31.690
+do mês seguinte ao trânsito em julgado da decisão?
+
+36
+00:01:31.699 --> 00:01:32.430
+Tá
+
+37
+00:01:32.919 --> 00:01:34.569
+evento s vinte e cinco e
+
+38
+00:01:34.580 --> 00:01:38.080
+declarantes que precisam recolher as contribuições sociais
+
+39
+00:01:38.089 --> 00:01:42.330
+previdenciárias destinadas a terceiros e ao imposto de renda retido na fonte.
+
+40
+00:01:42.339 --> 00:01:47.209
+Qual que é o prazo de envio dia quinze do mês subsequente ao pagamento?
+
+41
+00:01:47.220 --> 00:01:49.430
+Então você pagou a parcela.
+
+42
+00:01:49.779 --> 00:01:50.089
+Lá,
+
+43
+00:01:50.099 --> 00:01:53.069
+o juiz ele determinou que aquele valor seja
+
+44
+00:01:53.080 --> 00:01:54.959
+dividido em quatro vezes a primeira parcela.
+
+45
+00:01:54.970 --> 00:01:57.589
+Você pagou em novembro de dois mil e vinte e três,
+
+46
+00:01:57.599 --> 00:02:01.970
+então você tem até o dia quinze do mês seguinte a ao pagamento da parcela, ou seja,
+
+47
+00:02:01.980 --> 00:02:03.970
+quinze de dezembro, pra fazer o envio.
+
+48
+00:02:04.970 --> 00:02:06.819
+Sendo que aqui nós temos o pré-requisito.
+
+49
+00:02:06.830 --> 00:02:08.630
+Eu só consigo enviar um s vinte e cinco zero um
+
+50
+00:02:08.639 --> 00:02:11.960
+Se eu tenha enviado anteriormente um s vinte e cinco zero zero
+
+51
+00:02:12.899 --> 00:02:15.759
+evento s trinta e cinco zero zero declarante,
+
+52
+00:02:15.770 --> 00:02:19.229
+que precisa tornar sem efeito o evento S vinte e cinco
+
+53
+00:02:19.240 --> 00:02:20.990
+zero zero ou S vinte e cinco zero um Ou seja,
+
+54
+00:02:21.000 --> 00:02:21.669
+em outras palavras,
+
+55
+00:02:21.679 --> 00:02:25.360
+é excluir eventos S vinte e cinco zero zero e S vinte e cinco zero um.
+
+56
+00:02:25.369 --> 00:02:28.190
+Qual que é a data limite que eu tenho pra excluir? Não existe?
+
+57
+00:02:28.199 --> 00:02:30.529
+Tá a qualquer momento você pode fazer essa exclusão.
+
+58
+00:02:31.039 --> 00:02:34.929
+E o s cinco cinco zero um ele é um evento de retorno, Tá?
+
+59
+00:02:34.940 --> 00:02:39.029
+À medida que você envia o s vinte e cinco zero um Tá aí,
+
+60
+00:02:39.039 --> 00:02:41.410
+ele vai te trazer as bases de quanto que vai
+
+61
+00:02:41.419 --> 00:02:44.550
+tá pra recolher de INSS imposto de renda naquele mês.

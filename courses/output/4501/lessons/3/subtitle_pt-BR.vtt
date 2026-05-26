@@ -1,0 +1,521 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.839
+Bom, então a primeira questão é uma questão de finanças que fala sobre payback e a gente vai falar sobre isso agora.
+
+3
+00:00:06.839 --> 00:00:16.280
+Ele fala o seguinte, a empresa Gama S.A. avalia um projeto com investimento inicial de 300 mil na data zero, ou seja, você vai fazer um investimento de 300 mil.
+
+4
+00:00:16.280 --> 00:00:26.320
+Estima-se que as entradas de caixa ao final de cada ano conforme segue, então no primeiro ano esse projeto vai dar 121 mil de lucro,
+
+5
+00:00:26.320 --> 00:00:36.420
+o ano 2 vai dar 120 mil de lucro também e o ano 3 em diante vai dar 146.410 por ano.
+
+6
+00:00:36.479 --> 00:00:43.159
+Ele pergunta que o payback descontado é uma taxa de 10%, vai retornar o dinheiro em quanto tempo?
+
+7
+00:00:43.159 --> 00:00:49.859
+Então, o que eu sugiro para você aqui? Relembrar lá na aula de finanças, na contabilidade, o que é payback?
+
+8
+00:00:49.979 --> 00:00:56.159
+Payback nada mais é do que o tempo que o investimento retorna positivo para o investidor.
+
+9
+00:00:56.320 --> 00:01:06.439
+Então, isso está dentro da análise de investimento de capital, tanto ali de finanças, também esbarrando ali na controladoria, que é importante que você saiba.
+
+10
+00:01:06.579 --> 00:01:12.219
+Então, payback descontado, o payback é o tempo que o investimento retorna positivo, ok?
+
+11
+00:01:12.659 --> 00:01:17.319
+O payback descontado é porque você leva em consideração uma taxa de juros.
+
+12
+00:01:17.480 --> 00:01:20.439
+Por que você leva em consideração uma taxa de juros?
+
+13
+00:01:20.439 --> 00:01:26.239
+Porque você tem ali o custo de oportunidade, ou seja, você tem a opção de investir.
+
+14
+00:01:26.319 --> 00:01:33.400
+Investir o dinheiro que você tem em um investimento seguro, um tesouro direto, por exemplo, e ter ele 1% ao mês,
+
+15
+00:01:33.959 --> 00:01:36.459
+ou você investir em uma empresa que vai dar um retorno.
+
+16
+00:01:37.019 --> 00:01:42.959
+Então, quando você vai fazer um investimento, você tem esse dilema, esse custo de oportunidade.
+
+17
+00:01:43.459 --> 00:01:52.439
+Eu vou investir aqui, zero risco, ou eu vou fazer um investimento em uma empresa que possui risco, mas pode dar uma rentabilidade maior.
+
+18
+00:01:52.680 --> 00:01:54.780
+Então, a primeira pergunta que se faz é o seguinte.
+
+19
+00:01:54.939 --> 00:01:56.280
+Se eu investir 300 mil...
+
+20
+00:01:56.319 --> 00:02:04.760
+Levando em consideração uma taxa de 10%, quanto tempo esse projeto retorna positivo para mim?
+
+21
+00:02:04.760 --> 00:02:08.560
+Então, você enquanto controller, você trabalhando ali na parte de finanças da empresa,
+
+22
+00:02:09.099 --> 00:02:14.520
+você tem que saber dar essa resposta para o pessoal da alta administração, tá?
+
+23
+00:02:15.479 --> 00:02:22.599
+Então, para você fazer essa conta aqui, primeiro você vai ter que lembrar daquela conta do fluxo de caixa descontado, né?
+
+24
+00:02:22.620 --> 00:02:23.860
+Então, na verdade, vai ser assim, ó.
+
+25
+00:02:23.860 --> 00:02:24.759
+Fluxo de caixa.
+
+26
+00:02:24.759 --> 00:02:30.039
+Dividido por 1, mais i, elevado a n.
+
+27
+00:02:31.139 --> 00:02:33.020
+Lembrando que o i é a taxa, tá?
+
+28
+00:02:33.240 --> 00:02:38.639
+E o n é o tempo que você leva para aquele investimento.
+
+29
+00:02:38.740 --> 00:02:44.560
+Então, no ano 1, vai ser elevado a 1, no ano 2, elevado a 2, no ano 3, elevado a 3, no ano 4, elevado a 4, tá?
+
+30
+00:02:44.599 --> 00:02:45.300
+E assim por diante.
+
+31
+00:02:45.819 --> 00:02:46.939
+Então, aqui o que você tem que fazer?
+
+32
+00:02:47.020 --> 00:02:54.580
+Você tem que trazer o fluxo de caixa trazido a valor presente, porque você tem que levar em consideração o valor do dinheiro no tempo, tá?
+
+33
+00:02:54.759 --> 00:03:01.840
+Então, você tem que levar em consideração, porque 100 mil reais daqui a um ano não vale a mesma coisa que vale hoje.
+
+34
+00:03:02.259 --> 00:03:07.639
+Então, quando você traz a valor presente, você atualiza esse valor mediante alguma taxa.
+
+35
+00:03:07.879 --> 00:03:15.060
+Então, geralmente, quando ele pedir payback descontado, ele vai trazer a taxa, que nesse caso, ele trouxe a taxa de 10%.
+
+36
+00:03:15.060 --> 00:03:16.139
+Então, o que você vai fazer?
+
+37
+00:03:16.259 --> 00:03:20.219
+Você tem que trazer o valor presente de cada item aqui, de cada ano.
+
+38
+00:03:20.319 --> 00:03:21.460
+Então, o que você vai fazer aqui?
+
+39
+00:03:21.460 --> 00:03:24.219
+No primeiro ano, qual que é o fluxo de caixa?
+
+40
+00:03:24.759 --> 00:03:27.240
+R$ 121 mil, no ano 1 aqui, ó.
+
+41
+00:03:27.419 --> 00:03:28.139
+Primeiro ano.
+
+42
+00:03:28.699 --> 00:03:29.699
+No primeiro ano, ó.
+
+43
+00:03:30.080 --> 00:03:36.099
+Então, vai ser R$ 121 mil, dividido por 1, mais i.
+
+44
+00:03:36.599 --> 00:03:37.900
+Já vou colocar direto, né?
+
+45
+00:03:37.960 --> 00:03:40.879
+1 mais 0,1.
+
+46
+00:03:41.419 --> 00:03:42.900
+Por que 0,1, Ricardo?
+
+47
+00:03:43.879 --> 00:03:45.259
+Porque é 10%, né?
+
+48
+00:03:45.300 --> 00:03:50.099
+Como que você representa 10% na fórmula quando tem i?
+
+49
+00:03:50.099 --> 00:03:53.439
+Quando tem i, porque você não coloca 10% em fórmula.
+
+50
+00:03:53.439 --> 00:03:56.460
+Então, você coloca 0,1, que é 0,10%.
+
+51
+00:03:56.460 --> 00:03:58.620
+Então, elevado a 1.
+
+52
+00:03:59.180 --> 00:04:00.439
+Então, o que você vai fazer aqui?
+
+53
+00:04:00.539 --> 00:04:08.560
+Você vai pegar R$ 121 mil e vai dividir por 1,1, que vai dar R$ 110 mil.
+
+54
+00:04:08.659 --> 00:04:19.540
+Então, se você pegar R$ 121 mil e trazer a valor presente, você tem que esse valor a uma taxa descontada de 10% é R$ 110 mil.
+
+55
+00:04:19.540 --> 00:04:20.879
+O que isso significa?
+
+56
+00:04:20.879 --> 00:04:26.300
+Que dos R$ 300 mil, no ano 1, retorna descontado R$ 110 mil.
+
+57
+00:04:26.980 --> 00:04:29.319
+E R$ 110 mil não é R$ 300 mil.
+
+58
+00:04:29.420 --> 00:04:31.579
+Então, no primeiro ano, ele não retorna.
+
+59
+00:04:31.660 --> 00:04:31.899
+Por quê?
+
+60
+00:04:31.920 --> 00:04:36.300
+Você investiu R$ 300 mil, mas no primeiro ano, ele retorna positivo, só R$ 110 mil.
+
+61
+00:04:36.860 --> 00:04:38.720
+Então, vamos para o segundo ano.
+
+62
+00:04:39.220 --> 00:04:40.500
+O que acontece no segundo ano?
+
+63
+00:04:41.000 --> 00:04:50.019
+Você tem um lucro também, um fluxo de caixa de R$ 121 mil, dividido por 1, mais i, que é 0,1,
+
+64
+00:04:50.019 --> 00:04:53.120
+elevado a 2, porque você está no segundo ano.
+
+65
+00:04:53.220 --> 00:04:54.860
+Então, você eleva ao tempo.
+
+66
+00:04:55.399 --> 00:04:56.439
+Então, o que você vai fazer aqui?
+
+67
+00:04:56.540 --> 00:05:00.680
+Você vai ter 1,1 vezes 1,1, 1,21.
+
+68
+00:05:01.060 --> 00:05:08.000
+Então, R$ 121 mil dividido por 1,1 vezes 1,1, 1,21.
+
+69
+00:05:08.779 --> 00:05:17.000
+E aqui eu estou fazendo com vocês mesmo para vocês entenderem que aqui vai dar R$ 110 mil.
+
+70
+00:05:17.000 --> 00:05:19.120
+R$ 110 mil.
+
+71
+00:05:19.639 --> 00:05:20.000
+Então, R$ 110 mil.
+
+72
+00:05:20.019 --> 00:05:22.959
+Então, veja, se você somar os dois aqui, desculpa, dá R$ 100 mil aqui.
+
+73
+00:05:23.459 --> 00:05:30.379
+R$ 110 mil dá R$ 100 mil, porque embora seja R$ 120 mil, como são dois anos, dá R$ 100 mil.
+
+74
+00:05:30.680 --> 00:05:33.819
+Então, se você somar os dois anos aqui, dá R$ 210 mil.
+
+75
+00:05:34.600 --> 00:05:39.639
+Aí, a pergunta que eu faço para vocês é o seguinte, ele investiu R$ 300 mil, beleza?
+
+76
+00:05:40.579 --> 00:05:42.680
+Só que ele tem que retornar esses R$ 300 mil líquido.
+
+77
+00:05:42.939 --> 00:05:43.860
+Líquido do quê, Ricardo?
+
+78
+00:05:43.899 --> 00:05:44.800
+Dos 10%.
+
+79
+00:05:45.139 --> 00:05:50.000
+Então, ele, no final do segundo ano, ele retornou só R$ 200 mil.
+
+80
+00:05:50.019 --> 00:05:52.459
+Ou seja, R$ 210 mil não é R$ 300 mil.
+
+81
+00:05:52.779 --> 00:05:56.000
+Então, nós vamos ter que partir para o terceiro ano.
+
+82
+00:05:56.740 --> 00:05:58.680
+Vamos ver o que vai acontecer no terceiro ano.
+
+83
+00:05:59.060 --> 00:06:02.019
+Qual que é o fluxo de caixa que nós temos que descontar no terceiro ano?
+
+84
+00:06:02.680 --> 00:06:12.639
+R$ 146.410, dividido por 1, mais 0,1, que é a taxa elevada a 3.
+
+85
+00:06:13.439 --> 00:06:15.319
+Então, aqui, olha o que nós vamos fazer.
+
+86
+00:06:15.319 --> 00:06:19.319
+Você vai pegar 1,1, vezes 1,1, vezes 1,1, vai dar...
+
+87
+00:06:20.019 --> 00:06:29.920
+1,331, 1,331, e aqui vai dar R$ 146.410.
+
+88
+00:06:30.480 --> 00:06:39.459
+Então, R$ 146.410, dividido por 1,331, vai dar R$ 110 mil.
+
+89
+00:06:40.019 --> 00:06:43.680
+Agora, se você somar ao final do terceiro ano aqui,
+
+90
+00:06:43.680 --> 00:06:48.639
+o R$ 110 mil, mais o R$ 100 mil, mais o R$ 110 mil,
+
+91
+00:06:49.180 --> 00:06:49.680
+você vai ter...
+
+92
+00:06:50.019 --> 00:06:50.399
+Quanto?
+
+93
+00:06:50.920 --> 00:06:53.040
+R$ 110 mil, mais R$ 210 mil.
+
+94
+00:06:53.839 --> 00:06:58.579
+No final do terceiro ano, você vai ter um retorno positivo de R$ 320 mil.
+
+95
+00:06:59.220 --> 00:07:00.680
+Agora, eu pergunto para vocês.
+
+96
+00:07:01.339 --> 00:07:05.120
+De fato, R$ 320 mil é superior a R$ 300 mil.
+
+97
+00:07:05.439 --> 00:07:10.160
+Ou seja, no final do terceiro ano, ele já recuperou os R$ 300 mil,
+
+98
+00:07:10.480 --> 00:07:14.699
+levando em consideração esse fluxo de caixa descontado, que é os 10%.
+
+99
+00:07:14.819 --> 00:07:16.399
+Então, o que acontece aqui?
+
+100
+00:07:17.019 --> 00:07:18.360
+O que você tem que levar em consideração?
+
+101
+00:07:18.879 --> 00:07:19.899
+Em qual momento teve o retorno?
+
+102
+00:07:20.019 --> 00:07:20.959
+O retorno do investimento?
+
+103
+00:07:21.699 --> 00:07:22.819
+Basta você prestar atenção.
+
+104
+00:07:23.579 --> 00:07:25.800
+Foi entre o ano...
+
+105
+00:07:25.800 --> 00:07:28.980
+A letra A aí fala um ano e dois anos.
+
+106
+00:07:29.560 --> 00:07:30.220
+Então, não foi, né?
+
+107
+00:07:30.220 --> 00:07:34.420
+Porque num ano e dois anos, entre um ano e dois anos, foi só R$ 210 mil.
+
+108
+00:07:34.500 --> 00:07:37.620
+Porque no primeiro ano foi R$ 110 mil e no segundo ano foi R$ 100 mil.
+
+109
+00:07:38.220 --> 00:07:39.240
+Então, foi só R$ 210 mil.
+
+110
+00:07:39.699 --> 00:07:41.819
+Foi algo entre dois anos e três anos?
+
+111
+00:07:41.819 --> 00:07:42.199
+Foi.
+
+112
+00:07:42.560 --> 00:07:43.000
+Por quê?
+
+113
+00:07:43.220 --> 00:07:49.000
+No final do terceiro ano, ele já tinha retornado os R$ 300 mil e retornou R$ 320 mil.
+
+114
+00:07:50.019 --> 00:07:55.180
+Significa o seguinte, que entre o ano dois e o ano três, você retornou os R$ 300 mil.
+
+115
+00:07:55.920 --> 00:08:00.319
+Porque ao final do terceiro ano, você retornou R$ 320 mil.
+
+116
+00:08:00.319 --> 00:08:05.420
+Então, você retornou os R$ 300 mil entre dois e três anos.
+
+117
+00:08:05.519 --> 00:08:06.240
+Em qual momento?
+
+118
+00:08:06.420 --> 00:08:09.600
+Aí você teria que fazer outra conta para descobrir, mas a pergunta é muito objetiva.
+
+119
+00:08:10.100 --> 00:08:17.519
+Em qual momento, levando em consideração a taxa descontada de R$ 300 mil a uma taxa de 10%,
+
+120
+00:08:17.519 --> 00:08:18.920
+você retorna esse investimento?
+
+121
+00:08:18.920 --> 00:08:22.319
+Nesse caso, entre dois e três anos.
+
+122
+00:08:22.439 --> 00:08:24.560
+Porque no final do terceiro ano, ele já recuperou.
+
+123
+00:08:24.639 --> 00:08:26.740
+Então, foi algo entre dois e três.
+
+124
+00:08:26.819 --> 00:08:30.139
+Então, o gabarito que você tinha que marcar era dois e três anos.
+
+125
+00:08:30.240 --> 00:08:33.919
+Engraçado que essa questão foi do exame 2025.2.
+
+126
+00:08:34.580 --> 00:08:38.600
+Tinha uma pergunta de português ali, um ou duas de português, e era a primeira do exame.
+
+127
+00:08:38.980 --> 00:08:40.000
+Essa do payback.
+
+128
+00:08:40.159 --> 00:08:42.299
+Então, é uma coisa que a gente estuda bem na faculdade.
+
+129
+00:08:42.460 --> 00:08:45.220
+Então, você tem que estar atento a essa situação.
+
+130
+00:08:45.220 --> 00:08:48.840
+Então, a primeira questão de payback, nós já estudamos.
+
+131
+00:08:48.919 --> 00:08:50.100
+Então, vamos para a próxima.

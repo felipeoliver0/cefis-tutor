@@ -1,0 +1,33 @@
+{
+  "id": 464148,
+  "title": "Viação do futuro",
+  "position": 17,
+  "duration": 624,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/369200d0-5cd5-4583-a45e-f9aaeb07a557/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/369200d0-5cd5-4583-a45e-f9aaeb07a557/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/369200d0-5cd5-4583-a45e-f9aaeb07a557/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/369200d0-5cd5-4583-a45e-f9aaeb07a557/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/369200d0-5cd5-4583-a45e-f9aaeb07a557/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

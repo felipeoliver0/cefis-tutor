@@ -1,0 +1,33 @@
+{
+  "id": 470896,
+  "title": "Provisão de 13º salário e encargos",
+  "position": 66,
+  "duration": 110,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bc5d9b70-a4f0-485e-bb3d-fba4fc2a0cc2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bc5d9b70-a4f0-485e-bb3d-fba4fc2a0cc2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bc5d9b70-a4f0-485e-bb3d-fba4fc2a0cc2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bc5d9b70-a4f0-485e-bb3d-fba4fc2a0cc2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bc5d9b70-a4f0-485e-bb3d-fba4fc2a0cc2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

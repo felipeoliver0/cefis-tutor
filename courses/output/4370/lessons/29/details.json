@@ -1,0 +1,33 @@
+{
+  "id": 486342,
+  "title": "Quiz - Parte 4",
+  "position": 34,
+  "duration": 27,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/08b6a25a-e076-4c62-b650-d55f1d73c06e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/08b6a25a-e076-4c62-b650-d55f1d73c06e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/08b6a25a-e076-4c62-b650-d55f1d73c06e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/08b6a25a-e076-4c62-b650-d55f1d73c06e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/08b6a25a-e076-4c62-b650-d55f1d73c06e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

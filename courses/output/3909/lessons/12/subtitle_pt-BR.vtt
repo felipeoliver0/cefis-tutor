@@ -1,0 +1,1237 @@
+WEBVTT
+
+1
+00:00:02.269 --> 00:00:03.849
+pensando na lógica,
+
+2
+00:00:04.289 --> 00:00:04.570
+né?
+
+3
+00:00:05.230 --> 00:00:07.809
+Eu coloquei no material aqui para vocês um cenário.
+
+4
+00:00:07.969 --> 00:00:08.050
+Então,
+
+5
+00:00:08.130 --> 00:00:08.529
+por exemplo,
+
+6
+00:00:08.970 --> 00:00:10.960
+venda de canetas por um contribuinte
+
+7
+00:00:11.689 --> 00:00:13.090
+do IBS da CBS
+
+8
+00:00:13.289 --> 00:00:14.989
+a venda com o IBS CBS.
+
+9
+00:00:15.529 --> 00:00:18.639
+O fornecedor com CNPJA emite o documento
+
+10
+00:00:19.129 --> 00:00:21.290
+com as tags do IBS da CBS
+
+11
+00:00:21.569 --> 00:00:22.670
+no valor de 30 BRL,
+
+12
+00:00:22.850 --> 00:00:24.899
+Então existe um débito gerado porque
+
+13
+00:00:25.569 --> 00:00:28.239
+houve uma emissão de um documento fiscal eletrônico.
+
+14
+00:00:29.209 --> 00:00:31.100
+Como que vai ser na apuração assistida.
+
+15
+00:00:31.610 --> 00:00:32.889
+O Rock vai receber
+
+16
+00:00:33.250 --> 00:00:34.169
+o XML.
+
+17
+00:00:34.950 --> 00:00:35.330
+OK
+
+18
+00:00:35.740 --> 00:00:38.650
+vai identificar o débito e vincular o CNPJ
+
+19
+00:00:39.139 --> 00:00:40.409
+e vai ter um débito lá
+
+20
+00:00:40.740 --> 00:00:43.150
+aguardando o pagamento no valor de 30 BRL.
+
+21
+00:00:45.560 --> 00:00:47.840
+Quando houver a compra com direito ao crédito.
+
+22
+00:00:47.959 --> 00:00:48.680
+O adquirente,
+
+23
+00:00:48.759 --> 00:00:50.240
+que já tem o CNPJB
+
+24
+00:00:50.759 --> 00:00:52.310
+recebe a nota fiscal eletrônica,
+
+25
+00:00:52.799 --> 00:00:55.619
+mas nesse momento ele não tem o direito ao crédito.
+
+26
+00:00:57.470 --> 00:01:00.229
+Então lá na plataforma vai estar 0
+
+27
+00:01:00.590 --> 00:01:01.099
+certo
+
+28
+00:01:01.709 --> 00:01:02.340
+Crédito
+
+29
+00:01:02.470 --> 00:01:03.819
+bloqueada por quê
+
+30
+00:01:04.510 --> 00:01:05.220
+A regra.
+
+31
+00:01:06.089 --> 00:01:07.199
+é que o crédito
+
+32
+00:01:07.620 --> 00:01:10.879
+só será demonstrado quando houver o pagamento.
+
+33
+00:01:11.779 --> 00:01:12.540
+devido dele.
+
+34
+00:01:12.900 --> 00:01:13.250
+OK
+
+35
+00:01:13.660 --> 00:01:16.089
+Por isso que está com o crédito bloqueado.
+
+36
+00:01:17.160 --> 00:01:19.269
+O pagamento ocorreu do débito
+
+37
+00:01:19.760 --> 00:01:21.029
+do valor de 30 BRL
+
+38
+00:01:21.400 --> 00:01:22.879
+Então o fornecedor do CNPJA,
+
+39
+00:01:22.959 --> 00:01:23.669
+que é esse aqui
+
+40
+00:01:24.199 --> 00:01:25.190
+Pagou o débito,
+
+41
+00:01:25.739 --> 00:01:28.029
+mas ele pagou o débito atrasado.
+
+42
+00:01:30.209 --> 00:01:33.440
+com o débito quitado no valor de 34 BRL porque teve
+
+43
+00:01:33.569 --> 00:01:35.029
+alteração de juros e moras,
+
+44
+00:01:35.089 --> 00:01:35.319
+né?
+
+45
+00:01:36.110 --> 00:01:38.019
+teve encargos e aí ele pagou
+
+46
+00:01:38.209 --> 00:01:38.830
+Aí sim,
+
+47
+00:01:38.949 --> 00:01:40.099
+a liberar o crédito.
+
+48
+00:01:41.050 --> 00:01:43.160
+Aí a apuração assistida vai mostrar o crédito
+
+49
+00:01:43.970 --> 00:01:44.650
+na plataforma.
+
+50
+00:01:44.690 --> 00:01:46.849
+O Rock vai analisar não só
+
+51
+00:01:47.169 --> 00:01:47.889
+o XML,
+
+52
+00:01:47.970 --> 00:01:50.080
+mas também o débito lá e aí ele vai
+
+53
+00:01:50.690 --> 00:01:51.779
+disponibilizar
+
+54
+00:01:52.169 --> 00:01:52.879
+o crédito Tá.
+
+55
+00:01:54.949 --> 00:01:56.180
+Pra ficar mais fácil
+
+56
+00:01:56.589 --> 00:01:57.720
+como que vai funcionar
+
+57
+00:01:58.230 --> 00:02:00.779
+Emissão do documento fiscal eletrônico do vendedor
+
+58
+00:02:01.309 --> 00:02:02.540
+geração do débito
+
+59
+00:02:02.750 --> 00:02:03.779
+pagamento realizado.
+
+60
+00:02:05.069 --> 00:02:05.610
+Comprador.
+
+61
+00:02:06.440 --> 00:02:08.029
+Verificação do débito quitado
+
+62
+00:02:08.559 --> 00:02:11.399
+crédito liberado Utilização das operações
+
+63
+00:02:11.919 --> 00:02:12.729
+futuras
+
+64
+00:02:13.440 --> 00:02:16.070
+Como funciona o crédito Débito pago
+
+65
+00:02:16.399 --> 00:02:17.440
+tem direito ao crédito.
+
+66
+00:02:18.339 --> 00:02:19.289
+Débito não pago,
+
+67
+00:02:19.740 --> 00:02:20.979
+não tenho direito ao crédito.
+
+68
+00:02:21.699 --> 00:02:24.169
+Compra sem documento fiscal eletrônico válido,
+
+69
+00:02:24.460 --> 00:02:25.740
+não vai ter direito ao crédito.
+
+70
+00:02:26.259 --> 00:02:30.589
+Compra de item de uso consumo pessoal também não tem direito ao crédito,
+
+71
+00:02:30.940 --> 00:02:33.770
+porque a gente tem a exceção da não acumulatividade
+
+72
+00:02:34.020 --> 00:02:34.550
+plena
+
+73
+00:02:34.820 --> 00:02:37.690
+e vai estar atrelado a evento da nota fiscal eletrônica.
+
+74
+00:02:38.130 --> 00:02:38.529
+Tá.
+
+75
+00:02:39.369 --> 00:02:40.539
+Com o cálculo pronto.
+
+76
+00:02:40.770 --> 00:02:43.410
+Tu entra no fluxo contínuo da apuração assistida.
+
+77
+00:02:43.750 --> 00:02:46.210
+A apuração assistida identifica a venda.
+
+78
+00:02:47.509 --> 00:02:48.779
+relaciona o CNPJ
+
+79
+00:02:49.389 --> 00:02:50.610
+de quem está adquirindo,
+
+80
+00:02:51.389 --> 00:02:51.869
+prestou,
+
+81
+00:02:51.990 --> 00:02:53.990
+tomou o serviço também vai acontecer.
+
+82
+00:02:54.559 --> 00:02:55.750
+Se seu cliente vendeu,
+
+83
+00:02:56.110 --> 00:02:59.789
+emitiu o documento fiscal e gerou o documento fiscal eletrônico.
+
+84
+00:03:00.470 --> 00:03:00.979
+Ela
+
+85
+00:03:01.190 --> 00:03:01.740
+irá
+
+86
+00:03:02.270 --> 00:03:03.979
+ser demonstrada nessa apuração.
+
+87
+00:03:04.669 --> 00:03:05.389
+O comprador.
+
+88
+00:03:05.789 --> 00:03:10.100
+Ele só terá direito ao crédito quando o débito do vendedor for efetivamente
+
+89
+00:03:10.429 --> 00:03:10.869
+pago.
+
+90
+00:03:11.190 --> 00:03:11.660
+Tá
+
+91
+00:03:11.869 --> 00:03:12.000
+Então.
+
+92
+00:03:12.070 --> 00:03:15.070
+Esse é um ponto chave pra vocês também que o controle,
+
+93
+00:03:15.089 --> 00:03:17.080
+ele é muito mais efetivo.
+
+94
+00:03:18.279 --> 00:03:19.509
+haverá um sincronismo
+
+95
+00:03:19.679 --> 00:03:21.919
+entre as plataformas dos ambientes separados.
+
+96
+00:03:22.000 --> 00:03:22.350
+Tá
+
+97
+00:03:22.559 --> 00:03:22.679
+Então.
+
+98
+00:03:22.720 --> 00:03:25.160
+A ideia é que a plataforma do CBS
+
+99
+00:03:25.559 --> 00:03:27.630
+seja essa que já iniciou os testes
+
+100
+00:03:27.919 --> 00:03:29.789
+e a gente tenha uma apuração.
+
+101
+00:03:30.850 --> 00:03:32.039
+correspondente ao IBS,
+
+102
+00:03:32.330 --> 00:03:33.789
+quando o Comitê Gestor.
+
+103
+00:03:34.130 --> 00:03:34.139
+que
+
+104
+00:03:35.000 --> 00:03:37.759
+está sendo na verdade tratado e instituído
+
+105
+00:03:37.940 --> 00:03:42.770
+dos estados e dos municípios para trazer essas informações para a gente
+
+106
+00:03:43.279 --> 00:03:46.610
+Então o ROC é o registro de operações de consumo para o CBS
+
+107
+00:03:47.000 --> 00:03:49.750
+e o IPA a informações para apuração para o IBS.
+
+108
+00:03:49.800 --> 00:03:50.500
+Só que aqui
+
+109
+00:03:50.679 --> 00:03:53.429
+a gente está aguardando a criação
+
+110
+00:03:53.839 --> 00:03:58.039
+do comitê gestor para que de fato a gente consiga trazer um novo projeto
+
+111
+00:03:58.039 --> 00:04:02.320
+piloto e as empresas comecem a fazer também a su- os seus testes.
+
+112
+00:04:02.360 --> 00:04:02.639
+Tá.
+
+113
+00:04:03.710 --> 00:04:06.100
+uma simulação real para vocês sobre a prática.
+
+114
+00:04:06.229 --> 00:04:07.910
+Então a simulação foi iniciada,
+
+115
+00:04:07.949 --> 00:04:08.350
+por exemplo,
+
+116
+00:04:08.429 --> 00:04:10.279
+com o CNPJ de um contribuinte.
+
+117
+00:04:11.020 --> 00:04:12.240
+Ele realiza uma venda
+
+118
+00:04:12.789 --> 00:04:13.820
+foi feito o login
+
+119
+00:04:14.160 --> 00:04:15.190
+foi entrou,
+
+120
+00:04:15.470 --> 00:04:15.580
+né?
+
+121
+00:04:15.630 --> 00:04:16.700
+No Gov ponto BR
+
+122
+00:04:17.230 --> 00:04:18.329
+exibiu o CNPJ.
+
+123
+00:04:18.410 --> 00:04:19.600
+Ele fez todo o passo,
+
+124
+00:04:19.790 --> 00:04:20.000
+né?
+
+125
+00:04:20.010 --> 00:04:22.920
+Que a gente já viu em tela como que ele funciona igualmente.
+
+126
+00:04:23.959 --> 00:04:27.730
+Este contribuinte ainda não possui nenhuma operação de consumo registrada,
+
+127
+00:04:27.920 --> 00:04:28.230
+né?
+
+128
+00:04:28.559 --> 00:04:30.369
+Seja a operação como uma base limpa
+
+129
+00:04:30.839 --> 00:04:31.519
+Da mesma forma,
+
+130
+00:04:31.559 --> 00:04:35.350
+foi incluído então um adquirente representado aí por um CNPJ.
+
+131
+00:04:35.959 --> 00:04:36.320
+Ambos.
+
+132
+00:04:36.399 --> 00:04:37.709
+Os participantes estão
+
+133
+00:04:38.079 --> 00:04:39.359
+com contas zeradas.
+
+134
+00:04:40.040 --> 00:04:42.119
+Tá Aqui é a carenha da apuração assistida.
+
+135
+00:04:42.279 --> 00:04:42.440
+Então,
+
+136
+00:04:42.720 --> 00:04:43.549
+nesse caso
+
+137
+00:04:44.040 --> 00:04:45.230
+houve o login.
+
+138
+00:04:45.940 --> 00:04:46.980
+E dentro desse login,
+
+139
+00:04:47.019 --> 00:04:48.899
+como a gente comentou nesse caso real,
+
+140
+00:04:49.459 --> 00:04:52.589
+não tem nenhum tipo de movimentação.
+
+141
+00:04:52.739 --> 00:04:55.839
+Por isso que vocês não estão vendo nenhum tipo de movimentação aqui
+
+142
+00:04:56.359 --> 00:04:56.709
+tá.
+
+143
+00:04:59.429 --> 00:05:01.440
+Dentro do fluxo do ROC na plataforma.
+
+144
+00:05:01.480 --> 00:05:02.399
+O documento fiscal,
+
+145
+00:05:02.720 --> 00:05:04.829
+que é o documento fiscal eletrônico
+
+146
+00:05:05.160 --> 00:05:05.989
+é traduzido,
+
+147
+00:05:06.320 --> 00:05:06.519
+né?
+
+148
+00:05:06.730 --> 00:05:07.980
+Então Ele faz a interpretação
+
+149
+00:05:09.059 --> 00:05:11.339
+Então aqui eu estou no monitoramento do eventos,
+
+150
+00:05:11.679 --> 00:05:11.880
+né?
+
+151
+00:05:12.239 --> 00:05:13.850
+E aí eu revinculei o ROC
+
+152
+00:05:14.459 --> 00:05:15.640
+e ele está aqui,
+
+153
+00:05:15.720 --> 00:05:16.190
+na verdade,
+
+154
+00:05:16.440 --> 00:05:19.799
+traduzindo os eventos dos documentos fiscais eletrônicos
+
+155
+00:05:19.799 --> 00:05:21.720
+para levar para a apuração assistida.
+
+156
+00:05:23.019 --> 00:05:24.850
+houve o processamento em etapas,
+
+157
+00:05:26.850 --> 00:05:26.880
+ou seja,
+
+158
+00:05:26.890 --> 00:05:30.799
+como a gente já comentou como que é feito o processamento na apuração assistida.
+
+159
+00:05:31.540 --> 00:05:33.010
+enriquecimento cadastral
+
+160
+00:05:33.420 --> 00:05:33.869
+OK
+
+161
+00:05:34.059 --> 00:05:36.950
+O módulo preenche dados do contribuinte no ROC.
+
+162
+00:05:38.049 --> 00:05:40.230
+Tem um motor de regra dentro da plataforma.
+
+163
+00:05:40.690 --> 00:05:41.489
+Ela valida,
+
+164
+00:05:41.529 --> 00:05:42.670
+analisa a operação
+
+165
+00:05:42.970 --> 00:05:44.489
+e depois vem para uma calculadora,
+
+166
+00:05:44.570 --> 00:05:44.890
+ou seja,
+
+167
+00:05:45.170 --> 00:05:46.920
+cálculo dos tributos com a base
+
+168
+00:05:47.489 --> 00:05:49.700
+relacionada a lei complementar 214,
+
+169
+00:05:49.769 --> 00:05:51.160
+trazendo a prática operacional.
+
+170
+00:05:52.609 --> 00:05:53.679
+Tudo isso
+
+171
+00:05:53.809 --> 00:05:54.940
+em menos de um segundo.
+
+172
+00:05:55.010 --> 00:05:55.410
+Tá Então.
+
+173
+00:05:55.489 --> 00:05:57.209
+A gente está falando aqui que são passos,
+
+174
+00:05:57.329 --> 00:05:57.679
+mas
+
+175
+00:05:58.130 --> 00:06:01.010
+tudo isso é de forma rápida e prática,
+
+176
+00:06:01.089 --> 00:06:03.450
+assim como a gente acontece nos documentos fiscais eletrônicos
+
+177
+00:06:03.970 --> 00:06:05.609
+Então a apuração assistida,
+
+178
+00:06:05.649 --> 00:06:06.640
+ela vai acontecer
+
+179
+00:06:08.010 --> 00:06:08.239
+eh
+
+180
+00:06:08.809 --> 00:06:10.049
+todos os dias a todo o tempo,
+
+181
+00:06:10.209 --> 00:06:11.799
+porque as notas fiscais eletrônicas,
+
+182
+00:06:11.809 --> 00:06:13.390
+elas são emitidas dessa forma
+
+183
+00:06:13.890 --> 00:06:15.089
+Então a plataforma assistida,
+
+184
+00:06:15.209 --> 00:06:16.079
+ela vai também,
+
+185
+00:06:17.010 --> 00:06:17.440
+né?
+
+186
+00:06:17.450 --> 00:06:17.920
+Ser
+
+187
+00:06:18.130 --> 00:06:20.839
+alimentada e trazendo essa restabilidade de controle
+
+188
+00:06:21.170 --> 00:06:21.989
+da mesma forma.
+
+189
+00:06:25.619 --> 00:06:27.140
+Então pensando nesse caso,
+
+190
+00:06:27.260 --> 00:06:28.019
+então o Rock
+
+191
+00:06:28.540 --> 00:06:30.859
+trouxe o processamento con- certo
+
+192
+00:06:31.100 --> 00:06:32.260
+O contribuinte vendedor.
+
+193
+00:06:32.380 --> 00:06:34.369
+Ele não tinha nenhum tipo de operação
+
+194
+00:06:35.100 --> 00:06:35.980
+no período de janeiro,
+
+195
+00:06:36.019 --> 00:06:36.459
+por exemplo,
+
+196
+00:06:36.540 --> 00:06:37.660
+ele teve a movimentação.
+
+197
+00:06:37.739 --> 00:06:39.019
+O Rock olhou o XML,
+
+198
+00:06:39.140 --> 00:06:40.290
+trouxe a interpretação
+
+199
+00:06:40.660 --> 00:06:42.059
+e aqui chegou a regra,
+
+200
+00:06:42.179 --> 00:06:42.489
+né?
+
+201
+00:06:42.500 --> 00:06:44.089
+A validação dessa informação.
+
+202
+00:06:45.040 --> 00:06:46.279
+Então a operação registrada
+
+203
+00:06:46.410 --> 00:06:50.769
+não consta uma operação registrada no valor de um débito aí de 30 BRL
+
+204
+00:06:51.029 --> 00:06:51.359
+OK
+
+205
+00:06:51.730 --> 00:06:54.149
+Então aqui eu estou falando do contribuinte vendedor.
+
+206
+00:06:55.109 --> 00:06:56.859
+sobre a tributação sobre consumo.
+
+207
+00:06:58.049 --> 00:06:59.170
+fluxograma do Rock,
+
+208
+00:06:59.290 --> 00:07:01.040
+então ele emitiu o documento fiscal.
+
+209
+00:07:01.450 --> 00:07:02.130
+O rock gerou,
+
+210
+00:07:02.250 --> 00:07:04.239
+interpretou e gerou o débito apurado
+
+211
+00:07:04.869 --> 00:07:06.970
+conforme vocês viram a em tela aí.
+
+212
+00:07:07.799 --> 00:07:08.790
+Vai ter pagamento.
+
+213
+00:07:09.359 --> 00:07:10.589
+Se tiver pagamento,
+
+214
+00:07:11.200 --> 00:07:12.529
+pode-se utilizar o crédito.
+
+215
+00:07:13.989 --> 00:07:15.079
+Aí o crédito é liberado,
+
+216
+00:07:15.269 --> 00:07:16.079
+enquanto não,
+
+217
+00:07:16.630 --> 00:07:17.480
+não é liberado.
+
+218
+00:07:17.549 --> 00:07:19.209
+E é isso que vocês vão ver aqui em tela.
+
+219
+00:07:19.989 --> 00:07:20.459
+Então
+
+220
+00:07:20.670 --> 00:07:21.839
+ele tem uma operação,
+
+221
+00:07:22.010 --> 00:07:23.269
+então contribuinte do comprador.
+
+222
+00:07:23.709 --> 00:07:24.869
+Ele tem uma operação,
+
+223
+00:07:25.190 --> 00:07:27.540
+aparece que ele tem uma operação em andamento,
+
+224
+00:07:28.109 --> 00:07:30.429
+só que ele não tem ainda a permissão do crédito.
+
+225
+00:07:31.709 --> 00:07:32.269
+Tá Então aqui ó,
+
+226
+00:07:32.279 --> 00:07:33.040
+se a gente olhar.
+
+227
+00:07:33.730 --> 00:07:34.890
+O contribuinte comprador.
+
+228
+00:07:35.320 --> 00:07:37.589
+Aqueles 30 BRL não apareceu aqui ainda,
+
+229
+00:07:37.970 --> 00:07:39.200
+porque ainda é um débito
+
+230
+00:07:39.450 --> 00:07:40.109
+lá no vendedor.
+
+231
+00:07:42.190 --> 00:07:43.480
+Ao clicar na opção pagar.
+
+232
+00:07:43.510 --> 00:07:47.339
+O sistema identificou automaticamente que o contribuinte
+
+233
+00:07:47.630 --> 00:07:48.700
+passou o prazo,
+
+234
+00:07:49.149 --> 00:07:50.579
+Então o vendedor decidiu pagar
+
+235
+00:07:51.309 --> 00:07:52.309
+Como passou o prazo.
+
+236
+00:07:52.390 --> 00:07:54.059
+Os encargos foram calculados.
+
+237
+00:07:55.200 --> 00:07:55.839
+Então o vendedor,
+
+238
+00:07:55.920 --> 00:07:56.480
+o vendedor,
+
+239
+00:07:56.519 --> 00:07:57.380
+que é o contribuinte
+
+240
+00:07:57.579 --> 00:07:59.470
+que tem o valor de 30 BRL do débito,
+
+241
+00:07:59.839 --> 00:08:00.559
+decidiu pagar,
+
+242
+00:08:00.799 --> 00:08:01.309
+mas
+
+243
+00:08:01.519 --> 00:08:02.260
+com encargos
+
+244
+00:08:02.720 --> 00:08:03.000
+E aí,
+
+245
+00:08:03.079 --> 00:08:04.200
+ao calcular o encargo,
+
+246
+00:08:04.239 --> 00:08:08.709
+o valor passou ao valor de 34 BRL 63 centavos
+
+247
+00:08:09.079 --> 00:08:12.350
+e é isso que vocês vão ver aqui dentro da plataforma assistida.
+
+248
+00:08:12.799 --> 00:08:14.549
+Vai ter o pagamento recolhido
+
+249
+00:08:15.119 --> 00:08:16.359
+no valor de 30 BRL,
+
+250
+00:08:16.679 --> 00:08:16.989
+né?
+
+251
+00:08:17.359 --> 00:08:19.510
+E quando ele fizer o cálculo.
+
+252
+00:08:21.010 --> 00:08:22.010
+com os encargos,
+
+253
+00:08:22.170 --> 00:08:25.040
+vai ser calculado automaticamente esses encargos.
+
+254
+00:08:26.690 --> 00:08:29.279
+O documento de arrecadação pessoal ainda não está
+
+255
+00:08:29.630 --> 00:08:30.000
+pronto.
+
+256
+00:08:30.309 --> 00:08:33.469
+Tá Então o documento de arrecadação federal ainda não está pronto.
+
+257
+00:08:34.090 --> 00:08:37.250
+Então esse documento apresenta todas as informações que necessitam.
+
+258
+00:08:37.330 --> 00:08:39.609
+Então o valor é principal correção monetária,
+
+259
+00:08:40.130 --> 00:08:41.400
+saldo total a pagar
+
+260
+00:08:41.729 --> 00:08:43.010
+data de vencimento
+
+261
+00:08:43.469 --> 00:08:45.150
+Então aqui no material de vocês.
+
+262
+00:08:46.080 --> 00:08:48.349
+eh Vocês não veem na verdade
+
+263
+00:08:48.520 --> 00:08:49.960
+o o DF,
+
+264
+00:08:50.119 --> 00:08:50.309
+né?
+
+265
+00:08:50.320 --> 00:08:52.280
+Que é o documento que vai trazer essa arrecadação,
+
+266
+00:08:52.320 --> 00:08:54.250
+porque na verdade a gente ainda não tem esse layout,
+
+267
+00:08:54.640 --> 00:08:58.140
+mas vocês já conseguem observar que na própria plataforma assistida
+
+268
+00:08:58.559 --> 00:09:00.630
+nós temos o valor total obrigatório
+
+269
+00:09:00.969 --> 00:09:01.390
+e
+
+270
+00:09:01.729 --> 00:09:04.650
+aqui já está fazendo o cálculo dos encargos,
+
+271
+00:09:04.710 --> 00:09:05.700
+como a gente comentou,
+
+272
+00:09:06.559 --> 00:09:09.229
+então ele vai pagar o valor de 34 BRL 63.
+
+273
+00:09:10.299 --> 00:09:14.809
+Eu busquei trazer a documen- o documento de arrecadação da Receita Federal tá
+
+274
+00:09:15.960 --> 00:09:17.700
+Então não é esse layout,
+
+275
+00:09:18.099 --> 00:09:21.190
+mas só para vocês terem uma ideia por quê Ele também traz
+
+276
+00:09:21.630 --> 00:09:24.659
+a data de pagamento traz o valor total do devido,
+
+277
+00:09:24.780 --> 00:09:25.940
+traz os encargos.
+
+278
+00:09:26.419 --> 00:09:30.580
+Então a gente precisa ter ainda um documento comprobatório do IBS da CBS.
+
+279
+00:09:31.109 --> 00:09:31.369
+né?
+
+280
+00:09:31.869 --> 00:09:36.140
+Mas pra vocês terem uma noção de como sairia o a pagar desse contribuinte,
+
+281
+00:09:36.190 --> 00:09:37.789
+eu trouxe o o Darf,
+
+282
+00:09:37.880 --> 00:09:38.020
+né?
+
+283
+00:09:38.030 --> 00:09:39.739
+Que a gente já está acostumado
+
+284
+00:09:39.869 --> 00:09:41.700
+a fazer os nossos recolhimentos
+
+285
+00:09:42.270 --> 00:09:42.429
+Qual,
+
+286
+00:09:42.510 --> 00:09:43.619
+que é o resultado do pagamento.
+
+287
+00:09:43.630 --> 00:09:44.070
+O sistema.
+
+288
+00:09:44.080 --> 00:09:45.630
+Agora ele mostra que o contribuinte
+
+289
+00:09:46.169 --> 00:09:46.510
+pagou,
+
+290
+00:09:46.830 --> 00:09:47.750
+não deve mais nada,
+
+291
+00:09:47.909 --> 00:09:48.030
+né?
+
+292
+00:09:48.109 --> 00:09:48.789
+Então ele está lá
+
+293
+00:09:49.210 --> 00:09:49.820
+zeradinho
+
+294
+00:09:52.690 --> 00:09:54.359
+e na hora que zerar o comprador terá o crédito disponível
+
+295
+00:09:54.950 --> 00:09:56.229
+e como que aparecerá para ele.
+
+296
+00:09:56.429 --> 00:09:57.940
+Então ele vai entrar
+
+297
+00:09:58.059 --> 00:09:59.700
+na apuração assistida.
+
+298
+00:10:00.049 --> 00:10:01.570
+Vai estar lá como andamento.
+
+299
+00:10:01.770 --> 00:10:02.640
+Então agora
+
+300
+00:10:02.890 --> 00:10:04.700
+ele vai ter o crédito apropriado
+
+301
+00:10:05.130 --> 00:10:07.330
+porque o vendedor fez o recolhimento.
+
+302
+00:10:07.969 --> 00:10:08.320
+Tá
+
+303
+00:10:08.650 --> 00:10:08.950
+Então não.
+
+304
+00:10:09.010 --> 00:10:10.750
+Obviamente não entram os encargos,
+
+305
+00:10:11.090 --> 00:10:12.840
+mas entra o direito ao crédito.
+
+306
+00:10:13.489 --> 00:10:14.320
+Tudo isso
+
+307
+00:10:14.809 --> 00:10:15.320
+rápido,
+
+308
+00:10:15.489 --> 00:10:17.729
+tá como eu disse pra vocês em segundos.
+
+309
+00:10:17.969 --> 00:10:19.809
+Isso vai ser validado por conta do ROC.

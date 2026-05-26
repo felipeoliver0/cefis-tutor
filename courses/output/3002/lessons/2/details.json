@@ -1,0 +1,33 @@
+{
+  "id": 473327,
+  "title": "Pessoa física - Holding patrimonial",
+  "position": 2,
+  "duration": 218,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/471ed16d-8ed6-4925-9c19-390b0249f759/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/471ed16d-8ed6-4925-9c19-390b0249f759/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/471ed16d-8ed6-4925-9c19-390b0249f759/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/471ed16d-8ed6-4925-9c19-390b0249f759/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/471ed16d-8ed6-4925-9c19-390b0249f759/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

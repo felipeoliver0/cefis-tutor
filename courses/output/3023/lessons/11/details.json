@@ -1,0 +1,33 @@
+{
+  "id": 473625,
+  "title": "Exemplo - Multiplan",
+  "position": 11,
+  "duration": 185,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e21c6ee5-65aa-471e-860a-1271fd746142/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e21c6ee5-65aa-471e-860a-1271fd746142/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e21c6ee5-65aa-471e-860a-1271fd746142/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e21c6ee5-65aa-471e-860a-1271fd746142/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e21c6ee5-65aa-471e-860a-1271fd746142/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

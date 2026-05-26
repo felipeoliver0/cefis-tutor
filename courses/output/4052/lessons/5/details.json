@@ -1,0 +1,33 @@
+{
+  "id": 482013,
+  "title": "Quem é o cliente?",
+  "position": 5,
+  "duration": 448,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b6cb505f-143f-439e-bdb8-ae01ac5d0b8c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b6cb505f-143f-439e-bdb8-ae01ac5d0b8c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b6cb505f-143f-439e-bdb8-ae01ac5d0b8c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b6cb505f-143f-439e-bdb8-ae01ac5d0b8c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b6cb505f-143f-439e-bdb8-ae01ac5d0b8c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

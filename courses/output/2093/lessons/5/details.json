@@ -1,0 +1,33 @@
+{
+  "id": 462161,
+  "title": "Modalidades - Parte 2",
+  "position": 5,
+  "duration": 575,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/04555ba0-7318-4f90-a39d-a4f1ad476ff5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/04555ba0-7318-4f90-a39d-a4f1ad476ff5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/04555ba0-7318-4f90-a39d-a4f1ad476ff5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/04555ba0-7318-4f90-a39d-a4f1ad476ff5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/04555ba0-7318-4f90-a39d-a4f1ad476ff5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 463842,
+  "title": "Protesto",
+  "position": 10,
+  "duration": 474,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d3a0859f-1468-42cd-8949-c8fff1d5d331/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3a0859f-1468-42cd-8949-c8fff1d5d331/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3a0859f-1468-42cd-8949-c8fff1d5d331/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3a0859f-1468-42cd-8949-c8fff1d5d331/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3a0859f-1468-42cd-8949-c8fff1d5d331/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

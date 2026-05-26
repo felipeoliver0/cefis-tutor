@@ -1,0 +1,33 @@
+{
+  "id": 465666,
+  "title": "Os 10 principais indicadores",
+  "position": 23,
+  "duration": 249,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d766c7d4-b92c-4e39-83e5-aa8f3ed0a8d6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d766c7d4-b92c-4e39-83e5-aa8f3ed0a8d6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d766c7d4-b92c-4e39-83e5-aa8f3ed0a8d6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d766c7d4-b92c-4e39-83e5-aa8f3ed0a8d6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d766c7d4-b92c-4e39-83e5-aa8f3ed0a8d6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

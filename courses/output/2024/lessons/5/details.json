@@ -1,0 +1,33 @@
+{
+  "id": 461222,
+  "title": "Proteção internacional e monopólio legal",
+  "position": 5,
+  "duration": 238,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f027cd37-cb24-4226-91cc-6c45e27632eb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f027cd37-cb24-4226-91cc-6c45e27632eb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f027cd37-cb24-4226-91cc-6c45e27632eb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f027cd37-cb24-4226-91cc-6c45e27632eb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f027cd37-cb24-4226-91cc-6c45e27632eb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

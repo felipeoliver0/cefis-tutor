@@ -1,0 +1,33 @@
+{
+  "id": 478353,
+  "title": "Bloco Y620",
+  "position": 41,
+  "duration": 501,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5e98ef86-7c9e-4b64-84c2-4ec806672f88/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e98ef86-7c9e-4b64-84c2-4ec806672f88/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e98ef86-7c9e-4b64-84c2-4ec806672f88/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e98ef86-7c9e-4b64-84c2-4ec806672f88/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5e98ef86-7c9e-4b64-84c2-4ec806672f88/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

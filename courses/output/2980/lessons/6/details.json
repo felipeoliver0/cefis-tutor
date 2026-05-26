@@ -1,0 +1,33 @@
+{
+  "id": 472390,
+  "title": "Teoria da Agência",
+  "position": 6,
+  "duration": 249,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5f9ef4f9-d8f1-4009-9a3a-9efbcfb83787/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5f9ef4f9-d8f1-4009-9a3a-9efbcfb83787/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5f9ef4f9-d8f1-4009-9a3a-9efbcfb83787/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5f9ef4f9-d8f1-4009-9a3a-9efbcfb83787/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5f9ef4f9-d8f1-4009-9a3a-9efbcfb83787/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

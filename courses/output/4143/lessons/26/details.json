@@ -1,0 +1,33 @@
+{
+  "id": 482487,
+  "title": "OEA Integrado",
+  "position": 26,
+  "duration": 546,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b07b1a78-381b-4c93-b77d-a753511beb1e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b07b1a78-381b-4c93-b77d-a753511beb1e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b07b1a78-381b-4c93-b77d-a753511beb1e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b07b1a78-381b-4c93-b77d-a753511beb1e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b07b1a78-381b-4c93-b77d-a753511beb1e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

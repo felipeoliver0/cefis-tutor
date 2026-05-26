@@ -1,0 +1,397 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:10.439
+Pessoal, no curso de formação de analista em departamento pessoal eu não poderia deixar passar a apuração, a aplicação de alguns modelos de recibos de pagamento.
+
+3
+00:00:10.439 --> 00:00:17.440
+Então, vamos demonstrar aqui para vocês, para que vocês tenham uma ideia de como é que vai compondo a base de cálculo até o fechamento de uma folha.
+
+4
+00:00:17.440 --> 00:00:24.440
+A gente sempre tem, pessoal, os fixos salariais, que são informações que a gente amarra no sistema
+
+5
+00:00:24.440 --> 00:00:32.439
+e ele calcula automaticamente, faz a apuração mensal dessas informações e a necessidade de lançamento.
+
+6
+00:00:32.439 --> 00:00:38.439
+Então, por exemplo, salário, eu já coloco no cadastro do empregado, todo mês quando roda a folha a gente vai calcular o salário para o trabalhador.
+
+7
+00:00:38.439 --> 00:00:45.439
+Adicional noturno, também posso colocar no cadastro do trabalhador, desde que ele preencha a sua jornada dentro do período noturno.
+
+8
+00:00:45.439 --> 00:00:49.439
+Se for variável, aí não, vai para variável, tem que digitar.
+
+9
+00:00:49.439 --> 00:00:54.439
+Adicional de insalubridade, periculosidade, salário família, todo o cadastro do trabalhador.
+
+10
+00:00:54.439 --> 00:00:59.439
+Se ele está exposto a um ambiente insalubre, poxa, é só marcar, tem direito à insalubridade.
+
+11
+00:00:59.439 --> 00:01:05.439
+Agora, desconto, adiantamento, INSS, imposto de renda, vale-transporte, tudo isso é direito do empregado.
+
+12
+00:01:05.439 --> 00:01:10.439
+Ele recebeu o benefício, tem uma parcela que ele vai contribuir, no caso o vale-transporte, então vai ter o desconto.
+
+13
+00:01:10.439 --> 00:01:16.439
+Os demais é tudo compulsório, o INSS, imposto de renda é tão obrigatório, vamos lá, vamos calcular, é só amarrar no sistema.
+
+14
+00:01:16.439 --> 00:01:22.439
+Eu não preciso ter intervenção humana, já está cadastrado, só rodar a folha a gente vai processar automaticamente.
+
+15
+00:01:22.439 --> 00:01:24.439
+E aqui um recibo de pagamento.
+
+16
+00:01:24.439 --> 00:01:30.439
+No qual a gente calcula um salário de um empregado, separado sempre por três campos.
+
+17
+00:01:30.439 --> 00:01:37.439
+Cabeçalho, campo de rubricas e campo do rodapé, com as suas respectivas bases de cálculo.
+
+18
+00:01:37.439 --> 00:01:43.439
+Você vai ver que o trabalhador tem um salário base e tem um adicional de insalubridade.
+
+19
+00:01:43.439 --> 00:01:49.439
+Esse insalubridade tem uma legislação a ser cumprida que é salário mínimo de 10%.
+
+20
+00:01:49.439 --> 00:01:51.439
+Tem aquele grau mínimo, né?
+
+21
+00:01:51.439 --> 00:01:54.439
+Aqui uma referência para que vocês possam ter ideia de como é possível.
+
+22
+00:01:54.439 --> 00:01:57.439
+Aqui está processado um recibo de pagamento.
+
+23
+00:01:57.439 --> 00:02:01.439
+Vocês podem ver que eu não preenchi o campo do rodapé, não inseri desconto nenhum.
+
+24
+00:02:01.439 --> 00:02:06.439
+Só para a gente ter uma ideia, você que está iniciando na carreira agora, da parte de departamento pessoal.
+
+25
+00:02:06.439 --> 00:02:08.439
+O que não pode ocorrer, pessoal?
+
+26
+00:02:08.439 --> 00:02:14.439
+O pagamento de adicionais de insalubridade, como periculosidade também, eu vou citar um pouco mais à frente.
+
+27
+00:02:14.439 --> 00:02:15.439
+E o módulo proporcional.
+
+28
+00:02:15.439 --> 00:02:22.439
+Se o trabalhador teve acesso àquele ambiente, ele tem o risco à saúde lá no programa, no laudo de insalubridade ou periculosidade.
+
+29
+00:02:22.439 --> 00:02:26.439
+Vai dizer que ele tem direito ao pagamento, ao benefício.
+
+30
+00:02:26.439 --> 00:02:29.439
+E aqui, pessoal, a periculosidade, né?
+
+31
+00:02:29.439 --> 00:02:41.439
+Então, trabalhadores que estão expostos a esse tipo de agente, que pode ser perigoso a sua saúde, vão ter direito a 30% sobre o seu salário base.
+
+32
+00:02:41.439 --> 00:02:46.439
+Então, o cálculo é muito simples para que você possa conferir como é feito.
+
+33
+00:02:46.439 --> 00:02:52.439
+Vocês podem ver que um salário normal é uma amarração no cadastro do empregado.
+
+34
+00:02:52.439 --> 00:02:53.439
+Que salário?
+
+35
+00:02:53.439 --> 00:02:54.439
+Aí você vai informar.
+
+36
+00:02:54.439 --> 00:02:55.439
+1680.
+
+37
+00:02:55.439 --> 00:02:57.439
+Lá no cadastro do trabalhador.
+
+38
+00:02:57.439 --> 00:03:00.439
+Adicional de periculosidade, sim ou não?
+
+39
+00:03:00.439 --> 00:03:01.439
+Vai marcar sim.
+
+40
+00:03:01.439 --> 00:03:02.439
+Por quê?
+
+41
+00:03:02.439 --> 00:03:03.439
+Porque é um trabalho perigoso.
+
+42
+00:03:03.439 --> 00:03:05.439
+Então, ele já vai calcular automático.
+
+43
+00:03:05.439 --> 00:03:06.439
+Eu não preciso lançar.
+
+44
+00:03:06.439 --> 00:03:12.439
+Seu sistema de folha de pagamento já tem essa inteligência e vai adiantar esse serviço e essa apuração para você.
+
+45
+00:03:12.439 --> 00:03:19.439
+Aqui, eu trago as informações da apuração que não pode ser também proporcional.
+
+46
+00:03:19.439 --> 00:03:22.439
+E quando eu trago esse título, são súmulas do Tribunal Superior.
+
+47
+00:03:22.439 --> 00:03:26.439
+O Tribunal Superior do Trabalho não permite apuração proporcional.
+
+48
+00:03:26.439 --> 00:03:29.439
+Imagina, o trabalhador só fica dois períodos em um ambiente que é perigoso.
+
+49
+00:03:29.439 --> 00:03:33.439
+Só vai receber referente a essas duas horas que ele ficou ali exposto.
+
+50
+00:03:33.439 --> 00:03:34.439
+Não.
+
+51
+00:03:34.439 --> 00:03:35.439
+Perigo é perigo.
+
+52
+00:03:35.439 --> 00:03:36.439
+Pode acontecer a qualquer momento.
+
+53
+00:03:36.439 --> 00:03:39.439
+Então, ele tem direito ao benefício.
+
+54
+00:03:39.439 --> 00:03:45.439
+Mais um exemplo de apuração para você ter essa dinâmica de cálculo na área da folha de pagamento.
+
+55
+00:03:45.439 --> 00:03:46.439
+Vejam vocês.
+
+56
+00:03:46.439 --> 00:03:47.439
+Salário normal.
+
+57
+00:03:47.439 --> 00:03:48.439
+1680.
+
+58
+00:03:48.439 --> 00:03:51.439
+Só que esse trabalhador tem um dependente.
+
+59
+00:03:51.439 --> 00:03:53.439
+E esse dependente é menor de 14 anos.
+
+60
+00:03:53.439 --> 00:03:56.439
+Consequentemente, ele tem direito a um salário família.
+
+61
+00:03:56.439 --> 00:04:04.439
+E, consequentemente, ele vai ganhar o 6754, que é o que está vigente nesse momento, a cota do salário família.
+
+62
+00:04:04.439 --> 00:04:12.439
+Concluindo aqui a parte de fixos salariais, a gente já engata na parte de variáveis, que dependem de uma digitação.
+
+63
+00:04:12.439 --> 00:04:14.439
+E aqui é o grande desafio, né?
+
+64
+00:04:14.439 --> 00:04:18.439
+Com essas variáveis, a gente depende que essa informação chegue de outro setor.
+
+65
+00:04:18.439 --> 00:04:20.439
+Se você é departamento pessoal de uma outra empresa.
+
+66
+00:04:20.439 --> 00:04:24.439
+Ou se você faz a folha de pagamento, depende do cliente.
+
+67
+00:04:24.439 --> 00:04:25.439
+Ele que vai te mandar, né?
+
+68
+00:04:25.439 --> 00:04:30.439
+Então, adicional noturno, comissões, horas extras, descanso semanal remunerado.
+
+69
+00:04:30.439 --> 00:04:34.439
+Tudo isso você recebe antecipadamente e lança na folha.
+
+70
+00:04:34.439 --> 00:04:40.439
+Como também faltas e atrasos, principalmente dos clientes que fazem controle de jornada.
+
+71
+00:04:40.439 --> 00:04:42.439
+Então, alguns exemplos de recibo.
+
+72
+00:04:42.439 --> 00:04:43.439
+Hora extra.
+
+73
+00:04:43.439 --> 00:04:47.439
+O trabalhador realizou 4 horas extras a 50%.
+
+74
+00:04:47.439 --> 00:04:49.439
+A referência, 4.
+
+75
+00:04:49.439 --> 00:04:51.439
+E apuração do valor.
+
+76
+00:04:51.439 --> 00:04:52.439
+Lembrando, pessoal.
+
+77
+00:04:52.439 --> 00:04:56.439
+Estou passando esses modelos de apuração para que vocês tenham acesso.
+
+78
+00:04:56.439 --> 00:05:00.439
+Para simular exatamente como é o processamento de um recibo, né?
+
+79
+00:05:00.439 --> 00:05:01.439
+Construção de uma folha.
+
+80
+00:05:01.439 --> 00:05:06.439
+Aqui na plataforma CFIS, vocês vão ter também um curso específico de cálculos.
+
+81
+00:05:06.439 --> 00:05:10.439
+E aí sim, a gente trabalha esses assuntos com um pouquinho mais de profundidade.
+
+82
+00:05:10.439 --> 00:05:13.439
+Eu convido vocês a acessarem esse treinamento.
+
+83
+00:05:13.439 --> 00:05:14.439
+Tá?
+
+84
+00:05:14.439 --> 00:05:17.439
+Então, o descanso semanal remunerado, ele trabalha com incidências.
+
+85
+00:05:17.439 --> 00:05:18.439
+Hora extra.
+
+86
+00:05:18.439 --> 00:05:21.439
+Hora extra incide o descanso semanal remunerado.
+
+87
+00:05:21.439 --> 00:05:26.439
+Consequentemente, pessoal, eu vou ter hora extra e vou ter o descanso semanal remunerado.
+
+88
+00:05:26.439 --> 00:05:27.439
+Qual é a fórmula?
+
+89
+00:05:27.439 --> 00:05:29.439
+Eu coloco aqui para vocês também, ó.
+
+90
+00:05:29.439 --> 00:05:32.439
+Valor da hora extra dividido pela quantidade de dias úteis.
+
+91
+00:05:32.439 --> 00:05:35.439
+Sempre de segunda a sábado.
+
+92
+00:05:35.439 --> 00:05:36.439
+E dias não úteis.
+
+93
+00:05:36.439 --> 00:05:38.439
+Domingos e feriados.
+
+94
+00:05:38.439 --> 00:05:41.439
+Então, vai ter mês que vai ser 23 com 7.
+
+95
+00:05:41.439 --> 00:05:46.439
+Vai ter mês que vai ser 24 com tantos.
+
+96
+00:05:46.439 --> 00:05:47.439
+E aí vocês vão ver.
+
+97
+00:05:47.439 --> 00:05:48.439
+É 2, enfim.
+
+98
+00:05:48.439 --> 00:05:53.439
+É o parâmetro da folha de pagamento que vocês têm que organizar mensalmente, né?
+
+99
+00:05:53.439 --> 00:05:57.439
+Porque todo mês vai ter considerados feriados como não úteis.
+
+100
+00:05:57.439 --> 00:05:59.439
+E ele vai calcular automático.

@@ -1,0 +1,33 @@
+{
+  "id": 473604,
+  "title": "Na Prática - Planilha de Clínicas Médicas",
+  "position": 22,
+  "duration": 432,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b9d8e5d8-941a-4ca0-a47e-5d452fc67e31/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b9d8e5d8-941a-4ca0-a47e-5d452fc67e31/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b9d8e5d8-941a-4ca0-a47e-5d452fc67e31/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b9d8e5d8-941a-4ca0-a47e-5d452fc67e31/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b9d8e5d8-941a-4ca0-a47e-5d452fc67e31/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

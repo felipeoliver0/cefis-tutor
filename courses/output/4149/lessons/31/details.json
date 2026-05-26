@@ -1,0 +1,33 @@
+{
+  "id": 482684,
+  "title": "ASO demissional",
+  "position": 31,
+  "duration": 125,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6c6898ea-57cb-470c-9771-41c9f2759ed5/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c6898ea-57cb-470c-9771-41c9f2759ed5/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c6898ea-57cb-470c-9771-41c9f2759ed5/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c6898ea-57cb-470c-9771-41c9f2759ed5/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6c6898ea-57cb-470c-9771-41c9f2759ed5/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

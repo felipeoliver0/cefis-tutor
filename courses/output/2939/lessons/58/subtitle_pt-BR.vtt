@@ -1,0 +1,153 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.339
+Agora eu vou falar com vocês na sequência
+
+2
+00:00:02.349 --> 00:00:05.739
+de três eventos que eles conversam entre si.
+
+3
+00:00:05.750 --> 00:00:11.380
+O primeiro deles é o de alteração de dados cadastrais S vinte e dois zero cinco.
+
+4
+00:00:11.390 --> 00:00:14.289
+Também vou falar sobre o s vinte e dois zero meia
+
+5
+00:00:14.300 --> 00:00:18.120
+que é de de alteração de dados contratuais para empregá los,
+
+6
+00:00:18.860 --> 00:00:21.149
+e o S vinte e três zero, meia,
+
+7
+00:00:21.159 --> 00:00:24.319
+que é de alteração contratual para trabalhadores sem vínculo.
+
+8
+00:00:24.329 --> 00:00:27.450
+Então, vamos lá entender primeiro o conceito, né?
+
+9
+00:00:27.459 --> 00:00:30.110
+Qual ano sobre o s vinte e dois zero cinco?
+
+10
+00:00:30.120 --> 00:00:32.189
+Alteração de dados cadastrais O que que são
+
+11
+00:00:32.200 --> 00:00:35.849
+dados cadastrais são aqueles dados pessoais do trabalhador,
+
+12
+00:00:35.860 --> 00:00:39.950
+por exemplo, endereço estado civil, grau de instrução, né?
+
+13
+00:00:39.959 --> 00:00:43.930
+Então, toda vez que o trabalhador tiver alguma alteração,
+
+14
+00:00:44.009 --> 00:00:47.380
+então nessas informações nós temos que enviar o evento s.
+
+15
+00:00:47.389 --> 00:00:48.500
+Vinte e dois zero cinco.
+
+16
+00:00:48.509 --> 00:00:53.540
+Por isso que se vocês forem lembrar lá naqueles dez passos que eu passei pra vocês,
+
+17
+00:00:53.549 --> 00:00:58.220
+um deles era o de manter os dados sempre atualizados, né?
+
+18
+00:00:58.229 --> 00:01:00.520
+Pra cumprir com esses eventos aqui
+
+19
+00:01:01.240 --> 00:01:03.590
+agora só é importante destacar o seguinte
+
+20
+00:01:04.169 --> 00:01:08.980
+quando eu vou utilizar recebendo, quando de fato o meu trabalhador,
+
+21
+00:01:08.989 --> 00:01:11.120
+ele foi admitido de uma forma,
+
+22
+00:01:11.129 --> 00:01:16.839
+e depois ele alterou essa forma exemplo quando ele admitiu o João o João, ele é sol,
+
+23
+00:01:16.849 --> 00:01:20.940
+era solteiro, passaram-se quatro meses e o João casou.
+
+24
+00:01:20.949 --> 00:01:26.279
+Então. Nesse caso haverá uma alteração de dados cadastrais dele.
+
+25
+00:01:26.660 --> 00:01:30.029
+Agora, se quando eu admiti o João, ele já era casado,
+
+26
+00:01:30.040 --> 00:01:37.190
+mas eu Enel admiti o João como solteiro, então eu não vou enviar esse evento.
+
+27
+00:01:37.199 --> 00:01:39.199
+Por que? Porque não houve uma alteração?
+
+28
+00:01:39.209 --> 00:01:45.589
+Eu teria que enviar o evento original vinte e dois zero zero como retificação.
+
+29
+00:01:45.599 --> 00:01:50.690
+Por quê? Porque não houve uma alteração. Foi um erro, né? De quem enviou tá
+
+30
+00:01:51.349 --> 00:01:52.480
+para o evento s.
+
+31
+00:01:52.489 --> 00:01:58.839
+Vinte e dois zero Meia é da mesma forma, só que é quando altera dados contratuais,
+
+32
+00:01:58.849 --> 00:02:01.260
+por exemplo Ah, alterou o salário alterou o cargo.
+
+33
+00:02:01.269 --> 00:02:03.419
+Aí a gente vai NBA o s vinte e dois zero meia
+
+34
+00:02:04.110 --> 00:02:08.820
+e o vinte e dois zero meia. Ele é específico para trabalhadores empregados.
+
+35
+00:02:08.830 --> 00:02:13.160
+Com bicos empregat G. Oferece vinte e três zero meia.
+
+36
+00:02:13.169 --> 00:02:16.119
+Ele é específico para trabalhadores sem bico, entrega.
+
+37
+00:02:16.130 --> 00:02:20.199
+E agora eu vou mostrar pra vocês o melhor que é na parte prática.
+
+38
+00:02:20.210 --> 00:02:24.100
+Como fazer o envio desses eventos, né? Então, vamos lá

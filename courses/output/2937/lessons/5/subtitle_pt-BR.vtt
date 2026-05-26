@@ -1,0 +1,549 @@
+WEBVTT
+
+1
+00:00:00.159 --> 00:00:02.430
+agora, pessoal. Vamos falar de emissão em contingência.
+
+2
+00:00:02.440 --> 00:00:06.719
+A contingência do aplicativo Ela funciona da maneira da contingência offline,
+
+3
+00:00:06.730 --> 00:00:10.569
+por exemplo, que usa a nota fiscal do consumidor eletrônica,
+
+4
+00:00:10.579 --> 00:00:11.569
+que usa o bilhete de passagem.
+
+5
+00:00:11.579 --> 00:00:14.750
+Eletrônico, né? A nota fiscal de energia elétrica também
+
+6
+00:00:15.170 --> 00:00:17.760
+aquela contingência que o contribuinte gera o documento
+
+7
+00:00:17.770 --> 00:00:19.629
+e não transmite pro site do Fisco,
+
+8
+00:00:19.639 --> 00:00:22.700
+né, Fica aguardando ali na internet e voltar quando a internet retorna,
+
+9
+00:00:22.709 --> 00:00:26.180
+Ele transmite esse documento que foi emitido em contingência, né?
+
+10
+00:00:26.190 --> 00:00:29.239
+Então, a gente chama isso de contingência, off, li tá,
+
+11
+00:00:29.250 --> 00:00:32.500
+esse é o modelo de contingência, aqui do nota fiscal, fácil.
+
+12
+00:00:32.509 --> 00:00:35.080
+Mas tem umas travas aqui no nota fiscal fácil pra
+
+13
+00:00:35.090 --> 00:00:39.659
+impedir que o contribuinte fique utilizando emissão de contingência né,
+
+14
+00:00:39.669 --> 00:00:43.659
+sem, sem doar aqui por um período muito longo de tempo, né?
+
+15
+00:00:43.669 --> 00:00:44.880
+Então, vamos lá,
+
+16
+00:00:45.569 --> 00:00:48.560
+primeira regra da missão em contingência para a nota fiscal fácil.
+
+17
+00:00:49.959 --> 00:00:52.389
+Ele pode emitir documentos em contingências,
+
+18
+00:00:52.400 --> 00:00:54.569
+mas um documento emitido a mais de cento e
+
+19
+00:00:54.580 --> 00:00:57.150
+sessenta e oito horas trava a emissão em contingência,
+
+20
+00:00:57.159 --> 00:00:59.209
+ou seja cento e sessenta e oito horas.
+
+21
+00:00:59.220 --> 00:01:00.189
+São sete dias.
+
+22
+00:01:00.200 --> 00:01:03.189
+Então, se ele emitiu hoje duas horas da tarde,
+
+23
+00:01:03.200 --> 00:01:07.169
+até duas horas da tarde do sétimo dia subsequente tá,
+
+24
+00:01:07.180 --> 00:01:10.290
+então por isso que é horas não é dia, então são cento e sessenta e oito horas,
+
+25
+00:01:10.300 --> 00:01:13.269
+o que dá sete dias considerando a hora da emissão.
+
+26
+00:01:13.739 --> 00:01:14.389
+Então,
+
+27
+00:01:14.400 --> 00:01:16.470
+no primeiro documento que fizer cento e
+
+28
+00:01:16.480 --> 00:01:18.959
+sessenta e oito horas emitido em contingência ele
+
+29
+00:01:18.970 --> 00:01:20.819
+para e não deixa emitir mais nenhum
+
+30
+00:01:20.830 --> 00:01:23.870
+documento até que esse documento seja descarregado,
+
+31
+00:01:23.879 --> 00:01:25.389
+seja transmitido pelo site do FIS.
+
+32
+00:01:25.400 --> 00:01:25.970
+Tá bom,
+
+33
+00:01:25.980 --> 00:01:30.349
+então um documento emitido com cento e sessenta e oito horas interrompe
+
+34
+00:01:30.360 --> 00:01:33.510
+o processo de contingência entrave e o contribuinte não consegue emitir mais?
+
+35
+00:01:33.519 --> 00:01:34.129
+Tá bom?
+
+36
+00:01:34.989 --> 00:01:35.000
+Eh?
+
+37
+00:01:35.010 --> 00:01:39.839
+Vamos falar agora de outra Outra limitação
+
+38
+00:01:39.849 --> 00:01:43.279
+da emissão em contingência tá cinquenta emissões não
+
+39
+00:01:43.290 --> 00:01:46.519
+transmitidas para o varejo e dez emissões
+
+40
+00:01:46.529 --> 00:01:49.559
+não transmitidas para TAC e produtor rural.
+
+41
+00:01:49.569 --> 00:01:51.199
+Então, o TAC, o produtor rural,
+
+42
+00:01:51.209 --> 00:01:54.680
+eles podem fazer até dez operações sem fazer a transmissão.
+
+43
+00:01:54.690 --> 00:01:57.559
+Digamos que o produtor rural ele recebeu um cliente lá
+
+44
+00:01:57.569 --> 00:02:00.279
+na propriedade rural e lá não tem sinal de internet,
+
+45
+00:02:00.290 --> 00:02:00.660
+né?
+
+46
+00:02:00.669 --> 00:02:02.540
+Mas ele vai fazer a venda, digamos, ali, do
+
+47
+00:02:02.930 --> 00:02:08.220
+um ovo de galinha no hor de frutícolas que ele colheu.
+
+48
+00:02:08.229 --> 00:02:12.860
+Ele pode fazer até dez operações de venda lá, emitindo nota fiscal fácil,
+
+49
+00:02:12.869 --> 00:02:16.740
+sem fazer a transmissão da nota pra pra portal ao lado.
+
+50
+00:02:16.750 --> 00:02:18.660
+A nota fiscal fácil tá então,
+
+51
+00:02:18.669 --> 00:02:24.860
+até dez operações para TAC e produtor rural e até cinquenta operações para o varejo.
+
+52
+00:02:24.869 --> 00:02:28.639
+O varejo? Ele tem uma característica mais intensa de comercialização, né?
+
+53
+00:02:28.899 --> 00:02:33.710
+Então eh, a gente espera que o varejo tenha mais volume de vendas, né?
+
+54
+00:02:33.720 --> 00:02:36.500
+Então por esse motivo o varejo ele pode
+
+55
+00:02:36.509 --> 00:02:39.949
+emitir mais operações em contingência pra depois?
+
+56
+00:02:39.960 --> 00:02:43.210
+Então, fazer essa transmissão desses documentos? Tá bom!
+
+57
+00:02:43.220 --> 00:02:47.509
+Essa é uma outra limitação pra emissão de contingência do nota fiscal. Faço agora.
+
+58
+00:02:47.520 --> 00:02:51.449
+Vamos para a terceira limitação, que é a limitação de valores. Tá
+
+59
+00:02:51.949 --> 00:02:57.339
+todas essas limitações aqui acontecer. Primeiro emite. Para de emitir, né?
+
+60
+00:02:57.350 --> 00:03:02.179
+Então, por exemplo, se tem cinquenta emissões pro varejo, se teve uma, emitiu,
+
+61
+00:03:02.190 --> 00:03:02.919
+cinco só.
+
+62
+00:03:02.929 --> 00:03:07.380
+Não foi cinquenta só cinco. Mas em uma delas tem mais de cento e sessenta e oito horas.
+
+63
+00:03:07.389 --> 00:03:09.339
+A contingência para né?
+
+64
+00:03:09.669 --> 00:03:13.279
+Então é que no valor funciona da seguinte maneira tá,
+
+65
+00:03:13.289 --> 00:03:15.779
+então pro varejo é até quinze mil reais.
+
+66
+00:03:15.789 --> 00:03:18.039
+Porque o varejo, pro contribuinte,
+
+67
+00:03:18.050 --> 00:03:21.360
+do nota fiscal fácil são operações de volume financeiro.
+
+68
+00:03:21.369 --> 00:03:23.520
+Melhor né? O varejo de menor porte.
+
+69
+00:03:23.529 --> 00:03:27.259
+Então ele tem até quinze mil reais de venda pra fazer
+
+70
+00:03:27.559 --> 00:03:29.389
+em contingência. Tá?
+
+71
+00:03:29.399 --> 00:03:34.449
+Mas se vamos dizer que ele fez uma venda de dez mil e a segunda de cinco mil,
+
+72
+00:03:34.460 --> 00:03:35.240
+aí já estourou.
+
+73
+00:03:35.250 --> 00:03:39.889
+O limite tá, não tem c sessenta e oito horas, não emitiu cinquenta documentos,
+
+74
+00:03:39.899 --> 00:03:40.850
+Foram só dois.
+
+75
+00:03:40.860 --> 00:03:46.210
+Mas como ele atingiu o limite do valor, a emissão em contingência é suspensa,
+
+76
+00:03:46.220 --> 00:03:49.130
+aí vai ter que fazer a transmissão desses arquivos pra depois,
+
+77
+00:03:49.139 --> 00:03:52.949
+então ele fazer uma nova emissão Tá bom,
+
+78
+00:03:53.350 --> 00:03:59.839
+Então, o valor do varejo? Quinze mil né? O valor do tac e do produtor rural também.
+
+79
+00:03:59.850 --> 00:04:02.160
+São valores diferentes. O do TAC é trinta mil, né?
+
+80
+00:04:02.169 --> 00:04:06.839
+Operações de frete Elas tem um valor mais caro do que a operação do varejo, né?
+
+81
+00:04:06.850 --> 00:04:07.399
+Então,
+
+82
+00:04:07.410 --> 00:04:10.339
+o frete é um valor um pouco mais elevado e
+
+83
+00:04:10.350 --> 00:04:13.240
+transações de produtor rural também podem ter valor muito elevado,
+
+84
+00:04:13.250 --> 00:04:13.270
+né?
+
+85
+00:04:13.279 --> 00:04:18.575
+Se ele transacionar, por exemplo, os remove, né? Que são animais tipo boi, gado, né?
+
+86
+00:04:18.584 --> 00:04:20.755
+O gado ele tem um valor agregado muito caro.
+
+87
+00:04:20.765 --> 00:04:24.316
+Então, se a gente colocasse um limite muito baixo pro produtor rural,
+
+88
+00:04:24.325 --> 00:04:28.075
+às vezes inabilita de fazer duas ou três operações.
+
+89
+00:04:28.085 --> 00:04:29.865
+Já estaria ali no limite.
+
+90
+00:04:29.876 --> 00:04:33.635
+Então, o produtor rural tem uma uma margem maior de valor,
+
+91
+00:04:33.645 --> 00:04:36.351
+porque a gente a gente são operações, né?
+
+92
+00:04:36.361 --> 00:04:40.071
+Podem ser operações que tem o maior valor ali de operação.
+
+93
+00:04:40.082 --> 00:04:42.772
+Tá o TAC na mesma sistemática, né?
+
+94
+00:04:42.782 --> 00:04:46.511
+A gente vê que o frete, por exemplo, o frete que sai do estádio e vai pro outro, né,
+
+95
+00:04:46.522 --> 00:04:47.911
+é um frete um pouco caro, né?
+
+96
+00:04:47.921 --> 00:04:51.712
+Então precisa ter um valor um pouco maior e pro varejo, né?
+
+97
+00:04:51.721 --> 00:04:55.391
+A gente imagina um limite menor, que são operações de menor moto financeira? Tá?
+
+98
+00:04:55.402 --> 00:04:59.932
+Esses limites pessoal são para a emissão em contingência, tá
+
+99
+00:05:00.510 --> 00:05:04.820
+limite de permissão e contingência, tá, não são limites de operações?
+
+100
+00:05:04.829 --> 00:05:07.160
+Eh geral do do sistema.
+
+101
+00:05:07.170 --> 00:05:10.540
+Então, se ele tiver ali na operação normal dele,
+
+102
+00:05:10.549 --> 00:05:13.619
+ele vai estar no limite ali do seu regime de tributação, né?
+
+103
+00:05:13.630 --> 00:05:17.029
+Às vezes o regime de tributação oferece pra ele o faturamento x.
+
+104
+00:05:17.040 --> 00:05:19.000
+Ele vai tá lá até no faturamento, tá?
+
+105
+00:05:19.010 --> 00:05:23.390
+O limite geral das operações fica por conta de cada estado estabelecer.
+
+106
+00:05:23.399 --> 00:05:27.920
+A gente não tem notícia de algum estado que colocou algum ainda.
+
+107
+00:05:27.929 --> 00:05:28.720
+Tá no começo ainda,
+
+108
+00:05:28.730 --> 00:05:32.160
+a gente tá avaliando como os contribuintes vão utilizar a ferramenta,
+
+109
+00:05:32.170 --> 00:05:34.000
+Tá esses limites.
+
+110
+00:05:34.010 --> 00:05:37.679
+Que valores que eu falei pra vocês limites são da emissão, em contingência,
+
+111
+00:05:37.690 --> 00:05:42.279
+tá os outros limites, a gente vai emitindo aí e eh oportunamente, né?
+
+112
+00:05:42.290 --> 00:05:46.119
+Se houver necessidade, os estados podem agir. E pode regular, aí, emissão, né?
+
+113
+00:05:46.130 --> 00:05:49.399
+Pode passar o contribuinte dessa ferramenta ali pra emissão,
+
+114
+00:05:49.410 --> 00:05:51.940
+uma ferramenta própria, ou outro sistemático de emissão, né?
+
+115
+00:05:51.950 --> 00:05:54.019
+Conforme for o caso. Mas atualmente
+
+116
+00:05:54.290 --> 00:05:58.040
+esses limites estão livres. Mas, é claro, o Estado ele pode, né?
+
+117
+00:05:58.049 --> 00:06:00.380
+EH regular isso com, por exemplo, malhas fiscais.
+
+118
+00:06:00.390 --> 00:06:02.549
+Quanto o Estado pode fazer uma malha fiscal falar olha,
+
+119
+00:06:02.559 --> 00:06:03.859
+eu vou deixar o contribuinte faturar.
+
+120
+00:06:03.869 --> 00:06:07.519
+Sei lá, Trezentos mil na nota fiscal fácil, quando ele sair desse trezentos mil,
+
+121
+00:06:07.779 --> 00:06:10.329
+ele vai ter que emitir uma outra ferramenta.
+
+122
+00:06:10.339 --> 00:06:14.070
+O Estado pode fazer isso porque o regime nota fiscal fácil,
+
+123
+00:06:14.079 --> 00:06:17.470
+o Estado pode permitir que o contribuinte utilize, ou não, né,
+
+124
+00:06:17.480 --> 00:06:20.570
+mediante o que mediante regras do próprio estado, né?
+
+125
+00:06:20.579 --> 00:06:21.630
+Tem estado, por exemplo,
+
+126
+00:06:21.640 --> 00:06:25.260
+que não vai deixar o produtor rural fazer operação com gado no nota fiscal fácil,
+
+127
+00:06:25.269 --> 00:06:28.269
+porque entende que o gado tem um controle sanitário lá,
+
+128
+00:06:28.279 --> 00:06:29.989
+que é a guia de transporte animal.
+
+129
+00:06:30.000 --> 00:06:32.404
+E esse controle sanitário tá precisa ser verificado.
+
+130
+00:06:32.415 --> 00:06:34.404
+E não tem jeito de fazer isso nessa plataforma, né?
+
+131
+00:06:34.415 --> 00:06:38.385
+Então, o Estado ele vai decidir qual contribuinte utiliza o sistema.
+
+132
+00:06:38.394 --> 00:06:40.524
+Qual produto o contribuinte pode utilizar, né?
+
+133
+00:06:40.535 --> 00:06:44.325
+Na versão de produtor rural e os valores limites aí nessas operações,
+
+134
+00:06:44.334 --> 00:06:46.765
+especialmente no varejo de produtor rural, né?
+
+135
+00:06:46.774 --> 00:06:49.804
+O Estado ele. A ferramenta é pra contribuinte de menor porte.
+
+136
+00:06:49.815 --> 00:06:49.934
+Então,
+
+137
+00:06:49.945 --> 00:06:54.385
+não espero que o contribuinte de cortes maiores estejam utilizando a ferramenta.

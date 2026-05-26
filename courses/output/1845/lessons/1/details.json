@@ -1,0 +1,33 @@
+{
+  "id": 457819,
+  "title": "Introdução",
+  "position": 1,
+  "duration": 63,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bacf890d-8336-4b3b-a3cc-020b5c656531/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bacf890d-8336-4b3b-a3cc-020b5c656531/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bacf890d-8336-4b3b-a3cc-020b5c656531/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bacf890d-8336-4b3b-a3cc-020b5c656531/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bacf890d-8336-4b3b-a3cc-020b5c656531/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

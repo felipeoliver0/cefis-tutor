@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1888,
+    "title": "Aspectos legais da discriminação nas relações laborais",
+    "subtitle": "curso prático",
+    "summary": "Neste curso de discriminação e assédio nas relações de trabalho você aprenderá, por meio de vários exemplos, toda as as regras relativas às condutas antidiscriminatórias nas relações trabalhistas. Dentre os tópicos apresentados, você entenderá sobre a exigência do certificado de vacinação, revista íntima, metas de produtividade, assédio sexual, assédio moral, práticas lícitas na seleção de emprego, anúncios ilícitos de emprego, medidas de compliance, consequências para empresas que discriminam ou assediam seus colaboradores e muitos outros pontos importantes para que você aplique seu aprendizado não só no ambiente de trabalho, mas a nível de carreira profissional e vida pessoal, no exercício de seus direitos e deveres como cidadão.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/e355c767-c579-4b60-8b6e-c64c6572a975-thumbnail.png",
+    "goals": [
+      "Apresentar,  por meio de vários exemplos, toda as as regras relativas às condutas antidiscriminatórias nas relações trabalhistas."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 7210,
+    "keywords": "assedio;trabalhista;Departamento Pessoal;Recursos Humanos;RH",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 21,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 901,
+    "averageRating": 9.42,
+    "practiceAverage": 9.36,
+    "trailer": {
+      "id": "417428e1-841e-4bc0-aa4b-2bb64c1880f1",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/417428e1-841e-4bc0-aa4b-2bb64c1880f1/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/417428e1-841e-4bc0-aa4b-2bb64c1880f1/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/417428e1-841e-4bc0-aa4b-2bb64c1880f1/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/417428e1-841e-4bc0-aa4b-2bb64c1880f1/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-12-17T16:19:41.000Z",
+      "updatedAt": "2021-12-17T17:19:41.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-12-20T17:35:48.000Z",
+    "recordedAt": "2021-12-02T00:00:00.000Z",
+    "createdAt": "2021-12-02T17:03:42.000Z"
+  }
+}

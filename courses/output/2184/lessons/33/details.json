@@ -1,0 +1,33 @@
+{
+  "id": 463665,
+  "title": "Substituição tributária - Parte 2",
+  "position": 33,
+  "duration": 511,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/22b7d40c-07d2-4c15-966e-ff435749421c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/22b7d40c-07d2-4c15-966e-ff435749421c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/22b7d40c-07d2-4c15-966e-ff435749421c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/22b7d40c-07d2-4c15-966e-ff435749421c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/22b7d40c-07d2-4c15-966e-ff435749421c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

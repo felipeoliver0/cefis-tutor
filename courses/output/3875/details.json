@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3875,
+    "title": "Aduana Brasileira e o Combate a Ilícitos Aduaneiros: Guardiã das Fronteiras",
+    "subtitle": "Explorando a Legislação, Criminologia e Tecnologia na Defesa Econômica e Social do Brasil",
+    "summary": "Este curso oferece uma visão abrangente do papel essencial da Aduana Brasileira no controle de mercadorias e combate a ilícitos aduaneiros, incluindo contrabando e descaminho. Ele integra conceitos fundamentais da legislação aduaneira, ferramentas econômicas e criminologia, com uma abordagem que privilegia o entendimento das infrações mais comuns e o impacto social e econômico desses crimes. Os participantes aprenderão sobre a estrutura e a evolução da aduana no Brasil, os tipos mais comuns de mercadorias envolvidas em ilícitos, mecanismos de combate, e o papel das tecnologias emergentes e da cooperação internacional na proteção das fronteiras nacionais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/d97c20f3-5c88-4716-b6de-8951834f317e-thumbnail.png",
+    "goals": [
+      "Capacitar os participantes com conhecimentos e ferramentas para compreender a importância da aduana na proteção econômica e social do Brasil, e explorar as estratégias eficazes no combate aos ilícitos aduaneiros."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 8718,
+    "keywords": "aduana;contrabando;descaminho;fiscalização;fronteiras",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 39,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 36,
+    "averageRating": 9.64,
+    "practiceAverage": 9.25,
+    "trailer": {
+      "id": "ed1f8aa1-0585-485b-a8dd-ce7c34b09bef",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ed1f8aa1-0585-485b-a8dd-ce7c34b09bef/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ed1f8aa1-0585-485b-a8dd-ce7c34b09bef/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ed1f8aa1-0585-485b-a8dd-ce7c34b09bef/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/ed1f8aa1-0585-485b-a8dd-ce7c34b09bef/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-07-31T13:07:21.000Z",
+      "updatedAt": "2025-07-31T13:07:21.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-07-31T13:08:08.000Z",
+    "recordedAt": "2025-07-15T00:00:00.000Z",
+    "createdAt": "2025-07-15T05:20:06.000Z"
+  }
+}

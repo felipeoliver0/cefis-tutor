@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2594,
+    "title": "[Podcast] Reforma Tributária",
+    "subtitle": "PodCast",
+    "summary": "Neste podcast o professor Antônio Carlos Godoi fala sobre reforma tributária. Este tema central da política econômica do governo federal que iniciou no ano de 2023, cuja implementação se dará em duas etapas. A primeira etapa é a que tem como foco os tributos sobre o consumo de bens e serviços. Esses tributos são IPI, PIS, COFINS, ICMS e ISS - assunto central deste podcast.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b2048f17e34333b431ce08cfe47c39671728385985.jpg",
+    "goals": [
+      "Neste podcast o professor Antônio Carlos Godoi fala sobre reforma tributária. Este tema central da política econômica do governo federal que iniciou no ano de 2023, cuja implementação se dará em duas etapas. A primeira etapa é a que tem como foco os tributos sobre o consumo de bens e serviços. Esses tributos são IPI, PIS, COFINS, ICMS e ISS - assunto central deste podcast."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 874,
+    "keywords": "reforma tributária;reforma;tributária",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 1007,
+    "averageRating": 9.21,
+    "practiceAverage": 9.2,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-07-04T17:39:01.000Z",
+    "recordedAt": "2023-06-01T00:00:00.000Z",
+    "createdAt": "2023-06-07T19:13:10.000Z"
+  }
+}

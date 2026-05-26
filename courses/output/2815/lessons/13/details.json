@@ -1,0 +1,33 @@
+{
+  "id": 470137,
+  "title": "Transparência salarial",
+  "position": 13,
+  "duration": 367,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cd524884-1f25-4ae3-b822-98a5a54f84f0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd524884-1f25-4ae3-b822-98a5a54f84f0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd524884-1f25-4ae3-b822-98a5a54f84f0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd524884-1f25-4ae3-b822-98a5a54f84f0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd524884-1f25-4ae3-b822-98a5a54f84f0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

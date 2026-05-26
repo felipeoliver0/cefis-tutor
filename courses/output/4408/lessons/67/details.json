@@ -1,0 +1,33 @@
+{
+  "id": 486233,
+  "title": "Exemplo de DRE",
+  "position": 67,
+  "duration": 251,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/8d2cca40-fde6-4bf4-a329-48e611619266/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d2cca40-fde6-4bf4-a329-48e611619266/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d2cca40-fde6-4bf4-a329-48e611619266/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d2cca40-fde6-4bf4-a329-48e611619266/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8d2cca40-fde6-4bf4-a329-48e611619266/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

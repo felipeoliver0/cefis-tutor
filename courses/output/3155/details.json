@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3155,
+    "title": "Planejamento Financeiro",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso de planejamento financeiro (orçamento empresarial) você vai aprender técnicas e ferramentas práticas que permitam você administrar financeiramente uma empresa, cuidar do seu capital de giro, realizar o orçamento de um ano ou o planejamento de longo prazo, tendo em vista as melhores práticas de finanças. Os conhecimentos adquiridos no curso podem ser aplicados a empresas, áreas/departamentos ou projetos independentes.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/9ce3c1ff3750f7361450eb0147723bdd1728385914.jpg",
+    "goals": [
+      "Ser capaz de realizar o procedimento de preparação do Orçamento e das Análise das variações orçamentárias. Compreender a relação entre planejamento, orçamento e controle como ferramenta gerencial. Entender o panorama atual do processo de planejamento e orçamento no Brasil e no mundo. Identificar os principais tipos de processos orçamentários, suas aplicações e vantagens. Elaborar o orçamento com excelência: planos operacionais (vendas, compras, RH, produção etc.) e orçamento financeiro (demonstrações financeiras).Realizar o processo de controle orçamentário e compreender sua importância para a empresa como elemento retroalimentador do processo. Analisar os pontos estratégicos do planejamento financeiro: capital de giro, CAPEX e pontos de equilíbrio. Entender os principais problemas e tendências dos processos orçamentários."
+    ],
+    "teacher": {
+      "id": 355295,
+      "name": "TIAGO DE VASCONCELOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/869486d17f542c6dcf05d8d289ab9ed11550593587.jpg"
+    },
+    "duration": 21529,
+    "keywords": "planejamento financeiro;planejamento;financeiro;orçamento;empresarial",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 119,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 938,
+    "averageRating": 8.86,
+    "practiceAverage": 8.67,
+    "trailer": {
+      "id": "9d45b06a-386b-4a98-b882-12f6f6ed87d1",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9d45b06a-386b-4a98-b882-12f6f6ed87d1/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9d45b06a-386b-4a98-b882-12f6f6ed87d1/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9d45b06a-386b-4a98-b882-12f6f6ed87d1/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/9d45b06a-386b-4a98-b882-12f6f6ed87d1/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-06-23T09:06:20.000Z",
+      "updatedAt": "2024-06-23T09:06:19.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-07-05T15:21:57.000Z",
+    "recordedAt": "2024-04-30T00:00:00.000Z",
+    "createdAt": "2024-05-13T14:31:39.000Z"
+  }
+}

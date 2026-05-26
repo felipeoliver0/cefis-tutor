@@ -1,0 +1,33 @@
+{
+  "id": 480694,
+  "title": "Suspensão prematura do benefício",
+  "position": 8,
+  "duration": 111,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/eb3855af-8a33-4ecf-b670-7c56b06e275c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eb3855af-8a33-4ecf-b670-7c56b06e275c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eb3855af-8a33-4ecf-b670-7c56b06e275c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eb3855af-8a33-4ecf-b670-7c56b06e275c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/eb3855af-8a33-4ecf-b670-7c56b06e275c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 453353,
+  "title": "Requisitos contratuais",
+  "position": 16,
+  "duration": 122,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dad1d462-d7d3-4d98-9ed6-c2997c0258c2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dad1d462-d7d3-4d98-9ed6-c2997c0258c2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dad1d462-d7d3-4d98-9ed6-c2997c0258c2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dad1d462-d7d3-4d98-9ed6-c2997c0258c2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dad1d462-d7d3-4d98-9ed6-c2997c0258c2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

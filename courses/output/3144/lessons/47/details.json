@@ -1,0 +1,33 @@
+{
+  "id": 475549,
+  "title": "Despesas operacionais - parte 2",
+  "position": 47,
+  "duration": 621,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/70a6995e-b036-4e7e-ad6e-e3a2ddf129d6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/70a6995e-b036-4e7e-ad6e-e3a2ddf129d6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/70a6995e-b036-4e7e-ad6e-e3a2ddf129d6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/70a6995e-b036-4e7e-ad6e-e3a2ddf129d6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/70a6995e-b036-4e7e-ad6e-e3a2ddf129d6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

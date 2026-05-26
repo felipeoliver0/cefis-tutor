@@ -1,0 +1,33 @@
+{
+  "id": 476170,
+  "title": "Integração do catálogo de produtos com a DUIMP",
+  "position": 49,
+  "duration": 272,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cd754cb8-86d2-4b2d-8c00-1c12d8642ba9/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd754cb8-86d2-4b2d-8c00-1c12d8642ba9/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd754cb8-86d2-4b2d-8c00-1c12d8642ba9/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd754cb8-86d2-4b2d-8c00-1c12d8642ba9/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cd754cb8-86d2-4b2d-8c00-1c12d8642ba9/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2308,
+    "title": "Acordos de Complementação Econômica",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso você compreenderá os conceitos fundamentais relacionados ao Valor Aduaneiro; bem como as regras de Valoração Aduaneira e os diferentes métodos aplicáveis, assim como o detalhamento de condições para enquadramento e utilização de cada um dos métodos para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/22268ab0784a3e063d74018ac652e0631728427889.jpg",
+    "goals": [
+      "Promover uma análise técnica quanto aos fundamentos, principais conceitos, critérios, e pontos de atenção quanto aos métodos de Valoração Aduaneira na Importação com base na legislação aduaneira vigente."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 1465,
+    "keywords": "complementação economica;complementação;acordo;acordos",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 18,
+    "averageRating": 9.06,
+    "practiceAverage": 9.2,
+    "trailer": {
+      "id": "df6a02ce-e9ce-4975-a634-f477b2d01d06",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/df6a02ce-e9ce-4975-a634-f477b2d01d06/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/df6a02ce-e9ce-4975-a634-f477b2d01d06/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/df6a02ce-e9ce-4975-a634-f477b2d01d06/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/df6a02ce-e9ce-4975-a634-f477b2d01d06/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-10-20T13:01:36.000Z",
+      "updatedAt": "2022-10-20T13:01:36.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-11-02T17:01:03.000Z",
+    "recordedAt": "2022-10-14T00:00:00.000Z",
+    "createdAt": "2022-10-14T19:59:34.000Z"
+  }
+}

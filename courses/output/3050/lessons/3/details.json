@@ -1,0 +1,33 @@
+{
+  "id": 473564,
+  "title": "O que vamos aprender?",
+  "position": 3,
+  "duration": 342,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/32dad031-d786-4fe4-9059-fa2e3ee0cebc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/32dad031-d786-4fe4-9059-fa2e3ee0cebc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/32dad031-d786-4fe4-9059-fa2e3ee0cebc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/32dad031-d786-4fe4-9059-fa2e3ee0cebc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/32dad031-d786-4fe4-9059-fa2e3ee0cebc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

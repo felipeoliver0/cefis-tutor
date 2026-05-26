@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2046,
+    "title": "ICMS Substituição Tributária (ICMS ST)",
+    "subtitle": "Como calcular na prática o ICMS ST",
+    "summary": "Neste curso prático de ICMS Substituição Tributária, você aprenderá os principais conceitos e regras aplicáveis ao cálculo do ICMS ST. Abordaremos as normas legais cabíveis, os tipos e conceitos de substituição tributária, os contribuintes sujeitos, os critérios para o enquadramento das mercadorias a esse regime, as formas de presunção da base de cálculo com ênfase na aplicação da Margem de Valor Agregado (MVA), a aplicação da MVA Original ou Ajustada (cálculo prático), os elementos que compõem a base de cálculo e, por fim, o cálculo prático da substituição tributária no contexto das operações internas e interestaduais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/9d5dfb0bfa4e8f9e1c05b0e5e35b0d7e1728428028.jpg",
+    "goals": [
+      "Demonstrar as regras e os conceitos relacionados à substituição tributária do ICMS, cuja compreensão, são imprescindíveis para o correto cálculo do ICMS Substituição Tributária."
+    ],
+    "teacher": {
+      "id": 571177,
+      "name": "Wellington Santos",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1651070560.jpeg"
+    },
+    "duration": 4764,
+    "keywords": "icms;icms st;substituição tributária",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 21,
+    "materialCount": 4,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 4304,
+    "averageRating": 9.38,
+    "practiceAverage": 9.34,
+    "trailer": {
+      "id": "83a2f4f9-cb84-4c59-a4ad-85425257e61f",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/83a2f4f9-cb84-4c59-a4ad-85425257e61f/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/83a2f4f9-cb84-4c59-a4ad-85425257e61f/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/83a2f4f9-cb84-4c59-a4ad-85425257e61f/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/83a2f4f9-cb84-4c59-a4ad-85425257e61f/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-05-03T16:20:39.000Z",
+      "updatedAt": "2022-05-03T16:20:38.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 3,
+    "launchDate": "2022-05-04T11:45:35.000Z",
+    "recordedAt": "2022-04-25T00:00:00.000Z",
+    "createdAt": "2022-04-27T09:32:52.000Z"
+  }
+}

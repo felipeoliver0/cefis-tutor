@@ -1,0 +1,33 @@
+{
+  "id": 462215,
+  "title": "Benefícios do Programa de Integridade e a Prestação de Contas",
+  "position": 15,
+  "duration": 279,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/479aec8b-9ab7-4910-afcc-3e2cf3ed78ab/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/479aec8b-9ab7-4910-afcc-3e2cf3ed78ab/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/479aec8b-9ab7-4910-afcc-3e2cf3ed78ab/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/479aec8b-9ab7-4910-afcc-3e2cf3ed78ab/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/479aec8b-9ab7-4910-afcc-3e2cf3ed78ab/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

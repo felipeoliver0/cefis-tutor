@@ -1,0 +1,33 @@
+{
+  "id": 471217,
+  "title": "Fatores criticos de sucesso Operacionais",
+  "position": 18,
+  "duration": 101,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/45408234-644c-4c53-9499-15f5dce50371/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/45408234-644c-4c53-9499-15f5dce50371/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/45408234-644c-4c53-9499-15f5dce50371/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/45408234-644c-4c53-9499-15f5dce50371/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/45408234-644c-4c53-9499-15f5dce50371/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

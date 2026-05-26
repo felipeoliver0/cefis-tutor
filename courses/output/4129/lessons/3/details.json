@@ -1,0 +1,33 @@
+{
+  "id": 482955,
+  "title": "Organização",
+  "position": 4,
+  "duration": 384,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/83fbe864-6286-4b4b-bd83-3443602b87ef/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/83fbe864-6286-4b4b-bd83-3443602b87ef/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/83fbe864-6286-4b4b-bd83-3443602b87ef/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/83fbe864-6286-4b4b-bd83-3443602b87ef/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/83fbe864-6286-4b4b-bd83-3443602b87ef/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

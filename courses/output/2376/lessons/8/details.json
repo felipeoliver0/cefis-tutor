@@ -1,0 +1,33 @@
+{
+  "id": 465125,
+  "title": "Análise",
+  "position": 8,
+  "duration": 531,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e2aad085-c7db-4576-9dc8-1e6cbeae3d70/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2aad085-c7db-4576-9dc8-1e6cbeae3d70/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2aad085-c7db-4576-9dc8-1e6cbeae3d70/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2aad085-c7db-4576-9dc8-1e6cbeae3d70/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e2aad085-c7db-4576-9dc8-1e6cbeae3d70/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4462,
+    "title": "NFS padrão",
+    "subtitle": "curso prático",
+    "summary": "Neste curso NFS padrão, você irá aprender na prática tudo o que precisa saber sobre o sistema de NFS-e nacional. Aprenderá os fundamentos e a prática da convivência e apuração assistida, da arquitetura da plataforma NFS-e Nacional e do cenário de uso dos emissores nacionais, além de outros temas para você que deseja se atualizar ou aprender tudo sobre o NFS padrão.",
+    "banner": "https://s3.cefis.cloud/cefiscdn/uploads-v3/78decfb2-d604-4f8c-be33-c423ebef34e5-thumbnail.png",
+    "goals": [
+      "O objetivo do curso NFS padrão: curso prático é a capacitação para a aplicação prática da NFS-e nacional, desde seu histórico até a arquitetura da plataforma NFS-e Nacional, passando pela obrigatoriedade, sanções e conformidade, além de apresentar os benefícios e desafios da implementação."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 4059,
+    "keywords": "nfse;padrão",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 21,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      2,
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 271,
+    "averageRating": 9.3,
+    "practiceAverage": 9.19,
+    "trailer": {
+      "id": "62823d10-ab02-4e45-a2c2-c62a9da51be6",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/62823d10-ab02-4e45-a2c2-c62a9da51be6/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/62823d10-ab02-4e45-a2c2-c62a9da51be6/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/62823d10-ab02-4e45-a2c2-c62a9da51be6/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/62823d10-ab02-4e45-a2c2-c62a9da51be6/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-31T17:36:05.000Z",
+      "updatedAt": "2026-03-31T17:36:05.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-31T18:50:08.000Z",
+    "recordedAt": "2026-03-26T00:00:00.000Z",
+    "createdAt": "2026-03-25T15:32:16.000Z"
+  }
+}

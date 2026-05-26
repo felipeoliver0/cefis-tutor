@@ -1,0 +1,657 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.220
+pessoal. Consulta no portal local.
+
+2
+00:00:02.230 --> 00:00:04.619
+Então, o que que a gente vai consultar no portal local?
+
+3
+00:00:04.630 --> 00:00:09.100
+Nota fiscal do Consumidor Eletrônico Modelo Meia cinco da nota do consumidor Tá,
+
+4
+00:00:09.109 --> 00:00:13.479
+a gente consulta no portal local porque não tem ela no Portal Nacional.
+
+5
+00:00:13.489 --> 00:00:14.880
+Ela só tem no portal local.
+
+6
+00:00:14.890 --> 00:00:16.860
+Os estados não compartilham a nota fiscal
+
+7
+00:00:16.870 --> 00:00:19.260
+do consumidor eletrônico com a Receita Federal.
+
+8
+00:00:19.270 --> 00:00:21.190
+Então, a receita não tem essa nota.
+
+9
+00:00:21.200 --> 00:00:24.819
+Não tem jeito de fazer o portal nacional, como é feito ali na nota fiscal eletrônico.
+
+10
+00:00:24.829 --> 00:00:28.159
+Então, nota Fiscal do Consumidor somente no portal local Tá,
+
+11
+00:00:28.170 --> 00:00:29.760
+Tem algumas situações também!
+
+12
+00:00:30.030 --> 00:00:35.380
+Eh, quando a falha no sincronismo entre portal local e o Portal Nacional, né?
+
+13
+00:00:35.389 --> 00:00:39.639
+O Portal Local ele envia o documento autorizado, o Portal Nacional.
+
+14
+00:00:39.650 --> 00:00:43.459
+Mas quando tem uma falha nesse nesse sincronismo nesse envio,
+
+15
+00:00:43.849 --> 00:00:44.439
+né?
+
+16
+00:00:44.450 --> 00:00:48.400
+O o não vai localizar o documento do Portal Nacional,
+
+17
+00:00:48.409 --> 00:00:53.040
+mas ele vai tá no portal local porque o portal local que autorizou aquele documento.
+
+18
+00:00:53.049 --> 00:00:55.540
+Então, como ele autorizou cem por cento, tá?
+
+19
+00:00:55.549 --> 00:00:57.419
+Às vezes aquele documento tem que tá no portal local,
+
+20
+00:00:57.430 --> 00:00:59.700
+tá porque foi autorizado ali ele tem que tá lá, tá,
+
+21
+00:00:59.709 --> 00:01:02.340
+Então às vezes não tem Na Receita Federal,
+
+22
+00:01:02.349 --> 00:01:05.290
+no Portal Nacional Aí a gente pega e consulta no portal
+
+23
+00:01:05.300 --> 00:01:08.220
+local pra gente certificar se o documento existe ou não.
+
+24
+00:01:08.230 --> 00:01:09.360
+De fato tá bom.
+
+25
+00:01:10.190 --> 00:01:12.959
+Então na consulta do portal local a gente tem eh,
+
+26
+00:01:12.970 --> 00:01:15.919
+a gente tem essas observações aqui pra fazer, tá?
+
+27
+00:01:15.930 --> 00:01:20.019
+Alguns estados têm excedido o serviço de autenticação pra consulta pública.
+
+28
+00:01:20.029 --> 00:01:20.760
+Tá os estados,
+
+29
+00:01:20.769 --> 00:01:24.199
+eles notaram que tinham que estavam fazendo varreduras e vendo
+
+30
+00:01:24.209 --> 00:01:27.989
+prontos de dados do Fisco através desse portal de consulta.
+
+31
+00:01:28.000 --> 00:01:33.639
+Então, agora alguns estados exigem exigem autenticação pra essa consulta, Tá,
+
+32
+00:01:33.650 --> 00:01:34.839
+outros estados?
+
+33
+00:01:34.849 --> 00:01:35.339
+Não tem.
+
+34
+00:01:35.419 --> 00:01:38.190
+Mas tem aqueles mecanismos anti robôs que a gente tem
+
+35
+00:01:38.199 --> 00:01:41.629
+também no portal nacional tá e tem estado também.
+
+36
+00:01:41.639 --> 00:01:44.870
+Que dependendo do número de consultas que você faz,
+
+37
+00:01:44.879 --> 00:01:47.110
+ele vai um de bloqueio e você não pode consultar mais.
+
+38
+00:01:47.120 --> 00:01:50.190
+Tá? Mas isso tudo é feito pra volumes absurdos, né?
+
+39
+00:01:50.199 --> 00:01:53.129
+Porque são o que as empresas que fazem as faixas
+
+40
+00:01:53.139 --> 00:01:56.050
+do banco de dados que o fisco eh utilizam,
+
+41
+00:01:56.059 --> 00:01:56.529
+né?
+
+42
+00:01:56.540 --> 00:02:00.569
+Mas pra pessoa, pra gente consultar não vai ter problema nenhum não tá bom,
+
+43
+00:02:01.160 --> 00:02:05.849
+Então consulta no portal local. Alguns exigem autenticação, outros dão.
+
+44
+00:02:05.860 --> 00:02:10.288
+Essa nota que eu mostrei pra vocês é veio do Espírito Santo E a gente eh,
+
+45
+00:02:10.300 --> 00:02:12.610
+foi bom a gente ter escolhido ela por que?
+
+46
+00:02:12.619 --> 00:02:15.690
+Porque ela é de um Estado que exige autenticação.
+
+47
+00:02:15.699 --> 00:02:19.330
+Aí a gente poder mostrar pra vocês como é que faz porque, nos outros casos,
+
+48
+00:02:19.339 --> 00:02:21.449
+é como a consulta ali do portal Nacional.
+
+49
+00:02:21.460 --> 00:02:23.690
+Então a gente trouxe aqui pra vocês que ele é diferente do
+
+50
+00:02:23.699 --> 00:02:27.059
+portal nacional pra gente ver como é que faz Também tá bom?
+
+51
+00:02:27.070 --> 00:02:29.190
+Então vamos lá. É
+
+52
+00:02:29.460 --> 00:02:33.070
+essa nota aqui do vinho que eu trouxe pra vocês lá do clube de vinhos.
+
+53
+00:02:33.080 --> 00:02:35.830
+Veio do Espírito Santo. Então o que que eu fui? Lá? Estuda no google?
+
+54
+00:02:35.839 --> 00:02:40.429
+Perguntei consulta n f e cê faz espírito santo? Tá aí?
+
+55
+00:02:40.440 --> 00:02:44.630
+Foi a primeiríssima ocorrência lá, mas mesmo assim, né?
+
+56
+00:02:44.639 --> 00:02:47.470
+Sendo a primeira ocorrência, porque às vezes tem um conteúdo patrocinado,
+
+57
+00:02:47.479 --> 00:02:49.250
+que aparece na frente na frente, né?
+
+58
+00:02:50.259 --> 00:02:53.080
+A gente vai verificar se é um site do governo mesmo,
+
+59
+00:02:53.089 --> 00:02:55.830
+como a gente verifica isso olhando pro endereço, oh cê,
+
+60
+00:02:55.839 --> 00:02:59.289
+faz ponto espírito santo ponto gov ponto BR.
+
+61
+00:02:59.300 --> 00:03:02.020
+Então, esse site é do governo do Espírito Santo, né?
+
+62
+00:03:02.029 --> 00:03:05.369
+Da Sefaz, Então é nesse site aqui que a gente vai consultar.
+
+63
+00:03:05.380 --> 00:03:12.169
+Então, às vezes eh no primeiro resultado da consulta a gente vai a gente vai
+
+64
+00:03:12.449 --> 00:03:15.740
+se ele o modelo patrocinado, que pode levar a gente pra outro endereço.
+
+65
+00:03:15.750 --> 00:03:19.919
+Por isso é importante a gente verificar aqui de se a gente entra no cfa ponto e
+
+66
+00:03:19.929 --> 00:03:22.550
+s ponto nove ponto BR esse mesmo podemos continuar
+
+67
+00:03:22.559 --> 00:03:24.619
+tá então quando a gente clica no link,
+
+68
+00:03:24.630 --> 00:03:27.479
+a gente é direcionado pra esse site institucional lá
+
+69
+00:03:27.740 --> 00:03:30.550
+e na parte de nota fiscal eletrônica o
+
+70
+00:03:30.559 --> 00:03:33.630
+primeiro item é consulta a nota fiscal eletrônica.
+
+71
+00:03:33.639 --> 00:03:33.889
+Tá,
+
+72
+00:03:33.899 --> 00:03:37.229
+então a gente clica aqui e é direcionado pra
+
+73
+00:03:37.240 --> 00:03:40.910
+esse outro site aqui do do governo do Estado.
+
+74
+00:03:40.919 --> 00:03:43.789
+A gente pode continuar vendo aqui o endereço.
+
+75
+00:03:43.800 --> 00:03:46.690
+Se tá tudo certinho, até deixei aqui o endereço pra vocês tá
+
+76
+00:03:47.429 --> 00:03:51.699
+e a gente vai acessar a opção consulta, consultar a autorização.
+
+77
+00:03:51.710 --> 00:03:56.399
+Essa opção que te consulta autorização tá aí Vem aquela
+
+78
+00:03:56.410 --> 00:03:59.119
+parte que eu falei pra vocês do controle de acesso,
+
+79
+00:03:59.130 --> 00:03:59.240
+né?
+
+80
+00:03:59.250 --> 00:04:01.100
+Que eles exigem identificação?
+
+81
+00:04:01.800 --> 00:04:03.149
+Olha que eu clique aqui,
+
+82
+00:04:03.839 --> 00:04:08.740
+ele me direcionou pro site gov b E o que que é esse site gol? F B o gol.
+
+83
+00:04:08.750 --> 00:04:10.309
+O F B é uma plataforma do governo
+
+84
+00:04:10.320 --> 00:04:14.210
+federal que serve pra autenticação em meios digitais.
+
+85
+00:04:14.220 --> 00:04:16.738
+Então ela utiliza dados da das empresas
+
+86
+00:04:16.750 --> 00:04:20.010
+que você trabalhou passado de seguridade social.
+
+87
+00:04:20.019 --> 00:04:23.769
+Às vezes você teve a conta no Banco do Brasil na caixa desses bancos públicos.
+
+88
+00:04:23.779 --> 00:04:25.750
+Você pode também fazer
+
+89
+00:04:25.850 --> 00:04:28.600
+de autenticação do seu banco?
+
+90
+00:04:28.609 --> 00:04:31.019
+Eh Você pode usar o seu certificado digital do C
+
+91
+00:04:31.029 --> 00:04:34.140
+P Brasil pra se autenticar na plataforma P R.
+
+92
+00:04:34.149 --> 00:04:37.790
+Então essa plataforma oferece várias maneiras de autenticação.
+
+93
+00:04:37.799 --> 00:04:40.600
+Tá dados da Justiça eleitoral? Também, né?
+
+94
+00:04:40.609 --> 00:04:43.540
+Então você utilizando alguma dessas fontes que eu
+
+95
+00:04:43.549 --> 00:04:46.260
+falei pra você você vai fazer sua autenticação.
+
+96
+00:04:46.269 --> 00:04:48.279
+Cortar alguma P R! Tá E aí?
+
+97
+00:04:48.290 --> 00:04:51.299
+Você vai ter acesso ao serviço que você tava buscando nesse caso,
+
+98
+00:04:51.309 --> 00:04:54.640
+específico serviço de consulta de notas sem você faz do Espírito Santo
+
+99
+00:04:55.170 --> 00:04:55.820
+esse portal.
+
+100
+00:04:55.829 --> 00:04:57.820
+Ele é amplamente utilizado pra várias coisas,
+
+101
+00:04:57.829 --> 00:05:00.079
+tem diversos outros aplicativos que utilizam ele,
+
+102
+00:05:00.089 --> 00:05:03.239
+por exemplo aplicativos Nota fiscal fácil desenvolvido pelo fisco
+
+103
+00:05:03.750 --> 00:05:05.570
+eh autenticação é feita.
+
+104
+00:05:05.579 --> 00:05:09.970
+Vi login o P L, mas por exemplo, o certificado de vacinação do Covid, né?
+
+105
+00:05:09.980 --> 00:05:12.040
+Às vezes a gente precisa desse certificado pra viajar,
+
+106
+00:05:12.049 --> 00:05:13.920
+Pra fazer a comprovação de vacinação,
+
+107
+00:05:13.929 --> 00:05:16.079
+a gente precisa do certificado de vacinação do Covid.
+
+108
+00:05:16.089 --> 00:05:19.359
+O certificado também de vacinação do COVID é obtido
+
+109
+00:05:19.369 --> 00:05:22.440
+mediante consulta utilizando esse login no F P.
+
+110
+00:05:22.450 --> 00:05:26.399
+Tá, então é um login que a gente vai ver cada vez mais cliente,
+
+111
+00:05:26.410 --> 00:05:29.500
+usando pra fazer a simplificação do acesso, né,
+
+112
+00:05:30.079 --> 00:05:33.049
+fazer o acesso a uma coisa mais simples pra todo mundo
+
+113
+00:05:33.059 --> 00:05:36.230
+o Estado e não precisa cadastrar cada um dos seus clientes
+
+114
+00:05:36.470 --> 00:05:38.420
+e a pessoa física também.
+
+115
+00:05:38.429 --> 00:05:43.000
+Ela pode acessar se identificando aí com a sua credencial do PR em vários serviços.
+
+116
+00:05:43.010 --> 00:05:46.980
+Tá então login plataforma gov BR tá bom.
+
+117
+00:05:46.989 --> 00:05:50.480
+Então depois que eu fiz o meu login na plataforma gov BR,
+
+118
+00:05:50.489 --> 00:05:52.920
+eu vou pra parte de consulta pública.
+
+119
+00:05:52.929 --> 00:05:57.779
+Tá então a consulta pública que eu seleciono o ambiente de produção.
+
+120
+00:05:57.790 --> 00:06:01.459
+É como eu falei pra vocês no ambiente de divulgação de textos, não tem qualidade.
+
+121
+00:06:01.524 --> 00:06:05.855
+A não ser que você esteja fazendo um teste e queira ver se o teste tá certo.
+
+122
+00:06:05.864 --> 00:06:08.815
+Então aí a gente clica aqui em homologação se não for o caso, né?
+
+123
+00:06:08.825 --> 00:06:12.434
+Se for o caso, se a gente conferir uma nota de uma operação de verdade, correu,
+
+124
+00:06:12.445 --> 00:06:17.755
+a gente coloca aqui a chave, acesso, marca que não é um robô e clica em consulta.
+
+125
+00:06:17.765 --> 00:06:21.674
+Então, quando a gente faz isso ah a nota fiscal eletrônica.
+
+126
+00:06:21.684 --> 00:06:23.135
+Ela é remetida na consulta, né.
+
+127
+00:06:23.144 --> 00:06:26.515
+Volto aqui pra gente pra gente fazer a conferência tá pessoal
+
+128
+00:06:27.179 --> 00:06:32.790
+e que que a gente vai verificar na nota no portal local.
+
+129
+00:06:32.799 --> 00:06:35.429
+São as mesmas coisas de verificar o que o Portal Nacional,
+
+130
+00:06:35.440 --> 00:06:39.709
+porque a consulta ela tem que retornar os mesmos dados, as mesmas informações, né?
+
+131
+00:06:39.720 --> 00:06:42.329
+Então a gente tem que ver se o documento está autorizado,
+
+132
+00:06:42.679 --> 00:06:46.429
+se o documento está cancelado ou se o documento está delegado, né?
+
+133
+00:06:46.440 --> 00:06:48.869
+Então a gente foi ver, fica aqui, no portal local,
+
+134
+00:06:48.880 --> 00:06:50.989
+se o status do documento é autorizado.
+
+135
+00:06:51.000 --> 00:06:55.570
+Se for autorizado, beleza, se for cancelado, O delegado não é bele, não, não dá.
+
+136
+00:06:55.579 --> 00:06:58.950
+E se o documento não existir no portal local ele não existir no lugar nenhum, né?
+
+137
+00:06:58.959 --> 00:07:03.450
+Porque eu falei pra vocês que o documento ele vai estar, com certeza no portal local,
+
+138
+00:07:03.459 --> 00:07:05.470
+porque foi ali que não foi autorizado.
+
+139
+00:07:05.910 --> 00:07:09.079
+E algumas vezes ele não vai estar no portal nacional.
+
+140
+00:07:09.089 --> 00:07:11.720
+Então, quando a gente consultou o Portal Nacional não está lá.
+
+141
+00:07:11.730 --> 00:07:16.600
+A gente vê no portal local consulta no portal local e também não está no portal local.
+
+142
+00:07:16.609 --> 00:07:19.519
+Aí esse documento a gente pode falar que ele não existe.
+
+143
+00:07:19.529 --> 00:07:20.040
+Tá bom,
+
+144
+00:07:20.049 --> 00:07:23.859
+Então consulta no portal nacional e consulta no portal local
+
+145
+00:07:23.869 --> 00:07:26.359
+se não tiver no portal local o documento não existe.
+
+146
+00:07:26.369 --> 00:07:30.160
+A nota fiscal eletrônica não existe, Tá bom? Então vamos aqui no portal local.
+
+147
+00:07:30.170 --> 00:07:34.079
+Verificar se a situação do documento é autorizado se o ambiente é de produção,
+
+148
+00:07:34.089 --> 00:07:35.660
+se o ambiente é de testes, tá
+
+149
+00:07:36.260 --> 00:07:39.709
+verificar as datas de autorização e data de emissão do documento,
+
+150
+00:07:39.720 --> 00:07:40.910
+verificar os eventos, né.
+
+151
+00:07:40.920 --> 00:07:42.869
+Os eventos a mais pra gente ter mais certeza de
+
+152
+00:07:42.880 --> 00:07:45.549
+que a operação ocorreu de maneira a D quatro tá,
+
+153
+00:07:45.559 --> 00:07:48.890
+e por fim, fazer aquela verificação do do documento em papel,
+
+154
+00:07:48.899 --> 00:07:51.070
+com os dados da consulta, pra ver se tá tudo batendo.
+
+155
+00:07:51.079 --> 00:07:55.309
+Se tá tudo certinho, a quantidade, os valores, valor do I, C m S. Destacado, né?
+
+156
+00:07:55.320 --> 00:07:57.510
+Porque se você tá recebendo a mercadoria,
+
+157
+00:07:57.519 --> 00:08:01.100
+se sua empresa vai tomar o crédito precisa do i c m S destacado do documento.
+
+158
+00:08:01.109 --> 00:08:01.329
+Então,
+
+159
+00:08:01.339 --> 00:08:04.529
+o documento que vai o preço destaque é o que é o documento eletrônico da consulta.
+
+160
+00:08:04.850 --> 00:08:06.950
+Então, consultar valores também, do imposto, né?
+
+161
+00:08:06.959 --> 00:08:10.660
+Tá tudo certinho pra gente fazer aí a entrada dessa
+
+162
+00:08:10.670 --> 00:08:13.859
+mercadoria e certificar aquela nota fiscal eletrônica é de fato,
+
+163
+00:08:13.869 --> 00:08:14.220
+baixo.
+
+164
+00:08:14.230 --> 00:08:18.880
+Tá bom, Então! Essa é a nossa consulta no portal local Okay

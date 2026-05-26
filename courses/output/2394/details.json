@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2394,
+    "title": "Empregado rural: características práticas",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso você aprenderá sobre as características práticas do empregado rural, relacionadas ao segmento da atividade do empregador, local de prestação do trabalho, jornada, intervalo intrajornada, serviços intermitentes, trabalho noturno, descontos salariais e muitos outros pontos importantes para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/3b8fd9c86d3be786be266db02c8f6eb31728427996.jpg",
+    "goals": [
+      "Apresentar características práticas do empregado rural, relacionadas ao segmento da atividade do empregador, local de prestação do trabalho, jornada, intervalo intrajornada, serviços intermitentes, trabalho noturno, descontos salariais e muitos outros pontos importantes para que o aluno coloque em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 2325,
+    "keywords": "empregado rural;empregador rural;rural;direito Trabalhista;folha de Pagamento",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 8,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 154,
+    "averageRating": 8.71,
+    "practiceAverage": 8.44,
+    "trailer": {
+      "id": "e1e7d06b-2115-4a37-b809-fb5b674c9867",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e1e7d06b-2115-4a37-b809-fb5b674c9867/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e1e7d06b-2115-4a37-b809-fb5b674c9867/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e1e7d06b-2115-4a37-b809-fb5b674c9867/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/e1e7d06b-2115-4a37-b809-fb5b674c9867/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-14T13:51:48.000Z",
+      "updatedAt": "2022-12-14T13:51:47.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-01-13T17:00:00.000Z",
+    "recordedAt": "2022-12-07T00:00:00.000Z",
+    "createdAt": "2022-12-10T10:22:57.000Z"
+  }
+}

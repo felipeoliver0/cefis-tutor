@@ -1,0 +1,33 @@
+{
+  "id": 482471,
+  "title": "Compliance Aduaneiro parte 5",
+  "position": 10,
+  "duration": 506,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ff2671b4-0728-4d1c-ab67-24199a41c946/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff2671b4-0728-4d1c-ab67-24199a41c946/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff2671b4-0728-4d1c-ab67-24199a41c946/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff2671b4-0728-4d1c-ab67-24199a41c946/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ff2671b4-0728-4d1c-ab67-24199a41c946/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

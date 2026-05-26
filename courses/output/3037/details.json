@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 3037,
+    "title": "[podcast] ITCMD na Reforma Tributária",
+    "subtitle": "PodCast",
+    "summary": "Vamos ver como a  reforma tributária vai afetar as grandes  heranças. Você sabia que o ITCMD que é o imposto das heranças e doações também foi alterado na reforma tributária? Até o IPVA que é o imposto dos veículos automotores sofreu uma pequena alteração. Vamos falar agora das alterações do ITCMD.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/15c11d08aab20b0b4ba7637462fcb7ab1728384387.jpg",
+    "goals": [
+      "Vamos ver como a  reforma tributária vai afetar as grandes  heranças. Você sabia que o ITCMD que é o imposto das heranças e doações também foi alterado na reforma tributária? Até o IPVA que é o imposto dos veículos automotores sofreu uma pequena alteração. Vamos falar agora das alterações do ITCMD."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 673,
+    "keywords": "podcast;reforma tributaria;ITCMD",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 516,
+    "averageRating": 9.16,
+    "practiceAverage": 9.16,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-03-16T12:11:57.000Z",
+    "recordedAt": "2024-01-28T00:00:00.000Z",
+    "createdAt": "2024-02-06T17:40:20.000Z"
+  }
+}

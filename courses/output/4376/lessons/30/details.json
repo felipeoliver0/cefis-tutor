@@ -1,0 +1,33 @@
+{
+  "id": 485880,
+  "title": "Exclusões da base de cálculo",
+  "position": 30,
+  "duration": 70,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cc324ba4-5e49-4537-84d0-68bb78e25ae4/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc324ba4-5e49-4537-84d0-68bb78e25ae4/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc324ba4-5e49-4537-84d0-68bb78e25ae4/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc324ba4-5e49-4537-84d0-68bb78e25ae4/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cc324ba4-5e49-4537-84d0-68bb78e25ae4/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

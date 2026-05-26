@@ -1,0 +1,33 @@
+{
+  "id": 485344,
+  "title": "Princípio da competência e da prudência",
+  "position": 15,
+  "duration": 418,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e149b5f6-9891-40b3-8b4e-4dcd6b3f2f1c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e149b5f6-9891-40b3-8b4e-4dcd6b3f2f1c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e149b5f6-9891-40b3-8b4e-4dcd6b3f2f1c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e149b5f6-9891-40b3-8b4e-4dcd6b3f2f1c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e149b5f6-9891-40b3-8b4e-4dcd6b3f2f1c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

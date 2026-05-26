@@ -1,0 +1,525 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.719
+Para colocar aqui alguma despesa, vamos colocar aqui despesas com instruções no Brasil do titular.
+
+3
+00:00:06.719 --> 00:00:17.280
+Vamos pegar aqui um CNPJ, então digamos que eu estou em uma faculdade e eu tenho aqui o CNPJ da
+
+4
+00:00:17.280 --> 00:00:24.160
+faculdade, que eu já vou pegar aqui qual que é. Então peguei aqui o CNPJ da instituição, digita o
+
+5
+00:00:24.160 --> 00:00:31.839
+número do CNPJ, digitei o número do CNPJ, deixa eu ver se está certo, ele apareceu um triangulinho
+
+6
+00:00:31.839 --> 00:00:38.960
+vermelho. Sempre comparem para ver se o CNPJ está digitado corretamente. Deixa eu ver,
+
+7
+00:00:38.960 --> 00:00:46.479
+eu já observei aqui que eu digitei um número errado, e ao digitar um número errado ele já
+
+8
+00:00:46.479 --> 00:00:53.979
+deu um triângulo vermelho ali. Consertei, o triângulo vermelho sumiu. E aí aqui eu
+
+9
+00:00:53.979 --> 00:00:54.140
+coloquei o número do CNPJ, digitei o número do CNPJ, digitei o número do CNPJ, digitei o número do CNPJ,
+
+10
+00:00:54.140 --> 00:01:02.840
+coloquei o CNPJ e vou colocar o nome da universidade, da faculdade. Então estou
+
+11
+00:01:02.840 --> 00:01:11.719
+pondo aqui o nome da universidade e dou um enter. E aí a descrição, a descrição é um campo texto,
+
+12
+00:01:11.719 --> 00:01:23.959
+eu posso por aqui, por exemplo, graduação de ciências contábeis, sendo cursada ao
+
+13
+00:01:23.959 --> 00:01:31.620
+longo de 2025. Vou por um, digamos que eu tenho aqui um valor fictício, tá, que eu estou aqui
+
+14
+00:01:31.620 --> 00:01:44.000
+fazendo tal, então digamos que seja 12 parcelas no ano de R$ 1500, tá, o valor não necessariamente
+
+15
+00:01:44.000 --> 00:01:50.879
+esse, mas digamos que eu tenho ele aqui, então é 18 mil réis. Repara só uma coisa, ó eu estou digitando
+
+16
+00:01:50.879 --> 00:01:51.000
+o valor pago aqui de faculdade e tal, ó. furnich.com.br
+
+17
+00:01:51.000 --> 00:01:54.459
+pago aqui de faculdade, estou digitando
+
+18
+00:01:54.459 --> 00:01:58.719
+olhem para esses valores que sempre aparecem aqui
+
+19
+00:01:58.719 --> 00:02:02.920
+por deduções legais imposto a restituir
+
+20
+00:02:02.920 --> 00:02:06.879
+está dando 4.800 ou desconto simplificado está dando
+
+21
+00:02:06.879 --> 00:02:10.300
+4.500, quando eu der ok aqui
+
+22
+00:02:10.300 --> 00:02:15.159
+nesse pagamento efetuado com despesas de instruções no Brasil
+
+23
+00:02:15.159 --> 00:02:18.599
+o imposto a restituir ali principalmente
+
+24
+00:02:18.599 --> 00:02:22.419
+vai aumentar o que está por deduções legais
+
+25
+00:02:22.419 --> 00:02:26.860
+veja que ali no momento ele está em 4.800, cliquei no
+
+26
+00:02:26.860 --> 00:02:30.460
+ok, automaticamente já foi para
+
+27
+00:02:30.460 --> 00:02:34.400
+5.779, aumentou a minha
+
+28
+00:02:34.400 --> 00:02:38.460
+restituição, por quê? Porque sempre que a gente está
+
+29
+00:02:38.460 --> 00:02:42.020
+falando de pagamentos efetuados, são os pagamentos
+
+30
+00:02:42.020 --> 00:02:46.259
+efetuados, na grande maioria deles, que me dá direito
+
+31
+00:02:46.259 --> 00:02:48.580
+a abater do meu
+
+32
+00:02:48.580 --> 00:02:52.139
+imposto, então de novo, se eu estou
+
+33
+00:02:52.139 --> 00:02:55.740
+com imposto a pagar, o imposto a pagar vai reduzir
+
+34
+00:02:55.740 --> 00:03:00.240
+ou se eu estou com imposto a restituir, quanto mais
+
+35
+00:03:00.240 --> 00:03:04.639
+pagamentos efetuados eu tiver aqui, vai aumentar a minha restituição
+
+36
+00:03:04.639 --> 00:03:08.400
+então, ao colocar aqui educação, foi o que
+
+37
+00:03:08.400 --> 00:03:12.340
+aconteceu, perfeito? Então vou colocar mais um novo
+
+38
+00:03:12.340 --> 00:03:16.259
+aqui, o que eu tive? Ah, eu tive
+
+39
+00:03:16.259 --> 00:03:18.319
+despesas médicas, eu fui em um
+
+40
+00:03:18.580 --> 00:03:22.139
+médico no Brasil, né? Então esse médico
+
+41
+00:03:22.139 --> 00:03:26.240
+foi para quem? Foi para o titular, se ele é um médico
+
+42
+00:03:26.240 --> 00:03:30.300
+está no CPF do médico e eu vou ter o nome dele até o
+
+43
+00:03:30.300 --> 00:03:33.460
+CRM dele, né? Então
+
+44
+00:03:33.460 --> 00:03:38.360
+eu digito aqui o CPF, digito o nome do
+
+45
+00:03:38.360 --> 00:03:42.360
+profissional, né? Então eu ponho lá o nome do
+
+46
+00:03:42.360 --> 00:03:46.439
+doutor ou da doutora e ponho a descrição
+
+47
+00:03:46.439 --> 00:03:48.120
+né? Consulta,
+
+48
+00:03:48.580 --> 00:03:52.740
+por exemplo, e procede normalmente o que
+
+49
+00:03:52.740 --> 00:03:56.639
+vem lá no recibo dele, né? Procedimento médico
+
+50
+00:03:56.639 --> 00:04:00.460
+e de novo, quando eu colocar aqui o valor
+
+51
+00:04:00.460 --> 00:04:04.479
+pago, olhem o valor da restituição que vai aumentar
+
+52
+00:04:04.479 --> 00:04:09.400
+ainda mais, ele está lá em 5.779,64
+
+53
+00:04:09.400 --> 00:04:12.280
+e aqui eu vou colocar o valor de
+
+54
+00:04:12.280 --> 00:04:16.639
+3.500 reais, que eu fiz não só na consulta
+
+55
+00:04:16.639 --> 00:04:18.560
+médica, como no procedimento médico.
+
+56
+00:04:18.579 --> 00:04:22.360
+Se eu fui no mesmo médico algumas vezes
+
+57
+00:04:22.360 --> 00:04:26.360
+ao longo do ano e para cada visita que eu fui
+
+58
+00:04:26.360 --> 00:04:30.420
+eu tive ali uma despesa médica, um pagamento, eu
+
+59
+00:04:30.420 --> 00:04:34.319
+somo tudo o que teve para esse médico, para esse
+
+60
+00:04:34.319 --> 00:04:38.540
+CPF ao longo do ano e coloco aqui, né? Aí eu dei ok
+
+61
+00:04:38.540 --> 00:04:44.379
+ah lá, aumentou já a minha restituição para 6.742, ó
+
+62
+00:04:44.379 --> 00:04:48.379
+e já veio aqui essa despesa médica. Vou incluir
+
+63
+00:04:48.579 --> 00:04:52.579
+e vou colocar aqui clínica médica, também
+
+64
+00:04:52.579 --> 00:04:56.579
+fui numa clínica médica e eu vou procurar, né? O item
+
+65
+00:04:56.579 --> 00:05:00.579
+21, hospital, clínicas e laboratório
+
+66
+00:05:01.139 --> 00:05:04.779
+com saúde humana no Brasil. Está no titular, se fosse
+
+67
+00:05:04.779 --> 00:05:08.300
+dependente eu clicaria aqui no dependente ou tem até aqui o
+
+68
+00:05:08.300 --> 00:05:11.819
+alimentando, quando eu, né? Pago
+
+69
+00:05:11.819 --> 00:05:16.519
+para um dependente, né? Que teve ali
+
+70
+00:05:16.519 --> 00:05:18.560
+um processo judicial.
+
+71
+00:05:18.579 --> 00:05:22.579
+Alguma coisa que eu tenho que pagar pensão alimentícia e além
+
+72
+00:05:22.579 --> 00:05:26.639
+da pensão alimentícia eu pago despesas médicas. Aí eu clico aqui alimentando e
+
+73
+00:05:26.639 --> 00:05:30.740
+coloco o CNPJ. Aí eu coloco aqui o CNPJ da clínica
+
+74
+00:05:30.740 --> 00:05:34.720
+coloco aqui o nome da clínica
+
+75
+00:05:34.720 --> 00:05:38.699
+né? Ou do hospital, aqui é hospital, clínicas e laboratórios
+
+76
+00:05:38.699 --> 00:05:42.180
+né? Vale para os três. Coloco aqui o nome
+
+77
+00:05:42.180 --> 00:05:45.839
+né? O CNPJ e a descrição, né?
+
+78
+00:05:45.839 --> 00:05:49.800
+Aí vou por aqui exames complementares
+
+79
+00:05:49.800 --> 00:05:53.759
+mais consultas, mais
+
+80
+00:05:53.759 --> 00:05:57.800
+consultas médicas nessa clínica, né?
+
+81
+00:05:57.860 --> 00:06:01.699
+Nesse CNPJ. E aqui ao longo do ano
+
+82
+00:06:01.699 --> 00:06:04.839
+eu tive o pagamento de 3.200, né?
+
+83
+00:06:05.819 --> 00:06:09.839
+Aí ó, digitei 3.200, olha lá no valor do imposto
+
+84
+00:06:09.839 --> 00:06:14.160
+a restituir, até então ele está em 7.622,14
+
+85
+00:06:14.160 --> 00:06:15.819
+dei ok, vai aumentar.
+
+86
+00:06:15.839 --> 00:06:19.899
+Vou clicar em ok, já aumentou. A verdade ele já
+
+87
+00:06:19.899 --> 00:06:23.740
+tinha aumentado, né? Tinha aumentado para
+
+88
+00:06:23.740 --> 00:06:27.740
+6.000 e pouquinho e agora já foi para 7.622, né?
+
+89
+00:06:28.439 --> 00:06:31.319
+Vou incluir mais um caso aqui, né?
+
+90
+00:06:31.579 --> 00:06:35.720
+Todos quantos você tiver, você vai incluindo. Então se
+
+91
+00:06:35.720 --> 00:06:39.600
+teve psicólogo, né? O importante é ter o recibo para
+
+92
+00:06:39.600 --> 00:06:44.019
+tudo, né? Digamos que eu tenho então um plano de saúde, tanto do titular
+
+93
+00:06:44.019 --> 00:06:45.439
+quanto do dependente.
+
+94
+00:06:45.839 --> 00:06:49.560
+Coloca o CNPJ, o nome, né? Do
+
+95
+00:06:49.560 --> 00:06:53.879
+plano de saúde, coloca ele aqui. Plano de
+
+96
+00:06:53.879 --> 00:06:57.040
+saúde, aí eu ponho em descrição. Posso sempre
+
+97
+00:06:57.040 --> 00:07:01.660
+escrever alguma coisa, né? Plano de saúde
+
+98
+00:07:01.660 --> 00:07:04.639
+empresarial, por exemplo, né?
+
+99
+00:07:05.860 --> 00:07:09.779
+Parte do empregado, né? E aí aqui
+
+100
+00:07:09.779 --> 00:07:13.819
+o valor pago foi 8.000 no ano. Então
+
+101
+00:07:13.819 --> 00:07:14.879
+digitei 8.000, ó.
+
+102
+00:07:15.839 --> 00:07:20.740
+Olha no valor a restituir. Por enquanto dá 7.622,14.
+
+103
+00:07:20.740 --> 00:07:24.740
+Vou dar ok, já foi para 9.822,14.
+
+104
+00:07:25.779 --> 00:07:28.540
+Ao colocar a despesa do plano médico
+
+105
+00:07:28.540 --> 00:07:32.519
+com 8.000, já subiu mais ainda. Aí eu tenho
+
+106
+00:07:32.519 --> 00:07:36.800
+também a despesa de plano
+
+107
+00:07:36.800 --> 00:07:40.779
+de saúde com o dependente, ó. Então eu volto aqui, né?
+
+108
+00:07:41.319 --> 00:07:45.019
+E vou colocar aqui de novo 26, que é planos de saúde
+
+109
+00:07:45.019 --> 00:07:45.639
+no Brasil.
+
+110
+00:07:45.839 --> 00:07:50.360
+Só que agora eu clico aqui em dependente. Aí eu sempre
+
+111
+00:07:50.360 --> 00:07:53.720
+tenho que selecionar o nome do dependente, que já vai aparecer
+
+112
+00:07:53.720 --> 00:08:00.040
+aqui, de todos, coloco o CNPJ do plano de saúde, o nome da
+
+113
+00:08:00.040 --> 00:08:05.360
+operadora, né? De Plano de Saúde e coloco o valor, né? Do
+
+114
+00:08:05.360 --> 00:08:13.779
+plano de saúde empresarial, dependente, dependente, parte do
+
+115
+00:08:13.779 --> 00:08:15.759
+funcionário. O que é parte do funcionário, né? É o valor do
+
+116
+00:08:15.759 --> 00:08:18.120
+é o próprio funcionário que está pagando,
+
+117
+00:08:18.819 --> 00:08:21.439
+ou que está descontando do salário dele.
+
+118
+00:08:22.319 --> 00:08:24.560
+Então, parte do funcionário.
+
+119
+00:08:25.220 --> 00:08:28.019
+Aí, venho aqui e vou colocar o valor pago,
+
+120
+00:08:28.139 --> 00:08:30.199
+digamos que foi 4 mil no ano.
+
+121
+00:08:30.839 --> 00:08:35.460
+E aí, vou dar ok, olhem de novo lá para o imposto a restituir,
+
+122
+00:08:35.539 --> 00:08:37.820
+que está em 9, 8, 2, 2 e 14.
+
+123
+00:08:37.820 --> 00:08:43.379
+Dei ok, já subiu, já foi para 10, 9, 2, 2 e 14.
+
+124
+00:08:43.379 --> 00:08:48.840
+Então, todas as despesas ou valores pagos que eu vou colocando aqui,
+
+125
+00:08:49.000 --> 00:08:56.480
+que eu tenho comprovação, tenho recibos médicos emitidos pelos médicos,
+
+126
+00:08:56.600 --> 00:09:00.700
+que no caso de 2025 já é no formato do Receita Saúde.
+
+127
+00:09:01.500 --> 00:09:04.879
+Então, vou trazendo aqui do titular, dos dependentes,
+
+128
+00:09:04.879 --> 00:09:13.000
+tanto questões educacionais e saúde, dentistas, médicos, hospitais, clínicas,
+
+129
+00:09:13.679 --> 00:09:17.039
+psicólogos e por aí vai, todas aquelas opções.
+
+130
+00:09:17.379 --> 00:09:20.639
+Vou colocando aqui, vai aumentando a restituição.
+
+131
+00:09:21.600 --> 00:09:21.840
+Legal?
+
+132
+00:09:22.419 --> 00:09:28.220
+Então, super importante rever, temos que ter documentos, informações de tudo.

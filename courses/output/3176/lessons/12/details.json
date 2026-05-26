@@ -1,0 +1,33 @@
+{
+  "id": 476125,
+  "title": "Pilares - Portal Único",
+  "position": 12,
+  "duration": 336,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/502f13b7-cc02-41f7-8a1a-b325db8ac132/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/502f13b7-cc02-41f7-8a1a-b325db8ac132/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/502f13b7-cc02-41f7-8a1a-b325db8ac132/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/502f13b7-cc02-41f7-8a1a-b325db8ac132/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/502f13b7-cc02-41f7-8a1a-b325db8ac132/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 479335,
+  "title": "Adequações NFS - e",
+  "position": 8,
+  "duration": 419,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/93c77fe4-d3b8-4622-8598-435908f49447/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93c77fe4-d3b8-4622-8598-435908f49447/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93c77fe4-d3b8-4622-8598-435908f49447/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93c77fe4-d3b8-4622-8598-435908f49447/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/93c77fe4-d3b8-4622-8598-435908f49447/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

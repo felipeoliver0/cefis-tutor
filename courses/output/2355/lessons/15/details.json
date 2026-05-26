@@ -1,0 +1,33 @@
+{
+  "id": 464990,
+  "title": "3º pilar -computador",
+  "position": 15,
+  "duration": 560,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/27dc06cd-90c2-48ce-9ff0-608a0982dee0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27dc06cd-90c2-48ce-9ff0-608a0982dee0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27dc06cd-90c2-48ce-9ff0-608a0982dee0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27dc06cd-90c2-48ce-9ff0-608a0982dee0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/27dc06cd-90c2-48ce-9ff0-608a0982dee0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

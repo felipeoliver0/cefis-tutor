@@ -1,0 +1,33 @@
+{
+  "id": 466479,
+  "title": "Vamos Praticar?",
+  "position": 8,
+  "duration": 726,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/97e225b3-7000-486f-ad52-042a3dc0d8db/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/97e225b3-7000-486f-ad52-042a3dc0d8db/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/97e225b3-7000-486f-ad52-042a3dc0d8db/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/97e225b3-7000-486f-ad52-042a3dc0d8db/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/97e225b3-7000-486f-ad52-042a3dc0d8db/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

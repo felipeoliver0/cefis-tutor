@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 1866,
+    "title": "Controle gerencial",
+    "subtitle": "Regras e aplicações",
+    "summary": "Neste curso prático de controle gerencial, você vai aprender sobre esta etapa tão importante na gestão empresarial. Entenderá desde a evolução da contabilidade e conceitos relacionados ao tema e à contabilidade, sistema de informação, estrutura organizacional e todo o sistema de controle gerencial, para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/4302ca038d98dc37aaa62b1ecdc6e98f1511445763.jpg",
+    "goals": [
+      "Apresentar aos alunos as características do controle gerencial"
+    ],
+    "teacher": {
+      "id": 539395,
+      "name": "MAURI JOSÉ ALBERTI",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1634085836.jpeg"
+    },
+    "duration": 6163,
+    "keywords": "controle;controle gerencial;controle contábil",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 30,
+    "materialCount": 3,
+    "hasMaterials": true,
+    "categories": [
+      2,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 129,
+    "averageRating": 9.34,
+    "practiceAverage": 9.25,
+    "trailer": {
+      "id": "382d87f8-0883-4d33-8bff-cc726189422e",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/382d87f8-0883-4d33-8bff-cc726189422e/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/382d87f8-0883-4d33-8bff-cc726189422e/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/382d87f8-0883-4d33-8bff-cc726189422e/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/382d87f8-0883-4d33-8bff-cc726189422e/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-11-23T20:44:49.000Z",
+      "updatedAt": "2021-11-23T21:44:48.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": 4,
+    "launchDate": "2021-12-10T18:02:06.000Z",
+    "recordedAt": "2021-11-20T00:00:00.000Z",
+    "createdAt": "2021-11-22T08:31:39.000Z"
+  }
+}

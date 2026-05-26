@@ -1,0 +1,33 @@
+{
+  "id": 464533,
+  "title": "Regras de origem não preferenciais - Parte 1",
+  "position": 3,
+  "duration": 394,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/fb7aaa1f-6bf3-45d3-834b-53af7f1121ba/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fb7aaa1f-6bf3-45d3-834b-53af7f1121ba/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fb7aaa1f-6bf3-45d3-834b-53af7f1121ba/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fb7aaa1f-6bf3-45d3-834b-53af7f1121ba/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/fb7aaa1f-6bf3-45d3-834b-53af7f1121ba/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

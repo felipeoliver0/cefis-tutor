@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 1644,
+    "title": "Teoria Geral do Direito Tributário",
+    "subtitle": "Fundamentos e Aplicação",
+    "summary": "Neste curso de Teoria Geral do Direito Tributário, você irá conhecer desde os fundamentos até a aplicação do assunto. Por meio de vários exemplos, você entenderá tópicos importantes, que irão desde o conceito, até o conhecimento das fontes do Direito Tributário, tipos de legislações, prestação pecuniária, classificação de impostos e muitos outros pontos para se atualizar sobre o assunto e aplicá-lo na prática.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/c5f2a49314848dc7c0384c81237e09331728428692.jpg",
+    "goals": [
+      "Apresentar fundamentos e aplicabilidade relacionada à Teoria Geral do Direito Tributário."
+    ],
+    "teacher": {
+      "id": 356853,
+      "name": "Richard Paes Lyra Junior",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/0bea74b424e8071b32e0d0a6a15a0fb81630763265.jpeg"
+    },
+    "duration": 7679,
+    "keywords": "tgi;teoria;geral;direito tributário",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 25,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 366,
+    "averageRating": 9.17,
+    "practiceAverage": 9.04,
+    "trailer": {
+      "id": "0fab5883-ed10-4859-8ffd-47b3a327b56b",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0fab5883-ed10-4859-8ffd-47b3a327b56b/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0fab5883-ed10-4859-8ffd-47b3a327b56b/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0fab5883-ed10-4859-8ffd-47b3a327b56b/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/0fab5883-ed10-4859-8ffd-47b3a327b56b/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2021-09-11T11:16:08.000Z",
+      "updatedAt": "2021-09-11T11:16:07.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2021-08-27T18:25:35.000Z",
+    "recordedAt": "2021-08-28T00:00:00.000Z",
+    "createdAt": "2021-08-27T18:23:55.000Z"
+  }
+}

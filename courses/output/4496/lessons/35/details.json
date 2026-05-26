@@ -1,0 +1,33 @@
+{
+  "id": 487449,
+  "title": "Quiz time - Caso prático",
+  "position": 35,
+  "duration": 553,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/bbb8ef8e-f512-41a9-bade-bd109868f251/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbb8ef8e-f512-41a9-bade-bd109868f251/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbb8ef8e-f512-41a9-bade-bd109868f251/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbb8ef8e-f512-41a9-bade-bd109868f251/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbb8ef8e-f512-41a9-bade-bd109868f251/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

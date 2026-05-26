@@ -1,0 +1,33 @@
+{
+  "id": 460282,
+  "title": "Principais mudanças",
+  "position": 5,
+  "duration": 334,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d3f8b8bc-988c-4685-9401-36e7966ec254/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3f8b8bc-988c-4685-9401-36e7966ec254/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3f8b8bc-988c-4685-9401-36e7966ec254/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3f8b8bc-988c-4685-9401-36e7966ec254/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3f8b8bc-988c-4685-9401-36e7966ec254/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

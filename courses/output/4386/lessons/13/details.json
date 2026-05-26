@@ -1,0 +1,33 @@
+{
+  "id": 484711,
+  "title": "Exemplos- ativos",
+  "position": 13,
+  "duration": 172,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/02eed608-c2f7-4633-9ccf-ef661ae1264b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/02eed608-c2f7-4633-9ccf-ef661ae1264b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/02eed608-c2f7-4633-9ccf-ef661ae1264b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/02eed608-c2f7-4633-9ccf-ef661ae1264b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/02eed608-c2f7-4633-9ccf-ef661ae1264b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

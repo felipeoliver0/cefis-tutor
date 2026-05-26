@@ -1,0 +1,33 @@
+{
+  "id": 464111,
+  "title": "Pessoa vinculada",
+  "position": 6,
+  "duration": 266,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5fd8f9ea-f3d7-482d-906e-6a3dd828ba11/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5fd8f9ea-f3d7-482d-906e-6a3dd828ba11/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5fd8f9ea-f3d7-482d-906e-6a3dd828ba11/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5fd8f9ea-f3d7-482d-906e-6a3dd828ba11/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5fd8f9ea-f3d7-482d-906e-6a3dd828ba11/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

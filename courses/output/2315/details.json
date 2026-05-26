@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2315,
+    "title": "[Podcast #6] Documentos Fiscais de Transporte",
+    "subtitle": "[Podcast #6] Documentos Fiscais de Transporte",
+    "summary": "Este PODCAST é especial pra falar dos documentos de transporte. Vamos falar aqui não só dos documentos, mas também de orientações básicas quanto ao uso deles no dia a dia da empresa",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/73b0cba38c3ce75676d79f9b5c5f46001728428058.jpg",
+    "goals": [
+      "Este PODCAST é especial pra falar dos documentos de transporte. Vamos falar aqui não só dos documentos, mas também de orientações básicas quanto ao uso deles no dia a dia da empresa."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 652,
+    "keywords": "podcast;documentos de transporte",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 67,
+    "averageRating": 9.22,
+    "practiceAverage": 9.44,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-10T20:30:00.000Z",
+    "recordedAt": "2022-10-13T00:00:00.000Z",
+    "createdAt": "2022-10-15T10:21:46.000Z"
+  }
+}

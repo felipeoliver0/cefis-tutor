@@ -1,0 +1,33 @@
+{
+  "id": 478976,
+  "title": "Teste de impairment",
+  "position": 45,
+  "duration": 550,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/4440de88-b323-46c8-8127-3e1f85d2595c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4440de88-b323-46c8-8127-3e1f85d2595c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4440de88-b323-46c8-8127-3e1f85d2595c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4440de88-b323-46c8-8127-3e1f85d2595c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/4440de88-b323-46c8-8127-3e1f85d2595c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

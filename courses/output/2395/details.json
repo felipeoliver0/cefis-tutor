@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2395,
+    "title": "Terceirização na Administração Pública: limites e medidas de  compliance",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso de Terceirização na Administração Pública você aprenderá sobre limites, bem como potenciais medidas de compliance com base na legislação mais atualizada sobre o tema. Entenderá sobre pontos relativos à ausência de precarização do trabalho, princípio da legalidade, inexistência de quadro ativo de pessoal,  planejamento na licitação, fiscalização contínua, padronização de contratos e muitos outros pontos importantes para colocar em prática os conhecimentos obtidos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/6635da0a6b9f60b8c9c763e7312e64ce1670679334.jpg",
+    "goals": [
+      "Demonstrar os limites, bem como potenciais medidas de compliance sobre a terceirização na administração pública com base na legislação mais atualizada sobre o tema."
+    ],
+    "teacher": {
+      "id": 431352,
+      "name": "FÁBIO CARDOSO",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1661660748.jpeg"
+    },
+    "duration": 3370,
+    "keywords": "administração pública;terceirização;terceirizado;compliance;contratação",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 11,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 78,
+    "averageRating": 9.29,
+    "practiceAverage": 8.91,
+    "trailer": {
+      "id": "f9fd6733-5bc5-4c18-8ffc-617c839f8007",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f9fd6733-5bc5-4c18-8ffc-617c839f8007/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f9fd6733-5bc5-4c18-8ffc-617c839f8007/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f9fd6733-5bc5-4c18-8ffc-617c839f8007/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f9fd6733-5bc5-4c18-8ffc-617c839f8007/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-12-14T11:31:20.000Z",
+      "updatedAt": "2022-12-14T11:31:19.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-01-14T17:00:00.000Z",
+    "recordedAt": "2022-12-07T00:00:00.000Z",
+    "createdAt": "2022-12-10T10:30:53.000Z"
+  }
+}

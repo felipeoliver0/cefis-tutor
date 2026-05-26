@@ -1,0 +1,33 @@
+{
+  "id": 456650,
+  "title": "Área de comunicação",
+  "position": 29,
+  "duration": 211,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b727a7b1-73af-496d-94bb-8470150c945d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b727a7b1-73af-496d-94bb-8470150c945d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b727a7b1-73af-496d-94bb-8470150c945d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b727a7b1-73af-496d-94bb-8470150c945d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b727a7b1-73af-496d-94bb-8470150c945d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

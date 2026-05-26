@@ -1,0 +1,241 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.719
+Próxima mudança que eu quero trazer para você aqui é uma mudança no SPED.
+
+2
+00:00:05.419 --> 00:00:12.839
+Nós falamos agora que a GIA passa a ser extinta a partir da competência janeiro de 26,
+
+3
+00:00:13.359 --> 00:00:15.560
+trazendo o SPED como a espinha dorsal.
+
+4
+00:00:16.379 --> 00:00:18.760
+E se nós vamos deixar de entregar a GIA,
+
+5
+00:00:19.440 --> 00:00:24.300
+temos ajustes que foram criados para receber informações da GIA.
+
+6
+00:00:24.300 --> 00:00:26.300
+O que aconteceu com esses ajustes?
+
+7
+00:00:26.699 --> 00:00:30.579
+Eles foram excluídos a partir de 31 de 12.
+
+8
+00:00:30.800 --> 00:00:36.640
+Então, os ajustes que nós utilizávamos para apresentar a CATE 66,
+
+9
+00:00:37.020 --> 00:00:39.840
+quem lembra, né, quando surgiu o programa Nos Conformes,
+
+10
+00:00:40.159 --> 00:00:42.399
+que nós baixamos o manual da CATE 66?
+
+11
+00:00:42.740 --> 00:00:47.420
+Nossa, tivemos que fazer vários ajustes no nosso SPED, nas nossas obrigações,
+
+12
+00:00:47.780 --> 00:00:51.539
+verificar a escrita fiscal, se estava tudo certo,
+
+13
+00:00:51.979 --> 00:00:55.020
+se estava lá na coluna outras, realmente era outras,
+
+14
+00:00:55.020 --> 00:00:59.880
+o que estava na coluna 2 de isento, realmente estava ali assegurado
+
+15
+00:00:59.880 --> 00:01:03.659
+com o artigo 7º e 8º do regulamento do nosso ICMS.
+
+16
+00:01:04.540 --> 00:01:09.159
+Agora, nós tivemos a exclusão desses ajustes.
+
+17
+00:01:09.459 --> 00:01:10.680
+Quais ajustes são esses?
+
+18
+00:01:10.799 --> 00:01:18.040
+Está aqui o SP 990-104 e também o código de ajuste dele,
+
+19
+00:01:18.040 --> 00:01:23.439
+que apresenta ali as informações do ICMS ST.
+
+20
+00:01:23.939 --> 00:01:25.900
+Então, nós tivemos a dispensa,
+
+21
+00:01:26.420 --> 00:01:29.760
+aqui, o SP-992-78,
+
+22
+00:01:30.200 --> 00:01:32.079
+final 104, final 78,
+
+23
+00:01:32.379 --> 00:01:34.620
+que traz ali as informações,
+
+24
+00:01:34.799 --> 00:01:36.599
+que trazia até 31 do 12,
+
+25
+00:01:37.000 --> 00:01:39.200
+as informações da CATE-66.
+
+26
+00:01:39.680 --> 00:01:41.599
+Estes ajustes foram fechados.
+
+27
+00:01:42.099 --> 00:01:48.079
+Nós não precisamos mais entregá-los. Isso aqui nos convida a fazer
+
+28
+00:01:48.079 --> 00:01:55.719
+algumas análises. Quais? Verifique o seu sistema. Se este ajuste vinha manualmente, você vai parar
+
+29
+00:01:55.719 --> 00:02:02.719
+de fazê-lo. Se ele vinha de forma sistêmica, você precisa ajustar o seu parâmetro para que ele não
+
+30
+00:02:02.719 --> 00:02:05.519
+venha mais na sua geração do SPED,
+
+31
+00:02:05.939 --> 00:02:09.939
+porque ele não vai mais existir, ele está com o campo fechado.
+
+32
+00:02:10.599 --> 00:02:14.900
+Então, a gente tem aqui uma observação interessante que, olha,
+
+33
+00:02:15.319 --> 00:02:19.560
+nós criamos o ajuste, o final 104, o final 278,
+
+34
+00:02:19.560 --> 00:02:24.659
+para receber as informações das operações não tributáveis,
+
+35
+00:02:27.860 --> 00:02:28.599
+seja pelo ICMS ou pelo ICMS-ST,
+
+36
+00:02:32.699 --> 00:02:33.060
+e tivemos esses ajustes para receber essas informações dentro do SPED.
+
+37
+00:02:37.900 --> 00:02:38.280
+Agora que a GIA foi extinta e o SPED é espinha dorsal,
+
+38
+00:03:05.120 --> 00:03:08.319
+nós não precisamos mais entregar estes ajustes no nosso SPED, FIS o meu ICMS, se é tributado ou não é tributado o meu CFOP. Então, eu preciso validar as minhas informações,
+
+39
+00:03:08.860 --> 00:03:12.219
+mesmo que eu não tenha que entregar estes ajustes.
+
+40
+00:03:12.419 --> 00:03:15.539
+Vejam aqui na tela, coloquei aqui para nós, olha aqui,
+
+41
+00:03:15.719 --> 00:03:22.020
+a data de encerramento, 31 de 12 de 25, 31 de 12 de 25.
+
+42
+00:03:22.159 --> 00:03:22.520
+Por quê?
+
+43
+00:03:22.939 --> 00:03:28.120
+Porque a competência de dezembro eu vou entregar, entreguei agora em janeiro.
+
+44
+00:03:28.520 --> 00:03:37.400
+A partir da competência de janeiro, olha aqui, eu não preciso mais fazer a apresentação destes ajustes.
+
+45
+00:03:37.400 --> 00:03:45.740
+Então, valide junto com o seu TI, valide os seus parâmetros para que você não gere mais essas informações.
+
+46
+00:03:46.740 --> 00:03:52.000
+E é claro que uma vez que eu não vou mais entregar esse detalhamento, o que eu preciso?
+
+47
+00:03:52.500 --> 00:03:59.900
+Eu preciso identificar quais são as operações que estavam contidas dentro desses ajustes
+
+48
+00:03:59.900 --> 00:04:10.620
+para que eu continue validando elas de forma correta. Eu preciso entender se ela continua sendo escriturada de forma correta.
+
+49
+00:04:11.560 --> 00:04:15.759
+Será que o que está na coluna 2, ele realmente é isento, não tributado?
+
+50
+00:04:15.759 --> 00:04:22.500
+Você validou essa operação com seu artigo 7º e 8º do regulamento do ICMS?
+
+51
+00:04:23.160 --> 00:05:05.399
+Fica aqui para nós a sugestão. FIS aqui o meu SPED fiscal. Para nós da área fiscal, isso é bom?
+
+52
+00:05:05.600 --> 00:05:10.339
+Isso é ótimo, mas vai requerer aqui ainda mais detalhamento.
+
+53
+00:05:10.519 --> 00:05:11.879
+Preciso verificar as divergências?
+
+54
+00:05:12.420 --> 00:05:16.639
+Olha aqui, a conciliação mensal não é mais uma boa prática,
+
+55
+00:05:16.879 --> 00:05:20.759
+é uma questão de sobrevivência, de complice, de segurança.
+
+56
+00:05:20.959 --> 00:05:25.240
+Por quê? Olha só, tudo está culminando dentro do meu SPED.
+
+57
+00:05:25.459 --> 00:05:34.060
+Eu preciso validar o meu RP, os meus parâmetros, os meus cadastros, a minha estrutura de tributação.
+
+58
+00:05:34.680 --> 00:05:36.420
+Eu preciso validar o meu PDV.
+
+59
+00:05:36.620 --> 00:05:37.980
+Por que o PDV, professora?
+
+60
+00:05:37.980 --> 00:00:00.000
+Nós nos falamos anteriormente sobre a saída do SAT e a entrada da NFC modulo 65. FISIOSA

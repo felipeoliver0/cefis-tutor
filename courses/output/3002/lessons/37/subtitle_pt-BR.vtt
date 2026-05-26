@@ -1,0 +1,453 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.079
+Agora a gente vai verificar
+
+2
+00:00:03.470 --> 00:00:07.219
+para a questão de serviços, né?
+
+3
+00:00:07.230 --> 00:00:14.079
+Porque serviços já tem uma polêmica, se a reforma tributária será ou não,
+
+4
+00:00:14.090 --> 00:00:15.850
+é positiva.
+
+5
+00:00:15.859 --> 00:00:16.409
+Então,
+
+6
+00:00:16.420 --> 00:00:21.959
+olhando uma estrutura de precificação atual da de
+
+7
+00:00:21.969 --> 00:00:25.280
+serviços para uma empresa do lucro presumido,
+
+8
+00:00:25.290 --> 00:00:26.139
+por exemplo,
+
+9
+00:00:26.850 --> 00:00:29.420
+digamos que a gente tem aqui um município que tem
+
+10
+00:00:29.430 --> 00:00:33.939
+dois por cento de ISS sobre os serviços zero,
+
+11
+00:00:33.950 --> 00:00:39.099
+sessenta e cinco por cento de PIS, três por cento de COFINS,
+
+12
+00:00:39.110 --> 00:00:45.590
+oito por cento de IRPJ no lucro presumido e dois vírgula oitenta
+
+13
+00:00:45.599 --> 00:00:50.119
+e oito de Contribuição Social sobre o Lucro líquido do lucro presumido.
+
+14
+00:00:51.049 --> 00:00:53.180
+Somando todas essas alíquotas,
+
+15
+00:00:53.189 --> 00:00:56.419
+nós temos aqui uma alíquota nominal de
+
+16
+00:00:56.430 --> 00:01:00.000
+dezesseis vírgula cinquenta e três por cento.
+
+17
+00:01:00.709 --> 00:01:03.639
+Partindo da premissa de que a gente tenha um
+
+18
+00:01:03.650 --> 00:01:07.900
+valor de serviços de cinco mil reais sem tributos,
+
+19
+00:01:07.910 --> 00:01:13.339
+nós vamos incluir todos esses tributos aqui no preço por dentro.
+
+20
+00:01:13.349 --> 00:01:19.099
+Então, como que nós fazemos o cálculo? Nós temos aqui essa fórmula
+
+21
+00:01:19.519 --> 00:01:24.949
+na planilha onde nós pegamos o valor em tributos
+
+22
+00:01:24.959 --> 00:01:29.529
+e dividimos por um menos a somatória de todas.
+
+23
+00:01:29.540 --> 00:01:37.190
+As alíquotas que aqui estão. Alíquota de ISS, PIS, COFINS e R, PJ E C.
+
+24
+00:01:37.500 --> 00:01:41.389
+Chegamos então em cinco vírgula cinco mil
+
+25
+00:01:41.400 --> 00:01:45.930
+novecentos e noventa reais e dezoito centavos,
+
+26
+00:01:45.940 --> 00:01:49.889
+já embutindo todos os tributos por dentro.
+
+27
+00:01:49.900 --> 00:01:54.029
+Quando a gente so eh, diminui todos esses tributos, né?
+
+28
+00:01:54.040 --> 00:01:57.550
+Nós temos aqui então uma receita bruta de cinco mil
+
+29
+00:01:57.559 --> 00:02:02.730
+novecentos e noventa e dezoito deduzindo todos os tributos,
+
+30
+00:02:02.739 --> 00:02:06.010
+chegamos numa receita líquida de cinco mil,
+
+31
+00:02:06.580 --> 00:02:14.289
+então a alíquota efetiva é de dezenove vírgula, oitenta por cento né?
+
+32
+00:02:14.300 --> 00:02:17.570
+Porque esses tributos aqui são por dentro.
+
+33
+00:02:18.339 --> 00:02:25.580
+Isso não é estrutura atual. Quando a gente olha dois mil e vinte e seis não é o mesmo.
+
+34
+00:02:25.589 --> 00:02:28.429
+Exemplo só que em dois mil e vinte e seis.
+
+35
+00:02:28.440 --> 00:02:30.789
+Lembrando que o que que ocorre em dois mil e
+
+36
+00:02:30.800 --> 00:02:35.270
+vinte e seis começa a ser cobrado como teste,
+
+37
+00:02:35.279 --> 00:02:44.289
+zero vírgula um por cento de I, B s e zero vírgula nove por cento de C B S por fora
+
+38
+00:02:45.220 --> 00:02:46.089
+o ISS,
+
+39
+00:02:46.100 --> 00:02:51.369
+o PIS e COFINS e até o I R C S Novo presumido é cobrado por dentro
+
+40
+00:02:51.380 --> 00:02:57.070
+e o I B S C b s é cobrado por fora e aqui eu diminui.
+
+41
+00:02:57.080 --> 00:03:06.050
+Então, um por cento eh do valor da COFINS, né? A COFINS é três por cento.
+
+42
+00:03:06.059 --> 00:03:08.470
+Aqui ela caiu pra dois por cento,
+
+43
+00:03:08.479 --> 00:03:13.050
+porque diminuiu um por cento aqui e aumentou um por cento em baixo,
+
+44
+00:03:13.750 --> 00:03:15.460
+no mesmo exemplo.
+
+45
+00:03:15.470 --> 00:03:22.619
+Então, calculando esses tributos por dentro, e o i b S C b s por fora,
+
+46
+00:03:22.630 --> 00:03:28.240
+chegamos num valor de cinco mil novecentos e sessenta e nove e vinte e seis.
+
+47
+00:03:28.250 --> 00:03:32.559
+Essa será a receita bruta onde deduzimos os tributos
+
+48
+00:03:32.570 --> 00:03:36.660
+e chegamos na receita líquida de cinco mil reais.
+
+49
+00:03:36.669 --> 00:03:39.820
+Olha só o que aconteceu num primeiro momento aqui,
+
+50
+00:03:40.320 --> 00:03:47.410
+essa alíquota efetiva ela foi de dezenove vírgula trinta e nove por cento.
+
+51
+00:03:47.419 --> 00:03:52.690
+A alíquota nominal é de dezesseis vírgula cinquenta e três por cento.
+
+52
+00:03:52.699 --> 00:03:56.149
+Quando nós comparamos com
+
+53
+00:03:56.860 --> 00:03:58.649
+o cenário atual,
+
+54
+00:03:59.350 --> 00:04:02.520
+deu dezenove vírgula, oitenta por cento.
+
+55
+00:04:02.529 --> 00:04:07.979
+Perceba que no ano um, pras empresas de serviço vai ser benéfico.
+
+56
+00:04:07.990 --> 00:04:11.100
+Eh ter um por cento de B S, C,
+
+57
+00:04:11.110 --> 00:04:17.119
+B S e diminuir um por cento dos tributos que estão os atuais tributos, né?
+
+58
+00:04:17.130 --> 00:04:21.858
+Que incidem por dentro. Por que que isso acontece?
+
+59
+00:04:21.869 --> 00:04:24.579
+Porque a gente deixou de ter um por cento por
+
+60
+00:04:24.589 --> 00:04:27.500
+dentro e passou a cobrar um por cento por fora.
+
+61
+00:04:28.170 --> 00:04:32.500
+Então provavelmente no ano um e até no ano dois,
+
+62
+00:04:32.510 --> 00:04:35.019
+dois mil e vinte e seis e dois mil e vinte
+
+63
+00:04:35.029 --> 00:04:39.779
+e sete pode ser positivo para as empresas de serviço.
+
+64
+00:04:39.790 --> 00:04:42.959
+Essa questão da reforma tributária,
+
+65
+00:04:43.500 --> 00:04:48.649
+só que perceba o seguinte Agora a gente vai brincar do filme de volta para
+
+66
+00:04:48.660 --> 00:04:53.350
+o futuro novamente e vamos para o ano de dois mil e trinta e três.
+
+67
+00:04:53.359 --> 00:04:57.929
+Então é o mesmo exemplo e vamos verificar o que ocorrerá
+
+68
+00:04:57.940 --> 00:05:02.329
+em dois mil e trinta e três o IRPJ e A,
+
+69
+00:05:02.339 --> 00:05:02.369
+C?
+
+70
+00:05:02.380 --> 00:05:08.589
+C? L? L? Por enquanto, não muda nada, né? A menos que em dois mil e vinte e quatro?
+
+71
+00:05:08.600 --> 00:05:10.369
+Pode ser que tenhamos aí
+
+72
+00:05:10.750 --> 00:05:17.959
+uma nova parte da reforma tributária, através do Projeto de Lei dois três três sete,
+
+73
+00:05:17.970 --> 00:05:19.959
+Mudando o IRPJ, né.
+
+74
+00:05:19.970 --> 00:05:22.660
+A gente mudou o exemplo de novo,
+
+75
+00:05:22.670 --> 00:05:27.839
+mas por enquanto não tem nenhuma mudança no IRPJ E na C S.
+
+76
+00:05:27.850 --> 00:05:28.579
+L L.
+
+77
+00:05:29.410 --> 00:05:31.480
+Então continua a mesma coisa
+
+78
+00:05:32.230 --> 00:05:41.480
+por dentro aqui. Só que o PIS COFINS e o ISS não terá mais. E aí terá o I B S.
+
+79
+00:05:41.489 --> 00:05:43.679
+E A C B S por fora.
+
+80
+00:05:43.690 --> 00:05:53.059
+Aqui eu estou com a mesma premissa de dezenove por cento de I, B s e dez por cento de C B S,
+
+81
+00:05:53.070 --> 00:05:53.220
+né?
+
+82
+00:05:53.230 --> 00:05:58.779
+Considerando como premissa, a gente não sabe quais serão de fato as alíquotas.
+
+83
+00:05:59.470 --> 00:06:04.399
+E aí olha o que que aconteceu com a alíquota nominal aqui foi pra
+
+84
+00:06:04.410 --> 00:06:10.480
+trinta e nove vírgula oitenta e oito por cento quando a gente faz,
+
+85
+00:06:10.489 --> 00:06:10.720
+né?
+
+86
+00:06:10.730 --> 00:06:14.660
+O cálculo do I R C S por dentro, e a I b S? C?
+
+87
+00:06:14.670 --> 00:06:23.079
+B s por fora a alíquota efetiva é de quarenta e um por cento, nesse caso, aqui, né?
+
+88
+00:06:23.089 --> 00:06:28.619
+O valor total de serviços vai ser de sete mil e sessenta reais.
+
+89
+00:06:29.089 --> 00:06:31.579
+Comparando com dois mil e vinte e seis que era de
+
+90
+00:06:31.589 --> 00:06:35.339
+cinco mil novecentos e sessenta e nove com o cenário atual,
+
+91
+00:06:35.350 --> 00:06:38.179
+que era cinco mil novecentos e noventa, ou seja,
+
+92
+00:06:38.190 --> 00:06:45.299
+aumentou consideravelmente o preço dos serviços,
+
+93
+00:06:45.309 --> 00:06:50.880
+porque passou a ter uma alta alíquota de I B S.
+
+94
+00:06:50.890 --> 00:06:55.459
+Atualmente, os serviços, no caso que a gente mostrou aqui,
+
+95
+00:06:55.470 --> 00:06:58.359
+ele era tributado apenas em dois por cento.
+
+96
+00:06:59.059 --> 00:06:59.589
+Só que,
+
+97
+00:06:59.600 --> 00:07:04.570
+como está sendo igual a tributação dos serviços com
+
+98
+00:07:04.579 --> 00:07:10.200
+mercadorias num único tributo IBS numa alíquota padrão,
+
+99
+00:07:10.209 --> 00:07:16.730
+essa reforma tributária não será benéfica para as empresas de serviços,
+
+100
+00:07:16.739 --> 00:07:21.785
+porque vai ter uma elevada aumento de carga tributária,
+
+101
+00:07:21.795 --> 00:07:27.475
+principalmente sobre as empresas do lucro presumido que também
+
+102
+00:07:27.484 --> 00:07:30.774
+tem o PIS COFINS menor de três virgula,
+
+103
+00:07:30.785 --> 00:07:36.454
+dezasseis e cinto, e vai deixar de existir Essa tributação menor,
+
+104
+00:07:37.119 --> 00:07:41.450
+por mais que seja permitida pras empresas tomar crédito
+
+105
+00:07:41.459 --> 00:07:46.709
+amplo de tudo que ela comprar ou contratar serviços.
+
+106
+00:07:46.720 --> 00:07:51.690
+O fato é que as prestadoras de serviços não tem tantas coisas que ela
+
+107
+00:07:51.700 --> 00:07:58.170
+compra ou tantos serviços que ela subcontrata para a sua prestação de serviços.
+
+108
+00:07:58.179 --> 00:08:06.190
+Então vai ter uma elevada aumento, um elevado aumento de carga tributária
+
+109
+00:08:06.940 --> 00:08:11.209
+para os serviços sem muita possibilidade de crédito.
+
+110
+00:08:11.220 --> 00:08:12.390
+Nesse caso,
+
+111
+00:08:12.399 --> 00:08:16.910
+aqui a gente viu que o valor do serviço em si aumentou
+
+112
+00:08:16.920 --> 00:08:21.149
+pra sete mil e sessenta reais e quarenta e um centavos,
+
+113
+00:08:21.160 --> 00:08:27.529
+sendo que na estrutura atual ele seria de cinco mil novecentos e noventa e dezoito.

@@ -1,0 +1,33 @@
+{
+  "id": 473549,
+  "title": "Podcast-Tabela NCM e suas alterações para 2024",
+  "position": 2,
+  "duration": 660,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/11c1bbe4-d30d-4e10-b6d1-35911f6f4a29/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/11c1bbe4-d30d-4e10-b6d1-35911f6f4a29/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/11c1bbe4-d30d-4e10-b6d1-35911f6f4a29/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/11c1bbe4-d30d-4e10-b6d1-35911f6f4a29/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/11c1bbe4-d30d-4e10-b6d1-35911f6f4a29/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

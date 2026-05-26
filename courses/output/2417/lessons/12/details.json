@@ -1,0 +1,33 @@
+{
+  "id": 465444,
+  "title": "Imposto de renda- Livro Caixa do Produtor Rural",
+  "position": 12,
+  "duration": 249,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bbf28039-0c3f-45f3-9b43-5bb293af9964/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbf28039-0c3f-45f3-9b43-5bb293af9964/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbf28039-0c3f-45f3-9b43-5bb293af9964/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbf28039-0c3f-45f3-9b43-5bb293af9964/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbf28039-0c3f-45f3-9b43-5bb293af9964/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+WEBVTT
+
+00:00:00.002 --> 00:00:07.473
+- E aí a gente vai usar aqui esse exemplo de séries irregulares para fazer o cálculo que eu trouxe
+
+00:00:07.473 --> 00:00:14.944
+- aqui para vocês. Então vamos lá, vamos ver que é sempre mais fácil fazermos com exemplos, né?
+
+00:00:14.944 --> 00:00:22.939
+- Fica mais palatável. Então vamos lá. Temos aqui esse exercício que a gente vai ler, nós vamos lê-los
+
+00:00:22.939 --> 00:00:28.318
+- juntos. Determinar a taxa interna de retorno referente a um empréstimo
+
+00:00:28.418 --> 00:00:40.348
+- de R$ 126.900,00 a ser liquidado em quatro pagamentos mensais e consecutivos de R$ 25.000,00, R$ 38.000,00,
+
+00:00:40.348 --> 00:00:49.406
+- R$ 45.000,00 e R$ 27.000,00. Calcule qual que é a taxa efetiva dessa operação.
+
+00:00:50.050 --> 00:00:56.139
+- O que a gente tem? A gente tem dizendo o seguinte, olha, um empréstimo entrou esse dinheiro para a
+
+00:00:56.139 --> 00:01:02.350
+- empresa, vamos ver que ela captou, por isso que a setinha está positiva, entrou o recurso, eles vão
+
+00:01:02.350 --> 00:01:08.683
+- ter que pagar isso em quatro parcelas, mas vejam, não é uma parcela igual, não é aquele PNT regular
+
+00:01:08.683 --> 00:01:15.198
+- com as parcelas iguais, a gente chama de série de fluxos irregulares. Claro que se eu fosse colocar aqui,
+
+00:01:15.490 --> 00:01:22.434
+- mas é que ficaria difícil da gente ilustrar, eu teria como se fosse, o maior valor aqui é 45 mil,
+
+00:01:22.434 --> 00:01:29.791
+- né, de saída de caixa, então teria que ser, se eu fosse pegar certinho aqui o eixo, né, das ordenadas,
+
+00:01:29.791 --> 00:01:36.735
+- eixo eixo, eu teria que pôr aqui, 45, depois 38, né, depois 27 e depois 25. Mas para não ficar um
+
+00:01:36.735 --> 00:01:43.748
+- negócio muito grande, só para vocês entenderem que a setinha para baixo significa saída de caixa.
+
+00:01:43.748 --> 00:01:45.054
+- Então, no momento
+
+00:01:45.186 --> 00:01:52.426
+- 1, nós teremos 25 mil de saída de caixa para pagar a primeira parcela. No momento 2, 38. No momento
+
+00:01:52.426 --> 00:01:59.524
+- 3, 45. No momento 4, 22. Então, essa operação, qual que é a taxa interna de retorno que a gente
+
+00:01:59.524 --> 00:02:07.190
+- chama? Porque aqui não é retorno, porque na verdade é um empréstimo, mas a gente usa essa nomenclatura,
+
+00:02:07.190 --> 00:02:12.798
+- taxa interna da operação. Então, o que a gente vai fazer? Vamos pegar a HP,
+
+00:02:14.114 --> 00:02:22.613
+- E aí nós vamos deixar aqui, sabendo que tem uma parcela aqui no 1, a gente deixa lá no G end normal,
+
+00:02:22.613 --> 00:02:31.113
+- não precisamos mexer muito porque não tem aqui no ato nenhum valor, não é G begin, então é G end.
+
+00:02:31.113 --> 00:02:39.530
+- Então nós vamos colocar assim, 126, nós vamos aplicar ali, apertar na célula, na célula não, mas
+
+00:02:39.530 --> 00:02:41.982
+- no botãozinho do HP, o GCF0.
+
+00:02:42.306 --> 00:02:49.461
+- Então é legal, se vocês estiverem estudando isso, deixa ali do lado de vocês a foto que eu coloquei
+
+00:02:49.461 --> 00:02:56.340
+- para vocês das teclas que a gente vai usar para fazer o cálculo, para que a gente aqui não fique
+
+00:02:56.340 --> 00:03:03.219
+- voltando e não dá para eu colocar no mesmo slide tudo junto, senão acaba poluindo. Mas as teclas
+
+00:03:03.219 --> 00:03:07.966
+- são exatamente essas, se vocês tiverem dúvida para encontrá-las,
+
+00:03:08.610 --> 00:03:16.976
+- ali na HP, deixem impresso aquela fotinho que eu pus a foto da HP se for mais fácil para vocês. Então
+
+00:03:16.976 --> 00:03:24.943
+- o que a gente faz? A gente vai clicar 126.000 GCF0, que é o momento zero ali da informação, como
+
+00:03:24.943 --> 00:03:33.150
+- se fosse a entrada daquele montante. As parcelas, como é que vai ser a primeira? Se aqui é positivo,
+
+00:03:33.762 --> 00:03:42.328
+- porque entrou o dinheiro, as parcelas serão saídas de caixa. Então eu tenho que colocar sempre esse
+
+00:03:42.328 --> 00:03:50.978
+- sinal do CHS porque é para entender que aquele valor vai ser negativo. A gente então vai dizer assim,
+
+00:03:50.978 --> 00:03:59.628
+- 126GCF0 positivo, 25CHSGCFJ. Significa que o CHS vai colocar o sinal negativo dessa parcela que a gente
+
+00:03:59.628 --> 00:04:02.206
+- está dizendo que é a parcela
+
+00:04:02.562 --> 00:04:10.801
+- X, de valor X, que é 25.000. E qual que é o período dessa parcela de 25.000? 1, período 1, G, N,
+
+00:04:10.801 --> 00:04:19.692
+- J. Porque aqui significa como se fosse a PMT, esse CFJ, substitui a tecla PMT quando temos séries regulares
+
+00:04:19.692 --> 00:04:28.176
+- e temos que usar essa tecla em azul lá cada vez que a gente for entrar para mostrar que é uma parcela
+
+00:04:28.176 --> 00:04:29.726
+- irregular. Então,
+
+00:04:30.082 --> 00:04:37.936
+- fazemos essa sequência quando chegar na segunda parcela não é 38 é uma parcela saída de caixa é
+
+00:04:37.936 --> 00:04:45.789
+- pagamento vou colocar de novo 38 CHS GCFJ porque tá fazendo essa parcela CFJ ficar negativa com esse
+
+00:04:45.789 --> 00:04:53.566
+- CHS na frente e qual que é o número né dessa parcela que é um professora porque que não é dois
+
+00:04:53.826 --> 00:05:01.452
+- Por que o número 2 continua sendo 1? Porque é uma parcela nesse valor. Olha a diferença. Se fossem
+
+00:05:01.452 --> 00:05:09.302
+- parcelas iguais aqui, ou até talvez fossem duas parcelas iguais, eu poderia colocar aqui o N2. Se fosse
+
+00:05:09.302 --> 00:05:17.003
+- a parcela 2 e 3 no mesmo valor, eu poderia colocar o valor, se fosse duas parcelas de 38, eu colocaria
+
+00:05:17.003 --> 00:05:23.358
+- aqui 38 CHSGCFJ e colocaria 2 IGNJ. Mas eu só tenho uma parcela de 38, então é 1.
+
+00:05:23.746 --> 00:05:35.984
+- Quantas parcelas eu tenho de 45? Uma também. Então eu vou colocar CHS, GCFJ, 45 CHS, GCFJ, 1 GNJ.
+
+00:05:35.984 --> 00:05:48.344
+- A última parcela de 27. 27 CHS, GCFJ e 1 GNJ, porque também é uma parcela só. No final eu coloco
+
+00:05:48.344 --> 00:05:50.302
+- F e RR, lembra?
+
+00:05:50.402 --> 00:05:56.851
+- Por quê? O IRR é a taxa interna de retorno para esse conceito de séries irregulares. Então, nós
+
+00:05:56.851 --> 00:06:03.235
+- conseguimos, na hora que eu faço esse FRR, ficar lá running, pensando, e vai trazer aqui uma taxa
+
+00:06:03.235 --> 00:06:09.684
+- interna de retorno dessa operação, que significa que ela tem uma taxa equivalente ao mês de 2,47%
+
+00:06:09.684 --> 00:06:16.196
+- ao mês. Por que ao mês? Porque tudo que eu fiz aqui é ao mês. Então, ela me traz a taxa ao mês.
+
+00:06:16.196 --> 00:06:18.878
+- Ah, mas professora, eu quero saber a taxa
+
+00:06:19.490 --> 00:06:25.444
+- Anual tá aqui ó, calcule a taxa efetiva anual, mas eu calculo ao mês da forma correta, porque eu
+
+00:06:25.444 --> 00:06:31.517
+- tenho os períodos em meses, e aí eu faço a continha de transformação, que é a taxa equivalente,
+
+00:06:31.517 --> 00:06:37.471
+- que a gente já aprendeu. E aqui é muito fácil, olha, eu pego, é muito fácil agora, que a gente
+
+00:06:37.471 --> 00:06:43.663
+- já viu lá atrás aquela questão de taxas equivalentes, eu pego 2,47 ao mês, divido por 100, sempre,
+
+00:06:43.663 --> 00:06:46.878
+- para transformar em número índice, somo 1, aqui ó.
+
+00:06:47.010 --> 00:06:55.191
+- Aí eu elevo isso aqui no Excel. Eu elevo a quanto? Isso aqui não é para um mês? O que eu quero não
+
+00:06:55.191 --> 00:07:03.057
+- é para um ano? Um ano não são 12 meses? Elevo a 12. Por que elevar e não multiplicar? Porque é
+
+00:07:03.057 --> 00:07:11.158
+- taxa de juros compostas. Certo? Então elevo a 12 e vou chegar no primeiro, no índice de 1,34017, que
+
+00:07:11.158 --> 00:07:16.350
+- eu tiro 1, multiplico por 100, eu chego numa taxa anual de 3402%.
+
+00:07:16.866 --> 00:07:24.614
+- Então essa operação, nesse formato, esse empréstimo, com essas propostas de pagamento de saídas
+
+00:07:24.614 --> 00:07:31.100
+- de caixas de valores diferentes em cada mês, tem um custo efetivo de 34,02% ao ano.

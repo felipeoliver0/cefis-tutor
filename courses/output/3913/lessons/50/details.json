@@ -1,0 +1,33 @@
+{
+  "id": 479539,
+  "title": "Estudo de caso - prática | parte 5",
+  "position": 50,
+  "duration": 469,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/bbe1b4e2-df44-4e22-b7fc-afebb2fb7007/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbe1b4e2-df44-4e22-b7fc-afebb2fb7007/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbe1b4e2-df44-4e22-b7fc-afebb2fb7007/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbe1b4e2-df44-4e22-b7fc-afebb2fb7007/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/bbe1b4e2-df44-4e22-b7fc-afebb2fb7007/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

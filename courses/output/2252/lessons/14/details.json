@@ -1,0 +1,33 @@
+{
+  "id": 464344,
+  "title": "Perda, subproduto e resíduo",
+  "position": 14,
+  "duration": 94,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/9ab6f529-e7e5-4c09-af70-554cb95bef77/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ab6f529-e7e5-4c09-af70-554cb95bef77/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ab6f529-e7e5-4c09-af70-554cb95bef77/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ab6f529-e7e5-4c09-af70-554cb95bef77/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/9ab6f529-e7e5-4c09-af70-554cb95bef77/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

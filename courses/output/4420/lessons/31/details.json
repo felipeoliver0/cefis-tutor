@@ -1,0 +1,33 @@
+{
+  "id": 486634,
+  "title": "Juros sobre capital próprio - Parte 1",
+  "position": 31,
+  "duration": 578,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/838a0f12-c97d-441e-8595-ddb58c9b5316/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/838a0f12-c97d-441e-8595-ddb58c9b5316/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/838a0f12-c97d-441e-8595-ddb58c9b5316/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/838a0f12-c97d-441e-8595-ddb58c9b5316/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/838a0f12-c97d-441e-8595-ddb58c9b5316/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

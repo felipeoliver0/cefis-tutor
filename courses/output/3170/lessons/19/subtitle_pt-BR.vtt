@@ -1,0 +1,457 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.059
+então, quais são os valores pra crédito?
+
+2
+00:00:02.069 --> 00:00:04.699
+Então, a gente percebeu que existe uma ressalva aí, né?
+
+3
+00:00:04.710 --> 00:00:08.699
+A Lei Kandir ela trouxe pra nós uma ressalva Não é só apenas a gente
+
+4
+00:00:08.710 --> 00:00:11.300
+olhar o ICMS destacado o diferencial de alíquota
+
+5
+00:00:11.310 --> 00:00:13.199
+e dividir por quarenta e oito parcelas.
+
+6
+00:00:13.210 --> 00:00:17.299
+A gente precisa de fato entender a composição das nossas saídas
+
+7
+00:00:17.309 --> 00:00:20.899
+pra gente fazer a proporcionalidade e quais são esses valores,
+
+8
+00:00:20.909 --> 00:00:22.629
+né Isso que é o que que fica pra nós
+
+9
+00:00:22.639 --> 00:00:26.280
+A nossa apuração eu trouxe pra vocês uma apuração completa,
+
+10
+00:00:26.290 --> 00:00:27.100
+por exemplo,
+
+11
+00:00:27.110 --> 00:00:32.400
+e aqui entra um critério da importância de você profissional da área tributária
+
+12
+00:00:32.409 --> 00:00:37.119
+profissional da área fiscal Entender a tabela do anexo um do convênio,
+
+13
+00:00:37.130 --> 00:00:39.299
+sem número de mil novecentos e setenta.
+
+14
+00:00:39.310 --> 00:00:41.000
+O que que tem essa tabela?
+
+15
+00:00:41.009 --> 00:00:44.560
+O c e p o p O CFOP pessoal é importante vocês
+
+16
+00:00:44.569 --> 00:00:49.400
+entenderem também que o anexo primeiro ele fala sobre o CFOP.
+
+17
+00:00:49.409 --> 00:00:52.259
+Ou seja, existe uma tabela gigantesca
+
+18
+00:00:52.770 --> 00:00:55.759
+de PS pra utilizar dentro de uma operação
+
+19
+00:00:56.479 --> 00:01:00.490
+e o c p u PS eles determinam as naturezas de operações.
+
+20
+00:01:00.500 --> 00:01:02.450
+Então esse é um ponto importante também,
+
+21
+00:01:02.459 --> 00:01:08.220
+que eu gosto de discutir porque muita gente se confunde a o objetivo do C p U P e o
+
+22
+00:01:08.230 --> 00:01:12.459
+objetivo da CST São duas siglas muito importantes e são
+
+23
+00:01:12.470 --> 00:01:15.830
+duas siglas que estão dentro dos nossos documentos comprobatórios,
+
+24
+00:01:15.839 --> 00:01:22.510
+seja a seja ele, seja ele qualquer tipo de documento fiscal atribuído ao SMS, né?
+
+25
+00:01:22.519 --> 00:01:23.949
+Incidência o ICMS
+
+26
+00:01:24.459 --> 00:01:27.750
+então se a p o p ele tem como trazer pra
+
+27
+00:01:27.760 --> 00:01:33.889
+nós a natureza da operação que está acontecendo em determinado documento.
+
+28
+00:01:33.900 --> 00:01:37.250
+Já a CST representa a questão da incidência do
+
+29
+00:01:37.260 --> 00:01:41.169
+ICMS que está sendo dentro dessa de operação.
+
+30
+00:01:41.180 --> 00:01:43.410
+Então, o que o pisco faz pra nós?
+
+31
+00:01:43.419 --> 00:01:47.720
+A gente tem a RF como vocês viram, aí eu mostrei pra vocês um exemplo.
+
+32
+00:01:47.730 --> 00:01:54.099
+A DANF é um documento auxiliar pra que a gente consiga validar se essas informações,
+
+33
+00:01:54.110 --> 00:01:54.470
+né?
+
+34
+00:01:54.480 --> 00:01:59.830
+Comerciais estão coerentes, ou seja a DAP serve mais pro transportador,
+
+35
+00:01:59.839 --> 00:02:04.470
+A DAP serve pra quem está recebendo os itens pra validar o pedido, né?
+
+36
+00:02:04.480 --> 00:02:07.790
+A DANF serve também pra gente fazer uma recusa de mercadoria.
+
+37
+00:02:07.800 --> 00:02:10.110
+Só que pra gente validar de fato todas as operações,
+
+38
+00:02:10.119 --> 00:02:12.229
+a gente tem que olhar numa escola eletrônica, Tá?
+
+39
+00:02:12.240 --> 00:02:13.210
+Esse é o primeiro ponto
+
+40
+00:02:13.850 --> 00:02:16.339
+só que na dump e também na nota psico eletrônica.
+
+41
+00:02:16.350 --> 00:02:19.979
+A gente tem um campo chamado natureza de operação.
+
+42
+00:02:19.990 --> 00:02:23.820
+Essa natureza de operação pode ser transcrita. Ou seja, a gente pode.
+
+43
+00:02:23.830 --> 00:02:28.369
+Tá falando lá no nosso sistema contábil o parâmetro de quando acontecer uma renda,
+
+44
+00:02:28.380 --> 00:02:30.080
+colocar operações de revenda,
+
+45
+00:02:30.559 --> 00:02:35.169
+quando for um uso e consumo, operações pra de consumo, se for uma devolução,
+
+46
+00:02:35.179 --> 00:02:37.250
+devoluções de compras, por exemplo,
+
+47
+00:02:37.259 --> 00:02:44.029
+tá Então é importante vocês entenderem que esse campo o físico não consegue fazer
+
+48
+00:02:44.360 --> 00:02:47.970
+cruzamento de informação. Então o que que ele usa o C F A P?
+
+49
+00:02:47.979 --> 00:02:53.210
+Então quem determina a natureza da operação de fato, é o CFOP.
+
+50
+00:02:53.220 --> 00:02:54.729
+Então por ser um código,
+
+51
+00:02:54.740 --> 00:02:58.169
+o fisico consegue entender de fato sobre aquela nota psico eletrônica,
+
+52
+00:02:58.179 --> 00:03:00.029
+o que que de fato aconteceu.
+
+53
+00:03:00.039 --> 00:03:00.410
+Então,
+
+54
+00:03:00.419 --> 00:03:03.669
+por isso que o fisco hoje valida o CFOP
+
+55
+00:03:03.679 --> 00:03:06.990
+pra gente fazer as composições de cálculos também.
+
+56
+00:03:07.429 --> 00:03:10.320
+E nessa tratativa, quando vocês olham, por exemplo,
+
+57
+00:03:10.330 --> 00:03:13.440
+a apuração completa do seu cliente das saídas,
+
+58
+00:03:13.449 --> 00:03:19.080
+vocês precisam entender quais são os C p u PS que estão sendo utilizados bem.
+
+59
+00:03:19.089 --> 00:03:21.479
+Então, no ano de dois mil e vinte e quatro,
+
+60
+00:03:21.490 --> 00:03:25.320
+a gente teve um ajuste agora que a partir de primeiro de junho de dois mil,
+
+61
+00:03:25.330 --> 00:03:28.220
+e vinte e quatro, a gente tem uma nova tabela de P o P.
+
+62
+00:03:28.820 --> 00:03:31.309
+Essa nova tabela, ela não trouxe novos CP PS,
+
+63
+00:03:31.320 --> 00:03:36.869
+mas ela trouxe alterações nas nossas descrições do CFOP, ou seja,
+
+64
+00:03:36.880 --> 00:03:42.270
+a determinação de fato de qual c PP a gente utilizar.
+
+65
+00:03:42.279 --> 00:03:45.830
+Então veja que o quanto é importante a gente se manter atualizado, né?
+
+66
+00:03:45.839 --> 00:03:51.270
+Porque a gente está tão habitual a utilizar o C, p u P por determinada descrição, né?
+
+67
+00:03:51.279 --> 00:03:54.759
+E a gente teve esse ajuste que a partir de agora, de primeiro de junho,
+
+68
+00:03:54.770 --> 00:03:58.080
+de dois mil e vinte e quatro, a gente sofreu algumas descrições alteradas.
+
+69
+00:03:58.089 --> 00:04:02.839
+Então fica o dever de casa da gente validar de fato, quais são os PS, né?
+
+70
+00:04:02.850 --> 00:04:08.639
+Que vocês estão usando pra que entenda essa descrição alterada? Ou não, né?
+
+71
+00:04:08.649 --> 00:04:12.759
+Porque a gente tá de uma atualização e que tudo isso é importante,
+
+72
+00:04:12.770 --> 00:04:16.108
+que a gente vai precisar entender quais são as operações de
+
+73
+00:04:16.119 --> 00:04:19.880
+cada CP p pra gente trazer a proporcionalidade do crédito,
+
+74
+00:04:19.890 --> 00:04:22.130
+a proporcionalidade do cálculo do SEP.
+
+75
+00:04:22.140 --> 00:04:27.010
+Se a gente não entende o que é o C PP cento e cinco, um, cinco, dois,
+
+76
+00:04:27.019 --> 00:04:29.510
+cinco novecentos e quinze cinco novecentos e vinte e um,
+
+77
+00:04:29.790 --> 00:04:33.559
+A gente não vai ter o critério pra fazer o cálculo pro SP.
+
+78
+00:04:33.570 --> 00:04:36.899
+Por isso que tá vendo como é importante vários pilares, né?
+
+79
+00:04:36.910 --> 00:04:39.200
+Eu falei pra vocês sobre o anexo primeiro do convênio,
+
+80
+00:04:39.209 --> 00:04:42.880
+sem número e de um ajuste que aconteceu agora nesse convênio,
+
+81
+00:04:42.890 --> 00:04:46.760
+que é o três de dois mil e vinte e quatro, e que tem a ver com o cálculo do SP.
+
+82
+00:04:46.769 --> 00:04:48.820
+Tá? Então, atenção aí quanto a isso
+
+83
+00:04:49.160 --> 00:04:53.589
+Então, aqui, pra vocês entenderem o que que eu fiz aqui, fiz uma apuração completa,
+
+84
+00:04:53.600 --> 00:04:56.149
+ou seja, eu trouxe em alguns o P, né?
+
+85
+00:04:56.160 --> 00:05:03.489
+Trouxe em valores totais, base do ICMS, valor do ICMS isentas e outras tudo bem.
+
+86
+00:05:03.500 --> 00:05:08.250
+Então, aqui de fato aconteceu uma apuração, ou seja, documentos emitidos e aqui,
+
+87
+00:05:08.260 --> 00:05:11.750
+a gente tem a questão da totalização dos valores.
+
+88
+00:05:11.760 --> 00:05:14.329
+O que o Fisco fala pra gente sobre a exceção?
+
+89
+00:05:14.339 --> 00:05:18.910
+A gente precisa validar o total das saídas, que nesse caso é de onze mil e cem
+
+90
+00:05:19.339 --> 00:05:24.989
+e quais são as saídas tributárias dentro do período? Nesse caso é seis mil reais.
+
+91
+00:05:25.000 --> 00:05:27.869
+Por que que aqui existe uma discrepância, né?
+
+92
+00:05:27.880 --> 00:05:30.869
+De valores porque existem dois presos, Ou seja,
+
+93
+00:05:30.880 --> 00:05:35.549
+duas naturezas são que não tem incidência do I c m f.
+
+94
+00:05:35.559 --> 00:05:40.929
+Tá vendo? Então aqui a gente fala sobre eh conserto. Tá que é o remesso de conserto
+
+95
+00:05:41.600 --> 00:05:44.570
+e aqui a gente fala sobre remessa de vasilha e que
+
+96
+00:05:44.579 --> 00:05:48.709
+geralmente os regulamentos eles trabalham uma suspensão ou uma não incidência.
+
+97
+00:05:48.720 --> 00:05:52.109
+Nesse caso eu estou falando sobre o regulamento de São Paulo tá.
+
+98
+00:05:52.119 --> 00:05:56.290
+E por que eu falo isso, porque aqui pode obter alteração no seu cliente.
+
+99
+00:05:56.299 --> 00:06:00.010
+Porque se você estiver falando por exemplo, de um estado que no seu estado,
+
+100
+00:06:00.019 --> 00:06:05.494
+a remessa de conserto, ela não é não incidente, ela é suspensa ou deferida.
+
+101
+00:06:05.505 --> 00:06:09.434
+A gente altera de Quin os quinhentos reais aqui de isentas pra outras.
+
+102
+00:06:09.445 --> 00:06:11.674
+Mas o cálculo em si, ele não vai mudar,
+
+103
+00:06:11.684 --> 00:06:16.494
+porque a a questão é a gente de fato excluir as isentas e outras tudo bem.
+
+104
+00:06:16.505 --> 00:06:19.375
+Então, lembrando que a gente tem esses critérios do ICMS,
+
+105
+00:06:19.385 --> 00:06:21.475
+é importante pra gente validar nos regulamentos
+
+106
+00:06:22.070 --> 00:06:24.200
+total das saídas e saídas tributárias.
+
+107
+00:06:24.209 --> 00:06:26.399
+É isso que a gente precisa ter pra gente fazer
+
+108
+00:06:26.410 --> 00:06:30.179
+o controle do crédito do ICMS sobre ativo permanente.
+
+109
+00:06:30.190 --> 00:06:30.600
+Então,
+
+110
+00:06:30.609 --> 00:06:33.920
+é importante considerar quais são as operações de saída que
+
+111
+00:06:33.929 --> 00:06:37.059
+devem ser levadas em conta no cálculo do crédito.
+
+112
+00:06:37.070 --> 00:06:41.160
+E como a gente sabe disso, a gente precisa entender a tabela do C PP,
+
+113
+00:06:41.170 --> 00:06:44.279
+Quais são as operações que o seu cliente está operacionalizando,
+
+114
+00:06:44.290 --> 00:06:45.940
+dentro dos documentos fiscais?

@@ -1,0 +1,33 @@
+{
+  "id": 488080,
+  "title": "Bloco J",
+  "position": 31,
+  "duration": 596,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/aba64ba9-b308-4816-b4d6-a93ef0e68bed/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aba64ba9-b308-4816-b4d6-a93ef0e68bed/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aba64ba9-b308-4816-b4d6-a93ef0e68bed/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aba64ba9-b308-4816-b4d6-a93ef0e68bed/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/aba64ba9-b308-4816-b4d6-a93ef0e68bed/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

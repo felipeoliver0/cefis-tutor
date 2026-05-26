@@ -1,0 +1,33 @@
+{
+  "id": 472739,
+  "title": "IVA",
+  "position": 6,
+  "duration": 432,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7e9838e9-a650-4c38-9eef-50d08c8e62cf/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e9838e9-a650-4c38-9eef-50d08c8e62cf/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e9838e9-a650-4c38-9eef-50d08c8e62cf/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e9838e9-a650-4c38-9eef-50d08c8e62cf/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7e9838e9-a650-4c38-9eef-50d08c8e62cf/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

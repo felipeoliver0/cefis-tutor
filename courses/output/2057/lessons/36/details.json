@@ -1,0 +1,33 @@
+{
+  "id": 461939,
+  "title": "Direito de preferência na locação",
+  "position": 36,
+  "duration": 286,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6804a586-2b76-4eb0-ae93-1fe88888bbfc/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6804a586-2b76-4eb0-ae93-1fe88888bbfc/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6804a586-2b76-4eb0-ae93-1fe88888bbfc/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6804a586-2b76-4eb0-ae93-1fe88888bbfc/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6804a586-2b76-4eb0-ae93-1fe88888bbfc/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

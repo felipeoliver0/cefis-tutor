@@ -1,0 +1,271 @@
+WEBVTT
+
+00:00:00.034 --> 00:00:07.143
+- lá no guia prático, a gente já consegue observar que, para cada bloco, a gente existe um conjunto
+
+00:00:07.143 --> 00:00:14.464
+- de informação e, além disso, nós temos um portal do FD Contribuições onde relata quais são essas
+
+00:00:14.464 --> 00:00:21.855
+- estruturas. Então, a gente tem um guia prático validado dentro desse portal, onde os sistemas precisam
+
+00:00:21.855 --> 00:00:28.542
+- sempre se adequar às últimas atualizações. Então, esse é o ponto importante para vocês.
+
+00:00:29.250 --> 00:00:35.552
+- Entendam que está sendo construído um conjunto de informação e para cada informação existe um
+
+00:00:35.552 --> 00:00:42.232
+- bloco, e para cada bloco vai existir cada registro. Um outro ponto importante para vocês também, quando
+
+00:00:42.232 --> 00:00:45.950
+- a gente pensa no FD Contribuições, é que ele é formado
+
+00:00:46.370 --> 00:00:53.102
+- pelo TXT, por um bloco de notas. Todas as informações que estão no sistema operacional ou com um
+
+00:00:53.102 --> 00:00:59.834
+- TAB do seu cliente, ele tem uma estrutura vinda do guia prático, onde ele relaciona isso dentro de
+
+00:00:59.834 --> 00:01:07.038
+- um arquivo TXT, um arquivo de bloco de notas. E não sei se vocês repararam dentro do material de vocês,
+
+00:01:07.586 --> 00:01:14.673
+- Todo registro, quando a gente fala, por exemplo, do bloco zero, ele se inicia com zero. Então, a gente
+
+00:01:14.673 --> 00:01:21.624
+- tem o 001, temos 0110, 0120, 0140. Então, sempre que iniciar com esse zero é porque estamos falando
+
+00:01:21.624 --> 00:01:28.506
+- de abertura, identificação, cadastros iniciais. Se vocês pararem para olhar aqui também, estamos
+
+00:01:28.506 --> 00:01:32.254
+- lidando com o registro A. Então, aqui já se trata de
+
+00:01:32.418 --> 00:01:39.096
+- Há documentos fiscais de serviço, aqueles que têm incidência do ISS, que está dentro da sua lei
+
+00:01:39.096 --> 00:01:45.708
+- complementar 116. O C, que é o bloco C, que aqui a gente não tem movimentação, até porque aqui
+
+00:01:45.708 --> 00:01:52.717
+- eu estou mostrando para vocês a estrutura do FD Contribuições. O bloco C, ele também, olha, inicia-se
+
+00:01:52.717 --> 00:01:59.329
+- com C, ele está lidando com documentos que têm bens, itens, mercadorias, com incidência do ICMS,
+
+00:01:59.329 --> 00:02:01.246
+- com incidência do IPI, tá?
+
+00:02:01.922 --> 00:02:07.659
+- A mesma coisa se dá com o bloco D, né? Quando a gente fala sobre o bloco D, a gente está lidando
+
+00:02:07.659 --> 00:02:13.741
+- ainda com a incidência do ICMS, porém, lidando com comunicação, serviços que lidam com a incidência
+
+00:02:13.741 --> 00:02:19.134
+- do ICMS, mas comunicação, transporte, então, eles estão entrelados ao bloco D. O bloco F,
+
+00:02:19.330 --> 00:02:25.608
+- sobre os demais documentos que não têm um documento comprobatório, e aí a gente começa as apurações.
+
+00:02:25.608 --> 00:02:31.713
+- Como eu disse para vocês, o bloco M tem dois conjuntos, porque estamos falando de PIS e COFINS. Então,
+
+00:02:31.713 --> 00:02:37.526
+- a estrutura, para quem ainda não vivenciou esse FD Contribuições, é dessa forma que acontece. E
+
+00:02:37.526 --> 00:02:43.572
+- como você pode analisar uma auditoria, como você pode analisar aquele guia prático antes de analisar
+
+00:02:43.572 --> 00:02:45.374
+- aquele guia prático completo?
+
+00:02:46.146 --> 00:02:52.887
+- olhar a sua escrituração e desenhar aquilo que a gente precisa analisar. Separem por quatro pilares.
+
+00:02:52.887 --> 00:02:59.693
+- A sua escrituração digital, sua escrituração fiscal, ela é separada por quatro momentos. Primeiro,
+
+00:02:59.693 --> 00:03:06.238
+- a gente lida com cadastros, certo? Então, cadastro de produto, cadastro do nosso próprio cliente.
+
+00:03:06.562 --> 00:03:14.335
+- E o ponto importante para vocês é que às vezes, pessoal, acontecem algumas particularidades societárias
+
+00:03:14.335 --> 00:03:21.747
+- no nosso contribuinte e que não é passado para os parâmetros sistêmicos. Então, atenção, se há
+
+00:03:21.747 --> 00:03:28.944
+- uma alteração societária, se há uma alteração de endereço, essas alterações, elas precisam
+
+00:03:28.944 --> 00:03:34.270
+- refletir os registros dentro das obrigações acessórias do seu cliente.
+
+00:03:34.722 --> 00:03:40.749
+- Então, como eu falei para vocês, o ponto-chave de qualquer tipo de auditoria, de qualquer tipo de
+
+00:03:40.749 --> 00:03:46.897
+- análise, de estruturação dentro do Projeto Exped são os cadastros. Então, desde o cadastro de um
+
+00:03:46.897 --> 00:03:53.106
+- fornecedor, de um cliente, até o nosso próprio contribuinte. Analisar se existe alguma atualização
+
+00:03:53.106 --> 00:03:57.566
+- cadastral para que isso reflita dentro das suas obrigações acessórias.
+
+00:03:57.858 --> 00:04:05.090
+- O que eu estou falando parece óbvio, mas existem muitas inconsistências ainda apresentando esse contexto.
+
+00:04:05.090 --> 00:04:11.787
+- Eu falo para vocês por um caso prático. Eu já estive dentro de uma empresa que teve uma mudança
+
+00:04:11.787 --> 00:04:17.278
+- de endereço e não foi separado e não foi informado, mesmo que tivesse sido uma
+
+00:04:17.442 --> 00:04:24.551
+- alteração de fato física não foi comunicado direito para os responsáveis de sistema. Então, o
+
+00:04:24.551 --> 00:04:31.803
+- que aconteceu? Os documentos fiscais emitidos por essa empresa começaram a sair com endereço antigo
+
+00:04:31.803 --> 00:04:38.912
+- e foi um fornecedor que se atentou e levantou a mão para informar a empresa que, de fato, as notas
+
+00:04:38.912 --> 00:04:45.808
+- fiscais estavam saindo sem essa atualização. Então, atenção, tudo aquilo que parece óbvio,
+
+00:04:45.808 --> 00:04:47.230
+- às vezes, por sair
+
+00:04:47.362 --> 00:04:53.456
+- do caminho da comunicação assertiva, a gente pode ter um grande problema. Então, por isso que eu
+
+00:04:53.456 --> 00:04:59.549
+- defendo aqui para vocês o seguinte, identifiquem os cadastros do seu cliente, tá? Mesmo que você
+
+00:04:59.549 --> 00:05:05.948
+- seja um contador, mesmo que você seja um tributarista ou um profissional da área fiscal que não está
+
+00:05:05.948 --> 00:05:12.651
+- envolvido nessa parte operacional, se atentem a essas atividades, porque todo e qualquer tipo de informação
+
+00:05:12.651 --> 00:05:15.454
+- está atrelado à sua obrigação acessória.
+
+00:05:15.810 --> 00:05:22.853
+- seja o SPAD fiscal, seja a SD, seja a ECF, seja o FD-REINF. Então, todas as informações cadastrais
+
+00:05:22.853 --> 00:05:30.242
+- interferem na sua obrigação acessória. E pode ser que o programa validador não te dê inconsistência.
+
+00:05:30.242 --> 00:05:36.525
+- Até porque é importante relatar para vocês que o programa validador vai trazer qualquer
+
+00:05:36.525 --> 00:05:42.878
+- tipo de inconsistência quando apresentado dentro de uma estrutura. Caso a estrutura esteja
+
+00:05:43.138 --> 00:05:50.457
+- correta, as informações estejam ali, ele não vai te dar uma inconsistência. Mas isso não quer dizer
+
+00:05:50.457 --> 00:05:57.567
+- que aquela informação, ela é congruente, ela está na conformidade. Então, atenção, faça parte
+
+00:05:57.567 --> 00:06:04.678
+- desses cadastros. Quem faz o cadastro do produto do seu cliente? Será que ele sabe a importância do
+
+00:06:04.678 --> 00:06:11.230
+- enfoque do declarante? Será que ele sabe diagnosticar a finalidade daquele determinado item?
+
+00:06:11.522 --> 00:06:17.325
+- Porque, eu não sei se vocês sabem, mas quando a gente fala sobre a não-cumulatividade no sistema
+
+00:06:17.325 --> 00:06:23.361
+- tributário que nós estamos vivenciando hoje, nós precisamos dessa penalidade para tomada de crédito
+
+00:06:23.361 --> 00:06:29.165
+- do physical fins quando a sua empresa estiver na sistemática não-cumulativa, quando a sua empresa
+
+00:06:29.165 --> 00:06:31.486
+- for do lucro real, por exemplo. Então,
+
+00:06:31.842 --> 00:06:38.569
+- Para aqueles que estão à frente de cadastro de produto, eles precisam saber sobre a atividade operacional
+
+00:06:38.569 --> 00:06:44.860
+- do seu cliente, o porquê e qual motivo que está sendo adquirido aquele determinado item, porque se
+
+00:06:44.860 --> 00:06:47.102
+- ele não fizer um cadastro correto,
+
+00:06:47.650 --> 00:06:55.020
+- O seu fechamento, a sua apuração vai estar incongruente, não vai estar na conformidade. E pode ser
+
+00:06:55.020 --> 00:07:02.317
+- que a gente não esteja até se aproveitando de créditos devidos por conta dessas inconsistências.
+
+00:07:02.317 --> 00:07:09.975
+- Então, separando a escrituração digital, escrituração fiscal do FD Contribuições, desmembre nesses
+
+00:07:09.975 --> 00:07:16.478
+- quatro pilares. Primeiro, o bloco de cadastro. Defina as operações do seu contribuinte.
+
+00:07:16.578 --> 00:07:24.054
+- Entenda a atividade do seu cliente, entenda quem são os responsáveis pelos cadastros. Então, definição
+
+00:07:24.054 --> 00:07:31.115
+- de parâmetros de conformidade sobre a operação. O segundo pilar é as operações, ou seja, dentro
+
+00:07:31.115 --> 00:07:38.245
+- das movimentações que acontecem no seu contribuinte, atividade operacional ou não operacional, são
+
+00:07:38.245 --> 00:07:39.422
+- movimentações.
+
+00:07:39.906 --> 00:07:46.219
+- Então, quando a gente fala sobre atividades não operacionais e você está no lucro real, está na
+
+00:07:46.219 --> 00:07:52.719
+- sistemática não cumulativa, a gente sabe que existe uma particularidade. Então, todas as operações
+
+00:07:52.719 --> 00:07:59.032
+- que têm movimento, seja documentos comprobatórios, seja não documentos comprobatórios que estão
+
+00:07:59.032 --> 00:08:05.408
+- relacionados à contabilidade, a gente precisa saber que essas operações possuem registros e blocos
+
+00:08:05.408 --> 00:08:08.158
+- para registro dentro do FD Contribuições.
+
+00:08:08.450 --> 00:08:15.251
+- apurações e as contribuições, ou seja, é a validação daquilo que está no cadastro, é a validação
+
+00:08:15.251 --> 00:08:21.548
+- daquilo que está no movimento dentro do período que você está apurando. E, obviamente, o quarto
+
+00:08:21.548 --> 00:08:28.160
+- pilar é quando a gente fala sobre um complemento de escrituração, quando existe saldo, quando existem
+
+00:08:28.160 --> 00:08:34.520
+- exceções, parâmetros. Então, sempre que você for validar, auditar, escriturar a sua obrigação
+
+00:08:34.520 --> 00:08:38.046
+- acessória e que seja relacionada a FD Contribuições,
+
+00:08:38.594 --> 00:08:46.168
+- Desmembre essas informações. Caso você esteja na operação e não consiga fazer essas auditorias
+
+00:08:46.168 --> 00:08:53.668
+- mensais, que você realize essas auditorias trimestralmente, semestralmente, mas faça isso, porque
+
+00:08:53.668 --> 00:09:01.467
+- vocês podem estar perdendo oportunidade de aproveitamento de crédito ou fazendo com que o seu cliente
+
+00:09:01.467 --> 00:09:04.542
+- faça uma arrecadação indevida, porque
+
+00:09:04.770 --> 00:09:12.764
+- o programa validador, ele tem como principal objetivo trazer uma validação da estrutura e não sobre
+
+00:09:12.764 --> 00:09:18.430
+- as informações da conformidade e da congruência sobre as operações.

@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.630
+pessoal chegou a hora da nossa prática avançada e simulações.
+
+2
+00:00:03.640 --> 00:00:09.539
+Nesse modo, a gente vai fazer a digitação da estruturação lá no P V A da F D, né?
+
+3
+00:00:09.550 --> 00:00:12.659
+Então a gente vai gerar um arquivo da F D lá no nosso programa
+
+4
+00:00:12.670 --> 00:00:16.299
+P V A e a gente vai ver como que isso é feito.
+
+5
+00:00:16.309 --> 00:00:21.090
+Tá, então o P V A pra ref. Nós vamos fazer diferente a RF.
+
+6
+00:00:21.100 --> 00:00:23.260
+Ela não tem um programa fornecido pelo fisco,
+
+7
+00:00:23.270 --> 00:00:28.010
+como a como a F D do ICMS P I e o F D de contribuições.
+
+8
+00:00:28.020 --> 00:00:28.399
+Tem
+
+9
+00:00:28.709 --> 00:00:33.139
+então pra F D do nós Vamos pegar ver lá
+
+10
+00:00:33.150 --> 00:00:36.360
+no arquivo digital como que é feita a especificação,
+
+11
+00:00:36.369 --> 00:00:39.189
+e vamos transportar isso pro arquivo X ML pra gente ver como que
+
+12
+00:00:39.200 --> 00:00:42.080
+vai ficar o arquivo final a ser enviado pro fisco Tá bom,
+
+13
+00:00:42.090 --> 00:00:42.869
+então vamos lá.
+
+14
+00:00:42.880 --> 00:00:43.419
+Vamos começar

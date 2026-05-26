@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 2369,
+    "title": "Repetro-SPED",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso de Repetro-SPED você aprenderá desde as características e modalidades deste regime aduaneiro tributário, até a diferenciação entre Repetro ou Repetro Sped, bem como a diferença entre o Regime Aduaneiro Especial (RAE) e o Regime Tributário Especial (RTE), Repetro como um regime híbrido e o Repetro Sped para entender desde os fundamentos, conceitos, critérios, e pontos de atenção quanto ao Regime Aduaneiro Especial de Repetro-Sped  (Decreto nº 6.759, de 2009, art. 458, caput) e colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/c0927334b5c6612b41e070c210ce37e61727451477.jpg",
+    "goals": [
+      "Compreender os conceitos fundamentais relacionados ao regime de Repetro; Mapear as diferenças entre as diferentes modalidades do Repetro-Sped; Detalhar as condições, requisito para utilização e manutenção do regime; Reconhecer os benefícios resultado da utilização do regime."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 2460,
+    "keywords": "repetro;repetro-sped",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 135,
+    "averageRating": 9.13,
+    "practiceAverage": 8.97,
+    "trailer": {
+      "id": "19f1603f-219b-487d-aba0-cd901e5d4604",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/19f1603f-219b-487d-aba0-cd901e5d4604/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/19f1603f-219b-487d-aba0-cd901e5d4604/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/19f1603f-219b-487d-aba0-cd901e5d4604/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/19f1603f-219b-487d-aba0-cd901e5d4604/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-11-30T18:21:53.000Z",
+      "updatedAt": "2022-11-30T18:21:53.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-12-07T16:22:00.000Z",
+    "recordedAt": "2022-11-12T00:00:00.000Z",
+    "createdAt": "2022-11-16T18:06:17.000Z"
+  }
+}

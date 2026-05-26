@@ -1,0 +1,33 @@
+{
+  "id": 482508,
+  "title": "Propósito",
+  "position": 9,
+  "duration": 206,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1f1b3aaf-8f75-4e96-aeb5-1e5246afa56b/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1f1b3aaf-8f75-4e96-aeb5-1e5246afa56b/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1f1b3aaf-8f75-4e96-aeb5-1e5246afa56b/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1f1b3aaf-8f75-4e96-aeb5-1e5246afa56b/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1f1b3aaf-8f75-4e96-aeb5-1e5246afa56b/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

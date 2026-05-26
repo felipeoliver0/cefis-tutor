@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 3940,
+    "title": "Consolidação de Balanços 2026",
+    "subtitle": "2026",
+    "summary": "As normas aplicáveis seguem o CPC 36 (R3), Os conceitos de controladora, controlada e coligada, aprenda a identificar situações de controle e influência significativa, e aplicar as normas CPC/IFRS mais atuais.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/b941eb79-2764-4f97-9fd3-04520b9e398d-thumbnail.png",
+    "goals": [
+      "O objetivo do curso sobre consolidação de balanço é capacitar o participante a compreender e aplicar as normas contábeis vigentes (CPC/IFRS), interpretar corretamente situações de controle societário, eliminar transações intragrupo e elaborar demonstrações consolidadas completas, fornecendo ferramentas práticas para análise financeira e tomada de decisão em grupos empresariais."
+    ],
+    "teacher": {
+      "id": 539395,
+      "name": "MAURI JOSÉ ALBERTI",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1634085836.jpeg"
+    },
+    "duration": 8088,
+    "keywords": "consolidação;conhecimento;aprendizagem;gestão;estratégias",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 30,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      5,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 265,
+    "averageRating": 9.23,
+    "practiceAverage": 9.18,
+    "trailer": {
+      "id": "1798ee06-ae12-4b72-afcc-8cf6b07d379d",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1798ee06-ae12-4b72-afcc-8cf6b07d379d/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1798ee06-ae12-4b72-afcc-8cf6b07d379d/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1798ee06-ae12-4b72-afcc-8cf6b07d379d/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/1798ee06-ae12-4b72-afcc-8cf6b07d379d/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-09-22T01:02:01.000Z",
+      "updatedAt": "2025-09-22T01:02:01.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-09-22T01:08:35.000Z",
+    "recordedAt": "2025-08-25T00:00:00.000Z",
+    "createdAt": "2025-08-25T06:19:14.000Z"
+  }
+}

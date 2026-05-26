@@ -1,0 +1,33 @@
+{
+  "id": 465424,
+  "title": "Atividade- Método Não Monetário",
+  "position": 12,
+  "duration": 440,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f4e52a42-ce69-4f93-a2d6-b7bc5c674de1/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f4e52a42-ce69-4f93-a2d6-b7bc5c674de1/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f4e52a42-ce69-4f93-a2d6-b7bc5c674de1/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f4e52a42-ce69-4f93-a2d6-b7bc5c674de1/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f4e52a42-ce69-4f93-a2d6-b7bc5c674de1/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

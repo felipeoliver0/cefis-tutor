@@ -1,0 +1,33 @@
+{
+  "id": 468313,
+  "title": "DANFE",
+  "position": 14,
+  "duration": 341,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7128682f-f232-4704-bd66-a48d1d003c42/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7128682f-f232-4704-bd66-a48d1d003c42/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7128682f-f232-4704-bd66-a48d1d003c42/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7128682f-f232-4704-bd66-a48d1d003c42/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7128682f-f232-4704-bd66-a48d1d003c42/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

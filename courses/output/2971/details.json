@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 2971,
+    "title": "DRE - Demonstração do Resultado do Exercício",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de Demonstração do Resultado do Exercício (DRE) você vai aprender desde a estrutura geral, a de receitas e de custos, até pontos relacionados aos resultado operacional bruto e margem de contribuição, resultado líquido, indicadores de rentabilidade e muitos outros pontos para por em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/355c3f9731bb31b52deac43f03b070fa1728384890.jpg",
+    "goals": [
+      "Capacitar os alunos com instrumental técnico para elaborar, analisar e diagnosticar a situação econômico-financeira de Empresas, com foco na DRE (Demonstração do Resultado do Exercício), para que o profissional entenda linha por linha da DRE."
+    ],
+    "teacher": {
+      "id": 296949,
+      "name": "Rosana Gonzalez Dannibale",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/d0ddb146a9f4319ac432830ad2e712611559154132.jpg"
+    },
+    "duration": 11130,
+    "keywords": "DRE;Demonstração do Resultado do Exercício",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 49,
+    "materialCount": 3,
+    "hasMaterials": true,
+    "categories": [
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 2774,
+    "averageRating": 9.27,
+    "practiceAverage": 9.22,
+    "trailer": {
+      "id": "3b2e3dbf-d0bc-431f-99ee-9838b00ad381",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3b2e3dbf-d0bc-431f-99ee-9838b00ad381/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3b2e3dbf-d0bc-431f-99ee-9838b00ad381/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3b2e3dbf-d0bc-431f-99ee-9838b00ad381/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/3b2e3dbf-d0bc-431f-99ee-9838b00ad381/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2024-01-15T05:51:42.000Z",
+      "updatedAt": "2024-01-15T05:51:42.000Z"
+    },
+    "crcActive": true,
+    "crcCreditHours": 7,
+    "crcScore": {
+      "id": 293,
+      "courseId": 2971,
+      "crcCode": "SP-35369",
+      "data": [
+        {
+          "name": "AUD",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PERITO",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "CMN",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "SUSEP",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PREVICAUD",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PROGP",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PRORT",
+          "values": [
+            7
+          ]
+        },
+        {
+          "name": "PREVIC",
+          "values": [
+            7
+          ]
+        }
+      ],
+      "year": 2026,
+      "createdAt": "2026-01-09T18:36:52.000Z",
+      "updatedAt": "2026-01-09T18:36:52.000Z"
+    },
+    "launchDate": "2024-01-19T09:47:15.000Z",
+    "recordedAt": "2023-12-18T00:00:00.000Z",
+    "createdAt": "2023-12-17T23:07:33.000Z"
+  }
+}

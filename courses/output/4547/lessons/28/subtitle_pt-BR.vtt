@@ -1,0 +1,457 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:06.339
+Aqui nós vamos ter os parâmetros de tributação, que também nós já preenchemos.
+
+3
+00:00:06.339 --> 00:00:12.339
+No nosso exemplo, eu coloquei lucro real anual, então ele me abre os 12 meses ali, está vendo?
+
+4
+00:00:12.339 --> 00:00:14.400
+Já me abre os 12 meses.
+
+5
+00:00:14.400 --> 00:00:17.440
+Extraído o dado automático, já vem para cá.
+
+6
+00:00:17.440 --> 00:00:21.339
+Eu estou visualizando se está tudo correto, perfeito?
+
+7
+00:00:21.339 --> 00:00:24.399
+Tem alguns dados que ele não me permite mudar.
+
+8
+00:00:24.399 --> 00:00:27.239
+Se eu errei, eu tenho que deletar e fazer de novo.
+
+9
+00:00:27.239 --> 00:00:32.140
+Agora, tem alguns dados que ele me permite alterar, eu edito aqui e consigo alterar, perfeito?
+
+10
+00:00:32.140 --> 00:00:38.500
+O que eles ficam em cinzinha assim, ele não me permite mexer, perfeito?
+
+11
+00:00:38.500 --> 00:00:42.939
+Aí nós temos aquele monte de sim ou não lá, que são os parâmetros complementares.
+
+12
+00:00:42.939 --> 00:00:47.500
+Lembra que nós colocamos atividade rural, exterior, etc, etc?
+
+13
+00:00:47.500 --> 00:00:50.039
+Aqui eu consigo mudar algumas, está vendo?
+
+14
+00:00:50.039 --> 00:00:56.439
+Eu não consigo, por exemplo, a primeira aqui, que é a quantidade de SCP,
+
+15
+00:00:56.439 --> 00:00:57.200
+e nem aqui.
+
+16
+00:00:57.200 --> 00:01:04.400
+Aqui a benção e redução do lucro presumido, que estão uma corzinha um pouquinho mais escura.
+
+17
+00:01:04.400 --> 00:01:08.140
+Os outros eu consigo mudar, o sim ou não, sem problema nenhum, tá?
+
+18
+00:01:08.140 --> 00:01:14.099
+Mas o ideal é a gente acertar da primeira vez lá nos dados cadastrais, porque aí não tem mais problema, tá?
+
+19
+00:01:14.099 --> 00:01:18.200
+Então esse é o registro 020, parâmetros complementares.
+
+20
+00:01:18.200 --> 00:01:21.260
+Então nós só estamos olhando aqui o que nós trazemos, né?
+
+21
+00:01:21.260 --> 00:01:24.500
+Dados extraídos automático lá do cadastro.
+
+22
+00:01:24.500 --> 00:01:27.000
+Aqui eu tenho o 021.
+
+23
+00:01:27.000 --> 00:01:33.200
+Parâmetros de identificação, que é exatamente quem tem lá os benefícios, né?
+
+24
+00:01:33.200 --> 00:01:37.900
+PDTI, PDTA, são todos eles que nós comentamos lá, né?
+
+25
+00:01:37.900 --> 00:01:40.900
+Então eles estão aqui, né?
+
+26
+00:01:40.900 --> 00:01:45.299
+Então parâmetros aqui, repés, recap, padis, tal.
+
+27
+00:01:45.299 --> 00:01:48.200
+Então sim ou não, também me permite alterar.
+
+28
+00:01:48.200 --> 00:01:52.200
+Já o 030, dados cadastrais.
+
+29
+00:01:52.200 --> 00:01:56.799
+Então aqui nós vamos preencher com a natureza jurídica.
+
+30
+00:01:57.000 --> 00:02:03.200
+Sociedade empresária, você clicando no drop-down, ele vai te trazer todas as opções.
+
+31
+00:02:03.200 --> 00:02:06.599
+Então é um facilitador muito para a gente, né?
+
+32
+00:02:06.599 --> 00:02:11.000
+Você clicando lá no drop-down, ele vai te trazer a natureza jurídica.
+
+33
+00:02:11.000 --> 00:02:14.400
+O CNAE, Código de Atividade Econômica.
+
+34
+00:02:14.400 --> 00:02:18.199
+Então aqui no caso, fabricação de estruturas metálicas, enfim, né?
+
+35
+00:02:18.199 --> 00:02:23.199
+O endereço, o número, os dados da empresa, né?
+
+36
+00:02:23.199 --> 00:02:26.199
+Código do município, CEP, telefone.
+
+37
+00:02:26.199 --> 00:02:28.400
+Então são dados cadastrais.
+
+38
+00:02:28.400 --> 00:02:32.400
+Que se você tiver com o teu RP atualizado, isso já vem correto.
+
+39
+00:02:32.400 --> 00:02:35.400
+Agora se tiver desatualizado, você tem que ajustar.
+
+40
+00:02:35.400 --> 00:02:39.400
+E eu sempre aconselho a ajustar no RP e não aqui, né?
+
+41
+00:02:39.400 --> 00:02:43.400
+O 930 que nós vimos lá é o signatário.
+
+42
+00:02:43.400 --> 00:02:46.400
+Signatário é quem está autorizado a assinar.
+
+43
+00:02:46.400 --> 00:02:49.400
+Então aqui assina o contador, assina o empresário.
+
+44
+00:02:49.400 --> 00:02:53.400
+Então no meu caso aqui, você vai digitar o nome, o CNPJ.
+
+45
+00:02:53.400 --> 00:02:55.400
+Clicando aqui, vai pegar o código.
+
+46
+00:02:55.400 --> 00:02:57.599
+Ele vai pegar o código de contador ou contabilista.
+
+47
+00:02:57.599 --> 00:03:00.599
+O mesmo código que está lá na ECD, não é?
+
+48
+00:03:00.599 --> 00:03:03.599
+Ele vem para cá a inscrição, o meu CRC.
+
+49
+00:03:03.599 --> 00:03:06.599
+Ele vem para cá o e-mail, o telefone.
+
+50
+00:03:06.599 --> 00:03:08.599
+Então são os dados.
+
+51
+00:03:08.599 --> 00:03:10.599
+Se porventura a Receita precisar entrar em contato,
+
+52
+00:03:10.599 --> 00:03:14.599
+sabe quem é a identificação dos signatários, né?
+
+53
+00:03:14.599 --> 00:03:18.599
+Então esse também é bem tranquilo, o preenchimento bem tranquilo.
+
+54
+00:03:18.599 --> 00:03:20.599
+O 930, olha lá.
+
+55
+00:03:20.599 --> 00:03:22.599
+Dados, editar, dados cadastrais.
+
+56
+00:03:22.599 --> 00:03:24.599
+Então eu posso editar e alterar, né?
+
+57
+00:03:24.599 --> 00:03:28.800
+Administrador, código 905, o e-mail dele, o telefone e tal.
+
+58
+00:03:28.800 --> 00:03:31.800
+Então é importante a gente ter, olha lá.
+
+59
+00:03:31.800 --> 00:03:34.800
+Por exemplo, o CPF é campo obrigatório.
+
+60
+00:03:34.800 --> 00:03:36.800
+Tem o Ezinho lá.
+
+61
+00:03:36.800 --> 00:03:38.800
+Os demais não são campo obrigatório.
+
+62
+00:03:38.800 --> 00:03:40.800
+Mas o interessante é a gente preencher correto, né?
+
+63
+00:03:40.800 --> 00:03:45.800
+Já o CPF é campo obrigatório, tá?
+
+64
+00:03:45.800 --> 00:03:49.800
+São obrigatórias duas assinaturas.
+
+65
+00:03:49.800 --> 00:03:52.800
+Uma do contabilista e uma da pessoa jurídica.
+
+66
+00:03:52.800 --> 00:03:56.000
+Para assinatura do contabilista,
+
+67
+00:03:56.000 --> 00:03:59.000
+só pode ser utilizado o certificado digital da pessoa física,
+
+68
+00:03:59.000 --> 00:04:03.000
+que é o EPF ou o ECPF, né?
+
+69
+00:04:03.000 --> 00:04:08.000
+Poderão assinar a ECF com certificado digital válido A1 ou A3.
+
+70
+00:04:08.000 --> 00:04:12.000
+Primeiro, o EPJ ou o ECNPJ,
+
+71
+00:04:12.000 --> 00:04:15.000
+que contém a mesma base do CNPJ,
+
+72
+00:04:15.000 --> 00:04:18.000
+oito primeiros caracteres do estabelecimento.
+
+73
+00:04:18.000 --> 00:04:22.000
+O representante legal da empresa ou procurador
+
+74
+00:04:22.000 --> 00:04:27.199
+constituído nos termos da Instrução Normativa 944 de 2009,
+
+75
+00:04:27.199 --> 00:04:31.199
+com procuração eletrônica cadastrada no site da Receita.
+
+76
+00:04:31.199 --> 00:04:33.199
+Então temos aí o endereço, né?
+
+77
+00:04:33.199 --> 00:04:35.199
+Então aqui funciona assim, pessoal.
+
+78
+00:04:35.199 --> 00:04:38.199
+Com relação à ECD,
+
+79
+00:04:38.199 --> 00:04:41.199
+eu comento isso no curso, inclusive,
+
+80
+00:04:41.199 --> 00:04:44.199
+eu aconselho que o empresário assine eletronicamente.
+
+81
+00:04:44.199 --> 00:04:47.199
+Você assina como responsável técnico,
+
+82
+00:04:47.199 --> 00:04:49.199
+como contador, como contabilista.
+
+83
+00:04:49.199 --> 00:04:51.199
+E ele assina como representante.
+
+84
+00:04:51.199 --> 00:04:53.199
+Como representante da empresa.
+
+85
+00:04:53.199 --> 00:04:55.199
+Como responsável perante a empresa.
+
+86
+00:04:55.199 --> 00:04:56.199
+Perfeito?
+
+87
+00:04:56.199 --> 00:04:57.199
+Legal.
+
+88
+00:04:57.199 --> 00:05:00.199
+O contador pode assinar como responsável?
+
+89
+00:05:00.199 --> 00:05:01.199
+Pode.
+
+90
+00:05:01.199 --> 00:05:04.199
+Só que não como responsável, e sim como procurador.
+
+91
+00:05:04.199 --> 00:05:06.199
+Que normalmente vocês têm a procuração.
+
+92
+00:05:06.199 --> 00:05:07.199
+Que eu não aconselho.
+
+93
+00:05:07.199 --> 00:05:09.199
+Interessante que ele assine,
+
+94
+00:05:09.199 --> 00:05:13.199
+porque toda a informação da empresa está na contabilidade, na ECD.
+
+95
+00:05:13.199 --> 00:05:16.199
+Aqui na ECF, do mesmo jeito.
+
+96
+00:05:16.199 --> 00:05:18.199
+Só que aqui você pode assinar por procuração,
+
+97
+00:05:18.199 --> 00:05:20.199
+porque aqui é a parte fiscal, é cálculos.
+
+98
+00:05:20.199 --> 00:05:22.199
+Foi você quem fez.
+
+99
+00:05:22.199 --> 00:05:23.199
+Aí tudo bem.
+
+100
+00:05:23.199 --> 00:05:26.199
+Mas lá na contabilidade, apesar de ter sido você quem contabilizou,
+
+101
+00:05:26.199 --> 00:05:31.199
+você não tem 100% que ele está estretamente dentro da lei,
+
+102
+00:05:31.199 --> 00:05:33.199
+que ele não omitiu nenhuma informação de você,
+
+103
+00:05:33.199 --> 00:05:35.199
+que ele está praticando ato lícito,
+
+104
+00:05:35.199 --> 00:05:37.199
+que ele não sonegou nenhum tipo, entendeu?
+
+105
+00:05:37.199 --> 00:05:38.199
+Você não tem essa certeza.
+
+106
+00:05:38.199 --> 00:05:41.199
+Aqui você tem, porque foi você que calculou.
+
+107
+00:05:41.199 --> 00:05:42.199
+Mas na medida do possível,
+
+108
+00:05:42.199 --> 00:05:45.199
+se o empresário puder assinar como responsável,
+
+109
+00:05:45.199 --> 00:05:47.199
+é o melhor dos mundos.
+
+110
+00:05:47.199 --> 00:05:48.199
+Perfeito?
+
+111
+00:05:48.199 --> 00:05:49.199
+É o melhor dos mundos, tá?
+
+112
+00:05:49.199 --> 00:05:51.199
+Essa é a minha recomendação.
+
+113
+00:05:51.199 --> 00:05:54.199
+Mas você pode assinar como procurador,
+
+114
+00:05:54.199 --> 00:05:55.199
+não como responsável.
+
+115
+00:05:55.199 --> 00:05:57.199
+O responsável é o dono da empresa.

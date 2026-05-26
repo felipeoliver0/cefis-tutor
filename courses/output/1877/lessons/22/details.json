@@ -1,0 +1,33 @@
+{
+  "id": 459445,
+  "title": "Sistema de amortização constante",
+  "position": 22,
+  "duration": 566,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/e02f0ae3-44e9-40de-91e5-c18aabe895cd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e02f0ae3-44e9-40de-91e5-c18aabe895cd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e02f0ae3-44e9-40de-91e5-c18aabe895cd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e02f0ae3-44e9-40de-91e5-c18aabe895cd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/e02f0ae3-44e9-40de-91e5-c18aabe895cd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

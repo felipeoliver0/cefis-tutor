@@ -1,0 +1,33 @@
+{
+  "id": 459376,
+  "title": "Auditoria interna",
+  "position": 76,
+  "duration": 328,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b4782335-db06-4000-a035-48f426f03dcb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b4782335-db06-4000-a035-48f426f03dcb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b4782335-db06-4000-a035-48f426f03dcb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b4782335-db06-4000-a035-48f426f03dcb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b4782335-db06-4000-a035-48f426f03dcb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

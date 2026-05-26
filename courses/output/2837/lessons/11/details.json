@@ -1,0 +1,33 @@
+{
+  "id": 470835,
+  "title": "Exemplo de aquisição de combustíveis e lubrificantes",
+  "position": 11,
+  "duration": 613,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f0fe1fff-654e-4975-8235-648cb358689d/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f0fe1fff-654e-4975-8235-648cb358689d/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f0fe1fff-654e-4975-8235-648cb358689d/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f0fe1fff-654e-4975-8235-648cb358689d/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f0fe1fff-654e-4975-8235-648cb358689d/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

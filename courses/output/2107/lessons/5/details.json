@@ -1,0 +1,33 @@
+{
+  "id": 462349,
+  "title": "Termos do programa",
+  "position": 5,
+  "duration": 93,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/7a4843a1-3809-41a0-b82a-5bacadc8abdd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7a4843a1-3809-41a0-b82a-5bacadc8abdd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7a4843a1-3809-41a0-b82a-5bacadc8abdd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7a4843a1-3809-41a0-b82a-5bacadc8abdd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/7a4843a1-3809-41a0-b82a-5bacadc8abdd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

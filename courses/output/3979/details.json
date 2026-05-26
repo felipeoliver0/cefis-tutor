@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 3979,
+    "title": "EFD Contribuições",
+    "subtitle": "Atualizações e Auditoria",
+    "summary": "O correto preenchimento e envio da Escrituração Fiscal Digital do PIS e da COFINS, destacando as mudanças recentes na legislação e nos layouts do SPED. Aborda a apuração de créditos e débitos, os reflexos das atualizações normativas e as principais situações que geram inconsistências. Além disso, foca em técnicas de auditoria digital, revisão e cruzamento de dados, capacitando o profissional a prevenir erros, evitar autuações e garantir maior segurança nas obrigações acessórias.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/ab7943a7-321d-4911-a6b2-36a723f7f847-thumbnail.png",
+    "goals": [
+      "O correto preenchimento e envio da Escrituração Fiscal Digital do PIS e da COFINS, destacando as mudanças recentes na legislação e nos layouts do SPED. Aborda a apuração de créditos e débitos, os reflexos das atualizações normativas e as principais situações que geram inconsistências. Além disso, foca em técnicas de auditoria digital, revisão e cruzamento de dados, capacitando o profissional a prevenir erros, evitar autuações e garantir maior segurança nas obrigações acessórias."
+    ],
+    "teacher": {
+      "id": 302176,
+      "name": "GRAZIELLA SANTOS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1707582811.jpeg"
+    },
+    "duration": 4286,
+    "keywords": "efd;sped;SPED CONTRIBUICOES",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 13,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 539,
+    "averageRating": 9.37,
+    "practiceAverage": 9.25,
+    "trailer": {
+      "id": "b50e99cf-5009-4683-9f02-cc1be402c3e6",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b50e99cf-5009-4683-9f02-cc1be402c3e6/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b50e99cf-5009-4683-9f02-cc1be402c3e6/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b50e99cf-5009-4683-9f02-cc1be402c3e6/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/b50e99cf-5009-4683-9f02-cc1be402c3e6/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-10-13T20:58:01.000Z",
+      "updatedAt": "2025-10-13T20:58:00.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-10-13T20:59:24.000Z",
+    "recordedAt": "2025-09-24T00:00:00.000Z",
+    "createdAt": "2025-09-24T10:10:09.000Z"
+  }
+}

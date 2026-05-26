@@ -1,0 +1,33 @@
+{
+  "id": 483032,
+  "title": "09 - Indicadores operacionais",
+  "position": 9,
+  "duration": 215,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/cf58c01b-7c80-499c-8374-d43c8847cd14/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf58c01b-7c80-499c-8374-d43c8847cd14/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf58c01b-7c80-499c-8374-d43c8847cd14/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf58c01b-7c80-499c-8374-d43c8847cd14/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/cf58c01b-7c80-499c-8374-d43c8847cd14/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

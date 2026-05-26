@@ -1,0 +1,33 @@
+{
+  "id": 484981,
+  "title": "Marco legal",
+  "position": 11,
+  "duration": 482,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3833ef7f-af45-42f9-ac96-1a914d6592cb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3833ef7f-af45-42f9-ac96-1a914d6592cb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3833ef7f-af45-42f9-ac96-1a914d6592cb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3833ef7f-af45-42f9-ac96-1a914d6592cb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3833ef7f-af45-42f9-ac96-1a914d6592cb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

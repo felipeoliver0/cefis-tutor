@@ -1,0 +1,497 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.549
+vamos pegar um exemplo pra gente entender melhor isso.
+
+2
+00:00:02.559 --> 00:00:03.819
+A gente falou dos critérios aqui.
+
+3
+00:00:03.829 --> 00:00:10.340
+Mas vamos pensar nesse primeiro exemplo, considerando a medição da obra, ou seja,
+
+4
+00:00:10.350 --> 00:00:13.600
+o acompanhamento da execução física, dessa obra,
+
+5
+00:00:13.609 --> 00:00:17.020
+a partir de medições da engenharia, que tá fazendo os cálculos ali,
+
+6
+00:00:17.030 --> 00:00:18.500
+levantando esses dados, né?
+
+7
+00:00:18.510 --> 00:00:22.420
+Vamos pegar o exemplo aqui da nossa empresa, a DS,
+
+8
+00:00:22.430 --> 00:00:26.459
+que é uma empresa que adota um método com base na evolução física do contrato,
+
+9
+00:00:26.469 --> 00:00:28.440
+ou seja, esse método de medição de obra
+
+10
+00:00:28.860 --> 00:00:34.509
+e ela tem um contrato, né, onde ela vai reconhecer os custos e a receita.
+
+11
+00:00:34.520 --> 00:00:35.830
+Com base nesse método,
+
+12
+00:00:35.840 --> 00:00:39.759
+ela foi contratada para a construção de quinze paradas de ônibus,
+
+13
+00:00:39.770 --> 00:00:41.580
+a um preço de vinte milhões de reais.
+
+14
+00:00:41.590 --> 00:00:46.349
+Contrato completo, aí, né? E o custo orçado desse projeto, né?
+
+15
+00:00:46.360 --> 00:00:49.250
+Desta obra foi de doze milhões.
+
+16
+00:00:50.040 --> 00:00:53.569
+Durante esse primeiro ano de execução desse contrato.
+
+17
+00:00:53.580 --> 00:00:57.889
+Houve ali a medição da obra acompanhando esse projeto,
+
+18
+00:00:57.900 --> 00:01:00.650
+acompanhando o progresso físico desse contrato.
+
+19
+00:01:00.659 --> 00:01:03.569
+E ela identificou ali a construção de nove
+
+20
+00:01:03.580 --> 00:01:06.769
+paradas de ônibus construídas ao longo do ano,
+
+21
+00:01:06.779 --> 00:01:07.169
+né?
+
+22
+00:01:07.180 --> 00:01:10.830
+Como que nós iremos reconhecer essa receita
+
+23
+00:01:11.440 --> 00:01:12.669
+e
+
+24
+00:01:13.430 --> 00:01:15.879
+custo para esse contrato?
+
+25
+00:01:15.889 --> 00:01:20.940
+Então, a partir daí, a gente vai utilizar essa informação para determinar a receita
+
+26
+00:01:21.510 --> 00:01:24.400
+Eh da construção, né?
+
+27
+00:01:24.410 --> 00:01:27.800
+Dessas paradas de ônibus com bata Base aí na medição, Então,
+
+28
+00:01:27.809 --> 00:01:29.440
+aqui na nossa fórmula a gente tem a
+
+29
+00:01:29.449 --> 00:01:32.860
+receita contratual multiplicado pelas paradas de ônibus,
+
+30
+00:01:32.870 --> 00:01:36.639
+construídas di dividido pelas paradas de ônibus contratadas, né?
+
+31
+00:01:36.650 --> 00:01:40.819
+A gente tá pegando a informação física, né? Desse contrato aí
+
+32
+00:01:41.510 --> 00:01:47.120
+então nós temos aqui vinte mil que é a receita contratual
+
+33
+00:01:47.129 --> 00:01:51.959
+multiplicada por nove paradas de ônibus que foram construídas né,
+
+34
+00:01:51.970 --> 00:01:57.879
+ao longo do contrato e as doze paradas que foram contratadas, aí né.
+
+35
+00:01:57.889 --> 00:02:01.220
+O que nós temos aqui é uma receita de quinze milhões
+
+36
+00:02:01.230 --> 00:02:05.529
+e cem a receita efetiva nesse primeiro ano da nossa empresa.
+
+37
+00:02:05.540 --> 00:02:10.220
+A receita aí pelo método medição de obra, é quinze milhões
+
+38
+00:02:10.580 --> 00:02:14.229
+e cem tá e o custo? A gente vai utilizar o mesmo critério.
+
+39
+00:02:14.240 --> 00:02:20.050
+Mas, considerando o custo orçado, a gente tem um custo orçado de doze milhões,
+
+40
+00:02:20.779 --> 00:02:23.350
+multiplicando pelas paradas, né?
+
+41
+00:02:23.360 --> 00:02:26.309
+De ônibus construídas efetivamente e dividido
+
+42
+00:02:26.320 --> 00:02:28.210
+pelas paradas de ônibus contratadas,
+
+43
+00:02:28.220 --> 00:02:34.270
+nós chegamos a um custo de serviços prestados de nove milhões, Tá?
+
+44
+00:02:34.279 --> 00:02:43.089
+Ou seja, né. A gente tem a nossa receita e o nosso custo de serviços prestados.
+
+45
+00:02:43.100 --> 00:02:48.009
+Bom, qual que é a característica eh desse método de medição de obra.
+
+46
+00:02:48.399 --> 00:02:56.289
+Vai haver ali uma diferença, né? Entre os custos incorridos e os custos orçados, né?
+
+47
+00:02:56.300 --> 00:03:01.089
+EH ou melhor entre os custos incorridos e os custos prestados, né?
+
+48
+00:03:01.100 --> 00:03:04.729
+O custo dos serviços prestados, que vai demandar uma contabilização,
+
+49
+00:03:04.740 --> 00:03:09.089
+que é a parte final do contrato, que deverá ser reconhecida, né,
+
+50
+00:03:09.100 --> 00:03:11.449
+ao longo do da execução das próximas,
+
+51
+00:03:11.460 --> 00:03:14.570
+as próximas paradas de ônibus aí que deverão ser construídas, né?
+
+52
+00:03:14.580 --> 00:03:16.350
+AO longo desse contrato, nós temos aí
+
+53
+00:03:16.580 --> 00:03:18.500
+os contratos em andamento,
+
+54
+00:03:18.509 --> 00:03:20.330
+que é essa diferença entre os custos
+
+55
+00:03:20.339 --> 00:03:25.270
+incorridos e os custos efetivamente reconhecidos,
+
+56
+00:03:25.279 --> 00:03:25.610
+né?
+
+57
+00:03:26.339 --> 00:03:32.509
+Eh que é o custo dos serviços prestados, assumindo aqui que o nosso custo orçado, né,
+
+58
+00:03:32.520 --> 00:03:34.710
+que será um custo que será ocorrido no futuro.
+
+59
+00:03:34.720 --> 00:03:38.649
+É doze milhões e nós já reconhecemos nove milhões.
+
+60
+00:03:39.300 --> 00:03:41.350
+Eh de custos de serviços prestados.
+
+61
+00:03:41.360 --> 00:03:47.809
+Nós temos aí três milhões que são os nossos contratos em andamento.
+
+62
+00:03:47.820 --> 00:03:50.669
+Como que fica a contabilização desses eventos, né?
+
+63
+00:03:50.679 --> 00:03:54.509
+Então, como que a gente vai reconhecer isso lá na contabilidade,
+
+64
+00:03:54.520 --> 00:04:00.070
+né Bom a nossa receita de prestação de serviços de contrato aqui, né?
+
+65
+00:04:00.080 --> 00:04:01.729
+Para execução dessas paradas
+
+66
+00:04:02.410 --> 00:04:05.779
+eh de ônibus, é de quinze milhões e cem, conforme nós.
+
+67
+00:04:05.789 --> 00:04:10.729
+Fizemos a ali pelo método PC o custo desse dos serviços prestados.
+
+68
+00:04:10.740 --> 00:04:14.440
+Também reconhecemos com base no no POC medição de obra,
+
+69
+00:04:14.449 --> 00:04:18.700
+chegamos ao valor de nove milhões e por fim,
+
+70
+00:04:18.709 --> 00:04:22.220
+esses contratos em andamento que ainda deverão ser executados,
+
+71
+00:04:22.230 --> 00:04:24.119
+que é a diferença ali entre os nossos
+
+72
+00:04:24.600 --> 00:04:29.989
+custos orçados que deverão no futuro, serão custos incorridos, né?
+
+73
+00:04:30.000 --> 00:04:34.049
+E os custos TV prestados ali da ordem de três milhões deverão ser
+
+74
+00:04:34.059 --> 00:04:40.750
+reconhecidos como contratos em andamento lá no ativo e no crédito do fornecedor,
+
+75
+00:04:41.279 --> 00:04:45.209
+os pagamentos que deverão ser efetuados ali aos nossos fornecedores,
+
+76
+00:04:45.220 --> 00:04:49.529
+ou mesmo saídas do ativo do ativo disponível ali,
+
+77
+00:04:49.540 --> 00:04:52.950
+caso represente saída efetiva de recursos.
+
+78
+00:04:52.959 --> 00:05:00.010
+E se nós tivermos ali nessa medição de obra, algo referente ao PC,
+
+79
+00:05:00.019 --> 00:05:03.489
+mas com base no percentual de conclusão.
+
+80
+00:05:03.500 --> 00:05:05.269
+Então agora a gente tá falando mais
+
+81
+00:05:05.549 --> 00:05:08.500
+eh da medição, Mas a gente quer saber o percentual de conclusão.
+
+82
+00:05:08.510 --> 00:05:14.839
+A gente necessariamente vai utilizar a comparação entre o custo orçado e o custo.
+
+83
+00:05:14.850 --> 00:05:16.200
+Incorrido, né?
+
+84
+00:05:16.209 --> 00:05:16.559
+Então,
+
+85
+00:05:16.570 --> 00:05:22.000
+essa informação deverá ser necessária para a adoção do
+
+86
+00:05:22.010 --> 00:05:25.920
+PC com base no percentual de conclusão de obra,
+
+87
+00:05:25.929 --> 00:05:26.359
+né?
+
+88
+00:05:26.369 --> 00:05:31.359
+Então, pegamos o mesmo exemplo ali da nossa construtora, a constru Brás, né,
+
+89
+00:05:31.369 --> 00:05:35.380
+Vai adotar esse método, Mas com base no
+
+90
+00:05:36.029 --> 00:05:38.480
+percentual de conclusão, né?
+
+91
+00:05:38.489 --> 00:05:43.160
+Ela tem ali os vinte milhões de receita contratada
+
+92
+00:05:43.170 --> 00:05:46.170
+para a construção das doze paradas de ônibus.
+
+93
+00:05:46.179 --> 00:05:48.260
+E ela construiu efetivamente.
+
+94
+00:05:49.470 --> 00:05:54.000
+É oito paradas, né? O custo orçado de doze milhões.
+
+95
+00:05:54.010 --> 00:06:00.600
+Teve um custo incorrido nesse primeiro ano de oito milhões e quatrocentos, né?
+
+96
+00:06:00.609 --> 00:06:04.660
+Então, qual deve ser o PC, né?
+
+97
+00:06:05.589 --> 00:06:10.799
+Eh que deverá ser aplicado na receita E a gente tá falando do quê? Custo incorrido?
+
+98
+00:06:10.809 --> 00:06:15.720
+É dividido por custo orçado? É o que vai determinar o percentual do PC, né?
+
+99
+00:06:15.730 --> 00:06:20.140
+Então basicamente aqui nós estamos falando da ordem de setenta por cento, né?
+
+100
+00:06:20.769 --> 00:06:22.059
+Este é o custo.
+
+101
+00:06:22.070 --> 00:06:24.339
+Incorrido o percentual do PC que deverá ser
+
+102
+00:06:24.350 --> 00:06:26.700
+aplicado à nossa receita ali de vinte milhões.
+
+103
+00:06:26.709 --> 00:06:31.179
+A gente tá falando de um valor de catorze milhões, né?
+
+104
+00:06:31.190 --> 00:06:35.640
+Essa é a nossa receita pelo percentual de obra concluída,
+
+105
+00:06:36.410 --> 00:06:40.000
+bom e o custo, o custo, utilizando esse mesmo percentual.
+
+106
+00:06:40.010 --> 00:06:42.540
+A gente tem um custo orçado de doze milhões
+
+107
+00:06:42.549 --> 00:06:46.980
+e nós temos setenta por cento de doze milhões.
+
+108
+00:06:46.989 --> 00:06:48.239
+A gente tem aí uma
+
+109
+00:06:48.890 --> 00:06:52.019
+um custo de serviço prestado de oito milhões e quatrocentos.
+
+110
+00:06:52.029 --> 00:06:56.380
+Como se dá o reconhecimento a contabilização, né?
+
+111
+00:06:56.390 --> 00:06:58.480
+Lá na contabilidade, como devemos fazer
+
+112
+00:06:59.170 --> 00:07:01.140
+a contabilização desses eventos,
+
+113
+00:07:01.149 --> 00:07:06.660
+então a mesma conta de contas a receber de clientes ou disponibilidades.
+
+114
+00:07:06.670 --> 00:07:08.880
+Se nós estivermos falando de uma entrada de caixa, né?
+
+115
+00:07:09.630 --> 00:07:14.839
+No débito e o crédito da receita de serviços prestados no resultado, né.
+
+116
+00:07:14.850 --> 00:07:16.619
+Totalizando ali quatorze milhões,
+
+117
+00:07:17.299 --> 00:07:19.790
+o custo dos serviços prestados.
+
+118
+00:07:19.799 --> 00:07:21.649
+Nós vamos reconhecer com débito,
+
+119
+00:07:21.660 --> 00:07:24.149
+na conta de custo de serviços prestados
+
+120
+00:07:24.160 --> 00:07:26.570
+e o crédito em fornecedores ou disponibilidades.
+
+121
+00:07:26.579 --> 00:07:29.290
+Se representar efetivamente, uma saída nós não temos.
+
+122
+00:07:29.299 --> 00:07:35.690
+A conta de eh contratos em andamento, já que nós não teremos essas diferenças, né?
+
+123
+00:07:35.700 --> 00:07:38.390
+EH já que nós estaremos acompanhando a obra com
+
+124
+00:07:38.399 --> 00:07:41.769
+base nessa comparação entre custo orçado e custo incorrido.

@@ -1,0 +1,33 @@
+{
+  "id": 486506,
+  "title": "O sistema atual",
+  "position": 13,
+  "duration": 98,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3ec81d2a-9d18-40ea-b5ad-00d4d7801e55/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ec81d2a-9d18-40ea-b5ad-00d4d7801e55/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ec81d2a-9d18-40ea-b5ad-00d4d7801e55/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ec81d2a-9d18-40ea-b5ad-00d4d7801e55/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3ec81d2a-9d18-40ea-b5ad-00d4d7801e55/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

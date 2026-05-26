@@ -1,0 +1,33 @@
+{
+  "id": 478953,
+  "title": "Princípios gerais da contabilidade - parte 2",
+  "position": 33,
+  "duration": 366,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/98970f95-37f3-41ed-b55c-db33dbd41838/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/98970f95-37f3-41ed-b55c-db33dbd41838/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/98970f95-37f3-41ed-b55c-db33dbd41838/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/98970f95-37f3-41ed-b55c-db33dbd41838/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/98970f95-37f3-41ed-b55c-db33dbd41838/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

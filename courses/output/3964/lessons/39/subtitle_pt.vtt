@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00:00.130 --> 00:00:08.895
+- Legal, vamos fazer agora no nosso modelinho aqui na calculadora? Muito bem, vocês ignorem esses cinco
+
+00:00:08.895 --> 00:00:17.575
+- aqui que é alguma coisa que depois vocês vão ter que corrigir, ok? Então aqui, série uniforme de
+
+00:00:17.575 --> 00:00:26.340
+- pagamentos. Um produto é vendido a prazo em cinco parcelas de 200 mil reais. Caro, né, esse produto?
+
+00:00:26.340 --> 00:00:28.382
+- Acho que é um imóvel.
+
+00:00:28.514 --> 00:00:36.643
+- Se a taxa de juros vigente é de 3,5% ao mês, qual deve ser o seu preço à vista? Quando? Dois pontos.
+
+00:00:36.643 --> 00:00:44.384
+- Então, são feitas aqui uma proposta, um pagamento em cinco parcelas de 200 mil a uma taxa de 3,5%
+
+00:00:44.384 --> 00:00:52.358
+- ao mês. Mas se não for parcelar em cinco de 200 mil, que dá um milhão, qual seria o valor à vista
+
+00:00:52.358 --> 00:00:56.926
+- ou um valor diferente? Quando? O primeiro pagamento ocorre
+
+00:00:57.282 --> 00:01:05.737
+- no ato da compra. Então, qual seria esse valor? Não é nem o preço exatamente à vista, mas qual
+
+00:01:05.737 --> 00:01:14.529
+- seria o novo valor se o primeiro pagamento dessa parcela, ao invés de ser lá no mês 1, fosse no mês
+
+00:01:14.529 --> 00:01:23.407
+- 0? Se a gente está antecipando um montante de 200 mil reais em um mês, é um valor importante. Então,
+
+00:01:23.407 --> 00:01:25.182
+- com certeza, o valor
+
+00:01:25.442 --> 00:01:32.009
+- a priori desse imóvel, que se eu fosse multiplicar 5 parcelas por 200 mil seria 1 milhão, se eu estou
+
+00:01:32.009 --> 00:01:38.386
+- antecipando um mês esse recurso para o vendedor, a priori o meu preço tem que baixar, porque tem o
+
+00:01:38.386 --> 00:01:45.017
+- custo do dinheiro em um mês, até pela própria taxa implícita que está sendo cobrada. Nós teríamos
+
+00:01:45.017 --> 00:01:46.974
+- que trazer isso a valor atual.
+
+00:01:47.234 --> 00:01:54.179
+- Então, como que nós fazemos? Nós temos que escolher a primeira coisa, lembrando que se vai ter aqui
+
+00:01:54.179 --> 00:02:00.450
+- um PMT, vai ter um valor antecipado, ou seja, no ato, eu tenho que colocar a primeira coisa,
+
+00:02:00.450 --> 00:02:07.193
+- o GBGIN tecla 7, aí vai aparecer ali que ela está acionada para o cálculo. Aí nós vamos sempre
+
+00:02:07.193 --> 00:02:10.430
+- fazer assim, pessoal, na HP12C primeiro a gente
+
+00:02:10.946 --> 00:02:18.548
+- digita aqui os números que a gente quer e depois a tecla apesar de a teclas aqui está mais para facilitar
+
+00:02:18.548 --> 00:02:25.728
+- o entendimento como é que funciona na HP para quem não usou ainda. A gente coloca assim por exemplo
+
+00:02:25.728 --> 00:02:32.907
+- primeira coisa G begin tecla 7 porque a gente já sabe que vai ter uma parcela no momento 0. Aí nós
+
+00:02:32.907 --> 00:02:36.638
+- fazemos 5 que é 5 é o prazo aí eu coloco então 5
+
+00:02:37.570 --> 00:02:47.943
+- Enter, a gente sempre no HP põe os números e dá Enter, como se fosse um comando no computador. Então
+
+00:02:47.943 --> 00:02:57.920
+- a gente põe 5, N, que equivale ao prazo, depois 3,5 clicamos no I, 200 no PMT, 0 no valor futuro, e
+
+00:02:57.920 --> 00:03:04.638
+- aí nós clicamos na tecla VP, porque é a tecla do valor presente.
+
+00:03:04.738 --> 00:03:15.126
+- Então nós temos que seguir exatamente esse role aqui de input 5N, 3,5I, 200 PMT, zero no valor futuro,
+
+00:03:15.126 --> 00:03:25.020
+- porque a priori significa que eu irei quitar, não tenho mais a dívida, e o valor presente na hora
+
+00:03:25.020 --> 00:03:33.726
+- que nós colocamos isso na tecla, ele vai trazer um valor de 934,615,84. Veja, é menor
+
+00:03:34.434 --> 00:03:43.933
+- do que se eu pagasse esse valor em cinco parcelas de 200 mil de forma normal a uma taxa de 3,5. Se a
+
+00:03:43.933 --> 00:03:53.339
+- gente fizer um primeiro pagamento aqui no ato da compra, esse valor já cairia um pouco. Não seria
+
+00:03:53.339 --> 00:04:02.462
+- mais 5 de 200. Teoricamente ele vai trazer um valor menor para esse bem. Vamos ver aqui mais um.
+
+00:04:03.298 --> 00:04:10.295
+- Veja que é um conceito já, é o mesmo exercício, a gente vai comparar agora, o primeiro pagamento
+
+00:04:10.295 --> 00:04:17.223
+- ocorre no final do primeiro período, ou seja, no mês 1. Então lembrem que se é realmente lá no
+
+00:04:17.223 --> 00:04:21.310
+- mês 1, nós já vamos deixar preparada a nossa HP e vamos
+
+00:04:21.442 --> 00:04:28.638
+- ali selecionar o GEND. O GEND está na tecla olho. E aí a gente já está considerando que os dados
+
+00:04:28.638 --> 00:04:35.762
+- que nós agora vamos digitar no HP se referem a esse critério de ter o primeiro pagamento no final
+
+00:04:35.762 --> 00:04:43.242
+- do mês 1, lá no N igual a 1. Então o que a gente vai fazer? Praticamente nada, é tudo a mesma coisa.
+
+00:04:43.242 --> 00:04:48.158
+- O que vai mudar o valor final é porque eu coloquei justamente isso.
+
+00:04:48.706 --> 00:04:56.750
+- que o primeiro pagamento será feito lá no final do mês 1, e o outro era no ato. Então, aqui, quando
+
+00:04:56.750 --> 00:05:04.484
+- eu fiz essa opção do GEND, eu coloco 5, é o número de períodos, são 5 meses, 3,5 é a taxa, a
+
+00:05:04.484 --> 00:05:12.760
+- parcela é de 200 mil, o valor futuro vai ser zero, porque ao final desse prazo eu quitei a minha dívida,
+
+00:05:12.760 --> 00:05:16.318
+- mas qual seria o valor presente, considerando
+
+00:05:16.578 --> 00:05:24.760
+- Na verdade, esse pagamento postecipado seria 903. Veja que nós temos uma diferença aqui em relação
+
+00:05:24.760 --> 00:05:32.784
+- ao 96,34. Lembrando, pessoal, que eu falei... Por que um está negativo e o outro não? Depende, só
+
+00:05:32.784 --> 00:05:40.807
+- deixei de propósito isso para vocês perceberem. Se nós temos sempre que apresentar o PV, que é o
+
+00:05:40.807 --> 00:05:44.382
+- valor presente, o valor futuro, com sinal...
+
+00:05:44.738 --> 00:05:53.670
+- trocado, porque ou eu estou indicando uma dívida que depois será saudada, ou se eu colocar o sinal
+
+00:05:53.670 --> 00:06:03.486
+- do CHS, que é para mudar o sinal do valor futuro, pode ser que o valor presente venha com esse sinal trocado.
+
+00:06:03.618 --> 00:06:10.536
+- Não significa, nesse momento que a gente não está falando ainda de saída de caixa, ele não tem
+
+00:06:10.536 --> 00:06:17.662
+- tanta importância. Na hora que nós montarmos um fluxo de caixa, sim. Então, agora a gente vai fazer
+
+00:06:17.662 --> 00:06:24.926
+- uma outra análise. Ao invés de pagar a primeira no mês 1, para comparar, nós vamos fazer o pagamento
+
+00:06:24.926 --> 00:06:32.190
+- no mês 2. Vamos ver como é que ficaria esse valor presente. Então veja, um produto é vendido a prazo
+
+00:06:32.738 --> 00:06:40.593
+- em cinco parcelas de R$ 200 mil. Se a taxa de juros de gente é de R$ 3,5 ao mês, qual deve ser o preço
+
+00:06:40.593 --> 00:06:48.078
+- à vista quando o primeiro pagamento ocorre no final do segundo período? Vamos fazer? Lembrando que
+
+00:06:48.078 --> 00:06:55.563
+- continua sendo postecipado, só que agora em vez de ser no período 1, vai ser no período 2, então
+
+00:06:55.563 --> 00:07:01.566
+- nós temos que trazer aqui para o valor presente. Vamos ver como fica. Olha só.
+
+00:07:02.338 --> 00:07:11.622
+- Quando a gente traz para aquele período 1, onde nós fizemos o cálculo, mesmo no postecipado, o meu
+
+00:07:11.622 --> 00:07:20.724
+- valor presente, ele seria de 903,10. Agora, quando eu trago com mais um período à frente, supondo
+
+00:07:20.724 --> 00:07:28.734
+- ali o meu N trazendo para um período, a gente percebe que esse valor aqui ele cai para
+
+00:07:29.186 --> 00:07:37.282
+- 872. E vejam, por que esse valor futuro está 903? Porque a gente não pode, não tem como fazermos
+
+00:07:37.282 --> 00:07:45.540
+- isso de forma automática. Nós temos que fazer em dois momentos. Primeiro nós temos que trazer aqui
+
+00:07:45.540 --> 00:07:53.150
+- para o 1. Está vendo? Encontrar o P1, o valor presente de 1, para depois trazer mais uma vez
+
+00:07:53.730 --> 00:08:02.368
+- para o zero, então nós temos que fazer dois cálculos subsequentes na HP, ok? Por isso que aqui, para
+
+00:08:02.368 --> 00:08:10.425
+- achar o primeiro par de informações, que é o valor presente no momento 1, eu trago aqui o N5,
+
+00:08:10.425 --> 00:08:19.229
+- tá certo? 5 por quê? Porque primeiro eu vou trazer como se fosse aquela conta normal. São cinco meses,
+
+00:08:19.229 --> 00:08:22.302
+- a taxa é 3,5, a parcela é 200 mil,
+
+00:08:22.754 --> 00:08:28.957
+- O valor futuro a gente diz que é zero, porque eu vou estar com esse valor quitado após pagar as parcelas.
+
+00:08:28.957 --> 00:08:34.815
+- E qual seria o valor presente de IP1? O mesmo 903,010 que nós achamos logo naquele momento anterior.
+
+00:08:34.815 --> 00:08:40.845
+- Só que eu tenho que trazer, como eu só tive o pagamento a partir da segunda, agora eu tenho que trazer
+
+00:08:40.845 --> 00:08:46.703
+- mais um período. Só que eu trago este período aqui para mais um para trazer para o VP0. E por isso
+
+00:08:46.703 --> 00:08:50.206
+- que aqui o N é 1, porque eu vou ter que trazer agora do VP1
+
+00:08:50.562 --> 00:08:57.413
+- para o VP0, eu não consigo fazer de uma vez, tem que fazer em duas fases. Então quando eu trago para
+
+00:08:57.413 --> 00:09:04.197
+- essa segunda fase até o VP0, já tendo calculado o valor presente em 1, eu coloco o prazo de 1 mês,
+
+00:09:04.197 --> 00:09:10.849
+- porque agora é de VP1 do mês 1 para o mês 0, então o período que eu tenho que trazer é 1 só.
+
+00:09:10.849 --> 00:09:16.702
+- Mas qual o valor? Este aqui que eu calculei, por isso que agora este é o valor futuro.
+
+00:09:16.898 --> 00:09:25.410
+- E aí eu vou, não coloco aqui nada na PMT porque agora eu só vou trazer a valor presente nesse momento
+
+00:09:25.410 --> 00:09:34.247
+- zero, de forma que o valor presente agora é 872. Então vejam que nós temos essas diferenças considerando
+
+00:09:34.247 --> 00:09:38.300
+- podendo fazer o cálculo de uma forma sequencial.

@@ -1,0 +1,433 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:06.260
+vamos ao nosso último tópico como fonte de cruzamento dentro da F D SMS p
+
+2
+00:00:06.269 --> 00:00:14.539
+i e é o ativo imobilizado dentro das empresas que tem ali ativo imobilizado,
+
+3
+00:00:14.550 --> 00:00:18.879
+que são os bens que são utilizados dentro da atividade.
+
+4
+00:00:18.889 --> 00:00:22.639
+Vou dar um exemplo, uma empresa industrial que tem ali as suas máquinas,
+
+5
+00:00:22.716 --> 00:00:24.996
+seus equipamentos da fábrica.
+
+6
+00:00:25.006 --> 00:00:29.447
+É permitido pelos estados que essas empresas tomem o
+
+7
+00:00:29.457 --> 00:00:35.256
+crédito sobre esse ativo imobilizado utilizado lá na produção.
+
+8
+00:00:35.266 --> 00:00:38.727
+Só que esse crédito ele funciona de uma maneira diferente.
+
+9
+00:00:38.736 --> 00:00:41.207
+Eu não posso simplesmente pegar a nota fiscal na
+
+10
+00:00:41.216 --> 00:00:44.286
+entrada lá e tomar esse crédito esse crédito,
+
+11
+00:00:44.297 --> 00:00:48.604
+ele é parcelado a maioria dos estados em quarenta e oito vezes.
+
+12
+00:00:48.613 --> 00:00:53.793
+Então dentro do SPED fiscal da F D e C M SP I,
+
+13
+00:00:53.804 --> 00:01:00.234
+existe um bloco que é o bloco G vai cuidar desse controle de créditos do
+
+14
+00:01:00.243 --> 00:01:05.483
+CIAP que tem que ser tomado em parcelas ali de em quarenta e oito meses.
+
+15
+00:01:05.494 --> 00:01:06.973
+Então vamos lá.
+
+16
+00:01:06.984 --> 00:01:13.261
+O registro que envolve o bloco que envolve o SEP é o bloco G,
+
+17
+00:01:13.271 --> 00:01:18.161
+mas existem outros registros que vão impactar no bloco G.
+
+18
+00:01:18.170 --> 00:01:21.261
+O primeiro deles é o registro zero trezentos.
+
+19
+00:01:21.271 --> 00:01:26.261
+Lembra que no bloco zero nós temos identificações cadastrais então
+
+20
+00:01:26.271 --> 00:01:30.761
+no zero Trezentos é o cadastro dos bens do ativo imobilizado
+
+21
+00:01:31.309 --> 00:01:35.980
+e lembra que nós temos os registros e os registros Filhos, os registros,
+
+22
+00:01:35.989 --> 00:01:38.459
+filhos dentro do zero trezentos nós temos um.
+
+23
+00:01:38.470 --> 00:01:42.480
+Nós temos um registro filho muito importante que é o zero, Trezentos e cinco,
+
+24
+00:01:42.489 --> 00:01:45.959
+que ele vai falar da função e da vida útil do bem.
+
+25
+00:01:45.970 --> 00:01:51.480
+Fiquem muito atentos, porque se o crédito é do ativo imobilizado, é do SEP,
+
+26
+00:01:51.489 --> 00:01:54.959
+Gente não pode ser um bem que a função dele é lá,
+
+27
+00:01:54.970 --> 00:01:59.040
+do escritório administrativo tem que ser um bem que
+
+28
+00:01:59.050 --> 00:02:03.313
+é utilizado para a atividade empresarial como um todo.
+
+29
+00:02:03.322 --> 00:02:07.672
+Ali, a fabricação tem que ser uma máquina, um equipamento da produção,
+
+30
+00:02:07.682 --> 00:02:11.123
+alguma coisa que realmente faça sentido pro CIAP.
+
+31
+00:02:11.132 --> 00:02:13.733
+Então cuidado com essa função do bem,
+
+32
+00:02:13.742 --> 00:02:19.113
+aqui não vai colocar o veículo do sócio e tá disfarçado lá no ativo da empresa, né?
+
+33
+00:02:19.123 --> 00:02:21.912
+Dentro do CIAP, esse não dá crédito de ICMS,
+
+34
+00:02:21.923 --> 00:02:27.953
+não é só aquele que tem função dentro da empresa ali, na função industrial,
+
+35
+00:02:27.962 --> 00:02:30.733
+no nosso exemplo aqui de máquinas e equipamentos.
+
+36
+00:02:30.815 --> 00:02:35.026
+O registro que vai impactar no bloco G é o registro zero quinhentos,
+
+37
+00:02:35.035 --> 00:02:40.505
+que também tá lá no bloco zero das informações cadastrais, que é o plano de contas.
+
+38
+00:02:40.516 --> 00:02:44.585
+Aqui nesse registro, ele pede quais são as contas contábeis,
+
+39
+00:02:44.595 --> 00:02:48.546
+onde esses bens foram registrados na contabilidade.
+
+40
+00:02:48.555 --> 00:02:53.785
+E isso aqui já lembra que nós falamos lá no comecinho sobre malhas da e
+
+41
+00:02:53.796 --> 00:02:59.026
+CD junto com a f d ICMS p i Olha só plano de contas,
+
+42
+00:02:59.035 --> 00:03:00.485
+gente é uma coisa contábil,
+
+43
+00:03:00.830 --> 00:03:05.960
+é uma coisa que tá registrada e que vai pro fisico lá na e CD, mas o fisco fica de olho.
+
+44
+00:03:05.970 --> 00:03:10.139
+Se a conta contábil que você cadastrou essa máquina que você tá tomando,
+
+45
+00:03:10.149 --> 00:03:13.580
+O crédito do SEP também é a mesma conta contábil que
+
+46
+00:03:13.589 --> 00:03:18.779
+recebeu essa máquina lá na contabilidade ele quer a conta contábil,
+
+47
+00:03:19.029 --> 00:03:22.000
+registro zero, seiscentos, centro de custos.
+
+48
+00:03:22.009 --> 00:03:26.559
+Esse registro é bem interessante, porque se eu estou falando de crédito do SEP,
+
+49
+00:03:26.570 --> 00:03:31.360
+obrigatoriamente o centro de custos tem que ser um centro de custo ali da produção,
+
+50
+00:03:31.369 --> 00:03:32.380
+um centro de custos,
+
+51
+00:03:32.389 --> 00:03:36.300
+que faça sentido com a modalidade do crédito que eu estou tomando.
+
+52
+00:03:36.940 --> 00:03:41.850
+E aí vem o pulo do gato Bloco G.
+
+53
+00:03:41.860 --> 00:03:44.869
+Tudo isso daqui vem na parte do cadastro,
+
+54
+00:03:44.880 --> 00:03:49.210
+mas é no bloco G que existe o controle do crédito do CIAP.
+
+55
+00:03:49.649 --> 00:03:56.220
+O bloco G ele precisa ser sempre gerado no arquivo caso a empresa
+
+56
+00:03:56.229 --> 00:04:03.419
+tenha crédito de ativo imobilizado pelo CIAP e ele tem que estar preenchido.
+
+57
+00:04:03.429 --> 00:04:11.000
+Mas ele é um bloco que o P V A o programa Validador ele não valida.
+
+58
+00:04:11.500 --> 00:04:17.709
+Se você entregar uma f d e C m SP i que tem crédito de AP,
+
+59
+00:04:17.720 --> 00:04:20.510
+mas o bloco G não estiver preenchido,
+
+60
+00:04:20.519 --> 00:04:24.980
+o arquivo vai validar com sucesso ele vai transmitir e você
+
+61
+00:04:24.989 --> 00:04:27.510
+vai tá fazendo um arquivo errado E aí você vai me dizer
+
+62
+00:04:27.519 --> 00:04:32.429
+assim Joy não acredito pois é sabe que que o arquivo valida
+
+63
+00:04:32.440 --> 00:04:36.690
+com sucesso e passa mesmo sem o bloco G estar preenchido,
+
+64
+00:04:37.070 --> 00:04:45.260
+porque a maioria dos estados, o crédito desse ICMS do CP, ele não vem por esse bloco.
+
+65
+00:04:45.269 --> 00:04:48.079
+Ele vem por uma nota fiscal que é emitida no
+
+66
+00:04:48.089 --> 00:04:53.200
+final do mês com CFOP um seiscentos e quatro CFOP,
+
+67
+00:04:53.209 --> 00:04:55.480
+um seiscentos e quatro é o.
+
+68
+00:04:55.489 --> 00:04:58.170
+Geralmente as empresas fazem o que fechou o mês.
+
+69
+00:04:58.179 --> 00:05:03.480
+A última nota do mês que ela apura lá e emite é a nota do crédito do ICMS,
+
+70
+00:05:03.489 --> 00:05:06.179
+porque esse crédito do CP
+
+71
+00:05:06.519 --> 00:05:08.209
+é um crédito que ele é tomado.
+
+72
+00:05:08.220 --> 00:05:12.369
+Ele é calculado por um fator não é simplesmente pegar o valor da nota fiscal,
+
+73
+00:05:12.380 --> 00:05:15.170
+pegar o valor do ICMS e dividir em quarenta e oito vezes.
+
+74
+00:05:15.179 --> 00:05:18.529
+Existe um fator que tem que ser aplicado e esse fator ele é
+
+75
+00:05:18.540 --> 00:05:23.410
+calculado pelo total das da das saídas tributadas e o total das saídas.
+
+76
+00:05:23.420 --> 00:05:29.130
+Então faz faz-se um cálculo através desse fator se aplica em cima da parcela.
+
+77
+00:05:29.140 --> 00:05:32.070
+Então é isso que é possibilidade de crédito.
+
+78
+00:05:32.339 --> 00:05:36.829
+A empresa terminou o mês, viu todas as saídas, todas as saídas tributadas,
+
+79
+00:05:36.839 --> 00:05:38.429
+faz o cálculo do fator,
+
+80
+00:05:38.440 --> 00:05:42.829
+vai lá e emite a nota do crédito do AP no C F a P um Seiscentos e quatro.
+
+81
+00:05:42.839 --> 00:05:47.489
+Então esse crédito do ICMS ele vem por uma nota fiscal.
+
+82
+00:05:47.500 --> 00:05:51.750
+Ele não vem pelo bloco G e é por isso que o contribuinte
+
+83
+00:05:51.760 --> 00:05:56.070
+que não se atentar em olhar se no arquivo está sendo preenchido.
+
+84
+00:05:56.079 --> 00:05:57.230
+O bloco G.
+
+85
+00:05:57.239 --> 00:06:04.195
+Ele não vai ter diferença na apuração, porque o crédito tá na no na nota fiscal.
+
+86
+00:06:04.204 --> 00:06:07.334
+O crédito tá no no CFOP um, seiscentos e quatro.
+
+87
+00:06:07.345 --> 00:06:12.934
+A nota fiscal tá registrada lá no bloco C A apuração tá okay, ele vai lá,
+
+88
+00:06:12.945 --> 00:06:13.975
+valida transmite,
+
+89
+00:06:13.984 --> 00:06:18.755
+passa batido e pode estar cometendo um erro se o bloco G não estiver preenchido,
+
+90
+00:06:18.765 --> 00:06:24.635
+já tive um caso prático, onde um cliente chegou pra mim com uma notificação
+
+91
+00:06:24.869 --> 00:06:32.420
+da Receita Federal com mais de vinte e quatro meses de bloco G não preenchido.
+
+92
+00:06:32.730 --> 00:06:36.420
+A receita queria glosar junto com o Estado.
+
+93
+00:06:36.429 --> 00:06:39.700
+Obviamente todos os créditos do CP,
+
+94
+00:06:39.709 --> 00:06:44.940
+porque o contribuinte entregou a F D ICMS P I tomou o
+
+95
+00:06:44.950 --> 00:06:47.940
+crédito do C AP via emissão de nota fiscal no CFOP um,
+
+96
+00:06:47.950 --> 00:06:51.980
+seiscentos e quatro, mas não preencheu o bloco G.
+
+97
+00:06:51.989 --> 00:06:55.619
+E, pior, como o contribuinte foi notificado,
+
+98
+00:06:55.630 --> 00:06:59.440
+a retificação desses arquivos ficou bloqueada.
+
+99
+00:06:59.750 --> 00:07:03.239
+Nós tivemos que pedir autorização para o fiscal
+
+100
+00:07:03.250 --> 00:07:06.480
+para ele liberar a retificação dos arquivos,
+
+101
+00:07:06.489 --> 00:07:12.279
+pra que pudéssemos incluir o bloco G e evitar a glosa dos créditos.
+
+102
+00:07:12.290 --> 00:07:17.959
+Então Bloco G é coisa séria, é algo que não dá erro é algo que,
+
+103
+00:07:17.970 --> 00:07:21.019
+se você transmitiu sem preencher o sistema não vai.
+
+104
+00:07:21.100 --> 00:07:23.809
+Vai colocar nenhum tipo de apontamento,
+
+105
+00:07:23.820 --> 00:07:29.350
+mas que pode gerar uma dor de cabeça imensa para os contribuintes.
+
+106
+00:07:29.359 --> 00:07:34.709
+Não vai dar diferença na apuração porque o crédito veio por meio de nota fiscal,
+
+107
+00:07:34.720 --> 00:07:40.510
+mas pode te dar ali problemas fiscais pela ausência de um bloco obrigatório,
+
+108
+00:07:40.519 --> 00:07:42.369
+caso a empresa tenha o SEP

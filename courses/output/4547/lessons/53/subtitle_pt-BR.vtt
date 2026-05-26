@@ -1,0 +1,845 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.919
+E aí, para a gente fechar, eu trouxe, mediante essa quantidade de informações que vocês
+
+3
+00:00:05.919 --> 00:00:09.939
+viram ao longo da aula toda, e não foram poucas, quais são os cruzamentos que isso
+
+4
+00:00:09.939 --> 00:00:10.939
+pode acontecer.
+
+5
+00:00:10.939 --> 00:00:16.039
+Muitos deles eu já fui comentando com vocês ao longo da aula, para ir chamando a atenção
+
+6
+00:00:16.039 --> 00:00:18.440
+de vocês onde é que pode ter problema.
+
+7
+00:00:18.440 --> 00:00:20.500
+Aqui eu fiz um apanhado geral, olha só.
+
+8
+00:00:20.500 --> 00:00:26.739
+Então, estou de olho, sem sombra de dúvida, a Receita Federal acompanha isso praticamente
+
+9
+00:00:26.739 --> 00:00:27.899
+quase que online.
+
+10
+00:00:27.899 --> 00:00:31.160
+Se for grandes contribuintes, eu não tenho dúvida.
+
+11
+00:00:31.160 --> 00:00:33.719
+Os cruzamentos.
+
+12
+00:00:33.719 --> 00:00:39.060
+Principais validações da ECF para garantir a entrega da obrigação de acordo com a legislação
+
+13
+00:00:39.060 --> 00:00:40.060
+fiscal.
+
+14
+00:00:40.060 --> 00:00:46.520
+Provisão de imposto de renda lá no L300 versus imposto de renda a pagar no N630.
+
+15
+00:00:46.520 --> 00:00:50.880
+Então, vocês já sabem os blocos aí, né?
+
+16
+00:00:50.880 --> 00:00:55.899
+Cruzamento valida se o valor provisionado de imposto de renda é igual ao imposto de
+
+17
+00:00:55.899 --> 00:00:56.899
+renda apurado.
+
+18
+00:00:56.899 --> 00:00:57.899
+Entendeu?
+
+19
+00:00:57.899 --> 00:01:03.140
+Então, ele vai cruzar o bloco L300 com o bloco N630.
+
+20
+00:01:03.140 --> 00:01:07.060
+Então, a gente já vai dar uma olhada lá, ver se está batendo.
+
+21
+00:01:07.060 --> 00:01:08.060
+Entendeu?
+
+22
+00:01:08.060 --> 00:01:13.219
+O objetivo desse cruzamento é facilitar para a tua conciliação, para a tua checagem.
+
+23
+00:01:13.219 --> 00:01:17.700
+Provisão da contribuição social sobre o lucro líquido está lá no L300 versus a
+
+24
+00:01:17.700 --> 00:01:23.519
+contribuição social a pagar no N670.
+
+25
+00:01:23.519 --> 00:01:27.099
+Cruzamento valida se o valor provisionado da CSL é igual ao imposto apurado.
+
+26
+00:01:27.900 --> 00:01:28.900
+Perfeito?
+
+27
+00:01:28.900 --> 00:01:29.900
+Você pode fazer esse cruzamento.
+
+28
+00:01:29.900 --> 00:01:34.939
+Custo da atividade, que nós mostramos aqui a composição do custo, detalhamos, né?
+
+29
+00:01:34.939 --> 00:01:41.219
+Está no L210 versus os custos do L300, que é a DRE.
+
+30
+00:01:41.219 --> 00:01:46.400
+Cruzamento valida se o custo da atividade registrado no L210 está em conformidade com
+
+31
+00:01:46.400 --> 00:01:48.140
+o registrado no L300.
+
+32
+00:01:48.140 --> 00:01:52.060
+Então, antes da Receita Federal fazer esses cruzamentos, eu mesmo faço.
+
+33
+00:01:52.060 --> 00:01:56.060
+Se tiver tudo ok, bola para frente e entrego a minha ECF.
+
+34
+00:01:56.060 --> 00:01:57.060
+O que mais?
+
+35
+00:01:57.060 --> 00:02:02.060
+Cruzamento do X460 versus o M300.
+
+36
+00:02:02.060 --> 00:02:03.060
+Vocês lembram do M, né?
+
+37
+00:02:03.060 --> 00:02:05.439
+O LALUR, todos os cálculos, olha lá.
+
+38
+00:02:05.439 --> 00:02:11.319
+Cruzamento valida se o valor registrado na ficha X460, referente ao incentivo da Lei
+
+39
+00:02:11.319 --> 00:02:17.520
+do Bem, que eu mostrei para vocês, é igual ao montante excluído na base de cálculo
+
+40
+00:02:17.520 --> 00:02:20.060
+do IRPJ, lá no M300.
+
+41
+00:02:20.060 --> 00:02:21.060
+Entendeu?
+
+42
+00:02:21.060 --> 00:02:22.060
+Os cruzamentos?
+
+43
+00:02:22.060 --> 00:02:24.060
+Nós podemos fazer isso.
+
+44
+00:02:24.060 --> 00:02:25.060
+Outro.
+
+45
+00:02:25.060 --> 00:02:29.060
+Cruzamento do X460 versus o M350.
+
+46
+00:02:29.060 --> 00:02:35.240
+O cruzamento valida se o valor registrado na ficha X460, referente ao incentivo da Lei
+
+47
+00:02:35.240 --> 00:02:40.060
+do Bem, é igual ao montante excluído na base de cálculo da CSL.
+
+48
+00:02:40.060 --> 00:02:45.060
+Então, nós temos a exclusão para o imposto de renda e a exclusão para a CSL.
+
+49
+00:02:45.060 --> 00:02:46.060
+A gente tem que cruzar.
+
+50
+00:02:46.060 --> 00:02:47.060
+É bem semelhante?
+
+51
+00:02:47.060 --> 00:02:49.060
+É, mas temos que cruzar.
+
+52
+00:02:49.060 --> 00:02:50.060
+Entendeu?
+
+53
+00:02:50.060 --> 00:03:00.740
+O cruzamento da ECF do Y570 versus o relatório do ECAC Pontes Pagadora versus o N630 versus
+
+54
+00:03:00.740 --> 00:03:01.740
+o N630.
+
+55
+00:03:01.740 --> 00:03:04.659
+670, melhor dizendo.
+
+56
+00:03:04.659 --> 00:03:13.120
+Ou seja, cruzamento tem por intuito demonstrar se o total do valor do imposto de renda retido
+
+57
+00:03:13.120 --> 00:03:20.060
+na fonte registrado no Y570 está de acordo com o relatório que foi apontado na RECAQ.
+
+58
+00:03:20.060 --> 00:03:27.139
+Na Receita Federal, através da DIRF, antiga DIRF, hoje REINF, e do que foi utilizado no
+
+59
+00:03:27.139 --> 00:03:32.120
+abatimento do imposto de renda devido, visando identificar riscos e oportunidades.
+
+60
+00:03:32.120 --> 00:03:37.099
+Aqui a conciliação tem que ser um pente fino, porque todo imposto de renda que você
+
+61
+00:03:37.099 --> 00:03:42.860
+tem retido você se compensa no próprio mês, se só faz pérdida de compra e se for no
+
+62
+00:03:42.860 --> 00:03:46.139
+trimestre seguinte ou no ano seguinte, aí é pérdida de compra.
+
+63
+00:03:46.139 --> 00:03:49.740
+Mas tudo isso é passível de checagem, será que ocorreu mesmo a retenção?
+
+64
+00:03:49.740 --> 00:03:54.620
+Esse é o objetivo da Receita em fazer esses cruzamentos, porque você está deduzindo
+
+65
+00:03:54.620 --> 00:03:56.400
+do seu imposto a pagar.
+
+66
+00:03:56.400 --> 00:04:00.379
+Então alguém reteu, alguém já recolheu, eles querem essas confirmações.
+
+67
+00:04:00.379 --> 00:04:01.379
+O que mais?
+
+68
+00:04:01.379 --> 00:04:07.919
+O cruzamento do X450 com o Y600, como nós mostramos vários blocos, dá para vocês
+
+69
+00:04:07.919 --> 00:04:15.500
+ter noção do X450, do Y600, e se eu não mostrei, não trouxe, vá lá, abre um e coloca
+
+70
+00:04:15.500 --> 00:04:19.620
+sim, ele vai te abrir lá, dá uma olhada no que é o X, o que é o Y600.
+
+71
+00:04:19.620 --> 00:04:27.800
+Dá uma olhada, é fácil, cria uma ECF-Test, digita lá o CNPJ, pode copiar do meu aí
+
+72
+00:04:27.800 --> 00:04:33.680
+que é um CNPJ acadêmico que a gente utiliza para não dar erro, e vai lá no bloco e abre,
+
+73
+00:04:33.680 --> 00:04:39.019
+coloca sim no início e abre o bloco e vê o que ele pede, e confronta o cruzamento do
+
+74
+00:04:39.019 --> 00:04:41.420
+X405 com o Y600.
+
+75
+00:04:41.420 --> 00:04:45.660
+É assim que a gente elabora as aulas, fazendo esses testes.
+
+76
+00:04:45.660 --> 00:04:46.779
+Cruzamento verifica.
+
+77
+00:04:46.779 --> 00:04:47.779
+Se os totais dos pagamentos de juros e dividendos estão no X405, o X600 está no X400.
+
+78
+00:04:47.779 --> 00:04:48.779
+Se os totais dos pagamentos de juros e dividendos estão no X400, o X400 está no X400.
+
+79
+00:04:48.779 --> 00:04:48.980
+Se os totais dos pagamentos de juros e dividendos estão no X400, o X400 está no X400.
+
+80
+00:04:48.980 --> 00:04:49.980
+Se os totais dos pagamentos de juros e dividendos estão no X400, o X400 está no X400.
+
+81
+00:04:49.980 --> 00:04:50.980
+Se os totais dos pagamentos de juros e dividendos estão no X400.
+
+82
+00:04:50.980 --> 00:04:51.980
+Se os totais dos pagamentos de juros e dividendos estão no X400.
+
+83
+00:04:51.980 --> 00:04:52.980
+Se os totais dos pagamentos de juros e dividendos estão no X400.
+
+84
+00:04:52.980 --> 00:04:53.100
+Está escriturado corretamente no X450.
+
+85
+00:04:53.100 --> 00:04:54.800
+Está escriturado corretamente no X450.
+
+86
+00:04:54.800 --> 00:04:56.360
+Entenderam o que ele faz com cruzamento?
+
+87
+00:04:56.360 --> 00:04:58.480
+É assim que nasce o cruzamento.
+
+88
+00:04:58.480 --> 00:05:01.620
+Aí nós temos aqui o cruzamento do L100 e o L300.
+
+89
+00:05:01.620 --> 00:05:02.620
+O que é o L?
+
+90
+00:05:02.620 --> 00:05:04.480
+Nós já sabemos, né?
+
+91
+00:05:04.480 --> 00:05:05.480
+Balanço.
+
+92
+00:05:05.480 --> 00:05:10.379
+Verifica se as diferenças existentes entre o total do ativo e passivo se referem a um
+
+93
+00:05:10.379 --> 00:05:12.379
+montante transitado no resultado.
+
+94
+00:05:12.379 --> 00:05:14.339
+Que interessante. Por isso que ele pede
+
+95
+00:05:14.339 --> 00:05:16.579
+o saldo antes do encerramento, depois do encerramento.
+
+96
+00:05:17.079 --> 00:05:18.399
+A diferença entre ativo e
+
+97
+00:05:18.399 --> 00:05:19.600
+passivo tem que ser o resultado.
+
+98
+00:05:20.540 --> 00:05:22.259
+A não ser que eu fiz lançamento diretamente
+
+99
+00:05:22.259 --> 00:05:24.319
+no patrimônio líquido. E aí eu tenho
+
+100
+00:05:24.319 --> 00:05:26.399
+a DRA para explicar. Entenderam?
+
+101
+00:05:27.279 --> 00:05:27.720
+Olha lá.
+
+102
+00:05:28.319 --> 00:05:30.600
+Então, faça o confronto do L100
+
+103
+00:05:30.600 --> 00:05:31.399
+com o L300.
+
+104
+00:05:32.220 --> 00:05:33.980
+Depois nós temos aí
+
+105
+00:05:33.980 --> 00:05:36.339
+o que mais nós vamos... Cruzamento
+
+106
+00:05:36.339 --> 00:05:38.379
+do K156 com o K356.
+
+107
+00:05:39.879 --> 00:05:40.360
+Cruzamento
+
+108
+00:05:40.360 --> 00:05:42.139
+verifica se as diferenças existentes
+
+109
+00:05:42.139 --> 00:05:43.660
+em total do ativo e passivo
+
+110
+00:05:43.660 --> 00:05:45.540
+se referem ao montante
+
+111
+00:05:45.540 --> 00:05:47.779
+transitado e resultado. Então,
+
+112
+00:05:48.319 --> 00:05:50.360
+quem vai me dizer isso é o K156
+
+113
+00:05:51.399 --> 00:05:52.800
+e o K356.
+
+114
+00:05:52.959 --> 00:05:54.199
+Os blocos que nós mostramos
+
+115
+00:05:54.199 --> 00:05:56.040
+para vocês. O cruzamento
+
+116
+00:05:56.040 --> 00:05:58.360
+do M500 inicial janeiro,
+
+117
+00:05:58.660 --> 00:05:59.360
+período atual,
+
+118
+00:06:00.000 --> 00:06:02.259
+versus o M500 saldo final
+
+119
+00:06:02.259 --> 00:06:04.019
+anual da ECF anterior.
+
+120
+00:06:04.740 --> 00:06:06.259
+Cruzamento verifica se o saldo
+
+121
+00:06:06.259 --> 00:06:08.079
+final do último período da ECF
+
+122
+00:06:08.079 --> 00:06:10.180
+anterior está igual ao saldo
+
+123
+00:06:10.180 --> 00:06:12.019
+inicial do janeiro da ECF
+
+124
+00:06:12.019 --> 00:06:13.379
+do período atual. Entenderam?
+
+125
+00:06:14.000 --> 00:06:16.139
+Saldo final de um mês, de um ano, tem que ser o saldo
+
+126
+00:06:16.139 --> 00:06:18.060
+inicial do outro. Então, você mesmo
+
+127
+00:06:18.060 --> 00:06:19.199
+faz a checagem.
+
+128
+00:06:20.000 --> 00:06:22.379
+Super importante, né gente, esses cruzamentos.
+
+129
+00:06:23.300 --> 00:06:24.139
+Aqui nós temos
+
+130
+00:06:24.139 --> 00:06:26.060
+o L100 versus o L300.
+
+131
+00:06:26.959 --> 00:06:28.399
+Aqui nós comentamos.
+
+132
+00:06:28.980 --> 00:06:30.560
+Temos o X292.
+
+133
+00:06:31.139 --> 00:06:32.579
+Esse aqui, o cruzamento
+
+134
+00:06:32.579 --> 00:06:34.420
+do L100 vezes o L300
+
+135
+00:06:34.420 --> 00:06:35.860
+vezes o L450.
+
+136
+00:06:36.740 --> 00:06:38.040
+O cruzamento verifica
+
+137
+00:06:38.040 --> 00:06:40.379
+se os valores contabilizados de JCP
+
+138
+00:06:40.379 --> 00:06:41.860
+demais juros
+
+139
+00:06:41.860 --> 00:06:44.139
+e dividendos contabilizados estão de acordo
+
+140
+00:06:44.139 --> 00:06:45.259
+com o registrado no
+
+141
+00:06:45.259 --> 00:06:48.120
+X450. São as informações
+
+142
+00:06:48.120 --> 00:06:49.680
+econômicas que nós comentamos.
+
+143
+00:06:50.160 --> 00:06:52.180
+Temos o Y, que são informações gerais,
+
+144
+00:06:52.259 --> 00:06:53.439
+e o X, que são econômicas.
+
+145
+00:06:53.819 --> 00:06:56.060
+Então, ele vai checar. Soma as duas linhas,
+
+146
+00:06:56.240 --> 00:06:57.800
+bate lá, bate. Se não bateu,
+
+147
+00:06:58.160 --> 00:06:59.139
+tem a advertência aí.
+
+148
+00:06:59.779 --> 00:07:01.720
+Cruzamento do X292
+
+149
+00:07:01.720 --> 00:07:03.860
+versus o L100 versus o L300.
+
+150
+00:07:04.439 --> 00:07:05.839
+Ou seja, esse cruzamento,
+
+151
+00:07:05.839 --> 00:07:07.339
+o objetivo dele é verificar
+
+152
+00:07:07.339 --> 00:07:09.879
+se o total das operações com o exterior
+
+153
+00:07:09.879 --> 00:07:11.839
+registrado no X292
+
+154
+00:07:11.860 --> 00:07:13.860
+está em conformidade
+
+155
+00:07:14.519 --> 00:07:16.079
+com os valores detalhados
+
+156
+00:07:16.079 --> 00:07:18.139
+nas demonstrações contábeis.
+
+157
+00:07:18.360 --> 00:07:19.779
+Essa é a função desse cruzamento.
+
+158
+00:07:20.079 --> 00:07:21.959
+Então, são vários cruzamentos.
+
+159
+00:07:22.560 --> 00:07:24.120
+O X292
+
+160
+00:07:24.120 --> 00:07:25.579
+versus o X450
+
+161
+00:07:25.579 --> 00:07:28.319
+verifica se o saldo dos pagamentos
+
+162
+00:07:28.319 --> 00:07:29.800
+por serviços obtidos
+
+163
+00:07:29.800 --> 00:07:32.560
+do exterior está em conformidade
+
+164
+00:07:32.560 --> 00:07:33.819
+com os valores registrados
+
+165
+00:07:33.819 --> 00:07:35.800
+em operações com o exterior no bloco
+
+166
+00:07:35.800 --> 00:07:37.040
+X292.
+
+167
+00:07:37.699 --> 00:07:40.000
+Então, com isso, vocês perceberam
+
+168
+00:07:40.000 --> 00:07:41.779
+que as informações têm
+
+169
+00:07:41.779 --> 00:07:42.980
+que ser fidedigna.
+
+170
+00:07:43.560 --> 00:07:45.740
+Quando eu boto um sim lá no bloco zero,
+
+171
+00:07:46.120 --> 00:07:48.279
+eu tenho que responder corretamente
+
+172
+00:07:48.279 --> 00:07:49.560
+o que ele me pergunta,
+
+173
+00:07:49.639 --> 00:07:51.699
+porque vai ter cruzamento, principalmente
+
+174
+00:07:51.699 --> 00:07:54.120
+os valores. Haverá cruzamento.
+
+175
+00:07:54.240 --> 00:07:55.759
+Se estiver em desacordo, sem sombra
+
+176
+00:07:55.759 --> 00:07:57.740
+de dúvida, seremos notificados.
+
+177
+00:07:58.379 --> 00:08:00.279
+Mais um aqui, o X292
+
+178
+00:08:00.279 --> 00:08:02.180
+com 430, ele vai verificar
+
+179
+00:08:02.180 --> 00:08:03.680
+se o saldo dos rendimentos
+
+180
+00:08:03.680 --> 00:08:05.319
+por serviços obtidos
+
+181
+00:08:05.319 --> 00:08:07.579
+do exterior está em conformidade.
+
+182
+00:08:07.759 --> 00:08:10.220
+Você viu que nós temos serviço prestado e serviço obtido.
+
+183
+00:08:10.620 --> 00:08:11.740
+Está em conformidade e
+
+184
+00:08:11.740 --> 00:08:13.879
+registrado nas operações do exterior
+
+185
+00:08:13.879 --> 00:08:15.899
+no bloco X292.
+
+186
+00:08:16.439 --> 00:08:18.639
+A ECF foi implantada
+
+187
+00:08:18.639 --> 00:08:19.899
+com o intuito de
+
+188
+00:08:19.899 --> 00:08:22.459
+substituir a DIPJ,
+
+189
+00:08:22.459 --> 00:08:24.240
+que é a Declaração do Imposto de Renda
+
+190
+00:08:24.240 --> 00:08:26.660
+à Pessoa Jurídica, e é composta
+
+191
+00:08:26.660 --> 00:08:28.480
+por 14 módulos
+
+192
+00:08:28.480 --> 00:08:29.600
+que nós comentamos,
+
+193
+00:08:30.240 --> 00:08:32.259
+o que torna essa obrigação acessória
+
+194
+00:08:32.259 --> 00:08:34.139
+bem mais extensa
+
+195
+00:08:34.139 --> 00:08:36.259
+e bem mais trabalhosa do que
+
+196
+00:08:36.259 --> 00:08:38.299
+a antiga DIPJ, que talvez muitos
+
+197
+00:08:38.299 --> 00:08:39.899
+de vocês não pegaram isso.
+
+198
+00:08:40.419 --> 00:08:41.700
+É muito mais,
+
+199
+00:08:41.740 --> 00:08:42.360
+de informações.
+
+200
+00:08:43.200 --> 00:08:45.740
+Portanto, esses fatores
+
+201
+00:08:45.740 --> 00:08:48.220
+reforçam a necessidade
+
+202
+00:08:48.220 --> 00:08:50.220
+de trabalhar com um sistema
+
+203
+00:08:50.220 --> 00:08:51.559
+contábil capaz
+
+204
+00:08:51.559 --> 00:08:53.559
+de gerar as informações
+
+205
+00:08:53.559 --> 00:08:55.000
+de maneira correta.
+
+206
+00:08:55.620 --> 00:08:58.279
+Obviamente, complice, boas práticas,
+
+207
+00:08:58.500 --> 00:09:00.620
+governância, conciliação
+
+208
+00:09:00.620 --> 00:09:01.759
+rotineira,
+
+209
+00:09:02.200 --> 00:09:04.500
+tudo isso faz parte para contribuir
+
+210
+00:09:04.500 --> 00:09:06.700
+para o êxito da sua ECF.
+
+211
+00:09:07.539 --> 00:09:08.220
+Vocês entenderam
+
+212
+00:09:08.220 --> 00:09:09.700
+a importância dessa declaração?

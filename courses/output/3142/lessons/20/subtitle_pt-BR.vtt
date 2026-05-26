@@ -1,0 +1,345 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.199
+No caso específico de e o que acontece,
+
+2
+00:00:04.920 --> 00:00:12.689
+o o ou um critério ou outro certo, agora o e tem que estabelecer os dois critérios.
+
+3
+00:00:12.699 --> 00:00:16.549
+Por exemplo, vamos imaginar aqui oh de uma nota fiscal,
+
+4
+00:00:17.559 --> 00:00:19.750
+cu PIS e COFINS
+
+5
+00:00:21.889 --> 00:00:23.280
+o PIS e COFINS.
+
+6
+00:00:24.159 --> 00:00:26.469
+Ele só será calculado no caso aqui.
+
+7
+00:00:26.479 --> 00:00:29.790
+Vamos pensar ne nessa situação de cu não cumulativo.
+
+8
+00:00:29.799 --> 00:00:35.349
+Ele vai ser calculado sobre entrada ou saída, então o e igual e
+
+9
+00:00:36.750 --> 00:00:41.419
+isso aqui for igual à entrada
+
+10
+00:00:47.880 --> 00:00:49.029
+que que acontece
+
+11
+00:00:49.659 --> 00:00:54.490
+deu falso, falou Ah, Tiago, mas é entrada ou saída, entrada ou saída?
+
+12
+00:00:54.500 --> 00:00:56.409
+No caso específico?
+
+13
+00:00:56.419 --> 00:00:57.470
+No caso específico,
+
+14
+00:00:57.479 --> 00:01:02.830
+quando eu vou atender para o e todos os critérios têm que ser verdadeiros.
+
+15
+00:01:02.840 --> 00:01:05.769
+Se um dos critérios não for verdadeiro,
+
+16
+00:01:06.400 --> 00:01:08.610
+ele vai fazer o que ele vai negar toda a expressão,
+
+17
+00:01:08.620 --> 00:01:11.089
+então eu posso ter o seguinte situação oh,
+
+18
+00:01:11.099 --> 00:01:14.650
+tem que ser entrada tem que ser o c f a p tal tem que ser c f p tal.
+
+19
+00:01:14.660 --> 00:01:15.910
+Então vamos pensar aqui, oh
+
+20
+00:01:17.050 --> 00:01:19.379
+PIS e COFINS. Aí que que a gente vai fazer?
+
+21
+00:01:19.389 --> 00:01:25.120
+Oh, eu criei aqui uma planilha de uma operação que eu vou calcular o saldo a pagar
+
+22
+00:01:25.910 --> 00:01:27.419
+tá bom
+
+23
+00:01:28.029 --> 00:01:29.699
+que que eu tô dizendo aqui. pessoal
+
+24
+00:01:30.529 --> 00:01:34.699
+que eu tenho uma operação de apuração PIS e COFINS não cumulativo Então
+
+25
+00:01:34.709 --> 00:01:37.699
+vamos imaginar que toda vez que eu tiver uma entrada CFOP vinte e um
+
+26
+00:01:37.709 --> 00:01:40.459
+zero um e CFOP vinte e um zero um eu vou tomar crédito PIS
+
+27
+00:01:40.470 --> 00:01:44.860
+COFINS saída CFOP cinquenta e um zero um Eu vou gerar um débito,
+
+28
+00:01:44.870 --> 00:01:49.739
+então se eu coloco igual e esse aqui igual entrada, oh pessoal,
+
+29
+00:01:49.750 --> 00:01:53.699
+toda vez que for texto eu coloco entre aspas ponto vi número
+
+30
+00:01:53.709 --> 00:01:56.879
+eu não preciso colocar entre aspas Então vinte e um zero um
+
+31
+00:01:58.690 --> 00:02:04.139
+opa verdadeiro beleza então aqui falso falso igual, depois eu vou fazer.
+
+32
+00:02:04.150 --> 00:02:10.979
+A forma tá igual E esse aqui foi igual a saída.
+
+33
+00:02:10.990 --> 00:02:14.759
+Ponto vírgula, esse aqui é igual cinquenta e um zero um
+
+34
+00:02:15.979 --> 00:02:17.309
+Então, basicamente,
+
+35
+00:02:17.320 --> 00:02:22.029
+se eu vou calcular PIS que eu fiz eu vou calcular sobre nos créditos.
+
+36
+00:02:22.039 --> 00:02:25.029
+Sobre a entrada de dois mil e quinhentos e sobre a
+
+37
+00:02:25.039 --> 00:02:28.429
+saída de três e oitocentos uma entrada popa aqui é saída,
+
+38
+00:02:28.440 --> 00:02:28.649
+né?
+
+39
+00:02:28.660 --> 00:02:35.330
+Uma remessa uma saída de remessa cinquenta e nove zero cinco Não tem aí compra,
+
+40
+00:02:36.770 --> 00:02:39.119
+então vamos por sim. Uma entrada de energia
+
+41
+00:02:40.320 --> 00:02:42.929
+eh duzentos e cinquenta reais Entrada de energia
+
+42
+00:02:42.940 --> 00:02:45.110
+Não vamos colocar aqui uma entrada de frete
+
+43
+00:02:46.050 --> 00:02:50.679
+duzentos e cinquenta reais o CFOP um um três em três
+
+44
+00:02:52.300 --> 00:02:55.850
+Mas já que a gente não tem direito a tomar crédito do frete e tudo mais bom beleza
+
+45
+00:02:56.809 --> 00:03:00.070
+que que eu tô estabelecendo aqui pessoal que toda vez
+
+46
+00:03:00.080 --> 00:03:03.100
+nesse caso específico eu tenho que satisfazer dois critérios Qual?
+
+47
+00:03:03.110 --> 00:03:05.380
+Que é o critério entrada CFOP vinte e um zero? Um?
+
+48
+00:03:05.389 --> 00:03:09.460
+Se eu tiver uma entrada, por exemplo, que é o caso do frete aqui Oh o CFOP um, três,
+
+49
+00:03:09.470 --> 00:03:14.675
+cinco três tá fora pra saída somente se for do CFOP de venda a Thiago.
+
+50
+00:03:14.684 --> 00:03:19.255
+E se por algum motivo eu tenho vários c f a PS de venda aí no lugar de se utilizar ponto
+
+51
+00:03:19.264 --> 00:03:22.235
+vírgula e nas duas situações tem que ser um ponto vírgula
+
+52
+00:03:22.244 --> 00:03:24.455
+e e um o com várias possibilidades de f a,
+
+53
+00:03:24.464 --> 00:03:25.595
+P entendeu?
+
+54
+00:03:25.604 --> 00:03:26.895
+Então a gente vai mesclando,
+
+55
+00:03:26.904 --> 00:03:33.475
+Só que aí o co o que que eu venho e digo oh se essa condição isso
+
+56
+00:03:33.485 --> 00:03:36.994
+for verdadeira ponto vírgula eu retorno isso aqui
+
+57
+00:03:37.005 --> 00:03:39.955
+vezes nove vírgula vinte e cinco por cento,
+
+58
+00:03:39.964 --> 00:03:41.375
+se não retorno zero
+
+59
+00:03:42.789 --> 00:03:46.179
+ele calculou Bom, se
+
+60
+00:03:47.660 --> 00:03:49.869
+essa situação aqui for verdadeira,
+
+61
+00:03:49.880 --> 00:03:56.210
+eu retorno esse vezes nove vírgula vinte e cinco por cento se não retorno zero
+
+62
+00:03:57.570 --> 00:04:04.020
+então basicamente eu tenho pi sobre vendas, opa aqui tá e aqui é compras,
+
+63
+00:04:04.029 --> 00:04:07.160
+desculpa pessoal e aqui é sobre vendas
+
+64
+00:04:07.919 --> 00:04:10.089
+bom, então qual que é o meu PIS?
+
+65
+00:04:10.100 --> 00:04:14.690
+Esse menos esse então de todas as operações que eu tenho
+
+66
+00:04:14.699 --> 00:04:17.070
+que que eu apurei de piso que eu fiz aqui pessoal
+
+67
+00:04:18.118 --> 00:04:20.848
+cento e vinte reais de PIS COFINS A pagar detalhe
+
+68
+00:04:20.858 --> 00:04:23.269
+joguei a lista total de PIS COFINS não segrega,
+
+69
+00:04:23.278 --> 00:04:23.808
+né pessoal?
+
+70
+00:04:23.819 --> 00:04:28.408
+Então a gente tem aí uma possibilidade de fazer alguma movimentação e tudo
+
+71
+00:04:28.419 --> 00:04:32.169
+mais isso lembrando que eu utilizei o quê O e mais cedo?
+
+72
+00:04:32.178 --> 00:04:36.679
+Eu utilizei o o somente se as duas características nesse caso aqui oh,
+
+73
+00:04:36.690 --> 00:04:37.380
+que eu coloquei oh,
+
+74
+00:04:37.390 --> 00:04:42.980
+se for entrada e CFOP vinte e um zero um nesse outro caso
+
+75
+00:04:42.989 --> 00:04:46.440
+saída e CFOP cinquenta e um zero um Então aí diante da situação,
+
+76
+00:04:46.450 --> 00:04:50.339
+a gente pode testar n n variedades.
+
+77
+00:04:50.350 --> 00:04:53.760
+Ah, se eu tiver fazendo uma validação de estoque, por exemplo,
+
+78
+00:04:53.769 --> 00:04:56.079
+eu quero só chegar no estoque total entrada e
+
+79
+00:04:56.089 --> 00:04:58.940
+saída de remessa não gera movimentação de estoque,
+
+80
+00:04:58.950 --> 00:05:02.859
+compra, venda, transferência, compra, venda e transferência beleza
+
+81
+00:05:03.079 --> 00:05:03.429
+Certo,
+
+82
+00:05:03.440 --> 00:05:07.109
+então o objetivo que a gente eh fala especificamente de utilizar
+
+83
+00:05:07.119 --> 00:05:10.730
+o e ou o é a gente trazer um campo específico,
+
+84
+00:05:10.739 --> 00:05:11.769
+uma coluna específica.
+
+85
+00:05:11.779 --> 00:05:13.529
+A gente vai trazer uma informação adicional pra
+
+86
+00:05:13.540 --> 00:05:15.589
+gente fazer no nosso controle nossos tes.

@@ -1,0 +1,33 @@
+{
+  "id": 475951,
+  "title": "Regime caixa e competência",
+  "position": 12,
+  "duration": 140,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f50fcfa2-5e33-4a54-bd78-5c41283b851c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f50fcfa2-5e33-4a54-bd78-5c41283b851c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f50fcfa2-5e33-4a54-bd78-5c41283b851c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f50fcfa2-5e33-4a54-bd78-5c41283b851c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f50fcfa2-5e33-4a54-bd78-5c41283b851c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

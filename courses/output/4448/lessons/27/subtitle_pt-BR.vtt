@@ -1,0 +1,701 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:04.839
+Passamos agora para o nosso próximo CPC, que também é extremamente importante
+
+3
+00:00:04.839 --> 00:00:09.800
+e também vamos colocar de uma maneira didática, suave, para que todos entendam.
+
+4
+00:00:09.800 --> 00:00:16.760
+É exatamente CPC 03, Demonstração dos Fluxos de Caixa.
+
+5
+00:00:16.760 --> 00:00:23.760
+Percebam que está no plural, fluxos é mais do que um fluxo, isso que diz a norma.
+
+6
+00:00:23.760 --> 00:00:28.920
+Então, nós também vamos desvendar aqui, passo a passo, a DFC.
+
+7
+00:00:28.920 --> 00:00:33.520
+Inclusive você, nosso aluno, que não tinha a vivência, que não sabia elaborar,
+
+8
+00:00:33.520 --> 00:00:39.000
+vai aprender a elaborar, nós montei aqui passo a passo como é que a gente faz.
+
+9
+00:00:39.000 --> 00:00:47.240
+Mas vamos entender os primórdios do CPC, com o objetivo que são tópicos práticos de IFRS.
+
+10
+00:00:47.240 --> 00:00:50.799
+Como fizemos o impermanent, agora vamos ao fluxo de caixa.
+
+11
+00:00:50.799 --> 00:00:55.840
+É o 03, ou seja, a NBC-TG03.
+
+12
+00:00:55.840 --> 00:00:58.479
+Demonstração dos Fluxos de Caixa.
+
+13
+00:00:58.479 --> 00:01:02.799
+Com relação às normas internacionais, é o IAS 7.
+
+14
+00:01:02.799 --> 00:01:05.480
+IAS, International Account Standard.
+
+15
+00:01:05.480 --> 00:01:08.280
+Normas Padrões Internacionais número 7.
+
+16
+00:01:08.280 --> 00:01:13.879
+Que é o nosso CPC 03, já está na sua segunda revisão, R2.
+
+17
+00:01:13.879 --> 00:01:17.079
+Data da aprovação, 03.09.2010.
+
+18
+00:01:17.079 --> 00:01:21.079
+Data da divulgação, 07.10.2010, perfeito?
+
+19
+00:01:21.079 --> 00:01:27.239
+Então, desde 2010, que ela está sendo agora ajustada com o CPC 51.
+
+20
+00:01:27.239 --> 00:01:28.280
+Qual é o objetivo?
+
+21
+00:01:28.280 --> 00:01:33.280
+O objetivo da DFC, Demonstração de Fluxo de Caixa.
+
+22
+00:01:33.280 --> 00:01:39.280
+Informação sobre fluxo de caixa, ela é essencial para os usuários das demonstrações contábeis,
+
+23
+00:01:39.280 --> 00:01:46.280
+como investidores, credores, administradores e demais interessados,
+
+24
+00:01:46.280 --> 00:01:52.280
+possam avaliar a real capacidade da empresa de gerar caixa equivalente de caixa.
+
+25
+00:01:52.280 --> 00:01:55.280
+Nós vamos ver já já o que significa equivalente de caixa.
+
+26
+00:01:55.280 --> 00:01:56.280
+O termo.
+
+27
+00:01:56.280 --> 00:01:57.280
+O termo.
+
+28
+00:01:57.280 --> 00:02:06.280
+Para apurar o lucro, é fundamental compreender se a empresa efetivamente gera recurso financeiro
+
+29
+00:02:06.280 --> 00:02:14.280
+suficiente para honrar seus compromissos, investir em suas atividades e distribuir resultados.
+
+30
+00:02:14.280 --> 00:02:21.280
+Por isso, as decisões econômicas dependem da análise de quatro aspectos principais.
+
+31
+00:02:21.280 --> 00:02:27.280
+Ou seja, pessoal, de nada adianta uma empresa ser extremamente
+
+32
+00:02:27.280 --> 00:02:32.280
+lucrativa, com uma margem excepcional, se ela não gerar caixa.
+
+33
+00:02:32.280 --> 00:02:33.280
+De nada adianta.
+
+34
+00:02:33.280 --> 00:02:36.280
+Eu posso ter um lucro de 50% do meu produto.
+
+35
+00:02:36.280 --> 00:02:39.280
+Se eu não gerar caixa, eu vou quebrar.
+
+36
+00:02:39.280 --> 00:02:42.280
+Se eu não gerar caixa para os pequenos compromissos, eu vou quebrar.
+
+37
+00:02:42.280 --> 00:02:44.280
+É assim que funciona.
+
+38
+00:02:44.280 --> 00:02:45.280
+Entenderam?
+
+39
+00:02:45.280 --> 00:02:46.280
+É assim que funciona.
+
+40
+00:02:46.280 --> 00:02:48.280
+Eu tenho que ter lucro, mas eu tenho que gerar caixa.
+
+41
+00:02:48.280 --> 00:02:50.280
+Não basta eu produzir bem.
+
+42
+00:02:50.280 --> 00:02:52.280
+Eu tenho que produzir bem e vender bem.
+
+43
+00:02:52.280 --> 00:02:55.280
+Essa é a nossa análise com relação à geração de caixa.
+
+44
+00:02:55.280 --> 00:02:56.280
+Tá?
+
+45
+00:02:56.280 --> 00:03:01.280
+Então, mais do que apurar o lucro, é fundamental compreender se a empresa efetivamente gera
+
+46
+00:03:01.280 --> 00:03:05.280
+recurso financeiro suficiente para honrar seus compromissos em curto prazo.
+
+47
+00:03:05.280 --> 00:03:10.280
+Investir em suas atividades e, obviamente, pagar dividendos, distribuir lucro, etc.
+
+48
+00:03:10.280 --> 00:03:15.280
+Por isso, as decisões econômicas dependem da análise de quatro aspectos principais.
+
+49
+00:03:15.280 --> 00:03:18.280
+E é bem interessante, pessoal, fazer uma analogia.
+
+50
+00:03:18.280 --> 00:03:22.280
+Como agora nós estamos em plena reforma tributária, eu estou dando muito curso, muita palestra
+
+51
+00:03:22.280 --> 00:03:24.280
+sobre reforma tributária.
+
+52
+00:03:24.280 --> 00:03:31.280
+E um dos aspectos que nós tivemos foi a correria em dezembro de 2025, justamente com
+
+53
+00:03:31.280 --> 00:03:33.280
+a distribuição de lucro.
+
+54
+00:03:33.280 --> 00:03:38.280
+Eu tinha que apurar, tinha que deliberar em ata e registrar isso a cartório, levar isso
+
+55
+00:03:38.280 --> 00:03:41.280
+a registro em cartório até 31 de dezembro.
+
+56
+00:03:41.280 --> 00:03:45.280
+Com possibilidade de prorrogação até 31 de janeiro, que nós temos decisão aí no
+
+57
+00:03:45.280 --> 00:03:46.280
+judiciário.
+
+58
+00:03:46.280 --> 00:03:49.280
+Algumas empresas entraram com mandado, etc.
+
+59
+00:03:49.280 --> 00:03:51.280
+Então, assim.
+
+60
+00:03:51.280 --> 00:03:53.280
+Muitas empresas, por exemplo.
+
+61
+00:03:53.280 --> 00:03:58.280
+Não tinha dinheiro no caixa para pagar os lucros, já queria pagar já para ficar livre
+
+62
+00:03:58.280 --> 00:03:59.280
+disso.
+
+63
+00:03:59.280 --> 00:04:05.280
+Então, não faz o menor sentido essas empresas irem a banco pegar dinheiro emprestado para
+
+64
+00:04:05.280 --> 00:04:06.280
+distribuir lucro.
+
+65
+00:04:06.280 --> 00:04:08.280
+Não faz o menor sentido.
+
+66
+00:04:08.280 --> 00:04:12.280
+Mas, por incrível que pareça, nós tivemos vários bancos aí que criaram essa linha
+
+67
+00:04:12.280 --> 00:04:13.280
+de crédito.
+
+68
+00:04:13.280 --> 00:04:14.280
+Vocês acreditam?
+
+69
+00:04:14.280 --> 00:04:16.279
+Banco não perde tempo, né, gente?
+
+70
+00:04:16.279 --> 00:04:21.279
+Eu tenho muitos alunos aí de finanças que são gerentes de bancos, eles não perdem
+
+71
+00:04:21.279 --> 00:04:22.279
+tempo.
+
+72
+00:04:22.279 --> 00:04:26.279
+Ou seja, qual é o sentido que tem de eu ir no banco pegar dinheiro emprestado para
+
+73
+00:04:26.279 --> 00:04:27.279
+distribuir lucro?
+
+74
+00:04:27.279 --> 00:04:30.279
+Significa que a minha gestão de caixa está horrível.
+
+75
+00:04:30.279 --> 00:04:33.279
+Se eu não gerar caixa, como é que eu vou pagar lucro?
+
+76
+00:04:33.279 --> 00:04:34.279
+Entendeu?
+
+77
+00:04:34.279 --> 00:04:36.279
+Não faz sentido eu pegar dinheiro emprestado.
+
+78
+00:04:36.279 --> 00:04:37.279
+Vou pagar juros.
+
+79
+00:04:37.279 --> 00:04:41.279
+Os bancos lançaram essa linha de crédito justamente para o pessoal fugir da tributação
+
+80
+00:04:41.279 --> 00:04:45.279
+de 10% dos dividendos que é obrigatório para aqui de janeiro de 2026.
+
+81
+00:04:45.279 --> 00:04:46.279
+Entendeu?
+
+82
+00:04:46.279 --> 00:04:48.279
+Então, a importância do fluxo de caixa.
+
+83
+00:04:48.279 --> 00:04:50.279
+Toda e qualquer empresa tinha que ter fluxo de caixa.
+
+84
+00:04:50.279 --> 00:04:53.279
+Inclusive o MEI, o Simples.
+
+85
+00:04:53.279 --> 00:04:57.279
+Sem fluxo de caixa, eu estou dirigindo a noite com faróis apagados, gente.
+
+86
+00:04:57.279 --> 00:04:58.279
+Eu estou no escuro.
+
+87
+00:04:58.279 --> 00:04:59.279
+Entenderam?
+
+88
+00:04:59.279 --> 00:05:01.279
+É muito importante.
+
+89
+00:05:01.279 --> 00:05:06.279
+Eu, como fui diretor financeiro de várias empresas aí, meu fluxo de caixa é diário.
+
+90
+00:05:06.279 --> 00:05:11.279
+Eu tinha que olhar diário, semanal, quinzenal, mensal, semestral e para o ano.
+
+91
+00:05:11.279 --> 00:05:16.279
+Nas multinacionais que trabalhei, fluxo de caixa era para cinco anos, junto com o budget.
+
+92
+00:05:16.279 --> 00:05:19.279
+Quando você elabora o orçamento, você vai elaborar o fluxo de caixa.
+
+93
+00:05:19.279 --> 00:05:22.279
+Mas era fluxo de caixa, que é princípio de caixa, né?
+
+94
+00:05:22.279 --> 00:05:23.279
+E não competência.
+
+95
+00:05:23.279 --> 00:05:24.279
+Entendeu?
+
+96
+00:05:24.279 --> 00:05:26.279
+Então, é muito importante.
+
+97
+00:05:26.279 --> 00:05:28.279
+Então, não basta eu ter lucro.
+
+98
+00:05:28.279 --> 00:05:30.279
+Eu tenho que ter lucro e gerar caixa.
+
+99
+00:05:30.279 --> 00:05:31.279
+Vamos ver aqui.
+
+100
+00:05:31.279 --> 00:05:36.279
+O objetivo da DFC é avaliar a capacidade de geração de caixa da empresa, identificar
+
+101
+00:05:36.279 --> 00:05:43.279
+quando o caixa é gerado, porque eu tenho o prazo de investimento das minhas dívidas
+
+102
+00:05:43.279 --> 00:05:45.279
+e o meu recebimento às vezes é incerto.
+
+103
+00:05:45.279 --> 00:05:48.279
+Analisar o grau de certeza dessa geração.
+
+104
+00:05:48.279 --> 00:05:49.279
+Fundamental.
+
+105
+00:05:49.279 --> 00:05:52.279
+E evidenciar, obviamente, as variações no período.
+
+106
+00:05:52.279 --> 00:05:54.279
+Essa é a função do fluxo de caixa.
+
+107
+00:05:54.279 --> 00:05:56.279
+Obviamente, o fluxo de caixa financeiro é outro.
+
+108
+00:05:56.279 --> 00:05:57.279
+É bem mais dinâmico.
+
+109
+00:05:57.279 --> 00:05:59.279
+Entrada e saída e acabou.
+
+110
+00:05:59.279 --> 00:06:01.279
+Aqui é o fluxo de caixa contábil.
+
+111
+00:06:01.279 --> 00:06:07.279
+Nesse contexto, o objetivo do pronunciamento contábil, que trata da demonstração do
+
+112
+00:06:07.279 --> 00:06:14.279
+fluxo de caixa, é exigir que a entidade apresente informações claras sobre as variações
+
+113
+00:06:14.279 --> 00:06:18.279
+ocorridas no caixa e nos equivalentes de caixa ao longo do período.
+
+114
+00:06:18.279 --> 00:06:21.279
+Por isso que nós temos a diferenciação do financeiro.
+
+115
+00:06:21.279 --> 00:06:23.279
+O financeiro é algo muito prático.
+
+116
+00:06:23.279 --> 00:06:26.279
+É algo que está por acontecer.
+
+117
+00:06:26.279 --> 00:06:29.279
+Então, você está olhando o seu fluxo de caixa da manhã.
+
+118
+00:06:29.279 --> 00:06:32.279
+Se você vai ter dinheiro suficiente para pagar as suas dívidas da manhã.
+
+119
+00:06:32.279 --> 00:06:33.279
+Ou para a semana.
+
+120
+00:06:33.279 --> 00:06:34.279
+Ou para o mês.
+
+121
+00:06:34.279 --> 00:06:35.279
+Ou para 15 dias.
+
+122
+00:06:35.279 --> 00:06:36.279
+Ou para 2 meses.
+
+123
+00:06:36.279 --> 00:06:37.279
+Ou para 3 meses.
+
+124
+00:06:37.279 --> 00:06:38.279
+Entendeu?
+
+125
+00:06:38.279 --> 00:06:39.279
+Você está analisando.
+
+126
+00:06:39.279 --> 00:06:44.279
+O fluxo de caixa contábil é algo que é uma fotografia do que já passou.
+
+127
+00:06:44.279 --> 00:06:46.279
+Do que já passou.
+
+128
+00:06:46.279 --> 00:06:47.279
+Tanto é que o fluxo de caixa...
+
+129
+00:06:47.279 --> 00:06:51.279
+A demonstração do fluxo de caixa, como eu vou comentar já já.
+
+130
+00:06:51.279 --> 00:06:53.279
+Ela substituiu uma outra demonstração.
+
+131
+00:06:53.279 --> 00:06:55.279
+Que nós tínhamos anterior a ela.
+
+132
+00:06:55.279 --> 00:06:57.279
+Justamente para trazer mais clareza.
+
+133
+00:06:57.279 --> 00:07:01.279
+Ela substituiu a demonstrações de origem e aplicações de recursos.
+
+134
+00:07:01.279 --> 00:07:03.279
+Que nós conhecíamos como doar.
+
+135
+00:07:03.279 --> 00:07:06.279
+Ou seja, da onde vem os recursos para onde foram.
+
+136
+00:07:06.279 --> 00:07:07.279
+Esse é o objetivo.
+
+137
+00:07:07.279 --> 00:07:09.279
+E se sobrou, se faltou.
+
+138
+00:07:09.279 --> 00:07:12.279
+Então, é uma fotografia daquilo que já passou.
+
+139
+00:07:12.279 --> 00:07:16.279
+Porém, quando eu estou fazendo o meu planejamento, o meu orçamento.
+
+140
+00:07:16.279 --> 00:07:20.279
+O fluxo de caixa será algo que vai acontecer.
+
+141
+00:07:20.279 --> 00:07:22.279
+Então, aí ele se equipara ao financeiro.
+
+142
+00:07:22.279 --> 00:07:24.279
+É que o financeiro, ele é prático.
+
+143
+00:07:24.279 --> 00:07:28.279
+Ele é no dia de entrada e saída sem uma formalidade.
+
+144
+00:07:28.279 --> 00:07:31.279
+Eu quero saber se eu vou ter dinheiro para honrar.
+
+145
+00:07:31.279 --> 00:07:33.279
+Então, nesse contexto.
+
+146
+00:07:33.279 --> 00:07:35.279
+O objetivo do pronunciamento contábil.
+
+147
+00:07:35.279 --> 00:07:38.279
+Que trata da demonstração dos fluxos de caixa.
+
+148
+00:07:38.279 --> 00:07:42.279
+É exigir que a entidade apresente informações claras.
+
+149
+00:07:42.279 --> 00:07:45.279
+Sobre as variações ocorridas no caixa.
+
+150
+00:07:45.279 --> 00:07:48.279
+E nos equivalentes de caixa ao longo do período.
+
+151
+00:07:48.279 --> 00:07:50.279
+Ou seja, da onde vieram os recursos.
+
+152
+00:07:50.279 --> 00:07:52.279
+E o que eu fiz com os recursos.
+
+153
+00:07:52.279 --> 00:07:54.279
+Isso no final do período.
+
+154
+00:07:54.279 --> 00:07:56.279
+Se sobrou ou se faltou.
+
+155
+00:07:56.279 --> 00:07:58.279
+Final do período, 12 meses.
+
+156
+00:07:58.279 --> 00:08:00.279
+Como já comentamos.
+
+157
+00:08:00.279 --> 00:08:03.279
+Quando analisamos as demonstrações contábeis.
+
+158
+00:08:03.279 --> 00:08:07.279
+Muitas vezes o foco recai sobre o lucro.
+
+159
+00:08:07.279 --> 00:08:09.279
+Que é a maioria.
+
+160
+00:08:09.279 --> 00:08:13.279
+No entanto, lucro não significa necessariamente geração de caixa.
+
+161
+00:08:13.279 --> 00:08:14.279
+Por quê?
+
+162
+00:08:14.279 --> 00:08:17.279
+Porque o lucro é por competência.
+
+163
+00:08:17.279 --> 00:08:19.279
+E aqui não.
+
+164
+00:08:19.279 --> 00:08:21.279
+Aqui é entrada e saída de grana.
+
+165
+00:08:21.279 --> 00:08:22.279
+Ponto.
+
+166
+00:08:22.279 --> 00:08:24.279
+Isso é fluxo de caixa.
+
+167
+00:08:24.279 --> 00:08:26.279
+A demonstração dos fluxos de caixa.
+
+168
+00:08:26.279 --> 00:08:31.279
+Surge justamente para responder a uma pergunta essencial.
+
+169
+00:08:31.279 --> 00:08:34.279
+A empresa realmente gera dinheiro?
+
+170
+00:08:34.279 --> 00:08:36.279
+Show. Simples assim.
+
+171
+00:08:36.279 --> 00:08:38.279
+A empresa gera dinheiro?
+
+172
+00:08:38.279 --> 00:08:39.279
+É o que nós vamos ver aqui.
+
+173
+00:08:39.279 --> 00:08:41.279
+Ao longo dessa nossa aula.
+
+174
+00:08:41.279 --> 00:08:42.279
+E eu montei um exemplo bem bacana.
+
+175
+00:08:42.279 --> 00:08:43.279
+Vocês vão entender no detalhe.
+
+176
+00:08:43.279 --> 00:08:45.279
+Isso que eu estou colocando na teoria para vocês.

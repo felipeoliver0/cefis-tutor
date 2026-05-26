@@ -1,0 +1,413 @@
+WEBVTT
+
+1
+00:00:00.920 --> 00:00:03.430
+virtualização da C C S vamos dar uma agilizada
+
+2
+00:00:04.239 --> 00:00:07.909
+o peso se hoje amanhã e pra sempre olha isso,
+
+3
+00:00:07.920 --> 00:00:11.569
+oh então aqui na c C S a gente usa tudo o que for possível,
+
+4
+00:00:11.579 --> 00:00:14.649
+a gente saiu de uma anterior que era
+
+5
+00:00:14.659 --> 00:00:19.649
+a proprietária da Microsoft que hpe vie exatamente,
+
+6
+00:00:19.659 --> 00:00:23.920
+inclusive no mundo de data centers é meio meme assim
+
+7
+00:00:23.930 --> 00:00:25.809
+Cê fala que cê usa HPE num data center.
+
+8
+00:00:25.819 --> 00:00:32.150
+Assim ninguém usa a Microsoft usa lógico, né?
+
+9
+00:00:32.930 --> 00:00:37.819
+Então quem que tá aqui presente na virtualização da C c s, né?
+
+10
+00:00:37.830 --> 00:00:40.599
+K D M Já falamos desse cara aqui sensacional,
+
+11
+00:00:41.909 --> 00:00:43.060
+promo
+
+12
+00:00:43.669 --> 00:00:46.759
+E se promo quem que é esse cara aqui?
+
+13
+00:00:46.770 --> 00:00:49.639
+O promo ele é o que a gente chama de software
+
+14
+00:00:49.650 --> 00:00:53.099
+de infraestrutura convergido k v m é um hiper vizer,
+
+15
+00:00:53.110 --> 00:00:54.340
+inclusive aqui tá escrito certo
+
+16
+00:00:55.040 --> 00:01:00.130
+a gente usa mais uma em virtualização.
+
+17
+00:01:00.139 --> 00:01:03.029
+Não ele não não tem nada a ver, não com virtualização
+
+18
+00:01:03.900 --> 00:01:07.750
+K v é o nosso hiper ze é o cara que interage com
+
+19
+00:01:07.760 --> 00:01:10.669
+o hardware físico pra prover virtualização
+
+20
+00:01:10.680 --> 00:01:15.209
+XX eh software de infraestrutura hiper convergente
+
+21
+00:01:16.000 --> 00:01:22.830
+ele nesse caso aqui o Pro XX é um cara que vai gerenciar o K V M Por que que eu falo isso
+
+22
+00:01:23.440 --> 00:01:26.089
+sabe o que que é o k V m linha de comando?
+
+23
+00:01:26.099 --> 00:01:29.449
+Como que cê vai oferecer pro seu cliente uma linha de comando?
+
+24
+00:01:29.459 --> 00:01:31.290
+Ele ah, cria suas suas v m aqui.
+
+25
+00:01:31.300 --> 00:01:34.169
+Tá que é essa linha de comando aqui o cara vai embora,
+
+26
+00:01:34.180 --> 00:01:37.970
+então não tem como você oferecer o K V m diretamente, porque ele é ele.
+
+27
+00:01:37.980 --> 00:01:41.569
+É complicado de você usar porque ele é feito pela galera do NC.
+
+28
+00:01:41.580 --> 00:01:48.269
+Lá né, Então o lá o computador dele não tem nem tela, então o
+
+29
+00:01:48.550 --> 00:01:55.639
+prox a gente usa ele pra interagir com o Vizer. Só que o prox ele não é só isso.
+
+30
+00:01:55.650 --> 00:01:59.919
+Ele como o próprio nome diz isso aqui eu peguei lá da do próprio site deles,
+
+31
+00:01:59.930 --> 00:02:03.050
+ele é um software pra infraestrutura hipercon.
+
+32
+00:02:03.059 --> 00:02:07.040
+O que que é a infraestrutura? Hipercon verge Palavra bonita, né?
+
+33
+00:02:07.050 --> 00:02:12.899
+Hipercon, verge significa que eu pego um monte de recurso de computação, ou seja,
+
+34
+00:02:12.910 --> 00:02:16.220
+c p u, um monte de recurso de memória RAM
+
+35
+00:02:16.490 --> 00:02:19.460
+e um monte de recurso de armazenamento.
+
+36
+00:02:19.470 --> 00:02:21.600
+Isso está distribuído em vários servidores.
+
+37
+00:02:22.199 --> 00:02:26.889
+Eu hiper conver isso quando eu pego esses negócios e trato eles como um só,
+
+38
+00:02:27.880 --> 00:02:30.289
+então por isso que é hiper convergente convergente,
+
+39
+00:02:30.300 --> 00:02:34.229
+eu converge tudo e pra mim agora é tudo um só, Então, o objetivo dele também é isso
+
+40
+00:02:35.199 --> 00:02:35.990
+junta tudo,
+
+41
+00:02:36.899 --> 00:02:39.770
+se system
+
+42
+00:02:40.520 --> 00:02:44.750
+o C F é o cara que faz a mesma coisa que eu falei que o prox faz aqui.
+
+43
+00:02:44.759 --> 00:02:47.050
+Mas a nível de armazenamento, ou seja,
+
+44
+00:02:47.059 --> 00:02:49.770
+ele pega um servidor aqui que tem cinco disco aqui.
+
+45
+00:02:49.779 --> 00:02:53.149
+Outro servidor tem dez disco aqui, Outro servidor tem vinte disco aqui,
+
+46
+00:02:54.220 --> 00:02:58.589
+conecta esses caras todos entra através do SEF e agora é
+
+47
+00:02:58.600 --> 00:03:01.369
+tudo um só E aí você gerencia tudo A partir do SE
+
+48
+00:03:02.100 --> 00:03:06.470
+então ele a gente tá usando a agora. A gente passou a usar o Sef há pouquíssimo tempo.
+
+49
+00:03:06.479 --> 00:03:12.169
+O SE F O, se F é o sistema de armazenamento é distribuído mais usado em data center
+
+50
+00:03:12.949 --> 00:03:17.880
+quando a gente tá falando de open, né fora O open aí cê tem outros no mercado e tal,
+
+51
+00:03:17.889 --> 00:03:20.520
+mas é é utilizado por grandes empresas.
+
+52
+00:03:20.529 --> 00:03:25.309
+Assim aqui no Brasil a gente tem um legal que lá na no data center da Globo.
+
+53
+00:03:25.320 --> 00:03:27.399
+Lá eles utilizam bastante.
+
+54
+00:03:27.410 --> 00:03:31.850
+Então da C da Globo é gigante, que é um super de data center,
+
+55
+00:03:31.860 --> 00:03:34.419
+que eles distribuem bastante conteúdo de lá.
+
+56
+00:03:35.330 --> 00:03:40.759
+O que que tem na segurança. Você comentou anteriormente que já tem esse
+
+57
+00:03:42.240 --> 00:03:45.910
+sim uhum,
+
+58
+00:03:47.919 --> 00:03:48.850
+isso
+
+59
+00:03:49.220 --> 00:04:00.720
+aí São duas etapas. Primeiro, eu junto, tudo e aí vai ficar tudo juntinho ali.
+
+60
+00:04:00.729 --> 00:04:04.220
+Só que aí depois eu coloco um software em cima que separa de novo.
+
+61
+00:04:04.229 --> 00:04:08.460
+Então, é como se esse software que tá rodando ali em cima, no caso, se f e o K V m,
+
+62
+00:04:08.750 --> 00:04:12.899
+ele criasse umas gaiolas impenetráveis assim, então eu junto tudo,
+
+63
+00:04:12.910 --> 00:04:13.910
+mas depois eu vou.
+
+64
+00:04:13.919 --> 00:04:17.000
+É como se eu tivesse um monte de massa pra fazer bolo.
+
+65
+00:04:17.010 --> 00:04:20.399
+Eu tenho ali a farinha, os negócios, eu junto tudo faço essa massa.
+
+66
+00:04:20.410 --> 00:04:22.839
+Mas depois eu corto ela em pequenos pedacinhos.
+
+67
+00:04:22.850 --> 00:04:27.019
+Assim, quando o bolo tá pronto, digamos assim, E aí eu de separo tudo.
+
+68
+00:04:27.739 --> 00:04:39.649
+Então se juntou tudo o que
+
+69
+00:04:40.070 --> 00:04:47.630
+exatamente, exatamente
+
+70
+00:04:47.809 --> 00:04:51.410
+exatamente
+
+71
+00:04:51.600 --> 00:04:53.010
+isso,
+
+72
+00:04:53.260 --> 00:05:01.970
+exatamente isso.
+
+73
+00:05:01.980 --> 00:05:06.230
+Exatamente, uma parte da segurança é essa de você ser infectado,
+
+74
+00:05:06.239 --> 00:05:09.250
+pegar um vírus um Han a outra parte é isso.
+
+75
+00:05:09.260 --> 00:05:12.130
+O equipamento físico ele vai queimar.
+
+76
+00:05:12.140 --> 00:05:15.329
+Com certeza é a certeza que você tem na data
+
+77
+00:05:15.339 --> 00:05:17.670
+certo é que seus equipamentos vão queimá em algum momento.
+
+78
+00:05:18.170 --> 00:05:20.899
+Então a segurança faz parte de você prover ali a
+
+79
+00:05:20.910 --> 00:05:24.529
+redundância e esses caras aqui conseguem fazer isso também.
+
+80
+00:05:24.559 --> 00:05:36.980
+Só naquele pedacinho do disco físico que tá alocado pra aquele pra aquela máquina.
+
+81
+00:05:36.989 --> 00:05:45.179
+Isso sempre vai ter bis escritos ali no disco rígido limitado exatamente então,
+
+82
+00:05:45.190 --> 00:05:47.640
+por exemplo, vamos supor aqui pra essa parte de armazenamento.
+
+83
+00:05:48.119 --> 00:05:50.890
+Eu juntei vários servidores com vários discos e
+
+84
+00:05:50.899 --> 00:05:53.309
+agora eu tenho dez terabits de armazenamento.
+
+85
+00:05:53.970 --> 00:05:55.910
+Aí o Renato foi lá,
+
+86
+00:05:55.920 --> 00:06:00.519
+criou uma máquina virtual que vai usar vinte gigabits de armazenamento de disco
+
+87
+00:06:01.730 --> 00:06:03.380
+e eu vou lá nesse pedaço nesse bolão de
+
+88
+00:06:03.390 --> 00:06:06.320
+dez esteira e pego dez gigabites e dou pro Renato
+
+89
+00:06:06.950 --> 00:06:11.220
+esses dez gigabits tá totalmente isolado do restante Tipo assim,
+
+90
+00:06:11.230 --> 00:06:18.899
+a nível de que os dados que estão lá e o que executa lá nunca passa pros outros.
+
+91
+00:06:18.910 --> 00:06:26.679
+Isso exatamente isso exatamente e inclusive quando você pega um pedaço de um disco,
+
+92
+00:06:26.690 --> 00:06:29.760
+ele não está em um único disco, que é o que o Tiago falou, ele tá,
+
+93
+00:06:29.769 --> 00:06:35.779
+tem pequenos pedaços em vários discos separados exatamente
+
+94
+00:06:36.179 --> 00:06:39.450
+pra que se o disco falhar, a sua máquina ali nem vai saber.
+
+95
+00:06:40.100 --> 00:06:41.790
+E isso aqui que a gente, esse exemplo,
+
+96
+00:06:41.799 --> 00:06:45.309
+que a gente falou que é exatamente o que acontece quando você vai lá numa
+
+97
+00:06:45.320 --> 00:06:48.670
+C e você configura qual que é o disco que vai tá vinculado a sua,
+
+98
+00:06:48.679 --> 00:06:52.109
+a sua máquina virtual, você vai lá e fala Eu quero um disco de vinte giga.
+
+99
+00:06:52.119 --> 00:06:53.239
+É exatamente isso que ele faz.
+
+100
+00:06:53.250 --> 00:06:57.380
+Ele foi lá no dele Gigante, falou me dá um pedaço de vinte giga pronto,
+
+101
+00:06:57.390 --> 00:07:01.480
+junta nessa máquina e põe pra rolar,
+
+102
+00:07:01.489 --> 00:07:06.549
+Tá lá em algum disco lá das centenas de servidores, que faz parte do C F deles lá,
+
+103
+00:07:06.559 --> 00:07:07.450
+O que que eles usam?

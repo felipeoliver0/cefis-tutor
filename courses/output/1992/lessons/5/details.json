@@ -1,0 +1,33 @@
+{
+  "id": 460805,
+  "title": "Escrituração Contábil",
+  "position": 5,
+  "duration": 184,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/a05ce87b-8b08-4a02-b7b1-2d95d715e454/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a05ce87b-8b08-4a02-b7b1-2d95d715e454/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a05ce87b-8b08-4a02-b7b1-2d95d715e454/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a05ce87b-8b08-4a02-b7b1-2d95d715e454/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/a05ce87b-8b08-4a02-b7b1-2d95d715e454/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

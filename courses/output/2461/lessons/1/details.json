@@ -1,0 +1,33 @@
+{
+  "id": 465904,
+  "title": "Abertura",
+  "position": 1,
+  "duration": 103,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2e69b922-a6e2-43d4-9b09-7398d81e2d1c/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e69b922-a6e2-43d4-9b09-7398d81e2d1c/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e69b922-a6e2-43d4-9b09-7398d81e2d1c/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e69b922-a6e2-43d4-9b09-7398d81e2d1c/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2e69b922-a6e2-43d4-9b09-7398d81e2d1c/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

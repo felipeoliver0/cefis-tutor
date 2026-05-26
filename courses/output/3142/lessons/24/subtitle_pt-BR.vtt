@@ -1,0 +1,709 @@
+WEBVTT
+
+1
+00:00:00.259 --> 00:00:02.390
+é uma forma que eu já fiz muito. Por isso que eu tô fazendo lá rápido.
+
+2
+00:00:02.400 --> 00:00:05.090
+Assim eu vou tô fazendo e depois vou explicar.
+
+3
+00:00:05.099 --> 00:00:13.989
+Bom que que o teste do C fez, ele veio e testou se o B cinco é diferente de vazia, ou seja,
+
+4
+00:00:14.000 --> 00:00:18.350
+se a data está preenchida eu retorno ela.
+
+5
+00:00:18.360 --> 00:00:21.430
+Se não eu retorno a da linha de cima.
+
+6
+00:00:21.440 --> 00:00:27.190
+Quando eu fui aqui ele veio e testou o B C está vazio, Tá porque eu não pus data dele,
+
+7
+00:00:27.200 --> 00:00:29.010
+então eu vou retornar a de cima.
+
+8
+00:00:29.389 --> 00:00:31.780
+Aí, gente eu vou arrastando, vou arrastando,
+
+9
+00:00:31.790 --> 00:00:33.860
+vou arrastando até chegar no próximo dia.
+
+10
+00:00:33.869 --> 00:00:37.939
+Vou chegar no próximo dia só pra gente raciocinar. A fórmula oh
+
+11
+00:00:39.490 --> 00:00:44.439
+tava na linha na linha anterior até o dia dois. Quando chegou agora ele testou
+
+12
+00:00:45.439 --> 00:00:48.750
+a b, cento e um que é a linha cento e um tem valor nela.
+
+13
+00:00:48.759 --> 00:00:52.770
+O tem tem a data que eu repeti do dia três, que eu tinha filtrado só os dias,
+
+14
+00:00:52.779 --> 00:00:54.549
+então eu trago essa.
+
+15
+00:00:54.560 --> 00:00:58.470
+Se não eu vou trazer a de cima, Aí ele vai fazer o quê aqui então?
+
+16
+00:00:58.479 --> 00:00:59.369
+O que que a gente vai fazer agora?
+
+17
+00:00:59.380 --> 00:01:01.869
+Eu vou arrastar essa forma Até o final dessa planilha
+
+18
+00:01:04.138 --> 00:01:08.969
+Opa, tá chegando no final dela aqui. Oh, hum, aí
+
+19
+00:01:09.690 --> 00:01:13.220
+bom! Então aqui oh! Vinte e sete do dois! Será que esse é dia vinte e sete do dois?
+
+20
+00:01:13.230 --> 00:01:14.139
+Ah vinte e sete do dois!
+
+21
+00:01:14.150 --> 00:01:18.760
+Então toda vez que houve a troca de data, ele veio pra mim e fez bom
+
+22
+00:01:19.559 --> 00:01:21.129
+ótimo, excelente!
+
+23
+00:01:21.139 --> 00:01:24.430
+Então excelente que que a gente fez pessoal,
+
+24
+00:01:24.440 --> 00:01:28.550
+a gente transformou o débito e o crédito que não tava em valor.
+
+25
+00:01:28.559 --> 00:01:29.629
+Nós transformamos em valor,
+
+26
+00:01:29.639 --> 00:01:33.910
+até mudei a formatura ficando bonitinho e a data que tava perdida numa linha,
+
+27
+00:01:33.919 --> 00:01:37.330
+eu consegui colocar ela condizente com a data.
+
+28
+00:01:37.339 --> 00:01:38.610
+Beleza Bom!
+
+29
+00:01:39.190 --> 00:01:42.900
+Agora eu vou te testar o mês de fevereiro de dois mil e quinze
+
+30
+00:01:43.540 --> 00:01:47.349
+que que eu costumo fazer pessoal Ah, eu vou lá e cop as data,
+
+31
+00:01:47.360 --> 00:01:51.669
+colo aqui cara pode ter dia que tem no banco e não tem razão,
+
+32
+00:01:51.680 --> 00:01:53.069
+tem razão e não tem no banco.
+
+33
+00:01:53.080 --> 00:01:56.050
+Eu faço o que eu feto todos os dias. Então eu coloco a data
+
+34
+00:01:56.730 --> 00:01:57.449
+sim.
+
+35
+00:01:58.069 --> 00:02:02.940
+Do dois de dois mil e quinze. Beleza eu vou e soma igual a esse e mais um
+
+36
+00:02:04.129 --> 00:02:05.099
+vamos arrastar aqui.
+
+37
+00:02:05.110 --> 00:02:06.900
+Em fevereiro, foi vinte e oito,
+
+38
+00:02:06.910 --> 00:02:12.199
+vinte e nove dias vamos ver que que nós vamos testar primeiro vamos testar o débito
+
+39
+00:02:13.529 --> 00:02:21.500
+ra, oh extrato! Razão! Lembrando que é o débito contabilidade cheque.
+
+40
+00:02:21.509 --> 00:02:29.059
+Se eu tenho muitos lançamentos, muitos lançamentos eu vou fazer O que um soma Assim?
+
+41
+00:02:29.070 --> 00:02:30.460
+Eu não vou fazer um v porque o prove.
+
+42
+00:02:30.470 --> 00:02:33.500
+Ele pegou o primeiro registro do dia, um do dois, trouxe valor,
+
+43
+00:02:33.509 --> 00:02:37.279
+mas eu quero somar o movimento total, então bem igual soma se
+
+44
+00:02:37.789 --> 00:02:42.139
+vou lá no extrato Clico na coluna da data Ponto vírgula
+
+45
+00:02:42.149 --> 00:02:46.220
+volto na minha planilha de teste clico na data ponto vírgula!
+
+46
+00:02:46.229 --> 00:02:47.529
+Volto lá no extrato.
+
+47
+00:02:47.539 --> 00:02:53.000
+Clico aonde meu débito, uai não tem valor não, não tem, Tá errado? Calma!
+
+48
+00:02:53.009 --> 00:02:57.759
+A gente não testou ainda o razão da combinado, então eu vou fazer um soma, se soma,
+
+49
+00:02:57.770 --> 00:03:03.899
+Se clico aqui vou lá no razão contábil Ponto vírgula
+
+50
+00:03:04.380 --> 00:03:11.490
+Volto, né? Na planilha clico na data. Ponto vírgula? Volto no razão e testo o débito.
+
+51
+00:03:12.100 --> 00:03:17.479
+Já vou fazer a forma do cheque aqui, Oh extrato, menos razão! Opa esse dia aqui bateu.
+
+52
+00:03:17.490 --> 00:03:19.929
+Vamos arrastar pra baixo aqui todos os dias do mês,
+
+53
+00:03:20.669 --> 00:03:26.460
+infelizmente praticamente quase todos os dias. Não bateu quase todos os dias.
+
+54
+00:03:27.270 --> 00:03:31.199
+O que que a gente tem que fazer agora é pegar e testar um a um.
+
+55
+00:03:31.210 --> 00:03:39.619
+Vamos só lembrar no extrato o débito tá na coluna H Opa! O débito tá na coluna h
+
+56
+00:03:40.320 --> 00:03:46.309
+e no razão o débito tá na coluna J Isso mesmo, beleza, beleza, beleza,
+
+57
+00:03:47.440 --> 00:03:51.750
+Vamos lá fazer o teste agora do Opa do crédito!
+
+58
+00:03:52.440 --> 00:03:59.470
+Igual soma Se vamos lá no crédito vamos no extrato esse aqui ponto vírgula
+
+59
+00:04:00.119 --> 00:04:03.350
+a data ponto Vírgula extra lançamento a crédito
+
+60
+00:04:04.800 --> 00:04:07.389
+igual o SOCI
+
+61
+00:04:10.000 --> 00:04:14.309
+Agora vamos no razão da ata ponto vírgula
+
+62
+00:04:16.450 --> 00:04:19.079
+data aqui ponto vírgula Crédito
+
+63
+00:04:20.130 --> 00:04:21.760
+Rasta tudo para baixo
+
+64
+00:04:23.250 --> 00:04:26.700
+Oh aqui já teve alguns dias que bateram e agora Thiago,
+
+65
+00:04:26.709 --> 00:04:29.079
+gente agora é cair pra dentro e conciliar
+
+66
+00:04:29.890 --> 00:04:31.260
+é cair pra dentro e conciliar.
+
+67
+00:04:31.269 --> 00:04:33.899
+Então eu sei aqui oh que pelo menos esse dia eu não
+
+68
+00:04:33.910 --> 00:04:39.839
+preciso testar esse dia esse dia e esse dia aqui da movimentação,
+
+69
+00:04:40.700 --> 00:04:44.690
+do crédito e do débito. Aí o débito que já teve vários dias que fecharam
+
+70
+00:04:45.369 --> 00:04:49.559
+e agora turbina gente turbinar. Bom,
+
+71
+00:04:50.760 --> 00:04:55.529
+qual que é o objetivo disso aqui É o objetivo da gente fazer um cruzamento aí,
+
+72
+00:04:55.540 --> 00:05:00.369
+observe, pessoal, A gente usou importação, a gente usou filtro, a gente usou c,
+
+73
+00:05:00.380 --> 00:05:02.309
+a gente usou c
+
+74
+00:05:03.320 --> 00:05:05.190
+quatro coisas que a gente falou aqui.
+
+75
+00:05:05.200 --> 00:05:10.089
+Mas mas a gente ainda passou, antes de tudo isso,
+
+76
+00:05:10.100 --> 00:05:12.010
+a analisar e entender aquele relatório.
+
+77
+00:05:12.019 --> 00:05:13.309
+Pra que eu consiga fazer o quê?
+
+78
+00:05:13.320 --> 00:05:17.989
+Uma informação de altíssima qualidade pra conseguir a gente fazer um teste desse,
+
+79
+00:05:18.000 --> 00:05:20.250
+de uma forma segura de uma forma tranquila,
+
+80
+00:05:20.260 --> 00:05:22.480
+que a gente produza efetivamente resultados.
+
+81
+00:05:22.489 --> 00:05:25.309
+Tiago E agora agora é conciliar cara,
+
+82
+00:05:25.829 --> 00:05:30.399
+meu Deus. Mas o que que eu posso fazer? Aí? Você tem que olhar as movimentações.
+
+83
+00:05:30.410 --> 00:05:33.459
+Eu faria o que eu faria de verdade, por exemplo, oh,
+
+84
+00:05:34.269 --> 00:05:37.640
+vamos pegar aqui. Oh, pode ser que dá certo, como pode ser que não dá certo?
+
+85
+00:05:37.649 --> 00:05:40.579
+Tá, pessoal, vamos, vamos testar isso que vem de dados
+
+86
+00:05:41.390 --> 00:05:45.299
+o filtro, Vamos ver o movimento dia dois do cinco Eu vou pegar
+
+87
+00:05:46.100 --> 00:05:49.570
+dia dois de Fevereiro Desculpa Dia dois de fevereiro
+
+88
+00:05:50.279 --> 00:05:55.109
+Oh que que eu fiz aqui oh, eu peguei só os movimentos, a débito.
+
+89
+00:05:57.769 --> 00:05:58.760
+Vou deixar aqui
+
+90
+00:05:59.700 --> 00:06:02.609
+só os movimentos adepto que estão no extrato.
+
+91
+00:06:03.230 --> 00:06:07.359
+E eu vou lá no meu arquivo uma razão Vou pegar só os movimentos.
+
+92
+00:06:07.369 --> 00:06:10.019
+Adepto do dia dois ou dia dois
+
+93
+00:06:10.890 --> 00:06:15.239
+Só usar débito! Vou desmarcar os vazio, desmarcar essas outras informações!
+
+94
+00:06:16.119 --> 00:06:17.390
+Vou pegar e coloque.
+
+95
+00:06:19.290 --> 00:06:20.920
+Olha que doideira gente
+
+96
+00:06:21.829 --> 00:06:22.739
+bom,
+
+97
+00:06:23.570 --> 00:06:25.459
+eu tenho aqui pessoal!
+
+98
+00:06:25.470 --> 00:06:29.320
+Eu tenho aqui eh vamos lá só conferindo se a gente pegou os
+
+99
+00:06:29.329 --> 00:06:30.940
+movimentos adeptos aí vamos testar aqui na
+
+100
+00:06:30.950 --> 00:06:34.140
+nossa planilha planilha total do extrato.
+
+101
+00:06:34.149 --> 00:06:38.380
+Deu dois milhões nove meia meia, vamos voltar na nossa planilha que a gente testou?
+
+102
+00:06:38.390 --> 00:06:40.179
+Soma aqui dois milhões nove e meia meia.
+
+103
+00:06:40.190 --> 00:06:44.200
+Vou colocar no valor onde eu tô vendo que bateu aqui embaixo. Ele faz a suminho, oh!
+
+104
+00:06:44.859 --> 00:06:49.429
+Dois, nove, nove meia meia e eu venho aqui e faço um teste dois, sete, oito seis,
+
+105
+00:06:49.440 --> 00:06:51.410
+então beleza bom pessoal,
+
+106
+00:06:52.049 --> 00:06:55.190
+o que eu faria dependendo da situação eu viria aqui.
+
+107
+00:06:55.200 --> 00:07:00.200
+Oh dados classificar eu classificaria pro valor do menor pro
+
+108
+00:07:00.209 --> 00:07:06.119
+maior e eu faria a mesma coisa que eu dados classificar
+
+109
+00:07:06.989 --> 00:07:12.059
+débito do menor pro maior porque oh um setecentos e quarenta e
+
+110
+00:07:12.070 --> 00:07:14.619
+três um setecentos e quarenta e três já matei esses dois,
+
+111
+00:07:14.630 --> 00:07:17.540
+eu fui e faço o que vou pintar eles de
+
+112
+00:07:18.619 --> 00:07:19.609
+remover
+
+113
+00:07:21.459 --> 00:07:23.049
+minha inteira beleza.
+
+114
+00:07:23.059 --> 00:07:27.390
+Eu tenho um lançamento de dois setecentos e quarenta, que é o menor depois de cinco,
+
+115
+00:07:27.399 --> 00:07:30.350
+depois de trinta e nove deixa eu ver se eu tenho algum lançamento,
+
+116
+00:07:30.359 --> 00:07:31.869
+não tem nem um de cinco nem o de trinta e um,
+
+117
+00:07:31.880 --> 00:07:35.390
+mas eu tenho um lançamento de cem mil aqui Oh José Antônio Gonçalves,
+
+118
+00:07:35.399 --> 00:07:37.410
+eu tenho o de cem mil aqui embaixo também oh,
+
+119
+00:07:39.059 --> 00:07:40.250
+deletei os dois,
+
+120
+00:07:41.149 --> 00:07:45.119
+depois eu tenho de duzentos e cinquenta e nove novecentos e dez
+
+121
+00:07:45.130 --> 00:07:49.420
+duzentos e cinquenta e nove novecentos e dez aqui embaixo tirei eles
+
+122
+00:07:50.299 --> 00:07:50.970
+Bom,
+
+123
+00:07:50.980 --> 00:07:56.390
+eu tenho um lançamento aqui com uma baixa de título da no valor
+
+124
+00:07:56.399 --> 00:08:01.089
+pra AmBev de dois milhões Trezentos e setenta e seis oito nove dois
+
+125
+00:08:01.730 --> 00:08:04.239
+Cara, eu tenho tanto movimento aqui oh
+
+126
+00:08:04.929 --> 00:08:06.500
+de recebimento de fornecedor que eu vou
+
+127
+00:08:06.510 --> 00:08:09.739
+somar só esse recebimento de fornecedor clico aqui
+
+128
+00:08:09.750 --> 00:08:14.399
+aí eu aperto o control e volto a clicar marcar os os aqui de baixo
+
+129
+00:08:15.260 --> 00:08:19.109
+tenho dois, trezentos e setenta e seis oito nove, dois dois,
+
+130
+00:08:19.119 --> 00:08:20.829
+trezentos e setenta e seis oito nove dois
+
+131
+00:08:20.839 --> 00:08:23.510
+Então basicamente isso aqui é a mesma coisa.
+
+132
+00:08:23.519 --> 00:08:23.529
+Oh
+
+133
+00:08:24.489 --> 00:08:28.000
+oh, deixa eu te pagar, eles paguei!
+
+134
+00:08:30.100 --> 00:08:33.090
+Paguei agora o que que eu vou fazer?
+
+135
+00:08:33.099 --> 00:08:38.530
+Seleciono aqui de novo pra ficar mais bonitinho dados, classificar
+
+136
+00:08:39.150 --> 00:08:40.500
+débito okay
+
+137
+00:08:41.489 --> 00:08:45.919
+bom que que ele tá mostrando pra mim oh, eu tenho aqui
+
+138
+00:08:46.590 --> 00:08:49.780
+um depósito online de trinta e seis quinhentos e oitenta e cinco
+
+139
+00:08:51.219 --> 00:08:52.369
+um cheque
+
+140
+00:08:53.349 --> 00:08:57.659
+de três mil e dois desbloqueios de depósito beleza,
+
+141
+00:08:57.669 --> 00:09:01.440
+desbloqueio de depósito veio de dia anterior, então essa movimentação não vai.
+
+142
+00:09:01.450 --> 00:09:03.059
+Tá aqui certo
+
+143
+00:09:03.820 --> 00:09:06.729
+na hora que eu pego os trinta e seis aqui,
+
+144
+00:09:07.609 --> 00:09:10.900
+mas os três tá dando trinta e nove quinhentos e oitenta
+
+145
+00:09:10.909 --> 00:09:13.179
+e cinco mesmo trinta e nove quinhentos e oitenta e cinco.
+
+146
+00:09:13.190 --> 00:09:14.159
+Então, na verdade,
+
+147
+00:09:16.080 --> 00:09:17.950
+o que sobrou foi esses quatro lançamentos.
+
+148
+00:09:17.960 --> 00:09:23.859
+Então, gente, olha só que velocidade dos diferença que a gente teve lá, oh,
+
+149
+00:09:23.869 --> 00:09:25.690
+de cento e setenta e nove mil É o
+
+150
+00:09:25.700 --> 00:09:29.289
+que são dois desbloqueios de depósitos que possivelmente vieram de
+
+151
+00:09:29.299 --> 00:09:32.690
+dias anteriores e duas baixas de títulos que ficaram pra
+
+152
+00:09:32.700 --> 00:09:36.169
+dias futuros Se eu somar as baixas aqui Oh,
+
+153
+00:09:36.179 --> 00:09:40.169
+oito, Trezentos e quarenta na hora que eu vou no dia seguinte, oito.
+
+154
+00:09:40.179 --> 00:09:41.150
+Trezentos e quarenta
+
+155
+00:09:41.729 --> 00:09:43.219
+já matei o quê pessoal.
+
+156
+00:09:43.229 --> 00:09:47.419
+Eu sei que uma parte da diferença é valor que vem do mês anterior,
+
+157
+00:09:47.429 --> 00:09:51.539
+então tem que ir lá na conciliação bancária e pegar esse valor que foi baixado.
+
+158
+00:09:51.549 --> 00:09:53.859
+Lembra que eu expliquei? Recebeu do cliente?
+
+159
+00:09:53.869 --> 00:09:56.280
+Baixou no dia trinta e um, por exemplo um
+
+160
+00:09:57.090 --> 00:09:59.859
+Quando foi no dia dois do dois, desbloqueou.
+
+161
+00:09:59.869 --> 00:10:02.940
+Mas tá baixado lá no sistema, no financeiro vai, tá baixado!
+
+162
+00:10:02.950 --> 00:10:06.539
+lá em trinta e um na contabilidade vai tá no dia trinta e um. Então, isso não é erro.
+
+163
+00:10:06.549 --> 00:10:07.599
+Tá certinho.
+
+164
+00:10:07.609 --> 00:10:10.960
+E esses outros dois valores que, somados aqui de oito trezentos e quarenta,
+
+165
+00:10:10.969 --> 00:10:15.400
+é o que desbloqueou no banco no dia seguinte, porque baixou lá os títulos.
+
+166
+00:10:15.409 --> 00:10:16.200
+Recebeu
+
+167
+00:10:16.880 --> 00:10:23.989
+então bacana fechamos isso aqui, olha como o Excel, ajudou a gente!
+
+168
+00:10:24.969 --> 00:10:26.739
+E aí lembra histórico?
+
+169
+00:10:26.750 --> 00:10:30.659
+Padrão, né gente Aí, graças a Deus, o extrato veio receber bem de fornecedor,
+
+170
+00:10:30.669 --> 00:10:34.520
+teve um monte de recebimento na hora que baixou lá no sistema, foi recebendo pronto
+
+171
+00:10:35.580 --> 00:10:36.309
+legal.
+
+172
+00:10:36.320 --> 00:10:38.270
+Entenderam pessoal Então,
+
+173
+00:10:38.280 --> 00:10:42.659
+como o Excel ajuda a gente é isso que a gente tem que pôr na nossa cabeça,
+
+174
+00:10:42.669 --> 00:10:46.869
+como eu vou usar essa mega dessa ferramenta para
+
+175
+00:10:46.880 --> 00:10:49.270
+que eu ganhe tempo para que eu ganhe qualidade,
+
+176
+00:10:49.280 --> 00:10:50.909
+pra que eu dê segurança no meu trabalho?
+
+177
+00:10:50.919 --> 00:10:53.450
+Esse é o objetivo do Excel. Nada mais, nada menos que isso pessoal!

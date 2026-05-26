@@ -1,0 +1,33 @@
+{
+  "id": 486736,
+  "title": "Depreciação fiscal - Bens adquiridos usados",
+  "position": 43,
+  "duration": 583,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/65a78837-a4f9-4daa-8c15-7d4c430f2972/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65a78837-a4f9-4daa-8c15-7d4c430f2972/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65a78837-a4f9-4daa-8c15-7d4c430f2972/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65a78837-a4f9-4daa-8c15-7d4c430f2972/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65a78837-a4f9-4daa-8c15-7d4c430f2972/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

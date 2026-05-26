@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 1953,
+    "title": "Metodologia para Resolução de Problemas (8D)",
+    "subtitle": "curso prático",
+    "summary": "Segundo a pesquisa 'Global Talent Trends', realizada pelo LinkedIn, resolver problemas é a Soft Skill mais valorizada pelas empresas em 2021. Profissionais que dominam essa habilidade são extremamente valorizados e ajudam a organização a projetarem exponencialmente os seus negócios. Nesse curso, você aprenderá o passo a passo de como resolver problemas de maneira sistemática, através da metodologia global 8D (8 disciplinas), que contempla todas as etapas desde a identificação de um problema, até a sua completa resolução.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/d7b1a9c54b501ceda67fd7deec923f521728428613.jpg",
+    "goals": [
+      "Demonstrar o passo a passo de como resolver problemas de maneira sistemática, através da metodologia global 8D (8 disciplinas), que contempla todas as etapas desde a identificação de um problema, até a sua completa resolução."
+    ],
+    "teacher": {
+      "id": 551185,
+      "name": "Danilo Romão",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1640282903.jpeg"
+    },
+    "duration": 3684,
+    "keywords": "8d;resolução de problemas;metodologia;problemas;resolver",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 14,
+    "materialCount": 2,
+    "hasMaterials": true,
+    "categories": [
+      4,
+      5
+    ],
+    "watchLater": false,
+    "ratingQuantity": 702,
+    "averageRating": 9.39,
+    "practiceAverage": 9.34,
+    "trailer": {
+      "id": "35868c6d-de1b-49fa-ad0b-f478a45297ff",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/35868c6d-de1b-49fa-ad0b-f478a45297ff/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/35868c6d-de1b-49fa-ad0b-f478a45297ff/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/35868c6d-de1b-49fa-ad0b-f478a45297ff/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/35868c6d-de1b-49fa-ad0b-f478a45297ff/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-03-03T23:48:50.000Z",
+      "updatedAt": "2022-03-03T23:48:50.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-03-07T13:41:08.000Z",
+    "recordedAt": "2022-02-12T00:00:00.000Z",
+    "createdAt": "2022-01-31T16:08:01.000Z"
+  }
+}

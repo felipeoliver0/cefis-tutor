@@ -1,0 +1,453 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:03.439
+Vamos aí a mais uma bateria de exercício?
+
+3
+00:00:03.439 --> 00:00:06.320
+Para a gente fixar o aprendizado, né?
+
+4
+00:00:06.320 --> 00:00:09.480
+Vamos lá, um caso prático aqui para você desenvolver.
+
+5
+00:00:09.480 --> 00:00:14.919
+Vai demandar um tempo, mas aí vocês vão parar o computador e vão tentar resolver.
+
+6
+00:00:14.919 --> 00:00:19.199
+Caso mais um pouco extenso, mas importante para o conhecimento de vocês.
+
+7
+00:00:19.199 --> 00:00:21.320
+Olha aí, caso prático.
+
+8
+00:00:21.320 --> 00:00:23.600
+O que nós temos aí, pessoal?
+
+9
+00:00:23.600 --> 00:00:25.280
+Nós temos aí, ó.
+
+10
+00:00:25.280 --> 00:00:31.640
+Foi efetuada a importação de uma máquina para utilizá-la no imobilizado com os seguintes dados.
+
+11
+00:00:31.640 --> 00:00:35.679
+Aí nós temos valor da importação, 150 mil.
+
+12
+00:00:35.679 --> 00:00:39.240
+Imposto sobre importação, 37.500.
+
+13
+00:00:39.240 --> 00:00:41.719
+Pagamos um frete de 12 mil.
+
+14
+00:00:41.719 --> 00:00:45.520
+Pagamos um serviço de instalação de 3.200.
+
+15
+00:00:45.520 --> 00:00:50.520
+Honorários do técnico para configurar a máquina, 2.850.
+
+16
+00:00:50.520 --> 00:00:54.359
+Temos um valor residual sobre o custo do bem de 30%.
+
+17
+00:00:54.359 --> 00:00:57.479
+E temos uma vida útil de 7 anos.
+
+18
+00:00:57.479 --> 00:01:00.479
+Tudo isso nós já explicamos aqui para vocês, tá?
+
+19
+00:01:00.479 --> 00:01:02.159
+Então, aqui é para a gente fixar o aprendizado.
+
+20
+00:01:02.159 --> 00:01:05.760
+Por isso, tem a importância de você parar o computador e resolver.
+
+21
+00:01:05.760 --> 00:01:08.000
+Olha lá, o que nós temos aqui?
+
+22
+00:01:08.000 --> 00:01:12.519
+Pede-se calcular, letra A, qual é o custo do bem.
+
+23
+00:01:12.519 --> 00:01:16.719
+Letra B, qual é o valor residual do bem.
+
+24
+00:01:16.719 --> 00:01:21.159
+E a letra C, qual é o valor depreciável do bem.
+
+25
+00:01:21.159 --> 00:01:22.159
+Entenderam?
+
+26
+00:01:22.159 --> 00:01:23.560
+Show de bola, né?
+
+27
+00:01:23.560 --> 00:01:23.680
+Então, pause aí.
+
+28
+00:01:23.680 --> 00:01:23.719
+Então, pause aí.
+
+29
+00:01:23.719 --> 00:01:23.760
+Então, pause aí.
+
+30
+00:01:23.760 --> 00:01:25.280
+Então, pause aí no seu tempo.
+
+31
+00:01:26.680 --> 00:01:30.219
+Releia todo o enunciado e verifique o que se pede.
+
+32
+00:01:30.719 --> 00:01:31.920
+Calcule A, B, C.
+
+33
+00:01:32.560 --> 00:01:34.959
+Eu volto daqui a pouco para a gente corrigir e comentar.
+
+34
+00:01:35.840 --> 00:01:36.420
+Mãos à obra.
+
+35
+00:01:37.040 --> 00:01:38.159
+Muito bem, pessoal.
+
+36
+00:01:38.340 --> 00:01:40.120
+E aí, conseguiram resolver?
+
+37
+00:01:40.799 --> 00:01:44.120
+Esse deu um pouco mais de trabalho, mas é muito gratificante.
+
+38
+00:01:44.260 --> 00:01:46.439
+Vamos corrigir no detalhe.
+
+39
+00:01:47.019 --> 00:01:48.799
+Se você errou, faça a correção.
+
+40
+00:01:48.900 --> 00:01:49.700
+Não vai errar mais.
+
+41
+00:01:49.819 --> 00:01:51.540
+Se acertou, muito bem.
+
+42
+00:01:51.540 --> 00:01:53.640
+Está compreendendo o que nós comentamos.
+
+43
+00:01:53.760 --> 00:01:54.760
+Olha lá.
+
+44
+00:01:54.760 --> 00:02:01.719
+Temos lá o primeiro fator, custo do bem, é o valor de importação, é o imposto sobre
+
+45
+00:02:01.719 --> 00:02:06.819
+importação que eu não vou me recuperar, portanto, será custo, o frete eu não vou
+
+46
+00:02:06.819 --> 00:02:12.199
+me recuperar, é custo, faz parte do bem, o serviço de instalação, primeira vez,
+
+47
+00:02:12.199 --> 00:02:18.680
+é custo do bem, não vou me recuperar, os honorários do TEC para configuração, portanto,
+
+48
+00:02:18.680 --> 00:02:22.680
+o custo do bem foi 205.550.
+
+49
+00:02:22.680 --> 00:02:23.719
+E aí?
+
+50
+00:02:23.719 --> 00:02:24.719
+Acertaram?
+
+51
+00:02:24.719 --> 00:02:29.699
+Esse é o custo do bem, 205.550.
+
+52
+00:02:29.699 --> 00:02:34.819
+Vamos à letra B, que é exatamente o cálculo do valor residual.
+
+53
+00:02:34.819 --> 00:02:44.139
+Se o bem custou 205.550, conforme nós apuramos, e o enunciado nos traz que o valor residual
+
+54
+00:02:44.139 --> 00:02:51.719
+sobre o custo é 30%, portanto, o valor residual do bem, 61.665, show?
+
+55
+00:02:51.719 --> 00:02:52.719
+Acertaram?
+
+56
+00:02:52.719 --> 00:02:56.719
+Letra C, o cálculo do valor depreciável.
+
+57
+00:02:56.719 --> 00:03:04.400
+Ora, se o custo do bem é 205.550, o valor residual, que nós explicamos já para vocês,
+
+58
+00:03:04.400 --> 00:03:14.780
+é 61.665, portanto, eu só vou depreciar 143.885, porque os 30% aqui do valor residual
+
+59
+00:03:14.780 --> 00:03:18.719
+eu não vou realizar por uso, e sim por venda.
+
+60
+00:03:18.719 --> 00:03:20.719
+Então, valor residual, valor depreciável.
+
+61
+00:03:20.719 --> 00:03:21.719
+Acertaram?
+
+62
+00:03:21.719 --> 00:03:25.719
+143 é o que nós vamos depreciar.
+
+63
+00:03:25.719 --> 00:03:26.719
+Acertaram aí?
+
+64
+00:03:26.719 --> 00:03:27.719
+Ficou claro?
+
+65
+00:03:27.719 --> 00:03:28.719
+Bacana, né?
+
+66
+00:03:28.719 --> 00:03:30.479
+Então, está aí a nossa correção.
+
+67
+00:03:30.479 --> 00:03:36.439
+Agora, vamos continuar com esse exercício, para a parte 2, uma vez que nós já fizemos
+
+68
+00:03:36.439 --> 00:03:38.340
+aqui as primeiras partes.
+
+69
+00:03:38.340 --> 00:03:39.879
+O que diz a parte 2?
+
+70
+00:03:39.879 --> 00:03:40.879
+Olha lá.
+
+71
+00:03:40.879 --> 00:03:47.939
+Pede-se calcular, após um ano, todas essas transações que nós acabamos de apresentar,
+
+72
+00:03:47.939 --> 00:03:50.000
+qual é a depreciação acumulada?
+
+73
+00:03:50.000 --> 00:03:51.719
+Qual é o valor depreciável?
+
+74
+00:03:51.719 --> 00:03:52.719
+Qual é o valor residual?
+
+75
+00:03:52.719 --> 00:03:54.719
+E qual é o valor contábil?
+
+76
+00:03:54.719 --> 00:03:55.719
+Perfeito?
+
+77
+00:03:55.719 --> 00:03:56.719
+Vamos lá.
+
+78
+00:03:56.719 --> 00:04:01.979
+Pause novamente o seu computador e resolva a questão, e eu volto já já para corrigir.
+
+79
+00:04:01.979 --> 00:04:03.379
+Até já.
+
+80
+00:04:03.379 --> 00:04:04.379
+Muito bem, pessoal.
+
+81
+00:04:04.379 --> 00:04:05.379
+E aí?
+
+82
+00:04:05.379 --> 00:04:09.500
+Conseguiram resolver a parte 2 do exercício número 9?
+
+83
+00:04:09.500 --> 00:04:11.500
+Vamos à correção do detalhe?
+
+84
+00:04:11.500 --> 00:04:14.719
+Se pairou alguma dúvida, nós vamos saná-la agora.
+
+85
+00:04:14.719 --> 00:04:16.319
+Então, olha lá.
+
+86
+00:04:16.319 --> 00:04:19.720
+Pede-se calcular, após um ano, qual é a depreciação acumulada?
+
+87
+00:04:19.720 --> 00:04:21.720
+Qual é o valor depreciável?
+
+88
+00:04:21.720 --> 00:04:22.720
+Qual é o valor residual?
+
+89
+00:04:22.720 --> 00:04:23.720
+Qual é o valor contábil?
+
+90
+00:04:23.720 --> 00:04:24.720
+Olha lá.
+
+91
+00:04:24.720 --> 00:04:27.720
+Cálculo da depreciação acumulada.
+
+92
+00:04:27.720 --> 00:04:32.720
+743.885, que nós falamos que é o que nós vamos depreciar.
+
+93
+00:04:32.720 --> 00:04:35.720
+Vida útil em anos, 7 anos.
+
+94
+00:04:35.720 --> 00:04:40.720
+Depreciação acumulada, 20.555.
+
+95
+00:04:40.720 --> 00:04:43.720
+Nada mais é do que o 143 dividido por 7.
+
+96
+00:04:43.720 --> 00:04:47.720
+Como é um ano, após um ano, essa será a minha depreciação acumulada.
+
+97
+00:04:47.720 --> 00:04:48.720
+Acertaram?
+
+98
+00:04:48.720 --> 00:04:49.720
+Letra B.
+
+99
+00:04:49.720 --> 00:04:50.720
+Valor depreciável.
+
+100
+00:04:50.720 --> 00:04:51.720
+Valor depreciável.
+
+101
+00:04:51.720 --> 00:04:57.720
+Se eu tinha 143 como valor depreciável, já depreciei 25.
+
+102
+00:04:57.720 --> 00:05:02.720
+Significa que o valor depreciável, 123.330.
+
+103
+00:05:02.720 --> 00:05:05.720
+E depois, o valor residual.
+
+104
+00:05:05.720 --> 00:05:09.720
+Continua lá os 205 menos os 30%.
+
+105
+00:05:09.720 --> 00:05:12.720
+O valor residual permanece 661.
+
+106
+00:05:12.720 --> 00:05:19.720
+E o valor contábil do bem, 205 menos a depreciação acumulada.
+
+107
+00:05:19.720 --> 00:05:21.720
+Valor contábil, 184.
+
+108
+00:05:21.720 --> 00:05:25.720
+Vocês viram que o valor contábil é diferente do valor residual agora.
+
+109
+00:05:25.720 --> 00:05:26.720
+Perfeito?
+
+110
+00:05:26.720 --> 00:05:27.720
+E aí?
+
+111
+00:05:27.720 --> 00:05:28.720
+Acertaram?
+
+112
+00:05:28.720 --> 00:05:31.720
+Com certeza, a grande maioria de vocês devem ter acertado.
+
+113
+00:05:31.720 --> 00:05:36.720
+Nessa altura do campeonato, já estamos mais da metade da nossa aula.
+
+114
+00:05:36.720 --> 00:05:38.720
+Já temos bastante informação.

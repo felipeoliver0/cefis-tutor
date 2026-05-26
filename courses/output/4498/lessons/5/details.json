@@ -1,0 +1,33 @@
+{
+  "id": 487838,
+  "title": "Enquadramento automático",
+  "position": 5,
+  "duration": 368,
+  "preview_url": "generating...",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8533f728-bc7c-45ad-8e32-ee6ac8f99940/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8533f728-bc7c-45ad-8e32-ee6ac8f99940/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8533f728-bc7c-45ad-8e32-ee6ac8f99940/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/8533f728-bc7c-45ad-8e32-ee6ac8f99940/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

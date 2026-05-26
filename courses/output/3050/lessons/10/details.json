@@ -1,0 +1,33 @@
+{
+  "id": 473573,
+  "title": "Lucro Real",
+  "position": 10,
+  "duration": 643,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/c939b810-c05c-414e-95d9-c041e1a22510/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c939b810-c05c-414e-95d9-c041e1a22510/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c939b810-c05c-414e-95d9-c041e1a22510/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c939b810-c05c-414e-95d9-c041e1a22510/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c939b810-c05c-414e-95d9-c041e1a22510/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

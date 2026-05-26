@@ -1,0 +1,33 @@
+{
+  "id": 454011,
+  "title": "Processo de registro",
+  "position": 11,
+  "duration": 249,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/f63c9ebe-bcc9-4033-9b62-56f2ec46ac34/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f63c9ebe-bcc9-4033-9b62-56f2ec46ac34/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f63c9ebe-bcc9-4033-9b62-56f2ec46ac34/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f63c9ebe-bcc9-4033-9b62-56f2ec46ac34/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/f63c9ebe-bcc9-4033-9b62-56f2ec46ac34/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

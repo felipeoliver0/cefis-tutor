@@ -1,0 +1,33 @@
+{
+  "id": 472858,
+  "title": "Qual o objetivo deste curso?",
+  "position": 3,
+  "duration": 68,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/ec2c4fe6-f9e2-4f06-81aa-5b0370eaaa8e/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ec2c4fe6-f9e2-4f06-81aa-5b0370eaaa8e/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ec2c4fe6-f9e2-4f06-81aa-5b0370eaaa8e/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ec2c4fe6-f9e2-4f06-81aa-5b0370eaaa8e/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/ec2c4fe6-f9e2-4f06-81aa-5b0370eaaa8e/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

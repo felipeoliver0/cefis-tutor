@@ -1,0 +1,701 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:00.660
+pessoal.
+
+2
+00:00:00.670 --> 00:00:04.900
+Quando eu falei pra vocês, do que é preciso pra emitir a nota fiscal eletrônica,
+
+3
+00:00:04.909 --> 00:00:07.099
+a primeira coisa que vemos na mente é o
+
+4
+00:00:07.110 --> 00:00:10.409
+que certificado digital tava ali em primeiro lugar.
+
+5
+00:00:10.420 --> 00:00:13.659
+Quando eu falei pra vocês, o que era necessário, permitir a nota fiscal eletrônica,
+
+6
+00:00:13.670 --> 00:00:14.960
+O certificado digital
+
+7
+00:00:15.239 --> 00:00:17.370
+por ser um tema tão importante, tá.
+
+8
+00:00:17.379 --> 00:00:19.809
+Vamos falar um pouco sobre o certificado digital
+
+9
+00:00:19.819 --> 00:00:21.729
+utilizado pra emitir a nota fiscal eletrônica.
+
+10
+00:00:21.739 --> 00:00:25.090
+O modelo cinquenta e cinco é a nota fiscal eletrônica, modelo meia,
+
+11
+00:00:25.100 --> 00:00:30.209
+Assim tá a primeira coisa é certificado de pessoa jurídica?
+
+12
+00:00:30.219 --> 00:00:33.610
+Tá? Então tem que ser o certificado da pessoa jurídica.
+
+13
+00:00:33.619 --> 00:00:36.500
+Então não pode ser o certificado pessoa física,
+
+14
+00:00:36.509 --> 00:00:39.630
+sim do dono da empresa não pode ser o certificado
+
+15
+00:00:39.860 --> 00:00:41.830
+contador. Tá por quê?
+
+16
+00:00:41.840 --> 00:00:44.310
+Porque não tem procuração eletrônica pro sistema
+
+17
+00:00:44.319 --> 00:00:45.909
+de emissor de documento fiscal eletrônico,
+
+18
+00:00:45.919 --> 00:00:49.110
+tem que ser o certificado da pessoa jurídica lá da empresa.
+
+19
+00:00:49.119 --> 00:00:50.729
+Tá, é claro que
+
+20
+00:00:51.389 --> 00:00:56.900
+quando ele vai fazer a emissão da nota fiscal do produtor rural CPF, tá aí, é claro,
+
+21
+00:00:56.909 --> 00:00:58.759
+Vai ser os certificados do CPF?
+
+22
+00:00:58.770 --> 00:01:02.299
+Tá. Mas no caso de empresa sempre da pessoa jurídica.
+
+23
+00:01:02.310 --> 00:01:06.080
+E lembrando que não há procuração eletrônica,
+
+24
+00:01:06.089 --> 00:01:09.559
+tá esse certificado pessoa física somente pro caso do produtor rural
+
+25
+00:01:09.569 --> 00:01:11.790
+tá bom porque ele é o próprio titular da empresa.
+
+26
+00:01:11.800 --> 00:01:13.220
+Tá bom, Então
+
+27
+00:01:13.720 --> 00:01:18.050
+Certificado de pessoa jurídica segunda coisa a gente
+
+28
+00:01:18.059 --> 00:01:20.010
+tem que considerar o modelo do certificado.
+
+29
+00:01:20.019 --> 00:01:22.989
+A gente pode ter o modelo a um. Tá o modelo a um.
+
+30
+00:01:23.000 --> 00:01:25.050
+É um modelo de certificado,
+
+31
+00:01:25.059 --> 00:01:29.150
+que ele é um arquivo digital muito parecido com o arquivo P D F.
+
+32
+00:01:29.160 --> 00:01:32.699
+Você bota no anexo meio, manda um arquivo do que você salva lá.
+
+33
+00:01:32.709 --> 00:01:36.099
+O trabalho que você tá fazendo aí ele é um arquivo de computador. Tá?
+
+34
+00:01:36.110 --> 00:01:38.139
+Só que ele é um certificado digital, ele não é um P.
+
+35
+00:01:38.150 --> 00:01:43.379
+D F não é um documento do ele, é um certificado digital modelo a um O A um pessoal,
+
+36
+00:01:43.389 --> 00:01:45.500
+ele vale por um ano, tá bom.
+
+37
+00:01:45.510 --> 00:01:46.559
+Ele vale por um ano.
+
+38
+00:01:47.680 --> 00:01:49.769
+Nós temos o certificado a três.
+
+39
+00:01:49.779 --> 00:01:52.470
+O certificado a três é um certificado que
+
+40
+00:01:52.480 --> 00:01:55.410
+ele está atrelado a um dispositivo de segurança.
+
+41
+00:01:55.419 --> 00:01:59.550
+Tá que dispositivo é esse? Pode ser um dispositivo do tipo Tok, né?
+
+42
+00:01:59.559 --> 00:02:03.010
+O Tok Ele é muito semelhante ao pen drive, parece um pen drive.
+
+43
+00:02:03.019 --> 00:02:05.970
+Só que ali dentro não é um pen drive. Ele tem um certificado digital.
+
+44
+00:02:05.980 --> 00:02:08.190
+Esse é o certificado no Tok Tá
+
+45
+00:02:08.429 --> 00:02:13.000
+e a gente também tem o certificado a três em Smart Card que é chamado aí.
+
+46
+00:02:13.009 --> 00:02:15.160
+Tá esse certificado no smartcard.
+
+47
+00:02:15.169 --> 00:02:17.720
+Ele parece um cartão de crédito de banco,
+
+48
+00:02:17.729 --> 00:02:21.000
+daquele que tem O Chipzinho tá aquele cartão de crédito do banco.
+
+49
+00:02:21.009 --> 00:02:25.539
+Tem o chip, O certificado digital é num cartão exatamente igual aquele tá,
+
+50
+00:02:25.550 --> 00:02:29.160
+Só que no chip tem as informações do certificado digital.
+
+51
+00:02:29.169 --> 00:02:32.070
+O modelo A três por ele estar atrelado a
+
+52
+00:02:32.080 --> 00:02:34.759
+um dispositivo de segurança não pode ser copiado.
+
+53
+00:02:34.770 --> 00:02:37.619
+Ele tem um prazo de validade maior porque
+
+54
+00:02:37.705 --> 00:02:41.315
+entende que ele tem também uma segurança maior.
+
+55
+00:02:41.324 --> 00:02:42.714
+Tá então o modelo a três.
+
+56
+00:02:42.725 --> 00:02:46.695
+Ele dura três anos, tá e tem o certificado em nuvem,
+
+57
+00:02:46.705 --> 00:02:49.054
+que ele não fica em dispositivo físico.
+
+58
+00:02:49.065 --> 00:02:52.595
+Ele não é um arquivo de computador, ele fica armazenado na internet, tá?
+
+59
+00:02:52.604 --> 00:02:55.654
+Pode ser qualquer um desses três tipos de certificado.
+
+60
+00:02:56.770 --> 00:02:58.880
+Sobre o tipo de certificado. Temos o quê?
+
+61
+00:02:59.789 --> 00:03:03.759
+Atentar para o prazo de validade, né? Um ano, três anos e o nu também?
+
+62
+00:03:03.770 --> 00:03:05.119
+Ele acompanha três anos. Tá?
+
+63
+00:03:05.130 --> 00:03:09.580
+Então, vamos atentar para o prazo de validade e requisitos do sistema emissor, né?
+
+64
+00:03:09.589 --> 00:03:14.080
+Eu posso ter um sistema emissor que ele necessita de um certificado tipo a um né.
+
+65
+00:03:14.089 --> 00:03:16.059
+Só funciona com o certificado tipo a um.
+
+66
+00:03:16.320 --> 00:03:20.570
+Eu posso ter um sistema emissor que funciona somente com o certificado a três, né?
+
+67
+00:03:20.580 --> 00:03:23.529
+Então a gente tem que ver os requisitos do sistema emissor.
+
+68
+00:03:23.539 --> 00:03:25.529
+Qual certificado que pede?
+
+69
+00:03:25.539 --> 00:03:26.729
+O sistema emissor tem cer,
+
+70
+00:03:26.740 --> 00:03:29.449
+tem sistema emissor que funciona com qualquer certificado,
+
+71
+00:03:29.460 --> 00:03:33.130
+mas tem sistema emissor que tem um requisito ali do tipo de certificado.
+
+72
+00:03:33.139 --> 00:03:35.490
+Isso é bom a gente verificar junto ao pessoal lá,
+
+73
+00:03:35.500 --> 00:03:38.029
+que vai nos fornecer o sistema emissor tá bom,
+
+74
+00:03:39.339 --> 00:03:44.190
+pessoal, é o mesmo certificado utilizado para acessar a Receita Federal?
+
+75
+00:03:44.199 --> 00:03:45.470
+Tá Então, às vezes,
+
+76
+00:03:45.479 --> 00:03:49.070
+muitas empresas já tem o certificado digital pra acessar o
+
+77
+00:03:49.080 --> 00:03:52.949
+site lá da Receita Federal é exatamente o mesmo certificado,
+
+78
+00:03:52.960 --> 00:03:57.389
+Tá bom, Então a gente tem que observar o momento de utilização de cada serviço, né?
+
+79
+00:03:57.399 --> 00:03:59.470
+Vamos supor que a gente tenha um certificado pra
+
+80
+00:03:59.479 --> 00:04:01.910
+acessar a Receita Federal do tipo a três.
+
+81
+00:04:01.919 --> 00:04:04.630
+Ele está atrelado a um dispositivo físico, né?
+
+82
+00:04:04.639 --> 00:04:08.449
+Ou seja, ele tá naquele dispositivo esse tipo de certificado.
+
+83
+00:04:08.750 --> 00:04:11.080
+Se eu for utilizar ele pra acessar a receita,
+
+84
+00:04:11.089 --> 00:04:13.479
+eu tenho que botar no computador e acessar.
+
+85
+00:04:13.490 --> 00:04:17.660
+A Receita Federal tá, E se eu for, emiti nota eu tenho que botar no computador e
+
+86
+00:04:18.488 --> 00:04:20.260
+acessar o serviço de emissão de nota.
+
+87
+00:04:20.269 --> 00:04:24.059
+Nesse caso, a gente tem que tentar atentar pro seguinte.
+
+88
+00:04:24.070 --> 00:04:27.200
+A minha empresa pode esperar alguém ficar lá acessando a
+
+89
+00:04:27.209 --> 00:04:30.220
+Receita Federal enquanto o cliente espera pra emitir a nota,
+
+90
+00:04:30.230 --> 00:04:30.820
+né?
+
+91
+00:04:30.829 --> 00:04:32.660
+Ou se não, minha empresa, não.
+
+92
+00:04:32.670 --> 00:04:35.029
+O certificado pra acessar a Receita Federal é usado
+
+93
+00:04:35.040 --> 00:04:36.899
+no momento que eu não preciso emitir nota,
+
+94
+00:04:36.910 --> 00:04:39.160
+eu não vou ter o uso concorrente dos dois, né?
+
+95
+00:04:39.170 --> 00:04:41.079
+E então cada empresa funciona de um jeito,
+
+96
+00:04:41.299 --> 00:04:42.790
+você vai ver aí na sua empresa,
+
+97
+00:04:42.799 --> 00:04:46.730
+como que é o jeito adequado de você utilizar pra ver se você precisa de
+
+98
+00:04:46.739 --> 00:04:49.950
+um novo certificado ou se você pode usar o certificado que você já tem.
+
+99
+00:04:49.959 --> 00:04:50.570
+Tá bom.
+
+100
+00:04:51.000 --> 00:04:53.529
+Outra coisa interessante é o certificado.
+
+101
+00:04:53.540 --> 00:04:57.130
+Ele é o único certificado por cada CN PJ base, né?
+
+102
+00:04:57.140 --> 00:05:01.850
+Então a empresa que tem muitas filiais, que tem regional no Brasil inteiro,
+
+103
+00:05:01.859 --> 00:05:06.290
+ela pode fazer emissão pra todas as suas filiais, pra todos os regionais,
+
+104
+00:05:06.299 --> 00:05:09.769
+pra tudo que tiver espalhado no Brasil com apenas um certificado.
+
+105
+00:05:09.779 --> 00:05:10.809
+Digital, né?
+
+106
+00:05:10.820 --> 00:05:15.190
+Isso foi feito pra facilitar a vida das empresas pra diminuir o
+
+107
+00:05:15.200 --> 00:05:19.510
+custo da empresa de aquisição de certificado e custo de gestão Também,
+
+108
+00:05:19.519 --> 00:05:19.630
+né?
+
+109
+00:05:19.640 --> 00:05:23.350
+Se você tem dez certificados, você vai ter dez prazos de validade diferente.
+
+110
+00:05:23.359 --> 00:05:26.190
+Você vai ter que comparecer à autoridade certificadora
+
+111
+00:05:26.200 --> 00:05:29.299
+pra fazer renovação dez vezes lá desses certificados,
+
+112
+00:05:29.309 --> 00:05:29.470
+né?
+
+113
+00:05:29.480 --> 00:05:32.510
+Ao passo que com o certificado só você consegue emitir
+
+114
+00:05:32.519 --> 00:05:35.750
+pra todas as empresas do grupo e apenas um certificado.
+
+115
+00:05:35.760 --> 00:05:40.510
+Você pode também ter um sistema centralizado, que, num lugar único, específico,
+
+116
+00:05:40.519 --> 00:05:43.829
+você dispara todas as notas dali pro Brasil inteiro, né?
+
+117
+00:05:43.839 --> 00:05:45.690
+Então é muito interessante esse caso. Aqui.
+
+118
+00:05:46.269 --> 00:05:47.739
+Um certificado único,
+
+119
+00:05:47.750 --> 00:05:50.799
+por C n PJ base tá bom que permite usar
+
+120
+00:05:50.809 --> 00:05:54.179
+esse certificado em todas as empresas daquele grupo empresarial,
+
+121
+00:05:54.920 --> 00:06:00.859
+ainda certificado digital. Vamos tirar uma dúvida que é bem frequente aqui tá bom!
+
+122
+00:06:00.869 --> 00:06:08.429
+Tem o e PJ que que é PJ o certificado de pessoa jurídica e o e C n PJ O
+
+123
+00:06:08.440 --> 00:06:12.010
+e C n PJ é um certificado utilizado para acessar
+
+124
+00:06:12.019 --> 00:06:15.329
+o Cadastro Nacional de Pessoas Jurídicas na Receita Federal.
+
+125
+00:06:15.339 --> 00:06:18.709
+Tá bom, Então esse certificado ele é o seguinte
+
+126
+00:06:19.140 --> 00:06:24.089
+para a nota fiscal eletrônica qualquer certificado de pessoa jurídica, né?
+
+127
+00:06:24.100 --> 00:06:26.589
+Qualquer certificado de pessoa jurídica pode
+
+128
+00:06:26.600 --> 00:06:28.750
+ser utilizado para acessar o serviço.
+
+129
+00:06:28.760 --> 00:06:31.089
+Tá bom, não precisa ser o C n PJ.
+
+130
+00:06:32.339 --> 00:06:35.149
+Não é necessário ser um certificado do tipo N,
+
+131
+00:06:35.160 --> 00:06:40.940
+n F e ou o certificado do tipo C T e esse certificado do tipo n f E e do tipo C T.
+
+132
+00:06:40.950 --> 00:06:45.470
+E é foi um tipo de certificado que as empresas certificadoras criaram, né?
+
+133
+00:06:45.480 --> 00:06:48.750
+Pra vender um produto ali, talvez com preço diferenciado? Tá?
+
+134
+00:06:48.760 --> 00:06:52.450
+Não precisa ser esse certificado qualquer certificado de pessoa jurídica.
+
+135
+00:06:53.549 --> 00:06:57.320
+O C n PJ é uma especialização do Certificado
+
+136
+00:06:57.329 --> 00:07:00.559
+de Pessoa Jurídica criado pela Receita Federal do Brasil.
+
+137
+00:07:00.570 --> 00:07:06.440
+O C n PJ ele exige que o titular pessoa física do certificado, né,
+
+138
+00:07:06.450 --> 00:07:09.640
+Ou seja aquele certificado foi emitido pra aquela pessoa jurídica.
+
+139
+00:07:09.649 --> 00:07:12.059
+Mas quem solicitou foi a pessoa física. Tal
+
+140
+00:07:12.420 --> 00:07:12.890
+o S.
+
+141
+00:07:12.899 --> 00:07:16.950
+PJ exige que essa pessoa física, que solicitou o certificado,
+
+142
+00:07:16.959 --> 00:07:19.869
+seja o titular da empresa no cadastro da empresa.
+
+143
+00:07:19.880 --> 00:07:20.980
+Lá na Receita Federal?
+
+144
+00:07:20.989 --> 00:07:24.109
+Então o Certi, o titular pessoa física do certificado,
+
+145
+00:07:24.119 --> 00:07:26.829
+é o mesmo titular da pessoa jurídica.
+
+146
+00:07:26.839 --> 00:07:27.070
+Tá,
+
+147
+00:07:27.079 --> 00:07:31.529
+esse é o S n PJ e com esse certificado você acessa lá
+
+148
+00:07:31.540 --> 00:07:34.769
+o ECA que vê as declarações da empresa e tudo mais tá bom,
+
+149
+00:07:34.779 --> 00:07:38.269
+esse é o nosso s n PJ o certificado do tipo
+
+150
+00:07:38.279 --> 00:07:41.369
+N F e que eles vendem aqui ou outro certificado,
+
+151
+00:07:41.380 --> 00:07:42.850
+tipo e PJ.
+
+152
+00:07:42.859 --> 00:07:47.209
+Ele pode ter como titular algum funcionário da empresa que
+
+153
+00:07:47.220 --> 00:07:49.970
+não seja o dono da empresa pode ter um terceiro,
+
+154
+00:07:49.980 --> 00:07:50.350
+né,
+
+155
+00:07:51.190 --> 00:07:53.339
+que permite emitir a nota,
+
+156
+00:07:53.350 --> 00:07:56.760
+mas por não ser o titular do certificado o
+
+157
+00:07:56.769 --> 00:07:59.839
+mesmo titular do cadastro da empresa no CNPJ.
+
+158
+00:07:59.850 --> 00:08:03.720
+Ele não transacionar com a Receita Federal do Brasil, né?
+
+159
+00:08:03.730 --> 00:08:08.695
+Então, a empresa pode emitir em nome do responsável pelo setor de T I,
+
+160
+00:08:08.704 --> 00:08:12.494
+pode emitir um certificado em nome do programador, né?
+
+161
+00:08:12.505 --> 00:08:17.015
+Pode emitir em nome de um diretor qualquer que não seja dono da empresa.
+
+162
+00:08:17.024 --> 00:08:21.375
+Esse é o certificado do tipo nota, o certificado tipo e PJ tá,
+
+163
+00:08:21.385 --> 00:08:24.984
+então ele não permite entrar lá na Receita Federal,
+
+164
+00:08:24.994 --> 00:08:27.095
+no e CAC lá pra fazer a gestão da empresa.
+
+165
+00:08:27.105 --> 00:08:31.915
+Essa é a diferença entre esses dois tipos de certificado? Tá,
+
+166
+00:08:32.169 --> 00:08:34.457
+então você fique atento né?
+
+167
+00:08:34.467 --> 00:08:37.337
+Porque às vezes a empresa é uma empresa de minuto, uma empresa pequena, né?
+
+168
+00:08:37.347 --> 00:08:38.499
+Não tem nem diretor,
+
+169
+00:08:38.508 --> 00:08:43.138
+às vezes e vai comprar um certificado o certificado da nota fiscal eletrônica Lá,
+
+170
+00:08:43.148 --> 00:08:47.898
+Esse e N F R é mais caro, Tá, O certificado é mais caro e, às vezes,
+
+171
+00:08:47.908 --> 00:08:50.018
+a empresa vai ter uma despesa desnecessária.
+
+172
+00:08:50.028 --> 00:08:50.679
+Fique atento
+
+173
+00:08:51.770 --> 00:08:54.460
+por que a tentar pela diferença de preço, né?
+
+174
+00:08:54.469 --> 00:08:58.239
+Então, se o preço é diferente, se você puder economizar isso é bom pra sua empresa,
+
+175
+00:08:58.250 --> 00:08:58.559
+né?

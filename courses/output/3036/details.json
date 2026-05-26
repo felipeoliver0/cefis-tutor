@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 3036,
+    "title": "[podcast] Remessa Conforme",
+    "subtitle": "PodCast",
+    "summary": "Neste podcast, vamos falar sobre Remessa Conforme. Trata-se de um programa da Receita Federal do Brasil, com o intuito de regulamentar compras que podem ter tratamento aduaneiro especial.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/b5ecdb70a97631dbe7487ff05e82b08c1728385997.jpg",
+    "goals": [
+      "Neste podcast, vamos falar sobre Remessa Conforme. Trata-se de um programa da Receita Federal do Brasil, com o intuito de regulamentar compras que podem ter tratamento aduaneiro especial."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 804,
+    "keywords": "podcast;remessa conforme",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 110,
+    "averageRating": 9.05,
+    "practiceAverage": 9.06,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-03-16T12:10:05.000Z",
+    "recordedAt": "2024-01-31T00:00:00.000Z",
+    "createdAt": "2024-02-06T17:38:51.000Z"
+  }
+}

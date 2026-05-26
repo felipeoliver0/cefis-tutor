@@ -1,0 +1,33 @@
+{
+  "id": 457728,
+  "title": "Outros resultados abrangentes",
+  "position": 36,
+  "duration": 198,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/6eea33f6-8512-48db-973e-1ef2f14ac665/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6eea33f6-8512-48db-973e-1ef2f14ac665/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6eea33f6-8512-48db-973e-1ef2f14ac665/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6eea33f6-8512-48db-973e-1ef2f14ac665/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/6eea33f6-8512-48db-973e-1ef2f14ac665/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

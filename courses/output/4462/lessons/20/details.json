@@ -1,0 +1,33 @@
+{
+  "id": 487191,
+  "title": "Benefícios",
+  "position": 20,
+  "duration": 128,
+  "preview_url": "https://s3.cefis.cloud/cefiscdn/media/thumbnails/c988c007-f56f-48b6-875f-eea08de70f68/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c988c007-f56f-48b6-875f-eea08de70f68/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c988c007-f56f-48b6-875f-eea08de70f68/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c988c007-f56f-48b6-875f-eea08de70f68/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/c988c007-f56f-48b6-875f-eea08de70f68/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

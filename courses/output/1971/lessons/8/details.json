@@ -1,0 +1,33 @@
+{
+  "id": 460437,
+  "title": "Dominância",
+  "position": 8,
+  "duration": 697,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3e9a82b3-7c23-4ab7-b758-fc7361cdc2b6/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e9a82b3-7c23-4ab7-b758-fc7361cdc2b6/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e9a82b3-7c23-4ab7-b758-fc7361cdc2b6/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e9a82b3-7c23-4ab7-b758-fc7361cdc2b6/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3e9a82b3-7c23-4ab7-b758-fc7361cdc2b6/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

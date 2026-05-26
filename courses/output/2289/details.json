@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": 2289,
+    "title": "Consultoria em Departamento Pessoal",
+    "subtitle": "Curso Prático",
+    "summary": "Neste curso prático de consultoria em departamento pessoal você aprenderá desde as características essenciais de um profissional consultor, até aspectos referentes as atribuições da consultoria, diferenças entre consultoria e assessoria, como montar um diagnóstico de consultoria, tipos de serviços disponíveis no mercado, proposta de serviços e muitos outros pontos para colocar em prática os conhecimentos adquiridos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/168cf28843768289a7a9a4473ec2f3f81728427947.jpg",
+    "goals": [
+      "Demonstras desde as características essenciais de um profissional consultor, até aspectos referentes as atribuições da consultoria, diferenças entre consultoria e assessoria, como montar um diagnóstico de consultoria, tipos de serviços disponíveis no mercado, proposta de serviços e muitos outros pontos para colocar em prática os conhecimentos adquiridos."
+    ],
+    "teacher": {
+      "id": 344102,
+      "name": "JEFFERSON DANTAS",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/412e6883-cd8a-413d-b4b4-cf0f166678be-croppedImage.jpeg"
+    },
+    "duration": 2325,
+    "keywords": "consultoria;assessoria;departamento pessoal;dp;consultoria em dp",
+    "certificationThreshold": null,
+    "isEditing": false,
+    "lessonCount": 9,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      3
+    ],
+    "watchLater": false,
+    "ratingQuantity": 424,
+    "averageRating": 9.24,
+    "practiceAverage": 9.24,
+    "trailer": {
+      "id": "f2560ca0-aa6d-42e1-8191-bc18a92d6a64",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f2560ca0-aa6d-42e1-8191-bc18a92d6a64/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f2560ca0-aa6d-42e1-8191-bc18a92d6a64/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f2560ca0-aa6d-42e1-8191-bc18a92d6a64/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/f2560ca0-aa6d-42e1-8191-bc18a92d6a64/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2022-10-20T23:50:28.000Z",
+      "updatedAt": "2022-10-20T23:50:28.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2022-10-21T08:00:00.000Z",
+    "recordedAt": "2022-10-04T00:00:00.000Z",
+    "createdAt": "2022-10-05T16:24:06.000Z"
+  }
+}

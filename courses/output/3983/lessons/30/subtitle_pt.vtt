@@ -1,0 +1,124 @@
+WEBVTT
+
+00:00:00.514 --> 00:00:07.393
+- O bloco zero, como eu comentei com vocês, é um dos principais blocos para acusamento de informação.
+
+00:00:07.393 --> 00:00:14.337
+- Até porque estamos falando de cadastro, não só de item, mas também cadastro de CNPJ, muito vinculado
+
+00:00:14.337 --> 00:00:21.083
+- à tomada de crédito. O Registro 0150, por exemplo, ele trata o cadastro de participantes. E se esse
+
+00:00:21.083 --> 00:00:26.110
+- cadastro de participantes não estiver certo, lembra do documento Nidônio?
+
+00:00:26.690 --> 00:00:35.334
+- Então, tem a ver com quem faz cadastro, ou seja, pode ser que a emissão do documento tenha sido correta?
+
+00:00:35.334 --> 00:00:43.169
+- Sim. Só que o SPED é gerado depois. Então, seu sistema poderia te ajudar nessa atualização.
+
+00:00:43.169 --> 00:00:51.409
+- Identificação se algum participante tem uma irregularidade, por exemplo. Então, o registro zero é
+
+00:00:51.409 --> 00:00:54.398
+- importante porque ele trata não só
+
+00:00:54.946 --> 00:01:03.021
+- os cadastros de participante, mas também até mesmo os cadastros do contabilista, de quem é o responsável
+
+00:01:03.021 --> 00:01:07.614
+- pela escrituração. Lembre-se que quem estiver aqui no bloco
+
+00:01:08.130 --> 00:01:15.317
+- no registro 0100, ele é responsável pelas informações que estão dentro do despacho fiscal. E qual
+
+00:01:15.317 --> 00:01:22.504
+- que é a orientação e o que o TRF-4 trouxe de entendimento? Na primeira sessão do tribunal, dizendo
+
+00:01:22.504 --> 00:01:28.574
+- que a maioria trata a responsabilidade solidária de quem está escriturando, ou seja,
+
+00:01:29.058 --> 00:01:35.341
+- contador. Então, se você hoje é contador e está no registro 100 da sua empresa, ou já passou por
+
+00:01:35.341 --> 00:01:41.932
+- alguma empresa e você era o responsável, você precisa também se atentar à identificação se trocaram
+
+00:01:41.932 --> 00:01:48.030
+- o seu nome, porque você continua com essa responsabilidade. Além disso, a gente também tem como
+
+00:01:48.162 --> 00:01:55.771
+- retratar isso via o CRC também, retirando essas informações dessas obrigações. Mas atenção, cuidado,
+
+00:01:55.771 --> 00:02:02.887
+- porque você se torna responsável, solidário, perante as informações que estão sendo prescritas
+
+00:02:02.887 --> 00:02:09.933
+- nos SPEDs, não só no SPED fiscal. O registro 0200 é o mais importante, onde o fisco não precisa
+
+00:02:09.933 --> 00:02:15.710
+- nem buscar o documento fiscal eletrônico do seu cliente. Ele pode buscar o 0200,
+
+00:02:15.906 --> 00:02:23.095
+- e a movimentação, que está lá no bloco C. Então, ele identifica o 0200, a NCM, a alíquota e o
+
+00:02:23.095 --> 00:02:30.428
+- tipo do item. O físico não precisa ir buscar o XML, por quê? Se o cadastro do 0200 está de acordo
+
+00:02:30.428 --> 00:02:37.761
+- com o bloco C, ou seja, na hora do lançamento, está com a alíquota igual ao cadastro, está com as
+
+00:02:37.761 --> 00:02:39.486
+- NCMs igual ao cadastro,
+
+00:02:40.290 --> 00:02:48.332
+- está com o tipo do item vinculado a CFP igual ao cadastro, não há critério de cruzamentos. Agora,
+
+00:02:48.332 --> 00:02:56.374
+- se o seu ESPED fiscal está, por exemplo, com o controle no 0200 como revenda, e lá no bloco C você
+
+00:02:56.374 --> 00:03:02.366
+- lançou como uso e consumo, nós temos uma dificuldade e uma fiscalização
+
+00:03:02.786 --> 00:03:10.743
+- proveniente para o seu cliente. Então, nesse contexto, o físico não foi atrás de um documento fiscal
+
+00:03:10.743 --> 00:03:18.396
+- eletrônico. Ele só olhou o registro 0200, onde o registro 0200 identifica a finalidade do item e a
+
+00:03:18.396 --> 00:03:25.444
+- finalidade do item está registrada lá no bloco C por meio de uma CFLP. Então, existe CFLP
+
+00:03:25.444 --> 00:03:31.582
+- de matéria-prima? Existe. Existe CFLP de material para revenda? Existe. Então,
+
+00:03:31.746 --> 00:03:39.660
+- O fisco não atrela a incidência da CFOP, mas ele identifica a finalidade. A incidência está relacionada
+
+00:03:39.660 --> 00:03:47.061
+- à CST, diferente da CFOP que está no registro 0200. Lembrando que o cadastro de identificação do
+
+00:03:47.061 --> 00:03:54.974
+- item, ele serve para a finalidade de determinado item. Pode ser de uso e consumo, revenda, produto acabado.
+
+00:03:54.974 --> 00:03:57.246
+- E quais são esses critérios?
+
+00:03:57.954 --> 00:04:03.621
+- Mercadoria para revenda, matéria-prima, embalagens, produto em processo, produto acabado.
+
+00:04:03.621 --> 00:04:09.973
+- E essas finalidades precisam estar muito claras para vocês, para vocês conseguirem fazer o cadastro
+
+00:04:09.973 --> 00:04:16.699
+- corretamente. Então, quando a gente fala, por exemplo, na RG 0200, do tipo 00, é mercadoria para revenda.
+
+00:04:16.699 --> 00:04:22.988
+- O que é mercadoria para revenda? É um produto que foi adquirido e ele vai ser comercializado. Não
+
+00:04:22.988 --> 00:04:26.974
+- houve nenhum tipo de industrialização. Comprou, vendeu. Aqui,
+
+00:04:27.074 --> 00:04:31.998
+- São itens que devem estar no 0200 com o tipo 00.

@@ -1,0 +1,33 @@
+{
+  "id": 470863,
+  "title": "Adiantamento de salários e 13º salário",
+  "position": 30,
+  "duration": 387,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/3abcc304-d9aa-48fa-b05f-6483ce4066d7/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3abcc304-d9aa-48fa-b05f-6483ce4066d7/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3abcc304-d9aa-48fa-b05f-6483ce4066d7/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3abcc304-d9aa-48fa-b05f-6483ce4066d7/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/3abcc304-d9aa-48fa-b05f-6483ce4066d7/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

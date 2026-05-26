@@ -1,0 +1,33 @@
+{
+  "id": 461967,
+  "title": "Formas de trabalho e contratação - Parte 2",
+  "position": 8,
+  "duration": 472,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/814af46f-f6d7-49d9-8e5d-4dfbb8f98abd/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/814af46f-f6d7-49d9-8e5d-4dfbb8f98abd/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/814af46f-f6d7-49d9-8e5d-4dfbb8f98abd/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/814af46f-f6d7-49d9-8e5d-4dfbb8f98abd/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/814af46f-f6d7-49d9-8e5d-4dfbb8f98abd/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

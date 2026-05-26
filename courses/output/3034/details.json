@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 3034,
+    "title": "[podcast] Tabela NCM e suas alterações para 2024",
+    "subtitle": "Podcast",
+    "summary": "Atualizar sobre as alterações na tabela NCM (Nomenclatura Comum do Mercosul) vigentes a partir de janeiro de 2024.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/69e5f349dbdac9b7397b662c0aafb2051707252229.jpg",
+    "goals": [
+      "Atualizar sobre as alterações na tabela NCM (Nomenclatura Comum do Mercosul) vigentes a partir de janeiro de 2024."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 660,
+    "keywords": "ncm;podcast",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      1
+    ],
+    "watchLater": false,
+    "ratingQuantity": 397,
+    "averageRating": 8.97,
+    "practiceAverage": 9,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2024-03-16T12:11:23.000Z",
+    "recordedAt": "2024-01-30T00:00:00.000Z",
+    "createdAt": "2024-02-06T17:37:22.000Z"
+  }
+}

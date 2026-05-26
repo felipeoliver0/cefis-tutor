@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4420,
+    "title": "Novo Modelo de Tributação do IRPF",
+    "subtitle": "Curso prático",
+    "summary": "Neste curso Novo Modelo de Tributação do IRPF, Altas Rendas e Dividendos - Curso prático você irá aprender na prática tudo o que precisa saber sobre tributação de altas rendas e dividendos. Aprenderá os fundamentos e a prática de cálculo de imposto de renda sobre dividendos, como calcular a alíquota de imposto de renda sobre altas rendas e como se aplicam as regras de tributação de rendimentos de capital, e vários outros temas para você que deseja se atualizar ou aprender tudo sobre tributação de altas rendas e dividendos.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/164a2424-5766-4480-8163-ddd043d19c4e-thumbnail.png",
+    "goals": [
+      "O objetivo do curso Novo Modelo de Tributação do IRPF, Altas Rendas e Dividendos é a capacitação para a aplicação prática de uma compreensão profunda e atualizada sobre as alterações no modelo de tributação do Imposto de Renda sobre as altas rendas e dividendos."
+    ],
+    "teacher": {
+      "id": 238384,
+      "name": "ARNÓBIO DURÃES",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1631629143.jpeg"
+    },
+    "duration": 14852,
+    "keywords": "tributação;modelo;novo",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 38,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 124,
+    "averageRating": 9.61,
+    "practiceAverage": 9.5,
+    "trailer": {
+      "id": "a6e70717-2533-4b68-aaee-4b6dd11e2613",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a6e70717-2533-4b68-aaee-4b6dd11e2613/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a6e70717-2533-4b68-aaee-4b6dd11e2613/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a6e70717-2533-4b68-aaee-4b6dd11e2613/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/a6e70717-2533-4b68-aaee-4b6dd11e2613/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2026-03-12T01:14:53.000Z",
+      "updatedAt": "2026-03-12T01:14:52.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2026-03-13T07:49:05.000Z",
+    "recordedAt": "2026-02-05T00:00:00.000Z",
+    "createdAt": "2026-02-18T18:13:39.000Z"
+  }
+}

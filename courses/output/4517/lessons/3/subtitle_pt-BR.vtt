@@ -1,0 +1,413 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:21.000
+Os objetivos do treinamento, nós temos como objetivo geral, o principal de tudo isso é justamente capacitar o profissional contábil para a correta elaboração, validação e transmissão da ECD referente ao ano-calendário 2025 que nós vamos entregar agora em 2026.
+
+3
+00:00:21.000 --> 00:00:28.500
+Talvez alguns de vocês já entregaram. Perfeito, quanto antes melhor. Não vamos deixar para a última hora, não é?
+
+4
+00:00:28.500 --> 00:00:38.000
+Asegurando conformidade às normas contábeis e fiscais, que estão em vigor, bem como a qualidade e integridade das informações prestadas.
+
+5
+00:00:38.000 --> 00:00:44.000
+Então, meus caros, este é um treinamento onde nós vamos abordar no detalhe.
+
+6
+00:00:44.000 --> 00:00:51.500
+Nós não vamos, obviamente, entrar no software, porque ficaria inviável aqui entrar para ficar elaborando.
+
+7
+00:00:51.500 --> 00:00:57.000
+Mas eu vou detalhar, trouxe algumas telas para facilitar o entendimento de vocês.
+
+8
+00:00:57.000 --> 00:00:57.500
+O objetivo é vocês entenderem.
+
+9
+00:00:57.500 --> 00:00:58.000
+O objetivo é vocês entenderem.
+
+10
+00:00:58.000 --> 00:00:58.500
+O objetivo é vocês entenderem.
+
+11
+00:00:58.500 --> 00:01:01.500
+Como funciona a estrutura.
+
+12
+00:01:01.500 --> 00:01:06.500
+Porque nada mais é do que a nossa contabilidade pura.
+
+13
+00:01:06.500 --> 00:01:08.500
+Então, isso vai depender de você.
+
+14
+00:01:08.500 --> 00:01:16.500
+Se você tem um bom plano de contas, se você tem bom centro de custo, se você tem bons histórico padrões,
+
+15
+00:01:16.500 --> 00:01:22.500
+se a sua contabilidade está parametrizada corretamente no teu software de gestão, no teu ERP,
+
+16
+00:01:22.500 --> 00:01:26.500
+tudo isso é gerado automático.
+
+17
+00:01:26.500 --> 00:01:27.500
+Por que?
+
+18
+00:01:27.500 --> 00:01:29.500
+Porque a TI já trabalhou para isso.
+
+19
+00:01:29.500 --> 00:01:34.500
+O software de vocês, seja ele qual for, já tem essa amarração.
+
+20
+00:01:34.500 --> 00:01:41.500
+Então, eu gostaria de começar a nossa aula dizendo que eu não elaboro a ECD agora, não.
+
+21
+00:01:41.500 --> 00:01:50.500
+Eu estou elaborando a minha ECD diariamente à medida que eu vou fazendo a minha contabilidade.
+
+22
+00:01:50.500 --> 00:01:53.500
+Diariamente eu já estou elaborando a minha ECD.
+
+23
+00:01:53.500 --> 00:01:55.500
+Por trás da tela do seu programa.
+
+24
+00:01:55.500 --> 00:02:02.500
+A tela do seu programa do ERP tem lá uma estrutura, de acordo com o manual da Receita Federal,
+
+25
+00:02:02.500 --> 00:02:05.500
+que TI já elaborou, que o seu software já elaborou.
+
+26
+00:02:05.500 --> 00:02:11.500
+Então, quando você está praticando a sua contabilidade, importando os seus arquivos, etc.,
+
+27
+00:02:11.500 --> 00:02:14.500
+já está sendo construído a sua ECD.
+
+28
+00:02:14.500 --> 00:02:15.500
+Perfeito?
+
+29
+00:02:15.500 --> 00:02:18.500
+Então, a ECD nós construímos diariamente.
+
+30
+00:02:18.500 --> 00:02:22.500
+Quando chega no período agora, nós vamos importar esses dados.
+
+31
+00:02:22.500 --> 00:02:24.500
+Por isso, nós não vamos trabalhar na parte de TI.
+
+32
+00:02:24.500 --> 00:02:25.500
+Não, não é isso.
+
+33
+00:02:25.500 --> 00:02:26.500
+Esse é o objetivo aqui.
+
+34
+00:02:26.500 --> 00:02:30.500
+Essa parte de TI é outra história, que é parametrização, etc.
+
+35
+00:02:30.500 --> 00:02:33.500
+Mas nós vamos comentar o curso de uma maneira geral.
+
+36
+00:02:33.500 --> 00:02:40.500
+A contabilidade, os principais arquivos, onde se encontram as demonstrações.
+
+37
+00:02:40.500 --> 00:02:43.500
+Enfim, nós vamos detalhar tudo isso ao longo do nosso curso.
+
+38
+00:02:43.500 --> 00:02:45.500
+Exatamente isso.
+
+39
+00:02:45.500 --> 00:02:50.500
+Qualidade e integridade das informações que nós vamos prestar.
+
+40
+00:02:50.500 --> 00:02:54.500
+Então, é para isso que nós vamos chamar a sua atenção nesse treinamento de hoje.
+
+41
+00:02:54.500 --> 00:03:01.500
+O treinamento do ECD SPED Contábil 2026, ou seja, a ECD também conhecida como SPED Contábil,
+
+42
+00:03:01.500 --> 00:03:03.500
+foi estruturado para entender o quê?
+
+43
+00:03:03.500 --> 00:03:07.500
+As demandas, tanto de profissionais que já têm uma certa experiência,
+
+44
+00:03:07.500 --> 00:03:13.500
+quanto aqueles que estão iniciando na prática, na escrituração contábil digital.
+
+45
+00:03:13.500 --> 00:03:17.500
+Que, como nós falamos, está em vigor desde 2010.
+
+46
+00:03:17.500 --> 00:03:19.500
+Já estamos em 2026.
+
+47
+00:03:19.500 --> 00:03:23.500
+Então, nós já estamos indo para 16 anos que ela está totalmente em vigor.
+
+48
+00:03:23.500 --> 00:03:25.500
+Ela está totalmente eletrônica.
+
+49
+00:03:25.500 --> 00:03:32.500
+Facilitando a vida dos contadores e, consequentemente, facilitando a vida dos nossos órgãos fiscais.
+
+50
+00:03:32.500 --> 00:03:40.500
+Como nós vamos detalhar já já quais são os benefícios desse sistema eletrônico de dados.
+
+51
+00:03:40.500 --> 00:03:46.500
+Com base no Layout vigente, nós estamos na atualidade no Layout 9.
+
+52
+00:03:46.500 --> 00:03:52.500
+E na versão atual do Programa Gerador de Escrituração, conhecemos como PGE.
+
+53
+00:03:53.500 --> 00:03:57.500
+10.3.5, esta é a versão atual.
+
+54
+00:03:57.500 --> 00:04:02.500
+O curso percorre de forma prática as principais funcionalidades do sistema.
+
+55
+00:04:02.500 --> 00:04:08.500
+Nós vamos detalhar explorando menus, registros e respectivos cruzamentos de dados,
+
+56
+00:04:08.500 --> 00:04:11.500
+exigindo pelo ambiente do SPED.
+
+57
+00:04:11.500 --> 00:04:14.500
+E, obviamente, eu vou estar dando as dicas práticas.
+
+58
+00:04:14.500 --> 00:04:19.500
+Hoje eu sou consultor de empresa, visito as empresas e a gente pega os principais erros.
+
+59
+00:04:19.500 --> 00:04:23.500
+Então, vou trazer o chão de fábrica para essa nossa aula para vocês também.
+
+60
+00:04:23.500 --> 00:04:31.500
+Como objetivo específico, o curso busca proporcionar a compreensão da estrutura,
+
+61
+00:04:31.500 --> 00:04:39.500
+da finalidade e da obrigatoriedade da escrituração contábil e digital no conceito do SPED.
+
+62
+00:04:39.500 --> 00:04:43.500
+Ou seja, quais são as empresas que são obrigadas a entregar a ECD?
+
+63
+00:04:43.500 --> 00:04:45.500
+São todas as empresas?
+
+64
+00:04:45.500 --> 00:04:47.500
+Nós vamos estar comentando no detalhe.
+
+65
+00:04:47.500 --> 00:04:49.500
+Trouxemos isso no nosso material.
+
+66
+00:04:49.500 --> 00:04:53.500
+Bem como identificar as pessoas jurídicas obrigadas,
+
+67
+00:04:53.500 --> 00:04:56.500
+e dispensadas da entrega da ECD.
+
+68
+00:04:56.500 --> 00:04:59.500
+Então, nós vamos estar dando algumas dicas importantes,
+
+69
+00:04:59.500 --> 00:05:02.500
+mesmo que você não tenha obrigatoriedade,
+
+70
+00:05:02.500 --> 00:05:06.500
+qual o procedimento que você pode estar adotando para a sua empresa,
+
+71
+00:05:06.500 --> 00:05:09.500
+para o seu empregador, para o seu cliente.
+
+72
+00:05:09.500 --> 00:05:13.500
+Esse é o nosso objetivo, trazer esses detalhes para vocês.
+
+73
+00:05:13.500 --> 00:05:19.500
+Portanto, ao longo desse treinamento, será analisado o quê?
+
+74
+00:05:19.500 --> 00:05:22.500
+A composição do arquivo digital da ECD.
+
+75
+00:05:22.500 --> 00:05:27.500
+Incluindo quais são os blocos, quais são os registros, layout,
+
+76
+00:05:27.500 --> 00:05:33.500
+além da aplicação adequada das regras de escrituração contábil,
+
+77
+00:05:33.500 --> 00:05:37.500
+conforme a legislação vigente e as normas técnicas que existem no nosso país.
+
+78
+00:05:37.500 --> 00:05:41.500
+Então, nós vamos estar abordando isso ao longo da aula de hoje.
+
+79
+00:05:41.500 --> 00:05:45.500
+Também serão desenvolvidas habilidades para a utilização do PVA ou PGE,
+
+80
+00:05:45.500 --> 00:05:47.500
+Programa Validador e Assinador,
+
+81
+00:05:47.500 --> 00:05:51.500
+com foco na realização de validações, identificação,
+
+82
+00:05:51.500 --> 00:05:54.500
+correção de erros e inconsistência mais recorrentes.
+
+83
+00:05:54.500 --> 00:05:59.500
+O curso ainda aborda os cruzamentos da ECD com outras obrigações acessórias,
+
+84
+00:05:59.500 --> 00:06:01.500
+especialmente a ECF.
+
+85
+00:06:01.500 --> 00:06:05.500
+E aqui a gente tem uma crítica construtiva, obviamente,
+
+86
+00:06:05.500 --> 00:06:08.500
+que a gente já faz há muito tempo.
+
+87
+00:06:08.500 --> 00:06:14.500
+Uma vez que uma depende da outra, por que não fundir em uma única obrigação?
+
+88
+00:06:14.500 --> 00:06:18.500
+Por que nós temos que ter duas, uma fiscal e outra contábil?
+
+89
+00:06:18.500 --> 00:06:20.500
+Então, nós temos que ter muita atenção,
+
+90
+00:06:20.500 --> 00:06:26.500
+porque toda a contabilidade que eu estou transmitindo serve de base para a elaboração da ECF.
+
+91
+00:06:26.500 --> 00:06:29.500
+Portanto, cruzamento de dados é inevitável.
+
+92
+00:06:29.500 --> 00:06:34.500
+Nós vamos estar dando uma dica de ouro para vocês na elaboração da ECD,
+
+93
+00:06:34.500 --> 00:06:40.500
+justamente para evitar qualquer percalço lá na ECF.
+
+94
+00:06:40.500 --> 00:06:42.500
+Então, nós vamos estar dando uma dica importante.
+
+95
+00:06:42.500 --> 00:06:45.500
+Então, vamos destacar os impactos das informações contábeis
+
+96
+00:06:45.500 --> 00:06:48.500
+no ambiente de fiscalização digital,
+
+97
+00:06:48.500 --> 00:06:49.500
+que é o que nós temos hoje,
+
+98
+00:06:49.500 --> 00:06:52.500
+e muito avançado, diga-se de passagem.
+
+99
+00:06:52.500 --> 00:06:55.500
+Por fim, serão apresentadas boas práticas voltando à segurança,
+
+100
+00:06:55.500 --> 00:07:00.500
+à rastreabilidade e à conformidade da entrega da obrigação,
+
+101
+00:07:00.500 --> 00:07:05.500
+preparando os profissionais para sustentar a escrituração contábil
+
+102
+00:07:05.500 --> 00:07:09.500
+em processos de auditoria e fiscalização eletrônica.
+
+103
+00:07:09.500 --> 00:07:12.500
+Então, todos esses dados são da empresa,
+
+104
+00:07:12.500 --> 00:07:16.500
+de maneira eletrônica, que nós temos que entregar da melhor maneira possível.

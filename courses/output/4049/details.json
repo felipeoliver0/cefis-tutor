@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 4049,
+    "title": "E-commerce transfronteiriço",
+    "subtitle": "Impacto das Novas Regras de tributação",
+    "summary": "Aprenda os fundamentos e a prática de como calcular a alíquota de tributação no comércio eletrônico transfronteiriço, como identificar e declarar mercadorias importadas e exportadas e como se preparar para as novas regras de tributação. Você também aprenderá sobre os principais conceitos e ferramentas para o sucesso no E-commerce transfronteiriço, incluindo a importância da origem do e-commerce, a comparação entre B2B e B2C, a utilização do Programa Remessa Conforme e a necessidade de reconhecimento internacional. Além disso, você irá aprender a lidar com questões práticas como a declaração de mercadorias importadas e exportadas, a utilização de couriers e correios, e a compreensão de conceitos como DIR e DSI. Com este curso, você estará preparado para enfrentar os desafios do E-commerce transfronteiriço e aproveitar as oportunidades de negócios em um mercado global.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/uploads-v3/7bf6b885-7589-4090-943d-2c876412426f-thumbnail.png",
+    "goals": [
+      "O objetivo do curso E-commerce transfronteiriço: Impacto das Novas Regras de tributação é a capacitação para a aplicação prática de como se adaptar às novas regras de tributação no E-commerce transfronteiriço, incluindo a identificação e declaração de mercadorias importadas e exportadas, e a preparação para as novas regras de tributação."
+    ],
+    "teacher": {
+      "id": 577003,
+      "name": "Raquel Cavalcanti",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/profile-images/ee26908bf9629eeb4b37dac350f4754a1653768522.jpeg"
+    },
+    "duration": 11245,
+    "keywords": "transfronteiriço;tributaçao;comércio;tributação",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 49,
+    "materialCount": 1,
+    "hasMaterials": true,
+    "categories": [
+      1,
+      2
+    ],
+    "watchLater": false,
+    "ratingQuantity": 21,
+    "averageRating": 9.14,
+    "practiceAverage": 9,
+    "trailer": {
+      "id": "7df9a6b5-ef04-4171-9097-30369ce5f7e3",
+      "thumbnails": null,
+      "status": "ready",
+      "streamSources": [
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7df9a6b5-ef04-4171-9097-30369ce5f7e3/360.mp4",
+          "height": 360
+        },
+        {
+          "quality": "sd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7df9a6b5-ef04-4171-9097-30369ce5f7e3/480.mp4",
+          "height": 480
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7df9a6b5-ef04-4171-9097-30369ce5f7e3/720.mp4",
+          "height": 720
+        },
+        {
+          "quality": "hd",
+          "type": "video/mp4",
+          "link_secure": "https://cdn2.cefis.com.br/vod/7df9a6b5-ef04-4171-9097-30369ce5f7e3/1080.mp4",
+          "height": 1080
+        }
+      ],
+      "createdAt": "2025-11-13T16:27:35.000Z",
+      "updatedAt": "2025-11-13T16:27:34.000Z"
+    },
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2025-11-03T11:45:31.000Z",
+    "recordedAt": "2025-10-10T00:00:00.000Z",
+    "createdAt": "2025-10-14T14:11:51.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 473234,
+  "title": "Lista de Serviço da LC 116-2003",
+  "position": 21,
+  "duration": 306,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/1bd3a584-cfd7-49e2-b5ee-0b6b508ffae0/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1bd3a584-cfd7-49e2-b5ee-0b6b508ffae0/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1bd3a584-cfd7-49e2-b5ee-0b6b508ffae0/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1bd3a584-cfd7-49e2-b5ee-0b6b508ffae0/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/1bd3a584-cfd7-49e2-b5ee-0b6b508ffae0/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

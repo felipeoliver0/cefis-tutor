@@ -1,0 +1,177 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:05.440
+Coloquei alguns casos para vocês sobre alguns cenários que a gente está vendo ainda hoje.
+
+3
+00:00:05.440 --> 00:00:09.539
+Cenário 1, município mantenha o emissor próprio.
+
+4
+00:00:09.539 --> 00:00:11.839
+O que vocês vão ver desse lado aí?
+
+5
+00:00:11.839 --> 00:00:21.760
+Transcrição obrigatória, cada documento fiscal emitido localmente deve ser traduzido de DEPARA para o padrão nacional.
+
+6
+00:00:21.760 --> 00:00:26.920
+Então, se o seu município manteve a utilização do seu emissor,
+
+7
+00:00:26.920 --> 00:00:32.320
+ele internamente precisa ter desenvolvido uma infraestrutura para fazer um DEPARA.
+
+8
+00:00:32.320 --> 00:00:41.840
+O contribuinte ainda utiliza o emissor do município, só que automaticamente o padrão nacional é alimentado.
+
+9
+00:00:41.840 --> 00:00:49.539
+Compartilhamento via API, então o sistema municipal envia automaticamente as informações para o portal nacional.
+
+10
+00:00:49.539 --> 00:00:50.939
+Por que ele faz isso?
+
+11
+00:00:50.939 --> 00:00:56.920
+Porque só pelo portal nacional que a gente vai então levar para apuração assistida.
+
+12
+00:00:56.920 --> 00:01:04.459
+Responsabilidade pela conformidade, então o município garante que a transcrição fique seguindo as regras dos negócios
+
+13
+00:01:04.459 --> 00:01:07.799
+e trazendo essas informações para dentro da apuração.
+
+14
+00:01:07.799 --> 00:01:11.840
+Essa integração via transição e compartilhamento.
+
+15
+00:01:11.840 --> 00:01:14.879
+No fluxo do cenário 1, como que acontece?
+
+16
+00:01:14.879 --> 00:01:22.719
+Emissão dentro do próprio município, vai existir uma transcrição do DEPARA,
+
+17
+00:01:22.719 --> 00:01:26.420
+validação e assinatura sobre aplicação do negócio, identificação do que foi feito,
+
+18
+00:01:26.420 --> 00:01:26.920
+validação e assinatura sobre aplicação do negócio, identificação do que foi feito,
+
+19
+00:01:26.920 --> 00:01:29.680
+foi lançado dentro do próprio município.
+
+20
+00:01:29.680 --> 00:01:34.560
+O município envia o XML para o portal nacional.
+
+21
+00:01:34.560 --> 00:01:42.340
+Existe uma recepção já preparada para receber essas informações e aí fica no repositório local.
+
+22
+00:01:42.340 --> 00:01:48.879
+Dentro desse repositório local vai ser feito uma análise via intérprete.
+
+23
+00:01:48.879 --> 00:01:53.980
+Do CBS é o ROC e do IBS é o IPA.
+
+24
+00:01:53.980 --> 00:01:56.920
+É o intérprete que vai então trazer as informações
+
+25
+00:01:56.920 --> 00:01:59.359
+para dentro da apuração assistida.
+
+26
+00:01:59.359 --> 00:02:03.359
+Esse é o fluxo para que você consiga chegar na apuração assistida
+
+27
+00:02:03.359 --> 00:02:07.200
+e trazer a arrecadação do seu contribuinte.
+
+28
+00:02:07.200 --> 00:02:11.560
+Quais são as vantagens e as desvantagens desse cenário?
+
+29
+00:02:11.560 --> 00:02:16.939
+Ou seja, do cenário onde o município continua no seu emissor.
+
+30
+00:02:16.939 --> 00:02:19.680
+preservação do ecossistema local.
+
+31
+00:02:19.680 --> 00:02:22.020
+Para o município nada muda.
+
+32
+00:02:22.020 --> 00:02:26.419
+garantia então a conformidade interna.
+
+33
+00:02:26.419 --> 00:02:28.419
+Nada muda.
+
+34
+00:02:28.419 --> 00:02:32.360
+Menor impacto para o contribuinte porque os usuários já estão acostumados
+
+35
+00:02:32.360 --> 00:02:35.759
+a utilizar a plataforma e autonomia de gestão.
+
+36
+00:02:35.759 --> 00:02:41.199
+Então o município mantém um controle principalmente sobre a arrecadação do ISS.
+
+37
+00:02:41.199 --> 00:02:42.439
+Qual que é a desvantagem?
+
+38
+00:02:42.439 --> 00:02:49.439
+Alta complexidade técnica porque é necessário ter uma API para trazer para o repositório.
+
+39
+00:02:49.439 --> 00:02:55.919
+Risco de rejeição porque pode ser que chegue no portal nacional com problema.
+
+40
+00:02:56.419 --> 00:03:00.360
+Essas informações e duplicidade documental.
+
+41
+00:03:00.360 --> 00:03:08.060
+Lembra que eu falei para vocês que hoje nos bastidores ainda existem empresas emitindo duas vezes o documento
+
+42
+00:03:08.060 --> 00:03:14.500
+por achar que existe uma obrigatoriedade do portal nacional e da emissão do documento no portal do município.
+
+43
+00:03:14.500 --> 00:03:18.139
+Então existe uma duplicidade documental que pode acontecer.
+
+44
+00:03:18.139 --> 00:03:26.419
+Então é uma análise crítica do que pode estar acontecendo desse lado caso o seu município tenha feito a questão de...
+
+45
+00:03:26.419 --> 00:03:31.919
+estar dentro da sua própria plataforma e validar as informações via API.

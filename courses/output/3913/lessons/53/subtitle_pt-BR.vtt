@@ -1,0 +1,917 @@
+WEBVTT
+
+1
+00:00:01.240 --> 00:00:01.250
+que
+
+2
+00:00:01.519 --> 00:00:03.670
+que eu precisaria melhorar nesse exercício,
+
+3
+00:00:04.269 --> 00:00:06.030
+abrir aquela receita de vendas,
+
+4
+00:00:06.110 --> 00:00:07.260
+botar a receita
+
+5
+00:00:07.550 --> 00:00:11.359
+de serviço e o custo do serviço pra ficar show de bola
+
+6
+00:00:11.590 --> 00:00:16.068
+e também recalcular os impostos de renda corretamente para ficar certinho.
+
+7
+00:00:16.389 --> 00:00:16.629
+Tá,
+
+8
+00:00:16.989 --> 00:00:19.719
+mas como objetivo aqui é vocês entenderem o mecanismo,
+
+9
+00:00:20.379 --> 00:00:20.389
+né?
+
+10
+00:00:20.989 --> 00:00:22.469
+Eu creio que aqui foi cumprido,
+
+11
+00:00:22.750 --> 00:00:22.920
+né?
+
+12
+00:00:23.629 --> 00:00:24.030
+Ou seja,
+
+13
+00:00:24.110 --> 00:00:26.709
+nós temos aqui o nosso resultado do exercício.
+
+14
+00:00:27.590 --> 00:00:29.389
+verificamos todas as transações.
+
+15
+00:00:29.590 --> 00:00:31.659
+Fizemos todos os lançamentos,
+
+16
+00:00:32.310 --> 00:00:33.909
+lançamos razonetes,
+
+17
+00:00:34.630 --> 00:00:36.069
+puxamos o balancete,
+
+18
+00:00:36.110 --> 00:00:37.020
+viu o que bateu
+
+19
+00:00:37.430 --> 00:00:38.950
+e aí montei a DRE.
+
+20
+00:00:39.819 --> 00:00:40.970
+com as contas de resultado.
+
+21
+00:00:41.419 --> 00:00:45.119
+Todas as outras contas que sobraram do balancete são contas patrimoniais
+
+22
+00:00:45.220 --> 00:00:46.939
+que eu vou levar para o nosso balanço.
+
+23
+00:00:47.619 --> 00:00:48.290
+Olha lá.
+
+24
+00:00:49.049 --> 00:00:50.529
+Aí a gente vem para o nosso balanço.
+
+25
+00:00:50.569 --> 00:00:52.049
+Olha aí para fechar com chave de ouro,
+
+26
+00:00:52.130 --> 00:00:52.369
+né?
+
+27
+00:00:53.200 --> 00:00:54.349
+Esse é o nosso balanço.
+
+28
+00:00:55.360 --> 00:00:56.110
+Então
+
+29
+00:00:56.639 --> 00:00:58.279
+que que que nós temos aqui?
+
+30
+00:00:58.680 --> 00:01:01.040
+Ativo circulante que nós já aprendemos,
+
+31
+00:01:01.119 --> 00:01:01.369
+né?
+
+32
+00:01:02.000 --> 00:01:02.610
+Caixa.
+
+33
+00:01:03.740 --> 00:01:04.059
+né?
+
+34
+00:01:04.830 --> 00:01:07.970
+Caixa não tem 1000000 na caixa Esse 1000000 aqui tá errado no caixa
+
+35
+00:01:08.500 --> 00:01:09.739
+Não tem esse 1000000 no caixa,
+
+36
+00:01:09.779 --> 00:01:10.180
+não
+
+37
+00:01:10.339 --> 00:01:10.900
+Acho que essa é.
+
+38
+00:01:10.940 --> 00:01:11.470
+Acho que essa
+
+39
+00:01:12.580 --> 00:01:14.489
+eh o caixa que sobrou um saldo de
+
+40
+00:01:15.099 --> 00:01:15.910
+14000,
+
+41
+00:01:15.940 --> 00:01:17.059
+se não me falha a memória.
+
+42
+00:01:17.800 --> 00:01:19.260
+14 não menos,
+
+43
+00:01:19.379 --> 00:01:19.389
+né?
+
+44
+00:01:19.400 --> 00:01:20.040
+10000
+
+45
+00:01:20.239 --> 00:01:21.949
+Acho que é 10000 aqui pessoal tá
+
+46
+00:01:22.279 --> 00:01:23.389
+O caixa não é 1000000,
+
+47
+00:01:23.400 --> 00:01:24.860
+é 10000 e pouco tinha 14 nós
+
+48
+00:01:25.680 --> 00:01:26.599
+gastamos quatro,
+
+49
+00:01:26.680 --> 00:01:26.919
+né?
+
+50
+00:01:27.360 --> 00:01:28.269
+Banco do Brasil
+
+51
+00:01:28.879 --> 00:01:30.760
+Banco Itaú clientes não,
+
+52
+00:01:31.199 --> 00:01:33.000
+esse aqui é um balanço normal.
+
+53
+00:01:33.080 --> 00:01:36.400
+Não é o balanço que nós efetuamos todas as lançamento só pra vocês terem uma ideia,
+
+54
+00:01:36.480 --> 00:01:36.639
+né?
+
+55
+00:01:37.120 --> 00:01:38.260
+É um balanço geral
+
+56
+00:01:38.440 --> 00:01:38.709
+tá.
+
+57
+00:01:39.430 --> 00:01:40.250
+Não é o não
+
+58
+00:01:40.470 --> 00:01:42.150
+deveria ser o valor do dos números,
+
+59
+00:01:42.209 --> 00:01:43.519
+mas eu coloquei aqui um outro balanço.
+
+60
+00:01:43.830 --> 00:01:44.029
+Mas,
+
+61
+00:01:44.150 --> 00:01:44.470
+enfim,
+
+62
+00:01:44.750 --> 00:01:46.069
+só para a gente entender aqui,
+
+63
+00:01:46.389 --> 00:01:46.589
+né?
+
+64
+00:01:46.879 --> 00:01:48.830
+Não é o balanço do exercício em si.
+
+65
+00:01:49.110 --> 00:01:49.500
+Tá
+
+66
+00:01:49.830 --> 00:01:50.830
+Aqui é um outro balanço,
+
+67
+00:01:50.870 --> 00:01:51.550
+mas né?
+
+68
+00:01:51.870 --> 00:01:52.790
+Só para a gente entender,
+
+69
+00:01:52.870 --> 00:01:53.099
+né?
+
+70
+00:01:53.519 --> 00:01:55.519
+Eu tenho aqui um balanço da Lardo Sertão.
+
+71
+00:01:55.720 --> 00:01:56.599
+São outros valores,
+
+72
+00:01:56.680 --> 00:01:56.919
+tá,
+
+73
+00:01:57.080 --> 00:01:58.480
+mas o jeitão é o mesmo.
+
+74
+00:01:58.919 --> 00:01:59.309
+Tá.
+
+75
+00:01:59.720 --> 00:02:01.680
+Se vocês quiserem depois fechar o balanço,
+
+76
+00:02:02.120 --> 00:02:04.370
+vocês peguem todos os
+
+77
+00:02:05.110 --> 00:02:06.080
+os pega o balancete,
+
+78
+00:02:06.400 --> 00:02:08.440
+tira todas aquelas contas do resultado.
+
+79
+00:02:08.720 --> 00:02:09.679
+O que sobrou é o balanço.
+
+80
+00:02:09.729 --> 00:02:10.570
+Vocês levam o balanço,
+
+81
+00:02:10.720 --> 00:02:11.029
+tá,
+
+82
+00:02:11.360 --> 00:02:13.880
+mas vai ficar semelhante a esse aqui ó
+
+83
+00:02:14.160 --> 00:02:19.529
+um caixa de 1000000 Banco do Brasil Banco Itaú clientes estoque de mercadoria
+
+84
+00:02:19.929 --> 00:02:21.270
+impostos a recuperar.
+
+85
+00:02:21.630 --> 00:02:23.350
+Aí eu tenho o ativo não circulante,
+
+86
+00:02:23.429 --> 00:02:25.630
+realizava a longo prazo investimento
+
+87
+00:02:25.919 --> 00:02:27.139
+ativo imobilizado,
+
+88
+00:02:27.589 --> 00:02:28.750
+menos a depreciação.
+
+89
+00:02:28.789 --> 00:02:30.509
+Olha como aparece a depreciação
+
+90
+00:02:30.750 --> 00:02:32.970
+Ela é credorra dentro do ativo.
+
+91
+00:02:33.029 --> 00:02:33.580
+Tá vendo
+
+92
+00:02:33.990 --> 00:02:37.380
+o ativo intangível e me dá o total de 29000
+
+93
+00:02:37.710 --> 00:02:39.559
+No passivo tem fornecedores,
+
+94
+00:02:39.669 --> 00:02:42.029
+contas a pagar energia elétrica a pagar
+
+95
+00:02:42.309 --> 00:02:43.550
+imposto de renda a pagar.
+
+96
+00:02:43.710 --> 00:02:45.690
+Você viu que eu botei os valores aqui todos cheio,
+
+97
+00:02:45.789 --> 00:02:47.429
+apenas servir como exemplo.
+
+98
+00:02:47.789 --> 00:02:50.300
+Não é o balanço do resultado lá tá.
+
+99
+00:02:50.910 --> 00:02:52.990
+Então eu tenho aqui eu coloquei tudo redondinho só
+
+100
+00:02:52.990 --> 00:02:55.029
+para demonstrar pra vocês onde ficam as contas,
+
+101
+00:02:55.110 --> 00:02:55.259
+né?
+
+102
+00:02:55.789 --> 00:02:56.710
+No não circulante,
+
+103
+00:02:56.750 --> 00:02:57.630
+empréstimo bancário,
+
+104
+00:02:57.750 --> 00:02:59.009
+financiamento BNDES,
+
+105
+00:02:59.559 --> 00:02:59.750
+né?
+
+106
+00:03:00.199 --> 00:03:02.429
+São tudo o que eu tenho a pagar e o patrimônio líquido,
+
+107
+00:03:02.470 --> 00:03:08.210
+capital social e olha o capital integralizar como entra lá negativo Tá vendo
+
+108
+00:03:08.630 --> 00:03:10.869
+capital integralizar significa
+
+109
+00:03:11.270 --> 00:03:12.539
+que desses né?
+
+110
+00:03:13.429 --> 00:03:15.539
+Falta sócios de integralizar ainda 1000000,
+
+111
+00:03:15.750 --> 00:03:15.869
+né?
+
+112
+00:03:16.630 --> 00:03:17.179
+Perfeito.
+
+113
+00:03:18.289 --> 00:03:19.369
+aí eu vou ter aqui,
+
+114
+00:03:19.490 --> 00:03:19.690
+né?
+
+115
+00:03:19.970 --> 00:03:23.449
+Lucros ou prejuízo acumulado 3000000 batendo o balanço,
+
+116
+00:03:23.529 --> 00:03:23.720
+né?
+
+117
+00:03:24.210 --> 00:03:25.610
+Então aqui é um outro balanço,
+
+118
+00:03:25.690 --> 00:03:27.929
+mas o objetivo é mostrar para vocês como,
+
+119
+00:03:28.330 --> 00:03:28.539
+né?
+
+120
+00:03:28.729 --> 00:03:30.720
+Apresenta o balanço no final,
+
+121
+00:03:30.850 --> 00:03:30.970
+né?
+
+122
+00:03:31.050 --> 00:03:31.830
+Do exercício
+
+123
+00:03:32.490 --> 00:03:32.919
+Tá
+
+124
+00:03:33.169 --> 00:03:33.889
+Então fica aí,
+
+125
+00:03:33.970 --> 00:03:34.089
+né?
+
+126
+00:03:34.169 --> 00:03:36.410
+Uma lição de casa para vocês bem interessante,
+
+127
+00:03:36.490 --> 00:03:36.720
+né?
+
+128
+00:03:37.649 --> 00:03:39.039
+pra vocês aí depois,
+
+129
+00:03:39.509 --> 00:03:39.520
+né?
+
+130
+00:03:39.529 --> 00:03:40.889
+Elaborar o balanço,
+
+131
+00:03:41.449 --> 00:03:41.649
+né?
+
+132
+00:03:42.089 --> 00:03:44.750
+Aproveita esse balanço aqui elaborar o balanço
+
+133
+00:03:45.050 --> 00:03:47.179
+com essas transações aqui tá vendo ó
+
+134
+00:03:47.850 --> 00:03:47.970
+então,
+
+135
+00:03:48.050 --> 00:03:48.529
+por exemplo,
+
+136
+00:03:48.610 --> 00:03:50.210
+pra vocês elaborar o balanço lá,
+
+137
+00:03:51.130 --> 00:03:52.580
+o que que vem nesse balanço
+
+138
+00:03:53.369 --> 00:03:55.330
+Capital integralizar 160000.
+
+139
+00:03:55.339 --> 00:03:57.809
+A gente já sabe que é no patrimônio líquido negativo
+
+140
+00:03:58.369 --> 00:04:01.050
+capital social 1000000 lá dentro do patrimônio.
+
+141
+00:04:02.020 --> 00:04:04.149
+Banco do Brasil Aivo circulante,
+
+142
+00:04:04.580 --> 00:04:04.729
+né?
+
+143
+00:04:04.779 --> 00:04:07.850
+Imóvel ativo imobilizado lá no ativo
+
+144
+00:04:09.539 --> 00:04:12.490
+Banco Itaú Aivo circulante logo abaixo do Banco do Brasil
+
+145
+00:04:13.259 --> 00:04:16.290
+no balanço você pode botar bancos contra movimento somar os dois
+
+146
+00:04:17.140 --> 00:04:19.029
+veículo ativo mobilizado.
+
+147
+00:04:19.600 --> 00:04:22.250
+contas a pagar passivo circulante
+
+148
+00:04:22.640 --> 00:04:25.559
+estoque de mercadoria ativo circulante,
+
+149
+00:04:26.040 --> 00:04:28.570
+fornecedores passivo circulante,
+
+150
+00:04:28.959 --> 00:04:29.600
+clientes ou contas a receber
+
+151
+00:04:31.640 --> 00:04:32.920
+ativo circulante,
+
+152
+00:04:33.399 --> 00:04:33.570
+né?
+
+153
+00:04:34.200 --> 00:04:36.790
+Receita de venda não precisa porque tá na DRE
+
+154
+00:04:37.200 --> 00:04:39.910
+Receita de serviço não precisa porque tá na DRE
+
+155
+00:04:40.359 --> 00:04:42.459
+custo das mercadorias está na DRE
+
+156
+00:04:42.959 --> 00:04:44.829
+Caixa ou fundo fixo de caixa
+
+157
+00:04:45.000 --> 00:04:47.790
+lá no ativo circulante 10750.
+
+158
+00:04:48.529 --> 00:04:51.320
+despesa com Copa EDRE resultado,
+
+159
+00:04:51.890 --> 00:04:52.299
+né?
+
+160
+00:04:53.760 --> 00:04:55.480
+de energia elétrica foi resultado.
+
+161
+00:04:55.600 --> 00:04:57.230
+A energia elétrica pagar isso sim,
+
+162
+00:04:57.279 --> 00:04:58.079
+vai para o balanço 1230
+
+163
+00:05:00.450 --> 00:05:02.600
+Despesa com prolabore é despesa,
+
+164
+00:05:02.839 --> 00:05:03.880
+não vai para o balanço
+
+165
+00:05:04.279 --> 00:05:05.309
+prolabore a pagar,
+
+166
+00:05:05.320 --> 00:05:07.239
+vai para o balanço passivo circulante.
+
+167
+00:05:07.799 --> 00:05:10.149
+Despesa com depreciação foi para o resultado.
+
+168
+00:05:10.660 --> 00:05:14.269
+Depreciação acumulada de imóveis é redutora do imóvel.
+
+169
+00:05:14.779 --> 00:05:17.940
+Depreciação acumulada de veículo é redutora do veículo.
+
+170
+00:05:18.820 --> 00:05:20.649
+Provisão para o Imposto de renda
+
+171
+00:05:20.779 --> 00:05:24.220
+é o passivo é o melhor resultado despesa,
+
+172
+00:05:24.420 --> 00:05:24.579
+né?
+
+173
+00:05:24.700 --> 00:05:25.850
+Despesa no débito.
+
+174
+00:05:26.239 --> 00:05:28.600
+e eu tenho o Imposto de renda a pagar no passivo.
+
+175
+00:05:29.040 --> 00:05:30.869
+Então vocês vão montar o balanço.
+
+176
+00:05:31.160 --> 00:05:32.510
+A diferença
+
+177
+00:05:32.839 --> 00:05:33.549
+vai ser
+
+178
+00:05:33.760 --> 00:05:38.519
+exatamente o resultado meia 74973 que vocês
+
+179
+00:05:38.519 --> 00:05:40.859
+vão contabilizar em lucros ou prejuízos acumulado.
+
+180
+00:05:41.540 --> 00:05:43.040
+Experimenta fazer esse exercício,
+
+181
+00:05:43.119 --> 00:05:43.920
+bate o balanço,
+
+182
+00:05:43.959 --> 00:05:45.119
+o balanço tem que bater.
+
+183
+00:05:45.619 --> 00:05:47.089
+nós fizemos todos os lançamentos.
+
+184
+00:05:47.140 --> 00:05:49.679
+Só faltou montar o balanço desse exercício
+
+185
+00:05:49.940 --> 00:05:54.480
+e vocês têm esse balanço como exemplo para você estar montando.
+
+186
+00:05:54.489 --> 00:05:54.869
+Tá,
+
+187
+00:05:55.570 --> 00:05:56.149
+ou seja,
+
+188
+00:05:56.929 --> 00:05:59.489
+lucros e prejuízos acumulados é que vai fechar o balanço.
+
+189
+00:05:59.570 --> 00:06:00.570
+Por isso que ele vem pra cá,
+
+190
+00:06:01.290 --> 00:06:02.130
+entendendo gente,
+
+191
+00:06:02.450 --> 00:06:02.720
+né?
+
+192
+00:06:03.290 --> 00:06:03.690
+Bacana.
+
+193
+00:06:03.809 --> 00:06:05.730
+Então fica esse balanço aqui como exemplo,
+
+194
+00:06:06.250 --> 00:06:06.420
+né?
+
+195
+00:06:06.489 --> 00:06:09.640
+Para vocês elaborar o balanço desse exercício que nós fizemos
+
+196
+00:06:09.929 --> 00:06:12.820
+Vocês vão ver como vai ser show de bola e vai bater
+
+197
+00:06:13.329 --> 00:06:15.480
+total do ativo com total de passivo.
+
+198
+00:06:16.320 --> 00:06:16.630
+né?
+
+199
+00:06:17.350 --> 00:06:20.320
+Se vocês separando no balanço só vão contra os patrimoniais,
+
+200
+00:06:20.399 --> 00:06:21.519
+não vão contra o resultado
+
+201
+00:06:21.760 --> 00:06:22.609
+contra de resultado.
+
+202
+00:06:22.640 --> 00:06:24.940
+Está tudo lá na DRE que nós já separamos.
+
+203
+00:06:26.019 --> 00:06:26.029
+gente,
+
+204
+00:06:27.600 --> 00:06:29.839
+quanta coisa nós vimos hoje
+
+205
+00:06:30.079 --> 00:06:31.230
+na nossa aula
+
+206
+00:06:31.519 --> 00:06:31.989
+de
+
+207
+00:06:32.160 --> 00:06:33.959
+contabilidade para não contadores,
+
+208
+00:06:34.040 --> 00:06:34.239
+né?
+
+209
+00:06:34.880 --> 00:06:36.630
+Através da contabilidade,
+
+210
+00:06:36.929 --> 00:06:38.630
+lucro líquido apurado da DRE
+
+211
+00:06:39.079 --> 00:06:40.959
+meia 74903
+
+212
+00:06:41.359 --> 00:06:44.320
+Receita Federal aqui venda de mercadorias aqui
+
+213
+00:06:44.320 --> 00:06:46.089
+que nós calculamos no lucro presumido.
+
+214
+00:06:46.179 --> 00:06:47.359
+Se tivesse lucro presumido,
+
+215
+00:06:47.440 --> 00:06:47.589
+né?
+
+216
+00:06:48.040 --> 00:06:52.640
+Como que a gente calcula o valor do lucro a distribuir para os sócios
+
+217
+00:06:53.079 --> 00:06:54.320
+sem nenhuma tributação,
+
+218
+00:06:54.440 --> 00:06:54.649
+né?
+
+219
+00:06:55.200 --> 00:06:55.959
+Eu faço,
+
+220
+00:06:56.359 --> 00:06:58.160
+pego a receita de vendas de mercadoria,
+
+221
+00:06:58.239 --> 00:06:59.239
+aplico oito por cento,
+
+222
+00:06:59.359 --> 00:07:01.309
+que é uma taxa do lucro presumido.
+
+223
+00:07:02.869 --> 00:07:05.690
+O Imposto de renda no D T o Imposto de renda,
+
+224
+00:07:06.309 --> 00:07:07.709
+pego a receita de serviço,
+
+225
+00:07:07.750 --> 00:07:09.070
+calculo 32%,
+
+226
+00:07:09.149 --> 00:07:10.890
+que é uma base presumida.
+
+227
+00:07:11.390 --> 00:07:14.859
+Tiro o que eu já paguei no DS e eu posso distribuir para os meus sócios
+
+228
+00:07:15.250 --> 00:07:18.339
+171563
+
+229
+00:07:18.750 --> 00:07:20.260
+sem nenhuma tributação.

@@ -1,0 +1,485 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.460
+pessoal vou mostrar pra vocês agora um pouquinho da estrutura
+
+2
+00:00:04.469 --> 00:00:07.659
+do esocial como que a gente trabalha com o esocial,
+
+3
+00:00:07.670 --> 00:00:10.699
+Então a gente tem eventos iniciais e tabelas,
+
+4
+00:00:10.710 --> 00:00:14.420
+eventos não periódicos e eventos periódicos.
+
+5
+00:00:14.430 --> 00:00:17.360
+Tá os eventos iniciais e tabelas pessoal.
+
+6
+00:00:17.370 --> 00:00:22.020
+Cada evento do esocial ele é denominado por um s. Vou mostrar pra vocês depois.
+
+7
+00:00:22.030 --> 00:00:25.549
+Tipo assim dados do contribuinte é o S mil muito parecido com o Hef.
+
+8
+00:00:25.559 --> 00:00:26.659
+Eu não sei se vocês já ouviram falar.
+
+9
+00:00:26.670 --> 00:00:31.731
+Mas enfim, ah, os estabelecimentos físicos é o s mil e cinco tabelas de cargos,
+
+10
+00:00:31.740 --> 00:00:32.640
+cada uma desses.
+
+11
+00:00:32.651 --> 00:00:35.611
+Cada um desses pontos aqui ele tem um código
+
+12
+00:00:35.620 --> 00:00:39.011
+específico que é a tabela de referência do eSocial.
+
+13
+00:00:39.020 --> 00:00:43.250
+Esses eventos iniciais pessoal é a carga do esocial.
+
+14
+00:00:43.261 --> 00:00:46.491
+Então, por exemplo, eh pra eu poder trabalhar com o e social.
+
+15
+00:00:46.500 --> 00:00:50.631
+Quando eu for enviar as informações de folha, eu preciso ter as rubricas.
+
+16
+00:00:50.640 --> 00:00:51.131
+O que que são?
+
+17
+00:00:51.140 --> 00:00:55.020
+As rubricas são os eventos que são movimentados dentro da folha de pagamento.
+
+18
+00:00:55.030 --> 00:01:00.762
+Salário hora extra, falta vale transporte, adiantamento salarial,
+
+19
+00:01:00.771 --> 00:01:02.661
+desconto de vale refeição.
+
+20
+00:01:02.672 --> 00:01:07.281
+Tudo que acontece na folha de pagamento são chamados de rubricas.
+
+21
+00:01:07.291 --> 00:01:10.361
+Eu tenho que levar uma tabela aqui Oh!
+
+22
+00:01:10.372 --> 00:01:15.321
+Que são a cadê aqui tabelas de cargos aqui de vínculos empregatícios.
+
+23
+00:01:15.332 --> 00:01:17.722
+Eu tenho que carregar uma dessas tabelas iniciais,
+
+24
+00:01:17.732 --> 00:01:19.561
+que são as minhas tabelas de rubricas.
+
+25
+00:01:19.571 --> 00:01:21.781
+Não tá aqui pessoal, depois eu atualizo pra vocês.
+
+26
+00:01:21.791 --> 00:01:24.921
+Mas a tabela de rubricas é uma desse exemplo, por exemplo,
+
+27
+00:01:24.931 --> 00:01:30.273
+que vai nessa estrutura dos eventos iniciais e óbvio, o principal é o s mil,
+
+28
+00:01:30.282 --> 00:01:32.633
+que são os dados do contribuinte C N PJ.
+
+29
+00:01:32.642 --> 00:01:36.072
+Qual é o CNAE principal Endereço todas essas informações?
+
+30
+00:01:36.083 --> 00:01:38.672
+Tá Isso aqui é carregado uma única vez.
+
+31
+00:01:38.682 --> 00:01:42.142
+Quando você abre a empresa através do seu software de folha de pagamento,
+
+32
+00:01:42.152 --> 00:01:45.032
+ele vai alimentar essa carga de tabelas.
+
+33
+00:01:45.042 --> 00:01:50.112
+Tá eventos? Não periódicos pessoal, não periódicos.
+
+34
+00:01:50.123 --> 00:01:54.233
+Eu só vou ter esse movimento quando houver, de fato, uma situação.
+
+35
+00:01:54.242 --> 00:01:56.953
+Então, por exemplo, eu vou transmitir férias todo mês. Não.
+
+36
+00:01:56.962 --> 00:01:58.103
+Você só vai transmitir de férias.
+
+37
+00:01:58.113 --> 00:02:01.664
+Quando houver férias, eu vou transmitir rescisão todo mês. Não.
+
+38
+00:02:01.674 --> 00:02:04.183
+Você só vai transmitir rescisão quando houver rescisão.
+
+39
+00:02:04.194 --> 00:02:08.024
+Nesse caso, são os eventos. Não periódicos, né?
+
+40
+00:02:08.032 --> 00:02:11.863
+Que a gente não tem ele todo mês como os afastamentos, o aviso prévio,
+
+41
+00:02:11.873 --> 00:02:14.143
+os desligamentos, os eventos de s S t.
+
+42
+00:02:14.154 --> 00:02:16.744
+Ah, que eu só vou entregar, mandar os meus avisos,
+
+43
+00:02:16.753 --> 00:02:23.063
+os exames admissionais o cat somente quando houver a o e quando ocorrer o evento.
+
+44
+00:02:23.074 --> 00:02:28.895
+Tá os eventos periódicos pessoal, é aquele que eu tenho todo mês Então, por exemplo,
+
+45
+00:02:28.904 --> 00:02:30.615
+todo mês, eu tenho folha de pagamento,
+
+46
+00:02:30.625 --> 00:02:33.294
+então todo mês eu vou transmitir o mil e duzentos,
+
+47
+00:02:33.304 --> 00:02:36.455
+que é o s mil e duzentos que é o pagamento de benefícios.
+
+48
+00:02:36.464 --> 00:02:38.854
+Eu vou transmitir mensalmente as informações de Imposto
+
+49
+00:02:38.865 --> 00:02:41.294
+de renda de Folha Tudo isso vai agregado,
+
+50
+00:02:41.304 --> 00:02:43.494
+aí são as informações mensais.
+
+51
+00:02:43.505 --> 00:02:46.875
+Então essa é a estrutura do esocial.
+
+52
+00:02:46.884 --> 00:02:51.115
+Tá aqui eu tô dando alguns exemplos aqui pra vocês, né? Então, o que que é?
+
+53
+00:02:51.125 --> 00:02:53.664
+Os eventos de tabelas iniciais são os eventos
+
+54
+00:02:53.675 --> 00:02:57.645
+iniciais que identificam o empregador como dados básicos,
+
+55
+00:02:57.656 --> 00:02:58.285
+tributários,
+
+56
+00:02:58.296 --> 00:03:03.485
+estrutura administrativa e as tabelas auxiliares utilizadas em outros eventos.
+
+57
+00:03:03.496 --> 00:03:06.445
+Aqui eu tô dando o exemplo o s mil e cinco o s dez dez,
+
+58
+00:03:06.455 --> 00:03:08.565
+que é a tabela de rubricas que eu havia comentado.
+
+59
+00:03:08.576 --> 00:03:11.445
+Os eventos não periódicos não possuem data,
+
+60
+00:03:11.455 --> 00:03:17.205
+pré-fixada para ocorrer e dependem de acontecimentos específicos.
+
+61
+00:03:17.216 --> 00:03:20.805
+São exemplos de obrigações desse grupo as alterações contratuais, né?
+
+62
+00:03:20.815 --> 00:03:24.805
+Então, por exemplo, só quando eu tiver uma alteração de salário, promoção,
+
+63
+00:03:24.815 --> 00:03:29.477
+algo nesse sentido os afastamentos, as admissões, férias e demissões e os cats,
+
+64
+00:03:29.486 --> 00:03:30.057
+Então aqui Oh!
+
+65
+00:03:30.067 --> 00:03:33.147
+O s vinte e um noventa é uma admissão preliminar.
+
+66
+00:03:33.156 --> 00:03:39.037
+O S dois e duzentos é uma admissão convencional, Tá? E os eventos periódicos.
+
+67
+00:03:39.046 --> 00:03:42.546
+Eles possuem periodicidade definidas como folha de pagamento,
+
+68
+00:03:42.557 --> 00:03:46.507
+contribuições previdenciárias, imposto de renda retido na fonte, dentre outros.
+
+69
+00:03:46.516 --> 00:03:52.796
+É o S mil e duzentos e o s doze dez, que leva as questões de infor de Ah,
+
+70
+00:03:52.807 --> 00:03:55.376
+imposto de renda Tá aqui é só pra vocês.
+
+71
+00:03:55.457 --> 00:04:01.188
+Ah, ah, o que eu quero mostrar pra vocês no manual é um pouquinho do dez vinte do dez.
+
+72
+00:04:01.197 --> 00:04:04.548
+Eu vou mostrar um pouquinho só pra vocês entenderem como é a estrutura do manual,
+
+73
+00:04:04.557 --> 00:04:06.027
+então ele diz, Por exemplo olha,
+
+74
+00:04:06.037 --> 00:04:10.807
+eu posso enviar um s dois e duzentos antes de ter enviado um s mil,
+
+75
+00:04:10.817 --> 00:04:12.957
+não posso porque eu preciso ter em primeiro a
+
+76
+00:04:12.968 --> 00:04:16.308
+informação da admissão pra depois do do do empregador,
+
+77
+00:04:16.317 --> 00:04:18.928
+pra depois eu ter a informação do empregado.
+
+78
+00:04:18.937 --> 00:04:21.048
+Então ele segue uma ordem contínua, né?
+
+79
+00:04:21.058 --> 00:04:22.667
+Então não adianta você Ah,
+
+80
+00:04:22.678 --> 00:04:26.398
+eu quero só fazer um teste sem você ter mandado tabela do s mil.
+
+81
+00:04:26.408 --> 00:04:32.098
+Ele não vai aceitar. Então no manual, ele mostra qual é a ordem cronológica de envio.
+
+82
+00:04:32.109 --> 00:04:35.058
+Qual é a data de envio de cada um desses eventos.
+
+83
+00:04:35.069 --> 00:04:38.859
+Então, por exemplo, a admissão eu tenho que enviar vinte e quatro horas antes,
+
+84
+00:04:38.868 --> 00:04:41.979
+que é o S dois, e duzentos do início das atividades, o a,
+
+85
+00:04:41.989 --> 00:04:44.539
+a admissão ou o cadastro do empregador.
+
+86
+00:04:44.549 --> 00:04:47.699
+Então, ele, quando ele é, a empresa acabou de ser constituída.
+
+87
+00:04:47.709 --> 00:04:50.438
+Eu tenho que enviar até trinta dias dessa constituição.
+
+88
+00:04:50.449 --> 00:04:52.878
+Eh só, pra trazer um pouquinho, né?
+
+89
+00:04:52.889 --> 00:04:56.970
+Eh do que que já mudou com essa questão do do esocial, né?
+
+90
+00:04:56.980 --> 00:05:00.790
+Eu já falei pra vocês a implantação da carteira digital, né.
+
+91
+00:05:00.799 --> 00:05:01.049
+Então,
+
+92
+00:05:01.059 --> 00:05:02.929
+hoje não existe mais a carteira física nem
+
+93
+00:05:02.940 --> 00:05:07.089
+pra ser emitida eliminação da ficha de registro,
+
+94
+00:05:07.100 --> 00:05:10.250
+livros, físico, pessoal, nas outras áreas, né?
+
+95
+00:05:10.260 --> 00:05:13.170
+Quando a gente fala dessas áreas burocráticas que administram,
+
+96
+00:05:13.179 --> 00:05:16.010
+perduram a empresa dessas áreas contábeis, como, por exemplo,
+
+97
+00:05:16.019 --> 00:05:17.299
+a área fiscal e contábil.
+
+98
+00:05:17.309 --> 00:05:22.070
+Normalmente vocês tem um prazo de cinco anos pra guardar documentação.
+
+99
+00:05:22.079 --> 00:05:25.281
+Na área trabalhista é diferente pessoal, a área trabalhista,
+
+100
+00:05:25.290 --> 00:05:31.540
+a gente documentos de recibo, de pagamento E tal, ele tem uma validade né?
+
+101
+00:05:31.550 --> 00:05:32.360
+Menor, né?
+
+102
+00:05:32.371 --> 00:05:35.881
+Realmente você pode descartar e depois de cinco, seis anos,
+
+103
+00:05:35.890 --> 00:05:37.330
+Mas as fichas de registro,
+
+104
+00:05:37.341 --> 00:05:40.520
+os documentos de saúde ocupacional eh não podem
+
+105
+00:05:40.531 --> 00:05:43.080
+ser descartados um período mínimo de trinta anos,
+
+106
+00:05:43.091 --> 00:05:47.321
+quando houve essa questão da eliminação, porque assim gente eh os arquivos.
+
+107
+00:05:47.330 --> 00:05:51.040
+O arquivo morto eh de uma empresa de muitos funcionários, enfim,
+
+108
+00:05:51.050 --> 00:05:54.851
+de uma empresa já com uma constituição de constituição considerável.
+
+109
+00:05:54.861 --> 00:05:58.712
+É gigante o cuidado e o armazenamento dessa informação sem contar o risco que né.
+
+110
+00:05:58.721 --> 00:06:00.812
+Que a gente pode sofrer um incêndio ou alguma coisa?
+
+111
+00:06:00.821 --> 00:06:03.631
+Então isso é algo que veio pra modernizar, né.
+
+112
+00:06:03.641 --> 00:06:07.131
+Teve a extinção do Caged, houve a extinção da R.
+
+113
+00:06:07.141 --> 00:06:10.911
+Agora acabou de acontecer a morte da sefip,
+
+114
+00:06:10.921 --> 00:06:14.221
+a como ela faleceu agora em março pessoal, há pouco mais de um mês.
+
+115
+00:06:14.231 --> 00:06:18.752
+E agora? A gente tá com a integração do f GTS digital, que é uma ferramenta fenomenal.
+
+116
+00:06:18.761 --> 00:06:22.532
+Assim veio realmente pra agregar e facilitar a vida do profissional de D P.
+
+117
+00:06:22.820 --> 00:06:26.170
+A exclusão do cadastro de PS, que também aconteceu agora.
+
+118
+00:06:26.179 --> 00:06:28.320
+Hoje a identificação junto ao processo,
+
+119
+00:06:28.329 --> 00:06:31.190
+ao Fundo de garantia será exclusivamente pelo C.
+
+120
+00:06:31.200 --> 00:06:35.390
+PF também, como os outros vínculos, né? E agora a gente tá esperando, né?
+
+121
+00:06:35.399 --> 00:06:39.089
+Pela extinção da diffa e pela integração do portal do seguro Desemprego

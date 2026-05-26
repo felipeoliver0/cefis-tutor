@@ -1,0 +1,217 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.099
+Então vamos, Vamos voltar pra ir pra nossa amiga Maria,
+
+2
+00:00:03.109 --> 00:00:08.699
+que tá com um problema bom aí pra ela resolver, que ela vendeu estourou de venda, aí.
+
+3
+00:00:08.710 --> 00:00:11.539
+Agora ela precisa ver onde que ela vai encaixar a sua empresa,
+
+4
+00:00:11.550 --> 00:00:13.300
+ela precisa pagar os impostos dela.
+
+5
+00:00:13.310 --> 00:00:15.539
+Ela não vai fazer uma evasão fiscal,
+
+6
+00:00:15.550 --> 00:00:21.420
+afinal ela é uma assinante da CFIS e ela sabe a importância e sabe muito de impostos,
+
+7
+00:00:21.430 --> 00:00:27.579
+Então ah, em que anexo que a nossa querida amiga Maria vai enquadrar sua empresa?
+
+8
+00:00:27.590 --> 00:00:29.100
+Tá bom?
+
+9
+00:00:29.540 --> 00:00:31.750
+Quando a gente fala das atividades da Maria,
+
+10
+00:00:31.760 --> 00:00:33.950
+a gente tá falando de uma atividade de comércio,
+
+11
+00:00:33.959 --> 00:00:40.250
+os comércios eles estão dentro do anexo um do Simples Nacional, okay
+
+12
+00:00:41.090 --> 00:00:45.720
+E aí? Quando a gente fala em estar no anexo que que isso quer dizer,
+
+13
+00:00:46.479 --> 00:00:52.130
+Cada anexo do Simples Nacional vai ter faixas de faturamento,
+
+14
+00:00:52.139 --> 00:00:54.770
+cada faixa com uma alíquota,
+
+15
+00:00:54.779 --> 00:01:01.970
+cada faixa com uma dedução e um percentual de repartição dos tributos.
+
+16
+00:01:01.979 --> 00:01:03.630
+Mas que que quer dizer isso
+
+17
+00:01:05.510 --> 00:01:07.879
+quando você entrar ali na lei complementar?
+
+18
+00:01:07.889 --> 00:01:11.120
+Cento e vinte e três, você vai descer o anexo nos anexos, né?
+
+19
+00:01:11.129 --> 00:01:12.459
+Cê vai chegar lá no anexo um
+
+20
+00:01:13.379 --> 00:01:16.470
+E aí você vai ver as faixas, Então,
+
+21
+00:01:16.480 --> 00:01:19.790
+vamos dizer que a Maria faturou trezentos mil
+
+22
+00:01:19.800 --> 00:01:21.669
+reais se ela faturou trezentos mil reais.
+
+23
+00:01:21.680 --> 00:01:25.089
+Que faixa é que ela tá aqui na segunda faixa do Simples?
+
+24
+00:01:26.379 --> 00:01:30.389
+Então? E aí é que a gente tem aqui alíquota de sete vírgula três.
+
+25
+00:01:30.400 --> 00:01:35.349
+Isso quer dizer que a tributação da Maria vai ser de
+
+26
+00:01:35.360 --> 00:01:39.910
+sete vírgula três por cento sobre o seu faturamento deduzido.
+
+27
+00:01:39.919 --> 00:01:41.690
+Esses cinco mil novecentos e quarenta
+
+28
+00:01:41.949 --> 00:01:49.040
+não não é tão simples assim Tá, é simples como o nome do regime diz,
+
+29
+00:01:49.050 --> 00:01:51.440
+mas não é tão simples assim.
+
+30
+00:01:51.449 --> 00:01:53.440
+É um pouquinho mais complexo.
+
+31
+00:01:53.449 --> 00:01:58.279
+Existe uma fórmula que a gente vai aplicar pra fazer esse cálculo.
+
+32
+00:01:58.290 --> 00:02:00.739
+A gente vai trabalhar isso no Excel. Aqui tá gente
+
+33
+00:02:01.400 --> 00:02:06.089
+e vamos que que é esse percentual de repartição dos tributos.
+
+34
+00:02:06.099 --> 00:02:11.490
+Basicamente é o seguinte se vocês somarem essas linhas né, Os cinco e meio por cento,
+
+35
+00:02:11.500 --> 00:02:14.210
+mais o três e meio dois e setenta e quatro dois
+
+36
+00:02:14.220 --> 00:02:16.690
+e setenta e seis com mais quarenta e um cinquenta.
+
+37
+00:02:16.699 --> 00:02:17.949
+E com mais trinta e quatro.
+
+38
+00:02:18.860 --> 00:02:20.850
+Se você somar, vai dar cem.
+
+39
+00:02:20.860 --> 00:02:27.970
+Isso quer dizer que se essa pessoa, se esse simples tiver mil reais, a recolher,
+
+40
+00:02:28.759 --> 00:02:34.449
+mil reais, a recolher, ele vai pagar cinco e meio por cento desses mil reais,
+
+41
+00:02:34.460 --> 00:02:39.630
+de R PJ três e meio por cento de C S L L e assim por diante.
+
+42
+00:02:39.639 --> 00:02:43.130
+Entendeu? Então é essa percentual de repartição?
+
+43
+00:02:43.139 --> 00:02:43.940
+Então, vamos,
+
+44
+00:02:43.949 --> 00:02:47.130
+Vou te explicar aí como que é feito o cálculo
+
+45
+00:02:47.139 --> 00:02:52.190
+do Simples Nacional Tá essa fórmula que vocês estão vendo.
+
+46
+00:02:52.199 --> 00:02:55.869
+É a fórmula estabelecida ali na lei Complementar Cento e vinte e três,
+
+47
+00:02:56.559 --> 00:03:01.669
+que que vai pegar receita bruta das empresas nos últimos doze meses?
+
+48
+00:03:01.679 --> 00:03:09.330
+Versus a alíquota tá a alíquota que a gente vai chamar de alíquota nominal,
+
+49
+00:03:09.339 --> 00:03:10.850
+menos o percentual,
+
+50
+00:03:10.860 --> 00:03:15.889
+a a parcela a deduzir dividido pelo faturamento nos últimos doze meses,
+
+51
+00:03:15.899 --> 00:03:20.179
+bom pessoal, Então, vamos aí no nosso bom e velho excel.
+
+52
+00:03:20.190 --> 00:03:21.550
+Fazer o cálculo
+
+53
+00:03:22.139 --> 00:03:26.550
+eh uma simulação aí de faturamento da nossa amiga Maria, né?
+
+54
+00:03:26.559 --> 00:03:31.610
+Pra entender quanto seria, por exemplo o das que ela vai fazer? O recolhimento tá

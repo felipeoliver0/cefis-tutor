@@ -1,0 +1,157 @@
+WEBVTT
+
+00:00:00.034 --> 00:00:07.248
+- Vamos a um outro exemplo. Olha aqui a raiz quadrada. Por que eu falei na raiz quadrada? Porque quando
+
+00:00:07.248 --> 00:00:14.532
+- a incógnita for a taxa de juros, a gente vai ter que isolar a taxa de juros, fazendo o desdobramento,
+
+00:00:14.532 --> 00:00:21.958
+- a dedução algébrica. Não sei se vocês vão lembrar, não precisam, lá do nosso ensino fundamental,
+
+00:00:21.958 --> 00:00:29.172
+- acho que 7ª ou 8ª série naquela época. O que a gente tem? Quando a gente quer tirar algum número
+
+00:00:29.172 --> 00:00:29.950
+- ou isolar,
+
+00:00:30.082 --> 00:00:36.334
+- a gente tem algumas técnicas, né? Que a gente, ou para extrair da raiz quadrada, a gente tem que fazer
+
+00:00:36.334 --> 00:00:42.408
+- algumas transformações. Então, eu só vou deixar aqui. Hoje em dia, lógico, tem tudo automático,
+
+00:00:42.408 --> 00:00:48.541
+- né? Tanto na HP não precisa fazer, Excel só dá os comandos de inserir fórmulas, mas eu acho muito
+
+00:00:48.541 --> 00:00:54.733
+- importante aqui vocês, pelo menos, conhecer como são feitos os cálculos, tá bom? Então, vamos lá.
+
+00:00:54.733 --> 00:00:56.222
+- Determinar a taxa mensal
+
+00:00:56.322 --> 00:01:06.033
+- composta de juros de uma aplicação de 40 mil reais, que produz um montante de 43,894,63 ao final de
+
+00:01:06.033 --> 00:01:15.648
+- um quadrimestre. Só que ele fala para achar a taxa mensal. Só que esse valor de 40 mil, que é uma
+
+00:01:15.648 --> 00:01:19.742
+- aplicação inicial, que seria o nosso PV,
+
+00:01:20.418 --> 00:01:26.823
+- o valor presente, o nosso capital inicial, ele produz esse montante ao final de um quadrimestre.
+
+00:01:26.823 --> 00:01:33.756
+- Quer dizer, esse valor aqui está corrigido por quatro meses. Só que ele quer que ache a taxa por mês.
+
+00:01:33.756 --> 00:01:40.491
+- Então, cuidado que nós temos que usar as unidades corretas. Então, vamos lá. O prazo que eu tenho
+
+00:01:40.491 --> 00:01:46.302
+- aqui é de quatro meses. E o valor futuro desses quatro meses está aqui. Ele quer o I.
+
+00:01:46.786 --> 00:01:53.358
+- Então vamos lá, essa aqui é nossa fórmula que traz valor futuro é igual valor presente 1 mais i
+
+00:01:53.358 --> 00:01:59.865
+- a n, tá ok? Só que que a gente vai ter que fazer? A gente não quer achar a taxa de juros, então
+
+00:01:59.865 --> 00:02:06.437
+- a gente vai ter que aprender a isolar o i. Vamos aprender a isolar o i? Só que antes de isolar o i,
+
+00:02:06.437 --> 00:02:07.934
+- eu vou primeiro passar
+
+00:02:08.098 --> 00:02:15.395
+- o valor presente aqui pra baixo, ele vai virar aqui no denominador, de forma que 1 mais i a m é igual
+
+00:02:15.395 --> 00:02:22.620
+- a quê? Valor futuro dividido pelo valor presente. Então a gente vem aqui agora. Então, o meu valor
+
+00:02:22.620 --> 00:02:30.200
+- futuro tá aqui, porque eu passei o valor presente pra baixo. Então meu valor futuro é 48, 894, dividido
+
+00:02:30.200 --> 00:02:34.238
+- pelo meu valor presente de 40, né? Passei isso pra cá.
+
+00:02:34.466 --> 00:02:41.263
+- Era numerador, vem pra cá dividindo. Multiplica, vem dividindo. Porque tá passando pra outra parte
+
+00:02:41.263 --> 00:02:48.195
+- da equação. Sinal contrário, né? Relembrando. Então, quando eu faço essa divisão, eu tenho aqui
+
+00:02:48.195 --> 00:02:54.926
+- 1 mais i. Qual que é esse valor que tá aqui, pessoal? Não é um valor pra 4 meses? Então meu i,
+
+00:02:54.926 --> 00:03:02.261
+- esse n aqui, é pra 4 meses. Então tá aqui, ó. Agora já, o que era importante era montar essa equação.
+
+00:03:02.261 --> 00:03:03.742
+- Entender como montar.
+
+00:03:04.034 --> 00:03:11.111
+- Agora tem que calcular o I. Aí são coisas matemáticas. Então, o I, o que significa? 1 mais I à
+
+00:03:11.111 --> 00:03:18.187
+- quarta, se eu faço essa divisão, vai dar 1,097366. Como é que eu tiro o I daqui? Alguém lembra?
+
+00:03:18.187 --> 00:03:25.759
+- Estou falando aqui porque eu passo por esses pontos para vocês relembrarem. Claro que um HP não precisa,
+
+00:03:25.759 --> 00:03:30.430
+- mas é importante ter um conceito. Então, quando eu quero tirar,
+
+00:03:31.042 --> 00:03:37.466
+- algo aqui, eliminar essa questão do exponencial, eu tenho que tirar raiz. Alguém lembra?
+
+00:03:37.466 --> 00:03:44.525
+- Dos dois lados. Então, quando eu tenho que tirar raiz, e que raiz? De acordo com aqui, o expoente.
+
+00:03:44.525 --> 00:03:51.866
+- Não é quatro? Eu tenho que fazer uma raiz a quarta aqui desse número e raiz a quarta aqui. Por quê,
+
+00:03:51.866 --> 00:03:55.678
+- pessoal? Para quem não lembra, quando você tem aqui
+
+00:03:56.322 --> 00:04:02.822
+- A raiz que você está extraindo aqui 4 e aqui 4, isso corta, isso some. Aí eu consegui tirar da raiz,
+
+00:04:02.822 --> 00:04:08.634
+- aí eu fico com essa conta aqui. Eu fico, por exemplo, com 1 mais i, porque eu tirei a raiz,
+
+00:04:08.634 --> 00:04:15.321
+- igual ao quê? Vocês lembram que isso aqui é a mesma coisa que não está falando, a gente não precisa.
+
+00:04:15.321 --> 00:04:21.758
+- Quando não tem 1 elevado aqui no expoente significa que não tem nada, ele está elevado a ele mesmo.
+
+00:04:22.274 --> 00:04:29.751
+- Então isso aqui é a mesma coisa que esse número elevado a 1 que daria ele mesmo. Aí para extrair
+
+00:04:29.751 --> 00:04:37.228
+- a raiz eu tenho que colocar ele assim. Eu transformo essa raiz aqui. Então esse número ele vai ser
+
+00:04:37.228 --> 00:04:44.779
+- elevado a 1 que vem daqui do que não precisa colocar isso por norma. 1 dividido por 4. E aí na hora
+
+00:04:44.779 --> 00:04:51.294
+- que eu conseguir fazer essa conta eu efetivamente faço esse número elevado a 1 quarto
+
+00:04:51.490 --> 00:05:00.545
+- E aí eu chego numa taxa aqui de 0,0235, que ao multiplicar por 100, a minha taxa vira 2,35% ao mês.
+
+00:05:00.545 --> 00:05:10.132
+- Então, pessoal, aqui está o passo a passo da matemática financeira para a gente entender o que acontece.
+
+00:05:10.132 --> 00:05:13.150
+- Obviamente, você vai num HP-12C,
+
+00:05:13.666 --> 00:05:21.086
+- Sabendo apertar as teclas da forma correta, porque existe toda uma sequência para isso, você vai chegar
+
+00:05:21.086 --> 00:05:28.087
+- exatamente nesse número. Ou quiser montar no Excel, inserir fórmula, função, e aí você souber
+
+00:05:28.087 --> 00:05:34.667
+- pegar direitinho os números das tabelas corretas, também você vai chegar no mesmo número.

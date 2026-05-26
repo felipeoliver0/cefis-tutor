@@ -1,0 +1,33 @@
+{
+  "id": 474717,
+  "title": "Exemplo Prático - Planilha",
+  "position": 27,
+  "duration": 106,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b9da15f4-0134-4653-8266-f18872962f1a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b9da15f4-0134-4653-8266-f18872962f1a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b9da15f4-0134-4653-8266-f18872962f1a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b9da15f4-0134-4653-8266-f18872962f1a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b9da15f4-0134-4653-8266-f18872962f1a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

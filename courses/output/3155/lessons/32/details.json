@@ -1,0 +1,33 @@
+{
+  "id": 475647,
+  "title": "Custos de matéria-prima 2",
+  "position": 32,
+  "duration": 424,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/2b814afe-6fb4-489a-b97c-d644a41e0e09/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2b814afe-6fb4-489a-b97c-d644a41e0e09/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2b814afe-6fb4-489a-b97c-d644a41e0e09/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2b814afe-6fb4-489a-b97c-d644a41e0e09/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/2b814afe-6fb4-489a-b97c-d644a41e0e09/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

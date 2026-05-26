@@ -1,0 +1,285 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:05.539
+então vamos recapitular tudo que vimos aqui nesse curso foi bastante conteúdo.
+
+2
+00:00:05.550 --> 00:00:08.560
+Tenho certeza que você deve ter feito muitas anotações
+
+3
+00:00:08.569 --> 00:00:10.819
+aí eu sou dessas que gosta de fazer.
+
+4
+00:00:10.829 --> 00:00:14.100
+Anotação, que gosta de colocar marca texto, fazer setinha.
+
+5
+00:00:14.109 --> 00:00:17.915
+Colocar a pote pra não esquecer e aproveitem muito desse
+
+6
+00:00:17.924 --> 00:00:23.155
+material pra que vocês usem na aplicabilidade prática do dia-a-dia!
+
+7
+00:00:23.165 --> 00:00:24.934
+Esse é o maior objetivo.
+
+8
+00:00:24.944 --> 00:00:28.975
+O C F O P gente é extremamente importante porque ele vai tratar de
+
+9
+00:00:28.985 --> 00:00:33.895
+tudo É é o ponto de partida na emissão de um documento fiscal.
+
+10
+00:00:33.904 --> 00:00:35.275
+Na classificação
+
+11
+00:00:35.540 --> 00:00:38.430
+da operação ou prestação que vou realizar.
+
+12
+00:00:38.439 --> 00:00:40.430
+Ele é obrigatório porque ele tá disposto no
+
+13
+00:00:40.439 --> 00:00:42.869
+convênio sem número de mil novecentos e setenta,
+
+14
+00:00:42.880 --> 00:00:47.110
+que é o convênio estabelecido pelo Confaz aprovado por todos os estados
+
+15
+00:00:47.119 --> 00:00:51.990
+e que deve ali eh regulamentar e dispor sobre as operações.
+
+16
+00:00:52.000 --> 00:00:54.049
+EH entre os documentos fiscais,
+
+17
+00:00:54.060 --> 00:00:57.770
+a estrutura do C F A P lembra Quando falamos de entrada,
+
+18
+00:00:57.779 --> 00:01:02.610
+vai iniciar em um dois ou três um, quando for uma entrada interna.
+
+19
+00:01:02.619 --> 00:01:05.769
+Dois quando for uma entrada interestadual e três
+
+20
+00:01:05.779 --> 00:01:08.349
+quando for uma atividade ali com o exterior.
+
+21
+00:01:08.360 --> 00:01:10.709
+No caso da entrada é a importação
+
+22
+00:01:11.269 --> 00:01:14.480
+e nas saídas será iniciado em cinco seis e
+
+23
+00:01:14.489 --> 00:01:18.379
+sete cinco para a entrada pra saídas internas,
+
+24
+00:01:18.389 --> 00:01:24.720
+seis para saídas interestaduais e sete para as saídas para o exterior a exportação.
+
+25
+00:01:24.730 --> 00:01:29.879
+Nós encontramos a tabela C F o P no convênio, sem número de mil novecentos e setenta.
+
+26
+00:01:29.889 --> 00:01:34.349
+Aquela que é meio confusa, né? De achar qual que é a correta?
+
+27
+00:01:34.360 --> 00:01:38.650
+Temos também a tabela C F A P no portal da nota Fiscal Eletrônica.
+
+28
+00:01:38.660 --> 00:01:44.370
+Lá no menu download diversos, nós conseguimos baixar lá Nos documentos diversos,
+
+29
+00:01:44.379 --> 00:01:48.830
+tem a tabela que vai sair em planilha e essa planilha sai com o layout,
+
+30
+00:01:48.839 --> 00:01:53.389
+com os campos do layout da nota fiscal eletrônica das tags do X ML.
+
+31
+00:01:54.089 --> 00:01:57.629
+Também conseguimos baixar no portal do SPED lá no menu
+
+32
+00:01:57.639 --> 00:02:01.139
+da F DC M SP I download de tabelas,
+
+33
+00:02:01.150 --> 00:02:04.040
+tabelas globais e lá tem a tabela C F.
+
+34
+00:02:04.050 --> 00:02:08.500
+O P também que você consegue baixar aquele lá sai no modelo de T x
+
+35
+00:02:08.508 --> 00:02:13.500
+T Tem também o prazo de vigência É prático pra você fazer consultas rápidas,
+
+36
+00:02:13.509 --> 00:02:13.820
+né?
+
+37
+00:02:13.830 --> 00:02:14.339
+Pode dar um,
+
+38
+00:02:14.350 --> 00:02:17.539
+pesquisar na própria página da internet ali e pesquisar a
+
+39
+00:02:17.550 --> 00:02:19.639
+sua operação e descobrir qual que é o C F o
+
+40
+00:02:19.649 --> 00:02:24.119
+p adequado pra essa operação que você vai realizar essa
+
+41
+00:02:24.130 --> 00:02:27.940
+classificação sempre tem que ser de acordo com a operação.
+
+42
+00:02:27.949 --> 00:02:33.399
+Não podemos esquecer que o C f A P ele tem que combinar com a natureza da operação.
+
+43
+00:02:33.410 --> 00:02:37.000
+Posso sim ter mais de um C F a P na mesma nota fiscal,
+
+44
+00:02:37.009 --> 00:02:41.820
+desde que se relacione com a mesma natureza da operação lá no X ML.
+
+45
+00:02:41.830 --> 00:02:42.800
+Precisamos, né?
+
+46
+00:02:42.809 --> 00:02:45.240
+Se principalmente se eu sou o programador,
+
+47
+00:02:45.250 --> 00:02:51.660
+vou parametrizado o sistema ficar atento aos indicadores das tags do x ML.
+
+48
+00:02:51.669 --> 00:02:55.190
+Se é uma operação de devolução, tem que tá no índice de devolução.
+
+49
+00:02:55.199 --> 00:02:59.580
+Se é uma operação de comunicação, tem que aparecer o índice de comunicação.
+
+50
+00:02:59.589 --> 00:03:06.059
+Se for uma operação de remessa retorno tem que estar lá no indies in de retorno.
+
+51
+00:03:06.070 --> 00:03:06.979
+Lembrando, né?
+
+52
+00:03:06.990 --> 00:03:10.820
+De toda essa característica de tag do x ML
+
+53
+00:03:10.830 --> 00:03:14.259
+com fg adequado conforme a natureza da operação?
+
+54
+00:03:14.270 --> 00:03:15.919
+C f o p que eu vou realizar
+
+55
+00:03:16.419 --> 00:03:21.009
+e dentro dessa prática, toda sempre trabalhar qual que é a operação?
+
+56
+00:03:21.020 --> 00:03:24.610
+Primeiro de tudo pensa lá, é uma operação interna ou interestadual.
+
+57
+00:03:24.619 --> 00:03:29.229
+É saída ou é entrada? Pensando nisso? Você já sabe qual que é o primeiro dígito do C? F?
+
+58
+00:03:29.240 --> 00:03:29.610
+O P
+
+59
+00:03:29.869 --> 00:03:32.460
+Depois é uma operação de venda.
+
+60
+00:03:32.470 --> 00:03:33.779
+É uma devolução,
+
+61
+00:03:33.789 --> 00:03:37.919
+É uma operação de compra é uma operação com substituição tributária.
+
+62
+00:03:37.929 --> 00:03:39.619
+É uma remessa opa,
+
+63
+00:03:39.630 --> 00:03:42.839
+Já sei pelos agrupados qual será o segundo dígito
+
+64
+00:03:42.850 --> 00:03:45.199
+e algumas vezes o segundo e o terceiro,
+
+65
+00:03:45.210 --> 00:03:47.839
+e nisso fica muito fácil.
+
+66
+00:03:47.850 --> 00:03:54.330
+Dentro dessa análise você achar na tabela f o P o que vai se adequar com a sua operação.
+
+67
+00:03:54.339 --> 00:03:57.070
+Porque agora você já tem definido o primeiro dígito,
+
+68
+00:03:57.080 --> 00:03:59.990
+o segundo ou o segundo e o terceiro,
+
+69
+00:04:00.000 --> 00:04:04.139
+de acordo com o grupo que representa a operação que você vai realizar.
+
+70
+00:04:04.149 --> 00:04:09.229
+A partir daí é só colocar em prática os conhecimentos e vamos lá, né?
+
+71
+00:04:09.240 --> 00:04:12.410
+Mãos à obra na emissão de documentos fiscais

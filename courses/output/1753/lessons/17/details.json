@@ -1,0 +1,33 @@
+{
+  "id": 456851,
+  "title": "Direito do trabalho",
+  "position": 17,
+  "duration": 435,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/14b3ce44-8d56-4b4f-b283-5af4b621cf48/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/14b3ce44-8d56-4b4f-b283-5af4b621cf48/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/14b3ce44-8d56-4b4f-b283-5af4b621cf48/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/14b3ce44-8d56-4b4f-b283-5af4b621cf48/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/14b3ce44-8d56-4b4f-b283-5af4b621cf48/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

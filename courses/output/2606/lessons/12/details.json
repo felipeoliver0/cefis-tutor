@@ -1,0 +1,33 @@
+{
+  "id": 468256,
+  "title": "Informações da contabilidade",
+  "position": 12,
+  "duration": 260,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/5ea56b71-3e65-425c-a072-aa1749a29bd2/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ea56b71-3e65-425c-a072-aa1749a29bd2/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ea56b71-3e65-425c-a072-aa1749a29bd2/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ea56b71-3e65-425c-a072-aa1749a29bd2/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/5ea56b71-3e65-425c-a072-aa1749a29bd2/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

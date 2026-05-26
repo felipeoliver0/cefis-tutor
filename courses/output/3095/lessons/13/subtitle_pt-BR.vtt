@@ -1,0 +1,345 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.759
+aqui dentro do programa,
+
+2
+00:00:01.769 --> 00:00:06.500
+nós conseguimos visualizar os relatórios dos registros fiscais.
+
+3
+00:00:06.510 --> 00:00:10.500
+E quando nós clicamos aqui em documentos de entradas,
+
+4
+00:00:10.510 --> 00:00:12.340
+que é onde nós podemos visualizar.
+
+5
+00:00:12.350 --> 00:00:16.739
+Se a gente tem direito a crédito ou não, né? São nas operações de entrada.
+
+6
+00:00:16.750 --> 00:00:19.500
+Veja que quando a gente clica o programa,
+
+7
+00:00:19.510 --> 00:00:24.379
+ele vai carregar o nosso livro de registro de entradas.
+
+8
+00:00:24.389 --> 00:00:28.680
+E quando o programa carrega essa informação, vejam só
+
+9
+00:00:29.059 --> 00:00:35.830
+existem percentuais alíquotas de ICMS, que são diferentes.
+
+10
+00:00:35.840 --> 00:00:38.930
+Veja Só olha aqui oh, um ponto vinte e cinco,
+
+11
+00:00:38.939 --> 00:00:43.069
+um ponto oitenta e seis olha só dois ponto trinta e três.
+
+12
+00:00:43.080 --> 00:00:47.869
+Veja que são alíquotas diferentes daquilo que a gente tá acostumada,
+
+13
+00:00:47.880 --> 00:00:55.209
+então isso significa que obrigatoriamente nesses documentos aqui, onde
+
+14
+00:00:55.540 --> 00:01:01.049
+o crédito do ICMS tem uma alíquota menorzinha, uma alíquota diferente,
+
+15
+00:01:01.060 --> 00:01:07.550
+tem que ser um crédito relacionado a uma nota que veio do Simples Nacional.
+
+16
+00:01:07.559 --> 00:01:14.230
+Então essa é a visualização. Esse é o cruzamento que vocês precisam executar.
+
+17
+00:01:14.239 --> 00:01:19.589
+E aí ai, joe, como que eu faço pra ver que nota que é essa aqui?
+
+18
+00:01:19.599 --> 00:01:21.199
+Como que eu faço pra saber?
+
+19
+00:01:21.209 --> 00:01:27.260
+Existe uma planilha que foi disponibilizado aqui abaixo pra vocês, nos materiais,
+
+20
+00:01:27.269 --> 00:01:30.760
+aí do curso, onde você vai poder converter?
+
+21
+00:01:30.769 --> 00:01:32.169
+Esse modelo de planilha.
+
+22
+00:01:32.180 --> 00:01:32.599
+Aqui,
+
+23
+00:01:32.610 --> 00:01:35.900
+onde você vai poder importar um arquivo em T X
+
+24
+00:01:35.910 --> 00:01:40.180
+T do SPED fiscal e ele vai abrir esse arquivo,
+
+25
+00:01:40.190 --> 00:01:44.180
+ele vai transformar o T X T do SPED em um EXCEL.
+
+26
+00:01:44.190 --> 00:01:49.819
+E quando ele transforma isso em Excel, ele vai trazer assim nesse formato aqui,
+
+27
+00:01:49.830 --> 00:01:54.080
+tudo aberto detalhado as informações
+
+28
+00:01:54.620 --> 00:02:01.330
+do arquivo E aí quando você chegar aqui na parte do ICMS ele vai trazer Veja oh,
+
+29
+00:02:01.339 --> 00:02:05.750
+base de cálculo ele traz todas as informações aqui.
+
+30
+00:02:05.760 --> 00:02:12.309
+Você consegue visualizar. Olha todos os dados sobre o documento fiscal.
+
+31
+00:02:12.320 --> 00:02:16.509
+Olha a quantidade oh alíquota,
+
+32
+00:02:16.520 --> 00:02:20.750
+oh a alíquota aqui do ICMS aqui você vai conseguir saber que notas são essas,
+
+33
+00:02:20.759 --> 00:02:23.610
+Que notas são essas aqui, que tá com a alíquota pequenininha?
+
+34
+00:02:23.869 --> 00:02:27.279
+E aí você já consegue descobrir pelo arquivo?
+
+35
+00:02:27.289 --> 00:02:30.899
+Aqui ele mostra olha qual que é o número da nota.
+
+36
+00:02:30.910 --> 00:02:34.759
+Ele mostra também qual que é o código do participante
+
+37
+00:02:34.770 --> 00:02:37.919
+e aqui vou contar um segredo pra vocês Se vocês
+
+38
+00:02:37.929 --> 00:02:42.199
+fizerem um pro que v com o código do participante
+
+39
+00:02:42.210 --> 00:02:46.416
+versus o cadastro do participante aqui faz uma forminha.
+
+40
+00:02:46.425 --> 00:02:49.095
+Um que vê você vai conseguir já saber quem que
+
+41
+00:02:49.106 --> 00:02:52.856
+é o participante aqui e estamos com dados fictícios né?
+
+42
+00:02:52.865 --> 00:02:56.216
+Manipulados? Pra que fique como a título de exemplo?
+
+43
+00:02:56.225 --> 00:03:00.936
+E você já consegue validar se esse participante é um fornecedor seu,
+
+44
+00:03:00.945 --> 00:03:03.576
+que realmente é optante pelo Simples Nacional.
+
+45
+00:03:03.585 --> 00:03:07.772
+Então, fica aí o primeiro cruzamento que vocês podem fazer,
+
+46
+00:03:07.781 --> 00:03:13.091
+que é validar se as alíquotas de crédito que estão diferentes no arquivo,
+
+47
+00:03:13.102 --> 00:03:18.242
+realmente se tratam de produtos que vêm de fornecedores optantes pelo Simples.
+
+48
+00:03:18.251 --> 00:03:22.712
+Pega o arquivo, converte no no, na nossa planilha de Excel aqui,
+
+49
+00:03:22.722 --> 00:03:25.712
+que é o que a gente chama, importa,
+
+50
+00:03:25.722 --> 00:03:29.511
+vai transformar em excel e aqui você consegue pegar
+
+51
+00:03:29.522 --> 00:03:33.201
+lá no sessenta e setenta através da COLUNI,
+
+52
+00:03:33.212 --> 00:03:34.932
+aqui da alíquota.
+
+53
+00:03:35.309 --> 00:03:41.160
+Cê consegue, vim aqui filtrar a coluna da alíquota automaticamente,
+
+54
+00:03:41.169 --> 00:03:43.720
+vai trazer quais são essas notas e você consegue
+
+55
+00:03:43.729 --> 00:03:47.240
+validar se realmente esse fornecedor é optante pelo simples.
+
+56
+00:03:47.250 --> 00:03:49.520
+E por isso que essa alíquota está diferente aqui.
+
+57
+00:03:49.529 --> 00:03:52.970
+E se esse fornecedor não for optante pelo Simples,
+
+58
+00:03:52.979 --> 00:03:58.050
+aqui você já consegue identificar que existe um equívoco na apuração que
+
+59
+00:03:58.059 --> 00:04:02.580
+existe um equívoco na entrada dessa nota fiscal e precisa ser investigado.
+
+60
+00:04:02.589 --> 00:04:07.356
+Combinado então, primeiro cruzamento aí que vamos trabalhar juntos é esse,
+
+61
+00:04:07.365 --> 00:04:12.815
+sempre lembrem-se gera o livro no registro de entrada valida as alíquotas.
+
+62
+00:04:12.826 --> 00:04:14.776
+Outra coisa que vocês podem validar aqui?
+
+63
+00:04:14.785 --> 00:04:20.894
+Olha, eu tenho coisas que tá com zero faz sentido isso aqui está zero, faz?
+
+64
+00:04:20.906 --> 00:04:21.946
+Faz sentido. Por quê?
+
+65
+00:04:21.954 --> 00:04:26.115
+Porque o CFOP é um CFOP de substituição tributária,
+
+66
+00:04:26.126 --> 00:04:31.791
+Mas aqui eu tenho o CFOP de substituição tributária que tem alíquota de crédito de J.
+
+67
+00:04:31.802 --> 00:04:37.242
+Tá certo isso? Hum pode ser que não hein? Então, como que a gente faz aqui?
+
+68
+00:04:37.252 --> 00:04:38.601
+A gente eu fui manipulando,
+
+69
+00:04:38.611 --> 00:04:42.082
+mexendo no arquivo pra criar situações práticas pra
+
+70
+00:04:42.092 --> 00:04:45.282
+vocês Então tem que vir aqui filtrar.
+
+71
+00:04:45.291 --> 00:04:48.122
+Vamos lá na planilha que a gente acabou de descobrir que agora dá
+
+72
+00:04:48.131 --> 00:04:52.481
+pra fazer essa planilha aqui maravilhosa vai no CE cento e setenta,
+
+73
+00:04:52.492 --> 00:04:54.022
+que é aonde tem as notas
+
+74
+00:04:54.380 --> 00:04:59.690
+filtra aqui c f a PS que são ali passíveis de substituição tributária e
+
+75
+00:04:59.700 --> 00:05:04.829
+vamos verificar que que isso aqui tem informação que que isso aqui tem crédito.
+
+76
+00:05:04.839 --> 00:05:09.869
+Que notas são essas que tá puxando crédito de ICMS faz um filtro?
+
+77
+00:05:09.880 --> 00:05:12.190
+Vamos investigar essas notas.
+
+78
+00:05:12.200 --> 00:05:16.589
+Alguma coisa pode estar estranha que enfim,
+
+79
+00:05:16.600 --> 00:05:20.769
+aqui vocês vão trabalhar com muita facilidade
+
+80
+00:05:20.779 --> 00:05:24.410
+com relação à validação de informações aqui
+
+81
+00:05:24.420 --> 00:05:28.850
+já vai puxar pra vocês Qual é a chave número da nota a série,
+
+82
+00:05:28.859 --> 00:05:33.130
+o participante e vocês conseguem avaliar se está correto
+
+83
+00:05:33.140 --> 00:05:37.570
+ou não estar dessa forma no livro fiscal Combinado.
+
+84
+00:05:37.579 --> 00:05:38.260
+Então,
+
+85
+00:05:38.269 --> 00:05:40.670
+vamos falar um pouco mais sobre cruzamentos
+
+86
+00:05:40.679 --> 00:05:44.350
+agora relacionado ao cadastro de produtos.

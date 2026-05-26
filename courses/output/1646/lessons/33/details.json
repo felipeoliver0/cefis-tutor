@@ -1,0 +1,33 @@
+{
+  "id": 454755,
+  "title": "Gross Up",
+  "position": 34,
+  "duration": 264,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/b867f0c3-78c9-46b6-8fd6-56fccbd2ff19/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b867f0c3-78c9-46b6-8fd6-56fccbd2ff19/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b867f0c3-78c9-46b6-8fd6-56fccbd2ff19/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b867f0c3-78c9-46b6-8fd6-56fccbd2ff19/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/b867f0c3-78c9-46b6-8fd6-56fccbd2ff19/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

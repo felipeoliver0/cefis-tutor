@@ -1,0 +1,33 @@
+{
+  "id": 479501,
+  "title": "Usuários da contabilidade",
+  "position": 8,
+  "duration": 535,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/d3c11822-c2b7-4819-ba24-f17258628bde/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3c11822-c2b7-4819-ba24-f17258628bde/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3c11822-c2b7-4819-ba24-f17258628bde/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3c11822-c2b7-4819-ba24-f17258628bde/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/d3c11822-c2b7-4819-ba24-f17258628bde/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

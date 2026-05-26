@@ -1,0 +1,33 @@
+{
+  "id": 470534,
+  "title": "Emissão Unificada de Doc Fiscais",
+  "position": 5,
+  "duration": 377,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/73b7d34a-cf1e-459e-86bc-863349842533/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73b7d34a-cf1e-459e-86bc-863349842533/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73b7d34a-cf1e-459e-86bc-863349842533/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73b7d34a-cf1e-459e-86bc-863349842533/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/73b7d34a-cf1e-459e-86bc-863349842533/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

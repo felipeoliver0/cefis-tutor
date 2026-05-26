@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": 2593,
+    "title": "[podcast] Arcabouço Fiscal",
+    "subtitle": "Podcast",
+    "summary": "Neste podcast, o professor Antônio Carlos Godoi fala sobre o “Arcabouço Fiscal”. Este conjunto de leis e regulamentos que o governo está criando para garantir um equilíbrio nas contas públicas e realizar investimentos nos próximos anos. Seu projeto de lei se chama “Regime Fiscal Sustentável” e é o Projeto de Lei Complementar - PLP 93/2023, que na prática também se refere à Nova Regra Fiscal.",
+    "banner": "https://cdn.cefis.cloud/cefiscdn/media/1a5927ea760b9f269dd2b3accaf46b0c1728385987.jpg",
+    "goals": [
+      "Neste podcast, o professor Antônio Carlos Godoi fala sobre o “Arcabouço Fiscal”. Este conjunto de leis e regulamentos que o governo está criando para garantir um equilíbrio nas contas públicas e realizar investimentos nos próximos anos. Seu projeto de lei se chama “Regime Fiscal Sustentável” e é o Projeto de Lei Complementar - PLP 93/2023, que na prática também se refere à Nova Regra Fiscal."
+    ],
+    "teacher": {
+      "id": 10,
+      "name": "Antônio Carlos Godoi",
+      "avatar": "https://cdn.cefis.cloud/cefiscdn/media/264553ceec5f2c836d4e8bfebcfe5f7d1532026260.jpg"
+    },
+    "duration": 663,
+    "keywords": "arcabouço;fiscal;arcabouço fiscal;podcast",
+    "certificationThreshold": 80,
+    "isEditing": false,
+    "lessonCount": 1,
+    "materialCount": 0,
+    "hasMaterials": false,
+    "categories": [
+      4
+    ],
+    "watchLater": false,
+    "ratingQuantity": 132,
+    "averageRating": 9.27,
+    "practiceAverage": 9.23,
+    "crcActive": false,
+    "crcCreditHours": null,
+    "launchDate": "2023-09-02T13:12:50.000Z",
+    "recordedAt": "2023-06-01T00:00:00.000Z",
+    "createdAt": "2023-06-07T19:11:33.000Z"
+  }
+}

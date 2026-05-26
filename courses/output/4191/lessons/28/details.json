@@ -1,0 +1,33 @@
+{
+  "id": 482860,
+  "title": "Hedge cambial",
+  "position": 28,
+  "duration": 327,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/65bd5f32-f8e3-421f-a830-1cb8b6cc143a/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65bd5f32-f8e3-421f-a830-1cb8b6cc143a/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65bd5f32-f8e3-421f-a830-1cb8b6cc143a/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65bd5f32-f8e3-421f-a830-1cb8b6cc143a/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/65bd5f32-f8e3-421f-a830-1cb8b6cc143a/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

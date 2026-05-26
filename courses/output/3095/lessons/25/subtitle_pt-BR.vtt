@@ -1,0 +1,421 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.640
+fiquem atentos. Aí que chegou a hora da revisão.
+
+2
+00:00:03.650 --> 00:00:07.179
+O que você aprendeu durante esse curso?
+
+3
+00:00:07.190 --> 00:00:12.840
+Um curso bem completo sobre cruzamentos da F d SMS, p i.
+
+4
+00:00:12.850 --> 00:00:14.819
+Mas antes, lá no comecinho,
+
+5
+00:00:14.829 --> 00:00:18.909
+você aprendeu sobre conformidade tributária sobre a obrigação
+
+6
+00:00:18.920 --> 00:00:23.500
+principal obrigação acessória sobre as duas ações que tem
+
+7
+00:00:23.510 --> 00:00:26.017
+aumentado o nível de comp do que é a
+
+8
+00:00:26.027 --> 00:00:30.957
+auto regularização e a simplificação das obrigações acessórias.
+
+9
+00:00:30.966 --> 00:00:33.797
+Depois falamos sobre conceitos do ICMS.
+
+10
+00:00:33.806 --> 00:00:35.657
+Lembramos ali o fato gerador,
+
+11
+00:00:35.666 --> 00:00:39.817
+que é a circulação de mercadorias e serviços de transporte interestadual,
+
+12
+00:00:39.826 --> 00:00:43.216
+intermunicipal e serviço de comunicação.
+
+13
+00:00:43.227 --> 00:00:47.907
+Que o contribuinte do ICMS não é somente quem tem inscrição estadual, né?
+
+14
+00:00:47.916 --> 00:00:53.773
+Mas sim, quem realiza essa circulação com habitualidade e intuito comercial.
+
+15
+00:00:53.784 --> 00:00:57.013
+E tem inscrição estadual que essa pessoa pode ter inscrição,
+
+16
+00:00:57.023 --> 00:00:58.773
+mas não é contribuinte.
+
+17
+00:00:58.784 --> 00:01:02.813
+Falamos dos conceitos do IPI, que é um tributo não cumulativo.
+
+18
+00:01:02.824 --> 00:01:06.134
+Você pode se creditar na entrada do que terá os débitos.
+
+19
+00:01:06.143 --> 00:01:08.694
+Na saída, falamos sobre o IPI,
+
+20
+00:01:08.704 --> 00:01:12.944
+as características que caracteriza ali a industrialização,
+
+21
+00:01:12.954 --> 00:01:19.011
+que é a transformação, o beneficiamento, a montagem, o acondicionamento,
+
+22
+00:01:19.021 --> 00:01:20.941
+o re acondicionamento.
+
+23
+00:01:20.950 --> 00:01:26.810
+Falamos sobre o IPI, que é caracterizado, né contribuinte O importador,
+
+24
+00:01:26.820 --> 00:01:32.030
+por exemplo, que é o equiparado a indústria ou a própria indústria.
+
+25
+00:01:32.041 --> 00:01:37.411
+Trabalhamos as estruturas da F D, ICMS P I que já foi instituída.
+
+26
+00:01:37.420 --> 00:01:41.511
+Já há mais de dez anos que o Simples Nacional,
+
+27
+00:01:41.970 --> 00:01:46.250
+ele pode estar obrigado a entregar f d ICMS p i se estiver
+
+28
+00:01:46.260 --> 00:01:51.949
+em duas situações específicas ou estar no SUBLIMITE ou o próprio estado.
+
+29
+00:01:51.959 --> 00:01:56.500
+Exigir isso que nós temos os perfis de enquadramento
+
+30
+00:01:56.510 --> 00:02:00.300
+para declarar o perfil A é aquele perfil detalhado.
+
+31
+00:02:00.309 --> 00:02:05.860
+O perfil B é aquele perfil totalizado que totaliza as operações no arquivo do F D,
+
+32
+00:02:05.870 --> 00:02:09.220
+ICMS P I por dias e por mês.
+
+33
+00:02:09.229 --> 00:02:13.250
+E tem o perfil C, que é um perfil bem chuto, bem resumido.
+
+34
+00:02:13.259 --> 00:02:17.089
+E para consultar qual é o perfil desse contribuinte que ele está
+
+35
+00:02:17.100 --> 00:02:20.490
+obrigatório pra gerar o arquivo do F D ICMS P I.
+
+36
+00:02:20.500 --> 00:02:24.889
+Existe um site onde a gente pode consultar, colocando lá os dados do C N PJ,
+
+37
+00:02:24.899 --> 00:02:27.610
+a inscrição estadual e aí o próprio site no
+
+38
+00:02:27.619 --> 00:02:31.009
+portal do SPED vai nos resultar essa informação,
+
+39
+00:02:31.020 --> 00:02:31.330
+né?
+
+40
+00:02:31.339 --> 00:02:37.119
+Se é perfil A, B ou C, Lembrando que a gente nunca vai fazer SPED fiscal na mão, né?
+
+41
+00:02:37.130 --> 00:02:40.750
+Tem que ser no sistema tem que configurar no sistema o arquivo.
+
+42
+00:02:41.000 --> 00:02:44.770
+Falamos dos mapeamentos dos registros, o que que é bloco.
+
+43
+00:02:44.779 --> 00:02:49.649
+O que que é registro, Registro? Filho, que o bloco é um grupo, né?
+
+44
+00:02:49.660 --> 00:02:51.990
+São aqueles grupos de
+
+45
+00:02:52.259 --> 00:02:53.429
+informações.
+
+46
+00:02:53.440 --> 00:02:58.070
+Então, a gente tem bloco de cadastro, bloco de documentos, bloco de apuração,
+
+47
+00:02:58.080 --> 00:03:01.029
+bloco de estoque, bloco de inventário,
+
+48
+00:03:01.039 --> 00:03:04.190
+bloco Ali que fala sobre informações extras,
+
+49
+00:03:04.199 --> 00:03:09.990
+Bloco do CIAP do ativo Imobilizado Temos os registros que vão receber as
+
+50
+00:03:10.000 --> 00:03:16.149
+informações e os registros filhos que entra no maior detalhamento do registro pai,
+
+51
+00:03:16.160 --> 00:03:21.089
+lembrando que só aparece registro filho se o registro pai estiver preenchido.
+
+52
+00:03:21.188 --> 00:03:26.457
+Falamos de revisões e cruzamentos no cadastro dos participantes e
+
+53
+00:03:26.468 --> 00:03:30.328
+nos cadastros de produtos onde nós temos que validar.
+
+54
+00:03:30.337 --> 00:03:35.117
+Se o fornecedor é do simples validar, qual é a classificação do produto?
+
+55
+00:03:35.128 --> 00:03:39.998
+Validar se esse produto está com a alíquota correta? NCM correta.
+
+56
+00:03:40.007 --> 00:03:45.138
+Nomenclatura Se tiver alteração no nome, temos que registrar lá no zero,
+
+57
+00:03:45.147 --> 00:03:46.677
+duzentos e cinco.
+
+58
+00:03:46.688 --> 00:03:50.018
+Falamos no cadastro de participantes de alteração de endereço
+
+59
+00:03:50.115 --> 00:03:52.455
+também que tem que ter lá no zero,
+
+60
+00:03:52.466 --> 00:03:58.845
+cento e setenta e cinco se mudou de Estado e inclui numa nova inscrição estadual,
+
+61
+00:03:58.856 --> 00:04:01.166
+tem que incluir um novo cadastro.
+
+62
+00:04:01.175 --> 00:04:04.805
+Falamos também da importância dessa validação
+
+63
+00:04:04.815 --> 00:04:08.005
+com relação aos fornecedores que tem
+
+64
+00:04:08.016 --> 00:04:12.886
+ali esse endereço onde pode acontecer uma operação com diferencial de alíquotas,
+
+65
+00:04:12.895 --> 00:04:15.805
+então é importante manter o endereço atualizado e
+
+66
+00:04:15.815 --> 00:04:18.946
+o sistema não valida esse endereço tá certo?
+
+67
+00:04:19.043 --> 00:04:25.713
+Errado, falamos sobre o x ML não escriturados que é bom validar notas de entrada.
+
+68
+00:04:25.723 --> 00:04:30.854
+Tenha um sistema que captura todas as notas que foram emitidas contra o seu C N PJ.
+
+69
+00:04:30.864 --> 00:04:36.373
+Assim você consegue validar se todas as notas deram entrada no mês em questão.
+
+70
+00:04:36.384 --> 00:04:41.014
+Pode ser que você esteja deixando de aproveitar créditos de ICMS
+
+71
+00:04:41.023 --> 00:04:44.134
+que seriam possibilitados crédito de IPI
+
+72
+00:04:44.144 --> 00:04:47.014
+que seria possibilitado porque simplesmente não
+
+73
+00:04:47.023 --> 00:04:51.182
+escrituro todas as notas e fora que o Fisco pode cobrar
+
+74
+00:04:51.191 --> 00:04:55.701
+dez por cento do valor da operação para documentos não escriturados.
+
+75
+00:04:55.712 --> 00:05:00.462
+No caso de documentos de saída, também precisamos fazer a mesma validação,
+
+76
+00:05:00.471 --> 00:05:03.261
+até porque se é um documento de saída,
+
+77
+00:05:03.272 --> 00:05:08.052
+ele tem que tá em ordem cronológica lá no livro e se não tiver alguma coisa,
+
+78
+00:05:08.062 --> 00:05:09.631
+tem que ter acontecido ali,
+
+79
+00:05:09.641 --> 00:05:13.141
+porque senão eu estarei inclusive deixando de pagar débitos
+
+80
+00:05:13.152 --> 00:05:16.842
+que são devidos pela falta da escrituração do documento fiscal
+
+81
+00:05:17.170 --> 00:05:21.220
+nos livros fiscais. Precisamos validar os totais.
+
+82
+00:05:21.230 --> 00:05:25.619
+Se está batendo base de cálculo valor coluna isentas não
+
+83
+00:05:25.630 --> 00:05:30.380
+tributadas coluna outras Validar se os CST s que estão
+
+84
+00:05:30.390 --> 00:05:34.299
+ali informados fazem sentido com relação ao C f a
+
+85
+00:05:34.309 --> 00:05:38.209
+PS fazem sentido com relação à base de cálculo.
+
+86
+00:05:38.220 --> 00:05:43.920
+Se o CFOP s que estão ali permitindo crédito realmente está tomando crédito,
+
+87
+00:05:43.929 --> 00:05:45.140
+ou o contrário,
+
+88
+00:05:45.149 --> 00:05:49.575
+Se eu estou tomando crédito disser f f o PS que não dão direito a crédito,
+
+89
+00:05:49.584 --> 00:05:53.734
+temos que fazer essa validação validar os valores
+
+90
+00:05:53.744 --> 00:05:57.265
+a recolher olhar o DIFAL contribuinte o DIFAL
+
+91
+00:05:57.274 --> 00:06:01.054
+não contribuinte Validar se o estado está enquadrado
+
+92
+00:06:01.065 --> 00:06:04.535
+na tabela três ponto três é importante.
+
+93
+00:06:04.545 --> 00:06:07.114
+Se o estado estiver na tabela três ponto três
+
+94
+00:06:07.125 --> 00:06:10.515
+o DIFAL contribuinte vai no registro c cento e noventa
+
+95
+00:06:10.524 --> 00:06:16.355
+e cinco e c cento e noventa e sete Se o estado não tem a tabela três ponto três
+
+96
+00:06:16.700 --> 00:06:17.299
+o DIFAL,
+
+97
+00:06:17.309 --> 00:06:20.070
+o contribuinte vai no e cento e onze e
+
+98
+00:06:20.079 --> 00:06:24.630
+no e cento e treze detalhado o ativo imobilizado.
+
+99
+00:06:24.640 --> 00:06:29.549
+O maior ponto de atenção validar se o bloco G está preenchido e
+
+100
+00:06:29.559 --> 00:06:32.730
+tudo isso você vai fazer através dessa
+
+101
+00:06:32.804 --> 00:06:35.535
+planilha que está disponibilizada pra vocês,
+
+102
+00:06:35.545 --> 00:06:37.315
+onde vocês vão poder importar,
+
+103
+00:06:37.325 --> 00:06:40.174
+fazer conferências pra corrigir aquilo que tá errado,
+
+104
+00:06:40.184 --> 00:06:44.825
+mas também levantar oportunidades para aquilo que você
+
+105
+00:06:44.834 --> 00:06:48.834
+pode incluir como melhoria dentro do seu cliente

@@ -1,0 +1,325 @@
+WEBVTT
+
+2
+00:00:00.000 --> 00:00:10.560
+E aí, com a procuração eletrônica da empresa, essa procuração eletrônica é feita lá no ECAC da própria Receita Federal.
+
+3
+00:00:10.560 --> 00:00:26.019
+A gente consegue, no Receita NetBX, baixar rapidamente, por exemplo, a ECD, a ECF, o FD Contribuições, o SPED Fiscal, dos últimos cinco anos.
+
+4
+00:00:26.019 --> 00:00:36.579
+A gente consegue baixar todos os arquivos e são os arquivos oficiais que foram transmitidos para a Receita Federal e que estão na base da Receita Federal.
+
+5
+00:00:36.579 --> 00:00:47.700
+Então, a gente baixa as ECFs dos últimos cinco anos, a gente verifica no mês de dezembro como estava o cálculo do IRPJ,
+
+6
+00:00:47.700 --> 00:00:56.000
+fazemos uma planilha de cálculo de JCP para cada ano, por exemplo, 31 de 12 de 2021.
+
+7
+00:00:56.000 --> 00:01:02.719
+31 de 12 de 2022, 2023, 2024, 2025, os últimos cinco anos.
+
+8
+00:01:02.719 --> 00:01:12.780
+E aí, um cálculo de JCP para os últimos cinco anos e nós verificamos qual é o valor de JCP que poderia ter sido utilizado a cada ano.
+
+9
+00:01:12.780 --> 00:01:24.760
+E aí, o que é interessante é que a legislação do JCP, ele diz que o JCP, para ter a dedutibilidade dele, ele pode ser feito de duas formas.
+
+10
+00:01:24.760 --> 00:01:25.760
+Ou contabilidade.
+
+11
+00:01:25.760 --> 00:01:25.859
+Ou contabilidade.
+
+12
+00:01:25.859 --> 00:01:25.959
+Ou contabilidade.
+
+13
+00:01:25.959 --> 00:01:25.980
+Ou contabilidade.
+
+14
+00:01:25.980 --> 00:01:30.799
+Ou contabilizando diretamente como despesa financeira, que é o que eu vinha dizendo até então.
+
+15
+00:01:31.400 --> 00:01:38.239
+Ou ele pode ser excluído diretamente da base de cálculo do lucro real.
+
+16
+00:01:38.920 --> 00:01:40.900
+Então, normalmente, como que a gente faz?
+
+17
+00:01:41.379 --> 00:01:45.659
+Quando eu estou dentro do ano, por exemplo, agora eu já estou em 2026.
+
+18
+00:01:46.500 --> 00:01:54.760
+Se eu estou fazendo JCP para o ano de 2026, então eu já contabilizo como despesa que eu estou dentro do ano em curso.
+
+19
+00:01:54.900 --> 00:01:55.420
+Agora.
+
+20
+00:01:55.420 --> 00:02:25.120
+Agora, se eu encontrei uma empresa do lucro real que nos últimos cinco anos não usou JCP, eu faço esse procedimento que eu falei para vocês, busco a ECF dos últimos cinco anos, faço um cálculo de JCP para cada 31 de dezembro de cada ano, encontro o valor e aí eu vou retificar as ECFs dos últimos cinco anos apenas colocando numa linha específica de exclusão.
+
+21
+00:02:25.120 --> 00:02:28.960
+Então, o valor de JCP de cada ano.
+
+22
+00:02:29.159 --> 00:02:41.360
+E, se vocês observarem dentro da ECF, onde aparecem várias linhas de exclusão, tem uma linha específica de exclusão chamada juros sobre capital próprio.
+
+23
+00:02:41.740 --> 00:02:47.360
+Ou seja, tem até mesmo uma linha específica de exclusão só de JCP.
+
+24
+00:02:48.199 --> 00:02:49.819
+E aí é simples. Por quê?
+
+25
+00:02:49.819 --> 00:02:55.000
+Porque você pega o arquivo todo da ECF, você vai retificar.
+
+26
+00:02:55.120 --> 00:03:16.860
+Então, ao retificar, ele já vem todas as informações e a única coisa que você vai alterar é, lá em dezembro e também no ajuste anual, a ficha de dezembro e do ajuste anual, entrar com a exclusão do valor do JCP, tanto na ficha do IRPJ quanto na ficha da CSLL.
+
+27
+00:03:16.860 --> 00:03:24.699
+Ao fazer isso, automaticamente, o valor da base do IRPJ e da CSLL.
+
+28
+00:03:24.699 --> 00:03:27.699
+E o valor do IR e da CS vai diminuir.
+
+29
+00:03:28.620 --> 00:03:44.159
+Quando ele diminui, você transmite a ECF retificadora e vai ter que retificar também as DCTFs ou DCTFs Web, informando que o valor do débito do IR e CS diminuiu.
+
+30
+00:03:44.520 --> 00:03:47.819
+Mas sempre só do mês de dezembro de cada ano.
+
+31
+00:03:47.819 --> 00:03:53.939
+Se for lucro real anual, se a empresa está no lucro real trimestral, aí não é só dezembro.
+
+32
+00:03:53.939 --> 00:04:01.280
+Porque ao final de cada trimestre, tem que ter um cálculo específico para o trimestre de JCP.
+
+33
+00:04:01.819 --> 00:04:07.120
+E aí, então, tem que retificar março, junho, setembro e dezembro.
+
+34
+00:04:07.259 --> 00:04:13.740
+Mas fazendo a retificadora tanto das ECFs quanto das DCTFs, pronto.
+
+35
+00:04:14.300 --> 00:04:21.480
+Já tem a diferença entre o que era o débito anterior, GRCS, e o novo débito já reduzido.
+
+36
+00:04:21.480 --> 00:04:23.279
+E essa diferença é o crédito.
+
+37
+00:04:23.939 --> 00:04:28.439
+E mais do que isso, pode ser atualizado a SELIC.
+
+38
+00:04:29.000 --> 00:04:35.579
+Então tem o valor principal a ser recuperado, mais atualização SELIC para recuperar isso.
+
+39
+00:04:35.699 --> 00:04:45.600
+E veja que então o próprio STJ já decidiu no tema repetitivo 1319 de forma favorável aos contribuintes.
+
+40
+00:04:45.600 --> 00:04:53.439
+Então não tem risco das empresas ainda fazer a recuperação tributária de JCP de juros sobre capital próprio.
+
+41
+00:04:53.939 --> 00:05:00.259
+Mas em tudo isso que veio acontecendo, voltando aqui para o tema do aumento da alíquota em 2026,
+
+42
+00:05:01.439 --> 00:05:05.079
+eu já expliquei um pouquinho para vocês que o governo federal, na verdade,
+
+43
+00:05:05.220 --> 00:05:08.839
+ele está buscando formas de elevar a arrecadação.
+
+44
+00:05:09.439 --> 00:05:13.339
+O governo já arrecada trilhões, não sei se vocês sabem,
+
+45
+00:05:13.339 --> 00:05:19.339
+mas todo ano, nos cofres públicos da União só de tributos federais,
+
+46
+00:05:20.459 --> 00:05:23.660
+entra por volta de 2 trilhões.
+
+47
+00:05:23.939 --> 00:05:30.459
+Olha o número, 2 trilhões e 800 bilhões de reais.
+
+48
+00:05:30.459 --> 00:05:34.259
+Todo ano entra esse dinheiro lá na União.
+
+49
+00:05:34.259 --> 00:05:42.699
+É muito dinheiro, mas ainda assim, o Brasil é muito grande, eles usam todo esse dinheiro
+
+50
+00:05:42.699 --> 00:05:45.100
+e querem aumentar ainda mais a arrecadação.
+
+51
+00:05:45.100 --> 00:05:53.000
+Você entra aqui no mérito de discussões políticas ou de utilização dos recursos públicos,
+
+52
+00:05:53.000 --> 00:05:53.600
+que precisam ser recuperados.
+
+53
+00:05:53.600 --> 00:05:56.959
+Precisam ser melhor utilizados, não é?
+
+54
+00:05:57.600 --> 00:06:01.220
+Mas já arrecadam tanto e querem aumentar ainda mais a arrecadação.
+
+55
+00:06:01.759 --> 00:06:06.660
+E aí eles estão buscando formas e alternativas de aumentar a arrecadação.
+
+56
+00:06:06.740 --> 00:06:09.540
+E uma das formas que o governo entendeu, ele falou assim,
+
+57
+00:06:09.540 --> 00:06:13.540
+já que a gente não consegue acabar com o JCP,
+
+58
+00:06:13.699 --> 00:06:20.000
+porque no passado, recente até, o governo tentou até mesmo acabar com o juros sobre capital próprio.
+
+59
+00:06:20.420 --> 00:06:22.420
+Dizer que não faz mais sentido existir.
+
+60
+00:06:22.639 --> 00:06:23.540
+E no dia seguinte...
+
+61
+00:06:23.600 --> 00:06:28.019
+Que o governo federal disse que ia acabar com o JCP,
+
+62
+00:06:28.360 --> 00:06:35.319
+a própria Federação Brasileira dos Bancos e grandes federações e indústrias
+
+63
+00:06:35.319 --> 00:06:38.120
+chegaram para o governo federal falar ao governo.
+
+64
+00:06:38.899 --> 00:06:46.699
+As grandes empresas, elas já utilizam o JCP como toda uma estrutura de capital das empresas.
+
+65
+00:06:46.699 --> 00:06:49.639
+Não pode alterar de uma hora para outra.
+
+66
+00:06:50.360 --> 00:06:53.579
+Acabar com um mecanismo de JCP.
+
+67
+00:06:53.600 --> 00:06:56.980
+Que já existe desde 1995.
+
+68
+00:06:57.779 --> 00:07:02.759
+Então aí o governo recuou, voltou atrás e não acabou com o juros sobre capital próprio.
+
+69
+00:07:03.540 --> 00:07:05.620
+Então como tem que conviver com isso?
+
+70
+00:07:05.759 --> 00:07:12.180
+E o governo federal observa que realmente as grandes empresas e muitas que estão no lucro real
+
+71
+00:07:12.180 --> 00:07:14.139
+utilizam o JCP.
+
+72
+00:07:14.879 --> 00:07:19.439
+Falou, bom, pelo menos o governo olhando do lado da arrecadação,
+
+73
+00:07:19.439 --> 00:07:22.439
+a gente sempre está tributando 15%.
+
+74
+00:07:23.600 --> 00:07:24.980
+De todo o JCP.
+
+75
+00:07:25.199 --> 00:07:28.459
+Mas já que a gente quer aumentar a tributação, vamos fazer o seguinte então.
+
+76
+00:07:28.939 --> 00:07:35.720
+Vamos aumentar em 2,5% essa arrecadação do JCP, porque a gente sobe a arrecadação.
+
+77
+00:07:36.420 --> 00:07:41.139
+E foi o que fizeram então, agora a partir de janeiro de 2026,
+
+78
+00:07:41.779 --> 00:07:48.660
+aumentando de 15% para 17,5% o IR em fontes sobre JCP.
+
+79
+00:07:49.319 --> 00:07:52.759
+Isso é o que a gente chama de sanha arrecadatória.
+
+80
+00:07:52.759 --> 00:07:53.540
+O governo...
+
+81
+00:07:53.540 --> 00:08:00.000
+O governo querendo arrecadar cada vez mais e mudando as regras do jogo e as regras de tributação.
+
+82
+00:08:00.220 --> 00:08:02.360
+Então é importante a gente saber e conhecer isso.

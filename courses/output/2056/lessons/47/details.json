@@ -1,0 +1,33 @@
+{
+  "id": 462141,
+  "title": "TOM",
+  "position": 47,
+  "duration": 337,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/649d4a89-803f-43db-b797-f1230b21eebb/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/649d4a89-803f-43db-b797-f1230b21eebb/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/649d4a89-803f-43db-b797-f1230b21eebb/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/649d4a89-803f-43db-b797-f1230b21eebb/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/649d4a89-803f-43db-b797-f1230b21eebb/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 464838,
+  "title": "Qualidades - parte 2",
+  "position": 9,
+  "duration": 435,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/de5d48c8-1b71-45df-96a3-d70c52d04d35/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de5d48c8-1b71-45df-96a3-d70c52d04d35/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de5d48c8-1b71-45df-96a3-d70c52d04d35/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de5d48c8-1b71-45df-96a3-d70c52d04d35/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/de5d48c8-1b71-45df-96a3-d70c52d04d35/1080.mp4",
+      "height": 1080
+    }
+  ]
+}

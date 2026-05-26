@@ -1,0 +1,33 @@
+{
+  "id": 474563,
+  "title": "Exame de Qualificação Técnica (EQT)",
+  "position": 29,
+  "duration": 556,
+  "preview_url": "https://cdn.cefis.cloud/cefiscdn/media/thumbnails/dd5db5e8-5d83-423c-b94f-a3b7479de572/sprite.vtt",
+  "stream_sources": [
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd5db5e8-5d83-423c-b94f-a3b7479de572/360.mp4",
+      "height": 360
+    },
+    {
+      "quality": "sd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd5db5e8-5d83-423c-b94f-a3b7479de572/480.mp4",
+      "height": 480
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd5db5e8-5d83-423c-b94f-a3b7479de572/720.mp4",
+      "height": 720
+    },
+    {
+      "quality": "hd",
+      "type": "video/mp4",
+      "link_secure": "https://cdn2.cefis.com.br/vod/dd5db5e8-5d83-423c-b94f-a3b7479de572/1080.mp4",
+      "height": 1080
+    }
+  ]
+}
