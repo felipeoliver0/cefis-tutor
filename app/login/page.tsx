@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 
 export default function LoginPage() {
-  const [formData, setFormData] = useState({ cpf: "", email: "" });
+  const [formData, setFormData] = useState({ cpf: "", password: "" });
   const [loading, setLoading] = useState(false);
   const router = useRouter();
 
@@ -12,12 +12,18 @@ export default function LoginPage() {
     e.preventDefault();
     setLoading(true);
 
-    // Simulando autenticação para permitir o seu acesso imediato
-    localStorage.setItem("cefis_token", "token_valido_hackathon");
-    localStorage.setItem("cefis_user_email", formData.email);
-    
-    // Redireciona para a Home
-    router.push("/");
+    const res = await fetch("/api/auth/login", {
+      method: "POST",
+      body: JSON.stringify(formData),
+    });
+
+    if (res.ok) {
+      const data = await res.json();
+      localStorage.setItem("cefis_token", "logado"); // Token genérico para a sessão
+      router.push("/");
+    } else {
+      alert("Falha na autenticação. Verifique seu CPF e Senha.");
+    }
     setLoading(false);
   };
 
@@ -29,19 +35,15 @@ export default function LoginPage() {
           <input 
             type="text" placeholder="CPF" required
             onChange={(e) => setFormData({...formData, cpf: e.target.value})}
-            className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl text-white outline-none focus:ring-1 focus:ring-blue-500"
+            className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl text-white"
           />
           <input 
-            type="email" placeholder="E-mail" required
-            onChange={(e) => setFormData({...formData, email: e.target.value})}
-            className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl text-white outline-none focus:ring-1 focus:ring-blue-500"
+            type="password" placeholder="Senha" required
+            onChange={(e) => setFormData({...formData, password: e.target.value})}
+            className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl text-white"
           />
-          <button 
-            type="submit"
-            disabled={loading}
-            className="w-full bg-blue-600 py-4 rounded-xl text-white font-bold hover:bg-blue-500 transition-all"
-          >
-            {loading ? "Autenticando..." : "Entrar"}
+          <button className="w-full bg-blue-600 py-4 rounded-xl text-white font-bold">
+            {loading ? "Entrando..." : "Entrar"}
           </button>
         </form>
       </div>

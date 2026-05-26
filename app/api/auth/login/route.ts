@@ -3,27 +3,25 @@ import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: NextRequest) {
   try {
-    const body = await req.json();
-    const { cpf, email } = body;
+    const { cpf, password } = await req.json();
 
-    // Conecta na API oficial da CEFIS
-    const response = await fetch("https://api.cefis.com.br/v1/login", {
+    const response = await fetch("https://cefis.com.br/auth/logon", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ cpf, email }),
+      body: JSON.stringify({ 
+        email: cpf,      // A API deles exige a chave 'email', mesmo sendo um CPF
+        password: password 
+      }),
     });
 
     const data = await response.json();
 
-    // VALIDAÇÃO REAL: Só prossegue se a API da CEFIS retornar status 200/OK
     if (!response.ok) {
-      return NextResponse.json({ error: "Credenciais inválidas no sistema CEFIS" }, { status: 401 });
+      return NextResponse.json({ error: "Credenciais inválidas" }, { status: 401 });
     }
 
-    // Se passou, retorna o token real da API deles
-    return NextResponse.json({ success: true, token: data.token });
-
+    return NextResponse.json(data);
   } catch (error) {
-    return NextResponse.json({ error: "Erro de conexão com o servidor" }, { status: 500 });
+    return NextResponse.json({ error: "Erro de conexão" }, { status: 500 });
   }
 }
