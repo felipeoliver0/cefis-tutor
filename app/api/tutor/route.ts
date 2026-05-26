@@ -1,31 +1,38 @@
 // app/api/tutor/route.ts
 import { NextRequest, NextResponse } from "next/server";
-import { GoogleGenerativeAI } from "@google/generative-ai";
 
 export async function POST(req: NextRequest) {
   try {
-    const apiKey = process.env.GEMINI_API_KEY || "";
-    const genAI = new GoogleGenerativeAI(apiKey);
+    const body = await req.json();
+    const { goal } = body;
 
-    // Forçamos a API para a versão 'v1', que é a estável e garantida no nível gratuito
-    const model = genAI.getGenerativeModel(
-      { model: "gemini-1.5-flash" }, 
-      { apiVersion: 'v1' } 
-    );
+    const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${process.env.GROQ_API_KEY}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        model: "llama3-8b-8192",
+        messages: [
+          { role: "system", content: "Você é um tutor da plataforma CEFIS. Responda de forma curta e profissional." },
+          { role: "user", content: `Crie um plano de estudos para: ${goal}` }
+        ],
+      }),
+    });
 
-    const result = await model.generateContent("Olá, teste de conexão.");
-    const response = await result.response;
-    
+    const data = await response.json();
+
+    if (!response.ok) {
+      throw new Error(data.error?.message || "Erro na API do Groq");
+    }
+
     return NextResponse.json({ 
       success: true, 
-      message: response.text() 
+      tutorResponse: data.choices[0].message.content 
     });
 
   } catch (error: any) {
-    // Retorna o erro detalhado para a tela para confirmarmos se o 404 sumiu
-    return NextResponse.json({ 
-      error: error.message,
-      // Se ainda houver 404, o console da Vercel terá o log da tentativa de URL completa
-    }, { status: 500 });
+    return NextResponse.json({ error: error.message }, { status: 500 });
   }
 }
