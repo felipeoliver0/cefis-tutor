@@ -33,10 +33,10 @@ DIRETRIZES OBRIGATÓRIAS PARA SUA RESPOSTA:
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        model: "llama3-70b-8192", // Modelo de alta performance do Groq
+        model: "llama3-8b-8192", // Trocado para modelo mais estável
         messages: [
           { role: "system", content: systemPrompt },
-          { role: "user", content: `Por favor, crie meu plano de estudos para ${subject} agora.` }
+          { role: "user", content: `Crie meu plano de estudos para: ${subject || 'estudos gerais'}` } // Tratamento para não ser vazio
         ],
         temperature: 0.7,
       }),
