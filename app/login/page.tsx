@@ -3,7 +3,8 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 
 export default function LoginPage() {
-  const [formData, setFormData] = useState({ cpf: "", password: "" });
+  // Ajustado para 'identifier' para aceitar tanto CPF quanto E-mail
+  const [formData, setFormData] = useState({ identifier: "", password: "" });
   const [loading, setLoading] = useState(false);
   const router = useRouter();
 
@@ -12,45 +13,43 @@ export default function LoginPage() {
     setLoading(true);
 
     try {
-      // 1. Faz a autenticação
+      // 1. Autenticação
       const res = await fetch("/api/auth/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(formData),
+        // Enviamos 'identifier' como o CPF ou E-mail
+        body: JSON.stringify({
+          cpf: formData.identifier, // Ajuste a chave se o seu backend esperar 'email' ou 'identifier'
+          password: formData.password
+        }),
       });
 
       if (res.ok) {
         const data = await res.json();
-        
-        // 2. Salva o Token
         localStorage.setItem("cefis_token", "logado");
 
-        // 3. IDENTIFICAÇÃO DO USUÁRIO
-        // Se a sua API de login já retornar o nome (data.name), use ele!
-        // Caso contrário, faremos a chamada da API que você mostrou no print:
-        
+        // 2. Busca o nome do usuário para o Dashboard
+        // A API de identificação vai confirmar o nome real do usuário
         const identifyRes = await fetch("https://api.cefis.email/customers/identify", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ 
-             // Ajuste os campos conforme sua documentação de API
-             cpf: formData.cpf 
+             // Se o seu backend aceitar o identifier como chave, ajuste aqui
+             cpf: formData.identifier 
           })
         });
 
         if (identifyRes.ok) {
           const userData = await identifyRes.json();
-          // SALVA O NOME E EMAIL NO LOCALSTORAGE PARA A HOME LER
           localStorage.setItem("cefis_user_name", userData.name || "Usuário");
-          localStorage.setItem("cefis_user_email", userData.email || "email@exemplo.com");
+          localStorage.setItem("cefis_user_email", userData.email || "");
         } else {
-          // Fallback caso a identificação falhe
           localStorage.setItem("cefis_user_name", "Usuário");
         }
 
         router.push("/");
       } else {
-        alert("Falha na autenticação. Verifique seu CPF e Senha.");
+        alert("Falha na autenticação. Verifique seus dados.");
       }
     } catch (error) {
       console.error("Erro no login:", error);
@@ -67,9 +66,9 @@ export default function LoginPage() {
         <form onSubmit={handleSubmit} className="space-y-4">
           <input 
             type="text" 
-            placeholder="CPF" 
+            placeholder="CPF ou E-mail" 
             required
-            onChange={(e) => setFormData({...formData, cpf: e.target.value})}
+            onChange={(e) => setFormData({...formData, identifier: e.target.value})}
             className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl text-white outline-none focus:border-blue-500"
           />
           <input 
