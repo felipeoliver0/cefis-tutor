@@ -1,0 +1,42 @@
+// prisma/schema.prisma
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id               String         @id @default(uuid())
+  email            String         @unique
+  name             String
+  studyPlans       StudyPlan[]
+  createdAt        DateTime       @default(now())
+}
+
+model StudyPlan {
+  id               String        @id @default(uuid())
+  userId           String?
+  user             User?         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  goal             String
+  experience       String
+  timeAvailable    String
+  learningStyle    String
+  diagnostic       String        // Diagnóstico de lacunas gerado pela IA
+  modules          PlanModule[]
+  createdAt        DateTime      @default(now())
+}
+
+model PlanModule {
+  id               String    @id @default(uuid())
+  studyPlanId      String
+  studyPlan        StudyPlan @relation(fields: [studyPlanId], references: [id], onDelete: Cascade)
+  title            String
+  duration         String
+  lessonTitle      String
+  lessonId         Int
+  badge            String
+  isCompleted      Boolean   @default(false)
+}
