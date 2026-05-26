@@ -15,9 +15,8 @@ export default function Home() {
   const [activeEnv, setActiveEnv] = useState<LearningEnvironment | null>(null);
   const [userEmail, setUserEmail] = useState("");
   const [isReady, setIsReady] = useState(false);
-  const [watchedCourses, setWatchedCourses] = useState<any[]>([]); // Estado para os assistidos
+  const [watchedCourses, setWatchedCourses] = useState<any[]>([]);
 
-  // Carrega a sessão
   useEffect(() => {
     const token = localStorage.getItem("cefis_token");
     if (!token) {
@@ -30,7 +29,6 @@ export default function Home() {
     }
   }, [router]);
 
-  // Sempre que mudar para a tela de assistidos, ele lê o localstorage novamente
   useEffect(() => {
     if (view === "watched") {
       const savedWatched = JSON.parse(localStorage.getItem("cefis_watched") || "[]");
@@ -53,6 +51,9 @@ export default function Home() {
       const updated = envs.filter(env => env.id !== id);
       setEnvs(updated);
       localStorage.setItem("cefis_environments", JSON.stringify(updated));
+      // LIMPEZA: Apaga também as mensagens salvas desse chat específico
+      localStorage.removeItem(`cefis_chat_${id}`); 
+      
       if (activeEnv?.id === id) { setActiveEnv(null); setView("catalog"); }
     }
   };
@@ -68,7 +69,7 @@ export default function Home() {
   return (
     <div className="flex h-screen bg-[#0a0f1c] font-sans overflow-hidden text-slate-200">
       
-      {/* SIDEBAR */}
+      {/* ================= BARRA LATERAL ================= */}
       <aside className="w-72 bg-[#080c17] border-r border-slate-800/80 flex flex-col h-full flex-shrink-0 z-20">
         <div className="p-6 border-b border-slate-800/50">
           <a href="/" className="flex items-center gap-3 hover:opacity-80 transition-all cursor-pointer group">
@@ -131,7 +132,7 @@ export default function Home() {
         </div>
       </aside>
 
-      {/* ÁREA PRINCIPAL */}
+      {/* ================= ÁREA PRINCIPAL ================= */}
       <main className="flex-1 flex flex-col h-full overflow-hidden relative bg-[#0a0f1c]">
         
         <header className="h-20 px-8 flex items-center justify-between border-b border-slate-800/50 bg-slate-900/20 backdrop-blur-sm z-10 flex-shrink-0">
@@ -169,11 +170,14 @@ export default function Home() {
             
             {view === "dashboard" && activeEnv && (
               <div className="animate-fade-in h-full">
-                <TutorDashboard profile={activeEnv.profile} />
+                <TutorDashboard 
+                  key={activeEnv.id} /* A mágica do React: reseta o componente ao trocar de chat */
+                  envId={activeEnv.id} /* Passa a ID para salvar as mensagens certas */
+                  profile={activeEnv.profile} 
+                />
               </div>
             )}
 
-            {/* Nova lógica visual para Aulas Assistidas */}
             {view === "watched" && (
               <div className="animate-fade-in pb-12">
                 <h2 className="text-2xl font-bold text-white mb-6 flex items-center gap-3">
@@ -216,7 +220,6 @@ export default function Home() {
                 )}
               </div>
             )}
-
           </div>
         </div>
       </main>

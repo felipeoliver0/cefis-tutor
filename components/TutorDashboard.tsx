@@ -7,13 +7,19 @@ interface Message {
   content: string;
 }
 
-export default function TutorDashboard({ profile }: { profile: UserProfile }) {
+// Recebemos a nova propriedade envId
+interface TutorProps {
+  profile: UserProfile;
+  envId: string; 
+}
+
+export default function TutorDashboard({ profile, envId }: TutorProps) {
   const [messages, setMessages] = useState<Message[]>([]);
   const [courses, setCourses] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
   const [isTyping, setIsTyping] = useState(false);
   const [inputValue, setInputValue] = useState("");
-  const [isSpeaking, setIsSpeaking] = useState(false); // Controle de áudio
+  const [isSpeaking, setIsSpeaking] = useState(false);
   
   const chatEndRef = useRef<HTMLDivElement>(null);
 
@@ -21,10 +27,23 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
     chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages, isTyping]);
 
+  // ==============================================================
+  // CARREGA HISTÓRICO SALVO OU GERA O NOVO PLANO INICIAL
+  // ==============================================================
   useEffect(() => {
-    const generateInitialPlan = async () => {
-      if (messages.length > 0) return;
+    const initChat = async () => {
+      // 1. Tenta buscar o histórico salvo para este chat específico
+      const savedData = localStorage.getItem(`cefis_chat_${envId}`);
       
+      if (savedData) {
+        // Se já tem conversa, apenas restaura na tela!
+        const parsed = JSON.parse(savedData);
+        setMessages(parsed.messages || []);
+        setCourses(parsed.courses || []);
+        return;
+      }
+
+      // 2. Se NÃO TEM conversa, gera o Diagnóstico de Lacunas pela API
       setLoading(true);
       try {
         const response = await fetch("/api/tutor", {
@@ -34,8 +53,17 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
         });
         const data = await response.json();
         
-        setMessages([{ role: "assistant", content: data.tutorResponse }]);
-        setCourses(data.recommendedCourses || []);
+        const newMsg: Message = { role: "assistant", content: data.tutorResponse };
+        const foundCourses = data.recommendedCourses || [];
+        
+        setMessages([newMsg]);
+        setCourses(foundCourses);
+
+        // Salva esse plano inicial no navegador
+        localStorage.setItem(`cefis_chat_${envId}`, JSON.stringify({
+          messages: [newMsg],
+          courses: foundCourses
+        }));
       } catch (err) {
         setMessages([{ role: "assistant", content: "Erro ao conectar com a IA." }]);
       } finally {
@@ -43,14 +71,16 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
       }
     };
 
-    generateInitialPlan();
-  }, [profile, messages.length]);
+    initChat();
+  }, [envId, profile]); // Executa toda vez que trocar de sala
 
+  // ==============================================================
+  // ENVIO DE NOVAS MENSAGENS E ATUALIZAÇÃO DO SALVAMENTO
+  // ==============================================================
   const handleSendMessage = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!inputValue.trim()) return;
 
-    // Para o áudio se o usuário mandar nova mensagem
     if (isSpeaking) handleStopSpeaking();
 
     const newUserMsg: Message = { role: "user", content: inputValue };
@@ -68,10 +98,22 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
       });
       
       const data = await response.json();
-      setMessages([...newHistory, { role: "assistant", content: data.tutorResponse }]);
-      if (data.recommendedCourses && data.recommendedCourses.length > 0) {
-        setCourses(data.recommendedCourses);
-      }
+      const finalHistory = [...newHistory, { role: "assistant", content: data.tutorResponse } as Message];
+      
+      setMessages(finalHistory);
+      
+      const newCourses = (data.recommendedCourses && data.recommendedCourses.length > 0) 
+        ? data.recommendedCourses 
+        : courses;
+        
+      setCourses(newCourses);
+
+      // Salva a nova conversa no banco local para não perder
+      localStorage.setItem(`cefis_chat_${envId}`, JSON.stringify({
+        messages: finalHistory,
+        courses: newCourses
+      }));
+
     } catch (err) {
       setMessages([...newHistory, { role: "assistant", content: "Ops, falha na conexão." }]);
     } finally {
@@ -79,22 +121,16 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
     }
   };
 
-  // ==========================================
-  // FUNÇÃO DE LEITURA EM ÁUDIO (MULTIFORMATO)
-  // ==========================================
   const handleSpeak = (text: string) => {
     if (!('speechSynthesis' in window)) {
       alert("Seu navegador não suporta leitura em voz alta.");
       return;
     }
-
-    // Limpa marcações markdown para leitura mais fluida
     const cleanText = text.replace(/[*#]/g, '').replace(/_ /g, '');
-
-    window.speechSynthesis.cancel(); // Para qualquer leitura anterior
+    window.speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(cleanText);
-    utterance.lang = 'pt-BR'; // Força voz em português
-    utterance.rate = 1.1; // Velocidade ligeiramente mais rápida
+    utterance.lang = 'pt-BR';
+    utterance.rate = 1.1;
     
     utterance.onend = () => setIsSpeaking(false);
     utterance.onerror = () => setIsSpeaking(false);
@@ -108,11 +144,8 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
     setIsSpeaking(false);
   };
 
-  // Limpa o áudio se a pessoa sair da página
   useEffect(() => {
-    return () => {
-      window.speechSynthesis.cancel();
-    };
+    return () => window.speechSynthesis.cancel();
   }, []);
 
   if (loading) {
@@ -130,7 +163,6 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
       {/* LADO ESQUERDO: CHAT COM A IA */}
       <div className="flex-1 flex flex-col bg-slate-950 rounded-3xl border border-slate-800 overflow-hidden shadow-xl relative">
         
-        {/* Aviso de Áudio Tocando */}
         {isSpeaking && (
           <div className="absolute top-0 left-0 right-0 bg-blue-600/90 backdrop-blur-sm px-4 py-2 flex items-center justify-between z-10 animate-fade-in shadow-lg">
             <span className="text-white text-xs font-bold flex items-center gap-2">
@@ -154,7 +186,6 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
                 <pre className="whitespace-pre-wrap font-sans leading-relaxed text-[15px]">{msg.content}</pre>
               </div>
               
-              {/* Botão de Ouvir Áudio (Só aparece nas respostas da IA) */}
               {msg.role === "assistant" && !isSpeaking && (
                 <button 
                   onClick={() => handleSpeak(msg.content)}
@@ -186,7 +217,7 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
         </form>
       </div>
 
-      {/* LADO DIREITO: CURSOS E VÍDEOS RECOMENDADOS */}
+      {/* LADO DIREITO: CURSOS RECOMENDADOS */}
       {courses.length > 0 && (
         <div className="w-full md:w-96 space-y-6 overflow-y-auto max-h-[700px] pr-2 scrollbar-thin scrollbar-thumb-slate-800">
           <h3 className="text-lg font-bold text-white">Materiais Recomendados CEFIS</h3>
