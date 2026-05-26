@@ -11,35 +11,68 @@ export default function EnvironmentManager({ onSelect }: { onSelect: (env: Learn
   }, []);
 
   const deleteEnv = (id: string) => {
-    const updated = envs.filter(e => e.id !== id);
-    setEnvs(updated);
-    localStorage.setItem("cefis_environments", JSON.stringify(updated));
+    if (confirm("Tem certeza que deseja excluir este ambiente?")) {
+      const updated = envs.filter(e => e.id !== id);
+      setEnvs(updated);
+      localStorage.setItem("cefis_environments", JSON.stringify(updated));
+    }
   };
 
   return (
-    <div className="space-y-4">
-      <h2 className="text-xl font-bold text-white">Seus Ambientes de Estudo</h2>
+    <div className="space-y-8 animate-fade-in">
+      <h2 className="text-2xl font-bold text-white mb-4">Seus Ambientes de Estudo</h2>
       
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {envs.map((env) => (
-          <div key={env.id} className="p-4 bg-slate-800 rounded-xl border border-slate-700 flex justify-between items-center">
+          <div 
+            key={env.id} 
+            className="group relative p-6 bg-slate-900 rounded-2xl border border-slate-700 hover:border-blue-500 hover:shadow-[0_0_20px_rgba(59,130,246,0.15)] transition-all duration-300 flex flex-col justify-between min-h-[160px]"
+          >
             <div>
-              <h3 className="font-bold text-white">{env.name}</h3>
-              <p className="text-xs text-slate-400">{env.profile.subject}</p>
+              <h3 className="font-bold text-xl text-white group-hover:text-blue-400 transition-colors">{env.name}</h3>
+              <p className="text-sm text-slate-400 mt-1 line-clamp-1">Foco: {env.profile.subject}</p>
             </div>
-            <div className="flex gap-2">
-              <button onClick={() => onSelect(env)} className="text-blue-400">Abrir</button>
-              <button onClick={() => deleteEnv(env.id)} className="text-red-400">X</button>
+            
+            <div className="flex items-center justify-between mt-6">
+              {/* Botão ABRIR com cara de botão mesmo */}
+              <button 
+                onClick={() => onSelect(env)} 
+                className="px-6 py-2.5 bg-blue-600/10 text-blue-400 border border-blue-500/30 hover:bg-blue-600 hover:text-white rounded-xl font-bold transition-all flex items-center gap-2"
+              >
+                <span>Abrir Ambiente</span>
+                <span>→</span>
+              </button>
+              
+              {/* Botão EXCLUIR com ícone sutil */}
+              <button 
+                onClick={() => deleteEnv(env.id)} 
+                className="p-2.5 text-slate-500 hover:text-red-400 hover:bg-red-500/10 rounded-xl transition-all" 
+                title="Excluir ambiente"
+              >
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M3 6h18"></path>
+                  <path d="M19 6v14c0 1-1 2-2 2H7c-1 0-2-1-2-2V6"></path>
+                  <path d="M8 6V4c0-1 1-2 2-2h4c1 0 2 1 2 2v2"></path>
+                </svg>
+              </button>
             </div>
           </div>
         ))}
         
-        {/* Botão para criar novo */}
-        <button onClick={() => onSelect({ id: 'new', name: '', profile: {} as any })} 
-                className="p-4 border-2 border-dashed border-slate-700 rounded-xl text-slate-500 hover:border-blue-500 hover:text-blue-500">
-          + Novo Ambiente
+        {/* Card de NOVO AMBIENTE mais convidativo */}
+        <button 
+          onClick={() => onSelect({ id: 'new', name: '', profile: {} as any })} 
+          className="group p-6 border-2 border-dashed border-slate-700 rounded-2xl min-h-[160px] flex flex-col items-center justify-center gap-3 text-slate-400 hover:border-blue-500 hover:text-blue-400 hover:bg-slate-900/50 transition-all cursor-pointer"
+        >
+          <div className="w-12 h-12 rounded-full bg-slate-800 group-hover:bg-blue-600/20 flex items-center justify-center transition-all">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M12 5v14"></path>
+              <path d="M5 12h14"></path>
+            </svg>
+          </div>
+          <span className="font-semibold text-lg">Criar Novo Ambiente</span>
         </button>
       </div>
     </div>
   );
-}   
+}
