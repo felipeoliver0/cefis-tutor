@@ -1,84 +1,107 @@
+// components/TutorDashboard.tsx
 "use client";
 import { useState, useEffect } from "react";
 import { UserProfile } from "../types/profile";
-import { availableCourses } from "../data/courses"; // Importa os cursos reais
 
 export default function TutorDashboard({ profile }: { profile: UserProfile }) {
-  // ... (mantenha a lógica da IA que já está funcionando) ...
+  const [result, setResult] = useState<string | null>(null);
+  const [courses, setCourses] = useState<any[]>([]);
+  const [loading, setLoading] = useState(false);
 
-  // Novo Sistema de Recomendação Inteligente
-  const subjectTerm = profile.subject.toLowerCase();
-  
-  const recommendedCourses = availableCourses.filter(course => {
-    const titleMatch = course.title.toLowerCase().includes(subjectTerm);
-    const keywordMatch = course.keywords.toLowerCase().includes(subjectTerm);
-    return titleMatch || keywordMatch;
-  });
+  useEffect(() => {
+    const generateTutorPlan = async () => {
+      setLoading(true);
+      try {
+        const response = await fetch("/api/tutor", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(profile), 
+        });
+        
+        const data = await response.json();
+        
+        if (data.error) {
+          setResult(`Erro: ${data.error}`);
+        } else {
+          setResult(data.tutorResponse || "Nenhuma resposta gerada.");
+          setCourses(data.recommendedCourses || []);
+        }
+      } catch (err) {
+        setResult("Ocorreu um erro ao conectar com o Tutor de IA.");
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    if (!result) {
+      generateTutorPlan();
+    }
+  }, [profile, result]);
 
   return (
     <div className="space-y-10">
-      
-      {/* ... (Renderização do Texto da IA) ... */}
+      {/* Exibição do Plano Gerado pela IA */}
+      {loading ? (
+        <div className="flex flex-col items-center justify-center py-20 space-y-4">
+          <div className="w-12 h-12 border-4 border-blue-600 border-t-transparent rounded-full animate-spin"></div>
+          <p className="text-blue-400 font-medium">Analisando sua base de dados e criando seu plano...</p>
+        </div>
+      ) : (
+        <div className="bg-slate-950 p-8 rounded-3xl border border-slate-800 shadow-xl">
+          <h2 className="text-2xl font-bold text-white mb-6">Plano de Estudos Personalizado</h2>
+          <pre className="whitespace-pre-wrap font-sans text-slate-200 leading-relaxed text-lg">
+            {result}
+          </pre>
+        </div>
+      )}
 
-      {/* Biblioteca de Cursos Dinâmica */}
-      <section className="animate-fade-in">
-        <h3 className="text-xl font-bold text-white mb-6">Trilhas Recomendadas na CEFIS</h3>
-        
-        {recommendedCourses.length > 0 ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {recommendedCourses.map((course) => {
-              
-              // Pega o vídeo em HD (se existir) da primeira aula
-              const firstLesson = course.lessons[0];
-              const hdVideoUrl = firstLesson?.stream_sources.find(s => s.quality === "hd")?.link_secure || 
-                                 firstLesson?.stream_sources[0]?.link_secure;
-
-              return (
-                <div key={course.id} className="bg-slate-900 rounded-2xl overflow-hidden border border-slate-700 hover:border-blue-500 transition-all flex flex-col">
-                  {/* Banner do Curso */}
-                  <div className="relative h-40 w-full">
-                    <img src={course.banner} alt={course.title} className="w-full h-full object-cover" />
-                    <div className="absolute bottom-2 left-2 bg-black/70 px-2 py-1 rounded text-xs text-white font-bold">
-                      {course.lessons.length} Aula(s)
-                    </div>
-                  </div>
-                  
-                  {/* Informações */}
-                  <div className="p-5 flex flex-col flex-grow">
-                    <h4 className="font-bold text-lg text-white mb-1 line-clamp-2">{course.title}</h4>
-                    
-                    {/* Instrutor */}
-                    <div className="flex items-center gap-2 mb-4 mt-2">
-                      <img src={course.teacher.avatar} alt={course.teacher.name} className="w-6 h-6 rounded-full" />
-                      <span className="text-sm text-slate-400">{course.teacher.name}</span>
-                    </div>
-
-                    <p className="text-sm text-slate-400 mb-6 line-clamp-3">{course.summary}</p>
-                    
-                    {/* Botão de Ação usando a URL segura do JSON */}
-                    <div className="mt-auto">
-                      <a 
-                        href={hdVideoUrl} 
-                        target="_blank" 
-                        rel="noreferrer"
-                        className="block w-full text-center bg-slate-800 hover:bg-blue-600 py-3 rounded-xl font-bold text-white transition-colors"
-                      >
-                        Assistir Aula 1
-                      </a>
-                    </div>
+      {/* Seção de Cursos Recomendados */}
+      {!loading && courses.length > 0 && (
+        <section className="animate-fade-in border-t border-slate-800 pt-10">
+          <h3 className="text-2xl font-bold text-white mb-8">Materiais recomendados na CEFIS</h3>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {courses.map((course) => (
+              <div key={course.id} className="bg-slate-900 rounded-2xl overflow-hidden border border-slate-700 hover:border-blue-500 transition-all flex flex-col shadow-lg">
+                {/* Imagem do Curso */}
+                <div className="relative h-48 w-full">
+                  <img src={course.banner} alt={course.title} className="w-full h-full object-cover" />
+                  <div className="absolute top-4 right-4 bg-black/60 backdrop-blur-md px-3 py-1 rounded-lg text-xs text-white font-bold border border-white/10">
+                    {course.lessonCount || 0} aulas
                   </div>
                 </div>
-              );
-            })}
+                
+                {/* Detalhes */}
+                <div className="p-6 flex flex-col flex-grow">
+                  <h4 className="font-bold text-xl text-white mb-3 line-clamp-2">{course.title}</h4>
+                  
+                  {course.teacher && (
+                    <div className="flex items-center gap-3 mb-5">
+                      <img src={course.teacher.avatar} alt={course.teacher.name} className="w-8 h-8 rounded-full border border-slate-600" />
+                      <span className="text-sm text-slate-400 font-medium">{course.teacher.name}</span>
+                    </div>
+                  )}
+
+                  <p className="text-sm text-slate-400 mb-6 line-clamp-3 leading-relaxed">
+                    {course.summary}
+                  </p>
+                  
+                  {/* Botão de Ação */}
+                  {course.firstLessonVideo && (
+                    <a 
+                      href={course.firstLessonVideo} 
+                      target="_blank" 
+                      rel="noreferrer"
+                      className="mt-auto block w-full text-center bg-blue-600 hover:bg-blue-500 py-4 rounded-xl font-bold text-white transition-all shadow-lg hover:shadow-blue-500/20"
+                    >
+                      Assistir Aula 1
+                    </a>
+                  )}
+                </div>
+              </div>
+            ))}
           </div>
-        ) : (
-          <div className="p-6 border border-dashed border-slate-700 rounded-2xl text-center">
-            <p className="text-slate-400">
-              Ainda não mapeamos cursos de <strong className="text-white">{profile.subject}</strong> no catálogo local.
-            </p>
-          </div>
-        )}
-      </section>
+        </section>
+      )}
     </div>
   );
 }
