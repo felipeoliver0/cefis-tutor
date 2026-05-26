@@ -1,58 +1,45 @@
-// app/page.tsx
+TypeScript
 "use client";
-
 import { useEffect, useState } from "react";
+import Onboarding from "@/components/Onboarding";
+import TutorDashboard from "@/components/TutorDashboard"; // Mova seu form antigo para cá
 import { useRouter } from "next/navigation";
 
 export default function Home() {
+  const [step, setStep] = useState<"loading" | "login" | "onboarding" | "dashboard">("loading");
+  const [profile, setProfile] = useState(null);
   const router = useRouter();
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-  const [userEmail, setUserEmail] = useState("");
-  const [loading, setLoading] = useState(false);
-  const [result, setResult] = useState<string | null>(null);
-  
-  // Estado dos campos que sumiram
-  const [formData, setFormData] = useState({ 
-    goal: "", 
-    experience: "Iniciante", 
-    timeAvailable: "15 min/dia", 
-    learningStyle: "Visual" 
-  });
 
   useEffect(() => {
     const token = localStorage.getItem("cefis_token");
+    const storedProfile = localStorage.getItem("cefis_profile");
+    
     if (!token) {
+      setStep("login");
       router.push("/login");
+    } else if (!storedProfile) {
+      setStep("onboarding");
     } else {
-      setIsAuthenticated(true);
-      setUserEmail(localStorage.getItem("cefis_user_email") || "Usuário");
+      setProfile(JSON.parse(storedProfile));
+      setStep("dashboard");
     }
   }, [router]);
 
-  const handleLogout = () => {
-    localStorage.clear();
-    router.push("/login");
+  const handleProfileComplete = (data: any) => {
+    localStorage.setItem("cefis_profile", JSON.stringify(data));
+    setProfile(data);
+    setStep("dashboard");
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setLoading(true);
-    try {
-      const response = await fetch("/api/tutor", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(formData),
-      });
-      const data = await response.json();
-      setResult(data.tutorResponse);
-    } catch (err) {
-      alert("Erro ao conectar com a IA.");
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  if (!isAuthenticated) return null;
+  if (step === "loading") return null;
+  
+  return (
+    <main>
+      {step === "onboarding" && <Onboarding onComplete={handleProfileComplete} />}
+      {step === "dashboard" && <TutorDashboard profile={profile} />}
+    </main>
+  );
+}
 
   return (
     <main className="min-h-screen bg-slate-950 p-6 md:p-12 text-slate-200">
