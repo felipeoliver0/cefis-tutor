@@ -3,22 +3,22 @@ import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: NextRequest) {
   try {
-    const { cpf, email } = await req.json();
+    const body = await req.json();
+    console.log("Tentativa de login enviada:", body); // Isso vai aparecer nos logs da Vercel
 
-    // Aqui você substitui pela URL oficial da API da CEFIS que eles te forneceram
     const response = await fetch("https://api.cefis.com.br/v1/login", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ cpf, email }),
+      body: JSON.stringify(body),
     });
 
     const data = await response.json();
+    console.log("Resposta da API CEFIS:", data); // Isso vai nos dizer o erro real
 
     if (!response.ok) {
-      return NextResponse.json({ error: "Credenciais inválidas ou CPF não encontrado." }, { status: 401 });
+      return NextResponse.json({ error: data.message || "Credenciais inválidas" }, { status: response.status });
     }
 
-    // Retorna os dados do usuário e o token de autenticação
     return NextResponse.json({ success: true, user: data.user, token: data.token });
 
   } catch (error) {
