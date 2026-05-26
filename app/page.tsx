@@ -1,7 +1,28 @@
 // app/page.tsx
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
+
+export default function Home() {
+  const router = useRouter();
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+
+  // Guard de Autenticação: Verifica token no carregamento
+  useEffect(() => {
+    const token = localStorage.getItem("cefis_token");
+    if (!token) {
+      router.push("/login");
+    } else {
+      setIsAuthenticated(true);
+    }
+  }, [router]);
+
+  // Se não estiver autenticado, renderiza um loading invisível ou null enquanto redireciona
+  if (!isAuthenticated) return null;
+
+  // ... rest of your existing component code ...
+}
 
 interface PlanModule {
   id: string;
