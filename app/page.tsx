@@ -56,20 +56,22 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[#0a0f1c] font-sans flex flex-col">
       
-      {/* TOP NAVBAR (Barra Superior com Logo Clicável) */}
+      {/* TOP NAVBAR (Barra Superior com Logo Clicável e Branca) */}
       <nav className="w-full bg-[#0a0f1c] border-b border-slate-800/80 px-6 py-4 flex items-center justify-between shadow-sm">
         <div className="flex items-center gap-6">
           
-          {/* Logo da CEFIS que funciona como botão de voltar ao início */}
-          <a href="/" className="hover:opacity-80 transition-opacity cursor-pointer" title="Voltar ao Início">
-            {/* Certifique-se de que o nome do arquivo da imagem está correto */}
-            <img src="/logo-cefis.png" alt="CEFIS" className="h-8 object-contain" />
+          {/* Logo da CEFIS usando SVG Nativo e Texto Branco (100% à prova de falhas) */}
+          <a href="/" className="flex items-center gap-2 hover:opacity-80 transition-all cursor-pointer group" title="Voltar ao Início">
+            <svg className="w-8 h-8 text-white group-hover:-rotate-3 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path>
+            </svg>
+            <span className="text-2xl font-black text-white tracking-tight">CEFIS</span>
           </a>
           
           <div className="h-6 w-px bg-slate-700"></div> {/* Linha separadora vertical */}
           
           <div className="flex items-center gap-2">
-            <span className="w-2.5 h-2.5 rounded-full bg-blue-600"></span>
+            <span className="w-2.5 h-2.5 rounded-full bg-blue-600 animate-pulse"></span>
             <span className="text-blue-500 font-bold tracking-widest text-sm uppercase">AI Tutor Engine</span>
           </div>
         </div>
@@ -94,7 +96,7 @@ export default function Home() {
               <span className="text-sm hidden md:block text-slate-300">{userEmail}</span>
               <button 
                 onClick={handleLogout}
-                className="text-red-400 text-sm font-bold hover:text-red-300 hover:underline transition-colors"
+                className="text-red-400 text-sm font-bold hover:text-red-300 hover:underline transition-colors cursor-pointer"
               >
                 Sair
               </button>
@@ -123,7 +125,7 @@ export default function Home() {
               <div className="space-y-6 animate-fade-in">
                 <button 
                   onClick={() => setView("list")} 
-                  className="text-blue-400 text-sm hover:text-blue-300 hover:underline mb-4 font-medium flex items-center gap-2 transition-colors"
+                  className="text-blue-400 text-sm hover:text-blue-300 hover:underline mb-4 font-medium flex items-center gap-2 transition-colors cursor-pointer"
                 >
                   ← Voltar para Meus Ambientes
                 </button>
