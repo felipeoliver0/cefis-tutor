@@ -32,14 +32,15 @@ DIRETRIZES OBRIGATÓRIAS PARA SUA RESPOSTA:
         "Authorization": `Bearer ${process.env.GROQ_API_KEY}`, // Certifique-se de que sua chave está no .env
         "Content-Type": "application/json"
       },
-      body: JSON.stringify({
-        model: "llama3-8b-8192", // Trocado para modelo mais estável
-        messages: [
-          { role: "system", content: systemPrompt },
-          { role: "user", content: `Crie meu plano de estudos para: ${subject || 'estudos gerais'}` } // Tratamento para não ser vazio
-        ],
-        temperature: 0.7,
-      }),
+      // Altere o campo model para:
+  body: JSON.stringify({
+    model: "llama-3.3-70b-versatile", // Modelo atualizado e ativo
+    messages: [
+      { role: "system", content: systemPrompt },
+      { role: "user", content: `Crie meu plano de estudos para: ${subject || 'estudos gerais'}` }
+    ],
+    temperature: 0.7,
+  }),
     });
 
     const data = await response.json();
