@@ -32,11 +32,21 @@ export default function Home() {
   }, [router]);
 
   useEffect(() => {
-    if (view === "watched") {
-      const savedWatched = JSON.parse(localStorage.getItem("cefis_watched") || "[]");
-      setWatchedCourses(savedWatched);
-    }
-  }, [view]);
+      const token = localStorage.getItem("cefis_token");
+      
+      // Forçamos a leitura atualizada toda vez que a página carrega
+      const currentName = localStorage.getItem("cefis_user_name") || "Usuário";
+      setUserName(currentName); 
+
+      if (!token) {
+        router.push("/login");
+      } else {
+        setUserEmail(localStorage.getItem("cefis_user_email") || "Usuário");
+        const savedEnvs = localStorage.getItem("cefis_environments");
+        if (savedEnvs) setEnvs(JSON.parse(savedEnvs));
+        setIsReady(true);
+      }
+    }, [router]);
 
   const handleCreateNew = (data: any) => {
     const newEnv: LearningEnvironment = { id: Date.now().toString(), name: data.subject, profile: data };
