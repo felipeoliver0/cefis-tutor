@@ -1,7 +1,7 @@
 // app/api/tutor/route.ts
 import { NextRequest, NextResponse } from "next/server";
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { getRelevantCEFISContext } from "@/app/utils/readCourses";
+import { getRelevantCEFISContext } from "../../utils/readCourses";
 
 const apiKey = process.env.GEMINI_API_KEY || "";
 const genAI = new GoogleGenerativeAI(apiKey);
