@@ -69,9 +69,6 @@ export async function POST(req: NextRequest) {
       `TÍTULO: ${c.title} | RESUMO: ${c.summary}`
     ).join("\n");
 
-    // ==========================================
-    // NOVO PROMPT FOCADO NO EDITAL DO HACKATHON
-    // ==========================================
     const systemPrompt = `Você é um Tutor de IA especialista da CEFIS.
 PERFIL DO ALUNO:
 - Objetivo: ${subject}
@@ -86,8 +83,8 @@ DIRETRIZES OBRIGATÓRIAS (MUITO IMPORTANTE):
 1. Se for a PRIMEIRA mensagem do aluno, você DEVE iniciar sua resposta com o título exato: "🎯 Diagnóstico de Lacunas". Abaixo dele, identifique o que o aluno ainda precisa aprender para atingir seu objetivo.
 2. Em seguida, crie o título "📅 Plano de Estudos" e monte um cronograma adaptado ao tempo disponível (${studyTime}) e ao estilo de aprendizagem (${learningStyle}).
 3. Recomende fortemente os Cursos CEFIS listados acima, explicando como eles se encaixam no plano.
-4. Para as mensagens seguintes (se houver histórico), aja como um professor particular, tirando dúvidas de forma direta, encorajadora e didática.
-5. Formate sempre com Markdown.`;
+4. GERAÇÃO DE MATERIAL (PDF/Apostilas): Se o aluno pedir um PDF, apostila, e-book ou material para baixar, NUNCA diga que você não pode gerar arquivos. Em vez disso, gere o conteúdo textual completo de forma extremamente rica (usando tabelas, listas e seções) e diga: "Aqui está o conteúdo completo da sua apostila. Você pode usar a função Imprimir do seu navegador (Ctrl+P) para salvar esta resposta como PDF."
+5. Para as mensagens seguintes (se houver histórico), aja como um professor particular. Formate tudo sempre com Markdown.`;
 
     const messagesToSend = [{ role: "system", content: systemPrompt }, ...(history || [])];
 
