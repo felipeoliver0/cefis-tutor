@@ -1,98 +1,74 @@
-TypeScript
+// app/page.tsx
 "use client";
+
 import { useEffect, useState } from "react";
-import Onboarding from "@/components/Onboarding";
-import TutorDashboard from "@/components/TutorDashboard"; // Mova seu form antigo para cá
 import { useRouter } from "next/navigation";
 
+// Se você já criou a pasta types/profile.ts, descomente a linha abaixo
+// import { UserProfile } from "@/types/profile";
+
 export default function Home() {
-  const [step, setStep] = useState<"loading" | "login" | "onboarding" | "dashboard">("loading");
-  const [profile, setProfile] = useState(null);
   const router = useRouter();
+  const [step, setStep] = useState<"loading" | "onboarding" | "dashboard">("loading");
+  const [userEmail, setUserEmail] = useState("");
 
   useEffect(() => {
     const token = localStorage.getItem("cefis_token");
-    const storedProfile = localStorage.getItem("cefis_profile");
-    
+    const profile = localStorage.getItem("cefis_profile");
+
     if (!token) {
-      setStep("login");
       router.push("/login");
-    } else if (!storedProfile) {
+    } else if (!profile) {
       setStep("onboarding");
     } else {
-      setProfile(JSON.parse(storedProfile));
+      setUserEmail(localStorage.getItem("cefis_user_email") || "");
       setStep("dashboard");
     }
   }, [router]);
 
   const handleProfileComplete = (data: any) => {
     localStorage.setItem("cefis_profile", JSON.stringify(data));
-    setProfile(data);
     setStep("dashboard");
   };
 
-  if (step === "loading") return null;
-  
-  return (
-    <main>
-      {step === "onboarding" && <Onboarding onComplete={handleProfileComplete} />}
-      {step === "dashboard" && <TutorDashboard profile={profile} />}
-    </main>
-  );
-}
+  if (step === "loading") return <div className="min-h-screen bg-slate-950"></div>;
 
   return (
     <main className="min-h-screen bg-slate-950 p-6 md:p-12 text-slate-200">
       <div className="max-w-6xl mx-auto space-y-10">
         
-        {/* Header com Logout */}
+        {/* Header */}
         <header className="flex justify-between items-center bg-slate-900 p-6 rounded-3xl border border-slate-800">
           <h1 className="text-xl font-bold text-white">AI Tutor Engine // CEFIS</h1>
           <div className="flex items-center gap-4">
             <span className="text-sm">{userEmail}</span>
-            <button onClick={handleLogout} className="text-red-400 text-xs font-bold underline">Sair</button>
+            <button 
+              onClick={() => { localStorage.clear(); router.push("/login"); }}
+              className="text-red-400 text-xs font-bold underline"
+            >
+              Sair
+            </button>
           </div>
         </header>
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          {/* Formulário completo */}
-          <section className="bg-slate-900 p-8 rounded-3xl border border-slate-800 space-y-4">
-            <form onSubmit={handleSubmit} className="space-y-4">
-              <textarea 
-                className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl"
-                placeholder="Qual o seu objetivo de estudo?"
-                onChange={(e) => setFormData({...formData, goal: e.target.value})}
-              />
-              <select className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl" onChange={(e) => setFormData({...formData, experience: e.target.value})}>
-                <option>Iniciante</option>
-                <option>Intermediário</option>
-                <option>Avançado</option>
-              </select>
-              <select className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl" onChange={(e) => setFormData({...formData, timeAvailable: e.target.value})}>
-                <option>15 min/dia</option>
-                <option>30 min/dia</option>
-                <option>1 hora/dia</option>
-              </select>
-              <select className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl" onChange={(e) => setFormData({...formData, learningStyle: e.target.value})}>
-                <option>Visual</option>
-                <option>Prático</option>
-                <option>Teórico</option>
-              </select>
-              <button className="w-full bg-blue-600 py-4 rounded-xl font-bold text-white">
-                {loading ? "Processando..." : "Mapear Trajetória"}
-              </button>
-            </form>
+        {/* Renderização condicional por estado */}
+        {step === "onboarding" ? (
+          <section className="bg-slate-900 p-8 rounded-3xl border border-slate-800">
+            <h2 className="text-2xl font-bold mb-6 text-white">Vamos configurar seu perfil</h2>
+            {/* Aqui entraria o seu componente de Onboarding */}
+            <button 
+              onClick={() => handleProfileComplete({ status: 'completed' })}
+              className="w-full bg-blue-600 py-4 rounded-xl text-white font-bold"
+            >
+              Finalizar Perfil (Simulado)
+            </button>
           </section>
-
-          {/* Resultado */}
-          <section className="bg-slate-900 p-8 rounded-3xl border border-slate-800 min-h-[300px]">
-            {result ? (
-              <pre className="whitespace-pre-wrap font-sans text-sm text-slate-300">{result}</pre>
-            ) : (
-              <p className="text-slate-600 italic text-center mt-20">O diagnóstico da IA aparecerá aqui...</p>
-            )}
+        ) : (
+          <section className="bg-slate-900 p-8 rounded-3xl border border-slate-800 min-h-[400px]">
+            <h2 className="text-2xl font-bold mb-6 text-white">Dashboard do Aluno</h2>
+            <p>Seu plano de estudos personalizado aparecerá aqui.</p>
           </section>
-        </div>
+        )}
       </div>
     </main>
   );
