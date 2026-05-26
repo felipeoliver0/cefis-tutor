@@ -66,9 +66,14 @@ export async function POST(req: NextRequest) {
       courses: simulatedCourses
     });
 
-  } catch (error: unknown) {
-    const errorMessage = error instanceof Error ? error.message : "Erro desconhecido";
-    console.error("Erro na API do Tutor:", errorMessage);
-    return NextResponse.json({ error: "Falha ao gerar o plano de estudos com a IA." }, { status: 500 });
+} catch (error: any) {
+    // Log detalhado no painel de logs da Vercel
+    console.error("ERRO DETALHADO:", error);
+    
+    // Retorna o erro real para a tela para sabermos o motivo (ex: quota, chave inválida, etc)
+    return NextResponse.json(
+      { error: error.message || "Erro desconhecido na API do Gemini" }, 
+      { status: 500 }
+    );
   }
 }
