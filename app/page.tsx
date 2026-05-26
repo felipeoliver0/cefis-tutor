@@ -4,35 +4,35 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 
-interface PlanModule {
-  id: string;
-  title: string;
-  duration: string;
-  lessonTitle: string;
-  lessonId: number;
-  badge: string;
-  isCompleted: boolean;
-}
-
 export default function Home() {
   const router = useRouter();
   const [isAuthenticated, setIsAuthenticated] = useState(false);
-  const [formData, setFormData] = useState({ goal: "", experience: "Iniciante", timeAvailable: "15 minutos por dia", learningStyle: "Visual" });
+  const [userEmail, setUserEmail] = useState("");
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<string | null>(null);
-  const [modules, setModules] = useState<PlanModule[]>([]);
+  
+  // Estado dos campos que sumiram
+  const [formData, setFormData] = useState({ 
+    goal: "", 
+    experience: "Iniciante", 
+    timeAvailable: "15 min/dia", 
+    learningStyle: "Visual" 
+  });
 
-  // Guard de Autenticação
   useEffect(() => {
     const token = localStorage.getItem("cefis_token");
     if (!token) {
       router.push("/login");
     } else {
       setIsAuthenticated(true);
+      setUserEmail(localStorage.getItem("cefis_user_email") || "Usuário");
     }
   }, [router]);
 
-  if (!isAuthenticated) return null;
+  const handleLogout = () => {
+    localStorage.clear();
+    router.push("/login");
+  };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -45,7 +45,6 @@ export default function Home() {
       });
       const data = await response.json();
       setResult(data.tutorResponse);
-      setModules(data.courses || []);
     } catch (err) {
       alert("Erro ao conectar com a IA.");
     } finally {
@@ -53,31 +52,52 @@ export default function Home() {
     }
   };
 
+  if (!isAuthenticated) return null;
+
   return (
     <main className="min-h-screen bg-slate-950 p-6 md:p-12 text-slate-200">
       <div className="max-w-6xl mx-auto space-y-10">
         
-        <header className="bg-gradient-to-r from-slate-900 to-indigo-950 p-8 rounded-3xl border border-indigo-500/20">
-          <h1 className="text-4xl font-extrabold text-white">AI Tutor Engine // CEFIS</h1>
-          <p className="text-slate-400 mt-2">Mapeamento de carreira inteligente.</p>
+        {/* Header com Logout */}
+        <header className="flex justify-between items-center bg-slate-900 p-6 rounded-3xl border border-slate-800">
+          <h1 className="text-xl font-bold text-white">AI Tutor Engine // CEFIS</h1>
+          <div className="flex items-center gap-4">
+            <span className="text-sm">{userEmail}</span>
+            <button onClick={handleLogout} className="text-red-400 text-xs font-bold underline">Sair</button>
+          </div>
         </header>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          {/* Formulário */}
-          <section className="bg-slate-900 p-8 rounded-3xl border border-slate-800">
+          {/* Formulário completo */}
+          <section className="bg-slate-900 p-8 rounded-3xl border border-slate-800 space-y-4">
             <form onSubmit={handleSubmit} className="space-y-4">
-              <textarea
+              <textarea 
                 className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl"
-                placeholder="Qual seu objetivo?"
-                onChange={(e) => setFormData({ ...formData, goal: e.target.value })}
+                placeholder="Qual o seu objetivo de estudo?"
+                onChange={(e) => setFormData({...formData, goal: e.target.value})}
               />
-              <button className="w-full bg-blue-600 py-4 rounded-xl font-bold text-white hover:bg-blue-500">
+              <select className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl" onChange={(e) => setFormData({...formData, experience: e.target.value})}>
+                <option>Iniciante</option>
+                <option>Intermediário</option>
+                <option>Avançado</option>
+              </select>
+              <select className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl" onChange={(e) => setFormData({...formData, timeAvailable: e.target.value})}>
+                <option>15 min/dia</option>
+                <option>30 min/dia</option>
+                <option>1 hora/dia</option>
+              </select>
+              <select className="w-full p-4 bg-slate-950 border border-slate-700 rounded-xl" onChange={(e) => setFormData({...formData, learningStyle: e.target.value})}>
+                <option>Visual</option>
+                <option>Prático</option>
+                <option>Teórico</option>
+              </select>
+              <button className="w-full bg-blue-600 py-4 rounded-xl font-bold text-white">
                 {loading ? "Processando..." : "Mapear Trajetória"}
               </button>
             </form>
           </section>
 
-          {/* Resultado IA */}
+          {/* Resultado */}
           <section className="bg-slate-900 p-8 rounded-3xl border border-slate-800 min-h-[300px]">
             {result ? (
               <pre className="whitespace-pre-wrap font-sans text-sm text-slate-300">{result}</pre>
@@ -86,24 +106,6 @@ export default function Home() {
             )}
           </section>
         </div>
-
-        {/* Vitrine Sincronizada */}
-        {modules.length > 0 && (
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {modules.map((mod) => (
-              <div key={mod.id} className="bg-slate-900 p-6 rounded-2xl border border-slate-800">
-                <h3 className="font-bold text-white">{mod.title}</h3>
-                <p className="text-xs text-slate-500">{mod.lessonTitle}</p>
-                <button 
-                  onClick={() => setModules(prev => prev.map(m => m.id === mod.id ? {...m, isCompleted: !m.isCompleted} : m))}
-                  className={`mt-4 w-full py-2 rounded-lg text-xs font-bold ${mod.isCompleted ? 'bg-emerald-900 text-emerald-300' : 'bg-slate-800'}`}
-                >
-                  {mod.isCompleted ? "✓ Concluído" : "Marcar Concluído"}
-                </button>
-              </div>
-            ))}
-          </div>
-        )}
       </div>
     </main>
   );
