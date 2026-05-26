@@ -2,7 +2,6 @@
 import { useState, useEffect, useRef } from "react";
 import { UserProfile } from "../types/profile";
 
-// Tipagem para as mensagens do chat
 interface Message {
   role: "user" | "assistant";
   content: string;
@@ -22,7 +21,7 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
     chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages, isTyping]);
 
-  // Carregamento Inicial (Gera o plano e busca cursos)
+  // Carregamento Inicial
   useEffect(() => {
     const generateInitialPlan = async () => {
       if (messages.length > 0) return;
@@ -48,7 +47,7 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
     generateInitialPlan();
   }, [profile, messages.length]);
 
-  // Função para enviar nova mensagem
+  // Enviar mensagem
   const handleSendMessage = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!inputValue.trim()) return;
@@ -69,7 +68,6 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
       
       const data = await response.json();
       setMessages([...newHistory, { role: "assistant", content: data.tutorResponse }]);
-      // Atualiza os cursos caso a IA tenha sugerido novos (opcional)
       if (data.recommendedCourses) setCourses(data.recommendedCourses);
     } catch (err) {
       setMessages([...newHistory, { role: "assistant", content: "Ops, falha na conexão." }]);
@@ -88,10 +86,10 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
   }
 
   return (
-    <div className="flex flex-col md:flex-row gap-8">
+    <div className="flex flex-col md:flex-row gap-8 h-[700px]">
       
       {/* LADO ESQUERDO: CHAT */}
-      <div className="flex-1 flex flex-col bg-slate-950 rounded-3xl border border-slate-800 h-[650px] overflow-hidden shadow-xl">
+      <div className="flex-1 flex flex-col bg-slate-950 rounded-3xl border border-slate-800 overflow-hidden shadow-xl">
         <div className="flex-1 overflow-y-auto p-6 space-y-6">
           {messages.map((msg, idx) => (
             <div key={idx} className={`flex ${msg.role === "user" ? "justify-end" : "justify-start"}`}>
@@ -101,7 +99,7 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
             </div>
           ))}
           {isTyping && (
-            <div className="flex justify-start"><div className="bg-slate-800 text-slate-200 p-5 rounded-2xl rounded-bl-sm">Tutor digitando...</div></div>
+            <div className="flex justify-start"><div className="bg-slate-800 text-slate-200 p-5 rounded-2xl rounded-bl-sm animate-pulse">Tutor digitando...</div></div>
           )}
           <div ref={chatEndRef} />
         </div>
@@ -110,22 +108,23 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
           <input 
             value={inputValue}
             onChange={(e) => setInputValue(e.target.value)}
-            className="flex-1 bg-slate-950 border border-slate-700 rounded-xl px-4 py-3 text-white outline-none"
+            className="flex-1 bg-slate-950 border border-slate-700 rounded-xl px-4 py-3 text-white outline-none focus:border-blue-500"
             placeholder="Pergunte ao seu tutor..."
           />
-          <button type="submit" className="bg-blue-600 px-6 py-3 rounded-xl font-bold text-white">Enviar</button>
+          <button type="submit" className="bg-blue-600 hover:bg-blue-500 px-6 py-3 rounded-xl font-bold text-white transition-all">Enviar</button>
         </form>
       </div>
 
-      {/* LADO DIREITO: CURSOS COM PLAYER DE VÍDEO E LEGENDA */}
+      {/* LADO DIREITO: CURSOS E VÍDEOS */}
       {courses.length > 0 && (
-        <div className="w-full md:w-96 space-y-6 overflow-y-auto max-h-[650px] pr-2">
+        <div className="w-full md:w-96 space-y-6 overflow-y-auto max-h-[700px] pr-2">
           <h3 className="text-lg font-bold text-white">Materiais CEFIS</h3>
           {courses.map((course) => (
             <div key={course.id} className="bg-slate-900 rounded-2xl overflow-hidden border border-slate-700 shadow-lg">
-              {/* VIDEO PLAYER NATIVO COM LEGENDA */}
+              
+              {/* VIDEO COM LEGENDAS */}
               {course.firstLessonVideo && (
-                <div className="relative bg-black">
+                <div className="relative bg-black group">
                   <video 
                     controls 
                     className="w-full aspect-video"
@@ -142,11 +141,20 @@ export default function TutorDashboard({ profile }: { profile: UserProfile }) {
                       />
                     )}
                   </video>
+                  
+                  {/* Badge de Legenda */}
+                  <div className="absolute top-2 right-2">
+                    {course.subtitlePath ? (
+                      <span className="bg-green-600/90 text-[10px] text-white px-2 py-1 rounded-full font-bold">CC</span>
+                    ) : (
+                      <span className="bg-slate-700/90 text-[10px] text-slate-300 px-2 py-1 rounded-full font-bold">SEM LEGENDAS</span>
+                    )}
+                  </div>
                 </div>
               )}
               
               <div className="p-4">
-                <h4 className="font-bold text-white mb-2">{course.title}</h4>
+                <h4 className="font-bold text-white mb-2 line-clamp-1">{course.title}</h4>
                 <p className="text-xs text-slate-400 mb-2 line-clamp-2">{course.summary}</p>
               </div>
             </div>
