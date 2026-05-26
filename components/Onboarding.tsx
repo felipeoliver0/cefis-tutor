@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
-import { UserProfile } from "@/types/profile";
+// O '../' significa: "saia da pasta 'components' e entre na pasta 'types'"
+import { UserProfile } from "../types/profile";
 
 export default function OnboardingForm({ onComplete }: { onComplete: (data: UserProfile) => void }) {
   const [formData, setFormData] = useState<UserProfile>({
