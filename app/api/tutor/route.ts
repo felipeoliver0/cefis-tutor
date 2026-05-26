@@ -1,4 +1,4 @@
-// app/api/tutor/route.ts (DEBUG MODE)
+// app/api/tutor/route.ts
 import { NextRequest, NextResponse } from "next/server";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
@@ -7,16 +7,22 @@ export async function POST(req: NextRequest) {
     const apiKey = process.env.GEMINI_API_KEY || "";
     const genAI = new GoogleGenerativeAI(apiKey);
 
-    // Listar modelos disponíveis para diagnóstico
-    const models = await genAI.listModels();
-    console.log("MODELOS DISPONÍVEIS NA SUA CONTA:", JSON.stringify(models.models, null, 2));
+    // Tentativa direta com o modelo base. O SDK vai injetar o 'v1' automaticamente.
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
+    const result = await model.generateContent("Diga 'Olá mundo'");
+    const response = await result.response;
+    
     return NextResponse.json({ 
-      debug: "Verifique os logs da Vercel no painel para ver a lista de modelos disponíveis." 
+      success: true, 
+      message: response.text() 
     });
 
   } catch (error: any) {
-    console.error("ERRO DE DIAGNÓSTICO:", error);
-    return NextResponse.json({ error: error.message }, { status: 500 });
+    // Isso vai capturar o erro REAL e retornar para a tela para nós
+    return NextResponse.json({ 
+      error: error.message,
+      stack: error.stack 
+    }, { status: 500 });
   }
 }
