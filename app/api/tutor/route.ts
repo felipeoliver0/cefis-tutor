@@ -12,7 +12,6 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "API Key não configurada" }, { status: 500 });
     }
 
-    // Caminho da pasta de cursos
     const coursesDir = path.join(process.cwd(), 'courses', 'output');
     let allCourses: any[] = [];
 
@@ -33,15 +32,12 @@ export async function POST(req: NextRequest) {
               const parsed = JSON.parse(fileData);
               const courseData = parsed.data || parsed;
               
-              // Busca vídeo e legenda na pasta lessons/
               const lessonsDir = path.join(coursePath, 'lessons');
               if (fs.existsSync(lessonsDir)) {
                 const lessonFolders = fs.readdirSync(lessonsDir);
                 if (lessonFolders.length > 0) {
-                  const lessonId = lessonFolders[0]; // Pega a primeira aula
-                  const lessonPath = path.join(lessonsDir, lessonId);
+                  const lessonPath = path.join(lessonsDir, lessonFolders[0]);
                   
-                  // Pega details.json da aula
                   const lessonDetailPath = path.join(lessonPath, 'details.json');
                   if (fs.existsSync(lessonDetailPath)) {
                     const lessonData = JSON.parse(fs.readFileSync(lessonDetailPath, 'utf-8'));
@@ -50,7 +46,6 @@ export async function POST(req: NextRequest) {
                     if (hdSource) courseData.firstLessonVideo = hdSource.link_secure;
                   }
 
-                  // Pega arquivo de legenda .vtt
                   const filesInLesson = fs.readdirSync(lessonPath);
                   const vttFile = filesInLesson.find(f => f.endsWith('.vtt'));
                   if (vttFile) courseData.subtitlePath = path.join(lessonPath, vttFile);
@@ -74,10 +69,25 @@ export async function POST(req: NextRequest) {
       `TÍTULO: ${c.title} | RESUMO: ${c.summary}`
     ).join("\n");
 
+    // ==========================================
+    // NOVO PROMPT FOCADO NO EDITAL DO HACKATHON
+    // ==========================================
     const systemPrompt = `Você é um Tutor de IA especialista da CEFIS.
-PERFIL: ${subject}, ${age} anos, Estilo: ${learningStyle}, Tempo: ${studyTime}.
-CURSOS CEFIS RELEVANTES: ${coursesPromptInfo || "Nenhum curso específico encontrado."}
-DIRETRIZES: Responda como um professor particular, recomende os cursos acima se relevantes e mantenha um histórico de conversa útil.`;
+PERFIL DO ALUNO:
+- Objetivo: ${subject}
+- Idade: ${age} anos
+- Estilo: ${learningStyle}
+- Tempo Diário: ${studyTime}
+
+CURSOS CEFIS RELEVANTES ENCONTRADOS NO CATÁLOGO:
+${coursesPromptInfo || "Nenhum curso específico encontrado."}
+
+DIRETRIZES OBRIGATÓRIAS (MUITO IMPORTANTE):
+1. Se for a PRIMEIRA mensagem do aluno, você DEVE iniciar sua resposta com o título exato: "🎯 Diagnóstico de Lacunas". Abaixo dele, identifique o que o aluno ainda precisa aprender para atingir seu objetivo.
+2. Em seguida, crie o título "📅 Plano de Estudos" e monte um cronograma adaptado ao tempo disponível (${studyTime}) e ao estilo de aprendizagem (${learningStyle}).
+3. Recomende fortemente os Cursos CEFIS listados acima, explicando como eles se encaixam no plano.
+4. Para as mensagens seguintes (se houver histórico), aja como um professor particular, tirando dúvidas de forma direta, encorajadora e didática.
+5. Formate sempre com Markdown.`;
 
     const messagesToSend = [{ role: "system", content: systemPrompt }, ...(history || [])];
 
