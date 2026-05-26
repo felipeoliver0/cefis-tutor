@@ -67,7 +67,7 @@ export default function Home() {
           <div className="flex items-center gap-4">
             <h1 className="text-xl font-bold text-white flex items-center gap-2">
               <span className="w-3 h-3 rounded-full bg-blue-500 animate-pulse"></span>
-              AI Tutor Engine // CEFIS
+              AI Tutor // CEFIS
             </h1>
           </div>
           <div className="flex items-center gap-4">

@@ -7,7 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AI Tutor Engine | CEFIS",
+  title: "AI Tutor | CEFIS",
   description: "Hackathon de Inovação em Aprendizado CEFIS",
 };
 
