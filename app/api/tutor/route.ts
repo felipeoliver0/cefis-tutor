@@ -19,7 +19,6 @@ export async function POST(req: NextRequest) {
     const cefisContext = getRelevantCEFISContext(goal);
 
     const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-
     const prompt = `
       Você é um tutor de aprendizado de inteligência artificial da plataforma CEFIS.
       Gere um diagnóstico curto das lacunas do aluno e um plano estruturado para o perfil abaixo:
