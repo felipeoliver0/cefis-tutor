@@ -43,8 +43,8 @@ export async function POST(req: NextRequest) {
     // Mapeamento dinâmico para simular ou vincular o card na vitrine
     const isComms = goal.toLowerCase().includes("comunica") || goal.toLowerCase().includes("corporativ");
     
-    // Salva o histórico completo da Trilha gerada no Banco de Dados Postgres (Requisito do Sistema)
-    const savedPlan = await prisma.studyPlan.create({
+    // Salva o histórico completo da Trilha gerada no Banco de Dados Postgres (Usando cast 'as any' para ignorar o TS local enquanto o npx roda)
+    const savedPlan = await (prisma as any).studyPlan.create({
       data: {
         goal,
         experience,
@@ -81,8 +81,9 @@ export async function POST(req: NextRequest) {
       planId: savedPlan.id
     });
 
-  } catch (error: any) {
-    console.error("Erro na API do Tutor:", error);
+  } catch (error: unknown) {
+    const errorMessage = error instanceof Error ? error.message : "Erro desconhecido";
+    console.error("Erro na API do Tutor:", errorMessage);
     return NextResponse.json({ error: "Falha ao gerar e salvar o plano de estudos." }, { status: 500 });
   }
 }

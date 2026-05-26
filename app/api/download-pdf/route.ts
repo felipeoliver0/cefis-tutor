@@ -4,6 +4,18 @@ import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
+// Interface para garantir a tipagem do m e do i no map, limpando o erro do TS
+interface UIPlanModule {
+  id: string;
+  studyPlanId: string;
+  title: string;
+  duration: string;
+  lessonTitle: string;
+  lessonId: number;
+  badge: string;
+  isCompleted: boolean;
+}
+
 export async function GET(req: NextRequest) {
   try {
     const { searchParams } = new URL(req.url);
@@ -13,7 +25,8 @@ export async function GET(req: NextRequest) {
       return NextResponse.json({ error: "ID do plano ausente." }, { status: 400 });
     }
 
-    const plan = await prisma.studyPlan.findUnique({
+    // Usando cast 'as any' temporário para o TypeScript aceitar a chamada antes do npx prisma generate rodar 100% local
+    const plan = await (prisma as any).studyPlan.findUnique({
       where: { id: planId },
       include: { modules: true }
     });
@@ -41,7 +54,7 @@ ${plan.diagnostic}
 ------------------------------------------------------
 CRONOGRAMA DE AULAS SINCRONIZADAS CEFIS:
 ------------------------------------------------------
-${plan.modules.map((m, i) => `${i+1}. ${m.title}\n   Aula: ${m.lessonTitle} (ID: #${m.lessonId})\n   Status: [ ] Não Concluído`).join("\n")}
+${plan.modules.map((m: UIPlanModule, i: number) => `${i+1}. ${m.title}\n   Aula: ${m.lessonTitle} (ID: #${m.lessonId})\n   Status: [ ] Não Concluído`).join("\n")}
 
 ======================================================
    Foco nos resultados. Bons estudos! // CEFIS 2026   
