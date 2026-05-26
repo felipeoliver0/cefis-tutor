@@ -42,4 +42,4 @@ export default function EnvironmentManager({ onSelect }: { onSelect: (env: Learn
       </div>
     </div>
   );
-}
+}   
